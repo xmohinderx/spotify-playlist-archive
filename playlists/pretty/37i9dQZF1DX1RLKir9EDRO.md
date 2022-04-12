@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Dozi Ozovski Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,531 likes - 89 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,532 likes - 89 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

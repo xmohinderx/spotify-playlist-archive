@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: PURPLE KISS \(퍼플키스\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,113 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,151 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 39 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 |
 | 40 | [I Love You](https://open.spotify.com/track/7n2HVHWqFsyAOs5HqmE1Dl) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [I Love You](https://open.spotify.com/album/0BePiDVdS09GVoBe30WMAd) | 3:14 |
 
-Snapshot ID: `MTY0OTcyNTMwNywwMDAwMDAwMGI2M2VjMDJjMGJkODI4NjI3N2I3OTQwMzA0NTM1MjU5`
+Snapshot ID: `MTY0OTczNzU1OCwwMDAwMDAwMGI2M2VjMDJjMGJkODI4NjI3N2I3OTQwMzA0NTM1MjU5`

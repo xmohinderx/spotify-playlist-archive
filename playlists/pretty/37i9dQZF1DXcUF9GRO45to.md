@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,890 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,892 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 74 | [Death Sound](https://open.spotify.com/track/0BFNt26WzWcIkVyn6yPPD5) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Death Sound](https://open.spotify.com/album/59WBiX12rBMJkVXpStVGWe) | 4:03 |
 | 75 | [Chevalier Bulltoe](https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Home Alone](https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U) | 3:32 |
 
-Snapshot ID: `MTY0OTcyNTMzNiwwMDAwMDAwMGY2ZDcwZjhmMjI0NmU4NTQ3NjIwYjkwMDc4YWQ0ZDBj`
+Snapshot ID: `MTY0OTczNzU4MSwwMDAwMDAwMGY2ZDcwZjhmMjI0NmU4NTQ3NjIwYjkwMDc4YWQ0ZDBj`

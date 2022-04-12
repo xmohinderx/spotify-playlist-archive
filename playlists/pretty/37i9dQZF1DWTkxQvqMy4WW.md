@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,874,632 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,874,793 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 79 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
 | 80 | [Head Over Boots](https://open.spotify.com/track/1R9FxlRkvKtt36dtTHs93X) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Head Over Boots](https://open.spotify.com/album/1I9915YiaRIKbVZM8Zkueh) | 3:25 |
 
-Snapshot ID: `MTY0OTcyNDcwMiwwMDAwMDAwMDZhODM1ZjI1NzU2ZjU0MTNjNGY0YjI4NmY1MzE3MmQ1`
+Snapshot ID: `MTY0OTczNzA3NywwMDAwMDAwMDZhODM1ZjI1NzU2ZjU0MTNjNGY0YjI4NmY1MzE3MmQ1`

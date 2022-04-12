@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,489 likes - 150 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,562 likes - 150 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
 | 150 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
 
-Snapshot ID: `MTY0OTcyNDY5MSwwMDAwMDAwMDcyZmY0YmU3MzJhMTQxZDJmYmM3ZjYwOGUyZTRiZGU0`
+Snapshot ID: `MTY0OTczNzA2OSwwMDAwMDAwMDcyZmY0YmU3MzJhMTQxZDJmYmM3ZjYwOGUyZTRiZGU0`

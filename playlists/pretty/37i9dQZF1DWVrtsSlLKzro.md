@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,038 likes - 138 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,093 likes - 138 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 137 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 |
 | 138 | [Shipwreck](https://open.spotify.com/track/06AuNyqPNwKBvZ7a0G6rZP) | [Otherwise Fine](https://open.spotify.com/artist/0n255T84TbJje4U9RcKHGP), [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Shipwreck](https://open.spotify.com/album/7snKIaGE7juwYtQjIQQe87) | 2:56 |
 
-Snapshot ID: `MTY0OTcyNDc2OCwwMDAwMDAwMDc5NTMyODZkYzg5NmNiYzhmMGYxMTNkNGE4NDg3MzNl`
+Snapshot ID: `MTY0OTczNzEyOSwwMDAwMDAwMDc5NTMyODZkYzg5NmNiYzhmMGYxMTNkNGE4NDg3MzNl`

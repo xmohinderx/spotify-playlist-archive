@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,407 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,434 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 49 | [Because Of You](https://open.spotify.com/track/2bHolL4D662FmrebKPp1qO) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/5cWMjZcZwARnijnPG2Qx4T) | 5:16 |
 | 50 | [Exhale](https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3) | [Patrick Bradley](https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck) | [Exhale](https://open.spotify.com/album/5n354scG66QIxDi8Y2u269) | 4:32 |
 
-Snapshot ID: `MTY0OTcyNTM4NSwwMDAwMDAwMDU5MTJlMWY1YzhmN2MwODFmYjVkYjhlOTcwODIzNTRl`
+Snapshot ID: `MTY0OTczNzYyMywwMDAwMDAwMDU5MTJlMWY1YzhmN2MwODFmYjVkYjhlOTcwODIzNTRl`

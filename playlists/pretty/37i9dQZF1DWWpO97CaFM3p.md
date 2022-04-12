@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > Songs for when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,505 likes - 125 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,590 likes - 125 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 124 | [Lean On](https://open.spotify.com/track/2I5Yb8UmvmRBA1XB8Boicy) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Waiting For The Sun To Leave](https://open.spotify.com/album/1XmD1ybOY7Z5PVmX5fFKmA) | 3:30 |
 | 125 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
 
-Snapshot ID: `MTY0OTcyNDgwMywwMDAwMDAwMDEyOTBkYjU3NTgxNjc2OTJkY2Y1MmZlZDZjMmYyNzkx`
+Snapshot ID: `MTY0OTczNzE1NSwwMDAwMDAwMDEyOTBkYjU3NTgxNjc2OTJkY2Y1MmZlZDZjMmYyNzkx`

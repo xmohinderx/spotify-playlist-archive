@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,139 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,150 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Pale Blue Dot](https://open.spotify.com/track/3XdZ6UZGEDXvqAbbCMzzQ7) | [Casually Here](https://open.spotify.com/artist/6Uzy6y5KKy3F4G5NdKeiUd) | [Pale Blue Dot](https://open.spotify.com/album/6SG5pCBqro08A8gBpX5rv2) | 4:25 |
 | 100 | [Shruti](https://open.spotify.com/track/0TgfYjPVPGuWIa3VURQsDL) | [Lobo Lawen](https://open.spotify.com/artist/6T5fcQ6WFoV1IjfcdU7hAJ) | [Shruti](https://open.spotify.com/album/3SaojN7o1djtTr1W3uXM1Q) | 4:51 |
 
-Snapshot ID: `MTY0OTcyNDc1NCwwMDAwMDAwMGYwMWJlZGY1ZDM2N2I0NTQ1YWU2NzQyYjQ4ZjU5YjJh`
+Snapshot ID: `MTY0OTczNzExOCwwMDAwMDAwMGYwMWJlZGY1ZDM2N2I0NTQ1YWU2NzQyYjQ4ZjU5YjJh`

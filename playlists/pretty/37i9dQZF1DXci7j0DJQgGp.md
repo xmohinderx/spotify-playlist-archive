@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,797,276 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797,296 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 |
 | 100 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
 
-Snapshot ID: `MTY0OTcyNTM0NiwwMDAwMDAwMDc2YTk2NWY3NjNjZWM2OWNlOTBiNWE2MGNjMGQ1YWZk`
+Snapshot ID: `MTY0OTczNzU4OSwwMDAwMDAwMDc2YTk2NWY3NjNjZWM2OWNlOTBiNWE2MGNjMGQ1YWZk`

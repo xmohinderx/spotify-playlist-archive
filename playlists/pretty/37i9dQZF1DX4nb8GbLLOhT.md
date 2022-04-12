@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Omar Apollo, Brandi Carlile, and Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,338 likes - 115 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,340 likes - 115 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 114 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/4oU2j4VgtKXkYAM8xg6lrU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Spotify Singles](https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4) | 3:26 |
 | 115 | [Midnight Rider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/01CoJ5SrLd5V9nm9oD3b1m) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Spotify Singles](https://open.spotify.com/album/4NTdUxS1Zb6eQNF8qZlXmK) | 3:21 |
 
-Snapshot ID: `MTY0OTcyNTA3OCwwMDAwMDAwMDYzNTZiZWY1M2M5ZjliMGUzZDM4ZTJjZDZkZGQ0YjMz`
+Snapshot ID: `MTY0OTczNzM3NSwwMDAwMDAwMDYzNTZiZWY1M2M5ZjliMGUzZDM4ZTJjZDZkZGQ0YjMz`

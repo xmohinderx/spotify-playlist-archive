@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Top Afro Bashment, Pop, Fusion / X\-Overs from all across the world\.  Cover: <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=H\-Ew\-4PIRuew9036qjyqTQ">Omah Lay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,669 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,692 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 98 | [Oh My](https://open.spotify.com/track/6DaBr6zT7hlxNchzYVgPds) | [Lavaud](https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Oh My](https://open.spotify.com/album/2mbb9MnwW8onuP9RbJ0ujJ) | 3:03 |
 | 99 | [Curious \(feat\. Jimi Tents & Garren\)](https://open.spotify.com/track/5ELIl3vnSY0mF7jpf7lyhC) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Jimi Tents](https://open.spotify.com/artist/1KW04GdOuzrsTVOAVd6eRg), [Garren](https://open.spotify.com/artist/0963LEoOeEvJqPRYH9eG7X) | [Curious \(feat\. Jimi Tents & Garren\)](https://open.spotify.com/album/6lpJujucgwCYj9fw15Gmsc) | 4:10 |
 
-Snapshot ID: `MTY0OTcyNDY3NSwwMDAwMDAwMGQ1OGE4MWU3NTNiNWVjYWQ3NzU5YmEwNmJjNTI2YjRk`
+Snapshot ID: `MTY0OTczNzA1NywwMDAwMDAwMGQ1OGE4MWU3NTNiNWVjYWQ3NzU5YmEwNmJjNTI2YjRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,534 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,546 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Lowell](https://open.spotify.com/track/308taPCrUlttzRJi7crHwy) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [The Line](https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU) | 4:40 |
 | 50 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 |
 
-Snapshot ID: `MTY0OTcyNTIzOCwwMDAwMDAwMDE2NDAzOWRiMGRiODVlZTEwYWFiNTAzMjA0MjhmNmE3`
+Snapshot ID: `MTY0OTczNzUwMCwwMDAwMDAwMDE2NDAzOWRiMGRiODVlZTEwYWFiNTAzMjA0MjhmNmE3`

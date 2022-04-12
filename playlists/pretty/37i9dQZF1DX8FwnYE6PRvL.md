@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 
 > The ultimate rock party playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,034,814 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,034,832 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 79 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
 | 80 | [Machinehead](https://open.spotify.com/track/1Z5LCXu5Ca3sHAy6OdUrBT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/72X9bb0R8LXGnVHZ3O40OK) | 4:16 |
 
-Snapshot ID: `MTY0OTcyNTE5OSwwMDAwMDAwMDRjZGE5ZTBjNjcwMjJlNjRiYzk2NjgxYTVlMzFjNDBk`
+Snapshot ID: `MTY0OTczNzQ2OSwwMDAwMDAwMDRjZGE5ZTBjNjcwMjJlNjRiYzk2NjgxYTVlMzFjNDBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > teto de viagem marcada só com a ida 🧀💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,115 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,276 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 49 | [Se Liga](https://open.spotify.com/track/5ETcXyXWTr9HlRIqpxKdxq) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Lágrimas do Tubarão "Contos e Fatos"](https://open.spotify.com/album/4s1ThdjkZTWKLX38Q41D5Z) | 5:10 |
 | 50 | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF) | 3:18 |
 
-Snapshot ID: `MTY0OTcyNTE4MiwwMDAwMDAwMDRkYjY3NmM4NjVhMTNiZGMxZWYwOWY3ODliZjkzMzk0`
+Snapshot ID: `MTY0OTczNzQ1NiwwMDAwMDAwMDRkYjY3NmM4NjVhMTNiZGMxZWYwOWY3ODliZjkzMzk0`

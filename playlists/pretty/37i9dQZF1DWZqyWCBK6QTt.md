@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zoe Wees, YUNGBLUD, and FLETCHER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,587 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,597 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Drone Bomb Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0yQUNTyGO1HHMvXY3TZh7t) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ) | 3:52 |
 | 150 | [You and Your Folks, Me and My Folks \- Recorded at East West Studios](https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 4:12 |
 
-Snapshot ID: `MTY0OTcyNDkwMiwwMDAwMDAwMGNiNTZiOGIyN2MyZDFlMjY3YzU2ZGNmZDRiYzU1MDlj`
+Snapshot ID: `MTY0OTczNzIzNCwwMDAwMDAwMGNiNTZiOGIyN2MyZDFlMjY3YzU2ZGNmZDRiYzU1MDlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,914 likes - 79 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,928 likes - 79 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 78 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 |
 | 79 | [No Long Grass](https://open.spotify.com/track/78IzjV6We03PL9q6L1El3r) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [No Long Grass](https://open.spotify.com/album/3aMbKGq1gY7ko5DBcpgiWk) | 3:04 |
 
-Snapshot ID: `MTY0OTcyNTMxMSwwMDAwMDAwMDA0ZGE2MDAzMWRiYjI3ZWY2MGQ5ODZiZTczN2U3YzZi`
+Snapshot ID: `MTY0OTczNzU2MSwwMDAwMDAwMDA0ZGE2MDAzMWRiYjI3ZWY2MGQ5ODZiZTczN2U3YzZi`

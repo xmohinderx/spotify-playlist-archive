@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,408,857 likes - 120 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,408,931 likes - 120 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 119 | [Scars That I'm Hiding \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0UOtF2ojhKGYEjvZ28ZA6d) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Scars That I'm Hiding \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/album/3ktq0tDEeyn6FIdVyJvw87) | 2:55 |
 | 120 | [Alone In A Room](https://open.spotify.com/track/0hAIs32U2SmJcXymlcyF8h) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/0dYHTESEegNj0dkIFGWy2d) | 4:05 |
 
-Snapshot ID: `MTY0OTcyNTM5MCwwMDAwMDAwMGU1OGE0NTc0OTY4MmI0NDNkMDVhODA3MDk5NDZmNjZm`
+Snapshot ID: `MTY0OTczNzYyNywwMDAwMDAwMGU1OGE0NTc0OTY4MmI0NDNkMDVhODA3MDk5NDZmNjZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,737 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,780 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 100 | [Ever Again](https://open.spotify.com/track/2E5e4J3nm1LMHkqTS21Dlq) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:24 |
 
-Snapshot ID: `MTY0OTcyNTIyNSwwMDAwMDAwMGRkYWJjOWEyYzRmZDNiYmE0YTgyYzc1YTlmOTE0Nzk5`
+Snapshot ID: `MTY0OTczNzQ5MCwwMDAwMDAwMGRkYWJjOWEyYzRmZDNiYmE0YTgyYzc1YTlmOTE0Nzk5`

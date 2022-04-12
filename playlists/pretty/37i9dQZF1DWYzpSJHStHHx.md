@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Sunny tracks from Mac DeMarco, The Beach Boys, and everyone in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,781 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,804 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 79 | [Poor Relations](https://open.spotify.com/track/2OPmmqhPLBbHoHwtzOsUnl) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Poor Relations](https://open.spotify.com/album/52XthHFl0TIgAikopVpv1g) | 4:21 |
 | 80 | [cool enough](https://open.spotify.com/track/4nuufyyd7Dn6DMuG96RYTQ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cool enough](https://open.spotify.com/album/4LzdBLavKnpsJvMnu4reIe) | 3:15 |
 
-Snapshot ID: `MTY0OTcyNDg3NSwwMDAwMDAwMGQ0MDE5NDNkZDZmZDkwYjllMjM2NWZkNjFlY2IxYTk0`
+Snapshot ID: `MTY0OTczNzIxMywwMDAwMDAwMGQ0MDE5NDNkZDZmZDkwYjllMjM2NWZkNjFlY2IxYTk0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > Top tracks that gamers love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,243,395 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,243,696 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 99 | [MARCELINE](https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [MARCELINE](https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf) | 2:35 |
 | 100 | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \- from GRAN TURISMO 7](https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d) | [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \(from GRAN TURISMO 7\)](https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay) | 3:57 |
 
-Snapshot ID: `MTY0OTcyNDcwOCwwMDAwMDAwMDQ2ZTAwM2VlMTM0ZjM0YTExZjIzMmIyZmYwN2Q5M2U0`
+Snapshot ID: `MTY0OTczNzA4MiwwMDAwMDAwMDQ2ZTAwM2VlMTM0ZjM0YTExZjIzMmIyZmYwN2Q5M2U0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,154 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,165 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Growing up Monsters](https://open.spotify.com/track/3IeYXAKmLoRotJ5zJX73y6) | [Toxic Zombie](https://open.spotify.com/artist/6hSmJaHviUicWQYtRVApJ0) | [Going Viral](https://open.spotify.com/album/0rpJl9yw57Ly0cq3m0Wey1) | 3:30 |
 | 50 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
 
-Snapshot ID: `MTY0OTcyNTI5NSwwMDAwMDAwMGE3MzI0OTNhMWVkYmJiN2I2ZDBkODg3NWM1NzYwMWY3`
+Snapshot ID: `MTY0OTczNzU0OCwwMDAwMDAwMGE3MzI0OTNhMWVkYmJiN2I2ZDBkODg3NWM1NzYwMWY3`

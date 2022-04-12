@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,261 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,266 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [Maybelle](https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 2:19 |
 | 100 | [Merlefest Mando Mania \[with Rebecca Lovell, Mike Compton, Darin Aldridge, Tim O'brien, James Nash, Tom Rozum & Barry Mitterhoff\]](https://open.spotify.com/track/1lTl8P56SC9cRpfRO560NG) | [Tony Williamson](https://open.spotify.com/artist/2Nd4cuKxz3Q5Q1blscu5a7), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB), [Rebecca Lovell](https://open.spotify.com/artist/0fhPeJjT7ljxwvIKNoENmz), [Mike Compton](https://open.spotify.com/artist/6LZ6w8r6v69UrAhYklRG74), [Darin Aldridge](https://open.spotify.com/artist/2yWvvGKxD78SxlDfVvxVtY), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM), [James Nash](https://open.spotify.com/artist/2hVskJKw98JKtXmKpQoeqe), [Tom Rozum](https://open.spotify.com/artist/1AN0S7cLQLZqOO5jE5hrw8), [Barry Mitterhoff](https://open.spotify.com/artist/17q5WcGeYUzNurDqRUyWfb) | [Heritage](https://open.spotify.com/album/0vxZVlVQtJpcROPZK6m8Ya) | 2:40 |
 
-Snapshot ID: `MTY0OTcyNTI1OSwwMDAwMDAwMGFkZGYzYTE4MjlhYzgwMjhmOGRkNDA1ZTAxMGQzNDM5`
+Snapshot ID: `MTY0OTczNzUxOSwwMDAwMDAwMGFkZGYzYTE4MjlhYzgwMjhmOGRkNDA1ZTAxMGQzNDM5`

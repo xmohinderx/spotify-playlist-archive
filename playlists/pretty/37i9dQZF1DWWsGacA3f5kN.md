@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsGacA3f5kN.md) - [plain]
 
 > Songs from the 80s that made you sing and dance all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,288 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,290 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsGacA3f5kN.md) - [plain]
 | 79 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [Frantic Romantic](https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX) | 4:53 |
 | 80 | [Frankie](https://open.spotify.com/track/6th7K3C0mmxk5AlT4x4oro) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [When the Boys Meet the Girls](https://open.spotify.com/album/5F9uSIEb2uKL2IQybfuBlQ) | 4:17 |
 
-Snapshot ID: `MTY0OTcyNDgwNSwwMDAwMDAwMGY2NTJiNzg4MmJkNTFmNGFjZTBhODA2MzYzZDBhNzE1`
+Snapshot ID: `MTY0OTczNzE1NywwMDAwMDAwMGY2NTJiNzg4MmJkNTFmNGFjZTBhODA2MzYzZDBhNzE1`

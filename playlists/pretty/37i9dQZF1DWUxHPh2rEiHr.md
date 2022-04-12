@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > The sound of a new era\. Discover rhythmic crossover hits from cultures around the world! Cover: El Alfa, French Montana, Braulio Fogon, Kaly Ocho
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,272 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,284 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 79 | [Pure \(feat\. ELIO\)](https://open.spotify.com/track/1iGHIWpid7uDKaFRMD4VjI) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Pure \(feat\. ELIO\)](https://open.spotify.com/album/3Z6iF8pAbvMvwQM2m4DpZB) | 2:42 |
 | 80 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 |
 
-Snapshot ID: `MTY0OTcyNDczNywwMDAwMDAwMDllMGYyZWRmZTQxOTVhN2VlZjcwMjUzOTEwZjhlMDI1`
+Snapshot ID: `MTY0OTczNzEwNSwwMDAwMDAwMDllMGYyZWRmZTQxOTVhN2VlZjcwMjUzOTEwZjhlMDI1`

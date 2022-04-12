@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in jazz history\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,502,604 likes - 200 songs - 18 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,502,759 likes - 200 songs - 18 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 199 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 |
 | 200 | [Four Brothers](https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 2:58 |
 
-Snapshot ID: `MTY0OTcyNTMwMywwMDAwMDAwMDA5NDJiZGVhODk4MWNjNWNiMWRkMjc3ZWM4ZWJiNDkz`
+Snapshot ID: `MTY0OTczNzU1NCwwMDAwMDAwMDA5NDJiZGVhODk4MWNjNWNiMWRkMjc3ZWM4ZWJiNDkz`

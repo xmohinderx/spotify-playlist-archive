@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Aldous Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,074 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,081 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 150 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 |
 
-Snapshot ID: `MTY0OTcyNDk4NiwwMDAwMDAwMDFlZGY2MmZlNWNkNDM5MmUwMGY2ZDcxNGZmZWQ1MWRk`
+Snapshot ID: `MTY0OTczNzMwNiwwMDAwMDAwMDFlZGY2MmZlNWNkNDM5MmUwMGY2ZDcxNGZmZWQ1MWRk`

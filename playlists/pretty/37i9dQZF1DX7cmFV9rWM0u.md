@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.Dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,821,651 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,821,657 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 64 | [Poderosa](https://open.spotify.com/track/1Hs0fpydWBjawdgCocPaC7) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Poderosa](https://open.spotify.com/album/2uHtmuxFlU05JMjiM5EsjQ) | 3:42 |
 | 65 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
 
-Snapshot ID: `MTY0OTcyNTE4MSwwMDAwMDAwMDA1ZjMxYzY2Y2EyZjBlMDExMDg1NzM3ODUyNzRiYTlm`
+Snapshot ID: `MTY0OTczNzQ1NSwwMDAwMDAwMDA1ZjMxYzY2Y2EyZjBlMDExMDg1NzM3ODUyNzRiYTlm`

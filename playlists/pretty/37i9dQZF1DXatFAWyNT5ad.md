@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,314 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,335 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 79 | [Take It Back](https://open.spotify.com/track/4DLiXw3uGMe45QwJtPNOVc) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Take It Back](https://open.spotify.com/album/6yk0QeDWJQJ4GGUGJbEWvy) | 2:28 |
 | 80 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 |
 
-Snapshot ID: `MTY0OTcyNTI5MSwwMDAwMDAwMDcyMmIxZTJkMTM3YTcwNmY5MDMxNDIyMWM2YTA2NDJj`
+Snapshot ID: `MTY0OTczNzU0NCwwMDAwMDAwMDcyMmIxZTJkMTM3YTcwNmY5MDMxNDIyMWM2YTA2NDJj`

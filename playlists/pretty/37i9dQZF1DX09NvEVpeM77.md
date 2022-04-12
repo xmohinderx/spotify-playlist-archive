@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Classic rock favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,555 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,619 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 49 | [Too Much Time](https://open.spotify.com/track/1TzUVJVzOPkX5i8BpoAiu4) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Clear Spot](https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p) | 2:50 |
 | 50 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 
-Snapshot ID: `MTY0OTcyNDkxMiwwMDAwMDAwMDZiMGNkODFmN2JiYWRlNzY2N2JkMzliOTZhMTg1YjFk`
+Snapshot ID: `MTY0OTczNzI0MSwwMDAwMDAwMDZiMGNkODFmN2JiYWRlNzY2N2JkMzliOTZhMTg1YjFk`

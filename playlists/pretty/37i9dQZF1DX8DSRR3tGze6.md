@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 
 > Let these Latin hits guide you through your daily commute!
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,265 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,276 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 99 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
 | 100 | [Una Llamada](https://open.spotify.com/track/0K1muMnMBrwseIwuswb18q) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Una Llamada](https://open.spotify.com/album/1V9ImHHtf4gyi3FZt9WuWJ) | 3:13 |
 
-Snapshot ID: `MTY0OTcyNTE5OCwwMDAwMDAwMDAzYzJkYmRhMmUyZjQ2OGE2ZTI3Y2NjZWQ3NzJiMmIw`
+Snapshot ID: `MTY0OTczNzQ2OSwwMDAwMDAwMDAzYzJkYmRhMmUyZjQ2OGE2ZTI3Y2NjZWQ3NzJiMmIw`

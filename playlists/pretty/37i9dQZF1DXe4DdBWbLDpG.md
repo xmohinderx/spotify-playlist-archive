@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Revive las mejores batallas + música original de los gallos Foto: Aczino
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,623 likes - 64 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,621 likes - 64 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 | 63 | [DRC vs Tito MC \- Final](https://open.spotify.com/track/73Duye1kCQ4jwmF860nPCF) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [Drc](https://open.spotify.com/artist/294kyCSV7pIN81fSvhK53h), [Tito MC](https://open.spotify.com/artist/0JIEKsI7hOIgv1GY9XNXKq), [C´MON!](https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW), [Baghira](https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY), [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [Final Nacional Cuba 2019 \(Live\)](https://open.spotify.com/album/01Dr0uHdeGNKcaw3HCI7ra) | 15:49 |
 | 64 | [Big Killa Vs Carpediem \- Final \(Live\)](https://open.spotify.com/track/7pzrOwbpzwNJ1uwj9hJ97K) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [Big Killa](https://open.spotify.com/artist/7D4JO1Da4qQLesq1iEaEID), [Carpediem](https://open.spotify.com/artist/3vMZv0xDuOlwWRBrHaKpwP), [C´MON!](https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW), [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm), [Dr\. Neo Cortex](https://open.spotify.com/artist/5VwVvNKhvBYez1PuBbOti7) | [Final Nacional Colombia 2019 \(Live\)](https://open.spotify.com/album/2es6AAx5NZAswIIg1WHT6T) | 13:32 |
 
-Snapshot ID: `MTY0OTcyNTM4OCwwMDAwMDAwMGNiMGNmZmI5MzMzNDc5MjQ5MGRjYjBkZTZjMzg5ZTcz`
+Snapshot ID: `MTY0OTczNzYyNiwwMDAwMDAwMGNiMGNmZmI5MzMzNDc5MjQ5MGRjYjBkZTZjMzg5ZTcz`

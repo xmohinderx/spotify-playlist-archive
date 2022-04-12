@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 
 > Get your day off to a cracking start!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,152 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,198 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 | 79 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 80 | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/track/1qA9TnEJ2sUub9QkN9K3Mv) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/album/29K1jMNI9pOIzCG3rtzm0p) | 3:19 |
 
-Snapshot ID: `MTY0OTcyNTMyNSwwMDAwMDAwMDEzNTIzOTJjNjhlYTEzZjQ4YmUxMTE4NGUwYWM1ZTVi`
+Snapshot ID: `MTY0OTczNzU3MiwwMDAwMDAwMDEzNTIzOTJjNjhlYTEzZjQ4YmUxMTE4NGUwYWM1ZTVi`

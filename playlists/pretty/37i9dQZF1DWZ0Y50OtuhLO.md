@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 
 > The soundtrack to being the best version of you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,860 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,865 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 49 | [Sweet Melody](https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 |
 | 50 | [Don’t Need Love \(with GRACEY\)](https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Don't Need Love](https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN) | 3:15 |
 
-Snapshot ID: `MTY0OTcyNDg3NiwwMDAwMDAwMGU5ZjY5NjhkZWJiODJhMGE2Yjk3MGFhOWVkY2JkYjc2`
+Snapshot ID: `MTY0OTczNzIxMywwMDAwMDAwMGU5ZjY5NjhkZWJiODJhMGE2Yjk3MGFhOWVkY2JkYjc2`

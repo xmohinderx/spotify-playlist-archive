@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > Ride the vaporwave and lose your soul in the <br/>  a e s t h e t i c .
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,620 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,658 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Curves](https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Into the light](https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp) | 1:23 |
 | 100 | [Eye](https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF) | [Diskette Park](https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic) | [Dark Bandwidth](https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj) | 3:37 |
 
-Snapshot ID: `MTY0OTcyNDcxMiwwMDAwMDAwMDc1YTkxMzRkZmQzMGYzNTNiMDc4ZTA2MWEwOTk3ZDVi`
+Snapshot ID: `MTY0OTczNzA4NSwwMDAwMDAwMGFhODg5OTVkM2ViOTU4ZjU2ZDkyOWFlM2MxYzU1NDBi`

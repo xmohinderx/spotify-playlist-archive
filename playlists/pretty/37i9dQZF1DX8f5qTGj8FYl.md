@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,678 likes - 80 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,685 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [THE CRISIS GENERATOR](https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd) | [The Sound Stylistics](https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO) | [Greasin The Wheels](https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO) | 4:53 |
 | 80 | [Gravy Train](https://open.spotify.com/track/5EVROH29vqrj20443u1Ibl) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Gravy Train](https://open.spotify.com/album/7ICjTPunNQA39zrV6Kmcuv) | 5:59 |
 
-Snapshot ID: `MTY0OTcyNTIxMywwMDAwMDAwMGY0OTBmMGNjNzAzMGRmN2QzNjZlYTk0OTNhODI3NWJj`
+Snapshot ID: `MTY0OTczNzQ4MSwwMDAwMDAwMGY0OTBmMGNjNzAzMGRmN2QzNjZlYTk0OTNhODI3NWJj`

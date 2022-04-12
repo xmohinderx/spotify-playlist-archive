@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: bbno$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,637 likes - 102 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,735 likes - 102 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

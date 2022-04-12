@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Perotá Chingó
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,027 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,036 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Todo Lo Que Está Bien](https://open.spotify.com/track/6B3oesJhA0R2ZxCrDqIhgr) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg) | [La Llorería](https://open.spotify.com/album/0EBPMOrasCffWzNkDwwbPf) | 3:40 |
 | 100 | [Corazoncito Mío](https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 3:15 |
 
-Snapshot ID: `MTY0OTcyNTMzNywwMDAwMDAwMGU0ZGEzOWY4MDg1OTA2NzM3YjBhMmMyMzljOGQ5YjYx`
+Snapshot ID: `MTY0OTczNzU4MSwwMDAwMDAwMGU0ZGEzOWY4MDg1OTA2NzM3YjBhMmMyMzljOGQ5YjYx`

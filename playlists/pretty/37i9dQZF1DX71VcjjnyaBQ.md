@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz music to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,328 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,340 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Flotten](https://open.spotify.com/track/0Cni65EmkblPcDDM6f1Nwd) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Flotten](https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU) | 4:48 |
 | 100 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:17 |
 
-Snapshot ID: `MTY0OTcyNTE1OSwwMDAwMDAwMGRlZjcyODliNDRlZDM2NjdmZTAyMTQ2N2MzOGRlOWQ3`
+Snapshot ID: `MTY0OTczNzQzOCwwMDAwMDAwMGRlZjcyODliNDRlZDM2NjdmZTAyMTQ2N2MzOGRlOWQ3`

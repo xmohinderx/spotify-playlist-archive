@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,167 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,170 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 49 | [FREEDOM](https://open.spotify.com/track/4qBuY6UbPKReY424xbbt8k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 2:57 |
 | 50 | [Alive](https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:32 |
 
-Snapshot ID: `MTY0OTcyNTA0MiwwMDAwMDAwMDc3YzJkMWY4YTc2YmNhZTc2ZTA0NGZmMDI1OWFiZmY3`
+Snapshot ID: `MTY0OTczNzM0NywwMDAwMDAwMDc3YzJkMWY4YTc2YmNhZTc2ZTA0NGZmMDI1OWFiZmY3`

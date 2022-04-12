@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,063 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,073 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Miss You](https://open.spotify.com/track/4SdQINw77JI2hflcVDWOw7) | [Johnnie Guilbert](https://open.spotify.com/artist/076Gy8u6GxUrHUxbaesJFC) | [Miss You](https://open.spotify.com/album/0D5fSRiY5ZsWvLrPNM4Hne) | 3:44 |
 | 75 | [Right Here \(Acoustic\)](https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc) | [Chase Your Words](https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC) | [Right Here \(Acoustic\)](https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr) | 3:49 |
 
-Snapshot ID: `MTY0OTcyNTMyOSwwMDAwMDAwMDcxYWU3MWRiN2FlYjAxYTNiMDNhMWU2Y2RjNTQ2MWM1`
+Snapshot ID: `MTY0OTczNzU3NSwwMDAwMDAwMDcxYWU3MWRiN2FlYjAxYTNiMDNhMWU2Y2RjNTQ2MWM1`

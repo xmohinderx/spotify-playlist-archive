@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 
 > Put a spring in your step with these mood boosting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,565 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,573 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 49 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 3:52 |
 | 50 | [Can You Do This](https://open.spotify.com/track/47cXxDVpagtcmtnmJep7NT) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Wake Me Up](https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0) | 2:56 |
 
-Snapshot ID: `MTY0OTcyNTI4MiwwMDAwMDAwMGE4NjBlZmQ4NzhlYWUxODBjMTY4ZmRiYmI3N2QxN2Ri`
+Snapshot ID: `MTY0OTczNzUzNywwMDAwMDAwMGE4NjBlZmQ4NzhlYWUxODBjMTY4ZmRiYmI3N2QxN2Ri`

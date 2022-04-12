@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the sweetest voices in Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,851 likes - 200 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,873 likes - 200 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Let's Do It](https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ) | 3:05 |
 | 200 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 |
 
-Snapshot ID: `MTY0OTcyNDc4NCwwMDAwMDAwMDM1MGRiZTA5OWNjMDc0ZDgzOGM0NzU1MWRjYWY3MThm`
+Snapshot ID: `MTY0OTczNzE0MSwwMDAwMDAwMDM1MGRiZTA5OWNjMDc0ZDgzOGM0NzU1MWRjYWY3MThm`

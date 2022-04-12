@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,687 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,712 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Kobicha](https://open.spotify.com/track/1G8KzCELG4AXvmpf1WRMY6) | [Soul Flower](https://open.spotify.com/artist/3NI2ar7GCozS2JaqTyU0Ra) | [Kobicha](https://open.spotify.com/album/0suJmrWbXjCIT6bgR4AYhR) | 3:01 |
 | 100 | [Hangin Up](https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Hangin Up](https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy) | 3:04 |
 
-Snapshot ID: `MTY0OTcyNDcwNywwMDAwMDAwMDQ2MmJkN2Q1ZTA3YjY4ZGU0NmY5OGNjOTkxNjIxYzVh`
+Snapshot ID: `MTY0OTczNzA4MSwwMDAwMDAwMDQ2MmJkN2Q1ZTA3YjY4ZGU0NmY5OGNjOTkxNjIxYzVh`

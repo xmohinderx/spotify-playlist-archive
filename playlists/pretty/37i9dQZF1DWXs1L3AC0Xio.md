@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > Chill out with these awesome rock ballads\. Cover: <a href="spotify:artist:6Wr3hh341P84m3EI8qdn9O">Rise Against</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,754 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,764 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 99 | [Re\-arrange](https://open.spotify.com/track/6iv3Fclf4l11hQGYs8KbGc) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis](https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo) | 3:37 |
 | 100 | [Darlin'](https://open.spotify.com/track/1sfdLryuujVNx5v3SqDIh8) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Darlin’](https://open.spotify.com/album/7rK95dGqm7hOseBp2PU04g) | 4:59 |
 
-Snapshot ID: `MTY0OTcyNDgzOSwwMDAwMDAwMGE5MWNiMDIyYWYwNjI1MTJlNzYwYzc1OWY3MmZlMjRi`
+Snapshot ID: `MTY0OTczNzE4MywwMDAwMDAwMGE5MWNiMDIyYWYwNjI1MTJlNzYwYzc1OWY3MmZlMjRi`

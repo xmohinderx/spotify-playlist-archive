@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: oso oso
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,286 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,285 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Transients](https://open.spotify.com/track/39Wa42w288HXCa5I2qkHKD) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Transients](https://open.spotify.com/album/149kG0Ln8mP316svShU5fk) | 3:16 |
 | 100 | [Head Cheerleader](https://open.spotify.com/track/73DSvDKrNsvmVhvVJGwoGF) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Head Cheerleader](https://open.spotify.com/album/3b0fhWtykcE0DBzpqQsdAe) | 3:08 |
 
-Snapshot ID: `MTY0OTcyNTI0OSwwMDAwMDAwMDZjMTUzZTE2YzBjMWIyZWQ0ZDQzMDkxYjU3ZDI4M2Y0`
+Snapshot ID: `MTY0OTczNzUwOSwwMDAwMDAwMDZjMTUzZTE2YzBjMWIyZWQ0ZDQzMDkxYjU3ZDI4M2Y0`

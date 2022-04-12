@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,491 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,497 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [We All Move Together \- Album Mix](https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 5:52 |
 | 50 | [A Wonderful Life \- Version](https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr) | 6:55 |
 
-Snapshot ID: `MTY0OTcyNDk1NCwwMDAwMDAwMDcxY2Q5Yzk1ZmY3NjM1MTEyYmVmYjQ3ODFjMjVhMGFl`
+Snapshot ID: `MTY0OTczNzI4MCwwMDAwMDAwMDcxY2Q5Yzk1ZmY3NjM1MTEyYmVmYjQ3ODFjMjVhMGFl`

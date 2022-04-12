@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 
 > Energetic tracks from the 1990s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,757 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,790 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 49 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 |
 | 50 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/1pXHEk0IX0foNN22eCe1h6) | 4:22 |
 
-Snapshot ID: `MTY0OTcyNDczOCwwMDAwMDAwMGQwNDhiNTUwNDk4N2RlMzgxMzI2MDgyNDlmNTg0MzE4`
+Snapshot ID: `MTY0OTczNzEwNSwwMDAwMDAwMGQwNDhiNTUwNDk4N2RlMzgxMzI2MDgyNDlmNTg0MzE4`

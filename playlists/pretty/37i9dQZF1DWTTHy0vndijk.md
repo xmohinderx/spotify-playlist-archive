@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Red Velvet\(레드벨벳\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,985 likes - 57 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,018 likes - 57 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [B.B.B.Boo](https://open.spotify.com/track/7AoZUPWvjhcI5Gzke4eF0U) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:35 |
 | 57 | [Vanilla](https://open.spotify.com/track/3MJtE5VkJHHTV74E6KIDIv) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Vanilla](https://open.spotify.com/album/77w56C1tECJwOgVEhNbI5x) | 3:24 |
 
-Snapshot ID: `MTY0OTcyNDY5MSwwMDAwMDAwMDE2M2M0Y2Q5MzQ4NmE3ZWI3NDZiMjVkMzFhZTM5YTUw`
+Snapshot ID: `MTY0OTczNzA2OSwwMDAwMDAwMDE2M2M0Y2Q5MzQ4NmE3ZWI3NDZiMjVkMzFhZTM5YTUw`

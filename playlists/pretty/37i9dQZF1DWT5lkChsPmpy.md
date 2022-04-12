@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,515 likes - 216 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,525 likes - 216 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

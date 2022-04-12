@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,574 likes - 80 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,595 likes - 80 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Satori by the Sea](https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Satori by the Sea](https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh) | 3:07 |
 | 80 | [Enfantillages pittoresques: II\. Berceuse \- Christian Löffler Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/5vXc6FRNDW6VkZNKJtTtb1) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Enfantillages pittoresques: II\. Berceuse \[Christian Löffler Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS) | 5:34 |
 
-Snapshot ID: `MTY0OTcyNTE4MSwwMDAwMDAwMDI4YWQ5MGQzMWY0ZDEzMmI2NTFhNGQ0OWYzNTUwMzM2`
+Snapshot ID: `MTY0OTczNzQ1NiwwMDAwMDAwMDI4YWQ5MGQzMWY0ZDEzMmI2NTFhNGQ0OWYzNTUwMzM2`

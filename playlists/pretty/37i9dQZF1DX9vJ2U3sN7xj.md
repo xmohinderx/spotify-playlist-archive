@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 
 > Party Mode: ON!<br/>Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,588 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,604 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 | 119 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 |
 | 120 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 
-Snapshot ID: `MTY0OTcyNTI1NSwwMDAwMDAwMGY3NGZjOGRmMjJiOTk1YzVlMDg2MWQ3NDZjYWQ0MzEx`
+Snapshot ID: `MTY0OTczNzUxNiwwMDAwMDAwMGY3NGZjOGRmMjJiOTk1YzVlMDg2MWQ3NDZjYWQ0MzEx`

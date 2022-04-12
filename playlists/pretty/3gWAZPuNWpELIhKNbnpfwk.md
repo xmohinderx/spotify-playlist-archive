@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв.
 
-[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 163,237 likes - 130 songs - 9 hr 34 min
+[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 163,242 likes - 130 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,340 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,344 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 |
 | 60 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 |
 
-Snapshot ID: `MTY0OTcyNDgxNiwwMDAwMDAwMDMwZmQwMzE3NmNmODg2MmQ4M2NhNmZkM2NhYThkMGRm`
+Snapshot ID: `MTY0OTczNzE2NiwwMDAwMDAwMDMwZmQwMzE3NmNmODg2MmQ4M2NhNmZkM2NhYThkMGRm`

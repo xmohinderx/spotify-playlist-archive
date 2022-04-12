@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 
 > Sing\-along favorites\. Cover: Billy Joel
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,088 likes - 59 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,105 likes - 59 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

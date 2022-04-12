@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,263 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,278 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Dolor](https://open.spotify.com/track/22FpzpT8WmbasbUsw0FNiI) | [Aura Blum](https://open.spotify.com/artist/4eToagOiA1nEzs7s8PMjgq) | [Dolor](https://open.spotify.com/album/2hZiihQIxQYOEuQPKOnhbd) | 3:16 |
 | 80 | [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 |
 
-Snapshot ID: `MTY0OTcyNTE1NSwwMDAwMDAwMGEyNmRiZTJhYmEzZGM5MmEyYzljNDk1ZjM3MjEyMjA3`
+Snapshot ID: `MTY0OTczNzQzNCwwMDAwMDAwMGEyNmRiZTJhYmEzZGM5MmEyYzljNDk1ZjM3MjEyMjA3`

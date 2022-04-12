@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: 72\-HOUR POST FIGHT Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,815 likes - 99 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,819 likes - 99 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 98 | [Iceland \(Original Mix\)](https://open.spotify.com/track/2vNKrQg8mMLHwDEv9qcXLA) | [Rautu](https://open.spotify.com/artist/6RAjggwom3h4d1CTM4zojc), [The Void Wanderer](https://open.spotify.com/artist/3o9HwR9cZWdRt1eRU95fMo) | [Iceland](https://open.spotify.com/album/3uam8elYAZo6n6gmrAU0Zq) | 3:46 |
 | 99 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
 
-Snapshot ID: `MTY0OTcyNTE5NywwMDAwMDAwMDMxYTQ0NTFjN2MwZTdmMjY3NTc4ZmNjNjRlOGYxYmQ4`
+Snapshot ID: `MTY0OTczNzQ2NywwMDAwMDAwMDMxYTQ0NTFjN2MwZTdmMjY3NTc4ZmNjNjRlOGYxYmQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 
 > The Chainsmokers are celebrating 5 years of "Memories...Do Not Open".
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,078,037 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,078,188 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 | 149 | [Scars To Your Beautiful](https://open.spotify.com/track/42ydLwx4i5V49RXHOozJZq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:50 |
 | 150 | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3) | 3:32 |
 
-Snapshot ID: `MTY0OTcyNTA5NiwwMDAwMDAwMDNkMmExYWM3Y2Q0YTBmMzIxNGZkM2UyODlmNDM4MTJj`
+Snapshot ID: `MTY0OTczNzM4OCwwMDAwMDAwMDNkMmExYWM3Y2Q0YTBmMzIxNGZkM2UyODlmNDM4MTJj`

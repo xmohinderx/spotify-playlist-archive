@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Juju Rude
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,034 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,031 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 | 50 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 |
 
-Snapshot ID: `MTY0OTcyNDk1NCwwMDAwMDAwMGE4MmMxOWY2NGI2NWIyYmEzZTQ4MDY0NTVkNjg4NDJl`
+Snapshot ID: `MTY0OTczNzI3OSwwMDAwMDAwMGE4MmMxOWY2NGI2NWIyYmEzZTQ4MDY0NTVkNjg4NDJl`

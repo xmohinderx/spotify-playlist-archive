@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,798 likes - 163 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,854 likes - 163 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 162 | [Starlight Groove](https://open.spotify.com/track/5RPUpFwaH93p5o0Vxujxv9) | [Lex One](https://open.spotify.com/artist/4uFMon5FkPfetnykzWLI1K), [Lucian White](https://open.spotify.com/artist/2lx7WaSe8fxpIGRwwVaHwF) | [Midnight Crisis](https://open.spotify.com/album/3VPsgf2GvKiZ1rQCrre6H2) | 3:50 |
 | 163 | [He Loves Me](https://open.spotify.com/track/43WBVIITW6l5Tke3dtdmB4) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [He Loves Me](https://open.spotify.com/album/580pI7cxBnCfsb06ryVh8O) | 2:31 |
 
-Snapshot ID: `MTY0OTcyNDk4OSwwMDAwMDAwMDRmN2Q0MGNjN2YzOTg2OTliZDJhZGFiYTg3YWExYmEx`
+Snapshot ID: `MTY0OTczNzMwOCwwMDAwMDAwMDRmN2Q0MGNjN2YzOTg2OTliZDJhZGFiYTg3YWExYmEx`

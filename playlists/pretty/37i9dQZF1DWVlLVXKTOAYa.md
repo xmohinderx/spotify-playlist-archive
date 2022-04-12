@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,902 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,917 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 99 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 |
 | 100 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 |
 
-Snapshot ID: `MTY0OTcyNDc2MywwMDAwMDAwMDkxMTgxMzY4Y2U3Mjc2MDcyY2FlNTE3MTNjNDdhMDYw`
+Snapshot ID: `MTY0OTczNzEyNSwwMDAwMDAwMDkxMTgxMzY4Y2U3Mjc2MDcyY2FlNTE3MTNjNDdhMDYw`

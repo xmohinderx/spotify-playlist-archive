@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the new tunes in the Thrash world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,404 likes - 120 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,410 likes - 120 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [As We Breach](https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [As We Breach](https://open.spotify.com/album/513Lp3HTQfozEabGEGaG9f) | 4:52 |
 | 120 | [Conquer Evil](https://open.spotify.com/track/0YrUPBsQWhGCMHprN0ZmBP) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [Conquer Evil](https://open.spotify.com/album/4jAmivpe2J42yYujDkeGzV) | 4:38 |
 
-Snapshot ID: `MTY0OTcyNDg5MiwwMDAwMDAwMGY1NjQ3NmFkYzBlOThmM2YwZDk2MTg5NGEyZGIwNzdl`
+Snapshot ID: `MTY0OTczNzIyNiwwMDAwMDAwMGY1NjQ3NmFkYzBlOThmM2YwZDk2MTg5NGEyZGIwNzdl`

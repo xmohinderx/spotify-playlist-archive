@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMDoHDwVN2tF.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,759,633 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,759,962 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

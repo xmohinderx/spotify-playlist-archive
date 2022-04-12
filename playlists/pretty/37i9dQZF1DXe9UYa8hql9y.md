@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 
 > ¡Prende tu fiesta con música de Coldplay, y el mejor pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,631 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,637 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 | 99 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 |
 | 100 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Lo Que un Hombre Debería Saber](https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi) | 3:14 |
 
-Snapshot ID: `MTY0OTcyNTM5MCwwMDAwMDAwMGYzN2IwZjM2YTdiZmE3ZWUyOTM1YWQ2ZTMxMzgxNmM2`
+Snapshot ID: `MTY0OTczNzYyNywwMDAwMDAwMGYzN2IwZjM2YTdiZmE3ZWUyOTM1YWQ2ZTMxMzgxNmM2`

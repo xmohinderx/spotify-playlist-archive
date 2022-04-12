@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,051 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,063 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg) | [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA) | 2:38 |
 | 60 | [La alegria](https://open.spotify.com/track/2p2K1OSRcRuZFmBrnqQt46) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [La alegria](https://open.spotify.com/album/1hIRGOqH8X8IVdL8KfiThE) | 2:53 |
 
-Snapshot ID: `MTY0OTcyNTIyOSwwMDAwMDAwMGNmOWYyM2JjY2M3NDFlMzIwMTdkMGMwNDNhOGRmNTNj`
+Snapshot ID: `MTY0OTczNzQ5MywwMDAwMDAwMGNmOWYyM2JjY2M3NDFlMzIwMTdkMGMwNDNhOGRmNTNj`

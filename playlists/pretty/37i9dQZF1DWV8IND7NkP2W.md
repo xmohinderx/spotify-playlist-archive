@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,531 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,573 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Kalanchoe ”Green apple”](https://open.spotify.com/track/6mkbOYTzAoDZAb1rYMGr5r) | [STUDIO75](https://open.spotify.com/artist/426lQwhWajxrxgvl7BRSiH) | [Kalanchoe ”Green apple”](https://open.spotify.com/album/1Ict1AS58yVpuOlhcQbcFc) | 2:12 |
 | 100 | [Garden](https://open.spotify.com/track/1XI81iqlkLT3xUHzQzRrb8) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Fade](https://open.spotify.com/album/2BeO7MZkXO2dYyuadRNj4l) | 2:29 |
 
-Snapshot ID: `MTY0OTcyNDc0MSwwMDAwMDAwMDg3NjIzOTZhN2E5NTM5ZGI5MDIyZThlOGQ3MzE3ZDI1`
+Snapshot ID: `MTY0OTczNzEwOCwwMDAwMDAwMDg3NjIzOTZhN2E5NTM5ZGI5MDIyZThlOGQ3MzE3ZDI1`

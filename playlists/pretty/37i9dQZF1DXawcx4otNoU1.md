@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > This is the perfect playlist for those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,035 likes - 134 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,093 likes - 134 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 133 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 134 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 |
 
-Snapshot ID: `MTY0OTcyNTI5MiwwMDAwMDAwMGRhYzM0MGRjYTU0YTZhZDE1NWU1ZDA2NmMxMWJiMjhi`
+Snapshot ID: `MTY0OTczNzU0NSwwMDAwMDAwMGRhYzM0MGRjYTU0YTZhZDE1NWU1ZDA2NmMxMWJiMjhi`

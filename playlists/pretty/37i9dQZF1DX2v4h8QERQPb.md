@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Bardero$.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,500 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,503 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

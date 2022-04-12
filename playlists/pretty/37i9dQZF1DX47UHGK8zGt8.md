@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,914 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,939 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Poeta](https://open.spotify.com/track/36Q1ny8Cn49aCcapMYZFO5) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Sessions \- Deb Ribeiro](https://open.spotify.com/album/5eJqY1VFQE7z7BsVKm1yOC) | 3:13 |
 | 50 | [De Mansinho](https://open.spotify.com/track/0pNZN7o0JWq9EXoPCutAHn) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [De Mansinho](https://open.spotify.com/album/1yHV7x9atniGlkPzf6ttOJ) | 3:10 |
 
-Snapshot ID: `MTY0OTcyNTA1NCwwMDAwMDAwMGRkYWMzY2ZmZTMyNWY5OGZmYTc5ZGU2ZTlkN2I1MDk2`
+Snapshot ID: `MTY0OTczNzM1NywwMDAwMDAwMGRkYWMzY2ZmZTMyNWY5OGZmYTc5ZGU2ZTlkN2I1MDk2`

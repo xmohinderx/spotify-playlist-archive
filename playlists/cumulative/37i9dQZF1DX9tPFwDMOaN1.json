@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New look and feel, same old playlist you love. Let's turn on the movement! Cover: IVE",
+  "description": "New look and feel, same old playlist you love. Let's turn on the movement! Cover: ONEW",
   "name": "K-Pop ON! (\uc628)",
   "published_playlist_ids": [
     "05j7NY1SwyJ5jKPj2s00I0"
@@ -369,6 +369,24 @@
       "duration_ms": 213960,
       "name": "Devil",
       "url": "https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn"
+    },
+    {
+      "album": {
+        "name": "DICE - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK"
     },
     {
       "album": {
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 180360,
       "name": "Rock with you",
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"

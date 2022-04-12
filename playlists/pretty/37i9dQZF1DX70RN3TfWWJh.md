@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 
 > Pop hits to keep your workout fresh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,621,529 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,621,607 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 | 99 | [roses](https://open.spotify.com/track/3PmaqkHQLWpxKhSpo6yJip) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [roses](https://open.spotify.com/album/3UqQa5s6XDUlTxnM1wlGFd) | 3:09 |
 | 100 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/6LA7WgwRca4bYg7Ip50dqN) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unsponsored Content](https://open.spotify.com/album/6rNDa5cWEkTeyBXajj9Rxk) | 2:32 |
 
-Snapshot ID: `MTY0OTcyNTE1OCwwMDAwMDAwMGU4OTE3Yzg3OGU5OTAzZDJkMjM2Mjg1Mzc1YmUwMjUy`
+Snapshot ID: `MTY0OTczNzQzNywwMDAwMDAwMGU4OTE3Yzg3OGU5OTAzZDJkMjM2Mjg1Mzc1YmUwMjUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,634 likes - 60 songs - 3 hr 3 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,631 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: AWOLNATION, Brandon Boyd, Portugal\. The Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,747 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,765 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Shape of my Heart](https://open.spotify.com/track/2TCJJKuEV1VkVi5D5Y3RKK) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 5:37 |
 | 100 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
 
-Snapshot ID: `MTY0OTcyNDk5NywwMDAwMDAwMGU5MGQ3YmY0MDA2MmQ0Y2FkMzYzYjFmZGI3MDFkOTc0`
+Snapshot ID: `MTY0OTczNzMxNCwwMDAwMDAwMGU5MGQ3YmY0MDA2MmQ0Y2FkMzYzYjFmZGI3MDFkOTc0`

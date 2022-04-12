@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\.  Cover: Miranda Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,562 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,630 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 99 | [Neon Healing](https://open.spotify.com/track/61gH3z9LvJgP4rbhaF4haQ) | [Genevieve Fisher](https://open.spotify.com/artist/72fK1tR09pjiiGHJciVg73) | [Neon Healing](https://open.spotify.com/album/3bh4TegHtVUxuk5PWXDMZD) | 2:48 |
 | 100 | [What Are You Gonna Tell Her?](https://open.spotify.com/track/3wxISiy8s2huunhxBkTEhX) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [What Are You Gonna Tell Her?](https://open.spotify.com/album/4iwbkZsX1YmV0KiDDg5UiZ) | 3:13 |
 
-Snapshot ID: `MTY0OTcyNTA1NSwwMDAwMDAwMGZmNGJmNmEyMzVhNDU3ZjEyNmViNDQ2OTJlYjM5MTIw`
+Snapshot ID: `MTY0OTczNzM1OCwwMDAwMDAwMGZmNGJmNmEyMzVhNDU3ZjEyNmViNDQ2OTJlYjM5MTIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With 潘PAN, EURINGER, Chromatics and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,523 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,524 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Big Bang](https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7) | 2:49 |
 | 50 | [Supersoaker](https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:04 |
 
-Snapshot ID: `MTY0OTcyNTQwNSwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj`
+Snapshot ID: `MTY0OTczNzY0MCwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj`

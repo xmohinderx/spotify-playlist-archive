@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 
 > Start the day with a morning run together with these easy and joyful tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,468 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,477 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 | 49 | [No Sleep](https://open.spotify.com/track/60hJh9xajGyiVdoKEwCEKv) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [No Sleep](https://open.spotify.com/album/2ilQ24f85bagzH1nXZSGhA) | 3:03 |
 | 50 | [Blurred Lines](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines \(Deluxe\)](https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j) | 4:23 |
 
-Snapshot ID: `MTY0OTcyNTE5OSwwMDAwMDAwMDExMmY4ZDViMDVhYzNhNmExZTE2NTAyZWZlMTQwYTgx`
+Snapshot ID: `MTY0OTczNzQ2OSwwMDAwMDAwMDExMmY4ZDViMDVhYzNhNmExZTE2NTAyZWZlMTQwYTgx`

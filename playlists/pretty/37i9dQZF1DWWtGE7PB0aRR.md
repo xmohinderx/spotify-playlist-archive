@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,130 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,134 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Cries from the Midnight Circus](https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 6:28 |
 | 65 | [I'm Alright](https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [I'm Alright](https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv) | 3:09 |
 
-Snapshot ID: `MTY0OTcyNDgwNiwwMDAwMDAwMDJjM2U0YzkzNTA1ZjMyYWU3OTlmN2Y3Nzg2NDI3NmYx`
+Snapshot ID: `MTY0OTczNzE1OCwwMDAwMDAwMDJjM2U0YzkzNTA1ZjMyYWU3OTlmN2Y3Nzg2NDI3NmYx`

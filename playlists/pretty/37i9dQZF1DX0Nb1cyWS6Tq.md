@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,401 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,444 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
 | 80 | [The Sanity Assassin](https://open.spotify.com/track/3YOq3S4v776CYTWru41U4V) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Burning From The Inside](https://open.spotify.com/album/7f94C8L3mdtdSZzQ0rH8nV) | 4:05 |
 
-Snapshot ID: `MTY0OTcyNDkyNiwwMDAwMDAwMDFlOTBiNTQ3ZWZiOTZhNTIzNmFmNzE3Mjk2NWFhMDQw`
+Snapshot ID: `MTY0OTczNzI1OCwwMDAwMDAwMDFlOTBiNTQ3ZWZiOTZhNTIzNmFmNzE3Mjk2NWFhMDQw`

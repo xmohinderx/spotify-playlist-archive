@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,530 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,548 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 49 | [The Joy of Love](https://open.spotify.com/track/0Yodgy7a2fAfcm8IsVvWfC) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [The Joy of Love](https://open.spotify.com/album/0owFsvo57nmOUn1oxoHLyc) | 2:22 |
 | 50 | [Hymn](https://open.spotify.com/track/6g2oJDJp7HYh8rkG0tu5A2) | [Frans Kulick](https://open.spotify.com/artist/6RBboCQThobAlgyvheFKEe) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 3:13 |
 
-Snapshot ID: `MTY0OTcyNTAzNSwwMDAwMDAwMDVhYmUwNmI4MTBmZmNkYzQ0YjgzYzVkMDQxMWVmZjE1`
+Snapshot ID: `MTY0OTczNzM0MiwwMDAwMDAwMDVhYmUwNmI4MTBmZmNkYzQ0YjgzYzVkMDQxMWVmZjE1`

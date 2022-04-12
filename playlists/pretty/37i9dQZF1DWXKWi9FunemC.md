@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,542 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,545 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [One Good Try](https://open.spotify.com/track/6wdW7RIXNx64DH6HqDOgSf) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [One Good Try](https://open.spotify.com/album/6Dvwl5Ss1vis3sNVJ0yKbj) | 3:49 |
 | 100 | [More Than Anything](https://open.spotify.com/track/6EDa0a42UOJHgcy4WIqwMY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [More Than Anything](https://open.spotify.com/album/0XZ65qQkiiz1TMDkZAsm92) | 7:17 |
 
-Snapshot ID: `MTY0OTcyNDgyMCwwMDAwMDAwMGQwNWI2YWM3MDAyMmJjMjYzODEzMDQ4MGYyNzA2ZTg0`
+Snapshot ID: `MTY0OTczNzE2OSwwMDAwMDAwMGQwNWI2YWM3MDAyMmJjMjYzODEzMDQ4MGYyNzA2ZTg0`

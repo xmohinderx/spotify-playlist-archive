@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > Somehow, heartbreak feels good in a place like this\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,318 likes - 149 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,462 likes - 149 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 148 | [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 |
 | 149 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
 
-Snapshot ID: `MTY0OTcyNDY2NSwwMDAwMDAwMGYxY2NlMWE5ZjczZjM1NGIzZTgxYWQ3NzA3ODU1MmZj`
+Snapshot ID: `MTY0OTczNzA0OSwwMDAwMDAwMGYxY2NlMWE5ZjczZjM1NGIzZTgxYWQ3NzA3ODU1MmZj`

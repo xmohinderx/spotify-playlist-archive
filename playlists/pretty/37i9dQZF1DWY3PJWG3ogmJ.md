@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,363 likes - 120 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,398 likes - 120 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Decompose](https://open.spotify.com/track/4WTDuPXwMqfMD5DdCLynpN) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/2tvtZWchb9DcVtmp1rEuYs) | 2:27 |
 | 120 | [Pariah](https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Pariah](https://open.spotify.com/album/76PZTUklDOYoHolig8UwAM) | 3:29 |
 
-Snapshot ID: `MTY0OTcyNDg0NSwwMDAwMDAwMGE5YTBjMTE1N2I0OTk4MmQ4MjJhYzdhNGNmMjdlMzg3`
+Snapshot ID: `MTY0OTczNzE4OCwwMDAwMDAwMGE5YTBjMTE1N2I0OTk4MmQ4MjJhYzdhNGNmMjdlMzg3`

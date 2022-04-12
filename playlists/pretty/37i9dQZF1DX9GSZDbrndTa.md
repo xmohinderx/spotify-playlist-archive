@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,617 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,615 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Kelly Blue](https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 10:50 |
 | 50 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
 
-Snapshot ID: `MTY0OTcyNTIzNSwwMDAwMDAwMDU1MjYwYzdiNWI4NTYyMDVmYmYzMWEyZjgxN2NlN2Vk`
+Snapshot ID: `MTY0OTczNzQ5NywwMDAwMDAwMDU1MjYwYzdiNWI4NTYyMDVmYmYzMWEyZjgxN2NlN2Vk`

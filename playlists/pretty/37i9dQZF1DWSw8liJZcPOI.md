@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,103 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,131 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 79 | [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 |
 | 80 | [All the Way Round \- Edit](https://open.spotify.com/track/68Cz5sfSKx1ugwoxJzLIHh) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [All the Way Round](https://open.spotify.com/album/5bQ65flJGJ4mhQG9cYWzri) | 4:30 |
 
-Snapshot ID: `MTY0OTcyNDY2OCwwMDAwMDAwMGJhYjE5OTJmMWFiZDQyOTMwZjk3ODQwZWFlNjlmYzRk`
+Snapshot ID: `MTY0OTczNzA1MSwwMDAwMDAwMGJhYjE5OTJmMWFiZDQyOTMwZjk3ODQwZWFlNjlmYzRk`

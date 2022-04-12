@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Leo Rizzi, Charlie Rodd
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,554 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,564 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 69 | [Diferente](https://open.spotify.com/track/1vK7Gxe6CjN9Tai74qeoIF) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 2:22 |
 | 70 | [Broken Heart](https://open.spotify.com/track/6nUvMK1MawwoaRtSmrJL8h) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Broken Heart](https://open.spotify.com/album/5w2Tv48nWVpjJ4BjUwFrW2) | 3:22 |
 
-Snapshot ID: `MTY0OTcyNDcxMywwMDAwMDAwMGYwYzFlNTU1Y2E5ZTQzODYwMjdjNGMxYjUxMmM3Mzgz`
+Snapshot ID: `MTY0OTczNzA4NiwwMDAwMDAwMGYwYzFlNTU1Y2E5ZTQzODYwMjdjNGMxYjUxMmM3Mzgz`

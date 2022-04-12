@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Orion Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,306 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,376 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 99 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 |
 | 100 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
 
-Snapshot ID: `MTY0OTcyNDY1OCwwMDAwMDAwMGNlMjRhYjgyNjc0MjhhZDEzZGQ3NWRmMDkzYWEzY2Nh`
+Snapshot ID: `MTY0OTczNzA0NCwwMDAwMDAwMGNlMjRhYjgyNjc0MjhhZDEzZGQ3NWRmMDkzYWEzY2Nh`

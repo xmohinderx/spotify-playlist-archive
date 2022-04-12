@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: Third Eye Blind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,527 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,588 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 99 | [Into Your Arms](https://open.spotify.com/track/22goEULcezLAiENbgpJw7k) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come On Feel The Lemonheads](https://open.spotify.com/album/3VRRQ7ZomlkmGQfTmf6qDH) | 2:44 |
 | 100 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
 
-Snapshot ID: `MTY0OTcyNTAzOCwwMDAwMDAwMDgxNmU5OGYyMzQwNDg4OTg0ZjM5MmRkZWFiMGI5MzNh`
+Snapshot ID: `MTY0OTczNzM0NSwwMDAwMDAwMDgxNmU5OGYyMzQwNDg4OTg0ZjM5MmRkZWFiMGI5MzNh`

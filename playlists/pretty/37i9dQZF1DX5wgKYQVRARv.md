@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Decapitated & Jinjer
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,981 likes - 130 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,000 likes - 130 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 129 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 |
 | 130 | [Alive! \- Radio Edit](https://open.spotify.com/track/3bymeUkdN8JpYAhyDerxqD) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Alive](https://open.spotify.com/album/4MfENe2S0AVoPXGsr3c0dx) | 5:12 |
 
-Snapshot ID: `MTY0OTcyNTEyMywwMDAwMDAwMGUzNTZmOWVkZDUzZTg3Y2JiZTBlY2VkMTcyNzEwY2Q4`
+Snapshot ID: `MTY0OTczNzQxMCwwMDAwMDAwMGUzNTZmOWVkZDUzZTg3Y2JiZTBlY2VkMTcyNzEwY2Q4`

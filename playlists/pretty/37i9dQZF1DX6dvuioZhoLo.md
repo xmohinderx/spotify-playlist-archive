@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,566 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,579 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Forever and Then Some](https://open.spotify.com/track/16HWvmhWwk53FLOSvgiL1w) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/5wypLtHgbpupR5THbQeaTM) | 4:49 |
 | 100 | [Roll On](https://open.spotify.com/track/2dCqBJAvSLdm5dyi3V2f24) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Roll On](https://open.spotify.com/album/05LL5ROXO3gDLScBf4A84C) | 2:57 |
 
-Snapshot ID: `MTY0OTcyNTE0OCwwMDAwMDAwMDFlNjJmY2EyMzQ0NTQxYmUwMmYxM2NhOTI4M2U5MzRk`
+Snapshot ID: `MTY0OTczNzQyOCwwMDAwMDAwMDFlNjJmY2EyMzQ0NTQxYmUwMmYxM2NhOTI4M2U5MzRk`

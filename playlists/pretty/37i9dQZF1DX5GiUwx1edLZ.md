@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,530 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,529 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Winterburn \- Geert Huinink Orchestral Version](https://open.spotify.com/track/1xMCUb9iBxgjyYQF5Lfwwy) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Digital X](https://open.spotify.com/artist/3Dtxw1PMmpzH5QFy0lf95c), [Sylvia Tosun](https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1), [Geert Huinink](https://open.spotify.com/artist/6ncG5N8m6aJt82ZKsQ1YpZ) | [Winterburn \(Geert Huinink Orchestral Version\)](https://open.spotify.com/album/7wEw4ml16tZM7JkLGH8SmX) | 3:19 |
 | 100 | [Don't Wanna Be Right \(Acoustic\)](https://open.spotify.com/track/1E2q2ZFaXpqxXZlztdn2iV) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Don't Wanna Be Right \(Acoustic\)](https://open.spotify.com/album/5rqdfjfPA1jQEul1BebYuS) | 3:12 |
 
-Snapshot ID: `MTY0OTcyNTA5NywwMDAwMDAwMGFiNzI0YmRlNmEzNGE1MzNkN2ExNGZhNTA1MzMyMGQ0`
+Snapshot ID: `MTY0OTczNzM4OSwwMDAwMDAwMGFiNzI0YmRlNmEzNGE1MzNkN2ExNGZhNTA1MzMyMGQ0`

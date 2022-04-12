@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,431,263 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,431,322 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 74 | [Let Her Go](https://open.spotify.com/track/7d5VLJBxGCRrvndPTMyz0Y) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Let Her Go](https://open.spotify.com/album/0cLKsIYQuZTX3c7mx2kvLW) | 2:52 |
 | 75 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 |
 
-Snapshot ID: `MTY0OTcyNDc0OCwwMDAwMDAwMDEyYzdiYWZlMTdmMzJkYjYzZDFhOTdiNjg4MmZlNjNl`
+Snapshot ID: `MTY0OTczNzExMywwMDAwMDAwMDEyYzdiYWZlMTdmMzJkYjYzZDFhOTdiNjg4MmZlNjNl`

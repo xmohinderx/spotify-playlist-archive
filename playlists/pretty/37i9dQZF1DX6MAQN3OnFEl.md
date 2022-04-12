@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > <a href="https://open.spotify.com/show/6J0BSU2FxWt9kndbiLPwXs?si=c697797f48374d00">Peak 2000s</a> throwing it all the way back\. That’s hot.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,402 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,510 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [Nothing in This World](https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:09 |
 | 100 | [Baby Come On Over](https://open.spotify.com/track/4PRB8Cs2ONx4VcVv0rFSwj) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [The Collection](https://open.spotify.com/album/6Tc50kI9Vo4F0AQiSMqGhH) | 3:04 |
 
-Snapshot ID: `MTY0OTcyNTEzOSwwMDAwMDAwMGEwNjM1ODFjOGU0NjlmZmE1YmEyMGM0MzlhZDNmZGQz`
+Snapshot ID: `MTY0OTczNzQyMSwwMDAwMDAwMGEwNjM1ODFjOGU0NjlmZmE1YmEyMGM0MzlhZDNmZGQz`

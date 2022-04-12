@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Helo Cleaver\. Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,794 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,798 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Eu Não Aceito](https://open.spotify.com/track/0QvNN1G5Vi7DFpLo0TZNoD) | [THAIIS](https://open.spotify.com/artist/6rk3l4BH83MMtX4snVTZM7) | [Eu Não Aceito](https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg) | 3:04 |
 | 80 | [Perfume Do Meu Ex](https://open.spotify.com/track/5BfCUFvuUJKc7gGtOGTxdi) | [Yasmin Gomlevsky](https://open.spotify.com/artist/4X1EvqIQvKsc2v6jstmV6A) | [Perfume Do Meu Ex](https://open.spotify.com/album/7lGwGVvB6s8jOy5UFwhxBD) | 2:17 |
 
-Snapshot ID: `MTY0OTcyNTEwNSwwMDAwMDAwMDMwNGNiNmM5NzBlZWZiMThiYzU1ZDllYTk3YzdlODQ0`
+Snapshot ID: `MTY0OTczNzM5NiwwMDAwMDAwMDMwNGNiNmM5NzBlZWZiMThiYzU1ZDllYTk3YzdlODQ0`

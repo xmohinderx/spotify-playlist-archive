@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > Slow burners for late nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,756 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,960 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 74 | [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 |
 | 75 | [Plastic](https://open.spotify.com/track/18gcopzbu2DjQjR2DI5pE8) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/30WjNaR79shSTGB52IJTw0) | 3:08 |
 
-Snapshot ID: `MTY0OTcyNTM2NywwMDAwMDAwMDVmY2JjNTJjNGVlMDJjMDQzNjE4OGMzNDQ0MTdiYzhh`
+Snapshot ID: `MTY0OTczNzYxMCwwMDAwMDAwMDVmY2JjNTJjNGVlMDJjMDQzNjE4OGMzNDQ0MTdiYzhh`

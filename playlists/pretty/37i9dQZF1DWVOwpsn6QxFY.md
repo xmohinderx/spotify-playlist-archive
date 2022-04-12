@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,128 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,147 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 |
 | 80 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 |
 
-Snapshot ID: `MTY0OTcyNDc1MSwwMDAwMDAwMDE5NDQ5NWJhMTg3NDEyMjA0YTkyOTRhMzJjZTJhNDM5`
+Snapshot ID: `MTY0OTczNzExNSwwMDAwMDAwMDE5NDQ5NWJhMTg3NDEyMjA0YTkyOTRhMzJjZTJhNDM5`

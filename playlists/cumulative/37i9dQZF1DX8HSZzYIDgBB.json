@@ -1002,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "New Latam Beats from Mexico Curated by Diguital Trip",
+        "url": "https://open.spotify.com/album/3T4SxLhzVaweReuWbisvrz"
+      },
+      "artists": [
+        {
+          "name": "Afrodita",
+          "url": "https://open.spotify.com/artist/63b3XLtJeDkzJqg6yQWCYm"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434406,
+      "name": "Kiss the frog",
+      "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
+    },
+    {
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"

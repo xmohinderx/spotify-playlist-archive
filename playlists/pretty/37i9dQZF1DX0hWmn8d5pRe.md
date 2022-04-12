@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of heavy rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,851 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,867 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 69 | [Lift Me Up \(feat\. Rob Halford of Judas Priest\)](https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:06 |
 | 70 | [Mountain Song](https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:02 |
 
-Snapshot ID: `MTY0OTcyNDkzNiwwMDAwMDAwMGM1ZjU5ZGNhZmViOTIxZDVkN2RhOGViYWMwNTc4NDIx`
+Snapshot ID: `MTY0OTczNzI2NiwwMDAwMDAwMGM1ZjU5ZGNhZmViOTIxZDVkN2RhOGViYWMwNTc4NDIx`

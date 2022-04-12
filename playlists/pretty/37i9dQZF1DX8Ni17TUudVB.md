@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,828 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,838 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Options](https://open.spotify.com/track/0zeOOoblxxdvAMqLr8hQSk) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Mr\. Jukeboxx](https://open.spotify.com/artist/0rTzD0LmYJRCp97EngfAGg) | [Options](https://open.spotify.com/album/0QrkolZQjPMwoqrX8SSTK9) | 3:08 |
 | 90 | [DJ Turn It Up](https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Amsterdam Twerk Music](https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce) | 3:31 |
 
-Snapshot ID: `MTY0OTcyNTIwMywwMDAwMDAwMDg5NDVlOTg3NjVkN2I1MDgyNmYyZDA4NWE0MTJhN2I1`
+Snapshot ID: `MTY0OTczNzQ3MiwwMDAwMDAwMDg5NDVlOTg3NjVkN2I1MDgyNmYyZDA4NWE0MTJhN2I1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana\. Cover: Silver Lining
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,665 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,666 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Right as Rain](https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK) | [Marianne Sveen](https://open.spotify.com/artist/5kXWa36lvxl2qHX4dGEMJD) | [Right as Rain](https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2) | 4:38 |
 | 60 | [While He Is Still Asleep](https://open.spotify.com/track/11QGYpsukruD6f85WSDyQD) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [While He Is Still Asleep](https://open.spotify.com/album/1KGp59EIwjR3kh4eRHAHjM) | 3:13 |
 
-Snapshot ID: `MTY0OTcyNTA3NSwwMDAwMDAwMDU2NDJlNjgyNjNmYTA2NmM3ZWQ3NTQ0ZTQ3ZDQxZGI0`
+Snapshot ID: `MTY0OTczNzM3MywwMDAwMDAwMDU2NDJlNjgyNjNmYTA2NmM3ZWQ3NTQ0ZTQ3ZDQxZGI0`

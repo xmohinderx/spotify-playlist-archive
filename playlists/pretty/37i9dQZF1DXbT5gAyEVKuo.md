@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 49 | [He'll Take The Pain Away](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 50 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
 
-Snapshot ID: `MTY0OTcyNTMwOCwwMDAwMDAwMGE2MGNmNjQ0NzA2YWY5NjY5YjFkNjllMDQ4NWQwMjQz`
+Snapshot ID: `MTY0OTczNzU1OCwwMDAwMDAwMGE2MGNmNjQ0NzA2YWY5NjY5YjFkNjllMDQ4NWQwMjQz`

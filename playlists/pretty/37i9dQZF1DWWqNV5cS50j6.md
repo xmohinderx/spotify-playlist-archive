@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > babe wake up new yung lean just dropped
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,499 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,511 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [‎mads ‎mikkelsen](https://open.spotify.com/track/7eQ1lG5mfVw06ZoYWQbF6p) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎telephone ‎wires](https://open.spotify.com/album/5sEdWftSr0o2CN2dSg5y2q) | 3:48 |
 | 100 | [Meaningless](https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:36 |
 
-Snapshot ID: `MTY0OTcyNDgwNCwwMDAwMDAwMGM4ZGY0Mzk1OTI4NjgxMDYxYWNmNjY2YzBlM2RiOTc4`
+Snapshot ID: `MTY0OTczNzE1NiwwMDAwMDAwMGM4ZGY0Mzk1OTI4NjgxMDYxYWNmNjY2YzBlM2RiOTc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\.  Cover: Garth Brooks and Trisha Yearwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,153 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,181 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Cover Me Up](https://open.spotify.com/track/47yypFbq6fu3yUvFoaf2UN) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Cover Me Up](https://open.spotify.com/album/2ApohlikHkJxgUghzbdJ3b) | 4:52 |
 | 100 | [Wonderful Tonight](https://open.spotify.com/track/21Z3B5PE2ocrIpKMduWPSr) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:37 |
 
-Snapshot ID: `MTY0OTcyNDk1NiwwMDAwMDAwMDg5NjI2OWYxMmU2NjNkZTA3Y2Q2NTQzZmVkNWJlMGRh`
+Snapshot ID: `MTY0OTczNzI4MSwwMDAwMDAwMDg5NjI2OWYxMmU2NjNkZTA3Y2Q2NTQzZmVkNWJlMGRh`

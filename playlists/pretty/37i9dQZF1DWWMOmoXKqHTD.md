@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMOmoXKqHTD.md) - [plain]
 
 > Sing along and enjoy the drive...
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,963,883 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,963,863 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMOmoXKqHTD.md) - [plain]
 | 99 | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/track/6sYJuVcEu4gFHmeTLdHzRz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/album/4kFCmKMq1c6gl8eema7wkg) | 3:14 |
 | 100 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
 
-Snapshot ID: `MTY0OTcyNDc4NSwwMDAwMDAwMDUwNDRjZmMyN2RkYmQxN2E5YTA2ODNjMTIzODhkNmQz`
+Snapshot ID: `MTY0OTczNzE0MiwwMDAwMDAwMDUwNDRjZmMyN2RkYmQxN2E5YTA2ODNjMTIzODhkNmQz`

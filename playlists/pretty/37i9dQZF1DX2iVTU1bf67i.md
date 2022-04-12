@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The sound, the feeling and the mood of Jazz\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,513 likes - 150 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,515 likes - 150 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 149 | [Give Me The Simple Life](https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 2:20 |
 | 150 | [I've Got It Bad, and That Ain't Good \- 2015 Remastered Version](https://open.spotify.com/track/5XsBdwtIGleul6Uv6Ha41B) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Sing for Your Supper](https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT) | 3:23 |
 
-Snapshot ID: `MTY0OTcyNTAwNSwwMDAwMDAwMGI5ZjZkYjljNDJkNTM0MGE0ZGU5NTRiNzRjMzdlNTZi`
+Snapshot ID: `MTY0OTczNzMyMCwwMDAwMDAwMGI5ZjZkYjljNDJkNTM0MGE0ZGU5NTRiNzRjMzdlNTZi`

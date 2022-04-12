@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,797,907 likes - 150 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797,964 likes - 150 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/3S0pLtHQWFYCmNE9byQcWS) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart](https://open.spotify.com/album/757sdXtzO7Csu93nrCGYeo) | 4:01 |
 | 150 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
 
-Snapshot ID: `MTY0OTcyNDg1NSwwMDAwMDAwMDQyMzUwOGFlNjI3ZWYwODRhZjQ4YmUzOGI4MDA1N2Qy`
+Snapshot ID: `MTY0OTczNzE5NywwMDAwMDAwMDQyMzUwOGFlNjI3ZWYwODRhZjQ4YmUzOGI4MDA1N2Qy`

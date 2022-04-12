@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 
 > Music to see you through the tough times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,278 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,299 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 99 | [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 |
 | 100 | [Love Hurts](https://open.spotify.com/track/05NdwiIQwyr0wqTOhxIFEt) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Playlist: The Very Best Of Roy Orbison](https://open.spotify.com/album/1r1M2br4KA8foMzLGUchdI) | 2:26 |
 
-Snapshot ID: `MTY0OTcyNTA1MywwMDAwMDAwMDVkZWI1ZDg3Y2VmNzQwZTY0ODlkNWEyYTNlNDQxNjIx`
+Snapshot ID: `MTY0OTczNzM1NiwwMDAwMDAwMDVkZWI1ZDg3Y2VmNzQwZTY0ODlkNWEyYTNlNDQxNjIx`

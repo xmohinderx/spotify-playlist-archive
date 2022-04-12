@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,717 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,700 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
 | 60 | [Kings](https://open.spotify.com/track/34I7k03M8nh8HDlLcrHlVS) | [Kosine](https://open.spotify.com/artist/5JO4jfnkthNB05Byp1zA84), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Kings](https://open.spotify.com/album/1JBUJodU3ej0ZIWBjkpKgE) | 3:29 |
 
-Snapshot ID: `MTY0OTcyNDc3OSwwMDAwMDAwMDBhOTk1MTg5MTcyNjljNzI2MTJlNDYyMDBlOTEyNDlh`
+Snapshot ID: `MTY0OTczNzEzNywwMDAwMDAwMDBhOTk1MTg5MTcyNjljNzI2MTJlNDYyMDBlOTEyNDlh`

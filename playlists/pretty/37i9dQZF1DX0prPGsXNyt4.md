@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Paulin da Capital, Mc Dricka
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,581 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,588 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Poesia Acústica \#9: Melhor Forma](https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Poesia Acústica \#9: Melhor Forma](https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm) | 10:11 |
 | 50 | [Set dos Casados](https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Phe Cachorrera](https://open.spotify.com/artist/6lpzj8HzoVgeA24NN1GnPV), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Kapela](https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR) | [Set dos Casados](https://open.spotify.com/album/4CNrRgC3wHmIRIWABYaiZP) | 10:43 |
 
-Snapshot ID: `MTY0OTcyNDkzOSwwMDAwMDAwMGJlNTRhZjAyNTFkY2Y1MWZjMjYzZTlmMzE1M2M3MTU2`
+Snapshot ID: `MTY0OTczNzI2OCwwMDAwMDAwMGJlNTRhZjAyNTFkY2Y1MWZjMjYzZTlmMzE1M2M3MTU2`

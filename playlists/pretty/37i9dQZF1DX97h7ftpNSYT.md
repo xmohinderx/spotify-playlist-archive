@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Running back the songs that take you back.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,604 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,611 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Live Up to My Name](https://open.spotify.com/track/07KTrRLfajXoKbtqOsefSJ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/5AeMtMpAHxMLf6ZEofJ8H1) | 3:00 |
 | 100 | [No Stylist \(feat\. Drake\)](https://open.spotify.com/track/04MLEeAMuV9IlHEsD8vF6A) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Stylist](https://open.spotify.com/album/0DMvfJWc1DjSbmnJF1NW1o) | 3:12 |
 
-Snapshot ID: `MTY0OTcyNTIyOSwwMDAwMDAwMGJiOGExMWM0Mzg0MGU3YjkyYmRjNmIyMjU0NzFlN2M4`
+Snapshot ID: `MTY0OTczNzQ5MywwMDAwMDAwMGJiOGExMWM0Mzg0MGU3YjkyYmRjNmIyMjU0NzFlN2M4`

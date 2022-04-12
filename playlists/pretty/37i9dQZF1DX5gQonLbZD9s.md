@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 
 > Throw the weights around with your favorite uptempo pop songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,339 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,361 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 | 74 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 |
 | 75 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 |
 
-Snapshot ID: `MTY0OTcyNTExNCwwMDAwMDAwMGQzNDMwZjExYWFkODhlMzdkOGI3YjE1YTc4NzY3NGY3`
+Snapshot ID: `MTY0OTczNzQwMiwwMDAwMDAwMGQzNDMwZjExYWFkODhlMzdkOGI3YjE1YTc4NzY3NGY3`

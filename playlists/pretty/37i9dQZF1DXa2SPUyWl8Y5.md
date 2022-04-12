@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,856 likes - 80 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,884 likes - 80 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
 | 80 | [Hypnotised](https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Hypnotised / I Can Feel](https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8) | 5:40 |
 
-Snapshot ID: `MTY0OTcyNTI2MCwwMDAwMDAwMDQ1Zjk2ZmQ0YTBmZWE0NWJhYjg1MWQ0NGQxZjYzMzMy`
+Snapshot ID: `MTY0OTczNzUyMCwwMDAwMDAwMDQ1Zjk2ZmQ0YTBmZWE0NWJhYjg1MWQ0NGQxZjYzMzMy`

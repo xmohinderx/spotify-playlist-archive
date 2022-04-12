@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kLYGxjE1TfCkb\-j\_igjP\_Q"> Black Sherif </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,323 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,331 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 |
 | 70 | [tufF lucK](https://open.spotify.com/track/05ckeXjGCNBEBcPxtefZjx) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [tufF lucK](https://open.spotify.com/album/4bOwdHNy1wXRKNdhMRpscl) | 3:40 |
 
-Snapshot ID: `MTY0OTcyNTM4MSwwMDAwMDAwMGU2MDM4OTY0NjBjODk1MmIzZjlhZmU4OGNjNWRkZDFl`
+Snapshot ID: `MTY0OTczNzYyMCwwMDAwMDAwMGU2MDM4OTY0NjBjODk1MmIzZjlhZmU4OGNjNWRkZDFl`

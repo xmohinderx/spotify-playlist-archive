@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 
 > Kick back to the best new and recent chill hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,139,838 likes - 130 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,140,211 likes - 130 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 | 129 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 130 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 |
 
-Snapshot ID: `MTY0OTcyNTA2OCwwMDAwMDAwMGNlMTg0NWQ1YjY4MzIxYjUyNzU4OTJhMGU2MjYxMDUz`
+Snapshot ID: `MTY0OTczNzM2NywwMDAwMDAwMGNlMTg0NWQ1YjY4MzIxYjUyNzU4OTJhMGU2MjYxMDUz`

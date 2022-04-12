@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,117 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,257 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Kristy, Are You Doing Okay?](https://open.spotify.com/track/7KYqkBA6ZQQWsiX1Cn1gGe) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/0rHpaRGtupLUoicwwVSi4J) | 3:42 |
 | 100 | [Hit Or Miss](https://open.spotify.com/track/5cWW0qGme9hnEtlPIT7qJ5) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/2a8teX5SBMer33HH1rkBwh) | 3:22 |
 
-Snapshot ID: `MTY0OTcyNTI5MCwwMDAwMDAwMGQ1ZThiNzZkNmNjMWZkZTU5OWU5MGM4ZTE2NzIxMzA1`
+Snapshot ID: `MTY0OTczNzU0NCwwMDAwMDAwMGQ1ZThiNzZkNmNjMWZkZTU5OWU5MGM4ZTE2NzIxMzA1`

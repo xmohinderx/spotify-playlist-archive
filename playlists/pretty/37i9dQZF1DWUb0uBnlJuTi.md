@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,518 likes - 80 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,552 likes - 80 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 79 | [The Kumquat Kids](https://open.spotify.com/track/2LyjDg604LyRHjPpiymW7Z) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Sunburst](https://open.spotify.com/album/0OBbbHk9bIj8k5DnzzQnkk) | 4:30 |
 | 80 | [Revival](https://open.spotify.com/track/5hg5J0FMtHsk2KpOvRWWuG) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Revival](https://open.spotify.com/album/6cAPKsxDX0FrdK3doIhJ8F) | 2:57 |
 
-Snapshot ID: `MTY0OTcyNDcyOCwwMDAwMDAwMGRiNDExMWE0ZDE4MzZkZjYwZDgxZjdhMGE2M2I5MGIz`
+Snapshot ID: `MTY0OTczNzA5NywwMDAwMDAwMGRiNDExMWE0ZDE4MzZkZjYwZDgxZjdhMGE2M2I5MGIz`

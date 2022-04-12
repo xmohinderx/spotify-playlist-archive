@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Chance The Rapper featuring visual artist Naïla Opiangah
 
-[Spotify](https://open.spotify.com/user/spotify) - 295 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 298 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Wins On Me](https://open.spotify.com/track/2nybUYGqGgFSyAs9DgGxuh) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Tony Tillman](https://open.spotify.com/artist/3ykPxobhwzrQ2a15hEFWAo), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Wins On Me](https://open.spotify.com/album/5E2pgw6HeAFHPxLGwmQ6VZ) | 2:26 |
 | 80 | [My God](https://open.spotify.com/track/73ac5sQSpW82JSWPedBnxq) | [Jon Hope](https://open.spotify.com/artist/5oGS8Bs7cYYAFFlgwWtyrC), [Ceez](https://open.spotify.com/artist/0Kx6eK0ohIBwfAFST3x44H), [Israel Wusu](https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f) | [Hope All is Well](https://open.spotify.com/album/1xG4mJftA5ekb57Ri9oUgG) | 3:46 |
 
-Snapshot ID: `MTY0OTcyNTE2NCwwMDAwMDAwMGRhNGRhNDkyYzYwZDMxNzRmZTFlMzgwOGEyMzFhYjI1`
+Snapshot ID: `MTY0OTczNzQ0MSwwMDAwMDAwMGRhNGRhNDkyYzYwZDMxNzRmZTFlMzgwOGEyMzFhYjI1`

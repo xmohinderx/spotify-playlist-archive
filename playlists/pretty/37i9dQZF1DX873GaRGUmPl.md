@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade so far\. Cover: Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,656 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,691 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 79 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 |
 | 80 | [Lemon Glow](https://open.spotify.com/track/1gmYNelMcY3SFIXhpeBkaz) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1xg88pe0CUD6UeE3fEnEkD) | 4:04 |
 
-Snapshot ID: `MTY0OTcyNTE5NSwwMDAwMDAwMGYwMmFkM2RiZjhkOGM2MDg3Y2JiY2QwMTRmMDZkODNm`
+Snapshot ID: `MTY0OTczNzQ2NiwwMDAwMDAwMGYwMmFkM2RiZjhkOGM2MDg3Y2JiY2QwMTRmMDZkODNm`

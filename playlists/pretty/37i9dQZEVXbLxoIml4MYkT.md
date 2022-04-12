@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLxoIml4MYkT.md) - [plain]
 
 > Your daily update of the most played tracks right now \- El Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,325 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,323 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

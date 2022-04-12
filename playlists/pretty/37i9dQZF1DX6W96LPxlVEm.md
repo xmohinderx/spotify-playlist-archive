@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W96LPxlVEm.md) - [plain]
 
 > Los mejores nuevos y viejos temas para cantar y perrear detrás del volante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,853 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,881 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W96LPxlVEm.md) - [plain]
 | 79 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 | 80 | [TBT](https://open.spotify.com/track/4s45VgkknMFkdiGoUcjxQU) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [TBT](https://open.spotify.com/album/3RG65TH0L4E9jtJoj5JpMQ) | 3:59 |
 
-Snapshot ID: `MTY0OTcyNTE0NCwwMDAwMDAwMDFmMjFkNzNhMGViYTE1YjEyMmFjYjY4MTYzZDIyMjQ5`
+Snapshot ID: `MTY0OTczNzQyNiwwMDAwMDAwMDFmMjFkNzNhMGViYTE1YjEyMmFjYjY4MTYzZDIyMjQ5`

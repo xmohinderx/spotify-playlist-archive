@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 
 > A mix of the biggest pop, dance, and hip hop party songs\. Cover: Latto & Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,091,504 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,091,591 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 | 74 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 75 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 |
 
-Snapshot ID: `MTY0OTcyNTI2MCwwMDAwMDAwMGM4NzRiMmU0NmUzNjRiYTFjYjQ2YTgyYzQyZjc0OWE1`
+Snapshot ID: `MTY0OTczNzUyMCwwMDAwMDAwMGM4NzRiMmU0NmUzNjRiYTFjYjQ2YTgyYzQyZjc0OWE1`

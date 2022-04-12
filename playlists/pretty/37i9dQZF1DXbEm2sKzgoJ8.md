@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,076 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,183 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 99 | [The Hills](https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:02 |
 | 100 | [Honesty](https://open.spotify.com/track/68vX3NqqjR7LVbyBd2EHF7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 1](https://open.spotify.com/album/7haisAWnBurqvjXerdrGzG) | 3:11 |
 
-Snapshot ID: `MTY0OTcyNTMwMSwwMDAwMDAwMGJhNmJjZmQ5NTYwMmVkYmFkODM0ODE2ZTA1MmY0NzVi`
+Snapshot ID: `MTY0OTczNzU1MywwMDAwMDAwMGJhNmJjZmQ5NTYwMmVkYmFkODM0ODE2ZTA1MmY0NzVi`

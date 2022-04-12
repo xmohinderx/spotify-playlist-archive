@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,575,694 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,575,688 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Diving Birds](https://open.spotify.com/track/6b5Y2qdzMU6X9sK11UXouC) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn), [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 5:29 |
 | 100 | [Moon In Your Eye](https://open.spotify.com/track/5Cr8cUS0BRKfATARapnDhW) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 2:14 |
 
-Snapshot ID: `MTY0OTcyNDgyMSwwMDAwMDAwMGQwOTY4MTQ5ZTE5MzI4MTI1ZTM1OTE1MzBiNTQ0Njhi`
+Snapshot ID: `MTY0OTczNzE3MCwwMDAwMDAwMGQwOTY4MTQ5ZTE5MzI4MTI1ZTM1OTE1MzBiNTQ0Njhi`

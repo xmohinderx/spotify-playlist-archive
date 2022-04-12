@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 
 > A pop rock running mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,022 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,027 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 | 49 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 50 | [Love Don't Die](https://open.spotify.com/track/328vwrjOdWDdsU3Ekod8Kf) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Love Don't Die](https://open.spotify.com/album/7nfVuiEJzJMrh1ghnyCeMR) | 3:03 |
 
-Snapshot ID: `MTY0OTcyNDczOSwwMDAwMDAwMDMzZjZkN2ZjZDA4NzRmYWExN2U1Njk0YjU5YzA1ODky`
+Snapshot ID: `MTY0OTczNzEwNiwwMDAwMDAwMDMzZjZkN2ZjZDA4NzRmYWExN2U1Njk0YjU5YzA1ODky`

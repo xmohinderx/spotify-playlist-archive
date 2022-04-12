@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Halva Priset
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,438 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,442 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [To steg fram og attende tri](https://open.spotify.com/track/69SFfLMl6pnZRJn3gevXi2) | [Lothepus](https://open.spotify.com/artist/2HEAdsUVqQO9KqF1wKmHOO) | [Cowboyhjarta](https://open.spotify.com/album/53F5EooenK4mtYHnmFC2PK) | 3:02 |
 | 70 | [VI SKA BLI FULLA](https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:45 |
 
-Snapshot ID: `MTY0OTcyNTI2MiwwMDAwMDAwMDYxYjZiYzcyZmRkMzhhMGM0OGU3YzVmYTMxMGQxNjJi`
+Snapshot ID: `MTY0OTczNzUyMSwwMDAwMDAwMDYxYjZiYzcyZmRkMzhhMGM0OGU3YzVmYTMxMGQxNjJi`

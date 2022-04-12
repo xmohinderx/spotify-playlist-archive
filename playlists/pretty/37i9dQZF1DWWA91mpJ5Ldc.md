@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,366 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,365 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 |
 | 60 | [A parte que falta](https://open.spotify.com/track/0NUu7f2wLfBrdNgiLmyVBz) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz) | [A parte que falta](https://open.spotify.com/album/5LSpRZX5Bm6rQ9ye5ACNra) | 4:46 |
 
-Snapshot ID: `MTY0OTcyNDc3OSwwMDAwMDAwMDRhOWQwNTI1MjMzOGI0MmZjODI1YWIzNTNiZjM0Yzll`
+Snapshot ID: `MTY0OTczNzEzNywwMDAwMDAwMDRhOWQwNTI1MjMzOGI0MmZjODI1YWIzNTNiZjM0Yzll`

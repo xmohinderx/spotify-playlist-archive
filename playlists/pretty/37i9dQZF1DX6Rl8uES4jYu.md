@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,571 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,579 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [Coffee](https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Coffee](https://open.spotify.com/album/3lwy2PkY9ySC5xj0teYHiH) | 2:56 |
 | 80 | [Chemicals](https://open.spotify.com/track/4cJ2FwivZpSQ5Tx98w1hgK) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Chemicals](https://open.spotify.com/album/57VWVqpSTU1u7fuOEeS20p) | 3:02 |
 
-Snapshot ID: `MTY0OTcyNTE0MiwwMDAwMDAwMDg0Njk2MTBjNGM3ZTlhODI2YzIwYmE0YjE2Y2M2Y2Vl`
+Snapshot ID: `MTY0OTczNzQyNCwwMDAwMDAwMDg0Njk2MTBjNGM3ZTlhODI2YzIwYmE0YjE2Y2M2Y2Vl`

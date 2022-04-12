@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 
 > Get your gaming session going with this epic rap mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,947,644 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,947,676 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 | 99 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 |
 | 100 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 |
 
-Snapshot ID: `MTY0OTcyNTE1NSwwMDAwMDAwMDBiMGM5MDRiZmNmZjMzZWQxZGM5NjA3NDVjNDZiM2Iz`
+Snapshot ID: `MTY0OTczNzQzNCwwMDAwMDAwMDBiMGM5MDRiZmNmZjMzZWQxZGM5NjA3NDVjNDZiM2Iz`

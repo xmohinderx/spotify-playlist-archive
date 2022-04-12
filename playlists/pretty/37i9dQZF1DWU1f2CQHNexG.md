@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Yazoo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,452 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,488 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 49 | [Rock Me Amadeus](https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Falco 3](https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh) | 3:22 |
 | 50 | [Enola Gay \- Remastered](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
 
-Snapshot ID: `MTY0OTcyNDcxMCwwMDAwMDAwMDI5M2NmMjA4NWNkODM3NGQ1OGM5ZjVhZmE5M2JmMTZk`
+Snapshot ID: `MTY0OTczNzA4MywwMDAwMDAwMDI5M2NmMjA4NWNkODM3NGQ1OGM5ZjVhZmE5M2JmMTZk`

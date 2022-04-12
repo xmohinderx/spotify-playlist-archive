@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 2022 RADAR 新勢力
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,712 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,714 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [Lonestar](https://open.spotify.com/track/0y3skHpU8JN23aFHgvya6t) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Lonestar](https://open.spotify.com/album/0NWEZ50wiCMLP2SiFXyMEv) | 4:28 |
 | 60 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 
-Snapshot ID: `MTY0OTcyNDk5NCwwMDAwMDAwMDIxYTcxNjMyM2ZjYjk3MDY1YjZmYTM5MWVlZDU0YWZi`
+Snapshot ID: `MTY0OTczNzMxMiwwMDAwMDAwMDIxYTcxNjMyM2ZjYjk3MDY1YjZmYTM5MWVlZDU0YWZi`

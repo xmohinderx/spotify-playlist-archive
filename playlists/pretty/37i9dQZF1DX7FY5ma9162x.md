@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 
 > The tracks you can put on repeat all day\. Cover: PARTYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,474 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,488 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 | 99 | [SOMETHING](https://open.spotify.com/track/2XsOdKqJUscFGLk8DgiAjS) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:59 |
 | 100 | [All My Love](https://open.spotify.com/track/454UyoTlRt9FFI9ErpMPMk) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [All My Love](https://open.spotify.com/album/3W1hhyjpqF1lQoqvsESLFk) | 2:34 |
 
-Snapshot ID: `MTY0OTcyNTE2OCwwMDAwMDAwMDYyZjdkOGJhZmEwMzNkMjc5ZTAzYmVlNTRiMzUyMWEy`
+Snapshot ID: `MTY0OTczNzQ0NSwwMDAwMDAwMDYyZjdkOGJhZmEwMzNkMjc5ZTAzYmVlNTRiMzUyMWEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Dance yourself back in time with these 80s sampled futuristic rhythms\. Welcome to the future of funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,809 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,850 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [Cygnus](https://open.spotify.com/track/4Vcmrf9gfHvjs3Y5ZDVGH4) | [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [Cygnus](https://open.spotify.com/album/2G7chgH4yeOqKpRiUanLKa) | 5:45 |
 | 100 | [Want Cha Luv](https://open.spotify.com/track/7MnlsSbv1piRgRYrfQbJsK) | [クリスタルKITSUNE](https://open.spotify.com/artist/3YPKPVPVMv1Jp1GQ0qinLP) | [Beach Babes & Vapor Waves](https://open.spotify.com/album/5f0Bj7t72qof8fEZQHh6BL) | 4:33 |
 
-Snapshot ID: `MTY0OTcyNTMxNiwwMDAwMDAwMDA5MzhiMjRjMGMxMmIzN2ExZjc0OWYxZmNlN2E5MGE5`
+Snapshot ID: `MTY0OTczNzU2NSwwMDAwMDAwMDA5MzhiMjRjMGMxMmIzN2ExZjc0OWYxZmNlN2E5MGE5`

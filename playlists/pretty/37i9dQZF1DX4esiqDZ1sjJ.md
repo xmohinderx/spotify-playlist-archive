@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,547 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,585 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 74 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
 | 75 | [THat Part](https://open.spotify.com/track/2yJ9GVCLMmzBBfQAnfzlwr) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Blank Face LP](https://open.spotify.com/album/0YbpATCIng8Fz2JrfHmEf7) | 5:13 |
 
-Snapshot ID: `MTY0OTcyNTA3MywwMDAwMDAwMGIwMmM2NGE3ODY1M2U0ZDljMDc2MTk0NjZmNDVlOGY0`
+Snapshot ID: `MTY0OTczNzM3MSwwMDAwMDAwMGIwMmM2NGE3ODY1M2U0ZDljMDc2MTk0NjZmNDVlOGY0`

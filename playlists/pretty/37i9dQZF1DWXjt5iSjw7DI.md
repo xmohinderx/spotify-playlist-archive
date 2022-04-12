@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\.   Just like being there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,642 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,654 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Okie From Muskogee \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 4:08 |
 | 150 | [Rodeo Cowboy](https://open.spotify.com/track/4Yq2hUmhASFPQ55PTht40h) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 |
 
-Snapshot ID: `MTY0OTcyNDgzNCwwMDAwMDAwMDM0MGMyODFiZDc3MTQ5MzBmZmJlMzIyODkzMzBjMDJm`
+Snapshot ID: `MTY0OTczNzE4MCwwMDAwMDAwMDM0MGMyODFiZDc3MTQ5MzBmZmJlMzIyODkzMzBjMDJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,577 likes - 500 songs - 21 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,580 likes - 500 songs - 21 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 499 | [Once Again](https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Once Again](https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi) | 3:05 |
 | 500 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 |
 
-Snapshot ID: `MTY0OTcyNDk4MCwwMDAwMDAwMDQ0OGY0ZDU1YmNjMDk3Yjc1MWFjYWM0NjM3ZTNkOGEx`
+Snapshot ID: `MTY0OTczNzMwMSwwMDAwMDAwMDQ0OGY0ZDU1YmNjMDk3Yjc1MWFjYWM0NjM3ZTNkOGEx`

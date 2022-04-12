@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The songs you just keep coming back to\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,636 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,630 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 99 | [Still Trappin' \(with King Von\)](https://open.spotify.com/track/43BlKpJcSrC9AsJ3F1DKg9) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [The Voice](https://open.spotify.com/album/12TuxCWI6BzfSXaZMKMrPn) | 2:52 |
 | 100 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 |
 
-Snapshot ID: `MTY0OTcyNTA1NCwwMDAwMDAwMGVhN2Q4ZjVkNjc1ODA5MDUyZTJjNzFmMzJiOWRmZmU3`
+Snapshot ID: `MTY0OTczNzM1NywwMDAwMDAwMGVhN2Q4ZjVkNjc1ODA5MDUyZTJjNzFmMzJiOWRmZmU3`

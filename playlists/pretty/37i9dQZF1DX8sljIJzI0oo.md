@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > turn up with Duki, De La Ghetto, Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705,163 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,705,171 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 79 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 |
 | 80 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 |
 
-Snapshot ID: `MTY0OTcyNTIyMSwwMDAwMDAwMDlmMzI4MGM1MjA5YjZmZWYzOWVhNmYzNjEyNGZmYzdm`
+Snapshot ID: `MTY0OTczNzQ4NiwwMDAwMDAwMDlmMzI4MGM1MjA5YjZmZWYzOWVhNmYzNjEyNGZmYzdm`

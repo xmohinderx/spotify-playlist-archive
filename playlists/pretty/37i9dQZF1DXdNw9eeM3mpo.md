@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Auténticos Decadentes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,874 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,888 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Las Cruces De Tijuana](https://open.spotify.com/track/0mMEcO1RDMTlZLh0htUcPd) | [La Pobreska](https://open.spotify.com/artist/44TSwENgCX8slIysp8T4fP) | [Mosquita Y Mari \(Original Motion Picture Soundtrack](https://open.spotify.com/album/7l9J4kyRpVYAGaGrtQo7pj) | 4:23 |
 | 100 | [Skapate](https://open.spotify.com/track/0WxhUVk13E7CEmbVSbh9Io) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Desorden Publico](https://open.spotify.com/album/2yvlTPqKqzq1lDDTBpf1tz) | 3:28 |
 
-Snapshot ID: `MTY0OTcyNTM2NiwwMDAwMDAwMGM1MDk1NzMxMzc2ZThmZTJjMGM2NDRjNjQzMDIwZWRl`
+Snapshot ID: `MTY0OTczNzYwOSwwMDAwMDAwMGM1MDk1NzMxMzc2ZThmZTJjMGM2NDRjNjQzMDIwZWRl`

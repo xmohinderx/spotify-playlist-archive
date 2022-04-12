@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Upon A Burning Body
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,731 likes - 120 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,758 likes - 120 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 119 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 |
 | 120 | [Emotionless Mass](https://open.spotify.com/track/2vQVeBLELpi94Zk4tpXKIU) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Medina](https://open.spotify.com/artist/4gcF5DdDf5H5rdkHvnvRRO) | [Emotionless Mass](https://open.spotify.com/album/0ClQU9ILh0wWUWZ1K5ritk) | 5:02 |
 
-Snapshot ID: `MTY0OTcyNDk2NiwwMDAwMDAwMDkwNGM1MzA2NzVhMjNhOWM0OWNhNTliOWRkY2ZjOTQ4`
+Snapshot ID: `MTY0OTczNzI5MCwwMDAwMDAwMDkwNGM1MzA2NzVhMjNhOWM0OWNhNTliOWRkY2ZjOTQ4`

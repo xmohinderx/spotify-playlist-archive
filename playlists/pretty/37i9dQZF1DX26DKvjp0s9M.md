@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > All your indie favorites\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,938 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,993 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [Digital Witness](https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent](https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf) | 3:22 |
 | 100 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 |
 
-Snapshot ID: `MTY0OTcyNDk4NSwwMDAwMDAwMGFiZjZhNzIwMmNlYzY3OTMwMjY3MzQwZTUzN2I2MmMy`
+Snapshot ID: `MTY0OTczNzMwNSwwMDAwMDAwMGFiZjZhNzIwMmNlYzY3OTMwMjY3MzQwZTUzN2I2MmMy`

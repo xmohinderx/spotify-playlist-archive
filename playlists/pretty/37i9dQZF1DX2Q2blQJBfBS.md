@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 
 > Enter the Skate Shop for soulful & gritty hip\-hop
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,585 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,723 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 99 | [The Extinction Agenda](https://open.spotify.com/track/2oiC9GdjVI2FrDWjv9TOo5) | [Organized Konfusion](https://open.spotify.com/artist/4trFlc6c04qfpnCGvlqFCV) | [Stress: The Extinction Agenda](https://open.spotify.com/album/0BqQ4jkZVQRt0cCfoWblpA) | 3:57 |
 | 100 | [Party and Bullshit \- 2008 Remaster](https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [NOTORIOUS Music From and Inspired by the Original Motion Picture](https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4) | 3:37 |
 
-Snapshot ID: `MTY0OTcyNDk5NSwwMDAwMDAwMDliYWM3ZGYyNWVjYmUxZTcwOTc4OWJmNDY0MTJlZDZl`
+Snapshot ID: `MTY0OTczNzMxMywwMDAwMDAwMDliYWM3ZGYyNWVjYmUxZTcwOTc4OWJmNDY0MTJlZDZl`

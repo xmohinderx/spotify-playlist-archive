@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: IVE\(아이브\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,129 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,223 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 98 | [Infinite City \- Groundbreak Version](https://open.spotify.com/track/5DvbyNZX3sXad7BXiCZlql) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [1st Track of CJ LiveCity](https://open.spotify.com/album/37OcZj8uuvKDgwTXhTsS9r) | 4:11 |
 | 99 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
 
-Snapshot ID: `MTY0OTcyNTA0MCwwMDAwMDAwMGZiOWMxNjI3NDI4MjM5YjU1ZjAyZTFjY2Q4ZTViNzJk`
+Snapshot ID: `MTY0OTczNzM0NiwwMDAwMDAwMGZiOWMxNjI3NDI4MjM5YjU1ZjAyZTFjY2Q4ZTViNzJk`

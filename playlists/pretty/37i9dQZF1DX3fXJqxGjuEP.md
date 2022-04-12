@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,442 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,452 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 |
 | 100 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
 
-Snapshot ID: `MTY0OTcyNTA0MywwMDAwMDAwMGExNzgyMjZiODZlZTQ0NWMyNmI3NDBiMWMxYjdhMzUy`
+Snapshot ID: `MTY0OTczNzM0OCwwMDAwMDAwMGExNzgyMjZiODZlZTQ0NWMyNmI3NDBiMWMxYjdhMzUy`

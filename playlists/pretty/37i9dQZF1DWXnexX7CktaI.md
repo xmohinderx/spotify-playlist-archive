@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 
 > All the jams\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,348 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785,430 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 39 | [Got Me \(with Ari Lennox & Omen feat\. Ty Dolla $ign & Dreezy\)](https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 4:44 |
 | 40 | [Shot Clock](https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:21 |
 
-Snapshot ID: `MTY0OTcyNDgzNiwwMDAwMDAwMGEyYzgwMTk3YzFhNjk5NWY5ZmUwYjQ4ZTQ2NGY0NTEx`
+Snapshot ID: `MTY0OTczNzE4MSwwMDAwMDAwMGEyYzgwMTk3YzFhNjk5NWY5ZmUwYjQ4ZTQ2NGY0NTEx`

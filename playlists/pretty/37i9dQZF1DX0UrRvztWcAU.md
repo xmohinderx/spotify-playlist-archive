@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these awesome, happy songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,401 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,410 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [Risk It All](https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Risk It All](https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5) | 2:58 |
 | 150 | [Closer To You \(feat\. Sinéad Harnett\)](https://open.spotify.com/track/34awK00Tgp6KW6jgxiY5mR) | [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Closer To You \(feat\. Sinéad Harnett\)](https://open.spotify.com/album/4aRGpglrxMbzseRbI6z0XR) | 3:16 |
 
-Snapshot ID: `MTY0OTcyNDkyOSwwMDAwMDAwMGE5OWQxOGQyYjM4ZmE5MjE1Mjk4Y2JkMWJhM2MwZDBh`
+Snapshot ID: `MTY0OTczNzI2MCwwMDAwMDAwMGE5OWQxOGQyYjM4ZmE5MjE1Mjk4Y2JkMWJhM2MwZDBh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,925 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,931 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 74 | [Soon Come](https://open.spotify.com/track/0axpkcx0olVmVJdR4vlBhk) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Soon Come](https://open.spotify.com/album/1WgpP0MMKas5FO8ixC1jn5) | 3:08 |
 | 75 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
 
-Snapshot ID: `MTY0OTcyNDk5MywwMDAwMDAwMDdmYjY5MzRiMWYwNjI4MzE3ZmFiYWZkZTdhMTkyNmY1`
+Snapshot ID: `MTY0OTczNzMxMSwwMDAwMDAwMDdmYjY5MzRiMWYwNjI4MzE3ZmFiYWZkZTdhMTkyNmY1`

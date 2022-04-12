@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Italy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,078 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,082 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

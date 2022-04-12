@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 |
 | 50 | [Linns vise](https://open.spotify.com/track/6gJu24OVK2qn8lSDhJwJOm) | [Trygve Kongshavn](https://open.spotify.com/artist/5OY2ooNpDtsieQ9ZoOx7W5) | [Linns vise](https://open.spotify.com/album/3ywfU2tolFCerdZYxqAQgO) | 3:43 |
 
-Snapshot ID: `MTY0OTcyNDgxNiwwMDAwMDAwMGU2YzFhZGExMGI3ZDI5NTliMTgwMjlmMDQ2ZDRkNDA2`
+Snapshot ID: `MTY0OTczNzE2NiwwMDAwMDAwMGU2YzFhZGExMGI3ZDI5NTliMTgwMjlmMDQ2ZDRkNDA2`

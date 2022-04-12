@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Caity Gyorgy
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,463 likes - 116 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,469 likes - 116 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 115 | [You Don't Know Me](https://open.spotify.com/track/7o8q6PWBhavXyOSsDMQOhO) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [You Don't Know Me](https://open.spotify.com/album/5cV8S9D9OGM8nxzUKjLfwy) | 3:26 |
 | 116 | [The October Storm](https://open.spotify.com/track/4zR2BGxSLZTBzeC6knFfeL) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv) | [The October Storm](https://open.spotify.com/album/75PlW6KO3trATMAH6ZrSqO) | 4:12 |
 
-Snapshot ID: `MTY0OTcyNTAwNiwwMDAwMDAwMDMyMjNkYmI4YWRjMDNmYTczOTJhYzYwYWQ3M2U4YzYz`
+Snapshot ID: `MTY0OTczNzMyMCwwMDAwMDAwMDMyMjNkYmI4YWRjMDNmYTczOTJhYzYwYWQ3M2U4YzYz`

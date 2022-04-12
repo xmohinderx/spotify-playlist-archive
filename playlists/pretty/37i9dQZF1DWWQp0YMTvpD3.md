@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,237 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,249 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 64 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 |
 | 65 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 |
 
-Snapshot ID: `MTY0OTcyNDc5MCwwMDAwMDAwMDA4Y2JhMDRkYjI3NTdlNDk3Mjc0YWNmMTYwOTVkZTBi`
+Snapshot ID: `MTY0OTczNzE0NiwwMDAwMDAwMDA4Y2JhMDRkYjI3NTdlNDk3Mjc0YWNmMTYwOTVkZTBi`

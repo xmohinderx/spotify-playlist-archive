@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,942 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,955 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 99 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI) | 3:40 |
 | 100 | [Blame](https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Blame](https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p) | 4:11 |
 
-Snapshot ID: `MTY0OTcyNTE0OCwwMDAwMDAwMDNmN2YyNDM2MTcxNThkMmIxMzFmOTAwZjMzYmRlYzRh`
+Snapshot ID: `MTY0OTczNzQyOSwwMDAwMDAwMDNmN2YyNDM2MTcxNThkMmIxMzFmOTAwZjMzYmRlYzRh`

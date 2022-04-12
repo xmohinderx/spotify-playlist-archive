@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > a little glitter never hurt anyone
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,169 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,252 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 74 | [Whose Bed Have Your Boots Been Under?](https://open.spotify.com/track/2ugGNNwNaJdiusX3aLOMUy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 3:58 |
 | 75 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 
-Snapshot ID: `MTY0OTcyNTI2NSwwMDAwMDAwMDIzMmU3NjVmMTAwYmQ0NGNiNDg4ZmI5MzI0YjhiZGRl`
+Snapshot ID: `MTY0OTczNzUyMywwMDAwMDAwMDIzMmU3NjVmMTAwYmQ0NGNiNDg4ZmI5MzI0YjhiZGRl`

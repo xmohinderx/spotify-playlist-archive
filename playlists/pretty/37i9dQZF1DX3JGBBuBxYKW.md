@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Soledad & Natalie Perez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,590 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,587 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Señor Mentira](https://open.spotify.com/track/2aRIGuUAW6agcFE7czXq7H) | [Verónica Ávila](https://open.spotify.com/artist/0kER6HwNAQQBCrJcJvVeug) | [Señor Mentira](https://open.spotify.com/album/1LrXgOguVqJapzoYXu303k) | 3:05 |
 | 65 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 
-Snapshot ID: `MTY0OTcyNTAzMCwwMDAwMDAwMDA4N2VjYWFhMzk5ZjU3ZDgwM2E4ZGYzNzI1ODAwODY0`
+Snapshot ID: `MTY0OTczNzMzOCwwMDAwMDAwMDA4N2VjYWFhMzk5ZjU3ZDgwM2E4ZGYzNzI1ODAwODY0`

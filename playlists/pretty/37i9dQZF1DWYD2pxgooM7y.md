@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > Summertime sadness everyday
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,589 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,590 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 59 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
 | 60 | [HULA HOOP](https://open.spotify.com/track/2YVzshKzFglQLBXPYNpGI8) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [HULA HOOP / StarSeed \~カクセイ\~](https://open.spotify.com/album/7GQdWx1bMvrbVBOtCa829d) | 3:19 |
 
-Snapshot ID: `MTY0OTcyNDg1MiwwMDAwMDAwMDc4YTFjYjI2NzI1ZmYwMWNjNDE4ZmFmZGI2OTczMWU3`
+Snapshot ID: `MTY0OTczNzE5NCwwMDAwMDAwMDc4YTFjYjI2NzI1ZmYwMWNjNDE4ZmFmZGI2OTczMWU3`

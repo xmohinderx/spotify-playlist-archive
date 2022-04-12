@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,103 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,120 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 |
 | 75 | [Night Running](https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:28 |
 
-Snapshot ID: `MTY0OTcyNDk5MCwwMDAwMDAwMGU1MjY5NzJjZGE2OWVjNDczYmYxNGI5ZWFkYmYzM2Fk`
+Snapshot ID: `MTY0OTczNzMwOCwwMDAwMDAwMGU1MjY5NzJjZGE2OWVjNDczYmYxNGI5ZWFkYmYzM2Fk`

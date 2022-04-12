@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover:  JAY\-Z & Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,588 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,630 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 49 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
 | 50 | [Demagogue](https://open.spotify.com/track/4O8QZyTl48JLo93cdFWLlN) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [The Singles Collection](https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i) | 4:06 |
 
-Snapshot ID: `MTY0OTcyNTE5NiwwMDAwMDAwMDliYjkxZDRhYWFkODY0MzA3M2Q5OTc2ODZjMjdhNWVk`
+Snapshot ID: `MTY0OTczNzQ2NiwwMDAwMDAwMDliYjkxZDRhYWFkODY0MzA3M2Q5OTc2ODZjMjdhNWVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,088 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,084 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Ready](https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ready](https://open.spotify.com/album/6eSOrBQDFoAT27MUPHW5d4) | 2:30 |
 | 100 | [Closed Doors \- Déjame Decirte](https://open.spotify.com/track/4VDh6EZ1gH0bXt07FlJEuH) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5) | [Closed Doors \(Déjame Decirte\)](https://open.spotify.com/album/5puThnFutIpLDO7xkVFYqR) | 3:45 |
 
-Snapshot ID: `MTY0OTcyNDc1NSwwMDAwMDAwMGY4ZjE1NzMzZWUxZjk5Zjk1MDhiOTdkOGViODg0ZDE0`
+Snapshot ID: `MTY0OTczNzExOSwwMDAwMDAwMGY4ZjE1NzMzZWUxZjk5Zjk1MDhiOTdkOGViODg0ZDE0`

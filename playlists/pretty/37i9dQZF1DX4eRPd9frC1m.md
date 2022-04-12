@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,359,120 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,359,206 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [SHUTUP \(with Scrilla King\)](https://open.spotify.com/track/4o6VZA8EusQrSSEs8dlcB9) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Scrilla King](https://open.spotify.com/artist/1St1N6TsS6S7md9bXTBWJx) | [WukiWorld](https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir) | 2:51 |
 | 75 | [Sin](https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Sin](https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1) | 2:11 |
 
-Snapshot ID: `MTY0OTcyNTA3MywwMDAwMDAwMGZlYzljYjliNzFjNjY3ZTUwYzNkYzdjZDFjYzBmNDdm`
+Snapshot ID: `MTY0OTczNzM3MSwwMDAwMDAwMGZlYzljYjliNzFjNjY3ZTUwYzNkYzdjZDFjYzBmNDdm`

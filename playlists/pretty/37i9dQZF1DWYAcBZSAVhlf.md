@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,652 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,682 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 79 | [You're My Heart, You're My Soul](https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [The First & Second Album \(30th Anniversary Edition\)](https://open.spotify.com/album/15JQStE0eqKcRp2tYzDoRD) | 5:34 |
 | 80 | [Could It Be I'm Falling in Love \- 7" Version](https://open.spotify.com/track/6diwBLVL5iXxonbt2INBmS) | [David Grant](https://open.spotify.com/artist/6nxKcnBm27DcV7ZbSdJW2W), [Jaki Graham](https://open.spotify.com/artist/4i50i5M5whfhk1zFEfo36O) | [Could It Be I'm Falling in Love](https://open.spotify.com/album/0pUovesExorKlj1V2JuWCN) | 4:20 |
 
-Snapshot ID: `MTY0OTcyNDg0OSwwMDAwMDAwMGRjZjhmMmYxMDZkZmVmNmM2ZjhlMzFkODNjZmI0ODMz`
+Snapshot ID: `MTY0OTczNzE5MiwwMDAwMDAwMGRjZjhmMmYxMDZkZmVmNmM2ZjhlMzFkODNjZmI0ODMz`

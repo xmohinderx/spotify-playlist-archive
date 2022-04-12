@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > Chill out with these awesome alt songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,361 likes - 125 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,370 likes - 125 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Bottom Of The Deep Blue Sea](https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Bottom Of The Deep Blue Sea](https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d) | 3:51 |
 | 125 | [Lazy Eye](https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Singles Collection](https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv) | 5:54 |
 
-Snapshot ID: `MTY0OTcyNTI2NSwwMDAwMDAwMDdhN2MxNzRiYWE3YWM1YjZjNDZlZjVhNTdiZDkyOGNj`
+Snapshot ID: `MTY0OTczNzUyNCwwMDAwMDAwMDdhN2MxNzRiYWE3YWM1YjZjNDZlZjVhNTdiZDkyOGNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: NCT DREAM\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,624 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,636 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 49 | [I Want You](https://open.spotify.com/track/7A1oOQbQbWzd1fvCFvcuwD) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | ['The Story of Light' EP.2 \- The 6th Album](https://open.spotify.com/album/6QhNwMsz7mr2AsEtUO2JJY) | 3:04 |
 | 50 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 |
 
-Snapshot ID: `MTY0OTcyNTA2MywwMDAwMDAwMDVlOGU5NWQyOGRlZmUyNTIyZjhmMTM0ZjEzYmJmNzEw`
+Snapshot ID: `MTY0OTczNzM2NCwwMDAwMDAwMDVlOGU5NWQyOGRlZmUyNTIyZjhmMTM0ZjEzYmJmNzEw`

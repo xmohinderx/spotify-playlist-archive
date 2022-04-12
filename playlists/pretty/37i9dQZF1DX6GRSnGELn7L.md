@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 
 > Whether you call it technical, progressive or math metal, it all djents\. Cover: InVisions
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,600 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,611 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 99 | [Risset](https://open.spotify.com/track/00fqV46YpTk3w4qrwoBFlf) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [Risset](https://open.spotify.com/album/5qcFZTlyZlKLo1yHrUDgZ9) | 4:49 |
 | 100 | [Outsider](https://open.spotify.com/track/2UJ7e55bObCYCqpBkehnsr) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outsider](https://open.spotify.com/album/7GO1IxJeKLxhsOiD6aag2r) | 4:09 |
 
-Snapshot ID: `MTY0OTcyNTEzNCwwMDAwMDAwMDY2MzAzYWI1MjZjNDVhMGFmNmU0NjkwMGFmZGZhN2Rl`
+Snapshot ID: `MTY0OTczNzQxOCwwMDAwMDAwMDY2MzAzYWI1MjZjNDVhMGFmNmU0NjkwMGFmZGZhN2Rl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,421 likes - 80 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,418 likes - 80 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Do the Right Thing](https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f) | [Do the Right Thing](https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2) | 2:01 |
 | 80 | [Spaw](https://open.spotify.com/track/3uV21zNSHZB4UigNPKGOnm) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ) | [Spaw](https://open.spotify.com/album/2gR1HQyCYL5P0oL2hPLF3a) | 2:13 |
 
-Snapshot ID: `MTY0OTcyNTA0NiwwMDAwMDAwMGM3NDIzNGFhMmQwYzRmMGI3ODY3NDU4YjM1NTFhODMx`
+Snapshot ID: `MTY0OTczNzM1MSwwMDAwMDAwMGM3NDIzNGFhMmQwYzRmMGI3ODY3NDU4YjM1NTFhODMx`

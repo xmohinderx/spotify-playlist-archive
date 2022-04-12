@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 
 > Pura música fresca para vibrar en cualquier momento de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,052 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,055 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 64 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 |
 | 65 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 |
 
-Snapshot ID: `MTY0OTcyNTMwOCwwMDAwMDAwMDAzMGQwZTc4ZDRkYzAyZjIxZTYwYmEyNjA3N2FlNTEw`
+Snapshot ID: `MTY0OTczNzU1OCwwMDAwMDAwMDAzMGQwZTc4ZDRkYzAyZjIxZTYwYmEyNjA3N2FlNTEw`

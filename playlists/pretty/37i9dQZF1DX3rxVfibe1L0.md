@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 
 > Get happy with today's dose of feel\-good songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,093,705 likes - 76 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,093,846 likes - 76 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 75 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 76 | [Wave of You](https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Wave of You](https://open.spotify.com/album/0ghwCnjmc0QPPccZfYQuXc) | 3:33 |
 
-Snapshot ID: `MTY0OTcyNTA0OCwwMDAwMDAwMGFiNWQ0ZDNiN2FjZmRlNTRmMGY3MTAwMWZjZTJiMmVm`
+Snapshot ID: `MTY0OTczNzM1MiwwMDAwMDAwMGFiNWQ0ZDNiN2FjZmRlNTRmMGY3MTAwMWZjZTJiMmVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,014,144 likes - 150 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,014,246 likes - 150 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [Thank You for the Broken Heart](https://open.spotify.com/track/1aBO5KPwxqLESNTTJBR6VP) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:51 |
 | 150 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB) | 3:25 |
 
-Snapshot ID: `MTY0OTcyNDgxNSwwMDAwMDAwMGQ1YmRkZjlkM2JjNGQ1NDA3YTExY2E2MDhmNzFkZDVj`
+Snapshot ID: `MTY0OTczNzE2NSwwMDAwMDAwMGQ1YmRkZjlkM2JjNGQ1NDA3YTExY2E2MDhmNzFkZDVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYM3nMM0oPk.md) - [plain]
 
 > A mega mix of 75 favorites from the last few years!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,186,807 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,187,389 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYM3nMM0oPk.md) - [plain]
 | 74 | [thank u, next](https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/684W6NpKllEexqQlGqetCi) | 3:27 |
 | 75 | [Make It Right \(feat\. Lauv\)](https://open.spotify.com/track/314ZkcV7oLWG8yWE7LABvH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Make It Right \(feat\. Lauv\)](https://open.spotify.com/album/0ZI6Q1QJSYdeEQPvKzX1XR) | 3:46 |
 
-Snapshot ID: `MTY0OTcyNTMxMCwwMDAwMDAwMDc0ZGYwNWExZjBlMDkyNDM4OWYwZjIyNjA1YThkYzk1`
+Snapshot ID: `MTY0OTczNzU2MCwwMDAwMDAwMDc0ZGYwNWExZjBlMDkyNDM4OWYwZjIyNjA1YThkYzk1`

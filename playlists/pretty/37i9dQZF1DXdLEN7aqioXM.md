@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,401 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,443 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 99 | [Hotline Miami II](https://open.spotify.com/track/2qzbJyY0c4vzhXFlnRNCji) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6ASlNNjHy6yL8lNTMuNvPn) | 3:47 |
 | 100 | [Drift](https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Drift](https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn) | 5:07 |
 
-Snapshot ID: `MTY0OTcyNTM2NCwwMDAwMDAwMDI2NWUzMGNjYjhjMTgzZjUyMmRlZjhhNmMxYWY1YjAx`
+Snapshot ID: `MTY0OTczNzYwNywwMDAwMDAwMDI2NWUzMGNjYjhjMTgzZjUyMmRlZjhhNmMxYWY1YjAx`

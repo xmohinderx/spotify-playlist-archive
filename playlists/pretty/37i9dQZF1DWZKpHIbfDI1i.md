@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Ha\*Ash en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,090 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,144 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 59 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
 | 60 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 |
 
-Snapshot ID: `MTY0OTcyNDg4MiwwMDAwMDAwMDQ1YmE3NmFiZTE3NmUxNGYwY2U0ODFiN2I5ZjkwODdi`
+Snapshot ID: `MTY0OTczNzIxOCwwMDAwMDAwMDQ1YmE3NmFiZTE3NmUxNGYwY2U0ODFiN2I5ZjkwODdi`

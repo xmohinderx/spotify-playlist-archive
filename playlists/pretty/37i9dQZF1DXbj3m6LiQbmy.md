@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! Cover: M¥SS KETA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,125 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,124 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 49 | [Ecco la Notte](https://open.spotify.com/track/07NTvJ2DpPtQ23qTu1YWOq) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Ecco la Notte](https://open.spotify.com/album/3KvGybqvwIKaGSSUGefaZ0) | 5:44 |
 | 50 | [pensieri sbagliati](https://open.spotify.com/track/7M0FIW15udOyzZwZz2Anqd) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:55 |
 
-Snapshot ID: `MTY0OTcyNTMxNiwwMDAwMDAwMDAxODI3ZjZjODlhY2RkZTE4NTA1Mzc4NjE0MjQ2NmQ4`
+Snapshot ID: `MTY0OTczNzU2NCwwMDAwMDAwMDAxODI3ZjZjODlhY2RkZTE4NTA1Mzc4NjE0MjQ2NmQ4`

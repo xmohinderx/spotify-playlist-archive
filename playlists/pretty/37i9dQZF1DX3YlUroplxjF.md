@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,893 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,894 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Madness](https://open.spotify.com/track/3rjnoSxE4F6fww3Vgai4LL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Madness](https://open.spotify.com/album/2op8CZ1RctYSFzdo2qzC0M) | 3:38 |
 | 100 | [Heel](https://open.spotify.com/track/0bOkJLKU60EJ3Z6Kcl1ogk) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [The Longest Lonesome](https://open.spotify.com/album/1K937ul4FkJiKufynQWtF4) | 3:03 |
 
-Snapshot ID: `MTY0OTcyNTAzOSwwMDAwMDAwMGZhNjgzYWNjZTBhZWQwNzU2NzQ1ZjdiM2MwZWYzMWRk`
+Snapshot ID: `MTY0OTczNzM0NSwwMDAwMDAwMGZhNjgzYWNjZTBhZWQwNzU2NzQ1ZjdiM2MwZWYzMWRk`

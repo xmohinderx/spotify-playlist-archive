@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,260 likes - 60 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,313 likes - 60 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [The Tide](https://open.spotify.com/track/3pMyZztzU35UqFtlUtbICr) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm), [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [The Tide](https://open.spotify.com/album/67bTGeT8r5hw625IOh6yEC) | 4:40 |
 | 60 | [Waves of the Past](https://open.spotify.com/track/2oCLA285QlQJnzR9aP6OHb) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Waves of the Past](https://open.spotify.com/album/2UfByHS0EjxscpsLMxg61n) | 5:20 |
 
-Snapshot ID: `MTY0OTcyNDk0MCwwMDAwMDAwMDcxYjcyYmMzMjAzYjYxZjg1MjU4MTk1NTEyYTE4YWEx`
+Snapshot ID: `MTY0OTczNzI2OCwwMDAwMDAwMDcxYjcyYmMzMjAzYjYxZjg1MjU4MTk1NTEyYTE4YWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,202 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,203 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Grand Hotel](https://open.spotify.com/track/4AFWZcUaYfYIU3EAoTK0Dz) | [Daniella Binyamin](https://open.spotify.com/artist/0j7DhjdXfuDhB8ciUTh1hK) | [Grand Hotel](https://open.spotify.com/album/3KzRnmq5uYX7qhYjgaZPRp) | 3:14 |
 | 100 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 |
 
-Snapshot ID: `MTY0OTcyNDkzNSwwMDAwMDAwMDU2ODk1YTllMGRmYmEyYTI5MjlmODAwODc5ZTFlMjc2`
+Snapshot ID: `MTY0OTczNzI2NSwwMDAwMDAwMDU2ODk1YTllMGRmYmEyYTI5MjlmODAwODc5ZTFlMjc2`

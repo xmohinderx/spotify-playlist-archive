@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: Yoon Hyun Sang\(윤현상\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,054 likes - 58 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,059 likes - 58 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 57 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 |
 | 58 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 
-Snapshot ID: `MTY0OTcyNTIxMywwMDAwMDAwMGZkYzIwMWE1YzE4ZTNmOGRlM2YzOWEzMzFiMDkwYWFl`
+Snapshot ID: `MTY0OTczNzQ4MCwwMDAwMDAwMGZkYzIwMWE1YzE4ZTNmOGRlM2YzOWEzMzFiMDkwYWFl`

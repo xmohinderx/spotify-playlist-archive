@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > alternative songs and a good time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,630 likes - 125 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,657 likes - 125 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 124 | [Tonight You're Perfect](https://open.spotify.com/track/3ym8RPF4EQPqtW0v8G44BT) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 3:22 |
 | 125 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 |
 
-Snapshot ID: `MTY0OTcyNDk5OCwwMDAwMDAwMGFkYjFkZjU1YzlkODQ1N2MxMjdiODJiZThhZjdkNzZl`
+Snapshot ID: `MTY0OTczNzMxNCwwMDAwMDAwMGFkYjFkZjU1YzlkODQ1N2MxMjdiODJiZThhZjdkNzZl`

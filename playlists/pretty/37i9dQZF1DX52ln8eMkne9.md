@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental jazz songs\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,214 likes - 150 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,236 likes - 150 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 149 | [Didn't Know About You](https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:32 |
 | 150 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 |
 
-Snapshot ID: `MTY0OTcyNTA4OCwwMDAwMDAwMGI4MDMwMDJkY2MxNDg0MTcyM2VjOWEzMmE3ZTE3YzY0`
+Snapshot ID: `MTY0OTczNzM4MiwwMDAwMDAwMGI4MDMwMDJkY2MxNDg0MTcyM2VjOWEzMmE3ZTE3YzY0`

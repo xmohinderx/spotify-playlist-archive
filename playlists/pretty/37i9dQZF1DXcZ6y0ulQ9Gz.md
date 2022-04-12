@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > Those songs you just love to love\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,666 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,667 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Way With Words](https://open.spotify.com/track/0ujUFGhFhoNJ0HXNWsVWeg) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/6TlrlV9TtPdNbYsv3dY9Xv) | 4:20 |
 | 100 | [You Can Do It](https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/4gugFhu1ub505iAzsuhZJi) | 3:48 |
 
-Snapshot ID: `MTY0OTcyNTMzOSwwMDAwMDAwMDQ3YTRkNWQwMTBlMWUyNTY0NmIwMTkzMzIxMmFlOWZj`
+Snapshot ID: `MTY0OTczNzU4MywwMDAwMDAwMDQ3YTRkNWQwMTBlMWUyNTY0NmIwMTkzMzIxMmFlOWZj`

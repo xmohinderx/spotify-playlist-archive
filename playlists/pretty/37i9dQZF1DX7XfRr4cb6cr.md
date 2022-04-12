@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,710 likes - 80 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,737 likes - 80 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 79 | [Nuuk \(Air\)](https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc) | 4:50 |
 | 80 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
 
-Snapshot ID: `MTY0OTcyNTE3OCwwMDAwMDAwMDUwNDBhNmFiNDRiYjAxMGJkOGFiZmRhYTJhYjYxMmIy`
+Snapshot ID: `MTY0OTczNzQ1MiwwMDAwMDAwMDUwNDBhNmFiNDRiYjAxMGJkOGFiZmRhYTJhYjYxMmIy`

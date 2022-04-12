@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,428 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,510 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Golden](https://open.spotify.com/track/7MRWXpI22LKFKFK08yxwSD) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Mixtape: Side A](https://open.spotify.com/album/50guywYSFP8FOVD8mQZ48k) | 2:52 |
 | 150 | [Adventure](https://open.spotify.com/track/5k9VuQEeySm7vOIkj5joWW) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Adventure](https://open.spotify.com/album/3CtdMXnK53iu83nh1vpdkz) | 3:07 |
 
-Snapshot ID: `MTY0OTcyNDgzOCwwMDAwMDAwMGQxZjIzYjgyNDFmZDllMTE5Njk3MTU4NDdlZTgxOThm`
+Snapshot ID: `MTY0OTczNzE4MiwwMDAwMDAwMGQxZjIzYjgyNDFmZDllMTE5Njk3MTU4NDdlZTgxOThm`

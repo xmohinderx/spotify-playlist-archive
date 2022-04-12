@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 
 > Feel great with these timelessly fun songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,143,975 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,143,999 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 | 79 | [Heart Of Glass](https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:49 |
 | 80 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 
-Snapshot ID: `MTY0OTcyNTE3MiwwMDAwMDAwMDQ5YzdiMjQ5ZWNiNzVkMzc0NWViMTM0ZmE2OGZhMjMz`
+Snapshot ID: `MTY0OTczNzQ0OCwwMDAwMDAwMDQ5YzdiMjQ5ZWNiNzVkMzc0NWViMTM0ZmE2OGZhMjMz`

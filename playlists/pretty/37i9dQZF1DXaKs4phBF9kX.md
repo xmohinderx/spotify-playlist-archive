@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,953 likes - 70 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,955 likes - 70 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 69 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 |
 | 70 | [Girls, Girls, Girls](https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:30 |
 
-Snapshot ID: `MTY0OTcyNTI3MiwwMDAwMDAwMDhiMWUzNWVkNGI2NGQzODRhODllZGJmMjc2YmE3NjA1`
+Snapshot ID: `MTY0OTczNzUyOSwwMDAwMDAwMDhiMWUzNWVkNGI2NGQzODRhODllZGJmMjc2YmE3NjA1`

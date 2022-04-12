@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,658 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,680 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [Drowns The Whiskey \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2dwoqUYTy6SOy1dFqcTndC) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:22 |
 | 75 | [She Don't Love You](https://open.spotify.com/track/1B17jo7XD3lJ9AtrdE9kUd) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:22 |
 
-Snapshot ID: `MTY0OTcyNTM4MiwwMDAwMDAwMDUzZTBmYmQzM2I4OTNjODEzNzE4Yzg2NTVlOWQ1ODVj`
+Snapshot ID: `MTY0OTczNzYyMCwwMDAwMDAwMDUzZTBmYmQzM2I4OTNjODEzNzE4Yzg2NTVlOWQ1ODVj`

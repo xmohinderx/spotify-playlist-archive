@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring raquel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,826 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,837 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Door Four](https://open.spotify.com/track/2o86IbNipqNVteo1j9WNHM) | [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Door Four](https://open.spotify.com/album/0WiMvo2Ur6ixZ22ULfFfSO) | 3:26 |
 | 75 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
 
-Snapshot ID: `MTY0OTcyNTM5MiwwMDAwMDAwMGQzZjllMDMwODRmZjVjODdlMGEzMzA0ZGMwOWIwYzA2`
+Snapshot ID: `MTY0OTczNzYyOSwwMDAwMDAwMGQzZjllMDMwODRmZjVjODdlMGEzMzA0ZGMwOWIwYzA2`

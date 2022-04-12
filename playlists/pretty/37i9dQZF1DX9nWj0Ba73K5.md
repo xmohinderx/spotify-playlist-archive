@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Caitlyn Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,770 likes - 183 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,765 likes - 183 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

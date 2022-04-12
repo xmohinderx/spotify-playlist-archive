@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Uffie
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,131 likes - 75 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,151 likes - 75 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Electric Feel \- Justice Remix](https://open.spotify.com/track/2eGHyarZyRvUgFI4d3G8GN) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Electric Feel \(Justice Remix\)](https://open.spotify.com/album/6wqufLWm8D5CUPB9A11opq) | 5:27 |
 | 75 | [Genesis](https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd) | 3:54 |
 
-Snapshot ID: `MTY0OTcyNDY2OSwwMDAwMDAwMGZhNjlhZDE3ZDFmNjg0NGUxZjNkMzdiZWNkMDJjY2Zm`
+Snapshot ID: `MTY0OTczNzA1MiwwMDAwMDAwMGZhNjlhZDE3ZDFmNjg0NGUxZjNkMzdiZWNkMDJjY2Zm`

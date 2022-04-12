@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > ¡Que viva el amor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,880 likes - 130 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,920,905 likes - 130 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 129 | [Me Hace Tanto Bien](https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:08 |
 | 130 | [Solo Mía](https://open.spotify.com/track/46lKF7Q9AUWeQEHM9XuEGe) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 4:15 |
 
-Snapshot ID: `MTY0OTcyNDczMywwMDAwMDAwMDVjOTg1N2QzYmE1NDIzNTk0ZGIyNjI4OWRkMWY5ZmYw`
+Snapshot ID: `MTY0OTczNzEwMSwwMDAwMDAwMDVjOTg1N2QzYmE1NDIzNTk0ZGIyNjI4OWRkMWY5ZmYw`

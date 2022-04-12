@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 
 > Relax with these timeless tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,397 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,420 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 69 | [Rocky Mountain High](https://open.spotify.com/track/5tlyFGagMcqqpbqo2jYKU5) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [Mike Taylor](https://open.spotify.com/artist/46JtIzqxtxDz0ID3fLoqpQ) | [Rocky Mountain High](https://open.spotify.com/album/26puZuYaa7mdM2Q24lBZ1s) | 4:43 |
 | 70 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 
-Snapshot ID: `MTY0OTcyNDY4OCwwMDAwMDAwMDFlZmFkOWZjNjMwZjEwMjNhMDNhMDIwOTEyYWE4NjRi`
+Snapshot ID: `MTY0OTczNzA2NiwwMDAwMDAwMDFlZmFkOWZjNjMwZjEwMjNhMDNhMDIwOTEyYWE4NjRi`

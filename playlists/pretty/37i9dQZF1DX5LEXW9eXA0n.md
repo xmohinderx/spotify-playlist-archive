@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Lim Sang Hyun\(임상현\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,359 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,390 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 49 | [Nobody else](https://open.spotify.com/track/5nq9Sj7bH80RAARWo08jIT) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Under the Oak Tree \(Original Soundtrack\), Part\. 2](https://open.spotify.com/album/0gJ7pmSDOSWTBEhibnuOuw) | 3:45 |
 | 50 | [Rains again](https://open.spotify.com/track/7abCl5t9kc6yrukx4dYOYS) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Rains again](https://open.spotify.com/album/4dgzYb56hQBaRbT0pURaZO) | 3:43 |
 
-Snapshot ID: `MTY0OTcyNTEwMCwwMDAwMDAwMGQ3MmNkOWUyZDMzOGMwNTRhYzQ3NzFlZDU3MGI1YzYx`
+Snapshot ID: `MTY0OTczNzM5MiwwMDAwMDAwMGQ3MmNkOWUyZDMzOGMwNTRhYzQ3NzFlZDU3MGI1YzYx`

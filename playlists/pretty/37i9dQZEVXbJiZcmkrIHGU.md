@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Germany.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,086,715 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,086,725 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

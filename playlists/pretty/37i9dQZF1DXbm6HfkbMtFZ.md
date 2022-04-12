@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,056 likes - 115 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,076 likes - 115 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
 | 115 | [Spirit](https://open.spotify.com/track/3u2WViddj3Zs5596XYsu7m) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4J6wqBSyQiJDTedJbDs7YR) | 4:50 |
 
-Snapshot ID: `MTY0OTcyNTMxNywwMDAwMDAwMDM2ODg4YjY0NTYzYzcwODZkYzE3ZjZhZWRhNmRlNGE2`
+Snapshot ID: `MTY0OTczNzU2NiwwMDAwMDAwMDM2ODg4YjY0NTYzYzcwODZkYzE3ZjZhZWRhNmRlNGE2`

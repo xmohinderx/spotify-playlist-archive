@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9wYJr1oMFq.md) - [plain]
 
 > Get nostalgic with the golden age of pop punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,071,120 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,071,179 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9wYJr1oMFq.md) - [plain]
 | 49 | [The Rock Show](https://open.spotify.com/track/3C0f4W0lQSgMARICJF3KLh) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/0yDQmd4GRGo2sEW6kdL3Gf) | 2:51 |
 | 50 | [Fat Lip](https://open.spotify.com/track/3tWudnj1NK7YUfnR91nezW) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer No Filler](https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw) | 2:58 |
 
-Snapshot ID: `MTY0OTcyNTI2NSwwMDAwMDAwMGFjYmFlMzJjNTE3NmUxNmQyMWE5ZWEwNDM3YjI0MWM1`
+Snapshot ID: `MTY0OTczNzUyNCwwMDAwMDAwMGFjYmFlMzJjNTE3NmUxNmQyMWE5ZWEwNDM3YjI0MWM1`

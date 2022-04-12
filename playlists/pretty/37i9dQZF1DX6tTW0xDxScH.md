@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,136 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,156 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [If Not For You \(Demo\)](https://open.spotify.com/track/3HUCTp20rxqMnCtdyU7JgU) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Shakey Graves And The Horse He Rode In On \(Nobody's Fool and The Donor Blues EP\)](https://open.spotify.com/album/5ZetO1qY0okdczkZzAQEBL) | 3:11 |
 | 100 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
 
-Snapshot ID: `MTY0OTcyNTE1NSwwMDAwMDAwMGM1M2FjMDMzMzBiZGY1ZGFjM2U5NWQxNmFhOTU4ZDJk`
+Snapshot ID: `MTY0OTczNzQzNCwwMDAwMDAwMGM1M2FjMDMzMzBiZGY1ZGFjM2U5NWQxNmFhOTU4ZDJk`

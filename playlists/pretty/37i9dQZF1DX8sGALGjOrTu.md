@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > When emo and hardcore fell hard for each other.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,637 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,700 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 99 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
 | 100 | [Vices \(feat\. Liam Cormier\)](https://open.spotify.com/track/7tu3BXZXExM38StzVqnY7I) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Liam Cormier](https://open.spotify.com/artist/5IrAy16J58yAZf42VLRa5m) | [A Shipwreck In The Sand](https://open.spotify.com/album/3OOUDfRkGn4si21qq4VBpt) | 3:16 |
 
-Snapshot ID: `MTY0OTcyNTIyMCwwMDAwMDAwMGE2ZTdiNjMwZGE5NmFjNGIwYTdhODU0YjkwYzJkMGNk`
+Snapshot ID: `MTY0OTczNzQ4NSwwMDAwMDAwMGE2ZTdiNjMwZGE5NmFjNGIwYTdhODU0YjkwYzJkMGNk`

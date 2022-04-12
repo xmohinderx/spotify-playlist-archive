@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,804 likes - 200 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,823 likes - 200 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 199 | [Beautiful Girls](https://open.spotify.com/track/0y3WZptgplYKEt8nvmJAa6) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Beautiful Girls](https://open.spotify.com/album/05evhzQC7DuCaRuN7KxQik) | 4:05 |
 | 200 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 
-Snapshot ID: `MTY0OTcyNTAwNCwwMDAwMDAwMGMxNDMzNTA2Y2U0NjVhYjdiM2ZkMzY3NDFlNjM4ZGY2`
+Snapshot ID: `MTY0OTczNzMxOSwwMDAwMDAwMGMxNDMzNTA2Y2U0NjVhYjdiM2ZkMzY3NDFlNjM4ZGY2`

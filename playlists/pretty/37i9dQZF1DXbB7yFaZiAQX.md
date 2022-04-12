@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,558 likes - 150 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,596 likes - 150 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [Wasteland](https://open.spotify.com/track/6eohzouNwFkttrTDL7O8Wf) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/0DzhiHDwjlJjKk5mvNLbW1) | 5:40 |
 | 150 | [Tempted](https://open.spotify.com/track/42pwUwxNpqxPEEzCnu7eOn) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/2dk3IM7YsoHVeeeGpk8Uzx) | 4:01 |
 
-Snapshot ID: `MTY0OTcyNTMwMCwwMDAwMDAwMGVkNWM1NDkyMjYwYWRlYWE0ZDJkNTYwZTQ1ZmYzMmMx`
+Snapshot ID: `MTY0OTczNzU1MiwwMDAwMDAwMGVkNWM1NDkyMjYwYWRlYWE0ZDJkNTYwZTQ1ZmYzMmMx`

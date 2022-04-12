@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Los Bunkers
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,773 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,817 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 99 | [Mataz](https://open.spotify.com/track/2ir4Ufg38HFRifw3aSJRZS) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht) | [Todos Sus Exitos](https://open.spotify.com/album/1HsH1MLgDYOjHBotDDsxct) | 5:49 |
 | 100 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 
-Snapshot ID: `MTY0OTcyNDg5NCwwMDAwMDAwMGZiMTUzNTYwYzBiOWIyNDQwMTkzMTE2MTNiOGZhM2E3`
+Snapshot ID: `MTY0OTczNzIyNywwMDAwMDAwMGZiMTUzNTYwYzBiOWIyNDQwMTkzMTE2MTNiOGZhM2E3`

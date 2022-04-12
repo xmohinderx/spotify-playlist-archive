@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Yahritza y Su Esencia on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,558 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,560 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [La Hetero Que Me Haría](https://open.spotify.com/track/2MsZrqhuGKCy9kJTYjLEpr) | [La Becaria](https://open.spotify.com/artist/41izfWLUUrKOeu7MSGSHxS) | [La Hetero Que Me Haría](https://open.spotify.com/album/6WM5Mk1wCv5jKJ8erjCKjG) | 3:18 |
 | 50 | [No Te Me Canses](https://open.spotify.com/track/79qFsNEhLmsRBP9JsQvrme) | [Dielo](https://open.spotify.com/artist/0rzDXstZA6ldNJaSgrxjvB) | [AZOTAN2](https://open.spotify.com/album/6WBa3mis4VX83JdGdW3AQg) | 3:24 |
 
-Snapshot ID: `MTY0OTcyNTI4NCwwMDAwMDAwMDRkNDNhYTRlYTBlNDk0ZDk5OWNjZTAxMzEyYjc3OGQy`
+Snapshot ID: `MTY0OTczNzUzOCwwMDAwMDAwMDRkNDNhYTRlYTBlNDk0ZDk5OWNjZTAxMzEyYjc3OGQy`

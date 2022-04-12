@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Karol Conká e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,168 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,152 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [A Coisa Tá Preta](https://open.spotify.com/track/5DskXnnlENZltwmHdKU2IP) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Coisa Tá Preta](https://open.spotify.com/album/1MrQgA0SlpsrGXj5JyHVyO) | 3:01 |
 | 50 | [Run](https://open.spotify.com/track/0qyAOCkVCCuIbwyz0FMekb) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Run](https://open.spotify.com/album/6YLEp2TWXOTHoEEfgMeYdl) | 2:37 |
 
-Snapshot ID: `MTY0OTcyNTIxNSwwMDAwMDAwMDU4YTAxMWI1MmEwMWFjMmVmNjFkOTdjZjgyODNjOGYx`
+Snapshot ID: `MTY0OTczNzQ4MiwwMDAwMDAwMDU4YTAxMWI1MmEwMWFjMmVmNjFkOTdjZjgyODNjOGYx`

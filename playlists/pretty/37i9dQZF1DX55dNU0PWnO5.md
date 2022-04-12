@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Where jazz meets electronic music\. Cover: Nathan\-Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,102 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,118 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [CANDLELIGHT](https://open.spotify.com/track/6IPuOgW2UAKFc7YCKrSjER) | [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [CANDLELIGHT](https://open.spotify.com/album/4oWfpdMUmJJ0DKe8qiP9uC) | 7:03 |
 | 80 | [Lower Brinstar Vibes](https://open.spotify.com/track/5mbORzorEBD2pxmIzeE1su) | [Joshua Morse](https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Plugged In](https://open.spotify.com/album/1ioWRMKxCjAiYRGpvh0GA1) | 3:06 |
 
-Snapshot ID: `MTY0OTcyNTA4OSwwMDAwMDAwMGY5ZDljZDBlOGMzMDIxNjcwZWZjZjM1ZTRkZWFkZjRl`
+Snapshot ID: `MTY0OTczNzM4MywwMDAwMDAwMGY5ZDljZDBlOGMzMDIxNjcwZWZjZjM1ZTRkZWFkZjRl`

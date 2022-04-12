@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,746 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106,753 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
 | 100 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
 
-Snapshot ID: `MTY0OTcyNDY5OCwwMDAwMDAwMGVjOWE3ZmI0MTExYTJlZDljN2QzZWI2NTZhNzEwMTA5`
+Snapshot ID: `MTY0OTczNzA3NCwwMDAwMDAwMGVjOWE3ZmI0MTExYTJlZDljN2QzZWI2NTZhNzEwMTA5`

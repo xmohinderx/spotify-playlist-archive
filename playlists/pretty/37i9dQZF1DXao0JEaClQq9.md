@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft Flume & Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,310 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,335 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [skin](https://open.spotify.com/track/5fjXYssZZSUbVK1wM5KYV0) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [in the mirror, in the night](https://open.spotify.com/album/2a5Xt0sHOpQcHcCfmNYo0p) | 2:44 |
 | 125 | [Online](https://open.spotify.com/track/7dzfIsGYeU86XUo5pRB2cP) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Fantasy](https://open.spotify.com/album/4HwILPeEJZ1oENF9cnUnHv) | 3:13 |
 
-Snapshot ID: `MTY0OTcyNTI4OCwwMDAwMDAwMDE0NDk5ZTBkYjc4OWZjMDZjNDM0ZjUzODQ0N2ZlZDY1`
+Snapshot ID: `MTY0OTczNzU0MiwwMDAwMDAwMDE0NDk5ZTBkYjc4OWZjMDZjNDM0ZjUzODQ0N2ZlZDY1`

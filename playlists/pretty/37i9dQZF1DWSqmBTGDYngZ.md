@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 
 > Make your shower more uplifting by singing along to these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,597,725 likes - 200 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,598,050 likes - 200 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 | 199 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
 | 200 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/0IF0vGwaJQ8ZCh0QxhW6OV) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:53 |
 
-Snapshot ID: `MTY0OTcyNDY2NSwwMDAwMDAwMDRlMWRhNTBiZjA1ZmQ2YTk2ZmYyYzM5ZmVmZWFhNmFh`
+Snapshot ID: `MTY0OTczNzA0OSwwMDAwMDAwMDRlMWRhNTBiZjA1ZmQ2YTk2ZmYyYzM5ZmVmZWFhNmFh`

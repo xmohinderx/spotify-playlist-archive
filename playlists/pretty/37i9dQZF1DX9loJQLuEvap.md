@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > 100% amazing female singers\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,029 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,032 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 49 | [Sweet Love](https://open.spotify.com/track/6b8pYhpXu2pHHvRZW3FBXp) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rhino Hi\-Five: Anita Baker](https://open.spotify.com/album/7y0uqLr5RQqEltmS3XBdyE) | 4:24 |
 | 50 | [I Try](https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [I Try: The Macy Gray Collection](https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa) | 3:58 |
 
-Snapshot ID: `MTY0OTcyNTI0OSwwMDAwMDAwMDI3YzdlMWU4Zjc3MTM1N2M1OGI5YTQ5ZGJiMDVmOWQw`
+Snapshot ID: `MTY0OTczNzUwOCwwMDAwMDAwMDI3YzdlMWU4Zjc3MTM1N2M1OGI5YTQ5ZGJiMDVmOWQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,823 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,832 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 |
 | 100 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
 
-Snapshot ID: `MTY0OTcyNTA4NiwwMDAwMDAwMDRkODc5YmJiZTBmMjI3M2EzODMzNTg0ZDRiYzE5YTE4`
+Snapshot ID: `MTY0OTczNzM4MSwwMDAwMDAwMDRkODc5YmJiZTBmMjI3M2EzODMzNTg0ZDRiYzE5YTE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,630 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,693 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 |
 | 80 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 |
 
-Snapshot ID: `MTY0OTcyNDcxNiwwMDAwMDAwMDc3NWJkN2Q5NDU0NzNiZTEyZWU1MThkMmE3NzQ5Yzdj`
+Snapshot ID: `MTY0OTczNzA4OCwwMDAwMDAwMDc3NWJkN2Q5NDU0NzNiZTEyZWU1MThkMmE3NzQ5Yzdj`

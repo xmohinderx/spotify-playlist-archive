@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,770 likes - 150 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,771 likes - 150 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 149 | [Come Over](https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 3:42 |
 | 150 | [Love Ballad](https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 4:35 |
 
-Snapshot ID: `MTY0OTcyNTIwMiwwMDAwMDAwMGEzNDE1ZTIyN2M3Mjg2YjVmYzlmMThkY2FiNWQyNDg5`
+Snapshot ID: `MTY0OTczNzQ3MSwwMDAwMDAwMGEzNDE1ZTIyN2M3Mjg2YjVmYzlmMThkY2FiNWQyNDg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,222,773 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,222,937 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH) | 3:26 |
 | 100 | [End of Slaphouse](https://open.spotify.com/track/3rGb9N1hka4bc77nKYQBYD) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [End of Slaphouse](https://open.spotify.com/album/6WvaRahTVQaOzJIWLKmWHN) | 3:01 |
 
-Snapshot ID: `MTY0OTcyNTM4NywwMDAwMDAwMDk2NjlhNDhjY2Y2OTI3NjZjNjYxMDhlM2Q5ZTNhODQy`
+Snapshot ID: `MTY0OTczNzYyNSwwMDAwMDAwMDk2NjlhNDhjY2Y2OTI3NjZjNjYxMDhlM2Q5ZTNhODQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > just chill..\. respectfully
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,259 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,430 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Bound \(with Blood Orange\)](https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX) | 3:40 |
 | 100 | [Buying Time](https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Buying Time](https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3) | 3:56 |
 
-Snapshot ID: `MTY0OTcyNTAxNSwwMDAwMDAwMGU3MTkwM2YxNDI4OGE3MTkyYjhjMTI3MmYyMDFmNWYy`
+Snapshot ID: `MTY0OTczNzMyOCwwMDAwMDAwMGU3MTkwM2YxNDI4OGE3MTkyYjhjMTI3MmYyMDFmNWYy`

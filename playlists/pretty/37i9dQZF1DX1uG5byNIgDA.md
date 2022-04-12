@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,394 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,395 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [Highway](https://open.spotify.com/track/0i5SCHuolYUF6IANrb8Dfb) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Highway](https://open.spotify.com/album/0LkUIcYk2Nu8tjbNiBygpF) | 3:03 |
 | 50 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
 
-Snapshot ID: `MTY0OTcyNDk3NywwMDAwMDAwMGQ4NmJkNTBjZTM0MDRiMmYxZWIyMzliNmQ4YjI2NmRj`
+Snapshot ID: `MTY0OTczNzI5OCwwMDAwMDAwMGQ4NmJkNTBjZTM0MDRiMmYxZWIyMzliNmQ4YjI2NmRj`

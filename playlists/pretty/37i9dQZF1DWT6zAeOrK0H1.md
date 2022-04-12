@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: Beach House
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,702 likes - 81 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,737 likes - 81 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

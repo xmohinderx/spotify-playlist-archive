@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,595 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,593 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 79 | [Paramaniac](https://open.spotify.com/track/6bO7GeKYXEvOEDi9O3zMOC) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Paramaniac](https://open.spotify.com/album/3ol4KhcloRgpuQaA9B9rW3) | 3:00 |
 | 80 | [All My Friends](https://open.spotify.com/track/2cPgeAOjqxOE2dFjuBsst3) | [Jamie Grey](https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t) | [Songs They Told Me Weren't Singles \- Part 2](https://open.spotify.com/album/33m4Lm71jeXL5KlArauvev) | 3:03 |
 
-Snapshot ID: `MTY0OTcyNTAwMywwMDAwMDAwMDM4NTRlYTJhNGJlMDQ0YzUwZTJlYjE3ZmI4OGFlODRh`
+Snapshot ID: `MTY0OTczNzMxOCwwMDAwMDAwMDM4NTRlYTJhNGJlMDQ0YzUwZTJlYjE3ZmI4OGFlODRh`

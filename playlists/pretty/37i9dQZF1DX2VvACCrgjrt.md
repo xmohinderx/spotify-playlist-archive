@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,416 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,433 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 124 | [Not Bees](https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Watch](https://open.spotify.com/artist/036bvTwDThpn1xsB38mBX3) | [High Vaultage EP](https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5) | 3:24 |
 | 125 | [King Of The Monsters](https://open.spotify.com/track/4Gc2dQj8FdnJzB6VZCKKF1) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW) | [King Of The Monsters](https://open.spotify.com/album/5JEk4M796eQC2v2BDdc9s6) | 3:40 |
 
-Snapshot ID: `MTY0OTcyNTAwMSwwMDAwMDAwMDQyMTI0NTlhODE0OTRkYzU0NzIxOWI5OWU3NmMwZDJj`
+Snapshot ID: `MTY0OTczNzMxNiwwMDAwMDAwMDQyMTI0NTlhODE0OTRkYzU0NzIxOWI5OWU3NmMwZDJj`

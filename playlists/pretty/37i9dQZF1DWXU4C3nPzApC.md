@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 > The best music with a Nashville flavour\. Cover: Twinnie
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,947 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,958 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

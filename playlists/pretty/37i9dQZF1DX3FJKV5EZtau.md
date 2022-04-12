@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electro tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,471 likes - 124 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,512 likes - 124 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 123 | [Mike Tyson](https://open.spotify.com/track/7c1nwQG909uEAphCBqXdIy) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Mike Tyson](https://open.spotify.com/album/1IFy7kRW05yfv5CPfiFK0f) | 3:19 |
 | 124 | [Bittersweet \- hirihiri Remix](https://open.spotify.com/track/5JhSzUTnom57twpLSeeedL) | [五寸釘きゃみ](https://open.spotify.com/artist/2JWoqgvRXwWIuK1PG8GAyz), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1) | [Bittersweet \(hirihiri Remix\)](https://open.spotify.com/album/5zZdPLLpXmoqvQQj4cPQPO) | 3:41 |
 
-Snapshot ID: `MTY0OTcyNTAyNywwMDAwMDAwMDNjNDVlNDIzZmJmNzU0NzljNjMwODBhMjA1M2NjM2Zm`
+Snapshot ID: `MTY0OTczNzMzNiwwMDAwMDAwMDNjNDVlNDIzZmJmNzU0NzljNjMwODBhMjA1M2NjM2Zm`

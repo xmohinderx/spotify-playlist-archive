@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a jazz trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,476 likes - 150 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,494 likes - 150 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 149 | [Sunset Bird](https://open.spotify.com/track/64wBIhVs4h89Zd2jwuE1B1) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Sunset Bird](https://open.spotify.com/album/5T8RbPb2QtCTkzYpeeRYqe) | 1:59 |
 | 150 | [I Thought About You](https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 4:01 |
 
-Snapshot ID: `MTY0OTcyNDc5NywwMDAwMDAwMDJjOGZjNDQ4NzgyODVjMGVhNzExN2U4ZmQwMjRkZjlh`
+Snapshot ID: `MTY0OTczNzE1MSwwMDAwMDAwMDJjOGZjNDQ4NzgyODVjMGVhNzExN2U4ZmQwMjRkZjlh`

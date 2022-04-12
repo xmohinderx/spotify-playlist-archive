@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,464 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,495 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 | 149 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 150 | [Sweets for My Sweet \- Stereo Version](https://open.spotify.com/track/0bPmvueZJ2usI59GsCH6Ix) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Meet The Searchers](https://open.spotify.com/album/79Jdw5Hfe3U56ZeYWF8w1H) | 2:29 |
 
-Snapshot ID: `MTY0OTcyNDc2MSwwMDAwMDAwMGE2NjVlYTE2YThhM2M1MDcxZTdlMWMxMzdmMjgxODUw`
+Snapshot ID: `MTY0OTczNzEyNCwwMDAwMDAwMGE2NjVlYTE2YThhM2M1MDcxZTdlMWMxMzdmMjgxODUw`

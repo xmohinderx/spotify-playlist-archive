@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,185 likes - 115 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,279 likes - 115 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 114 | [Seabirds](https://open.spotify.com/track/5I0iOfX9YLacuhLspYnTaY) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [Seabirds](https://open.spotify.com/album/1sjjSbwmZbILR4yA8PrdeB) | 4:58 |
 | 115 | [FEEL MYSELF](https://open.spotify.com/track/1MPHJ0PLieJZQB5paOfhzK) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [BLUE 2000](https://open.spotify.com/album/5jIJwUkntGOYH9UHcdthwX) | 2:42 |
 
-Snapshot ID: `MTY0OTcyNTM1MiwwMDAwMDAwMDA1OTEwNGQ1NjY0YmQwNzU0NGVlZGM5ZjdhY2E1YzFl`
+Snapshot ID: `MTY0OTczNzU5MywwMDAwMDAwMDA1OTEwNGQ1NjY0YmQwNzU0NGVlZGM5ZjdhY2E1YzFl`

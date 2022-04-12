@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,235 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,243 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 99 | [On a Clear Day](https://open.spotify.com/track/79OtkmhkIGwAvK6Cc7jc1J) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [New Orleans Jazz Orchestra](https://open.spotify.com/artist/6OcKkFl60cJU7Tmru46mMK) | [Petite Fleur](https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2) | 3:48 |
 | 100 | [I Love Being Here With You](https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [When The Sun Goes Down](https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY) | 4:59 |
 
-Snapshot ID: `MTY0OTcyNDk0MiwwMDAwMDAwMGNkMjkzZGVhNDExMTZmOGI3OTg5MzlhNDlkZDA5ZWI5`
+Snapshot ID: `MTY0OTczNzI3MCwwMDAwMDAwMGNkMjkzZGVhNDExMTZmOGI3OTg5MzlhNDlkZDA5ZWI5`

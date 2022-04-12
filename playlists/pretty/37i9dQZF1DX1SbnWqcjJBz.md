@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,150 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,174 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 149 | [I Blame Myself](https://open.spotify.com/track/0i62I5HJlzIVu2FALBmBPx) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:57 |
 | 150 | [Braveheart](https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 3:44 |
 
-Snapshot ID: `MTY0OTcyNDk2MCwwMDAwMDAwMDBiODVjMWJiMzM4OTM1YjRiYzg1Nzg3NGNhNTMyMDFj`
+Snapshot ID: `MTY0OTczNzI4NSwwMDAwMDAwMDBiODVjMWJiMzM4OTM1YjRiYzg1Nzg3NGNhNTMyMDFj`

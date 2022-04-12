@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,464 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,463 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Travel Guitar](https://open.spotify.com/track/25EVi5xRn0yebtQupMqvg8) | [Zia & Zio](https://open.spotify.com/artist/0B8o3cxzT2CjTjb7Gu4JEv) | [Travel Guitar](https://open.spotify.com/album/42qFmxzGmWw2JCeUBseaxc) | 2:02 |
 | 60 | [Daylight](https://open.spotify.com/track/7K1fqeaZKX2fGH2ddOfPUC) | [Soundwaves](https://open.spotify.com/artist/56BMviGiJkpclgY1dCJmcK), [Hysaze](https://open.spotify.com/artist/0OvAdt4y8gH1lnUOCRxf9D), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Daylight](https://open.spotify.com/album/2T874FXcRt9kwIags5Zckc) | 3:30 |
 
-Snapshot ID: `MTY0OTcyNDkxMCwwMDAwMDAwMGI3NTljZGE2YjU5MDc2MWFhZTk5ODMzNWM5YzdlNmNm`
+Snapshot ID: `MTY0OTczNzIzOSwwMDAwMDAwMGI3NTljZGE2YjU5MDc2MWFhZTk5ODMzNWM5YzdlNmNm`

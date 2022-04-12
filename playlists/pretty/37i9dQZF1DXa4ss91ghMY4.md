@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,798 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,789 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 59 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 60 | [Stronger \(feat\. Kesha\)](https://open.spotify.com/track/4NctFqJyGAqurHFEUQvWgR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Stronger \(feat\. Kesha\)](https://open.spotify.com/album/683szPAVY9vdNhI45ybBbP) | 2:53 |
 
-Snapshot ID: `MTY0OTcyNTI2MiwwMDAwMDAwMGFmYTk4ZTA3ZWQ4ZjVmZmE1ZjAwYzQ4NWRjYTI0ZjY4`
+Snapshot ID: `MTY0OTczNzUyMSwwMDAwMDAwMGFmYTk4ZTA3ZWQ4ZjVmZmE1ZjAwYzQ4NWRjYTI0ZjY4`

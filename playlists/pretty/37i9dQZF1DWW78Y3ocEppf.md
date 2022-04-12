@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > The feelings you can't put into words...only songs\. Cover: Queen Naija
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,564 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,578 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 48 | [Pick A Side](https://open.spotify.com/track/5vXvD86WP93gFqrYrr93Q6) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Pick A Side](https://open.spotify.com/album/1xf8ut7calxvWuhLYyTrYK) | 3:12 |
 | 49 | [Selfish \(feat\. Yung Bleu\)](https://open.spotify.com/track/6KYn4yDSvH2NT90navkiql) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Selfish \(feat\. Yung Bleu\)](https://open.spotify.com/album/7BNppAi3a6LXxVvJs6GHC7) | 3:21 |
 
-Snapshot ID: `MTY0OTcyNDc3NiwwMDAwMDAwMDlmNzM3ODRlZGJlMzA5ZDQ4YTBhNjZhMjg1OTA0M2Q3`
+Snapshot ID: `MTY0OTczNzEzNSwwMDAwMDAwMDlmNzM3ODRlZGJlMzA5ZDQ4YTBhNjZhMjg1OTA0M2Q3`

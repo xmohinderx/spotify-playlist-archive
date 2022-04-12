@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,968 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,000 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Honky Tonk Man](https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 2:47 |
 | 150 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
 
-Snapshot ID: `MTY0OTcyNTE0MSwwMDAwMDAwMDBmM2FmZmNmN2I4NTZiMTc1OTdhYmI5MDliN2JjMDEx`
+Snapshot ID: `MTY0OTczNzQyNCwwMDAwMDAwMDBmM2FmZmNmN2I4NTZiMTc1OTdhYmI5MDliN2JjMDEx`

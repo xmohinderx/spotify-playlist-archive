@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Lauri Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,953 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,959 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 64 | [Salvavidas](https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Salvavidas](https://open.spotify.com/album/5OGm96jxCkZDkQoKWJcfiK) | 3:22 |
 | 65 | [Pido El Deseo](https://open.spotify.com/track/4wz7lgd6l1796B6p3gGwsw) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [Hado](https://open.spotify.com/album/5TeGZ9nl318ttCrYzX6Ote) | 2:36 |
 
-Snapshot ID: `MTY0OTcyNTIyMywwMDAwMDAwMDliMDVkZWJhODcxNzliODcyNmIwMDBmMjI1YTE3MmMw`
+Snapshot ID: `MTY0OTczNzQ4OSwwMDAwMDAwMDliMDVkZWJhODcxNzliODcyNmIwMDBmMjI1YTE3MmMw`

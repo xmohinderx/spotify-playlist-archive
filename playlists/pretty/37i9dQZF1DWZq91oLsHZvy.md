@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Run to indie and alternative hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,303 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,311 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 99 | [Blue Orchid](https://open.spotify.com/track/1PCA097woCMSDvZPUVeRI7) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/5dQCkDTTilKZBD8Fhlmxiw) | 2:38 |
 | 100 | [Crypto Kids](https://open.spotify.com/track/1jonRhesfjLxwBlFZk5sJh) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Crypto Kids](https://open.spotify.com/album/7rpNTYRcmMcrocpbHCBErd) | 3:41 |
 
-Snapshot ID: `MTY0OTcyNDkwMCwwMDAwMDAwMDQ3NzkzY2Y4NDFhNzQ1OTc3YjVlYWZhYTA2ZTFiMDNl`
+Snapshot ID: `MTY0OTczNzIzMiwwMDAwMDAwMDQ3NzkzY2Y4NDFhNzQ1OTc3YjVlYWZhYTA2ZTFiMDNl`

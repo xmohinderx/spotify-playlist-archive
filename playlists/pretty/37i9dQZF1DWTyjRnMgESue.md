@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,161 likes - 120 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,175 likes - 120 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 119 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
 | 120 | [Like the Water](https://open.spotify.com/track/7xaJp99s5JRCwXFzsG1ESU) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Like the Water](https://open.spotify.com/album/196Uq4oMif28MQUknLcUYZ) | 3:36 |
 
-Snapshot ID: `MTY0OTcyNDcwOSwwMDAwMDAwMDMyMmRhNDliMWQ2ODBjZWQyYjhmNTNjNDJmNzk0Yjgy`
+Snapshot ID: `MTY0OTczNzA4MiwwMDAwMDAwMDMyMmRhNDliMWQ2ODBjZWQyYjhmNTNjNDJmNzk0Yjgy`

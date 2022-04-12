@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,134 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,138 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 29 | [Bang Bang](https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Fania Latin Boogaloo Essentials](https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg) | 4:07 |
 | 30 | [Afro Shingaling](https://open.spotify.com/track/3DkeQ5mpbIPGBuGQ4DAcXg) | [The Latinaires](https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj) | [Camel Walk](https://open.spotify.com/album/3EhyH1sdQKmnNSd3YJzEFG) | 3:57 |
 
-Snapshot ID: `MTY0OTcyNDg1OSwwMDAwMDAwMGUzNzQ5Mjc2MjhjM2M5MTdmYTM0NjRlYjZjYjcyNzJm`
+Snapshot ID: `MTY0OTczNzE5OSwwMDAwMDAwMGUzNzQ5Mjc2MjhjM2M5MTdmYTM0NjRlYjZjYjcyNzJm`

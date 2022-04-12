@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > Happy songs by alternative bands\. Any listener can connect with these indie jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,220 likes - 120 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,295 likes - 120 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
 | 120 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 |
 
-Snapshot ID: `MTY0OTcyNTAxMSwwMDAwMDAwMDEwNDljZDY3NmEyOWZmM2YxMGM5M2JkNmU1NTQ4OTlm`
+Snapshot ID: `MTY0OTczNzMyNSwwMDAwMDAwMDEwNDljZDY3NmEyOWZmM2YxMGM5M2JkNmU1NTQ4OTlm`

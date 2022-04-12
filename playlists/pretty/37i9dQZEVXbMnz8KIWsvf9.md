@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMnz8KIWsvf9.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,733 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,741 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

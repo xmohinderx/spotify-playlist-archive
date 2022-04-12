@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,060 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,089 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 79 | [I Love You's](https://open.spotify.com/track/28Tv8zltFDr5wBCG3Pfky4) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [I Love You’s](https://open.spotify.com/album/7poPqCs2rGkF1hzZHuzzCv) | 3:36 |
 | 80 | [Still Not Made It](https://open.spotify.com/track/6p1zxVqJ3oc8MFb9v76X0Y) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Forever Young](https://open.spotify.com/album/6eml4RwALbWZvPJKDuHiiD) | 3:14 |
 
-Snapshot ID: `MTY0OTcyNDg4NiwwMDAwMDAwMDMzOTRiZDkxNWE2ZTY0MzNlOTg2NGY0N2EwZDY3NTgx`
+Snapshot ID: `MTY0OTczNzIyMiwwMDAwMDAwMDMzOTRiZDkxNWE2ZTY0MzNlOTg2NGY0N2EwZDY3NTgx`

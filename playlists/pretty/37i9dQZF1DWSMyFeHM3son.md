@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > Sweater Weather is officially 10 years old..\. rip\. Cover: The Neighbourhood
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,209 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,210 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 49 | [She Looks So Perfect](https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:22 |
 | 50 | [Something Good Can Work](https://open.spotify.com/track/1aGvLFHJ2shKqO9uycaUcW) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0gyRFAfY08NFv7N8RTFg9M) | 2:44 |
 
-Snapshot ID: `MTY0OTcyNDY0OSwwMDAwMDAwMDZmODFiZDI2ZWI0ODI2Mjc2MWJlZjI5NzI0OTQ2YzYy`
+Snapshot ID: `MTY0OTczNzAzNywwMDAwMDAwMDZmODFiZDI2ZWI0ODI2Mjc2MWJlZjI5NzI0OTQ2YzYy`

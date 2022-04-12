@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1APnYcNumwP.md) - [plain]
 
 > Get immersed by the great depths of ambient and drone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,442 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,441 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1APnYcNumwP.md) - [plain]
 | 74 | [Waterfall mist \- Spa](https://open.spotify.com/track/7ENIVI1tmK1GrM8s8iRpO0) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Waterfall mist](https://open.spotify.com/album/4yQruflJPyK054HoFHVVi5) | 3:16 |
 | 75 | [Vespera](https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Vespera](https://open.spotify.com/album/5J3DHxWVjqENguNOG5jsgj) | 6:01 |
 
-Snapshot ID: `MTY0OTcyNDk1MywwMDAwMDAwMDRiMjc0MjBmMmMwMDAwYjgyMmQ4N2E1NzAzODgwNzA2`
+Snapshot ID: `MTY0OTczNzI3OSwwMDAwMDAwMDRiMjc0MjBmMmMwMDAwYjgyMmQ4N2E1NzAzODgwNzA2`

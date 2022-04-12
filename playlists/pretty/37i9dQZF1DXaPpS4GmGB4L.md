@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,826 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,827 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Hate To See You Go](https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:16 |
 | 50 | [What'd I Say](https://open.spotify.com/track/3UUhqPn6LaEMrgOFgOPoSM) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ), [The Noble Knights](https://open.spotify.com/artist/7ywg4kL9wJUyJQcQg9w1l2) | [Soul Twist with King Curtis](https://open.spotify.com/album/7kJGJzMCz47r0f3DRTxexk) | 3:22 |
 
-Snapshot ID: `MTY0OTcyNTI3NCwwMDAwMDAwMDExZTMyZDMxOWVlN2JmZWJkYTY5MDY5NmI0YTYyOWU1`
+Snapshot ID: `MTY0OTczNzUzMCwwMDAwMDAwMDExZTMyZDMxOWVlN2JmZWJkYTY5MDY5NmI0YTYyOWU1`

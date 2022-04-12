@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? Cover: BAE173 \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,916 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,948 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 49 | [mirror mirror](https://open.spotify.com/track/6iWYuwQ5gGsdAz4grECUON) | [아스틴](https://open.spotify.com/artist/4jFqeOOljafZf9zw1h4iNY) | [1st album mirror mirror](https://open.spotify.com/album/6YWzF8gaHiETn1sBFSyfD0) | 3:27 |
 | 50 | [Daydreamer](https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Daydreamer](https://open.spotify.com/album/1vaKAB61EU3UiSoHQcvnui) | 3:41 |
 
-Snapshot ID: `MTY0OTcyNDk2OCwwMDAwMDAwMDZjMzczZDI3OGE0NGNlZDllN2VjODNiYmZkZDU0MGI3`
+Snapshot ID: `MTY0OTczNzI5MSwwMDAwMDAwMDZjMzczZDI3OGE0NGNlZDllN2VjODNiYmZkZDU0MGI3`

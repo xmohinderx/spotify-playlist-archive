@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,818 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,815 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 49 | [Tu Nombre](https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Nombre](https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC) | 2:44 |
 | 50 | [Hasta el Sol de Hoy](https://open.spotify.com/track/5v29GgnKgTZqBhuilMyqog) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:01 |
 
-Snapshot ID: `MTY0OTcyNDc2MCwwMDAwMDAwMGQ3YmI1YzY2ZDYzNGEwMmZjMTU4NDIzODU5MzdhZjE1`
+Snapshot ID: `MTY0OTczNzEyMiwwMDAwMDAwMGQ3YmI1YzY2ZDYzNGEwMmZjMTU4NDIzODU5MzdhZjE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDafB3skWPN.md) - [plain]
 
 > Celebrate yourself with a fun pop & hip hop mix
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,922 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,967 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDafB3skWPN.md) - [plain]
 | 49 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c) | 4:28 |
 | 50 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
 
-Snapshot ID: `MTY0OTcyNDY4MCwwMDAwMDAwMDdkMWY3MjY4NTAzYzNjYWFiMDZjNzY1NmY0ZWEyOGNm`
+Snapshot ID: `MTY0OTczNzA2MCwwMDAwMDAwMDdkMWY3MjY4NTAzYzNjYWFiMDZjNzY1NmY0ZWEyOGNm`

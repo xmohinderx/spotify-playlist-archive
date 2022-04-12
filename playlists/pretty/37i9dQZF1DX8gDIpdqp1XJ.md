@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,587 likes - 150 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,621 likes - 150 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Under The Moon](https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [In The Darkest Of Nights, Let The Birds Sing](https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX) | 4:39 |
 | 150 | [Maria](https://open.spotify.com/track/5aCqO0CClSoJRchdzgAd2U) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Foam](https://open.spotify.com/album/3QsNakJqvIGLEjDeInXKk0) | 2:56 |
 
-Snapshot ID: `MTY0OTcyNTIxNCwwMDAwMDAwMDAyZDAxNzgzOTIzM2I5ZTdkMTMxNDcwNTQ4ZWVhODFh`
+Snapshot ID: `MTY0OTczNzQ4MSwwMDAwMDAwMDAyZDAxNzgzOTIzM2I5ZTdkMTMxNDcwNTQ4ZWVhODFh`

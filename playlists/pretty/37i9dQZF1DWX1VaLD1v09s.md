@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,387 likes - 150 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,437 likes - 150 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
 | 150 | [Chain Breaker](https://open.spotify.com/track/0DzQLyfd1NYrplYZn96vco) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker](https://open.spotify.com/album/7yfDHNzZryigytcfhRrExR) | 3:16 |
 
-Snapshot ID: `MTY0OTcyNDgxMywwMDAwMDAwMGU5MGUwMDc2NDhmNmU0NTZjMzcxMDQzMjI5MWU4NWE5`
+Snapshot ID: `MTY0OTczNzE2MywwMDAwMDAwMGU5MGUwMDc2NDhmNmU0NTZjMzcxMDQzMjI5MWU4NWE5`

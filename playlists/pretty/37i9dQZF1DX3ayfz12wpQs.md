@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ayfz12wpQs.md) - [plain]
 
 > Sunny chill songs and that beach vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,165 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,164 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ayfz12wpQs.md) - [plain]
 | 68 | [Brown Eyed Girl](https://open.spotify.com/track/4myBMnNWZlgvVelYeTu55w) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Super Hits](https://open.spotify.com/album/7cQhE9arqGBgQfdLu47zdm) | 3:02 |
 | 69 | [Exodus](https://open.spotify.com/track/1fQxtJ2yrBn6l20VVuGuJF) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 7:40 |
 
-Snapshot ID: `MTY0OTcyNTA0MSwwMDAwMDAwMDNhNThhMzYzOGM3ZDllNDhjNTdhODBmZjY5ZDJhYWYy`
+Snapshot ID: `MTY0OTczNzM0NywwMDAwMDAwMDNhNThhMzYzOGM3ZDllNDhjNTdhODBmZjY5ZDJhYWYy`

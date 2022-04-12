@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > A dose of high energy, feel\-good rock tunes\. Press play and let the good vibes come your way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,161 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,164 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 49 | [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 3:51 |
 | 50 | [Same Team](https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i) | 3:31 |
 
-Snapshot ID: `MTY0OTcyNDk0NCwwMDAwMDAwMGU3N2Q3MzQwYmUwYjJlZTI1ZDcwZjQ3ODgzNWI5NmUw`
+Snapshot ID: `MTY0OTczNzI3MiwwMDAwMDAwMGU3N2Q3MzQwYmUwYjJlZTI1ZDcwZjQ3ODgzNWI5NmUw`

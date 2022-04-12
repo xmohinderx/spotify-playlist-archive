@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Iron Maiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,735 likes - 140 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,789 likes - 140 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [Mystic Voices](https://open.spotify.com/track/23qe3H5ToeXOfFj9gSSPrX) | [Rising Steel](https://open.spotify.com/artist/0R7Gm5z32NOYcpwScO1JSh) | [Mystic Voices](https://open.spotify.com/album/0X5n66zXSf8NkEanAwC7QR) | 5:05 |
 | 140 | [Plenty](https://open.spotify.com/track/6sBYUZjVuI9fOqoafHUfoN) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Plenty](https://open.spotify.com/album/6mwLefl2rByFbuVkV7kDwQ) | 3:40 |
 
-Snapshot ID: `MTY0OTcyNTI1MiwwMDAwMDAwMDQ4NTI4OTFmZjI4MTJmYTI4YjMzN2YyYmQ5MWMzZTM3`
+Snapshot ID: `MTY0OTczNzUxMCwwMDAwMDAwMDQ4NTI4OTFmZjI4MTJmYTI4YjMzN2YyYmQ5MWMzZTM3`

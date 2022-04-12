@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,149 likes - 110 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,157 likes - 110 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 109 | [Town's End](https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Town's End](https://open.spotify.com/album/3YS90lzcD6JYYdT3wlB8nz) | 3:26 |
 | 110 | [Zollie's Retreat](https://open.spotify.com/track/5ZnaWoPCS7jlH9A6DBcrBH) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 2:25 |
 
-Snapshot ID: `MTY0OTcyNTMyMiwwMDAwMDAwMDc0NDZmMmQ5OTdjZWY5ZDAxZmRhNDQ4NGUxNDRjYzFh`
+Snapshot ID: `MTY0OTczNzU2OSwwMDAwMDAwMDc0NDZmMmQ5OTdjZWY5ZDAxZmRhNDQ4NGUxNDRjYzFh`

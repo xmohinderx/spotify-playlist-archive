@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Gå loss till Spotifys fetaste festlåtar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,243 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,242 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 79 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 |
 | 80 | [TIPSY](https://open.spotify.com/track/4V3ZraECwVSrNQsB5rTpLl) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [TIPSY](https://open.spotify.com/album/7K0iLOxB0mUPvIS5puSiqk) | 2:39 |
 
-Snapshot ID: `MTY0OTcyNDk0MiwwMDAwMDAwMDE1YzQ3NTVlMGY3NWIyOWMzZjMzMWU5ZGRhNjYzNzNi`
+Snapshot ID: `MTY0OTczNzI3MCwwMDAwMDAwMDE1YzQ3NTVlMGY3NWIyOWMzZjMzMWU5ZGRhNjYzNzNi`

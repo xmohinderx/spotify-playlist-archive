@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Yot Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,973 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,991 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
 | 100 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
 
-Snapshot ID: `MTY0OTcyNDkxNSwwMDAwMDAwMGNjZGIyMDU4OTBlNTQ3MDk3NWIxZjBjYjE4ZTcyYzVi`
+Snapshot ID: `MTY0OTczNzI0NCwwMDAwMDAwMGNjZGIyMDU4OTBlNTQ3MDk3NWIxZjBjYjE4ZTcyYzVi`

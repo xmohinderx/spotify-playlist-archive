@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: Swan\(수안\)\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,370 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,377 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [I Miss You](https://open.spotify.com/track/0nF3xRy0k9fxRoi3OliAdW) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [I Miss You](https://open.spotify.com/album/11jHxIFQPqV7Y0hKxjc4TC) | 3:24 |
 | 52 | [Spring Attitude](https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:16 |
 
-Snapshot ID: `MTY0OTcyNDk3OSwwMDAwMDAwMGEwMjgzNmFjOGQzYmVjNDM3N2M2ZDdkMjhlM2ZiMTJm`
+Snapshot ID: `MTY0OTczNzMwMSwwMDAwMDAwMGEwMjgzNmFjOGQzYmVjNDM3N2M2ZDdkMjhlM2ZiMTJm`

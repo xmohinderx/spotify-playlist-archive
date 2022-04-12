@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,510 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,514 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 |
 | 75 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
 
-Snapshot ID: `MTY0OTcyNTA1NCwwMDAwMDAwMDRjN2NkYWI0ZTY0MWE4MTZkYWQ4N2Q0NzRjOTZiNjI2`
+Snapshot ID: `MTY0OTczNzM1NywwMDAwMDAwMDRjN2NkYWI0ZTY0MWE4MTZkYWQ4N2Q0NzRjOTZiNjI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,250 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,276 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 74 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
 | 75 | [Two Heads in a Frame Looking at Something Beautiful](https://open.spotify.com/track/6D4oXT9CNYfzdCZg8mYUZf) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:52 |
 
-Snapshot ID: `MTY0OTcyNTA3MCwwMDAwMDAwMGY1NjM5Nzg4OTdiZTQ3MjVmZjllYTdiN2U2ZWY2YWJk`
+Snapshot ID: `MTY0OTczNzM2OSwwMDAwMDAwMGY1NjM5Nzg4OTdiZTQ3MjVmZjllYTdiN2U2ZWY2YWJk`

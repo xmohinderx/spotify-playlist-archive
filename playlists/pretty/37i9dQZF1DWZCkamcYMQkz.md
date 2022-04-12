@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Uplifting jazz to get you in good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,377 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,388 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 |
 | 100 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 |
 
-Snapshot ID: `MTY0OTcyNDg3OCwwMDAwMDAwMDA3YTgyYzI4NmQxM2EwYzNmOWUxNWFiNmRlZDI1NmNk`
+Snapshot ID: `MTY0OTczNzIxNSwwMDAwMDAwMDA3YTgyYzI4NmQxM2EwYzNmOWUxNWFiNmRlZDI1NmNk`

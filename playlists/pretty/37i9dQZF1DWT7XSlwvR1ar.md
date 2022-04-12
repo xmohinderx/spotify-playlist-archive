@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > No need to stress out\. Stay relaxed with these easy, upbeat songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910,427 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,910,460 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [Lilacs](https://open.spotify.com/track/5MDUdi9T4Ee4Kv33SbewC3) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:15 |
 | 100 | [Black Jeans](https://open.spotify.com/track/2vBnxZkr6K0Py6iTxHXUKS) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Black Jeans](https://open.spotify.com/album/1CVxayI7MG3L73PgA1DCz6) | 5:06 |
 
-Snapshot ID: `MTY0OTcyNDY3NywwMDAwMDAwMDU0OThhN2M0OTcxMGQyNjgyMGQzODM5ZTE0M2YwNjhm`
+Snapshot ID: `MTY0OTczNzA1OCwwMDAwMDAwMDU0OThhN2M0OTcxMGQyNjgyMGQzODM5ZTE0M2YwNjhm`

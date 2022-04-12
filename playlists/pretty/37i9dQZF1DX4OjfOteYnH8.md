@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OjfOteYnH8.md) - [plain]
 
 > Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Zaucy
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,871 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,876 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OjfOteYnH8.md) - [plain]
 | 44 | [Fuera De Liga](https://open.spotify.com/track/2Atyn6NPCqUmNcFsdbWqyP) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Fuera De Liga](https://open.spotify.com/album/62rbRfbpmwBbStTBlEygAd) | 3:03 |
 | 45 | [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 |
 
-Snapshot ID: `MTY0OTcyNTA2MSwwMDAwMDAwMGI1ODc5MzEzNDcyMGY0N2FlODYxMTgxMzVhM2Y0YmQy`
+Snapshot ID: `MTY0OTczNzM2MiwwMDAwMDAwMGI1ODc5MzEzNDcyMGY0N2FlODYxMTgxMzVhM2Y0YmQy`

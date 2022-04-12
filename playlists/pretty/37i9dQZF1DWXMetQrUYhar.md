@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: St\. Vincent, Death Cab for Cutie and MUNA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,566 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,567 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 |
 | 125 | [One Rizla \- Recorded at RAK Studios, London](https://open.spotify.com/track/5HW2dyB6NN46JbpOjc9KSC) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Spotify Singles](https://open.spotify.com/album/7yd0SwBCQ68uqyqaipNkKp) | 3:39 |
 
-Snapshot ID: `MTY0OTcyNDgyMiwwMDAwMDAwMGIzODk3MjAwMDJhZjFhMWU5ZTZlNmY1ZGFiM2IyYzFj`
+Snapshot ID: `MTY0OTczNzE3MCwwMDAwMDAwMGIzODk3MjAwMDJhZjFhMWU5ZTZlNmY1ZGFiM2IyYzFj`

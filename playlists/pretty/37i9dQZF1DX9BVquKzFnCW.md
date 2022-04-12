@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with jazzy sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,125 likes - 100 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,129 likes - 100 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 99 | [Wrapped Tight](https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:28 |
 | 100 | [The Surrey with the Fringe on Top](https://open.spotify.com/track/6RG7PpVmsdmqga0SIAgHWr) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Back East](https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE) | 5:12 |
 
-Snapshot ID: `MTY0OTcyNTIzMSwwMDAwMDAwMDRiZjA1NTY5MzE1ZmVmMTJiNGM5MmQxN2RmYmNkYmFi`
+Snapshot ID: `MTY0OTczNzQ5NSwwMDAwMDAwMDRiZjA1NTY5MzE1ZmVmMTJiNGM5MmQxN2RmYmNkYmFi`

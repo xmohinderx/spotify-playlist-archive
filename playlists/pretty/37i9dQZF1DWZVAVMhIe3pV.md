@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,251 likes - 250 songs - 15 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,301 likes - 250 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 249 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
 | 250 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
 
-Snapshot ID: `MTY0OTcyNDg4OCwwMDAwMDAwMDAzY2Q4OGZiYzk5ZjMxMjg3ZmUxYTI2ZDgwZDc2MDAy`
+Snapshot ID: `MTY0OTczNzIyMywwMDAwMDAwMDAzY2Q4OGZiYzk5ZjMxMjg3ZmUxYTI2ZDgwZDc2MDAy`

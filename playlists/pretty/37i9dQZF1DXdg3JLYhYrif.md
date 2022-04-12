@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,034 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,038 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i) | 2:58 |
 | 60 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 |
 
-Snapshot ID: `MTY0OTcyNTM3OCwwMDAwMDAwMGM4MjMzNzhhMjMyZjg4NWZmYmE5YTk0ZDYxYzYzYjdi`
+Snapshot ID: `MTY0OTczNzYxOCwwMDAwMDAwMGM4MjMzNzhhMjMyZjg4NWZmYmE5YTk0ZDYxYzYzYjdi`

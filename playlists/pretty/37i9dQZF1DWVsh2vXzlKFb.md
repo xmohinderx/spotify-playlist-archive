@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > Indie tunes for t\-shirt weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,687 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,680 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 99 | [Are We There Yet](https://open.spotify.com/track/5gj54T2o1IfFW2wNPl4D3b) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Are We There Yet](https://open.spotify.com/album/78DrQe0LBkCyxTdt3zmEpF) | 2:59 |
 | 100 | [All Of The Time](https://open.spotify.com/track/5cnsoV2GXggZXhC27SqYpv) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [All Of The Time](https://open.spotify.com/album/4r5R7JXV1JnuxLqEnXIGMR) | 3:02 |
 
-Snapshot ID: `MTY0OTcyNDc2OSwwMDAwMDAwMGJkYTY4ZWY3YTVlYzU5NzVhODUzZThiYWIyZTU5YTY5`
+Snapshot ID: `MTY0OTczNzEzMCwwMDAwMDAwMGJkYTY4ZWY3YTVlYzU5NzVhODUzZThiYWIyZTU5YTY5`

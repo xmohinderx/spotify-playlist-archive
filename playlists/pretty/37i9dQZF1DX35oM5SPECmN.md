@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,439,672 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439,665 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 74 | [Burn Too Bright](https://open.spotify.com/track/7uAlJ3iZWFm8OlC7mtXHec) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Burn Too Bright](https://open.spotify.com/album/77mrdHTeFaLXQTMfp2NliT) | 2:59 |
 | 75 | [Swingin'](https://open.spotify.com/track/2y4cQZBB5jCF81kMSTVdF1) | [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM) | [If In Case You Feel The Same](https://open.spotify.com/album/16HPfIbHv14RhCCZQ7PwFi) | 5:47 |
 
-Snapshot ID: `MTY0OTcyNTAyMSwwMDAwMDAwMDQwYTZmN2E0NTIzY2U5MDY3YzJkYTNlYjRjMWFmMjk4`
+Snapshot ID: `MTY0OTczNzMzMiwwMDAwMDAwMDQwYTZmN2E0NTIzY2U5MDY3YzJkYTNlYjRjMWFmMjk4`

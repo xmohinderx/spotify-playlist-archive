@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,609,962 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,610,106 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [The Joker](https://open.spotify.com/track/6FKU84JHM1lbiy5Dx0Dyqd) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:37 |
 | 150 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 
-Snapshot ID: `MTY0OTcyNDY4MSwwMDAwMDAwMDc4MmQ4Zjg0ZDc4ZjFiZjI3YTljYjhlM2YwMWMwOTU5`
+Snapshot ID: `MTY0OTczNzA2MSwwMDAwMDAwMDc4MmQ4Zjg0ZDc4ZjFiZjI3YTljYjhlM2YwMWMwOTU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIPWwFssbupI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,402 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,409 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

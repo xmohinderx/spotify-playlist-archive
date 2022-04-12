@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,058 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,060 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 |
 | 60 | [Terra Firme](https://open.spotify.com/track/2ND7CE71CPdPrh2PfRn0NK) | [Benjamim](https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc), [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [1986](https://open.spotify.com/album/26UcDVW2L8tKj5Y6fYWhVc) | 5:12 |
 
-Snapshot ID: `MTY0OTcyNTE2NCwwMDAwMDAwMGU4N2E5ZTAyODZmYjg1ODBlMDdiNGEyYTkwMWY5ZDJm`
+Snapshot ID: `MTY0OTczNzQ0MiwwMDAwMDAwMGU4N2E5ZTAyODZmYjg1ODBlMDdiNGEyYTkwMWY5ZDJm`

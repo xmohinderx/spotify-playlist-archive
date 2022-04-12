@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Maggie Rogers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685,461 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,685,453 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 124 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
 | 125 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 |
 
-Snapshot ID: `MTY0OTcyNDc4MSwwMDAwMDAwMDkyOTk5ZTc4NDA2ZmRhYTMyYzgwZWMxOTlmZTE0NGQx`
+Snapshot ID: `MTY0OTczNzEzOSwwMDAwMDAwMDkyOTk5ZTc4NDA2ZmRhYTMyYzgwZWMxOTlmZTE0NGQx`

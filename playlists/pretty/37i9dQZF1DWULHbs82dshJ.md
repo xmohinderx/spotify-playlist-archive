@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,526 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,533 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 49 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
 | 50 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
 
-Snapshot ID: `MTY0OTcyNDcyMCwwMDAwMDAwMGE4NDgwNjVkNjcwYTc4ZjBkMjgwMTZmNDQxYTJkMTdj`
+Snapshot ID: `MTY0OTczNzA5MiwwMDAwMDAwMGE4NDgwNjVkNjcwYTc4ZjBkMjgwMTZmNDQxYTJkMTdj`

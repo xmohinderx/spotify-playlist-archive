@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRGkpjDjLaB.md) - [plain]
 
 > If you're going to be sad, at least let it be with Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,667 likes - 28 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,804 likes - 28 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRGkpjDjLaB.md) - [plain]
 | 27 | [Solo de Mi](https://open.spotify.com/track/4uP3pUP18ennmz0tb3GphR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:17 |
 | 28 | [RLNDT](https://open.spotify.com/track/6pZHZndlo57dPCYnvlYFOE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 4:44 |
 
-Snapshot ID: `MTY0OTcyNTI3NCwwMDAwMDAwMDg5YjY5ZWM4YjIyZTA4N2JiYTEwYTEzMWFjOTE2NDdk`
+Snapshot ID: `MTY0OTczNzUzMSwwMDAwMDAwMDg5YjY5ZWM4YjIyZTA4N2JiYTEwYTEzMWFjOTE2NDdk`

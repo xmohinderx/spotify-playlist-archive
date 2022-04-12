@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,726 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,796 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [Two Out of Three Ain't Bad](https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 5:24 |
 | 50 | [City Of Angels](https://open.spotify.com/track/4gEPgpyjzXjr0jEbaBNTgZ) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [City Of Angels](https://open.spotify.com/album/101T3Y64HDKs7vh8FdGOoO) | 4:51 |
 
-Snapshot ID: `MTY0OTcyNDg0NCwwMDAwMDAwMGJmMDNhNTQ2MjYyNzVlYTM2MTZiZjJkZjZjNDk4ZmQx`
+Snapshot ID: `MTY0OTczNzE4OCwwMDAwMDAwMGJmMDNhNTQ2MjYyNzVlYTM2MTZiZjJkZjZjNDk4ZmQx`

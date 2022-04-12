@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,006 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,005 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
 | 50 | [Man with the Hex](https://open.spotify.com/track/3uaN8CPKK8rvCoSjfYZOPH) | [The Atomic Fireballs](https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No) | [Torch This Place](https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L) | 3:01 |
 
-Snapshot ID: `MTY0OTcyNDg3MCwwMDAwMDAwMGRhNWM2NjEwZDViZGY1OGRlYjRjMWJkNjI3ZWVhMjgw`
+Snapshot ID: `MTY0OTczNzIwOCwwMDAwMDAwMGRhNWM2NjEwZDViZGY1OGRlYjRjMWJkNjI3ZWVhMjgw`

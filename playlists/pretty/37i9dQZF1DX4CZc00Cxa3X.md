@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,217 likes - 60 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,226 likes - 60 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 59 | [Grat](https://open.spotify.com/track/3C7ln1fvOInfVLWe1uOWso) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [The Winterstein Suite](https://open.spotify.com/album/6npZLJ2zQD5TnSRRdimKFN) | 4:39 |
 | 60 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 |
 
-Snapshot ID: `MTY0OTcyNTA1NiwwMDAwMDAwMDgxZjMwZmMyMDZjZWI1ZWFiOGViMGM2YTg1YzZjNzkz`
+Snapshot ID: `MTY0OTczNzM1OCwwMDAwMDAwMDgxZjMwZmMyMDZjZWI1ZWFiOGViMGM2YTg1YzZjNzkz`

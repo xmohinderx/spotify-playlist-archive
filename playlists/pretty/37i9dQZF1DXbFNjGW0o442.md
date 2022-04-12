@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marilina Bertoldi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,406 likes - 99 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,409 likes - 99 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 98 | [En Invierno](https://open.spotify.com/track/3i0uMKGh0Q0LQxZAVcS9Gv) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Fuego Artificial](https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR) | 3:03 |
 | 99 | [Mis Demonios](https://open.spotify.com/track/79V8A27yn7FiOlDec4yux9) | [Luciana Segovia](https://open.spotify.com/artist/1h0VgUZrsCsorbQQ7k8EQ5) | [Mis Demonios](https://open.spotify.com/album/2IuP44TaCv53BeJSgNrl1z) | 2:57 |
 
-Snapshot ID: `MTY0OTcyNTMwMiwwMDAwMDAwMDljYTljMzBlNGZiYjJmOWY3ZWM1MjI5ZmYzN2I5Y2Uz`
+Snapshot ID: `MTY0OTczNzU1MywwMDAwMDAwMDljYTljMzBlNGZiYjJmOWY3ZWM1MjI5ZmYzN2I5Y2Uz`

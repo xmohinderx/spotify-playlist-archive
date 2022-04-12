@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,399 likes - 64 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,411 likes - 64 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Paisaje \- En Vivo](https://open.spotify.com/track/6eoyDlYshTp0L8t6qPodeN) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Paisaje \(En Vivo\)](https://open.spotify.com/album/1JgFPt2VdpuaMNRFtJ9N65) | 2:36 |
 | 64 | [Hawai / Vida de Rico \- Live Session](https://open.spotify.com/track/55PpTrstgX5l4CpJIjm34I) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [Hawai / Vida de Rico \(Live Session\)](https://open.spotify.com/album/2Z7mjYtgS9vVh6u8yz0D3C) | 2:46 |
 
-Snapshot ID: `MTY0OTcyNDgzMiwwMDAwMDAwMGU4MDE0M2QwN2MwYTNlOTllOGRhZWVlMTRkOWRiNDJi`
+Snapshot ID: `MTY0OTczNzE3OCwwMDAwMDAwMGU4MDE0M2QwN2MwYTNlOTllOGRhZWVlMTRkOWRiNDJi`

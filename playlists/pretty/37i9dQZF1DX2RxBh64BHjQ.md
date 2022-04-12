@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: Hunxho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,621,003 likes - 99 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,621,031 likes - 99 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

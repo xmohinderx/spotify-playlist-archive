@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Seori\(서리\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,942 likes - 64 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,996 likes - 64 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 |
 | 64 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 |
 
-Snapshot ID: `MTY0OTcyNTEzMSwwMDAwMDAwMGRkMTA3NDZmNDQyYTI5MDMxYmRkNDBlNjFlY2YzODNm`
+Snapshot ID: `MTY0OTczNzQxNiwwMDAwMDAwMGRkMTA3NDZmNDQyYTI5MDMxYmRkNDBlNjFlY2YzODNm`

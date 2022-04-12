@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. En portada: Charlie Rodd & Leo Rizzi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,959 likes - 81 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,966 likes - 81 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,322 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,369 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 99 | [Peace](https://open.spotify.com/track/7tXeeUCuvSrGnnscIT58iv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Deluxe Edition\)](https://open.spotify.com/album/6PguISnE2nz7CuhnIAWhQF) | 3:52 |
 | 100 | [You Make Me Feel so Young](https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 4:08 |
 
-Snapshot ID: `MTY0OTcyNDY3MywwMDAwMDAwMDIyNzFkNGNjZmM4ZDViNDE3OWJhOWE1ZWE5YTRlYTlh`
+Snapshot ID: `MTY0OTczNzA1NSwwMDAwMDAwMDIyNzFkNGNjZmM4ZDViNDE3OWJhOWE1ZWE5YTRlYTlh`

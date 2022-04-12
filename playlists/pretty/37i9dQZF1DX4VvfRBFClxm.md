@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: James Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,903 likes - 125 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,910 likes - 125 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 124 | [Life Is Confusing](https://open.spotify.com/track/4sYjFmNN8Vv2Rjg8jhwrSX) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:51 |
 | 125 | [Concrete Jungle \- Acoustic](https://open.spotify.com/track/4yxL6eoSsZ04lN0VezKgcr) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Concrete Jungle \(Acoustic\)](https://open.spotify.com/album/5O0s7Us9XA7lre1xURGve0) | 2:40 |
 
-Snapshot ID: `MTY0OTcyNTA2NiwwMDAwMDAwMGNkZjA4ZGY0ZDQ4YWFhMjA5YmE0NGJiZDI5MzU5ZDBi`
+Snapshot ID: `MTY0OTczNzM2NiwwMDAwMDAwMGNkZjA4ZGY0ZDQ4YWFhMjA5YmE0NGJiZDI5MzU5ZDBi`

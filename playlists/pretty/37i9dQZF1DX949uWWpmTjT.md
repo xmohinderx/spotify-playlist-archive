@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > Slow and soft sounds of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,136 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,155 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 99 | [Don't Explain](https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:14 |
 | 100 | [Goor Katan](https://open.spotify.com/track/6GwG8n60P79HgFdGmZMBH3) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ) | 5:37 |
 
-Snapshot ID: `MTY0OTcyNTIyOCwwMDAwMDAwMDQxYzM2ZjAyODU3ODZlZDcxMzZkODBhZDcyNWFkMDlj`
+Snapshot ID: `MTY0OTczNzQ5MiwwMDAwMDAwMDQxYzM2ZjAyODU3ODZlZDcxMzZkODBhZDcyNWFkMDlj`

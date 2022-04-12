@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Know Your Heart \- Stripped](https://open.spotify.com/track/0q7x22JOfIo6oB6nmNgEEh) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Know Your Heart \(Stripped\)](https://open.spotify.com/album/7HJZ54TsdvNW2UMSzIq3IA) | 3:59 |
 | 50 | [Won't You Stay](https://open.spotify.com/track/0HcmmsPF51WiDBCgKfFdyl) | [heyboy](https://open.spotify.com/artist/5tmIY9i8K8wb2yaoIqF7Hy) | [Won't You Stay](https://open.spotify.com/album/3iPmT9c737tJzt9WsRcTPM) | 3:27 |
 
-Snapshot ID: `MTY0OTcyNTQwNSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0OTczNzYzOSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

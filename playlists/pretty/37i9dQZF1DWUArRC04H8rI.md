@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > A new generation making their own rules\. Cover: Gala Nell
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,500 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,505 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 59 | [Soñé Que Te Perdía](https://open.spotify.com/track/1lRdfGNjaSbz1ZobwU5Gig) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Soñé Que Te Perdía](https://open.spotify.com/album/45zhh8r9YUGApMnt6c6Yco) | 2:47 |
 | 60 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 
-Snapshot ID: `MTY0OTcyNDcxNSwwMDAwMDAwMDlmNmI4NDdiYjhmOWI1ODFhZmVhNzJmYzU2NzYzMDgz`
+Snapshot ID: `MTY0OTczNzA4NywwMDAwMDAwMDlmNmI4NDdiYjhmOWI1ODFhZmVhNzJmYzU2NzYzMDgz`

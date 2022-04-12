@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,355,888 likes - 200 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,356,004 likes - 200 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [The Best You Had](https://open.spotify.com/track/5GT8b1dFaOWFF5twsmSOYx) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Best You Had](https://open.spotify.com/album/4UcVryZcV8ju40ZjGYYE1u) | 2:55 |
 | 200 | [Over And Over Again](https://open.spotify.com/track/1X6kxrjWVWiKMqulM8XZpj) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Over And Over Again](https://open.spotify.com/album/1IVuFM49EVxrSfn6AJZAn9) | 4:06 |
 
-Snapshot ID: `MTY0OTcyNTAzOSwwMDAwMDAwMDc5YzEwOGMwODJmOWM3NTNjMDM4ZTFiOWEzMzI4YTE3`
+Snapshot ID: `MTY0OTczNzM0NSwwMDAwMDAwMDc5YzEwOGMwODJmOWM3NTNjMDM4ZTFiOWEzMzI4YTE3`

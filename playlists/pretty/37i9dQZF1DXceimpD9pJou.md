@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Pablo Bentacourth
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,330 likes - 99 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,341 likes - 99 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Solo Tengo Ojos Para Ti](https://open.spotify.com/track/4LRFOqZmtKCL5MWhxb5eyL) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe) | [Despinal](https://open.spotify.com/album/2FT61GagMLvIqY8n3imK5z) | 3:29 |
 | 99 | [En Lo Profundo](https://open.spotify.com/track/6KwNxcAMdD8Cm665dPKcj7) | [Lolis](https://open.spotify.com/artist/2TrcIvGOu6l4OY4Sb4BegK) | [En Lo Profundo](https://open.spotify.com/album/6QtOoWR5II5XN0nsT0GFxD) | 5:28 |
 
-Snapshot ID: `MTY0OTcyNTM0NCwwMDAwMDAwMDk2NDMwMTMwNWJkMDAwZmZjNjJkNDU3YzJlZjczYTEw`
+Snapshot ID: `MTY0OTczNzU4NywwMDAwMDAwMDk2NDMwMTMwNWJkMDAwZmZjNjJkNDU3YzJlZjczYTEw`

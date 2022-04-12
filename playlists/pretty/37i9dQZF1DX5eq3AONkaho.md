@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,203 likes - 200 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,213 likes - 200 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [Dancing King](https://open.spotify.com/track/4mapUx15LvqkxwJQcINhvH) | [Yoo Jae Seok](https://open.spotify.com/artist/4zmCovcjfUoYP3VilaMGxb), [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Dancing King](https://open.spotify.com/album/6nSYxDz9C4U2vDVQkZNWaW) | 4:04 |
 | 200 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 |
 
-Snapshot ID: `MTY0OTcyNTExMiwwMDAwMDAwMDI4YjUyYzIyNGM2YWE3OWRjNzZhOWRjYmZlZWY5ZWNm`
+Snapshot ID: `MTY0OTczNzQwMiwwMDAwMDAwMDI4YjUyYzIyNGM2YWE3OWRjNzZhOWRjYmZlZWY5ZWNm`

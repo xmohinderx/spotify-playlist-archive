@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,379 likes - 57 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,381 likes - 57 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Fix You](https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [With a Twist \(Deluxe\)](https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt) | 4:06 |
 | 57 | [The Final Countdown](https://open.spotify.com/track/62CjzgjzGMO0oBKhEs9Sxj) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Pitch Perfect Soundtrack \(Special Edition\)](https://open.spotify.com/album/3rthCGaT4b1lUikhp43ACk) | 1:15 |
 
-Snapshot ID: `MTY0OTcyNTAyOSwwMDAwMDAwMDY2NDk4ZDA3YmUzYTU0ZTlkZjBlNjZjMmE5OWI0MjIz`
+Snapshot ID: `MTY0OTczNzMzNywwMDAwMDAwMDY2NDk4ZDA3YmUzYTU0ZTlkZjBlNjZjMmE5OWI0MjIz`

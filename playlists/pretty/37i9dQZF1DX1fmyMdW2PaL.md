@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,140 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,143 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [Rules of Conviction](https://open.spotify.com/track/4g78phWmF0XGoJvoDrt2pf) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Rules](https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3) | 3:42 |
 | 100 | [Familiar Drugs](https://open.spotify.com/track/4dg2ylqFSHbvdkkh9wUAob) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/5hmv6iLsFa7cKorfqUUrqQ) | 4:18 |
 
-Snapshot ID: `MTY0OTcyNDk2NywwMDAwMDAwMGYxNDBlYjk4YzQzNTM2MTEzYWEwZTNlYzJkZjA2Njk0`
+Snapshot ID: `MTY0OTczNzI5MSwwMDAwMDAwMGYxNDBlYjk4YzQzNTM2MTEzYWEwZTNlYzJkZjA2Njk0`

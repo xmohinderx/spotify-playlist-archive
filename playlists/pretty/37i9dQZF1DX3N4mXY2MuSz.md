@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Making Christmas](https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nightmare Revisited](https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr) | 3:26 |
 | 75 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 |
 
-Snapshot ID: `MTY0OTcyNTAzMywwMDAwMDAwMDZlOWI3MTIxYzEzMGQ2MWFiZGIwNTU1ZmQzNzcwOTk4`
+Snapshot ID: `MTY0OTczNzM0MCwwMDAwMDAwMDZlOWI3MTIxYzEzMGQ2MWFiZGIwNTU1ZmQzNzcwOTk4`

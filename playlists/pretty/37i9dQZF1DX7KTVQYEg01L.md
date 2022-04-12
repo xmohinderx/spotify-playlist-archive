@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 
 > Comece o dia com grandes hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,438,568 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,438,567 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 69 | [Out of Words](https://open.spotify.com/track/1ftjKpH66EE8VFkr7HLB9B) | [Bianca Rhoden](https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI) | [Out of Words](https://open.spotify.com/album/59oSYq5Ng6K5AIXRBeIN2g) | 2:21 |
 | 70 | [Don't Pretend](https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Don't Pretend](https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS) | 2:45 |
 
-Snapshot ID: `MTY0OTcyNTE3MiwwMDAwMDAwMGRiOGZlYmU5MWM2MThiYjQ1N2E5ZTE3OGI1MGIzYmZm`
+Snapshot ID: `MTY0OTczNzQ0OCwwMDAwMDAwMGRiOGZlYmU5MWM2MThiYjQ1N2E5ZTE3OGI1MGIzYmZm`

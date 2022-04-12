@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,086 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,143 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [still trying](https://open.spotify.com/track/01ysBEvsyXrIbaemFbZ4vK) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [still trying](https://open.spotify.com/album/1MsR5Q72YMzxDjZi7B56Lj) | 3:04 |
 | 100 | [worth it](https://open.spotify.com/track/6cBcNlf0IXnS1TXnwRtBsO) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY) | [BLUE.](https://open.spotify.com/album/2rmN4DkOxAUWcOzsb6pbaf) | 3:08 |
 
-Snapshot ID: `MTY0OTcyNTEzOCwwMDAwMDAwMGEwMGJiM2RmYmE4Y2NkOTc4ZWEzOTg0MzEyMjViZGM0`
+Snapshot ID: `MTY0OTczNzQyMSwwMDAwMDAwMGEwMGJiM2RmYmE4Y2NkOTc4ZWEzOTg0MzEyMjViZGM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,122 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,136 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Triste](https://open.spotify.com/track/4QDIUcFQ5ffnm912AYcVdE) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Triste](https://open.spotify.com/album/7sZsFvA2AvyUXY8oWeRGsx) | 4:23 |
 | 100 | [She Don't Give a FO \(feat\. Khea\)](https://open.spotify.com/track/7ehmaSwhEZv4aaJzxsVMGY) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a FO \(feat\. Khea\)](https://open.spotify.com/album/0iGKT2RH3hdRRPbf0qAOG3) | 3:29 |
 
-Snapshot ID: `MTY0OTcyNDY4NiwwMDAwMDAwMDA4YTkxZTI4NWU0NjY0ZTE0ZDRkZWRmODZlNjRhODQw`
+Snapshot ID: `MTY0OTczNzA2NSwwMDAwMDAwMDA4YTkxZTI4NWU0NjY0ZTE0ZDRkZWRmODZlNjRhODQw`

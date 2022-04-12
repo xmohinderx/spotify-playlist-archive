@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,731 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,847 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 59 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
 | 60 | [As the World Caves In](https://open.spotify.com/track/7LAmsNJpBaNvNg7VZPXxSv) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/7fy6bIIBMLjfdvyPpmv8Ci) | 2:41 |
 
-Snapshot ID: `MTY0OTcyNTA3NywwMDAwMDAwMGM0MDI5NzQ5MDhmN2I1YjExNmJkMGFlMDVhYzE3ZjQz`
+Snapshot ID: `MTY0OTczNzM3NSwwMDAwMDAwMGM0MDI5NzQ5MDhmN2I1YjExNmJkMGFlMDVhYzE3ZjQz`

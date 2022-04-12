@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > Lo mejor del Trap en Español\. The best of Latin Trap\. Cover: Omy de Oro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,661 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,654 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 50 | [AL CAPONE](https://open.spotify.com/track/4igzqj5TrceDGrJcZYM0pl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AL CAPONE](https://open.spotify.com/album/3iYh7Zx5MpbgVttrY0JBaC) | 2:42 |
 | 51 | [Nikes, Diamantes y Skinnies](https://open.spotify.com/track/5uN1KfOgIAEKcUjANVlHvM) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Nikes, Diamantes y Skinnies](https://open.spotify.com/album/3YyOGCZR0MOHPkxxLG57F6) | 3:00 |
 
-Snapshot ID: `MTY0OTcyNTM3NiwwMDAwMDAwMDQ5YjUzNzI2MWNlNjViMTU0YTNiZmI0YzgwYmQ4NjZi`
+Snapshot ID: `MTY0OTczNzYxNiwwMDAwMDAwMDQ5YjUzNzI2MWNlNjViMTU0YTNiZmI0YzgwYmQ4NjZi`

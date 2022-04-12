@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,901 likes - 59 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,937 likes - 59 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 58 | [On The Low](https://open.spotify.com/track/25MPSH5b95vAZgyQq9lt4M) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:05 |
 | 59 | [Deceive](https://open.spotify.com/track/6FuWagyvOErfJ7UnViYVlD) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Empress](https://open.spotify.com/album/5hIpeMI5sJsrWp4nLEIAVD) | 3:27 |
 
-Snapshot ID: `MTY0OTcyNDY2MCwwMDAwMDAwMGE5NDYxNTcxN2VhZjc5ZmUyNGM4YzNhOTc4YmI4MmFm`
+Snapshot ID: `MTY0OTczNzA0NSwwMDAwMDAwMGE5NDYxNTcxN2VhZjc5ZmUyNGM4YzNhOTc4YmI4MmFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,646 likes - 60 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,677 likes - 60 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Ororel](https://open.spotify.com/track/0LflP98ZbY00npAWEVPaMG) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ororel](https://open.spotify.com/album/26lfPdC3aolrsedEW4KMUI) | 6:31 |
 | 60 | [Lotus \- Radio Edit](https://open.spotify.com/track/3tx2LWG7qvk51C8A6d3qdg) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Lotus \(Radio Edit\)](https://open.spotify.com/album/4T9DDQJLabUvrjfAucsNjg) | 3:43 |
 
-Snapshot ID: `MTY0OTcyNTAxMCwwMDAwMDAwMDM1ODE5ZTZkZTY4NjQ2NzdkOTk0M2UzZGJiOTk4ZDVj`
+Snapshot ID: `MTY0OTczNzMyNCwwMDAwMDAwMDM1ODE5ZTZkZTY4NjQ2NzdkOTk0M2UzZGJiOTk4ZDVj`

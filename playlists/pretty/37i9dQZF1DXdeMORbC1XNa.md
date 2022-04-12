@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover:  Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,373 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,380 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 49 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
 | 50 | [Lupita](https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Roots](https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx) | 3:37 |
 
-Snapshot ID: `MTY0OTcyNTM3NiwwMDAwMDAwMDYyNmM1YzY3OWRiNjlhODA3YjJhMjVhMmJlMjU0YWQy`
+Snapshot ID: `MTY0OTczNzYxNiwwMDAwMDAwMDYyNmM1YzY3OWRiNjlhODA3YjJhMjVhMmJlMjU0YWQy`

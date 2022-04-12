@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,029,954 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,029,986 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [Piano In The Sky](https://open.spotify.com/track/5nCrHjb9e3zWDL6Svvxxwl) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Piano In The Sky](https://open.spotify.com/album/6clMKEBohRIk5boUGSr2AL) | 3:10 |
 | 100 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
 
-Snapshot ID: `MTY0OTcyNTMyMCwwMDAwMDAwMDgzNWExNThiMDg4YmZiMWUwMmYwMWY3YTk5NGM0Y2Jj`
+Snapshot ID: `MTY0OTczNzU2NywwMDAwMDAwMDgzNWExNThiMDg4YmZiMWUwMmYwMWY3YTk5NGM0Y2Jj`

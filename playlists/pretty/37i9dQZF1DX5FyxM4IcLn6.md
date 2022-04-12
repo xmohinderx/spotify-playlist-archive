@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,963 likes - 81 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,962 likes - 81 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 80 | [Nothing Compares 2 U](https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:12 |
 | 81 | [Mystery Lady](https://open.spotify.com/track/0bkTdkWwGk3OGFX0afD3Wj) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Studying Abroad: Extended Stay](https://open.spotify.com/album/1S0yIZRDiFmqCQyTIEV175) | 3:48 |
 
-Snapshot ID: `MTY0OTcyNTA5NywwMDAwMDAwMGEwMzk3YWJiODNmYTI0ZjY5NDU2MWI5NGJiNGU5YTQ3`
+Snapshot ID: `MTY0OTczNzM4OSwwMDAwMDAwMGEwMzk3YWJiODNmYTI0ZjY5NDU2MWI5NGJiNGU5YTQ3`

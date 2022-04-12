@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,503 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,501 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
 | 50 | [Everytime I Roll The Dice](https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Never Been Rocked Enough](https://open.spotify.com/album/3PSl0k14EYuc2IYOLL4hoM) | 4:29 |
 
-Snapshot ID: `MTY0OTcyNTM5MSwwMDAwMDAwMGExODVkYTdkZjJmODM2ZWJjYWU4Y2FhY2NkZGQ2M2Nl`
+Snapshot ID: `MTY0OTczNzYyOCwwMDAwMDAwMGExODVkYTdkZjJmODM2ZWJjYWU4Y2FhY2NkZGQ2M2Nl`

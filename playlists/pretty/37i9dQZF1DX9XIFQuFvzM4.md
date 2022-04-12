@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,393,833 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,393,877 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 99 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
 | 100 | [Boogie Nights](https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot To Handle](https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6) | 5:03 |
 
-Snapshot ID: `MTY0OTcyNTI0MiwwMDAwMDAwMDQ0N2YzZWY1ZjM2MGJiOTE2MWMzZThhODUzNWEzMzlk`
+Snapshot ID: `MTY0OTczNzUwMywwMDAwMDAwMDQ0N2YzZWY1ZjM2MGJiOTE2MWMzZThhODUzNWEzMzlk`

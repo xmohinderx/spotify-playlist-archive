@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,757,147 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,757,169 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 99 | [Seventeen Going Under](https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 5:02 |
 | 100 | [Beast and Beauty](https://open.spotify.com/track/2rVyuYkkxF3VIW47Aq5tEG) | [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Beast and Beauty](https://open.spotify.com/album/5uuv4vYnILdQZ891fW3sbQ) | 3:14 |
 
-Snapshot ID: `MTY0OTcyNTE5MywwMDAwMDAwMDg0MmRiMmEwZTJlMjBmZjBjYWE2MmI0NWE5NTE1ODg5`
+Snapshot ID: `MTY0OTczNzQ2NCwwMDAwMDAwMDg0MmRiMmEwZTJlMjBmZjBjYWE2MmI0NWE5NTE1ODg5`

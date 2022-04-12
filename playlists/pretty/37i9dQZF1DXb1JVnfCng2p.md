@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get in mood for dinner with some cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,148 likes - 100 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,150 likes - 100 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 99 | [Just Blues](https://open.spotify.com/track/4XZCbio5t7KEmGYoLcYPE8) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 8:42 |
 | 100 | [Basin Street Blues \- Live](https://open.spotify.com/track/4Crdk4P0rfhdsYqGlV37kL) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Gone With The Wind](https://open.spotify.com/album/4ONOusKmRnc5FtQ5EXw95w) | 4:30 |
 
-Snapshot ID: `MTY0OTcyNTI5NCwwMDAwMDAwMGMxYzNkZjA2NjRiZWFhMTJkYWY2MTE3NWQ2Mzc2OGIz`
+Snapshot ID: `MTY0OTczNzU0NywwMDAwMDAwMGMxYzNkZjA2NjRiZWFhMTJkYWY2MTE3NWQ2Mzc2OGIz`

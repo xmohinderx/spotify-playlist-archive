@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,774 likes - 76 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,991 likes - 76 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 | 76 | [thailand](https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:20 |
 
-Snapshot ID: `MTY0OTcyNTI1MSwwMDAwMDAwMDRhMTQxYTZjZjU4M2Q1NzU5ZWY0MTg0NzRmZDcyOGRl`
+Snapshot ID: `MTY0OTczNzUxMCwwMDAwMDAwMDRhMTQxYTZjZjU4M2Q1NzU5ZWY0MTg0NzRmZDcyOGRl`

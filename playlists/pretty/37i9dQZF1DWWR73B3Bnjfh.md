@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,209 likes - 100 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,226 likes - 100 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 99 | [What's The Rush](https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 3:42 |
 | 100 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 |
 
-Snapshot ID: `MTY0OTcyNDc5MCwwMDAwMDAwMDZkZTc5YWM1MjlmNGNkMTJiMjBiNTBkZDM0ODY2NDRm`
+Snapshot ID: `MTY0OTczNzE0NiwwMDAwMDAwMDZkZTc5YWM1MjlmNGNkMTJiMjBiNTBkZDM0ODY2NDRm`

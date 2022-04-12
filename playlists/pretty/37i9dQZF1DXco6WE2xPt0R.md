@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,144 likes - 99 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,160 likes - 99 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 98 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
 | 99 | [Nothing Even Matters](https://open.spotify.com/track/3xhXKRGahWzcXF8rD5gUvd) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:50 |
 
-Snapshot ID: `MTY0OTcyNTM0OCwwMDAwMDAwMDgwMTg3MDkyOTBmNDcxZjU2ZDBlYjMwZjk1YzM5Y2Q5`
+Snapshot ID: `MTY0OTczNzU5MCwwMDAwMDAwMDgwMTg3MDkyOTBmNDcxZjU2ZDBlYjMwZjk1YzM5Y2Q5`

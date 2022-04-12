@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,541 likes - 80 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,549 likes - 80 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 79 | [Jazzhop Wonderland](https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Jazzhop Wonderland](https://open.spotify.com/album/2aHKW2nDbVlEsRsq9loKjY) | 2:22 |
 | 80 | [Blue Day](https://open.spotify.com/track/19RHlkA9PM5Bw2DKPmPteh) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Nuances](https://open.spotify.com/album/3Vioqdh0ojprGuAMKScjQs) | 2:31 |
 
-Snapshot ID: `MTY0OTcyNTM2MywwMDAwMDAwMGYyOGJlOTIzYmU5OTE2MjgxYmM4YTQyNTUyMzA1MjE3`
+Snapshot ID: `MTY0OTczNzYwNywwMDAwMDAwMGYyOGJlOTIzYmU5OTE2MjgxYmM4YTQyNTUyMzA1MjE3`

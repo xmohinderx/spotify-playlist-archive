@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,904 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,921 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 49 | [The Girl Across the Street](https://open.spotify.com/track/76yDJ8eCk0RxTvRQg3cTRo) | [Moses Smith](https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj) | [The Northern Side of Philly Soul](https://open.spotify.com/album/4u6kf786dRvUmEqbSUFWXP) | 4:12 |
 | 50 | [Hard to Handle](https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Soul Manifesto: 1964\-1970](https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ) | 2:21 |
 
-Snapshot ID: `MTY0OTcyNDgyNywwMDAwMDAwMDYwNmQ1ODQyZjM5ZjQ1ZWNhNGFiZjk3NzJjZjcwNDRi`
+Snapshot ID: `MTY0OTczNzE3NCwwMDAwMDAwMDYwNmQ1ODQyZjM5ZjQ1ZWNhNGFiZjk3NzJjZjcwNDRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > Call it pop\-punk, emo, post\-hardcore, whatever you want\. We call it all awesome\. Cover: Stand Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,473 likes - 200 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,494 likes - 200 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 199 | [In Between](https://open.spotify.com/track/16fn9av6Y86Lmt1JJveNpO) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [In Between](https://open.spotify.com/album/0QkM3ThpYjGJ38O8MoxE4S) | 3:25 |
 | 200 | [Baby Blue](https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita](https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7) | 3:09 |
 
-Snapshot ID: `MTY0OTcyNDg5OCwwMDAwMDAwMGI2OGQ3NGRiN2MyY2YyMmU2ZWQ2YTE2YTgyZWUzNTVm`
+Snapshot ID: `MTY0OTczNzIzMCwwMDAwMDAwMGI2OGQ3NGRiN2MyY2YyMmU2ZWQ2YTE2YTgyZWUzNTVm`

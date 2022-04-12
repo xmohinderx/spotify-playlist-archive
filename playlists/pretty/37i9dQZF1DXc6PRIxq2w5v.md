@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,754 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,762 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 |
 | 65 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 |
 
-Snapshot ID: `MTY0OTcyNTMyNSwwMDAwMDAwMDIzNzI5M2RkYjM1NTY1ZGZiM2VkOGZmYjY3MWE5ZjJi`
+Snapshot ID: `MTY0OTczNzU3MiwwMDAwMDAwMDIzNzI5M2RkYjM1NTY1ZGZiM2VkOGZmYjY3MWE5ZjJi`

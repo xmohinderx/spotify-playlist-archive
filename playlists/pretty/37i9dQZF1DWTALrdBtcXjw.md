@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,261 likes - 100 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,267 likes - 100 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 99 | [Blues for Sharpie](https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 5:29 |
 | 100 | [Ancient and Distant](https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:13 |
 
-Snapshot ID: `MTY0OTcyNDY3OCwwMDAwMDAwMDI0YzQ4OWU3YTU1ZTA4YjcyMGIwMDU5MTRmNTBiNDNi`
+Snapshot ID: `MTY0OTczNzA1OSwwMDAwMDAwMDI0YzQ4OWU3YTU1ZTA4YjcyMGIwMDU5MTRmNTBiNDNi`

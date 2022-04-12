@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Chill\. The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,220 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,231 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 74 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 |
 | 75 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 |
 
-Snapshot ID: `MTY0OTcyNTIzMSwwMDAwMDAwMDMxOWVkMDE4NjJmMWM2YzIwYzU1OTk3OGMyNTExOGQ3`
+Snapshot ID: `MTY0OTczNzQ5NCwwMDAwMDAwMDMxOWVkMDE4NjJmMWM2YzIwYzU1OTk3OGMyNTExOGQ3`

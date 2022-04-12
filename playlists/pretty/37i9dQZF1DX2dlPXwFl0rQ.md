@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Carolina Ross en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,196 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,204 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
 | 100 | [V.A.T.O\. \(Voy a Terminar Odiándote\)](https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [V.A.T.O\. \(Voy a Terminar Odiándote\)](https://open.spotify.com/album/1e06UBjN8u0UO4zVonfZrw) | 2:55 |
 
-Snapshot ID: `MTY0OTcyNTAwNCwwMDAwMDAwMGU0N2RlMzZiOWQ3YjJkOTY1YzdlZDI0MDdhMjhmZmI2`
+Snapshot ID: `MTY0OTczNzMxOSwwMDAwMDAwMGU0N2RlMzZiOWQ3YjJkOTY1YzdlZDI0MDdhMjhmZmI2`

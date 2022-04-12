@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,750 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,797 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 49 | [Free Like Me](https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Free Like Me](https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd) | 3:26 |
 | 50 | [Nasty Girl](https://open.spotify.com/track/59BQqS7wNaSqXPQCyiaPwy) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Nasty Girl](https://open.spotify.com/album/5utCFrzVEe7nzGGidFTAdN) | 2:48 |
 
-Snapshot ID: `MTY0OTcyNDkyNiwwMDAwMDAwMDA3NDNjNzdjYzQzMDJiMTA0M2RiZGNhZGFmNjk5ZTgz`
+Snapshot ID: `MTY0OTczNzI1OCwwMDAwMDAwMDA3NDNjNzdjYzQzMDJiMTA0M2RiZGNhZGFmNjk5ZTgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL0GavIqMTeb.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,064 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,108 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

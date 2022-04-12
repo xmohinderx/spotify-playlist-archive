@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,763 likes - 80 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,799 likes - 80 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Love Language \- Imad Remix](https://open.spotify.com/track/6fjSw7ljeXV60z7QJyI7SB) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU) | [Love Language \(Imad Remix\)](https://open.spotify.com/album/1JUMdLLxgtUt54n7LIDm5V) | 6:02 |
 | 80 | [The Message \- Radio Edit](https://open.spotify.com/track/3O8b0YaIjwIXLIpintKnAX) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Bajka](https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI) | [The Message feat\. Bajka \(Radio Edit\)](https://open.spotify.com/album/01x5HSbl2Qlj3du56AXw3C) | 3:48 |
 
-Snapshot ID: `MTY0OTcyNTEyNCwwMDAwMDAwMDA5MDM5MDc0M2E1YzFlMTZkNmUzYTVmMDQyNzUwNmNk`
+Snapshot ID: `MTY0OTczNzQxMSwwMDAwMDAwMDA5MDM5MDc0M2E1YzFlMTZkNmUzYTVmMDQyNzUwNmNk`

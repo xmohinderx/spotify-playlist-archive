@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,536 likes - 80 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,589 likes - 80 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 79 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 80 | [He Is Risen \- Live](https://open.spotify.com/track/382aSDecX3J6ugMg9YHsFg) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [Live](https://open.spotify.com/album/0K4d3yBg28Vna4SG8OMx9o) | 5:05 |
 
-Snapshot ID: `MTY0OTcyNTA3NiwwMDAwMDAwMDE3ZDE3OTRkMDA2YWVhY2U4NmViZDIyYmY1YmQ2MmVk`
+Snapshot ID: `MTY0OTczNzM3NCwwMDAwMDAwMDE3ZDE3OTRkMDA2YWVhY2U4NmViZDIyYmY1YmQ2MmVk`

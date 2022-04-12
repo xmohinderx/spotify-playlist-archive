@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,785 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,803 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Started Out](https://open.spotify.com/track/7l5Z2grGc47Hs84Zm7XobV) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:41 |
 | 50 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
 
-Snapshot ID: `MTY0OTcyNDg1NSwwMDAwMDAwMGU1NWMxMzM2YjFjYTU3NGZkMjg1YTZiZGE5MGFlNmJh`
+Snapshot ID: `MTY0OTczNzE5NywwMDAwMDAwMGU1NWMxMzM2YjFjYTU3NGZkMjg1YTZiZGE5MGFlNmJh`

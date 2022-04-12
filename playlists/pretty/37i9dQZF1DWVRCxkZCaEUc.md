@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 
 > tracks to play at full volume with the windows down
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,082 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,086 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 | 49 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 |
 | 50 | [Yesteryear](https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 |
 
-Snapshot ID: `MTY0OTcyNDc1MiwwMDAwMDAwMDZmYmU4OTgxYzMwN2ZhNzdiNWI0NjVkN2VkMDhiZWNj`
+Snapshot ID: `MTY0OTczNzExNiwwMDAwMDAwMDZmYmU4OTgxYzMwN2ZhNzdiNWI0NjVkN2VkMDhiZWNj`

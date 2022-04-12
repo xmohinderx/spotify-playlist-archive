@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Mandy Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,485 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,496 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Baby I'm Yours](https://open.spotify.com/track/6Dhk2ZvhPG8HCY3qFU5A2l) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/36gyE5ONEx9pKCMoQdcUI6) | 2:32 |
 | 100 | [Sweet Chamomile](https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:28 |
 
-Snapshot ID: `MTY0OTcyNTMzNiwwMDAwMDAwMGQxNThkNjFmMTE1YTUzOGQxYTFmNjY4YmZkNGY3OGUw`
+Snapshot ID: `MTY0OTczNzU4MCwwMDAwMDAwMGQxNThkNjFmMTE1YTUzOGQxYTFmNjY4YmZkNGY3OGUw`

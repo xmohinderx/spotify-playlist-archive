@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,458 likes - 240 songs - 14 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,476 likes - 240 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 239 | [This Is What You Came For \(feat\. Rihanna\)](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For \(feat\. Rihanna\)](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
 | 240 | [Payphone](https://open.spotify.com/track/1LmN9SSHISbtp9LoaR5ZVJ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed](https://open.spotify.com/album/5x7JzoE4A3DwwU6FPt8qws) | 3:51 |
 
-Snapshot ID: `MTY0OTcyNTE4NCwwMDAwMDAwMDAzNDhiOGI2NTBlODQzZTQwNmM0MTI0ZTM1ZDQ2ZWVi`
+Snapshot ID: `MTY0OTczNzQ1OCwwMDAwMDAwMDAzNDhiOGI2NTBlODQzZTQwNmM0MTI0ZTM1ZDQ2ZWVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > tfw ur crushing so hard it hurts
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,188 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,272 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 69 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 |
 | 70 | [u suck](https://open.spotify.com/track/4s01RhVHZSp76UsZc9xbAR) | [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [u suck](https://open.spotify.com/album/4pf9DXu6ePDlQSM5IApkeN) | 3:19 |
 
-Snapshot ID: `MTY0OTcyNTM0MSwwMDAwMDAwMGFjMzMwYmZiNzM5NTQ1NTAwYmQ0ZGNmMDE5MjMwYzhk`
+Snapshot ID: `MTY0OTczNzU4NSwwMDAwMDAwMGFjMzMwYmZiNzM5NTQ1NTAwYmQ0ZGNmMDE5MjMwYzhk`

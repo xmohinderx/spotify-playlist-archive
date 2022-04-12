@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,592 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,608 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [YOU CAN DO IT](https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh) | 2:56 |
 | 60 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 |
 
-Snapshot ID: `MTY0OTcyNTMxMCwwMDAwMDAwMDQ3ZDMyNWE5MjcwYTBmMGY3NGUwNjAxYTE1MDZmMGE0`
+Snapshot ID: `MTY0OTczNzU2MCwwMDAwMDAwMDQ3ZDMyNWE5MjcwYTBmMGY3NGUwNjAxYTE1MDZmMGE0`

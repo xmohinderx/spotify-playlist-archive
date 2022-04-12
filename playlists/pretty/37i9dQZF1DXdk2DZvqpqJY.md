@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Jazzy sounds for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,598 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,607 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [Coasting](https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:49 |
 | 100 | [prisner](https://open.spotify.com/track/1f5w6SKCFnvTf68De7JgMR) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [butterfly](https://open.spotify.com/album/0heal5aAbfR3Y81QhAijRW) | 4:38 |
 
-Snapshot ID: `MTY0OTcyNTM4MCwwMDAwMDAwMGZiYzUzMmJhOGQzMjJmNjZjNzJlZTkzNDMyMDRkMmVk`
+Snapshot ID: `MTY0OTczNzYxOSwwMDAwMDAwMGZiYzUzMmJhOGQzMjJmNjZjNzJlZTkzNDMyMDRkMmVk`

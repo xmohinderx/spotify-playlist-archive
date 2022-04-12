@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 
 > A llorar a la llorería.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,743 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,826 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 59 | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui) | 2:59 |
 | 60 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 
-Snapshot ID: `MTY0OTcyNTIyNiwwMDAwMDAwMGQ0OWUwOGRhZWRmMGI3NTExYjMxZDRjYjQzM2ZhZTZk`
+Snapshot ID: `MTY0OTczNzQ5MSwwMDAwMDAwMGQ0OWUwOGRhZWRmMGI3NTExYjMxZDRjYjQzM2ZhZTZk`

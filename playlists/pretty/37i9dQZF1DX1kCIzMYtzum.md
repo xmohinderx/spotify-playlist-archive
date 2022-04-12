@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favorite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,201 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,215 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 49 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 |
 | 50 | [Coming Over \- VIP](https://open.spotify.com/track/1p04Tm0c2tnIdgOYIpcioh) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Very Important Music](https://open.spotify.com/album/1hSyRaCKfMvbiTXXtlHW46) | 3:20 |
 
-Snapshot ID: `MTY0OTcyNDk2OSwwMDAwMDAwMDQ3NWZhOWFlNzkwNTczZDliNjE3NzRlYzQ1NDlmMmEw`
+Snapshot ID: `MTY0OTczNzI5MiwwMDAwMDAwMDQ3NWZhOWFlNzkwNTczZDliNjE3NzRlYzQ1NDlmMmEw`

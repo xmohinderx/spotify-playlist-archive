@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,273 likes - 103 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,335 likes - 103 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 102 | [Soldier \(feat\. T.I\. & Lil' Wayne\)](https://open.spotify.com/track/0DlVOdK5GJtnom4nI3EOz5) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 5:25 |
 | 103 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 
-Snapshot ID: `MTY0OTcyNDY5MiwwMDAwMDAwMDhlYzAxYWNkNmUyOTU3NjQ1N2NkZjNmNjhhY2FkNWMw`
+Snapshot ID: `MTY0OTczNzA3MCwwMDAwMDAwMDhlYzAxYWNkNmUyOTU3NjQ1N2NkZjNmNjhhY2FkNWMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Relaxing sounds of modern jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,269 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,276 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Maridalen](https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [Maridalen](https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti) | 4:23 |
 | 100 | [Silenced Wings](https://open.spotify.com/track/6Jvz580uudC0WWdkJQAe8h) | [Volker Goetze](https://open.spotify.com/artist/4Po5wr0Ul3royQBHA8oZdm), [Nick Dunston](https://open.spotify.com/artist/3DN6nBMAIh7wmKkuP2KC05), [Oran Etkin](https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO), [Richie Barshay](https://open.spotify.com/artist/008APzwhx1PzECrQTNatRS) | [Secret Island](https://open.spotify.com/album/0fILKf7zaIvUdPf85OoFaA) | 3:23 |
 
-Snapshot ID: `MTY0OTcyNDkzMiwwMDAwMDAwMDdhYTdjNzNiMDNlZWM0OGE4MTk0ZmIzNmU0NGFhMmI0`
+Snapshot ID: `MTY0OTczNzI2MiwwMDAwMDAwMDdhYTdjNzNiMDNlZWM0OGE4MTk0ZmIzNmU0NGFhMmI0`

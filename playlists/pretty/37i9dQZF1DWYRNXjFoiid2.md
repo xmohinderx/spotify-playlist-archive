@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Today's best pop to fuel your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,968 likes - 120 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,972 likes - 120 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 119 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 120 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 |
 
-Snapshot ID: `MTY0OTcyNDg1OCwwMDAwMDAwMGE0MjcyZTRiYjFkYTRiOTQ0ZjNmN2M0NWQ1NDI3Njlj`
+Snapshot ID: `MTY0OTczNzE5OSwwMDAwMDAwMGE0MjcyZTRiYjFkYTRiOTQ0ZjNmN2M0NWQ1NDI3Njlj`

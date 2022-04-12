@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,648 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,661 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Lemon Squeeze](https://open.spotify.com/track/14LgwZInulRb4IDix4jiBE) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [YEO CIG](https://open.spotify.com/artist/3OwLFw3VPQXWMa7WmLvQIE) | [Lemon Squeeze](https://open.spotify.com/album/5GEcEjaGF0fGXUmd8psXuh) | 3:02 |
 | 60 | [ODYK \- DJ Mitsu The Beats Remix](https://open.spotify.com/track/27No018rVYDXnbCyxO37wa) | [buzzy.](https://open.spotify.com/artist/6g692Dxngf9dKjgF1CRES3), [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [ODYK \(DJ Mitsu The Beats Remix\)](https://open.spotify.com/album/7K8JmmbLDoOd4luIxgYnQl) | 3:41 |
 
-Snapshot ID: `MTY0OTcyNTE5MCwwMDAwMDAwMDEwMTAxMThkOGFkY2Q1MTI3NGFjZWU2ZDNmMWRiYjdl`
+Snapshot ID: `MTY0OTczNzQ2MiwwMDAwMDAwMDEwMTAxMThkOGFkY2Q1MTI3NGFjZWU2ZDNmMWRiYjdl`

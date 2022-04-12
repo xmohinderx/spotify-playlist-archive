@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 
 > todo un mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,444 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,495 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 99 | [Not Steady](https://open.spotify.com/track/42ArfZUgGo3k5btIHp08it) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Not Steady](https://open.spotify.com/album/1XGuAokaFjAkpGmOEllsoD) | 3:10 |
 | 100 | [Dos Opciones](https://open.spotify.com/track/3qIpCIYX31M7RWjkIGaX5l) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Dos Opciones](https://open.spotify.com/album/6XgDscV3NB6BbYqUkvVixf) | 3:44 |
 
-Snapshot ID: `MTY0OTcyNDY2MCwwMDAwMDAwMGJmZmIyOWNhOTkwOTRhNDI4MTU5MDhjYjg2OWY5Zjcw`
+Snapshot ID: `MTY0OTczNzA0NiwwMDAwMDAwMGJmZmIyOWNhOTkwOTRhNDI4MTU5MDhjYjg2OWY5Zjcw`

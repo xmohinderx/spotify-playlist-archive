@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,288 likes - 250 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,440 likes - 250 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [For the First Time](https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0) | 4:12 |
 | 250 | [Lay It All on Me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [We the Generation](https://open.spotify.com/album/68s1AYwi1JtoTOD0ggqr2j) | 4:02 |
 
-Snapshot ID: `MTY0OTcyNDk3NywwMDAwMDAwMGI1MWY4MWZlYjQ1ZTAyYWE4ZGU1Nzg1ZmFiZmEwMjZk`
+Snapshot ID: `MTY0OTczNzI5OSwwMDAwMDAwMGI1MWY4MWZlYjQ1ZTAyYWE4ZGU1Nzg1ZmFiZmEwMjZk`

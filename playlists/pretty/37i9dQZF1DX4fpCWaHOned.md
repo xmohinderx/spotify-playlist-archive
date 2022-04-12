@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 
 > You're on top of the world\. Don't forget it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,635,393 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,635,444 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 | 74 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
 | 75 | [Level Up](https://open.spotify.com/track/5ubwXXOsH9bUhZsQ0Cybha) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Level Up](https://open.spotify.com/album/0v9PueTztOFDKSFkJ3Fkfn) | 3:24 |
 
-Snapshot ID: `MTY0OTcyNTA3MywwMDAwMDAwMDMwNzQxZjFkNjUyMjk3MGE5ODJjMTU0NTI0NzI5NzNl`
+Snapshot ID: `MTY0OTczNzM3MiwwMDAwMDAwMDMwNzQxZjFkNjUyMjk3MGE5ODJjMTU0NTI0NzI5NzNl`

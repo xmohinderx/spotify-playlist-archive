@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,932 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,943 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Dedication](https://open.spotify.com/track/21MMzJpLrZ2Ib0nxlQzGvj) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Dedication](https://open.spotify.com/album/67JarFlTD4R1wIvwAV9ZUD) | 3:24 |
 | 100 | [Upwards](https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Upwards](https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw) | 3:10 |
 
-Snapshot ID: `MTY0OTcyNTM3MywwMDAwMDAwMGJmYmYyMjQwYjI5OTQ4MjliMmE0MjMwY2I0MTIyYTRj`
+Snapshot ID: `MTY0OTczNzYxNCwwMDAwMDAwMGJmYmYyMjQwYjI5OTQ4MjliMmE0MjMwY2I0MTIyYTRj`

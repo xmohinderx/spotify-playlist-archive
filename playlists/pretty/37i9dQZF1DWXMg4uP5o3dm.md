@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Grabbitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,054 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,073 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [Slow Heart \(PVRIS Remix\)](https://open.spotify.com/track/10yj5ZXNfYU44CtXcq8AVK) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Slow Heart \(PVRIS Remix\)](https://open.spotify.com/album/2OYLj4XMWrXZZkb8ZepmiV) | 2:48 |
 | 100 | [Cape Life](https://open.spotify.com/track/7u6GFqgcCl8xXge6GEiTs9) | [I Know Where You Live](https://open.spotify.com/artist/18QW5AfIV8SXQlRRPhCK3a) | [Cape Life](https://open.spotify.com/album/7b2YNOmODl0dfir9hX0sr1) | 3:12 |
 
-Snapshot ID: `MTY0OTcyNDgyMiwwMDAwMDAwMDdlNWUxYjA2N2NjMGVlMjc1MTI1YmRmMDJmOThlZTFj`
+Snapshot ID: `MTY0OTczNzE3MSwwMDAwMDAwMDdlNWUxYjA2N2NjMGVlMjc1MTI1YmRmMDJmOThlZTFj`

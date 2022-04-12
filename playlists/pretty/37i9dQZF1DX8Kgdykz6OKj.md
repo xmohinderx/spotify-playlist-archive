@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,834 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,873 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 |
 | 100 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 |
 
-Snapshot ID: `MTY0OTcyNTIwMSwwMDAwMDAwMGU1YjQ5OTMzZGI5NzNkZmE1ZGU4Y2MwNzE3ZTk2MzAx`
+Snapshot ID: `MTY0OTczNzQ3MCwwMDAwMDAwMGU1YjQ5OTMzZGI5NzNkZmE1ZGU4Y2MwNzE3ZTk2MzAx`

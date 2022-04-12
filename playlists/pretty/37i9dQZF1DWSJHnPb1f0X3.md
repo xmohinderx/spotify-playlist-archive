@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,480,029 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,480,128 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [No One Knows \(feat\. Chiara Castelli\)](https://open.spotify.com/track/0dQQQRxfaTjjDdpno92mTT) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [No One Knows \(feat\. Chiara Castelli\)](https://open.spotify.com/album/7pTfqpW1gdUw2qJYuzvhGg) | 2:27 |
 | 100 | [Desire \(feat\. She Keeps Bees\)](https://open.spotify.com/track/2jHqz0XXugOGhpaRS4tT62) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [She Keeps Bees](https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx) | [Desire \(feat\. She Keeps Bees\)](https://open.spotify.com/album/52qKTVvaC8uv5Q9kYvzEtL) | 2:42 |
 
-Snapshot ID: `MTY0OTcyNDY0NywwMDAwMDAwMGQ3ZDRkYWI0ZThjM2I1NzA2YjZiNWU0YjNmOTA5MmFi`
+Snapshot ID: `MTY0OTczNzAzNSwwMDAwMDAwMGQ3ZDRkYWI0ZThjM2I1NzA2YjZiNWU0YjNmOTA5MmFi`

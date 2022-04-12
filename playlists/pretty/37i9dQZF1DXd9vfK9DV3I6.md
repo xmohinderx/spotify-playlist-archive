@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,182 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,214 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Time Flies](https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn) | [Time Flies](https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO) | 2:59 |
 | 100 | [Alone](https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Alone](https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU) | 3:45 |
 
-Snapshot ID: `MTY0OTcyNTM1NywwMDAwMDAwMDEzNTBmNmQ3ZmI3NWY0ZTA4ZmZkMWIyNTExYTFiZjY4`
+Snapshot ID: `MTY0OTczNzU5NywwMDAwMDAwMDEzNTBmNmQ3ZmI3NWY0ZTA4ZmZkMWIyNTExYTFiZjY4`

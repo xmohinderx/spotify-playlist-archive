@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,448 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,486 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 89 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 |
 | 90 | [I Had Too Much to Dream \(Last Night\)](https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [I Had Too Much To Dream \(Last Night\)](https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw) | 2:59 |
 
-Snapshot ID: `MTY0OTcyNDgxMSwwMDAwMDAwMGE0YzIwZTg0MzA2ZjViYzhjZmJkYWY2ZWUyNmQ0YzFi`
+Snapshot ID: `MTY0OTczNzE2MiwwMDAwMDAwMGE0YzIwZTg0MzA2ZjViYzhjZmJkYWY2ZWUyNmQ0YzFi`

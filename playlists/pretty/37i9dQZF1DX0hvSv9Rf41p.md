@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Kill The Noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,349 likes - 113 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,360 likes - 113 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 112 | [See You Again](https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [See You Again EP](https://open.spotify.com/album/4rmeoGTOMbpZ8WBzfWEKzC) | 4:23 |
 | 113 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 |
 
-Snapshot ID: `MTY0OTcyNDkzNywwMDAwMDAwMDliZDFhNWEwZTc2ZTUyODUyZTI5NWU3MGUwM2Q2ZDhl`
+Snapshot ID: `MTY0OTczNzI2NiwwMDAwMDAwMDliZDFhNWEwZTc2ZTUyODUyZTI5NWU3MGUwM2Q2ZDhl`

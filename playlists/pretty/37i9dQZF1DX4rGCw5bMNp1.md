@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,655 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,657 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [I Wish I Had Somebody](https://open.spotify.com/track/1jmUDgvrdOKpz1JxlEH7Qz) | [Good Rockin' Charles](https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8) | [American Blues Legends 79](https://open.spotify.com/album/08wMsEomV865Vdabc98gPw) | 4:46 |
 | 50 | [Dark Road](https://open.spotify.com/track/1ROQZlDDQzgSHqpnx2N2hP) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/0jZEb8oLz5um5ZhEfoDCTP) | 3:37 |
 
-Snapshot ID: `MTY0OTcyNTA4MiwwMDAwMDAwMDE0YTk1NGI5NjcyOGU2NzA5OTg0MGIyYTA2OGU5ZDMw`
+Snapshot ID: `MTY0OTczNzM3OCwwMDAwMDAwMDE0YTk1NGI5NjcyOGU2NzA5OTg0MGIyYTA2OGU5ZDMw`

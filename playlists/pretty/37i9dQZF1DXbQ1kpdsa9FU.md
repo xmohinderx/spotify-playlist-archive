@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,252 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,279 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [With Lifted Hands](https://open.spotify.com/track/68246eHScV7Ay4sl9bsxIA) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [No Matter What](https://open.spotify.com/album/6ED9KeL0Y7IUlraK8i6deD) | 3:37 |
 | 100 | [Let Love Lead](https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Let Love Lead](https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23) | 3:55 |
 
-Snapshot ID: `MTY0OTcyNTMwNywwMDAwMDAwMDM2NzhmYzc2ZWMxYTFiZDg3NGJjNzdkOWJkZGUwNGVk`
+Snapshot ID: `MTY0OTczNzU1NywwMDAwMDAwMDM2NzhmYzc2ZWMxYTFiZDg3NGJjNzdkOWJkZGUwNGVk`

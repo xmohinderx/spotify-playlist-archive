@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,756 likes - 122 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,785 likes - 122 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 121 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 3:07 |
 | 122 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
 
-Snapshot ID: `MTY0OTcyNDg3NCwwMDAwMDAwMDk0YWRhNDVmMDVhNWM3MzE5NmEwNmI4Y2E2NGY3YTcy`
+Snapshot ID: `MTY0OTczNzIxMiwwMDAwMDAwMDk0YWRhNDVmMDVhNWM3MzE5NmEwNmI4Y2E2NGY3YTcy`

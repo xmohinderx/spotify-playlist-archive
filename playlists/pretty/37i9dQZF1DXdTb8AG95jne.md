@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Joosiq\(주시크\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,640 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,637 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Lullaby](https://open.spotify.com/track/0OV5CZKs1CNsavPmV9gZzg) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM), [Jida](https://open.spotify.com/artist/3Kkn1uJL09E0EHoMyfpRVI) | [Lullaby](https://open.spotify.com/album/56LUm3jvcWdgNeHKrtEjGl) | 4:03 |
 | 50 | [Don't be Disappointed](https://open.spotify.com/track/5NFUz1lKuetUhaRBPYuC6b) | [from all to human](https://open.spotify.com/artist/70ZE1v0UgSiInAfo8Xqjhj) | [Lief](https://open.spotify.com/album/39bo9FjkRsfe8kT63dAFez) | 3:07 |
 
-Snapshot ID: `MTY0OTcyNTM2OSwwMDAwMDAwMDg0MDE3MzE1YzhkNTM0YjNiNDc3ODQ4MGE0NWEzMjk2`
+Snapshot ID: `MTY0OTczNzYxMSwwMDAwMDAwMDg0MDE3MzE1YzhkNTM0YjNiNDc3ODQ4MGE0NWEzMjk2`

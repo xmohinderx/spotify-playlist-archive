@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,392 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,391 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
 | 60 | [Let Me Know](https://open.spotify.com/track/3Yeey7zLzWwpyw83Ypwnlm) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Let Me Know](https://open.spotify.com/album/4yM1WvRo2WYOeSYKYJdknF) | 2:55 |
 
-Snapshot ID: `MTY0OTcyNDg5MywwMDAwMDAwMGQ5MjQ3ODZhMjNlYTljMTU2ZTEzOWEyMzI0MDM0ZWFm`
+Snapshot ID: `MTY0OTczNzIyNywwMDAwMDAwMGQ5MjQ3ODZhMjNlYTljMTU2ZTEzOWEyMzI0MDM0ZWFm`

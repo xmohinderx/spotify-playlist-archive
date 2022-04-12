@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > Lo nuevo del R&B Latino\. Fresh R&B Latin tracks\. Cover: Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,690 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,697 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 84 | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX) | [Agina](https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD) | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr) | 2:53 |
 | 85 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
 
-Snapshot ID: `MTY0OTcyNDk5MiwwMDAwMDAwMDE2YmZmNGE3MGRiOGU2YTQ2MTgwZjMzOGYyNzNlYWQz`
+Snapshot ID: `MTY0OTczNzMxMSwwMDAwMDAwMDE2YmZmNGE3MGRiOGU2YTQ2MTgwZjMzOGYyNzNlYWQz`

@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
-> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: IVE
+> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: ONEW
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-25 |  |
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-13 | 2022-02-04 |
 | [Devil](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Devil \- The 2nd Mini Album](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) | 3:33 | 2022-01-14 | 2022-02-12 |
+| [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-12 |  |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-16 | 2022-04-09 |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-26 | 2022-03-16 |
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-10 | 2022-03-10 |
@@ -80,7 +81,7 @@
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-27 |  |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-12-13 |  |
 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 | 2022-02-16 | 2022-04-09 |
-| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-13 |  |
+| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-13 | 2022-04-12 |
 | [Ruby](https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [Ruby](https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6) | 2:43 | 2022-01-10 | 2022-02-23 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 |  |
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2021-12-13 | 2022-01-06 |

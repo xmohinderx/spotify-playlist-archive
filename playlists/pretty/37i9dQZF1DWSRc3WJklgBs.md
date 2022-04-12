@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,359 likes - 195 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,381 likes - 195 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 194 | [Let You Go](https://open.spotify.com/track/11HaRxNpnJz2cHjm5WBtFu) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Emina Sonnad](https://open.spotify.com/artist/42x2L7eaYJd1j2nqyVzWmz) | [Let You Go](https://open.spotify.com/album/1SgyTFGZD5uNLugaAnfwSc) | 3:37 |
 | 195 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 |
 
-Snapshot ID: `MTY0OTcyNDY1MSwwMDAwMDAwMDMzZWZjNjg4MmYzZjcyMDUzNjQ3YzRjM2NjN2ZkM2Fh`
+Snapshot ID: `MTY0OTczNzAzOSwwMDAwMDAwMDMzZWZjNjg4MmYzZjcyMDUzNjQ3YzRjM2NjN2ZkM2Fh`

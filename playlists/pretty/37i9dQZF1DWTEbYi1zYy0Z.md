@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > The freshest smooth jazz\. Cover: Nick Colionne
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,184 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,185 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 79 | [Run Through the Urban City](https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw) | [Rei Narita](https://open.spotify.com/artist/6zdbvCBN9A5Avpp6zzfhO2), [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88), [Omar Hakim](https://open.spotify.com/artist/6jJcdCcI6czvcCnM1D1lWg) | [Run Through the Urban City](https://open.spotify.com/album/7B39cVgoZPPFhMacdWCLuJ) | 6:09 |
 | 80 | [Set Sail](https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Set Sail](https://open.spotify.com/album/32WepNq3Z0hU5Ku7jJqu7u) | 3:29 |
 
-Snapshot ID: `MTY0OTcyNDY4MCwwMDAwMDAwMGMzZWJjNjgyM2QwYWY3OWYyN2ZiMzdjNGFlMzRlODEz`
+Snapshot ID: `MTY0OTczNzA2MSwwMDAwMDAwMGMzZWJjNjgyM2QwYWY3OWYyN2ZiMzdjNGFlMzRlODEz`

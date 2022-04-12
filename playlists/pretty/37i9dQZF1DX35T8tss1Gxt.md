@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: CANDIACE
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,565 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,564 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Amazing Grace](https://open.spotify.com/track/4oqVeCZeDdWwX8M7aC9oB3) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Amazing Grace](https://open.spotify.com/album/1dGXWUdhl2H9EmY6MoQtNf) | 2:46 |
 | 100 | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/track/6vLgWjoZtQuHxQQbQopab5) | [NIRVA](https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U) | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/album/3hXJRJ5rEtQ2qm8sbrQwfD) | 3:30 |
 
-Snapshot ID: `MTY0OTcyNTAyMCwwMDAwMDAwMDIwZDc4YjFmNmY1YWMyMTlmZDY3ZGZjYzIzZGFmNDc4`
+Snapshot ID: `MTY0OTczNzMzMiwwMDAwMDAwMDIwZDc4YjFmNmY1YWMyMTlmZDY3ZGZjYzIzZGFmNDc4`

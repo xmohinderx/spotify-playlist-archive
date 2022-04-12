@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,014 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,039 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [El Placer Del Sexo](https://open.spotify.com/track/1sWKWpwaw1eBZxZjRctU7e) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Yo Vivo Por Ti](https://open.spotify.com/album/0qpty2m9kHLlGTYi6r5q6W) | 3:57 |
 
-Snapshot ID: `MTY0OTcyNTA1MSwwMDAwMDAwMDk4Y2YxODBmODA3NmU0OTM4OTE4MWY2ODg0ODRkMTkz`
+Snapshot ID: `MTY0OTczNzM1NCwwMDAwMDAwMDk4Y2YxODBmODA3NmU0OTM4OTE4MWY2ODg0ODRkMTkz`

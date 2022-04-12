@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,526 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,520 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [Lion's Den](https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY) | [Holly Ann](https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK) | [Light & Bloom](https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s) | 4:03 |
 | 60 | [Born Again](https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Home](https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1) | 4:31 |
 
-Snapshot ID: `MTY0OTcyNDkyMCwwMDAwMDAwMDBkZWM5NWI0YWY0ODQ3N2NjZTQxNWMzMzJiNDFlNjNi`
+Snapshot ID: `MTY0OTczNzI1MywwMDAwMDAwMDBkZWM5NWI0YWY0ODQ3N2NjZTQxNWMzMzJiNDFlNjNi`

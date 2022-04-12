@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring Supershy
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,356 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,365 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Can't Believe](https://open.spotify.com/track/4DxI01RKuKGPas1SuSmDi7) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Can't Believe \(Original Mix\)](https://open.spotify.com/album/34Ml8acAOMcafM6xLrip7u) | 4:27 |
 | 100 | [If We Only Had](https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [If We Only Had](https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R) | 5:05 |
 
-Snapshot ID: `MTY0OTcyNTE5NywwMDAwMDAwMDUxYjhmYTUxMDA2MDE0ZGFkZWQyZjFmMGYwNDdhNmY2`
+Snapshot ID: `MTY0OTczNzQ2NywwMDAwMDAwMDUxYjhmYTUxMDA2MDE0ZGFkZWQyZjFmMGYwNDdhNmY2`

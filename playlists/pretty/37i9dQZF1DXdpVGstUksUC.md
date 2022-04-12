@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,975 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,006 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Woodland Rites](https://open.spotify.com/track/7lOhD2iqU2iTllIWAcLlns) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2grZMJgSWGyf7vVdiYWHft) | 4:34 |
 | 100 | [Acid Roulette](https://open.spotify.com/track/65TTWkvvYTpvseubg1pmRa) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/6kdoeLhIsFuvjmhnyUFgei) | 5:49 |
 
-Snapshot ID: `MTY0OTcyNTM4NCwwMDAwMDAwMGI0MTYzMDk0Nzg4ZDM3ZjhiYzUxYmViNWRjMmI5ZTBl`
+Snapshot ID: `MTY0OTczNzYyMiwwMDAwMDAwMGI0MTYzMDk0Nzg4ZDM3ZjhiYzUxYmViNWRjMmI5ZTBl`

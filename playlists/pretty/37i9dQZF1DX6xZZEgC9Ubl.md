@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Featuring new music by Powfu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,450 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,531 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [Secrets](https://open.spotify.com/track/0N3vRbzHnTJrOh7K6zz79a) | [Two:22](https://open.spotify.com/artist/7pdO2N04Ggcu8tC3BqWUDc), [yung van](https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b) | [Secrets](https://open.spotify.com/album/2Kg2Xdc5ifPJUBi44h8w6Q) | 3:45 |
 | 100 | [medicine](https://open.spotify.com/track/38cHoGUA4FvEXiGRwZ32nM) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [medicine](https://open.spotify.com/album/0fXWPB2QCWc7uf7uG9lAOM) | 2:02 |
 
-Snapshot ID: `MTY0OTcyNTE1NywwMDAwMDAwMDE5MDhjMTkxZjRmNTgwN2ZhMjk3NjE2MjE4ZTg3M2Rh`
+Snapshot ID: `MTY0OTczNzQzNSwwMDAwMDAwMDE5MDhjMTkxZjRmNTgwN2ZhMjk3NjE2MjE4ZTg3M2Rh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,077 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,205 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 59 | [Still Counting](https://open.spotify.com/track/1znGxpojJSjxZZEWA5zWva) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/album/6QHLhOasL7wk8EduGT7iD8) | 4:21 |
 | 60 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
 
-Snapshot ID: `MTY0OTcyNDgyMywwMDAwMDAwMGUyMGU4OGI3NmVlZGU0OTZhZWI5MTNlNDNmZWVkYzg5`
+Snapshot ID: `MTY0OTczNzE3MSwwMDAwMDAwMGUyMGU4OGI3NmVlZGU0OTZhZWI5MTNlNDNmZWVkYzg5`

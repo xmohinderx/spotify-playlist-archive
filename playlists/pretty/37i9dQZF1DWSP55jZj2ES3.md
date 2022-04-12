@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Spring has SPRUNG\. Time to vibe outside
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,409 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,526 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 49 | [Head Down](https://open.spotify.com/track/3X8AJHRC435k1l4c6OjecV) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Head Down](https://open.spotify.com/album/2Ef9XULg6bu9Avri3kWUsn) | 4:15 |
 | 50 | [Fruit Bats](https://open.spotify.com/track/78FcqRiNhrse5x66Wee40O) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fruit Bats](https://open.spotify.com/album/6ckcH8CQa64SDtar5rWNxZ) | 2:55 |
 
-Snapshot ID: `MTY0OTcyNDY1MCwwMDAwMDAwMDVlYzVjZDYzZjFkMGZlMjIzOTA5ODBmNTkyZjIwYmQ3`
+Snapshot ID: `MTY0OTczNzAzOCwwMDAwMDAwMDVlYzVjZDYzZjFkMGZlMjIzOTA5ODBmNTkyZjIwYmQ3`

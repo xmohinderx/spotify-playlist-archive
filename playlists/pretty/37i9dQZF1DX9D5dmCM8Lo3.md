@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,995 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,102 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 74 | [LAKE OF LOVE](https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [LAKE OF LOVE](https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw) | 5:43 |
 | 75 | [Loving Is Easy](https://open.spotify.com/track/7KTbdZRAZ3q3wYGz5mD4tR) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [I'll Try Living Like This](https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT) | 5:43 |
 
-Snapshot ID: `MTY0OTcyNTIzMiwwMDAwMDAwMGIwMjI5NzM3N2FiZTBmMTM5YWMxZDk3NzMxYThlOWQ0`
+Snapshot ID: `MTY0OTczNzQ5NiwwMDAwMDAwMGIwMjI5NzM3N2FiZTBmMTM5YWMxZDk3NzMxYThlOWQ0`

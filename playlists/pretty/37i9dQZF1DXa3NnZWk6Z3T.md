@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,254 likes - 150 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,263 likes - 150 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 149 | [Amiga Cruel \(Acústico\)](https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Amiga Cruel \(Acústico\)](https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K) | 3:37 |
 | 150 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 |
 
-Snapshot ID: `MTY0OTcyNTI2MSwwMDAwMDAwMGRkNjczM2IzZWJmMWZkOTQyZjdiZjlhOGNlZTFiMzc4`
+Snapshot ID: `MTY0OTczNzUyMCwwMDAwMDAwMGRkNjczM2IzZWJmMWZkOTQyZjdiZjlhOGNlZTFiMzc4`

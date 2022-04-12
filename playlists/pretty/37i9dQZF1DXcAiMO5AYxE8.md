@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,465 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,475 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 | 62 | [Holdin' Out for Love](https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp) | [Angela Bofill](https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t) | [The Definitive Collection](https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB) | 3:24 |
 
-Snapshot ID: `MTY0OTcyNTMyOCwwMDAwMDAwMDY2ZDk0MGI3OGU4NzFiZjdhNzRkOWM2NWNjNDJkYWRl`
+Snapshot ID: `MTY0OTczNzU3NCwwMDAwMDAwMDY2ZDk0MGI3OGU4NzFiZjdhNzRkOWM2NWNjNDJkYWRl`

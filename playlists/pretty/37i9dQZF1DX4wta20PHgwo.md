@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942,228 likes - 100 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,942,273 likes - 100 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Rhapsody in Blue](https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Rhapsody in Blue](https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p) | 4:09 |
 | 100 | [Raindrops](https://open.spotify.com/track/1w0IXRQFCFcz2z07pdNH4s) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Raindrops](https://open.spotify.com/album/341ZJc8VZY90NPYjWWgiFQ) | 5:57 |
 
-Snapshot ID: `MTY0OTcyNTA4NCwwMDAwMDAwMGMyMWMwY2ZhZmE2ODc1M2Y1NzI3N2ZiMThkYTBkZTQx`
+Snapshot ID: `MTY0OTczNzM4MCwwMDAwMDAwMGMyMWMwY2ZhZmE2ODc1M2Y1NzI3N2ZiMThkYTBkZTQx`

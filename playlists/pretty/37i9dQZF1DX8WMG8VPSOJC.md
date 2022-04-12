@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,045 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,100 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 84 | [Ran into You](https://open.spotify.com/track/33V8ZNvopdCm8BsEKzGXgM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ran into You](https://open.spotify.com/album/1oSlbBYaKeG0H5VPGTzICl) | 3:33 |
 | 85 | [Caught Up In Your Storm](https://open.spotify.com/track/6sMnjbLtQVzNJ5IfHZYzuk) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Forever My Girl \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1UCTuNC4E5Q7mFhIdNo71V) | 3:49 |
 
-Snapshot ID: `MTY0OTcyNTIwOSwwMDAwMDAwMGRlZTg1MDRkMzU3Y2Y0YjdiYjdjMDNmODRkMWJhYTgx`
+Snapshot ID: `MTY0OTczNzQ3NywwMDAwMDAwMGRlZTg1MDRkMzU3Y2Y0YjdiYjdjMDNmODRkMWJhYTgx`

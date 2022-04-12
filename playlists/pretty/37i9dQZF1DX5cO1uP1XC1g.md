@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Top Arabic hits are right here\. Cover: Wegz
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,746 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,765 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 99 | [كيفاش نخليك](https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W), [Hind Sdassi](https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm) | [كيفاش نخليك](https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA) | 3:59 |
 | 100 | [Forsa Tanya \- Music from the Original TV Series](https://open.spotify.com/track/3PvwLFsBlIwyKGXgHvHqmH) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Forsa Tanya \(Music from the Original TV Series\)](https://open.spotify.com/album/5DI1F2g6R8qumJSSpYLXxC) | 4:06 |
 
-Snapshot ID: `MTY0OTcyNTExMSwwMDAwMDAwMGE3N2ZlMjUyZWZkNGRkNjRmMTBkYWUwMDFmMTc4YWM3`
+Snapshot ID: `MTY0OTczNzQwMSwwMDAwMDAwMGE3N2ZlMjUyZWZkNGRkNjRmMTBkYWUwMDFmMTc4YWM3`

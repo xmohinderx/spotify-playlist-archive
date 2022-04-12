@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 
 > Nothing but anthems \- for an extra rep, an extra set, an extra mile...
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,149 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,185 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 | 64 | [Welcome To The Jungle](https://open.spotify.com/track/5NIPsWpDjJTFBoPxCUUeXp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 4:33 |
 | 65 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 |
 
-Snapshot ID: `MTY0OTcyNDg1NiwwMDAwMDAwMDVjODhmZjc3ZDY5MDQ0MTkwNDhhMjgwYTAxNDc1ZDEz`
+Snapshot ID: `MTY0OTczNzE5NywwMDAwMDAwMDVjODhmZjc3ZDY5MDQ0MTkwNDhhMjgwYTAxNDc1ZDEz`

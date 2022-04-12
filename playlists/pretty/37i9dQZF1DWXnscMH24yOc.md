@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,436 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,444 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 |
 | 100 | [What Would You Do](https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:03 |
 
-Snapshot ID: `MTY0OTcyNDgzNywwMDAwMDAwMGVkYjg1ZTg0MGI2Zjg3MWIyZGRmMmI2ODkwZDRkYjZj`
+Snapshot ID: `MTY0OTczNzE4MSwwMDAwMDAwMGVkYjg1ZTg0MGI2Zjg3MWIyZGRmMmI2ODkwZDRkYjZj`

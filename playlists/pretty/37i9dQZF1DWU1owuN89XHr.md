@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,584 likes - 98 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,590 likes - 98 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 97 | [Sembrando Amor](https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS) | 4:30 |
 | 98 | [Gracias A La Vida](https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 Años](https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE) | 4:24 |
 
-Snapshot ID: `MTY0OTcyNDcxMCwwMDAwMDAwMGI4MDQ2YTE2NWY5MTIxM2NmZjA4OGI4ZjU5OTZjN2E3`
+Snapshot ID: `MTY0OTczNzA4NCwwMDAwMDAwMGI4MDQ2YTE2NWY5MTIxM2NmZjA4OGI4ZjU5OTZjN2E3`

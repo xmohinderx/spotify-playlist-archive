@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,535 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,802 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 | 150 | [God Given](https://open.spotify.com/track/32Pi6dFyRPiLS9FhVuHTdu) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ) | [GOD GIVEN](https://open.spotify.com/album/1bahQv5wJhI8k2S2Z3Ae98) | 3:31 |
 
-Snapshot ID: `MTY0OTcyNDg5NiwwMDAwMDAwMDU5N2U3M2FlYzRlNzhhMzc2ZWExNGYyMWM5MDllYzc4`
+Snapshot ID: `MTY0OTczNzIyOSwwMDAwMDAwMDU5N2U3M2FlYzRlNzhhMzc2ZWExNGYyMWM5MDllYzc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,853 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,883 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [Nightmare](https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 6:14 |
 | 75 | [\(This Is Our\) House](https://open.spotify.com/track/3GJWE7h5Maov5ZiA8UAmaL) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [\(This Is Our\) House](https://open.spotify.com/album/6Q2n3poyBZofloxREzVeE3) | 4:18 |
 
-Snapshot ID: `MTY0OTcyNDg4NywwMDAwMDAwMDkyNzM3ZjRhOTA4NmZhNmQ1M2QwODA0NjYzY2Q3Y2E0`
+Snapshot ID: `MTY0OTczNzIyMiwwMDAwMDAwMDkyNzM3ZjRhOTA4NmZhNmQ1M2QwODA0NjYzY2Q3Y2E0`

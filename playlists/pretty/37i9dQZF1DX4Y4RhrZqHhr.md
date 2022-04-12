@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,138 likes - 226 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,143 likes - 226 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 225 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
 | 226 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 |
 
-Snapshot ID: `MTY0OTcyNTA2OSwwMDAwMDAwMGU3YjUzYTcyZmE1N2M4NGY1MGU4YWViOTJlZmRhOGE3`
+Snapshot ID: `MTY0OTczNzM2OCwwMDAwMDAwMGU3YjUzYTcyZmE1N2M4NGY1MGU4YWViOTJlZmRhOGE3`

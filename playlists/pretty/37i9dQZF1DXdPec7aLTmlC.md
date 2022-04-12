@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 
 > Hits to boost your mood and fill you with happiness!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,815,621 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,815,657 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 | 99 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 |
 | 100 | [My Way \(Steve Aoki & Aloe Blacc\)](https://open.spotify.com/track/0FJw1Pg9xXCxbcyQMI6GAe) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [My Way \(Steve Aoki & Aloe Blacc\)](https://open.spotify.com/album/51RVQ2kpX8huPWERdmpdy8) | 3:17 |
 
-Snapshot ID: `MTY0OTcyNTM2NywwMDAwMDAwMGNmOGI4NTBhZjJlYjZmODY0YTg3OTM2ZWNlOGJjYTA4`
+Snapshot ID: `MTY0OTczNzYwOSwwMDAwMDAwMGNmOGI4NTBhZjJlYjZmODY0YTg3OTM2ZWNlOGJjYTA4`

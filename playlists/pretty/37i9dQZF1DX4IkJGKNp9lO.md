@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,143 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,145 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Leva loppan](https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Pengarna eller livet](https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD) | 3:01 |
 | 65 | [Levande Begravd](https://open.spotify.com/track/5rPhZgLe7BqVDWmRJBIZZc) | [Planet Trash](https://open.spotify.com/artist/3hHRgiVq5NYghoavqMnjHJ) | [Blodspår EP](https://open.spotify.com/album/0QwP45coTJCeq7GqE1690q) | 1:44 |
 
-Snapshot ID: `MTY0OTcyNTA1OSwwMDAwMDAwMGVlY2U2ZDcxZWZlMWRlM2I4MWNjNjQ5YmU4NDU3NTcw`
+Snapshot ID: `MTY0OTczNzM2MCwwMDAwMDAwMGVlY2U2ZDcxZWZlMWRlM2I4MWNjNjQ5YmU4NDU3NTcw`

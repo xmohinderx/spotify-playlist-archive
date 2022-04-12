@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata\. Cover: Prince Royce, Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,799,671 likes - 130 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,799,674 likes - 130 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 129 | [Sigo Siendo Tuyo \- Bachata Version](https://open.spotify.com/track/5RUfUcoaI2G8amEcTvQ1nc) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [The Movie \(La Verdadera Pelicula \- Bachata Is Taking Over\)](https://open.spotify.com/album/6sJtd7wf2wNR2k79vq1fix) | 3:54 |
 | 130 | [Enséñame a Olvidar](https://open.spotify.com/track/4iTtqoImVortyy7MHw51Cv) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 5:48 |
 
-Snapshot ID: `MTY0OTcyNTE3MywwMDAwMDAwMDVhNGY1MGYzZGI1YzZiMGE3MWJlMTRkMWI3NjIxMDY1`
+Snapshot ID: `MTY0OTczNzQ0OSwwMDAwMDAwMDVhNGY1MGYzZGI1YzZiMGE3MWJlMTRkMWI3NjIxMDY1`

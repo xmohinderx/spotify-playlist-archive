@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Catchy pop music to keep those legs going.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,813 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,816 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 49 | [Feels Great \(feat\. Fetty Wap & CVBZ\)](https://open.spotify.com/track/5MMu9zi4UrctTCXQqNJUCY) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q) | [Feels Great \(feat\. Fetty Wap & CVBZ\)](https://open.spotify.com/album/4litONvbXev7z8LUcmdfUz) | 3:13 |
 | 50 | [Five More Hours](https://open.spotify.com/track/6YwLgicpvVuMt1eE2OldwQ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Five More Hours](https://open.spotify.com/album/1j4y4oErsQ2dIiZXClg1Zc) | 3:31 |
 
-Snapshot ID: `MTY0OTcyNDc2MCwwMDAwMDAwMDY0YTZlODQ5ZGM4ZDU0NTYyY2E4NWE4ZWIwZWE0ZjIz`
+Snapshot ID: `MTY0OTczNzEyMiwwMDAwMDAwMDY0YTZlODQ5ZGM4ZDU0NTYyY2E4NWE4ZWIwZWE0ZjIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > sapphic songs that defined your music taste as "yearning"
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,220 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,865 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 |
 | 75 | [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 |
 
-Snapshot ID: `MTY0OTcyNDc3NCwwMDAwMDAwMGE1ZjgyZmNlNGJlMTAwYWUwODk3NGNlZTVlMTE4MjIy`
+Snapshot ID: `MTY0OTczNzEzNCwwMDAwMDAwMGE1ZjgyZmNlNGJlMTAwYWUwODk3NGNlZTVlMTE4MjIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Celebrating 45 years of the Clash's debut album.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,206,452 likes - 200 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,206,850 likes - 200 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: DAISY SIMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,823 likes - 69 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,833 likes - 69 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 68 | [No Hook](https://open.spotify.com/track/74AclpvR2pe9C8cHfxnltW) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [No Hook](https://open.spotify.com/album/2zMPomRZ8A5An40OHAXHfQ) | 2:34 |
 | 69 | [Rosary](https://open.spotify.com/track/4hdVtvDNdhvsrdiX22gcaN) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [MoneySign $uede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Rosary](https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0) | 3:58 |
 
-Snapshot ID: `MTY0OTcyNDk0OSwwMDAwMDAwMGIyNGE4YTg3NDg5ODk2Yjk3Y2ZkZDI3YWM1ZmQ2MzVl`
+Snapshot ID: `MTY0OTczNzI3NiwwMDAwMDAwMGIyNGE4YTg3NDg5ODk2Yjk3Y2ZkZDI3YWM1ZmQ2MzVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > the resurgence is real\. Cover: Surf Curse
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,354 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,467 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 |
 | 100 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 |
 
-Snapshot ID: `MTY0OTcyNTAxNywwMDAwMDAwMDc3NWE4ZGRhNjY4YjAyYzJhZTlmNmJiMjUzZDU3OTA2`
+Snapshot ID: `MTY0OTczNzMyOSwwMDAwMDAwMDc3NWE4ZGRhNjY4YjAyYzJhZTlmNmJiMjUzZDU3OTA2`

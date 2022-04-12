@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,159 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,257 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies and gentlemen we are floating in space](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) | 3:54 |
 | 100 | [Waiting For The Sun](https://open.spotify.com/track/2lseYaAlpe2hnPcmsirqwh) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Hollywood Town Hall](https://open.spotify.com/album/0KacpFBqMd5ZtCbEwyQbnF) | 4:20 |
 
-Snapshot ID: `MTY0OTcyNTE5MCwwMDAwMDAwMGI2YzFiZWJmNjJjNmU0MzE3OWMwMjNhMTIxODg3Zjg1`
+Snapshot ID: `MTY0OTczNzQ2MiwwMDAwMDAwMGI2YzFiZWJmNjJjNmU0MzE3OWMwMjNhMTIxODg3Zjg1`

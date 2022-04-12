@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ir Sais, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,615 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,623 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 |
 | 70 | [Why](https://open.spotify.com/track/2jZI89shtgD12aRZYV3ody) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [Why](https://open.spotify.com/album/4cSht9UY3coeUeTIv3aksa) | 2:23 |
 
-Snapshot ID: `MTY0OTcyNDg3NSwwMDAwMDAwMDcyOTQyNmNhZTYxNzAxYTFmOTEzNDk3NjQ5MTYwYTll`
+Snapshot ID: `MTY0OTczNzIxMiwwMDAwMDAwMDcyOTQyNmNhZTYxNzAxYTFmOTEzNDk3NjQ5MTYwYTll`

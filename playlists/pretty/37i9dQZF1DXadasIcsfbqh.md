@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,976 likes - 110 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,977 likes - 110 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 109 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
 | 110 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 |
 
-Snapshot ID: `MTY0OTcyNTI4MiwwMDAwMDAwMGE1NDUwMmU5MTJkZTJiNDlkOWVjZGYxODQ1MDhmOTU4`
+Snapshot ID: `MTY0OTczNzUzNywwMDAwMDAwMGE1NDUwMmU5MTJkZTJiNDlkOWVjZGYxODQ1MDhmOTU4`

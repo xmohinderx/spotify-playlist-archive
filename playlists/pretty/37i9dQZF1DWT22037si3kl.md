@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Dudu, LEALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,871 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,890 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Trajadão](https://open.spotify.com/track/2nTwPzTaH85sDYD07qZrwR) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Trajadão](https://open.spotify.com/album/6648hpSaPRY76q4aViAm7H) | 2:07 |
 | 50 | [Rolex](https://open.spotify.com/track/5WSELUpi4GjDx3nRolKvSy) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Rolex](https://open.spotify.com/album/7b9U1Cg7hZvDj3vDTbdzFQ) | 3:14 |
 
-Snapshot ID: `MTY0OTcyNDY3MSwwMDAwMDAwMDk1MDgzZDc4NzNhZjkxMTRjNGQ1OWIzZTA5MjVjNzEw`
+Snapshot ID: `MTY0OTczNzA1MywwMDAwMDAwMDk1MDgzZDc4NzNhZjkxMTRjNGQ1OWIzZTA5MjVjNzEw`

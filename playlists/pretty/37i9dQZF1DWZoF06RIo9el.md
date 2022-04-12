@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > The Latin hits of tomorrow are on Spotify today\. Cover: Maluma, Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461,481 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461,471 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 |
 | 50 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 |
 
-Snapshot ID: `MTY0OTcyNDg5OSwwMDAwMDAwMGU0NDc0ODlmNzhhYjBlZjk0OTY1NDdiYWE5Mzk0M2Yw`
+Snapshot ID: `MTY0OTczNzIzMSwwMDAwMDAwMGU0NDc0ODlmNzhhYjBlZjk0OTY1NDdiYWE5Mzk0M2Yw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/user/1281718273?si=6e150278a6f04416">Coodie</a>&<a href="https://open.spotify.com/user/317cmznrivoht56zpawzpqhqfi6q?si=f7ee453ea9d649af">Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,263 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,292 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 49 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 50 | [Charlotte's Thong](https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Jassbusters](https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ) | 8:56 |
 
-Snapshot ID: `MTY0OTcyNDY1NCwwMDAwMDAwMDZiMTIyOTIxZjQzZTVjNzE3OTNkY2IzM2RjOGE1NWQz`
+Snapshot ID: `MTY0OTczNzA0MSwwMDAwMDAwMDZiMTIyOTIxZjQzZTVjNzE3OTNkY2IzM2RjOGE1NWQz`

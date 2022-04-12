@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,388 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,418 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 100 | [Them There Eyes](https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae Sings Lover Man And Other Billie Holiday Classics](https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A) | 2:45 |
 
-Snapshot ID: `MTY0OTcyNTE2MSwwMDAwMDAwMGRiMzVkYTUwNDg1MGI2ZTM4ZDM5NWQ4YWY1MDA2ZTYw`
+Snapshot ID: `MTY0OTczNzQzOSwwMDAwMDAwMGRiMzVkYTUwNDg1MGI2ZTM4ZDM5NWQ4YWY1MDA2ZTYw`

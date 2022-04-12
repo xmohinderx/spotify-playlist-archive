@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,741 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,776 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Sticks Up \(feat\. Future\)](https://open.spotify.com/track/5lVAHRyvTLW7BT3Tg8SEe5) | [Problem Child 5](https://open.spotify.com/artist/6o5ZRWDGa1iu5wvojk9HKB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sticks Up \(feat\. Future\)](https://open.spotify.com/album/3dJULaE7y2nW7kshBMV8xC) | 3:11 |
 | 100 | [The Rock](https://open.spotify.com/track/338rI8tKxvlOuRTs1Qapbo) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [The Rock](https://open.spotify.com/album/4jUfsuirfga7P3pM0eauSg) | 2:14 |
 
-Snapshot ID: `MTY0OTcyNDY3NCwwMDAwMDAwMDBmMzVlYWFjODlkZjczMzNjNjMwMzcwMDBlNmU3MGE5`
+Snapshot ID: `MTY0OTczNzA1NiwwMDAwMDAwMDBmMzVlYWFjODlkZjczMzNjNjMwMzcwMDBlNmU3MGE5`

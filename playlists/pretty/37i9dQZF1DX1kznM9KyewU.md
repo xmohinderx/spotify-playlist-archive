@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,409 likes - 90 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,413 likes - 90 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 89 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 |
 | 90 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 
-Snapshot ID: `MTY0OTcyNDk3MCwwMDAwMDAwMDJiNjNiYzdjOTk1MmY0ZjBhNzk4NDZkNjA3ZDBlYzIx`
+Snapshot ID: `MTY0OTczNzI5MywwMDAwMDAwMDJiNjNiYzdjOTk1MmY0ZjBhNzk4NDZkNjA3ZDBlYzIx`

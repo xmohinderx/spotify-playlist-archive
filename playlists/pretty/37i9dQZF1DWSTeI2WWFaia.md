@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Coast Contra
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,849 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,901 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 48 | [The Light](https://open.spotify.com/track/5LyK4EaVofQjOvJ4OGhdfv) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Light Pack](https://open.spotify.com/album/14EzA7MWoKYPjzjeT4gtj3) | 2:05 |
 | 49 | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/album/5FT1DfAMQ8ewLsCP6c8PtF) | 3:15 |
 
-Snapshot ID: `MTY0OTcyNDY1MywwMDAwMDAwMDNmNTdmMzI0ZGI0YTI4N2M0YTQwN2FlYmFmYzNlNjdh`
+Snapshot ID: `MTY0OTczNzA0MCwwMDAwMDAwMDNmNTdmMzI0ZGI0YTI4N2M0YTQwN2FlYmFmYzNlNjdh`

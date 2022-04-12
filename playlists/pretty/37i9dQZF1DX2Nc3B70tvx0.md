@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Wet Leg
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,184,961 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,184,963 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 99 | [Vickie](https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Vickie](https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml) | 3:43 |
 | 100 | [Lunchtime](https://open.spotify.com/track/6N62tx63qPmn4KvXJszqgr) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lunchtime](https://open.spotify.com/album/2CMjz9lnTrLQAecRlZZiL9) | 3:18 |
 
-Snapshot ID: `MTY0OTcyNDk5MywwMDAwMDAwMGY3YjlhNWZiYWM0MTk1NTM2MmIyMDdjNTRlMzMxNDM5`
+Snapshot ID: `MTY0OTczNzMxMSwwMDAwMDAwMGY3YjlhNWZiYWM0MTk1NTM2MmIyMDdjNTRlMzMxNDM5`

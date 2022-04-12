@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: BODEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,740 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,731 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [NOTICE OF FORECLOSURE](https://open.spotify.com/track/2PCnHuNdckPK468Y3Gkm3a) | [N0V3L](https://open.spotify.com/artist/7hB25IiKPmhATGtFwDbylS) | [NOTICE OF FORECLOSURE](https://open.spotify.com/album/12panx3otfLKaT8Ti0RUS8) | 3:43 |
 | 55 | [The Base Level](https://open.spotify.com/track/6aWwVyojU4AtnCVRmQVFmF) | [Conspirators](https://open.spotify.com/artist/6kuHgRehBPmDqj2VL4pO0N) | [Conspirators EP](https://open.spotify.com/album/2wP54m8K6x4JlIq42Z6ll9) | 2:41 |
 
-Snapshot ID: `MTY0OTcyNDg3MywwMDAwMDAwMGIyN2Q4YWRmMDg4M2RjMGRjZTYyNjUxODljYjhlNTcw`
+Snapshot ID: `MTY0OTczNzIxMSwwMDAwMDAwMGIyN2Q4YWRmMDg4M2RjMGRjZTYyNjUxODljYjhlNTcw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Rodrigo Alarcon
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,195 likes - 90 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,202 likes - 90 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 89 | [Retrópicos](https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj) | [Paulo Ohana](https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712) | [Retrópicos](https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj) | 4:31 |
 | 90 | [A Rezadeira / Citação: Relampiano](https://open.spotify.com/track/007sJHWSRsuNKIfzV6Nfrq) | [Áurea Martins](https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh), [Moyseis Marques](https://open.spotify.com/artist/6rgLniT11DFKI7zIYsFLyb) | [Senhora das Folhas](https://open.spotify.com/album/7bHe8uJepvjQXaj0kxROS5) | 6:02 |
 
-Snapshot ID: `MTY0OTcyNDY5NiwwMDAwMDAwMDMwZDJhYjNlNDAyYmY5OTljODRkMTYyMTBjZjZlMDVi`
+Snapshot ID: `MTY0OTczNzA3MywwMDAwMDAwMDMwZDJhYjNlNDAyYmY5OTljODRkMTYyMTBjZjZlMDVi`

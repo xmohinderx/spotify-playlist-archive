@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Leith.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,957 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,964 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 99 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 |
 | 100 | [Mishta'a](https://open.spotify.com/track/4w2hGIB38EBnf4l0y8Y1UE) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mishta'a](https://open.spotify.com/album/2JX4flVTuPELhry4HCPu1I) | 3:47 |
 
-Snapshot ID: `MTY0OTcyNDY5MiwwMDAwMDAwMDc3YTNhMGQzZjc4NWQxOTNhOTM2YTE0ZDNlNjkwNjlk`
+Snapshot ID: `MTY0OTczNzA3MCwwMDAwMDAwMDc3YTNhMGQzZjc4NWQxOTNhOTM2YTE0ZDNlNjkwNjlk`

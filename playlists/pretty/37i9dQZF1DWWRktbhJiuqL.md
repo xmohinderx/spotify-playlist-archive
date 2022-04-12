@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466,300 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466,331 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 124 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 125 | [Where Are You Now?](https://open.spotify.com/track/7w53ucikSIdig3nLCi29a9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [VINYL: THE ESSENTIALS: BEST OF SEASON 1](https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu) | 2:47 |
 
-Snapshot ID: `MTY0OTcyNDc5MSwwMDAwMDAwMDIwN2FiYWU4YzJiMWUyMGI5NDc1ZTBjNDY2MjY2ZTA0`
+Snapshot ID: `MTY0OTczNzE0NiwwMDAwMDAwMDIwN2FiYWU4YzJiMWUyMGI5NDc1ZTBjNDY2MjY2ZTA0`

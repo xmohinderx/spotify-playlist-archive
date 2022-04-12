@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: ILY:1\(아일리원\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,694 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,698 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 69 | [Kiss and Make Up](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) | 3:09 |
 | 70 | [Pool Party \(Feat\. E\-CHAN of DKB\)](https://open.spotify.com/track/2avJo0RwtC1zWiOx4CaGWG) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [E\-CHAN](https://open.spotify.com/artist/4h44hjwoLSVhQynEnkrbt5) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:12 |
 
-Snapshot ID: `MTY0OTcyNDk3MCwwMDAwMDAwMGU3YzlmYjhmZTA3YzA2OTYzN2NlNGUyODY1NWI3YjE0`
+Snapshot ID: `MTY0OTczNzI5NCwwMDAwMDAwMGU3YzlmYjhmZTA3YzA2OTYzN2NlNGUyODY1NWI3YjE0`

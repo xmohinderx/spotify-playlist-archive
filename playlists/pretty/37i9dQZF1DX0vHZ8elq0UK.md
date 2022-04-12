@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,431 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,524 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 149 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 |
 | 150 | [Grace Kelly](https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 3:07 |
 
-Snapshot ID: `MTY0OTcyNDk0MywwMDAwMDAwMDVkMTNiMGE2MDc3ZDYwYjFlMGQ2NWY1NDQyN2Q1MWU4`
+Snapshot ID: `MTY0OTczNzI3MSwwMDAwMDAwMDVkMTNiMGE2MDc3ZDYwYjFlMGQ2NWY1NDQyN2Q1MWU4`

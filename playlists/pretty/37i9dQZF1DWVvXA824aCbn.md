@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,736 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,749 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 99 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 |
 | 100 | [I Can't Get Started](https://open.spotify.com/track/5L9Mumh1rUDSIaHPzLpVhj) | [Sal Ritter](https://open.spotify.com/artist/2ExFoyhPRTmehwcofSp2E0) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/3rIfaasfAx6n5CEbdnw8Ql) | 3:56 |
 
-Snapshot ID: `MTY0OTcyNDc3MSwwMDAwMDAwMGNhM2UwODMyYzZhZjQ0MWU1OTRiNzZmOTUxY2FlMTRm`
+Snapshot ID: `MTY0OTczNzEzMSwwMDAwMDAwMGNhM2UwODMyYzZhZjQ0MWU1OTRiNzZmOTUxY2FlMTRm`

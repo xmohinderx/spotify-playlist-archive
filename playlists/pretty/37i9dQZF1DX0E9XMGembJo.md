@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 
 > play something that's very very vibe\-worthy
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,660 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,018 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 79 | [Never Go Wrong](https://open.spotify.com/track/2K036A2TOlSr13Ej8s6ODk) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Never Go Wrong](https://open.spotify.com/album/4iOH0UQ1KxmHgd37QXPEb0) | 2:35 |
 | 80 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
 
-Snapshot ID: `MTY0OTcyNDkxNiwwMDAwMDAwMDNhYmI5YmNiYjE3Y2MwNDdhOTcyMzNlZjExOTRiZmM4`
+Snapshot ID: `MTY0OTczNzI0NSwwMDAwMDAwMDNhYmI5YmNiYjE3Y2MwNDdhOTcyMzNlZjExOTRiZmM4`

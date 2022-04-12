@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,981 likes - 150 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,080 likes - 150 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
 | 150 | [The Only Way Is Up](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:18 |
 
-Snapshot ID: `MTY0OTcyNTAyMSwwMDAwMDAwMDQzN2FjNWJhMjRhYzdlZjYxNmY2MzdmMTA0ZjQ2MWFi`
+Snapshot ID: `MTY0OTczNzMzMiwwMDAwMDAwMDQzN2FjNWJhMjRhYzdlZjYxNmY2MzdmMTA0ZjQ2MWFi`

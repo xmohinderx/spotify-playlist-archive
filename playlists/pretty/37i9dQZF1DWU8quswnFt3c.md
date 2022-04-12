@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: ARIETE
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,240 likes - 69 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,234 likes - 69 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [Gusto Ko Nang Bumitaw \- From "The Broken Marriage Vow"](https://open.spotify.com/track/1FxGqFnJkRgJ5LG2NBRTh3) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Gusto Ko Nang Bumitaw \(From "The Broken Marriage Vow"\)](https://open.spotify.com/album/05RICu0AxsqrqoiSzzxeyG) | 4:31 |
 | 69 | [Utopia Reimagined: Euphoria](https://open.spotify.com/track/4gwOLgAVJm5jguqWEU7rFc) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Utopia Reimagined: Euphoria](https://open.spotify.com/album/2laHMAviiai4AvYD8IqFRz) | 3:43 |
 
-Snapshot ID: `MTY0OTcyNDcxNCwwMDAwMDAwMDUyZDBlNjI0ZWMwM2UyMzhmMjBmMGQ2YTZhYTg1NmQw`
+Snapshot ID: `MTY0OTczNzA4NiwwMDAwMDAwMDUyZDBlNjI0ZWMwM2UyMzhmMjBmMGQ2YTZhYTg1NmQw`

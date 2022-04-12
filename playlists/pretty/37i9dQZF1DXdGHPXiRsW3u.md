@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 
 > Mellow songs from the 2000s\. Cover: Rihanna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,134 likes - 150 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,170 likes - 150 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 149 | [No One](https://open.spotify.com/track/0JEqGkvUiMTQmFY6sgL9kg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am](https://open.spotify.com/album/0neqylYFL6s6Ikdf3UFmUo) | 4:13 |
 | 150 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 |
 
-Snapshot ID: `MTY0OTcyNTM2MSwwMDAwMDAwMDFjYTAzNTdiYTMwZDM0NWVlODFjMWE5OTc0ZGM3NDBj`
+Snapshot ID: `MTY0OTczNzYwNSwwMDAwMDAwMDFjYTAzNTdiYTMwZDM0NWVlODFjMWE5OTc0ZGM3NDBj`

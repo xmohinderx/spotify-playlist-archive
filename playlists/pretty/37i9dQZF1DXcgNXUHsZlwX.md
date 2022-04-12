@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. Photo: Claudia Bouvette
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,841 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,843 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 |
 | 100 | [Kenny U\-Pull](https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:24 |
 
-Snapshot ID: `MTY0OTcyNTM0NCwwMDAwMDAwMDMzNzM3MDk2ZmM5ODgzNzEyYjJiNDk0YTMxNTIzYmM2`
+Snapshot ID: `MTY0OTczNzU4NywwMDAwMDAwMDMzNzM3MDk2ZmM5ODgzNzEyYjJiNDk0YTMxNTIzYmM2`

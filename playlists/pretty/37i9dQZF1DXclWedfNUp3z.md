@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,986 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,000 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Gyroscope](https://open.spotify.com/track/54iPM8Ht4u1eoygcKf9gzM) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Gyroscope](https://open.spotify.com/album/1zw9I5WkLqef7toQ0o6B6U) | 3:08 |
 | 100 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 |
 
-Snapshot ID: `MTY0OTcyNTM0NywwMDAwMDAwMDIyM2E4ODBkZTgwZTQ2OTU0NTFmNGMwMjg0YzkzZjdk`
+Snapshot ID: `MTY0OTczNzU4OSwwMDAwMDAwMDIyM2E4ODBkZTgwZTQ2OTU0NTFmNGMwMjg0YzkzZjdk`

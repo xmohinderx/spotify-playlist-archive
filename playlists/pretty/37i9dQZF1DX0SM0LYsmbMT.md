@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,024,212 likes - 300 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,024,235 likes - 300 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Lazy Sunday](https://open.spotify.com/track/1xgXgirtOEoOd0WUKkOda1) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Lazy Sunday](https://open.spotify.com/album/56AzpYAfHJhL9EEdNBddoH) | 2:42 |
 | 300 | [Slow Jazz](https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Slow Jazz](https://open.spotify.com/album/0q1v98Yh9bkyPWdZrLSNWB) | 1:53 |
 
-Snapshot ID: `MTY0OTcyNDkyOCwwMDAwMDAwMDUyMjliZWUwZTlhNjVlZWQ1NjU5MTdjNjBkMzFiMGVh`
+Snapshot ID: `MTY0OTczNzI1OSwwMDAwMDAwMDUyMjliZWUwZTlhNjVlZWQ1NjU5MTdjNjBkMzFiMGVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,856 likes - 150 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,945 likes - 150 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Love On The Rocks \- From "The Jazz Singer" Soundtrack](https://open.spotify.com/track/5nbo7FhmOoAQiKnpAcdhqL) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [In My Lifetime](https://open.spotify.com/album/3I8Dj6DKFx982tQKLfYdt9) | 3:37 |
 | 150 | [Wild World](https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [John Gallen](https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH) | [Maxi](https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1) | 3:38 |
 
-Snapshot ID: `MTY0OTcyNTA2NywwMDAwMDAwMDYwODg4MTczNDM0OGUxMGNlNGEyMjU3ZWE2YThiMmY5`
+Snapshot ID: `MTY0OTczNzM2NiwwMDAwMDAwMDYwODg4MTczNDM0OGUxMGNlNGEyMjU3ZWE2YThiMmY5`

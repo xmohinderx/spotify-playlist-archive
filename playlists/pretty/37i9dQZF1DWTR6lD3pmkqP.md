@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,670 likes - 250 songs - 22 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,679 likes - 250 songs - 22 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Radio](https://open.spotify.com/track/2WjRKzqp8bIB4yPXC9ECXa) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Swallow Tales](https://open.spotify.com/album/4wtKmtN8Qx805HHmjpSDbL) | 4:21 |
 | 250 | [Kinda Dukish](https://open.spotify.com/track/29TZQMVLv25CBm3bYn2EIQ) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5), [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Black Stars](https://open.spotify.com/album/05e3xBETUGc3vLlg4tl9mE) | 5:26 |
 
-Snapshot ID: `MTY0OTcyNDY4OSwwMDAwMDAwMDJhYWMzZDg5MjQ4OTdkMDliNmNmNDE2MzhlYjZmZTFk`
+Snapshot ID: `MTY0OTczNzA2NywwMDAwMDAwMDJhYWMzZDg5MjQ4OTdkMDliNmNmNDE2MzhlYjZmZTFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rrtMTI2Ff5.md) - [plain]
 
 > Éxitos internacionales que no pasan de moda.<br/>Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,585 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,628 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rrtMTI2Ff5.md) - [plain]
 | 99 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 |
 | 100 | [Hold My Hand](https://open.spotify.com/track/66tp0via6Y611lKmaLGHG1) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Pop Party 15](https://open.spotify.com/album/1ec9irVqDktAbLZXnq5TGf) | 3:47 |
 
-Snapshot ID: `MTY0OTcyNDk0MSwwMDAwMDAwMDI5N2I4ZTQyMTYxZjhhNDU4NWIxZDI5NTYyZWRjYzNj`
+Snapshot ID: `MTY0OTczNzI2OSwwMDAwMDAwMDI5N2I4ZTQyMTYxZjhhNDU4NWIxZDI5NTYyZWRjYzNj`

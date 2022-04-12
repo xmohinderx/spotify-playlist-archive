@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,757 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,788 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [People, I've been sad](https://open.spotify.com/track/5stdNNY7SUv12p5sLkaBlL) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/3uF0lelesKigBc6H9NGzDq) | 4:20 |
 | 75 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 |
 
-Snapshot ID: `MTY0OTcyNTI5MywwMDAwMDAwMGQzZThjYTgwMThiYzk3ZmVlNTg3ZGFlZjQ5ODNlNzI4`
+Snapshot ID: `MTY0OTczNzU0NiwwMDAwMDAwMGQzZThjYTgwMThiYzk3ZmVlNTg3ZGFlZjQ5ODNlNzI4`

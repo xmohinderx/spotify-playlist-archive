@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Carl Cox & Fatboy Slim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,757 likes - 103 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,028 likes - 103 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 102 | [Your Soul](https://open.spotify.com/track/6M4nNbVYQZteVhtqBtS1h3) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Your Soul](https://open.spotify.com/album/3VO7UIZOB3dvsTi5Jbiu9T) | 4:46 |
 | 103 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 
-Snapshot ID: `MTY0OTcyNTI2MSwwMDAwMDAwMGJlODZiMjE0ODI2ODViOWM3YzBjMjE1MTdlMDBiOTNm`
+Snapshot ID: `MTY0OTczNzUyMSwwMDAwMDAwMGJlODZiMjE0ODI2ODViOWM3YzBjMjE1MTdlMDBiOTNm`

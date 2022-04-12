@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,403 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,461 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [Blue Moon](https://open.spotify.com/track/2sIiAxBkth5riaZmp2KgZz) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:15 |
 | 100 | [The Sound of Silence](https://open.spotify.com/track/2LkaNhCrNVmcYgXJeLVmsw) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Graduate](https://open.spotify.com/album/6aimJxDJMApLmry2VSjsLT) | 3:05 |
 
-Snapshot ID: `MTY0OTcyNTA5MCwwMDAwMDAwMDA2N2Y4NTgyMGZhNTk3MjY3NmU5ZWIwNTI2YjQ2OWY5`
+Snapshot ID: `MTY0OTczNzM4NCwwMDAwMDAwMDA2N2Y4NTgyMGZhNTk3MjY3NmU5ZWIwNTI2YjQ2OWY5`

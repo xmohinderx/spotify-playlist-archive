@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,772 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,765 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 |
 | 50 | [O Little Town of Bethlehem](https://open.spotify.com/track/7IQoSi7j7OEYJj0RsRyyJ2) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [December](https://open.spotify.com/album/4NsBiFRTE50Egj4eesK4mG) | 3:10 |
 
-Snapshot ID: `MTY0OTcyNTA5NCwwMDAwMDAwMDNlNDBmZWNlMTU1MTk1YjU1Y2VhYmEyNTUxMDgyODgw`
+Snapshot ID: `MTY0OTczNzM4NywwMDAwMDAwMDNlNDBmZWNlMTU1MTk1YjU1Y2VhYmEyNTUxMDgyODgw`

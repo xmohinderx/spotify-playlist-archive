@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4osfY3zybD2.md) - [plain]
 
 > Up for a nostalgic running session that brings a smile to your face? Press play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,225 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,242 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4osfY3zybD2.md) - [plain]
 | 49 | [Nutbush City Limits](https://open.spotify.com/track/06yREZ9X92R2e9RJpdzZ2O) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:01 |
 | 50 | [Bad Moon Rising](https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(40th Anniversary Edition\)](https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI) | 2:21 |
 
-Snapshot ID: `MTY0OTcyNTA4MCwwMDAwMDAwMGQyMmIxMzIyZGY1Y2Q0ZDJmYTE3Zjc2OTJjNDc3NWNl`
+Snapshot ID: `MTY0OTczNzM3NiwwMDAwMDAwMGQyMmIxMzIyZGY1Y2Q0ZDJmYTE3Zjc2OTJjNDc3NWNl`

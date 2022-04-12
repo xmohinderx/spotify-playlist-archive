@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,968 likes - 131 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,977 likes - 131 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 130 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
 | 131 | [Please Say It Isn't So](https://open.spotify.com/track/5cx2WKUpSohEmny0XUqvfe) | [Lee Williams & The Cymbals](https://open.spotify.com/artist/5Z1EuThrenHDjgwptVN5F5) | [Carnival "Soul" Classics, Volume 5](https://open.spotify.com/album/4Fj06KTSUMQ9svgLuTMd7v) | 2:50 |
 
-Snapshot ID: `MTY0OTcyNTMyNywwMDAwMDAwMDg4ZWFiMDQ4MDczZWVmZjI5OWE5MTliZTk2MTY2Zjkx`
+Snapshot ID: `MTY0OTczNzU3NCwwMDAwMDAwMDg4ZWFiMDQ4MDczZWVmZjI5OWE5MTliZTk2MTY2Zjkx`

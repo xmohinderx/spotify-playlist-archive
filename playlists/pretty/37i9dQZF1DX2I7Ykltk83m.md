@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,904 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,915 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 99 | [The Only Heartbreaker](https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Only Heartbreaker](https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY) | 3:04 |
 | 100 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 
-Snapshot ID: `MTY0OTcyNDk5MCwwMDAwMDAwMDFmMDg2MzI3MTIzZGYzNjczNTA4ZTJiY2UxMmYyYWFi`
+Snapshot ID: `MTY0OTczNzMwOSwwMDAwMDAwMDFmMDg2MzI3MTIzZGYzNjczNTA4ZTJiY2UxMmYyYWFi`

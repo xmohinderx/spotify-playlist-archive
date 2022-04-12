@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Flor Amargo y Michelle Rodriguez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,193 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,199 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Esta Melodia](https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 | 100 | [Bolero a La Vida](https://open.spotify.com/track/7qGmsJV4rZ75QrMOK7KHnp) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Gaby Moreno](https://open.spotify.com/artist/3b9CdPu3dtj9M7SEiuTCHu) | [Bolero a La Vida](https://open.spotify.com/album/2QVCxBao2oIF57UdXoDMoi) | 4:26 |
 
-Snapshot ID: `MTY0OTcyNDg1NywwMDAwMDAwMGU3MWI4YjNiMWM4ZTJmZDBjZjQxZjQ1Mjk4ZDE0MjEw`
+Snapshot ID: `MTY0OTczNzE5OCwwMDAwMDAwMGU3MWI4YjNiMWM4ZTJmZDBjZjQxZjQ1Mjk4ZDE0MjEw`

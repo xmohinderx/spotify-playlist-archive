@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > it's not just an indie kid with an aux, it's \*chic\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,901 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,934 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 74 | [Welcome to LA](https://open.spotify.com/track/62BKMNUacuQ6X67ID4Qcef) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alien Boy EP](https://open.spotify.com/album/5AelTZUdahNA7besdaECfD) | 2:31 |
 | 75 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 
-Snapshot ID: `MTY0OTcyNTA2NiwwMDAwMDAwMGY3ZTU0ODg3MTJlYTRlYWE1YTQyN2EyODU0MTE0MmRm`
+Snapshot ID: `MTY0OTczNzM2NiwwMDAwMDAwMGY3ZTU0ODg3MTJlYTRlYWE1YTQyN2EyODU0MTE0MmRm`
