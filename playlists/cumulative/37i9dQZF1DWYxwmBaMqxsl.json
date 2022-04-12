@@ -322,6 +322,24 @@
     },
     {
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226886,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ"
+    },
+    {
+      "album": {
         "name": "Comme il faut",
         "url": "https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz"
       },
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 163706,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/6Yvey5k1efTUHNp0nbyszi"
@@ -1847,6 +1865,24 @@
       "duration_ms": 310666,
       "name": "When Your Lover Has Gone - Instrumental",
       "url": "https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr"
+    },
+    {
+      "album": {
+        "name": "Where Or When",
+        "url": "https://open.spotify.com/album/4Tiyb5NGvdSuWkfhHfstou"
+      },
+      "artists": [
+        {
+          "name": "Nelly Vernon",
+          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203482,
+      "name": "Where Or When",
+      "url": "https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl"
     },
     {
       "album": {

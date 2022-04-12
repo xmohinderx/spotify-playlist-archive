@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Wolty.",
+  "description": "Rimas argentinas. Foto: Bardero$.",
   "name": "Hip Hop Argento",
   "published_playlist_ids": [
     "4sv8KvOxUTe4tMwrdfTP89"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 116363,
       "name": "#AYFKM (Freestyle)",
       "url": "https://open.spotify.com/track/0eFPzxF2X9hlNcgzv3w6z6"
@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/5A6Dg5sCDSjW26RNkRYMmV"
+      },
+      "artists": [
+        {
+          "name": "Fazzini",
+          "url": "https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170710,
+      "name": "2 Gramos",
+      "url": "https://open.spotify.com/track/4b3bC2qVLpBmsQXoOPCB1R"
+    },
+    {
+      "album": {
         "name": "21334 (Red Bull)",
         "url": "https://open.spotify.com/album/03NZ1TUdzSrKP4NAvUXEJY"
       },
@@ -67,6 +89,24 @@
       "duration_ms": 195858,
       "name": "21334 - Red Bull",
       "url": "https://open.spotify.com/track/42sYKO9iXIJK3tsm9jJvLn"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/1BkbDtwVUYLHEynzgC6yKg"
+      },
+      "artists": [
+        {
+          "name": "Flaco Vazquez",
+          "url": "https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229441,
+      "name": "333",
+      "url": "https://open.spotify.com/track/3zdIMwE2l96zC7Txbg9g5Q"
     },
     {
       "album": {
@@ -162,6 +202,24 @@
     },
     {
       "album": {
+        "name": "Ahora Me Toca a Mi",
+        "url": "https://open.spotify.com/album/1wAIdJeAqWrXhcaHAMykLM"
+      },
+      "artists": [
+        {
+          "name": "Klan",
+          "url": "https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136934,
+      "name": "Ahora Me Toca a Mi",
+      "url": "https://open.spotify.com/track/7jMqM4CMNu2JFRXs2xHfOt"
+    },
+    {
+      "album": {
         "name": "Al Carajo",
         "url": "https://open.spotify.com/album/2j71a8nlO5czcb23AYaP9d"
       },
@@ -199,6 +257,46 @@
       "duration_ms": 243197,
       "name": "Alcoholicos Anonimos",
       "url": "https://open.spotify.com/track/0IjzvAj0CKu4oqsi8NCGhr"
+    },
+    {
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170981,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
+    },
+    {
+      "album": {
+        "name": "Inmortales",
+        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190017,
+      "name": "Aquella Noche",
+      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
     },
     {
       "album": {
@@ -357,7 +455,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 315201,
       "name": "Beatbox Session Vol. 1 (feat. Kodigo)",
       "url": "https://open.spotify.com/track/0aw1ExKbpyqHYs5jQPX584"
@@ -423,6 +521,28 @@
       "duration_ms": 181233,
       "name": "Buska",
       "url": "https://open.spotify.com/track/4zlFO8LSYmzttjwm8K5TOi"
+    },
+    {
+      "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "album": {
@@ -587,7 +707,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 195911,
       "name": "D1SPARO",
       "url": "https://open.spotify.com/track/6tZm9vnnt0nSZJIRRZFtan"
@@ -693,7 +813,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 140211,
       "name": "Detenido",
       "url": "https://open.spotify.com/track/5W6445TK7A4ZU0WR6iGKZz"
@@ -751,7 +871,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 165275,
       "name": "Diririri",
       "url": "https://open.spotify.com/track/3DSaXrF1q8i6OXws4KvNgi"
@@ -769,10 +889,50 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 220379,
       "name": "DISCIPLINA",
       "url": "https://open.spotify.com/track/3BctNPt7HD1d2SoRteagym"
+    },
+    {
+      "album": {
+        "name": "Ambici\u00f3n y Disciplina",
+        "url": "https://open.spotify.com/album/6byABFFo15jmymFmdBR8zb"
+      },
+      "artists": [
+        {
+          "name": "Zica",
+          "url": "https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr"
+        },
+        {
+          "name": "Ronpe 99",
+          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212322,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/7kL7d77orEOY6oZZMSjk0J"
+    },
+    {
+      "album": {
+        "name": "Leal",
+        "url": "https://open.spotify.com/album/0SM5wWcaQVOXTerFFrr9hq"
+      },
+      "artists": [
+        {
+          "name": "Kamada",
+          "url": "https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225627,
+      "name": "Doble Ipa",
+      "url": "https://open.spotify.com/track/012xMpaiBc98zrexgJ8HfH"
     },
     {
       "album": {
@@ -864,6 +1024,24 @@
     },
     {
       "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226847,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk"
+    },
+    {
+      "album": {
         "name": "Fat Bootys",
         "url": "https://open.spotify.com/album/2pBzS1nKpmFDID3l0XJSAJ"
       },
@@ -952,6 +1130,28 @@
     },
     {
       "album": {
+        "name": "Fuck Competi",
+        "url": "https://open.spotify.com/album/0TnHmR2j2TnAQCRtiGxt8s"
+      },
+      "artists": [
+        {
+          "name": "Marcianos Crew",
+          "url": "https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I"
+        },
+        {
+          "name": "Barderos",
+          "url": "https://open.spotify.com/artist/3H57AwuKV3100IAiRjtD5c"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191996,
+      "name": "Fuck Competi",
+      "url": "https://open.spotify.com/track/10j7AJYks6t19IxS00jqr5"
+    },
+    {
+      "album": {
         "name": "Fuck love",
         "url": "https://open.spotify.com/album/3tNNBbrS5YrOYisgJUxPN5"
       },
@@ -963,10 +1163,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 153949,
       "name": "Fuck love",
       "url": "https://open.spotify.com/track/4b537iXuUArOdLDSmtbj6E"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/44EZzCWJiy8sNUhP1ijrcW"
+      },
+      "artists": [
+        {
+          "name": "Klan",
+          "url": "https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208812,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/19ETuz3wXy0nuwhZ0EZ7Se"
     },
     {
       "album": {
@@ -981,7 +1199,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 225007,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3BrQ82xaqpTfulmMbkZynI"
@@ -1073,7 +1291,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 228097,
       "name": "G.P.S. - con Aleman",
       "url": "https://open.spotify.com/track/7JS743HRDpx2NvoNQ39p4O"
@@ -1091,7 +1309,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 169218,
       "name": "Gan\u00e9 Mi Lugar",
       "url": "https://open.spotify.com/track/6alp7jdqWxGdKsNoFdCTCD"
@@ -1113,10 +1331,50 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 159322,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78"
+    },
+    {
+      "album": {
+        "name": "Hit o Nada",
+        "url": "https://open.spotify.com/album/3XQgN3REnMiKgQddK9bKQv"
+      },
+      "artists": [
+        {
+          "name": "Brapis",
+          "url": "https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L"
+        },
+        {
+          "name": "Golden Boyz",
+          "url": "https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293816,
+      "name": "Hit o Nada",
+      "url": "https://open.spotify.com/track/0cdZtTvXfrKyesvhbh8ipu"
+    },
+    {
+      "album": {
+        "name": "24/Siempre Vol.1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
+      },
+      "artists": [
+        {
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152298,
+      "name": "Homer el Mero Mero",
+      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     },
     {
       "album": {
@@ -1245,7 +1503,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 143376,
       "name": "Kiddo Toto: Bzrp Music Sessions, Vol. 11",
       "url": "https://open.spotify.com/track/7jJV6hcqjD76gbu7TG67k8"
@@ -1400,6 +1658,44 @@
     },
     {
       "album": {
+        "name": "La Fiesta es de Nosotros",
+        "url": "https://open.spotify.com/album/51Fs2RsHY7Yh8u1WrpKyDr"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "Chulu",
+          "url": "https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "MDB - LA FIESTA ES DE NOSOTROS",
+      "url": "https://open.spotify.com/track/3bkCnmdg6gyFYYfOU7Agq2"
+    },
+    {
+      "album": {
         "name": "Me Fascina",
         "url": "https://open.spotify.com/album/0pXK80ZNgKd57X5KWK29eg"
       },
@@ -1415,7 +1711,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 176470,
       "name": "Me Fascina",
       "url": "https://open.spotify.com/track/01sNSCB2YkncNVss6Ob9Pt"
@@ -1521,7 +1817,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 259199,
       "name": "MUGRE",
       "url": "https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz"
@@ -1543,7 +1839,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 142687,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/3Zf4ys9i4Nx5acc0tEVGwr"
@@ -1565,6 +1861,24 @@
       "duration_ms": 186253,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2QMBPx3fIO2JYFzIRRSfhI"
+    },
+    {
+      "album": {
+        "name": "Con la Bolsa al Hombro",
+        "url": "https://open.spotify.com/album/2Z7KnlhpsX8JPzaFdnWBSV"
+      },
+      "artists": [
+        {
+          "name": "Linyeras cru",
+          "url": "https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "No Tiene Nombre",
+      "url": "https://open.spotify.com/track/0cws4NHHYz3g1xGKEjkdJJ"
     },
     {
       "album": {
@@ -1617,10 +1931,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 274500,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/1RYwya4oEKfNlrST9pCp9B"
+    },
+    {
+      "album": {
+        "name": "Otro Color",
+        "url": "https://open.spotify.com/album/4a4xwIYPYTKAFwObd1dnG2"
+      },
+      "artists": [
+        {
+          "name": "Ronpe 99",
+          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144644,
+      "name": "Otro Color",
+      "url": "https://open.spotify.com/track/4UG9b7rz7OhhfRVyvqavDi"
     },
     {
       "album": {
@@ -1770,6 +2102,24 @@
     },
     {
       "album": {
+        "name": "El Libro Negro",
+        "url": "https://open.spotify.com/album/0ay6u6EQbReMMEpHdyvR1M"
+      },
+      "artists": [
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147644,
+      "name": "R.A.P",
+      "url": "https://open.spotify.com/track/33oWGa3IoFRsfrhfTC4Npe"
+    },
+    {
+      "album": {
         "name": "Rap Shit",
         "url": "https://open.spotify.com/album/195XFHc04zeLG8HuZOtFey"
       },
@@ -1821,7 +2171,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 105093,
       "name": "Real (Freestyle)",
       "url": "https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG"
@@ -1890,6 +2240,24 @@
     },
     {
       "album": {
+        "name": "Rom\u00e1n",
+        "url": "https://open.spotify.com/album/3xfN6Yf5GGJsn3yEaoNnWh"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238152,
+      "name": "Rom\u00e1n",
+      "url": "https://open.spotify.com/track/3dZgq59mteQDkpsj9rFF7O"
+    },
+    {
+      "album": {
         "name": "Rub\u00edes Rubios Vol. 02",
         "url": "https://open.spotify.com/album/7s1QehRZl7zWNKl5J84fcv"
       },
@@ -1937,7 +2305,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 178984,
       "name": "SANA SANA",
       "url": "https://open.spotify.com/track/6ZzjeYAIHkIbh6VhYsMSIg"
@@ -1975,6 +2343,28 @@
       "duration_ms": 154956,
       "name": "Sangr\u00eda - con WOS",
       "url": "https://open.spotify.com/track/51aMyZzlIOitdIA4vyF0JO"
+    },
+    {
+      "album": {
+        "name": "Seduciendome",
+        "url": "https://open.spotify.com/album/0tDbIFl2TsGsS7hjUaCRUw"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "Grey Music Family",
+          "url": "https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191516,
+      "name": "Seduciendome",
+      "url": "https://open.spotify.com/track/5LRj7Ae2xlHWNgxbLK5pIs"
     },
     {
       "album": {
@@ -2091,10 +2481,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 205466,
       "name": "Solo Una Vez",
       "url": "https://open.spotify.com/track/1wUJbeagQnmOvjAyCvaDVh"
+    },
+    {
+      "album": {
+        "name": "Para la Envidia",
+        "url": "https://open.spotify.com/album/60NVjjROURwC1Vbe5r9FBM"
+      },
+      "artists": [
+        {
+          "name": "Socio",
+          "url": "https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD"
+        },
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275718,
+      "name": "Sucio",
+      "url": "https://open.spotify.com/track/1aNJgaL6fmvMLWzOMld92r"
     },
     {
       "album": {
@@ -2113,7 +2525,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 203850,
       "name": "S\u00e1bado 17",
       "url": "https://open.spotify.com/track/0xHm4ExZUFocJRcNNxseXm"
@@ -2143,6 +2555,28 @@
       "duration_ms": 206934,
       "name": "Tardes Grises",
       "url": "https://open.spotify.com/track/4MYHoW2ZCmdzvpdmdx6oXy"
+    },
+    {
+      "album": {
+        "name": "Tengo Sed",
+        "url": "https://open.spotify.com/album/1qBiq07wvvO6W8fsuoz2UE"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "Grey Music Family",
+          "url": "https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148084,
+      "name": "Tengo Sed",
+      "url": "https://open.spotify.com/track/3acTJvD1eCLOBfBG4hAbfe"
     },
     {
       "album": {
@@ -2237,7 +2671,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 146716,
       "name": "Ventr\u00edlocuo",
       "url": "https://open.spotify.com/track/32ZzE1I9dEjcZM6q4DPKAK"

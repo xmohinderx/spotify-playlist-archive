@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Albert Cummings
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,163 likes - 110 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,173 likes - 110 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

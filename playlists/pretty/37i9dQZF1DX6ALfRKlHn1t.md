@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > Drink up these tunes and all the feels\. Good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,378 likes - 122 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,698 likes - 122 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 97 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 |
 | 98 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 |
 | 99 | [Are You What You Want to Be?](https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:30 |
-| 100 | [Got To My Head](https://open.spotify.com/track/0jzlfI8DL7Uph1ojvUTbJp) | [Waters](https://open.spotify.com/artist/3yeE0OHtv71FH9FYE3JdLZ) | [Got To My Head](https://open.spotify.com/album/6JS9D5bKdwo7G8mL8a3epa) | 3:06 |
+| 100 | [Got To My Head](https://open.spotify.com/track/0jzlfI8DL7Uph1ojvUTbJp) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [Got To My Head](https://open.spotify.com/album/6JS9D5bKdwo7G8mL8a3epa) | 3:06 |
 | 101 | [Good Morning](https://open.spotify.com/track/6Mj7VQqAgDttaxt63bQj4F) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/5gZHghY3oAmBRYXx7LUbaK) | 3:39 |
 | 102 | [Says She Loves Me](https://open.spotify.com/track/2p4Yx2CRINRoK2rNdIq2RE) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/7Bxewgd1K3cNG8W4ofuIEp) | 3:39 |
 | 103 | [No Type](https://open.spotify.com/track/4fxtYgcIOqjCq9Ix1pvrzn) | [New Beat Fund](https://open.spotify.com/artist/5IqdTZwvASXwM39z5qPqAA) | [No Type](https://open.spotify.com/album/4TaeklJqTEj55GtVmw5XPm) | 3:33 |

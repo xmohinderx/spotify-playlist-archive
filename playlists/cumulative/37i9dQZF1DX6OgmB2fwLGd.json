@@ -4226,6 +4226,28 @@
     },
     {
       "album": {
+        "name": "earcandy",
+        "url": "https://open.spotify.com/album/4WHDYlEmaJFXGCEZOfgCeT"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "what's on your mind? (feat. funeral)",
+      "url": "https://open.spotify.com/track/0QEQlPt2mFmzV52PGB5ZLg"
+    },
+    {
+      "album": {
         "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
         "url": "https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X"
       },

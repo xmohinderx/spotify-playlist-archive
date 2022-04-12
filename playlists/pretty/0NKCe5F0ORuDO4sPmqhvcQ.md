@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,412 likes - 34 songs - 1 hr 54 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,410 likes - 35 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 32 | [Confidence \(feat\. Jon Waltz\) \- Slow Magic Remix](https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Confidence \(feat\. Jon Waltz\) \[Slow Magic Remix\]](https://open.spotify.com/album/2PIshbxgCmpan3Q36Q3DFd) | 3:35 |
 | 33 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 |
 | 34 | [Stay](https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Stay](https://open.spotify.com/album/0BPbKYczJqVdAVZUltYFic) | 3:30 |
+| 35 | [Ethereal](https://open.spotify.com/track/5roi8Oveylqkssrp5fQ5hq) | [Audent](https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60) | [Ethereal](https://open.spotify.com/album/7DP0YsFPjmjz6Es5cfLQyv) | 4:26 |
 
-Snapshot ID: `OTYzMiwzYTM3OTM0ZDcyMjdiNTNlOWJmZTgwMmNmMGQ4ODJhNDEwNDI4ZDcx`
+Snapshot ID: `OTYzMyxiMDIwODFlOWE2NjM0MmY4YThmODQyMWI3MmZmZmFkMDM2MmFkYmE0`

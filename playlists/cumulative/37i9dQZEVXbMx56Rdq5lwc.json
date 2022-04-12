@@ -971,7 +971,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -1947,7 +1947,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
@@ -2219,7 +2219,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -3211,7 +3211,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -7549,7 +7549,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 186000,
       "name": "Oy U Luzi Chervona Kalyna - Army Remix",
       "url": "https://open.spotify.com/track/6nl2T8YjOdFFnQ4xBHXfdm"
@@ -8165,7 +8165,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 253422,
       "name": "Pra\u017eys",
       "url": "https://open.spotify.com/track/3XstEplljzYDXw3pipKeYE"
@@ -8659,6 +8659,28 @@
       "duration_ms": 138305,
       "name": "Rockstarai",
       "url": "https://open.spotify.com/track/1HBVbK5I2u0ZenTQfR8ikY"
+    },
+    {
+      "album": {
+        "name": "Rojaus Obuoliukai",
+        "url": "https://open.spotify.com/album/38k7fvht8IiZg8U86hZjWJ"
+      },
+      "artists": [
+        {
+          "name": "Zoliukas",
+          "url": "https://open.spotify.com/artist/5UMBDbfFBWCn8pNXjuJFco"
+        },
+        {
+          "name": "Saules Berniukas",
+          "url": "https://open.spotify.com/artist/2BjNbf0PD04vy1UohantXO"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211276,
+      "name": "Rojaus Obuoliukai",
+      "url": "https://open.spotify.com/track/7J5J0RjBq1rz9vV2iBqDqd"
     },
     {
       "album": {
@@ -10143,7 +10165,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 328780,
       "name": "Tataki",
       "url": "https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG"

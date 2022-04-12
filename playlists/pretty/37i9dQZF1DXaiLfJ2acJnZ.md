@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,367 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,378 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [I'll Get Over It](https://open.spotify.com/track/6muh9p2mTDMlIZ06Z4tvvX) | [Lea Heart](https://open.spotify.com/artist/18tR4JqMqRMeIQsexVMLHz) | [Lea Heart EP](https://open.spotify.com/album/1Xh3rGPfoWBSA0m6KspJpe) | 2:56 |
 | 80 | [Sister Ray](https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Sister Ray](https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ) | 3:39 |
 
-Snapshot ID: `MTY0OTYzODk3MiwwMDAwMDAwMDYyODNjMDE1NGJjZGMyM2IyMDNlMDQzMDhjNTE2ZGUw`
+Snapshot ID: `MTY0OTcyNTI4NSwwMDAwMDAwMDYyODNjMDE1NGJjZGMyM2IyMDNlMDQzMDhjNTE2ZGUw`

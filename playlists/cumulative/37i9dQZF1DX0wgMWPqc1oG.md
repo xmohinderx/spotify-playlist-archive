@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0wgMWPqc1oG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0wgMWPqc1oG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0wgMWPqc1oG)
 
-### Post Bop Essentials
+### [Post Bop Essentials](https://open.spotify.com/playlist/0bW7mkVBaXZxShK9P4GVHW)
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 

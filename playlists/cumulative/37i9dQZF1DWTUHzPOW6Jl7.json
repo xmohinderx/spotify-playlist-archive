@@ -668,6 +668,28 @@
     },
     {
       "album": {
+        "name": "Smile Now, Heal Later",
+        "url": "https://open.spotify.com/album/2UqqAuNMIdgEvekyivBiHN"
+      },
+      "artists": [
+        {
+          "name": "Katana",
+          "url": "https://open.spotify.com/artist/2ZWvzt4dOVc2GQg2SeZFWc"
+        },
+        {
+          "name": "Gudda Brvckin",
+          "url": "https://open.spotify.com/artist/3TPlXJoC1qRvrjkma3E4fP"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "High Like That",
+      "url": "https://open.spotify.com/track/6tXOws0Nb2y03Aq7HtBccL"
+    },
+    {
+      "album": {
         "name": "So Blu",
         "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
       },

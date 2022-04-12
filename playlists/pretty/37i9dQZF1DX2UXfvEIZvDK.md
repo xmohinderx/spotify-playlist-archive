@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Rock to relax\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,538 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,727 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 59 | [Behind Blue Eyes](https://open.spotify.com/track/1KXrIYY9fvjI0wN4gc4BVN) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/0qxadqjY5ZtZPw1kzjCUGp) | 4:29 |
 | 60 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
 
-Snapshot ID: `MTY0OTYzODcxNywwMDAwMDAwMDkwMDI2NGE1M2NlYWJhMWZhYWI3NzlhN2FmNzY4M2M2`
+Snapshot ID: `MTY0OTcyNDk5OSwwMDAwMDAwMDkwMDI2NGE1M2NlYWJhMWZhYWI3NzlhN2FmNzY4M2M2`

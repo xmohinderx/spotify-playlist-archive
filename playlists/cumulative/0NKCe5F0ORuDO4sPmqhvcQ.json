@@ -1040,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/7DP0YsFPjmjz6Es5cfLQyv"
+      },
+      "artists": [
+        {
+          "name": "Audent",
+          "url": "https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/5roi8Oveylqkssrp5fQ5hq"
+    },
+    {
+      "album": {
         "name": "Explore",
         "url": "https://open.spotify.com/album/5Se8Q4Kues4cWqDlSTSLa0"
       },

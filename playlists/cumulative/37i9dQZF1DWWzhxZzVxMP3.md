@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWzhxZzVxMP3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWzhxZzVxMP3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWzhxZzVxMP3)
 
-### Summer Cocktails
+### [Summer Cocktails](https://open.spotify.com/playlist/25GUqW5JgOJRI76d5fMAD3)
 
 > Well known songs in a soft Bossa landscape.
 

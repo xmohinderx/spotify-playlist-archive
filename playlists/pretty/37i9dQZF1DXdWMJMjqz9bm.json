@@ -1,45 +1,13 @@
 {
-  "description": "ladies and gentlemen... Chance The Rapper",
-  "num_followers": 142742,
+  "description": "A little bit of pop and a little bit of rap. Cover: anees",
+  "num_followers": 142888,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTUzMjMxMywwMDAwMDExMDAwMDAwMTgwMGZjOTllYjAwMDAwMDE3ZmJlYWMwYzc2",
+  "snapshot_id": "MTY0OTcxMDY3NiwwMDAwMDExMjAwMDAwMTgwMWE2YjNiZGYwMDAwMDE4MDFhNWZhZTNi",
   "tracks": [
-    {
-      "added_at": "2022-04-08 19:00:34",
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
-    },
-    {
-      "added_at": "2022-04-04 22:47:16",
-      "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
-    },
     {
       "added_at": "2022-04-08 19:13:31",
       "album": {
@@ -59,6 +27,22 @@
     {
       "added_at": "2022-04-04 22:47:16",
       "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+    },
+    {
+      "added_at": "2022-04-04 22:47:16",
+      "album": {
         "name": "summer&cigarettes",
         "url": "https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 114427,
       "name": "summer&cigarettes",
       "url": "https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp"
+    },
+    {
+      "added_at": "2022-04-08 19:00:34",
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
       "added_at": "2022-04-04 22:47:16",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq"
     },
     {
-      "added_at": "2022-04-08 13:25:03",
-      "album": {
-        "name": "Til The Morning",
-        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Til The Morning",
-      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
-    },
-    {
       "added_at": "2022-04-04 15:24:43",
       "album": {
         "name": "up again",
@@ -119,6 +103,38 @@
       "duration_ms": 168902,
       "name": "up again",
       "url": "https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X"
+    },
+    {
+      "added_at": "2022-04-04 15:24:43",
+      "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/7KEEFdCQYw9RZFfd0fxn6R"
+      },
+      "artists": [
+        {
+          "name": "Nate Good",
+          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+        }
+      ],
+      "duration_ms": 135540,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao"
+    },
+    {
+      "added_at": "2022-04-08 13:25:03",
+      "album": {
+        "name": "Til The Morning",
+        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
       "added_at": "2022-04-08 13:25:03",
@@ -137,20 +153,20 @@
       "url": "https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ"
     },
     {
-      "added_at": "2022-04-04 15:24:43",
+      "added_at": "2022-04-11 20:55:09",
       "album": {
-        "name": "Child of God",
-        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 255486,
-      "name": "Child of God",
-      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
     },
     {
       "added_at": "2022-04-08 18:54:57",
@@ -237,6 +253,22 @@
       "url": "https://open.spotify.com/track/49C9gniR8HDECH8CCButxN"
     },
     {
+      "added_at": "2022-04-04 15:24:43",
+      "album": {
+        "name": "Child of God",
+        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 255486,
+      "name": "Child of God",
+      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+    },
+    {
       "added_at": "2022-04-08 13:25:03",
       "album": {
         "name": "YESSIR!",
@@ -305,20 +337,20 @@
       "url": "https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ"
     },
     {
-      "added_at": "2022-04-04 15:24:43",
+      "added_at": "2022-04-11 20:55:09",
       "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/7KEEFdCQYw9RZFfd0fxn6R"
+        "name": "Sunsick",
+        "url": "https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG"
       },
       "artists": [
         {
-          "name": "Nate Good",
-          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
         }
       ],
-      "duration_ms": 135540,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao"
+      "duration_ms": 145081,
+      "name": "Sunsick",
+      "url": "https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -463,6 +495,26 @@
       "duration_ms": 121346,
       "name": "REEL IT IN",
       "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
+    },
+    {
+      "added_at": "2022-04-11 20:55:09",
+      "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 197031,
+      "name": "Already Best Friends (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
     },
     {
       "added_at": "2022-04-06 22:43:48",
@@ -615,6 +667,22 @@
       "duration_ms": 142092,
       "name": "Disappointment (feat. Rxseboy)",
       "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
+    },
+    {
+      "added_at": "2022-04-11 20:55:09",
+      "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -1111,6 +1179,22 @@
       "duration_ms": 181727,
       "name": "Fcked Up Teeth",
       "url": "https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG"
+    },
+    {
+      "added_at": "2022-04-11 20:57:56",
+      "album": {
+        "name": "The Sun's Tirade",
+        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "Free Lunch",
+      "url": "https://open.spotify.com/track/5FX89IUKm9QJT9ymrmyK4k"
     },
     {
       "added_at": "2022-04-04 15:24:43",

@@ -1688,6 +1688,24 @@
     },
     {
       "album": {
+        "name": "Arlequina",
+        "url": "https://open.spotify.com/album/0kB3TWtIvZsCEIDNDzYjfw"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1 Costa",
+          "url": "https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134319,
+      "name": "Arlequina",
+      "url": "https://open.spotify.com/track/5UopFUJV8gWYr6od8KntK4"
+    },
+    {
+      "album": {
         "name": "Na Dose Certa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6PSKHhTii6TNo1Hew4xGP1"
       },

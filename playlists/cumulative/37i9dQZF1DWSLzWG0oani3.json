@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 186514,
       "name": "Grammy (RKT)",
       "url": "https://open.spotify.com/track/0nUyOZh7nghS1W1xpPMfXs"
@@ -1295,6 +1295,28 @@
       "duration_ms": 191107,
       "name": "Soltera (feat. Yubeili)",
       "url": "https://open.spotify.com/track/1hWqwMeqQLKEp8YWziERbv"
+    },
+    {
+      "album": {
+        "name": "SUSY 420",
+        "url": "https://open.spotify.com/album/4jbhivQacS1R66AvVFBIxd"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "SUSY 420",
+      "url": "https://open.spotify.com/track/444LRhxSirslV3xR6uwDr1"
     },
     {
       "album": {

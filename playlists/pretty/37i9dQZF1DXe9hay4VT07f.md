@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,009 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,322 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 78 | [Top Prize](https://open.spotify.com/track/4Ku4NfHQafSvZXW0kme5KJ) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/0ilTzFiPldFMIxfRNDFOxq) | 3:12 |
 | 79 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 
-Snapshot ID: `MTY0OTYzOTA2NiwwMDAwMDAwMDE5NzIzMTdjNGUwZTdkYzIxNzZkMjNmMWE4ODFlZTIy`
+Snapshot ID: `MTY0OTcyNTM5MSwwMDAwMDAwMDE5NzIzMTdjNGUwZTdkYzIxNzZkMjNmMWE4ODFlZTIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 
 > All the hits you'll need to make your summer sizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,752 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,782 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 99 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 |
 | 100 | [I Should Quit](https://open.spotify.com/track/0jmwOMMWFcLQQX7x11dOCO) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I Should Quit](https://open.spotify.com/album/6ZvRhxmhQdOkRsE25ALehT) | 2:30 |
 
-Snapshot ID: `MTY0OTYzODY4OSwwMDAwMDAwMDFkOTY2M2UyYmQwMDgxNDI2YjAxMGRmNjJhNTdlMzFj`
+Snapshot ID: `MTY0OTcyNDk2OCwwMDAwMDAwMDFkOTY2M2UyYmQwMDgxNDI2YjAxMGRmNjJhNTdlMzFj`

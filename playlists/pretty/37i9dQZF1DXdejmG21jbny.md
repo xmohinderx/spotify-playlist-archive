@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 
 > Chill instrumental ambient for slow, focused movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,722 likes - 86 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,768 likes - 84 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,21 +78,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 68 | [Alvajaras](https://open.spotify.com/track/2Ehyt6aG3pExeEXHIEFALg) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Alvajaras](https://open.spotify.com/album/4CtHVon8wb0urnmTJAa6JF) | 2:52 |
 | 69 | [Emancipation](https://open.spotify.com/track/4xxIMjx6sNmRgJx7fJ7ihg) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Eingya](https://open.spotify.com/album/1OF3AnbSDa1ZSEFE7lukTb) | 2:34 |
 | 70 | [First Breath](https://open.spotify.com/track/1JOwulZA39X5su0EiBb6J6) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Newborn](https://open.spotify.com/album/6hSiNwlyOFDSpS3Xl28zU8) | 2:40 |
-| 71 | [State of Calm](https://open.spotify.com/track/5SSNWUsRXDXVJ0zJdBy9IG) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [State of Calm](https://open.spotify.com/album/2muuw1e98HKFEc1jLDhJdX) | 3:02 |
-| 72 | [Circle Of Light](https://open.spotify.com/track/0N9zEnbv9bGEfx93R6px2c) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Circle Of Light](https://open.spotify.com/album/6F77wPsu2JaPyf2dIJrUES) | 3:26 |
-| 73 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 |
-| 74 | [Tsubaki Bonfire](https://open.spotify.com/track/3rfQluHSsE4X0FOWQTgx6A) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 3:52 |
-| 75 | [Everything Must Go \(Frank Collage\)](https://open.spotify.com/track/2BY40RfMfBavzsjiTfbow3) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Hearts Beat Loud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1IDULQwFEIbHUGFWSpjByu) | 3:34 |
-| 76 | [Relaxation](https://open.spotify.com/track/3hUEPSBw46jDj07dPhY5pA) | [Diamond Mountain](https://open.spotify.com/artist/22tR9JGX5LWdBcMD8lFEgV) | [Relaxation](https://open.spotify.com/album/1dQjY7ABQDtH4KcepNquUm) | 3:26 |
-| 77 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 |
-| 78 | [Sunrise Catrin](https://open.spotify.com/track/2EC2o4ToD6HToqFRYj6uq3) | [Mayeda Taki](https://open.spotify.com/artist/1NPKLomaogQRTZBTZkHvVr) | [Sunrise Catrin](https://open.spotify.com/album/4SrXnyd1pp4NhFr0mv0rRY) | 3:39 |
-| 79 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
-| 80 | [Halcyon](https://open.spotify.com/track/4DkgaBjJfrfavy1bWQb6vf) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Halcyon](https://open.spotify.com/album/0qRTjn6f3uNJTGfcaQfJ0c) | 2:23 |
-| 81 | [glass house](https://open.spotify.com/track/5SP4NANOzKAzWDStzliHFk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glass house](https://open.spotify.com/album/3dBYsUNY4YBYC07LFSAGjn) | 2:49 |
-| 82 | [Suburst Lullaby](https://open.spotify.com/track/0dPCywLeTpr5y7c8wIjK35) | [After Crescendo](https://open.spotify.com/artist/06wj76R1sxA7lODzeZg1p7) | [Bedtime Morphosis](https://open.spotify.com/album/3sDzZeEIPuufAKdBGbPdhb) | 2:45 |
-| 83 | [Morning Reflection](https://open.spotify.com/track/444EJ06sxk2RAyemHmO5OM) | [Mikael Robbins](https://open.spotify.com/artist/68uqJ5ki8H7F4SHIh4kubp) | [Morning Reflection](https://open.spotify.com/album/5Je7r02QkjH8nLcEkminFc) | 3:49 |
-| 84 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 |
-| 85 | [Lifandi Heimur](https://open.spotify.com/track/5d8dRlfaVweMxNguLyVxne) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Lifandi Heimur](https://open.spotify.com/album/41JstPT5yWEd6SKrKMJMj4) | 3:05 |
-| 86 | [Crystal Caves](https://open.spotify.com/track/7dXXZTESEoAUB316nR7E9T) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Crystal Caves](https://open.spotify.com/album/4RdSFcmzaf3oktYdRiAIQO) | 3:47 |
+| 71 | [Circle Of Light](https://open.spotify.com/track/0N9zEnbv9bGEfx93R6px2c) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Circle Of Light](https://open.spotify.com/album/6F77wPsu2JaPyf2dIJrUES) | 3:26 |
+| 72 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 |
+| 73 | [Tsubaki Bonfire](https://open.spotify.com/track/3rfQluHSsE4X0FOWQTgx6A) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 3:52 |
+| 74 | [Relaxation](https://open.spotify.com/track/3hUEPSBw46jDj07dPhY5pA) | [Diamond Mountain](https://open.spotify.com/artist/22tR9JGX5LWdBcMD8lFEgV) | [Relaxation](https://open.spotify.com/album/1dQjY7ABQDtH4KcepNquUm) | 3:26 |
+| 75 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 |
+| 76 | [Sunrise Catrin](https://open.spotify.com/track/2EC2o4ToD6HToqFRYj6uq3) | [Mayeda Taki](https://open.spotify.com/artist/1NPKLomaogQRTZBTZkHvVr) | [Sunrise Catrin](https://open.spotify.com/album/4SrXnyd1pp4NhFr0mv0rRY) | 3:39 |
+| 77 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
+| 78 | [Halcyon](https://open.spotify.com/track/4DkgaBjJfrfavy1bWQb6vf) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Halcyon](https://open.spotify.com/album/0qRTjn6f3uNJTGfcaQfJ0c) | 2:23 |
+| 79 | [glass house](https://open.spotify.com/track/5SP4NANOzKAzWDStzliHFk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glass house](https://open.spotify.com/album/3dBYsUNY4YBYC07LFSAGjn) | 2:49 |
+| 80 | [Suburst Lullaby](https://open.spotify.com/track/0dPCywLeTpr5y7c8wIjK35) | [After Crescendo](https://open.spotify.com/artist/06wj76R1sxA7lODzeZg1p7) | [Bedtime Morphosis](https://open.spotify.com/album/3sDzZeEIPuufAKdBGbPdhb) | 2:45 |
+| 81 | [Morning Reflection](https://open.spotify.com/track/444EJ06sxk2RAyemHmO5OM) | [Mikael Robbins](https://open.spotify.com/artist/68uqJ5ki8H7F4SHIh4kubp) | [Morning Reflection](https://open.spotify.com/album/5Je7r02QkjH8nLcEkminFc) | 3:49 |
+| 82 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 |
+| 83 | [Lifandi Heimur](https://open.spotify.com/track/5d8dRlfaVweMxNguLyVxne) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Lifandi Heimur](https://open.spotify.com/album/41JstPT5yWEd6SKrKMJMj4) | 3:05 |
+| 84 | [Crystal Caves](https://open.spotify.com/track/7dXXZTESEoAUB316nR7E9T) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Crystal Caves](https://open.spotify.com/album/4RdSFcmzaf3oktYdRiAIQO) | 3:47 |
 
-Snapshot ID: `MTY0Nzg3ODI5OCwwMDAwMDAyMjAwMDAwMTdmYWQzMzVhMGUwMDAwMDE3MGM0ZDBjYzYy`
+Snapshot ID: `MTY0OTY4OTM3OSwwMDAwMDAyMzAwMDAwMTgwMTkyNjQyMTYwMDAwMDE3MGM0ZDBjYzYy`

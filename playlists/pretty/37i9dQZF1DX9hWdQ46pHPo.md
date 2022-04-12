@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hWdQ46pHPo.md) - [plain]
 
 > Country Music Association award\-winning and nominated music from artists then, now, and forever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,062 likes - 78 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,141 likes - 78 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hWdQ46pHPo.md) - [plain]
 | 77 | [Song for Another Time](https://open.spotify.com/track/7px4t7HGiuMUvFkEOpZEwp) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:11 |
 | 78 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:29 |
 
-Snapshot ID: `MTYwMzQ3OTcyMCwwMDAwMDM5ZDAwMDAwMTc1NTZkNmQxZTEwMDAwMDE2ZDAwYjI0ZWQw`
+Snapshot ID: `MTY0OTcwMDI1OSwwMDAwMDM5ZTAwMDAwMTgwMTljYzQ2MDQwMDAwMDE2ZDAwYjI0ZWQw`

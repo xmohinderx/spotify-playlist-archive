@@ -170,6 +170,32 @@
     },
     {
       "album": {
+        "name": "Black Money",
+        "url": "https://open.spotify.com/album/7yqp64q9Ylrh3iwU4YIlLV"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Stef",
+          "url": "https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF"
+        },
+        {
+          "name": "Marreta",
+          "url": "https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168764,
+      "name": "Black Money",
+      "url": "https://open.spotify.com/track/2wacfAitU4g6zbwQoeszk4"
+    },
+    {
+      "album": {
         "name": "Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
       },
@@ -225,7 +251,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 210485,
       "name": "Desce A\u00ed (Flow Drake)",
       "url": "https://open.spotify.com/track/2oRqU8CVBhp8ZAwaikwoCW"
@@ -751,6 +777,36 @@
       "duration_ms": 271384,
       "name": "Lip Tint",
       "url": "https://open.spotify.com/track/7waYsXxo3ckAAaLbnxtmjq"
+    },
+    {
+      "album": {
+        "name": "Luisa Sonza",
+        "url": "https://open.spotify.com/album/7DKaKvHaWIr1jsQOT5csOq"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "DatBoyTwnty",
+          "url": "https://open.spotify.com/artist/0akggygiwaeyMsg0yQ13wy"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "Luisa Sonza",
+      "url": "https://open.spotify.com/track/1KTBGSbVagQL2auTnNgmoR"
     },
     {
       "album": {
@@ -1521,7 +1577,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 250434,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"

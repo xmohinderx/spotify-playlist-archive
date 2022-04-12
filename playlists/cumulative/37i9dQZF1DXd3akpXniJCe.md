@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd3akpXniJCe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd3akpXniJCe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd3akpXniJCe)
 
-### Southern Crosses
+### [Southern Crosses](https://open.spotify.com/playlist/3vGGjcaRiJfHsTAMuw2a1f)
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation\.  Guest curation by <a href="https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP?si=nPq5VuyRTCuzlRDkRcl7kg/">Rhett Walker</a>
 

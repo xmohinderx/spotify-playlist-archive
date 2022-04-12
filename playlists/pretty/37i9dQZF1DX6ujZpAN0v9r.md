@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,245 likes - 142 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,524 likes - 142 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 141 | [Drain Cosmetics](https://open.spotify.com/track/3UymNkS2B7jiUb4ga5URLU) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [Serena\-Maneesh](https://open.spotify.com/album/5zEpLOYybmHfJYYJOQ8kId) | 3:41 |
 | 142 | [We’re Not Done \(End Title\)](https://open.spotify.com/track/58jGSwikO2NbCICODjZnrG) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [We’re Not Done \(End Title\)](https://open.spotify.com/album/5TiqFCkjE75V7spbHqJyt5) | 4:14 |
 
-Snapshot ID: `MTY0OTYzODg1NiwwMDAwMDAwMDRkODg0YzEwZjQyYzRiYTlkNDZlZTQ5ZmVmZjgzYTQ3`
+Snapshot ID: `MTY0OTcyNTE1NiwwMDAwMDAwMDRkODg0YzEwZjQyYzRiYTlkNDZlZTQ5ZmVmZjgzYTQ3`

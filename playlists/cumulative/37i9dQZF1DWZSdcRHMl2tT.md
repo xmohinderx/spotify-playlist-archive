@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZSdcRHMl2tT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZSdcRHMl2tT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZSdcRHMl2tT)
 
-### Poolside Lounge
+### [Poolside Lounge](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 > Chill house beats for hanging out in the sun.
 

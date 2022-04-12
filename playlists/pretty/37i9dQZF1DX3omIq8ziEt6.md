@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3omIq8ziEt6.md) - [plain]
 
 > Timeless Latin hits, solo tus favoritos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,517,323 likes - 150 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,517,918 likes - 150 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3omIq8ziEt6.md) - [plain]
 | 149 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 |
 | 150 | [Llegaste Tú](https://open.spotify.com/track/6tT4Ks1N04Ut0lSQ3xjSaZ) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Llegaste Tú](https://open.spotify.com/album/5iYUbJQI6MO9SB6nZ8ul3s) | 3:10 |
 
-Snapshot ID: `MTY0OTYzODc1NywwMDAwMDAwMGI3ZmVkYzk4NjFiNWFjMjgwYWY1NTYyMDVkNmI2ZDNk`
+Snapshot ID: `MTY0OTcyNTA0NSwwMDAwMDAwMGI3ZmVkYzk4NjFiNWFjMjgwYWY1NTYyMDVkNmI2ZDNk`

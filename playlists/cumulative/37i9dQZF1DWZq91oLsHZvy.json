@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 204546,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 158280,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/1PCA097woCMSDvZPUVeRI7"
@@ -369,10 +369,28 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "album": {
+        "name": "Sunshine Seekers",
+        "url": "https://open.spotify.com/album/68htlytWqfe95k6StSMnPJ"
+      },
+      "artists": [
+        {
+          "name": "The Sway",
+          "url": "https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182848,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/3n9EGVIBNZZlqA6thJds2b"
     },
     {
       "album": {
@@ -387,7 +405,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 215306,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 252853,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/15ya59dZ8yGeIfZARiYDjd"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 323480,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 220240,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 297346,
       "name": "Flashlight",
       "url": "https://open.spotify.com/track/0xR5ZhiksJK6lMRdI6S2A4"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 350893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 144921,
       "name": "Love Is An Only Child",
       "url": "https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 202921,
       "name": "One Minute More",
       "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 178142,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/47NoCaEOxlLifJ86Pr3hb8"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Speeddance",
       "url": "https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 183468,
       "name": "Take It or Leave It",
       "url": "https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv"
@@ -1770,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "The Dreamer",
+        "url": "https://open.spotify.com/album/2xcAeS2J5pa2lCTdsWFWdK"
+      },
+      "artists": [
+        {
+          "name": "The Sway",
+          "url": "https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191637,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/6pBy85HnlRbOEfVT2xEJya"
+    },
+    {
+      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw"
       },
@@ -1799,7 +1835,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 215602,
       "name": "The Other Half",
       "url": "https://open.spotify.com/track/5y0zyLUouDOQPLODwsaRE1"
@@ -1893,7 +1929,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
@@ -1915,7 +1951,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 234773,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"

@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 324693,
       "name": "Kota",
       "url": "https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 248746,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/0fhoxg8I2MqRFjTrLFIIuO"
@@ -959,6 +959,24 @@
       "duration_ms": 108800,
       "name": "Polyghost",
       "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
+    },
+    {
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78266,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/4cwDC2Yk2zqOp6NMX6v750"
     },
     {
       "album": {
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 288933,
       "name": "The Keeper",
       "url": "https://open.spotify.com/track/5hmf3hRQMaDIWuZT1zX3ue"

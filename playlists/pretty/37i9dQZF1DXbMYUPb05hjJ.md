@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,909 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,108 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 | 89 | [How Deep Is Your Love?](https://open.spotify.com/track/58ZxxTUnEHvhdNNZAkcZTN) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [In the Grace of Your Love](https://open.spotify.com/album/6ZiAGfJbLftvLMAFoEvoYK) | 6:27 |
 | 90 | [Heads Will Roll](https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:41 |
 
-Snapshot ID: `MTY0OTYzODk5MiwwMDAwMDAwMDBjMGU5ODEzY2IzNDE4NjZmNWY0YTQ2YmIzMWJjZjkx`
+Snapshot ID: `MTY0OTcyNTMwNiwwMDAwMDAwMDBjMGU5ODEzY2IzNDE4NjZmNWY0YTQ2YmIzMWJjZjkx`

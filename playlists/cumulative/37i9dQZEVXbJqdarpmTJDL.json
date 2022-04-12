@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 184800,
       "name": "Block",
       "url": "https://open.spotify.com/track/2j4EZlzum9PZXiZBySurpt"
@@ -2517,7 +2517,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "COCO",
       "url": "https://open.spotify.com/track/0RKajkby9qSFKjChpfyYoW"
@@ -5642,6 +5642,24 @@
     },
     {
       "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/61fjiw7XzE91ldIpdf3iCz"
+      },
+      "artists": [
+        {
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/6bOAwlJ6V8oWqGOXeairhN"
+    },
+    {
+      "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
       },
@@ -7725,6 +7743,32 @@
       "duration_ms": 207290,
       "name": "Merokamato",
       "url": "https://open.spotify.com/track/6QU0eI88roG2LSTFxR6UPF"
+    },
+    {
+      "album": {
+        "name": "Messi",
+        "url": "https://open.spotify.com/album/6jKknmLf1326njwOwMVufl"
+      },
+      "artists": [
+        {
+          "name": "GAB",
+          "url": "https://open.spotify.com/artist/0LuYYFDRJd3PNTh1k4nFRN"
+        },
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        },
+        {
+          "name": "YA",
+          "url": "https://open.spotify.com/artist/5t9MrHoG6WQLwe1MIcMcrk"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165223,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/3dlgCN1SOpdYTSihZ7s80k"
     },
     {
       "album": {
@@ -11383,7 +11427,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 250902,
       "name": "TAPA",
       "url": "https://open.spotify.com/track/34GYj6pjdt0AbIbz3RNGEt"
@@ -13133,7 +13177,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 246808,
       "name": "ZULU",
       "url": "https://open.spotify.com/track/7aodZPQpAaQrVA6cv9JXru"

@@ -3796,6 +3796,28 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227385,
+      "name": "Paradise Lost",
+      "url": "https://open.spotify.com/track/52fb3usXUKzxPy7unqwfLs"
+    },
+    {
+      "album": {
         "name": "PENGAR",
         "url": "https://open.spotify.com/album/0nGMjvtR0NTsl6NaWuJ7HD"
       },

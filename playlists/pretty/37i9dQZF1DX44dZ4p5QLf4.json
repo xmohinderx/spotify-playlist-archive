@@ -1,13 +1,33 @@
 {
-  "description": "A blend of new songs and new artists in the neo-soul space. Cover: Robert Glasper",
-  "num_followers": 429059,
+  "description": "A blend of new songs and new artists in the neo-soul space. Cover: Syd",
+  "num_followers": 429239,
   "original_name": "Next Wave Neo-Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQxMTAzMywwMDAwMDA5ZTAwMDAwMTgwMDg4ZjBhZGMwMDAwMDE3ZjI2MTViZGRh",
+  "snapshot_id": "MTY0OTY4MDcxMiwwMDAwMDA5ZjAwMDAwMTgwMThhMjAyZTUwMDAwMDE4MDE4YTFmMTY5",
   "tracks": [
+    {
+      "added_at": "2022-04-08 09:43:53",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
     {
       "added_at": "2022-04-08 09:43:53",
       "album": {
@@ -59,26 +79,6 @@
       "duration_ms": 181279,
       "name": "Hills",
       "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
-    },
-    {
-      "added_at": "2022-04-08 09:43:53",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2022-04-08 09:43:53",

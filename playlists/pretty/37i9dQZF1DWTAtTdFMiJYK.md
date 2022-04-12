@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Last Minute India
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,217 likes - 81 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,274 likes - 81 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 80 | [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 |
 | 81 | [Kaahe Ko Sataaye](https://open.spotify.com/track/5VvJxA5YDS3J88R6snUOX1) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Kaahe Ko Sataaye](https://open.spotify.com/album/2orsvLr1bGcUenmFBuaXM1) | 3:45 |
 
-Snapshot ID: `MTY0OTYzODQyOCwwMDAwMDAwMGIxZjdhNjc3OTk3OGNiMzQ2ZDZkNmMyYWYzNjZkMjIw`
+Snapshot ID: `MTY0OTcyNDY3OCwwMDAwMDAwMGIxZjdhNjc3OTk3OGNiMzQ2ZDZkNmMyYWYzNjZkMjIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQrwBpetTXv.md) - [plain]
 
 > The powerful women of country\. Cover: Dolly Parton \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,568 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,719 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQrwBpetTXv.md) - [plain]
 | 69 | [Your Good Girl's Gonna Go Bad](https://open.spotify.com/track/2OFXgZXGzMwDQScl2qFavV) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:01 |
 | 70 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 |
 
-Snapshot ID: `MTU5MzM5NTkzOSwwMDAwMDAwNDAwMDAwMTcyZmRjYzg4ZDEwMDAwMDE3MGVmZTQxZTc4`
+Snapshot ID: `MTY0OTcwMTA2MSwwMDAwMDAwNTAwMDAwMTgwMTlkODgzYzcwMDAwMDE3MGVmZTQxZTc4`

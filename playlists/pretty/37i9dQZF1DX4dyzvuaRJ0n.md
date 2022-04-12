@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Armin van Buuren, Billen Ted & JC Stewart, Carl Cox & Fatboy Slim, R3HAB and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,903,095 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,903,200 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

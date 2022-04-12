@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-09",
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
   "name": "Instrumental Bluegrass",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4YsfLsdnQQm3Z91YQleLNc"
+  ],
   "tracks": [
     {
       "album": {
@@ -173,7 +175,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 370466,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/07BCxiinT4u11J5QQHpd1w"
@@ -353,7 +355,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 205266,
       "name": "Big Sciota",
       "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
@@ -465,7 +467,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 156932,
       "name": "Blackberry Blossom",
       "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
@@ -483,7 +485,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 158533,
       "name": "Blue Grass Breakdown",
       "url": "https://open.spotify.com/track/6uFe46bPkUSA24LQzn0qGm"
@@ -519,7 +521,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 220293,
       "name": "Blue Midnite",
       "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
@@ -537,7 +539,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 266133,
       "name": "Blue Mountain Hop",
       "url": "https://open.spotify.com/track/3YGNrLyeYb2kO69RCtBJa2"
@@ -555,7 +557,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 212533,
       "name": "Bluegrass Boogie",
       "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
@@ -591,7 +593,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 202066,
       "name": "Bombshell",
       "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
@@ -609,7 +611,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 180493,
       "name": "Bon Aqua Blues",
       "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
@@ -627,7 +629,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 188306,
       "name": "Buckner's Breakdown",
       "url": "https://open.spotify.com/track/0E4aSqdPoruv0BAJjpb9fW"
@@ -707,7 +709,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 210399,
       "name": "Cheyenne",
       "url": "https://open.spotify.com/track/36Qy9UrlwIGQyltqHcTYYB"
@@ -811,7 +813,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 260863,
       "name": "Coming Down from Green Mountain",
       "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
@@ -871,7 +873,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 218850,
       "name": "Cup & Porch",
       "url": "https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k"
@@ -889,7 +891,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 538960,
       "name": "Dawg's Rag",
       "url": "https://open.spotify.com/track/7o78yDNCBi29mKHaZ3k96E"
@@ -929,7 +931,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
@@ -989,7 +991,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 229480,
       "name": "EMD",
       "url": "https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb"
@@ -1025,10 +1027,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 264333,
       "name": "Fall Creek Falls",
       "url": "https://open.spotify.com/track/3oCvqK23kHOETKauiNz3rc"
+    },
+    {
+      "album": {
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "album": {
@@ -1047,7 +1067,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 138000,
       "name": "Fiddler's Dream",
       "url": "https://open.spotify.com/track/69iYUGQUEblPnaPIpR6vjS"
@@ -1209,7 +1229,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 217866,
       "name": "Good to Go",
       "url": "https://open.spotify.com/track/5K7AhhV2f94CfqUFZtlAMu"
@@ -1234,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "The Bluegrass Fiddle Album",
+        "url": "https://open.spotify.com/album/3HRLaBku4dzOpXcGIBkYZQ"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203906,
+      "name": "Hamilton Special",
+      "url": "https://open.spotify.com/track/5jM4lC2HkkhwT9euOCnUfW"
+    },
+    {
+      "album": {
         "name": "Portraits in Fiddles",
         "url": "https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K"
       },
@@ -1249,7 +1287,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 326266,
       "name": "Hangman's Reel",
       "url": "https://open.spotify.com/track/41bwKV2bvP1uYMRJ2nH5Nc"
@@ -1287,7 +1325,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 198946,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/7KFs15Er2tNML63npFCN2a"
@@ -1305,7 +1343,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 213400,
       "name": "Icebound",
       "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
@@ -1407,7 +1445,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 157826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU"
@@ -1443,7 +1481,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 263800,
       "name": "Katmandu",
       "url": "https://open.spotify.com/track/7DlaaNwxmS99iypST4bTS0"
@@ -1657,7 +1695,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 184466,
       "name": "Moonbeam",
       "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
@@ -1675,7 +1713,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 161960,
       "name": "Mountain Banjo",
       "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
@@ -1715,7 +1753,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 189061,
       "name": "Nancy Blevins",
       "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
@@ -1759,7 +1797,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 273746,
       "name": "New South Africa",
       "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
@@ -1777,7 +1815,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 288480,
       "name": "No Resolution",
       "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
@@ -1795,7 +1833,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 176240,
       "name": "Orange Blossom Special",
       "url": "https://open.spotify.com/track/62LJqunG21MXeQr4pUf6Pb"
@@ -1821,7 +1859,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 129173,
       "name": "Orange Blossom Special - Instrumental",
       "url": "https://open.spotify.com/track/4mA1uVt3TKkv4n3J2lKHLs"
@@ -1911,7 +1949,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 285666,
       "name": "Port Tobacco",
       "url": "https://open.spotify.com/track/0qHlR5OwUyUFsrU7I16gyx"
@@ -2045,7 +2083,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 274200,
       "name": "Robin And Marian",
       "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
@@ -2109,7 +2147,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
@@ -2255,7 +2293,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 289173,
       "name": "Slumber My Darling",
       "url": "https://open.spotify.com/track/2lzG6cW1IVSpDY5cWe4bXG"
@@ -2273,7 +2311,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "Small Tots",
       "url": "https://open.spotify.com/track/5mK9LqsqEQ4VDG78vc1tS9"
@@ -2309,7 +2347,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 119460,
       "name": "Sometimes it Does",
       "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
@@ -2361,7 +2399,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 164613,
       "name": "Squirrel of Possibility",
       "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
@@ -2415,7 +2453,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 126093,
       "name": "Su Prabhat",
       "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
@@ -2513,7 +2551,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 188200,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/3uXprvrfxM0RkUOCNR7G7d"
@@ -2575,7 +2613,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 203520,
       "name": "The Road to Malvern",
       "url": "https://open.spotify.com/track/6McZUgikkzu7x5es9FazPA"
@@ -2615,7 +2653,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 175981,
       "name": "Trapper's Attic",
       "url": "https://open.spotify.com/track/7nlLIcbLodcRQvCPtV8vuX"
@@ -2633,7 +2671,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 251026,
       "name": "Tree King Creek",
       "url": "https://open.spotify.com/track/2eX598AcoEbR1KxPqVAKTP"
@@ -2747,7 +2785,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 254226,
       "name": "Watch 'At Breakdown",
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
@@ -2765,7 +2803,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 178733,
       "name": "Waveland",
       "url": "https://open.spotify.com/track/0RgsjTcfbWndH0oNiSvWtx"
@@ -2827,7 +2865,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 226306,
       "name": "Whiskerhead Goes to Leningrad",
       "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
@@ -2887,7 +2925,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 189293,
       "name": "Whitewater",
       "url": "https://open.spotify.com/track/2YUF30ewdgPzTTzzsb5jxr"
@@ -2963,7 +3001,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 174093,
       "name": "Wolf Moon",
       "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"

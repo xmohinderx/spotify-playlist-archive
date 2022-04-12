@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSvfPiFfb8Mi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSvfPiFfb8Mi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSvfPiFfb8Mi)
 
-### Poolside Disco
+### [Poolside Disco](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
 
 > Disco, house, funk and soul for the good times.
 

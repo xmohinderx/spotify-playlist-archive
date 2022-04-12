@@ -161,7 +161,7 @@
       ],
       "date_added": "2020-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 520912,
       "name": "Agitation",
       "url": "https://open.spotify.com/track/6EZx0YpJHf6nwQT6bKXq1o"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 412500,
       "name": "As We Roll",
       "url": "https://open.spotify.com/track/0wtVKPi0ctiZTlntlHjxLM"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 322089,
       "name": "Aura",
       "url": "https://open.spotify.com/track/7FzeLI7bUVnnPMNS6muS4y"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 413858,
       "name": "Avalanche - Joachim Pastor Remix",
       "url": "https://open.spotify.com/track/1SFWabVeCbM9cD7Gb2qBNo"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 229440,
       "name": "Best of Me - Radio Edit",
       "url": "https://open.spotify.com/track/3nQPkePHredC24hsQBmlbj"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 251803,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 152542,
       "name": "Boys & Girls",
       "url": "https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 671853,
       "name": "Braunkehlchen",
       "url": "https://open.spotify.com/track/56mGMAQHrQgiUGcNcJhCI0"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 198676,
       "name": "Bring You Back - Edit",
       "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 252250,
       "name": "Broken Moonlight",
       "url": "https://open.spotify.com/track/1izKtDdviVm7LmhEJZLReB"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 399998,
       "name": "Castles Of Illusion",
       "url": "https://open.spotify.com/track/40y4KYB5DNXQsrZapLUhnV"
@@ -1443,10 +1443,32 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 245927,
       "name": "Children",
       "url": "https://open.spotify.com/track/29BtUsMWJTEP34WeAAAK2x"
+    },
+    {
+      "album": {
+        "name": "Triation, Vol. IV",
+        "url": "https://open.spotify.com/album/5zMvClsJF6Y4NacMjwOKqQ"
+      },
+      "artists": [
+        {
+          "name": "Starkato",
+          "url": "https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z"
+        },
+        {
+          "name": "Intaktogene",
+          "url": "https://open.spotify.com/artist/4Xb3F7RouTER6Dckc2PCG0"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373976,
+      "name": "Choral",
+      "url": "https://open.spotify.com/track/2yoigTHwwyXxa1xU96OdLd"
     },
     {
       "album": {
@@ -1487,7 +1509,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 343125,
       "name": "CITY OF DUST - 8KAYS Remix",
       "url": "https://open.spotify.com/track/7IssVZDmUwAVXJwYaGGwLQ"
@@ -1961,7 +1983,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 260786,
       "name": "Designer Love - Short Version",
       "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
@@ -2277,7 +2299,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
@@ -2361,7 +2383,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 409000,
       "name": "Drago",
       "url": "https://open.spotify.com/track/2MuW3jSDlBC5pyp5lDA7Ov"
@@ -2419,7 +2441,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 409184,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2LfI8RId2sMaeyrNt53JHo"
@@ -2455,7 +2477,7 @@
       ],
       "date_added": "2020-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 221953,
       "name": "el cielo no es de nadie - Edit",
       "url": "https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy"
@@ -2499,7 +2521,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 310229,
       "name": "Emerge As New",
       "url": "https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4"
@@ -2557,7 +2579,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 414326,
       "name": "Exhilaration",
       "url": "https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc"
@@ -2649,7 +2671,7 @@
       ],
       "date_added": "2021-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 533599,
       "name": "Fallin - Giorgia Angiuli & SQU4RE Remix",
       "url": "https://open.spotify.com/track/0XxdZryMMkmoVExrUNpfFM"
@@ -2667,7 +2689,7 @@
       ],
       "date_added": "2020-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 311280,
       "name": "False Reactions",
       "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
@@ -2739,7 +2761,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 411978,
       "name": "Finale",
       "url": "https://open.spotify.com/track/1wirHkULbAEyUu9G4qGwuR"
@@ -2893,7 +2915,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 292179,
       "name": "Follow (Max Manie Remix)",
       "url": "https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI"
@@ -3057,7 +3079,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 407731,
       "name": "Garden Of Peace - Yotto Renaissance Remix",
       "url": "https://open.spotify.com/track/3dbaMprMQ9YytqZM50lvfn"
@@ -3327,7 +3349,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 193623,
       "name": "Grouplove",
       "url": "https://open.spotify.com/track/3DMScvrPcnikiAR0CY4FFt"
@@ -3683,7 +3705,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 330500,
       "name": "Home",
       "url": "https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q"
@@ -3701,7 +3723,7 @@
       ],
       "date_added": "2020-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 221090,
       "name": "Home",
       "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
@@ -3821,7 +3843,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 466935,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/4Q7P00LthFrc2Q0L3n0vuO"
@@ -3839,7 +3861,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 415423,
       "name": "Hunting",
       "url": "https://open.spotify.com/track/26FAFktgomSuC8JLaqqtwM"
@@ -3935,7 +3957,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 209081,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
@@ -4131,7 +4153,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 222545,
       "name": "In A Dream",
       "url": "https://open.spotify.com/track/0WUI5sIb9cmFeRfNptr0eu"
@@ -4483,7 +4505,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 340206,
       "name": "Kenger",
       "url": "https://open.spotify.com/track/6naCXLqx0qvSnYWkrbioFm"
@@ -4523,7 +4545,7 @@
       ],
       "date_added": "2020-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 228629,
       "name": "Kiss from God - mint Singles",
       "url": "https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg"
@@ -4777,7 +4799,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 413044,
       "name": "Lost In The Stars - Original Mix",
       "url": "https://open.spotify.com/track/3ODEf1vww4qljvqidfcqIU"
@@ -5231,7 +5253,7 @@
       ],
       "date_added": "2021-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 472483,
       "name": "Mosaik",
       "url": "https://open.spotify.com/track/0b0IqdxnFSloffKBak9oOm"
@@ -5293,7 +5315,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 402126,
       "name": "Musica",
       "url": "https://open.spotify.com/track/4FoH1JTnWMZtciVi1V8ifa"
@@ -5537,7 +5559,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 390243,
       "name": "Newness Nowness",
       "url": "https://open.spotify.com/track/6MFhxtGh7NI1sXSQhOqPqM"
@@ -5555,7 +5577,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
@@ -5631,7 +5653,7 @@
       ],
       "date_added": "2020-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 384000,
       "name": "Nighthawks 01",
       "url": "https://open.spotify.com/track/2Oz3Tj8RbLBZFW5Adsyzyj"
@@ -5759,7 +5781,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
@@ -5781,7 +5803,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 383500,
       "name": "Not Alone - Hidden Empire Remix",
       "url": "https://open.spotify.com/track/7IiLZWBF8KCSH60Vv7qME8"
@@ -5871,7 +5893,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 229440,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
@@ -5943,7 +5965,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 445161,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/5rUqHtMZmSfYM2Hpn4Z7TS"
@@ -5983,7 +6005,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 294915,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/5EGQqzIfm4SelZGv24FjJn"
@@ -6355,7 +6377,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 380487,
       "name": "Participants",
       "url": "https://open.spotify.com/track/2nNO3STc1GprRP3GaAxmJA"
@@ -6377,7 +6399,7 @@
       ],
       "date_added": "2020-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 484043,
       "name": "Patience",
       "url": "https://open.spotify.com/track/07TQqNkdjKRu4KpqaOspxw"
@@ -6613,7 +6635,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 208642,
       "name": "Prisma - Klanglos Remix - Radio Edit",
       "url": "https://open.spotify.com/track/512m11L55vWoUbqrkObdCz"
@@ -6653,7 +6675,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 365172,
       "name": "Pure",
       "url": "https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2"
@@ -6689,7 +6711,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 352215,
       "name": "Quasar",
       "url": "https://open.spotify.com/track/6KrnEzLSoi4XR5u3bLMPsu"
@@ -6925,7 +6947,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 284160,
       "name": "Remember (Remix)",
       "url": "https://open.spotify.com/track/0sbbGfPxrNtZnJZVIn11MP"
@@ -6943,7 +6965,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 321995,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E"
@@ -6961,7 +6983,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
@@ -7577,7 +7599,7 @@
       ],
       "date_added": "2020-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 369742,
       "name": "Sirens (feat. Yasmin Jane) [Tube & Berger Remix] - Extended Mix",
       "url": "https://open.spotify.com/track/737nhXOCDtruTb0NXhPU5Z"
@@ -7599,7 +7621,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 400161,
       "name": "Sky",
       "url": "https://open.spotify.com/track/5pqkDVWkKGvwQF7XLYoC3j"
@@ -7617,7 +7639,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 442439,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi"
@@ -7689,7 +7711,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 303000,
       "name": "Solar",
       "url": "https://open.spotify.com/track/2GBRDBk7T7S9HH2qnb7hGz"
@@ -7729,7 +7751,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 279127,
       "name": "Something Was Missing - Made in Paris Remix",
       "url": "https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41"
@@ -7827,7 +7849,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 211200,
       "name": "Spicy (feat. Ginger) - Edit",
       "url": "https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH"
@@ -7939,7 +7961,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 302683,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/3gylkATtgG7OeR3HrMhZVv"
@@ -8073,7 +8095,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 229512,
       "name": "Tantrum",
       "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
@@ -8091,7 +8113,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 238537,
       "name": "Tarcu",
       "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
@@ -8403,7 +8425,7 @@
       ],
       "date_added": "2020-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 203657,
       "name": "The K\u00e1rm\u00e1n Line",
       "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
@@ -8523,7 +8545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 494109,
       "name": "The Only Way Out Is Through",
       "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
@@ -8545,7 +8567,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 426885,
       "name": "The Parallel - Miss Monique Remix",
       "url": "https://open.spotify.com/track/6IoSsOgcDI8BadBDp7AZ5E"
@@ -8589,7 +8611,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 444737,
       "name": "The Prey - Mind Against Remix",
       "url": "https://open.spotify.com/track/3sMQ55H79frDZG6TXam3UC"
@@ -8647,7 +8669,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "The Tide",
       "url": "https://open.spotify.com/track/3pMyZztzU35UqFtlUtbICr"
@@ -8851,7 +8873,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 298120,
       "name": "Toni",
       "url": "https://open.spotify.com/track/1pCKUgc3yk3F9Mt0MTX51o"
@@ -9075,7 +9097,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 388098,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/2OuwkXGT3udMEMmuOIFGrf"
@@ -9097,7 +9119,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 405887,
       "name": "Under Dark - Innellea Remix",
       "url": "https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS"
@@ -9163,7 +9185,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 255000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/55lFHmln3ZnRINS6VcCfIo"
@@ -9211,7 +9233,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 320000,
       "name": "Unite",
       "url": "https://open.spotify.com/track/3oIybLlADYuhdinp3LB8Ct"
@@ -9229,7 +9251,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
@@ -9291,7 +9313,7 @@
       ],
       "date_added": "2020-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 211475,
       "name": "Vallut Bass",
       "url": "https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo"
@@ -9429,7 +9451,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 542769,
       "name": "Vergessen",
       "url": "https://open.spotify.com/track/1wCjlErPp61MwhSvm09lsF"
@@ -9523,7 +9545,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 216106,
       "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
       "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
@@ -9607,7 +9629,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 240200,
       "name": "Warning Signs - Mind Against Remix",
       "url": "https://open.spotify.com/track/5zd60mK4ZK6qt9umKECmAe"
@@ -9651,6 +9673,24 @@
       "duration_ms": 400556,
       "name": "Waterfront",
       "url": "https://open.spotify.com/track/39btyOP48zWhS95iH8vg8q"
+    },
+    {
+      "album": {
+        "name": "Waves of the Past",
+        "url": "https://open.spotify.com/album/2UfByHS0EjxscpsLMxg61n"
+      },
+      "artists": [
+        {
+          "name": "Mainterm",
+          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320992,
+      "name": "Waves of the Past",
+      "url": "https://open.spotify.com/track/2oCLA285QlQJnzR9aP6OHb"
     },
     {
       "album": {
@@ -9785,7 +9825,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 324313,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"

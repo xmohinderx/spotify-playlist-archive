@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVAArCxuIRGQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVAArCxuIRGQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVAArCxuIRGQ)
 
-### Summer BBQ
+### [Summer BBQ](https://open.spotify.com/playlist/4NyrelIUndIbzhU4ozZcir)
 
 > A sizzling hot soundtrack for your sunshine social.
 

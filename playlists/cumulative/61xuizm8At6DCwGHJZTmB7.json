@@ -2370,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "The Kindness Of The Cross",
+        "url": "https://open.spotify.com/album/1vxB7fbWYLquhtIYSFaDL0"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256036,
+      "name": "The Kindness Of The Cross",
+      "url": "https://open.spotify.com/track/5NkRkMWyUaIFnfBTdccuqX"
+    },
+    {
+      "album": {
         "name": "Songs Of Glory",
         "url": "https://open.spotify.com/album/4Ry1jLIuWo8s8UrJLlhLck"
       },

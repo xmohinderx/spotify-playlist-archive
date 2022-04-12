@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbHKTQ2s1l8q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbHKTQ2s1l8q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbHKTQ2s1l8q)
 
-### Breezy Acoustic
+### [Breezy Acoustic](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
 
 > Beachy, acoustic tunes for lazy summer days.
 

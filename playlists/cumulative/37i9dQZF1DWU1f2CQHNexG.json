@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-10",
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Yazoo. ",
   "name": "Synthpop Classics ",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7sgvvjtQ3YO0vLBx6zL4uM"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 217693,
       "name": "A View to a Kill",
       "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 218933,
       "name": "Always Something There to Remind Me",
       "url": "https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J"
@@ -53,7 +55,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 180866,
       "name": "Axel F",
       "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
@@ -125,7 +127,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 251973,
       "name": "Blue Monday '88 - 2015 Remaster",
       "url": "https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1"
@@ -143,7 +145,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
@@ -179,7 +181,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 215346,
       "name": "Chains of Love",
       "url": "https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA"
@@ -251,7 +253,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 244120,
       "name": "Dancing With Tears In My Eyes",
       "url": "https://open.spotify.com/track/7F1HinSK9GD2r2yGwU2w7j"
@@ -273,6 +275,24 @@
       "duration_ms": 191306,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
+    },
+    {
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "album": {
@@ -330,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Construction Time Again",
+        "url": "https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261066,
+      "name": "Everything Counts",
+      "url": "https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw"
+    },
+    {
+      "album": {
         "name": "The Best Of Depeche Mode - Volume One",
         "url": "https://open.spotify.com/album/6gHRLG5Gbjk3vwtgmadx1g"
       },
@@ -366,6 +404,24 @@
     },
     {
       "album": {
+        "name": "The Damned Don't Cry",
+        "url": "https://open.spotify.com/album/2961MpxUFLATeTqNbb6zLt"
+      },
+      "artists": [
+        {
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229293,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG"
+    },
+    {
+      "album": {
         "name": "Fascination!",
         "url": "https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc"
       },
@@ -381,6 +437,24 @@
       "duration_ms": 296453,
       "name": "Fascination - Extended Remix",
       "url": "https://open.spotify.com/track/2uynnXFdf3wBIjOEHCB9up"
+    },
+    {
+      "album": {
+        "name": "Tom Tom Club",
+        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334360,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
     },
     {
       "album": {
@@ -421,7 +495,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 294586,
       "name": "Here Comes the Rain Again - Remastered Version",
       "url": "https://open.spotify.com/track/78RIER8V6EhrqVPOBi2GYa"
@@ -457,7 +531,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 265320,
       "name": "Human",
       "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
@@ -475,7 +549,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
@@ -493,7 +567,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 241320,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
@@ -511,7 +585,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 269800,
       "name": "If You Leave - 2019 Remaster",
       "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
@@ -547,7 +621,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 214613,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2LQ2cwH2A8ITNNPUwY1wve"
@@ -565,7 +639,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 299306,
       "name": "It's a Sin - 2001 Remaster",
       "url": "https://open.spotify.com/track/6IDHh3FcwLVcG5NsmpQgg2"
@@ -583,7 +657,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
@@ -601,7 +675,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
@@ -637,7 +711,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 230373,
       "name": "Mirror Man",
       "url": "https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4"
@@ -655,7 +729,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
@@ -691,7 +765,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 337266,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3"
@@ -727,7 +801,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 192293,
       "name": "Only You",
       "url": "https://open.spotify.com/track/62sTjrwZKzNjfeeBcG4nIv"
@@ -774,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337333,
+      "name": "Rio - 2009 Remaster",
+      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
+    },
+    {
+      "album": {
         "name": "Falco 3",
         "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh"
       },
@@ -785,7 +877,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 202236,
       "name": "Rock Me Amadeus",
       "url": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
@@ -846,6 +938,24 @@
     },
     {
       "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+    },
+    {
+      "album": {
         "name": "The Age Of Consent",
         "url": "https://open.spotify.com/album/7sJwidjwY9gt44I1AioyKm"
       },
@@ -875,7 +985,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 262866,
       "name": "Steppin' Out",
       "url": "https://open.spotify.com/track/0tBTnrMcc91qKP9dHqhsS7"
@@ -929,7 +1039,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 320000,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
@@ -991,7 +1101,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 225280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
@@ -1063,10 +1173,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 257866,
       "name": "The Things That Dreams Are Made Of - 2002 Mix",
       "url": "https://open.spotify.com/track/5GLYtND9tYHCEdIQ1i1JH3"
+    },
+    {
+      "album": {
+        "name": "Journeys to Glory (Special Edition)",
+        "url": "https://open.spotify.com/album/6SeOw1xyjKM6CbEstaGzqd"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "To Cut a Long Story Short - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1NlJv9YBuvgbb9pO51vqOY"
     },
     {
       "album": {
@@ -1085,6 +1213,24 @@
       "duration_ms": 296160,
       "name": "Vienna - 2008 Remaster",
       "url": "https://open.spotify.com/track/0842N1NhR1Q1XS6XyyQ3Nl"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7ois",
+        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
+      },
+      "artists": [
+        {
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266600,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
     },
     {
       "album": {
@@ -1153,7 +1299,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 195146,
       "name": "You Spin Me Round (Like a Record)",
       "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"

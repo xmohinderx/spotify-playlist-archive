@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,279 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,429 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Higher Level \- Bicep Remix](https://open.spotify.com/track/4FtjMbx5rC3fUqcBJXhu1G) | [Isaac Tichauer](https://open.spotify.com/artist/3yKDEsiOdoYMIuopxLMDu6), [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Street Lessons Remixes EP](https://open.spotify.com/album/1pqlFMVY8tYDfE3TYHwegS) | 6:04 |
 | 50 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 |
 
-Snapshot ID: `MTY0OTYzODgxOCwwMDAwMDAwMDA1MzRkZGQwYzE2ZDk1M2NmMzE3NzcyNTAxZWFhMDIx`
+Snapshot ID: `MTY0OTcyNTExNCwwMDAwMDAwMDA1MzRkZGQwYzE2ZDk1M2NmMzE3NzcyNTAxZWFhMDIx`

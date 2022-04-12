@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Favorite rock and gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,402 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,511 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 99 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 |
 | 100 | [Fresh](https://open.spotify.com/track/35L49nXqs85DEZ9AuWdTsV) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Dumb Days](https://open.spotify.com/album/0lu1cJqBxKjJ3yECblnCCy) | 4:10 |
 
-Snapshot ID: `MTY0OTYzOTAxNiwwMDAwMDAwMDkyNzc2YjUwZjAzZGE0MmYxZWQzNmM3MTNmMjQzMmI2`
+Snapshot ID: `MTY0OTcyNTMzMywwMDAwMDAwMDkyNzc2YjUwZjAzZGE0MmYxZWQzNmM3MTNmMjQzMmI2`

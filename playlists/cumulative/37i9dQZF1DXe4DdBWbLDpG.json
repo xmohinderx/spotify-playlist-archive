@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "M\u00fasica original + batallas de algunos de los mejores gallos. Foto: WOS",
-  "name": "Batalla de los Gallos",
+  "description": "Revive las mejores batallas + m\u00fasica original de los gallos Foto: Aczino",
+  "name": "Red Bull Batalla",
   "published_playlist_ids": [
     "0czRm1bZ5YA9YxDSXYTnLg"
   ],
@@ -503,6 +503,24 @@
       "duration_ms": 194952,
       "name": "Edici\u00f3n Limitada",
       "url": "https://open.spotify.com/track/2H6O43eTlj6egjWasfsB13"
+    },
+    {
+      "album": {
+        "name": "El G.O.A.T.",
+        "url": "https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255306,
+      "name": "El G.O.A.T.",
+      "url": "https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO"
     },
     {
       "album": {
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2019-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 545753,
       "name": "SNK vs Cehzar - Final",
       "url": "https://open.spotify.com/track/0Cy2g9T6pXiN8IOWLkYFXX"

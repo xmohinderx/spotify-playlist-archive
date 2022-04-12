@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6JJBnsLRONu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6JJBnsLRONu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JJBnsLRONu)
 
-### The Frontier
+### [The Frontier](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
 
 > Pushing the boundaries of instrumental Folk and Americana.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZqbnP2e1SEM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZqbnP2e1SEM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqbnP2e1SEM)
 
-### Island Anthems
+### [Island Anthems](https://open.spotify.com/playlist/2XKOagCBnk79SrhGVVglPo)
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 

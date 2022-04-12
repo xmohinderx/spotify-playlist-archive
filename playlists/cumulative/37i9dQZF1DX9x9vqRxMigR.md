@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9x9vqRxMigR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9x9vqRxMigR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9x9vqRxMigR)
 
-### Folk Unlocked 2021
+### [Folk Unlocked 2021](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 > Explore the year's showcasing artists\. Public showcase tickets available at <a href="https://www.eventbrite.com/e/folk\-unlocked\-virtual\-showcases\-public\-access\-tickets\-129353276131">folk.org/showcasedonation</a>
 

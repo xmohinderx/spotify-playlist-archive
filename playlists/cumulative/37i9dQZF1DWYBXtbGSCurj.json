@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 153230,
       "name": "Faixa Rosa (feat. Mc Carol)",
       "url": "https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf"
@@ -2074,6 +2074,24 @@
     },
     {
       "album": {
+        "name": "LEGO",
+        "url": "https://open.spotify.com/album/6WKEiUJP8w1DiGPioPV5tW"
+      },
+      "artists": [
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "LEGO",
+      "url": "https://open.spotify.com/track/0w8qTS5ZNeB7kDOIyUyzNt"
+    },
+    {
+      "album": {
         "name": "Lendas",
         "url": "https://open.spotify.com/album/285U3Ge4LWoqdQPBN4ICY7"
       },
@@ -2265,6 +2283,36 @@
       "duration_ms": 199691,
       "name": "Longe dos Falsos",
       "url": "https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH"
+    },
+    {
+      "album": {
+        "name": "Luisa Sonza",
+        "url": "https://open.spotify.com/album/7DKaKvHaWIr1jsQOT5csOq"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "DatBoyTwnty",
+          "url": "https://open.spotify.com/artist/0akggygiwaeyMsg0yQ13wy"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "Luisa Sonza",
+      "url": "https://open.spotify.com/track/1KTBGSbVagQL2auTnNgmoR"
     },
     {
       "album": {
@@ -3081,7 +3129,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 218552,
       "name": "Orix\u00e1s",
       "url": "https://open.spotify.com/track/6OOXUAJqwZ8LhwgpXdZFKV"
@@ -3305,7 +3353,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 134608,
       "name": "Pinote",
       "url": "https://open.spotify.com/track/2Xhp6saEeIIIEqtt9rLFFM"
@@ -4047,7 +4095,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 196571,
       "name": "Suga Minha Alma",
       "url": "https://open.spotify.com/track/1LCLGlMc2eL65XU2LDGnyq"
@@ -4103,6 +4151,58 @@
       "duration_ms": 240746,
       "name": "SUV",
       "url": "https://open.spotify.com/track/5hnZtQxFxe1wE8MFAkza53"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Bal\u00e3o",
+        "url": "https://open.spotify.com/album/3Vl1YhPUjsTW4c4FbS2QuC"
+      },
+      "artists": [
+        {
+          "name": "Vinta",
+          "url": "https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Tizi Kilates",
+          "url": "https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "S\u00f3 Bal\u00e3o",
+      "url": "https://open.spotify.com/track/3MxIW82KQ6ESXsfPS012ps"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Melhoria",
+        "url": "https://open.spotify.com/album/6wANtceggS1duh3n9Rn4D5"
+      },
+      "artists": [
+        {
+          "name": "YngLu.",
+          "url": "https://open.spotify.com/artist/2PfM7oa1J4LuIEdTrwJ4ZH"
+        },
+        {
+          "name": "Tifli",
+          "url": "https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h"
+        },
+        {
+          "name": "Patrickzaun",
+          "url": "https://open.spotify.com/artist/1jwGYSmc5PZibKTO59H17P"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184067,
+      "name": "S\u00f3 Melhoria",
+      "url": "https://open.spotify.com/track/0ThZimTDpDOcFeh7SbIUZU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > Peak\-time bangers and emerging future hits\. Cover: Arem Ozguc, Jordan Rys, Arman Aydin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,587,232 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,587,309 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

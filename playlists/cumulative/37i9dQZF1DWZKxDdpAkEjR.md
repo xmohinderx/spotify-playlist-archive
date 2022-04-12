@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZKxDdpAkEjR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZKxDdpAkEjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZKxDdpAkEjR)
 
-### Summer Hits \(2\)
+### [Summer Hits \(2\)](https://open.spotify.com/playlist/3XVXu4Zxe1HRKq3lLQGhGA)
 
 > The soundtrack of the Summer 2021.
 

@@ -1290,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Arlequina",
+        "url": "https://open.spotify.com/album/0kB3TWtIvZsCEIDNDzYjfw"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1 Costa",
+          "url": "https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134319,
+      "name": "Arlequina",
+      "url": "https://open.spotify.com/track/5UopFUJV8gWYr6od8KntK4"
+    },
+    {
+      "album": {
         "name": "Armando El Chipi Chipi",
         "url": "https://open.spotify.com/album/5myKtBg7PCrs5i9J5raXjl"
       },

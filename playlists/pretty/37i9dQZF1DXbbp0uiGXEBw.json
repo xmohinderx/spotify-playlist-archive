@@ -1,28 +1,32 @@
 {
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: \u0110\u00f4ng Nhi",
-  "num_followers": 8134,
+  "num_followers": 8156,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIxMTA3NiwwMDAwMDAyODAwMDAwMTdmZmNhM2VlYmEwMDAwMDE3ZmZjOWM1ZmZj",
+  "snapshot_id": "MTY0OTY0NTcxMSwwMDAwMDAyOTAwMDAwMTgwMTY4YmVmZjMwMDAwMDE3ZmZjOWM1ZmZj",
   "tracks": [
     {
       "added_at": "2022-04-06 02:11:16",
       "album": {
-        "name": "Ten On Ten",
-        "url": "https://open.spotify.com/album/7nKT6mGRVlK7P6JZEMIvgX"
+        "name": "The Singer",
+        "url": "https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5"
       },
       "artists": [
         {
           "name": "\u0110\u00f4ng Nhi",
           "url": "https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s"
+        },
+        {
+          "name": "Hu\u1ef3nh Thanh B\u00ecnh",
+          "url": "https://open.spotify.com/artist/3cllIHis9we6lup5Rb3SjT"
         }
       ],
-      "duration_ms": 245161,
-      "name": "Xin loi anh qua phien",
-      "url": "https://open.spotify.com/track/0ZJcKRLc0dZp24G6MkvSnq"
+      "duration_ms": 187706,
+      "name": "C\u00f3 Nh\u1eefng Y\u00eau Th\u01b0\u01a1ng N\u00e0o",
+      "url": "https://open.spotify.com/track/3dqeOJby9bSAZ6Bxo12HFh"
     },
     {
       "added_at": "2022-04-06 02:11:16",
@@ -219,26 +223,6 @@
     {
       "added_at": "2022-04-06 02:11:16",
       "album": {
-        "name": "The Singer",
-        "url": "https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5"
-      },
-      "artists": [
-        {
-          "name": "\u0110\u00f4ng Nhi",
-          "url": "https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s"
-        },
-        {
-          "name": "Hu\u1ef3nh Thanh B\u00ecnh",
-          "url": "https://open.spotify.com/artist/3cllIHis9we6lup5Rb3SjT"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "C\u00f3 Nh\u1eefng Y\u00eau Th\u01b0\u01a1ng N\u00e0o",
-      "url": "https://open.spotify.com/track/3dqeOJby9bSAZ6Bxo12HFh"
-    },
-    {
-      "added_at": "2022-04-06 02:11:16",
-      "album": {
         "name": "Em M\u1edbi L\u00e0 Ng\u01b0\u1eddi Y\u00eau Anh",
         "url": "https://open.spotify.com/album/3MN286Nzodk9pQecwhTIwZ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 200337,
       "name": "Em \u0110\u00e3 C\u00f3 Ng\u01b0\u1eddi M\u1edbi (feat. Ng\u01b0\u1eddi c\u0169)",
       "url": "https://open.spotify.com/track/2BqQ5ZM73pNugfd6NteCPe"
+    },
+    {
+      "added_at": "2022-04-06 02:11:16",
+      "album": {
+        "name": "Ten On Ten",
+        "url": "https://open.spotify.com/album/7nKT6mGRVlK7P6JZEMIvgX"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u00f4ng Nhi",
+          "url": "https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Xin loi anh qua phien",
+      "url": "https://open.spotify.com/track/0ZJcKRLc0dZp24G6MkvSnq"
     },
     {
       "added_at": "2022-04-06 02:11:16",

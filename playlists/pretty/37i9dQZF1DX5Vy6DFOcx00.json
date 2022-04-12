@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 1484108,
+  "num_followers": 1486879,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTYzMTI0MiwwMDAwMDJiZTAwMDAwMTgwMTVhZjJhNWIwMDAwMDE3NWQ0NThjNDIw",
+  "snapshot_id": "MTY0OTcxOTM3MywwMDAwMDJiZjAwMDAwMTgwMWFlZmVlMjAwMDAwMDE3NWQ0NThjNDIw",
   "tracks": [
     {
       "added_at": "2022-04-07 22:00:37",
@@ -71,22 +71,6 @@
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
-        "name": "Birthday Cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Birthday Cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -185,20 +169,20 @@
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
+      "added_at": "2022-04-07 22:00:37",
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+        "name": "Birthday Cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
         }
       ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+      "duration_ms": 205280,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -215,6 +199,26 @@
       "duration_ms": 174253,
       "name": "Ain't Shit",
       "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+    },
+    {
+      "added_at": "2022-04-07 22:00:37",
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Trey Parker",
+          "url": "https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -269,24 +273,20 @@
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
     },
     {
-      "added_at": "2022-04-07 22:00:37",
+      "added_at": "2022-04-08 04:00:00",
       "album": {
-        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Trey Parker",
-          "url": "https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Hug Me",
-      "url": "https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu"
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -339,6 +339,26 @@
       "duration_ms": 194160,
       "name": "Say It Right - Sped Up Remix",
       "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "POLTERGEIST!",
+        "url": "https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+        }
+      ],
+      "duration_ms": 101052,
+      "name": "POLTERGEIST!",
+      "url": "https://open.spotify.com/track/041sluNZwBxTCOuu766eNi"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -407,26 +427,6 @@
       "duration_ms": 202093,
       "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "POLTERGEIST!",
-        "url": "https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
-        }
-      ],
-      "duration_ms": 101052,
-      "name": "POLTERGEIST!",
-      "url": "https://open.spotify.com/track/041sluNZwBxTCOuu766eNi"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -599,6 +599,22 @@
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
+    },
+    {
+      "added_at": "2022-04-11 23:22:53",
+      "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 379226,
+      "name": "Me and Your Mama",
+      "url": "https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -997,22 +1013,6 @@
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
     },
     {
-      "added_at": "2022-04-10 09:54:30",
-      "album": {
-        "name": "RUN IT UP",
-        "url": "https://open.spotify.com/album/4XFMdWMWEh8PLCQq7Nqzgp"
-      },
-      "artists": [
-        {
-          "name": "Lil Bil",
-          "url": "https://open.spotify.com/artist/4oD5y30uMyZmaGRRrfP1ru"
-        }
-      ],
-      "duration_ms": 151463,
-      "name": "RUN IT UP",
-      "url": "https://open.spotify.com/track/6LApARUJR0Yz4nZcHRTqrr"
-    },
-    {
       "added_at": "2022-04-07 22:00:37",
       "album": {
         "name": "Lavender",
@@ -1095,6 +1095,22 @@
       "duration_ms": 221176,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
+    },
+    {
+      "added_at": "2022-04-10 09:54:30",
+      "album": {
+        "name": "RUN IT UP",
+        "url": "https://open.spotify.com/album/4XFMdWMWEh8PLCQq7Nqzgp"
+      },
+      "artists": [
+        {
+          "name": "Lil Bil",
+          "url": "https://open.spotify.com/artist/4oD5y30uMyZmaGRRrfP1ru"
+        }
+      ],
+      "duration_ms": 151463,
+      "name": "RUN IT UP",
+      "url": "https://open.spotify.com/track/6LApARUJR0Yz4nZcHRTqrr"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -1231,26 +1247,6 @@
       "duration_ms": 181960,
       "name": "The Other Woman",
       "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
-        "name": "Lil 1 DTE",
-        "url": "https://open.spotify.com/album/5evN4fZuIY8KvbyufENWCh"
-      },
-      "artists": [
-        {
-          "name": "Lil 1 DTE",
-          "url": "https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Homixide (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/4uu4CC1L13Q8ndvnXpud1J"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -1487,42 +1483,6 @@
     {
       "added_at": "2022-04-07 22:00:37",
       "album": {
-        "name": "Turning Red (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
-      },
-      "artists": [
-        {
-          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
-          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
-        },
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        },
-        {
-          "name": "Finneas O'Connell",
-          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
-        },
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
-          "name": "Topher Ngo",
-          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
-        },
-        {
-          "name": "Grayson Villanueva",
-          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
-        }
-      ],
-      "duration_ms": 160946,
-      "name": "Nobody Like U",
-      "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -1747,22 +1707,6 @@
     {
       "added_at": "2022-04-07 22:00:37",
       "album": {
-        "name": "In My Sins",
-        "url": "https://open.spotify.com/album/4GENTWizn55KM44eriqNq8"
-      },
-      "artists": [
-        {
-          "name": "Jx.Zero",
-          "url": "https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d"
-        }
-      ],
-      "duration_ms": 152450,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0"
       },
@@ -1823,22 +1767,6 @@
       "duration_ms": 201432,
       "name": "High Enough - Slowed",
       "url": "https://open.spotify.com/track/5JXOF1rt31rT07luk5wFE6"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -1907,26 +1835,6 @@
       "duration_ms": 154424,
       "name": "No Idea",
       "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2022-04-07 22:00:37",
@@ -2135,22 +2043,6 @@
     {
       "added_at": "2022-04-07 22:00:37",
       "album": {
-        "name": "The World of Studio Ghibli",
-        "url": "https://open.spotify.com/album/49lcv6t0GsJVxcoD8hjgPp"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Howl's Moving Castle - Merry Go Round of Life",
-      "url": "https://open.spotify.com/track/1SH0BnKkEtLh8IcZnci79y"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -2231,22 +2123,6 @@
     {
       "added_at": "2022-04-07 22:00:37",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Blue World",
-      "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
         "name": "Close Eyes",
         "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
       },
@@ -2263,22 +2139,6 @@
     {
       "added_at": "2022-04-07 22:00:37",
       "album": {
-        "name": "Hands All Over (Revised International Standard version)",
-        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/0RZyUsKfiC7MtiGKatCtGc"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
         "name": "Love Angel Music Baby",
         "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
@@ -2291,42 +2151,6 @@
       "duration_ms": 264920,
       "name": "Luxurious",
       "url": "https://open.spotify.com/track/69xZrRwScYMhlCMcxrF958"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Loveeeeeee Song",
-      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
-    },
-    {
-      "added_at": "2022-04-07 22:00:37",
-      "album": {
-        "name": "Are You That Somebody",
-        "url": "https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Are You That Somebody",
-      "url": "https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5"
     },
     {
       "added_at": "2022-04-07 22:00:37",

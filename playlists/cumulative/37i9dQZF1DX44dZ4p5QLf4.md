@@ -2,7 +2,7 @@
 
 ### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
-> A blend of new songs and new artists in the neo\-soul space\. Cover: Robert Glasper
+> A blend of new songs and new artists in the neo\-soul space\. Cover: Syd
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

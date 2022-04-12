@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lm1ZiObdc3.md) - [plain]
 
 > Classical tunes to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,648 likes - 39 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,772 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lm1ZiObdc3.md) - [plain]
 | 35 | [An die Musik, D\. 547 \- Arr\. for Arpeggione and Piano](https://open.spotify.com/track/1UTNZ9xdanKM24spfy2Fhb) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anne Gastinel](https://open.spotify.com/artist/5MODxzUZOCkd6YRLMH5RVC), [Claire Désert](https://open.spotify.com/artist/0ekU4rxJFrjDFLfOawba94) | [Schubert: Arpeggione, Sonatina & Lieder Transcriptions](https://open.spotify.com/album/1fnJDydxi4AjEBIm4SlhV9) | 2:06 |
 | 36 | [Concerto No\. 4 in E\-Flat Major, K.495: III\. Rondo\. Allegro Vivace](https://open.spotify.com/track/5Wawc2UZ2scEbF8sm8t5uq) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Felix Klieser](https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z), [Camerata Salzburg](https://open.spotify.com/artist/2YVKCFWKG6JdDHKYvbEljE) | [Mozart: Horn Concertos 1\-4](https://open.spotify.com/album/17WVuakdcWAj6lH4Tu7sj3) | 3:58 |
 | 37 | [Schumann: Widmung, Op\. 25 No\. 1 \(Arr\. Liszt, S\. 566a\)](https://open.spotify.com/track/5U7T2widXE5MqoQ6dmi3O9) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O) | [Love and Death \- Widmung \(Liebeslied\)](https://open.spotify.com/album/2BoNvLXV5QNSKpRc8hps7Z) | 3:59 |
-| 38 | [Les Beautés Du Diable](https://open.spotify.com/track/3lQqKbNGT0tmrzfCAmjPOd) | [François Dompierre](https://open.spotify.com/artist/2uWe5rPyeH6MtgtSGA13yX), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq) | [Infernal Violins](https://open.spotify.com/album/2v85F1IkOIWKoIjsJ6DrB4) | 3:15 |
-| 39 | [Violin Concerto in B\-Flat Major, Op\. 10 No\. 1: I\. Allegro](https://open.spotify.com/track/3bN2YUUhmGlZaOVlysacUN) | [Jean\-Marie Leclair](https://open.spotify.com/artist/6DJC9GGdjEH4CiaAeqAysE), [Leila Schayegh](https://open.spotify.com/artist/0hrfpDvoTYp0b2twzElWy1), [La Cetra Barockorchester Basel](https://open.spotify.com/artist/3SBobIYWVxMS0WKKyWcSY1) | [Leclair: Violin Concertos, Vol\. 2](https://open.spotify.com/album/46J0BMxREy9dKSv37jp7Wx) | 4:59 |
+| 38 | [Lucio Silla, K\. 135: Overture, Pt\. 1\. Andante](https://open.spotify.com/track/1WZ4Uto2DmKn2t9oZy2LiF) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Orchestra da Camera Fiorentina](https://open.spotify.com/artist/6Gpp97J33tkrQ8g8A0kx1B), [Giuseppe Lanzetta](https://open.spotify.com/artist/5fvF0JmVowf90YXfo09jLu) | [Classical Music for Studying](https://open.spotify.com/album/0tNPSm31cxa5fmXUZyn5UJ) | 2:47 |
+| 39 | [Les Beautés Du Diable](https://open.spotify.com/track/3lQqKbNGT0tmrzfCAmjPOd) | [François Dompierre](https://open.spotify.com/artist/2uWe5rPyeH6MtgtSGA13yX), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq) | [Infernal Violins](https://open.spotify.com/album/2v85F1IkOIWKoIjsJ6DrB4) | 3:15 |
+| 40 | [Violin Concerto in B\-Flat Major, Op\. 10 No\. 1: I\. Allegro](https://open.spotify.com/track/3bN2YUUhmGlZaOVlysacUN) | [Jean\-Marie Leclair](https://open.spotify.com/artist/6DJC9GGdjEH4CiaAeqAysE), [Leila Schayegh](https://open.spotify.com/artist/0hrfpDvoTYp0b2twzElWy1), [La Cetra Barockorchester Basel](https://open.spotify.com/artist/3SBobIYWVxMS0WKKyWcSY1) | [Leclair: Violin Concertos, Vol\. 2](https://open.spotify.com/album/46J0BMxREy9dKSv37jp7Wx) | 4:59 |
 
-Snapshot ID: `MTY0Mzk0NzIwMCwwMDAwMDAxOTAwMDAwMTdlYzJlMzhlOWEwMDAwMDE3ZGQ4NDkzY2Nm`
+Snapshot ID: `MTY0OTY3OTQ3MywwMDAwMDAxYTAwMDAwMTgwMTg4ZjFkMDMwMDAwMDE3ZGQ4NDkzY2Nm`

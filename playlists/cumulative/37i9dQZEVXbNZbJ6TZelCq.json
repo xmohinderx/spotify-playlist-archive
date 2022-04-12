@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$aMAN",
+        "url": "https://open.spotify.com/album/5vodMk0vdgVhCy6ReoCmTF"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61714,
+      "name": "$aMAN",
+      "url": "https://open.spotify.com/track/6Q5PGWKWR2u4WjO1CX8I5r"
+    },
+    {
+      "album": {
         "name": "CORDIAL",
         "url": "https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm"
       },
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 176699,
       "name": "60 De Zile",
       "url": "https://open.spotify.com/track/5ymFsfuMVDuG43ksIqCohv"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 209715,
       "name": "Dragostea Ta",
       "url": "https://open.spotify.com/track/2ZhMraqx6eOMFMb9gtzkCj"
@@ -7685,7 +7703,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -11101,7 +11119,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 219424,
       "name": "Tabara",
       "url": "https://open.spotify.com/track/738G1vrNGeyXxJXxGo1CRj"

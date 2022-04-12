@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE5MI4mMuii.md) - [plain]
 
 > Time to put on your best dancing shoes \- the jukebox is on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,128 likes - 78 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,193 likes - 78 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE5MI4mMuii.md) - [plain]
 | 77 | [Swing The Mood](https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c) | [Jive Bunny and the Mastermixers](https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo) | [Jive Bunny And The Mastermixers The Biggest Party On The Planet](https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP) | 4:19 |
 | 78 | [Blue Suede Shoes](https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc) | 2:14 |
 
-Snapshot ID: `MTY0OTYzODU4NSwwMDAwMDAwMDIxZWRhNTZiN2JkOTVjMTQxYjU4ZDMwYTY0NzhiMTU5`
+Snapshot ID: `MTY0OTcyNDg1MiwwMDAwMDAwMDIxZWRhNTZiN2JkOTVjMTQxYjU4ZDMwYTY0NzhiMTU5`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXajkNVL0LazE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajkNVL0LazE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajkNVL0LazE)
 
-### 00s Indie Folk
+### [00s Indie Folk](https://open.spotify.com/playlist/7oAJosHP5U7Gjb4MjQ0A6m)
 
 > Indie folk that defined the 2000s.
 

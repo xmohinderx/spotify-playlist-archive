@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaSYtampkg5n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaSYtampkg5n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaSYtampkg5n)
 
-### Pure Sunshine
+### [Pure Sunshine](https://open.spotify.com/playlist/41r1TwzS2DsY8J0laGzpi0)
 
 > Sheer joy for sunny days in 50 old and new African jams.
 

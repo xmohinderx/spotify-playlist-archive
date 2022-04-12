@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 373000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
@@ -2318,6 +2318,24 @@
     },
     {
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -2887,6 +2905,32 @@
       "duration_ms": 205055,
       "name": "I Got Summer on My Mind",
       "url": "https://open.spotify.com/track/2vQ5HpRpn8S2qlrZbLsaFr"
+    },
+    {
+      "album": {
+        "name": "I Got Summer On My Mind",
+        "url": "https://open.spotify.com/album/0rbiUuCxVSrIHy8h5hi1Qc"
+      },
+      "artists": [
+        {
+          "name": "KYRIEL",
+          "url": "https://open.spotify.com/artist/57J0ZiS1EASDICsEENIZVU"
+        },
+        {
+          "name": "Corda2k",
+          "url": "https://open.spotify.com/artist/5rwrU19j9Ha9WY6TcjwEJ3"
+        },
+        {
+          "name": "Chowa",
+          "url": "https://open.spotify.com/artist/75HAVYuxOsKBdFAuhRZ2rC"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205194,
+      "name": "I Got Summer On My Mind",
+      "url": "https://open.spotify.com/track/5ED64bioK8Xc8DjKr0Orxa"
     },
     {
       "album": {
@@ -4063,7 +4107,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 160520,
       "name": "MY BAG",
       "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
@@ -5459,7 +5503,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 142280,
       "name": "Super Urus",
       "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
@@ -6485,7 +6529,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-12",
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
