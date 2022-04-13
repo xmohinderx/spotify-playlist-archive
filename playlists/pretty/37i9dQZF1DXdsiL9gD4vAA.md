@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Let these contemplative couplets take you away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,442 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,461 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jal Bhar De](https://open.spotify.com/track/3trMcrv75BKmVVS45moplw) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder](https://open.spotify.com/artist/0LeUpBwj8bn5l7YR5RNK3R) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 4:23 |
-| 2 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 |
-| 3 | [Para Para Hua](https://open.spotify.com/track/6cSrBzC2LM0KjsxRI83mik) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 3:48 |
-| 4 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 |
-| 5 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 |
+| 2 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 |
+| 3 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 |
+| 4 | [Para Para Hua](https://open.spotify.com/track/6cSrBzC2LM0KjsxRI83mik) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 3:48 |
+| 5 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 |
 | 6 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 |
 | 7 | [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 |
 | 8 | [Koi Yeh Kaise Bataye](https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 49 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 |
 | 50 | [Teri Yaad..\. Yaad..\. Yaad](https://open.spotify.com/track/744tf6znd3SFZf7y2emIL7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Kathin Hai Raah Guzar: Ghazals Hits By Ghulam Ali](https://open.spotify.com/album/5uPIBx7ElnjhQxKDQhgiVn) | 8:09 |
 
-Snapshot ID: `MTY0ODM3NjAyMywwMDAwMDAxMjAwMDAwMTdmY2FkZTA5NzMwMDAwMDE3MGE0ZjRkMGM0`
+Snapshot ID: `MTY0OTc0NzU4NCwwMDAwMDAxMzAwMDAwMTgwMWM5ZTY0NzgwMDAwMDE3MGE0ZjRkMGM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZPNS2aXuN4.md) - [plain]
 
 > An introduction to the music of Bartok, Hungary's greatest composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,279 likes - 60 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,290 likes - 60 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

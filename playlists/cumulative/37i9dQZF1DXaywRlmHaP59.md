@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abel B Waet Zeina](https://open.spotify.com/track/0iJzaRfXxHBleAjc0mBwLG) | [Nabil Khoury](https://open.spotify.com/artist/0HWlNY6flg2BLJMgu7hefR) | [Abel B Waet Zeina](https://open.spotify.com/album/0wOaTL1FCOdcyn1wonSqJk) | 3:18 | 2021-09-10 |  |
+| [Abel B Waet Zeina](https://open.spotify.com/track/0iJzaRfXxHBleAjc0mBwLG) | [Nabil Khoury](https://open.spotify.com/artist/0HWlNY6flg2BLJMgu7hefR) | [Abel B Waet Zeina](https://open.spotify.com/album/0wOaTL1FCOdcyn1wonSqJk) | 3:18 | 2021-09-10 | 2022-04-13 |
 | [Akher Marra](https://open.spotify.com/track/4c0daCFlOpjg7umacfD90X) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akher Marra](https://open.spotify.com/album/3IvcuGjnbpBnFITqEnM48t) | 4:09 | 2021-09-10 |  |
 | [Akidi](https://open.spotify.com/track/2vxqCirk1P2X5ZdwnWX0Mt) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akidi](https://open.spotify.com/album/1ZCdgTD2L27ZyeWG9JpUsQ) | 3:28 | 2021-09-10 |  |
 | [Akrab Chakhes](https://open.spotify.com/track/6BNoktQeQbGasv1QdbLrH0) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [Akrab Chakhes](https://open.spotify.com/album/3HrfuIuppioPOPh4NS9bED) | 3:29 | 2021-09-10 |  |
@@ -30,6 +30,7 @@
 | [Ishtaktilak Wallah](https://open.spotify.com/track/1zPzRQQhhpZLSBQfss1kMZ) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Ishtaktilak Wallah](https://open.spotify.com/album/2vkUC79BiGoHfHvRFeGjXz) | 2:18 | 2021-09-10 |  |
 | [Jayi Twadaani](https://open.spotify.com/track/4nXaJZ44cYmrqw3wEcLO0P) | [Michel Azzi](https://open.spotify.com/artist/0OGecBiSJW5Bqnx76w3uQC) | [Jayi Twadaani](https://open.spotify.com/album/7BK4jT9WCvrh6QxVcikKFA) | 3:43 | 2021-09-10 |  |
 | [Kelon Ye3ni Kelon](https://open.spotify.com/track/5Nm6fLUqjlezBbWdiFzXtR) | [Siba Band](https://open.spotify.com/artist/2Vw08vHBOkjNobnhfvWOp5) | [Kelon Ye3ni Kelon](https://open.spotify.com/album/5TkCFp70S3kdp40H23M0pp) | 3:03 | 2021-09-10 |  |
+| [Kena Mbareh](https://open.spotify.com/track/6eP94cdmJTegkGwsgJSjEV) | [Moeen Shreif](https://open.spotify.com/artist/1EKUd22YubzgCoqFpGKLra), [Ayman Reda](https://open.spotify.com/artist/5NkJNj758E7b5cOe7LDONy) | [Kena Mbareh](https://open.spotify.com/album/4iAUKFGbNeiVqZhSnyq8Fu) | 4:19 | 2022-04-12 |  |
 | [Kholis El Haki](https://open.spotify.com/track/3nCwArP9i2vxO0mjp72RDO) | [Nicolas Chalhoub](https://open.spotify.com/artist/0rBsrmamReDOZGGUgCmpm9) | [Kholis El Haki](https://open.spotify.com/album/5H6pL8myl7hA3JmOF1exQv) | 4:15 | 2021-09-10 |  |
 | [Khserna Baad](https://open.spotify.com/track/2yfVl1v7wf54k9bOAY9mjd) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj), [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Khserna Baad](https://open.spotify.com/album/1dPEbDDxEC6GU5u7B9zlqE) | 3:07 | 2021-09-10 |  |
 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2021-09-10 |  |

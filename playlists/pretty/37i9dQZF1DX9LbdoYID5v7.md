@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > The pop leaning side of 2000s indie\. Cover: Phoenix
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,991 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,170 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 74 | [The Cave](https://open.spotify.com/track/5tV7QNSURiLd8trSLrZahV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9) | 3:38 |
 | 75 | [Bandages](https://open.spotify.com/track/3D4NfLvG99xCEZnL6MHZ84) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Make Up The Breakdown](https://open.spotify.com/album/6MN4QYFWo1cLuZRiv2sedC) | 3:32 |
 
-Snapshot ID: `MTY0OTczNzQ5OSwwMDAwMDAwMDM5YjJkMGFiZTYxZGM4ZmI2MmE1ZDI2NWYxMzMyNWZl`
+Snapshot ID: `MTY0OTgxMTkyNCwwMDAwMDAwMDM5YjJkMGFiZTYxZGM4ZmI2MmE1ZDI2NWYxMzMyNWZl`

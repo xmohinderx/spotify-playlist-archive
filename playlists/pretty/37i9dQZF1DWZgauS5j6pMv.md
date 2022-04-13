@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,991 likes - 93 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,120 likes - 93 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

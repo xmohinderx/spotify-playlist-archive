@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 198281,
       "name": "Pir\u00e2mide Social - Spotify Singles",
       "url": "https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj"
@@ -1489,6 +1489,18 @@
         {
           "name": "Sabotage",
           "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Tejo Damasceno",
+          "url": "https://open.spotify.com/artist/1E6ZKfQ04BdPiDCk0cwZS0"
+        },
+        {
+          "name": "Daniel Ganjaman",
+          "url": "https://open.spotify.com/artist/3NlKFt1ZE1pkpH0CpYDDqK"
+        },
+        {
+          "name": "Sapotone",
+          "url": "https://open.spotify.com/artist/3ElDRIh7MBTOuD9IQRgcRd"
         }
       ],
       "date_added": "2022-04-08",
@@ -1773,6 +1785,36 @@
       "duration_ms": 264827,
       "name": "Sigo na F\u00e9 do Pai",
       "url": "https://open.spotify.com/track/7zcQ56JRoNd4JAwGKcrxiZ"
+    },
+    {
+      "album": {
+        "name": "Coisas Que Eu S\u00f3 Falaria Brincando",
+        "url": "https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291882,
+      "name": "Sitio do Tio Harry",
+      "url": "https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28"
     },
     {
       "album": {

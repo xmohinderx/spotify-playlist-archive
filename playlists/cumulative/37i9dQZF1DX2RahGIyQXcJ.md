@@ -2,7 +2,7 @@
 
 ### [Desi Hip Hop](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
 
-> Featuring today's dopest Desi MCs from across the globe\. Cover: Shubh
+> Featuring today's dopest Desi MCs from across the globe\. Cover: Emiway Bantai
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

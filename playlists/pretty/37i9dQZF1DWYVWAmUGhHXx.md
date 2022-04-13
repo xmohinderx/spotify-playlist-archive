@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > Ritmos latinos para encender la llama de la pasión.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,215 likes - 73 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,328 likes - 73 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 72 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 |
 | 73 | [La Colegiala](https://open.spotify.com/track/0GDWfiGkJsArr9mNYjfMa1) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 |
 
-Snapshot ID: `MTY0OTczNzIwMCwwMDAwMDAwMGMzZjY4ZTMwMThiYzFjOGViMjNkNzM3YmFlZjkxMzM0`
+Snapshot ID: `MTY0OTgxMTU0NCwwMDAwMDAwMGMzZjY4ZTMwMThiYzFjOGViMjNkNzM3YmFlZjkxMzM0`

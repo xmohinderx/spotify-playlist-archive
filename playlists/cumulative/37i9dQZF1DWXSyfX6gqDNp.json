@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226886,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ"
+    },
+    {
+      "album": {
         "name": "Comme il faut",
         "url": "https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz"
       },
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 262695,
       "name": "In The Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/6E1m3l49ocTr2gKzl3lFvT"

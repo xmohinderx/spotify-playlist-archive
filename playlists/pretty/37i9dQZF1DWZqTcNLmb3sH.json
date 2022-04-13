@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 24126,
+  "num_followers": 24182,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTI0MzQ2MSwwMDAwMDE2NjAwMDAwMTdmZmU5MjE3ZjIwMDAwMDE3ZmFkNDkzNmEz",
+  "snapshot_id": "MTY0OTc0NTkwNywwMDAwMDE2NzAwMDAwMTgwMWM4NGNlMDQwMDAwMDE3ZmFkNDkzNmEz",
   "tracks": [
     {
       "added_at": "2022-03-21 08:01:45",
@@ -45,24 +45,20 @@
       "url": "https://open.spotify.com/track/5nMaVLV3or4siALAwTQYD0"
     },
     {
-      "added_at": "2022-03-11 13:38:34",
+      "added_at": "2022-04-12 06:45:07",
       "album": {
-        "name": "Salaam Soldier (From \"James - Kannada\")",
-        "url": "https://open.spotify.com/album/4uVTOLHzHXFboW8COx4RRu"
+        "name": "Dhikkara Ninage Devare (From \"James - Kannada\")",
+        "url": "https://open.spotify.com/album/1rzztSE58KV2EFAbbfuwJ1"
       },
       "artists": [
         {
           "name": "Charan Raj",
           "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
         }
       ],
-      "duration_ms": 196700,
-      "name": "Salaam Soldier (From \"James - Kannada\")",
-      "url": "https://open.spotify.com/track/7xceseyyaE9PY2A0VbYxuZ"
+      "duration_ms": 212626,
+      "name": "Dhikkara Ninage Devare (From \"James - Kannada\")",
+      "url": "https://open.spotify.com/track/0G7zNElFN13iZsbGgq6Z37"
     },
     {
       "added_at": "2022-04-06 10:31:59",
@@ -135,6 +131,26 @@
       "duration_ms": 135844,
       "name": "Teaser Theme (From \"K.G.F Chapter 2\")",
       "url": "https://open.spotify.com/track/2d7mZkTatdeb4tcnZjGyxi"
+    },
+    {
+      "added_at": "2022-03-11 13:38:34",
+      "album": {
+        "name": "Salaam Soldier (From \"James - Kannada\")",
+        "url": "https://open.spotify.com/album/4uVTOLHzHXFboW8COx4RRu"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 196700,
+      "name": "Salaam Soldier (From \"James - Kannada\")",
+      "url": "https://open.spotify.com/track/7xceseyyaE9PY2A0VbYxuZ"
     },
     {
       "added_at": "2022-04-06 11:11:01",

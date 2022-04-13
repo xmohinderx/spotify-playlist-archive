@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,335 likes - 200 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,477 likes - 200 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Mala Suerte](https://open.spotify.com/track/2W7dARwEvM6Wpzm2iwQqKC) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [10 De Coleccion](https://open.spotify.com/album/2O7jjxB4hcts359JvnybOC) | 4:25 |
 | 200 | [Me Quedo Aquí Abajo](https://open.spotify.com/track/5Y8Lc8JeIWIEUlW7r0kTZO) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Singles](https://open.spotify.com/album/4gOzJcJDu87NyiPO6XarzA) | 4:29 |
 
-Snapshot ID: `MTY0OTczNzMxMiwwMDAwMDAwMGEyYjY4M2JhNDkwNzVlOGQ4MDUwMDA5NDY3ODM0Y2Nk`
+Snapshot ID: `MTY0OTgxMTY3OSwwMDAwMDAwMGEyYjY4M2JhNDkwNzVlOGQ4MDUwMDA5NDY3ODM0Y2Nk`

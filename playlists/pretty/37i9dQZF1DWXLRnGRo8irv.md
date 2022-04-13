@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: Seori\(서리\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,171 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,172 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 20 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 |
 | 21 | [memeM](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) | 2:52 |
 | 22 | [Pretty Psycho](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) | 3:10 |
-| 23 | [Make me feel!](https://open.spotify.com/track/64ojad09qp9Mt9xNKCWEWH) | [Lee Hye X Lymm](https://open.spotify.com/artist/2O5Nq8XeeXegtOKeu79cf8) | [Make me feel!](https://open.spotify.com/album/7GIVFy7nmKIUcxOYNGgVEl) | 3:09 |
+| 23 | [Make me feel!](https://open.spotify.com/track/64ojad09qp9Mt9xNKCWEWH) | [Lee hye](https://open.spotify.com/artist/18JKxGd7OvFcqoCndS2Fij), [Lymm](https://open.spotify.com/artist/2vdHMbE6Khis97mPeSAbdl) | [Make me feel!](https://open.spotify.com/album/7GIVFy7nmKIUcxOYNGgVEl) | 3:09 |
 | 24 | [XXHOLIC \- English Version](https://open.spotify.com/track/2eWDem4sLM2sxl2uc3KwI4) | [Lee hye](https://open.spotify.com/artist/18JKxGd7OvFcqoCndS2Fij) | [XXHOLIC](https://open.spotify.com/album/6RfhrvvLrWlVP0atltTDnu) | 3:16 |
 | 25 | [Star](https://open.spotify.com/track/0UcaDVU5jKXZXv2BfgMO56) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Star](https://open.spotify.com/album/61haIPm5s5cfRCgqkbGKJ2) | 4:05 |
 | 26 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |

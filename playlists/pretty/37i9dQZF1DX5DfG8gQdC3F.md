@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: bbno$
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,420 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,104 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 78 | [On My Mind](https://open.spotify.com/track/2N0xFVUUEheGO0IYT2HjFK) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q), [Guest Who](https://open.spotify.com/artist/1KNQdt0U3TqZUUPvAAwyk3) | [On My Mind](https://open.spotify.com/album/2Vaugk0RWHLMVh1c6DgS8X) | 3:25 |
 | 79 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 |
 | 80 | [Supposed To Be](https://open.spotify.com/track/0GTbfwPBpAJ8B4Dpw5Rwka) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [Supposed To Be](https://open.spotify.com/album/1jMFIViRO10jYNe5KEC9cG) | 4:46 |
-| 81 | [Young Folks](https://open.spotify.com/track/3mu7xOY7p9EWiCI9BTMMwo) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [LEØN TARØ](https://open.spotify.com/artist/5HVKC3GlAn6yAREU3xiKPb), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Young Folks](https://open.spotify.com/album/05hjJ8cKyRfrn1DJLCsvv8) | 3:09 |
+| 81 | [Young Folks](https://open.spotify.com/track/3mu7xOY7p9EWiCI9BTMMwo) | [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [LEØN TARØ](https://open.spotify.com/artist/5HVKC3GlAn6yAREU3xiKPb), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Young Folks](https://open.spotify.com/album/05hjJ8cKyRfrn1DJLCsvv8) | 3:09 |
 | 82 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 |
 | 83 | [Make Me Sad](https://open.spotify.com/track/4QXEMoGDlbkoWSXCc0xfDb) | [Marcus James](https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Make Me Sad](https://open.spotify.com/album/5BHr9XeTUPwBE4ByKKUEA2) | 3:20 |
 | 84 | [Our World](https://open.spotify.com/track/1XwN7nOPkZpH1ScNWDAQZz) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Our World](https://open.spotify.com/album/3K9XyoRSNqgFkksxKLxycX) | 4:09 |

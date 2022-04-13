@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Electronic, orchestral and ambient music to awaken your imagination.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,151 likes - 32 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,231 likes - 32 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

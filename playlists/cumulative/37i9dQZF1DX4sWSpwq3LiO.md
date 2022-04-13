@@ -2,7 +2,7 @@
 
 ### [Peaceful Piano](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
 
-> Relax and indulge with beautiful piano pieces
+> Relax and indulge with beautiful piano pieces.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. En portada: Los Panchos
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,399 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,524 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Tú me acostumbraste](https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [100th Birthday Celebration](https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf) | 2:43 |
 | 100 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
 
-Snapshot ID: `MTY0OTczNzMxMywwMDAwMDAwMDYyMWVkOTc1NjFiMjdkOTYwZDBhYjEzYWYyNWU1ZWEz`
+Snapshot ID: `MTY0OTgxMTY4MCwwMDAwMDAwMDYyMWVkOTc1NjFiMjdkOTYwZDBhYjEzYWYyNWU1ZWEz`

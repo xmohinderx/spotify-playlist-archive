@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Pelé MilFlows, Malcolm VL
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,767 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,852 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 3 | [Insônia 2](https://open.spotify.com/track/7tITqCiDuMqKfWhibaF8V7) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Insônia 2](https://open.spotify.com/album/5pOhKRO8Ul0eyBzMGviWHU) | 4:27 |
 | 4 | [Sitio do Tio Harry](https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 4:51 |
 | 5 | [Outro Patamar](https://open.spotify.com/track/2857Zdt1A03QnnkhGXC1hP) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc) | [Outro Patamar](https://open.spotify.com/album/7KH6ZeR3Iwnv9Uh9qIukBZ) | 3:45 |
-| 6 | [Quem Viver Verá](https://open.spotify.com/track/2j37LqkQiiHaQJUZg47EZK) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [Originals Demo \(2002\)](https://open.spotify.com/album/2x69XpqSzD26qXeLqakcKZ) | 3:25 |
+| 6 | [Quem Viver Verá](https://open.spotify.com/track/2j37LqkQiiHaQJUZg47EZK) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Tejo Damasceno](https://open.spotify.com/artist/1E6ZKfQ04BdPiDCk0cwZS0), [Daniel Ganjaman](https://open.spotify.com/artist/3NlKFt1ZE1pkpH0CpYDDqK), [Sapotone](https://open.spotify.com/artist/3ElDRIh7MBTOuD9IQRgcRd) | [Originals Demo \(2002\)](https://open.spotify.com/album/2x69XpqSzD26qXeLqakcKZ) | 3:25 |
 | 7 | [Lágrimas](https://open.spotify.com/track/3PWfXDkLIqfbTdEyv812za) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 2:57 |
 | 8 | [Auge](https://open.spotify.com/track/5BHhDHzCekouUAt8uKw0yO) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Auge](https://open.spotify.com/album/4TWnzgPdh5X7MjePqSR1gV) | 2:23 |
 | 9 | [Ponta da Leste](https://open.spotify.com/track/6NuozwQmxLdblaztz2f0EW) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Ponta da Leste](https://open.spotify.com/album/5FMZw2zU7v8G1PNSo3WGWy) | 2:22 |

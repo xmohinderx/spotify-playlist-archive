@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,718 likes - 238 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,915 likes - 238 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 9 | [Rhythm Is A Dancer](https://open.spotify.com/track/6GDJDe3I7yHq4rPDTfuJMj) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [Rhythm Is A Dancer](https://open.spotify.com/album/2i95t3UAKol4EK43kP2CsQ) | 2:27 |
 | 10 | [Tell It To My Heart](https://open.spotify.com/track/6vtMbzF2Sf4MZUBSm9QcfL) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN), [Megan Brands](https://open.spotify.com/artist/6WpxpY67c3tPxHouatk7TM) | [Tell It To My Heart](https://open.spotify.com/album/158QDsMeUN3EgcTxHAuaF2) | 3:08 |
 | 11 | [Don't Stop Movin'](https://open.spotify.com/track/5lc7Fkqt3GdHbM8F77CJ1E) | [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Don’t Stop Movin’](https://open.spotify.com/album/2PFGnH4cnaZFay0b5pEJi0) | 2:38 |
-| 12 | [Young Folks](https://open.spotify.com/track/3mu7xOY7p9EWiCI9BTMMwo) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [LEØN TARØ](https://open.spotify.com/artist/5HVKC3GlAn6yAREU3xiKPb), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Young Folks](https://open.spotify.com/album/05hjJ8cKyRfrn1DJLCsvv8) | 3:09 |
+| 12 | [Young Folks](https://open.spotify.com/track/3mu7xOY7p9EWiCI9BTMMwo) | [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [LEØN TARØ](https://open.spotify.com/artist/5HVKC3GlAn6yAREU3xiKPb), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Young Folks](https://open.spotify.com/album/05hjJ8cKyRfrn1DJLCsvv8) | 3:09 |
 | 13 | [Bette Davis Eyes](https://open.spotify.com/track/3EvFpQWu8rHgcVj07IgIVU) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [Bette Davis Eyes](https://open.spotify.com/album/013qC49DCJHQsEIHGEHdM3) | 2:30 |
 | 14 | [Discovery Channel](https://open.spotify.com/track/1yKoZULYTinUhojFeatKQc) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Robin Novaku](https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Discovery Channel](https://open.spotify.com/album/4ya77jLzOQ5wX4Y3vnJfui) | 2:09 |
 | 15 | [Disturbia](https://open.spotify.com/track/5bin6N8h625agTTxyKphK6) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [stay:us](https://open.spotify.com/artist/698f11Z5HHN4S9VHdNV4is) | [Disturbia](https://open.spotify.com/album/2JQXlqicEYuVyNl3Y8bCjR) | 2:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Rêve
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,869 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,871 likes - 48 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 27 | [Surround Me](https://open.spotify.com/track/2VpT2mgMMGOgWsLve3FXQI) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Surround Me](https://open.spotify.com/album/7coxHNA9sfn6xEkTF1IbxW) | 3:37 |
 | 28 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 |
 | 29 | [the other side](https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [the other side](https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr) | 3:03 |
-| 30 | [COMING IN DIFFERENT](https://open.spotify.com/track/2mMVuFeBmY319d4zERWLn1) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [COMING IN DIFFERENT](https://open.spotify.com/album/5WR2XQBrtovXiAneMZdvVs) | 2:01 |
-| 31 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 |
-| 32 | [User Friendly](https://open.spotify.com/track/32gWU0LAJPlyOS6WfezGIi) | [Ann@lise](https://open.spotify.com/artist/1JQiDKAjs1L29s18Uttcuo) | [Welcome to the Sh!tshow](https://open.spotify.com/album/2Vsw8KGaynxd91AathnhRH) | 3:05 |
-| 33 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Aaron Paris](https://open.spotify.com/artist/71zpxFNyq4h7rNXjpl9eJi) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 |
-| 34 | [bully](https://open.spotify.com/track/3rbIlyqJdMW9wHJGk6odRM) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [bully](https://open.spotify.com/album/4ZonIu4QqCVTFG5eLXBsO3) | 2:30 |
-| 35 | [Something Else](https://open.spotify.com/track/64LRuZiztfxL4o3IPXvYqo) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Something Else](https://open.spotify.com/album/1335ZraXDbHNdiknfgItJ5) | 3:18 |
-| 36 | [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 |
-| 37 | [Too Deep](https://open.spotify.com/track/3qOYmmCabW28q5QQJvac42) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Too Deep](https://open.spotify.com/album/00hxzABSuhHgM4fkrBX8rn) | 2:52 |
-| 38 | [Parmi toutes ces lettres](https://open.spotify.com/track/2y34aoUbz62cjyL4oovJBH) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Parmi toutes ces lettres](https://open.spotify.com/album/6oL5B5fpjc9nQmZohxDfWV) | 3:06 |
-| 39 | [Rich](https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Just for Now](https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy) | 1:47 |
-| 40 | [Fronteo](https://open.spotify.com/track/1ehox98B211or5FMIDQMaF) | [Aiona Santana](https://open.spotify.com/artist/66GmDoscCxEGpqdJdgLUOD) | [Fronteo](https://open.spotify.com/album/6Tnd47ca9H7Y7dto7CW1ZT) | 2:55 |
-| 41 | [Love At First Song](https://open.spotify.com/track/5dsczwZSemU34OYuik2knd) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Love At First Song](https://open.spotify.com/album/5lpdNa3vhbSdcgN2OrA4NC) | 3:23 |
-| 42 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 |
-| 43 | [Don't Text](https://open.spotify.com/track/6y50JldxkXm0prq58sOCfc) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m) | [Don't Text](https://open.spotify.com/album/2iurH8YEYfOW9ng7hddqDE) | 1:50 |
-| 44 | [too much too soon](https://open.spotify.com/track/2JJoUZhEMlUHEWYLMA58yY) | [Cindë](https://open.spotify.com/artist/6UmkItoyk0QIRoEQGMhEYz) | [too much too soon](https://open.spotify.com/album/2CHJagCyB48dhJhgh594ZK) | 3:43 |
-| 45 | [I Lied](https://open.spotify.com/track/5heAqtCudxZOs7YBKlx6Xn) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [I Lied](https://open.spotify.com/album/57y3Aq08ImuZe2hXgCIQlz) | 3:23 |
-| 46 | [NOVOCAINE](https://open.spotify.com/track/5bwAuezZuH8if87TRA3yXV) | [Saya](https://open.spotify.com/artist/5M60ox9b9C4RSPOYYQLTae) | [NOVOCAINE](https://open.spotify.com/album/4PCqUVy5R8moBntbO6IygJ) | 3:10 |
-| 47 | [The Old Me](https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Therapy](https://open.spotify.com/album/6mzxiA4wsf2FEDjWaIUjuo) | 2:56 |
-| 48 | [Austin](https://open.spotify.com/track/6RFQBcrraKx3GUXu4ayKKj) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Austin](https://open.spotify.com/album/5CBpyircV2bzCTCMZb9POV) | 3:22 |
-| 49 | [Pourquoi](https://open.spotify.com/track/7kpXh1DGtvwlKGxxJZawKL) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Pourquoi](https://open.spotify.com/album/7octbaqwUajyIePHuALwAi) | 3:14 |
-| 50 | [Animals](https://open.spotify.com/track/71NICVYcw7O7dGTZCxTuPr) | [Dakota North](https://open.spotify.com/artist/3jSpqzexmaN7fAcJ0R7pNx) | [Animals](https://open.spotify.com/album/0P6sKlV8Vt9WmKYEheKfHt) | 2:46 |
+| 30 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 |
+| 31 | [User Friendly](https://open.spotify.com/track/32gWU0LAJPlyOS6WfezGIi) | [Ann@lise](https://open.spotify.com/artist/1JQiDKAjs1L29s18Uttcuo) | [Welcome to the Sh!tshow](https://open.spotify.com/album/2Vsw8KGaynxd91AathnhRH) | 3:05 |
+| 32 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Aaron Paris](https://open.spotify.com/artist/71zpxFNyq4h7rNXjpl9eJi) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 |
+| 33 | [bully](https://open.spotify.com/track/3rbIlyqJdMW9wHJGk6odRM) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [bully](https://open.spotify.com/album/4ZonIu4QqCVTFG5eLXBsO3) | 2:30 |
+| 34 | [Something Else](https://open.spotify.com/track/64LRuZiztfxL4o3IPXvYqo) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Something Else](https://open.spotify.com/album/1335ZraXDbHNdiknfgItJ5) | 3:18 |
+| 35 | [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 |
+| 36 | [Too Deep](https://open.spotify.com/track/3qOYmmCabW28q5QQJvac42) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Too Deep](https://open.spotify.com/album/00hxzABSuhHgM4fkrBX8rn) | 2:52 |
+| 37 | [Parmi toutes ces lettres](https://open.spotify.com/track/2y34aoUbz62cjyL4oovJBH) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Parmi toutes ces lettres](https://open.spotify.com/album/6oL5B5fpjc9nQmZohxDfWV) | 3:06 |
+| 38 | [Rich](https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Just for Now](https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy) | 1:47 |
+| 39 | [Fronteo](https://open.spotify.com/track/1ehox98B211or5FMIDQMaF) | [Aiona Santana](https://open.spotify.com/artist/66GmDoscCxEGpqdJdgLUOD) | [Fronteo](https://open.spotify.com/album/6Tnd47ca9H7Y7dto7CW1ZT) | 2:55 |
+| 40 | [Love At First Song](https://open.spotify.com/track/5dsczwZSemU34OYuik2knd) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Love At First Song](https://open.spotify.com/album/5lpdNa3vhbSdcgN2OrA4NC) | 3:23 |
+| 41 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 |
+| 42 | [Don't Text](https://open.spotify.com/track/6y50JldxkXm0prq58sOCfc) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m) | [Don't Text](https://open.spotify.com/album/2iurH8YEYfOW9ng7hddqDE) | 1:50 |
+| 43 | [too much too soon](https://open.spotify.com/track/2JJoUZhEMlUHEWYLMA58yY) | [Cindë](https://open.spotify.com/artist/6UmkItoyk0QIRoEQGMhEYz) | [too much too soon](https://open.spotify.com/album/2CHJagCyB48dhJhgh594ZK) | 3:43 |
+| 44 | [I Lied](https://open.spotify.com/track/5heAqtCudxZOs7YBKlx6Xn) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [I Lied](https://open.spotify.com/album/57y3Aq08ImuZe2hXgCIQlz) | 3:23 |
+| 45 | [NOVOCAINE](https://open.spotify.com/track/5bwAuezZuH8if87TRA3yXV) | [Saya](https://open.spotify.com/artist/5M60ox9b9C4RSPOYYQLTae) | [NOVOCAINE](https://open.spotify.com/album/4PCqUVy5R8moBntbO6IygJ) | 3:10 |
+| 46 | [The Old Me](https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Therapy](https://open.spotify.com/album/6mzxiA4wsf2FEDjWaIUjuo) | 2:56 |
+| 47 | [Pourquoi](https://open.spotify.com/track/7kpXh1DGtvwlKGxxJZawKL) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Pourquoi](https://open.spotify.com/album/7octbaqwUajyIePHuALwAi) | 3:14 |
+| 48 | [Animals](https://open.spotify.com/track/71NICVYcw7O7dGTZCxTuPr) | [Dakota North](https://open.spotify.com/artist/3jSpqzexmaN7fAcJ0R7pNx) | [Animals](https://open.spotify.com/album/0P6sKlV8Vt9WmKYEheKfHt) | 2:46 |
 
-Snapshot ID: `MTY0OTIxNzYwMCwwMDAwMDAxYTAwMDAwMTdmZmQwNzdhNzQwMDAwMDE3ZmZhZjdhOWE2`
+Snapshot ID: `MTY0OTc4MDQxMywwMDAwMDAxYjAwMDAwMTgwMWU5MzUzZGIwMDAwMDE3ZmZhZjdhOWE2`

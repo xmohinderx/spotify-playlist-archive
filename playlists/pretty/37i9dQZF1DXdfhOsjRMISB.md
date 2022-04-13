@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 
 > Country music to accompany you on the open road\. Cover: Keith Urban
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,358 likes - 150 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,452 likes - 150 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 | 149 | [Blame It On You](https://open.spotify.com/track/2CwG4BXIlGmmYLDmDvwMTH) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [9](https://open.spotify.com/album/2f0DzdU6QbWtZqSlN7s1s5) | 3:35 |
 | 150 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
 
-Snapshot ID: `MTY0OTczNzYxNywwMDAwMDAwMDViOGRkZDFhYTc1MmU2NjI5OWU2NWZiMzZlNTI0Yzk5`
+Snapshot ID: `MTY0OTgxMjA2NiwwMDAwMDAwMDViOGRkZDFhYTc1MmU2NjI5OWU2NWZiMzZlNTI0Yzk5`

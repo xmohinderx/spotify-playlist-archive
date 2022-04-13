@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexis Ffrench
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,348 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,493 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 42 | [Le Printemps du Coeur\- Mille Fleurs](https://open.spotify.com/track/4DxFFvrVrf4poZ8ruol5vB) | [Coen Molenaar](https://open.spotify.com/artist/3mDU9n4gGcXFkQ2Cby05aO), [Myllèrí](https://open.spotify.com/artist/7FBXThPwYvJ0kdeQagzYKj) | [Le Printemps du Coeur\- Mille Fleurs](https://open.spotify.com/album/6zklZ7XgktP7bHbSeTaa7g) | 2:08 |
 | 43 | [When I Survey the Wondrous Cross \(Desc\. George Guest\)](https://open.spotify.com/track/1MMRtY0q243L32eijbWCQd) | [Edward Miller](https://open.spotify.com/artist/5luKNZhCJ9pHMGtQ8js2Zr), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Daniel Hyde](https://open.spotify.com/artist/7H6L3HVFT9SDD9TK50x21K), [Paul Greally](https://open.spotify.com/artist/3ALRs9eiuBEw1rAvNS1y9v) | [When I Survey the Wondrous Cross \(Desc\. George Guest\)](https://open.spotify.com/album/7aF00qxmxNUeWh7PLbFyGU) | 3:20 |
 | 44 | [First Day of My Life](https://open.spotify.com/track/4EpJ1AFc10g3bQBTbyDJ0R) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [First Day of My Life](https://open.spotify.com/album/0jVouYdLnErQsLMBdAFdFg) | 2:54 |
-| 45 | [A Different Idea of Love](https://open.spotify.com/track/4xRJj9EzyIOe0eNJLBkquI) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Different Idea of Love](https://open.spotify.com/album/5ha3BxWg1WPlPTCA3eI9On) | 3:55 |
+| 45 | [A Different Idea of Love](https://open.spotify.com/track/4xRJj9EzyIOe0eNJLBkquI) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [A Different Idea of Love](https://open.spotify.com/album/5ha3BxWg1WPlPTCA3eI9On) | 3:55 |
 | 46 | [7 Fantasien, Op\. 116: No\. 1 in D Minor, Capriccio](https://open.spotify.com/track/6DOK9ElaZB1pXpN5ovIiVB) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Lorenzo Cossi](https://open.spotify.com/artist/5k2vb264irtCpzISTKf2d2) | [Brahms: Piano Pieces, Opp\. 116\-119](https://open.spotify.com/album/4tFvkmHSPyoPxxD1Hhnyhj) | 2:43 |
 | 47 | [Premier Quatuor, Op\. 25: II\. Sérénité](https://open.spotify.com/track/1iGTTt2LyfGXCvzdRahKVd) | [Charlotte Sohy](https://open.spotify.com/artist/4brUQ3dIhPHDJCHX2fQVDp), [Quatuor Hermès](https://open.spotify.com/artist/35yZPYj8R7dLchbsAR05rP) | [Charlotte Sohy: Chamber Music](https://open.spotify.com/album/08vHiEcca2u2RBuNCPDr3a) | 8:12 |
 | 48 | [Die lustige Witwe, Act II: Vilja\-Lied](https://open.spotify.com/track/1tDFfd5n7Lzg88YmvMDIq4) | [Franz Lehár](https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT), [Rachel Willis\-Sørensen](https://open.spotify.com/artist/6d7cONrz4hznFy3VJArZhZ), [Frederic Chaslin](https://open.spotify.com/artist/4M3CGOlfN5uLPmu3OMlkKr), [Orchestra del Teatro Carlo Felice di Genova](https://open.spotify.com/artist/0HGKpf8EmiiROoPIz2xTeo) | [Rachel](https://open.spotify.com/album/18wdK552SDdIf5TAfoaGrX) | 6:08 |

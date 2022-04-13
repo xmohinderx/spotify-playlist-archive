@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,017 likes - 30 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,042 likes - 30 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 29 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
 | 30 | [12](https://open.spotify.com/track/67Ds7V9onIBlErmkSWFtt6) | [Benevolent](https://open.spotify.com/artist/5wuGLHfb2t7AIIg5AgEMDZ) | [The Wave](https://open.spotify.com/album/3lTr2YYIhsGuvbZI4ZDwGY) | 5:20 |
 
-Snapshot ID: `MTY0OTczNzU0MywwMDAwMDAwMDliNmE4NGI5ZTlhZmM1NzFmNDQwNTdjNjgxNzFmZTUy`
+Snapshot ID: `MTY0OTgxMTk3NSwwMDAwMDAwMDliNmE4NGI5ZTlhZmM1NzFmNDQwNTdjNjgxNzFmZTUy`

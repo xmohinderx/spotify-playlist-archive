@@ -2,7 +2,7 @@
 
 ### [Red Bull Batalla](https://open.spotify.com/playlist/0czRm1bZ5YA9YxDSXYTnLg)
 
-> Revive las mejores batallas + música original de los gallos Foto: Aczino
+> Revive las mejores batallas, y descubre música original de los participantes\. Foto: Aczino
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

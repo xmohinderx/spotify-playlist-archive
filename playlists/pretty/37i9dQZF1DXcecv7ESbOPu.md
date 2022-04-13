@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,354 likes - 104 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,349 likes - 104 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 50 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/7Hjo1HHU4AEnYc509tRhjK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Will Be Better Than You At Letting Go](https://open.spotify.com/album/5Zhiw61adJtxcJtoILhQ2b) | 2:46 |
 | 51 | [Ahead Of Myself](https://open.spotify.com/track/037JwzyNWFVwRXch4dQZe8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/76HALzXD0uNnzfCvAQhirP) | 2:54 |
 | 52 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 |
-| 53 | [Canyon](https://open.spotify.com/track/4Rt8dAYRr0ofi9cPodqjKM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv), [Lars Winnerbäck](https://open.spotify.com/artist/10HXtJuaibtVOjUo1tTApb) | [Canyon](https://open.spotify.com/album/5ej7HHVxtcxjPxx3cljKge) | 4:05 |
+| 53 | [Canyon](https://open.spotify.com/track/4Rt8dAYRr0ofi9cPodqjKM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Canyon](https://open.spotify.com/album/5ej7HHVxtcxjPxx3cljKge) | 4:05 |
 | 54 | [The One](https://open.spotify.com/track/5hDctg4VdsZeRKOf7TYgQH) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [The One](https://open.spotify.com/album/0669Sij7Wo7ce66AhvDS2A) | 3:08 |
 | 55 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 |
 | 56 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C) | 3:08 |

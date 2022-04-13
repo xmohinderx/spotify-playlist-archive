@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > Maybe it's punk, maybe it's not\. Cover: Jean Dawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,286 likes - 88 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,317 likes - 88 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

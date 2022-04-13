@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,193 likes - 46 songs - 2 hr 44 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,196 likes - 46 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shake The System](https://open.spotify.com/track/3JCcoxU0MnbSA020N9Vi7m) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Is There Anybody Out There](https://open.spotify.com/album/7Krdabty2ZZ7sYeLmXA5ms) | 3:15 |
 | 2 | [Is There Anybody Out There](https://open.spotify.com/track/1R7z1ECtLCOHKRNUp4mTK7) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Is There Anybody Out There](https://open.spotify.com/album/7Krdabty2ZZ7sYeLmXA5ms) | 3:03 |
 | 3 | [Phantom](https://open.spotify.com/track/7fGeTLKVm9BY8KsqSl6Ke1) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Phantom](https://open.spotify.com/album/1lHmOYabioXFvBI5WnV7HU) | 3:44 |
-| 4 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 |
-| 5 | [Guilty \- Kid Drama Remix](https://open.spotify.com/track/3E3BxEaJub80EI97LeJNHt) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Kid Drama](https://open.spotify.com/artist/7w6o2HAvNOSFJqkSeVRsf4) | [Taygeta Code Remixes, Pt\. 2](https://open.spotify.com/album/40VS5gb1v9lAZZ6lBNqDaV) | 6:07 |
+| 4 | [Guilty \- Kid Drama Remix](https://open.spotify.com/track/3E3BxEaJub80EI97LeJNHt) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Kid Drama](https://open.spotify.com/artist/7w6o2HAvNOSFJqkSeVRsf4) | [Taygeta Code Remixes, Pt\. 2](https://open.spotify.com/album/40VS5gb1v9lAZZ6lBNqDaV) | 6:07 |
+| 5 | [Gamelan Trip](https://open.spotify.com/track/0mrV0IUYZMMhaXktEhcB5P) | [Mr\. Ours](https://open.spotify.com/artist/6EwwuYy64C4VABaiPhjkcP) | [Ethnic Parallel](https://open.spotify.com/album/5jsbvybLuIG4UZa0245lHJ) | 3:30 |
 | 6 | [can't seem to](https://open.spotify.com/track/0p5tCrpBT4WLfwQ2lLMXGb) | [s\. lyre](https://open.spotify.com/artist/0Ic21br4X3YoE8wZgwTK0f) | [can't seem to](https://open.spotify.com/album/3PEZDg9PyJcJg3Dir5Hlu5) | 2:29 |
-| 7 | [Error](https://open.spotify.com/track/2NrU98Z2W1rEvLRumC2DI9) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl) | [Digital Death EP](https://open.spotify.com/album/1jCTirgapx94wqkkHZR1rv) | 2:44 |
-| 8 | [Flip The Switch](https://open.spotify.com/track/49IK6z6NG2bdRzxksEjxUN) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Flip The Switch](https://open.spotify.com/album/2ZxLmPMahxbTcVjR50Pciw) | 3:26 |
-| 9 | [Luminous \- gishfang Remix](https://open.spotify.com/track/1d9AeaczLLIZ1w28k8fRAn) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv) | [Luminous \(gishfang Remix\)](https://open.spotify.com/album/3lMhNcUS3WqDwhJ1HS6LYJ) | 2:16 |
-| 10 | [E C L I P S E](https://open.spotify.com/track/2xL5JtHtAwQGGpIGDsSNEO) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [E C L I P S E](https://open.spotify.com/album/4VrYoXadX5jb0QyfQ4ox9p) | 3:55 |
-| 11 | [Grail](https://open.spotify.com/track/3zlSU3Z3jkbV4fpdWV4f3s) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Different Worlds](https://open.spotify.com/album/5GGo4YuhLGlGpLTMVSkrVl) | 3:33 |
+| 7 | [Flip The Switch](https://open.spotify.com/track/49IK6z6NG2bdRzxksEjxUN) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Flip The Switch](https://open.spotify.com/album/2ZxLmPMahxbTcVjR50Pciw) | 3:26 |
+| 8 | [Luminous \- gishfang Remix](https://open.spotify.com/track/1d9AeaczLLIZ1w28k8fRAn) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv) | [Luminous \(gishfang Remix\)](https://open.spotify.com/album/3lMhNcUS3WqDwhJ1HS6LYJ) | 2:16 |
+| 9 | [E C L I P S E](https://open.spotify.com/track/2xL5JtHtAwQGGpIGDsSNEO) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [E C L I P S E](https://open.spotify.com/album/4VrYoXadX5jb0QyfQ4ox9p) | 3:55 |
+| 10 | [Grail](https://open.spotify.com/track/3zlSU3Z3jkbV4fpdWV4f3s) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Different Worlds](https://open.spotify.com/album/5GGo4YuhLGlGpLTMVSkrVl) | 3:33 |
+| 11 | [Magick is Real](https://open.spotify.com/track/601Km68r5hhVzwG1oKnX2z) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Mind & Body](https://open.spotify.com/album/3U9B2nWzZpMT8vWoVv1VSx) | 3:34 |
 | 12 | [Lotus Flower \(Special Edition\)](https://open.spotify.com/track/4KtJs4bQl9Sq5ZiOEBD7Ro) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Lotus Flower / with Dimond Saints](https://open.spotify.com/album/2ZMc6j04fiWOKP2Vkm43DI) | 3:32 |
 | 13 | [Primordial](https://open.spotify.com/track/0jUfkKKW5k0iiDhZXoFOIF) | [TRIGO](https://open.spotify.com/artist/2xxDgHjkU5vPSqBTEKv0Xh) | [Primal](https://open.spotify.com/album/03mpXrOPDF7JcTlDGkjBHN) | 3:53 |
 | 14 | [Slide](https://open.spotify.com/track/1h6tC7XbCucYdyQfN0XYUV) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Slide](https://open.spotify.com/album/3C5RtRaPP3SGNPdtMwC6Mw) | 2:48 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 45 | [Keep It Low \(INZO Remix\)](https://open.spotify.com/track/5q0qSXk9GZHsyrovYMogO8) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Leisure Season Vol\. 1 Remixed](https://open.spotify.com/album/6O0GS8bjHDCx7ZavQ2fqrH) | 2:37 |
 | 46 | [Find Your Way](https://open.spotify.com/track/05xa7uXssS5nOaI5rk3Syb) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Marenn Sukie](https://open.spotify.com/artist/0iCikBx8HjlrYP10DDxzle) | [Find Your Way / This Time](https://open.spotify.com/album/6V6ATIIr6w7PYmsPd5WNpk) | 7:02 |
 
-Snapshot ID: `MTgzNyxjMTYyNThkMGI2NzUwZDcxYzFjNWFjZWVlMzI2MGMzNDAzYTllYTRl`
+Snapshot ID: `MTg0MywxMjJiYWM5MDhlMmIzNWFhNzE5ZTExOTY1ZmI4MTY1ZWE0YWRhOWIz`

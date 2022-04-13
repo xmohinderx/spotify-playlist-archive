@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Patrick Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,757 likes - 99 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,777 likes - 99 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 98 | [Relentless](https://open.spotify.com/track/0DSGx4kH1WwwtLMVzsiQMS) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/7lRqCEA3dm00WmZ5cIKBKF) | 4:34 |
 | 99 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 |
 
-Snapshot ID: `MTY0OTQwMTM0MSwwMDAwMDZjMzAwMDAwMTgwMDdmYjI0YTQwMDAwMDE3ZmUzNDdiOWI5`
+Snapshot ID: `MTY0OTc4NjA0NywwMDAwMDZjNDAwMDAwMTgwMWVlOTRhNzkwMDAwMDE3ZmUzNDdiOWI5`

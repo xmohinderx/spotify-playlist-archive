@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,856 likes - 48 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,920 likes - 48 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 16 | [Wayn Rakom Ya Hbabi](https://open.spotify.com/track/3CbMZTL6zwiA6r5BvGnMZE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Wayn Rakom Ya Hbabi](https://open.spotify.com/album/6Z14yylSHkwvie7957DHtB) | 5:09 |
 | 17 | [Nti Daout El Kheir](https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Nti Daout El Kheir](https://open.spotify.com/album/6vSuWq4upKblZk9JPISsrX) | 4:25 |
 | 18 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
-| 19 | [Corona](https://open.spotify.com/track/3FBCyQCJMBPzAMdtY6c1bP) | [Cheb Bello](https://open.spotify.com/artist/5Io1qNaw4iKM3t7kHgCsBo), [Dj Moulay](https://open.spotify.com/artist/0R6gQLKvEeXjcFzZ04jce7) | [Corona](https://open.spotify.com/album/3xrsu3KBqRQ15AlDIjGkyL) | 4:02 |
+| 19 | [Corona](https://open.spotify.com/track/3FBCyQCJMBPzAMdtY6c1bP) | [Cheb Bello](https://open.spotify.com/artist/5Io1qNaw4iKM3t7kHgCsBo), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Corona](https://open.spotify.com/album/3xrsu3KBqRQ15AlDIjGkyL) | 4:02 |
 | 20 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 |
 | 21 | [Khalinahalkom](https://open.spotify.com/track/4aKGsTXCnWaQbizUAzm79Z) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Akil Sghir](https://open.spotify.com/artist/0yY561ap6MKDzXlCf07O4p) | [Khalinahalkom](https://open.spotify.com/album/76nZsAEWzZRo3riJWGigqz) | 4:15 |
 | 22 | [Jarima Iliktrouniya](https://open.spotify.com/track/20tf9xOw4V0y0wHgoLfTE7) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Jarima Iliktrouniya](https://open.spotify.com/album/5SnCFCzvjA7TxYg8KHI7FO) | 4:41 |

@@ -2832,6 +2832,24 @@
     },
     {
       "album": {
+        "name": "Nino",
+        "url": "https://open.spotify.com/album/12iv9VXqpbk8zTormKRAno"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149701,
+      "name": "Nino",
+      "url": "https://open.spotify.com/track/3vkQqaIM82rW6ovsT2Paeg"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },

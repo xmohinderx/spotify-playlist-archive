@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 
 > Essential Alesso originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,463 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,517 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 | 50 | [TOGETHER](https://open.spotify.com/track/0hvOu1yvUgbjNrzXfWVLYS) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [PROGRESSO VOL 2](https://open.spotify.com/album/0SkgI9DVsKoNpkM7JUWaGS) | 3:48 |
 | 51 | [PAYDAY](https://open.spotify.com/track/0yr4DKIedcAD4av7wKzHRO) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:17 |
 
-Snapshot ID: `MTY0OTczNzQ1OCwwMDAwMDAwMGY5ODk2NTc1YTlkNGJlZjkwNjYzYThiMmM5YjVkMDBm`
+Snapshot ID: `MTY0OTgxMTg3MiwwMDAwMDAwMGY5ODk2NTc1YTlkNGJlZjkwNjYzYThiMmM5YjVkMDBm`

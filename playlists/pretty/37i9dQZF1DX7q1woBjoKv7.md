@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover, Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,593 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,595 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 16 | [Carefree](https://open.spotify.com/track/0UfB1oHKwWuBTBAuIZc0V7) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Carefree](https://open.spotify.com/album/0CqaHkcLlm6Q3JQNsF74bg) | 2:59 |
 | 17 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG) | 4:04 |
 | 18 | [either way](https://open.spotify.com/track/13TQobUAsT5SqHxiLZGQN3) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [refresh](https://open.spotify.com/album/6b45ZV5dHPoENrze2EEpVf) | 4:43 |
-| 19 | [Retro Zombie \#4](https://open.spotify.com/track/0CrWtFuGSob8kLDuAnFAa2) | [Brandon](https://open.spotify.com/artist/00DNHDczWrOFDTBJaId8ib) | [Retro Zombie](https://open.spotify.com/album/5LKueJ486LZGJb7BgYirD6) | 0:56 |
+| 19 | [Retro Zombie \#4](https://open.spotify.com/track/0CrWtFuGSob8kLDuAnFAa2) | [Brandon Hunn](https://open.spotify.com/artist/29OBfrKcJru5SG7I8orxr9) | [Retro Zombie](https://open.spotify.com/album/5LKueJ486LZGJb7BgYirD6) | 0:56 |
 | 20 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
 | 21 | [Only Fan \(feat\. RILEY\) \- Remix](https://open.spotify.com/track/0o2yKdD8NUWo6GLSPDlfUl) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [RILEY](https://open.spotify.com/artist/5AKj7LRRQHfYPsCKfsptga) | [Only Fan \(Remix\) \[feat\. RILEY\]](https://open.spotify.com/album/7lzFVUDXLulftl22rqlCOX) | 2:38 |
 | 22 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 |

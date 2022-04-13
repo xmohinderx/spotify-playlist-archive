@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Natalia Lacunza
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,491 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,509 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 42 | [Hoy Que No Estás](https://open.spotify.com/track/6bOwMcT674402cVAVVFSiZ) | [AMANDA](https://open.spotify.com/artist/4JvL8ZzqJ6vtIbk3Wvu3mf) | [Hoy Que No Estás](https://open.spotify.com/album/0GLyBJymZrorb1C3ITs5Qp) | 3:40 |
 | 43 | [No Me Lo Esperaba](https://open.spotify.com/track/5jF1QNdfvfziiqURaep9f8) | [Nerea López](https://open.spotify.com/artist/6Ke4c6HNdStx9BHodZ8FiE) | [No Me Lo Esperaba](https://open.spotify.com/album/3JKUQYINhvY5CXjZyTbLKH) | 3:15 |
 | 44 | [La Cantaora](https://open.spotify.com/track/4MClFfeYF3cU42lFLdee3M) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3), [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [La Cantaora](https://open.spotify.com/album/0Bt1GMCOJRrpRPs9Lj5Wzz) | 3:45 |
-| 45 | [Progesterona](https://open.spotify.com/track/2lN5unpwRpOOCDWHDx0uDZ) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML), [Beth](https://open.spotify.com/artist/6CkxdsUcfqkBviY2N6xsVA) | [Progesterona](https://open.spotify.com/album/5ST4Rd5Sa8D1wgHh6Pf9fn) | 4:26 |
-| 46 | [Mala](https://open.spotify.com/track/7twUdF9klHeyFf6cZgGDpp) | [Alba Moreno](https://open.spotify.com/artist/6kWK8M4vGR9AWnikXxcWLF) | [Mala](https://open.spotify.com/album/2rUrAYxZIjrPoAStzLsMcY) | 2:44 |
-| 47 | [NOCHE OSCURA](https://open.spotify.com/track/2aRJ2TGnLyG14QxOb9HSud) | [María Sánchez](https://open.spotify.com/artist/2cHCcij1RZIHBuVjubs4va) | [NOCHE OSCURA](https://open.spotify.com/album/6lhjnwjCUlSnW38G5Oaa4q) | 3:39 |
-| 48 | [A Media Voz](https://open.spotify.com/track/0YDgHAlCWeW4wcCJ6mgQ5n) | [Tamara Alegre](https://open.spotify.com/artist/4vIEm3E6rNZJODvuos9cYp) | [A Media Voz](https://open.spotify.com/album/5VfQbKYnGmJ1RHffNLwocd) | 3:49 |
+| 45 | [Toy Story](https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Toy Story](https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj) | 2:59 |
+| 46 | [Progesterona](https://open.spotify.com/track/2lN5unpwRpOOCDWHDx0uDZ) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML), [Beth](https://open.spotify.com/artist/6CkxdsUcfqkBviY2N6xsVA) | [Progesterona](https://open.spotify.com/album/5ST4Rd5Sa8D1wgHh6Pf9fn) | 4:26 |
+| 47 | [Mala](https://open.spotify.com/track/7twUdF9klHeyFf6cZgGDpp) | [Alba Moreno](https://open.spotify.com/artist/6kWK8M4vGR9AWnikXxcWLF) | [Mala](https://open.spotify.com/album/2rUrAYxZIjrPoAStzLsMcY) | 2:44 |
+| 48 | [NOCHE OSCURA](https://open.spotify.com/track/2aRJ2TGnLyG14QxOb9HSud) | [María Sánchez](https://open.spotify.com/artist/2cHCcij1RZIHBuVjubs4va) | [NOCHE OSCURA](https://open.spotify.com/album/6lhjnwjCUlSnW38G5Oaa4q) | 3:39 |
 | 49 | [Undo Remake](https://open.spotify.com/track/3GnAtE3YZDifAMLa7cIpvG) | [CARLA](https://open.spotify.com/artist/7p7YeMEkvlFLwiNlm1Zt7C) | [Reflection](https://open.spotify.com/album/7fV4AeO2lb2BJijkucGRTh) | 3:20 |
 | 50 | [Al Amor No Le Conviene](https://open.spotify.com/track/1Gw8p0k4MQZMwq8dqFurAf) | [María José Santiago](https://open.spotify.com/artist/0mZJtmCjJ9xeLA4dlJLQrI) | [40](https://open.spotify.com/album/18ybBQzwHh3iDQniJOEwCV) | 3:56 |
 
-Snapshot ID: `MTY0OTIzOTMzMCwwMDAwMDAxNzAwMDAwMTdmZmU1MzBmMjUwMDAwMDE3ZmU0Y2VhZmFl`
+Snapshot ID: `MTY0OTc3NzExNywwMDAwMDAxODAwMDAwMTgwMWU2MTA5MzIwMDAwMDE3ZmU0Y2VhZmFl`

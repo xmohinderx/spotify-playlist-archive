@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 ### [Desi Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX2RahGIyQXcJ)
 
-> Featuring today's dopest Desi MCs from across the globe\. Cover: Shubh
+> Featuring today's dopest Desi MCs from across the globe\. Cover: Emiway Bantai
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,448 likes - 66 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,471 likes - 66 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 65 | [Freeverse Feast](https://open.spotify.com/track/1ISNANO8jWEHgTUloPhsh0) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Freeverse Feast \(Original\)](https://open.spotify.com/album/7rRmgVxnVZ4sEJxLZLM5hX) | 3:04 |
 | 66 | [Sauce](https://open.spotify.com/track/1mEFsctBXKX6nmashVJ8Gu) | [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [Lit Happu](https://open.spotify.com/artist/0z6H0b4Jvoti5MtOvXQR5l) | [Sauce](https://open.spotify.com/album/5UpqAvXqiliEC9Vwklhwd4) | 3:09 |
 
-Snapshot ID: `MTY0OTMxMzExNiwwMDAwMDBmMzAwMDAwMTgwMDJiOGVmNzAwMDAwMDE3ZTUyMzYxNGM1`
+Snapshot ID: `MTY0OTc0Nzg4NCwwMDAwMDBmNDAwMDAwMTgwMWNhMmY5ZjEwMDAwMDE4MDFjYTI3YjA5`

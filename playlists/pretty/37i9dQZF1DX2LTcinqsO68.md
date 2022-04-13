@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,174,652 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,175,340 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 |
 | 125 | [Bedside Radio](https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Metal Rendez\-Vous](https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw) | 3:19 |
 
-Snapshot ID: `MTY0OTczNzMxMCwwMDAwMDAwMDkwNGU5MWE0NWNmYjg2OGY2NjUyNGQ5Y2I0ODIxZGU0`
+Snapshot ID: `MTY0OTgxMTY3NywwMDAwMDAwMDkwNGU5MWE0NWNmYjg2OGY2NjUyNGQ5Y2I0ODIxZGU0`

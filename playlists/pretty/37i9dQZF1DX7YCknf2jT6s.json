@@ -1,13 +1,49 @@
 {
   "description": "New jazz for open minds. Cover: Gerald Clayton",
-  "num_followers": 806034,
+  "num_followers": 806266,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDFjNzAwMDAwMTdmZTM0OTgzMmYwMDAwMDE3ZmQ2YmI1ODM0",
+  "snapshot_id": "MTY0OTc3MDM1MCwwMDAwMDFjODAwMDAwMTgwMWRmOWM2MTYwMDAwMDE3ZmQ2YmI1ODM0",
   "tracks": [
+    {
+      "added_at": "2022-04-12 13:32:30",
+      "album": {
+        "name": "Quiet Corner",
+        "url": "https://open.spotify.com/album/4NDHroQaoGBFDFq4RMKmmq"
+      },
+      "artists": [
+        {
+          "name": "Xavier Davis",
+          "url": "https://open.spotify.com/artist/2LiJegzrWFHatDw2kFLsc7"
+        }
+      ],
+      "duration_ms": 442000,
+      "name": "Quiet Corner",
+      "url": "https://open.spotify.com/track/6V8Ugj0fS2wG9DGASNLSGK"
+    },
+    {
+      "added_at": "2022-04-12 13:32:30",
+      "album": {
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+      },
+      "artists": [
+        {
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
     {
       "added_at": "2022-04-01 04:02:00",
       "album": {
@@ -31,6 +67,110 @@
       "duration_ms": 340290,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5T3n7Ft1W7HhdEyr5fAFKM"
+    },
+    {
+      "added_at": "2022-04-12 13:32:30",
+      "album": {
+        "name": "Stimuli",
+        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 144469,
+      "name": "Chem Dawg",
+      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Sun of June",
+      "url": "https://open.spotify.com/track/6ql8UeREHiP4vcTbbZXDyC"
+    },
+    {
+      "added_at": "2022-04-12 13:32:30",
+      "album": {
+        "name": "Softly as in a Morning Sunrise",
+        "url": "https://open.spotify.com/album/6edVS6bh3GEWXt1EGznbKG"
+      },
+      "artists": [
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 577782,
+      "name": "Softly as in a Morning Sunrise",
+      "url": "https://open.spotify.com/track/5plonrhghcq2wiznKpDHp5"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "DOXOLOGY (Hope)",
+        "url": "https://open.spotify.com/album/0eNNs9uL23bthBOiHE2M0J"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "DOXOLOGY (Hope)",
+      "url": "https://open.spotify.com/track/1sesgJFnwH4nZ2Hn2Whr8C"
+    },
+    {
+      "added_at": "2022-04-12 13:32:30",
+      "album": {
+        "name": "Bird of Passage",
+        "url": "https://open.spotify.com/album/1nrKhiNrFuverJiIo1zliu"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Fat Hair",
+      "url": "https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP"
+    },
+    {
+      "added_at": "2022-04-12 13:32:30",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "duration_ms": 401440,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/6yOA4oobnVP9wJ53TnI4lA"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -57,36 +197,28 @@
       "url": "https://open.spotify.com/track/3NOffN95JiN3r73JXzg3Vx"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-04-12 13:32:30",
       "album": {
-        "name": "Sun of June",
-        "url": "https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm"
+        "name": "Wave of Interest",
+        "url": "https://open.spotify.com/album/67R0QsEML7HjIug0FRaNPm"
       },
       "artists": [
         {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Sun of June",
-      "url": "https://open.spotify.com/track/6ql8UeREHiP4vcTbbZXDyC"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "DOXOLOGY (Hope)",
-        "url": "https://open.spotify.com/album/0eNNs9uL23bthBOiHE2M0J"
-      },
-      "artists": [
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
         {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
         }
       ],
-      "duration_ms": 239613,
-      "name": "DOXOLOGY (Hope)",
-      "url": "https://open.spotify.com/track/1sesgJFnwH4nZ2Hn2Whr8C"
+      "duration_ms": 224012,
+      "name": "Wave of Interest",
+      "url": "https://open.spotify.com/track/2gYsdI8oB5mHdtXuB0Sh3u"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -193,20 +325,24 @@
       "url": "https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-04-12 13:32:30",
       "album": {
-        "name": "Bells On Sand",
-        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
+        "name": "Tender Love",
+        "url": "https://open.spotify.com/album/1yJMv0eQnnqlkXdtP4tc8w"
       },
       "artists": [
         {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
         }
       ],
-      "duration_ms": 219653,
-      "name": "My Ideal 1",
-      "url": "https://open.spotify.com/track/0N0TlAikYM9i5lphpv04WR"
+      "duration_ms": 133235,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/1FePXz2POgqbRHXyvTaatk"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -259,6 +395,22 @@
       "duration_ms": 308728,
       "name": "Homeroom Crush - Furndware Session",
       "url": "https://open.spotify.com/track/7BAMZ3TnZ19gHmncQkUljP"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Bells On Sand",
+        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "My Ideal 1",
+      "url": "https://open.spotify.com/track/0N0TlAikYM9i5lphpv04WR"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -335,6 +487,22 @@
       "duration_ms": 267213,
       "name": "May The Funk Be With You",
       "url": "https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV"
+    },
+    {
+      "added_at": "2022-04-12 13:32:30",
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
     },
     {
       "added_at": "2022-03-11 18:50:16",
@@ -839,22 +1007,6 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Bluberri",
-        "url": "https://open.spotify.com/album/7x7qo4Ed5RPWUmpsWAHQTE"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 135103,
-      "name": "Bluberri",
-      "url": "https://open.spotify.com/track/208aFcXa7lY6wwHwkhZura"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
         "name": "Soundtrack",
         "url": "https://open.spotify.com/album/0mH3PFoJqnBVaaGruCSjXO"
       },
@@ -1259,22 +1411,6 @@
       "duration_ms": 318464,
       "name": "Fan\u00f8lyng",
       "url": "https://open.spotify.com/track/738PEBfX2XWfUG0ceTKQvT"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0N9ntp4Z6FrDf9rWIR0tyc"
-      },
-      "artists": [
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 381925,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6GEV8VT0VetzFzlGLGYzub"
     },
     {
       "added_at": "2022-03-11 05:01:00",

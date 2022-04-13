@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: La La Love You, RENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,568 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,591 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 4 | [Dopamina](https://open.spotify.com/track/0eSNOJrUXRpm6GjhsAYcab) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Dopamina](https://open.spotify.com/album/1baQOLH2nNC3hOjhsm2vpb) | 3:21 |
 | 5 | [No Hay Futuro](https://open.spotify.com/track/4kcQiQO4Mn5XuSN6QMAL3p) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [No Hay Futuro](https://open.spotify.com/album/1zTpb9sqTEq15oCklInj2b) | 3:29 |
 | 6 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 |
-| 7 | [Aquiles </3](https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Aquiles </3](https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK) | 3:15 |
+| 7 | [aquiles </3](https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [aquiles </3](https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK) | 3:15 |
 | 8 | [Luisa](https://open.spotify.com/track/46yArd7VDfAZxKDGoKgE7Z) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Luisa](https://open.spotify.com/album/41J6vPb5TIgniMbscw4s9w) | 4:09 |
 | 9 | [Ceras rosas](https://open.spotify.com/track/7nfY4G4nryfLd0G5iDTa11) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [Ceras rosas](https://open.spotify.com/album/6RAhScfYKkFRzmUvvsn2NC) | 3:10 |
 | 10 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 20 | [Cielo Gris](https://open.spotify.com/track/17dC8B9K3FEXIBPK0jz2fB) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Cielo Gris](https://open.spotify.com/album/7yaLTQjlZ6d84xJuEbiIXO) | 3:12 |
 | 21 | [Rompo y Tumbo](https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Rompo y Tumbo](https://open.spotify.com/album/17DDV6cMYnnz26zyF2szBE) | 3:17 |
 | 22 | [Huracán](https://open.spotify.com/track/0JSxdsH8gbHfSeSBWln1Sv) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Huracán](https://open.spotify.com/album/6ihDqgMIIGgJSzrim0EVll) | 3:41 |
-| 23 | [Al Revés \- Petite Amie](https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4) | [Charles Spearin](https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb), [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Al Revés \(Petite Amie\)](https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj) | 3:15 |
+| 23 | [Al Revés \- feat\. Petite Amie](https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4) | [Charles Spearin](https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb), [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Al Revés \(feat\. Petite Amie\)](https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj) | 3:15 |
 | 24 | [nostalgia](https://open.spotify.com/track/0t3uKEc44wvDzMsmCPRach) | [AZTRO](https://open.spotify.com/artist/59Mz51MhHOOKjJFsM4cSzU), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [nostalgia](https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2) | 3:15 |
 | 25 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 |
 | 26 | [Sad Kirby :\(](https://open.spotify.com/track/1VZbWHys9ky0YGBUWbcD6p) | [Seiscuerdas](https://open.spotify.com/artist/1B59B61fbQVwFdvlZQ1RWM) | [Sad Kirby :\(](https://open.spotify.com/album/6nu76gHLRkrseVSYh0v13Z) | 2:53 |

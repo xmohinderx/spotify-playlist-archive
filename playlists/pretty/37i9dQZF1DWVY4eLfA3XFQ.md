@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Mark Knight
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,981 likes - 140 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,083 likes - 140 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

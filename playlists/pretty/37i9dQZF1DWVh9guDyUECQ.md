@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Lizzy Parra
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,333 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,408 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 79 | [Dejarme Llevar](https://open.spotify.com/track/3uk8hBCkJTOOPyEJgikqOa) | [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl), [Emma y Mánuel](https://open.spotify.com/artist/2Hp3AiYxGS7PZ2twzxcxGP), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Dejarme Llevar](https://open.spotify.com/album/2fkd1AkzmQqxR2Dis88ffD) | 3:46 |
 | 80 | [Alabao](https://open.spotify.com/track/7keU5IyhwslJHLKQRqQPib) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf), [El Vacile Gang](https://open.spotify.com/artist/5RbfExBOz0etBLpKbvLkS1) | [Alabao](https://open.spotify.com/album/0AF9JmlK90ZXnl7EnyPU6s) | 2:48 |
 
-Snapshot ID: `MTY0OTczNzEyMiwwMDAwMDAwMDI0ZDM1ZmZiNTBkYTNhMjE5NTQ3ODNmOTgyMGNiMWMx`
+Snapshot ID: `MTY0OTgxMTQ0MCwwMDAwMDAwMDI0ZDM1ZmZiNTBkYTNhMjE5NTQ3ODNmOTgyMGNiMWMx`

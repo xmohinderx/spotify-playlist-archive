@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 218346,
       "name": "Arrecotin Arrecotan",
       "url": "https://open.spotify.com/track/0Fhj9gmYf0BR5aHI2TPhfU"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 205333,
       "name": "Ay Que Rico",
       "url": "https://open.spotify.com/track/3BlTWnOYhEitWEEuoExGQq"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 328026,
       "name": "Baby Boogaloo",
       "url": "https://open.spotify.com/track/0ICpJmbN1nZi6LnJtTKcC8"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 167933,
       "name": "Bad Breath",
       "url": "https://open.spotify.com/track/50PULwtJCTv0EjRsP27MDt"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 247480,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf"
@@ -206,6 +206,42 @@
     },
     {
       "album": {
+        "name": "La Plata Swings, Jumps the Charanga",
+        "url": "https://open.spotify.com/album/6vbURtCZ0vIn9nRPOTY2ZG"
+      },
+      "artists": [
+        {
+          "name": "La Plata Sextette",
+          "url": "https://open.spotify.com/artist/03WWStprwg54aetkrwgt6A"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175720,
+      "name": "Cafe Y Pan",
+      "url": "https://open.spotify.com/track/45mfgGJgxmjvsTVml3BxQm"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/5FQdKGugFXC8g9F1twjit1"
+      },
+      "artists": [
+        {
+          "name": "Randy Carlos And His Orchestra",
+          "url": "https://open.spotify.com/artist/6OYs6HlGeG4WSmkJYDFX7Y"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147573,
+      "name": "Cha Cha Cha Con Pachanga",
+      "url": "https://open.spotify.com/track/5vcPjssTjWvB5Fj8GxVl31"
+    },
+    {
+      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -221,7 +257,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
@@ -239,10 +275,28 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 241257,
       "name": "Cisco Kid",
       "url": "https://open.spotify.com/track/2yOmmzUMk6b9KuTNdI5RnP"
+    },
+    {
+      "album": {
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344960,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
     },
     {
       "album": {
@@ -275,7 +329,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 182053,
       "name": "Come and Get It",
       "url": "https://open.spotify.com/track/0Zqpc4C25DtWg7Fmhb0g63"
@@ -297,7 +351,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 323040,
       "name": "Descarga Caliente",
       "url": "https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ"
@@ -333,7 +387,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 158754,
       "name": "El Borracho",
       "url": "https://open.spotify.com/track/5rbhgXOL4AkkMr7A4GU9mJ"
@@ -359,6 +413,24 @@
       "duration_ms": 333280,
       "name": "El Pito (I'll Never Go Back To Georgia)",
       "url": "https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY"
+    },
+    {
+      "album": {
+        "name": "Charanga Moderna",
+        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160115,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
     },
     {
       "album": {
@@ -391,7 +463,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 321120,
       "name": "Eso Se Baila Asi",
       "url": "https://open.spotify.com/track/71pNDcd8132efh1p56PwUP"
@@ -409,10 +481,28 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 242226,
       "name": "Everything's Gonna Change",
       "url": "https://open.spotify.com/track/7qbv1zhuYItEPWqPUnakks"
+    },
+    {
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
     },
     {
       "album": {
@@ -463,7 +553,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 196600,
       "name": "Grazin' In The Grass",
       "url": "https://open.spotify.com/track/039Mx8o4AA0xbVsd99L8FV"
@@ -507,7 +597,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 323400,
       "name": "Guaguanc\u00f3 Triste",
       "url": "https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj"
@@ -565,7 +655,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 265080,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/4nTDxYY9x1qWt4ccPPalDw"
@@ -641,7 +731,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 238053,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf"
@@ -681,7 +771,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 202050,
       "name": "Llegaron Los Bonches",
       "url": "https://open.spotify.com/track/3ngiYxmfg5E6F8iu0o0IVv"
@@ -699,7 +789,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 272253,
       "name": "Lo Atar\u00e1 la Arache",
       "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
@@ -717,7 +807,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 214986,
       "name": "Lookie, Lookie",
       "url": "https://open.spotify.com/track/0xSaQcf3Yhi8AfiRna5OoU"
@@ -735,7 +825,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 247053,
       "name": "Marilu",
       "url": "https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1"
@@ -753,7 +843,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 247053,
       "name": "Marilu",
       "url": "https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K"
@@ -807,7 +897,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 152090,
       "name": "Para Ti Mi Boogaloo",
       "url": "https://open.spotify.com/track/5rBWWgbrC2Wx77o2Nv8OyK"
@@ -912,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "El Barrio",
+        "url": "https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194653,
+      "name": "Que Se Sepa",
+      "url": "https://open.spotify.com/track/3QmiOzBxGmXf0GNzjArrw3"
+    },
+    {
+      "album": {
         "name": "Barretto Power",
         "url": "https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7"
       },
@@ -941,7 +1049,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 255142,
       "name": "Riki Chi",
       "url": "https://open.spotify.com/track/5ZsspDgT5ofnFWvw0hiyLe"
@@ -1125,7 +1233,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
@@ -1154,6 +1262,24 @@
     },
     {
       "album": {
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182240,
+      "name": "We Got Latin Soul",
+      "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
+    },
+    {
+      "album": {
         "name": "Boogaloo '67",
         "url": "https://open.spotify.com/album/1x7WB2bsSYqHHfIQ7NeNyD"
       },
@@ -1165,7 +1291,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 375026,
       "name": "You Gotta Love Me",
       "url": "https://open.spotify.com/track/2G0CLkfLw9TSsKQbnp3aqu"

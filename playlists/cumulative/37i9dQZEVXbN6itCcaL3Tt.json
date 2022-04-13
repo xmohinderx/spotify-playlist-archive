@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 171188,
       "name": "Alf",
       "url": "https://open.spotify.com/track/50ASAzQzkHAZ4oZ9SQRPjQ"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 207933,
       "name": "BAKTERIA",
       "url": "https://open.spotify.com/track/3mp3BeeseDsEITwEWnG2Ro"
@@ -5344,6 +5344,24 @@
     },
     {
       "album": {
+        "name": "Je\u017cyk!",
+        "url": "https://open.spotify.com/album/0NcQmEbIYENQmPjuoZaxHe"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208676,
+      "name": "Je\u017cyk!",
+      "url": "https://open.spotify.com/track/05vIFEbXYpmGOsLgWZVJCX"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
@@ -8265,7 +8283,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 206653,
       "name": "only&one",
       "url": "https://open.spotify.com/track/0grScFe336ZoitXuh1VpUJ"
@@ -8287,7 +8305,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 219521,
       "name": "Origami",
       "url": "https://open.spotify.com/track/3205ZtwMnzMBtr7GQZ1IbH"
@@ -9635,7 +9653,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Prawniczka",
       "url": "https://open.spotify.com/track/0G7hbqnR2l6zW4HwVLw36B"
@@ -10721,7 +10739,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 188566,
       "name": "SKUTE BOBO",
       "url": "https://open.spotify.com/track/4dOkS135hpWHeSP0GSmHb4"
@@ -12063,7 +12081,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 184329,
       "name": "Warsaw Vice",
       "url": "https://open.spotify.com/track/76DT2kqhhx0gxgU8XMld8b"

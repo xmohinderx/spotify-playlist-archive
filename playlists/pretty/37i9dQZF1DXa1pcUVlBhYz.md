@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Kah\-Lo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,046 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,060 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 98 | [Judgement](https://open.spotify.com/track/65CNFUjISyOi08DsvpiUvD) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Judgement](https://open.spotify.com/album/0EugyVMjLUJEtY2ssLl1Ek) | 3:10 |
 | 99 | [Move Your Body](https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Move Your Body](https://open.spotify.com/album/7KrVkLXp05Tn5MoZYVEhop) | 3:16 |
 
-Snapshot ID: `MTY0OTczNzUxOCwwMDAwMDAwMGUzNTM1OWFhOTFhZDk1MzA1ZGZlNzk4ODRhZDc1Nzdj`
+Snapshot ID: `MTY0OTgxMTk0NSwwMDAwMDAwMGUzNTM1OWFhOTFhZDk1MzA1ZGZlNzk4ODRhZDc1Nzdj`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 ### [Peaceful Piano](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO)
 
-> Relax and indulge with beautiful piano pieces
+> Relax and indulge with beautiful piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,489,253 likes - 534 songs - 23 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,490,168 likes - 534 songs - 23 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -543,4 +543,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 533 | [Prends soin de toi](https://open.spotify.com/track/2Fh9R2pniRV3HgCjj61q9S) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Prends soin de toi](https://open.spotify.com/album/7jN0OUbMMlz5qsMif0uyYJ) | 2:29 |
 | 534 | [Pachm](https://open.spotify.com/track/5399qRI8W27gFhEdl0WYST) | [Aenor](https://open.spotify.com/artist/23P5JvLFlmlLNsi9ntziQD) | [Pachm](https://open.spotify.com/album/45TOH3gPycKcDDAnDOtQl2) | 1:52 |
 
-Snapshot ID: `MTY0OTMyOTMyMCwwMDAwMDExZDAwMDAwMTgwMDNiMDMwZWMwMDAwMDE2ZDE1NTk1OTFk`
+Snapshot ID: `MTY0OTc3ODQzNywwMDAwMDEyMzAwMDAwMTgwMWU3NTJjZGMwMDAwMDE2ZDE1NTk1OTFk`

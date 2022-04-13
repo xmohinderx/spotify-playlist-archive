@@ -1,132 +1,32 @@
 {
-  "description": "With Nicole Scherzinger, Cahill, Kat Deluna and more",
-  "num_followers": 143469,
+  "description": "With Skrillex, Todrick Hall, Girls Aloud and more",
+  "num_followers": 143549,
   "original_name": "Lady Gaga Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTczNzYzOSwwMDAwMDAwMGVlYjZjNGM1YTc4YThjZDZiMzI4MDM3M2EwNGZjNGI1",
+  "snapshot_id": "MTY0OTgxMjA5MywwMDAwMDAwMGVlYjZjNGM1YTc4YThjZDZiMzI4MDM3M2EwNGZjNGI1",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Born This Way",
-        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
+        "name": "Bad Romance Remixes",
+        "url": "https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY"
       },
       "artists": [
         {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 320586,
-      "name": "The Edge Of Glory",
-      "url": "https://open.spotify.com/track/0JNdS1n0ifOP25XvhwAMgM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Your Love (Remix) - EP",
-        "url": "https://open.spotify.com/album/4t3GkiayQkFLyIa9adSldR"
-      },
-      "artists": [
-        {
-          "name": "Nicole Scherzinger",
-          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
         },
         {
-          "name": "Cahill",
-          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Your Love - Cahill Radio Remix",
-      "url": "https://open.spotify.com/track/5iJ96bBKJ3MwKadzYP6R1V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INSIDE OUT",
-        "url": "https://open.spotify.com/album/4JI4hl75zZaraeCkKswfjJ"
-      },
-      "artists": [
-        {
-          "name": "Kat Deluna",
-          "url": "https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "PARTY O'CLOCK",
-      "url": "https://open.spotify.com/track/4VdDh6rRBxp4pqCOhJNz5D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken & Beautiful",
-        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 218948,
-      "name": "Broken & Beautiful",
-      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/1ZfTuv9XlWT2CaIsIZPm52"
-        }
-      ],
-      "duration_ms": 63706,
-      "name": "Twelve Notes - Dialogue",
-      "url": "https://open.spotify.com/track/5BIWSuX4Bto9f8xuXhOyJn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Block",
-        "url": "https://open.spotify.com/album/211JuJs35O21gM0xTpp3Pc"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Big Girl Now",
-      "url": "https://open.spotify.com/track/02Yas6SL87iAvA7Fk0ZzRj"
+      "duration_ms": 263066,
+      "name": "Bad Romance - Skrillex Remix",
+      "url": "https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp"
     },
     {
       "added_at": null,
@@ -140,29 +40,9 @@
           "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
         }
       ],
-      "duration_ms": 198461,
-      "name": "RAININ\u2019 FELLAS",
-      "url": "https://open.spotify.com/track/0uIitkDvpD2Pv5mE8P8Ntn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slayyyter",
-        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/5EiwfaQxmwjCyPLZ7i6kxW"
-        }
-      ],
-      "duration_ms": 215729,
-      "name": "BFF",
-      "url": "https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi"
+      "duration_ms": 244761,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/78M3KcOo6yIVBKxSiwG3Gp"
     },
     {
       "added_at": null,
@@ -183,8 +63,76 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Christopher Mintz-Plasse",
+          "url": "https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "CAN'T STOP THE FEELING! - Film Version",
+      "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killer Love",
+        "url": "https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Poison - New Main Version",
+      "url": "https://open.spotify.com/track/0Tyv7iJOV8JD35Vf9lXK54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
       "artists": [
         {
@@ -192,9 +140,49 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 172133,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
+      "duration_ms": 208306,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kitty Girl (feat. The Cast of Rupaul's Drag Race All Stars, Season 3)",
+        "url": "https://open.spotify.com/album/4PHskVcbefR01ps5r8kRWi"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "The Cast of Rupaul's Drag Race All Stars, Season 3",
+          "url": "https://open.spotify.com/artist/6j0a7qU6IlQ174mVZWaTR5"
+        }
+      ],
+      "duration_ms": 195849,
+      "name": "Kitty Girl (feat. The Cast of Rupaul's Drag Race All Stars, Season 3)",
+      "url": "https://open.spotify.com/track/6ecG7zlvn65piigZIjEgFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/7CsCtWIrsixqFJ7p8u63Ny"
+      },
+      "artists": [
+        {
+          "name": "The Saturdays",
+          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+        },
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Work - Cahill Radio Edit",
+      "url": "https://open.spotify.com/track/41Fj1naneVnqsfH2su7wb1"
     },
     {
       "added_at": null,
@@ -211,6 +199,134 @@
       "duration_ms": 263030,
       "name": "Private Life",
       "url": "https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Million Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu"
+      },
+      "artists": [
+        {
+          "name": "Cheryl",
+          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+        }
+      ],
+      "duration_ms": 207975,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born This Way (The Remixes Pt. 1)",
+        "url": "https://open.spotify.com/album/0nBmmEoHvLXNhHDPF3tDKB"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "DJ White Shadow",
+          "url": "https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Born This Way - DJ White Shadow Remix",
+      "url": "https://open.spotify.com/track/5KV1JT9dRfnhsl7CUXiB2d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killer Love",
+        "url": "https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Will Be Loved",
+      "url": "https://open.spotify.com/track/0cSEZqQELE6wPck6FD3x9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living My Life in London (Cast Version)",
+        "url": "https://open.spotify.com/album/2KsU6lh61JQa9P26SvVfng"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "The Cast of RuPaul's Drag Race UK vs The World, Season 1",
+          "url": "https://open.spotify.com/artist/6eT6rQhcXEZFlXokd1oDcI"
+        },
+        {
+          "name": "Markaholic",
+          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
+        }
+      ],
+      "duration_ms": 183070,
+      "name": "Living My Life in London (Cast Version)",
+      "url": "https://open.spotify.com/track/5mQjc9dynP50mkTfLbiuSW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living For The Weekend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ"
+      },
+      "artists": [
+        {
+          "name": "The Saturdays",
+          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Disco Love - Wideboys Radio Edit",
+      "url": "https://open.spotify.com/track/5SC0RGV158d5HDP1kVSH3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slayyyter",
+        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Touch My Body",
+      "url": "https://open.spotify.com/track/7dqczk1nnx8OYIbCSsI1pA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Fun Tonight",
+      "url": "https://open.spotify.com/track/6hyQVqfHFvsJDjcmj4qrHf"
     },
     {
       "added_at": null,
@@ -235,58 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEMULINE",
-        "url": "https://open.spotify.com/album/5HMKe2aSQafz0Oix7nePGT"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        }
-      ],
-      "duration_ms": 244761,
-      "name": "QUEEN",
-      "url": "https://open.spotify.com/track/78M3KcOo6yIVBKxSiwG3Gp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Troubled Paradise",
-        "url": "https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 241632,
-      "name": "Troubled Paradise",
-      "url": "https://open.spotify.com/track/30qNNWs5kUgcviZxOrQRTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Edge Of Glory (The Remixes)",
-        "url": "https://open.spotify.com/album/6RqMmkzx1AYqdO0evOEy38"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 393626,
-      "name": "The Edge Of Glory - Sultan & Ned Shepard Remix",
-      "url": "https://open.spotify.com/track/7y1kZzgznhJToWJLPqiJIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killer Love",
         "url": "https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8"
       },
@@ -296,157 +360,9 @@
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
         }
       ],
-      "duration_ms": 197440,
-      "name": "Don't Hold Your Breath",
-      "url": "https://open.spotify.com/track/7pAq1IXYZpL42HchCminu6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Are You Waiting For?",
-        "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
-      },
-      "artists": [
-        {
-          "name": "The Saturdays",
-          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
-        },
-        {
-          "name": "Barry Stone",
-          "url": "https://open.spotify.com/artist/52OGhgzXGVN0OkNRNiB9dO"
-        },
-        {
-          "name": "Julian Gingell",
-          "url": "https://open.spotify.com/artist/7vpiAC79DcDWB2xrd4YkTI"
-        }
-      ],
-      "duration_ms": 461737,
-      "name": "Greatest Hits Megamix",
-      "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What the Future Holds Pt. 2",
-        "url": "https://open.spotify.com/album/5I78INUIOX0qWryo0hlfFu"
-      },
-      "artists": [
-        {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
-        },
-        {
-          "name": "Michelle Visage",
-          "url": "https://open.spotify.com/artist/3ZL8HZ3aYkOluy6TX9xAgK"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Heartbreak in This City - Single Mix",
-      "url": "https://open.spotify.com/track/4DRQYJgt8hmuNa4spWXYwv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/1ZfTuv9XlWT2CaIsIZPm52"
-        }
-      ],
-      "duration_ms": 42040,
-      "name": "Somewhere Over The Rainbow - Dialogue",
-      "url": "https://open.spotify.com/track/4fIdH1l3SS0qdYRJiHwUnO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coyote Ugly (Dave Aud\u00e9 MegaMix)",
-        "url": "https://open.spotify.com/album/0Kp8UdAga05TcR9uXQEtBR"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        },
-        {
-          "name": "Dave Aud\u00e9",
-          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
-        }
-      ],
-      "duration_ms": 258565,
-      "name": "Coyote Ugly (Dave Aud\u00e9 MegaMix)",
-      "url": "https://open.spotify.com/track/6eEAcjkSy4fQ2HXAPJChP1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "Sour Candy (with BLACKPINK)",
-      "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Young Foolish Happy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X"
-      },
-      "artists": [
-        {
-          "name": "Pixie Lott",
-          "url": "https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "All About Tonight",
-      "url": "https://open.spotify.com/track/1Fx9aiORwv0cx5mFEBasHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Troubled Paradise",
-        "url": "https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 144589,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/2Ay7YxUp7OsXbx7sa5KXLI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finest Selection: The Greatest Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5lwFrWCu2ay6zOzOF8kpyd"
-      },
-      "artists": [
-        {
-          "name": "The Saturdays",
-          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "808",
-      "url": "https://open.spotify.com/track/5MiEQO2EBwakPAHGidzSIC"
+      "duration_ms": 209533,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/1b10tpHvsqs2dcigFYv6iQ"
     },
     {
       "added_at": null,
@@ -471,64 +387,96 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+        "name": "Chasing Lights",
+        "url": "https://open.spotify.com/album/6F1LA0tDqvE80gNVIcQp5Y"
+      },
+      "artists": [
+        {
+          "name": "The Saturdays",
+          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Just Can't Get Enough - Radio Mix",
+      "url": "https://open.spotify.com/track/5HLxyoxczu6uZls774Sylo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born This Way",
+        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
       },
       "artists": [
         {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Colby O'Donis",
-          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Just Dance",
-      "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+      "duration_ms": 320586,
+      "name": "The Edge Of Glory",
+      "url": "https://open.spotify.com/track/0JNdS1n0ifOP25XvhwAMgM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On My Own (Remixes)",
-        "url": "https://open.spotify.com/album/6GgzhJOlqufWZqTJmhBv2W"
+        "name": "It\u2019s About Time",
+        "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         },
         {
-          "name": "Buzz Junkies",
-          "url": "https://open.spotify.com/artist/7m077rtXe9GX12JMBuMvF3"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 359533,
-      "name": "Dancing On My Own - Buzz Junkies Remix",
-      "url": "https://open.spotify.com/track/2jSCQLQaoPfNaH0tGLLSdc"
+      "duration_ms": 296240,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/664RHc5JaWz4ELLzzybn2T"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "Girls Aloud",
-          "url": "https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy"
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/1ZfTuv9XlWT2CaIsIZPm52"
         }
       ],
-      "duration_ms": 201041,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/31a7zOMhffLZ0i2vbHSTeH"
+      "duration_ms": 42040,
+      "name": "Somewhere Over The Rainbow - Dialogue",
+      "url": "https://open.spotify.com/track/4fIdH1l3SS0qdYRJiHwUnO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Slayyyter",
-        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
+        "name": "INSIDE OUT",
+        "url": "https://open.spotify.com/album/4JI4hl75zZaraeCkKswfjJ"
+      },
+      "artists": [
+        {
+          "name": "Kat Deluna",
+          "url": "https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "PARTY O'CLOCK",
+      "url": "https://open.spotify.com/track/4VdDh6rRBxp4pqCOhJNz5D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Troubled Paradise",
+        "url": "https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK"
       },
       "artists": [
         {
@@ -536,237 +484,25 @@
           "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/6mfsAvXQ3pTT5tEnKKbxZp"
+      "duration_ms": 241632,
+      "name": "Troubled Paradise",
+      "url": "https://open.spotify.com/track/30qNNWs5kUgcviZxOrQRTo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Headlines",
-        "url": "https://open.spotify.com/album/5IZLz1qxZ3N2SXLCR9Pv4g"
-      },
-      "artists": [
-        {
-          "name": "The Saturdays",
-          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0QVAlchLCx15ZLSoR9Wg1B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/03SlWWX3NsMpiZr7psb2It"
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
       },
       "artists": [
         {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Gu\u00e9na LG",
-          "url": "https://open.spotify.com/artist/0gMrD8n8eFICZIhI7OO46C"
         }
       ],
-      "duration_ms": 460720,
-      "name": "Judas - Guena LG Club Remix",
-      "url": "https://open.spotify.com/track/0UbmXlioR31sBepeRRFNDe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emotion (Deluxe Expanded Edition)",
-        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 204763,
-      "name": "I Really Like You",
-      "url": "https://open.spotify.com/track/2hHLbkatPwOOmrNxTiD41L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killer Love",
-        "url": "https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8"
-      },
-      "artists": [
-        {
-          "name": "Nicole Scherzinger",
-          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/7b7WSNukZ19L7VtmspH0um"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3 Words",
-        "url": "https://open.spotify.com/album/1iHdZkwznhRLn34yIQmefD"
-      },
-      "artists": [
-        {
-          "name": "Cheryl",
-          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Fight For This Love",
-      "url": "https://open.spotify.com/track/6WdV6QM8t87dPidhPzdRJW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/0Jo60TeFm2QkBR9d5anzRU"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Burke",
-          "url": "https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8"
-        },
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Bad Boys (feat. Flo Rida)",
-      "url": "https://open.spotify.com/track/0JYRNrTwUmeySRX37azvnH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "JIMMY EDGAR",
-          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Babylon - Bree Runway & Jimmy Edgar Remix",
-      "url": "https://open.spotify.com/track/2xw4gYnfIZkH4GO9zPMNVR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Your Radar",
-        "url": "https://open.spotify.com/album/1sN8FMIDaVi1m2bViwrMqa"
-      },
-      "artists": [
-        {
-          "name": "The Saturdays",
-          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "All Fired Up",
-      "url": "https://open.spotify.com/track/0883OXIoot8i54DoUy5ovz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doll Domination (Deluxe)",
-        "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "I Hate This Part",
-      "url": "https://open.spotify.com/track/3tSuRiNgJmMqmYR23dCqnR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killer Love",
-        "url": "https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8"
-      },
-      "artists": [
-        {
-          "name": "Nicole Scherzinger",
-          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Poison - New Main Version",
-      "url": "https://open.spotify.com/track/0Tyv7iJOV8JD35Vf9lXK54"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry The Night (The Remixes)",
-        "url": "https://open.spotify.com/album/5NXcTEKQ7yFzzWGuRqY6eD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 374813,
-      "name": "Marry The Night - Zedd Remix",
-      "url": "https://open.spotify.com/track/7qEeOdlZlE9xNMD3BUYQw6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let You",
-        "url": "https://open.spotify.com/album/2cezX4lRWqayjA6j82aYyE"
-      },
-      "artists": [
-        {
-          "name": "Cheryl",
-          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "Let You",
-      "url": "https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC"
+      "duration_ms": 199786,
+      "name": "MANiCURE",
+      "url": "https://open.spotify.com/track/70VukjWPu4TR2xQSRaEwlL"
     },
     {
       "added_at": null,
@@ -787,34 +523,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slut Pop",
-        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nm6u7mp61RmClng9Okg1t"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 150000,
-      "name": "They Wanna Fuck",
-      "url": "https://open.spotify.com/track/27mMvmKRyrsz7i2cfTMgSQ"
+      "duration_ms": 218209,
+      "name": "On My Way (Marry Me) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/5g0g18bTLe2q7Dgba1nlRb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/438IOWyHppyNLwpM6PS6Kj"
+        "name": "3 Words",
+        "url": "https://open.spotify.com/album/1iHdZkwznhRLn34yIQmefD"
       },
       "artists": [
         {
-          "name": "Love Generation",
-          "url": "https://open.spotify.com/artist/3SEtsGVhb96ilMHZj9b4o0"
+          "name": "Cheryl",
+          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
         }
       ],
-      "duration_ms": 182173,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/5bE9iNcqexFRXJfpL6q78x"
+      "duration_ms": 223253,
+      "name": "Fight For This Love",
+      "url": "https://open.spotify.com/track/6WdV6QM8t87dPidhPzdRJW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet and Sour",
+        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
+      },
+      "artists": [
+        {
+          "name": "Lemon",
+          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Sweet and Sour",
+      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
     },
     {
       "added_at": null,
@@ -826,67 +582,351 @@
         {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stupid Boy (feat. Big Freedia)",
+        "url": "https://open.spotify.com/album/759tt2Z0PhIjKDEmbEVswM"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+      "duration_ms": 232876,
+      "name": "Stupid Boy (feat. Big Freedia)",
+      "url": "https://open.spotify.com/track/56P7blUafQK9P8LKda9Y6P"
     },
     {
       "added_at": null,
       "album": {
-        "name": "React (Cash Cash Remix)",
-        "url": "https://open.spotify.com/album/4yZMghka7HHro0LXrRTo2Q"
+        "name": "Living For The Weekend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ"
       },
       "artists": [
         {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+          "name": "The Saturdays",
+          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+        }
+      ],
+      "duration_ms": 183630,
+      "name": "Not Giving Up",
+      "url": "https://open.spotify.com/track/0JmlzuOyMCaMFMaSutmf3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Block",
+        "url": "https://open.spotify.com/album/211JuJs35O21gM0xTpp3Pc"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
         },
         {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 195604,
-      "name": "React - Cash Cash Remix",
-      "url": "https://open.spotify.com/track/5lCNCMMEHynTqZS9W1xvs1"
+      "duration_ms": 208866,
+      "name": "Big Girl Now",
+      "url": "https://open.spotify.com/track/02Yas6SL87iAvA7Fk0ZzRj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
+      "duration_ms": 248706,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/2BnfMbmWbfqi7ac5y7GHXn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+        "name": "Born Naked",
+        "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
         }
       ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
+      "duration_ms": 212693,
+      "name": "Sissy That Walk",
+      "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What the Future Holds",
+        "url": "https://open.spotify.com/album/1DcWbwQxPayKv0pcpbNEbA"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Something in Your Eyes",
+      "url": "https://open.spotify.com/track/72QFaPZ6UETDfWU5NR3D0W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 180283,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Are You Waiting For?",
+        "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
+      },
+      "artists": [
+        {
+          "name": "The Saturdays",
+          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+        }
+      ],
+      "duration_ms": 231977,
+      "name": "When Love Takes Over",
+      "url": "https://open.spotify.com/track/0WpKKRbz0s5hVTXeMlTC5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Telephone (The DJ Remixes)",
+        "url": "https://open.spotify.com/album/1IYDpQ4M5yfzOX3I6KuMsT"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Alphabeat",
+          "url": "https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "Telephone - Alphabeat Remix Edit",
+      "url": "https://open.spotify.com/track/4I3YOooM15HkKZVFTEZms5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Tonight I\u2019m Getting Over You",
+      "url": "https://open.spotify.com/track/471JtpRQ0oox9OoZcbB8OO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Into You (Remixes)",
+        "url": "https://open.spotify.com/album/2bJcmB95Ft07FAZsIUSzVh"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "I'm Into You - Dave Aude Radio",
+      "url": "https://open.spotify.com/track/6jVTS4ntjoYoHrwgxM7m48"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "LaserLight",
+      "url": "https://open.spotify.com/track/0fXnUUwq5vvaRvMzXLu4WO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living For The Weekend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ"
+      },
+      "artists": [
+        {
+          "name": "The Saturdays",
+          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Buzz Junkies",
+          "url": "https://open.spotify.com/artist/7m077rtXe9GX12JMBuMvF3"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "What About Us - The Buzz Junkies Radio Edit",
+      "url": "https://open.spotify.com/track/1PVHJR7acasu4Osgxl6eUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let You",
+        "url": "https://open.spotify.com/album/2cezX4lRWqayjA6j82aYyE"
+      },
+      "artists": [
+        {
+          "name": "Cheryl",
+          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Let You",
+      "url": "https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Like You Don't Give A....Greatest Remixes",
+        "url": "https://open.spotify.com/album/2jqhCNtJwMXkyyOff4JrjW"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 298131,
+      "name": "Can't Fight The Moonlight - Alias Remix",
+      "url": "https://open.spotify.com/track/0Xq1XTOJBJiGui9SiV8OYl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Will Never Let You Down",
+        "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "I Will Never Let You Down",
+      "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
     }
   ],
   "unique_name": "Lady Gaga Radio",

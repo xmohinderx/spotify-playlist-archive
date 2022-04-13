@@ -5552,6 +5552,24 @@
     },
     {
       "album": {
+        "name": "Doritos & Fritos",
+        "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196896,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
+    },
+    {
+      "album": {
         "name": "Nokia Talk 2002",
         "url": "https://open.spotify.com/album/72dBYNXFF0PI7VVdSyn9VF"
       },
@@ -20105,6 +20123,36 @@
       "duration_ms": 55096,
       "name": "summer makes me so depressed",
       "url": "https://open.spotify.com/track/16YJGyM77WYsNhULDWfzoW"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182375,
+      "name": "SummerTime Blood",
+      "url": "https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO"
     },
     {
       "album": {

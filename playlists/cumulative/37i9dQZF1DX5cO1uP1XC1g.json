@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 316056,
       "name": "3la 3eny",
       "url": "https://open.spotify.com/track/5Aun0pJOQFBQozav1hPpM1"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 231028,
       "name": "Agaby",
       "url": "https://open.spotify.com/track/3nkxT86Yig9jbqxfPj8aEz"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 203987,
       "name": "Ana Lamma Bheb",
       "url": "https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ"
@@ -319,6 +319,24 @@
       "duration_ms": 202786,
       "name": "Ana Weyak",
       "url": "https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz"
+    },
+    {
+      "album": {
+        "name": "Ann Alawan",
+        "url": "https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg"
+      },
+      "artists": [
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Ann Alawan",
+      "url": "https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa"
     },
     {
       "album": {
@@ -409,7 +427,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 153906,
       "name": "Baree",
       "url": "https://open.spotify.com/track/54nQpzXkuEqeYcw5CrkIBI"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 223529,
       "name": "Baskotaya M2armesha",
       "url": "https://open.spotify.com/track/0ZW94xTUKrsNDXAYMsMXEv"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 231197,
       "name": "Btwhasheni",
       "url": "https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 202647,
       "name": "Diplomacy",
       "url": "https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 252000,
       "name": "El Walida",
       "url": "https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 224391,
       "name": "Ensay",
       "url": "https://open.spotify.com/track/6azjD02gDO2ZarIZMs3eRk"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 231735,
       "name": "Fady Shewaya",
       "url": "https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 221632,
       "name": "Faregouni",
       "url": "https://open.spotify.com/track/2epNvNy1bgg6Nu7AOnszBa"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 169800,
       "name": "Hayatak Fi Sora",
       "url": "https://open.spotify.com/track/5v5DvfdykdjmzgA3t9pnGg"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 198367,
       "name": "HKAYA",
       "url": "https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 247111,
       "name": "Hob Ghalat",
       "url": "https://open.spotify.com/track/3ET2kl0MzSO89bFMcno7QD"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 234343,
       "name": "Hobbak Bi Ye'wa",
       "url": "https://open.spotify.com/track/4Gf5WtyGqzXV1zxiH4fBJR"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 196650,
       "name": "Khaleny Fe Hodnak",
       "url": "https://open.spotify.com/track/64bw7oItH3tbiWmfhKq4Vg"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 204269,
       "name": "Khat Ahmar",
       "url": "https://open.spotify.com/track/6NPCmRmpXbercMsJgoEo6L"
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 175311,
       "name": "Kol El Nas",
       "url": "https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Law Hatsib",
       "url": "https://open.spotify.com/track/2a7NX3ftu4GAO52dnCRxXM"
@@ -1813,7 +1831,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 231807,
       "name": "Leena Ra2sa",
       "url": "https://open.spotify.com/track/612qZheYzgDboDZGz2iJDv"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 258151,
       "name": "Lesatni Janbi",
       "url": "https://open.spotify.com/track/2bzUNpvOeOKMZqPI6B3sns"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 210967,
       "name": "Lewjah Tani",
       "url": "https://open.spotify.com/track/2YwzYRcRIJLMPq4TBTBQgd"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 294523,
       "name": "Machafouhach",
       "url": "https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 202394,
       "name": "Negma Meadeya",
       "url": "https://open.spotify.com/track/42GbwrlUpjPbt5K5Bf0dJ1"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 202216,
       "name": "Niya",
       "url": "https://open.spotify.com/track/61yI81mtTxFzp4C017qFkS"
@@ -2241,7 +2259,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 157959,
       "name": "No Me Interesa",
       "url": "https://open.spotify.com/track/3bZUHmDm7QCshN8gaMNoTW"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 182985,
       "name": "Safe Salina (Moroccan Remix)",
       "url": "https://open.spotify.com/track/2nf1owFJaeOw5YubEW52ga"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 147096,
       "name": "Ti Ra Ra",
       "url": "https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 252261,
       "name": "Ya Denya",
       "url": "https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept"
@@ -2807,7 +2825,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 218130,
       "name": "Youm Talat (Remix)",
       "url": "https://open.spotify.com/track/6uv7lEEKwtg4VZOEUJKD4F"
@@ -3041,7 +3059,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 187508,
       "name": "\u0639\u0634\u0627\u0646\u0643",
       "url": "https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx"
@@ -3059,7 +3077,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "\u0642\u062f\u0627\u0645 \u0627\u0644\u0643\u0644",
       "url": "https://open.spotify.com/track/29nkUuQAqOUUQPkcA21g74"
@@ -3077,7 +3095,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 183390,
       "name": "\u0643\u062f\u0627\u0628",
       "url": "https://open.spotify.com/track/64HC3afpYKfxi58vHDbBTQ"
@@ -3099,7 +3117,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 239253,
       "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn"
@@ -3117,7 +3135,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 168465,
       "name": "\u0645\u0633\u064a\u0637\u0631\u0647",
       "url": "https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT"
@@ -3135,7 +3153,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 283861,
       "name": "\u0645\u0634\u062a\u0627\u0642",
       "url": "https://open.spotify.com/track/5ZKyKYWEiewaBAGQgiJIu0"

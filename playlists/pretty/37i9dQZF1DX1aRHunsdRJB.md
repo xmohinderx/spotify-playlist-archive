@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,097 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,112 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 50 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [Lr](https://open.spotify.com/artist/09lMeNRN7IAcfmSwJdEekK) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
 | 51 | [Up & Up](https://open.spotify.com/track/35Y7HJHsOaV1CQ8RisAqpd) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:09 |
 | 52 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
-| 53 | [Up Top Boss](https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [6n](https://open.spotify.com/artist/6tur9rXvdVZkLG2jbftKX2) | [Progress Riddim](https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn) | 3:30 |
+| 53 | [Up Top Boss](https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn) | 3:30 |
 | 54 | [Heaven Passport](https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN) | 3:07 |
 | 55 | [We Outside](https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Knock About Riddim](https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw) | 2:56 |
 | 56 | [Sexin](https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Soca Virgin](https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05) | 3:05 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Fattt](https://open.spotify.com/track/1gdjPy3aUqN0K1q5sXpdAZ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:13 |
 | 68 | [Anthem](https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi) | [Anthem](https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI) | 2:55 |
 
-Snapshot ID: `MTY0OTczNzI4OCwwMDAwMDAwMDcwYmFiNGY2NDk5MmM3ODkyNmI5NjA1YzhhYzdkMmIw`
+Snapshot ID: `MTY0OTgxMTY0OSwwMDAwMDAwMDcwYmFiNGY2NDk5MmM3ODkyNmI5NjA1YzhhYzdkMmIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 
 > The soundtrack of the Summer 2021.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,567 likes - 56 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,550 likes - 56 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 44 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 |
 | 45 | [Girls Like Us \- Felix Jaehn Remix](https://open.spotify.com/track/4SRHglh7CBow2Q6FZlTu7Z) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Girls Like Us \(Felix Jaehn Remix\)](https://open.spotify.com/album/2omjqEKlUjd7T5FCT4Bzah) | 3:24 |
 | 46 | [Magia](https://open.spotify.com/track/3KJ1QkwWObfuq54pgwTRyW) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/1x676W6ARASsW9BR4txWeK) | 3:12 |
-| 47 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 |
+| 47 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 |
 | 48 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 |
 | 49 | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/5tmHc2HW2xaMkUmI4s15nC) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/7HQsaFGNwdn1DagZm6lfqV) | 2:46 |
 | 50 | [Told You So \- Digital Farm Animals Remix](https://open.spotify.com/track/1kXEG2odF4cL4H8bFwyGrs) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Told You So](https://open.spotify.com/album/2oQPW2BiiKLmH1PH4T88iu) | 2:19 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 55 | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/track/62xA7Zhj8CQSecypWIfpZx) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/album/2MYhUTVM7SeBuQX5uNjOam) | 2:32 |
 | 56 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
 
-Snapshot ID: `MTY0OTczNzIxOCwwMDAwMDAwMDkwYjJlMDRmOTQ0NjNmZGM5YmI4NWU2YTY4YWUwNGI2`
+Snapshot ID: `MTY0OTgxMTU2NywwMDAwMDAwMDkwYjJlMDRmOTQ0NjNmZGM5YmI4NWU2YTY4YWUwNGI2`

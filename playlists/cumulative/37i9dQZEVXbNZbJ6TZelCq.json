@@ -19,10 +19,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 61714,
       "name": "$aMAN",
       "url": "https://open.spotify.com/track/6Q5PGWKWR2u4WjO1CX8I5r"
+    },
+    {
+      "album": {
+        "name": "$P$ (Studio Session #02)",
+        "url": "https://open.spotify.com/album/0L2CClpmtssAMgzfH1VNS6"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "$P$ - Studio Session #02",
+      "url": "https://open.spotify.com/track/19sbsJ3EPMs1nQdmMXCFFi"
     },
     {
       "album": {
@@ -197,7 +215,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 176699,
       "name": "60 De Zile",
       "url": "https://open.spotify.com/track/5ymFsfuMVDuG43ksIqCohv"
@@ -425,7 +443,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 182331,
       "name": "Abu Dhabi",
       "url": "https://open.spotify.com/track/6hJ4YxUN9RRUm4E08qfDcs"
@@ -3279,7 +3297,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 209715,
       "name": "Dragostea Ta",
       "url": "https://open.spotify.com/track/2ZhMraqx6eOMFMb9gtzkCj"
@@ -3593,6 +3611,24 @@
       "duration_ms": 202826,
       "name": "enough for you",
       "url": "https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e"
+    },
+    {
+      "album": {
+        "name": "616 : Un Nou Capitol",
+        "url": "https://open.spotify.com/album/6cGYbFKlccaGPOQkivlbs5"
+      },
+      "artists": [
+        {
+          "name": "Azteca",
+          "url": "https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Enzo (Outro)",
+      "url": "https://open.spotify.com/track/3avrl1KuaDGW285e7PTHNH"
     },
     {
       "album": {
@@ -7703,7 +7739,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -12025,7 +12061,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "Veste",
       "url": "https://open.spotify.com/track/5wQYjcX7kA26lF4pIcNVnP"

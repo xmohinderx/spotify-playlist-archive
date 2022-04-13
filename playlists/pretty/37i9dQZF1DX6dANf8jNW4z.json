@@ -1,12 +1,12 @@
 {
   "description": "Escucha a estas extraordinarias artistas a todo volumen. Foto: Natalia Lacunza",
-  "num_followers": 44491,
+  "num_followers": 44509,
   "original_name": "EQUAL Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIzOTMzMCwwMDAwMDAxNzAwMDAwMTdmZmU1MzBmMjUwMDAwMDE3ZmU0Y2VhZmFl",
+  "snapshot_id": "MTY0OTc3NzExNywwMDAwMDAxODAwMDAwMTgwMWU2MTA5MzIwMDAwMDE3ZmU0Y2VhZmFl",
   "tracks": [
     {
       "added_at": "2022-04-06 10:02:10",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/4MClFfeYF3cU42lFLdee3M"
     },
     {
+      "added_at": "2022-04-12 15:25:17",
+      "album": {
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+    },
+    {
       "added_at": "2022-04-06 10:02:10",
       "album": {
         "name": "Progesterona",
@@ -803,22 +819,6 @@
       "duration_ms": 219840,
       "name": "NOCHE OSCURA",
       "url": "https://open.spotify.com/track/2aRJ2TGnLyG14QxOb9HSud"
-    },
-    {
-      "added_at": "2022-04-06 10:02:10",
-      "album": {
-        "name": "A Media Voz",
-        "url": "https://open.spotify.com/album/5VfQbKYnGmJ1RHffNLwocd"
-      },
-      "artists": [
-        {
-          "name": "Tamara Alegre",
-          "url": "https://open.spotify.com/artist/4vIEm3E6rNZJODvuos9cYp"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "A Media Voz",
-      "url": "https://open.spotify.com/track/0YDgHAlCWeW4wcCJ6mgQ5n"
     },
     {
       "added_at": "2022-04-06 10:02:10",

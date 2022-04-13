@@ -2517,7 +2517,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 194400,
       "name": "COCO",
       "url": "https://open.spotify.com/track/0RKajkby9qSFKjChpfyYoW"
@@ -3007,6 +3007,24 @@
       "duration_ms": 290000,
       "name": "Demon",
       "url": "https://open.spotify.com/track/4z9inVEJzwLMPpdLhFjb51"
+    },
+    {
+      "album": {
+        "name": "Demones",
+        "url": "https://open.spotify.com/album/13X1wGKlETrTj36AMV6GNu"
+      },
+      "artists": [
+        {
+          "name": "Phen",
+          "url": "https://open.spotify.com/artist/3Or7sFYK0roAEy6IznZP5q"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191527,
+      "name": "Demones",
+      "url": "https://open.spotify.com/track/6yw4hqbpfLIGcc0OqRITVE"
     },
     {
       "album": {
@@ -7525,7 +7543,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-11",
+      "date_removed": null,
       "duration_ms": 160269,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/6HeG9URxuExm52kQQ8sHJU"
@@ -7759,8 +7777,8 @@
           "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
         },
         {
-          "name": "YA",
-          "url": "https://open.spotify.com/artist/5t9MrHoG6WQLwe1MIcMcrk"
+          "name": "Young A6",
+          "url": "https://open.spotify.com/artist/0VLbPNdrtGwHO1xlxodxYm"
         }
       ],
       "date_added": "2022-04-11",
@@ -8411,7 +8429,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 211188,
       "name": "Mporei",
       "url": "https://open.spotify.com/track/7raprblR3NfeuiV72Lz5Il"
@@ -11467,7 +11485,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-13",
       "duration_ms": 261397,
       "name": "Telika",
       "url": "https://open.spotify.com/track/4CZiBLERDxvMQaieIlUklq"
@@ -13177,7 +13195,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 246808,
       "name": "ZULU",
       "url": "https://open.spotify.com/track/7aodZPQpAaQrVA6cv9JXru"

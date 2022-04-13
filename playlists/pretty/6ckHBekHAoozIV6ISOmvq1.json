@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTQ4NiwzOTBiZDhlZjM4MDg3YTcwZTViNDA1MmE2ZjU4MzM5ZDk5NTFlMjYx",
+  "snapshot_id": "NTQ4NyxmNmVmZDgyZTUxNmI2OGZhZTI0MTljN2YwOTlmYzM4MWU1OTZjN2Vm",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -579,30 +579,6 @@
     {
       "added_at": "2018-02-09 19:10:59",
       "album": {
-        "name": "Stylems, Italian Music from the \"Trecento\"",
-        "url": "https://open.spotify.com/album/6MBieZ3u5sK2f2cXEEsE5O"
-      },
-      "artists": [
-        {
-          "name": "Bartolino da Padova",
-          "url": "https://open.spotify.com/artist/1ziI4TT1t8OcM3GM6FIxuU"
-        },
-        {
-          "name": "Ensemble Syntagma",
-          "url": "https://open.spotify.com/artist/3ToTgFj2iZjuFj7mKUpejU"
-        },
-        {
-          "name": "Alexandre Danilevski",
-          "url": "https://open.spotify.com/artist/0jNPn5o1jz1EmhVf0pY0dX"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Qual Lege Move",
-      "url": "https://open.spotify.com/track/7cvVJEiYabiPpOZULbcxM7"
-    },
-    {
-      "added_at": "2018-02-09 19:10:59",
-      "album": {
         "name": "Monastic Song - 12th Century Monophonic Chant",
         "url": "https://open.spotify.com/album/7n07ShJqqbwleoZnAZdCo3"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 372333,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: O quanta qualia",
       "url": "https://open.spotify.com/track/1kpbqlaqA1uwL8h7G1KEjb"
+    },
+    {
+      "added_at": "2018-02-09 19:10:59",
+      "album": {
+        "name": "Stylems, Italian Music from the \"Trecento\"",
+        "url": "https://open.spotify.com/album/6MBieZ3u5sK2f2cXEEsE5O"
+      },
+      "artists": [
+        {
+          "name": "Bartolino da Padova",
+          "url": "https://open.spotify.com/artist/1ziI4TT1t8OcM3GM6FIxuU"
+        },
+        {
+          "name": "Ensemble Syntagma",
+          "url": "https://open.spotify.com/artist/3ToTgFj2iZjuFj7mKUpejU"
+        },
+        {
+          "name": "Alexandre Danilevski",
+          "url": "https://open.spotify.com/artist/0jNPn5o1jz1EmhVf0pY0dX"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Qual Lege Move",
+      "url": "https://open.spotify.com/track/7cvVJEiYabiPpOZULbcxM7"
     },
     {
       "added_at": "2018-06-22 13:49:07",
@@ -1757,26 +1757,6 @@
       "url": "https://open.spotify.com/track/5nFBMyzPAiar580K9mevVd"
     },
     {
-      "added_at": "2021-07-02 15:25:21",
-      "album": {
-        "name": "Joculatores Upsalienses: Early Music at Wik",
-        "url": "https://open.spotify.com/album/7yZzMtSaohI3ua2Ci1VSAs"
-      },
-      "artists": [
-        {
-          "name": "John Dunstable",
-          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
-        },
-        {
-          "name": "Joculatores Upsalienses",
-          "url": "https://open.spotify.com/artist/292IFFgdIMZCMOQwFd1NAq"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "O rosa bella - Quodlibet: O rosa bella (Anonymous) (Glogauer Liederbuch, c. 1480)",
-      "url": "https://open.spotify.com/track/7cbAjFEtOpc7pe3ISiYIez"
-    },
-    {
       "added_at": "2022-03-28 17:06:45",
       "album": {
         "name": "Madre de Deus, Cantigas de Santa Maria",
@@ -1799,6 +1779,26 @@
       "duration_ms": 269226,
       "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
       "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
+    },
+    {
+      "added_at": "2021-07-02 15:25:21",
+      "album": {
+        "name": "Joculatores Upsalienses: Early Music at Wik",
+        "url": "https://open.spotify.com/album/7yZzMtSaohI3ua2Ci1VSAs"
+      },
+      "artists": [
+        {
+          "name": "John Dunstable",
+          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
+        },
+        {
+          "name": "Joculatores Upsalienses",
+          "url": "https://open.spotify.com/artist/292IFFgdIMZCMOQwFd1NAq"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "O rosa bella - Quodlibet: O rosa bella (Anonymous) (Glogauer Liederbuch, c. 1480)",
+      "url": "https://open.spotify.com/track/7cbAjFEtOpc7pe3ISiYIez"
     },
     {
       "added_at": "2018-02-28 02:04:46",
@@ -1839,26 +1839,6 @@
       "duration_ms": 385013,
       "name": "Belicha [Additional 29987]",
       "url": "https://open.spotify.com/track/550rfA0AE6Mw2xFRvlKYt4"
-    },
-    {
-      "added_at": "2020-07-24 11:51:06",
-      "album": {
-        "name": "A L'Estampida - Medieval Dance Music",
-        "url": "https://open.spotify.com/album/5hibeupDKUDQXs0N4Jbzeh"
-      },
-      "artists": [
-        {
-          "name": "French 13th Cent.",
-          "url": "https://open.spotify.com/artist/1JJCpGoS1vMefQUupm7ZEj"
-        },
-        {
-          "name": "The Dufay Collective",
-          "url": "https://open.spotify.com/artist/1x40zidU6Q8RGgtpzcdFzS"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Estampie Real: La Seste",
-      "url": "https://open.spotify.com/track/0O7ppHNGGXYrs5Uq7uSlYf"
     },
     {
       "added_at": "2021-06-11 12:46:55",
@@ -1947,6 +1927,26 @@
       "duration_ms": 291493,
       "name": "A Knight's Hawk",
       "url": "https://open.spotify.com/track/446dXplcK51CB7NjjFQWrb"
+    },
+    {
+      "added_at": "2020-07-24 11:51:06",
+      "album": {
+        "name": "A L'Estampida - Medieval Dance Music",
+        "url": "https://open.spotify.com/album/5hibeupDKUDQXs0N4Jbzeh"
+      },
+      "artists": [
+        {
+          "name": "French 13th Cent.",
+          "url": "https://open.spotify.com/artist/1JJCpGoS1vMefQUupm7ZEj"
+        },
+        {
+          "name": "The Dufay Collective",
+          "url": "https://open.spotify.com/artist/1x40zidU6Q8RGgtpzcdFzS"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Estampie Real: La Seste",
+      "url": "https://open.spotify.com/track/0O7ppHNGGXYrs5Uq7uSlYf"
     },
     {
       "added_at": "2019-01-17 16:12:25",
@@ -2109,30 +2109,6 @@
       "url": "https://open.spotify.com/track/7lDMYWjNGZeIURAXQIYzim"
     },
     {
-      "added_at": "2022-04-08 15:24:06",
-      "album": {
-        "name": "Ockeghem: Requiem / Missa Fors seulement",
-        "url": "https://open.spotify.com/album/4bfwL1fvAsWJE92V8CAgWe"
-      },
-      "artists": [
-        {
-          "name": "Antoine Brumel",
-          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
-        },
-        {
-          "name": "The Clerks' Group",
-          "url": "https://open.spotify.com/artist/1xPrwzMXeBGn3vV2T8mt6s"
-        },
-        {
-          "name": "Edward Wickham",
-          "url": "https://open.spotify.com/artist/6SJ6eAvBM3JhLqjZKzXEkO"
-        }
-      ],
-      "duration_ms": 748800,
-      "name": "Du tout plongiet/Fors seulement",
-      "url": "https://open.spotify.com/track/4GeINy8JYsHPofZZR36zyN"
-    },
-    {
       "added_at": "2022-03-28 17:06:45",
       "album": {
         "name": "Wedding: Music & Words",
@@ -2179,30 +2155,6 @@
       "duration_ms": 308586,
       "name": "Bel Acueil, rondeau \u00e0 1, 2 & 3",
       "url": "https://open.spotify.com/track/1Lcmx25cZD7hXomhSqvDAt"
-    },
-    {
-      "added_at": "2022-04-08 15:24:06",
-      "album": {
-        "name": "Cancionero Musical De Palacio: Music of the Spanish Court",
-        "url": "https://open.spotify.com/album/1iZFoEYDppReBZ5C7tX5Al"
-      },
-      "artists": [
-        {
-          "name": "Juan del Encina",
-          "url": "https://open.spotify.com/artist/5NJtTf9cHuRJuxdtNRUnUb"
-        },
-        {
-          "name": "Accentus Ensemble",
-          "url": "https://open.spotify.com/artist/3JGfnzvYqgbqMXUVZqXuo3"
-        },
-        {
-          "name": "Thomas Wimmer",
-          "url": "https://open.spotify.com/artist/3AgIzHzt5UE5dKySowJWeJ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Todos los bienes del mundo",
-      "url": "https://open.spotify.com/track/1JjZ3pD2CzUDrqHA7ODPJe"
     },
     {
       "added_at": "2022-03-30 22:37:36",
@@ -2267,6 +2219,54 @@
       "duration_ms": 223893,
       "name": "Viderunt omnes No. 1: ...salutare suum ante conspectum gentium revelavit...",
       "url": "https://open.spotify.com/track/4cS9wm7gdxtgxGPEYY5A6f"
+    },
+    {
+      "added_at": "2022-04-08 15:24:06",
+      "album": {
+        "name": "Ockeghem: Requiem / Missa Fors seulement",
+        "url": "https://open.spotify.com/album/4bfwL1fvAsWJE92V8CAgWe"
+      },
+      "artists": [
+        {
+          "name": "Antoine Brumel",
+          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
+        },
+        {
+          "name": "The Clerks' Group",
+          "url": "https://open.spotify.com/artist/1xPrwzMXeBGn3vV2T8mt6s"
+        },
+        {
+          "name": "Edward Wickham",
+          "url": "https://open.spotify.com/artist/6SJ6eAvBM3JhLqjZKzXEkO"
+        }
+      ],
+      "duration_ms": 748800,
+      "name": "Du tout plongiet/Fors seulement",
+      "url": "https://open.spotify.com/track/4GeINy8JYsHPofZZR36zyN"
+    },
+    {
+      "added_at": "2022-04-08 15:24:06",
+      "album": {
+        "name": "Cancionero Musical De Palacio: Music of the Spanish Court",
+        "url": "https://open.spotify.com/album/1iZFoEYDppReBZ5C7tX5Al"
+      },
+      "artists": [
+        {
+          "name": "Juan del Encina",
+          "url": "https://open.spotify.com/artist/5NJtTf9cHuRJuxdtNRUnUb"
+        },
+        {
+          "name": "Accentus Ensemble",
+          "url": "https://open.spotify.com/artist/3JGfnzvYqgbqMXUVZqXuo3"
+        },
+        {
+          "name": "Thomas Wimmer",
+          "url": "https://open.spotify.com/artist/3AgIzHzt5UE5dKySowJWeJ"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Todos los bienes del mundo",
+      "url": "https://open.spotify.com/track/1JjZ3pD2CzUDrqHA7ODPJe"
     },
     {
       "added_at": "2020-10-10 03:24:47",
@@ -4009,6 +4009,30 @@
       "url": "https://open.spotify.com/track/6B9v1vflKg2rosKL08S0GP"
     },
     {
+      "added_at": "2022-01-18 18:16:09",
+      "album": {
+        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
+        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
+      },
+      "artists": [
+        {
+          "name": "Trebor",
+          "url": "https://open.spotify.com/artist/4PZoWmd11sAwUqyS25mhYx"
+        },
+        {
+          "name": "Ferrara Ensemble",
+          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
+        },
+        {
+          "name": "Crawford Young",
+          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
+        }
+      ],
+      "duration_ms": 365226,
+      "name": "Helas piti\u00e9 envers moy dort si fort",
+      "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
+    },
+    {
       "added_at": "2020-08-21 11:53:23",
       "album": {
         "name": "The Road to Compostela",
@@ -4039,30 +4063,6 @@
       "duration_ms": 334000,
       "name": "Congaudeant Catholici",
       "url": "https://open.spotify.com/track/01YOa7rRyzkzuisqmvbwri"
-    },
-    {
-      "added_at": "2022-01-18 18:16:09",
-      "album": {
-        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
-        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
-      },
-      "artists": [
-        {
-          "name": "Trebor",
-          "url": "https://open.spotify.com/artist/4PZoWmd11sAwUqyS25mhYx"
-        },
-        {
-          "name": "Ferrara Ensemble",
-          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
-        },
-        {
-          "name": "Crawford Young",
-          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
-        }
-      ],
-      "duration_ms": 365226,
-      "name": "Helas piti\u00e9 envers moy dort si fort",
-      "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
     },
     {
       "added_at": "2022-04-01 16:49:32",
@@ -4177,28 +4177,28 @@
       "url": "https://open.spotify.com/track/0yTRIe6r1lmpy4hnAIMaWI"
     },
     {
-      "added_at": "2022-04-08 15:24:06",
+      "added_at": "2021-10-08 14:44:53",
       "album": {
-        "name": "Dunstable - Motets",
-        "url": "https://open.spotify.com/album/2jIp48SnRfmSCxjm7qwcJs"
+        "name": "Madre de Deus, Cantigas de Santa Maria",
+        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
       },
       "artists": [
         {
-          "name": "John Dunstable",
-          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
+          "name": "Alphonse X le Sage",
+          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
         },
         {
-          "name": "The Hilliard Ensemble",
-          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
+          "name": "Micrologus",
+          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
         },
         {
-          "name": "Paul Hillier",
-          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+          "name": "Patrizia Bovi",
+          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
         }
       ],
-      "duration_ms": 386533,
-      "name": "Veni Sancte Spiritus et emitte/Veni Sancte Spiritus et infunde/Veni Creator Spiritus mentes tu - 1987 Remastered Version",
-      "url": "https://open.spotify.com/track/0Kok1yqlbqw4RPAwaq9aPT"
+      "duration_ms": 515466,
+      "name": "Cantigas de Santa Maria: Madre de Deus",
+      "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
     },
     {
       "added_at": "2022-04-10 18:45:50",
@@ -4225,52 +4225,28 @@
       "url": "https://open.spotify.com/track/0WMhgLgM1zhYL4MkO7QKLC"
     },
     {
-      "added_at": "2021-10-08 14:44:53",
-      "album": {
-        "name": "Madre de Deus, Cantigas de Santa Maria",
-        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
-      },
-      "artists": [
-        {
-          "name": "Alphonse X le Sage",
-          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
-        },
-        {
-          "name": "Micrologus",
-          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
-        },
-        {
-          "name": "Patrizia Bovi",
-          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
-        }
-      ],
-      "duration_ms": 515466,
-      "name": "Cantigas de Santa Maria: Madre de Deus",
-      "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
-    },
-    {
       "added_at": "2022-04-08 15:24:06",
       "album": {
-        "name": "The Play of Daniel - Ludus Danielis",
-        "url": "https://open.spotify.com/album/731YFSFSjvIpnzIl4y44bW"
+        "name": "Dunstable - Motets",
+        "url": "https://open.spotify.com/album/2jIp48SnRfmSCxjm7qwcJs"
       },
       "artists": [
         {
-          "name": "Anonymous\u00a0",
-          "url": "https://open.spotify.com/artist/35y6unM66rGPWHTRFNrqKS"
+          "name": "John Dunstable",
+          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
         },
         {
-          "name": "The Dufay Collective",
-          "url": "https://open.spotify.com/artist/1x40zidU6Q8RGgtpzcdFzS"
+          "name": "The Hilliard Ensemble",
+          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
         },
         {
-          "name": "William Lyons",
-          "url": "https://open.spotify.com/artist/15KJ7sXjVVBPzUotJottXH"
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
         }
       ],
-      "duration_ms": 180826,
-      "name": "The Play of Daniel - A Medieval Drama: The Play of Daniel - A Medieval Drama: Prelude - Astra Tenenti",
-      "url": "https://open.spotify.com/track/1EJfRzI0vgYD8zZuXHbUN4"
+      "duration_ms": 386533,
+      "name": "Veni Sancte Spiritus et emitte/Veni Sancte Spiritus et infunde/Veni Creator Spiritus mentes tu - 1987 Remastered Version",
+      "url": "https://open.spotify.com/track/0Kok1yqlbqw4RPAwaq9aPT"
     },
     {
       "added_at": "2018-02-09 19:10:59",
