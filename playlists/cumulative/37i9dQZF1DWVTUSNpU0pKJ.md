@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVTUSNpU0pKJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVTUSNpU0pKJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVTUSNpU0pKJ)
 
-### [This Is Satie](https://open.spotify.com/playlist/0eqXU4sXR3D9thr5ggoCdN)
+### [This Is Satie](https://open.spotify.com/playlist/37i9dQZF1DWVTUSNpU0pKJ)
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
+
+60 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/0eqXU4sXR3D9thr5ggoCdN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

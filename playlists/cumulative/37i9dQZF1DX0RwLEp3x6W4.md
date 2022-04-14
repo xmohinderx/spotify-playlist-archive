@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0RwLEp3x6W4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0RwLEp3x6W4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0RwLEp3x6W4)
 
-### [Bluegrass Origins](https://open.spotify.com/playlist/07yp3lWFtNeOSgqePmPMKz)
+### [Bluegrass Origins](https://open.spotify.com/playlist/37i9dQZF1DX0RwLEp3x6W4)
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems.
+
+53 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/07yp3lWFtNeOSgqePmPMKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

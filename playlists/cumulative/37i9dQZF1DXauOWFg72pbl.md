@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXauOWFg72pbl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXauOWFg72pbl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXauOWFg72pbl)
 
-### [Beer & Wings](https://open.spotify.com/playlist/3dZKmsHFqarBZK5PhR0m0r)
+### [Beer & Wings](https://open.spotify.com/playlist/37i9dQZF1DXauOWFg72pbl)
 
 > Cold beer\. Hot wings\. Great rock\. This is your game day soundtrack.
+
+97 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3dZKmsHFqarBZK5PhR0m0r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

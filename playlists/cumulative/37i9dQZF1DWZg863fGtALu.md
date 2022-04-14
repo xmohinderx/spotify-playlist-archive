@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZg863fGtALu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZg863fGtALu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZg863fGtALu)
 
-### [Summer Throwbacks](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
+### [Summer Throwbacks](https://open.spotify.com/playlist/37i9dQZF1DWZg863fGtALu)
 
 > Summer memories from yesteryear!
+
+80 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

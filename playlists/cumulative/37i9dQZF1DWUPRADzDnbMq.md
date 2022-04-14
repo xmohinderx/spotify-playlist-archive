@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUPRADzDnbMq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUPRADzDnbMq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUPRADzDnbMq)
 
-### [Gulf & Western](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
+### [Gulf & Western](https://open.spotify.com/playlist/37i9dQZF1DWUPRADzDnbMq)
 
 > Jimmy Buffett, Kenny Chesney and all your favorite summer tunes.
+
+61 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

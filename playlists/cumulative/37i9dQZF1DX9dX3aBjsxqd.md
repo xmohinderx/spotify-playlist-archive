@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9dX3aBjsxqd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9dX3aBjsxqd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9dX3aBjsxqd)
 
-### [Mellow Cello](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
+### [Mellow Cello](https://open.spotify.com/playlist/37i9dQZF1DX9dX3aBjsxqd)
 
 > Relax to these mellow cello melodies.
+
+64 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

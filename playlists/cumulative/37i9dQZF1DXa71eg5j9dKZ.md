@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa71eg5j9dKZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa71eg5j9dKZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa71eg5j9dKZ)
 
-### [Altar](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
 > The home for alternative electronic music\. Cover: Lil Silva
+
+224 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

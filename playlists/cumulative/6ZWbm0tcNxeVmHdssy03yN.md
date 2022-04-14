@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md) - cumulative - [plain](/playlists/plain/6ZWbm0tcNxeVmHdssy03yN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6ZWbm0tcNxeVmHdssy03yN)
 
-### [HEADPHONES](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
+### [HEADPHONES](https://open.spotify.com/playlist/6ZWbm0tcNxeVmHdssy03yN)
 
 > The best independent music in a post\-genre world
+
+1,245 songs - 2 day 20 hr 3 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

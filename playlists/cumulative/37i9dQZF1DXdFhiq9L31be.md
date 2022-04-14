@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdFhiq9L31be.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdFhiq9L31be) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdFhiq9L31be)
 
-### [Spotify Singles: Stripped](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
+### [Spotify Singles: Stripped](https://open.spotify.com/playlist/37i9dQZF1DXdFhiq9L31be)
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: Lennon Stella, Tate McRae and HAIM
+
+125 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

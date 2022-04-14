@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1qSl6wHwkrJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1qSl6wHwkrJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1qSl6wHwkrJ)
 
-### [Christmas Blues](https://open.spotify.com/playlist/2ff9bHziRvMPkCidiX8ZOI)
+### [Christmas Blues](https://open.spotify.com/playlist/37i9dQZF1DX1qSl6wHwkrJ)
 
 > Christmas classics from your favourite Blues artists.
+
+55 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/2ff9bHziRvMPkCidiX8ZOI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYmSg58uBxin.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYmSg58uBxin) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYmSg58uBxin)
 
-### [Instrumental Backdrop](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+### [Instrumental Backdrop](https://open.spotify.com/playlist/37i9dQZF1DWYmSg58uBxin)
 
 > Soothing piano and strings to help you concentrate.
+
+151 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

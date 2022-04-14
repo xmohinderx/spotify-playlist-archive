@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcNb6Ba0LuVc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcNb6Ba0LuVc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNb6Ba0LuVc)
 
-### [Feel Good Beats](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+### [Feel Good Beats](https://open.spotify.com/playlist/37i9dQZF1DXcNb6Ba0LuVc)
 
 > Uplifting instrumental beats to brighten your day.
+
+229 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

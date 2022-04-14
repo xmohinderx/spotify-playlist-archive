@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3rMnCpY0WEROlje2b8Bjdn.md) - cumulative - [plain](/playlists/plain/3rMnCpY0WEROlje2b8Bjdn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3rMnCpY0WEROlje2b8Bjdn)
 
-### [The Hot Sounds of 1926](https://open.spotify.com/playlist/1CTOGgkHZPQvAZKeWvqGIq)
+### [The Hot Sounds of 1926](https://open.spotify.com/playlist/3rMnCpY0WEROlje2b8Bjdn)
 
 > 
+
+69 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/1CTOGgkHZPQvAZKeWvqGIq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

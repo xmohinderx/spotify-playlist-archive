@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. En portada: Guadalupe Pineda",
-  "num_followers": 85803,
+  "num_followers": 85848,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMjA0NiwwMDAwMDAwMGM5NjU0YmFkZDdiOWIzMTFlN2I5YmNiMWZkNjliYzZl",
+  "snapshot_id": "MTY0OTg5ODYzMCwwMDAwMDAwMDJmY2QwOTA3N2ZjYjViOWU2ZmU1N2VmOTA1YzQyZjYz",
   "tracks": [
     {
       "added_at": "2021-11-26 06:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/72lEnHoHSELV84JOsJLuLl"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Diferentes",
-      "url": "https://open.spotify.com/track/2cjxxNd9Tn5eMUSFazVq2d"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "15 \u00c9xitos: Chayito Valdez",
         "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
       },
@@ -195,18 +179,34 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "15 Grandes Exitos-Flor Silvestre",
-        "url": "https://open.spotify.com/album/4FNgT1gbX9oHHuikiyZcOv"
+        "name": "Taco Placero",
+        "url": "https://open.spotify.com/album/391wvl6UGDJFv6AVRn7HTz"
       },
       "artists": [
         {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 162272,
-      "name": "Gaviota Traidora",
-      "url": "https://open.spotify.com/track/54UCeomwW6iG6gN0YijQfM"
+      "duration_ms": 167206,
+      "name": "Taco Placero",
+      "url": "https://open.spotify.com/track/4w7JaN7IeLAeTQc9G3f2yb"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/72lEnHoHSELV84JOsJLuLl"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Diferentes",
+      "url": "https://open.spotify.com/track/2cjxxNd9Tn5eMUSFazVq2d"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -243,34 +243,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+        "name": "15 Grandes Exitos-Flor Silvestre",
+        "url": "https://open.spotify.com/album/4FNgT1gbX9oHHuikiyZcOv"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
         }
       ],
-      "duration_ms": 272866,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Taco Placero",
-        "url": "https://open.spotify.com/album/391wvl6UGDJFv6AVRn7HTz"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 167206,
-      "name": "Taco Placero",
-      "url": "https://open.spotify.com/track/4w7JaN7IeLAeTQc9G3f2yb"
+      "duration_ms": 162272,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/54UCeomwW6iG6gN0YijQfM"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -307,38 +291,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "No Entiendo",
-      "url": "https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -355,18 +307,34 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Flor Silvestre",
-        "url": "https://open.spotify.com/album/44J9myM94DyzmFhctig6zd"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 210279,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/23kIUnmZJKFElrg5fXlqSR"
+      "duration_ms": 235813,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -387,18 +355,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "Flor Silvestre",
+        "url": "https://open.spotify.com/album/44J9myM94DyzmFhctig6zd"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
         }
       ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
+      "duration_ms": 210279,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/23kIUnmZJKFElrg5fXlqSR"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -419,6 +387,22 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "No Entiendo",
+      "url": "https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
         "name": "Lola Beltr\u00e1n en Concierto - 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
         "url": "https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF"
       },
@@ -431,22 +415,6 @@
       "duration_ms": 187893,
       "name": "La Feria de las Flores",
       "url": "https://open.spotify.com/track/4eMRomGN3VT0YXMrTqkWe7"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "Qu\u00e9 Manera de Perder",
-      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -467,22 +435,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Lucha Villa Y Aida",
-        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "Resulta",
-      "url": "https://open.spotify.com/track/4fsjK8V9s53YyQx5zTlncb"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -499,8 +451,8 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Cucurrucuc\u00fa Paloma",
-        "url": "https://open.spotify.com/album/2PiT6mwkpUXGuzNgczDg5e"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
@@ -508,15 +460,15 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 258814,
-      "name": "Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/10WbMX4C7efbMqgffLr4tC"
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
@@ -524,9 +476,25 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 179106,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
+      "duration_ms": 208066,
+      "name": "Qu\u00e9 Manera de Perder",
+      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Lucha Villa Y Aida",
+        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 265560,
+      "name": "Resulta",
+      "url": "https://open.spotify.com/track/4fsjK8V9s53YyQx5zTlncb"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -543,6 +511,54 @@
       "duration_ms": 224040,
       "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
       "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Despedida Con Mariachi",
+      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Despedida Con Mariachi",
-      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "Por Amor A M\u00e9xico",
         "url": "https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj"
       },
@@ -611,6 +611,38 @@
       "duration_ms": 215026,
       "name": "Cielo Rojo - Duet Version",
       "url": "https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Cucurrucuc\u00fa Paloma",
+        "url": "https://open.spotify.com/album/2PiT6mwkpUXGuzNgczDg5e"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 258814,
+      "name": "Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/10WbMX4C7efbMqgffLr4tC"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "Las Margaritas",
+      "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -635,34 +667,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+        "name": "Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga",
+        "url": "https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/7BuSKzrnlhe1Ouvz00jxMg"
         }
       ],
-      "duration_ms": 173000,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "Las Margaritas",
-      "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
+      "duration_ms": 230804,
+      "name": "Cuando Abra los Ojos",
+      "url": "https://open.spotify.com/track/5rIMzmh2EaiLw7nao6vHol"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -683,18 +699,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "La Reina de la Canci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas"
+        "name": "Lucha Villa Y Aida",
+        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx"
+      "duration_ms": 184560,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -715,34 +731,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Lucha Villa Y Aida",
-        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
+        "name": "La Reina de la Canci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas"
       },
       "artists": [
         {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 184560,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga",
-        "url": "https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/7BuSKzrnlhe1Ouvz00jxMg"
-        }
-      ],
-      "duration_ms": 230804,
-      "name": "Cuando Abra los Ojos",
-      "url": "https://open.spotify.com/track/5rIMzmh2EaiLw7nao6vHol"
+      "duration_ms": 231093,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -763,6 +763,38 @@
       "duration_ms": 171475,
       "name": "Gracias Por Todo (feat. Juan Gabriel)",
       "url": "https://open.spotify.com/track/3rKCqrq8R8qm4SAAn5GBiV"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/1k0YnZAX4bcTCGsKCtmNSu"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Lucha Villa Interpreta A Jose Alfredo Jimenez",
+        "url": "https://open.spotify.com/album/2WclW17u0Wwa3DLdSmwekb"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 173627,
+      "name": "Te Solte La Rienda",
+      "url": "https://open.spotify.com/track/5vWniApCCY3PXFHY70pN8Q"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -799,38 +831,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Lucha Villa Interpreta A Jose Alfredo Jimenez",
-        "url": "https://open.spotify.com/album/2WclW17u0Wwa3DLdSmwekb"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 173627,
-      "name": "Te Solte La Rienda",
-      "url": "https://open.spotify.com/track/5vWniApCCY3PXFHY70pN8Q"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/1k0YnZAX4bcTCGsKCtmNSu"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "Taco Placero",
         "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 218197,
       "name": "Rata De Dos Patas",
       "url": "https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga",
+        "url": "https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/7BuSKzrnlhe1Ouvz00jxMg"
+        }
+      ],
+      "duration_ms": 146748,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/2XuJmv5Cc4N1gYEPzLshVl"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -875,70 +891,6 @@
       "duration_ms": 324365,
       "name": "La Malaguen\u0303a",
       "url": "https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga",
-        "url": "https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/7BuSKzrnlhe1Ouvz00jxMg"
-        }
-      ],
-      "duration_ms": 146748,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/2XuJmv5Cc4N1gYEPzLshVl"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Es Demasiado Tarde - Remasterizado",
-      "url": "https://open.spotify.com/track/0XJmLEViRKNxRxi0ixOJao"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
-        "name": "Me Saludas A La Tuya",
-        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 163932,
-      "name": "Me Saludas A La Tuya",
-      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -983,6 +935,22 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
         "name": "\u00c9xitos Rancheros",
         "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 272520,
       "name": "Amor de un Rato",
       "url": "https://open.spotify.com/track/6VenhGZLU1sw7I4qkh30ln"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Es Demasiado Tarde - Remasterizado",
+      "url": "https://open.spotify.com/track/0XJmLEViRKNxRxi0ixOJao"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Me Saludas A La Tuya",
+        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 163932,
+      "name": "Me Saludas A La Tuya",
+      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Alborada Ranchera",
-        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+        "name": "\u00c9xitos Rancheros",
+        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
         }
       ],
-      "duration_ms": 202160,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
+      "duration_ms": 212601,
+      "name": "Las Cuentas Claras",
+      "url": "https://open.spotify.com/track/1mL8fjDIE2TrtAlrZKRtK8"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
+        "name": "Alborada Ranchera",
+        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
         "name": "Canciones de Mi Pueblo",
         "url": "https://open.spotify.com/album/7ACSF32tvdNiJLp6bxxaZh"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "\u00c9xitos Rancheros",
-        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
-      },
-      "artists": [
-        {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
-        }
-      ],
-      "duration_ms": 212601,
-      "name": "Las Cuentas Claras",
-      "url": "https://open.spotify.com/track/1mL8fjDIE2TrtAlrZKRtK8"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "15 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 183193,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "\u00c9xitos Rancheros",
+        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
+      },
+      "artists": [
+        {
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+        }
+      ],
+      "duration_ms": 151591,
+      "name": "Dos Gotas De Agua",
+      "url": "https://open.spotify.com/track/7iQe3AR9ZsQpJ2OEzQBV6u"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Paquita La Del Barrio En Vivo",
-        "url": "https://open.spotify.com/album/4IeKibQyMCzKcITREUrOk4"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 212760,
       "name": "Caray (with Mariachi Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar)",
       "url": "https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Paquita La Del Barrio En Vivo",
+        "url": "https://open.spotify.com/album/4IeKibQyMCzKcITREUrOk4"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "\u00c9xitos Rancheros",
-        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
-      },
-      "artists": [
-        {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
-        }
-      ],
-      "duration_ms": 151591,
-      "name": "Dos Gotas De Agua",
-      "url": "https://open.spotify.com/track/7iQe3AR9ZsQpJ2OEzQBV6u"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "15 \u00c9xitos 15",
         "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "45 A\u00f1os Cantandole a los Inutiles",
-        "url": "https://open.spotify.com/album/5Y5GjpS87Z0EaoVWb5uOSL"
+        "name": "Para No Pensar en Ti",
+        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 181202,
-      "name": "Que Te Ha Dado Esa Mujer",
-      "url": "https://open.spotify.com/track/0dav0WchoAG0OpwCrYeWF6"
+      "duration_ms": 209702,
+      "name": "Para No Pensar en Ti",
+      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Para No Pensar en Ti",
-        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
+        "name": "45 A\u00f1os Cantandole a los Inutiles",
+        "url": "https://open.spotify.com/album/5Y5GjpS87Z0EaoVWb5uOSL"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 209702,
-      "name": "Para No Pensar en Ti",
-      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+      "duration_ms": 181202,
+      "name": "Que Te Ha Dado Esa Mujer",
+      "url": "https://open.spotify.com/track/0dav0WchoAG0OpwCrYeWF6"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1e",
-        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Tres Veces Te Enga\u00f1e",
-      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "Cari\u00f1o de Mis Cari\u00f1os",
         "url": "https://open.spotify.com/album/6v7iTP4Lh5C9adz8mXIi7G"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 199968,
       "name": "Y Volver\u00e9...",
       "url": "https://open.spotify.com/track/2jLCF9svTRPh0dF2Ugv1AB"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Cuatro Reinas de Mexico",
-        "url": "https://open.spotify.com/album/2mFtp6Cv4jPpEtkSUeUD0v"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Anillo de Compromiso",
-      "url": "https://open.spotify.com/track/2NwwLQKm5Cd9vP1fl1Tacr"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Canta A Jose Alfredo Jimenez Vol. 2",
-        "url": "https://open.spotify.com/album/67KtaN3OEZxnsGb6F1MvTB"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 161471,
-      "name": "Un Mundo Raro",
-      "url": "https://open.spotify.com/track/2lTBORKda4JQ6QoiIgSqWw"
-    },
-    {
-      "added_at": "2021-11-26 06:00:00",
-      "album": {
         "name": "Lola Beltr\u00e1n en Concierto - 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
         "url": "https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF"
       },
@@ -1619,6 +1587,38 @@
       "duration_ms": 228000,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/7vzrbp7j0XIHSycOZqgRa0"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Cuatro Reinas de Mexico",
+        "url": "https://open.spotify.com/album/2mFtp6Cv4jPpEtkSUeUD0v"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 217582,
+      "name": "Anillo de Compromiso",
+      "url": "https://open.spotify.com/track/2NwwLQKm5Cd9vP1fl1Tacr"
+    },
+    {
+      "added_at": "2021-11-26 06:00:00",
+      "album": {
+        "name": "Lo Mejor De Jose Alfredo Jimenez",
+        "url": "https://open.spotify.com/album/42myQnU4LSeQeTPKTrfYyi"
+      },
+      "artists": [
+        {
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+        }
+      ],
+      "duration_ms": 213704,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/6SssAKKpZslFjoiPneV83G"
     },
     {
       "added_at": "2021-11-26 06:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2021-11-26 06:00:00",
       "album": {
-        "name": "Lo Mejor De Jose Alfredo Jimenez",
-        "url": "https://open.spotify.com/album/42myQnU4LSeQeTPKTrfYyi"
+        "name": "Canta A Jose Alfredo Jimenez Vol. 2",
+        "url": "https://open.spotify.com/album/67KtaN3OEZxnsGb6F1MvTB"
       },
       "artists": [
         {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 213704,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/6SssAKKpZslFjoiPneV83G"
+      "duration_ms": 161471,
+      "name": "Un Mundo Raro",
+      "url": "https://open.spotify.com/track/2lTBORKda4JQ6QoiIgSqWw"
     }
   ],
   "unique_name": "Reinas del Mariachi",

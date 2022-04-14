@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVUSF6gmaR8i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVUSF6gmaR8i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVUSF6gmaR8i)
 
-### [The Piano Lounge](https://open.spotify.com/playlist/1d2QPJuB6Fd77XqXT9UYGL)
+### [The Piano Lounge](https://open.spotify.com/playlist/37i9dQZF1DWVUSF6gmaR8i)
 
 > Kick back with a collection of classic and new piano rock and pop.
+
+46 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/1d2QPJuB6Fd77XqXT9UYGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

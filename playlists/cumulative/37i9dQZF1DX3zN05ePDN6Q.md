@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3zN05ePDN6Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3zN05ePDN6Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3zN05ePDN6Q)
 
-### [Boom Rap](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
+### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
 > Tem rap nacional e muito boom bap na área\. Foto: Murica
+
+99 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

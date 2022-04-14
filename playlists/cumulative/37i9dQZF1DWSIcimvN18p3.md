@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSIcimvN18p3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSIcimvN18p3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSIcimvN18p3)
 
-### [Women of Folk](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
+### [Women of Folk](https://open.spotify.com/playlist/37i9dQZF1DWSIcimvN18p3)
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Allison Russell
+
+284 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUOuypaVNd01.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUOuypaVNd01) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUOuypaVNd01)
 
-### [Malandro Posturado](https://open.spotify.com/playlist/6DYnkcmoPdSe2U2BMKpXAN)
+### [Malandro Posturado](https://open.spotify.com/playlist/37i9dQZF1DWUOuypaVNd01)
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: SD9
+
+61 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/6DYnkcmoPdSe2U2BMKpXAN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

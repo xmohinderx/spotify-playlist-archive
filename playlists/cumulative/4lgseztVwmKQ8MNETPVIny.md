@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4lgseztVwmKQ8MNETPVIny.md) - cumulative - [plain](/playlists/plain/4lgseztVwmKQ8MNETPVIny) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4lgseztVwmKQ8MNETPVIny)
 
-### [foodora dinner playlist](https://open.spotify.com/playlist/3cE2hS32LzHy46iCoWEJUh)
+### [foodora dinner playlist](https://open.spotify.com/playlist/4lgseztVwmKQ8MNETPVIny)
 
 > 
+
+25 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/3cE2hS32LzHy46iCoWEJUh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

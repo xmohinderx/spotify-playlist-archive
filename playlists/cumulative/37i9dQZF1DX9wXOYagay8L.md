@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9wXOYagay8L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9wXOYagay8L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9wXOYagay8L)
 
-### [Made In South Africa](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
+### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=pjjP\_NOrQVis9quc4gWHHQ">Makhadzi</a>
+
+115 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

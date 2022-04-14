@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUVpAXiEPK8P.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVpAXiEPK8P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUVpAXiEPK8P)
 
-### [Power Workout](https://open.spotify.com/playlist/1oJeOPmShDcRBjFvIb3Azw)
+### [Power Workout](https://open.spotify.com/playlist/37i9dQZF1DWUVpAXiEPK8P)
 
 > For whatever activity you do that may need a punch of intensity!
+
+97 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/1oJeOPmShDcRBjFvIb3Azw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

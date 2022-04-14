@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdMm3yYbD7IO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdMm3yYbD7IO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdMm3yYbD7IO)
 
-### [90's Workout](https://open.spotify.com/playlist/5plle7IsBjCKk2BE4UbBwc)
+### [90's Workout](https://open.spotify.com/playlist/37i9dQZF1DXdMm3yYbD7IO)
 
 > Move your body with your favorite 90s songs.
+
+91 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/5plle7IsBjCKk2BE4UbBwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

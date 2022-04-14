@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaiLfJ2acJnZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaiLfJ2acJnZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaiLfJ2acJnZ)
 
-### [Wholesome](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
+### [Wholesome](https://open.spotify.com/playlist/37i9dQZF1DXaiLfJ2acJnZ)
 
 > Lovely, pop\-filled, fun.
+
+149 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

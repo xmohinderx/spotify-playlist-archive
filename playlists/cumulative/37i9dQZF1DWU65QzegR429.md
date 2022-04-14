@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU65QzegR429.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU65QzegR429) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU65QzegR429)
 
-### [Latin Frequency](https://open.spotify.com/playlist/0zMa04VYLgYObHIDHZsMot)
+### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
 > Latin music making waves\. Cover: Goyo
+
+73 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0zMa04VYLgYObHIDHZsMot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

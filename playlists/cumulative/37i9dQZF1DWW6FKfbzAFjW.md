@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW6FKfbzAFjW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW6FKfbzAFjW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW6FKfbzAFjW)
 
-### [Cinco de Mayo](https://open.spotify.com/playlist/5MpfuYK4Taev1DBYtxOh5w)
+### [Cinco de Mayo](https://open.spotify.com/playlist/37i9dQZF1DWW6FKfbzAFjW)
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
+
+42 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/5MpfuYK4Taev1DBYtxOh5w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

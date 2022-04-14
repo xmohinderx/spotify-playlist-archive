@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKIA8E7WcJj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKIA8E7WcJj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKIA8E7WcJj)
 
-### [All Out 60s](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
+### [All Out 60s](https://open.spotify.com/playlist/37i9dQZF1DXaKIA8E7WcJj)
 
 > The biggest songs of the 1960s.
+
+751 songs - 1 day 15 hr 8 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

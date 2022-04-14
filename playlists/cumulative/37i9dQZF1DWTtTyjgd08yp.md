@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTtTyjgd08yp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTtTyjgd08yp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtTyjgd08yp)
 
-### [Deep Dark Indie](https://open.spotify.com/playlist/3KkA6yjllLvBiw1k7e9VOi)
+### [Deep Dark Indie](https://open.spotify.com/playlist/37i9dQZF1DWTtTyjgd08yp)
 
 > Hauntingly atmospheric, deeply melodic indie.
+
+105 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/3KkA6yjllLvBiw1k7e9VOi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

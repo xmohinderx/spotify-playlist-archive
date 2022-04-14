@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4SJ51ZOUgnrv5GjY1GCZAL.md) - cumulative - [plain](/playlists/plain/4SJ51ZOUgnrv5GjY1GCZAL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4SJ51ZOUgnrv5GjY1GCZAL)
 
-### [Pink Floyd: Start Here](https://open.spotify.com/playlist/54gkhMAL3K94nIU8kru6qw)
+### [Pink Floyd: Start Here](https://open.spotify.com/playlist/4SJ51ZOUgnrv5GjY1GCZAL)
 
 > 
+
+10 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/54gkhMAL3K94nIU8kru6qw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

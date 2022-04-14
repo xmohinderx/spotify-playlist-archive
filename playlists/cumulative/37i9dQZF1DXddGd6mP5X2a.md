@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXddGd6mP5X2a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXddGd6mP5X2a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXddGd6mP5X2a)
 
-### [Orchestra 100: Spotify Picks](https://open.spotify.com/playlist/1JT2qVBGN6rsxbjfaRZ3dO)
+### [Orchestra 100: Spotify Picks](https://open.spotify.com/playlist/37i9dQZF1DXddGd6mP5X2a)
 
 > 100 of the greatest orchestral works\. From early Handel to contemporary Ligeti and Górecki\. Monumental and romantic with Bruckner and Strauss\. Classical symphonies by Beethoven and Mozart\. Elegant orchestration by Mahler and Ravel.
+
+100 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/1JT2qVBGN6rsxbjfaRZ3dO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

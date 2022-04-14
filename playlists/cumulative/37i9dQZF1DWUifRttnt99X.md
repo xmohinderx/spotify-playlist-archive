@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUifRttnt99X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUifRttnt99X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUifRttnt99X)
 
-### [This Is: Gillian Welch](https://open.spotify.com/playlist/3HbqH6VUV09tsrxJdUmhmH)
+### [This Is: Gillian Welch](https://open.spotify.com/playlist/37i9dQZF1DWUifRttnt99X)
 
 > An essential collection of songs from the <a href="spotify:artist:2H5elA2mJKrHmqkN9GSfkz">folk icon</a>.
+
+59 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/3HbqH6VUV09tsrxJdUmhmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

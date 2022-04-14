@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUw3COUvHCkS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUw3COUvHCkS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUw3COUvHCkS)
 
-### [2000s Heartache](https://open.spotify.com/playlist/0RXg6mV3lO8rDLT1okHytk)
+### [2000s Heartache](https://open.spotify.com/playlist/37i9dQZF1DWUw3COUvHCkS)
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
+
+104 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/0RXg6mV3lO8rDLT1okHytk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +63,8 @@
 | [Little Wonders](https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Little Wonders](https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN) | 3:44 | 2021-12-31 |  |
 | [Look After You](https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:26 | 2021-12-31 |  |
 | [Look What You've Done](https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:50 | 2021-12-31 |  |
-| [Maybe](https://open.spotify.com/track/76rFPFzicNJWMa715Vy7gW) | [Secondhand Serenade](https://open.spotify.com/artist/6eouuqqGggqDlYRV63cgPo) | [A Twist in My Story](https://open.spotify.com/album/5OBOdxUrR4c5JsYyBmCPXh) | 3:30 | 2021-12-31 | 2022-04-07 |
-| [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 | 2021-12-31 |  |
+| [Maybe](https://open.spotify.com/track/76rFPFzicNJWMa715Vy7gW) | [Secondhand Serenade](https://open.spotify.com/artist/6eouuqqGggqDlYRV63cgPo) | [A Twist in My Story](https://open.spotify.com/album/5OBOdxUrR4c5JsYyBmCPXh) | 3:30 | 2021-12-31 |  |
+| [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 | 2021-12-31 | 2022-04-14 |
 | [Miserable At Best](https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 5:16 | 2021-12-31 |  |
 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 | 2021-12-31 |  |
 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 | 2021-12-31 |  |

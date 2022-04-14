@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest Thrash Metal tunes. Cover: Slayer",
-  "num_followers": 128364,
+  "num_followers": 128581,
   "original_name": "Thrash Metal Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMjAxMCwwMDAwMDAwMDVhOGNhMTc2MjNhYjA5ZGM1NjNjZGM0ZDg4OWQzMDU3",
+  "snapshot_id": "MTY0OTg5ODU5NiwwMDAwMDAwMDlhMzFkYTRjODVlNGFkNWJhODIyNzUyYmVjMGVkNzE0",
   "tracks": [
     {
       "added_at": "2022-02-11 11:06:23",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-02-11 11:06:23",
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+        "name": "Rust In Peace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 432546,
-      "name": "The Four Horsemen - Remastered",
-      "url": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
+      "duration_ms": 392600,
+      "name": "Holy Wars...The Punishment Due - Remastered",
+      "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
     },
     {
       "added_at": "2022-02-11 11:06:23",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-02-11 11:06:23",
       "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 432546,
+      "name": "The Four Horsemen - Remastered",
+      "url": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
+    },
+    {
+      "added_at": "2022-02-11 11:06:23",
+      "album": {
         "name": "M-16",
         "url": "https://open.spotify.com/album/5calVaFQFKLSAg0LZ3FQqy"
       },
@@ -199,54 +215,6 @@
       "duration_ms": 356920,
       "name": "Napalm In The Morning",
       "url": "https://open.spotify.com/track/04vA6gMckJePW0RAxijZcm"
-    },
-    {
-      "added_at": "2022-02-11 11:06:23",
-      "album": {
-        "name": "Rust In Peace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "Holy Wars...The Punishment Due - Remastered",
-      "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
-    },
-    {
-      "added_at": "2022-02-11 11:06:23",
-      "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 284506,
-      "name": "Fight Fire With Fire (Remastered)",
-      "url": "https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2"
-    },
-    {
-      "added_at": "2022-02-11 11:06:23",
-      "album": {
-        "name": "Seasons In The Abyss",
-        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "War Ensemble",
-      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
     },
     {
       "added_at": "2022-02-11 11:06:23",
@@ -267,18 +235,18 @@
     {
       "added_at": "2022-02-11 11:06:23",
       "album": {
-        "name": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
-        "url": "https://open.spotify.com/album/0GRJggdZjtFQLzhznZvxFL"
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
       },
       "artists": [
         {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 271373,
-      "name": "Trip at the Brain",
-      "url": "https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi"
+      "duration_ms": 291733,
+      "name": "War Ensemble",
+      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
     },
     {
       "added_at": "2022-02-11 11:06:23",
@@ -299,22 +267,6 @@
     {
       "added_at": "2022-02-11 11:06:23",
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Motorbreath (Remastered)",
-      "url": "https://open.spotify.com/track/1QQgmN383kUqjioRoTSfF3"
-    },
-    {
-      "added_at": "2022-02-11 11:06:23",
-      "album": {
         "name": "Bonded by Blood",
         "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
       },
@@ -327,6 +279,38 @@
       "duration_ms": 237026,
       "name": "Strike of the Beast",
       "url": "https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu"
+    },
+    {
+      "added_at": "2022-02-11 11:06:23",
+      "album": {
+        "name": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
+        "url": "https://open.spotify.com/album/0GRJggdZjtFQLzhznZvxFL"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Trip at the Brain",
+      "url": "https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi"
+    },
+    {
+      "added_at": "2022-02-11 11:06:23",
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 284506,
+      "name": "Fight Fire With Fire (Remastered)",
+      "url": "https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2"
     },
     {
       "added_at": "2022-02-11 11:06:23",
@@ -459,6 +443,22 @@
     {
       "added_at": "2022-02-11 11:06:23",
       "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "Motorbreath (Remastered)",
+      "url": "https://open.spotify.com/track/1QQgmN383kUqjioRoTSfF3"
+    },
+    {
+      "added_at": "2022-02-11 11:06:23",
+      "album": {
         "name": "Metal Church",
         "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-02-11 11:06:23",
       "album": {
-        "name": "Conformicide",
-        "url": "https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 289520,
-      "name": "Hang 'Em High",
-      "url": "https://open.spotify.com/track/5g2cylVMI57PM06exAtNnz"
-    },
-    {
-      "added_at": "2022-02-11 11:06:23",
-      "album": {
         "name": "Ignorance & Surf Nicaragua",
         "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 264506,
       "name": "Death Squad",
       "url": "https://open.spotify.com/track/6HxVWqnbWUiKimNRPz1K8l"
+    },
+    {
+      "added_at": "2022-02-11 11:06:23",
+      "album": {
+        "name": "Conformicide",
+        "url": "https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 289520,
+      "name": "Hang 'Em High",
+      "url": "https://open.spotify.com/track/5g2cylVMI57PM06exAtNnz"
     },
     {
       "added_at": "2022-02-11 11:06:23",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-02-11 11:06:23",
       "album": {
-        "name": "The Years of Decay",
-        "url": "https://open.spotify.com/album/5cIvu6047CsrlgRcdwd2HQ"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 275386,
-      "name": "Elimination",
-      "url": "https://open.spotify.com/track/6lWFQo5NuR3y8Q6CHIRatA"
-    },
-    {
-      "added_at": "2022-02-11 11:06:23",
-      "album": {
         "name": "Time Is Up",
         "url": "https://open.spotify.com/album/7275posUjEJ7H9tLyaxyLH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 236893,
       "name": "Prepare For Attack",
       "url": "https://open.spotify.com/track/6cTvR35cvugp2SLSPsnzy0"
+    },
+    {
+      "added_at": "2022-02-11 11:06:23",
+      "album": {
+        "name": "The Years of Decay",
+        "url": "https://open.spotify.com/album/5cIvu6047CsrlgRcdwd2HQ"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 275386,
+      "name": "Elimination",
+      "url": "https://open.spotify.com/track/6lWFQo5NuR3y8Q6CHIRatA"
     },
     {
       "added_at": "2022-02-11 11:06:23",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-02-11 11:06:23",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
+        "name": "The New Order",
+        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
       },
       "artists": [
         {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Wrecking Crew",
-      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
+      "duration_ms": 307306,
+      "name": "Disciples of the Watch",
+      "url": "https://open.spotify.com/track/6bXHw7cdcN45I04pesdWnG"
     }
   ],
   "unique_name": "Thrash Metal Essentials",

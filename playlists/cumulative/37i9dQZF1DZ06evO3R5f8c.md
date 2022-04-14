@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3R5f8c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3R5f8c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3R5f8c)
 
-### [This Is Black Coffee](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
+### [This Is Black Coffee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c)
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
+
+67 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +19,7 @@
 | [Come To Me](https://open.spotify.com/track/1eIhSaVLP46opgA6baksuB) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Turn Me On / Come To Me](https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en) | 7:57 | 2021-12-28 |  |
 | [Come With Me](https://open.spotify.com/track/1i9Ag3QndpJdr8nxWDCjrK) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mque](https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU) | [Come With Me](https://open.spotify.com/album/3oCLiovKu5rEDwRn5OMULV) | 3:17 | 2021-12-28 |  |
 | [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/6iqdyQpUgpO2dYXlqDoi5s) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve), [Quentin Harris](https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B) | [Crazy \(The Remixes\)](https://open.spotify.com/album/7yjLZJERrZNHb2OojbmqBO) | 7:46 | 2021-12-28 |  |
-| [Deep In The Bottom \- The Jouney Mix](https://open.spotify.com/track/7sLrlIM34q3YLeAPGFJqFd) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa) | [The Journey Continues](https://open.spotify.com/album/1aV3c5SM9qX93Q9Y8mzB67) | 8:36 | 2021-12-28 |  |
+| [Deep In The Bottom \- The Jouney Mix](https://open.spotify.com/track/7sLrlIM34q3YLeAPGFJqFd) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa) | [The Journey Continues](https://open.spotify.com/album/1aV3c5SM9qX93Q9Y8mzB67) | 8:36 | 2021-12-28 | 2022-04-14 |
 | [DJ Mix](https://open.spotify.com/track/0HPsuZ8rZbBf71J34uhYKA) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 55:02 | 2022-01-07 |  |
 | [DJ Mix 3](https://open.spotify.com/track/7xZdRkC3g57gOtdFlum2eS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 1:10:18 | 2021-12-28 | 2021-12-30 |
 | [Don't You \(Give Up\) \- Live](https://open.spotify.com/track/6O4CHPJQdyTfPv1AZC667n) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:44 | 2021-12-28 |  |
@@ -34,7 +36,7 @@
 | [I Know What's on Your Mind \- Ethan White Remix](https://open.spotify.com/track/0dS3yI8yVfstJBRTUaVkSH) | [Tortured Soul](https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Ethan White](https://open.spotify.com/artist/2qD93ieKCaxZuUQJi2R739) | [Undercover Remixes](https://open.spotify.com/album/7yxBRaNkoAVxLGwnjFXc2C) | 7:43 | 2021-12-28 |  |
 | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/track/1gqlRiladdiWHmQU8GwtwE) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/album/31CJ5vMMpstJibWF6ESDUD) | 9:48 | 2021-12-28 |  |
 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 | 2021-12-28 |  |
-| [Ilala](https://open.spotify.com/track/6mbcIiKVptYN6dD7MuTTJS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Music Is King](https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH) | 4:50 | 2021-12-31 | 2022-04-13 |
+| [Ilala](https://open.spotify.com/track/6mbcIiKVptYN6dD7MuTTJS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Music Is King](https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH) | 4:50 | 2021-12-31 |  |
 | [In Tunes Wave](https://open.spotify.com/track/0eXO34M9MC8RJwqkenfEhy) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Relaxing Moments \- Exquisite Chillout Vibes](https://open.spotify.com/album/5pzPX4bgqZd46AJUhnaXao) | 5:12 | 2021-12-28 | 2022-01-29 |
 | [In Tunes Wave \- Original Mix](https://open.spotify.com/track/7HY0sGSdHdj8RTB1n42WVD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Just Relax \( a Great Collection of Chillout Music \)](https://open.spotify.com/album/1DxiC2b9joB3XOjcpirhtH) | 5:12 | 2022-01-29 |  |
 | [Inkodlo Kamashimane](https://open.spotify.com/track/5hI4ehQIIuPZWSjjXu61JW) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 9:12 | 2021-12-28 |  |

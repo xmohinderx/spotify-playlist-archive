@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX58NJL8iVBGW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX58NJL8iVBGW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX58NJL8iVBGW)
 
-### [Southern Gothic](https://open.spotify.com/playlist/4XQxIpr1b9y5T9BKvj7rBC)
+### [Southern Gothic](https://open.spotify.com/playlist/37i9dQZF1DX58NJL8iVBGW)
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
+
+126 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/4XQxIpr1b9y5T9BKvj7rBC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

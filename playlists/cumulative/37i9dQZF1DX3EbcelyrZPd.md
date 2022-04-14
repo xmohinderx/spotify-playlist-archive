@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3EbcelyrZPd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3EbcelyrZPd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3EbcelyrZPd)
 
-### [Bongo Flava](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rich Mavoko
+
+97 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

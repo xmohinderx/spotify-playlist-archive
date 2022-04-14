@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX0o6sD1a6P5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX0o6sD1a6P5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX0o6sD1a6P5)
 
-### [Afro Hits](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Rema x Jason Derulo
+
+113 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

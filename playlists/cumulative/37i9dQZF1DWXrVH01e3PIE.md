@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXrVH01e3PIE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXrVH01e3PIE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXrVH01e3PIE)
 
-### [Trapperz Argentina](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
 > La casa del Trap de Argentino\. Foto: John C.
+
+111 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

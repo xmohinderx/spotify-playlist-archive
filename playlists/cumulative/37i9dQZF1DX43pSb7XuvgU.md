@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX43pSb7XuvgU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43pSb7XuvgU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX43pSb7XuvgU)
 
-### [Dos Íconos: José José x Juan Gabriel](https://open.spotify.com/playlist/7gdGesjBiNeg3qh20SDm0L)
+### [Dos Íconos: José José x Juan Gabriel](https://open.spotify.com/playlist/37i9dQZF1DX43pSb7XuvgU)
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
+
+116 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/7gdGesjBiNeg3qh20SDm0L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

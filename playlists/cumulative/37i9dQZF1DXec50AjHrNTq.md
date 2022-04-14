@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXec50AjHrNTq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXec50AjHrNTq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXec50AjHrNTq)
 
-### [This Is AC/DC \(2\)](https://open.spotify.com/playlist/1Oiyz9z4CtnzYkKYSR7hfD)
+### [This Is AC/DC \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXec50AjHrNTq)
 
 > The best of AC/DC, all in one place.
+
+50 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/1Oiyz9z4CtnzYkKYSR7hfD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

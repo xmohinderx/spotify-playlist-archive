@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5I05jXm1F2M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5I05jXm1F2M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5I05jXm1F2M)
 
-### [Pub Anthems](https://open.spotify.com/playlist/1lgSGc5x5JbvFhEynbC3gX)
+### [Pub Anthems](https://open.spotify.com/playlist/37i9dQZF1DX5I05jXm1F2M)
 
 > Take that last call karaoke to go.
+
+104 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/1lgSGc5x5JbvFhEynbC3gX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

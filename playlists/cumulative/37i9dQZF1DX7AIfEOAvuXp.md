@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7AIfEOAvuXp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7AIfEOAvuXp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7AIfEOAvuXp)
 
-### [Fresh Finds Presents..\. Fresh Finds Class of 2020](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+### [Fresh Finds Presents..\. Fresh Finds Class of 2020](https://open.spotify.com/playlist/37i9dQZF1DX7AIfEOAvuXp)
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
+
+102 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

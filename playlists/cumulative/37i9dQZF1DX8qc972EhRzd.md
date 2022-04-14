@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8qc972EhRzd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8qc972EhRzd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8qc972EhRzd)
 
-### [La película que me pasé contigo](https://open.spotify.com/playlist/34ipu88tkn6QTjz7QjcOsL)
+### [La película que me pasé contigo](https://open.spotify.com/playlist/37i9dQZF1DX8qc972EhRzd)
 
 > Lo que pudo ser, pero te lo perdiste bebé
+
+60 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/34ipu88tkn6QTjz7QjcOsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

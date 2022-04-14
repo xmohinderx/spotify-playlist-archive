@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIVYVBNw9D5K.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,439 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,583 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIVYVBNw9D5K.md) - [plain]
 | 49 | [Hayrola](https://open.spotify.com/track/7HgEjJCh0hQ0GO7PjQvEF3) | [Artz](https://open.spotify.com/artist/2QU0UNvQvEZ2fuRUhkUNq4), [Bugy](https://open.spotify.com/artist/1XxdJaLo6jXdFbgR1zKJ3x), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Hayrola](https://open.spotify.com/album/5nEbYpL2jivoHAmYEG5bbD) | 3:37 |
 | 50 | [Al Sevgilim](https://open.spotify.com/track/0UguFn9xs4WQshHabcxUxH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Al Sevgilim](https://open.spotify.com/album/3ToGL3pGP4wYodmOBxj9lA) | 3:12 |
 
-Snapshot ID: `NzAzMDc4MTc2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzAzMTYwMjQ1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

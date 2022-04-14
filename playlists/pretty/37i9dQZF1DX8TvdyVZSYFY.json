@@ -1,12 +1,12 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2000794,
+  "num_followers": 2000986,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTg5NSwwMDAwMDAwMDM3NTc0NzJjNWNhODdhZWQzMTdjZGFjYzZjMWMxYzI3",
+  "snapshot_id": "MTY0OTg5ODQ4NiwwMDAwMDAwMGU3NDA5ZDNiMjQ1MTFhYzI5OTE5MjU3YzMzMTk1YTYy",
   "tracks": [
     {
       "added_at": "2022-01-10 11:27:44",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "I Wanna Dance with Somebody (Acoustic)",
-        "url": "https://open.spotify.com/album/6uD5hZuQwWjcWmmGSuEUH3"
+        "name": "Happier (Acoustic)",
+        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
       },
       "artists": [
         {
-          "name": "Tyler Ward",
-          "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 211291,
-      "name": "I Wanna Dance with Somebody - Acoustic",
-      "url": "https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI"
+      "duration_ms": 206209,
+      "name": "Happier - Acoustic",
+      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "I Wanna Dance with Somebody (Acoustic)",
+        "url": "https://open.spotify.com/album/6uD5hZuQwWjcWmmGSuEUH3"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ward",
+          "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
+        }
+      ],
+      "duration_ms": 211291,
+      "name": "I Wanna Dance with Somebody - Acoustic",
+      "url": "https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Use Somebody (Acoustic Version)",
         "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
       },
@@ -219,8 +235,8 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Happier (Acoustic)",
-        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+        "name": "Perfect (Acoustic)",
+        "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
       },
       "artists": [
         {
@@ -228,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 206209,
-      "name": "Happier - Acoustic",
-      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
+      "duration_ms": 260866,
+      "name": "Perfect - Acoustic",
+      "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -247,6 +263,38 @@
       "duration_ms": 255510,
       "name": "What About Us - Acoustic",
       "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Naked (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Naked - Acoustic Version",
+      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -295,54 +343,6 @@
       "duration_ms": 220095,
       "name": "Too Good At Goodbyes - Acoustic",
       "url": "https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Perfect (Acoustic)",
-        "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Perfect - Acoustic",
-      "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Naked (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Naked - Acoustic Version",
-      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Too Much To Ask (Acoustic)",
+        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 221598,
+      "name": "Too Much To Ask - Acoustic",
+      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Rhythm Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 219378,
       "name": "Angel",
       "url": "https://open.spotify.com/track/30kLC24uAzd0WJCyutcV0t"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Too Much To Ask (Acoustic)",
-        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 221598,
-      "name": "Too Much To Ask - Acoustic",
-      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Shut Up And Dance (Acoustic)",
-        "url": "https://open.spotify.com/album/7gVpldI2kuvncnrLtiOcDl"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Shut Up and Dance - Live Acoustic - 2015",
-      "url": "https://open.spotify.com/track/3Xzog9enTvbsc0G7G9M58D"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Shut Up And Dance (Acoustic)",
+        "url": "https://open.spotify.com/album/7gVpldI2kuvncnrLtiOcDl"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Shut Up and Dance - Live Acoustic - 2015",
+      "url": "https://open.spotify.com/track/3Xzog9enTvbsc0G7G9M58D"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Umbrella (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 178319,
-      "name": "Umbrella - Acoustic Version",
-      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "AM Versions",
         "url": "https://open.spotify.com/album/5CCdVEgMxHdXrufmR2cHHN"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 231582,
       "name": "Once In a While - Acoustic",
       "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Umbrella (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 178319,
+      "name": "Umbrella - Acoustic Version",
+      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Let You Love Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4ymdSiRu5oOyfrJschvFLO"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 189347,
+      "name": "Let You Love Me - Acoustic",
+      "url": "https://open.spotify.com/track/6k3WSp6MIic0wBk9uVjIXk"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Beautiful Girls",
         "url": "https://open.spotify.com/album/5N3aGKPcdxAViYFagexAEO"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 216586,
       "name": "Bad Day - Acoustic",
       "url": "https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Let You Love Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4ymdSiRu5oOyfrJschvFLO"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 189347,
-      "name": "Let You Love Me - Acoustic",
-      "url": "https://open.spotify.com/track/6k3WSp6MIic0wBk9uVjIXk"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Take a Bow",
         "url": "https://open.spotify.com/album/7tWMiJGwx2CpYIKjrfKipZ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 223969,
       "name": "Take a Bow",
       "url": "https://open.spotify.com/track/0kIX9RSx5BOzJR6cf64XEj"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "It Aint me (Acoustic)",
-        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "It Aint me - Acoustic",
-      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Attention (Acoustic)",
         "url": "https://open.spotify.com/album/08BovLE1x4JHA0zJz07Oaw"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "It Aint me (Acoustic)",
+        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "It Aint me - Acoustic",
+      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Happy Now (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Happy Now - Acoustic",
-      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Your Song (Acoustic)",
         "url": "https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 195130,
       "name": "Without You",
       "url": "https://open.spotify.com/track/5ak3ZwyjRdwABZQfovFcZG"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Happy Now (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Happy Now - Acoustic",
+      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3143,22 +3143,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Don't Call Me Up (Acoustic)",
-        "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 212578,
-      "name": "Don't Call Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Find You (Acoustic - Live In Los Angeles)",
         "url": "https://open.spotify.com/album/4Z9ZiHTSTFLArmbfX0H8uC"
       },
@@ -3179,6 +3163,22 @@
       "duration_ms": 197007,
       "name": "Find You - Acoustic - Live In Los Angeles",
       "url": "https://open.spotify.com/track/1CnOUJzM9F5JHUVepMQ2Dt"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Don't Call Me Up (Acoustic)",
+        "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 212578,
+      "name": "Don't Call Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3323,22 +3323,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/7JH73TQATqQutleRGzwazT"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 131847,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/22niADFXztIbQ4wAimKPOw"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Pumped Up Kicks (Acoustic Version)",
         "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
       },
@@ -3355,6 +3339,22 @@
       "duration_ms": 174793,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/7JH73TQATqQutleRGzwazT"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 131847,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/22niADFXztIbQ4wAimKPOw"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3747,22 +3747,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Call Me Maybe",
-        "url": "https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW"
-      },
-      "artists": [
-        {
-          "name": "Plain Simple",
-          "url": "https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad"
-        }
-      ],
-      "duration_ms": 211728,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "FRIENDS (Acoustic)",
         "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
       },
@@ -3827,6 +3811,22 @@
       "duration_ms": 196945,
       "name": "Good Life - Acoustic Version",
       "url": "https://open.spotify.com/track/5CMccjYRurNhK3qt71BFmz"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Call Me Maybe",
+        "url": "https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW"
+      },
+      "artists": [
+        {
+          "name": "Plain Simple",
+          "url": "https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad"
+        }
+      ],
+      "duration_ms": 211728,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7"
     },
     {
       "added_at": "2022-01-10 11:27:44",

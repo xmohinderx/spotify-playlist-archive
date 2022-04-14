@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUAeTOoyNaqm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUAeTOoyNaqm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUAeTOoyNaqm)
 
-### [ASMR Sleep](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
+### [ASMR Sleep](https://open.spotify.com/playlist/37i9dQZF1DWUAeTOoyNaqm)
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
+
+71 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

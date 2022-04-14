@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXHghfFFOaS6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXHghfFFOaS6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXHghfFFOaS6)
 
-### [Acid Jazz](https://open.spotify.com/playlist/0s2Ueduw9O11cFJZqPQWID)
+### [Acid Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXHghfFFOaS6)
 
 > Groovy jazz fusion\. Cover: Jamiroquai
+
+119 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/0s2Ueduw9O11cFJZqPQWID)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

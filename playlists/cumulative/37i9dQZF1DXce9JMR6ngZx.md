@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXce9JMR6ngZx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXce9JMR6ngZx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXce9JMR6ngZx)
 
-### [Faxina Nostalgia](https://open.spotify.com/playlist/73bheCpyPrjxP58pmAp2Qf)
+### [Faxina Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DXce9JMR6ngZx)
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
+
+117 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/73bheCpyPrjxP58pmAp2Qf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

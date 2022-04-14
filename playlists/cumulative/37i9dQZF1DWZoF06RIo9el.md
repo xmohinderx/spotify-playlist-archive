@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZoF06RIo9el.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZoF06RIo9el) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoF06RIo9el)
 
-### [Future Hits: Latin](https://open.spotify.com/playlist/43291nJ92u7zOO0hZDqeVI)
+### [Future Hits: Latin](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
 > The Latin hits of tomorrow are on Spotify today\. Cover: Maluma, Feid
+
+125 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/43291nJ92u7zOO0hZDqeVI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

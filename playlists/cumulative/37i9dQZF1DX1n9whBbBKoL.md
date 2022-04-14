@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1n9whBbBKoL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1n9whBbBKoL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1n9whBbBKoL)
 
-### [Floating Through Space](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+### [Floating Through Space](https://open.spotify.com/playlist/37i9dQZF1DX1n9whBbBKoL)
 
 > Ambient drone to make you feel weightless.
+
+143 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

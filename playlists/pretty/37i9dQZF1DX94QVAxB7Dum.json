@@ -1,12 +1,12 @@
 {
   "description": "Music in the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 615543,
+  "num_followers": 615757,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTkxNSwwMDAwMDAwMDIyMWJmMmM2NTBhODA2Njg1YmNlMDdkYjNlMmMyZTY4",
+  "snapshot_id": "MTY0OTg5ODUwNSwwMDAwMDAwMDkxNTY3N2I4MDQ3ZGEzMDAzZDQ3NWY2MDkxYmFjYzEy",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "The Definitive Collection (International Version)",
-        "url": "https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 313560,
-      "name": "Boogie On Reggae Woman",
-      "url": "https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/4TJpIhnTQkgVewMDkeBm8v"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 228893,
       "name": "Rainy Night in Georgia",
       "url": "https://open.spotify.com/track/1mRmNpeDpEbPXQluq7hmTe"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "The Definitive Collection (International Version)",
+        "url": "https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 313560,
+      "name": "Boogie On Reggae Woman",
+      "url": "https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY"
     },
     {
       "added_at": "2021-04-29 10:16:48",

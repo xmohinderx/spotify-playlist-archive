@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Vengaboys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,604 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,972 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,9 +144,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 134 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
 | 135 | [Ain't No Man](https://open.spotify.com/track/4edZn0QE6eeo7yYYpuPvU6) | [Dina Carroll](https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG) | [So Close](https://open.spotify.com/album/1N6OwzFpqpAbm4tjhuxMDe) | 3:53 |
 | 136 | [Boom Boom Boom \- Don't Break My Balls Mix](https://open.spotify.com/track/1m3YR95r3ZuLtu66T8l4Ab) | [The Outhere Brothers](https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK) | [1 Polish 2 Biscuits & a Fish Sandwich](https://open.spotify.com/album/3w2YJTPFOXO793xcjPhBWJ) | 4:13 |
-| 137 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
-| 138 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 |
-| 139 | [Pray](https://open.spotify.com/track/1luVSQzb1LtLWxFd9xNDYL) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 3:43 |
+| 137 | [Pray](https://open.spotify.com/track/1luVSQzb1LtLWxFd9xNDYL) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 3:43 |
+| 138 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
+| 139 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 |
 | 140 | [Take a Chance on Me](https://open.spotify.com/track/3RneZfjPCh4GCk3rPqcxXp) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Abba\-Esque](https://open.spotify.com/album/2K7r9s7xjJyhZUxZms4xCc) | 3:46 |
 | 141 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
 | 142 | [I'm Too Sexy](https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 2:50 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 144 | [If I Can't Have You \- 7" Edit](https://open.spotify.com/track/7CQwrwJSd2XBYUiGkyQyWC) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [If I Can't Have You](https://open.spotify.com/album/12uGGJ2a6UwEJTgDHlwCdV) | 3:30 |
 | 145 | [This Is The Way \- Radio Edit](https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Made In Sweden](https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA) | 3:55 |
 | 146 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
-| 147 | [Insomnia \- Radio Edit](https://open.spotify.com/track/1nKI0IopPWboMzMYivWi8x) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [100 90'er Hits](https://open.spotify.com/album/5J8Okaw3myp8TnIqI5qqst) | 3:33 |
-| 148 | [Love & Devotion](https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/4SJ6x0Hlml18n0Ur9hnWNU) | 4:34 |
-| 149 | [Don't Talk Just Kiss](https://open.spotify.com/track/4mrbbOwCgfgxiYy8kaVyAO) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 4:01 |
+| 147 | [Don't Talk Just Kiss](https://open.spotify.com/track/4mrbbOwCgfgxiYy8kaVyAO) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 4:01 |
+| 148 | [Insomnia \- Radio Edit](https://open.spotify.com/track/1nKI0IopPWboMzMYivWi8x) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [100 90'er Hits](https://open.spotify.com/album/5J8Okaw3myp8TnIqI5qqst) | 3:33 |
+| 149 | [Love & Devotion](https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/4SJ6x0Hlml18n0Ur9hnWNU) | 4:34 |
 | 150 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
 
-Snapshot ID: `MTY0OTgxMjA3MSwwMDAwMDAwMDY2NDdjYWU0NzA4MDc1MzA3MTQ3MDBiOWM4N2VhMzY3`
+Snapshot ID: `MTY0OTg5ODY1NCwwMDAwMDAwMDY2NDdjYWU0NzA4MDc1MzA3MTQ3MDBiOWM4N2VhMzY3`

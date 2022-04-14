@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdbTERrLjYkP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdbTERrLjYkP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdbTERrLjYkP)
 
-### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Leith Ross
+
+155 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

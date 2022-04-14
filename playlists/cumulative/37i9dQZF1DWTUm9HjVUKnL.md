@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTUm9HjVUKnL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTUm9HjVUKnL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTUm9HjVUKnL)
 
-### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Lewis Capaldi, Miguel, and Maggie Rogers.
+
+730 songs - 1 day 21 hr 7 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

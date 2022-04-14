@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4OyEPaWHBdk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OyEPaWHBdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OyEPaWHBdk)
 
-### [The 11th Gaon Chart Music Awards](https://open.spotify.com/playlist/7vcRWJxU5Wkswds3wsTczl)
+### [The 11th Gaon Chart Music Awards](https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk)
 
 > Check out the winners for this year's Gaon Chart Music Awards!
+
+121 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/7vcRWJxU5Wkswds3wsTczl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

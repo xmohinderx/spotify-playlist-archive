@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2rBR3X9E86S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2rBR3X9E86S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2rBR3X9E86S)
 
-### [This Is The Black Keys \(2\)](https://open.spotify.com/playlist/2kbKuS6R6VjLIIKBJd8e0i)
+### [This Is The Black Keys \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX2rBR3X9E86S)
 
 > One of the most iconic bands of recent time\. Here is the best of The Black Keys.
+
+52 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/2kbKuS6R6VjLIIKBJd8e0i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

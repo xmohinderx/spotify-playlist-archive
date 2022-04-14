@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcLDm348RRYK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcLDm348RRYK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcLDm348RRYK)
 
-### [Acoustic Concentration](https://open.spotify.com/playlist/5hjTWJounGDY6ag6ldJKXp)
+### [Acoustic Concentration](https://open.spotify.com/playlist/37i9dQZF1DXcLDm348RRYK)
 
 > Shut out the noise around you with these acoustic instrumentals.
+
+63 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/5hjTWJounGDY6ag6ldJKXp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

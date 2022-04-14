@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbvfORzIlDQm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbvfORzIlDQm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbvfORzIlDQm)
 
-### [Roots of Change](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
+### [Roots of Change](https://open.spotify.com/playlist/37i9dQZF1DXbvfORzIlDQm)
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
+
+54 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

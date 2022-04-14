@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6JuPU62sIoU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6JuPU62sIoU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JuPU62sIoU)
 
-### [This Is Nickelback](https://open.spotify.com/playlist/3GdmpJvnDFFw5KTt4vYn2m)
+### [This Is Nickelback](https://open.spotify.com/playlist/37i9dQZF1DX6JuPU62sIoU)
 
 > Get all the essential music by Nickelback.
+
+33 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/3GdmpJvnDFFw5KTt4vYn2m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

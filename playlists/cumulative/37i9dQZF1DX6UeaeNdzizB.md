@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6UeaeNdzizB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6UeaeNdzizB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6UeaeNdzizB)
 
-### [This Is: The Head and the Heart](https://open.spotify.com/playlist/3BmTIjmISU1asJeXRp5Omw)
+### [This Is: The Head and the Heart](https://open.spotify.com/playlist/37i9dQZF1DX6UeaeNdzizB)
 
 > The <a href="spotify:artist:0n94vC3S9c3mb2HyNAOcjg">Seattle group</a>'s essential tracks, all in a single playlist.
+
+45 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/3BmTIjmISU1asJeXRp5Omw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

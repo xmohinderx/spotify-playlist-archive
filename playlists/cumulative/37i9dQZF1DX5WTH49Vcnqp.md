@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5WTH49Vcnqp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5WTH49Vcnqp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5WTH49Vcnqp)
 
-### [Front Left](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
 
 > music that's hard to define but easy to love feat\. Spacey Jane
+
+294 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +83,7 @@
 | [Famous](https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 4:49 | 2021-12-28 | 2022-02-01 |
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-01-13 | 2022-03-04 |
 | [Feel Good](https://open.spotify.com/track/3j81JGhjUAXrfuAbvTpE3b) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Feel Good](https://open.spotify.com/album/5v6TiY5DBUelWDVoJ7DYMw) | 2:54 | 2021-12-28 | 2022-01-21 |
-| [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-10 |  |
+| [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-10 | 2022-04-14 |
 | [Find Me](https://open.spotify.com/track/6MnwlWt1UUPTsaaULrv2Nl) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Find Me](https://open.spotify.com/album/4Ysup03MDl4uBhcdzWcKA4) | 3:00 | 2022-03-21 |  |
 | [FLARE](https://open.spotify.com/track/16hxnA8hrQ7hT5cKzuRfUI) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [FLARE](https://open.spotify.com/album/3xTwXIBYS3w4LjFtIi7hIO) | 3:18 | 2021-12-28 | 2022-02-04 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-17 |  |
@@ -261,6 +263,7 @@
 | [Talk Down](https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:31 | 2021-12-28 | 2022-01-14 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 | 2021-12-28 | 2022-02-25 |
 | [Teeth](https://open.spotify.com/track/3fcPv6ZWPfIwWENirt7w2w) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Teeth](https://open.spotify.com/album/6LWe8tLgZfcj9S8gi8reLY) | 3:09 | 2022-03-03 |  |
+| [Tek It](https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:11 | 2022-04-13 |  |
 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 | 2021-12-28 | 2022-01-28 |
 | [tend the garden](https://open.spotify.com/track/5drrhaJL9w46bQpwGfeuBV) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [tend the garden](https://open.spotify.com/album/7bzO92EHw4j5BXcvAcMacl) | 4:27 | 2021-12-28 | 2022-01-14 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-02-17 | 2022-03-31 |

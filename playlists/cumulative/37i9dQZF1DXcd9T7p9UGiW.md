@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcd9T7p9UGiW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcd9T7p9UGiW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcd9T7p9UGiW)
 
-### [Gone Abroad ](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
+### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=hF3KpHpFTNmf7Go9\_OfZVg"> Yemi Alade </a> and <a href="https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S?si=VUxF\_jE8RZuqUQSxi9AoJAg"> Kranium</a>
+
+128 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

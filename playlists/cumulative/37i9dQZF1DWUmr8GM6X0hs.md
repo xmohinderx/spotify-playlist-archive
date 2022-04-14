@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUmr8GM6X0hs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUmr8GM6X0hs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUmr8GM6X0hs)
 
-### [Boleros en Casa](https://open.spotify.com/playlist/13iVxCV9Zen1FfBrkzmqw4)
+### [Boleros en Casa](https://open.spotify.com/playlist/37i9dQZF1DWUmr8GM6X0hs)
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
+
+81 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/13iVxCV9Zen1FfBrkzmqw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

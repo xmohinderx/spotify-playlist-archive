@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0op6xwVK9pVhcxozSQPEsJ.md) - cumulative - [plain](/playlists/plain/0op6xwVK9pVhcxozSQPEsJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0op6xwVK9pVhcxozSQPEsJ)
 
-### [Namaste](https://open.spotify.com/playlist/5KDYphaKZ3wQd4nx3UbBU0)
+### [Namaste](https://open.spotify.com/playlist/0op6xwVK9pVhcxozSQPEsJ)
 
 > Take some time out of your day to recharge your mind.
+
+93 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5KDYphaKZ3wQd4nx3UbBU0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

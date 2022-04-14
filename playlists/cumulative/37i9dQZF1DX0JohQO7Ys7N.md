@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0JohQO7Ys7N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0JohQO7Ys7N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0JohQO7Ys7N)
 
-### [NairoBae](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=XE\_bO90lSZ2tHlmvUTnTLA"> Maya Amolo </a>
+
+66 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

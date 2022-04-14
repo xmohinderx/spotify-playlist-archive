@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTSjoMyJoVXv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTSjoMyJoVXv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTSjoMyJoVXv)
 
-### [This Is Shankar\-Ehsaan\-Loy](https://open.spotify.com/playlist/0oAogCOC50fFP5GGv3Rd3S)
+### [This Is Shankar\-Ehsaan\-Loy](https://open.spotify.com/playlist/37i9dQZF1DWTSjoMyJoVXv)
 
 > The Bollywood songwriting team's best work.
+
+30 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/0oAogCOC50fFP5GGv3Rd3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

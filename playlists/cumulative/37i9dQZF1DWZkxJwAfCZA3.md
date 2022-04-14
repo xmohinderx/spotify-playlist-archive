@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZkxJwAfCZA3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZkxJwAfCZA3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZkxJwAfCZA3)
 
-### [Maya Jane Coles' track IDs](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
+### [Maya Jane Coles' track IDs](https://open.spotify.com/playlist/37i9dQZF1DWZkxJwAfCZA3)
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
+
+50 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

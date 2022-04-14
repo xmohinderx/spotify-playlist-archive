@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,570 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,984 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 9 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr) | 2:57 |
 | 10 | [I Wanna Die in Los Angeles](https://open.spotify.com/track/58AIwZRlAhN0FHe0Vd6NF2) | [Dead To Me](https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL) | [I Wanna Die in Los Angeles](https://open.spotify.com/album/3tZP5QqVyH5C9u053EtZu7) | 2:22 |
 | 11 | [Alchemy](https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ) | [Banner Pilot](https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj) | [Heart Beats Pacific](https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7) | 2:14 |
-| 12 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 |
-| 13 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
-| 14 | [The Hell Song](https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG) | 3:19 |
+| 12 | [The Hell Song](https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG) | 3:19 |
+| 13 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 |
+| 14 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 15 | [Team Wiped](https://open.spotify.com/track/2EDFvOTytVTrbbWgtAhsab) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [Team Wiped](https://open.spotify.com/album/4nijPfpmxF3YOoGSdowXME) | 3:14 |
 | 16 | [Linewleum \(feat\. Avenged Sevenfold\)](https://open.spotify.com/track/6qXSX0SdYxtSU8jbLiLdNA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Linewleum \(feat\. Avenged Sevenfold\)](https://open.spotify.com/album/0XixcspdWhVct4m4ss2S3Z) | 3:19 |
 | 17 | [Punk Rock And Roll](https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm) | [Street Dogs](https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9) | [Street Dogs \(Deluxe Edition\)](https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC) | 2:34 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 19 | [Notre Dame](https://open.spotify.com/track/1QT3Is0dh27Avn6aRtGOZ8) | [The Bombpops](https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke) | [Death in Venice Beach](https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p) | 2:33 |
 | 20 | [New Vegas Bomb](https://open.spotify.com/track/7LeJL3mcZPkUlx9lpgWRL5) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Skatune Network](https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC) | [New Vegas Bomb](https://open.spotify.com/album/7aoEMaN8AglA4KP1Pq8Aoq) | 2:44 |
 | 21 | [Ruby Soho](https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:37 |
-| 22 | [No Cigar](https://open.spotify.com/track/22klU94r0NFtx4cPO8KqHk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/6s6ieD2MMDUSvXgiQThLwy) | 2:43 |
-| 23 | [Six Years on Dope](https://open.spotify.com/track/2eKVo1JrBjEM7fiR6JPiU7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/7C0KC68isgrHpV43072lYE) | 1:32 |
+| 22 | [Six Years on Dope](https://open.spotify.com/track/2eKVo1JrBjEM7fiR6JPiU7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/7C0KC68isgrHpV43072lYE) | 1:32 |
+| 23 | [No Cigar](https://open.spotify.com/track/22klU94r0NFtx4cPO8KqHk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/6s6ieD2MMDUSvXgiQThLwy) | 2:43 |
 | 24 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
 | 25 | [I'm Still Not Dead](https://open.spotify.com/track/3cB9nNtcPWNOfteWjsmDlH) | [Riverboat Gamblers](https://open.spotify.com/artist/70IS631hJba0OuAbmhZNOq) | [To The Confusion Of Our Enemies](https://open.spotify.com/album/511Crb2ieF1Zglt4IhxhqU) | 2:46 |
 | 26 | [The Middle](https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 2:48 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 47 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
 | 48 | ["45"](https://open.spotify.com/track/4t6TpdXtVh5pmwU6qHvSh3) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Special Edition\)](https://open.spotify.com/album/3r72jse8ygMisgT7LHPTPX) | 3:27 |
 | 49 | [Double Arrows Down](https://open.spotify.com/track/5hu0I0RQ1Lbj7lhG3FATIu) | [The Bombpops](https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke) | [Death in Venice Beach](https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p) | 2:25 |
-| 50 | [Prisoner of Society](https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End](https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7) | 3:49 |
-| 51 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
+| 50 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
+| 51 | [Prisoner of Society](https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End](https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7) | 3:49 |
 | 52 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/2CLmqGqTk9okK3N4hthCiw) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/4xiQhTIvE0MqnzbE5wNHja) | 3:46 |
 | 53 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
 | 54 | [Clear The Air](https://open.spotify.com/track/7dNsLDM4BflWv392VYzr7n) | [Off With Their Heads](https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv) | [In Desolation](https://open.spotify.com/album/2vc58taiB1ZmDDXS6CtENW) | 3:47 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 56 | [Dippy Egg](https://open.spotify.com/track/5ApJ6uoCkLVRDHYu4RoMpW) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [Dippy Egg](https://open.spotify.com/album/0CfC3uT4MA7yuzv0P6YvRv) | 2:32 |
 | 57 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
 | 58 | [Rookie](https://open.spotify.com/track/7IWy06GHpq6drrrQfyXMNF) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/65aFkblR9fIeqO6aOFSrfq) | 4:13 |
-| 59 | [Quarantine](https://open.spotify.com/track/7cpCYJ7oiUMhgalxSZmNdf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Quarantine](https://open.spotify.com/album/3E5dV3odSZ3V6kqrp6zYlC) | 2:02 |
-| 60 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
-| 61 | [Keep on Chasing](https://open.spotify.com/track/352s3lxFuWqTuP9p1wjbdo) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:03 |
+| 59 | [Keep on Chasing](https://open.spotify.com/track/352s3lxFuWqTuP9p1wjbdo) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:03 |
+| 60 | [Quarantine](https://open.spotify.com/track/7cpCYJ7oiUMhgalxSZmNdf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Quarantine](https://open.spotify.com/album/3E5dV3odSZ3V6kqrp6zYlC) | 2:02 |
+| 61 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
 | 62 | [Beat Your Heart Out](https://open.spotify.com/track/4ut0TJ2w4uBoiIdX1uzVTB) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(Alternate Cover PA Version\)](https://open.spotify.com/album/1c4fH0GPGQJs4RxfmBLxia) | 2:49 |
 | 63 | [Thrash Metal Cassette](https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Thrash Metal Cassette](https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY) | 3:39 |
 | 64 | [Reckless Paradise](https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Reckless Paradise](https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [The Impression That I Get](https://open.spotify.com/track/2F5r18ZlLUBqnt0jjhhETm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/2ZQT4irYHOexoqjzIZXipB) | 3:14 |
 | 100 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 |
 
-Snapshot ID: `MTY0OTgxMTcxNiwwMDAwMDAwMDc3NjEwNGZjZDg0ZGRkOGY4MTU3MzRmZDZiMjE5NDc5`
+Snapshot ID: `MTY0OTg5ODMxMywwMDAwMDAwMDY2YjM2NzY0MTZlOWYzNDc5Y2NlMzEwNmNlODUyOGFm`

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1lnB9anGfHa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1lnB9anGfHa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1lnB9anGfHa)
 
-### [Terra Incognita](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+### [Terra Incognita](https://open.spotify.com/playlist/37i9dQZF1DX1lnB9anGfHa)
 
 > A journey into the unknown, dark, and experimental.
+
+75 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1xEPBKyoFUz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1xEPBKyoFUz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xEPBKyoFUz)
 
-### [StartSelect: Steve Aoki](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
+### [StartSelect: Steve Aoki](https://open.spotify.com/playlist/37i9dQZF1DX1xEPBKyoFUz)
 
 > Hey, this is <a href="https://www.instagram.com/steveaoki/">Steve Aoki</a> and these are some of my favorite tracks to play while gaming!
+
+82 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

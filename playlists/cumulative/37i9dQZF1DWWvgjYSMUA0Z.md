@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvgjYSMUA0Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvgjYSMUA0Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvgjYSMUA0Z)
 
-### [Reiki Healing](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+### [Reiki Healing](https://open.spotify.com/playlist/37i9dQZF1DWWvgjYSMUA0Z)
 
 > Music to encourage emotional and physical healing through Reiki.
+
+95 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

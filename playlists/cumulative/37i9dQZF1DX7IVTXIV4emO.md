@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7IVTXIV4emO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7IVTXIV4emO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7IVTXIV4emO)
 
-### [reposaito](https://open.spotify.com/playlist/3Q9pI8ajNSCNFWh0sMcjRH)
+### [reposaito](https://open.spotify.com/playlist/37i9dQZF1DX7IVTXIV4emO)
 
 > manejando la tranquilidad 🏝  🥥  🏝
+
+183 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/3Q9pI8ajNSCNFWh0sMcjRH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

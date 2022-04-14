@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9stbPFTxeaB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9stbPFTxeaB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9stbPFTxeaB)
 
-### [Funky Heavy Bluesy](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
+### [Funky Heavy Bluesy](https://open.spotify.com/playlist/37i9dQZF1DX9stbPFTxeaB)
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
+
+69 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

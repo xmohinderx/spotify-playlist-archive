@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTXGqmP0bfT3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTXGqmP0bfT3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTXGqmP0bfT3)
 
-### [Energy Booster: Metal](https://open.spotify.com/playlist/3uOYzCcMPXvMkVwUxmAaer)
+### [Energy Booster: Metal](https://open.spotify.com/playlist/37i9dQZF1DWTXGqmP0bfT3)
 
 > Need to get your energy level up? This will help!
+
+175 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/3uOYzCcMPXvMkVwUxmAaer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLrQBcXqUtaC.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLrQBcXqUtaC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLrQBcXqUtaC)
 
-### [Top 50 \- Saudi Arabia](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
+### [Top 50 \- Saudi Arabia](https://open.spotify.com/playlist/37i9dQZEVXbLrQBcXqUtaC)
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
+
+426 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +74,7 @@
 | [Célibataire](https://open.spotify.com/track/06ZSr80SDVVgNd9DdX1VDb) | [Cheba Maria](https://open.spotify.com/artist/1xmzJAhHsz4x3PKWQbc1Ax) | [Mon amour](https://open.spotify.com/album/5OVYLEtF8fLvbN93G7rYNV) | 4:29 | 2021-12-01 | 2022-02-13 |
 | [Dabke Dashra Tarb](https://open.spotify.com/track/3A6pYGoo5gJusNXFhQ62aJ) | [Dabkat Tarab](https://open.spotify.com/artist/3Brdr4RebKMOWE4VryBckV) | [Dabke Mawal El Aaskr](https://open.spotify.com/album/26f2clNU9pQ0Koc4feCQsX) | 4:19 | 2021-08-18 | 2021-08-27 |
 | [Dabke Yama Aal Habib](https://open.spotify.com/track/4WFQ9yAB05nvm2lbRY85yG) | [Dabkat Tarab](https://open.spotify.com/artist/3Brdr4RebKMOWE4VryBckV) | [Dabke Mawal El Aaskr](https://open.spotify.com/album/26f2clNU9pQ0Koc4feCQsX) | 1:13 | 2021-08-18 | 2021-08-21 |
-| [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-04-11 | 2022-04-13 |
+| [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-04-11 |  |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2021-11-16 |  |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-09 | 2022-01-13 |
@@ -141,7 +143,7 @@
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-07 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-04 |  |
 | [Hell Shell](https://open.spotify.com/track/5fO4ybFbomoSWPB3n2d6pe) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Nudy Land](https://open.spotify.com/album/07pAbeTv7PS5m7VUQ5zGuO) | 2:42 | 2021-09-24 | 2021-09-26 |
-| [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2021-12-26 | 2022-04-12 |
+| [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2021-12-26 |  |
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-12 |
 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 | 2021-03-27\* | 2021-05-27 |
 | [Hobak Dawlati](https://open.spotify.com/track/4W6sBjbrhHYVM9nkPmSwns) | [Mahira](https://open.spotify.com/artist/74ci46S65JmWstZRvoYlpu) | [Hobak Dawlati](https://open.spotify.com/album/3gRvgeRdn1OmZ07ZdgkE3H) | 3:19 | 2021-03-27\* | 2021-06-12 |
@@ -344,7 +346,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-10-31 |  |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2021-10-16 | 2021-10-31 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-08 |
-| [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 | 2022-02-26 |  |
+| [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 | 2022-02-26 | 2022-04-14 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-04-06 | 2021-05-21 |
 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:29 | 2021-10-03 | 2021-11-21 |
 | [Venom \- Remix](https://open.spotify.com/track/6kUaRtXf19fu5IQWjmwsEJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \[From Venom: Let There Be Carnage\]](https://open.spotify.com/album/2aYIs6VLwMLzONDdVtNOe6) | 4:21 | 2021-10-16 | 2021-10-19 |
@@ -409,7 +411,7 @@
 | [طال الجفى](https://open.spotify.com/track/7MHeXnWHXYBkK0npLECaP8) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [طال الجفى](https://open.spotify.com/album/5e99Zmc9fssEsby1f7uZep) | 3:29 | 2021-04-18 | 2021-05-06 |
 | [طرشوله](https://open.spotify.com/track/6zKRAoVTjxGaXYxUdSTUHB) | [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi) | [طرشوله](https://open.spotify.com/album/16AZzaSG6aSQJJRraYZ1tH) | 3:23 | 2021-03-27 | 2021-06-27 |
 | [عاش سلمان](https://open.spotify.com/track/1m0Wr5lzJDs801vsUFvZvH) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F), [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [عاش سلمان](https://open.spotify.com/album/3qUtRJSERy6Fg38gVjey03) | 4:16 | 2021-09-25 | 2021-09-26 |
-| [عراقي حزين \- روح الله لايردك \- قالولي يحب غيرك](https://open.spotify.com/track/1iEimCc0ZeeJcsRzTMMFM1) | [فضفضه](https://open.spotify.com/artist/5xviQQhbpn1BXn3kRb75dF) | [عراقي حزين \- روح الله لايردك \- قالولي يحب غيرك](https://open.spotify.com/album/49b9uxykTx5WWzAzePhN1v) | 4:43 | 2022-03-01 |  |
+| [عراقي حزين \- روح الله لايردك \- قالولي يحب غيرك](https://open.spotify.com/track/1iEimCc0ZeeJcsRzTMMFM1) | [فضفضه](https://open.spotify.com/artist/5xviQQhbpn1BXn3kRb75dF) | [عراقي حزين \- روح الله لايردك \- قالولي يحب غيرك](https://open.spotify.com/album/49b9uxykTx5WWzAzePhN1v) | 4:43 | 2022-03-01 | 2022-04-14 |
 | [عشرة الكذاب](https://open.spotify.com/track/6X71TVbV0PJEb6G7wxU9GF) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [عشرة الكذاب](https://open.spotify.com/album/2nUuEtumNldylIuMS4bo47) | 3:17 | 2021-03-27\* | 2021-08-25 |
 | [عشق](https://open.spotify.com/track/725MeomdTm3bEr07Mzhgma) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [عشق \- Single](https://open.spotify.com/album/4vMLTfFXChNjzIrpQUkQ1X) | 3:06 | 2021-03-27 | 2021-03-29 |
 | [غصب علينا](https://open.spotify.com/track/0QOBcIXo19VdwyRLe8GJho) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [غصب علينا](https://open.spotify.com/album/3tI1yOLivNzRao0NMbOFfv) | 3:47 | 2021-08-23 | 2021-11-27 |

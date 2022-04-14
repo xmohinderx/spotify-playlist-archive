@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX561TxkFttR4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX561TxkFttR4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX561TxkFttR4)
 
-### [Soft Piano](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
+### [Soft Piano](https://open.spotify.com/playlist/37i9dQZF1DX561TxkFttR4)
 
 > Soothing, soft piano.
+
+183 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

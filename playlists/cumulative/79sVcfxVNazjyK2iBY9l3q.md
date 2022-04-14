@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/79sVcfxVNazjyK2iBY9l3q.md) - cumulative - [plain](/playlists/plain/79sVcfxVNazjyK2iBY9l3q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/79sVcfxVNazjyK2iBY9l3q)
 
-### [Incoming](https://open.spotify.com/playlist/3rzVu3zSjxQO4e2UWgrUPE)
+### [Incoming](https://open.spotify.com/playlist/79sVcfxVNazjyK2iBY9l3q)
 
 > Rolling Stone contributing editor Joe Levy presents Incoming, a new panel discussion show about what's next and best on Spotify.
+
+17 songs - 1 hr 1 min - [published](https://open.spotify.com/playlist/3rzVu3zSjxQO4e2UWgrUPE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

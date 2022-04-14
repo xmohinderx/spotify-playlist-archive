@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1xlmTNXq2Qg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1xlmTNXq2Qg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xlmTNXq2Qg)
 
-### [This Is LANY](https://open.spotify.com/playlist/1UD1v4gMRoi8wlQD3xgZBb)
+### [This Is LANY](https://open.spotify.com/playlist/37i9dQZF1DX1xlmTNXq2Qg)
 
 > Time for dancing in the kitchen!
+
+56 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/1UD1v4gMRoi8wlQD3xgZBb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

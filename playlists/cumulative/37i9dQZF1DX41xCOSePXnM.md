@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX41xCOSePXnM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX41xCOSePXnM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX41xCOSePXnM)
 
-### [This Is Odetta](https://open.spotify.com/playlist/3r4RGHt1HQx1KnvBT2lJas)
+### [This Is Odetta](https://open.spotify.com/playlist/37i9dQZF1DX41xCOSePXnM)
 
 > Sit there, all by yourself, and listen to the <a href="spotify:artist:2wkz8hACugzAvF0voupg3H">folk legend</a>.
+
+50 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/3r4RGHt1HQx1KnvBT2lJas)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

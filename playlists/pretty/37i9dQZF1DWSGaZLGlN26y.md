@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 
 > Songs for lovers like you've never heard before\.  Cover: Miguel, Taylor Swift and Japanese Breakfast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,178 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,193 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 | 67 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
 | 68 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 69 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
-| 70 | [Summer Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:34 |
+| 70 | [Doesn't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1yMj0VQyNJSDYCfeoBdGfS) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Spotify Singles](https://open.spotify.com/album/1V3MFMHizPGXUd0ZS5k7ws) | 3:30 |
 | 71 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
-| 72 | [Doesn't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1yMj0VQyNJSDYCfeoBdGfS) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Spotify Singles](https://open.spotify.com/album/1V3MFMHizPGXUd0ZS5k7ws) | 3:30 |
+| 72 | [Summer Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:34 |
 | 73 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 |
 | 74 | [Sexual \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 3:09 |
 | 75 | [Beautiful Surprise \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1gXiYI4GLRq0NhTRkAXYqZ) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Spotify Singles](https://open.spotify.com/album/5GQsyApGiDXhevzFuqZQuA) | 2:39 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 | 85 | [One Kiss \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:02 |
 | 86 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
 | 87 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w) | 2:44 |
-| 88 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
-| 89 | [One More Time \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/2j6vcPcY74uDQZe4wtZpG0) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles](https://open.spotify.com/album/5kjS3oqA3uScfk2Z7B4Jyc) | 2:44 |
-| 90 | [Buena Sera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spotify Singles](https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl) | 3:14 |
-| 91 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 |
+| 88 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 |
+| 89 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
+| 90 | [One More Time \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/2j6vcPcY74uDQZe4wtZpG0) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles](https://open.spotify.com/album/5kjS3oqA3uScfk2Z7B4Jyc) | 2:44 |
+| 91 | [Buena Sera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spotify Singles](https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl) | 3:14 |
 | 92 | [U Got It Bad \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Spotify Singles](https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe) | 4:28 |
 | 93 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
 | 94 | [I Just Called to Say I Love You \- Recorded at RCA Studio A, Nashville](https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 4:07 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 | 124 | [Way Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2KsWIjEA3OntFTcnpKk6RG) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Spotify Singles](https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v) | 3:41 |
 | 125 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 |
 
-Snapshot ID: `MTY0OTgxMTMyNCwwMDAwMDAwMGEwOTE3OTlmNDUxMzE2ODA4ZTdhZmE5ODEyZWNjMzhi`
+Snapshot ID: `MTY0OTg5Nzk0MywwMDAwMDAwMDI2MTg2YzM5OTJmYWQ5MGY2NThlNjgwZTJiYmI5MGFk`

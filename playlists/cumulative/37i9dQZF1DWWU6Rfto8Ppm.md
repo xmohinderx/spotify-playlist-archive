@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWU6Rfto8Ppm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWU6Rfto8Ppm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWU6Rfto8Ppm)
 
-### [Reggaetón Viejito](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+### [Reggaetón Viejito](https://open.spotify.com/playlist/37i9dQZF1DWWU6Rfto8Ppm)
 
 > Acuérdate de estas canciones clásicas\. Foto: Zion & Lennox.
+
+244 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,9 +42,9 @@
 | [Chulin Culin Chunfly \(feat\. Residente Calle 13\)](https://open.spotify.com/track/46DW3fyWuL4VZfEwnyWjXg) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Voltio](https://open.spotify.com/album/48iJAePusVGLmpzbcQuVH3) | 4:35 | 2021-12-17 |  |
 | [Cojela Que Va Sin Jockey](https://open.spotify.com/track/3z3xLDfgUtO1wL6lt3Omk3) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:03 | 2021-12-17 | 2022-03-22 |
 | [Cuando Baila Reggaeton](https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG) | [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [The Underdog \- El Subestimado](https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5) | 3:04 | 2021-12-17 |  |
-| [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 | 2021-12-17 |  |
+| [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 | 2021-12-17 | 2022-04-14 |
 | [Cuándo, Cuándo Es?](https://open.spotify.com/track/1p2QvAaxlMNhG5yvLij2BO) | [J\-King y Maximan](https://open.spotify.com/artist/6UBb8ZUUyarsyod6snflAR) | [Latin Party](https://open.spotify.com/album/6ZrLVdx4Ba8QwuGxJU4vqB) | 3:57 | 2021-12-17 |  |
-| [Cójela Que Va Sin Jockey / Aquí Está Tú Caldo / Mírame \- Live](https://open.spotify.com/track/6qREJ7GPWPd0QQARgNyL98) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [2K20, Pt\. 1 \(Live\)](https://open.spotify.com/album/0N091826fEGbqVB1NnKguC) | 5:49 | 2021-12-17 | 2022-03-19 |
+| [Cójela Que Va Sin Jockey / Aquí Está Tú Caldo / Mírame \- Live](https://open.spotify.com/track/6qREJ7GPWPd0QQARgNyL98) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [2K20, Pt\. 1 \(Live\)](https://open.spotify.com/album/0N091826fEGbqVB1NnKguC) | 5:49 | 2021-12-17 |  |
 | [Daga Adicta](https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [El Patán](https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj) | 3:56 | 2021-12-17 |  |
 | [Dale Caliente](https://open.spotify.com/track/6X8pDrhv1pnurPSNUyizR2) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:15 | 2021-12-17 | 2022-03-21 |
 | [Dale Don Dale](https://open.spotify.com/track/7zK02QSoQlMO0RAVqN0CI7) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Obsesión Latina](https://open.spotify.com/album/1qAvdZ9qvDBNEwzAJkZ68V) | 3:34 | 2021-12-17 | 2022-03-16 |

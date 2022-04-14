@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1OxnjWYRVU0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1OxnjWYRVU0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1OxnjWYRVU0)
 
-### [Dance Covers](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+### [Dance Covers](https://open.spotify.com/playlist/37i9dQZF1DX1OxnjWYRVU0)
 
 > New takes on old classics!
+
+240 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

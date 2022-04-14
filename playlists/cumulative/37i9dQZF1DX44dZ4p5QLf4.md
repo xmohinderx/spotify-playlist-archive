@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX44dZ4p5QLf4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX44dZ4p5QLf4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX44dZ4p5QLf4)
 
-### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Syd
+
+167 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +62,7 @@
 | [Golden Ticket \(feat\. Masego & Common\)](https://open.spotify.com/track/7lv2uSWG8eJGiHssAlMQ12) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Golden Ticket](https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6) | 3:38 | 2021-12-16 | 2022-01-26 |
 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 | 2021-12-16 | 2022-01-14 |
 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 | 2021-12-16 | 2022-01-26 |
+| [Good Life](https://open.spotify.com/track/7IdZPp5Zn6y0lXCvXA7CFN) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/2BQlDB6YRNp88euumKdHG2) | 3:35 | 2022-04-13 |  |
 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 | 2022-02-10 |  |
 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 | 2022-04-08 |  |
 | [Got Me Like](https://open.spotify.com/track/5ATYlGicuZ72ZO0tZC6Dfe) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Got Me Like](https://open.spotify.com/album/575QSGuN3CVFiknwHdkWav) | 3:07 | 2021-12-16 |  |

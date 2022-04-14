@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6dANf8jNW4z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6dANf8jNW4z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6dANf8jNW4z)
 
-### [EQUAL España](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+### [EQUAL España](https://open.spotify.com/playlist/37i9dQZF1DX6dANf8jNW4z)
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Natalia Lacunza
+
+184 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

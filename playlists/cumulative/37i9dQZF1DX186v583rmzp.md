@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX186v583rmzp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX186v583rmzp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX186v583rmzp)
 
-### [I Love My '90s Hip\-Hop](https://open.spotify.com/playlist/3nluuMc1ut66d8EDvyctJz)
+### [I Love My '90s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX186v583rmzp)
 
 > Real rap music from the golden era.
+
+142 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/3nluuMc1ut66d8EDvyctJz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

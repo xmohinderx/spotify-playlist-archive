@@ -1,12 +1,12 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 713382,
+  "num_followers": 713561,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQyMiwwMDAwMDAwMDAxNDMzMzZhODM3NDFmZmU0ZTljMzBhODdkYWJkOTkw",
+  "snapshot_id": "MTY0OTg5ODAzNSwwMDAwMDAwMDYzM2NmZmZiOWVkMDg0MjJlZWM1MmM2YzNmNjYzZTk0",
   "tracks": [
     {
       "added_at": "2020-07-08 17:47:52",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
+        "name": "Blue Is The Colour",
+        "url": "https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful South",
+          "url": "https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "Rotterdam (Or Anywhere)",
+      "url": "https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
         "name": "Now in a Minute",
         "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
       },
@@ -591,6 +607,26 @@
       "duration_ms": 290680,
       "name": "Circle Of Life",
       "url": "https://open.spotify.com/track/1DqMnZpdOXy4mjmsXnFv2t"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Talk on Corners",
+        "url": "https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        },
+        {
+          "name": "Tin Tin Out",
+          "url": "https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "What Can I Do",
+      "url": "https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -631,22 +667,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Blue Is The Colour",
-        "url": "https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2"
-      },
-      "artists": [
-        {
-          "name": "The Beautiful South",
-          "url": "https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90"
-        }
-      ],
-      "duration_ms": 215893,
-      "name": "Rotterdam (Or Anywhere)",
-      "url": "https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "Renaissance The Classics",
         "url": "https://open.spotify.com/album/0KC34vUKxySSzrvGv0SlKm"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 287280,
       "name": "Sunshine On a Rainy Day",
       "url": "https://open.spotify.com/track/6p2XXeslyqOvCgiv2SK90E"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
-        "name": "Talk on Corners",
-        "url": "https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        },
-        {
-          "name": "Tin Tin Out",
-          "url": "https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "What Can I Do",
-      "url": "https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK"
     },
     {
       "added_at": "2020-07-08 17:47:52",

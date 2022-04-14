@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9be6QR3XeJp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9be6QR3XeJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9be6QR3XeJp)
 
-### [RADAR: First Listen](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
 > Discover your new favourite artists\. Cover: 49th and Main
+
+103 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

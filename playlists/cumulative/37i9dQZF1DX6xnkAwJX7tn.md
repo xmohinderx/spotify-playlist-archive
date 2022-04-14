@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6xnkAwJX7tn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6xnkAwJX7tn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6xnkAwJX7tn)
 
-### [80s Party](https://open.spotify.com/playlist/3kB1Lk0bVGYiyyetIIpGyo)
+### [80s Party](https://open.spotify.com/playlist/37i9dQZF1DX6xnkAwJX7tn)
 
 > The biggest party hits of the 1980s.
+
+204 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/3kB1Lk0bVGYiyyetIIpGyo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

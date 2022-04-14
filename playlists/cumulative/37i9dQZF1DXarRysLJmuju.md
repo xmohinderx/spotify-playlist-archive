@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXarRysLJmuju.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXarRysLJmuju) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXarRysLJmuju)
 
-### [Pop All Day](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
 > Keep up with all the latest pop hits\. Cover: Josh Ramsay
+
+249 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZwRv0cVNFLv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZwRv0cVNFLv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZwRv0cVNFLv)
 
-### [City Sounds for Sleep](https://open.spotify.com/playlist/1OseWGcdIcXMuErV3KabYq)
+### [City Sounds for Sleep](https://open.spotify.com/playlist/37i9dQZF1DWZwRv0cVNFLv)
 
 > Sounds of the city to help you drift off.
+
+60 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/1OseWGcdIcXMuErV3KabYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

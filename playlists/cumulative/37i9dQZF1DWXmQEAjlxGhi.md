@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXmQEAjlxGhi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXmQEAjlxGhi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXmQEAjlxGhi)
 
-### [Latin Cardio](https://open.spotify.com/playlist/0GLF7nKWEkaOJSii1QXnjC)
+### [Latin Cardio](https://open.spotify.com/playlist/37i9dQZF1DWXmQEAjlxGhi)
 
 > Upbeat Latin songs to keep your heart rate up.
+
+114 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/0GLF7nKWEkaOJSii1QXnjC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

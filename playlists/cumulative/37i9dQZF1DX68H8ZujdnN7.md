@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX68H8ZujdnN7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX68H8ZujdnN7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX68H8ZujdnN7)
 
-### [’80s Hard Rock](https://open.spotify.com/playlist/4bxy2w5YWYTLJmkcQGjnaz)
+### [’80s Hard Rock](https://open.spotify.com/playlist/37i9dQZF1DX68H8ZujdnN7)
 
 > Hair goals, spandex and epic guitar solos\. We got you\. Celebrating the life and legacy of Eddie Van Halen.
+
+105 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/4bxy2w5YWYTLJmkcQGjnaz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

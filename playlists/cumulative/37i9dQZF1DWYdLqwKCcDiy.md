@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYdLqwKCcDiy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYdLqwKCcDiy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYdLqwKCcDiy)
 
-### [Best of Folk & Americana 2019](https://open.spotify.com/playlist/2uSGHFizn04sEcBkkp5UdB)
+### [Best of Folk & Americana 2019](https://open.spotify.com/playlist/37i9dQZF1DWYdLqwKCcDiy)
 
 > Relive the year in roots, with some of the best songs in folk & Americana.
+
+50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/2uSGHFizn04sEcBkkp5UdB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

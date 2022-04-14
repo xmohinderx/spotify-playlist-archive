@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUdtoEryrppL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUdtoEryrppL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUdtoEryrppL)
 
-### [To Your Limit](https://open.spotify.com/playlist/046CnMbW6heH6DEk9pW3XA)
+### [To Your Limit](https://open.spotify.com/playlist/37i9dQZF1DWUdtoEryrppL)
 
 > My favourite tracks to harness your focus and push you to the limit in your next workout.
+
+41 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/046CnMbW6heH6DEk9pW3XA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaDzsRodF91I.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaDzsRodF91I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaDzsRodF91I)
 
-### [Covered In Punk](https://open.spotify.com/playlist/5mFudwF8WaoxgZwyt9a9md)
+### [Covered In Punk](https://open.spotify.com/playlist/37i9dQZF1DXaDzsRodF91I)
 
 > Songs from all genres get a punk rock makeover.
+
+133 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/5mFudwF8WaoxgZwyt9a9md)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

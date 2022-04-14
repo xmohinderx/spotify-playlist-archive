@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJlfUljuZExa.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJlfUljuZExa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJlfUljuZExa)
 
-### [Top 50 \- Malaysia](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
+### [Top 50 \- Malaysia](https://open.spotify.com/playlist/37i9dQZEVXbJlfUljuZExa)
 
 > Your daily update of the most played tracks right now \- Malaysia.
+
+425 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

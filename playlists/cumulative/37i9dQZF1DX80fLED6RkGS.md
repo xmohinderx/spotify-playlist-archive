@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX80fLED6RkGS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX80fLED6RkGS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX80fLED6RkGS)
 
-### [Gengetone Fire](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
+### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy?si=jPbvdDuzSBa7eplGIlGCGw">Breeder LW</a> and <a href="https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u?si=5SpYoiuSRP2Oe9N\-QFBG8Q">Mejja</a>
+
+140 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5trt9i14X7j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5trt9i14X7j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5trt9i14X7j)
 
-### [Coding Mode  ](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+### [Coding Mode  ](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
 
 > Dedicated to all the programmers out there.
+
+90 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdVyc8LtLi96.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdVyc8LtLi96) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdVyc8LtLi96)
 
-### [Sunrise Yoga](https://open.spotify.com/playlist/1rfhIUFdckYYeCWXG6g5Oq)
+### [Sunrise Yoga](https://open.spotify.com/playlist/37i9dQZF1DXdVyc8LtLi96)
 
 > The perfect soundtrack to your morning yoga session.
+
+204 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/1rfhIUFdckYYeCWXG6g5Oq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,13 +64,16 @@
 | [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 | 2022-03-18 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2022-03-18 |  |
 | [Embraced](https://open.spotify.com/track/6ihHIIQM6HRVNiokHa6PkU) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Recreation](https://open.spotify.com/album/54GzGw0DE624zNwuJbBiEg) | 3:16 | 2022-03-18 |  |
+| [En Route](https://open.spotify.com/track/3FTgMfHOZNjSf4phnnkyhm) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [En Route](https://open.spotify.com/album/5cJJCynK6z204zTHHUVD8J) | 3:42 | 2022-04-13 |  |
 | [Enchanted Dreams](https://open.spotify.com/track/1CYtN9f8AgIbQpCbzCnMRq) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Enchanted Dreams](https://open.spotify.com/album/0F4QtzeSMQlDquo7Gmp2B3) | 3:17 | 2022-03-18 |  |
 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 | 2022-03-18 |  |
 | [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 | 2022-03-18 |  |
 | [Eternity](https://open.spotify.com/track/6vBdXO0iBXY9V2Dpyu8Adr) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [Eternity](https://open.spotify.com/album/2R3CufevCzarKNQORutdXd) | 4:05 | 2022-03-18 |  |
+| [Ethereal Mind](https://open.spotify.com/track/3X3vCAvMiO48mdC2lGxfIB) | [Albert Bauer](https://open.spotify.com/artist/5hyQScFDLQoAwXvwZgvT20) | [Ethereal Mind](https://open.spotify.com/album/6Htlnw2TkYQYA8EdNwInuN) | 3:27 | 2022-04-13 |  |
 | [Euphrosyne](https://open.spotify.com/track/7arWoSrPeW1uiCGbCu0Igm) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Euphrosyne](https://open.spotify.com/album/7BlXg4aB6bpzIsYP5wqrVT) | 2:39 | 2022-03-18 |  |
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-03-18 |  |
 | [Finistère](https://open.spotify.com/track/0Qp6bdPb0XxwGCW2TDzL9d) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/4lwNTmD62b3cssnfE0G1yr) | 2:21 | 2022-03-18 |  |
+| [Fliessend](https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Fliessend](https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9) | 2:44 | 2022-04-13 |  |
 | [Floating](https://open.spotify.com/track/4BoKls3fZWdNJLgpoG8xcM) | [Seismic Shift](https://open.spotify.com/artist/3anH6IjogfsbzwaSRB8Kd6) | [Floating](https://open.spotify.com/album/0o9kQDuxYaAtzhUd5IruW9) | 2:25 | 2022-03-18 |  |
 | [Floating in Peace](https://open.spotify.com/track/1jgUHGVhDm1Gt3kO3crdM3) | [Astra Terra](https://open.spotify.com/artist/6vbjBakhgHWeNAEBG6Ew0l) | [Floating in Peace](https://open.spotify.com/album/5QbhuNYS0gJ1aQmV1iWpCq) | 3:18 | 2022-03-18 |  |
 | [Flow](https://open.spotify.com/track/2cYwWEYK97uv6acPGAh8Sb) | [CasaLuna](https://open.spotify.com/artist/0wvFWLMg51zluEhULcJAIY) | [Grains Of Sand](https://open.spotify.com/album/78dwb9ZKgXoAmRAiRp8Eek) | 3:11 | 2022-03-18 |  |
@@ -122,6 +127,7 @@
 | [Moving Through Clouds](https://open.spotify.com/track/0UQw1kJHE2gSO09fpFmuNu) | [Alisa Bergman](https://open.spotify.com/artist/78kBvRbqaSQ4tfv2fAbzHf) | [Moving Through Clouds](https://open.spotify.com/album/1ZHf1bZ7LUFzaeAtAgY0TP) | 2:49 | 2022-03-18 |  |
 | [My Heart](https://open.spotify.com/track/4cAGCkkLv77F0VWFPkQxUG) | [Bella Mie](https://open.spotify.com/artist/1aqj4NItjznvMP8uHTeCLR) | [My Heart](https://open.spotify.com/album/4a77dNUR7QMqW1ltyaDhIT) | 2:57 | 2022-03-18 |  |
 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 | 2022-03-18 |  |
+| [Mystique](https://open.spotify.com/track/7FegX3R462cG0x6dl3tkCV) | [Blanka Elroy](https://open.spotify.com/artist/3jaJzj1iIcUSTcF5lfhPGN) | [Mystique](https://open.spotify.com/album/5ozjjny1iBqlqX818j2M7a) | 2:32 | 2022-04-13 |  |
 | [Nanga Parbat](https://open.spotify.com/track/2U6UDd8oqvkHrPG6Isb5zV) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Atmospheric Convection](https://open.spotify.com/album/2YNK9ns6luvhHrocjBteRp) | 3:49 | 2022-03-18 |  |
 | [Nature Calling](https://open.spotify.com/track/1wVKHDsHpsOdNn6dwPJnoh) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Nature Calling](https://open.spotify.com/album/38P6bRAiUcqnuJ5TwOkIct) | 2:38 | 2022-03-18 |  |
 | [Nepenthe](https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Nepenthe](https://open.spotify.com/album/7ARp3k61xr4HZrXTQVboW7) | 2:31 | 2022-03-18 |  |
@@ -133,6 +139,7 @@
 | [Noqueue](https://open.spotify.com/track/6UwHHL5Td690uBRy4ZzzWV) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Noqueue](https://open.spotify.com/album/7EDnvaKOuANJGoPbs9XhRY) | 2:29 | 2022-03-18 |  |
 | [Not Giving Up](https://open.spotify.com/track/5f3WC3rzG1MAZrxODeYrll) | [Agnes Sayjno](https://open.spotify.com/artist/345c5ThS55JjzQizl3l8pg) | [Not Giving Up](https://open.spotify.com/album/70IA8E1aebBcAevp3mjhX5) | 4:57 | 2022-03-18 |  |
 | [Nowhere](https://open.spotify.com/track/6Edd9DPNANSVnzfnZ1S2Sw) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Nowhere](https://open.spotify.com/album/0FEAGjp6rqwSzhluDvDaoN) | 3:42 | 2022-03-18 |  |
+| [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 | 2022-04-13 |  |
 | [Nuit Paisible](https://open.spotify.com/track/3YdxtdF8xoDObT8184XS8V) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Nuit Paisible](https://open.spotify.com/album/0v6cSM8pbDlOJZoLp9waiR) | 3:36 | 2022-03-18 |  |
 | [Nuwara Eliya](https://open.spotify.com/track/01DC3zfaTxKsHhH5tkrEci) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Nuwara Eliya](https://open.spotify.com/album/5qaTANUQCLtZKyoXKIOLZZ) | 3:17 | 2022-03-18 |  |
 | [När natten faller](https://open.spotify.com/track/4LrzFAJhBvcvSUfFTmNfRZ) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [När natten faller](https://open.spotify.com/album/1kZTmJJLTqTzgCN6BhBiwi) | 2:09 | 2022-03-18 |  |
@@ -167,6 +174,7 @@
 | [Shade in the Sand](https://open.spotify.com/track/4rB3NOgl0K6ZrTw33YM2Ag) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [Shade in the Sand](https://open.spotify.com/album/6HuyQ3CTRJPYiABocq3Jak) | 3:38 | 2022-03-18 |  |
 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2022-03-18 |  |
 | [Shimmer](https://open.spotify.com/track/2R0jJNaZzXUklvrjpbRS66) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:00 | 2022-03-18 |  |
+| [Silent Shade](https://open.spotify.com/track/3pnWNiJlioydUInroCiwe5) | [Robert Roscoe](https://open.spotify.com/artist/105QeBIFIIx3qDERVM3Qpq) | [Silent Shade](https://open.spotify.com/album/1mnprphp6uMKkvabr23eOC) | 2:32 | 2022-04-13 |  |
 | [Sleeping Trees](https://open.spotify.com/track/4LGW9dwnuR8a3G1GWcAubi) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Forest Wisdom](https://open.spotify.com/album/6hZoc7bZWQxSUg0DyPMYIa) | 3:03 | 2022-03-18 |  |
 | [Small But Nice](https://open.spotify.com/track/4JW3xordKSyyseY0508GrZ) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:18 | 2022-03-18 |  |
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2022-03-18 |  |

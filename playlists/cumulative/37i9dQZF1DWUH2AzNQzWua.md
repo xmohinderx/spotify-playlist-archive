@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUH2AzNQzWua.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUH2AzNQzWua) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUH2AzNQzWua)
 
-### [Acoustic Hits: Oldies but Goodies](https://open.spotify.com/playlist/2w5UUsH9Gpe9iugGfQgWid)
+### [Acoustic Hits: Oldies but Goodies](https://open.spotify.com/playlist/37i9dQZF1DWUH2AzNQzWua)
 
 > Instant classics from over the years loaded into one sweet mix.
+
+86 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/2w5UUsH9Gpe9iugGfQgWid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

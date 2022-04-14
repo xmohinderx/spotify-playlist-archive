@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbIQnj7RRhdSX.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbIQnj7RRhdSX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbIQnj7RRhdSX)
 
-### [Top 50 \- Italy](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+### [Top 50 \- Italy](https://open.spotify.com/playlist/37i9dQZEVXbIQnj7RRhdSX)
 
 > Your daily update of the most played tracks right now \- Italy.
+
+725 songs - 1 day 13 hr 22 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

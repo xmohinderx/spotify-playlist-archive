@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZqTcNLmb3sH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZqTcNLmb3sH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqTcNLmb3sH)
 
-### [Latest Kannada](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
+
+193 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +177,7 @@
 | [Seese Olagina Madhure](https://open.spotify.com/track/0Uw3xqwMPWnRTmsOJYrt6O) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Halli Hykla Pyate Lifu](https://open.spotify.com/album/5rfjudzKRujhuyZXeNEPqG) | 4:25 | 2022-01-07 | 2022-02-16 |
 | [Sojugada Soojumallige \(From "Garuda Gamana Vrishabha Vahana"\)](https://open.spotify.com/track/4LqXkFZctfZnu1ezSu39Q5) | [Midhun Mukundan](https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp), [Chaithra J Achar](https://open.spotify.com/artist/5TSbHC0mvwnP6RBewptu2B) | [Sojugada Soojumallige \(From "Garuda Gamana Vrishabha Vahana"\)](https://open.spotify.com/album/0oHBgz7DYGST4J9YAkkTfv) | 2:47 | 2021-12-06 |  |
 | [Srivalli](https://open.spotify.com/track/2GjxP57bRHuzU5JKmmZKYn) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Pushpa \- The Rise](https://open.spotify.com/album/4Fo9Dw8dtHZ1xXI5yOxNnJ) | 3:41 | 2021-12-06 |  |
+| [Sulthana \(From "Kgf Chapter 2"\)](https://open.spotify.com/track/7a2knwPyOj9WZrRSM1lb0i) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Mohan Krishna](https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7), [Sachin Basrur](https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Puneeth Rudranag](https://open.spotify.com/artist/6oLN9TELPauBfctYeWPtYP), [Manish Dinakar](https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw), [Varsha Acharya](https://open.spotify.com/artist/06QNJdEjmoWoO1JLEbaHi0) | [Sulthana \(From "Kgf Chapter 2"\)](https://open.spotify.com/album/5bBoVPJ9tTBfvZ0kjOJecb) | 3:45 | 2022-04-13 |  |
 | [Sundaravaaytu Mana](https://open.spotify.com/track/08DBdSiBJdXxLfeZWpjFCW) | [Sridhar V Sambhram](https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9), [Keshav Kumar](https://open.spotify.com/artist/6jv9y9YxviyybO5vk93QlJ), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Dear Sathya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JNVOyeDSU1PrAZlgEkml6) | 3:53 | 2022-02-28 | 2022-03-18 |
 | [Tareefu Maadalu](https://open.spotify.com/track/7ojrs8j9GxS7GQ4jNSaSqp) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Shwetha Devanahally](https://open.spotify.com/artist/5FD2EKVNcrtZSxxo0UywQU) | [Mugilpete](https://open.spotify.com/album/1GT8fDmpGnziaZ5PBVuV6M) | 3:44 | 2022-01-28 | 2022-03-18 |
 | [Teaser Theme \(From "K.G.F Chapter 2"\)](https://open.spotify.com/track/2d7mZkTatdeb4tcnZjGyxi) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Teaser Theme \(From "K.G.F Chapter 2"\)](https://open.spotify.com/album/47EKoRgcYU28XDAm6lTrxo) | 2:15 | 2022-02-03 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdd3gw5QVjt9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdd3gw5QVjt9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdd3gw5QVjt9)
 
-### [Morning Acoustic](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
+### [Morning Acoustic](https://open.spotify.com/playlist/37i9dQZF1DXdd3gw5QVjt9)
 
 > Rise & shine with the perfect blend of folk and acoustic.
+
+139 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

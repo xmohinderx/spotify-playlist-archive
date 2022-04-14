@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWEncNAQJJkE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWEncNAQJJkE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWEncNAQJJkE)
 
-### [Best Hip\-Hop Songs of 2021 Canada](https://open.spotify.com/playlist/6hF2COM1S5cfIIGdOnPtAv)
+### [Best Hip\-Hop Songs of 2021 Canada](https://open.spotify.com/playlist/37i9dQZF1DWWEncNAQJJkE)
 
 > Our editorial picks for Hip\-Hop’s best of 2021 in Canada\. Cover: Belly
+
+100 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/6hF2COM1S5cfIIGdOnPtAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

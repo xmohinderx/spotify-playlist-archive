@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUQM3rmTXpBR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUQM3rmTXpBR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUQM3rmTXpBR)
 
-### [Arab Indie](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
 > Alternative Arabic songs\. Cover: ŸUMA.
+
+73 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

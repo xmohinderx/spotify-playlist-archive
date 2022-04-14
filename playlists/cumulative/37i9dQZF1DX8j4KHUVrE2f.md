@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8j4KHUVrE2f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8j4KHUVrE2f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8j4KHUVrE2f)
 
-### [Easy 00s](https://open.spotify.com/playlist/7uZ8ufX0AtBMAQh2PQh2dv)
+### [Easy 00s](https://open.spotify.com/playlist/37i9dQZF1DX8j4KHUVrE2f)
 
 > Take a trip down memory lane with these noughties classics...
+
+127 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/7uZ8ufX0AtBMAQh2PQh2dv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

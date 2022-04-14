@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4bf0P6HTTom.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4bf0P6HTTom) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4bf0P6HTTom)
 
-### [Country Rock Classics](https://open.spotify.com/playlist/5FqY2By8EsJ5wHYuLunZDA)
+### [Country Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DX4bf0P6HTTom)
 
 > Eagles, The Byrds and all your favorite country rock
+
+50 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/5FqY2By8EsJ5wHYuLunZDA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

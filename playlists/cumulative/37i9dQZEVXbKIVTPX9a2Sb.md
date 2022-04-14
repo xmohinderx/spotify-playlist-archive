@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKIVTPX9a2Sb.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKIVTPX9a2Sb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKIVTPX9a2Sb)
 
-### [Top 50 \- Slovakia](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
+### [Top 50 \- Slovakia](https://open.spotify.com/playlist/37i9dQZEVXbKIVTPX9a2Sb)
 
 > Your daily update of the most played tracks right now \- Slovakia.
+
+644 songs - 1 day 8 hr 40 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +143,7 @@
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-12-06 | 2021-12-27 |
 | [Démon](https://open.spotify.com/track/7huPWnQqc1Pq2Xy2wHyyIL) | [Saimonsa](https://open.spotify.com/artist/3nSE4R78cKheOA3EQwUbee), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [Démon](https://open.spotify.com/album/4QFZ51QxZI8Q2SzpJHQKqJ) | 3:20 | 2021-08-18 | 2021-08-19 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
-| [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 |  |
+| [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-04-14 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 |  |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-10-31 | 2022-02-06 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-19 |
@@ -572,7 +574,7 @@
 | [vanilla](https://open.spotify.com/track/1XG2LIRYabD4pz6zO4seSs) | [Kakauko King](https://open.spotify.com/artist/6QvHQb8zh3unSGVuaueCQO) | [THE KING](https://open.spotify.com/album/16r4eySfHezHtlpS6euBaZ) | 1:02 | 2021-11-10 | 2021-11-20 |
 | [Vedla teba](https://open.spotify.com/track/5NlgWNCkSRUVJ1v3l3qsAs) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN) | [311](https://open.spotify.com/album/7ghNPD080WPQqy7gYiPT8E) | 1:26 | 2021-06-23 | 2021-07-11 |
 | [Viac](https://open.spotify.com/track/2eLTkjdcbBCTew9qvn6hzz) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [OK](https://open.spotify.com/album/4EXNFurxo8oRpHvN6M8iEp) | 3:32 | 2021-03-27\* | 2021-08-14 |
-| [Viac](https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [OK](https://open.spotify.com/album/28OcVpm0jAxMVQscCTjNvm) | 3:32 | 2021-08-14 | 2022-04-13 |
+| [Viac](https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [OK](https://open.spotify.com/album/28OcVpm0jAxMVQscCTjNvm) | 3:32 | 2021-08-14 |  |
 | [Vianoce, Vianoce](https://open.spotify.com/track/6GmgR0XfTXi47dzDchXH5i) | [Peter Nagy](https://open.spotify.com/artist/7nIVQDS2Apw7yagohjImhl), [Jano Bocko](https://open.spotify.com/artist/5okr9525nfsk9Lu6gWTK0z) | [Peter Nagy A Deti \- Vyber](https://open.spotify.com/album/5afHF5C0fKDfm9FGBwni0h) | 3:49 | 2021-12-25 | 2021-12-27 |
 | [Vianocny hymnus \(Happy Christmas\)](https://open.spotify.com/track/2Mr3n4M9QmEi585ZIl5umQ) | [Pavol Habera](https://open.spotify.com/artist/4jPsY1s2yZz5GbsY3o7G1w) | [Svet lasku ma](https://open.spotify.com/album/2e1qWvcG4OJMTK5cKHnYmp) | 2:07 | 2021-12-25 | 2021-12-27 |
 | [Vice City](https://open.spotify.com/track/1AW7kIA0LuELBhyhtFub9a) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Hugo Toxxx](https://open.spotify.com/artist/7uRM93dnA7EtkC70fdC2Pf) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 2:53 | 2021-11-20 | 2021-12-04 |

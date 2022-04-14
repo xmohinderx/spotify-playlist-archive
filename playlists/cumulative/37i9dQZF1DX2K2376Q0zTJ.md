@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2K2376Q0zTJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2K2376Q0zTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2K2376Q0zTJ)
 
-### [EQUAL Japan](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
+### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  lyrical school
+
+259 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

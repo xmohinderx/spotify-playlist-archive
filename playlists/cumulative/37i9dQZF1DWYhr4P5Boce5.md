@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYhr4P5Boce5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYhr4P5Boce5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYhr4P5Boce5)
 
-### [Going Together](https://open.spotify.com/playlist/7x1MYtipwfxns13j9VJIYR)
+### [Going Together](https://open.spotify.com/playlist/37i9dQZF1DWYhr4P5Boce5)
 
 > Songs of deep relationships to inspire your journey with each other.
+
+67 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/7x1MYtipwfxns13j9VJIYR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

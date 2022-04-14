@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1CDfMq8oOPq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1CDfMq8oOPq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1CDfMq8oOPq)
 
-### [Baby Hair](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
+### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
 > só faixa rosa, tem disposição? 🎀 Foto: Juju Rude
+
+53 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

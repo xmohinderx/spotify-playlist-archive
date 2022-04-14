@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0BZrbvIqxCd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0BZrbvIqxCd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0BZrbvIqxCd)
 
-### [Punk Rock Workout](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
+### [Punk Rock Workout](https://open.spotify.com/playlist/37i9dQZF1DX0BZrbvIqxCd)
 
 > A mix of punk rock to get you through your workout.
+
+183 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7L1VcqQ1quZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7L1VcqQ1quZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7L1VcqQ1quZ)
 
-### [90s Ballads](https://open.spotify.com/playlist/1S5MWUPnOvyz1w7RvDvP5N)
+### [90s Ballads](https://open.spotify.com/playlist/37i9dQZF1DX7L1VcqQ1quZ)
 
 > All 90s, all ballads\. Cover: Celine Dion
+
+51 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1S5MWUPnOvyz1w7RvDvP5N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

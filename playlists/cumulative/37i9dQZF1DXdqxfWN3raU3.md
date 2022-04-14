@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdqxfWN3raU3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdqxfWN3raU3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdqxfWN3raU3)
 
-### [R&B Latino](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Ramon Vega, Kenia OS
+
+134 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

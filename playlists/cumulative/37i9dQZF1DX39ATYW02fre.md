@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX39ATYW02fre.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX39ATYW02fre) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX39ATYW02fre)
 
-### [Melantronic](https://open.spotify.com/playlist/0eIEI0ptmU2SZvI7Y0sdN5)
+### [Melantronic](https://open.spotify.com/playlist/37i9dQZF1DX39ATYW02fre)
 
 > Beautiful electronic music for melancholy moments.
+
+177 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/0eIEI0ptmU2SZvI7Y0sdN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

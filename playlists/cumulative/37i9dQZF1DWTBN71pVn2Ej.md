@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTBN71pVn2Ej.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTBN71pVn2Ej) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTBN71pVn2Ej)
 
-### [Alternative Noise](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+### [Alternative Noise](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
 > The best new alternative rock tracks.
+
+118 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0EaLv8xHmij.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0EaLv8xHmij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0EaLv8xHmij)
 
-### [Rima Avançada](https://open.spotify.com/playlist/1fuxTN1KVeY4FHPmGcQzOK)
+### [Rima Avançada](https://open.spotify.com/playlist/37i9dQZF1DX0EaLv8xHmij)
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Major RD
+
+70 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/1fuxTN1KVeY4FHPmGcQzOK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

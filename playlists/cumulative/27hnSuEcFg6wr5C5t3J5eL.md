@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/27hnSuEcFg6wr5C5t3J5eL.md) - cumulative - [plain](/playlists/plain/27hnSuEcFg6wr5C5t3J5eL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/27hnSuEcFg6wr5C5t3J5eL)
 
-### [1994](https://open.spotify.com/playlist/59nGt7ih3nUT1OvJGVb3XR)
+### [1994](https://open.spotify.com/playlist/27hnSuEcFg6wr5C5t3J5eL)
 
 > 
+
+50 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/59nGt7ih3nUT1OvJGVb3XR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

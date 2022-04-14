@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9LbdoYID5v7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9LbdoYID5v7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9LbdoYID5v7)
 
-### [Indie Pop 2000s](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
+### [Indie Pop 2000s](https://open.spotify.com/playlist/37i9dQZF1DX9LbdoYID5v7)
 
 > The pop leaning side of 2000s indie\. Cover: Phoenix
+
+102 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0q1RHoDiZBg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0q1RHoDiZBg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0q1RHoDiZBg)
 
-### [Bob Dylan: Covered](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
+### [Bob Dylan: Covered](https://open.spotify.com/playlist/37i9dQZF1DX0q1RHoDiZBg)
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
+
+92 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

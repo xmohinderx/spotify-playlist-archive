@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbNHwMxAkvmF8.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbNHwMxAkvmF8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNHwMxAkvmF8)
 
-### [Top 50 \- Hungary](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+### [Top 50 \- Hungary](https://open.spotify.com/playlist/37i9dQZEVXbNHwMxAkvmF8)
 
 > Your daily update of the most played tracks right now \- Hungary.
+
+384 songs - 20 hr 32 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +148,7 @@
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-22 | 2022-03-27 |
 | [Immunissá válunk](https://open.spotify.com/track/2UB8LkhAtBgL9cCxKY2qwi) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:20 | 2022-03-12 |  |
 | [Immunissá válunk](https://open.spotify.com/track/5yz7GjTUzj3bCB6LtzU6dV) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Immunissá válunk](https://open.spotify.com/album/4jQi8qJysHHbYBt3JcD25y) | 3:20 | 2022-03-08 | 2022-03-13 |
-| [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-02 |  |
+| [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-02 | 2022-04-14 |
 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 | 2021-09-05 | 2021-09-06 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-25 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 |  |
@@ -317,7 +319,7 @@
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-10-12 |  |
 | [Szeretni, akit nem lehet](https://open.spotify.com/track/0KJzVf3tWWXAYn8U9iUqqt) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h), [Rúzsa Magdi](https://open.spotify.com/artist/2BKQHZAdIa0XciezK1qbAb) | [Szeretni, akit nem lehet](https://open.spotify.com/album/6zJylWGhG71fZdNvxJzBB4) | 3:09 | 2021-03-27\* | 2021-04-26 |
 | [Szeretni, akit nem lehet](https://open.spotify.com/track/1u0SorfadnkNVlCvTtySf9) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h), [Rúzsa Magdi](https://open.spotify.com/artist/2BKQHZAdIa0XciezK1qbAb) | [Ha mindenkit boldoggá akarsz tenni, árulj fagyit](https://open.spotify.com/album/39U4YKkOkwZFiv2ucb0MIH) | 3:09 | 2021-05-03 | 2021-05-05 |
-| [Szív](https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Szív](https://open.spotify.com/album/784Na2iyszGVq9oETcoU1A) | 8:50 | 2021-11-07 | 2022-04-10 |
+| [Szív](https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Szív](https://open.spotify.com/album/784Na2iyszGVq9oETcoU1A) | 8:50 | 2021-11-07 |  |
 | [Szívedből minden kell](https://open.spotify.com/track/3G9gEBbCzfGgTdZhnzk6Up) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Ha mindenkit boldoggá akarsz tenni, árulj fagyit](https://open.spotify.com/album/39U4YKkOkwZFiv2ucb0MIH) | 3:27 | 2021-05-03 | 2021-06-26 |
 | [Szívedből minden kell](https://open.spotify.com/track/4WYzTp2lLIWrlEqIOfADrf) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Szívedből minden kell](https://open.spotify.com/album/7z5wClHYj2bstTUyELZELQ) | 3:27 | 2021-04-14 | 2021-04-24 |
 | [Szürke](https://open.spotify.com/track/1vMwsiXZ0yvZJY4IziZSMp) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Beck Zoli](https://open.spotify.com/artist/3H9tHBv43PRwvkfTTEzsYS) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 4:01 | 2021-07-31 | 2021-08-05 |

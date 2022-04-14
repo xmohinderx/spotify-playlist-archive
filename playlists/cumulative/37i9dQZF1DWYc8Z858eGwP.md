@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYc8Z858eGwP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYc8Z858eGwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYc8Z858eGwP)
 
-### [Radar Africa](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+### [Radar Africa](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=72b74BypQluwufnMm3M8Cw">Focalistic</a>
+
+50 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2SgxzTVd6bU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2SgxzTVd6bU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2SgxzTVd6bU)
 
-### [Learn Portuguese](https://open.spotify.com/playlist/1GcRyzcXCCtOyYenZOtlJg)
+### [Learn Portuguese](https://open.spotify.com/playlist/37i9dQZF1DX2SgxzTVd6bU)
 
 > Listen & repeat..\. with over 8 hours of Portuguese instruction!
+
+53 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1GcRyzcXCCtOyYenZOtlJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6rVyqO2FaN8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6rVyqO2FaN8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6rVyqO2FaN8)
 
-### [Still Hot](https://open.spotify.com/playlist/0TBZn7zfejqBGy43W0aTCF)
+### [Still Hot](https://open.spotify.com/playlist/37i9dQZF1DX6rVyqO2FaN8)
 
 > Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Keith Urban
+
+99 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/0TBZn7zfejqBGy43W0aTCF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

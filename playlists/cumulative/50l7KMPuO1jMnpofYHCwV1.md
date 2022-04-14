@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/50l7KMPuO1jMnpofYHCwV1.md) - cumulative - [plain](/playlists/plain/50l7KMPuO1jMnpofYHCwV1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/50l7KMPuO1jMnpofYHCwV1)
 
-### [Austin After Dark](https://open.spotify.com/playlist/4CSL7IO6OqriYliUZEe5j0)
+### [Austin After Dark](https://open.spotify.com/playlist/50l7KMPuO1jMnpofYHCwV1)
 
 > The evening is here in Austin\. Time for some music to get it started all over again!
+
+41 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/4CSL7IO6OqriYliUZEe5j0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

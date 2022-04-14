@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9j444F9NCBa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9j444F9NCBa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9j444F9NCBa)
 
-### [Calming Instrumental Covers](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+### [Calming Instrumental Covers](https://open.spotify.com/playlist/37i9dQZF1DX9j444F9NCBa)
 
 > Gentle instrumental covers of known songs.
+
+106 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

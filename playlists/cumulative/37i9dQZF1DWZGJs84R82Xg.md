@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZGJs84R82Xg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZGJs84R82Xg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZGJs84R82Xg)
 
-### [This Is Celia Cruz \(2\)](https://open.spotify.com/playlist/5raMicQWTYbCZYq68oJfJv)
+### [This Is Celia Cruz \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWZGJs84R82Xg)
 
 > The latest and greatest\. Lo nuevo y lo esencial.
+
+42 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/5raMicQWTYbCZYq68oJfJv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

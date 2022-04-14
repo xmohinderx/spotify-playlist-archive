@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2r0FByV5U4C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2r0FByV5U4C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2r0FByV5U4C)
 
-### [Black History Salute](https://open.spotify.com/playlist/7oBtRO88pL251qtAnj0xY5)
+### [Black History Salute](https://open.spotify.com/playlist/37i9dQZF1DX2r0FByV5U4C)
 
 > Saluting the songs and artists that have filled us with pride.
+
+26 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/7oBtRO88pL251qtAnj0xY5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

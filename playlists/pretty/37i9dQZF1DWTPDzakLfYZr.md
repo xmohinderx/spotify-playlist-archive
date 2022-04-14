@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Piso 21 & Ñejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,735 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,941 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 | 3 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 4 | [A Bebé](https://open.spotify.com/track/0CffeQAHpVPpdCLApkM2SN) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Patrick Romantik](https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA) | [Diverso](https://open.spotify.com/album/1scH1s70wqo4uVm8pvZOXK) | 3:04 |
 | 5 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 |
-| 6 | [Dejavú](https://open.spotify.com/track/6ANTIKDETHmCjzeBVzMQjf) | [Nicolas Mayorca](https://open.spotify.com/artist/2pg3wL9rxgUzpJDYCBTlt1) | [Dejavú](https://open.spotify.com/album/2xXCVuiKAUffVnimoxFKnh) | 2:41 |
+| 6 | [Deja Vu](https://open.spotify.com/track/6ANTIKDETHmCjzeBVzMQjf) | [Nicolas Mayorca](https://open.spotify.com/artist/2pg3wL9rxgUzpJDYCBTlt1) | [Deja Vu](https://open.spotify.com/album/2xXCVuiKAUffVnimoxFKnh) | 2:41 |
 | 7 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 |
 | 8 | [Pa' Después](https://open.spotify.com/track/5EP6bveKDMhRPUETmrslfc) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W) | [Pa' Después](https://open.spotify.com/album/6JlrpC0BIdrgfAB9xLHsSk) | 2:45 |
 | 9 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |

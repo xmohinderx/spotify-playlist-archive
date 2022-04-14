@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7qeSmszUjRBWOwHzlxfEXt.md) - cumulative - [plain](/playlists/plain/7qeSmszUjRBWOwHzlxfEXt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7qeSmszUjRBWOwHzlxfEXt)
 
-### [Det är så tråkigt och trist utan dig](https://open.spotify.com/playlist/4jfA0SlLXhoMRPucF8kers)
+### [Det är så tråkigt och trist utan dig](https://open.spotify.com/playlist/7qeSmszUjRBWOwHzlxfEXt)
 
 > 
+
+26 songs - 1 hr 32 min - [published](https://open.spotify.com/playlist/4jfA0SlLXhoMRPucF8kers)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

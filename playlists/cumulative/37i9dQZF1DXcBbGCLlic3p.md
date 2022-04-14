@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcBbGCLlic3p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcBbGCLlic3p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcBbGCLlic3p)
 
-### [Detox](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+### [Detox](https://open.spotify.com/playlist/37i9dQZF1DXcBbGCLlic3p)
 
 > Restorative piano and ambient music.
+
+180 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

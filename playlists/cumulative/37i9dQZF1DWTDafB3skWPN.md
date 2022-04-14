@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTDafB3skWPN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTDafB3skWPN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTDafB3skWPN)
 
-### [Feeling Accomplished](https://open.spotify.com/playlist/7GO5PV58ty6EvqeQafdPpW)
+### [Feeling Accomplished](https://open.spotify.com/playlist/37i9dQZF1DWTDafB3skWPN)
 
 > Celebrate yourself with a fun pop & hip hop mix
+
+50 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/7GO5PV58ty6EvqeQafdPpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

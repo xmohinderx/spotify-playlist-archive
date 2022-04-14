@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7ZEwRWHSfUr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ZEwRWHSfUr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ZEwRWHSfUr)
 
-### [Shakespeare: The Comedies](https://open.spotify.com/playlist/5VUG8brbA0AMa0Rp9dF3jL)
+### [Shakespeare: The Comedies](https://open.spotify.com/playlist/37i9dQZF1DX7ZEwRWHSfUr)
 
 > Be not afeard..\. this playlist is full of sounds and sweet airs that give delight\. These are Shakespeare's comedies.
+
+50 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/5VUG8brbA0AMa0Rp9dF3jL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

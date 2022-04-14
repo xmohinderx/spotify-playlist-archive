@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXKWi9FunemC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXKWi9FunemC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXKWi9FunemC)
 
-### [Love Coffee, Love Jesus](https://open.spotify.com/playlist/0oJReVcQbzcC4wJyLv9HIi)
+### [Love Coffee, Love Jesus](https://open.spotify.com/playlist/37i9dQZF1DWXKWi9FunemC)
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
+
+117 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/0oJReVcQbzcC4wJyLv9HIi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

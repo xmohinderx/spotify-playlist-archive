@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY6tYEFs22tT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY6tYEFs22tT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY6tYEFs22tT)
 
-### [Hip\-Hop Central](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
+### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
 > New music from Fivio Foreign, Lil Baby, Pusha\-T and Coi Leray is here!
+
+245 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

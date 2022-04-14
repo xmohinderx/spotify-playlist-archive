@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYC7CaxNgoCg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYC7CaxNgoCg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYC7CaxNgoCg)
 
-### [Sound Of Motown](https://open.spotify.com/playlist/2oGTf2t1kNo7A4i8wuuWDS)
+### [Sound Of Motown](https://open.spotify.com/playlist/37i9dQZF1DWYC7CaxNgoCg)
 
 > Celebrating 60 years of Motown with the music that broke barriers and moved the soul.
+
+29 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/2oGTf2t1kNo7A4i8wuuWDS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

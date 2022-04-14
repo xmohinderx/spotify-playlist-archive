@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb85CZUwGLzX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb85CZUwGLzX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb85CZUwGLzX)
 
-### [A Monty Python Emporium](https://open.spotify.com/playlist/4ejvCZTWCzBUGQkOvQzubQ)
+### [A Monty Python Emporium](https://open.spotify.com/playlist/37i9dQZF1DXb85CZUwGLzX)
 
 > Silly\-walk your way through the entire Monty Python catalogue.
+
+436 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/4ejvCZTWCzBUGQkOvQzubQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

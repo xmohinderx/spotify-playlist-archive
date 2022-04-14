@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4OR8pnFkwhR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OR8pnFkwhR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OR8pnFkwhR)
 
-### [RADAR: Early Noise ](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Penthouse
+
+131 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWkrGNlIHxPl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWkrGNlIHxPl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWkrGNlIHxPl)
 
-### [Arab X](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
 > Global crossovers by/with Arab artists\. Cover: Faouzia.
+
+129 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

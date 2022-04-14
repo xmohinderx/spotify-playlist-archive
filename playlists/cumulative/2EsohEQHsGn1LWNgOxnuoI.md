@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2EsohEQHsGn1LWNgOxnuoI.md) - cumulative - [plain](/playlists/plain/2EsohEQHsGn1LWNgOxnuoI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2EsohEQHsGn1LWNgOxnuoI)
 
-### [Global Music Day](https://open.spotify.com/playlist/73tky4aL2PbScmccRNgg08)
+### [Global Music Day](https://open.spotify.com/playlist/2EsohEQHsGn1LWNgOxnuoI)
 
 > 
+
+60 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/73tky4aL2PbScmccRNgg08)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

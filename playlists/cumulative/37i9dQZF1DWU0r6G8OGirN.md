@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU0r6G8OGirN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU0r6G8OGirN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU0r6G8OGirN)
 
-### [Cozy Christmas Jazz](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
+### [Cozy Christmas Jazz](https://open.spotify.com/playlist/37i9dQZF1DWU0r6G8OGirN)
 
 > Warm instrumental versions of your favorite Christmas songs.
+
+53 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

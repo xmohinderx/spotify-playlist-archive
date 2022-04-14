@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 187340,
+  "num_followers": 187586,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTUxNCwwMDAwMDAwMGJlZjQxNzU3NzM1M2VkNjkyZWIwMjJjZDIxZjA0Mjc4",
+  "snapshot_id": "MTY0OTg5ODEyMiwwMDAwMDAwMDRmNjUwODBiMWI5YmM5NWZiN2UwM2RjN2M4MDI3NmVk",
   "tracks": [
     {
       "added_at": "2022-01-10 11:45:55",
@@ -175,42 +175,18 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "It's Impossible",
-        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+        "name": "The Flying Platters Around The World",
+        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        },
-        {
-          "name": "Mitchell Ayres & His Orchestra",
-          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
-        },
-        {
-          "name": "The Ray Charles Singers",
-          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 148493,
-      "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
-      "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU"
+      "duration_ms": 168293,
+      "name": "Twilight Time - Single Version",
+      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -231,18 +207,42 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "The Flying Platters Around The World",
-        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 168293,
-      "name": "Twilight Time - Single Version",
-      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
+      "duration_ms": 222733,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
+        "name": "It's Impossible",
+        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        },
+        {
+          "name": "The Ray Charles Singers",
+          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
+        }
+      ],
+      "duration_ms": 148493,
+      "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
+      "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
-        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 141040,
       "name": "Devoted to You",
       "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
+        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
+        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Come Softly To Me",
-      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
         }
       ],
-      "duration_ms": 191266,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
+      "duration_ms": 144933,
+      "name": "Come Softly To Me",
+      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -479,6 +463,22 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -491,38 +491,6 @@
       "duration_ms": 168293,
       "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
       "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Who's Sorry Now",
-      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Red Sails In The Sunset",
-      "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -543,6 +511,22 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Who's Sorry Now",
+      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
         "name": "Command Performance",
         "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
       },
@@ -555,22 +539,6 @@
       "duration_ms": 127706,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3FzkbFgVGdg4zqyCMzUPM7"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
-        "name": "Remember When?",
-        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -591,18 +559,18 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 165240,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
+      "duration_ms": 174893,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -659,6 +627,22 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Red Sails In The Sunset",
+      "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
         "name": "True 50's love",
         "url": "https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
+        "name": "Ricky Nelson (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 153933,
+      "name": "Poor Little Fool - Remastered",
+      "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
         "name": "The Platters Golden Hits",
         "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
@@ -707,18 +707,34 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "Ricky Nelson (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 153933,
-      "name": "Poor Little Fool - Remastered",
-      "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
+      "duration_ms": 181693,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -771,6 +787,22 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
+        "name": "Ricky Sings Again (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Lonesome Town",
+      "url": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -791,22 +823,6 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
         "name": "50's Love Songs",
         "url": "https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 184093,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
-        "name": "Ricky Sings Again (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Lonesome Town",
-      "url": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "Backline Volume 57",
-        "url": "https://open.spotify.com/album/297iVHqfvGBdDtjdaSQBBa"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 116146,
-      "name": "Sugar Moon",
-      "url": "https://open.spotify.com/track/5wA9Arn1DhtyyfdcT6c6jt"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
         "name": "Calamity Jane / The Pajama Game",
         "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
+        "name": "Backline Volume 57",
+        "url": "https://open.spotify.com/album/297iVHqfvGBdDtjdaSQBBa"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 116146,
+      "name": "Sugar Moon",
+      "url": "https://open.spotify.com/track/5wA9Arn1DhtyyfdcT6c6jt"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
         "name": "The Definitive 60's (sixties)",
         "url": "https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 132026,
       "name": "It's Only Make Believe",
       "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "Don't Forbid Me",
-      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -1079,6 +1063,22 @@
       "duration_ms": 168906,
       "name": "Don't",
       "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
+        "name": "The Gold Collection",
+        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "Don't Forbid Me",
+      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
     },
     {
       "added_at": "2022-01-10 11:45:55",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-01-10 11:45:55",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
-    },
-    {
-      "added_at": "2022-01-10 11:45:55",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 150893,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+    },
+    {
+      "added_at": "2022-01-10 11:45:55",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
     }
   ],
   "unique_name": "Soft 50s",

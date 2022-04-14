@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX12KGbWhMort.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX12KGbWhMort) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX12KGbWhMort)
 
-### [Enganchados: Románticos](https://open.spotify.com/playlist/7hfAkxwatZwawHA0lwo8eh)
+### [Enganchados: Románticos](https://open.spotify.com/playlist/37i9dQZF1DX12KGbWhMort)
 
 > Dale play, y que el amor no pare.
+
+101 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/7hfAkxwatZwawHA0lwo8eh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

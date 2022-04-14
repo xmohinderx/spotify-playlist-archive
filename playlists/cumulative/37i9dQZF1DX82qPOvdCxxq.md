@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX82qPOvdCxxq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX82qPOvdCxxq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82qPOvdCxxq)
 
-### [Faith Finds](https://open.spotify.com/playlist/5f5nzHVSRoG5ROI8VWQOvj)
+### [Faith Finds](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
+
+50 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/5f5nzHVSRoG5ROI8VWQOvj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

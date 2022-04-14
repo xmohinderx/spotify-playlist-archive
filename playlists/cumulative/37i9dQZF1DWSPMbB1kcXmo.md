@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSPMbB1kcXmo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSPMbB1kcXmo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSPMbB1kcXmo)
 
-### [internet rewind](https://open.spotify.com/playlist/1wC1JPTD64RPnj3MFCqCfc)
+### [internet rewind](https://open.spotify.com/playlist/37i9dQZF1DWSPMbB1kcXmo)
 
 > Viral classics\. Yep, we're at that stage.
+
+112 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/1wC1JPTD64RPnj3MFCqCfc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

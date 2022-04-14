@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSnRSDTCsoPk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSnRSDTCsoPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSnRSDTCsoPk)
 
-### [Energy Booster: K\-Pop](https://open.spotify.com/playlist/1TK59qZsnLJRldFeVRem4I)
+### [Energy Booster: K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DWSnRSDTCsoPk)
 
 > Need to get your energy level up? This will help!
+
+198 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/1TK59qZsnLJRldFeVRem4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

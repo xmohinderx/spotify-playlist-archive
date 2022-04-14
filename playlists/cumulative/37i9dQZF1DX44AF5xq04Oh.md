@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX44AF5xq04Oh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX44AF5xq04Oh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX44AF5xq04Oh)
 
-### [Reggae BBQ](https://open.spotify.com/playlist/0nNoNABQo8CfbK08iEivUy)
+### [Reggae BBQ](https://open.spotify.com/playlist/37i9dQZF1DX44AF5xq04Oh)
 
 > Hit the grill! Roll those hotdogs and smoke those meats.
+
+28 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/0nNoNABQo8CfbK08iEivUy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWi0hHcPHnic.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWi0hHcPHnic) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWi0hHcPHnic)
 
-### [This Is KIDZ BOP Kids](https://open.spotify.com/playlist/4swCf59ZleNeASHQUD8NaP)
+### [This Is KIDZ BOP Kids](https://open.spotify.com/playlist/37i9dQZF1DWWi0hHcPHnic)
 
 > Your favorite KIDZ BOP hits, all in one place!
+
+230 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/4swCf59ZleNeASHQUD8NaP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

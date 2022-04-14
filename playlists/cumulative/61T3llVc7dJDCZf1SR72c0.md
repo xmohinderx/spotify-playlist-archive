@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/61T3llVc7dJDCZf1SR72c0.md) - cumulative - [plain](/playlists/plain/61T3llVc7dJDCZf1SR72c0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61T3llVc7dJDCZf1SR72c0)
 
-### [Vogue Travel: The Sound of the Upper East Side](https://open.spotify.com/playlist/0njlJCbT1u20Df3fofto6O)
+### [Vogue Travel: The Sound of the Upper East Side](https://open.spotify.com/playlist/61T3llVc7dJDCZf1SR72c0)
 
 > 
+
+28 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/0njlJCbT1u20Df3fofto6O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

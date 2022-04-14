@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics. Cover: Salt Cathedral, Ximena Sari\u00f1ana",
-  "num_followers": 119508,
+  "num_followers": 119575,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTg5MywwMDAwMDAwMGEwNTBlNzhjMjFjYmJjZmMwNzBjYjc5MDc0NzIyYmQx",
+  "snapshot_id": "MTY0OTg5ODQ4NCwwMDAwMDAwMGNhOTVjZTc2OGJkMTNhN2I0ZWIwZjc2NjBkN2U2MGQw",
   "tracks": [
     {
       "added_at": "2022-01-21 14:53:16",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-01-21 14:53:16",
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2022-01-21 14:53:16",
+      "album": {
         "name": "Retrospect",
         "url": "https://open.spotify.com/album/0neNDIEwGKX8TIYRrJ8yMW"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/1ydRx4MddIKUmOg9yiMmOY"
-    },
-    {
-      "added_at": "2022-01-21 14:53:16",
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2022-01-21 14:53:16",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-01-21 14:53:16",
       "album": {
+        "name": "Verano Panor\u00e1mico",
+        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 127704,
+      "name": "That's Playa",
+      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
+    },
+    {
+      "added_at": "2022-01-21 14:53:16",
+      "album": {
         "name": "Canciones",
         "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 210914,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP"
-    },
-    {
-      "added_at": "2022-01-21 14:53:16",
-      "album": {
-        "name": "Verano Panor\u00e1mico",
-        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 127704,
-      "name": "That's Playa",
-      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
     },
     {
       "added_at": "2022-01-21 14:53:16",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-01-21 14:53:16",
       "album": {
-        "name": "Treinta D\u00edas",
-        "url": "https://open.spotify.com/album/3SKad8YYHMrMN7GpOtAzSP"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 243786,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/6CeAzigNnTcKLz83BiAzvh"
-    },
-    {
-      "added_at": "2022-01-21 14:53:16",
-      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr"
       },
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2022-01-21 14:53:16",
       "album": {
-        "name": "Pop Negro",
-        "url": "https://open.spotify.com/album/2oK8FaiHxryCv49WqzUtfR"
-      },
-      "artists": [
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Bombay",
-      "url": "https://open.spotify.com/track/2s5j2PTrKA08NUnyUJDgiG"
-    },
-    {
-      "added_at": "2022-01-21 14:53:16",
-      "album": {
         "name": "Analog Drift",
         "url": "https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 272746,
       "name": "Ya Yo S\u00e9",
       "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
+    },
+    {
+      "added_at": "2022-01-21 14:53:16",
+      "album": {
+        "name": "Treinta D\u00edas",
+        "url": "https://open.spotify.com/album/3SKad8YYHMrMN7GpOtAzSP"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/6CeAzigNnTcKLz83BiAzvh"
+    },
+    {
+      "added_at": "2022-01-21 14:53:16",
+      "album": {
+        "name": "Pop Negro",
+        "url": "https://open.spotify.com/album/2oK8FaiHxryCv49WqzUtfR"
+      },
+      "artists": [
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Bombay",
+      "url": "https://open.spotify.com/track/2s5j2PTrKA08NUnyUJDgiG"
     },
     {
       "added_at": "2022-01-21 14:53:16",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-01-21 14:53:16",
       "album": {
+        "name": "PARIS",
+        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "PARIS",
+      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
+    },
+    {
+      "added_at": "2022-01-21 14:53:16",
+      "album": {
         "name": "The Feel",
         "url": "https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 138459,
       "name": "Sono",
       "url": "https://open.spotify.com/track/3aFBhCEiJpHzPXUFKGBdao"
-    },
-    {
-      "added_at": "2022-01-21 14:53:16",
-      "album": {
-        "name": "PARIS",
-        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "PARIS",
-      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
     },
     {
       "added_at": "2022-01-21 14:53:16",

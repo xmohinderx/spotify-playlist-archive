@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,481 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,518 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 13 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 |
 | 14 | [Second Story Sunlight](https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Second Story Sunlight](https://open.spotify.com/album/3PhyRzz7sT2tqp05ebeoK6) | 3:59 |
 | 15 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
-| 16 | [Bloom!](https://open.spotify.com/track/4kA6XkDyMdMJ3e9hxmbHP3) | [Pavlov](https://open.spotify.com/artist/1CaKIOAgM8I69kpfHrAUGu) | [Pink Bloom!](https://open.spotify.com/album/4Zto4AuUoDr5PFEMINg2Dc) | 8:26 |
-| 17 | [Rolling Back](https://open.spotify.com/track/1WoBED8U50OSvX8HpfQlsC) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back](https://open.spotify.com/album/7MsO7Vr2xArwu8TP7lAv5p) | 3:58 |
+| 16 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 17 | [Bloom!](https://open.spotify.com/track/4kA6XkDyMdMJ3e9hxmbHP3) | [Pavlov](https://open.spotify.com/artist/1CaKIOAgM8I69kpfHrAUGu) | [Pink Bloom!](https://open.spotify.com/album/4Zto4AuUoDr5PFEMINg2Dc) | 8:26 |
 | 18 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
 | 19 | [Smoke](https://open.spotify.com/track/5aEQCT6F0l7mxkwO5D8pr9) | [DYVR](https://open.spotify.com/artist/292LoDesUxUnxLysrHrajc) | [Smoke](https://open.spotify.com/album/6NxCwLZC6Mvw4VRnG8u7Vq) | 3:34 |
-| 20 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 20 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
 | 21 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 |
-| 22 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
+| 22 | [Rolling Back](https://open.spotify.com/track/1WoBED8U50OSvX8HpfQlsC) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back](https://open.spotify.com/album/7MsO7Vr2xArwu8TP7lAv5p) | 3:58 |
 | 23 | [La Nota](https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 002](https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC) | 4:51 |
 | 24 | [He's On My Heart](https://open.spotify.com/track/6O66F7vtQHe2mE9gB7QqiT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 5:21 |
 | 25 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Notforyou \(Jacana People Remix\)](https://open.spotify.com/track/76vBiX6QGPQxB58FcC6OxW) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Blue Coat, Red Dress Remixed, Pt\. 1](https://open.spotify.com/album/0tPHt8iFGIkpiW6Ao1U5lS) | 3:49 |
 | 50 | [Retina](https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Retina / Stay](https://open.spotify.com/album/0fvdyiNRkHyE8OhCLvfB9s) | 3:54 |
 
-Snapshot ID: `MTY0OTgxMTkyMCwwMDAwMDAwMDdmZWQ2MGY5OTMxMzUzMzBlMDdmNzQ2Mjc2NmQ3YmUw`
+Snapshot ID: `MTY0OTg5ODUwOSwwMDAwMDAwMDhhMjg0NTQ1YzNmMTQzMDNlMTc0ZDVjNWFhNmUxZjc5`

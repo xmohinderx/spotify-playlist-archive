@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZdsS73T1ogG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZdsS73T1ogG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZdsS73T1ogG)
 
-### [New Urbano](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+### [New Urbano](https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG)
 
 > Descubre lo más nuevo del movimiento\. Cover: Polimá Westcoast, Farruko, KEVVO, Wisin
+
+67 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4E3UdUs7fUx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4E3UdUs7fUx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4E3UdUs7fUx)
 
-### [Afternoon Acoustic](https://open.spotify.com/playlist/70ri3ZmvP0HS9tUQD53FSg)
+### [Afternoon Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX4E3UdUs7fUx)
 
 > Unwind and let the afternoon unfold.
+
+124 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/70ri3ZmvP0HS9tUQD53FSg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

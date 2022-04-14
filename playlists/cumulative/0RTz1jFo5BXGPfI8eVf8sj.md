@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0RTz1jFo5BXGPfI8eVf8sj.md) - cumulative - [plain](/playlists/plain/0RTz1jFo5BXGPfI8eVf8sj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0RTz1jFo5BXGPfI8eVf8sj)
 
-### [Top Shower Songs](https://open.spotify.com/playlist/3oCrl7dlIOGRuWOe68TMkO)
+### [Top Shower Songs](https://open.spotify.com/playlist/0RTz1jFo5BXGPfI8eVf8sj)
 
 > 
+
+100 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/3oCrl7dlIOGRuWOe68TMkO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

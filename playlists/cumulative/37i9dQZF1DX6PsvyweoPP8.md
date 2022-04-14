@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6PsvyweoPP8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6PsvyweoPP8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6PsvyweoPP8)
 
-### [TRAPando](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
+### [TRAPando](https://open.spotify.com/playlist/37i9dQZF1DX6PsvyweoPP8)
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
+
+65 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

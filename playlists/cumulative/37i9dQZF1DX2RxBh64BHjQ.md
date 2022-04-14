@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2RxBh64BHjQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2RxBh64BHjQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2RxBh64BHjQ)
 
-### [Most Necessary](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+### [Most Necessary](https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ)
 
 > The official voice of generation next\. Cover: Hunxho
+
+328 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

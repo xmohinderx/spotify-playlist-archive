@@ -2224,6 +2224,24 @@
     },
     {
       "album": {
+        "name": "Dusty Issues",
+        "url": "https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Petra",
+          "url": "https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124028,
+      "name": "Dusty Issues",
+      "url": "https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk"
+    },
+    {
+      "album": {
         "name": "Dynamites",
         "url": "https://open.spotify.com/album/7774xln4QSVtgp07oeiEmC"
       },

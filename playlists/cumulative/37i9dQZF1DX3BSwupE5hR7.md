@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3BSwupE5hR7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3BSwupE5hR7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3BSwupE5hR7)
 
-### [This Is Depeche Mode](https://open.spotify.com/playlist/3AH57WOYf9xZXjsQCeHArK)
+### [This Is Depeche Mode](https://open.spotify.com/playlist/37i9dQZF1DX3BSwupE5hR7)
 
 > Depeche Mode, the essential tracks, all in one playlist.
+
+51 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/3AH57WOYf9xZXjsQCeHArK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

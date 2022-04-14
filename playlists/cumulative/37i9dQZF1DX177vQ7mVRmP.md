@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX177vQ7mVRmP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX177vQ7mVRmP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX177vQ7mVRmP)
 
-### [This Is Bruno Mars](https://open.spotify.com/playlist/75BSs6UNb2Mh7UPrpHP3o8)
+### [This Is Bruno Mars](https://open.spotify.com/playlist/37i9dQZF1DX177vQ7mVRmP)
 
 > Silk Sonic plus all the essential Bruno Mars hits!
+
+50 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/75BSs6UNb2Mh7UPrpHP3o8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0jAiO33gxlI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0jAiO33gxlI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0jAiO33gxlI)
 
-### [Presença Hip Hop](https://open.spotify.com/playlist/07w2QUeYfgvUJ366SKbIpZ)
+### [Presença Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX0jAiO33gxlI)
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Pelé MilFlows, Malcolm VL
+
+95 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/07w2QUeYfgvUJ366SKbIpZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

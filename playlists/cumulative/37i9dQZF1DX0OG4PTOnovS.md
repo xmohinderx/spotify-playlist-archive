@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0OG4PTOnovS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0OG4PTOnovS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0OG4PTOnovS)
 
-### [Inspiration for Kids](https://open.spotify.com/playlist/4ouO9TGcvdiRiB4W0BQXPr)
+### [Inspiration for Kids](https://open.spotify.com/playlist/37i9dQZF1DX0OG4PTOnovS)
 
 > The whole family can worship together with these upbeat, inspirational songs.
+
+62 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/4ouO9TGcvdiRiB4W0BQXPr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

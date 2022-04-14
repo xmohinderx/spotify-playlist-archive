@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUSDYg6JTKFA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUSDYg6JTKFA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUSDYg6JTKFA)
 
-### [Hold Hope](https://open.spotify.com/playlist/0i02fW9LF0YzG6MIUX1RaI)
+### [Hold Hope](https://open.spotify.com/playlist/37i9dQZF1DWUSDYg6JTKFA)
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
+
+85 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/0i02fW9LF0YzG6MIUX1RaI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

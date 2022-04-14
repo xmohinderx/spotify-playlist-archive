@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0ByLkBLDx1AS5yXJuBTyCd.md) - cumulative - [plain](/playlists/plain/0ByLkBLDx1AS5yXJuBTyCd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ByLkBLDx1AS5yXJuBTyCd)
 
-### [World Folk](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
+### [World Folk](https://open.spotify.com/playlist/0ByLkBLDx1AS5yXJuBTyCd)
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
+
+36 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

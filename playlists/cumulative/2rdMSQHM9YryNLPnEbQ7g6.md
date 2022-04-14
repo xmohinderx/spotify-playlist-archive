@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2rdMSQHM9YryNLPnEbQ7g6.md) - cumulative - [plain](/playlists/plain/2rdMSQHM9YryNLPnEbQ7g6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2rdMSQHM9YryNLPnEbQ7g6)
 
-### [Joe Cocker](https://open.spotify.com/playlist/3ePw5U6ZnXVZzeYVcGck8X)
+### [Joe Cocker](https://open.spotify.com/playlist/2rdMSQHM9YryNLPnEbQ7g6)
 
 > A collection to remember and honor the music and life of Joe Cocker.
+
+47 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/3ePw5U6ZnXVZzeYVcGck8X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

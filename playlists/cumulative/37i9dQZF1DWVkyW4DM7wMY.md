@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVkyW4DM7wMY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVkyW4DM7wMY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVkyW4DM7wMY)
 
-### [Eastern Vibes](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+### [Eastern Vibes](https://open.spotify.com/playlist/37i9dQZF1DWVkyW4DM7wMY)
 
 > The hottest alternative music from Nairobi to Dar!
+
+102 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

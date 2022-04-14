@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0jJQDST7bzwAYlN19tFLXw.md) - cumulative - [plain](/playlists/plain/0jJQDST7bzwAYlN19tFLXw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0jJQDST7bzwAYlN19tFLXw)
 
-### [Covered in Country](https://open.spotify.com/playlist/2rersrs964qy1F1QkRppuQ)
+### [Covered in Country](https://open.spotify.com/playlist/0jJQDST7bzwAYlN19tFLXw)
 
 > 
+
+21 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/2rersrs964qy1F1QkRppuQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

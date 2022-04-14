@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSsCx004HXRd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSsCx004HXRd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSsCx004HXRd)
 
-### [Learn Russian](https://open.spotify.com/playlist/2UkqupMjkGKH48SwipI7Dt)
+### [Learn Russian](https://open.spotify.com/playlist/37i9dQZF1DWSsCx004HXRd)
 
 > Learn and practice your Russian language skills, from basic vocabulary to useful travel phrases and conversations.
+
+174 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/2UkqupMjkGKH48SwipI7Dt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

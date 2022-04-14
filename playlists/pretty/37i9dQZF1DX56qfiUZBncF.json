@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 372213,
+  "num_followers": 372229,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTc3NSwwMDAwMDAwMDY4MmRhYjBkYjk4YTYyYjBhZjg3ZGUwMTcxZDk4NDUy",
+  "snapshot_id": "MTY0OTg5ODM2OCwwMDAwMDAwMDYyZmNlNTczZTRkNjQyOWZjOWFmYjFjNTJlN2YyNTk2",
   "tracks": [
     {
       "added_at": "2021-10-19 20:08:14",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-10-19 20:08:14",
       "album": {
+        "name": "Edge Of The Dark",
+        "url": "https://open.spotify.com/album/5VbKG8hWAmPGigkeVOuVN7"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 260338,
+      "name": "Edge Of The Dark",
+      "url": "https://open.spotify.com/track/58gDdlyKqLodYDcFtgZb3P"
+    },
+    {
+      "added_at": "2021-10-19 20:08:14",
+      "album": {
         "name": "WONDER (reimagined by PVRIS)",
         "url": "https://open.spotify.com/album/423S1YuISoU4844oyG9q0k"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 255976,
       "name": "WONDER (reimagined by PVRIS)",
       "url": "https://open.spotify.com/track/7soj5MsAS94yih5agEJYwl"
-    },
-    {
-      "added_at": "2021-10-19 20:08:14",
-      "album": {
-        "name": "Edge Of The Dark",
-        "url": "https://open.spotify.com/album/5VbKG8hWAmPGigkeVOuVN7"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 260338,
-      "name": "Edge Of The Dark",
-      "url": "https://open.spotify.com/track/58gDdlyKqLodYDcFtgZb3P"
     },
     {
       "added_at": "2021-10-19 20:08:14",

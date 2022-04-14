@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb3MZdETGqKB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb3MZdETGqKB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb3MZdETGqKB)
 
-### [Nu\-Blue](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
 > All new, all blues\. Cover: Fantastic Negrito
+
+109 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

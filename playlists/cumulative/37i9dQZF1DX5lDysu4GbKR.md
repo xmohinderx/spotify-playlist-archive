@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5lDysu4GbKR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5lDysu4GbKR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5lDysu4GbKR)
 
-### [Acoustic Soul](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
+
+114 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

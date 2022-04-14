@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1LU4UHKqdtg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1LU4UHKqdtg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1LU4UHKqdtg)
 
-### [K\-Pop Fresh](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Red Velvet
+
+171 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWgsG1xGbDd1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWgsG1xGbDd1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWgsG1xGbDd1)
 
-### [Vintage Vibes: Sunny Reggae](https://open.spotify.com/playlist/1c2X5gtsaUdjfhq6okPYv2)
+### [Vintage Vibes: Sunny Reggae](https://open.spotify.com/playlist/37i9dQZF1DWWgsG1xGbDd1)
 
 > You feel the sun on your face.
+
+77 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/1c2X5gtsaUdjfhq6okPYv2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

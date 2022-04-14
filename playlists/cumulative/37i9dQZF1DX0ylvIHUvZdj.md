@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0ylvIHUvZdj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0ylvIHUvZdj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0ylvIHUvZdj)
 
-### [This Is Joan Baez](https://open.spotify.com/playlist/0xSQ7IklzjvHEYKbAJChWP)
+### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DX0ylvIHUvZdj)
 
 > The essential Joan Baez, all in one place.
+
+60 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/0xSQ7IklzjvHEYKbAJChWP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

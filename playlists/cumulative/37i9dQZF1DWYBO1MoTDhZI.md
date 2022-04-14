@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYBO1MoTDhZI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYBO1MoTDhZI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYBO1MoTDhZI)
 
-### [Good Vibes](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
+### [Good Vibes](https://open.spotify.com/playlist/37i9dQZF1DWYBO1MoTDhZI)
 
 > Set it off with these epic anthems\. Only good vibes here!
+
+350 songs - 18 hr 58 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

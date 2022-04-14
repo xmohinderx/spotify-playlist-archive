@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXomWOJXYvzn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXomWOJXYvzn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXomWOJXYvzn)
 
-### [PRIDE: A League Of Her Own](https://open.spotify.com/playlist/3kiPtpB81ucJZ3VLPIWDlu)
+### [PRIDE: A League Of Her Own](https://open.spotify.com/playlist/37i9dQZF1DWXomWOJXYvzn)
 
 > Commonly known as <a href="https://www.instagram.com/alohodc/">ALOHO</a>, this queer/lesbian bar, safe space, and community hub in Washington, DC  helps to co\-curate a playlist of their favorite Pride jams!
+
+45 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/3kiPtpB81ucJZ3VLPIWDlu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

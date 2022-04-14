@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbQ1kpdsa9FU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbQ1kpdsa9FU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbQ1kpdsa9FU)
 
-### [Everyday Inspiration](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
+### [Everyday Inspiration](https://open.spotify.com/playlist/37i9dQZF1DXbQ1kpdsa9FU)
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
+
+139 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +19,7 @@
 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 | 2020-08-26 | 2022-03-22 |
 | [Believer](https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Believer](https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O) | 3:22 | 2020-08-26 |  |
 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 | 2020-08-26 |  |
-| [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 | 2020-08-26 | 2022-04-07 |
+| [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 | 2020-08-26 |  |
 | [Blessing I Can’t See](https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY), [brook\(e\)](https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri) | [Fear No More EP](https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE) | 3:53 | 2020-08-26 |  |
 | [Blessings](https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Blessings](https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc) | 4:58 | 2020-08-26 |  |
 | [Brand New](https://open.spotify.com/track/3PNTeyIdIdZ1P9poPSQ9Y0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New \- EP](https://open.spotify.com/album/1Mb45Pid4zK21GxIPOIdZi) | 3:26 | 2020-08-26 |  |
@@ -73,7 +75,7 @@
 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 | 2020-08-26 |  |
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2020-08-26 |  |
 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 | 2020-08-26 |  |
-| [Let Love Lead](https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Let Love Lead](https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23) | 3:55 | 2020-08-26 |  |
+| [Let Love Lead](https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Let Love Lead](https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23) | 3:55 | 2020-08-26 | 2022-04-14 |
 | [Living Hope](https://open.spotify.com/track/5B58hgrfK6gaN5FxNyUeSJ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/2ZlyhJR1Y2Ik5cvkw6nx8I) | 5:27 | 2020-08-26 |  |
 | [Look Up Child \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 3:34 | 2020-08-26 |  |
 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 | 2020-08-26 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9if5QDLdzCa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9if5QDLdzCa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9if5QDLdzCa)
 
-### [Ocean Escapes](https://open.spotify.com/playlist/2yzXmzNOYoHr0m2WyDWf19)
+### [Ocean Escapes](https://open.spotify.com/playlist/37i9dQZF1DX9if5QDLdzCa)
 
 > Relax to the sound of the ocean.
+
+198 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/2yzXmzNOYoHr0m2WyDWf19)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

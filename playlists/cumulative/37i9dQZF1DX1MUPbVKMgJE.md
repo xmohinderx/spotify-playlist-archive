@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1MUPbVKMgJE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1MUPbVKMgJE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1MUPbVKMgJE)
 
-### [Disco Forever](https://open.spotify.com/playlist/2lNcz8O64Bm1FCmlmRhUK3)
+### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE)
 
 > All your Disco favorites.
+
+150 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/2lNcz8O64Bm1FCmlmRhUK3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

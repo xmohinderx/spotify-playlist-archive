@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX24HW7kIIcEV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX24HW7kIIcEV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24HW7kIIcEV)
 
-### [after school club 🪄](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
+### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
 > T as in Troy? No Gabriella, T as in Time to relive your greatest childhood memories.
+
+85 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

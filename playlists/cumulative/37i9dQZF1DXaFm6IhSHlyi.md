@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaFm6IhSHlyi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaFm6IhSHlyi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaFm6IhSHlyi)
 
-### [Ballads International](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
+### [Ballads International](https://open.spotify.com/playlist/37i9dQZF1DXaFm6IhSHlyi)
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR?si=N0egSx\-tQT6tflfVl3Er1A">Lana Lubany</a>
+
+173 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

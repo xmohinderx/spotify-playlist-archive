@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSrVdvTl1tVY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSrVdvTl1tVY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrVdvTl1tVY)
 
-### [UK House Music](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Supershy
+
+177 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaq7lvg1a3j6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaq7lvg1a3j6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaq7lvg1a3j6)
 
-### [Band Baaja Bollywood](https://open.spotify.com/playlist/0kmAjHvJvbuKLD5ubLOeNo)
+### [Band Baaja Bollywood](https://open.spotify.com/playlist/37i9dQZF1DXaq7lvg1a3j6)
 
 > Let these songs soundtrack your busy wedding season.
+
+43 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/0kmAjHvJvbuKLD5ubLOeNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

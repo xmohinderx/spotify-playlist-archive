@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWfysDOTP12D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWfysDOTP12D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWfysDOTP12D)
 
-### [Poetry: In Their Own Voices](https://open.spotify.com/playlist/2FxH8EyJ75KbGv0fTL9LIt)
+### [Poetry: In Their Own Voices](https://open.spotify.com/playlist/37i9dQZF1DWWfysDOTP12D)
 
 > Over 70 poems by women read by the authors themselves, featuring Rita Dove, Elizabeth Bishop, Gertrude Stein, and more.
+
+82 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/2FxH8EyJ75KbGv0fTL9LIt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

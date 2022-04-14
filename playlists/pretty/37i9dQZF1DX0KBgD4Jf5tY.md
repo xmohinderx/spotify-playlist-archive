@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Bravo, Bravissimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,559 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,565 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 11 | [quattro](https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61) | [bianca](https://open.spotify.com/artist/6Cuyy7LGKfJqK91oFBd2yc) | [quattro](https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe) | 3:04 |
 | 12 | [Kids are electric](https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 3:38 |
 | 13 | [.specchi spettri](https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.specchi spettri](https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs) | 3:38 |
-| 14 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 |
+| 14 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 |
 | 15 | [Per difetto della crescita](https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [Lucky lapolo](https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo) | [L’industria, il pop, la camera, il sesso](https://open.spotify.com/album/5eI8V3EE321knkysf7pkPH) | 2:03 |
 | 16 | [Dentro la mia pelle](https://open.spotify.com/track/3VLA9s4mWD4udmkdckgirS) | [SPZ](https://open.spotify.com/artist/2kEtteuOn6wl0cl1D2mRZQ) | [Dentro la mia pelle](https://open.spotify.com/album/40NKA8YVc1zxXCPlwioflm) | 4:13 |
 | 17 | [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 |

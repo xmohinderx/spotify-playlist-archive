@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3crNbt46mRU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3crNbt46mRU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3crNbt46mRU)
 
-### [New Music Friday Switzerland](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+### [New Music Friday Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX3crNbt46mRU)
 
 > This week's top new releases\. Cover: Montez
+
+941 songs - 2 day 1 hr 9 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

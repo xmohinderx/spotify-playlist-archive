@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9H4ZHqhys8z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9H4ZHqhys8z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9H4ZHqhys8z)
 
-### [EQUAL Greece](https://open.spotify.com/playlist/26nYZW9uO5SB3QxZrqoIKG)
+### [EQUAL Greece](https://open.spotify.com/playlist/37i9dQZF1DX9H4ZHqhys8z)
 
 > Listen to Greek women at full volume\. Cover: Natasa Theodoridou
+
+93 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/26nYZW9uO5SB3QxZrqoIKG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa41CMuUARjl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa41CMuUARjl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa41CMuUARjl)
 
-### [New Music Friday Cratediggers](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
+### [New Music Friday Cratediggers](https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl)
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Carl Cox & Fatboy Slim.
+
+11,245 songs - 29 day 2 hr 42 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

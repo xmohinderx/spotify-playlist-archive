@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2UgsUIg75Vg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2UgsUIg75Vg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2UgsUIg75Vg)
 
-### [Chilled R&B](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
 > Chilled R&B jams for your most relaxed moods.
+
+336 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2XWJkYVfE4v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2XWJkYVfE4v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2XWJkYVfE4v)
 
-### [Shimmering Strings](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
+### [Shimmering Strings](https://open.spotify.com/playlist/37i9dQZF1DX2XWJkYVfE4v)
 
 > Soft, shimmering strings to help you relax.
+
+59 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

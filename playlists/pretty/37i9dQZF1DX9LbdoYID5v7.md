@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > The pop leaning side of 2000s indie\. Cover: Phoenix
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,170 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,409 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 19 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
 | 20 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 |
 | 21 | [Such Great Heights \- Remastered](https://open.spotify.com/track/27LyQFdQbui4TnRs05cZ8C) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/4ssF0ppdJnMTtL2hg1CLKX) | 4:26 |
-| 22 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
-| 23 | [A\-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 |
+| 22 | [A\-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 |
+| 23 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
 | 24 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 | 25 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 26 | [People Say](https://open.spotify.com/track/1Hle8Xb0v0CE4xJR8Ezr89) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/5HdvwiCT7MRMtTmGBwPpNX) | 2:59 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 39 | [Rill Rill](https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/7l5Y3f2amyv1acMfZZQfa2) | 3:49 |
 | 40 | [The Sound Of Settling](https://open.spotify.com/track/3OeQl1CTURzhwzd5R4KWrf) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/5FJTVcpDFYqlo7vjjHEA9V) | 2:12 |
 | 41 | [Eyes](https://open.spotify.com/track/3HQdwlovzULm18PjvlA5wz) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/1EYKQBjyYJr8zu9CHxgeI2) | 2:28 |
-| 42 | [What You Know](https://open.spotify.com/track/1qfYG2JrchEyJiqKnkE7YQ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/4V1rQRHuuOWs8fXRl16OMY) | 3:09 |
-| 43 | [Half Mast](https://open.spotify.com/track/0GgAAB0ZMllFhbNc3mAodO) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:54 |
-| 44 | [Fortress](https://open.spotify.com/track/6HmTNg44SuMjv7o0PvM1Fs) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Summer in Abaddon](https://open.spotify.com/album/3XLn9BkDkwq4icsUye2Krp) | 4:10 |
-| 45 | [Lasso](https://open.spotify.com/track/1DqTNIgasdUuTVBfHuEZds) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 2:47 |
-| 46 | [The New Year](https://open.spotify.com/track/6Glv3rhKQ5Lo8wBzSC4IGA) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/2sfLsbSsDm780Llr9NWHQz) | 4:06 |
+| 42 | [Fortress](https://open.spotify.com/track/6HmTNg44SuMjv7o0PvM1Fs) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Summer in Abaddon](https://open.spotify.com/album/3XLn9BkDkwq4icsUye2Krp) | 4:10 |
+| 43 | [What You Know](https://open.spotify.com/track/1qfYG2JrchEyJiqKnkE7YQ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/4V1rQRHuuOWs8fXRl16OMY) | 3:09 |
+| 44 | [Half Mast](https://open.spotify.com/track/0GgAAB0ZMllFhbNc3mAodO) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:54 |
+| 45 | [The New Year](https://open.spotify.com/track/6Glv3rhKQ5Lo8wBzSC4IGA) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/2sfLsbSsDm780Llr9NWHQz) | 4:06 |
+| 46 | [Lasso](https://open.spotify.com/track/1DqTNIgasdUuTVBfHuEZds) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 2:47 |
 | 47 | [House Fire](https://open.spotify.com/track/6qPnHotmUk3Z4JPkwXBqJj) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/3ZXNnZ17fD6rcoabtjoyGk) | 3:19 |
 | 48 | [Smile Like You Mean It](https://open.spotify.com/track/4kAgnAL4WKx7YqnlL2fvMh) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:54 |
 | 49 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 74 | [The Cave](https://open.spotify.com/track/5tV7QNSURiLd8trSLrZahV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9) | 3:38 |
 | 75 | [Bandages](https://open.spotify.com/track/3D4NfLvG99xCEZnL6MHZ84) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Make Up The Breakdown](https://open.spotify.com/album/6MN4QYFWo1cLuZRiv2sedC) | 3:32 |
 
-Snapshot ID: `MTY0OTgxMTkyNCwwMDAwMDAwMDM5YjJkMGFiZTYxZGM4ZmI2MmE1ZDI2NWYxMzMyNWZl`
+Snapshot ID: `MTY0OTg5ODUxMywwMDAwMDAwMDY0M2M2M2E2OTU1MTA2NjQ0ZWNiYzBjODZjYzlmYjhk`

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7ZnTv0GKubq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ZnTv0GKubq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ZnTv0GKubq)
 
-### [Spotify & Chill](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
+### [Spotify & Chill](https://open.spotify.com/playlist/37i9dQZF1DX7ZnTv0GKubq)
 
 > Late night chilled vibes, for those intimate moments.
+
+59 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

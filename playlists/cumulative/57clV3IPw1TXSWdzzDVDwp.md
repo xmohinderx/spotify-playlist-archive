@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/57clV3IPw1TXSWdzzDVDwp.md) - cumulative - [plain](/playlists/plain/57clV3IPw1TXSWdzzDVDwp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/57clV3IPw1TXSWdzzDVDwp)
 
-### [BRILLIANTMINDS2016](https://open.spotify.com/playlist/57t0UcPe9oUlwBVgJZD7Zz)
+### [BRILLIANTMINDS2016](https://open.spotify.com/playlist/57clV3IPw1TXSWdzzDVDwp)
 
 > Relive your favourite artist moments from the Brilliant Minds conference during <a href="http://symposium.co/">Symposium Stockholm</a>.
+
+18 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/57t0UcPe9oUlwBVgJZD7Zz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

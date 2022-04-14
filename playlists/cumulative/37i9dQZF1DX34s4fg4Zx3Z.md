@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX34s4fg4Zx3Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX34s4fg4Zx3Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX34s4fg4Zx3Z)
 
-### [Fresh Finds Vietnam](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
+
+250 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

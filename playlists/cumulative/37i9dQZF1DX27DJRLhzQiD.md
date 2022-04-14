@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX27DJRLhzQiD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX27DJRLhzQiD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX27DJRLhzQiD)
 
-### [EQUAL Andes](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DX27DJRLhzQiD)
 
 > Itzza Primera y más mujeres, a todo volumen.
+
+93 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

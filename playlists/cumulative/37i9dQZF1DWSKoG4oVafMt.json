@@ -230,6 +230,24 @@
     },
     {
       "album": {
+        "name": "Lekh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21GFtO2lpsbV44AuGSd9l3"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Bewafai Kar Gaya",
+      "url": "https://open.spotify.com/track/4NtmlxfMrhLYHDV2EIyVcV"
+    },
+    {
+      "album": {
         "name": "Bewafai Kar Gaya (From \"Lekh\")",
         "url": "https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI"
       },

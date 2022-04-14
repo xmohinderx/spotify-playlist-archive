@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2BZPS5jzzjcyPG7oqRXqMs.md) - cumulative - [plain](/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs)
 
-### [Living Christian](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+### [Living Christian](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
 
 > Your go to Christian playlist for every day listening .
+
+104 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

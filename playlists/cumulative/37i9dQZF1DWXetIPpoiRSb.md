@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXetIPpoiRSb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXetIPpoiRSb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXetIPpoiRSb)
 
-### [New Pop Revolution](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+### [New Pop Revolution](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
 > The freshest pop sounds\. Cover: Dylan
+
+675 songs - 1 day 10 hr 7 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

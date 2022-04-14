@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZUWZIwpqsT3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUWZIwpqsT3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUWZIwpqsT3)
 
-### [This Is Alok](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
+### [This Is Alok](https://open.spotify.com/playlist/37i9dQZF1DWZUWZIwpqsT3)
 
 > Press play and let's dance with the biggest Brazilian DJ!
+
+85 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

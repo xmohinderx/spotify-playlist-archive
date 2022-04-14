@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYiR2Uqcon0X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYiR2Uqcon0X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYiR2Uqcon0X)
 
-### [Country Coffeehouse](https://open.spotify.com/playlist/1g8j7JOt4fueiGiEb02ZhY)
+### [Country Coffeehouse](https://open.spotify.com/playlist/37i9dQZF1DWYiR2Uqcon0X)
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
+
+85 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/1g8j7JOt4fueiGiEb02ZhY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

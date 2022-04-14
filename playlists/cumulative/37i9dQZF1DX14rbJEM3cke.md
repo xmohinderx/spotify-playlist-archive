@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX14rbJEM3cke.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX14rbJEM3cke) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX14rbJEM3cke)
 
-### [Rock Frequency](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
+### [Rock Frequency](https://open.spotify.com/playlist/37i9dQZF1DX14rbJEM3cke)
 
 > New Rock driving the current, every week\. Cover Kamiyada+
+
+78 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

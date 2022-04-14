@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3Nh594yQ7PkhEPzUUAKlnH.md) - cumulative - [plain](/playlists/plain/3Nh594yQ7PkhEPzUUAKlnH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3Nh594yQ7PkhEPzUUAKlnH)
 
-### [Let Loose](https://open.spotify.com/playlist/5fIgWrPMvO9uwe39SU6DC5)
+### [Let Loose](https://open.spotify.com/playlist/3Nh594yQ7PkhEPzUUAKlnH)
 
 > It's the weekend and you need some popular songs to hang out with\. We've got you covered.
+
+65 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5fIgWrPMvO9uwe39SU6DC5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

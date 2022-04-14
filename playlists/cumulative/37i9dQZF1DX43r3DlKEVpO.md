@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX43r3DlKEVpO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43r3DlKEVpO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX43r3DlKEVpO)
 
-### [Pais e Filhos](https://open.spotify.com/playlist/7GSaTmZoXJlwkWZt50V739)
+### [Pais e Filhos](https://open.spotify.com/playlist/37i9dQZF1DX43r3DlKEVpO)
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
+
+100 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7GSaTmZoXJlwkWZt50V739)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXahxq4Q8el6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXahxq4Q8el6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXahxq4Q8el6)
 
-### [Feel Good Soundtracks](https://open.spotify.com/playlist/0k0VtrZCFLgHJzINOLLZfg)
+### [Feel Good Soundtracks](https://open.spotify.com/playlist/37i9dQZF1DWXahxq4Q8el6)
 
 > Uplifting scores and soundtracks to make your heart happy.
+
+54 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/0k0VtrZCFLgHJzINOLLZfg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

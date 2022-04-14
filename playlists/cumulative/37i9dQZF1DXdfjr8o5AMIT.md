@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdfjr8o5AMIT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdfjr8o5AMIT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdfjr8o5AMIT)
 
-### [Graduation Songs 2021](https://open.spotify.com/playlist/1XnOAvJW0OqVBMRviUToIj)
+### [Graduation Songs 2021](https://open.spotify.com/playlist/37i9dQZF1DXdfjr8o5AMIT)
 
 > Class of 2021: The quintessential list of songs to celebrate commencement.
+
+85 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/1XnOAvJW0OqVBMRviUToIj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

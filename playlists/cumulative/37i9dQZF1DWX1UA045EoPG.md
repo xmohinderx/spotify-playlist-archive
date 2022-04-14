@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX1UA045EoPG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX1UA045EoPG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX1UA045EoPG)
 
-### [Summer Heat](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
+### [Summer Heat](https://open.spotify.com/playlist/37i9dQZF1DWX1UA045EoPG)
 
 > Sunny beats and the latest heat to soundtrack your summer.
+
+50 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

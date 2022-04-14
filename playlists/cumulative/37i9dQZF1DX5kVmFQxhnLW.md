@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5kVmFQxhnLW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5kVmFQxhnLW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5kVmFQxhnLW)
 
-### [This Is Michael Bublé](https://open.spotify.com/playlist/4cXLrIJRUCbsQJzijPAhAY)
+### [This Is Michael Bublé](https://open.spotify.com/playlist/37i9dQZF1DX5kVmFQxhnLW)
 
 > The essential tracks, all in one playlist.
+
+74 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4cXLrIJRUCbsQJzijPAhAY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

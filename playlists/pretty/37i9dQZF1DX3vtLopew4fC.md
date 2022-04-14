@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Rêve
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,871 likes - 48 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,872 likes - 48 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 29 | [the other side](https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [the other side](https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr) | 3:03 |
 | 30 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 |
 | 31 | [User Friendly](https://open.spotify.com/track/32gWU0LAJPlyOS6WfezGIi) | [Ann@lise](https://open.spotify.com/artist/1JQiDKAjs1L29s18Uttcuo) | [Welcome to the Sh!tshow](https://open.spotify.com/album/2Vsw8KGaynxd91AathnhRH) | 3:05 |
-| 32 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Aaron Paris](https://open.spotify.com/artist/71zpxFNyq4h7rNXjpl9eJi) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 |
+| 32 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 |
 | 33 | [bully](https://open.spotify.com/track/3rbIlyqJdMW9wHJGk6odRM) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [bully](https://open.spotify.com/album/4ZonIu4QqCVTFG5eLXBsO3) | 2:30 |
 | 34 | [Something Else](https://open.spotify.com/track/64LRuZiztfxL4o3IPXvYqo) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Something Else](https://open.spotify.com/album/1335ZraXDbHNdiknfgItJ5) | 3:18 |
 | 35 | [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 |

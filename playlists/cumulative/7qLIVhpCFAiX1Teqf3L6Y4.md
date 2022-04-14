@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7qLIVhpCFAiX1Teqf3L6Y4.md) - cumulative - [plain](/playlists/plain/7qLIVhpCFAiX1Teqf3L6Y4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7qLIVhpCFAiX1Teqf3L6Y4)
 
-### [Happy Birthday Cheryl!](https://open.spotify.com/playlist/6NqFoJPCet1riKc6oGSgsB)
+### [Happy Birthday Cheryl!](https://open.spotify.com/playlist/7qLIVhpCFAiX1Teqf3L6Y4)
 
 > 
+
+30 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/6NqFoJPCet1riKc6oGSgsB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

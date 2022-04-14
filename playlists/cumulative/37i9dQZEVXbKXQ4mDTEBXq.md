@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKXQ4mDTEBXq.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKXQ4mDTEBXq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKXQ4mDTEBXq)
 
-### [Top 50 \- Japan](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
+### [Top 50 \- Japan](https://open.spotify.com/playlist/37i9dQZEVXbKXQ4mDTEBXq)
 
 > Your daily update of the most played tracks right now \- Japan.
+
+149 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

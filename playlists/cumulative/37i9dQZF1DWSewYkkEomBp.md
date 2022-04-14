@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSewYkkEomBp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSewYkkEomBp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSewYkkEomBp)
 
-### [Summer in the Garden](https://open.spotify.com/playlist/5xQHrzCAIy1Zh6EFNIANJ1)
+### [Summer in the Garden](https://open.spotify.com/playlist/37i9dQZF1DWSewYkkEomBp)
 
 > The perfect tunes to accompany your lazy day in the garden.
+
+100 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/5xQHrzCAIy1Zh6EFNIANJ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

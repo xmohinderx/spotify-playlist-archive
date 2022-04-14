@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTkyVpP5GNAO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTkyVpP5GNAO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTkyVpP5GNAO)
 
-### [Alabanza y Gloria](https://open.spotify.com/playlist/6XERtpxula7zdB3WFxiDds)
+### [Alabanza y Gloria](https://open.spotify.com/playlist/37i9dQZF1DWTkyVpP5GNAO)
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
+
+90 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/6XERtpxula7zdB3WFxiDds)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

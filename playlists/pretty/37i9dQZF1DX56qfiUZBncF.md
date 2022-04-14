@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,213 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,229 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 40 | [A Million Times \- HONNE remix](https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [A Million Times \(HONNE remix\)](https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt) | 4:06 |
 | 41 | [Cold Blood](https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Cold Blood](https://open.spotify.com/album/0sC0ZuAkEzQcBVbE9tV9ZS) | 3:56 |
 | 42 | [Love Is Easy](https://open.spotify.com/track/7ycVunD8eBQjKgOcqNIUwg) | [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Love Is Easy](https://open.spotify.com/album/7IayMpkgvHb3ZvxbDmvWvu) | 2:54 |
-| 43 | [WONDER \(reimagined by PVRIS\)](https://open.spotify.com/track/7soj5MsAS94yih5agEJYwl) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined by PVRIS\)](https://open.spotify.com/album/423S1YuISoU4844oyG9q0k) | 4:15 |
-| 44 | [Edge Of The Dark](https://open.spotify.com/track/58gDdlyKqLodYDcFtgZb3P) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Edge Of The Dark](https://open.spotify.com/album/5VbKG8hWAmPGigkeVOuVN7) | 4:20 |
+| 43 | [Edge Of The Dark](https://open.spotify.com/track/58gDdlyKqLodYDcFtgZb3P) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Edge Of The Dark](https://open.spotify.com/album/5VbKG8hWAmPGigkeVOuVN7) | 4:20 |
+| 44 | [WONDER \(reimagined by PVRIS\)](https://open.spotify.com/track/7soj5MsAS94yih5agEJYwl) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined by PVRIS\)](https://open.spotify.com/album/423S1YuISoU4844oyG9q0k) | 4:15 |
 | 45 | [Alive](https://open.spotify.com/track/1obIvxPHitnip8ZhiLS6BF) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Oliwa](https://open.spotify.com/artist/1ah0QMzlKN8IKTcKhEn0aD) | [Alive](https://open.spotify.com/album/0omZq6Xm9bLNu8v7H5z2Nl) | 3:58 |
 | 46 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 |
 | 47 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Something Has Changed](https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/7ydFVsXLNeGlXhoG6YLTAL) | 2:58 |
 | 100 | [Keep Running](https://open.spotify.com/track/1PlrUviBqdCy4P4TTdv66y) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Keep Running](https://open.spotify.com/album/0ETGDAATDpwOnzAHygPSlx) | 4:24 |
 
-Snapshot ID: `MTY0OTgxMTc3NSwwMDAwMDAwMDY4MmRhYjBkYjk4YTYyYjBhZjg3ZGUwMTcxZDk4NDUy`
+Snapshot ID: `MTY0OTg5ODM2OCwwMDAwMDAwMDYyZmNlNTczZTRkNjQyOWZjOWFmYjFjNTJlN2YyNTk2`

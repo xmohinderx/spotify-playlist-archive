@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcDxnC0UqHJa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcDxnC0UqHJa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcDxnC0UqHJa)
 
-### [Folksy Covers](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+### [Folksy Covers](https://open.spotify.com/playlist/37i9dQZF1DXcDxnC0UqHJa)
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
+
+164 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

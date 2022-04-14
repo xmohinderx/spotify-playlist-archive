@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY58YgA8d6HG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY58YgA8d6HG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY58YgA8d6HG)
 
-### [Ultimate Performances](https://open.spotify.com/playlist/5RXXgfTftmmcU7xwTY0nj9)
+### [Ultimate Performances](https://open.spotify.com/playlist/37i9dQZF1DWY58YgA8d6HG)
 
 > Celebrate music's biggest awards show with all the ultimate performances.
+
+40 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/5RXXgfTftmmcU7xwTY0nj9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

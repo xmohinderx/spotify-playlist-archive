@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0GO2iStOATx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0GO2iStOATx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0GO2iStOATx)
 
-### [This Is Diljit Dosanjh](https://open.spotify.com/playlist/1YYq19yeL3exqlU80VrRlo)
+### [This Is Diljit Dosanjh](https://open.spotify.com/playlist/37i9dQZF1DX0GO2iStOATx)
 
 > Punjabi superstar’s biggest hits.
+
+59 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/1YYq19yeL3exqlU80VrRlo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9ptRQF1dOxS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ptRQF1dOxS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ptRQF1dOxS)
 
-### [EQUAL UK & Ireland](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
+### [EQUAL UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9ptRQF1dOxS)
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: Koffee
+
+214 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

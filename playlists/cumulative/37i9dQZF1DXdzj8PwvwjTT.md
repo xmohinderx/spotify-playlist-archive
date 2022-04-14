@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdzj8PwvwjTT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdzj8PwvwjTT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdzj8PwvwjTT)
 
-### [Year In Metal 2015](https://open.spotify.com/playlist/4JqspVHWvEa49wVXIwkCLI)
+### [Year In Metal 2015](https://open.spotify.com/playlist/37i9dQZF1DXdzj8PwvwjTT)
 
 > Another great metal year came to a close\. Explore the metal highlights of the year with this playlist!
+
+118 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/4JqspVHWvEa49wVXIwkCLI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

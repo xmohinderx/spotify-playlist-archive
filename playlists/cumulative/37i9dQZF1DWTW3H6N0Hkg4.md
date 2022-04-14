@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTW3H6N0Hkg4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTW3H6N0Hkg4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTW3H6N0Hkg4)
 
-### [Cumbias Viejitas](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
+### [Cumbias Viejitas](https://open.spotify.com/playlist/37i9dQZF1DWTW3H6N0Hkg4)
 
 > Cumbias de antaño para bailar.
+
+70 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

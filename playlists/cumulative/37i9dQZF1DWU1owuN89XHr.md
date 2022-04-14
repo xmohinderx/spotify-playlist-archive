@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU1owuN89XHr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU1owuN89XHr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU1owuN89XHr)
 
-### [Esenciales Trova](https://open.spotify.com/playlist/6l3dGa8zCDeH4FpHS3TJ2w)
+### [Esenciales Trova](https://open.spotify.com/playlist/37i9dQZF1DWU1owuN89XHr)
 
 > Historias y versos que tocan la piel.
+
+98 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/6l3dGa8zCDeH4FpHS3TJ2w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

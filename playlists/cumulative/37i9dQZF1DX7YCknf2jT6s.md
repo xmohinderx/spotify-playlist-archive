@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7YCknf2jT6s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7YCknf2jT6s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7YCknf2jT6s)
 
-### [State of Jazz](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
+### [State of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s)
 
 > New jazz for open minds\. Cover: Gerald Clayton
+
+193 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

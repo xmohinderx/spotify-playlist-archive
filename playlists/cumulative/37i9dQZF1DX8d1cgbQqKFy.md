@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8d1cgbQqKFy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8d1cgbQqKFy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8d1cgbQqKFy)
 
-### [A Noam Chomsky Chronology](https://open.spotify.com/playlist/2VMXynIh71mHXTRYdUpX6a)
+### [A Noam Chomsky Chronology](https://open.spotify.com/playlist/37i9dQZF1DX8d1cgbQqKFy)
 
 > Dive into the works of Noam Chomsky, beginning with his latest 2014 release, When Elites Fail.
+
+410 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/2VMXynIh71mHXTRYdUpX6a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

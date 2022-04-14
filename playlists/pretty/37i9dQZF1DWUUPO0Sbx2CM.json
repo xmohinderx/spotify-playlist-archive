@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 96352,
+  "num_followers": 96382,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQwNSwwMDAwMDAwMGRiMzEwZjI4ZWMyNDk0ZTQ4YzEzYmU1YzlkODAxM2E5",
+  "snapshot_id": "MTY0OTg5ODAxOSwwMDAwMDAwMDQwYmUyYTFkZGMxNDZjMDM2N2Q2NzM4ODM5Nzg3OTIz",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -143,18 +143,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Give Up On Love",
-        "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
+        "name": "As I Am (with Peter CottonTale)",
+        "url": "https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4"
       },
       "artists": [
         {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
         }
       ],
-      "duration_ms": 202790,
-      "name": "Give Up On Love",
-      "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
+      "duration_ms": 205520,
+      "name": "As I Am (with Peter CottonTale)",
+      "url": "https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -179,26 +183,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "As I Am (with Peter CottonTale)",
-        "url": "https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale)",
-      "url": "https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Up Again (The Remixes)",
         "url": "https://open.spotify.com/album/06JS6Bb9W32T4lOsbVtbry"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 170948,
       "name": "Up Again (Lucky Rose Remix)",
       "url": "https://open.spotify.com/track/22gFNeEYuXuElY2QsLeMqx"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Give Up On Love",
+        "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 202790,
+      "name": "Give Up On Love",
+      "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -955,26 +955,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 175292,
-      "name": "Millionaire (Good Like That)",
-      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Can't Take Away",
         "url": "https://open.spotify.com/album/5B6DRt2WvVhDxDdZQ3YdNs"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 235034,
       "name": "Conqueror",
       "url": "https://open.spotify.com/track/089vf2r4s5obkgONgWd1FB"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 175292,
+      "name": "Millionaire (Good Like That)",
+      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
     },
     {
       "added_at": "2021-10-31 00:47:30",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5zpAWvvDe0Q8TXjrgInIke.md) - cumulative - [plain](/playlists/plain/5zpAWvvDe0Q8TXjrgInIke) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5zpAWvvDe0Q8TXjrgInIke)
 
-### [Welcome Baby Kimye!](https://open.spotify.com/playlist/52AGGaJ0poT58U9JPPKu8c)
+### [Welcome Baby Kimye!](https://open.spotify.com/playlist/5zpAWvvDe0Q8TXjrgInIke)
 
 > 
+
+24 songs - 1 hr 15 min - [published](https://open.spotify.com/playlist/52AGGaJ0poT58U9JPPKu8c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

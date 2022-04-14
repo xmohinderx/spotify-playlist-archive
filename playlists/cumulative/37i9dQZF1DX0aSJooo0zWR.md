@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0aSJooo0zWR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0aSJooo0zWR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0aSJooo0zWR)
 
-### [Fusion Fest](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+### [Fusion Fest](https://open.spotify.com/playlist/37i9dQZF1DX0aSJooo0zWR)
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
+
+102 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

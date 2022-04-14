@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcfZ6moR6J0G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcfZ6moR6J0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcfZ6moR6J0G)
 
-### [Nu Metal Generation](https://open.spotify.com/playlist/20d4IlNUeftDn1dC55e5ld)
+### [Nu Metal Generation](https://open.spotify.com/playlist/37i9dQZF1DXcfZ6moR6J0G)
 
 > The sound of a g\-g\-generation\. Cover: Limp Bizkit
+
+84 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/20d4IlNUeftDn1dC55e5ld)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

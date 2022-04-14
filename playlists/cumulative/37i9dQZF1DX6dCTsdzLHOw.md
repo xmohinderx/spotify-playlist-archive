@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6dCTsdzLHOw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6dCTsdzLHOw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6dCTsdzLHOw)
 
-### [Fright Fest](https://open.spotify.com/playlist/7fBxUYr44Ikmg6ar6XDArN)
+### [Fright Fest](https://open.spotify.com/playlist/37i9dQZF1DX6dCTsdzLHOw)
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
+
+28 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/7fBxUYr44Ikmg6ar6XDArN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

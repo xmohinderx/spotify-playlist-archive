@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWaVVA0KKQMp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWaVVA0KKQMp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWaVVA0KKQMp)
 
-### [This Is Alka Yagnik](https://open.spotify.com/playlist/3r9FzLhhUSeFJ3Qi7RnHSE)
+### [This Is Alka Yagnik](https://open.spotify.com/playlist/37i9dQZF1DWWaVVA0KKQMp)
 
 > The '90s Bollywood vocalist’s best offerings.
+
+30 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3r9FzLhhUSeFJ3Qi7RnHSE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

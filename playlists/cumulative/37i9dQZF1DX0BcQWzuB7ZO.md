@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0BcQWzuB7ZO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0BcQWzuB7ZO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0BcQWzuB7ZO)
 
-### [Dance Hits](https://open.spotify.com/playlist/4bKXpbCW98nhngOjZh3mfe)
+### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Jax Jones & MNEK.
+
+133 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4bKXpbCW98nhngOjZh3mfe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

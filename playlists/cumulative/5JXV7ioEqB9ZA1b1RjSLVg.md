@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5JXV7ioEqB9ZA1b1RjSLVg.md) - cumulative - [plain](/playlists/plain/5JXV7ioEqB9ZA1b1RjSLVg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5JXV7ioEqB9ZA1b1RjSLVg)
 
-### [Songbirds](https://open.spotify.com/playlist/7wBj436qDZKWgB1EBTfkbV)
+### [Songbirds](https://open.spotify.com/playlist/5JXV7ioEqB9ZA1b1RjSLVg)
 
 > Wake up to Songbirds, a mix of melody\-driven indie, folk, and Americana.
+
+25 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/7wBj436qDZKWgB1EBTfkbV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

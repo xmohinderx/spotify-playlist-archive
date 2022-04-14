@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSsv1Yhw5QfW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSsv1Yhw5QfW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSsv1Yhw5QfW)
 
-### [Enganchados: Lentos](https://open.spotify.com/playlist/4q9q1ha6StSi8KNW4vB2tv)
+### [Enganchados: Lentos](https://open.spotify.com/playlist/37i9dQZF1DWSsv1Yhw5QfW)
 
 > Agárrense fuerte.
+
+56 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/4q9q1ha6StSi8KNW4vB2tv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbvE0SE0Cczh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbvE0SE0Cczh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbvE0SE0Cczh)
 
-### [Jukebox Joint](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
+### [Jukebox Joint](https://open.spotify.com/playlist/37i9dQZF1DXbvE0SE0Cczh)
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more...
+
+62 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

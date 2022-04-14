@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5TUU1rXz87AipJYg92AXFg.md) - cumulative - [plain](/playlists/plain/5TUU1rXz87AipJYg92AXFg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5TUU1rXz87AipJYg92AXFg)
 
-### [2001](https://open.spotify.com/playlist/7GVGnD5NLEw4LrED6dSNh2)
+### [2001](https://open.spotify.com/playlist/5TUU1rXz87AipJYg92AXFg)
 
 > 
+
+50 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/7GVGnD5NLEw4LrED6dSNh2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

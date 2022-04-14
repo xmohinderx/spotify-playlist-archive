@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7J8HlMdOq82WJAU6JmhR5d.md) - cumulative - [plain](/playlists/plain/7J8HlMdOq82WJAU6JmhR5d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7J8HlMdOq82WJAU6JmhR5d)
 
-### [A Soft Piano Christmas](https://open.spotify.com/playlist/0853EF75lPBM4a63Y74fCV)
+### [A Soft Piano Christmas](https://open.spotify.com/playlist/7J8HlMdOq82WJAU6JmhR5d)
 
 > 
+
+71 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/0853EF75lPBM4a63Y74fCV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVEt8B7a1H1M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVEt8B7a1H1M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVEt8B7a1H1M)
 
-### [Birds in the Forest](https://open.spotify.com/playlist/4lD2bq5HTlgFZPtp9nIvXE)
+### [Birds in the Forest](https://open.spotify.com/playlist/37i9dQZF1DWVEt8B7a1H1M)
 
 > Relaxing sounds of birds in vast forests.
+
+95 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4lD2bq5HTlgFZPtp9nIvXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

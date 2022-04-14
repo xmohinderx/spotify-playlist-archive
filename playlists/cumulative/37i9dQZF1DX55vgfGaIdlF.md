@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX55vgfGaIdlF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX55vgfGaIdlF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX55vgfGaIdlF)
 
-### [After Party//Come Down](https://open.spotify.com/playlist/7pSouUJjpM3i6LRYHeFP7e)
+### [After Party//Come Down](https://open.spotify.com/playlist/37i9dQZF1DX55vgfGaIdlF)
 
 > Slow down with these late night jams.
+
+51 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/7pSouUJjpM3i6LRYHeFP7e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

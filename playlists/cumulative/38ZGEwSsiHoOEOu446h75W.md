@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/38ZGEwSsiHoOEOu446h75W.md) - cumulative - [plain](/playlists/plain/38ZGEwSsiHoOEOu446h75W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/38ZGEwSsiHoOEOu446h75W)
 
-### [Top Picks Groove](https://open.spotify.com/playlist/6Y3pGUXoYwOyF21uHszrt3)
+### [Top Picks Groove](https://open.spotify.com/playlist/38ZGEwSsiHoOEOu446h75W)
 
 > 
+
+20 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/6Y3pGUXoYwOyF21uHszrt3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVu0D7Y8cYcs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVu0D7Y8cYcs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVu0D7Y8cYcs)
 
-### [Just Smile](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
+### [Just Smile](https://open.spotify.com/playlist/37i9dQZF1DWVu0D7Y8cYcs)
 
 > Come on, man\. Just smile!
+
+50 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

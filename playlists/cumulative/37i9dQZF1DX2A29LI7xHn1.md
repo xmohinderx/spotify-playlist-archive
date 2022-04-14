@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2A29LI7xHn1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2A29LI7xHn1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2A29LI7xHn1)
 
-### [Signed XOXO](https://open.spotify.com/playlist/2r5DE6CSqTiYmBM4pn2qN9)
+### [Signed XOXO](https://open.spotify.com/playlist/37i9dQZF1DX2A29LI7xHn1)
 
 > Crossing over like Allen I\. Cover: Latto
+
+195 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/2r5DE6CSqTiYmBM4pn2qN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

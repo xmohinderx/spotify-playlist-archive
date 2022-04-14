@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYBXdN7izJSV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYBXdN7izJSV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYBXdN7izJSV)
 
-### [Alt Country Classics](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
+### [Alt Country Classics](https://open.spotify.com/playlist/37i9dQZF1DWYBXdN7izJSV)
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
+
+75 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

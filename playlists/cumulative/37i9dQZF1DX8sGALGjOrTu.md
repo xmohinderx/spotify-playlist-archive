@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8sGALGjOrTu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8sGALGjOrTu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8sGALGjOrTu)
 
-### [2000s Screamo](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
+### [2000s Screamo](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
 
 > When emo and hardcore fell hard for each other.
+
+139 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

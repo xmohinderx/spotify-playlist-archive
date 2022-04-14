@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXddisSfoYY5n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXddisSfoYY5n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXddisSfoYY5n)
 
-### [Radio Crime Dramas](https://open.spotify.com/playlist/6aASEd6XSabGmu4rEFP1xy)
+### [Radio Crime Dramas](https://open.spotify.com/playlist/37i9dQZF1DXddisSfoYY5n)
 
 > Danger, mystery, and tangled webs of intrigue lie ahead....
+
+28 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6aASEd6XSabGmu4rEFP1xy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

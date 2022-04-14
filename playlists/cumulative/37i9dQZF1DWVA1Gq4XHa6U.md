@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVA1Gq4XHa6U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVA1Gq4XHa6U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVA1Gq4XHa6U)
 
-### [Gold School](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
+### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
 > Taking it way back! Cover: The Notorious B.I.G.
+
+133 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

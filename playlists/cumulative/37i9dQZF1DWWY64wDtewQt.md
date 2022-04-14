@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWY64wDtewQt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWY64wDtewQt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWY64wDtewQt)
 
-### [phonk](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+### [phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt)
 
 > the beat of your drift
+
+143 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +110,7 @@
 | [PURE MONSTROSITY](https://open.spotify.com/track/5P9317yVhHAtnriqWrcZtJ) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PURE MONSTROSITY](https://open.spotify.com/album/1GCVqsTt7X89UMhZrrLRXH) | 2:16 | 2022-02-18 |  |
 | [Rainy Night Drive](https://open.spotify.com/track/5gbzQN044AiB69UiVuc6qZ) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [Rainy Night Drive](https://open.spotify.com/album/2VTQ3wglK5i3Lm6TK0ns6J) | 2:39 | 2021-10-15 |  |
 | [RAISE DEMONS](https://open.spotify.com/track/6WdazWqd9nZmBFC8qQ7F8E) | [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [RAISE DEMONS](https://open.spotify.com/album/2NWZn1FNTjWeD4R5KCEdaJ) | 2:11 | 2021-10-01 | 2022-04-07 |
+| [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-13 |  |
 | [REASON TO LIVE](https://open.spotify.com/track/4ct6fY3UwHrY4IJIasEDfl) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [REASON TO LIVE](https://open.spotify.com/album/4nmSaKjoJkZH1Agf5brNku) | 3:12 | 2022-02-04 |  |
 | [REVENGE](https://open.spotify.com/track/0MAZBh1x1lJY3ZnbtecLef) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [REVENGE](https://open.spotify.com/album/51P4mQgj2hhFf3MBQYEsRa) | 2:18 | 2021-10-25 |  |
 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 | 2022-02-18 |  |
@@ -143,7 +146,7 @@
 | [WAVE](https://open.spotify.com/track/20DxqBWSmwklx4A5aQX9v7) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [WAVE](https://open.spotify.com/album/3SmBkuj0WCN6qSH3lxCTEY) | 2:03 | 2021-09-10 |  |
 | [WELCOME TO THE GRAVE](https://open.spotify.com/track/5h2i2K6RC8aPADhm16c051) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Cloudymane](https://open.spotify.com/artist/1GReDlj4QCzHLKfWxh3ySm) | [WELCOME TO THE GRAVE](https://open.spotify.com/album/4cE2Wxwh8fwHhmRABIcyyi) | 2:15 | 2022-02-18 |  |
 | [WHAT THE FUCK U GONNA DO?](https://open.spotify.com/track/7g0E3ydb9GVNq5ibxsAL17) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [WHAT THE FUCK U GONNA DO?](https://open.spotify.com/album/4cXqPU2h6HNF1LXyEi3Rqn) | 2:48 | 2021-09-10 |  |
-| [Wtf U Mean](https://open.spotify.com/track/3PHt7AdVhjIMS5Yw5RIZKU) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wtf U Mean](https://open.spotify.com/album/4uVFNuPonAm2Y6NxvvLuNs) | 1:58 | 2021-05-12 |  |
+| [Wtf U Mean](https://open.spotify.com/track/3PHt7AdVhjIMS5Yw5RIZKU) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wtf U Mean](https://open.spotify.com/album/4uVFNuPonAm2Y6NxvvLuNs) | 1:58 | 2021-05-12 | 2022-04-14 |
 | [XEBU, PT\. 2](https://open.spotify.com/track/5P0OhLUoR6YiY4shxqEj4E) | [Cree+](https://open.spotify.com/artist/5zyatk5rWWeCj7Lcn5RV3u) | [XEBU, PT\. 2](https://open.spotify.com/album/3x8eiVRvamtYsnjfOcL3LN) | 2:42 | 2022-02-18 | 2022-04-05 |
 | [YOUR SMILE](https://open.spotify.com/track/1TDCt6qpnBhxGctJsgB1yg) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC), [SOLIZY](https://open.spotify.com/artist/3lgdHA23PP0zMKYkHvb87j) | [YOUR SMILE](https://open.spotify.com/album/05T8uOreFGlvKXpZ6GNday) | 2:26 | 2022-02-04 |  |
 | [Валим боком](https://open.spotify.com/track/2fb35AD9XuQifYI3az0xRT) | [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Валим боком](https://open.spotify.com/album/7k5qrLNjZ9abIVNUes63yg) | 2:19 | 2022-02-04 | 2022-04-05 |

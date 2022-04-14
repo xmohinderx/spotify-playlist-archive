@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4Xfg8JLDVt8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4Xfg8JLDVt8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Xfg8JLDVt8)
 
-### [Goals](https://open.spotify.com/playlist/15mR6SqPGAa7p8QpZ2mmaU)
+### [Goals](https://open.spotify.com/playlist/37i9dQZF1DX4Xfg8JLDVt8)
 
 > Modo cursi: ON \#RelationshipGoals
+
+77 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/15mR6SqPGAa7p8QpZ2mmaU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

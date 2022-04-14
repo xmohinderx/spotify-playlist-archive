@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6tTW0xDxScH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6tTW0xDxScH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6tTW0xDxScH)
 
-### [Stay in Bed](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
+### [Stay in Bed](https://open.spotify.com/playlist/37i9dQZF1DX6tTW0xDxScH)
 
 > Where everything is lovely and snuggly <3
+
+137 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

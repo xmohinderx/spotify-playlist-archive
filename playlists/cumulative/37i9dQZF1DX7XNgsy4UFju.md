@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7XNgsy4UFju.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7XNgsy4UFju) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7XNgsy4UFju)
 
-### [Indie All Stars](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
 > Home to all the latest indie jams\. Cover: Patrick Watson
+
+343 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

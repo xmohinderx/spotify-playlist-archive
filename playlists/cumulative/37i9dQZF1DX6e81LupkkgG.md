@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6e81LupkkgG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6e81LupkkgG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6e81LupkkgG)
 
-### [Friozinho](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+### [Friozinho](https://open.spotify.com/playlist/37i9dQZF1DX6e81LupkkgG)
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
+
+111 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/13WGZTkVyBhWCD2z7wSwe7.md) - cumulative - [plain](/playlists/plain/13WGZTkVyBhWCD2z7wSwe7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/13WGZTkVyBhWCD2z7wSwe7)
 
-### [Happy Birthday, Lionel](https://open.spotify.com/playlist/4DrMP6or3nbJlTtozfdKpY)
+### [Happy Birthday, Lionel](https://open.spotify.com/playlist/13WGZTkVyBhWCD2z7wSwe7)
 
 > 
+
+35 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/4DrMP6or3nbJlTtozfdKpY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5oYC8mRiXUR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5oYC8mRiXUR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5oYC8mRiXUR)
 
-### [Cleaning Kit](https://open.spotify.com/playlist/6oRvGpvzDj3pSeGrYB27Hn)
+### [Cleaning Kit](https://open.spotify.com/playlist/37i9dQZF1DX5oYC8mRiXUR)
 
 > No dust was found after cleaning to this playlist.
+
+170 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6oRvGpvzDj3pSeGrYB27Hn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0QNpebF7rcL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0QNpebF7rcL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0QNpebF7rcL)
 
-### [Got Blues](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
 > The best in blues right now\. Cover: Albert Cummings
+
+169 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

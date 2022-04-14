@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXhBG1ELU1nr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXhBG1ELU1nr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXhBG1ELU1nr)
 
-### [Trabalhando de Casa](https://open.spotify.com/playlist/1w2tlix8KMG1doSRYQhzfq)
+### [Trabalhando de Casa](https://open.spotify.com/playlist/37i9dQZF1DWXhBG1ELU1nr)
 
 > Uma seleção de hits pra te acompanhar no home office.
+
+100 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/1w2tlix8KMG1doSRYQhzfq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

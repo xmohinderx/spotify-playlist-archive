@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVFZbCNivv6B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVFZbCNivv6B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVFZbCNivv6B)
 
-### [Arena Hip\-Hop](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Santa Fe Klan.
+
+115 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

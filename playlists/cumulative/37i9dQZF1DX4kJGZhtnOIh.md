@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4kJGZhtnOIh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4kJGZhtnOIh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4kJGZhtnOIh)
 
-### [Mellow Dinner](https://open.spotify.com/playlist/5DQOvJsKzXZMJCIkrgn4FQ)
+### [Mellow Dinner](https://open.spotify.com/playlist/37i9dQZF1DX4kJGZhtnOIh)
 
 > Have a nice relaxed dinner with some chill indie music.
+
+79 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5DQOvJsKzXZMJCIkrgn4FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

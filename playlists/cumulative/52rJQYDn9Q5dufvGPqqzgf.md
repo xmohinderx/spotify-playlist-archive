@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/52rJQYDn9Q5dufvGPqqzgf.md) - cumulative - [plain](/playlists/plain/52rJQYDn9Q5dufvGPqqzgf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/52rJQYDn9Q5dufvGPqqzgf)
 
-### [It's a Girl!](https://open.spotify.com/playlist/2sqLSolRhzLvUTjh5we32J)
+### [It's a Girl!](https://open.spotify.com/playlist/52rJQYDn9Q5dufvGPqqzgf)
 
 > Celebrate your baby girl and spread the good news!
+
+25 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/2sqLSolRhzLvUTjh5we32J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1nsfmnIDVAJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1nsfmnIDVAJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1nsfmnIDVAJ)
 
-### [Best of Hamilton](https://open.spotify.com/playlist/1Sjd8mbGciNLtH0ge94Gox)
+### [Best of Hamilton](https://open.spotify.com/playlist/37i9dQZF1DX1nsfmnIDVAJ)
 
 > Where all Hamilton music coexists.
+
+72 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1Sjd8mbGciNLtH0ge94Gox)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

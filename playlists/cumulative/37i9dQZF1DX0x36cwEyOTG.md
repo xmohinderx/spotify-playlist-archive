@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0x36cwEyOTG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0x36cwEyOTG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0x36cwEyOTG)
 
-### [Peaceful Indie Ambient](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
+### [Peaceful Indie Ambient](https://open.spotify.com/playlist/37i9dQZF1DX0x36cwEyOTG)
 
 > Relax with this Peaceful Indie Ambient mix.
+
+130 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5vMTfJy5XKE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5vMTfJy5XKE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5vMTfJy5XKE)
 
-### [New Music Holiday](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
+### [New Music Holiday](https://open.spotify.com/playlist/37i9dQZF1DX5vMTfJy5XKE)
 
 > 'Tis the season! All new holiday releases\. Cover: Elton John & Ed Sheeran
+
+179 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

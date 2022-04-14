@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYoYGBbGKurt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYoYGBbGKurt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYoYGBbGKurt)
 
-### [Chill Instrumental Beats](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+### [Chill Instrumental Beats](https://open.spotify.com/playlist/37i9dQZF1DWYoYGBbGKurt)
 
 > Instrumental beats to chill to.
+
+537 songs - 20 hr 59 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

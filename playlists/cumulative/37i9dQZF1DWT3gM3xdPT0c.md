@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT3gM3xdPT0c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT3gM3xdPT0c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT3gM3xdPT0c)
 
-### [Cozy Acoustic Morning](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+### [Cozy Acoustic Morning](https://open.spotify.com/playlist/37i9dQZF1DWT3gM3xdPT0c)
 
 > Warm instrumental guitar for a gentle start.
+
+130 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

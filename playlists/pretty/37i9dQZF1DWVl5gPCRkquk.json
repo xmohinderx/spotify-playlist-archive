@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 842526,
+  "num_followers": 842597,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQ0NCwwMDAwMDAwMDQ2MDEwY2Y2OWI5MTFhMDdjM2NhNWRlYWQzYzA0ZTAw",
+  "snapshot_id": "MTY0OTg5ODA1NywwMDAwMDAwMDJiY2IyZTA5ZDk4YmNjNmM1ZTMwMzZkMTllYmQ1MGVm",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "A Mermaid in Lisbon",
         "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Not a Number",
-        "url": "https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT"
-      },
-      "artists": [
-        {
-          "name": "Robby Hecht",
-          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
-        }
-      ],
-      "duration_ms": 212471,
-      "name": "Not a Number",
-      "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 230813,
       "name": "Featherweight",
       "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Not a Number",
+        "url": "https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT"
+      },
+      "artists": [
+        {
+          "name": "Robby Hecht",
+          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
+        }
+      ],
+      "duration_ms": 212471,
+      "name": "Not a Number",
+      "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
     },
     {
       "added_at": "2022-02-11 05:00:00",

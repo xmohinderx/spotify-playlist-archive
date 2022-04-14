@@ -1,12 +1,15 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKkidEfWYRuD.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKkidEfWYRuD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKkidEfWYRuD)
 
-### [Top 50 \- Ukraine](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+### [Top 50 \- Ukraine](https://open.spotify.com/playlist/37i9dQZEVXbKkidEfWYRuD)
 
 > Your daily update of the most played tracks right now \- Ukraine.
+
+651 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#ПОШТА](https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#ПОШТА](https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g) | 2:48 | 2022-04-05 |  |
+| [\(Po\)ciąg dalszy nastąpi](https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Czarno na białym](https://open.spotify.com/album/4uxD1b9je0iDbdY1BMamMZ) | 4:25 | 2022-04-13 |  |
 | [\(Не\)идеальна](https://open.spotify.com/track/4td0GwMmapEdpV2g5C2l9K) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [\(Не\)идеальна](https://open.spotify.com/album/4vm9d1inYJkGY81jfbJEkh) | 2:38 | 2021-04-26 | 2021-05-03 |
 | [+44](https://open.spotify.com/track/1ngGGsWzGONyiOlxdXRDr7) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [+44](https://open.spotify.com/album/5RKI4eixkCmtxfSwhB9RkY) | 2:28 | 2021-03-27\* | 2021-04-04 |
 | [.logicx](https://open.spotify.com/track/5csTYqPNsPECtmuw758mWi) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO BANG! HOLD ON!](https://open.spotify.com/album/7uLeEgq6ndnivtW6Kwh5ar) | 1:55 | 2022-03-26 | 2022-03-28 |
@@ -278,7 +281,7 @@
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/0unPBMjVwn0HpWget3DBze) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/7cNf78nTSY57eTOE1auaBk) | 2:59 | 2022-02-12 | 2022-03-30 |
 | [Stick Out](https://open.spotify.com/track/53iGzPusAzNm0NaNrlWv8h) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Stick Out](https://open.spotify.com/album/60KFgGW1KBjor0HEsBAqre) | 2:20 | 2021-05-03 | 2021-06-27 |
 | [Super Fly](https://open.spotify.com/track/0OGIKKEA3s342QnF41bnkS) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [LILDRUGHILL](https://open.spotify.com/artist/4HVffUWlHdRmS5dpOvDVyJ) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 1:24 | 2021-04-11 | 2021-04-13 |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-04-26 |  |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-04-26 | 2022-04-14 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-09-12 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-04-07 | 2021-04-09 |

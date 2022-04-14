@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9mHcd54VItZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9mHcd54VItZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9mHcd54VItZ)
 
-### [SA Rock Essentials](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+### [SA Rock Essentials](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=TnxF3JSTRx2gX2NV4hpZsA">Lucy Kruger & The Lost Boys</a>
+
+99 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

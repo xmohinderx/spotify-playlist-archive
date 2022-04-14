@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7HOk71GPfSw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7HOk71GPfSw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7HOk71GPfSw)
 
-### [hyperpop](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
 > spotify hyperpop playlist Cover: Elyotto
+
+1,198 songs - 2 day 6 hr 30 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

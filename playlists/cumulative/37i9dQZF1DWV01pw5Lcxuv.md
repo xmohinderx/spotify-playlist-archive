@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV01pw5Lcxuv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV01pw5Lcxuv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV01pw5Lcxuv)
 
-### [Mamá 80era](https://open.spotify.com/playlist/2bFb9aU7QO0KHEjsEO6R11)
+### [Mamá 80era](https://open.spotify.com/playlist/37i9dQZF1DWV01pw5Lcxuv)
 
 > Disfruta con mamá la era dorada de los 80's.
+
+79 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2bFb9aU7QO0KHEjsEO6R11)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

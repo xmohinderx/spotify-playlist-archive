@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWNlm4v5v5Qw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWNlm4v5v5Qw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWNlm4v5v5Qw)
 
-### [Ripple Effect: DMV](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+### [Ripple Effect: DMV](https://open.spotify.com/playlist/37i9dQZF1DWWNlm4v5v5Qw)
 
 > DMV music breaking waves\. Cover: Yung Manny
+
+142 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9pryhDLql25.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9pryhDLql25) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9pryhDLql25)
 
-### [Boozy Brunch](https://open.spotify.com/playlist/77F99slL8XuYqo0FuKXNMN)
+### [Boozy Brunch](https://open.spotify.com/playlist/37i9dQZF1DX9pryhDLql25)
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
+
+113 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/77F99slL8XuYqo0FuKXNMN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

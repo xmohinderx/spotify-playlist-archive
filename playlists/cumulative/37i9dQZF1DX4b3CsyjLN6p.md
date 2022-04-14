@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4b3CsyjLN6p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4b3CsyjLN6p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4b3CsyjLN6p)
 
-### [20 Questions](https://open.spotify.com/playlist/04y6pdmCdL1DmFBUnY4c78)
+### [20 Questions](https://open.spotify.com/playlist/37i9dQZF1DX4b3CsyjLN6p)
 
 > It's like that game you use to play when you were bored, only different\. \[Warning: Explicit Content\]
+
+20 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/04y6pdmCdL1DmFBUnY4c78)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

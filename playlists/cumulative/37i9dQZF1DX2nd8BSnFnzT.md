@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2nd8BSnFnzT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2nd8BSnFnzT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2nd8BSnFnzT)
 
-### [Pátria Rock](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Edu K
+
+118 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

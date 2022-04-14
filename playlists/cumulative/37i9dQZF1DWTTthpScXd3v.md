@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTTthpScXd3v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTTthpScXd3v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTTthpScXd3v)
 
-### [This Is David Bowie](https://open.spotify.com/playlist/6EfM0KWUN0kxvY1aziB4Fv)
+### [This Is David Bowie](https://open.spotify.com/playlist/37i9dQZF1DWTTthpScXd3v)
 
 > One of the greatest of all time\. 75 years\. Celebrate his legacy here.
+
+75 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/6EfM0KWUN0kxvY1aziB4Fv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

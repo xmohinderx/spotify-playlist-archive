@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaywRlmHaP59.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaywRlmHaP59) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaywRlmHaP59)
 
-### [Lebanon Sounds](https://open.spotify.com/playlist/3skYynXq74xJS0Zs0H7gwt)
+### [Lebanon Sounds](https://open.spotify.com/playlist/37i9dQZF1DXaywRlmHaP59)
 
 > The sweet sounds of Lebanon.
+
+51 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/3skYynXq74xJS0Zs0H7gwt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6WKkjNUHy2F.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6WKkjNUHy2F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6WKkjNUHy2F)
 
-### [Adam Lambert: Pride](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
+### [Adam Lambert: Pride](https://open.spotify.com/playlist/37i9dQZF1DX6WKkjNUHy2F)
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
+
+26 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

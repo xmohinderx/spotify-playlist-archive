@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2PMlGn5a2jxukdhCYQyQvG.md) - cumulative - [plain](/playlists/plain/2PMlGn5a2jxukdhCYQyQvG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2PMlGn5a2jxukdhCYQyQvG)
 
-### [Inget är större än KÄRLEKEN](https://open.spotify.com/playlist/0t9CFWc2SPFmBYaVmIEph6)
+### [Inget är större än KÄRLEKEN](https://open.spotify.com/playlist/2PMlGn5a2jxukdhCYQyQvG)
 
 > 
+
+23 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/0t9CFWc2SPFmBYaVmIEph6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

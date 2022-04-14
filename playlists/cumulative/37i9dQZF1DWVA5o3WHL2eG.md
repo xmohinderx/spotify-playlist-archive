@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVA5o3WHL2eG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVA5o3WHL2eG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVA5o3WHL2eG)
 
-### [EQUAL GSA](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+### [EQUAL GSA](https://open.spotify.com/playlist/37i9dQZF1DWVA5o3WHL2eG)
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Paula Hartmann
+
+252 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4ieBny4Vpgk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4ieBny4Vpgk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4ieBny4Vpgk)
 
-### [Best Vocal Jazz of 2021](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
+### [Best Vocal Jazz of 2021](https://open.spotify.com/playlist/37i9dQZF1DX4ieBny4Vpgk)
 
 > Vocal jazz favorites from 2021\. Cover: Veronica Swift
+
+54 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

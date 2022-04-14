@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5TMFhaZc9ov.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5TMFhaZc9ov) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5TMFhaZc9ov)
 
-### [Queer As Folk](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+### [Queer As Folk](https://open.spotify.com/playlist/37i9dQZF1DX5TMFhaZc9ov)
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Amythyst Kiah
+
+81 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

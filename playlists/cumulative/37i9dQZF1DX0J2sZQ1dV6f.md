@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0J2sZQ1dV6f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0J2sZQ1dV6f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0J2sZQ1dV6f)
 
-### [4AM Perreo](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
+### [4AM Perreo](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
 > Perreo after hours.
+
+90 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

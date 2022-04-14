@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6PKX5dyBKeq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6PKX5dyBKeq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6PKX5dyBKeq)
 
-### [Rap UK](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
+### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
 > The best of UK Rap & Drill\.  Cover: Digga D
+
+1,049 songs - 2 day 6 hr 33 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

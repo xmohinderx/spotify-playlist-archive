@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYmDNATMglFU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYmDNATMglFU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYmDNATMglFU)
 
-### [The Locker](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
 > \\m/ ft\. carolesdaughter
+
+206 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

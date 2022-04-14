@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX5ZOsG2Ogi1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX5ZOsG2Ogi1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX5ZOsG2Ogi1)
 
-### [Puro Perreo](https://open.spotify.com/playlist/1HQ1zGEsUWl8GwoGVDDmeh)
+### [Puro Perreo](https://open.spotify.com/playlist/37i9dQZF1DWX5ZOsG2Ogi1)
 
 > ¡Perreo del bueno! For those who like it raw.<br/>Cover: Alexis Y Fido
+
+97 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/1HQ1zGEsUWl8GwoGVDDmeh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

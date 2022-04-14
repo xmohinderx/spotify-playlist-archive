@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0cNYCfLOrsu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0cNYCfLOrsu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0cNYCfLOrsu)
 
-### [Dancehall Queen](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
+### [Dancehall Queen](https://open.spotify.com/playlist/37i9dQZF1DX0cNYCfLOrsu)
 
 > The best to ever do it\. Cover: Amaria BB
+
+103 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +18,7 @@
 | [Belong with Me](https://open.spotify.com/track/3RvWNXxM9TCffELMiAtV19) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Belong with Me](https://open.spotify.com/album/2tkbDJZRQbYmAyyQAxTeD4) | 2:56 | 2021-10-24 | 2022-03-23 |
 | [Blessed \(with Tyga\)](https://open.spotify.com/track/5imCvF3VHty1TZ0qaE1JEj) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blessed \(with Tyga\)](https://open.spotify.com/album/7aTeShQY6NnCiFmjYluvcl) | 2:28 | 2021-10-24 |  |
 | [Bubble](https://open.spotify.com/track/2kksFG87MypmLRTw8laNY9) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH) | 3:20 | 2021-10-24 | 2022-03-22 |
-| [Budum](https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Budum](https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo) | 2:45 | 2021-10-24 |  |
+| [Budum](https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Budum](https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo) | 2:45 | 2021-10-24 | 2022-04-14 |
 | [Bumpa](https://open.spotify.com/track/3tZEeX4uToXoW3xeUQWin8) | [Lisa Mercedez](https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p) | [Bumpa](https://open.spotify.com/album/3nccXj310EwGo2VYTjjpMU) | 2:02 | 2021-10-24 | 2022-03-10 |
 | [Call Me \(feat\. Stefflon Don\)](https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:50 | 2021-10-24 |  |
 | [Can't Let You Go](https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Can't Let You Go](https://open.spotify.com/album/3x7XvqGzt8oR9Gm0x4r2wV) | 3:14 | 2021-10-24 |  |
@@ -56,7 +58,7 @@
 | [Instruction \(Gallong Gyal\)](https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Instruction \(Gallong Gyal\)](https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD) | 2:51 | 2021-10-24 |  |
 | [Intercourse \(feat\. Popcaan & Mustard\)](https://open.spotify.com/track/05b94NgTfntKGZra5TMEcx) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:17 | 2021-10-24 |  |
 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 | 2021-10-24 | 2022-03-19 |
-| [LIGHTS](https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug) | [Leaha](https://open.spotify.com/artist/1QKXXl3OKfTUTcXg0z1ntp) | [LIGHTS](https://open.spotify.com/album/0Mbjwil51uX1EE2nARbl0f) | 3:05 | 2021-10-24 | 2022-04-07 |
+| [LIGHTS](https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug) | [Leaha](https://open.spotify.com/artist/1QKXXl3OKfTUTcXg0z1ntp) | [LIGHTS](https://open.spotify.com/album/0Mbjwil51uX1EE2nARbl0f) | 3:05 | 2021-10-24 |  |
 | [Lime Light](https://open.spotify.com/track/5AbcWeVLIUgIzrbZIGPVak) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Art of Flex](https://open.spotify.com/album/3SzwtY32eeDhTg8W4G1RhF) | 2:30 | 2021-10-24 |  |
 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-10-24 |  |
 | [Mad Out](https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Mad Out](https://open.spotify.com/album/5aAuB9NOM8eG4JdQbVWthA) | 2:07 | 2021-10-24 |  |

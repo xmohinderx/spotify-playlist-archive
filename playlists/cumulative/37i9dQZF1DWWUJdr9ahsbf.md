@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWUJdr9ahsbf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWUJdr9ahsbf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWUJdr9ahsbf)
 
-### [This Is Spice Girls](https://open.spotify.com/playlist/4pTpjsSxh6QLPsabX0uTEN)
+### [This Is Spice Girls](https://open.spotify.com/playlist/37i9dQZF1DWWUJdr9ahsbf)
 
 > What you really, really want.
+
+42 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/4pTpjsSxh6QLPsabX0uTEN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY7IeIP1cdjF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY7IeIP1cdjF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY7IeIP1cdjF)
 
-### [Baila Reggaeton](https://open.spotify.com/playlist/0HEXy6qoPJDhzDX63XfHmx)
+### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
 > Reggaeton hits from Feid, Daddy Yankee, Karol G, and more!
+
+93 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/0HEXy6qoPJDhzDX63XfHmx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

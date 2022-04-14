@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6juf9A1KL8naPZFa2YngsM.md) - cumulative - [plain](/playlists/plain/6juf9A1KL8naPZFa2YngsM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6juf9A1KL8naPZFa2YngsM)
 
-### [Jazz on the Rocks](https://open.spotify.com/playlist/6ABMhQsfWpPmoePmdcE17a)
+### [Jazz on the Rocks](https://open.spotify.com/playlist/6juf9A1KL8naPZFa2YngsM)
 
 > Score your cocktail hour with eclectic jazz covers \- from Drake to Radiohead.
+
+25 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/6ABMhQsfWpPmoePmdcE17a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

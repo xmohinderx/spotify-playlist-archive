@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVLoqOzktoRS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVLoqOzktoRS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVLoqOzktoRS)
 
-### [Buenas Noches](https://open.spotify.com/playlist/1RgBFdIwebWb1x2uWs7aGx)
+### [Buenas Noches](https://open.spotify.com/playlist/37i9dQZF1DWVLoqOzktoRS)
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
+
+64 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1RgBFdIwebWb1x2uWs7aGx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

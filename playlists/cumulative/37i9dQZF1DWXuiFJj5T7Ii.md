@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXuiFJj5T7Ii.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXuiFJj5T7Ii) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXuiFJj5T7Ii)
 
-### [Hot Country Presents..\. Best Country Songs of 2021](https://open.spotify.com/playlist/2qOq3BPeaDYmoM3mA0lXRn)
+### [Hot Country Presents..\. Best Country Songs of 2021](https://open.spotify.com/playlist/37i9dQZF1DWXuiFJj5T7Ii)
 
 > The Top Hot Country tracks for 2021 in one playlist\. Cover: Kelsea Ballerini
+
+100 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/2qOq3BPeaDYmoM3mA0lXRn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

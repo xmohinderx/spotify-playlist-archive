@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,570 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,593 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 13 | [Where the Night Goes](https://open.spotify.com/track/0CWuqQEk4G9cVAue7OhFui) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Where the Night Goes](https://open.spotify.com/album/1wXi0HujQLB92MmBYJmUIG) | 3:49 |
 | 14 | [Candle In The Wind](https://open.spotify.com/track/04FU70tKvDYpJ8MZLh8MU2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 3:51 |
 | 15 | [This Woman's Work](https://open.spotify.com/track/1Q0sruYhnsq6lmhWgeRFh5) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World](https://open.spotify.com/album/0Bk6rV33JObdtOpjJg0vIy) | 3:38 |
-| 16 | [The Rose](https://open.spotify.com/track/7iLXXTLIaguiWCTRJNU1Tv) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Best Bette](https://open.spotify.com/album/2aBNewGpx5XIAdSFKvEKGw) | 3:35 |
-| 17 | [Walking in Memphis](https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD) | [Marc Cohn](https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9) | [Marc Cohn](https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m) | 4:12 |
-| 18 | [Silent All These Years](https://open.spotify.com/track/3IZXUxoL1Q7yUj5mh3Tmqp) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 4:11 |
-| 19 | [Caravan \- 2013 Remaster](https://open.spotify.com/track/1US01PIcb3RFVrcN8mO8CS) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 5:00 |
-| 20 | [It's Too Late](https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 3:53 |
+| 16 | [It's Too Late](https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 3:53 |
+| 17 | [The Rose](https://open.spotify.com/track/7iLXXTLIaguiWCTRJNU1Tv) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Best Bette](https://open.spotify.com/album/2aBNewGpx5XIAdSFKvEKGw) | 3:35 |
+| 18 | [Walking in Memphis](https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD) | [Marc Cohn](https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9) | [Marc Cohn](https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m) | 4:12 |
+| 19 | [Silent All These Years](https://open.spotify.com/track/3IZXUxoL1Q7yUj5mh3Tmqp) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 4:11 |
+| 20 | [Caravan \- 2013 Remaster](https://open.spotify.com/track/1US01PIcb3RFVrcN8mO8CS) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 5:00 |
 | 21 | [The Luckiest](https://open.spotify.com/track/2HlRYsFHmIwdBK2nUHVrzK) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [About Time](https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y) | 4:04 |
 | 22 | [Your Song](https://open.spotify.com/track/46AKrc7rPuEXL9QYr9eqFR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 4:16 |
 | 23 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 |
 | 24 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
 | 25 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 26 | [Hallelujah](https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Vibrate: The Best Of \(Deluxe Edition\)](https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS) | 4:11 |
-| 27 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |
-| 28 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
+| 27 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
+| 28 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |
 | 29 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 30 | [Letter To The Past](https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:40 |
 | 31 | [Life On Mars? \- 1999 Remastered Version](https://open.spotify.com/track/1C9NuEa1wOF15EOBuWaaxS) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Ken Scott](https://open.spotify.com/artist/6itMJ1OJ3xL3LsxWb7xm28) | [Hunky Dory](https://open.spotify.com/album/0vypdDHTQsoVmVu8OgXEly) | 3:43 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 39 | [Criminal](https://open.spotify.com/track/516f6F9Zd3AbWJnFHwtDF9) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/0FjSKIL4J4eJM7GnkJNtWL) | 5:41 |
 | 40 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
 
-Snapshot ID: `MTY0OTgxMTQzNCwwMDAwMDAwMGVkNmRkZDdlNjgwYmY1NTc5NTI0ZGQ1ZTE4ZGQzYWY2`
+Snapshot ID: `MTY0OTg5ODA0NiwwMDAwMDAwMDRkZjU5OGE2MTY1OWVkNzExNWRjMTkwOWZkMjdlZDE1`

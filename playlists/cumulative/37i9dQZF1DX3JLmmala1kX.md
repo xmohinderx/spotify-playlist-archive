@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3JLmmala1kX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3JLmmala1kX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3JLmmala1kX)
 
-### [AMA Winners 2014](https://open.spotify.com/playlist/1sFtLUL0CBPzaEsBnzMDbi)
+### [AMA Winners 2014](https://open.spotify.com/playlist/37i9dQZF1DX3JLmmala1kX)
 
 > Congrats to all the winners this year at the AMAs!
+
+16 songs - 1 hr 1 min - [published](https://open.spotify.com/playlist/1sFtLUL0CBPzaEsBnzMDbi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

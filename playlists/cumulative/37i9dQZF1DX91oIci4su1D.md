@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX91oIci4su1D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX91oIci4su1D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX91oIci4su1D)
 
-### [Trance Mission](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+### [Trance Mission](https://open.spotify.com/playlist/37i9dQZF1DX91oIci4su1D)
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a> with Spada.
+
+286 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

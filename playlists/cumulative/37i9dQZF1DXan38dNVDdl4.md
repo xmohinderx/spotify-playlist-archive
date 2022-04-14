@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXan38dNVDdl4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXan38dNVDdl4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXan38dNVDdl4)
 
-### [Dancehall Official](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
+### [Dancehall Official](https://open.spotify.com/playlist/37i9dQZF1DXan38dNVDdl4)
 
 > The best in new & current Dancehall\. Cover: Shenseea
+
+99 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

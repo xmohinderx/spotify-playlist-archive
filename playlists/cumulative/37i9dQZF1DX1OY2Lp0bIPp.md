@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1OY2Lp0bIPp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1OY2Lp0bIPp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1OY2Lp0bIPp)
 
-### [Monday Motivation](https://open.spotify.com/playlist/0X6TOoiYfTcPrHrYMRW2LE)
+### [Monday Motivation](https://open.spotify.com/playlist/37i9dQZF1DX1OY2Lp0bIPp)
 
 > Giving motivation to your Monday\. You got this!
+
+194 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/0X6TOoiYfTcPrHrYMRW2LE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

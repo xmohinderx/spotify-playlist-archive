@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2EaYMuzaVSdPjJOqg77E2E.md) - cumulative - [plain](/playlists/plain/2EaYMuzaVSdPjJOqg77E2E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2EaYMuzaVSdPjJOqg77E2E)
 
-### [Women of Sweden](https://open.spotify.com/playlist/6CYLKxXuxxBF9R6QljlT8I)
+### [Women of Sweden](https://open.spotify.com/playlist/2EaYMuzaVSdPjJOqg77E2E)
 
 > Det finns hur många drottningar av Sverige som helst\. Vi har samlat 100 av dem i en spellista, där du hör regenter från igår, idag och i morrn\. Låt dig imponeras och inspireras!
+
+100 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/6CYLKxXuxxBF9R6QljlT8I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

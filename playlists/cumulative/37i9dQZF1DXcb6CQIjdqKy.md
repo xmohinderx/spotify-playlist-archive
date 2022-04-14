@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcb6CQIjdqKy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcb6CQIjdqKy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcb6CQIjdqKy)
 
-### [Top Christian & Gospel](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
+### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Elevation Worship and Maverick City Music
+
+201 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

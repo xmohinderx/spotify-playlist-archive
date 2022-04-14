@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYnY33e7En9e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYnY33e7En9e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYnY33e7En9e)
 
-### [Retro Gaming](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
+### [Retro Gaming](https://open.spotify.com/playlist/37i9dQZF1DWYnY33e7En9e)
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
+
+177 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

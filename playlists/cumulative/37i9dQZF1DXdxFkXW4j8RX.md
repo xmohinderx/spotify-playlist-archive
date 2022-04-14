@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdxFkXW4j8RX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdxFkXW4j8RX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdxFkXW4j8RX)
 
-### [Rap Chileno](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
+### [Rap Chileno](https://open.spotify.com/playlist/37i9dQZF1DXdxFkXW4j8RX)
 
 > La casa de lxs MC's\. Foto: Bubaseta & Aerstame.
+
+106 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

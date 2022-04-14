@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTKXbV17YqGw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTKXbV17YqGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTKXbV17YqGw)
 
-### [Detty December](https://open.spotify.com/playlist/0H4WlWSeclrlkQanHsRFQh)
+### [Detty December](https://open.spotify.com/playlist/37i9dQZF1DWTKXbV17YqGw)
 
 > Dj Neptizzle & DJ FiiFii takeover Detty December with an Afro Paradise special, rounding up the biggest tracks from Africa's party season
+
+113 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0H4WlWSeclrlkQanHsRFQh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

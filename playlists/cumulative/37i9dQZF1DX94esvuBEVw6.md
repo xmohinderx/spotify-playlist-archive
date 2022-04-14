@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX94esvuBEVw6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX94esvuBEVw6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX94esvuBEVw6)
 
-### [This Is Joni Mitchell](https://open.spotify.com/playlist/6kUJoFE6KwiZGsjdiZnea9)
+### [This Is Joni Mitchell](https://open.spotify.com/playlist/37i9dQZF1DX94esvuBEVw6)
 
 > Celebrate 50 years of her iconic album, "Blue," alongside the very best songs of this songwriting icon.
+
+63 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/6kUJoFE6KwiZGsjdiZnea9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc6PRIxq2w5v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc6PRIxq2w5v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc6PRIxq2w5v)
 
-### [Gospel Flow](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
+
+72 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

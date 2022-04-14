@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0gF89fU9TTk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0gF89fU9TTk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0gF89fU9TTk)
 
-### [Hits UP](https://open.spotify.com/playlist/3TGj756pi2TgmaL4E5mf1J)
+### [Hits UP](https://open.spotify.com/playlist/37i9dQZF1DX0gF89fU9TTk)
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
+
+127 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/3TGj756pi2TgmaL4E5mf1J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,047 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,190 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 21 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
 | 22 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 |
 | 23 | [Me Enamoré De Ti](https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Enamoré De Ti](https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU) | 3:26 |
-| 24 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
-| 25 | [Noches de bohemia](https://open.spotify.com/track/78GUxsLIyH3ZohwhNCTKES) | [Navajita Platea](https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE) | [Noches de Bohemia](https://open.spotify.com/album/0VP1PbDrwit3AoEf9ubbwR) | 4:07 |
-| 26 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
-| 27 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
-| 28 | [Hey](https://open.spotify.com/track/5BtNKZScq7gRDbcJ2FhIQb) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [HEY!](https://open.spotify.com/album/0UWylhMlO3b9AgGS7PR8qU) | 5:00 |
+| 24 | [Noches de bohemia](https://open.spotify.com/track/78GUxsLIyH3ZohwhNCTKES) | [Navajita Platea](https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE) | [Noches de Bohemia](https://open.spotify.com/album/0VP1PbDrwit3AoEf9ubbwR) | 4:07 |
+| 25 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
+| 26 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
+| 27 | [Hey](https://open.spotify.com/track/5BtNKZScq7gRDbcJ2FhIQb) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [HEY!](https://open.spotify.com/album/0UWylhMlO3b9AgGS7PR8qU) | 5:00 |
+| 28 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
 | 29 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
 | 30 | [Entra en Mi Vida](https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:09 |
 | 31 | [Se Dejaba Llevar Por Ti](https://open.spotify.com/track/1RIwbR2FlqiWLr3tFp9w1W) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:18 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 34 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 35 | [No me importa nada](https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Luz V](https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o) | 4:07 |
 | 36 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
-| 37 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
-| 38 | [La soledad](https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 3:59 |
-| 39 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
-| 40 | [Dos Hombres Y Un Destino](https://open.spotify.com/track/2TMhNVnegm2SMQ6lvhaxdm) | [Bustamante](https://open.spotify.com/artist/1VfKauu6JYTUrApbJXU0zo), [Alex](https://open.spotify.com/artist/5ZR8tR5l15gAdIwtf1tIjB) | [Bustamante](https://open.spotify.com/album/0JrTD4R9NmcjAmOkFX2QXZ) | 3:37 |
-| 41 | [Jueves](https://open.spotify.com/track/0z0rIUnGrpIyQ4mQwmbfeh) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A Las Cinco En El Astoria](https://open.spotify.com/album/1Fl1Nz4DNgUcaUoC97ArXC) | 3:59 |
+| 37 | [Jueves](https://open.spotify.com/track/0z0rIUnGrpIyQ4mQwmbfeh) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A Las Cinco En El Astoria](https://open.spotify.com/album/1Fl1Nz4DNgUcaUoC97ArXC) | 3:59 |
+| 38 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
+| 39 | [La soledad](https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 3:59 |
+| 40 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
+| 41 | [Dos Hombres Y Un Destino](https://open.spotify.com/track/2TMhNVnegm2SMQ6lvhaxdm) | [Bustamante](https://open.spotify.com/artist/1VfKauu6JYTUrApbJXU0zo), [Alex](https://open.spotify.com/artist/5ZR8tR5l15gAdIwtf1tIjB) | [Bustamante](https://open.spotify.com/album/0JrTD4R9NmcjAmOkFX2QXZ) | 3:37 |
 | 42 | [Cuando nadie me ve](https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [El alma al aire](https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ) | 5:08 |
 | 43 | [Te Regalo](https://open.spotify.com/track/5ErcCfdGMmeqT2DCMCE4pB) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Te Regalo](https://open.spotify.com/album/0KpR2Ay6egxk0oMg3zGVZQ) | 4:02 |
 | 44 | [A Un Milímetro De Ti](https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [A Un Milímetro De Ti Y Cada Vez Más Cerca \(Edición Deluxe\)](https://open.spotify.com/album/1oSumrff62Iuju1SChmSzx) | 3:49 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 55 | [Blanco y Negro](https://open.spotify.com/track/01GOfcFj720XJOKwnpv6I9) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Blanco y Negro](https://open.spotify.com/album/273buPXMrWCNebglkJodUr) | 3:53 |
 | 56 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 |
 | 57 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
-| 58 | [Te Lloré Un Río](https://open.spotify.com/track/1krPRCgaaG2k8QDZo16Qae) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [The Studio Albums 1990\-2011](https://open.spotify.com/album/5SAhhnpMwvz8epkSaPj3CN) | 4:52 |
-| 59 | [El Jardín Prohibido](https://open.spotify.com/track/3xec1BelrzOd6v0o8HRd2l) | [Sandro Giacobbe](https://open.spotify.com/artist/1S3bAZkOXVuYHT9LGNzbV5) | [Sandro Giacobbe: Éxitos](https://open.spotify.com/album/6HLG8adzzPKN0CI2IzXKSb) | 4:07 |
-| 60 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 |
+| 58 | [El Jardín Prohibido](https://open.spotify.com/track/3xec1BelrzOd6v0o8HRd2l) | [Sandro Giacobbe](https://open.spotify.com/artist/1S3bAZkOXVuYHT9LGNzbV5) | [Sandro Giacobbe: Éxitos](https://open.spotify.com/album/6HLG8adzzPKN0CI2IzXKSb) | 4:07 |
+| 59 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 |
+| 60 | [Te Lloré Un Río](https://open.spotify.com/track/1krPRCgaaG2k8QDZo16Qae) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [The Studio Albums 1990\-2011](https://open.spotify.com/album/5SAhhnpMwvz8epkSaPj3CN) | 4:52 |
 | 61 | [Dueño de Nada](https://open.spotify.com/track/7qa4nT1d5kv8KXIeGDmmr9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Mis Favoritas](https://open.spotify.com/album/0YHwjEPpgTYJ4ncW5ls9AS) | 5:15 |
 | 62 | [Asi Estoy Yo Sin Ti](https://open.spotify.com/track/345wiXlfRlPPmZE9qOLpcq) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Hotel, Dulce Hotel](https://open.spotify.com/album/4UBv7VLi5eBakkBymrMCN4) | 5:06 |
 | 63 | [Un Ramito de Violetas](https://open.spotify.com/track/3lpF8AbTteK4bXXZMhm31n) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Esencial Cecilia](https://open.spotify.com/album/7veqpAwWKsRDoe5ALdfcZ2) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 99 | [Vas A Quedarte](https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:46 |
 | 100 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
 
-Snapshot ID: `MTY0OTgxMTg3MSwwMDAwMDAwMDdlYjA0NDY4YmRjOWFkOWVmYWJhMjQ5OGU3ZjU1NjZk`
+Snapshot ID: `MTY0OTg5ODQ2MiwwMDAwMDAwMDljZTEzYmIzODE4MmUzNDQ3Zjc5OGQ1ODIxOWQ1N2Zj`

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4arVIN5Cg4U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4arVIN5Cg4U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4arVIN5Cg4U)
 
-### [Dubstep Classics](https://open.spotify.com/playlist/2qzn7ImjgDrhmEL5jaeO3u)
+### [Dubstep Classics](https://open.spotify.com/playlist/37i9dQZF1DX4arVIN5Cg4U)
 
 > Get your bassface on with these classic Dubstep tracks.
+
+59 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/2qzn7ImjgDrhmEL5jaeO3u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

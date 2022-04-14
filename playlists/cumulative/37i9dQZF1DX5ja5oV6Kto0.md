@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5ja5oV6Kto0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ja5oV6Kto0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ja5oV6Kto0)
 
-### [Alté Cruise](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=QnarUIK5QNWu0In2nJsHvQ"> Ayra Starr </a> and <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=m8dfeDYbSW\-xbWtAIUJejA"> Lojay </a>
+
+141 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

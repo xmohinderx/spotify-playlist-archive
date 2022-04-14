@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTZeTXqKTge4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTZeTXqKTge4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTZeTXqKTge4)
 
-### [Rap québ](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
 > Le meilleur du hip\-hop québécois\. Photo: Koriass
+
+148 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

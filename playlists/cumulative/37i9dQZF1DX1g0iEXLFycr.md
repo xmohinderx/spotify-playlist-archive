@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1g0iEXLFycr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1g0iEXLFycr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1g0iEXLFycr)
 
-### [Feel Good Friday](https://open.spotify.com/playlist/2tFotzrzPUxGRiBA9Ot6cF)
+### [Feel Good Friday](https://open.spotify.com/playlist/37i9dQZF1DX1g0iEXLFycr)
 
 > Uplifting anthems to power you through 'til the weekend.
+
+402 songs - 1 day 0 hr 6 min - [published](https://open.spotify.com/playlist/2tFotzrzPUxGRiBA9Ot6cF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

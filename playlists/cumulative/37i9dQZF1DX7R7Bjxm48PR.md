@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7R7Bjxm48PR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7R7Bjxm48PR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7R7Bjxm48PR)
 
-### [Piano Yoga](https://open.spotify.com/playlist/639MyonEK5vnxNKfmiZBKq)
+### [Piano Yoga](https://open.spotify.com/playlist/37i9dQZF1DX7R7Bjxm48PR)
 
 > Calming and inspiring piano music for yoga.
+
+123 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/639MyonEK5vnxNKfmiZBKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +22,7 @@
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-01-19 |  |
 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 | 2022-01-19 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-01-19 |  |
-| [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-01-19 |  |
+| [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-01-19 | 2022-04-14 |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2022-01-19 |  |
 | [Contrarium](https://open.spotify.com/track/6tKXlqopEqZM7Z8CRsAJqv) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Contrarium](https://open.spotify.com/album/1mvbBV8QQiCehqTYFrnQFU) | 2:09 | 2022-01-19 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2022-01-19 |  |
@@ -41,6 +43,7 @@
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-01-19 | 2022-02-03 |
 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 | 2022-02-02 |  |
 | [Forgiveness](https://open.spotify.com/track/4nAMkbTM9SlANHZPLOQjL6) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/2LOFsoK01oNsHb5pwmhQYa) | 2:15 | 2022-01-19 |  |
+| [Forgotten](https://open.spotify.com/track/7aFVhTwz0DUJPViRHmWg1P) | [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [Forgotten](https://open.spotify.com/album/3KuGAisKyUL3ubMwaLleZJ) | 2:11 | 2022-04-13 |  |
 | [From The Heart](https://open.spotify.com/track/5WyysbGeEUoJ02Xf1tMpac) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [From The Heart](https://open.spotify.com/album/0tcoSiHe5QZxj5S5WdQMDN) | 3:23 | 2022-01-19 |  |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-01-19 |  |
 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 | 2022-01-19 |  |
@@ -88,6 +91,7 @@
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-01-19 |  |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2022-01-19 |  |
 | [reset](https://open.spotify.com/track/3EvstLL3S2fgyhg5HIQiPO) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Reset](https://open.spotify.com/album/0BziJ3Vj6ktrJ9grdZuGtB) | 3:26 | 2022-01-19 |  |
+| [Rolling In Grass](https://open.spotify.com/track/6n7sw6rfa1sOYBYQPvzahQ) | [Justin Simmons](https://open.spotify.com/artist/5CvLDef0LzbuPs2YKmgGU8) | [Rolling In Grass](https://open.spotify.com/album/4gJY792f8Kha7jSkC5ZWfg) | 3:02 | 2022-04-13 |  |
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2022-01-19 |  |
 | [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-01-19 |  |
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2022-01-19 |  |
@@ -98,6 +102,7 @@
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-01-19 |  |
 | [Solitude](https://open.spotify.com/track/23xaPw50MI2yuX666Jiyag) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Solitude](https://open.spotify.com/album/5UYaZ6FoT2W2RlU9H2lrZt) | 2:39 | 2022-01-19 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2022-01-19 |  |
+| [Sophrosyne](https://open.spotify.com/track/4sI91Y8cdaaE1cq3ToIhQS) | [Vantrum Quai](https://open.spotify.com/artist/11Cyks3KuPJNfn5U7CIaha) | [Sophrosyne](https://open.spotify.com/album/07lOsQr3RVoTCYkkm9aQ45) | 2:43 | 2022-04-13 |  |
 | [Stay The Night](https://open.spotify.com/track/5GuS3tJuRwbdNObPdCEVfI) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stay The Night](https://open.spotify.com/album/4vYZPIYks7WPspZHdcwvdG) | 2:02 | 2022-01-19 | 2022-03-18 |
 | [Stuck In A Dream](https://open.spotify.com/track/26S0ebDSZX2BBmDXQhpsrq) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [Stuck In A Dream](https://open.spotify.com/album/1aUbffKm9QcEYO7ZTOplKQ) | 2:48 | 2022-01-19 |  |
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2022-01-19 |  |

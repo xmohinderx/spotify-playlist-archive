@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5ahhg3aywppGeJs8tXvZOo.md) - cumulative - [plain](/playlists/plain/5ahhg3aywppGeJs8tXvZOo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5ahhg3aywppGeJs8tXvZOo)
 
-### [The New Standards](https://open.spotify.com/playlist/3EZGyGUFiYpKXpSkoEbvC2)
+### [The New Standards](https://open.spotify.com/playlist/5ahhg3aywppGeJs8tXvZOo)
 
 > Fresh takes on all of your favorite standards.
+
+25 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/3EZGyGUFiYpKXpSkoEbvC2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

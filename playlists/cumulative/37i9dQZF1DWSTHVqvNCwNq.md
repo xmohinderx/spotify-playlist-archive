@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSTHVqvNCwNq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSTHVqvNCwNq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSTHVqvNCwNq)
 
-### [Delta Blues](https://open.spotify.com/playlist/2YDfZExCT8Our9QwJXIQu7)
+### [Delta Blues](https://open.spotify.com/playlist/37i9dQZF1DWSTHVqvNCwNq)
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
+
+46 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/2YDfZExCT8Our9QwJXIQu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

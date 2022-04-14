@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0COE1X7FirWRdfOgls1JJV.md) - cumulative - [plain](/playlists/plain/0COE1X7FirWRdfOgls1JJV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0COE1X7FirWRdfOgls1JJV)
 
-### [1990](https://open.spotify.com/playlist/6nzmw9cPyTLgYyrGIzDuff)
+### [1990](https://open.spotify.com/playlist/0COE1X7FirWRdfOgls1JJV)
 
 > 
+
+50 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6nzmw9cPyTLgYyrGIzDuff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXvzyniz2fv4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXvzyniz2fv4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXvzyniz2fv4)
 
-### [Resenha na Praia](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+### [Resenha na Praia](https://open.spotify.com/playlist/37i9dQZF1DWXvzyniz2fv4)
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
+
+65 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

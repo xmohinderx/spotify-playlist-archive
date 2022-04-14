@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO40DPwJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO40DPwJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO40DPwJ)
 
-### [This Is Taio Cruz](https://open.spotify.com/playlist/3HuRNar3SDFartpoMja17I)
+### [This Is Taio Cruz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40DPwJ)
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
+
+47 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/3HuRNar3SDFartpoMja17I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

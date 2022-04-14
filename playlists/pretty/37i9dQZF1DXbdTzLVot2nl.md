@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,690 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,796 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 | 52 | [All Fired Up](https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Wide Awake In Dreamland](https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb) | 4:32 |
 | 53 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:05 |
 | 54 | [Electric Blue](https://open.spotify.com/track/5aWvinQcbc1W1WdP0GQ6J1) | [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Man Of Colours](https://open.spotify.com/album/5Pf2kkz10HySmJjWu2Fhd4) | 4:23 |
-| 55 | [Angel Of Harlem](https://open.spotify.com/track/0d4IA7JzKTJmE0fW2pHMWn) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/5DV76VYtjhsEh0v6KwgvY7) | 3:49 |
-| 56 | [She Has to Be Loved](https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e) | [Jenny Morris](https://open.spotify.com/artist/604iqbiglyTgxMeKkvlBGc) | [Shiver](https://open.spotify.com/album/4cY0XPiwWj15YWpfkVNg4P) | 4:07 |
-| 57 | [Hot In The City](https://open.spotify.com/track/71mHuudrRg9RBLxdx1ccOV) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/3NqodgW3niaCkYZ5ol6hMN) | 3:39 |
+| 55 | [She Has to Be Loved](https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e) | [Jenny Morris](https://open.spotify.com/artist/604iqbiglyTgxMeKkvlBGc) | [Shiver](https://open.spotify.com/album/4cY0XPiwWj15YWpfkVNg4P) | 4:07 |
+| 56 | [Hot In The City](https://open.spotify.com/track/71mHuudrRg9RBLxdx1ccOV) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/3NqodgW3niaCkYZ5ol6hMN) | 3:39 |
+| 57 | [Angel Of Harlem](https://open.spotify.com/track/0d4IA7JzKTJmE0fW2pHMWn) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/5DV76VYtjhsEh0v6KwgvY7) | 3:49 |
 | 58 | [Valerie](https://open.spotify.com/track/5ZOUxrcH0VVDgTshD5QJri) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Talking Back To The Night](https://open.spotify.com/album/1MGMNOvzawO8TCm599dZbm) | 4:06 |
 | 59 | [And She Was \- 2005 Remaster](https://open.spotify.com/track/5nNZTUzinBDsnj3U76NJFC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 3:39 |
 | 60 | [You Win Again](https://open.spotify.com/track/19dL5Zj3Gxr6RGQHlAXxyF) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [E.S.P.](https://open.spotify.com/album/4RnFtuVdr1JPD8UDhQuMBK) | 4:01 |
 
-Snapshot ID: `MTY0OTgxMjAwMSwwMDAwMDAwMDY5NTM1ZTM1NTZmN2Y2OTZkZGEzNTc3NmRmMzU2YjY2`
+Snapshot ID: `MTY0OTg5ODU4OCwwMDAwMDAwMDEyYWI0YWZiZTg2Y2NiNjIxZGFiOWM0YjgzM2U4Nzcx`

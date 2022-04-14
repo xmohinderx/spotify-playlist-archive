@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5lMXuhAFbG0xiAw0XiYKAP.md) - cumulative - [plain](/playlists/plain/5lMXuhAFbG0xiAw0XiYKAP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5lMXuhAFbG0xiAw0XiYKAP)
 
-### [Top Dads on Spotify](https://open.spotify.com/playlist/3M0BTzJldB9zOJswJibYsV)
+### [Top Dads on Spotify](https://open.spotify.com/playlist/5lMXuhAFbG0xiAw0XiYKAP)
 
 > 
+
+10 songs - 46 min 31 sec - [published](https://open.spotify.com/playlist/3M0BTzJldB9zOJswJibYsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

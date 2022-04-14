@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX14fkzxPABaL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX14fkzxPABaL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX14fkzxPABaL)
 
-### [Enamorándose](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
+### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
 > La música que te acompaña en el amor\. Foto: Enrique Iglesias.
+
+118 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

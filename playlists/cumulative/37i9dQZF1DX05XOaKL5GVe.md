@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX05XOaKL5GVe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX05XOaKL5GVe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX05XOaKL5GVe)
 
-### [Viejitas pero Bonitas](https://open.spotify.com/playlist/1j70WbpeB1BVZqorFbKNd4)
+### [Viejitas pero Bonitas](https://open.spotify.com/playlist/37i9dQZF1DX05XOaKL5GVe)
 
 > Tesoros musicales del ayer.
+
+125 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/1j70WbpeB1BVZqorFbKNd4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6eUekrgxJ8J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6eUekrgxJ8J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6eUekrgxJ8J)
 
-### [Smokey's Songbook](https://open.spotify.com/playlist/1gLafyJTVLTDSRgWZIBAVP)
+### [Smokey's Songbook](https://open.spotify.com/playlist/37i9dQZF1DX6eUekrgxJ8J)
 
 > Discover hits signed Smokey Robinson that shaped the early sound of Motown.
+
+25 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/1gLafyJTVLTDSRgWZIBAVP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

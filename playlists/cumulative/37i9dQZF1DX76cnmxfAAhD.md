@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX76cnmxfAAhD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX76cnmxfAAhD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX76cnmxfAAhD)
 
-### [90s Road Trip](https://open.spotify.com/playlist/3mwrZYdtYDXn4eIYaTKHxz)
+### [90s Road Trip](https://open.spotify.com/playlist/37i9dQZF1DX76cnmxfAAhD)
 
 > Ultimate mix of songs from the 1990s to insure a good time while on the road.
+
+238 songs - 16 hr 54 min - [published](https://open.spotify.com/playlist/3mwrZYdtYDXn4eIYaTKHxz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

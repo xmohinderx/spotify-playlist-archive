@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 976816,
+  "num_followers": 976824,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQ0MSwwMDAwMDAwMGQ3YmI1YzY2ZDYzNGEwMmZjMTU4NDIzODU5MzdhZjE1",
+  "snapshot_id": "MTY0OTg5ODA1NCwwMDAwMDAwMDE1MTVmMTUxMzdiYjNmMDgzNmUzMGVjN2VlMjM5MjQ5",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -315,6 +315,26 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 215086,
       "name": "Una Vida Para Recordar",
       "url": "https://open.spotify.com/track/7pxL0DzPpCjjcdfQccvnus"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Me Enamora",
+        "url": "https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 168167,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Me Enamora",
-        "url": "https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2"
+        "name": "La Grosera",
+        "url": "https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 168167,
-      "name": "Me Enamora",
-      "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
+      "duration_ms": 158626,
+      "name": "La Grosera",
+      "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -731,6 +747,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "PAP\u00c1S",
+        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "PAP\u00c1S",
+      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "El Viajero",
         "url": "https://open.spotify.com/album/2650OOELmxyUkgR4A99psq"
       },
@@ -791,22 +823,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "La Grosera",
-        "url": "https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "La Grosera",
-      "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "LOCATION",
         "url": "https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR"
       },
@@ -827,6 +843,34 @@
       "duration_ms": 265240,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/4lr74mf49nDttiWXbwmD0K"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "JonTheProducer",
+          "url": "https://open.spotify.com/artist/415U6UPWJEnCPoGsVlX2nV"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -887,6 +931,26 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 164720,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Sigo Buscandote",
         "url": "https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM"
       },
@@ -919,58 +983,6 @@
       "duration_ms": 194653,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/5RwBhRPueJFomy6peYaAHL"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "PAP\u00c1S",
-        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "PAP\u00c1S",
-      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 164720,
-      "name": "Tu Nombre",
-      "url": "https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 181532,
-      "name": "Hasta el Sol de Hoy",
-      "url": "https://open.spotify.com/track/5v29GgnKgTZqBhuilMyqog"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

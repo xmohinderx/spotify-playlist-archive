@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVLcZxJO5zyf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVLcZxJO5zyf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVLcZxJO5zyf)
 
-### [Pop Brasil](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
+### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
 > Ouça os hits do momento do pop BR! Foto: Lexa, Leo Santana
+
+92 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaVtcC7N0WMw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaVtcC7N0WMw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaVtcC7N0WMw)
 
-### [A Poem a Day](https://open.spotify.com/playlist/2UvneXPUq0UJsQzq4y0wIq)
+### [A Poem a Day](https://open.spotify.com/playlist/37i9dQZF1DXaVtcC7N0WMw)
 
 > A poem or short literary excerpt for every day of the month.
+
+29 songs - 1 hr 19 min - [published](https://open.spotify.com/playlist/2UvneXPUq0UJsQzq4y0wIq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

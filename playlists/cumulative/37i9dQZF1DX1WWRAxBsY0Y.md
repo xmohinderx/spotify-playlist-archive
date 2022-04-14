@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1WWRAxBsY0Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1WWRAxBsY0Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1WWRAxBsY0Y)
 
-### [Stoner Tracks For Everyone](https://open.spotify.com/playlist/3q7EUtb1ZT1kFaQTPjOnd9)
+### [Stoner Tracks For Everyone](https://open.spotify.com/playlist/37i9dQZF1DX1WWRAxBsY0Y)
 
 > Sometimes people assume that stoner music is just reggae, hip hop, or psychedelic rock\. Experience the rest of it with these stoner tracks for everybody.
+
+50 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3q7EUtb1ZT1kFaQTPjOnd9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

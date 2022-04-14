@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5hINCaYWvVwzzLmhh4y11x.md) - cumulative - [plain](/playlists/plain/5hINCaYWvVwzzLmhh4y11x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5hINCaYWvVwzzLmhh4y11x)
 
-### [HAIM](https://open.spotify.com/playlist/0kEKPXp1QbP3JIoLaqcTs4)
+### [HAIM](https://open.spotify.com/playlist/5hINCaYWvVwzzLmhh4y11x)
 
 > 
+
+7 songs - 28 min 9 sec - [published](https://open.spotify.com/playlist/0kEKPXp1QbP3JIoLaqcTs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

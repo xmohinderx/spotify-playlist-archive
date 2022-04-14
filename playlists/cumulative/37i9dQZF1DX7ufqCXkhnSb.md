@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7ufqCXkhnSb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ufqCXkhnSb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ufqCXkhnSb)
 
-### [La poésie française](https://open.spotify.com/playlist/7w5i7EnR4hCRSudXRiUPEJ)
+### [La poésie française](https://open.spotify.com/playlist/37i9dQZF1DX7ufqCXkhnSb)
 
 > Une collection des plus beaux poèmes de la langue française.
+
+46 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/7w5i7EnR4hCRSudXRiUPEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

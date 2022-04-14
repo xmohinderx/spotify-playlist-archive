@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ZKargsaFiQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ZKargsaFiQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ZKargsaFiQ)
 
-### [Verzuz: Erykah Badu vs\. Jill Scott](https://open.spotify.com/playlist/0jmCBmXtRxyCiU6moESnh7)
+### [Verzuz: Erykah Badu vs\. Jill Scott](https://open.spotify.com/playlist/37i9dQZF1DX3ZKargsaFiQ)
 
 > Brought to you by <a href="spotify:artist:2cADQgiLMjNhbsfeN52Bf3">Swizz Beatz</a>, <a href="spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ">Timbaland</a>, and <a href="spotify:user:m71fwq4d14sx9rjbf256hfrqg">Femme It Forward</a>.
+
+37 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/0jmCBmXtRxyCiU6moESnh7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

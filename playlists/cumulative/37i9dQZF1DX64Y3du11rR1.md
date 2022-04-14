@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX64Y3du11rR1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX64Y3du11rR1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX64Y3du11rR1)
 
-### [Sad Covers](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+### [Sad Covers](https://open.spotify.com/playlist/37i9dQZF1DX64Y3du11rR1)
 
 > Acoustic covers of sad songs.
+
+64 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9NmDLwNQnXE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9NmDLwNQnXE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9NmDLwNQnXE)
 
-### [A Sudden Rainstorm](https://open.spotify.com/playlist/07pEfKM7v7h9efPFw1GRWE)
+### [A Sudden Rainstorm](https://open.spotify.com/playlist/37i9dQZF1DX9NmDLwNQnXE)
 
 > Relax to the sound of a storm setting in.
+
+339 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/07pEfKM7v7h9efPFw1GRWE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0jgyAiPl8Af.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0jgyAiPl8Af) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0jgyAiPl8Af)
 
-### [Peaceful Guitar](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+### [Peaceful Guitar](https://open.spotify.com/playlist/37i9dQZF1DX0jgyAiPl8Af)
 
 > Unwind to these calm classical guitar pieces.
+
+220 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

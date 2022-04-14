@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX24Kh15JFQJ0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX24Kh15JFQJ0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24Kh15JFQJ0)
 
-### [New Traditions Country Heroes](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
+
+115 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

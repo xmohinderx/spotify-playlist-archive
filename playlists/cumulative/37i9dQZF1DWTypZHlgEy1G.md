@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTypZHlgEy1G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTypZHlgEy1G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTypZHlgEy1G)
 
-### [Standards de la Chanson Française](https://open.spotify.com/playlist/1sZJOt0xueZM3V4be8zHMj)
+### [Standards de la Chanson Française](https://open.spotify.com/playlist/37i9dQZF1DWTypZHlgEy1G)
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
+
+60 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/1sZJOt0xueZM3V4be8zHMj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

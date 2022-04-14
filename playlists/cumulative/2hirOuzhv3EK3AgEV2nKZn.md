@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2hirOuzhv3EK3AgEV2nKZn.md) - cumulative - [plain](/playlists/plain/2hirOuzhv3EK3AgEV2nKZn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2hirOuzhv3EK3AgEV2nKZn)
 
-### [Hats The Way I Like It: Ascot 2013](https://open.spotify.com/playlist/65S9bp7TxmytBq1iXhBqpP)
+### [Hats The Way I Like It: Ascot 2013](https://open.spotify.com/playlist/2hirOuzhv3EK3AgEV2nKZn)
 
 > 
+
+15 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/65S9bp7TxmytBq1iXhBqpP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

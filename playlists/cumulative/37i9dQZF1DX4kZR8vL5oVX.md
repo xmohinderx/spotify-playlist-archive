@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4kZR8vL5oVX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4kZR8vL5oVX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4kZR8vL5oVX)
 
-### [EQUAL France](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
 > Les femmes montent le son\. Photo : November Ultra
+
+199 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

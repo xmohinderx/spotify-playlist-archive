@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvoJqVv7uOD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvoJqVv7uOD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvoJqVv7uOD)
 
-### [Everyday Favorites ](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
+### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Vance Joy
+
+148 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX74ozWuOfjjm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX74ozWuOfjjm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX74ozWuOfjjm)
 
-### [EQUAL AU & NZ](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
 > Listen to the women of AU & NZ at full volume\. Cover: RIIKI REID
+
+152 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

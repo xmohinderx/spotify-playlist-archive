@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaaU1AaHpZeu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaaU1AaHpZeu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaaU1AaHpZeu)
 
-### [Novedades Indie](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
+### [Novedades Indie](https://open.spotify.com/playlist/37i9dQZF1DXaaU1AaHpZeu)
 
 > Nuevos hallazgos de música indie latina\. En portada: La La Love You, RENEE
+
+120 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

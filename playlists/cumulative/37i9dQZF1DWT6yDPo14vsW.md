@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT6yDPo14vsW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT6yDPo14vsW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT6yDPo14vsW)
 
-### [Amor y Desamor](https://open.spotify.com/playlist/1YrzgOkwUbL9XUNWYqQR2W)
+### [Amor y Desamor](https://open.spotify.com/playlist/37i9dQZF1DWT6yDPo14vsW)
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
+
+134 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/1YrzgOkwUbL9XUNWYqQR2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

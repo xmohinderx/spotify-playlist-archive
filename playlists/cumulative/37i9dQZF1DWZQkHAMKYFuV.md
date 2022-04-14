@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZQkHAMKYFuV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZQkHAMKYFuV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZQkHAMKYFuV)
 
-### [10s Latino](https://open.spotify.com/playlist/1UlthmmpWE0s2dmunRNOcw)
+### [10s Latino](https://open.spotify.com/playlist/37i9dQZF1DWZQkHAMKYFuV)
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi
+
+90 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1UlthmmpWE0s2dmunRNOcw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

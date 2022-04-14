@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLnolsZ8PSNw.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLnolsZ8PSNw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLnolsZ8PSNw)
 
-### [Top 50 \- United Kingdom](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
+### [Top 50 \- United Kingdom](https://open.spotify.com/playlist/37i9dQZEVXbLnolsZ8PSNw)
 
 > Your daily update of the most played tracks right now \- United Kingdom.
+
+688 songs - 1 day 15 hr 44 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

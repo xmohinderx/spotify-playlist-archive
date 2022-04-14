@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4Y3BGcCFrIX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4Y3BGcCFrIX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Y3BGcCFrIX)
 
-### [This Is Lata Mangeshkar](https://open.spotify.com/playlist/2uotLG3Gj7wAa9ntuXAzJt)
+### [This Is Lata Mangeshkar](https://open.spotify.com/playlist/37i9dQZF1DX4Y3BGcCFrIX)
 
 > The essential tracks featuring the mother of Bollywood music.
+
+147 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/2uotLG3Gj7wAa9ntuXAzJt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

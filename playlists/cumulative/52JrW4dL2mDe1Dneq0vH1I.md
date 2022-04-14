@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/52JrW4dL2mDe1Dneq0vH1I.md) - cumulative - [plain](/playlists/plain/52JrW4dL2mDe1Dneq0vH1I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/52JrW4dL2mDe1Dneq0vH1I)
 
-### [Rodriguez](https://open.spotify.com/playlist/3whtACMFsu1ZdHDqYZxWEx)
+### [Rodriguez](https://open.spotify.com/playlist/52JrW4dL2mDe1Dneq0vH1I)
 
 > Missa inte Rodriguez på Flamingo\-scenen på FREDAG / 15.00
+
+10 songs - 36 min 21 sec - [published](https://open.spotify.com/playlist/3whtACMFsu1ZdHDqYZxWEx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

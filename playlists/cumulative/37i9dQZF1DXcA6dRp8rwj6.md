@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcA6dRp8rwj6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcA6dRp8rwj6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcA6dRp8rwj6)
 
-### [Beats & Rhymes](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: BIA & J\. Cole \)
+
+335 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8IAL5KfmFJA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8IAL5KfmFJA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8IAL5KfmFJA)
 
-### [This Is Roxette](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
+### [This Is Roxette](https://open.spotify.com/playlist/37i9dQZF1DX8IAL5KfmFJA)
 
 > In loving memory of Marie Fredriksson.
+
+51 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU8quswnFt3c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU8quswnFt3c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU8quswnFt3c)
 
-### [EQUAL Global ](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+### [EQUAL Global ](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
 > Listen to women from all over the world, at full volume\. Cover: ARIETE
+
+339 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +174,7 @@
 | [Man's World](https://open.spotify.com/track/6qbuTJchJw2MeEAvjWAhNj) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 2:47 | 2021-12-11 | 2022-01-06 |
 | [Marry Myself](https://open.spotify.com/track/0JbISF5Bbv2RFU06L8IPgq) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:02 | 2022-03-09 | 2022-04-07 |
 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2022-02-02 | 2022-03-09 |
-| [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-03-08 |  |
+| [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-03-08 | 2022-04-14 |
 | [Meisjes Van Honing](https://open.spotify.com/track/66dGbMxzOVbhv2CwnfA3MJ) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Meisjes Van Honing](https://open.spotify.com/album/3UObXg8uHcVOWPH5nM523V) | 3:06 | 2021-12-11 | 2022-01-06 |
 | [Mera Yaar](https://open.spotify.com/track/64jOyhiu4UPPnkSbG0t489) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Mera Yaar](https://open.spotify.com/album/3d01wHpz2Wvm9sJ1qwZGG2) | 3:12 | 2021-12-11 | 2022-01-06 |
 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 | 2022-02-02 | 2022-03-09 |
@@ -279,7 +281,7 @@
 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 | 2022-03-08 | 2022-04-07 |
 | [Tengo Que Olvidarte](https://open.spotify.com/track/7oGQeoTx5hJ1uhm25lNrS4) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [Tengo Que Olvidarte](https://open.spotify.com/album/5VuRfeX0J81WnlanVW5krk) | 3:20 | 2022-01-05 | 2022-02-03 |
 | [The Break](https://open.spotify.com/track/7JMZlCsevBlClH6MMENrZL) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [The Break](https://open.spotify.com/album/5FzGZk5IFH8u4ff4rxrt6h) | 3:03 | 2022-04-06 |  |
-| [The Light](https://open.spotify.com/track/4MXjIVrCiqWA2h8PTQPaeU) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [The Light](https://open.spotify.com/album/2g1NSuuk9unmJMKofGUM2f) | 4:12 | 2022-04-06 | 2022-04-13 |
+| [The Light](https://open.spotify.com/track/4MXjIVrCiqWA2h8PTQPaeU) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [The Light](https://open.spotify.com/album/2g1NSuuk9unmJMKofGUM2f) | 4:12 | 2022-04-06 |  |
 | [Tirita](https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Tirita](https://open.spotify.com/album/1Ad17me7Ft1uDZ38hAmlSH) | 3:12 | 2022-04-06 |  |
 | [to the moon](https://open.spotify.com/track/4OgStHICGrhcZi4EG41cws) | [Chaleeda](https://open.spotify.com/artist/5Kmvlg4fSgle8RJU9LVbn4) | [to the moon](https://open.spotify.com/album/0eQQrn0jDNvUCXKVkrl32R) | 3:37 | 2022-01-05 | 2022-02-03 |
 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 | 2022-04-06 |  |

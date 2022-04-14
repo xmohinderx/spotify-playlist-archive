@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZgauS5j6pMv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZgauS5j6pMv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZgauS5j6pMv)
 
-### [Nu\-Funk](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
 > The best of today's funk\. Cover: Cory Wong
+
+151 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

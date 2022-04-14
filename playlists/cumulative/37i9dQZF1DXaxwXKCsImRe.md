@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaxwXKCsImRe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaxwXKCsImRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaxwXKCsImRe)
 
-### [RADAR BNLX](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
+### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: Froukje
+
+60 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

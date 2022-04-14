@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4xuWVBs4FgJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4xuWVBs4FgJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4xuWVBs4FgJ)
 
-### [Dinner with Friends](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+### [Dinner with Friends](https://open.spotify.com/playlist/37i9dQZF1DX4xuWVBs4FgJ)
 
 > Dinner with Friends? Here's the perfect playlist.
+
+141 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

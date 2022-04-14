@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8gLrc0tlHvS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8gLrc0tlHvS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8gLrc0tlHvS)
 
-### [Stomp & Holler](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
+### [Stomp & Holler](https://open.spotify.com/playlist/37i9dQZF1DX8gLrc0tlHvS)
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
+
+71 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

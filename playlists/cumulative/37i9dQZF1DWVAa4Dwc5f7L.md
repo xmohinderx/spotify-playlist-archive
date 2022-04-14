@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVAa4Dwc5f7L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVAa4Dwc5f7L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVAa4Dwc5f7L)
 
-### [Merengue Mania](https://open.spotify.com/playlist/4vB9Ccatfo6RrukvNmcaBi)
+### [Merengue Mania](https://open.spotify.com/playlist/37i9dQZF1DWVAa4Dwc5f7L)
 
 > ¡Hasta las 15! Monster merengue hits!
+
+109 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/4vB9Ccatfo6RrukvNmcaBi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,13 +32,13 @@
 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 | 2022-01-20 |  |
 | [El Cantinero](https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 5:18 | 2022-01-20 |  |
 | [El Comejen](https://open.spotify.com/track/6ihrP0qxTv5AOZfGMVsdK7) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Merengue Clásico ¡Éxitos Latino!](https://open.spotify.com/album/7rzNtSVwXca2Lk5DYJWoUJ) | 4:19 | 2022-01-20 |  |
-| [El Costo de la Vida](https://open.spotify.com/track/1CHwcGyYGffGjaaM6pAhvM) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Areíto](https://open.spotify.com/album/3MNOf8hEnb3H9twYiMww3T) | 4:10 | 2022-01-20 | 2022-04-07 |
+| [El Costo de la Vida](https://open.spotify.com/track/1CHwcGyYGffGjaaM6pAhvM) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Areíto](https://open.spotify.com/album/3MNOf8hEnb3H9twYiMww3T) | 4:10 | 2022-01-20 |  |
 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 | 2022-01-20 |  |
 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 | 2022-01-20 |  |
 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 | 2022-01-20 |  |
 | [El Hombre Divertido](https://open.spotify.com/track/38jYATUCiQI3LGxAuj9CEr) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Funcionario](https://open.spotify.com/album/7FLke6uOdzKynP6lfKx5a1) | 4:50 | 2022-01-20 |  |
 | [El Jardinero](https://open.spotify.com/track/3auBb8O3KwFeV6aAU0xwLn) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Jardinero](https://open.spotify.com/album/1T4YdkwliuXNIefhMQgxdC) | 4:25 | 2022-01-20 |  |
-| [El Loco y La Luna](https://open.spotify.com/track/6ZVZgB62MliQPZaV1EOs2g) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Wilfrido '86 La Medicina](https://open.spotify.com/album/1QRKrpQuSRgrKeqPxvwLTA) | 4:51 | 2022-01-20 |  |
+| [El Loco y La Luna](https://open.spotify.com/track/6ZVZgB62MliQPZaV1EOs2g) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Wilfrido '86 La Medicina](https://open.spotify.com/album/1QRKrpQuSRgrKeqPxvwLTA) | 4:51 | 2022-01-20 | 2022-04-14 |
 | [El Meneito](https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [15to Aniversario](https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7) | 5:10 | 2022-01-20 |  |
 | [El Moreno Esta](https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 4:32 | 2022-01-20 |  |
 | [El Níagara en Bicicleta](https://open.spotify.com/track/6zFvinO1xYJLGZur2gTXSY) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 4:25 | 2022-01-20 |  |

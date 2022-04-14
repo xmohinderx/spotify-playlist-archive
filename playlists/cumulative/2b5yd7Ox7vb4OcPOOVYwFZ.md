@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2b5yd7Ox7vb4OcPOOVYwFZ.md) - cumulative - [plain](/playlists/plain/2b5yd7Ox7vb4OcPOOVYwFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2b5yd7Ox7vb4OcPOOVYwFZ)
 
-### [Top Picks Chill](https://open.spotify.com/playlist/0hgAcMT3iTAZ7FkVhudAWo)
+### [Top Picks Chill](https://open.spotify.com/playlist/2b5yd7Ox7vb4OcPOOVYwFZ)
 
 > 
+
+20 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/0hgAcMT3iTAZ7FkVhudAWo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXYWzQ8keS6x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXYWzQ8keS6x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXYWzQ8keS6x)
 
-### [O Melhor da Trapperz Brasil 2021](https://open.spotify.com/playlist/5dWDFqaLwoUchhJDqsxYcv)
+### [O Melhor da Trapperz Brasil 2021](https://open.spotify.com/playlist/37i9dQZF1DWXYWzQ8keS6x)
 
 > 🚂  É o trem do Poze com o melhor do Trap desse ano!
+
+50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/5dWDFqaLwoUchhJDqsxYcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

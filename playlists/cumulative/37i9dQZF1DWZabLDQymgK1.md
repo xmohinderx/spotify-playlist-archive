@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZabLDQymgK1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZabLDQymgK1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZabLDQymgK1)
 
-### [PRIDE: Homoelectric](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
+### [PRIDE: Homoelectric](https://open.spotify.com/playlist/37i9dQZF1DWZabLDQymgK1)
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
+
+50 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

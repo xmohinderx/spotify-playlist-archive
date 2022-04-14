@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb3m918yXHxA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb3m918yXHxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb3m918yXHxA)
 
-### [Yacht Rock](https://open.spotify.com/playlist/5vWhtnXr3d9iOKCLTHbHXQ)
+### [Yacht Rock](https://open.spotify.com/playlist/37i9dQZF1DXb3m918yXHxA)
 
 > Cruise to the smooth grooves of these yacht rock tunes
+
+88 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/5vWhtnXr3d9iOKCLTHbHXQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

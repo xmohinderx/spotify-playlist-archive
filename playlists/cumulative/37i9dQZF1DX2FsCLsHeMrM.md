@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2FsCLsHeMrM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2FsCLsHeMrM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2FsCLsHeMrM)
 
-### [Kitchen Swagger](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+### [Kitchen Swagger](https://open.spotify.com/playlist/37i9dQZF1DX2FsCLsHeMrM)
 
 > Get jiggy in the kitchen with this groovy playlist.
+
+164 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

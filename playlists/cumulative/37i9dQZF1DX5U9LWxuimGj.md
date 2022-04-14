@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5U9LWxuimGj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5U9LWxuimGj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5U9LWxuimGj)
 
-### [Country Latino](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
 > Country music with a Latin flair\. Cover: Hayley Orrantia
+
+78 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

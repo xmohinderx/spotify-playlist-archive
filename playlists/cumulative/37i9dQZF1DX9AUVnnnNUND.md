@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9AUVnnnNUND.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9AUVnnnNUND) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9AUVnnnNUND)
 
-### [This Is Eagles](https://open.spotify.com/playlist/3hGfeMjI5juEyUksPSLpiC)
+### [This Is Eagles](https://open.spotify.com/playlist/37i9dQZF1DX9AUVnnnNUND)
 
 > Eagles, the essential tracks, all in one playlist.
+
+46 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/3hGfeMjI5juEyUksPSLpiC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

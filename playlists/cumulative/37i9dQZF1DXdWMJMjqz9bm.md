@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdWMJMjqz9bm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdWMJMjqz9bm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWMJMjqz9bm)
 
-### [Varsity Bars](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
 > A little bit of pop and a little bit of rap\. Cover: anees
+
+225 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdcRZAcc2QFU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdcRZAcc2QFU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdcRZAcc2QFU)
 
-### [Gold Spot](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
+### [Gold Spot](https://open.spotify.com/playlist/37i9dQZF1DXdcRZAcc2QFU)
 
 > ‘90s melodies that hit the right spot! Cover: Udit Narayan
+
+51 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,018 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,024 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 63 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 64 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 |
 | 65 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
-| 66 | [Strange American Dream](https://open.spotify.com/track/53r4vq2RYVYxSUXepQgag4) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Wide Awake](https://open.spotify.com/album/0fb2eM67flCDTIwdg4P7KK) | 4:31 |
-| 67 | [Imogen](https://open.spotify.com/track/2OcjufMygLgyy6wHlWhfuV) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/3NMrKpk3RU7eABLo0WqmE4) | 4:15 |
+| 66 | [Imogen](https://open.spotify.com/track/2OcjufMygLgyy6wHlWhfuV) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/3NMrKpk3RU7eABLo0WqmE4) | 4:15 |
+| 67 | [Strange American Dream](https://open.spotify.com/track/53r4vq2RYVYxSUXepQgag4) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Wide Awake](https://open.spotify.com/album/0fb2eM67flCDTIwdg4P7KK) | 4:31 |
 | 68 | [Terms of Surrender](https://open.spotify.com/track/4bHIsdXLSWWONWKv15L5YT) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:11 |
 | 69 | [Wildwood Flower](https://open.spotify.com/track/6Hw1VP98PW5QMcOGOWw1Xo) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Wildwood Flower](https://open.spotify.com/album/7aMiIpr39dyEbykG95vGDo) | 2:31 |
 | 70 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 99 | [Boys](https://open.spotify.com/track/39kdh33tGQuSINsUasOl8v) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Boys](https://open.spotify.com/album/1VmSyB9w03QNYxa1UXndVm) | 3:55 |
 | 100 | [Uh Huh \- Acoustic](https://open.spotify.com/track/7lqJKQZ3YmtS2fsELnpNk3) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Uh Huh \(Acoustic\)](https://open.spotify.com/album/2dG0MnXqb6LZR5Nz7rFnff) | 2:51 |
 
-Snapshot ID: `MTY0OTgxMjA2MSwwMDAwMDAwMDdlMDA5ZjE1YjA3MjVhNDAxYmQ4YWU3MDk0NjAxMTIx`
+Snapshot ID: `MTY0OTg5ODY0NCwwMDAwMDAwMDQ0MTJhZTQ1YzE2YWYwMGEyYzU0MDM0OTQ0NTkyYzhm`

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXjj6kdiviS0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXjj6kdiviS0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXjj6kdiviS0)
 
-### [Baroque Classics](https://open.spotify.com/playlist/6RtZJwhltjKwNxSdITQdxW)
+### [Baroque Classics](https://open.spotify.com/playlist/37i9dQZF1DWXjj6kdiviS0)
 
 > Classics from the Baroque era.
+
+44 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/6RtZJwhltjKwNxSdITQdxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

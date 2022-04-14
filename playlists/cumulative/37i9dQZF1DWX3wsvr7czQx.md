@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX3wsvr7czQx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX3wsvr7czQx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX3wsvr7czQx)
 
-### [Classic Artists New Music](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
+### [Classic Artists New Music](https://open.spotify.com/playlist/37i9dQZF1DWX3wsvr7czQx)
 
 > Icons only\. Cover: Van Morrison
+
+58 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

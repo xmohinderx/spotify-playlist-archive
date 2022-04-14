@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1Gn0PYtF7VmfuZD0Gb91fN.md) - cumulative - [plain](/playlists/plain/1Gn0PYtF7VmfuZD0Gb91fN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Gn0PYtF7VmfuZD0Gb91fN)
 
-### [2006](https://open.spotify.com/playlist/67s2LPYfuTJteAVAuyhfci)
+### [2006](https://open.spotify.com/playlist/1Gn0PYtF7VmfuZD0Gb91fN)
 
 > 
+
+50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/67s2LPYfuTJteAVAuyhfci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

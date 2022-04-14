@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6DLB6M8zkNk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6DLB6M8zkNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6DLB6M8zkNk)
 
-### [pov: ur the main character in a historical romance](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
+### [pov: ur the main character in a historical romance](https://open.spotify.com/playlist/37i9dQZF1DX6DLB6M8zkNk)
 
 > all eyes are on you as you walk into the ballroom
+
+50 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

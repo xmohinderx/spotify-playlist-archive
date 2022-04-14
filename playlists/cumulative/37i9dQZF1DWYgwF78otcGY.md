@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYgwF78otcGY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYgwF78otcGY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYgwF78otcGY)
 
-### [Schlagerfest](https://open.spotify.com/playlist/49wk7xyVNm2XYatXm9KNKt)
+### [Schlagerfest](https://open.spotify.com/playlist/37i9dQZF1DWYgwF78otcGY)
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
+
+112 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/49wk7xyVNm2XYatXm9KNKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

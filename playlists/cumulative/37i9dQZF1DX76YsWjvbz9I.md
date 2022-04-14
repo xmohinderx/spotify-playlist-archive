@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX76YsWjvbz9I.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX76YsWjvbz9I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX76YsWjvbz9I)
 
-### [Jazz for Lovers](https://open.spotify.com/playlist/3qUetQLNSupJ2CAPcW3Sx3)
+### [Jazz for Lovers](https://open.spotify.com/playlist/37i9dQZF1DX76YsWjvbz9I)
 
 > The unforgettable romantic jazz songs\. Cover: Nat King Cole
+
+105 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/3qUetQLNSupJ2CAPcW3Sx3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +26,7 @@
 | [Can't Help Lovin' That Man](https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 3:11 | 2022-01-12 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:50 | 2021-12-02 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad) | [On the Sunny Side of the Street](https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq) | 2:22 | 2022-01-12 |  |
-| [Dedicated to You \- Remastered 2003](https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Sarah \- Dedicated to You](https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ) | 6:02 | 2021-12-02 |  |
+| [Dedicated to You \- Remastered 2003](https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Sarah \- Dedicated to You](https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ) | 6:02 | 2021-12-02 | 2022-04-14 |
 | [Don't Blame Me](https://open.spotify.com/track/1EXfuimx2HlQT7MjHP0jha) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:56 | 2021-12-02 |  |
 | [Dream A Little Dream Of Me \- 1998 Remaster](https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 3:15 | 2022-01-12 |  |
 | [Easy Living](https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 5:37 | 2021-12-02 |  |
@@ -52,7 +54,7 @@
 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 | 2022-01-12 |  |
 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 | 2021-12-02 |  |
 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 | 2022-02-25 |  |
-| [L\-O\-V\-E \- 2004 \- Remastered](https://open.spotify.com/track/5QjNF4TMjF2E72D3nAIty6) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The World Of Nat King Cole \- His Very Best \(UK Import Edition\)](https://open.spotify.com/album/0pBFpiQv2SmHShiysxDedE) | 2:34 | 2021-12-02 | 2022-04-13 |
+| [L\-O\-V\-E \- 2004 \- Remastered](https://open.spotify.com/track/5QjNF4TMjF2E72D3nAIty6) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The World Of Nat King Cole \- His Very Best \(UK Import Edition\)](https://open.spotify.com/album/0pBFpiQv2SmHShiysxDedE) | 2:34 | 2021-12-02 |  |
 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:24 | 2022-01-14 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 8:41 | 2021-12-02 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Sings Sweet Songs For Swingers](https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq) | 3:04 | 2022-02-25 |  |

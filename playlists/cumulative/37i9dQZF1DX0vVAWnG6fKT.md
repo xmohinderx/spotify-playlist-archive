@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0vVAWnG6fKT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0vVAWnG6fKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0vVAWnG6fKT)
 
-### [40s Country](https://open.spotify.com/playlist/6ngukquRtVxTVqJcxVPRbM)
+### [40s Country](https://open.spotify.com/playlist/37i9dQZF1DX0vVAWnG6fKT)
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Maybelle Carter, Gene Autry, Merle Travis
+
+70 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/6ngukquRtVxTVqJcxVPRbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

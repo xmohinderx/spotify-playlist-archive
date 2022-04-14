@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1ACGg8vzTNZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ACGg8vzTNZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ACGg8vzTNZ)
 
-### [Creative Writing](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
+### [Creative Writing](https://open.spotify.com/playlist/37i9dQZF1DX1ACGg8vzTNZ)
 
 > Electronic, orchestral and ambient music to awaken your imagination.
+
+37 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

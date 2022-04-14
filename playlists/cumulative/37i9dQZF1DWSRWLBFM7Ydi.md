@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSRWLBFM7Ydi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSRWLBFM7Ydi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSRWLBFM7Ydi)
 
-### [This Is: Passenger](https://open.spotify.com/playlist/7B4EFIIVhMuBu3xcjUB9bk)
+### [This Is: Passenger](https://open.spotify.com/playlist/37i9dQZF1DWSRWLBFM7Ydi)
 
 > A roundup of essential tracks from the English <a href="spotify:artist:0gadJ2b9A4SKsB1RFkBb66">singer\-songwriter</a>.
+
+75 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/7B4EFIIVhMuBu3xcjUB9bk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

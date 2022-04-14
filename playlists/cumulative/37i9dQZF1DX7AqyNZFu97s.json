@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Jaish",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Tia Gordon",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 152533,
       "name": "10 Til' 10",
       "url": "https://open.spotify.com/track/5rtiHkjv8KSJU5B8TeO1Hp"
@@ -297,6 +297,24 @@
       "duration_ms": 209045,
       "name": "Alone - Edit",
       "url": "https://open.spotify.com/track/2FBin20nrPK6TCU4LCnKlA"
+    },
+    {
+      "album": {
+        "name": "my blue room",
+        "url": "https://open.spotify.com/album/7l5jkO8Mhaglz4rz5AoRdW"
+      },
+      "artists": [
+        {
+          "name": "Luke Royalty",
+          "url": "https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149497,
+      "name": "alright?",
+      "url": "https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S"
     },
     {
       "album": {
@@ -606,6 +624,24 @@
     },
     {
       "album": {
+        "name": "blocked",
+        "url": "https://open.spotify.com/album/4Ui16oxKfYuIdRYqgWBLX1"
+      },
+      "artists": [
+        {
+          "name": "Max Armfield",
+          "url": "https://open.spotify.com/artist/1W8tDkSW5WnB38vW6nqrQN"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117473,
+      "name": "blocked",
+      "url": "https://open.spotify.com/track/24AthZW8c7jwI9E5fqwRBl"
+    },
+    {
+      "album": {
         "name": "Blood Pact",
         "url": "https://open.spotify.com/album/0B91PsXlG1wkY3jlLqOI2p"
       },
@@ -747,7 +783,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 133554,
       "name": "Common Wealth",
       "url": "https://open.spotify.com/track/5S7mN5HEz1IWsNiZ9rv50B"
@@ -823,6 +859,24 @@
       "duration_ms": 164108,
       "name": "Cure My Thoughts",
       "url": "https://open.spotify.com/track/1rJnfPXBVSOMG22LoRjpd4"
+    },
+    {
+      "album": {
+        "name": "Dead is Dead",
+        "url": "https://open.spotify.com/album/0CvyVXlQD57SNM64sOqzyP"
+      },
+      "artists": [
+        {
+          "name": "Gently Tender",
+          "url": "https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196956,
+      "name": "Dead is Dead",
+      "url": "https://open.spotify.com/track/6KPYGDQrVt9maBqlwKSH7N"
     },
     {
       "album": {
@@ -1011,6 +1065,24 @@
       "duration_ms": 234666,
       "name": "Distant",
       "url": "https://open.spotify.com/track/1D4vYlnTP4XEmlNiGt5AvC"
+    },
+    {
+      "album": {
+        "name": "Doe Eyes",
+        "url": "https://open.spotify.com/album/5biUxssnHemKYMMTFupHZ4"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148343,
+      "name": "Doe Eyes",
+      "url": "https://open.spotify.com/track/6DGnqUiiQuNDdnR2C7DI1m"
     },
     {
       "album": {
@@ -1281,6 +1353,24 @@
       "duration_ms": 190217,
       "name": "Feels Like Rain",
       "url": "https://open.spotify.com/track/4qt6gCrYbMHGGdiXN6tj6G"
+    },
+    {
+      "album": {
+        "name": "Felt Right",
+        "url": "https://open.spotify.com/album/0Ah94Wtue6N9qAKMVfmPk6"
+      },
+      "artists": [
+        {
+          "name": "KNIGHT",
+          "url": "https://open.spotify.com/artist/4j9qW0cak6b8GLdRQ9tH8Q"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Felt Right",
+      "url": "https://open.spotify.com/track/5uyez026HnBA2iyN9sSZvl"
     },
     {
       "album": {
@@ -1751,7 +1841,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 235360,
       "name": "Headhouse",
       "url": "https://open.spotify.com/track/777AFuvaol0sCYlpBB2RER"
@@ -1769,7 +1859,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 165659,
       "name": "Headtop Buss From Luss",
       "url": "https://open.spotify.com/track/53UjIJ47Uf6B7pFs7Mwf1L"
@@ -1823,7 +1913,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 202530,
       "name": "Hit and Run",
       "url": "https://open.spotify.com/track/6WeQmowNd1q0jdfuzesWOs"
@@ -1895,7 +1985,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 187475,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe"
@@ -1935,6 +2025,24 @@
       "duration_ms": 142013,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/7jBx0JhLqK0g3bYvL61f3U"
+    },
+    {
+      "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/4iCBYApTm2JvLmzumBV15H"
+      },
+      "artists": [
+        {
+          "name": "Naomi Banks",
+          "url": "https://open.spotify.com/artist/0Xqny1HXPGaxHIasTndWeS"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261496,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/5ygOIi3SFxhXsXxQZn4IrB"
     },
     {
       "album": {
@@ -2524,6 +2632,24 @@
     },
     {
       "album": {
+        "name": "Love Vibes",
+        "url": "https://open.spotify.com/album/61IyiOiuUJk2Kl4P2eAovH"
+      },
+      "artists": [
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186254,
+      "name": "Love Vibes",
+      "url": "https://open.spotify.com/track/6lG6PerrXelKiQrsDiQpNC"
+    },
+    {
+      "album": {
         "name": "LS6",
         "url": "https://open.spotify.com/album/2bHSohYUor3kXKSKpHyklF"
       },
@@ -2861,7 +2987,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 183720,
       "name": "Motorway",
       "url": "https://open.spotify.com/track/1QjDvTVd2tkhQSq83bXtWf"
@@ -2897,7 +3023,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 169655,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/0pJjHONYVlyB8auE0HlOA5"
@@ -3135,6 +3261,24 @@
       "duration_ms": 225245,
       "name": "Nothing to Something",
       "url": "https://open.spotify.com/track/0jy6xqf66xAccJWPg1db5e"
+    },
+    {
+      "album": {
+        "name": "Nuala",
+        "url": "https://open.spotify.com/album/2cxzkUzNnZoptKJ5hCle19"
+      },
+      "artists": [
+        {
+          "name": "Chloe Rodgers",
+          "url": "https://open.spotify.com/artist/3dptXWP4MdgRHTg65bsR7U"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290060,
+      "name": "Nuala",
+      "url": "https://open.spotify.com/track/6QRdGRLNrWl3bIGJrYQCLt"
     },
     {
       "album": {
@@ -3435,7 +3579,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 188135,
       "name": "Pick Me Girl",
       "url": "https://open.spotify.com/track/7hPxxF3urndnE4j9DYYxsj"
@@ -3507,7 +3651,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 179337,
       "name": "Precision",
       "url": "https://open.spotify.com/track/6LiymK22664km6IxxgQ5w5"
@@ -4179,7 +4323,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 233502,
       "name": "Strawberry Milkshake",
       "url": "https://open.spotify.com/track/72RGQ9yvYxLpNLZwe9EDmf"
@@ -4327,10 +4471,28 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 246000,
       "name": "Taste",
       "url": "https://open.spotify.com/track/2pxXgXUuSPv2WXXgxYRAqn"
+    },
+    {
+      "album": {
+        "name": "That's Why, Save Me",
+        "url": "https://open.spotify.com/album/2HZWUVNoLzIHJRGj1Hm4PD"
+      },
+      "artists": [
+        {
+          "name": "Ella McMurray",
+          "url": "https://open.spotify.com/artist/7KB4ARlXXhbOJN9BsLtaC0"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135781,
+      "name": "That's Why, Save Me",
+      "url": "https://open.spotify.com/track/0IUugunYSIbxbnDrqIj7P0"
     },
     {
       "album": {
@@ -4688,6 +4850,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/7sZHYBsCsKQY3nxqgBCgRx"
+      },
+      "artists": [
+        {
+          "name": "Stella Talpo",
+          "url": "https://open.spotify.com/artist/50CephN65HHaMX5mhL8DYr"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5VvfM6AlbSVNQuyYTnWO90"
+    },
+    {
+      "album": {
         "name": "waves",
         "url": "https://open.spotify.com/album/4HtfVNjnPNOYTNyzpqYLRX"
       },
@@ -4797,7 +4977,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 279656,
       "name": "Wonderin'",
       "url": "https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD"
@@ -4841,6 +5021,24 @@
       "duration_ms": 245217,
       "name": "You Don't Get Me High Anymore",
       "url": "https://open.spotify.com/track/7EK3dE4L4eV6kfiQxDDQTh"
+    },
+    {
+      "album": {
+        "name": "You Genuinely Concern Me",
+        "url": "https://open.spotify.com/album/7CB2yHS19OROEo1vyAyci8"
+      },
+      "artists": [
+        {
+          "name": "joshua epithet",
+          "url": "https://open.spotify.com/artist/1uEUnojYYgIo87OiurJiNP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "You Genuinely Concern Me",
+      "url": "https://open.spotify.com/track/0Rly9Je4hee453S0SQ7np2"
     },
     {
       "album": {

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9G9wwzwWL2k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9G9wwzwWL2k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9G9wwzwWL2k)
 
-### [Epic Classical](https://open.spotify.com/playlist/0Ass7ItbbNyArnjQYNqwuO)
+### [Epic Classical](https://open.spotify.com/playlist/37i9dQZF1DX9G9wwzwWL2k)
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
+
+85 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/0Ass7ItbbNyArnjQYNqwuO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

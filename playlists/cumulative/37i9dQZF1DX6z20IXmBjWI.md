@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6z20IXmBjWI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6z20IXmBjWI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6z20IXmBjWI)
 
-### [Infinite Acoustic](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
+### [Infinite Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX6z20IXmBjWI)
 
 > <a href="https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa?si=shPe6K9qQaCABPthGiVsuQ">Aoife O'Donovan</a> takes over this playlist full of acoustic and roots music gems in celebration of her new album, <a href=https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC?si=3fbeef5aa7ee4b20">Age Of Apathy</a>.
+
+226 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

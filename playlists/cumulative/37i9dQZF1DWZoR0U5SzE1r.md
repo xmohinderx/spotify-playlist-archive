@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZoR0U5SzE1r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZoR0U5SzE1r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoR0U5SzE1r)
 
-### [epicPRAISE](https://open.spotify.com/playlist/3C0qobAOSLbFAynsNuLE2F)
+### [epicPRAISE](https://open.spotify.com/playlist/37i9dQZF1DWZoR0U5SzE1r)
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
+
+133 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/3C0qobAOSLbFAynsNuLE2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

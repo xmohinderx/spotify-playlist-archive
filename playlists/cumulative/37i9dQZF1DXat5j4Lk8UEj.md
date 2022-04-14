@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXat5j4Lk8UEj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXat5j4Lk8UEj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXat5j4Lk8UEj)
 
-### [Folk Rock Favorites](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
+### [Folk Rock Favorites](https://open.spotify.com/playlist/37i9dQZF1DXat5j4Lk8UEj)
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
+
+153 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

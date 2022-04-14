@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1k9jG0FUp7BcrAF1MZSabO.md) - cumulative - [plain](/playlists/plain/1k9jG0FUp7BcrAF1MZSabO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1k9jG0FUp7BcrAF1MZSabO)
 
-### [Most Listened To British Dads on Spotify](https://open.spotify.com/playlist/77b41Q0dr6JR7fLI95Xih2)
+### [Most Listened To British Dads on Spotify](https://open.spotify.com/playlist/1k9jG0FUp7BcrAF1MZSabO)
 
 > 
+
+20 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/77b41Q0dr6JR7fLI95Xih2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

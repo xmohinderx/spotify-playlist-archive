@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2nX8HgBDmgL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2nX8HgBDmgL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2nX8HgBDmgL)
 
-### [Bridge to Bombay](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+### [Bridge to Bombay](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
 > Desi music across borders and genres\. Cover: Twinjabi
+
+88 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3gzwlIik99M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3gzwlIik99M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3gzwlIik99M)
 
-### [Metal del Nuestro](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
+### [Metal del Nuestro](https://open.spotify.com/playlist/37i9dQZF1DX3gzwlIik99M)
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
+
+168 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

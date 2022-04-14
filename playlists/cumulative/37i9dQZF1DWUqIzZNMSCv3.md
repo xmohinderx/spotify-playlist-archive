@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUqIzZNMSCv3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUqIzZNMSCv3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUqIzZNMSCv3)
 
-### [Classical Piano](https://open.spotify.com/playlist/2E2RyBcBkqOG7RVx0sFU7t)
+### [Classical Piano](https://open.spotify.com/playlist/37i9dQZF1DWUqIzZNMSCv3)
 
 > Relaxing classical piano.
+
+54 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/2E2RyBcBkqOG7RVx0sFU7t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

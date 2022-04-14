@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7fPhUztqfIX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7fPhUztqfIX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7fPhUztqfIX)
 
-### [New & Bold](https://open.spotify.com/playlist/4xQpYPvJOTCYtrd1n12Jbo)
+### [New & Bold](https://open.spotify.com/playlist/37i9dQZF1DX7fPhUztqfIX)
 
 > Emerging sounds in worship from everywhere.
+
+157 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/4xQpYPvJOTCYtrd1n12Jbo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

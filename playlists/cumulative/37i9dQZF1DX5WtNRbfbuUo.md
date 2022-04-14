@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5WtNRbfbuUo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5WtNRbfbuUo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5WtNRbfbuUo)
 
-### [This is Deep Purple](https://open.spotify.com/playlist/2U9oTV4HirAKgAy2PA7qyC)
+### [This is Deep Purple](https://open.spotify.com/playlist/37i9dQZF1DX5WtNRbfbuUo)
 
 > Deep Purple´s most essential tracks, all in one playlist.
+
+49 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2U9oTV4HirAKgAy2PA7qyC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

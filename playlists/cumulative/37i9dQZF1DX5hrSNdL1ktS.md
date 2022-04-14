@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5hrSNdL1ktS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hrSNdL1ktS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5hrSNdL1ktS)
 
-### [Urbano Fresh](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+### [Urbano Fresh](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Siho Villalobos
+
+67 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

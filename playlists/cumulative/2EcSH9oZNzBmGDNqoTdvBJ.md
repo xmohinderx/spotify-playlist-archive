@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2EcSH9oZNzBmGDNqoTdvBJ.md) - cumulative - [plain](/playlists/plain/2EcSH9oZNzBmGDNqoTdvBJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2EcSH9oZNzBmGDNqoTdvBJ)
 
-### [Wicked Wives Wine Party ](https://open.spotify.com/playlist/7KLZwMt9r8UIRajQ7UtCri)
+### [Wicked Wives Wine Party ](https://open.spotify.com/playlist/2EcSH9oZNzBmGDNqoTdvBJ)
 
 > We married women only seem to have about four taste buds left: one for vodka, one for wine, one for cheese, and one for chocolate\. This list is for us\. Add friends, uncork, and enjoy.
+
+53 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7KLZwMt9r8UIRajQ7UtCri)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

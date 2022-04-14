@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVY4eLfA3XFQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVY4eLfA3XFQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVY4eLfA3XFQ)
 
-### [Operator](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+### [Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
 > Tech house technicians\. Cover: Mark Knight
+
+322 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +108,7 @@
 | [Feeling Good](https://open.spotify.com/track/6j77SbgjwYTDi30BHF5Zfo) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Feeling Good](https://open.spotify.com/album/2iyGBv1IEGAJomI2BXxrwI) | 3:58 | 2021-11-26 |  |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-03-21 |  |
 | [Fight Dirty](https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Fight Dirty](https://open.spotify.com/album/1iws5DmCyPrr5BElY4CPHl) | 3:00 | 2021-11-26 | 2022-01-06 |
+| [FIND ME IN DA CLUB !!!](https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [FIND ME IN DA CLUB !!!](https://open.spotify.com/album/6V1569aJfxbqjcFnMt3izF) | 2:25 | 2022-04-13 |  |
 | [Get Down](https://open.spotify.com/track/45QJtYjeuFJiwvUlrSoFtN) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Get Down](https://open.spotify.com/album/2a9LoUnQzZJq2zRHSYyovd) | 3:10 | 2021-11-26 | 2022-01-06 |
 | [Get Down](https://open.spotify.com/track/325P6RTcKaZ52yjr2zUSCH) | [Healy](https://open.spotify.com/artist/1qduYDRJMSnCuIlJEoPOuF), [Gouldson](https://open.spotify.com/artist/5WyDqoLe8cPBcyax1nh6cJ) | [Get Down](https://open.spotify.com/album/091KAYPBm3LpuKnfgTIEad) | 5:37 | 2021-11-26 | 2022-01-06 |
 | [Get High](https://open.spotify.com/track/5dYXmVIyaK17kYQirpz8co) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Givin It Bifters](https://open.spotify.com/album/5tNuVA9IoMhJ01hJt4xaNN) | 4:00 | 2022-03-11 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbn7xTVabEKT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbn7xTVabEKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbn7xTVabEKT)
 
-### [Opera Divas](https://open.spotify.com/playlist/0JSjyO6pGv5itGZXaI5kGa)
+### [Opera Divas](https://open.spotify.com/playlist/37i9dQZF1DXbn7xTVabEKT)
 
 > Your favorite arias, performed by legendary opera divas.
+
+50 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/0JSjyO6pGv5itGZXaI5kGa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWlW7KLhEhCZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWlW7KLhEhCZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWlW7KLhEhCZ)
 
-### [Dose Trap](https://open.spotify.com/playlist/4OQp0dXIgEe6I8MlQwrCOG)
+### [Dose Trap](https://open.spotify.com/playlist/37i9dQZF1DWWlW7KLhEhCZ)
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Aren
+
+97 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/4OQp0dXIgEe6I8MlQwrCOG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

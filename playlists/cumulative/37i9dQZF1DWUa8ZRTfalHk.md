@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUa8ZRTfalHk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUa8ZRTfalHk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUa8ZRTfalHk)
 
-### [Pop Rising](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
 > The hits of tomorrow are on Spotify today\. Cover: Jack Harlow
+
+1,097 songs - 2 day 8 hr 43 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

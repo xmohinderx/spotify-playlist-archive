@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4TnpT6vw5rE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4TnpT6vw5rE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4TnpT6vw5rE)
 
-### [Atmospheric Calm](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+### [Atmospheric Calm](https://open.spotify.com/playlist/37i9dQZF1DX4TnpT6vw5rE)
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
+
+161 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

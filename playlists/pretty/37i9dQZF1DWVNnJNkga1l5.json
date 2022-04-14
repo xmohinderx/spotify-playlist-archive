@@ -1,12 +1,12 @@
 {
   "description": "Temazos inolvidables para darle un toque dulce a tus comidas.",
-  "num_followers": 87236,
+  "num_followers": 87327,
   "original_name": "Cocina con Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQzMSwwMDAwMDAwMDllZmU4OTdkNDMxMTYwZmVkM2Y4NzgzMjU1NWRmN2U5",
+  "snapshot_id": "MTY0OTg5ODA0MywwMDAwMDAwMDY3N2Y2YWQ5ODVmZjdjOTkzY2MxNTRkMTUxNDM3YzBj",
   "tracks": [
     {
       "added_at": "2021-10-05 16:06:54",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-10-05 16:06:54",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Te Quiero Tanto, Tanto",
-      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
-    },
-    {
-      "added_at": "2021-10-05 16:06:54",
-      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -303,22 +287,6 @@
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2021-10-05 16:06:54",
-      "album": {
-        "name": "Sereno",
-        "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Morena m\u00eda",
-      "url": "https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8"
     },
     {
       "added_at": "2021-10-05 16:06:54",
@@ -339,6 +307,38 @@
     {
       "added_at": "2021-10-05 16:06:54",
       "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Te Quiero Tanto, Tanto",
+      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+    },
+    {
+      "added_at": "2021-10-05 16:06:54",
+      "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Morena m\u00eda",
+      "url": "https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8"
+    },
+    {
+      "added_at": "2021-10-05 16:06:54",
+      "album": {
         "name": "Camilo Superstar",
         "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-10-05 16:06:54",
       "album": {
-        "name": "Celebridades- Jose Luis Perales",
-        "url": "https://open.spotify.com/album/0s04HfSPWUXc9L6slKaT1Y"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY c\u00f3mo es \u00e9l?",
-      "url": "https://open.spotify.com/track/7rm6kcMbUZNMzkELONGaVY"
-    },
-    {
-      "added_at": "2021-10-05 16:06:54",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 298293,
       "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
       "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
+    },
+    {
+      "added_at": "2021-10-05 16:06:54",
+      "album": {
+        "name": "Celebridades- Jose Luis Perales",
+        "url": "https://open.spotify.com/album/0s04HfSPWUXc9L6slKaT1Y"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u00bfY c\u00f3mo es \u00e9l?",
+      "url": "https://open.spotify.com/track/7rm6kcMbUZNMzkELONGaVY"
     },
     {
       "added_at": "2021-10-05 16:06:54",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-10-05 16:06:54",
       "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
-    },
-    {
-      "added_at": "2021-10-05 16:06:54",
-      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2021-10-05 16:06:54",
       "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
+    },
+    {
+      "added_at": "2021-10-05 16:06:54",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 229853,
       "name": "No S\u00e9 T\u00fa",
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2021-10-05 16:06:54",
-      "album": {
-        "name": "Esencial Miguel Bose",
-        "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/1GE253J05v6oCUmuav7zq2"
     },
     {
       "added_at": "2021-10-05 16:06:54",
@@ -547,6 +531,22 @@
     {
       "added_at": "2021-10-05 16:06:54",
       "album": {
+        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
+        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
+    },
+    {
+      "added_at": "2021-10-05 16:06:54",
+      "album": {
         "name": "Fantas\u00eda o realidad (american edition)",
         "url": "https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1"
       },
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-10-05 16:06:54",
       "album": {
+        "name": "Esencial Miguel Bose",
+        "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/1GE253J05v6oCUmuav7zq2"
+    },
+    {
+      "added_at": "2021-10-05 16:06:54",
+      "album": {
         "name": "Secreto De Amor",
         "url": "https://open.spotify.com/album/1wc7nRyIpIhe2DXcPs7JaM"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 207586,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7ExYnTuBouEyCDCSo5xRbh"
-    },
-    {
-      "added_at": "2021-10-05 16:06:54",
-      "album": {
-        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
-        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
     },
     {
       "added_at": "2021-10-05 16:06:54",

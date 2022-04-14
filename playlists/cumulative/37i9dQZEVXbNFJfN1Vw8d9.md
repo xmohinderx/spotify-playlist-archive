@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbNFJfN1Vw8d9.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbNFJfN1Vw8d9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNFJfN1Vw8d9)
 
-### [Top 50 \- Spain](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
+### [Top 50 \- Spain](https://open.spotify.com/playlist/37i9dQZEVXbNFJfN1Vw8d9)
 
 > Your daily update of the most played tracks right now \- Spain.
+
+363 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

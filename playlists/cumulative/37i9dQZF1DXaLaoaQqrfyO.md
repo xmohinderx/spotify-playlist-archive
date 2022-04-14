@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaLaoaQqrfyO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaLaoaQqrfyO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaLaoaQqrfyO)
 
-### [Indie Pop 2010s](https://open.spotify.com/playlist/2VTzOCqf9seV9cXRnrcZT1)
+### [Indie Pop 2010s](https://open.spotify.com/playlist/37i9dQZF1DXaLaoaQqrfyO)
 
 > Indie pop that defined the 2010s\. Cover: Lana Del Rey
+
+143 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/2VTzOCqf9seV9cXRnrcZT1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

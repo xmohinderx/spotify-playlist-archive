@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2UXfvEIZvDK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2UXfvEIZvDK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2UXfvEIZvDK)
 
-### [Modern Chill Rock](https://open.spotify.com/playlist/5NZJisOXUDORKjlyimSlVx)
+### [Modern Chill Rock](https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK)
 
 > Rock to relax\. Enjoy!
+
+69 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/5NZJisOXUDORKjlyimSlVx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/26yS4HN010lrCBBlCbjF2b.md) - cumulative - [plain](/playlists/plain/26yS4HN010lrCBBlCbjF2b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/26yS4HN010lrCBBlCbjF2b)
 
-### [Hultsfred 2012](https://open.spotify.com/playlist/6dACCvxQEu2uainfQoxeG7)
+### [Hultsfred 2012](https://open.spotify.com/playlist/26yS4HN010lrCBBlCbjF2b)
 
 > Hultsfredsfestivalen 2012 går av stapeln den 14:e juni och pågår t.om\. den 16:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
+
+93 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6dACCvxQEu2uainfQoxeG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

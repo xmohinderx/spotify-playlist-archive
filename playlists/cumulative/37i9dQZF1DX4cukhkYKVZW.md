@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4cukhkYKVZW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4cukhkYKVZW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4cukhkYKVZW)
 
-### [SongCraft](https://open.spotify.com/playlist/0fO1NF6TtkOPSJqWHz7OJ7)
+### [SongCraft](https://open.spotify.com/playlist/37i9dQZF1DX4cukhkYKVZW)
 
 > Listen to the original demo tracks and stories behind Country&\#x27;s biggest hits with acclaimed songwriter Shane McAnally, featuring the EXCLUSIVE release of Kacey Musgraves&\#x27; Mama&\#x27;s Broken Heart – only on Spotify!
+
+52 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/0fO1NF6TtkOPSJqWHz7OJ7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

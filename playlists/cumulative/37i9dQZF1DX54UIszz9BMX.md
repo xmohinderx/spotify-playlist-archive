@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX54UIszz9BMX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX54UIszz9BMX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX54UIszz9BMX)
 
-### [Lo Mejor de MANSIÓN REGGAETÓN 2021 ](https://open.spotify.com/playlist/7FdxNB3nYpH9CWeuAB2zln)
+### [Lo Mejor de MANSIÓN REGGAETÓN 2021 ](https://open.spotify.com/playlist/37i9dQZF1DX54UIszz9BMX)
 
 > Las canciones de reggaetón que marcaron el año, con Myke Towers en portada.
+
+50 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/7FdxNB3nYpH9CWeuAB2zln)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

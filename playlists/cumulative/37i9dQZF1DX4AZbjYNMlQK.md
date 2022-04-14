@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4AZbjYNMlQK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4AZbjYNMlQK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4AZbjYNMlQK)
 
-### [Feliz Navidad](https://open.spotify.com/playlist/5TI9dqdb0u6anc2c8h8wVF)
+### [Feliz Navidad](https://open.spotify.com/playlist/37i9dQZF1DX4AZbjYNMlQK)
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones\. Cover: Los Aptos
+
+68 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/5TI9dqdb0u6anc2c8h8wVF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

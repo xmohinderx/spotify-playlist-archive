@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTQrwBpetTXv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTQrwBpetTXv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTQrwBpetTXv)
 
-### [\#SpotifyTBT: Women of Country](https://open.spotify.com/playlist/2OjM6MeO4UXdviWrmJqIJb)
+### [\#SpotifyTBT: Women of Country](https://open.spotify.com/playlist/37i9dQZF1DWTQrwBpetTXv)
 
 > The powerful women of country\. Cover: Dolly Parton \#SpotifyTBT
+
+70 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/2OjM6MeO4UXdviWrmJqIJb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

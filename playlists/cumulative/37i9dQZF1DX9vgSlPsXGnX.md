@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9vgSlPsXGnX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9vgSlPsXGnX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9vgSlPsXGnX)
 
-### [Bésame Mucho](https://open.spotify.com/playlist/4SS0zxKg1zqnt4ItXfPUcF)
+### [Bésame Mucho](https://open.spotify.com/playlist/37i9dQZF1DX9vgSlPsXGnX)
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
+
+91 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4SS0zxKg1zqnt4ItXfPUcF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

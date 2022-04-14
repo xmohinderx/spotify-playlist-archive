@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7LxjY6mdINPgSVhILU2nk6.md) - cumulative - [plain](/playlists/plain/7LxjY6mdINPgSVhILU2nk6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7LxjY6mdINPgSVhILU2nk6)
 
-### [Metaltown 2013](https://open.spotify.com/playlist/2UD9i4Ek9aFQQRZj9u3Hgf)
+### [Metaltown 2013](https://open.spotify.com/playlist/7LxjY6mdINPgSVhILU2nk6)
 
 > 
+
+22 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/2UD9i4Ek9aFQQRZj9u3Hgf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

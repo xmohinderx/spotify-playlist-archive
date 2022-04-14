@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,489 likes - 637 songs - 1 day 18 hr 49 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,489 likes - 638 songs - 1 day 18 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -645,5 +645,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 635 | [No Small Thing](https://open.spotify.com/track/7vuyjyv0cKggQm0Jj8GrOG) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:42 |
 | 636 | [Fear Of The Dawn](https://open.spotify.com/track/3FOcAGYwW2lKkqO6ffuJdX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 2:02 |
 | 637 | [Watch Me Bleed](https://open.spotify.com/track/1kChx0uGraDIIyOVtBVawU) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:15 |
+| 638 | [Blunderbuss](https://open.spotify.com/track/2bItWLPlRV0k38WVcNrLUS) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:05 |
 
-Snapshot ID: `MTY1OSw0NTdkYjM3N2NjZmM5MzEyNjhhMTE0YjZkMTBkMmQyYWQ2ZDcwN2Y4`
+Snapshot ID: `MTY2MCxiMDg5ZTEzNGI2YjBkMTc1ODg4YTMxNjllMTk2ZTA4MTZhYjM0M2E2`

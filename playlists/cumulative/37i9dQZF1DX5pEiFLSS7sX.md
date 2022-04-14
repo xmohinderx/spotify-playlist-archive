@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5pEiFLSS7sX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5pEiFLSS7sX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5pEiFLSS7sX)
 
-### [Signs & Wonders](https://open.spotify.com/playlist/7AOoPmZVWI11xU5B6czWtb)
+### [Signs & Wonders](https://open.spotify.com/playlist/37i9dQZF1DX5pEiFLSS7sX)
 
 > Go deep into spontaneous praise and worship here\. On and on.
+
+157 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/7AOoPmZVWI11xU5B6czWtb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

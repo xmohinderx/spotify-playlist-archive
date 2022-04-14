@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4EKARgqYPFZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4EKARgqYPFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4EKARgqYPFZ)
 
-### [This Is blink\-182 \(2\)](https://open.spotify.com/playlist/2oLDRlwMxu7k6ngOmPICiA)
+### [This Is blink\-182 \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX4EKARgqYPFZ)
 
 > The essential blink\-182, all in one place.
+
+50 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/2oLDRlwMxu7k6ngOmPICiA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

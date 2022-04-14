@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6wz9sFJRqsmu7ldv0xJOIz.md) - cumulative - [plain](/playlists/plain/6wz9sFJRqsmu7ldv0xJOIz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6wz9sFJRqsmu7ldv0xJOIz)
 
-### [An Epic Evening](https://open.spotify.com/playlist/5kNk7yBrl1Ormm6X0QcV3o)
+### [An Epic Evening](https://open.spotify.com/playlist/6wz9sFJRqsmu7ldv0xJOIz)
 
 > It all starts with some friends over for dinner but after a couple of drinks..\. well let's just say you won't have to worry about having an upbeat playlist for the night!
+
+25 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/5kNk7yBrl1Ormm6X0QcV3o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

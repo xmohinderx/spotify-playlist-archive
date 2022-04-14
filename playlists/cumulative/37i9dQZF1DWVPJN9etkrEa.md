@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVPJN9etkrEa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVPJN9etkrEa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVPJN9etkrEa)
 
-### [This Is Green Day \(2\)](https://open.spotify.com/playlist/18dHfDIBkKxchgAqDhRKHN)
+### [This Is Green Day \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWVPJN9etkrEa)
 
 > Welcome to Paradise, Green Day fans!
+
+50 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/18dHfDIBkKxchgAqDhRKHN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU2LcZVHsTdv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU2LcZVHsTdv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU2LcZVHsTdv)
 
-### [Country by the Grace of God](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
 > The country way of testifying\. Cover: Reba McEntire
+
+101 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

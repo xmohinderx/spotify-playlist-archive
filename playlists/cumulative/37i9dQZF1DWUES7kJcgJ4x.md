@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUES7kJcgJ4x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUES7kJcgJ4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUES7kJcgJ4x)
 
-### [¡Chicas Ye\-yé!](https://open.spotify.com/playlist/3OPMOOpls4yZsAtS22bOXv)
+### [¡Chicas Ye\-yé!](https://open.spotify.com/playlist/37i9dQZF1DWUES7kJcgJ4x)
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
+
+50 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/3OPMOOpls4yZsAtS22bOXv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2Ma8k80RiMN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2Ma8k80RiMN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2Ma8k80RiMN)
 
-### [The Sweet Suite](https://open.spotify.com/playlist/1hna57tdO5fufuV8wdlNPX)
+### [The Sweet Suite](https://open.spotify.com/playlist/37i9dQZF1DX2Ma8k80RiMN)
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
+
+70 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/1hna57tdO5fufuV8wdlNPX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

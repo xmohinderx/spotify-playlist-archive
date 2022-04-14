@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 
 > Digging deep into the history of 00s Metal\. Maybe rediscover old favorites?
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,624 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,810 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 | 80 | [Spellbound](https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Shallow Life](https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0) | 3:21 |
 | 81 | [Lay Down](https://open.spotify.com/track/2HaDds0IU8Iy1hSb6L7VoT) | [Priestess](https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV) | [Hello Master](https://open.spotify.com/album/3PRkWYgWkSGdEtLA1kQmDm) | 3:05 |
 | 82 | [Switchback](https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Celldweller \(Deluxe Edition\)](https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w) | 5:02 |
-| 83 | [Shockwave](https://open.spotify.com/track/7rxFdAdDflJZMXZCkGAlNp) | [Black Tide](https://open.spotify.com/artist/7wMYATkanaMX5FH4GMVZ4E) | [Light From Above](https://open.spotify.com/album/3x9uRyWv85nlIf7CVCTDqz) | 3:37 |
-| 84 | [Determined](https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 2:39 |
-| 85 | [Right In Two](https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 8:55 |
-| 86 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
+| 83 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
+| 84 | [Shockwave](https://open.spotify.com/track/7rxFdAdDflJZMXZCkGAlNp) | [Black Tide](https://open.spotify.com/artist/7wMYATkanaMX5FH4GMVZ4E) | [Light From Above](https://open.spotify.com/album/3x9uRyWv85nlIf7CVCTDqz) | 3:37 |
+| 85 | [Determined](https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 2:39 |
+| 86 | [Right In Two](https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 8:55 |
 | 87 | [On Earth](https://open.spotify.com/track/2hsppoOzpkO52cMTYxfwUo) | [Samael](https://open.spotify.com/artist/1WXagRGw8AveVrRxDfUjli) | [Reign of Light](https://open.spotify.com/album/7hX3o4ObrVtGBh5Xvb2iBA) | 4:03 |
 | 88 | [Sinner](https://open.spotify.com/track/4AaZtoVREGSOTMzdzLoCGK) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 2:27 |
 | 89 | [I Am the Anger](https://open.spotify.com/track/7uKK7wY13Z65M7WQAO9r46) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Burning Earth](https://open.spotify.com/album/72we6ktCYDCvbD78ffemkH) | 3:48 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 | 149 | [Alcohaulin' Ass](https://open.spotify.com/track/1OXzwmEPLq7cR6J6sbcLto) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [HELLYEAH](https://open.spotify.com/album/2aUYb3rhe78BvvUdyJuIh8) | 3:54 |
 | 150 | [Take It Out On Me](https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Welcome To The Masquerade \(Fan Edition\)](https://open.spotify.com/album/3fSHF58QvGhJgwOzDPoKDV) | 3:17 |
 
-Snapshot ID: `MTY0OTgxMTQxNiwwMDAwMDAwMDc3YmY1MjQyMTEwYTI0MGIwZjdmMDMwYWMyYjJiNThk`
+Snapshot ID: `MTY0OTg5ODAyOSwwMDAwMDAwMDgyNTQzNjMwNWM4NTgwODEwNWVjMGM3ZGU1YmQ4NTZj`

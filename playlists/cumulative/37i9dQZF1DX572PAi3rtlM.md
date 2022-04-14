@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX572PAi3rtlM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX572PAi3rtlM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX572PAi3rtlM)
 
-### [Rooftop Sunset](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+### [Rooftop Sunset](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
 
 > That summer in the city feeling, any day of the week.
+
+94 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

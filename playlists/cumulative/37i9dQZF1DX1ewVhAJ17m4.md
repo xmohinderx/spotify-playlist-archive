@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1ewVhAJ17m4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ewVhAJ17m4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ewVhAJ17m4)
 
-### [Pop Punk's Not Dead](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
+### [Pop Punk's Not Dead](https://open.spotify.com/playlist/37i9dQZF1DX1ewVhAJ17m4)
 
 > All the best new songs from the pop punk scene\. Cover: Hot Milk
+
+113 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

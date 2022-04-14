@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9FSYmdU9mbT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9FSYmdU9mbT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9FSYmdU9mbT)
 
-### [O Melhor da MPB](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
+### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
 > Os grandes artistas da MPB\. Foto: Elza Soares
+
+93 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

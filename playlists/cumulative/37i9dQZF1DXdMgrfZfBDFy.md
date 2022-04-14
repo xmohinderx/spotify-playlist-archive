@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdMgrfZfBDFy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdMgrfZfBDFy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdMgrfZfBDFy)
 
-### [Loud & Proud](https://open.spotify.com/playlist/0VHvJFJuQ0N6ErCpLQ9e4n)
+### [Loud & Proud](https://open.spotify.com/playlist/37i9dQZF1DXdMgrfZfBDFy)
 
 > Höj volymen och happy EuroPride 2018!
+
+47 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/0VHvJFJuQ0N6ErCpLQ9e4n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

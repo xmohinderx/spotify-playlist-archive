@@ -1,15 +1,17 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVEvzGeX3eRs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVEvzGeX3eRs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVEvzGeX3eRs)
 
-### ['90s Baby Makers](https://open.spotify.com/playlist/5GiYoPdEGXgoW4OrhGKFS7)
+### ['90s Baby Makers](https://open.spotify.com/playlist/37i9dQZF1DWVEvzGeX3eRs)
 
 > What we're gonna do right now is go back—back in time\. Here are all your favorite '90s R&B slow jams!
+
+52 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/5GiYoPdEGXgoW4OrhGKFS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 | 2021-03-05 |  |
 | [All I See](https://open.spotify.com/track/0TEPE1KMWY0satuZIBtuRt) | [Christopher Williams](https://open.spotify.com/artist/27TmRLInIAVyWyU14KlALf) | [Changes](https://open.spotify.com/album/0POYPvGgqNdWX1G3BQBncS) | 4:20 | 2021-03-05 |  |
 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 | 2021-03-05 |  |
-| [All the Times \(feat\. Faith Evans, Coko & Missy Elliott\)](https://open.spotify.com/track/0KHHrBbdvuJ6knLxj7dqkw) | [LSG](https://open.spotify.com/artist/1l40tPBtp1bmS1krmINRSD), [Coko](https://open.spotify.com/artist/4DXQx61f5u5Ulazrx2iUks), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Levert.Sweat.Gill](https://open.spotify.com/album/3BrZT0UzGMi2qhI5WExT8Y) | 4:51 | 2021-03-05 |  |
+| [All the Times \(feat\. Faith Evans, Coko & Missy Elliott\)](https://open.spotify.com/track/0KHHrBbdvuJ6knLxj7dqkw) | [LSG](https://open.spotify.com/artist/1l40tPBtp1bmS1krmINRSD), [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Levert.Sweat.Gill](https://open.spotify.com/album/3BrZT0UzGMi2qhI5WExT8Y) | 4:51 | 2021-03-05 |  |
 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 | 2021-03-05 |  |
 | [Anytime](https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 4:33 | 2021-03-05 |  |
 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 | 2021-03-05 |  |

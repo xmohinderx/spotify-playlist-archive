@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVp4cWdnm5ws.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVp4cWdnm5ws) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVp4cWdnm5ws)
 
-### [RADAR Philippines](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
 > Discover new artists on the horizon.
+
+76 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

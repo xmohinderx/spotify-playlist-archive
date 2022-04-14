@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,136 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,340 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 50 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
 | 51 | [Empty Heart](https://open.spotify.com/track/5kcjWwfzttpF185DU04sgh) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Empty Heart](https://open.spotify.com/album/12Aql4tVhr7MXSX3PJfLs4) | 3:15 |
 | 52 | [Keep Going](https://open.spotify.com/track/6c5zgHW9LgzAl2ueedv4eH) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/0AvofRwpMFBiwA7ouH8oBT) | 4:14 |
-| 53 | [Powder Blue](https://open.spotify.com/track/6BHdfzIwMm9WPORQ4OGnnx) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You’re Dreaming](https://open.spotify.com/album/2u82YoTVFqN1Z7uIbqVCfr) | 2:23 |
-| 54 | [Something In The Water](https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Something In The Water](https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM) | 3:23 |
+| 53 | [Something In The Water](https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Something In The Water](https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM) | 3:23 |
+| 54 | [Powder Blue](https://open.spotify.com/track/6BHdfzIwMm9WPORQ4OGnnx) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You’re Dreaming](https://open.spotify.com/album/2u82YoTVFqN1Z7uIbqVCfr) | 2:23 |
 | 55 | [Say It](https://open.spotify.com/track/4hqsg6viSC2UoLKUydMFOO) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt) | 3:22 |
 | 56 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
 | 57 | [Lay Down](https://open.spotify.com/track/0cLkJeVZGX6uweM1L4ga2R) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Lay Down](https://open.spotify.com/album/4gTEEFlyp9OzuReg798kEH) | 3:48 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Crocodile Tears](https://open.spotify.com/track/3TrYli5BpZzzNoyAH64k2K) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [Goon](https://open.spotify.com/album/6IcqXhH9pX48d5ycqnJVw4) | 2:22 |
 | 90 | [Danger](https://open.spotify.com/track/3eTXumsY2qWG6gXM3PvW03) | [Sallie Ford & The Sound Outside](https://open.spotify.com/artist/0Z8RhQLJrLxKMWoUW2qo95) | [Dirty Radio \(Deluxe Version\)](https://open.spotify.com/album/7I9KroNPmpw9qFYZ8Vp7pN) | 2:58 |
 
-Snapshot ID: `MTY0OTgxMTQyMSwwMDAwMDAwMGU3MWZiYTRmZGM3OWIzMmFlYzNhYWE3MGI0ODZlOWQ4`
+Snapshot ID: `MTY0OTg5ODAzNCwwMDAwMDAwMGU2OTMyZTFiODc2MDM0N2MzOWNmZDRkZWM2MWJiZTk5`

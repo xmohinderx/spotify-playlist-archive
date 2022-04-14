@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1IKDP8o4UvpfLh0SJX2e1b.md) - cumulative - [plain](/playlists/plain/1IKDP8o4UvpfLh0SJX2e1b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1IKDP8o4UvpfLh0SJX2e1b)
 
-### [The New Bohemian](https://open.spotify.com/playlist/2b6JdOLvXPtfSf0xGU1ppL)
+### [The New Bohemian](https://open.spotify.com/playlist/1IKDP8o4UvpfLh0SJX2e1b)
 
 > Free\-spirited, eclectic, and decadent lyrics mix with folksy, indie, and slightly psychedelic acoustics\. This is The New Bohemian.
+
+81 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2b6JdOLvXPtfSf0xGU1ppL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

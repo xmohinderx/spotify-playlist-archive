@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc3KygMa1OE7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc3KygMa1OE7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc3KygMa1OE7)
 
-### [80s Love Songs](https://open.spotify.com/playlist/3zbr3w8bDk6MGZYKrSdbkA)
+### [80s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DXc3KygMa1OE7)
 
 > The most unforgettable love songs from the 80s.
+
+55 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/3zbr3w8bDk6MGZYKrSdbkA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

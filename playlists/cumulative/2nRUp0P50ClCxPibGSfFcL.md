@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2nRUp0P50ClCxPibGSfFcL.md) - cumulative - [plain](/playlists/plain/2nRUp0P50ClCxPibGSfFcL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2nRUp0P50ClCxPibGSfFcL)
 
-### [Hank \- Gutsy](https://open.spotify.com/playlist/46apRdoax5hCZThFzXYzVb)
+### [Hank \- Gutsy](https://open.spotify.com/playlist/2nRUp0P50ClCxPibGSfFcL)
 
 > 
+
+30 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/46apRdoax5hCZThFzXYzVb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

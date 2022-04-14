@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 109185,
+  "num_followers": 109337,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQ4MiwwMDAwMDAwMDA0YWZkOTY2MTc1ZTNiOGZmZmMyOWY3NjYwNGE4MTUy",
+  "snapshot_id": "MTY0OTg5ODA5MiwwMDAwMDAwMGJkNGEyNTM0MDBjMzQ4YWQ2NGEwNjk4ZjkyNjllOTM3",
   "tracks": [
     {
       "added_at": "2021-11-12 06:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "De Coraz\u00f3n Bohemio",
-        "url": "https://open.spotify.com/album/3rzzhVO4UdMniUo5rl9swK"
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 175791,
-      "name": "T\u00fa Carcel",
-      "url": "https://open.spotify.com/track/0NyLkLW9CkTO5AMpJmmVJq"
+      "duration_ms": 188533,
+      "name": "Dios Bendiga Nuestro Amor",
+      "url": "https://open.spotify.com/track/2YtY3R6kU28CBC9MLf1zaU"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -167,6 +167,22 @@
       "duration_ms": 186920,
       "name": "Necesito una Compa\u00f1era",
       "url": "https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "De Coraz\u00f3n Bohemio",
+        "url": "https://open.spotify.com/album/3rzzhVO4UdMniUo5rl9swK"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 175791,
+      "name": "T\u00fa Carcel",
+      "url": "https://open.spotify.com/track/0NyLkLW9CkTO5AMpJmmVJq"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -212,9 +228,9 @@
           "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Dios Bendiga Nuestro Amor",
-      "url": "https://open.spotify.com/track/2YtY3R6kU28CBC9MLf1zaU"
+      "duration_ms": 239533,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/2Qdstn5Es96WKrQRQmH4xc"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -267,22 +283,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Homenaje A Los Bukis",
         "url": "https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K"
       },
@@ -299,34 +299,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 239533,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/2Qdstn5Es96WKrQRQmH4xc"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Tres Semanas",
-        "url": "https://open.spotify.com/album/2St0cnAHnTIvGeigZz5wkJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Tres Semanas",
-      "url": "https://open.spotify.com/track/1OqcfMMZrkxtQFRXFhk2j6"
+      "duration_ms": 208066,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -367,50 +351,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+        "name": "Tres Semanas",
+        "url": "https://open.spotify.com/album/2St0cnAHnTIvGeigZz5wkJ"
       },
       "artists": [
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Presiento Que Voy A LLorar",
-      "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/1grWz5Fq8Y7FLTxTQtfFgA"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
+      "duration_ms": 219680,
+      "name": "Tres Semanas",
+      "url": "https://open.spotify.com/track/1OqcfMMZrkxtQFRXFhk2j6"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -435,18 +387,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Trozos De Mi Alma",
-        "url": "https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn"
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Inventame",
-      "url": "https://open.spotify.com/track/5RJuWtHaZqnHRCVzk1z1uS"
+      "duration_ms": 213360,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/1grWz5Fq8Y7FLTxTQtfFgA"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -467,6 +419,70 @@
       "duration_ms": 225000,
       "name": "Como Tu Mujer (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Presiento Que Voy A LLorar",
+      "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Trozos De Mi Alma",
+        "url": "https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Inventame",
+      "url": "https://open.spotify.com/track/5RJuWtHaZqnHRCVzk1z1uS"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "El Chico Aquel",
+      "url": "https://open.spotify.com/track/0ymnb9RIvg6esHTSPMWhuq"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -503,18 +519,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 216933,
-      "name": "El Chico Aquel",
-      "url": "https://open.spotify.com/track/0ymnb9RIvg6esHTSPMWhuq"
+      "duration_ms": 204160,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -535,34 +551,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 207186,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
+      "duration_ms": 227693,
+      "name": "Vete Con Ella",
+      "url": "https://open.spotify.com/track/7KdE3FPSxki2wwXDfq6ktE"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -579,22 +579,6 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Vete Con Ella",
-      "url": "https://open.spotify.com/track/7KdE3FPSxki2wwXDfq6ktE"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -635,28 +619,8 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        },
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/4dlJmzbFkjvut4QjJM8LPe"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
       "artists": [
         {
@@ -664,9 +628,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
+      "duration_ms": 207186,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -691,6 +655,26 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        },
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/4dlJmzbFkjvut4QjJM8LPe"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 211373,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/1Ee8PxxbI8FWFLTopqf9U9"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -727,18 +727,34 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+        "name": "40 A\u00f1os",
+        "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 292466,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/1Ee8PxxbI8FWFLTopqf9U9"
+      "duration_ms": 291946,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Quiereme",
-        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Mi Mayor Necesidad",
-      "url": "https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -791,38 +791,6 @@
       "duration_ms": 251666,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/3HuC2KGfuam6XubxLwFYk9"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "40 A\u00f1os",
-        "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Prefiero Ir Sola",
-      "url": "https://open.spotify.com/track/40M7r9WyyKEBs0xYhgxxBd"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -859,6 +827,38 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Prefiero Ir Sola",
+      "url": "https://open.spotify.com/track/40M7r9WyyKEBs0xYhgxxBd"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Los Besos No Se Dan En La Camisa",
         "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 261293,
       "name": "Como Me Haces Falta",
       "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Mi Mayor Necesidad",
+      "url": "https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1063,54 +1079,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Ya No Te Vayas",
-      "url": "https://open.spotify.com/track/7LzcvTJniJqM9YpC0hghqk"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Si Me Recuerdas",
-        "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1151,34 +1119,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+        "name": "Si Me Recuerdas",
+        "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Vete Mejor",
-      "url": "https://open.spotify.com/track/5dO4RByHh8krRh7om0jSYF"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "40 A\u00f1os",
-        "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Se Va Muriendo Mi Alma",
-      "url": "https://open.spotify.com/track/1NpT44WVlAuDFENtpLR6O3"
+      "duration_ms": 286400,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1199,6 +1151,38 @@
       "duration_ms": 265840,
       "name": "Como Tu Mujer - Banda",
       "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Ya No Te Vayas",
+      "url": "https://open.spotify.com/track/7LzcvTJniJqM9YpC0hghqk"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "40 A\u00f1os",
+        "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Se Va Muriendo Mi Alma",
+      "url": "https://open.spotify.com/track/1NpT44WVlAuDFENtpLR6O3"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Trozos De Mi Alma",
+        "url": "https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/62qI8m0sXpzlSjYYx0nZ83"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Encerrados Pero Enfiestados (Live Vol. 2)",
         "url": "https://open.spotify.com/album/3TKjCQA01ou9kAAYaXWZ2e"
       },
@@ -1319,18 +1319,34 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Trozos De Mi Alma",
-        "url": "https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn"
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 287906,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/62qI8m0sXpzlSjYYx0nZ83"
+      "duration_ms": 211960,
+      "name": "Vete Mejor",
+      "url": "https://open.spotify.com/track/5dO4RByHh8krRh7om0jSYF"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Ladr\u00f3n De Buena Suerte",
+      "url": "https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1367,22 +1383,6 @@
       "duration_ms": 193240,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Ladr\u00f3n De Buena Suerte",
-      "url": "https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1535,6 +1535,38 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Tu Amor O Tu Desprecio",
+        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 209506,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 300013,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
@@ -1583,8 +1615,8 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Tu Amor O Tu Desprecio",
-        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
+        "name": "MAS de Mis Recuerdos",
+        "url": "https://open.spotify.com/album/11LnoZX4GRpb08p958wb2k"
       },
       "artists": [
         {
@@ -1592,41 +1624,9 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 209506,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
+      "duration_ms": 229851,
+      "name": "Estar\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/2fZqON806pidhX4qeur2vq"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1643,6 +1643,22 @@
       "duration_ms": 204360,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Los Bukis",
-        "url": "https://open.spotify.com/album/0laqwYnxxk6KMzOND9b4ks"
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
         }
       ],
-      "duration_ms": 206440,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/0gYnWBpArbOOokGLDDhzyG"
+      "duration_ms": 207293,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1731,6 +1747,38 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Los Bukis",
+        "url": "https://open.spotify.com/album/0laqwYnxxk6KMzOND9b4ks"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/0gYnWBpArbOOokGLDDhzyG"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "En Pleno Vuelo",
+        "url": "https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 265986,
+      "name": "Recuerdos, Tristeza Y Soledad",
+      "url": "https://open.spotify.com/track/2KFmDh82VngNDLjk5HUMVu"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -1743,38 +1791,6 @@
       "duration_ms": 252026,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "MAS de Mis Recuerdos",
-        "url": "https://open.spotify.com/album/11LnoZX4GRpb08p958wb2k"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 229851,
-      "name": "Estar\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/2fZqON806pidhX4qeur2vq"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 220253,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "C\u00f3mo Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/7MaFKBLhW220azgglkJiws"
     }
   ],
   "unique_name": "Cancionero Marco Antonio Solis",

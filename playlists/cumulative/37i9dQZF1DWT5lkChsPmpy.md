@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT5lkChsPmpy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT5lkChsPmpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT5lkChsPmpy)
 
-### [Workday Lounge](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+### [Workday Lounge](https://open.spotify.com/playlist/37i9dQZF1DWT5lkChsPmpy)
 
 > Lounge and chill out music for your workday.
+
+236 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

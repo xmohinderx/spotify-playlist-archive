@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4SBhb3fqCJd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4SBhb3fqCJd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4SBhb3fqCJd)
 
-### [Are & Be](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
+### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
 > The pulse of R&B music today\.  Cover: Syd
+
+97 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

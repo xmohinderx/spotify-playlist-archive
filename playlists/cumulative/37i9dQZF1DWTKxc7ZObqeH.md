@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTKxc7ZObqeH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTKxc7ZObqeH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTKxc7ZObqeH)
 
-### [Summer Jazz](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+### [Summer Jazz](https://open.spotify.com/playlist/37i9dQZF1DWTKxc7ZObqeH)
 
 > Sunny jazz for sunny days.
+
+113 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

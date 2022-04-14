@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVezbGpUvpz7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVezbGpUvpz7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVezbGpUvpz7)
 
-### [The Essential Edgar Allan Poe](https://open.spotify.com/playlist/69AhHukbHvnUC6sbXbnpN1)
+### [The Essential Edgar Allan Poe](https://open.spotify.com/playlist/37i9dQZF1DWVezbGpUvpz7)
 
 > The essential Poe listening experience, from vintage radio versions to contemporary readings.
+
+66 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/69AhHukbHvnUC6sbXbnpN1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXctZGldNPWLR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXctZGldNPWLR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXctZGldNPWLR)
 
-### [Lo Que Suena](https://open.spotify.com/playlist/1I1JHL2az0ZuqX8RUv6Xg9)
+### [Lo Que Suena](https://open.spotify.com/playlist/37i9dQZF1DXctZGldNPWLR)
 
 > Los éxitos que más están sonando en el momento\. Portada: Yatra x Jhay Co
+
+141 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/1I1JHL2az0ZuqX8RUv6Xg9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

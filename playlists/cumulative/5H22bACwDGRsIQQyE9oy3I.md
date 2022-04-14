@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5H22bACwDGRsIQQyE9oy3I.md) - cumulative - [plain](/playlists/plain/5H22bACwDGRsIQQyE9oy3I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5H22bACwDGRsIQQyE9oy3I)
 
-### [The Grove](https://open.spotify.com/playlist/33Dtuj74rL8fGjasTxfod2)
+### [The Grove](https://open.spotify.com/playlist/5H22bACwDGRsIQQyE9oy3I)
 
 > Relax in the shade and uncover the best new underground folk and rising Americana.
+
+25 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/33Dtuj74rL8fGjasTxfod2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

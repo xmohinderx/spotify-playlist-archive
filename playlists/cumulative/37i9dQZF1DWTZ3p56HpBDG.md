@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTZ3p56HpBDG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTZ3p56HpBDG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTZ3p56HpBDG)
 
-### [No Borders](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+### [No Borders](https://open.spotify.com/playlist/37i9dQZF1DWTZ3p56HpBDG)
 
 > Home to english South Asian tracks, acclaimed worldwide \- Cover: Joy Crookes
+
+100 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdx7sCF75xKy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdx7sCF75xKy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdx7sCF75xKy)
 
-### [EQUAL Singapore & Malaysia](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
+### [EQUAL Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DXdx7sCF75xKy)
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Aisyah Aziz
+
+234 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

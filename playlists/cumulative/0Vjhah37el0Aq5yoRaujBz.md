@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0Vjhah37el0Aq5yoRaujBz.md) - cumulative - [plain](/playlists/plain/0Vjhah37el0Aq5yoRaujBz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Vjhah37el0Aq5yoRaujBz)
 
-### [Energy Boost](https://open.spotify.com/playlist/3DbxxfoAnAHXxgQUN2EJib)
+### [Energy Boost](https://open.spotify.com/playlist/0Vjhah37el0Aq5yoRaujBz)
 
 > Let this upbeat playlist power you through your day
+
+306 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/3DbxxfoAnAHXxgQUN2EJib)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

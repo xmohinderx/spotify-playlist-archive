@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4rGCw5bMNp1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4rGCw5bMNp1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4rGCw5bMNp1)
 
-### [Chicago Blues](https://open.spotify.com/playlist/28L2R5utJ9qGYen8AAdvJB)
+### [Chicago Blues](https://open.spotify.com/playlist/37i9dQZF1DX4rGCw5bMNp1)
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
+
+50 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/28L2R5utJ9qGYen8AAdvJB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

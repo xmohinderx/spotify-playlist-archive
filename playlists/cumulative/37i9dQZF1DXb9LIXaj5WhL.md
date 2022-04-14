@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb9LIXaj5WhL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb9LIXaj5WhL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb9LIXaj5WhL)
 
-### [90s Acoustic](https://open.spotify.com/playlist/0FgSybGr6AtuqHlcsxaZUL)
+### [90s Acoustic](https://open.spotify.com/playlist/37i9dQZF1DXb9LIXaj5WhL)
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
+
+84 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/0FgSybGr6AtuqHlcsxaZUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

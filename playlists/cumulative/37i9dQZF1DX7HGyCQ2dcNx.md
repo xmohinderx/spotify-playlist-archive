@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7HGyCQ2dcNx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7HGyCQ2dcNx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7HGyCQ2dcNx)
 
-### [This Is J Balvin](https://open.spotify.com/playlist/0anfdNe2iPWw4Dhq3AouqG)
+### [This Is J Balvin](https://open.spotify.com/playlist/37i9dQZF1DX7HGyCQ2dcNx)
 
 > The artist's latest and greatest hits\. Lo nuevo y lo esencial de Jose\. ¡Leggo!
+
+104 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0anfdNe2iPWw4Dhq3AouqG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

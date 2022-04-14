@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0nA91dV2ts4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0nA91dV2ts4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0nA91dV2ts4)
 
-### [Tamil Party Time](https://open.spotify.com/playlist/3XL9bNtiKeCLaXQYapaYe1)
+### [Tamil Party Time](https://open.spotify.com/playlist/37i9dQZF1DX0nA91dV2ts4)
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Ajith Kumar
+
+84 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/3XL9bNtiKeCLaXQYapaYe1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

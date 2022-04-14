@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7DcfXNVB5WpzYwCkqBaVDx.md) - cumulative - [plain](/playlists/plain/7DcfXNVB5WpzYwCkqBaVDx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7DcfXNVB5WpzYwCkqBaVDx)
 
-### [Peace & Love 2012](https://open.spotify.com/playlist/1JXhjU1LcdhUqPFLlnP3eF)
+### [Peace & Love 2012](https://open.spotify.com/playlist/7DcfXNVB5WpzYwCkqBaVDx)
 
 > Peace & Love 2012 arrangeras 26 \- 30 juni i Borlänge\. Temat för sommarens festival är "En ny värld"\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
+
+158 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/1JXhjU1LcdhUqPFLlnP3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

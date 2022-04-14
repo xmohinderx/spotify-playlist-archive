@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2RpH7VWNzJa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2RpH7VWNzJa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2RpH7VWNzJa)
 
-### [en mis feelings](https://open.spotify.com/playlist/5VYvKzUB8Xd1jQ276La7Ok)
+### [en mis feelings](https://open.spotify.com/playlist/37i9dQZF1DX2RpH7VWNzJa)
 
 > No te preocupes, feel it all here.
+
+60 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/5VYvKzUB8Xd1jQ276La7Ok)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +26,11 @@
 | [Destino](https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Destino](https://open.spotify.com/album/2y2xsvO5g0sSo2ERMlsZNf) | 3:04 | 2021-11-12 | 2022-03-22 |
 | [Dime la verdad](https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0), [Drunk and Drops](https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG) | [Dime la verdad](https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC) | 3:00 | 2021-11-12 |  |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-11-12 |  |
-| [Egoísmo](https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Egoísmo](https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm) | 3:00 | 2021-11-12 | 2022-04-07 |
+| [Egoísmo](https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Egoísmo](https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm) | 3:00 | 2021-11-12 |  |
 | [El Club de los Ojos Tristes](https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R) | [Estrada](https://open.spotify.com/artist/1E7tZNnbAqVH2FL2B8JDVU), [Luis Díaz](https://open.spotify.com/artist/35PlzNU9nTOWZZzLzGYWsr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [El Club de los Ojos Tristes](https://open.spotify.com/album/05AdODG6bouWeGMGVVoqfp) | 4:22 | 2021-11-12 |  |
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2021-11-12 |  |
 | [Ella Tú y Yo](https://open.spotify.com/track/5E91XW9FMz9Bh5UCBBBfyL) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:27 | 2021-11-12 | 2022-03-23 |
-| [Estoy ida](https://open.spotify.com/track/2VqjJVJmmRIfSXaWCP1Myw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Estoy ida](https://open.spotify.com/album/2PJHmy9UwCDmPUDzvEP517) | 2:39 | 2021-11-12 |  |
+| [Estoy ida](https://open.spotify.com/track/2VqjJVJmmRIfSXaWCP1Myw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Estoy ida](https://open.spotify.com/album/2PJHmy9UwCDmPUDzvEP517) | 2:39 | 2021-11-12 | 2022-04-14 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 | 2021-11-12 |  |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2021-11-12 |  |
 | [Harmful](https://open.spotify.com/track/1DmyBKM2RhkCdfdr0wLPVd) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Harmless](https://open.spotify.com/album/7zJbSr0ek4foS3h1CKClQa) | 1:47 | 2022-01-26 | 2022-02-25 |

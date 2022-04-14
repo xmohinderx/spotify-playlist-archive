@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4QrK4j7ie9B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4QrK4j7ie9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4QrK4j7ie9B)
 
-### [Classical Yoga](https://open.spotify.com/playlist/6WzOVMHapSVAlzMq8XAa77)
+### [Classical Yoga](https://open.spotify.com/playlist/37i9dQZF1DX4QrK4j7ie9B)
 
 > The ultimate classical playlist for yoga, meditation and daily mindfulness.
+
+54 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/6WzOVMHapSVAlzMq8XAa77)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

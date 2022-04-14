@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXlWx1itq9S5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXlWx1itq9S5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXlWx1itq9S5)
 
-### [Lo mejor de La Lista Pop 2021](https://open.spotify.com/playlist/6ayZNdMR1YDS002Yqm7HJQ)
+### [Lo mejor de La Lista Pop 2021](https://open.spotify.com/playlist/37i9dQZF1DWXlWx1itq9S5)
 
 > Las canciones de pop latino más escuchadas del año.<br/>Foto: Maluma
+
+50 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/6ayZNdMR1YDS002Yqm7HJQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

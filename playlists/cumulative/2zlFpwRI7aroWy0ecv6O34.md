@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2zlFpwRI7aroWy0ecv6O34.md) - cumulative - [plain](/playlists/plain/2zlFpwRI7aroWy0ecv6O34) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2zlFpwRI7aroWy0ecv6O34)
 
-### [Evening Serenades](https://open.spotify.com/playlist/6DEUVsuaskCvDvLTwIDSDN)
+### [Evening Serenades](https://open.spotify.com/playlist/2zlFpwRI7aroWy0ecv6O34)
 
 > Wind down for the evening with your special someone and this soothing selection of serenades.
+
+181 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/6DEUVsuaskCvDvLTwIDSDN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

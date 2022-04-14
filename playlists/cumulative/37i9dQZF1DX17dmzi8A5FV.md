@@ -1,12 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1DX17dmzi8A5FV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX17dmzi8A5FV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX17dmzi8A5FV)
 
-### [90s Boy Bands](https://open.spotify.com/playlist/0AmAFDFAE9iHEl2LM4n3Vn)
+### [90s Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX17dmzi8A5FV)
 
 > Remember the biggest boy bands of the 90s? They are all here!
 
+77 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/0AmAFDFAE9iHEl2LM4n3Vn)
+
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(God Must Have Spent\) A Little More Time On You](https://open.spotify.com/track/4mljNnZ2eaXKSbEAOzLlLE) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 4:42 | 2022-03-09 | 2022-03-22 |
+| [\(God Must Have Spent\) A Little More Time On You](https://open.spotify.com/track/4mljNnZ2eaXKSbEAOzLlLE) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 4:42 | 2022-03-09 |  |
 | [All I Have to Give](https://open.spotify.com/track/3hlhefxgyp4MDnN6C2dQ5H) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:36 | 2022-03-09 |  |
 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 | 2022-03-09 |  |
 | [All or Nothing](https://open.spotify.com/track/1z35crfs2inLHpArGKuHFd) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2p3MVko3VDeGHtzJDM6ofg) | 4:41 | 2022-03-09 |  |
@@ -41,7 +43,7 @@
 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 | 2022-03-09 |  |
 | [I'll Never Break Your Heart](https://open.spotify.com/track/4lq4yY0y3XqDQZsx03ITaH) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 | 2022-03-09 |  |
 | [I've Got a Little Something for You](https://open.spotify.com/track/2hkRVX1Ea7tRespEHB5ytl) | [MN8](https://open.spotify.com/artist/2AFkXuExrw9XcAtzFARn8e) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:40 | 2021-04-29 | 2022-03-11 |
-| [If I Ever Fall In Love](https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 3:09 | 2022-03-09 |  |
+| [If I Ever Fall In Love](https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 3:09 | 2022-03-09 | 2022-04-14 |
 | [If I Let You Go \- Radio Edit](https://open.spotify.com/track/2bB2QGi8IZXfjqNG3vB2gG) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/7hiLA8LEQScMnVvqoKHCHO) | 3:41 | 2021-04-29 |  |
 | [If I Was the One](https://open.spotify.com/track/7wAgTBeRZeMpQxftFYOgRq) | [Ruff Endz](https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW) | [Love Crimes](https://open.spotify.com/album/5FA0SqkvmxtJi96oCqBjHb) | 4:26 | 2022-03-09 | 2022-03-11 |
 | [Invisible Man](https://open.spotify.com/track/5EOGZmuU56m3fFhqr4HCLe) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98º](https://open.spotify.com/album/5gPrJlFTQGFrzN4RytDK81) | 4:43 | 2022-03-09 |  |
@@ -52,7 +54,7 @@
 | [Love Me For A Reason](https://open.spotify.com/track/4gOYsc0JQJY3mjgqeMIork) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [...By Request](https://open.spotify.com/album/1cdcGR4ez7usluC9Z6UTgR) | 3:39 | 2021-04-29 |  |
 | [MMMBop \- Single Version](https://open.spotify.com/track/4PgPnzbAgjCQ2eA6YAWcUw) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Guilty Pleasures \(International Version\)](https://open.spotify.com/album/2F3jGeVC9Oua9omnR6Uoi8) | 3:58 | 2021-04-29 |  |
 | [Music of My Heart](https://open.spotify.com/track/0M3ZIWNcizkhYFvn6RuCEz) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Greatest Hits](https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD) | 4:31 | 2022-03-09 |  |
-| [My Everything](https://open.spotify.com/track/3wOzg11kxIvydHhkoPnjKP) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Revelation](https://open.spotify.com/album/1kHtdr0UzfWEJOph11IkI0) | 3:51 | 2022-03-09 | 2022-03-24 |
+| [My Everything](https://open.spotify.com/track/3wOzg11kxIvydHhkoPnjKP) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Revelation](https://open.spotify.com/album/1kHtdr0UzfWEJOph11IkI0) | 3:51 | 2022-03-09 |  |
 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 | 2022-03-09 |  |
 | [No Matter What](https://open.spotify.com/track/4iiRroCTxMy47PUOtSsvQf) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [...By Request](https://open.spotify.com/album/1cdcGR4ez7usluC9Z6UTgR) | 4:35 | 2021-04-29 |  |
 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 | 2022-03-09 |  |
@@ -63,7 +65,7 @@
 | [Shape of My Heart](https://open.spotify.com/track/2rgHU2Zgd6owbyavzhrk8U) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/4v1UrTu6OMhmnf9BipnLmM) | 3:50 | 2022-03-09 |  |
 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:54 | 2022-03-09 | 2022-03-17 |
 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/6B7qPz0gQ2FlwUvTUPTZ27) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5VHIlOEndogNL2zRjhKSBa) | 3:54 | 2021-04-29 | 2022-03-13 |
-| [Slam Dunk \(Da Funk\)](https://open.spotify.com/track/5K1hUYQsNQJcKgM6QQW8B7) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Five](https://open.spotify.com/album/3x5IW1MzKe5OS9vw7gprFX) | 3:35 | 2021-04-29 |  |
+| [Slam Dunk \(Da Funk\)](https://open.spotify.com/track/5K1hUYQsNQJcKgM6QQW8B7) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Five](https://open.spotify.com/album/3x5IW1MzKe5OS9vw7gprFX) | 3:35 | 2021-04-29 | 2022-04-14 |
 | [Stay Another Day](https://open.spotify.com/track/0QIgxEydF4mfYc9qraBzqT) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/374fbyA2Mcu33vrz0TP7Dw) | 4:27 | 2021-04-29 | 2022-03-23 |
 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 | 2021-04-29 | 2022-03-23 |
 | [Summer Girls](https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:17 | 2021-04-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Groovy jazz fusion\. Cover: Jamiroquai
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,451 likes - 90 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,683 likes - 90 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 45 | [Yes Baby Yes](https://open.spotify.com/track/7giGmJIbbNsXTFcXvFCEjw) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/1sfaA3zsjszpfodCwz0GMi) | 5:00 |
 | 46 | [Creative Musicians](https://open.spotify.com/track/6GhAPG4LMpEZKAxkRdJdjL) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T), [Sean Haefeli](https://open.spotify.com/artist/5RyaBwFlrXhvhDGZNSb8Vw) | [Creative Musicians](https://open.spotify.com/album/1ep25qw6HbbPRio0KXnlKy) | 3:38 |
 | 47 | [Peer Pressure](https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o) | [The Whole Thing](https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM) | [The Whole Thing](https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc) | 3:48 |
-| 48 | [Dream Waves](https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD) | [New Jersey Kings](https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp) | [Stratosphere Breakdown](https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K) | 4:55 |
-| 49 | [Verses from the Abstract](https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 3:58 |
-| 50 | [Life In Paradise](https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 7:00 |
+| 48 | [Life In Paradise](https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 7:00 |
+| 49 | [Dream Waves](https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD) | [New Jersey Kings](https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp) | [Stratosphere Breakdown](https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K) | 4:55 |
+| 50 | [Verses from the Abstract](https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 3:58 |
 | 51 | [On The Backside](https://open.spotify.com/track/1E6Ki6LZkGgbDMlMRS4jkM) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [Return Of The Brecker Brothers](https://open.spotify.com/album/6clMC6qVJyF7Mui9gjiABj) | 6:27 |
 | 52 | [Whirl Keeps Turning](https://open.spotify.com/track/08lDRv5Gh3fqlBZUqLSToo) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Galactica Rush](https://open.spotify.com/album/63PTl403oXlRfqpAlNJEll) | 5:20 |
 | 53 | [Theme from Riot on 103rd Street](https://open.spotify.com/track/0gcJfFxhVGyZOfVrT8ZQv2) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [Stoned Woman](https://open.spotify.com/album/1YP04zcdaBhtTEmhKzzNvz) | 2:45 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Cantaloop \(Flip Fantasia\)](https://open.spotify.com/track/06DSI8L6IT8SizCw3JLckz) | [Us3](https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD), [Rahsaan](https://open.spotify.com/artist/2cNCyL3WSlAatld5duatyD), [Gerard Presencer](https://open.spotify.com/artist/5A8UenAZRv51yZVv13nFQo) | [Hand On The Torch](https://open.spotify.com/album/4Cm1wXjw6YCbkaiZZGNiZ1) | 4:39 |
 | 90 | [Lifesaver](https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Baybe](https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br) | [Jazzmatazz Volume II: The New Reality](https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz) | 4:13 |
 
-Snapshot ID: `MTY0OTgxMTUwMiwwMDAwMDAwMGUxMzAwYWNkOTczNGQzNWU0ZjkwNmQzMTk2NDUwMjdk`
+Snapshot ID: `MTY0OTg5ODExMCwwMDAwMDAwMGU1ODA1YWE5YWIyY2Q4ZDg4ODYwN2JmMDc4YjhlMzc1`

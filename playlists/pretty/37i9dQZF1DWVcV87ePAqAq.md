@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Fest kan vara minst lika kul även om du bara är med dina allra närmsta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,223 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,224 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 13 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
 | 14 | [DANCE](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [DANCE](https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi) | 2:54 |
 | 15 | [Astronaut In The Ocean](https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Astronaut In The Ocean](https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg) | 2:13 |
-| 16 | [All For Us](https://open.spotify.com/track/1oLAQAjMnz2RC407C7Il7D) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Next to Neon](https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa) | [All For Us](https://open.spotify.com/album/5zajuU5IDjIrCPrSDuXsgc) | 2:46 |
-| 17 | [Free](https://open.spotify.com/track/6cDcmP5EqNNL4RZZXc9xzV) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Theis EZ](https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V) | [Free](https://open.spotify.com/album/1GnMfPIzHOsUhpU79DXAzW) | 2:56 |
-| 18 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
+| 16 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
+| 17 | [All For Us](https://open.spotify.com/track/1oLAQAjMnz2RC407C7Il7D) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Next to Neon](https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa) | [All For Us](https://open.spotify.com/album/5zajuU5IDjIrCPrSDuXsgc) | 2:46 |
+| 18 | [Free](https://open.spotify.com/track/6cDcmP5EqNNL4RZZXc9xzV) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Theis EZ](https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V) | [Free](https://open.spotify.com/album/1GnMfPIzHOsUhpU79DXAzW) | 2:56 |
 | 19 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 |
 | 20 | [123 \(Dolly Song\) feat\. Karma Child](https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp) | 2:21 |
 | 21 | [Made For You](https://open.spotify.com/track/1bZCA8kaaYYIMpU3Mh7R7U) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Made For You](https://open.spotify.com/album/5wT9GG94G7Q4oiwBTF4RPJ) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 99 | [Danza Kuduro \(feat\. Don Omar\)](https://open.spotify.com/track/1kAZhbcsXqfUjnVeqPywn2) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Danza Kuduro \(feat\. Don Omar\)](https://open.spotify.com/album/6lBwAGqF8Mi7vvPb4pUj7q) | 3:22 |
 | 100 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
 
-Snapshot ID: `MTY0OTgxMTQzOCwwMDAwMDAwMGIwOWNhYTgxYTlhNjBkMzBkNzc5MjJlZmI2MzdiNzY4`
+Snapshot ID: `MTY0OTg5ODA1MCwwMDAwMDAwMDRjNDU1NzVlZGFiNjIwMmI3ZGE1MmRmMmExOTY1YzAz`

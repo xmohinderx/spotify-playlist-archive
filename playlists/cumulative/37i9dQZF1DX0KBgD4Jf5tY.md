@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0KBgD4Jf5tY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0KBgD4Jf5tY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0KBgD4Jf5tY)
 
-### [Fresh Finds Italia](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Bravo, Bravissimo
+
+169 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +150,7 @@
 | [Spunta Blu](https://open.spotify.com/track/40ifRw1z1s0gPZmiPkFYgc) | [Il Conte Biagio](https://open.spotify.com/artist/375HNJaEHOTNzJiTY3yrNB) | [Spunta Blu](https://open.spotify.com/album/3YeeLx8JiL85Y9HyGxikVq) | 2:25 | 2022-02-24 | 2022-03-18 |
 | [Stanza](https://open.spotify.com/track/4QVuyHk02vOLADPMWCmqKc) | [EMME](https://open.spotify.com/artist/1O3MByunqVra9RkDSGNANK) | [Stanza](https://open.spotify.com/album/2isYssXNb6aXtIkNbZsCCb) | 3:22 | 2022-01-06 | 2022-02-18 |
 | [STARS ALIGN](https://open.spotify.com/track/3t6egFkmHnx1gv5hPOWtVB) | [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [STARS ALIGN](https://open.spotify.com/album/3vnbz1dr9Si8cabIZXtov6) | 2:33 | 2022-03-17 | 2022-03-25 |
-| [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 | 2022-04-08 |  |
+| [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 | 2022-04-08 |  |
 | [sumikko gurashi](https://open.spotify.com/track/0pBXe49nzIs7AxOZFQKLTC) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [sumikko gurashi](https://open.spotify.com/album/6G9I4Zx3jbGzkMXW8wBviE) | 1:37 | 2022-02-17 | 2022-02-23 |
 | [TACHIPIRINA](https://open.spotify.com/track/1x17TC92uRtiKvmJUA83pw) | [Jellish](https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU), [FREESO](https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI) | [TACHIPIRINA](https://open.spotify.com/album/3BVeauYVPDnelvCAUIiGGT) | 2:28 | 2022-02-17 | 2022-03-04 |
 | [Tempesta](https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe) | [Margherita Grechi](https://open.spotify.com/artist/1sP5097vTVkcIjAxK7i4aM) | [Sad Movida](https://open.spotify.com/album/43BrIRZMc1w3faA5PGrlzo) | 2:49 | 2022-02-17 | 2022-03-04 |

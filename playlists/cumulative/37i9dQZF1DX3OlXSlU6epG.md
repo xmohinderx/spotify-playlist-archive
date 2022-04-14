@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3OlXSlU6epG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3OlXSlU6epG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3OlXSlU6epG)
 
-### [The Robert Frost Reading Room](https://open.spotify.com/playlist/5izGGAwVKDaoiyGlkdZ5VC)
+### [The Robert Frost Reading Room](https://open.spotify.com/playlist/37i9dQZF1DX3OlXSlU6epG)
 
 > Welcome the voice of Robert Frost and his daughter Lesley Frost into your reading room...
+
+64 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/5izGGAwVKDaoiyGlkdZ5VC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

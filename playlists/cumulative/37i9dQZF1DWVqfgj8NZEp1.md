@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVqfgj8NZEp1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVqfgj8NZEp1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVqfgj8NZEp1)
 
-### [Coffee Table Jazz](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+### [Coffee Table Jazz](https://open.spotify.com/playlist/37i9dQZF1DWVqfgj8NZEp1)
 
 > Relax to the sound of jazz.
+
+182 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

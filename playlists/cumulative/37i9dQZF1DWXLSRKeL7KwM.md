@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXLSRKeL7KwM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXLSRKeL7KwM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLSRKeL7KwM)
 
-### [Energy Booster: Country](https://open.spotify.com/playlist/1j4xunjYrRGmcKs3OCqf0W)
+### [Energy Booster: Country](https://open.spotify.com/playlist/37i9dQZF1DWXLSRKeL7KwM)
 
 > Need to get your energy level up? This will help!
+
+154 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/1j4xunjYrRGmcKs3OCqf0W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUUPO0Sbx2CM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUUPO0Sbx2CM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUUPO0Sbx2CM)
 
-### [Christian Dance Party](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
+### [Christian Dance Party](https://open.spotify.com/playlist/37i9dQZF1DWUUPO0Sbx2CM)
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
+
+172 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

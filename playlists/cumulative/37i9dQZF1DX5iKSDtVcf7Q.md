@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5iKSDtVcf7Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5iKSDtVcf7Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5iKSDtVcf7Q)
 
-### [Heartland Country](https://open.spotify.com/playlist/1dqdBVTT7GBYojXQcIUfos)
+### [Heartland Country](https://open.spotify.com/playlist/37i9dQZF1DX5iKSDtVcf7Q)
 
 > Music paying tribute to the Heartland of America.
+
+133 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/1dqdBVTT7GBYojXQcIUfos)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

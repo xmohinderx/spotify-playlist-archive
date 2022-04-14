@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYp3yzk1civi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYp3yzk1civi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYp3yzk1civi)
 
-### [Mellow Pop](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
+### [Mellow Pop](https://open.spotify.com/playlist/37i9dQZF1DWYp3yzk1civi)
 
 > Relax to the more laid back sounds from today's greatest artists.
+
+51 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

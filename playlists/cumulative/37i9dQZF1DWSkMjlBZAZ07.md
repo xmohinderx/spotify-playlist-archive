@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSkMjlBZAZ07.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSkMjlBZAZ07) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSkMjlBZAZ07)
 
-### [Happy Folk](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
+### [Happy Folk](https://open.spotify.com/playlist/37i9dQZF1DWSkMjlBZAZ07)
 
 > Brighten your day with a folksy mix of mood boosters!
+
+121 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

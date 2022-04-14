@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdaMkR2m2cl5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdaMkR2m2cl5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdaMkR2m2cl5)
 
-### [Folk Feast](https://open.spotify.com/playlist/2Hethr1BcIJ6J3upAu0u4u)
+### [Folk Feast](https://open.spotify.com/playlist/37i9dQZF1DXdaMkR2m2cl5)
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
+
+163 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/2Hethr1BcIJ6J3upAu0u4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

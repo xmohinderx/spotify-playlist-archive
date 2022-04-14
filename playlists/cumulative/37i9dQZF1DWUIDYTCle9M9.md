@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUIDYTCle9M9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUIDYTCle9M9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUIDYTCle9M9)
 
-### [Alto Astral](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
+### [Alto Astral](https://open.spotify.com/playlist/37i9dQZF1DWUIDYTCle9M9)
 
 > Hits e clássicos para jogar sua energia lá em cima!
+
+69 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

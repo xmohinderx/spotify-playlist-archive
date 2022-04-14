@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7rOY2tZUw1k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7rOY2tZUw1k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7rOY2tZUw1k)
 
-### [Timeless Love Songs](https://open.spotify.com/playlist/4EspPnqaxFauwkabUloWpH)
+### [Timeless Love Songs](https://open.spotify.com/playlist/37i9dQZF1DX7rOY2tZUw1k)
 
 > The ultimate romantic playlist.
+
+106 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/4EspPnqaxFauwkabUloWpH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

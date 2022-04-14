@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXfgo3OOonqa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXfgo3OOonqa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXfgo3OOonqa)
 
-### [100](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
 > Håll det 100.
+
+272 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

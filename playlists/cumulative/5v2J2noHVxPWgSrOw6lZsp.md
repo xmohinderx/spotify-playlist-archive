@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5v2J2noHVxPWgSrOw6lZsp.md) - cumulative - [plain](/playlists/plain/5v2J2noHVxPWgSrOw6lZsp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5v2J2noHVxPWgSrOw6lZsp)
 
-### [Summertime Vibes](https://open.spotify.com/playlist/4gO5fWfp62QonXbobVyoxh)
+### [Summertime Vibes](https://open.spotify.com/playlist/5v2J2noHVxPWgSrOw6lZsp)
 
 > Salt in the air..\. Sand in my hair..\. Rooftop sunsets..\. Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits\. \| Image: <a href="spotify:artist:24Bq9F6DJfzTaqgmoxT5vm">Corey Harper</a>
+
+157 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/4gO5fWfp62QonXbobVyoxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

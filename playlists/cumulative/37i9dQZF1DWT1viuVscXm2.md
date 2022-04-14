@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT1viuVscXm2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT1viuVscXm2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT1viuVscXm2)
 
-### [Esto es Cumbia](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+### [Esto es Cumbia](https://open.spotify.com/playlist/37i9dQZF1DWT1viuVscXm2)
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Soledad & Natalie Perez.
+
+112 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

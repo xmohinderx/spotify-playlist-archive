@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXx6OpWBkqVv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXx6OpWBkqVv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXx6OpWBkqVv)
 
-### [Indiespensável](https://open.spotify.com/playlist/5BZNLwTZIGRCxnMJoptCxS)
+### [Indiespensável](https://open.spotify.com/playlist/37i9dQZF1DWXx6OpWBkqVv)
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
+
+65 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/5BZNLwTZIGRCxnMJoptCxS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

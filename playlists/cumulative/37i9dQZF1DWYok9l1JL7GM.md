@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYok9l1JL7GM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYok9l1JL7GM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYok9l1JL7GM)
 
-### [I Love My Down South Classics](https://open.spotify.com/playlist/0Ho1ALaJFZEb2coEXGhBPQ)
+### [I Love My Down South Classics](https://open.spotify.com/playlist/37i9dQZF1DWYok9l1JL7GM)
 
 > The south got something to say\. Cover: Hot Boys
+
+107 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0Ho1ALaJFZEb2coEXGhBPQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

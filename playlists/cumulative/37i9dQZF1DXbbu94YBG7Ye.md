@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbbu94YBG7Ye.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbbu94YBG7Ye) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbbu94YBG7Ye)
 
-### [Éxitos Argentina](https://open.spotify.com/playlist/1nImrgfieBX5MJPoAx7Qaw)
+### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
 > Si la rompe, está acá\. <br/>Foto: Quevedo, Duki & De La Ghetto.
+
+96 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/1nImrgfieBX5MJPoAx7Qaw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

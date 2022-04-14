@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1wNY9tfWQsS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1wNY9tfWQsS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1wNY9tfWQsS)
 
-### [Women of R&B](https://open.spotify.com/playlist/4Hyc8FBwGAkz0KJlOJzNHJ)
+### [Women of R&B](https://open.spotify.com/playlist/37i9dQZF1DX1wNY9tfWQsS)
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Mary J\. Blige
+
+68 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4Hyc8FBwGAkz0KJlOJzNHJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

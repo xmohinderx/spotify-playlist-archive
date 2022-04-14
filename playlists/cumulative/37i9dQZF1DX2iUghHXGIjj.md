@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2iUghHXGIjj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2iUghHXGIjj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2iUghHXGIjj)
 
-### [Acoustic Blues](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+### [Acoustic Blues](https://open.spotify.com/playlist/37i9dQZF1DX2iUghHXGIjj)
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
+
+100 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits!",
-  "num_followers": 364620,
+  "num_followers": 364645,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQyNCwwMDAwMDAwMDEzMTc4ZDNiNDUzNzk5ZTg5NTkwYTUwMDg4MjQ5YTFj",
+  "snapshot_id": "MTY0OTg5ODAzNiwwMDAwMDAwMDg5MmYyZWRiNjM2NjE5ZTMyZGVmYzFmMmI5MzYyOTVi",
   "tracks": [
     {
       "added_at": "2022-01-20 17:52:48",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Exitos De",
-        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 295320,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -131,6 +115,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Exitos De",
+        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "El Virao",
         "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
       },
@@ -143,22 +143,6 @@
       "duration_ms": 292800,
       "name": "El Venao",
       "url": "https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -211,18 +195,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Los Hijos Del Rey",
-        "url": "https://open.spotify.com/album/4vKfz0fbETcKfrZRhhczHS"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 306442,
-      "name": "La Quiero a Morir",
-      "url": "https://open.spotify.com/track/4Tzq5jGBM5BN7eAkz64BCQ"
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -247,18 +231,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Ni Es Lo Mismo Ni Es Igual",
-        "url": "https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN"
+        "name": "Los Hijos Del Rey",
+        "url": "https://open.spotify.com/album/4vKfz0fbETcKfrZRhhczHS"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Vale la Pena",
-      "url": "https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy"
+      "duration_ms": 306442,
+      "name": "La Quiero a Morir",
+      "url": "https://open.spotify.com/track/4Tzq5jGBM5BN7eAkz64BCQ"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -279,22 +263,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 235833,
-      "name": "Buscando Tus Besos",
-      "url": "https://open.spotify.com/track/0gUm5HRefV9nEevGrt9tB6"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "El Virao",
         "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
       },
@@ -311,22 +279,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -339,6 +291,54 @@
       "duration_ms": 303106,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 235833,
+      "name": "Buscando Tus Besos",
+      "url": "https://open.spotify.com/track/0gUm5HRefV9nEevGrt9tB6"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Ni Es Lo Mismo Ni Es Igual",
+        "url": "https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Vale la Pena",
+      "url": "https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -375,18 +375,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
         }
       ],
-      "duration_ms": 295280,
-      "name": "A Pedir Su Mano",
-      "url": "https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb"
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -403,22 +403,6 @@
       "duration_ms": 271226,
       "name": "Anoche Hablamos de Amor",
       "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "A Pedir Su Mano",
+      "url": "https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Ay! Mujer",
-      "url": "https://open.spotify.com/track/5i4FLwWCYzv9Bk09e9XWxs"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 258586,
       "name": "La Pastilla",
       "url": "https://open.spotify.com/track/6laC9qdbtt83hHAikUpt27"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Ay! Mujer",
+      "url": "https://open.spotify.com/track/5i4FLwWCYzv9Bk09e9XWxs"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Mudanza y Acarreo",
-        "url": "https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/2ermCIX1iu4KHddSFTcex1"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 266760,
       "name": "La Tanga",
       "url": "https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Mudanza y Acarreo",
+        "url": "https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/2ermCIX1iu4KHddSFTcex1"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Vete y Dile",
-        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Vete y Dile",
-      "url": "https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Lo Mejor De...To\u00f1o Rosario",
         "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 400266,
       "name": "Kiliki Taka Ti",
       "url": "https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Vete y Dile",
+      "url": "https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/2B9POTLPXCFrAbHBy7TGyG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "Penas Al Viento",
-      "url": "https://open.spotify.com/track/1NdtWiPVLTyoidLdPeG4vm"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Ilegales",
         "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/2B9POTLPXCFrAbHBy7TGyG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "Penas Al Viento",
+      "url": "https://open.spotify.com/track/1NdtWiPVLTyoidLdPeG4vm"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "Sandy & Papo MC",
         "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Te Voy a Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Merengue Cl\u00e1sico \u00a1\u00c9xitos Latino!",
         "url": "https://open.spotify.com/album/7rzNtSVwXca2Lk5DYJWoUJ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 259186,
       "name": "El Comejen",
       "url": "https://open.spotify.com/track/6ihrP0qxTv5AOZfGMVsdK7"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Te Voy a Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -971,38 +971,6 @@
       "duration_ms": 267533,
       "name": "Muchacho malo",
       "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "Mudanza y Acarreo",
-        "url": "https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Ella Dice",
-      "url": "https://open.spotify.com/track/0CTe09ay5oQbSDU4kWas4S"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1055,6 +1023,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Mudanza y Acarreo",
+        "url": "https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Ella Dice",
+      "url": "https://open.spotify.com/track/0CTe09ay5oQbSDU4kWas4S"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "La Tristeza \u00a1Pa' Fuera!",
         "url": "https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 191920,
       "name": "La Tristeza \u00a1Pa' Fuera!",
       "url": "https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
-        "url": "https://open.spotify.com/album/5EvVUz8eHCRe0dYw6Eewbr"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Visa Para un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ixqqeF6eKjfnNXqOdsikk"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Loma de Cayenas",
         "url": "https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl"
       },
@@ -1155,22 +1139,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Merengue Mania \u00a1\u00c9xitos Latino!",
-        "url": "https://open.spotify.com/album/6h5Heh7520a8sEM1f479Qi"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 286080,
-      "name": "Ya Viene el Lunes",
-      "url": "https://open.spotify.com/track/5KxarQE7YBYSAoEoYDcpZR"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "12 Golden Hits",
         "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
@@ -1187,6 +1155,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Merengue Mania \u00a1\u00c9xitos Latino!",
+        "url": "https://open.spotify.com/album/6h5Heh7520a8sEM1f479Qi"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "Ya Viene el Lunes",
+      "url": "https://open.spotify.com/track/5KxarQE7YBYSAoEoYDcpZR"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "No Vale la Pena Sufrir (Pop Version)",
         "url": "https://open.spotify.com/album/6oCXgAq3JmEjDyz9XksiCW"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 165216,
       "name": "No Vale la Pena Sufrir - Pop Version",
       "url": "https://open.spotify.com/track/4f8zYSaFyVA3kd9Bdbk0kK"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
+        "url": "https://open.spotify.com/album/5EvVUz8eHCRe0dYw6Eewbr"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Visa Para un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ixqqeF6eKjfnNXqOdsikk"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Cuarto de Hotel",
+      "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "Lluvia De Amor",
         "url": "https://open.spotify.com/album/1FTFQd9HVhWZWw2pWKgjKj"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 281826,
       "name": "La Bailadora",
       "url": "https://open.spotify.com/track/3Ud3lGER6MKygOhdCuaMHS"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "12 Golden Hits",
-        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Cuarto de Hotel",
-      "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1359,6 +1359,38 @@
       "duration_ms": 267626,
       "name": "Que Te Has Creido",
       "url": "https://open.spotify.com/track/4XwGVwmeO6lm73FFmH95Da"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "L\u00e1mpara Pa' Mis Pies",
+      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "15to Aniversario",
+        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "El Meneito",
+      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1399,38 +1431,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Literal",
-        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "L\u00e1mpara Pa' Mis Pies",
-      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "15to Aniversario",
-        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "El Meneito",
-      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Mas Rika Que Nunca",
         "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "Fuera de Serie",
         "url": "https://open.spotify.com/album/76M2iaTLAP0pTJZyciQSvM"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 279373,
       "name": "Bomba",
       "url": "https://open.spotify.com/track/3Yv9scZyi4XkzOpRLtHVwQ"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "La Travesia",
+      "url": "https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 205586,
-      "name": "La Travesia",
-      "url": "https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "O.K. All Right",
         "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Wilfrido '86 La Medicina",
-        "url": "https://open.spotify.com/album/1QRKrpQuSRgrKeqPxvwLTA"
+        "name": "Are\u00edto",
+        "url": "https://open.spotify.com/album/3MNOf8hEnb3H9twYiMww3T"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 291026,
-      "name": "El Loco y La Luna",
-      "url": "https://open.spotify.com/track/6ZVZgB62MliQPZaV1EOs2g"
+      "duration_ms": 250106,
+      "name": "El Costo de la Vida",
+      "url": "https://open.spotify.com/track/1CHwcGyYGffGjaaM6pAhvM"
     },
     {
       "added_at": "2022-01-20 17:52:48",

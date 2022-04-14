@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTJ7xPn4vNaz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTJ7xPn4vNaz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTJ7xPn4vNaz)
 
-### [All Out 70s](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
+### [All Out 70s](https://open.spotify.com/playlist/37i9dQZF1DWTJ7xPn4vNaz)
 
 > The biggest songs of the 1970s.
+
+470 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

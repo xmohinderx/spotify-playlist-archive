@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXea80XwOJRgD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXea80XwOJRgD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXea80XwOJRgD)
 
-### [The Midnight Hour](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
+### [The Midnight Hour](https://open.spotify.com/playlist/37i9dQZF1DXea80XwOJRgD)
 
 > Some heart and soul for those up late.
+
+53 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

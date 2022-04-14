@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6KyCRJzZneq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6KyCRJzZneq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6KyCRJzZneq)
 
-### [Best of Bebop](https://open.spotify.com/playlist/4bWPWLczBZLcY1lnRQKTuI)
+### [Best of Bebop](https://open.spotify.com/playlist/37i9dQZF1DX6KyCRJzZneq)
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
+
+45 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/4bWPWLczBZLcY1lnRQKTuI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2GKumqRIZ7g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2GKumqRIZ7g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2GKumqRIZ7g)
 
-### [Disco Fever](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
+### [Disco Fever](https://open.spotify.com/playlist/37i9dQZF1DX2GKumqRIZ7g)
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
+
+50 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

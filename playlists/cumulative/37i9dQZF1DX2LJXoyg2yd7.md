@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2LJXoyg2yd7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2LJXoyg2yd7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2LJXoyg2yd7)
 
-### [Yemen Sounds](https://open.spotify.com/playlist/2YuvVacjtkd9ujDZyKYGL3)
+### [Yemen Sounds](https://open.spotify.com/playlist/37i9dQZF1DX2LJXoyg2yd7)
 
 > The sweet sounds of Yemen.
+
+53 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/2YuvVacjtkd9ujDZyKYGL3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11,7 +13,7 @@
 | [Eineik](https://open.spotify.com/track/2fIk79ZPj7BB8GCP3m1zl5) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Eineik](https://open.spotify.com/album/2osFjuJ98QiX6TaJQKEQjs) | 6:06 | 2021-09-30 |  |
 | [Fe Gyabek](https://open.spotify.com/track/6g7ebY4CD0cheY6XyoNj9W) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fe Gyabek](https://open.spotify.com/album/7walJCcZWyvkxTIvoyNDAt) | 4:01 | 2021-09-30 |  |
 | [Fgadt Al Thakira](https://open.spotify.com/track/12gqeV9CVUq2VSRmTlzryV) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fgadt Al Thakira](https://open.spotify.com/album/3mHIufFOqkE6A6FpTltUbj) | 3:26 | 2021-12-30 |  |
-| [Gorbak Saeed](https://open.spotify.com/track/5Dp8du6nKtWbTQMqzYpL42) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Gorbak Saeed](https://open.spotify.com/album/0RRpkYDzURir0OaObR0nvl) | 6:59 | 2021-09-30 | 2022-03-22 |
+| [Gorbak Saeed](https://open.spotify.com/track/5Dp8du6nKtWbTQMqzYpL42) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Gorbak Saeed](https://open.spotify.com/album/0RRpkYDzURir0OaObR0nvl) | 6:59 | 2021-09-30 |  |
 | [Habibti](https://open.spotify.com/track/1Cc4Zi2qrKNNLca6YYTCis) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Habibti](https://open.spotify.com/album/61WR3VmiCSYL65MipDJ0rK) | 3:24 | 2021-09-30 |  |
 | [Habibti](https://open.spotify.com/track/3ZK3sfXR0qal1vdu30AMcw) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Habibti](https://open.spotify.com/album/6rWsWm2XEgvvZens32Bl2C) | 4:44 | 2021-09-30 |  |
 | [Lawek Hena](https://open.spotify.com/track/6DtsXYdfbNExoDc3p0V1oQ) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Lawek Hena](https://open.spotify.com/album/0FZoNzw5uLYUWzDUcKEoJ2) | 3:47 | 2021-12-30 | 2022-03-23 |
@@ -28,7 +30,7 @@
 | [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 | 2021-09-30 |  |
 | [الحب مرة](https://open.spotify.com/track/34mjeaxGP6p6MWDTEnX81I) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [شفقدك](https://open.spotify.com/album/6vOiseLRxaKHLE2rdsOYjT) | 5:29 | 2021-09-30 |  |
 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 | 2021-09-30 |  |
-| [الف انا الف](https://open.spotify.com/track/1z04QcrdC5719bRiTbB1RV) | [Mohamed Hammoud Al Harthy](https://open.spotify.com/artist/6z9RD3uY6YRNvnkMcecYek) | [الف انا الف](https://open.spotify.com/album/430Xh2jplLQRh4xOmFlK8a) | 9:06 | 2021-09-30 |  |
+| [الف انا الف](https://open.spotify.com/track/1z04QcrdC5719bRiTbB1RV) | [Mohamed Hammoud Al Harthy](https://open.spotify.com/artist/6z9RD3uY6YRNvnkMcecYek) | [الف انا الف](https://open.spotify.com/album/430Xh2jplLQRh4xOmFlK8a) | 9:06 | 2021-09-30 | 2022-04-14 |
 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 | 2021-09-30 |  |
 | [بلوه غيابك](https://open.spotify.com/track/5CybAyYO0JLjG9ktPu6Qyz) | [Assala Al Magdi](https://open.spotify.com/artist/2XgvQrmZg5VEjdrdBcmuDf) | [بلوه غيابك](https://open.spotify.com/album/5YReE1g3DLq3hSCEzr6FmZ) | 2:46 | 2021-12-30 | 2022-03-18 |
 | [تعالى تشوف](https://open.spotify.com/track/4ekRE8jtEHBH9palfFvtqG) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [تعالى تشوف](https://open.spotify.com/album/1Swp3onpJy5TMMKQPF4cHu) | 3:20 | 2021-09-30 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7uGAnVasG1a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7uGAnVasG1a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7uGAnVasG1a)
 
-### [Classical Lieder](https://open.spotify.com/playlist/4R45ZpHx9f940s2RZn0bMg)
+### [Classical Lieder](https://open.spotify.com/playlist/37i9dQZF1DX7uGAnVasG1a)
 
 > Beautiful and evocative lieder, performed by legendary vocalists.
+
+41 songs - 2 hr 0 min - [published](https://open.spotify.com/playlist/4R45ZpHx9f940s2RZn0bMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

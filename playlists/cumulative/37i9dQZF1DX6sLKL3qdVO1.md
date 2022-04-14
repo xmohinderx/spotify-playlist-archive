@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6sLKL3qdVO1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6sLKL3qdVO1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6sLKL3qdVO1)
 
-### [Dale Flow](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
+### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Lele Pons y Kim Loaiza
+
+134 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

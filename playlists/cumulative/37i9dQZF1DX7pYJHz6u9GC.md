@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7pYJHz6u9GC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7pYJHz6u9GC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7pYJHz6u9GC)
 
-### [Christmas Crooners](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
+### [Christmas Crooners](https://open.spotify.com/playlist/37i9dQZF1DX7pYJHz6u9GC)
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole.
+
+68 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

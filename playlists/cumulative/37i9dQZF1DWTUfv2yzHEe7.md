@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTUfv2yzHEe7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTUfv2yzHEe7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTUfv2yzHEe7)
 
-### [Filmy Party](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
+### [Filmy Party](https://open.spotify.com/playlist/37i9dQZF1DWTUfv2yzHEe7)
 
 > Bollywood beats to keep you dancing all night\. Cover: Akshay Kumar & Katrina Kaif
+
+60 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

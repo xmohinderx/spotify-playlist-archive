@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbbBJ8C1wekz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbbBJ8C1wekz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbbBJ8C1wekz)
 
-### [Trap Classe](https://open.spotify.com/playlist/2JiEqFHGgu7m6aY1C9iMqg)
+### [Trap Classe](https://open.spotify.com/playlist/37i9dQZF1DXbbBJ8C1wekz)
 
 > O trap nacional pra qualquer hora, daquele jeitão.
+
+60 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/2JiEqFHGgu7m6aY1C9iMqg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVEcPtggpQMu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVEcPtggpQMu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVEcPtggpQMu)
 
-### [Aux](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+### [Aux](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=wAQc0DAxSMulOXdmZWl4dA">Shane Eagle</a>
+
+199 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

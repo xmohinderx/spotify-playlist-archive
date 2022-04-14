@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2WIkzIBRwM9wRD9innJ8b7.md) - cumulative - [plain](/playlists/plain/2WIkzIBRwM9wRD9innJ8b7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2WIkzIBRwM9wRD9innJ8b7)
 
-### [Top Picks Party](https://open.spotify.com/playlist/1KpFM6APa3tCQ8UYse3jaq)
+### [Top Picks Party](https://open.spotify.com/playlist/2WIkzIBRwM9wRD9innJ8b7)
 
 > 
+
+20 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/1KpFM6APa3tCQ8UYse3jaq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

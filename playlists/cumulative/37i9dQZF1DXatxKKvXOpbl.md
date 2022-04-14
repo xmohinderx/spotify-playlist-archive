@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXatxKKvXOpbl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXatxKKvXOpbl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXatxKKvXOpbl)
 
-### [Home Office](https://open.spotify.com/playlist/09fWrA6IYnwxJenU0brBIZ)
+### [Home Office](https://open.spotify.com/playlist/37i9dQZF1DXatxKKvXOpbl)
 
 > Uma seleção good vibes pra você trabalhar de boa!
+
+100 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/09fWrA6IYnwxJenU0brBIZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

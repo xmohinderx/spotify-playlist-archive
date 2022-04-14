@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTLlRxFAxbpj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTLlRxFAxbpj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTLlRxFAxbpj)
 
-### [Spring Loaded](https://open.spotify.com/playlist/71CyiFhCCLykEokdnepQoU)
+### [Spring Loaded](https://open.spotify.com/playlist/37i9dQZF1DWTLlRxFAxbpj)
 
 > You're on Spring Break...turn it up and start acting like it!
+
+42 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/71CyiFhCCLykEokdnepQoU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

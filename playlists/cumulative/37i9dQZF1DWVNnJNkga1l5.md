@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVNnJNkga1l5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVNnJNkga1l5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVNnJNkga1l5)
 
-### [Cocina con Pop](https://open.spotify.com/playlist/53DejnEycKH8Va31xECsWV)
+### [Cocina con Pop](https://open.spotify.com/playlist/37i9dQZF1DWVNnJNkga1l5)
 
 > Temazos inolvidables para darle un toque dulce a tus comidas.
+
+94 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/53DejnEycKH8Va31xECsWV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

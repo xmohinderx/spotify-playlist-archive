@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3TurM2x1HaeNEztqBnomV6.md) - cumulative - [plain](/playlists/plain/3TurM2x1HaeNEztqBnomV6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3TurM2x1HaeNEztqBnomV6)
 
-### [Workday \- Singer\-songwriter](https://open.spotify.com/playlist/3zhtjDFWRvY6CI0Miu4Cpf)
+### [Workday \- Singer\-songwriter](https://open.spotify.com/playlist/3TurM2x1HaeNEztqBnomV6)
 
 > Get through your workday with 8 hours of singer\-songwriter tunes.
+
+123 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/3zhtjDFWRvY6CI0Miu4Cpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

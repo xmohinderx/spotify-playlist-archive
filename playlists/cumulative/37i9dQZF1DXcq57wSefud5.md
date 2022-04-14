@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcq57wSefud5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcq57wSefud5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcq57wSefud5)
 
-### [Sunrise Run](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
+### [Sunrise Run](https://open.spotify.com/playlist/37i9dQZF1DXcq57wSefud5)
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
+
+25 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

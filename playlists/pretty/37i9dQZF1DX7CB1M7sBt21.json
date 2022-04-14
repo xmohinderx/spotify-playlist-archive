@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 185441,
+  "num_followers": 185438,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTczNzQ0MiwwMDAwMDAwMGY0MTA4NDFhMzVmODc2YWYwYTNjZjU0YzA1YjY3Zjc2",
+  "snapshot_id": "MTY0OTg5ODQ0MiwwMDAwMDAwMDlkMWE2ODQwMWU4M2U1MGIxZWY4MDgzMmFkODRmMDM1",
   "tracks": [
     {
       "added_at": "2021-11-19 16:52:02",
@@ -239,6 +239,22 @@
     {
       "added_at": "2021-11-19 16:52:02",
       "album": {
+        "name": "HARD FEELINGS: Ventricle 2",
+        "url": "https://open.spotify.com/album/3X56wKXaQ8r6Oexj6v92Lw"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "duration_ms": 212769,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/4IcysXELq8QqdroY4qEJIi"
+    },
+    {
+      "added_at": "2021-11-19 16:52:02",
+      "album": {
         "name": "Jag m\u00e5r bra nu (feat. Newkid)",
         "url": "https://open.spotify.com/album/46NgeK47Px9EjXI1ZdsWkY"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 189441,
       "name": "Jag m\u00e5r bra nu (feat. Newkid)",
       "url": "https://open.spotify.com/track/247LJ2oARxtQuFAlbPIx79"
-    },
-    {
-      "added_at": "2021-11-19 16:52:02",
-      "album": {
-        "name": "HARD FEELINGS: Ventricle 2",
-        "url": "https://open.spotify.com/album/3X56wKXaQ8r6Oexj6v92Lw"
-      },
-      "artists": [
-        {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        }
-      ],
-      "duration_ms": 212769,
-      "name": "One Touch",
-      "url": "https://open.spotify.com/track/4IcysXELq8QqdroY4qEJIi"
     },
     {
       "added_at": "2021-11-19 16:52:02",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-11-19 16:52:02",
       "album": {
-        "name": "Kings & Queens",
-        "url": "https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
-    },
-    {
-      "added_at": "2021-11-19 16:52:02",
-      "album": {
         "name": "Forget To Miss You",
         "url": "https://open.spotify.com/album/4HycDHpwjv22BJqpxHKxlf"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2021-11-19 16:52:02",
       "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 147789,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
     },
     {
       "added_at": "2021-11-19 16:52:02",
@@ -1271,6 +1255,22 @@
       "duration_ms": 147203,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3pRRXFGlAQ5yNnLQV9pMqV"
+    },
+    {
+      "added_at": "2021-11-19 16:52:02",
+      "album": {
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2021-11-19 16:52:02",

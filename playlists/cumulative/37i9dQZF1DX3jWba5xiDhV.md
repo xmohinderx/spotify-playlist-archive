@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3jWba5xiDhV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3jWba5xiDhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3jWba5xiDhV)
 
-### [Italo Disco](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
+### [Italo Disco](https://open.spotify.com/playlist/37i9dQZF1DX3jWba5xiDhV)
 
 > When the dance floor calls your name, that's amore.
+
+119 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

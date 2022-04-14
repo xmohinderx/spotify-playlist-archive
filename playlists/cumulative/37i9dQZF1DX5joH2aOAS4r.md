@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5joH2aOAS4r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5joH2aOAS4r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5joH2aOAS4r)
 
-### [This Is Take That](https://open.spotify.com/playlist/3kq7Eh5Ej5ELklsErHYiHP)
+### [This Is Take That](https://open.spotify.com/playlist/37i9dQZF1DX5joH2aOAS4r)
 
 > Never Forget all their biggest hits.
+
+44 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/3kq7Eh5Ej5ELklsErHYiHP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

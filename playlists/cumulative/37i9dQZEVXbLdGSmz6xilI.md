@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLdGSmz6xilI.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLdGSmz6xilI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLdGSmz6xilI)
 
-### [Top 50 \- Vietnam](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+### [Top 50 \- Vietnam](https://open.spotify.com/playlist/37i9dQZEVXbLdGSmz6xilI)
 
 > Your daily update of the most played tracks right now \- Vietnam.
+
+407 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

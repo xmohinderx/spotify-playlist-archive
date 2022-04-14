@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1tyCD9QhIWF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1tyCD9QhIWF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1tyCD9QhIWF)
 
-### [Walk Like A Badass](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
+### [Walk Like A Badass](https://open.spotify.com/playlist/37i9dQZF1DX1tyCD9QhIWF)
 
 > Big riffs and pounding drums to help you strut the streets.
+
+57 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

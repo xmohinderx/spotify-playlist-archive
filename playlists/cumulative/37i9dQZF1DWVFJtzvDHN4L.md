@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVFJtzvDHN4L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVFJtzvDHN4L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVFJtzvDHN4L)
 
-### [Cinematic Chillout](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
+### [Cinematic Chillout](https://open.spotify.com/playlist/37i9dQZF1DWVFJtzvDHN4L)
 
 > Relaxing soundtracks to help you escape and unwind.
+
+58 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

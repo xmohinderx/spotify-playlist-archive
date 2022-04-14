@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSXWSaQmvWOB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSXWSaQmvWOB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSXWSaQmvWOB)
 
-### [Soul 'n' the City](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
 > Congratulations to the amazing Jon Batiste \(cover\).
+
+462 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +318,7 @@
 | [Play It Off](https://open.spotify.com/track/54cvbxeZN2GjCZJ8OQGu8i) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN) | [Play If Off](https://open.spotify.com/album/5v47sGyouyxhq4xY8GTgq7) | 3:06 | 2020-11-13 | 2021-06-11 |
 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 | 2020-07-18 | 2021-07-23 |
 | [Preaching To The Choir](https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 3:30 | 2020-07-03 | 2021-07-02 |
+| [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-04-13 |  |
 | [Put It On Me](https://open.spotify.com/track/7pucpuxzQQrzwxbAeB8ieD) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Put It On Me](https://open.spotify.com/album/5OQqHJbH06H8LaIJNlIneG) | 3:51 | 2021-06-11 |  |
 | [Q&A](https://open.spotify.com/track/2XCBwnrUCvKDIouVTqHITz) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Q&A](https://open.spotify.com/album/3dSV8ZYjtJm78TyzkzrMT1) | 3:10 | 2021-04-17 | 2022-03-11 |
 | [Rainbow in Your Cloud](https://open.spotify.com/track/4Ml22dODalPxtF4bG0VQsm) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Rainbow in Your Cloud](https://open.spotify.com/album/136bt8nTTKYQ3qklrK12aV) | 4:10 | 2020-11-06 | 2021-05-21 |

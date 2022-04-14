@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4ftQXs8PU4QMqPLMaJG7QT.md) - cumulative - [plain](/playlists/plain/4ftQXs8PU4QMqPLMaJG7QT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ftQXs8PU4QMqPLMaJG7QT)
 
-### [Getaway Rock 2013](https://open.spotify.com/playlist/5l9QtcAwzyt8hGiAHS3NRi)
+### [Getaway Rock 2013](https://open.spotify.com/playlist/4ftQXs8PU4QMqPLMaJG7QT)
 
 > 
+
+29 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/5l9QtcAwzyt8hGiAHS3NRi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

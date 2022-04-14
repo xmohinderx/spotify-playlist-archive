@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6afkUGYYDyK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6afkUGYYDyK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6afkUGYYDyK)
 
-### [Give Thanks](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
+### [Give Thanks](https://open.spotify.com/playlist/37i9dQZF1DX6afkUGYYDyK)
 
 > What are you thankful for this Thanksgiving? These are the songs that make us feel grateful....
+
+65 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

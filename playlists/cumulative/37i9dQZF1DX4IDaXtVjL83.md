@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4IDaXtVjL83.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4IDaXtVjL83) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4IDaXtVjL83)
 
-### [K\-Pop X\-Overs](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
+### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: salem ilese, TOMORROW X TOGETHER, Alan Walker
+
+64 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

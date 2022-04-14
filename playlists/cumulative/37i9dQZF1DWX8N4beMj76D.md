@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX8N4beMj76D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX8N4beMj76D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX8N4beMj76D)
 
-### [Leonard Cohen: Covered](https://open.spotify.com/playlist/7kKSsbzwq02y4ei5QnK9pz)
+### [Leonard Cohen: Covered](https://open.spotify.com/playlist/37i9dQZF1DWX8N4beMj76D)
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
+
+60 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/7kKSsbzwq02y4ei5QnK9pz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

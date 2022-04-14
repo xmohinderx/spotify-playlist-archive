@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUhWIpUC7Aq1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUhWIpUC7Aq1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUhWIpUC7Aq1)
 
-### [Twee](https://open.spotify.com/playlist/0xpOFo0Nc6AxoX2F4xAxnp)
+### [Twee](https://open.spotify.com/playlist/37i9dQZF1DWUhWIpUC7Aq1)
 
 > who's that girl...\. it's you with your large white collar, sparrow print booties, and dare we say \~curtain bangs\~
+
+116 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/0xpOFo0Nc6AxoX2F4xAxnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

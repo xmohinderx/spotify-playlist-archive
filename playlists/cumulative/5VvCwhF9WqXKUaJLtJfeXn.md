@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5VvCwhF9WqXKUaJLtJfeXn.md) - cumulative - [plain](/playlists/plain/5VvCwhF9WqXKUaJLtJfeXn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5VvCwhF9WqXKUaJLtJfeXn)
 
-### [Taylor Gang Spotify Picks](https://open.spotify.com/playlist/0ScmUTh7P5iT5dHDCke4w5)
+### [Taylor Gang Spotify Picks](https://open.spotify.com/playlist/5VvCwhF9WqXKUaJLtJfeXn)
 
 > Taylor Gang top picks chosen by Spotify.
+
+28 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/0ScmUTh7P5iT5dHDCke4w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd2wjSut3Yfb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd2wjSut3Yfb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd2wjSut3Yfb)
 
-### [PRIDE: New Orleans](https://open.spotify.com/playlist/5jUUccHT07zu0YJOpTYLyW)
+### [PRIDE: New Orleans](https://open.spotify.com/playlist/37i9dQZF1DXd2wjSut3Yfb)
 
 > Big Freedia co\-curates a list of the very best songs from LGBTQQIA+ artists and allies The Big Easy has to offer!
+
+33 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/5jUUccHT07zu0YJOpTYLyW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

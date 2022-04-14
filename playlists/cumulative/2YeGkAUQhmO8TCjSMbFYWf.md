@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2YeGkAUQhmO8TCjSMbFYWf.md) - cumulative - [plain](/playlists/plain/2YeGkAUQhmO8TCjSMbFYWf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2YeGkAUQhmO8TCjSMbFYWf)
 
-### [Energy + Positivity](https://open.spotify.com/playlist/60rp5jB6Vl0B247iCe0SoN)
+### [Energy + Positivity](https://open.spotify.com/playlist/2YeGkAUQhmO8TCjSMbFYWf)
 
 > Honor your body, fuel your mind\. Love Life\. Live Yoga.
+
+22 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/60rp5jB6Vl0B247iCe0SoN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

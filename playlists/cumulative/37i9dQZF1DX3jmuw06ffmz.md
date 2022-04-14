@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3jmuw06ffmz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3jmuw06ffmz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3jmuw06ffmz)
 
-### [Pop Latino: Los 2000](https://open.spotify.com/playlist/0Mq9tH1dmcs3qcrCzj7A5S)
+### [Pop Latino: Los 2000](https://open.spotify.com/playlist/37i9dQZF1DX3jmuw06ffmz)
 
 > Lo mejor del pop en español en la década de los 2000\. Foto: Paulina Rubio
+
+73 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/0Mq9tH1dmcs3qcrCzj7A5S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,961 likes - 219 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,078 likes - 219 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

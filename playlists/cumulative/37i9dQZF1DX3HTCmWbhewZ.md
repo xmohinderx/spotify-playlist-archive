@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3HTCmWbhewZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3HTCmWbhewZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3HTCmWbhewZ)
 
-### [Irish Studies](https://open.spotify.com/playlist/2AhaFMjgNIVtaAjp9GzrSp)
+### [Irish Studies](https://open.spotify.com/playlist/37i9dQZF1DX3HTCmWbhewZ)
 
 > The best of Irish history, poetry, and prose.
+
+121 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/2AhaFMjgNIVtaAjp9GzrSp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

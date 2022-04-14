@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians. Cover: Mark Knight",
-  "num_followers": 545083,
+  "num_followers": 545227,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQzMjk1MiwwMDAwMDExYjAwMDAwMTgwMDlkZDdlZjgwMDAwMDE3ZmY1YmJmZTAy",
+  "snapshot_id": "MTY0OTg2ODI3MiwwMDAwMDExZTAwMDAwMTgwMjNjZmYxZjQwMDAwMDE3ZmY1YmJmZTAy",
   "tracks": [
     {
       "added_at": "2022-04-01 17:01:52",
@@ -75,6 +75,22 @@
       "duration_ms": 158765,
       "name": "Don't Stop Movin'",
       "url": "https://open.spotify.com/track/5lc7Fkqt3GdHbM8F77CJ1E"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -383,6 +399,22 @@
       "duration_ms": 185661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
+    },
+    {
+      "added_at": "2022-04-13 16:31:36",
+      "album": {
+        "name": "FIND ME IN DA CLUB !!!",
+        "url": "https://open.spotify.com/album/6V1569aJfxbqjcFnMt3izF"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "FIND ME IN DA CLUB !!!",
+      "url": "https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -755,22 +787,6 @@
       "duration_ms": 176190,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4"
-    },
-    {
-      "added_at": "2022-03-25 17:23:15",
-      "album": {
-        "name": "We Don\u2019t Need",
-        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158462,
-      "name": "We Don\u2019t Need",
-      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
       "added_at": "2022-03-25 18:51:15",

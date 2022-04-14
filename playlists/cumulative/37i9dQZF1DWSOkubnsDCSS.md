@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSOkubnsDCSS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSOkubnsDCSS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSOkubnsDCSS)
 
-### [Grime Shutdown](https://open.spotify.com/playlist/2DjdDRenGYiG0erWIFLGFX)
+### [Grime Shutdown](https://open.spotify.com/playlist/37i9dQZF1DWSOkubnsDCSS)
 
 > Keeping it 140 \- Welcome to Grime Shutdown\. Cover: Big Zuu
+
+92 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/2DjdDRenGYiG0erWIFLGFX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

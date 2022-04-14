@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX11otjJ7crqp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX11otjJ7crqp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX11otjJ7crqp)
 
-### [New Pop Picks](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+### [New Pop Picks](https://open.spotify.com/playlist/37i9dQZF1DX11otjJ7crqp)
 
 > This week's essential new pop tracks\. Cover: Noah Cyrus
+
+525 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

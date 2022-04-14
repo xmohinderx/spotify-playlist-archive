@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWylYLMvjuRG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWylYLMvjuRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWylYLMvjuRG)
 
-### [Party Hits 2010s](https://open.spotify.com/playlist/577hBQgsPRJu9fnDHiVtpO)
+### [Party Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
 
 > The biggest party hits of the 2010s\. Cover: Pitbull.
+
+221 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/577hBQgsPRJu9fnDHiVtpO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

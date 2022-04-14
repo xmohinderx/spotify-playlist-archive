@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUPAFOWtSz6P.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUPAFOWtSz6P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUPAFOWtSz6P)
 
-### [Yoga Acoustics](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
+### [Yoga Acoustics](https://open.spotify.com/playlist/37i9dQZF1DWUPAFOWtSz6P)
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
+
+50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

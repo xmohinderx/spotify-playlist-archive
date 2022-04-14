@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2E5psOxzjXz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2E5psOxzjXz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2E5psOxzjXz)
 
-### [Pakistani Indie 101](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
 > Explore Pakistan's thriving independent scene\. Cover: Wooly and the Uke
+
+109 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

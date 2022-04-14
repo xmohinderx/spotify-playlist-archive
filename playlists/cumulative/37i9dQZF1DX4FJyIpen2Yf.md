@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4FJyIpen2Yf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4FJyIpen2Yf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4FJyIpen2Yf)
 
-### [Hip\-Hop Yoga](https://open.spotify.com/playlist/0w38tJ0DK6jJgEZIRyEAWI)
+### [Hip\-Hop Yoga](https://open.spotify.com/playlist/37i9dQZF1DX4FJyIpen2Yf)
 
 > Listen to these flows during your yoga flow.
+
+94 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/0w38tJ0DK6jJgEZIRyEAWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

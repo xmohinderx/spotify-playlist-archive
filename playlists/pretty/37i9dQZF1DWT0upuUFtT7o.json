@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Luke Royalty Artwork: Robin Clifford Ellis ",
-  "num_followers": 140985,
+  "num_followers": 141203,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgwMjE3MSwwMDAwMDBkODAwMDAwMTgwMWZkZjUyOGEwMDAwMDE3ZmI2ZWQyMDRh",
+  "snapshot_id": "MTY0OTg1NDA0MiwwMDAwMDBkOTAwMDAwMTgwMjJmNmQxY2EwMDAwMDE3ZmI2ZWQyMDRh",
   "tracks": [
     {
       "added_at": "2022-04-12 22:22:51",
@@ -139,6 +139,22 @@
       "duration_ms": 240000,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/7b3MrbdkWwYnDTcQaQJ9g5"
+    },
+    {
+      "added_at": "2022-04-13 12:47:22",
+      "album": {
+        "name": "Dusty Issues",
+        "url": "https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Petra",
+          "url": "https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3"
+        }
+      ],
+      "duration_ms": 124028,
+      "name": "Dusty Issues",
+      "url": "https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk"
     },
     {
       "added_at": "2022-04-06 15:27:36",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWyiRTvabqLE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWyiRTvabqLE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWyiRTvabqLE)
 
-### [RADAR Centro & Caribe](https://open.spotify.com/playlist/5PgzLfMAxTbmtecaXhzrPb)
+### [RADAR Centro & Caribe](https://open.spotify.com/playlist/37i9dQZF1DWWyiRTvabqLE)
 
 > Descubre los nuevos talentos de Centroamérica y el Caribe.
+
+36 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/5PgzLfMAxTbmtecaXhzrPb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

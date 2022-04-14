@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0Tn4EK4iKI58XnvWHuMMm0.md) - cumulative - [plain](/playlists/plain/0Tn4EK4iKI58XnvWHuMMm0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Tn4EK4iKI58XnvWHuMMm0)
 
-### [Classical Café](https://open.spotify.com/playlist/5kaaKDD3TfLSgkaHfy1tT1)
+### [Classical Café](https://open.spotify.com/playlist/0Tn4EK4iKI58XnvWHuMMm0)
 
 > Power through your to do list with an affogato and a refreshing mix of chilled classical.
+
+59 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/5kaaKDD3TfLSgkaHfy1tT1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

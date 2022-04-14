@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU86q8CK6tXo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU86q8CK6tXo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU86q8CK6tXo)
 
-### [EQUAL US](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+### [EQUAL US](https://open.spotify.com/playlist/37i9dQZF1DWU86q8CK6tXo)
 
 > Female\-identifying bangers ONLY, plus some of <a href="spotify:artist:7o2ZQYM7nTsaVdkXY38UAA">Em Beihold's</a> inspirations\. Cover: Em Beihold
+
+243 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

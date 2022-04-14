@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8ymr6UES7vc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ymr6UES7vc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ymr6UES7vc)
 
-### [Rain Sounds](https://open.spotify.com/playlist/5HVaKyRZwEab1QoIqR5dSf)
+### [Rain Sounds](https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc)
 
 > Steady rain without any thunder.
+
+194 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5HVaKyRZwEab1QoIqR5dSf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

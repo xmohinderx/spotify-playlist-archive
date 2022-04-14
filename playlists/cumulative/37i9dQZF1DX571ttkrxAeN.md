@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX571ttkrxAeN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX571ttkrxAeN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX571ttkrxAeN)
 
-### [Acoustic Cafe International](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
+### [Acoustic Cafe International](https://open.spotify.com/playlist/37i9dQZF1DX571ttkrxAeN)
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
+
+78 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

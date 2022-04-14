@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1dvMSwf27JO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1dvMSwf27JO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1dvMSwf27JO)
 
-### ['fit check](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+### ['fit check](https://open.spotify.com/playlist/37i9dQZF1DX1dvMSwf27JO)
 
 > and why aren't you in uniform?
+
+110 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

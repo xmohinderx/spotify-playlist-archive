@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVTfbQdQ8l7H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVTfbQdQ8l7H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVTfbQdQ8l7H)
 
-### [10s Love Songs](https://open.spotify.com/playlist/28eIkyLubiZ9AEEzK1z67M)
+### [10s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWVTfbQdQ8l7H)
 
 > Unforgettable love songs from the 2010s.
+
+60 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/28eIkyLubiZ9AEEzK1z67M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

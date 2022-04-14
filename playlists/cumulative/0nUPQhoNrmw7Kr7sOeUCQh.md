@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0nUPQhoNrmw7Kr7sOeUCQh.md) - cumulative - [plain](/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh)
 
-### [Summer Days](https://open.spotify.com/playlist/23e1w0MnmDr7XxaMta4KDX)
+### [Summer Days](https://open.spotify.com/playlist/0nUPQhoNrmw7Kr7sOeUCQh)
 
 > Enjoy the glorious summer days with these happy mood tracks full of sunshine.
+
+42 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/23e1w0MnmDr7XxaMta4KDX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXmxXDRgAKVq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXmxXDRgAKVq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXmxXDRgAKVq)
 
-### [This Is A$AP Mob](https://open.spotify.com/playlist/0c7Y7egNGDVU2Jrz0lG5Ob)
+### [This Is A$AP Mob](https://open.spotify.com/playlist/37i9dQZF1DWXmxXDRgAKVq)
 
 > Curated by A$AP Mob in honor of A$AP Yams.
+
+45 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/0c7Y7egNGDVU2Jrz0lG5Ob)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

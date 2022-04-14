@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9zR5aXbFFRA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9zR5aXbFFRA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9zR5aXbFFRA)
 
-### [Throwback R&B](https://open.spotify.com/playlist/3rBuZYWaX6qFbOKxqJstd2)
+### [Throwback R&B](https://open.spotify.com/playlist/37i9dQZF1DX9zR5aXbFFRA)
 
 > Kick it old school with this playlist of throwback R&amp;B.
+
+26 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/3rBuZYWaX6qFbOKxqJstd2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

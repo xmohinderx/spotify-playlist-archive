@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5xCgFwl423z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5xCgFwl423z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5xCgFwl423z)
 
-### [Rufus Wainwright: Pride](https://open.spotify.com/playlist/2tvTurw8Rft6Fsg4k2KmWF)
+### [Rufus Wainwright: Pride](https://open.spotify.com/playlist/37i9dQZF1DX5xCgFwl423z)
 
 > Sylvester, Klaus Nomi, Judy Garland, and a slew of his own songs—peek into the singer\-songwriter’s timeless world, in celebration of Pride.
+
+30 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/2tvTurw8Rft6Fsg4k2KmWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

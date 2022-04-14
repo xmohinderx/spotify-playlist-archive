@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYtLQ6jk5kQG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYtLQ6jk5kQG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYtLQ6jk5kQG)
 
-### [Voces Añejas de Iberoamérica](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
+### [Voces Añejas de Iberoamérica](https://open.spotify.com/playlist/37i9dQZF1DWYtLQ6jk5kQG)
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
+
+74 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

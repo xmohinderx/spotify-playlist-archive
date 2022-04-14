@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1L0MDB1OhZy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1L0MDB1OhZy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1L0MDB1OhZy)
 
-### [Audiobooks](https://open.spotify.com/playlist/4De2ah7nIXMZAWpkjxVcJs)
+### [Audiobooks](https://open.spotify.com/playlist/37i9dQZF1DX1L0MDB1OhZy)
 
 > Love Books? Free your reading from the tyranny of page and screen with this collection of audiobooks\. Follow for frequent additions!
+
+122 songs - 2 day 20 hr 39 min - [published](https://open.spotify.com/playlist/4De2ah7nIXMZAWpkjxVcJs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

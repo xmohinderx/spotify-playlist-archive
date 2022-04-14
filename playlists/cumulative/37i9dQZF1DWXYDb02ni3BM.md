@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXYDb02ni3BM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXYDb02ni3BM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXYDb02ni3BM)
 
-### [Mujeres del Pop Latino](https://open.spotify.com/playlist/6OVps4t01j2MG90WMdax7o)
+### [Mujeres del Pop Latino](https://open.spotify.com/playlist/37i9dQZF1DWXYDb02ni3BM)
 
 > Las divas del pop latino de ayer y hoy\. Foto: Alejandra Guzmán
+
+84 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/6OVps4t01j2MG90WMdax7o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

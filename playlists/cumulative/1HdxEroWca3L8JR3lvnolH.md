@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1HdxEroWca3L8JR3lvnolH.md) - cumulative - [plain](/playlists/plain/1HdxEroWca3L8JR3lvnolH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1HdxEroWca3L8JR3lvnolH)
 
-### [Artists Den + Spotify](https://open.spotify.com/playlist/78QhwJXyaTHY0jdThz2lFp)
+### [Artists Den + Spotify](https://open.spotify.com/playlist/1HdxEroWca3L8JR3lvnolH)
 
 > Visit <a href="http://artistsden.com/zacbrownband">ArtistsDen.com</a> to win tickets to see Zac Brown Band this summer and head to <a href="https://open.spotify.com/show/5d0QhqhbJVt4YRORde0yR8">Spotify Mobile</a> to watch clips of their incredible Artists Den show.
+
+16 songs - 1 hr 1 min - [published](https://open.spotify.com/playlist/78QhwJXyaTHY0jdThz2lFp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

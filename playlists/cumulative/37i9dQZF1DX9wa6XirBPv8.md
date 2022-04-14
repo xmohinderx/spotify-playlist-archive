@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9wa6XirBPv8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9wa6XirBPv8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9wa6XirBPv8)
 
-### [Emo Forever](https://open.spotify.com/playlist/3u6curULml7JidmJsufdg2)
+### [Emo Forever](https://open.spotify.com/playlist/37i9dQZF1DX9wa6XirBPv8)
 
 > Those emo feels never go away\. Cover: Fall Out Boy
+
+82 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/3u6curULml7JidmJsufdg2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

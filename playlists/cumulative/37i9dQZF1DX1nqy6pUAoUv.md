@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1nqy6pUAoUv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1nqy6pUAoUv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1nqy6pUAoUv)
 
-### [Contemporary Folk](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
+### [Contemporary Folk](https://open.spotify.com/playlist/37i9dQZF1DX1nqy6pUAoUv)
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
+
+177 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3axv4DMbWHWf7uxOPB1I7K.md) - cumulative - [plain](/playlists/plain/3axv4DMbWHWf7uxOPB1I7K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3axv4DMbWHWf7uxOPB1I7K)
 
-### [1976](https://open.spotify.com/playlist/5aiZZXVRJwIq3dkN1PC8RG)
+### [1976](https://open.spotify.com/playlist/3axv4DMbWHWf7uxOPB1I7K)
 
 > 
+
+50 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/5aiZZXVRJwIq3dkN1PC8RG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

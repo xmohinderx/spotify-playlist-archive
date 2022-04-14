@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbzDJ9T2RGq5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbzDJ9T2RGq5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbzDJ9T2RGq5)
 
-### [PRIDE: London](https://open.spotify.com/playlist/6fyaMPyOt5X5KfsiFiWXiE)
+### [PRIDE: London](https://open.spotify.com/playlist/37i9dQZF1DXbzDJ9T2RGq5)
 
 > Claim your space this Pride in London\. Cover: SOPHIE
+
+30 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/6fyaMPyOt5X5KfsiFiWXiE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

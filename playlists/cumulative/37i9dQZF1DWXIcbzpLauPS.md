@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXIcbzpLauPS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXIcbzpLauPS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXIcbzpLauPS)
 
-### [New Core](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+### [New Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
 > This is the new core at its finest\. Cover: Ice Nine Kills
+
+204 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

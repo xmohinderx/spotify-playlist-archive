@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9QOccjUUyGN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9QOccjUUyGN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9QOccjUUyGN)
 
-### [tamo flex](https://open.spotify.com/playlist/6q6haEaTDDjjQ2HQhKMkJt)
+### [tamo flex](https://open.spotify.com/playlist/37i9dQZF1DX9QOccjUUyGN)
 
 > tranquilo e calmo, no flow\. Foto: Thiago Kelbert
+
+81 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6q6haEaTDDjjQ2HQhKMkJt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

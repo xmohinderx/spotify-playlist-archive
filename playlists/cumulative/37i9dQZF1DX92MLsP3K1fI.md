@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX92MLsP3K1fI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX92MLsP3K1fI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX92MLsP3K1fI)
 
-### [Oye Pop](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
+### [Oye Pop](https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI)
 
 > ¡Sube el volumen y disfruta del pop más chicloso! En portada: Alan Navarro
+
+115 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

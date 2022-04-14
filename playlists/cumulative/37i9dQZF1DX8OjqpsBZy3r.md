@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8OjqpsBZy3r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8OjqpsBZy3r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8OjqpsBZy3r)
 
-### [Viral Country](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+### [Viral Country](https://open.spotify.com/playlist/37i9dQZF1DX8OjqpsBZy3r)
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
+
+91 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

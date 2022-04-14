@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5J7FIl4q56G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5J7FIl4q56G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5J7FIl4q56G)
 
-### [All New Metal](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+### [All New Metal](https://open.spotify.com/playlist/37i9dQZF1DX5J7FIl4q56G)
 
 > The latest and greatest metal tracks\. Cover: VV
+
+578 songs - 1 day 15 hr 4 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

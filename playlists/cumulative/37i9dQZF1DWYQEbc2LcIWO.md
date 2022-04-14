@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYQEbc2LcIWO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYQEbc2LcIWO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYQEbc2LcIWO)
 
-### [Dinner Unplugged](https://open.spotify.com/playlist/5ROz24xAQMKdkQs801KApZ)
+### [Dinner Unplugged](https://open.spotify.com/playlist/37i9dQZF1DWYQEbc2LcIWO)
 
 > Enjoy your dinner with some great acoustic tracks.
+
+25 songs - 1 hr 46 min - [published](https://open.spotify.com/playlist/5ROz24xAQMKdkQs801KApZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

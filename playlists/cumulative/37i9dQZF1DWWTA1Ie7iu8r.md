@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWTA1Ie7iu8r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWTA1Ie7iu8r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWTA1Ie7iu8r)
 
-### [Creepy, Stupid, Love](https://open.spotify.com/playlist/1CeHWW3TBs23WTaZQc2mAZ)
+### [Creepy, Stupid, Love](https://open.spotify.com/playlist/37i9dQZF1DWWTA1Ie7iu8r)
 
 > Get your creep on with these freaky 'love' songs.
+
+56 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/1CeHWW3TBs23WTaZQc2mAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

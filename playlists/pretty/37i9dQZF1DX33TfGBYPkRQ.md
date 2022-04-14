@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,579 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,614 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 56 | [Worst Enemy](https://open.spotify.com/track/7CPdfsjklD8kToH2PMVJww) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Worst Enemy](https://open.spotify.com/album/11P429MEIOCg43pP5UEcBt) | 2:46 |
 | 57 | [Keep On Breaking My Heart](https://open.spotify.com/track/4IdV6Dun39jOadZ6kRheQ5) | [Seramic](https://open.spotify.com/artist/0pu9LAsUMg8nhMK1hmiM5b) | [Keep On Breaking My Heart](https://open.spotify.com/album/3LbocNpMnmWcRcsyQJqpZw) | 3:30 |
 | 58 | [No Need To Argue](https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [No Need To Argue](https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX) | 3:13 |
-| 59 | [Blindsided](https://open.spotify.com/track/4cTD99OSLy19Uh2exKRQNa) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 5:29 |
-| 60 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
-| 61 | [In My Veins \- Feat\. Erin Mccarley](https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [In My Veins \(Feat\. Erin Mccarley\)](https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ) | 5:18 |
+| 59 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
+| 60 | [In My Veins \- Feat\. Erin Mccarley](https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [In My Veins \(Feat\. Erin Mccarley\)](https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ) | 5:18 |
+| 61 | [Blindsided](https://open.spotify.com/track/4cTD99OSLy19Uh2exKRQNa) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 5:29 |
 | 62 | [Seaweed](https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 3:01 |
 | 63 | [placeholder](https://open.spotify.com/track/6ABQcgTtAPCUyMkVwdRNJo) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/7y3l8rXPVyAspEngY1Beev) | 3:50 |
 | 64 | [True Love Waits](https://open.spotify.com/track/01ZpFhrMMqKPVCwyqXneVp) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/6vuykQgDLUCiZ7YggIpLM9) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 99 | [Riding For The Feeling](https://open.spotify.com/track/2JiVVU7qv1YeD1yabpIyoX) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/4RBHgVw8kR6IpXVnZhZrh0) | 6:05 |
 | 100 | [When](https://open.spotify.com/track/6V7CVkMHJGi3FaStcMbwtJ) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil \(Bonus Track Version\)](https://open.spotify.com/album/7qZBXmpXR2Cv4tYDx6SgiD) | 4:05 |
 
-Snapshot ID: `MTY0OTgxMTcwMywwMDAwMDAwMDZjYTgxMWRkYTlmNjAzZmUyMzJmZmY4NGUxZDI3Yjhj`
+Snapshot ID: `MTY0OTg5ODMwMCwwMDAwMDAwMDJiMmJlZDlkNDliOGU4ZDk4NDYwNzkxYzZmNWQzMTc0`

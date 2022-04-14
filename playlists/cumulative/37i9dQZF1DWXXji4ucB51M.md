@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXXji4ucB51M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXXji4ucB51M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXXji4ucB51M)
 
-### [MTV VMAs](https://open.spotify.com/playlist/6VwE3Legh0DA93EQ0bQLCX)
+### [MTV VMAs](https://open.spotify.com/playlist/37i9dQZF1DWXXji4ucB51M)
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
+
+77 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/6VwE3Legh0DA93EQ0bQLCX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV7EzJMK2FUI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV7EzJMK2FUI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV7EzJMK2FUI)
 
-### [Jazz in the Background](https://open.spotify.com/playlist/3hbeRaU9aWtabNnfOymGvN)
+### [Jazz in the Background](https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI)
 
 > Soft jazz for all your activities.
+
+234 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/3hbeRaU9aWtabNnfOymGvN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

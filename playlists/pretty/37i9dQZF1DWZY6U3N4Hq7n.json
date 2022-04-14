@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 291595,
+  "num_followers": 291697,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTU3NCwwMDAwMDAwMDAwOGNmMWU2NzUyMDE5Nzk4OTdlNDlhMjdjNGZjOWM0",
+  "snapshot_id": "MTY0OTg5ODE3OCwwMDAwMDAwMDYyZTY3ZWZkNThkMGE5NGY2NTJlYWE2MzIyYWFhZDA3",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Once Upon A Time (Deluxe)",
-        "url": "https://open.spotify.com/album/2H2eNZClayR5jbgBa2iZx1"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/4aWn4NHlELpOehxsBaQeoe"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Once Upon A Time (Deluxe)",
+        "url": "https://open.spotify.com/album/2H2eNZClayR5jbgBa2iZx1"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/4aWn4NHlELpOehxsBaQeoe"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/6VdD9Tw3GtwNMDT6hlHSWS"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 377266,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/41MU7uoimNrKUfPKVFCCqZ"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "The Best of Branigan",
         "url": "https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 234653,
       "name": "Got My Mind Set On You - Remastered 2004",
       "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/6VdD9Tw3GtwNMDT6hlHSWS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 377266,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/41MU7uoimNrKUfPKVFCCqZ"
     },
     {
       "added_at": "2021-12-22 16:16:43",

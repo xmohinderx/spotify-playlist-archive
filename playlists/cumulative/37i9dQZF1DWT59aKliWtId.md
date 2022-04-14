@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT59aKliWtId.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT59aKliWtId) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT59aKliWtId)
 
-### [Grade A](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+### [Grade A](https://open.spotify.com/playlist/37i9dQZF1DWT59aKliWtId)
 
 > A quality alternative blend\. Cover: Lucius
+
+251 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

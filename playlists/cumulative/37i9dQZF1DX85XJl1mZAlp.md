@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX85XJl1mZAlp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX85XJl1mZAlp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX85XJl1mZAlp)
 
-### [Jazz X\-Press](https://open.spotify.com/playlist/2myKIx6nL00hIJ3LYvxpsO)
+### [Jazz X\-Press](https://open.spotify.com/playlist/37i9dQZF1DX85XJl1mZAlp)
 
 > The best new releases from swinging bop to free jazz\. Cover: Ethan Iverson
+
+171 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/2myKIx6nL00hIJ3LYvxpsO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

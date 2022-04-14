@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVxpHBekDUXK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVxpHBekDUXK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVxpHBekDUXK)
 
-### [Coping With Loss](https://open.spotify.com/playlist/13QYcLMFMp1jHvwM1Y6Iom)
+### [Coping With Loss](https://open.spotify.com/playlist/37i9dQZF1DWVxpHBekDUXK)
 
 > We're here to provide some sonic solace for your grief.
+
+109 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/13QYcLMFMp1jHvwM1Y6Iom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

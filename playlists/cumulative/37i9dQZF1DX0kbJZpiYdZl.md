@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0kbJZpiYdZl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0kbJZpiYdZl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0kbJZpiYdZl)
 
-### [Hot Hits USA](https://open.spotify.com/playlist/2brDS0QQWX5e1U2TwG3JDB)
+### [Hot Hits USA](https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl)
 
 > The hottest tracks in the United States\. Cover: Harry Styles
+
+80 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/2brDS0QQWX5e1U2TwG3JDB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

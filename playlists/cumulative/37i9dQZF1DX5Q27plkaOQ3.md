@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5Q27plkaOQ3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Q27plkaOQ3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Q27plkaOQ3)
 
-### [Dubstep Don](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+### [Dubstep Don](https://open.spotify.com/playlist/37i9dQZF1DX5Q27plkaOQ3)
 
 > All <a href="spotify:genre:bass">wobble</a>
+
+149 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

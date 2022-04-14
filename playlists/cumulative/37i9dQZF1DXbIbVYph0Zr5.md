@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbIbVYph0Zr5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbIbVYph0Zr5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbIbVYph0Zr5)
 
-### [Country Cookout](https://open.spotify.com/playlist/0jQ54mEPRoiJAcBR4wlz5Q)
+### [Country Cookout](https://open.spotify.com/playlist/37i9dQZF1DXbIbVYph0Zr5)
 
 > The perfect soundtrack recipe for a backyard barbecue!
+
+146 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/0jQ54mEPRoiJAcBR4wlz5Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

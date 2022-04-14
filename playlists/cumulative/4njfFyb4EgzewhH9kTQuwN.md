@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4njfFyb4EgzewhH9kTQuwN.md) - cumulative - [plain](/playlists/plain/4njfFyb4EgzewhH9kTQuwN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4njfFyb4EgzewhH9kTQuwN)
 
-### [Happy Birthday Mollie!](https://open.spotify.com/playlist/0HTAMrEBaTe5e0DjmLziDY)
+### [Happy Birthday Mollie!](https://open.spotify.com/playlist/4njfFyb4EgzewhH9kTQuwN)
 
 > 
+
+17 songs - 59 min 53 sec - [published](https://open.spotify.com/playlist/0HTAMrEBaTe5e0DjmLziDY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

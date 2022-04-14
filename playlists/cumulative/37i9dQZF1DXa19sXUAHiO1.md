@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa19sXUAHiO1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa19sXUAHiO1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa19sXUAHiO1)
 
-### [Good Times, Great Oldies](https://open.spotify.com/playlist/5XG7GgSJQ8AMdczVkZFoy7)
+### [Good Times, Great Oldies](https://open.spotify.com/playlist/37i9dQZF1DXa19sXUAHiO1)
 
 > A classic mix of pop, rock and folk hits from decades past.
+
+58 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/5XG7GgSJQ8AMdczVkZFoy7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

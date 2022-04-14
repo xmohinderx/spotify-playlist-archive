@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb3ZjVksUlfu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb3ZjVksUlfu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb3ZjVksUlfu)
 
-### [Alternative 70s](https://open.spotify.com/playlist/3zvAdE4a3Njp8LHOT6ZD6s)
+### [Alternative 70s](https://open.spotify.com/playlist/37i9dQZF1DXb3ZjVksUlfu)
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
+
+80 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3zvAdE4a3Njp8LHOT6ZD6s)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

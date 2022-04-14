@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXba2RjGaSpS4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXba2RjGaSpS4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXba2RjGaSpS4)
 
-### [Buenos Días, Señor Sol](https://open.spotify.com/playlist/2LTCHqxWDmLKlpGpK2kxc6)
+### [Buenos Días, Señor Sol](https://open.spotify.com/playlist/37i9dQZF1DXba2RjGaSpS4)
 
 > ¡Empieza un nuevo día con una sonrisa!
+
+75 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/2LTCHqxWDmLKlpGpK2kxc6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

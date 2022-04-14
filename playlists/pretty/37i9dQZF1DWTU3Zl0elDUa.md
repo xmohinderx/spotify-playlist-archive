@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,512 likes - 60 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,697 likes - 60 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 11 | [Make the World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/1EgSVewb2SmueY6ZYD4vzB) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make the World Go Round](https://open.spotify.com/album/1eBnONVrlATUXKSV7v9Wm3) | 3:50 |
 | 12 | [Chime](https://open.spotify.com/track/4AwEctg3w5Fi76sv2clLgY) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Return of the 90s](https://open.spotify.com/album/4lsQp3EEpwSUYNr6NHlKR5) | 3:14 |
 | 13 | [Normal \- Is It Normal? Club Mix](https://open.spotify.com/track/0LOPxpE2U5GppZRPrKmJIa) | [Baby Ford](https://open.spotify.com/artist/4spzxMXpcVHY4QoIA6wJNN) | [A Bugged Out Mix](https://open.spotify.com/album/4VV9171aLqTDnFd4BpSeZY) | 5:02 |
-| 14 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
-| 15 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 |
+| 14 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 |
+| 15 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
 | 16 | [King Of My Castle \- Roy Malone's King Mix edit](https://open.spotify.com/track/0Bfud3lnpHBDa5YHIpgiPw) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm) | [Men's Health Workout Playlist \# 7 : Fat Burner 2 Club Classics Mixed By Seamus Haji](https://open.spotify.com/album/43RSz84LT0AfIBnC2GY12z) | 3:26 |
 | 17 | [David Morales \- Needin U \- Radio Edit](https://open.spotify.com/track/4lgDZcisljVlutaku19eqV) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD) | [Needin' U \(Radio Edit\)](https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW) | 3:49 |
 | 18 | [My Feeling \(Daddy'S Prime Time Edit\)](https://open.spotify.com/track/3nUOnATHktg7VW5TtWeJnd) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [My Feeling](https://open.spotify.com/album/7p9RQMPqPj5LssdXAQ1v18) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Ebeneezar Goode \- Beatmasters Mix](https://open.spotify.com/track/4KpJWjfmodlhM6XQeoZXBd) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3), [Beatmasters](https://open.spotify.com/artist/3kSxMljyCkYdHrOzmLzQTV) | [Boss Drum](https://open.spotify.com/album/2qqBB0ifiEG4sKnRsJf1Y3) | 6:15 |
 | 60 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
 
-Snapshot ID: `MTY0OTgxMTM3MSwwMDAwMDAwMGE2MThmYWE3ZTA3ODMxYjRkNThjZDZmNGM5Y2E5NjUz`
+Snapshot ID: `MTY0OTg5Nzk4NiwwMDAwMDAwMGRiNTc2NGU1NjIwMTZiZGJiMjkzNmQyYzdjMGFlMzUx`

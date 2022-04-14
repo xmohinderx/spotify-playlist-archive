@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1lVhptIYRda.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1lVhptIYRda) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1lVhptIYRda)
 
-### [Hot Country](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
+### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
 > Today's top country hits of the week, worldwide! Cover: Cole Swindell
+
+506 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3vnx7BaCl3YmHrg3WGLedp.md) - cumulative - [plain](/playlists/plain/3vnx7BaCl3YmHrg3WGLedp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3vnx7BaCl3YmHrg3WGLedp)
 
-### [Take it Easy](https://open.spotify.com/playlist/2xIlrRogGXiV845brWvjQG)
+### [Take it Easy](https://open.spotify.com/playlist/3vnx7BaCl3YmHrg3WGLedp)
 
 > Harmonicas &amp; slide guitars for the win\. Chill out with some laid back roots &amp; Americana.
+
+95 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/2xIlrRogGXiV845brWvjQG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

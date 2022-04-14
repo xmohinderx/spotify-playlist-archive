@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5Lf3LZ6Czqu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Lf3LZ6Czqu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Lf3LZ6Czqu)
 
-### [String Theory](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+### [String Theory](https://open.spotify.com/playlist/37i9dQZF1DX5Lf3LZ6Czqu)
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
+
+68 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

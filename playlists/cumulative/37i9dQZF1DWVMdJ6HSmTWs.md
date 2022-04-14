@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVMdJ6HSmTWs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVMdJ6HSmTWs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVMdJ6HSmTWs)
 
-### [Mythologies](https://open.spotify.com/playlist/3edLYVADZHTcmSkhclgI5v)
+### [Mythologies](https://open.spotify.com/playlist/37i9dQZF1DWVMdJ6HSmTWs)
 
 > A collection of myths, fairy tales, and fables from across the globe.
+
+88 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/3edLYVADZHTcmSkhclgI5v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

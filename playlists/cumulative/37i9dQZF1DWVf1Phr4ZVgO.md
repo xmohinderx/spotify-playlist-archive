@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVf1Phr4ZVgO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVf1Phr4ZVgO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVf1Phr4ZVgO)
 
-### [An Elegant Affair](https://open.spotify.com/playlist/2uTuZOwVyeoyYoooE1PJCr)
+### [An Elegant Affair](https://open.spotify.com/playlist/37i9dQZF1DWVf1Phr4ZVgO)
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
+
+106 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/2uTuZOwVyeoyYoooE1PJCr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +36,7 @@
 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 | 2021-03-22 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4xP9rjS2iT1ANZPDKPTAgR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [ELLA & LOUIS The Very Best Of Ella Fitzgerald & Louis Armstrong](https://open.spotify.com/album/559csVOtWTChxD7KxCVx4Z) | 3:07 | 2021-03-22 |  |
 | [Dream A Little Dream Of Me \- 1998 Remaster](https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 3:15 | 2021-03-22 |  |
-| [Fever](https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:54 | 2021-03-22 |  |
+| [Fever](https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:54 | 2021-03-22 | 2022-04-14 |
 | [Fever](https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Capitol Years](https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F) | 3:21 | 2021-03-22 |  |
 | [First Time Ever I Saw Your Face](https://open.spotify.com/track/4euDvcRWAdzjoBjEDA2lV7) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd) | 3:22 | 2021-03-22 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:27 | 2021-03-22 |  |
@@ -108,7 +110,7 @@
 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 | 2021-03-22 |  |
 | [Wonderful World](https://open.spotify.com/track/7Ek2kv9If3IjdMCRyeVm8g) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Portrait of a Legend \(Remastered\)](https://open.spotify.com/album/0oTTjsFeHYunInQieE1U3n) | 2:06 | 2021-03-22 |  |
 | [You Can't Hurry Love](https://open.spotify.com/track/2mTjtdoxpffwa5rXVyZZaS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Love and Life: The Very Best of Diana Ross](https://open.spotify.com/album/6syCFYImxKPSf6G8Oh3bIq) | 2:41 | 2021-03-22 | 2022-01-19 |
-| [You Make Me Feel So Young](https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:59 | 2021-03-22 | 2022-04-07 |
+| [You Make Me Feel So Young](https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:59 | 2021-03-22 |  |
 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 | 2021-03-22 | 2022-01-17 |
 | [You Make Me Feel So Young \- Remastered 1998](https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:57 | 2021-03-22 |  |
 | [You're Nobody 'Til Somebody Loves You \- Remastered/1997](https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:13 | 2021-09-09 | 2022-03-18 |

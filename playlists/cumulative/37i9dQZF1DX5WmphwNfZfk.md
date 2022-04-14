@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5WmphwNfZfk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5WmphwNfZfk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5WmphwNfZfk)
 
-### [RADAR Canada](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+### [RADAR Canada](https://open.spotify.com/playlist/37i9dQZF1DX5WmphwNfZfk)
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Nonso Amadi
+
+464 songs - 23 hr 25 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +366,7 @@
 | [Right Here](https://open.spotify.com/track/0G6I0dl2cIditsaqLt608y) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 2:55 | 2022-03-04 | 2022-04-02 |
 | [Right Thing](https://open.spotify.com/track/7Md1PKQAKLS13OG5uomx7L) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s), [Piques](https://open.spotify.com/artist/1ELhwVuttnZmGrSCTYHTfH), [Rachel West](https://open.spotify.com/artist/41tTX9ryiiWbXaBN94eRiP) | [Right Thing](https://open.spotify.com/album/4OOIWeXHnVOODhkdSGYGZJ) | 3:00 | 2022-04-01 |  |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2021-12-06 | 2022-01-08 |
-| [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Aaron Paris](https://open.spotify.com/artist/71zpxFNyq4h7rNXjpl9eJi) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-04-01 |  |
+| [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-04-01 |  |
 | [RIP To Us](https://open.spotify.com/track/52gczhu2uZy1nA5Algwlb9) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [RIP To Us](https://open.spotify.com/album/2QxT6vvUDYvqPWCRwFqiyM) | 2:34 | 2022-03-04 | 2022-04-02 |
 | [Rocket](https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Rocket](https://open.spotify.com/album/0fPkcy88RYqvj2iHxQ4qZc) | 1:23 | 2022-02-04 | 2022-03-05 |
 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 | 2022-03-04 | 2022-04-02 |

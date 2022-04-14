@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: Trip Lee",
-  "num_followers": 103198,
+  "num_followers": 103215,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMjAxMywwMDAwMDAwMGMxMjdhZjQ0M2QxYWM1NjYyYWYwN2JlMGY5NGQxODZm",
+  "snapshot_id": "MTY0OTg5ODU5OCwwMDAwMDAwMDVhMzczNGYyODE4NzZkODFjMTA1MjFiMjk5YWVlODRm",
   "tracks": [
     {
       "added_at": "2022-03-12 00:59:51",
@@ -119,22 +119,18 @@
     {
       "added_at": "2022-03-12 00:59:51",
       "album": {
-        "name": "Why Should I (feat. Quinten Coblentz)",
-        "url": "https://open.spotify.com/album/0dtKfjyzBU8w3a0Lzzqisb"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
       },
       "artists": [
         {
-          "name": "Roy Tosh",
-          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
-        },
-        {
-          "name": "Quinten Coblentz",
-          "url": "https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z"
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
         }
       ],
-      "duration_ms": 227004,
-      "name": "Why Should I (feat. Quinten Coblentz)",
-      "url": "https://open.spotify.com/track/5lQdppTJfzv9zqz0DUNm8u"
+      "duration_ms": 139742,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
     },
     {
       "added_at": "2022-03-12 00:59:51",
@@ -163,18 +159,22 @@
     {
       "added_at": "2022-03-12 00:59:51",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
+        "name": "Why Should I (feat. Quinten Coblentz)",
+        "url": "https://open.spotify.com/album/0dtKfjyzBU8w3a0Lzzqisb"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "Roy Tosh",
+          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
+        },
+        {
+          "name": "Quinten Coblentz",
+          "url": "https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z"
         }
       ],
-      "duration_ms": 139742,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
+      "duration_ms": 227004,
+      "name": "Why Should I (feat. Quinten Coblentz)",
+      "url": "https://open.spotify.com/track/5lQdppTJfzv9zqz0DUNm8u"
     },
     {
       "added_at": "2022-03-12 00:59:51",
@@ -415,26 +415,6 @@
     {
       "added_at": "2022-03-12 00:59:51",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT"
-      },
-      "artists": [
-        {
-          "name": "JUDAH.",
-          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
-        },
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE"
-    },
-    {
-      "added_at": "2022-03-12 00:59:51",
-      "album": {
         "name": "No Church In A While",
         "url": "https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 190480,
       "name": "Worship in the Moshpit",
       "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+    },
+    {
+      "added_at": "2022-03-12 00:59:51",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT"
+      },
+      "artists": [
+        {
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
+        },
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE"
     },
     {
       "added_at": "2022-03-12 00:59:51",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-03-12 00:59:51",
       "album": {
-        "name": "Out With a Bang",
-        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
-      },
-      "artists": [
-        {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Out With a Bang",
-      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
-    },
-    {
-      "added_at": "2022-03-12 00:59:51",
-      "album": {
         "name": "No Church In A While",
         "url": "https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 179193,
       "name": "No Church In A While",
       "url": "https://open.spotify.com/track/6yCdMEIrxBXwH2EfPYopnv"
+    },
+    {
+      "added_at": "2022-03-12 00:59:51",
+      "album": {
+        "name": "Out With a Bang",
+        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
+      },
+      "artists": [
+        {
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Out With a Bang",
+      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
     },
     {
       "added_at": "2022-03-12 00:59:51",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2022-03-12 00:59:51",
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/3IdrmlvkofXLqsk9RmArEu"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        },
+        {
+          "name": "Moflo Music",
+          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/766Qs72aW1J2A6LsSLwXRB"
+    },
+    {
+      "added_at": "2022-03-12 00:59:51",
+      "album": {
         "name": "Real Ones Winning (feat. Avila)",
         "url": "https://open.spotify.com/album/7t53IjboDQA4wzDujlHBmk"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 172725,
       "name": "Don\u2019t Worry Bout It",
       "url": "https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H"
-    },
-    {
-      "added_at": "2022-03-12 00:59:51",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/3IdrmlvkofXLqsk9RmArEu"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        },
-        {
-          "name": "Moflo Music",
-          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
-        }
-      ],
-      "duration_ms": 161816,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/766Qs72aW1J2A6LsSLwXRB"
     },
     {
       "added_at": "2022-03-12 00:59:51",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1EQVvrXxgoWdqUHni1LOgm.md) - cumulative - [plain](/playlists/plain/1EQVvrXxgoWdqUHni1LOgm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1EQVvrXxgoWdqUHni1LOgm)
 
-### [Top Picks Mood](https://open.spotify.com/playlist/2benOPvddbrKvPg7Of72Pn)
+### [Top Picks Mood](https://open.spotify.com/playlist/1EQVvrXxgoWdqUHni1LOgm)
 
 > 
+
+20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/2benOPvddbrKvPg7Of72Pn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

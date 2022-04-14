@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9c9fpd0lxJ5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9c9fpd0lxJ5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9c9fpd0lxJ5)
 
-### [Radiante](https://open.spotify.com/playlist/5ph78wovnBw6RiEm4pplkV)
+### [Radiante](https://open.spotify.com/playlist/37i9dQZF1DX9c9fpd0lxJ5)
 
 > indie tunes to make you shine bby:\)
+
+109 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/5ph78wovnBw6RiEm4pplkV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

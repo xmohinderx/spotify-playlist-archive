@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7dRuhLsXe96SgjYtPvMEcL.md) - cumulative - [plain](/playlists/plain/7dRuhLsXe96SgjYtPvMEcL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7dRuhLsXe96SgjYtPvMEcL)
 
-### [Walt Jr\. \- Innocent](https://open.spotify.com/playlist/6XQTc4t1eTfWVjPA4c7sZT)
+### [Walt Jr\. \- Innocent](https://open.spotify.com/playlist/7dRuhLsXe96SgjYtPvMEcL)
 
 > 
+
+28 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/6XQTc4t1eTfWVjPA4c7sZT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcndo43KVGbN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcndo43KVGbN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcndo43KVGbN)
 
-### [Sonic Artefacts](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+### [Sonic Artefacts](https://open.spotify.com/playlist/37i9dQZF1DXcndo43KVGbN)
 
 > The harmony between beautiful Ambient and tape manipulation.
+
+92 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

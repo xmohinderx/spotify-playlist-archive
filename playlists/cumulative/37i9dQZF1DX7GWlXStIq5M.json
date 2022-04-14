@@ -416,6 +416,32 @@
     },
     {
       "album": {
+        "name": "Fuuga",
+        "url": "https://open.spotify.com/album/1hMEnHTNEDjElq7I7SGMuT"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Intactoz Corp.",
+          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
+        },
+        {
+          "name": "Dj Coala",
+          "url": "https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135813,
+      "name": "Fuuga",
+      "url": "https://open.spotify.com/track/27C3ZWAo3xPFR6rXw2sfHI"
+    },
+    {
+      "album": {
         "name": "Gangorra",
         "url": "https://open.spotify.com/album/3RT2HCFAmlvkJ6eopeEYR5"
       },
@@ -773,7 +799,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 261492,
       "name": "Laugh Now Cry Later (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS"

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcBWIGoYBM5M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcBWIGoYBM5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcBWIGoYBM5M)
 
-### [Today's Top Hits](https://open.spotify.com/playlist/47EyYjdbbASCmJLAzJxhXP)
+### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
 > Camila Cabello is on top of the Hottest 50!
+
+719 songs - 1 day 14 hr 24 min - [published](https://open.spotify.com/playlist/47EyYjdbbASCmJLAzJxhXP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

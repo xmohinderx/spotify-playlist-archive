@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSGaZLGlN26y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSGaZLGlN26y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSGaZLGlN26y)
 
-### [Spotify Singles: Love Edition](https://open.spotify.com/playlist/1FdTss7Ut4Y6PdpZxi4qVY)
+### [Spotify Singles: Love Edition](https://open.spotify.com/playlist/37i9dQZF1DWSGaZLGlN26y)
 
 > Songs for lovers like you've never heard before\.  Cover: Miguel, Taylor Swift and Japanese Breakfast.
+
+149 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/1FdTss7Ut4Y6PdpZxi4qVY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

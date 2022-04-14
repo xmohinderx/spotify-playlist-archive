@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU3bkMPOyjie.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU3bkMPOyjie) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU3bkMPOyjie)
 
-### [Summer Rock Vibes](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
+### [Summer Rock Vibes](https://open.spotify.com/playlist/37i9dQZF1DWU3bkMPOyjie)
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
+
+73 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWULHbs82dshJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWULHbs82dshJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWULHbs82dshJ)
 
-### [Dia de Chuva](https://open.spotify.com/playlist/7gdMCDylrYOpHK5il6ycy3)
+### [Dia de Chuva](https://open.spotify.com/playlist/37i9dQZF1DWULHbs82dshJ)
 
 > A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.
+
+53 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/7gdMCDylrYOpHK5il6ycy3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

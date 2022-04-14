@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXUpC6mczRpA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXUpC6mczRpA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXUpC6mczRpA)
 
-### [Mozart Study](https://open.spotify.com/playlist/1Udc6IZ48bOBNktjTjDHf6)
+### [Mozart Study](https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA)
 
 > Stay focused with a little help from Mozart.
+
+60 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/1Udc6IZ48bOBNktjTjDHf6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

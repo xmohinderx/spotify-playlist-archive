@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZRy1LwINMSK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZRy1LwINMSK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZRy1LwINMSK)
 
-### [Trapperz Chile](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
+### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
 > La casa del Trap chileno\. Foto: AKRIILA.
+
+106 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

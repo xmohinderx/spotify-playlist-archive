@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0gxuYiQFvQL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0gxuYiQFvQL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0gxuYiQFvQL)
 
-### [Fairy Tales](https://open.spotify.com/playlist/5YGDglJQbT3Lg92jtvD6xH)
+### [Fairy Tales](https://open.spotify.com/playlist/37i9dQZF1DX0gxuYiQFvQL)
 
 > A collection of classic tales by beloved Danish author Hans Christian Andersen.
+
+17 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5YGDglJQbT3Lg92jtvD6xH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

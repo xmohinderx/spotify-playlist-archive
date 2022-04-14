@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5CdVP4rz81C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5CdVP4rz81C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5CdVP4rz81C)
 
-### [Fresh & Chill](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
 > Discover your favorite new chill pop songs\. Cover: Anson Seabra
+
+770 songs - 1 day 16 hr 40 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

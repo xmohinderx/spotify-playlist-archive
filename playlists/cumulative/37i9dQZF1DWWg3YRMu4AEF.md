@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWg3YRMu4AEF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWg3YRMu4AEF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWg3YRMu4AEF)
 
-### [Good Feeling 70s](https://open.spotify.com/playlist/2dx0vSRjUrUfJCJ8y5zgga)
+### [Good Feeling 70s](https://open.spotify.com/playlist/37i9dQZF1DWWg3YRMu4AEF)
 
 > Feel on top of the world with these uplifting anthems of the 70s.
+
+80 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/2dx0vSRjUrUfJCJ8y5zgga)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

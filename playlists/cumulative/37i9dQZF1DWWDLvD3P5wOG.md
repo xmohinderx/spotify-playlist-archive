@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWDLvD3P5wOG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWDLvD3P5wOG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWDLvD3P5wOG)
 
-### [Dancehall Throwback](https://open.spotify.com/playlist/3PPxIsGiR2XzxbMKPVmBN3)
+### [Dancehall Throwback](https://open.spotify.com/playlist/37i9dQZF1DWWDLvD3P5wOG)
 
 > Throwbacks you can catch a wine to.
+
+104 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/3PPxIsGiR2XzxbMKPVmBN3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +94,7 @@
 | [Stukie](https://open.spotify.com/track/2G55si1hdJpWe9XgaeRV25) | [QQ](https://open.spotify.com/artist/06SIuEAp0Cqena9c2bZfgq) | [Stukie \- EP](https://open.spotify.com/album/54FJbfg7KSQCJAMkFPHUXn) | 2:37 | 2021-02-24 |  |
 | [Summer Time](https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Vybz Kartel \- Colouring Book EP](https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh) | 2:44 | 2021-02-24 |  |
 | [Suspense](https://open.spotify.com/track/6PKJhovmnRMA6UJDu3sYwS) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Greensleeves Offical Mixtape Vol\. 2: 90's Hardcore Ragga Dancehall Mix](https://open.spotify.com/album/2naYQoF3wEz4lcHDhMFT9c) | 1:35 | 2021-02-24 | 2022-03-18 |
-| [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 | 2021-02-24 | 2022-03-23 |
+| [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 | 2021-02-24 |  |
 | [Tek Weh Yuhself](https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2007](https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx) | 2:56 | 2021-02-24 |  |
 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 | 2021-02-24 |  |
 | [Text Message](https://open.spotify.com/track/4u63rBIcBRmEXArgnwMoaa) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Text Message \- single](https://open.spotify.com/album/6KS4EHKeEUyuxG8G1DOWbd) | 2:57 | 2021-02-24 |  |
@@ -100,7 +102,7 @@
 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 | 2021-02-24 |  |
 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 | 2021-02-24 |  |
 | [Turn Me On](https://open.spotify.com/track/3Lzm47DLEWVmearRcvdnnx) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [The Trevor Nelson Collection 3](https://open.spotify.com/album/6Hk3oS79dvZYutOhavuRhO) | 3:12 | 2021-02-24 | 2022-03-23 |
-| [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 | 2021-02-24 |  |
+| [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 | 2021-02-24 | 2022-04-14 |
 | [Walk Like a Dog](https://open.spotify.com/track/4w8PtJqCBiggVmXyIgv3u8) | [Radijah](https://open.spotify.com/artist/6He5fk9zbkPNtBwJe62Cga) | [Walk Like a Dog \- Single](https://open.spotify.com/album/44Dcaof9foVhweKNvNq78q) | 2:25 | 2021-02-24 | 2022-02-03 |
 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 | 2021-02-24 |  |
 | [Who Am I](https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Many Moods Of Moses](https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2) | 3:16 | 2021-02-24 |  |

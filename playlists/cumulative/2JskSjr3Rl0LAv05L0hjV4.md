@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2JskSjr3Rl0LAv05L0hjV4.md) - cumulative - [plain](/playlists/plain/2JskSjr3Rl0LAv05L0hjV4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2JskSjr3Rl0LAv05L0hjV4)
 
-### [Vocal Acrobats](https://open.spotify.com/playlist/0InLeXcEiTrrb6BmColetg)
+### [Vocal Acrobats](https://open.spotify.com/playlist/2JskSjr3Rl0LAv05L0hjV4)
 
 > Let these singers tug on your heartstrings with their amazing vocal performances.
+
+25 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/0InLeXcEiTrrb6BmColetg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

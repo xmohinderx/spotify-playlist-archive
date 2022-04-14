@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc0fQ4sGOnVJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc0fQ4sGOnVJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc0fQ4sGOnVJ)
 
-### [Field Party](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+### [Field Party](https://open.spotify.com/playlist/37i9dQZF1DXc0fQ4sGOnVJ)
 
 > Country rap songs, made to be cranked up\. Cover: Colt Ford
+
+86 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

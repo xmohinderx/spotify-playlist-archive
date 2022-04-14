@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWQRwui0ExPn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWQRwui0ExPn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWQRwui0ExPn)
 
-### [lofi beats](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+### [lofi beats](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
 
 > Purrrr with beats to chill, relax, study, code, focus, and sleep..\. 🐱
+
+2,595 songs - 4 day 2 hr 49 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1602,7 +1604,7 @@
 | [Nyhavn by Night](https://open.spotify.com/track/5MzXBdZbDQOwH7A0dQ13S6) | [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [Vienna](https://open.spotify.com/artist/7bNTxzrU2AIdzkf7pK0Jgy), [Jonathon Muir\-Cotton](https://open.spotify.com/artist/7Eb996289eVIRvPUoZaiu5), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Urban Waters](https://open.spotify.com/album/5jOd6CjHJFKPFcYhOD0zwx) | 2:28 | 2022-01-21 |  |
 | [O Mar Não Traz As Mesmas Ondas](https://open.spotify.com/track/5FkYjNMY1bVRARV43NkNaa) | [Zugumafow](https://open.spotify.com/artist/4aQjsJUZ9sU0v1dGcs6Uum) | [O Mar Não Traz As Mesmas Ondas](https://open.spotify.com/album/2ttekx3JtwxiR8xfhdI1Gy) | 2:08 | 2020-06-17 | 2020-06-18 |
 | [O.hkay](https://open.spotify.com/track/1XmpgyNItc516lZxU6J8sx) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [You](https://open.spotify.com/album/5HwxE1Ppok2uwq25Fm3QIo) | 0:54 | 2019-06-02 | 2020-06-09 |
-| [Oaklands Courtyard](https://open.spotify.com/track/01IEYqpTA7LFqbQGpIvSZq) | [Terry Terry](https://open.spotify.com/artist/6uuqoSXm4yoIZ9zABdjB21), [FREE MUSIC MAISON](https://open.spotify.com/artist/2ywP5hnYYADc6uTxxM4E6l) | [Oaklands Courtyard](https://open.spotify.com/album/0rdhhzYTzZcj1hmFAfxDwo) | 2:49 | 2021-12-17 |  |
+| [Oaklands Courtyard](https://open.spotify.com/track/01IEYqpTA7LFqbQGpIvSZq) | [Terry Terry](https://open.spotify.com/artist/6uuqoSXm4yoIZ9zABdjB21), [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Oaklands Courtyard](https://open.spotify.com/album/0rdhhzYTzZcj1hmFAfxDwo) | 2:49 | 2021-12-17 |  |
 | [Oasis](https://open.spotify.com/track/5UugqccKDPZBjyiS6fgXBN) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Oasis](https://open.spotify.com/album/7wVDkviX0YHOwJaoNEClzY) | 1:56 | 2019-05-28 | 2019-06-09 |
 | [Oasis](https://open.spotify.com/track/0pi45S9mKWkkcH5YWztgAd) | [Dorothe Mosh](https://open.spotify.com/artist/1o113df4RovF87tCbszqov), [Lownas](https://open.spotify.com/artist/73eOFkJoiXKFsXIBE9Wwuv), [Sacnid](https://open.spotify.com/artist/14iDPvEpIzsD4d0zLKWOtQ) | [Island EP](https://open.spotify.com/album/34e1zmPILYBAy18etHDj4L) | 2:23 | 2021-09-11 | 2022-04-08 |
 | [Oasis](https://open.spotify.com/track/6GsBfkNYIF71yW65Ip7C8K) | [evans](https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6) | [Oasis](https://open.spotify.com/album/6gZKGLQLHUXCZLmslnvpj5) | 1:37 | 2021-10-02 | 2022-04-08 |

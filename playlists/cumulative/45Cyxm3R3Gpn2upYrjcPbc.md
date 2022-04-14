@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/45Cyxm3R3Gpn2upYrjcPbc.md) - cumulative - [plain](/playlists/plain/45Cyxm3R3Gpn2upYrjcPbc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/45Cyxm3R3Gpn2upYrjcPbc)
 
-### [Happy Birthday Kanye!](https://open.spotify.com/playlist/7s7gYqiaMVahGb4xGb8ASp)
+### [Happy Birthday Kanye!](https://open.spotify.com/playlist/45Cyxm3R3Gpn2upYrjcPbc)
 
 > 
+
+66 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/7s7gYqiaMVahGb4xGb8ASp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

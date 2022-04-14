@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8ONeLSIu0Ai.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ONeLSIu0Ai) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ONeLSIu0Ai)
 
-### [Modernism 50: Spotify Picks](https://open.spotify.com/playlist/4mXOhUBtoxQMWLaqc23hOC)
+### [Modernism 50: Spotify Picks](https://open.spotify.com/playlist/37i9dQZF1DX8ONeLSIu0Ai)
 
 > The best Modernist music from the early 20th century\. Impressionism with Ravel and Debussy\. Expressionism with Schoenberg and Webern\. Neoclassical with Stravinsky and Bartok.
+
+50 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4mXOhUBtoxQMWLaqc23hOC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

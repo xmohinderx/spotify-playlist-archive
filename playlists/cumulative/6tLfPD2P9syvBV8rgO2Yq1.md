@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6tLfPD2P9syvBV8rgO2Yq1.md) - cumulative - [plain](/playlists/plain/6tLfPD2P9syvBV8rgO2Yq1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6tLfPD2P9syvBV8rgO2Yq1)
 
-### [Honeysuckle Lazy](https://open.spotify.com/playlist/0EyGOhvvRQVSPSkUzhIvIl)
+### [Honeysuckle Lazy](https://open.spotify.com/playlist/6tLfPD2P9syvBV8rgO2Yq1)
 
 > 
+
+20 songs - 1 hr 15 min - [published](https://open.spotify.com/playlist/0EyGOhvvRQVSPSkUzhIvIl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

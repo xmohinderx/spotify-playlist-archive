@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8jnAPF7Iiqp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8jnAPF7Iiqp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8jnAPF7Iiqp)
 
-### [Run 'N' Bass 170\-175 BPM](https://open.spotify.com/playlist/5m1bjYNR2pVMWBRWkLrWBe)
+### [Run 'N' Bass 170\-175 BPM](https://open.spotify.com/playlist/37i9dQZF1DX8jnAPF7Iiqp)
 
 > Running or raving? We've got a load of drum & bass to help with that!
+
+116 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/5m1bjYNR2pVMWBRWkLrWBe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

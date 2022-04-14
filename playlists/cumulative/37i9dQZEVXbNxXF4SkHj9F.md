@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbNxXF4SkHj9F.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbNxXF4SkHj9F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNxXF4SkHj9F)
 
-### [Top 50 \- South Korea](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
+### [Top 50 \- South Korea](https://open.spotify.com/playlist/37i9dQZEVXbNxXF4SkHj9F)
 
 > Your daily update of the most played tracks right now \- South Korea.
+
+629 songs - 1 day 11 hr 55 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +521,7 @@
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-09-19 | 2021-11-07 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-05 |  |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
-| [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-10-20 |  |
+| [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-10-20 | 2022-04-14 |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 | 2022-02-20 | 2022-03-02 |
 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 | 2021-07-28 | 2021-08-08 |
 | [Suddenly](https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Bipolar](https://open.spotify.com/album/7v35vbIFXpCNqRcCmciH0v) | 2:36 | 2021-11-08 | 2022-03-15 |
@@ -631,6 +633,7 @@
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-09 | 2022-02-24 |
 | [Yours \- Instrumental](https://open.spotify.com/track/1oyVMDi8RlgPsRyZXPNNKk) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-10 | 2021-11-11 |
 | [ひとりじゃない](https://open.spotify.com/track/0zNo6vxprHTeiFXNTo65ga) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [ひとりじゃない](https://open.spotify.com/album/2tx3OgTQe02ygUiWPEevFi) | 3:18 | 2021-04-17 | 2021-04-18 |
+| [六等星](https://open.spotify.com/track/3DcBY9PDTlUlUYdDdoJPog) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/0G8gkjY1Avg3OOh5rJPLPk) | 3:29 | 2022-04-13 |  |
 | [사이렌](https://open.spotify.com/track/6mzkkz2p0Nyyp43Eedv4mS) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Ghetto Kids](https://open.spotify.com/album/5LAKQwTYZiOFsCN4BSFVds) | 3:20 | 2021-05-10 | 2021-05-12 |
 | [상상더하기](https://open.spotify.com/track/1VOKnlCFYhzGW1al5M9cgv) | [LABOUM](https://open.spotify.com/artist/4iO5uKMUphLqQ20TfrdZx3) | [Fresh Adventure](https://open.spotify.com/album/1kZjC9M6xuIMg3JRKAJhDv) | 4:02 | 2021-05-19 | 2021-05-27 |
 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-03-14 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXS0qyx76B7l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXS0qyx76B7l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXS0qyx76B7l)
 
-### [I Love NYC](https://open.spotify.com/playlist/304x1Ce1d77xP3lFWeIUYd)
+### [I Love NYC](https://open.spotify.com/playlist/37i9dQZF1DWXS0qyx76B7l)
 
 > Songs about the iconic city\. Welcome to the Big Apple!
+
+90 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/304x1Ce1d77xP3lFWeIUYd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdfOcg1fm0VG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdfOcg1fm0VG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdfOcg1fm0VG)
 
-### [Video Game Soundtracks](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+### [Video Game Soundtracks](https://open.spotify.com/playlist/37i9dQZF1DXdfOcg1fm0VG)
 
 > Double\-jump into these legendary video game soundtracks, featuring old favourites and new classics.
+
+95 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

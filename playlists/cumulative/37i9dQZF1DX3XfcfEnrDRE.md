@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3XfcfEnrDRE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3XfcfEnrDRE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3XfcfEnrDRE)
 
-### [Ultimate Christian Alternative](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
+### [Ultimate Christian Alternative](https://open.spotify.com/playlist/37i9dQZF1DX3XfcfEnrDRE)
 
 > The ever\-evolving sound of Alt! Cover: Kristene DiMarco
+
+93 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXco6WE2xPt0R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXco6WE2xPt0R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXco6WE2xPt0R)
 
-### [dengo](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
+### [dengo](https://open.spotify.com/playlist/37i9dQZF1DXco6WE2xPt0R)
 
 > Aquela playlist pra ficar no quentin, gostosin.
+
+120 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

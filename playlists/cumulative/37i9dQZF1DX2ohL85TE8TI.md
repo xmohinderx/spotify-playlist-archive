@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2ohL85TE8TI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ohL85TE8TI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ohL85TE8TI)
 
-### [Korean OSTs](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
+### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Business Proposal \(사내 맞선\)\)
+
+213 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

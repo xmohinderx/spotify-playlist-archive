@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5FyxM4IcLn6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5FyxM4IcLn6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5FyxM4IcLn6)
 
-### [The GRAMMYs Official Playlist](https://open.spotify.com/playlist/4M8EQTBLyNauX4M36rMoZJ)
+### [The GRAMMYs Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5FyxM4IcLn6)
 
 > The official playlist for the 64rd GRAMMY Awards.
+
+380 songs - 1 day 2 hr 41 min - [published](https://open.spotify.com/playlist/4M8EQTBLyNauX4M36rMoZJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

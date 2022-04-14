@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 202774,
+  "num_followers": 202787,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTU0OCwwMDAwMDAwMGY0MGE2NTE0YjA2NDE1ZWViNTRjYjFmZDAxZGZhYzZm",
+  "snapshot_id": "MTY0OTg5ODE1NCwwMDAwMDAwMDYzMTY4YTgxZGI3MjQ4ZGIwY2Y0MzE3YWY1ZTFhZjlj",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -147,22 +147,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Tonic",
-        "url": "https://open.spotify.com/album/5Px1CUSgIpdRpChsMAC0OE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Tonic",
-      "url": "https://open.spotify.com/track/2MLsWnBmhbkyypQTJ7DFgw"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Just Like Heaven",
         "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
       },
@@ -193,22 +177,6 @@
       "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
-    },
-    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Groove On!",
@@ -227,8 +195,8 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Bottom Line",
-        "url": "https://open.spotify.com/album/5LyajQP5gTpHwL9Xd1xM5S"
+        "name": "Tonic",
+        "url": "https://open.spotify.com/album/5Px1CUSgIpdRpChsMAC0OE"
       },
       "artists": [
         {
@@ -236,9 +204,25 @@
           "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 232240,
-      "name": "The Bottom Line",
-      "url": "https://open.spotify.com/track/1o1CuXwRdGmlmcpEiepgDQ"
+      "duration_ms": 257186,
+      "name": "Tonic",
+      "url": "https://open.spotify.com/track/2MLsWnBmhbkyypQTJ7DFgw"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -293,6 +277,26 @@
       "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        },
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        }
+      ],
+      "duration_ms": 238529,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Gratitude",
@@ -307,6 +311,22 @@
       "duration_ms": 258453,
       "name": "Soho",
       "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/5LyajQP5gTpHwL9Xd1xM5S"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "The Bottom Line",
+      "url": "https://open.spotify.com/track/1o1CuXwRdGmlmcpEiepgDQ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -327,42 +347,6 @@
       "duration_ms": 253946,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Full Effect",
-        "url": "https://open.spotify.com/album/4nAOFV8VFGSThTzO8wjndt"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Full Effect",
-      "url": "https://open.spotify.com/track/688IS2tPq6AgtER7EJQpsm"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        },
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        }
-      ],
-      "duration_ms": 238529,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -483,6 +467,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Full Effect",
+        "url": "https://open.spotify.com/album/4nAOFV8VFGSThTzO8wjndt"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Full Effect",
+      "url": "https://open.spotify.com/track/688IS2tPq6AgtER7EJQpsm"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/76yw5fyBIXtxEGr1XqrZsv"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 258275,
       "name": "Issa Party",
       "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Fresh Air",
-      "url": "https://open.spotify.com/track/2MWz9FOWmyvLYqhUsHtLOW"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -655,6 +639,42 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/2MWz9FOWmyvLYqhUsHtLOW"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Hello Tomorrow",
+        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 291386,
+      "name": "When Will I Know For Sure",
+      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Steppin' Up",
         "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
       },
@@ -687,58 +707,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Everything Happens for a Reason",
-        "url": "https://open.spotify.com/album/1D3fCngTbAv9o1euFPxAi1"
-      },
-      "artists": [
-        {
-          "name": "Andrew Neu",
-          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
-        }
-      ],
-      "duration_ms": 331973,
-      "name": "Everything Happens for a Reason",
-      "url": "https://open.spotify.com/track/5I2OHhQvOrh5qBcZn8wpCL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Hello Tomorrow",
-        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 291386,
-      "name": "When Will I Know For Sure",
-      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 217843,
-      "name": "Una Mas",
-      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Backyard Brew",
         "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 254376,
       "name": "Backyard Brew",
       "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Everything Happens for a Reason",
+        "url": "https://open.spotify.com/album/1D3fCngTbAv9o1euFPxAi1"
+      },
+      "artists": [
+        {
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        }
+      ],
+      "duration_ms": 331973,
+      "name": "Everything Happens for a Reason",
+      "url": "https://open.spotify.com/track/5I2OHhQvOrh5qBcZn8wpCL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Honestly",
-        "url": "https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 296360,
-      "name": "Speak Easy",
-      "url": "https://open.spotify.com/track/64iI0xWTsFNb647B6suOmv"
-    },
-    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Echoes Of The Heart",
@@ -927,6 +911,22 @@
       "duration_ms": 241933,
       "name": "Caught Me By Surprise",
       "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 296360,
+      "name": "Speak Easy",
+      "url": "https://open.spotify.com/track/64iI0xWTsFNb647B6suOmv"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/4EGHxEMsxfZpzJyfqZQwtz"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 254642,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Human Nature (feat. Rick Braun, Kirk Whalum, Norman Brown)",
         "url": "https://open.spotify.com/album/1nDD5iqCemA5KDe7pJZnSi"
       },
@@ -1337,6 +1353,26 @@
       "url": "https://open.spotify.com/track/2uroSt9vhH1KFV9g4s0MOS"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/3zcz64J5R6sY8Mln7crKsI"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        },
+        {
+          "name": "J.Michael O'neal",
+          "url": "https://open.spotify.com/artist/1eQZjsM34F2TKTe9QusBOg"
+        }
+      ],
+      "duration_ms": 240553,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Aaron Bing",
@@ -1351,22 +1387,6 @@
       "duration_ms": 247746,
       "name": "Outside the Box",
       "url": "https://open.spotify.com/track/4l4dodgipavIzeo1H1YYCj"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/4EGHxEMsxfZpzJyfqZQwtz"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 254642,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -1431,26 +1451,6 @@
       "duration_ms": 241195,
       "name": "When You Smile",
       "url": "https://open.spotify.com/track/76Tvpe4niV7n7ZpCKkfnAG"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/3zcz64J5R6sY8Mln7crKsI"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        },
-        {
-          "name": "J.Michael O'neal",
-          "url": "https://open.spotify.com/artist/1eQZjsM34F2TKTe9QusBOg"
-        }
-      ],
-      "duration_ms": 240553,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee"
     },
     {
       "added_at": "2021-07-12 18:09:21",

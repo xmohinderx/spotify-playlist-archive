@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWsq4e0rDzty.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWsq4e0rDzty) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWsq4e0rDzty)
 
-### [Rock School](https://open.spotify.com/playlist/5ccmMNrrlyJcTacvDmU4wz)
+### [Rock School](https://open.spotify.com/playlist/37i9dQZF1DWWsq4e0rDzty)
 
 > For an education in rock.
+
+106 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/5ccmMNrrlyJcTacvDmU4wz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

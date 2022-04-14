@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 617173,
       "name": "Bloos, Booze, Blues",
       "url": "https://open.spotify.com/track/6Hw7Rp62cMwVpAReee0chl"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 328800,
       "name": "Dukes Place",
       "url": "https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 483946,
       "name": "Hello, Young Lovers - Remastered 2006",
       "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
@@ -1561,7 +1561,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 358146,
       "name": "Rain Check",
       "url": "https://open.spotify.com/track/7q6gIRAkC8hnuMmv3VAHwT"
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 162533,
       "name": "Shulie A Bop",
       "url": "https://open.spotify.com/track/4nkqR6YY92pi7vCniJKhxI"
@@ -1770,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547426,
+      "name": "Soul Station - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3HIO2Ysxx47gnwMGWy7dwB"
+    },
+    {
+      "album": {
         "name": "Speak No Evil",
         "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
       },
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 503786,
       "name": "Speak No Evil - Remastered 1998 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 432266,
       "name": "Them Dirty Blues - Remastered",
       "url": "https://open.spotify.com/track/3f6xm9qUFXkunVsqN0Sbyy"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 358426,
       "name": "Wigglin' - Remastered",
       "url": "https://open.spotify.com/track/4N4bT7cB4Nu0BGIzaflIHM"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 291693,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"

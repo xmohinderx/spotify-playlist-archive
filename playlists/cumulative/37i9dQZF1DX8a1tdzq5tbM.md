@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8a1tdzq5tbM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8a1tdzq5tbM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8a1tdzq5tbM)
 
-### [Dance Classics](https://open.spotify.com/playlist/6IKSKLiJj6eKbX4pw7OX7K)
+### [Dance Classics](https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM)
 
 > <a href="spotify:genre:edm\_dance">Dance radio</a> hits from the 90s and 00s!
+
+136 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/6IKSKLiJj6eKbX4pw7OX7K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +59,7 @@
 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 | 2020-03-31 |  |
 | [Flight 643 \(Radio Edit\)](https://open.spotify.com/track/2AXmhtQ9nLGGapHG2AeTZV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Flight 643](https://open.spotify.com/album/52Lz6lc8vxsYkpr090GMHI) | 2:53 | 2020-03-31 |  |
 | [For an Angel 2009 \- Radio Mix '09](https://open.spotify.com/track/0yL1cs3O4Nw1si1bMGzecJ) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/1eTgiUZR2QVqRccPcSR4xi) | 3:01 | 2020-03-31 |  |
-| [Forever Today](https://open.spotify.com/track/2QGEeY7qFUPMapnkRg4ssa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 11:59 | 2020-03-31 |  |
+| [Forever Today](https://open.spotify.com/track/2QGEeY7qFUPMapnkRg4ssa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 11:59 | 2020-03-31 | 2022-04-14 |
 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 | 2020-03-31 |  |
 | [Gettin' Over \(feat\. Chris Willis\)](https://open.spotify.com/track/4fqwEothoIOcKr3pARJCgu) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:02 | 2020-03-31 |  |
 | [Girlfriend \- 2008 Remix](https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Keylime](https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA) | [Girlfriend \(2008 Remix\)](https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9) | 7:15 | 2020-03-31 |  |
@@ -117,7 +119,7 @@
 | [Sorry \- Dirty South Radio Edit](https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Sorry](https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p) | 3:31 | 2020-03-31 |  |
 | [Star 69 \- Timo Maas Mix](https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Star 69](https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ) | 6:11 | 2020-03-31 |  |
 | [Starry Eyed Surprise](https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 3:48 | 2020-03-31 |  |
-| [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 | 2020-03-31 | 2022-03-21 |
+| [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 | 2020-03-31 |  |
 | [Strange Condition \- Inpetto Radio Edit](https://open.spotify.com/track/53gU1D9rFr0OkiJRxc4xYX) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Strange Condition](https://open.spotify.com/album/5uXCRUQ1S45rqqSBlYfy1C) | 3:33 | 2020-03-31 |  |
 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5rFOQi6066JvXPMQWxB5BJ) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 | 2020-03-31 | 2022-03-21 |
 | [Sun Is Up \- Play & Win Radio Edit](https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am The Club Rocker](https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6) | 3:44 | 2020-03-31 |  |

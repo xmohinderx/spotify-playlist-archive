@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVzrEOEOM5Qu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzrEOEOM5Qu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzrEOEOM5Qu)
 
-### [Christmas Stories](https://open.spotify.com/playlist/3pMEDRDXVuKCgKz7VOTu3e)
+### [Christmas Stories](https://open.spotify.com/playlist/37i9dQZF1DWVzrEOEOM5Qu)
 
 > New and classic Christmas tales for kids.
+
+25 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/3pMEDRDXVuKCgKz7VOTu3e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

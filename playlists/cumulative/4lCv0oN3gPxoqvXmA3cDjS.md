@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4lCv0oN3gPxoqvXmA3cDjS.md) - cumulative - [plain](/playlists/plain/4lCv0oN3gPxoqvXmA3cDjS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4lCv0oN3gPxoqvXmA3cDjS)
 
-### [Top Picks Toplists](https://open.spotify.com/playlist/24jeoBM41YX1IekjyrKUxv)
+### [Top Picks Toplists](https://open.spotify.com/playlist/4lCv0oN3gPxoqvXmA3cDjS)
 
 > 
+
+20 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/24jeoBM41YX1IekjyrKUxv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

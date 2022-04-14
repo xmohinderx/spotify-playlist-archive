@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUNIrSzKgQbP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUNIrSzKgQbP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUNIrSzKgQbP)
 
-### [Acoustic Spring](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+### [Acoustic Spring](https://open.spotify.com/playlist/37i9dQZF1DWUNIrSzKgQbP)
 
 > lush folk and acoustics signal the start of spring.
+
+196 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

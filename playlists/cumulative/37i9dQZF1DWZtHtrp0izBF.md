@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZtHtrp0izBF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZtHtrp0izBF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZtHtrp0izBF)
 
-### [Salsa Lessons](https://open.spotify.com/playlist/4XDAKmGxhqFedp5hyrO7jw)
+### [Salsa Lessons](https://open.spotify.com/playlist/37i9dQZF1DWZtHtrp0izBF)
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
+
+64 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/4XDAKmGxhqFedp5hyrO7jw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

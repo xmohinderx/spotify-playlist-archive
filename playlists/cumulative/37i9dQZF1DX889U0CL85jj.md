@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX889U0CL85jj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX889U0CL85jj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX889U0CL85jj)
 
-### [Chill Vibes](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+### [Chill Vibes](https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj)
 
 > Just chill...
+
+241 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

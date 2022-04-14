@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5s99CZPCFK4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5s99CZPCFK4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5s99CZPCFK4)
 
-### [PRIDE: Manchester](https://open.spotify.com/playlist/2wu4GwkkwO8oMNIKp8YIpt)
+### [PRIDE: Manchester](https://open.spotify.com/playlist/37i9dQZF1DX5s99CZPCFK4)
 
 > Claim your space this Pride in Manchester\. Cover: Heather Baron\-Gracie
+
+30 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/2wu4GwkkwO8oMNIKp8YIpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

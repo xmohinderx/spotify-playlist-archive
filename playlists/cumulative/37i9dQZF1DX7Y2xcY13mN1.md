@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Y2xcY13mN1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Y2xcY13mN1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Y2xcY13mN1)
 
-### [50 Irish Folk Songs](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
+### [50 Irish Folk Songs](https://open.spotify.com/playlist/37i9dQZF1DX7Y2xcY13mN1)
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
+
+57 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

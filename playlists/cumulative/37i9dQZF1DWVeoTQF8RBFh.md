@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVeoTQF8RBFh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVeoTQF8RBFh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVeoTQF8RBFh)
 
-### [Science Fiction](https://open.spotify.com/playlist/5kqH2YqWQccsPT8UIREdqB)
+### [Science Fiction](https://open.spotify.com/playlist/37i9dQZF1DWVeoTQF8RBFh)
 
 > Verne, Huxley, Wells..\. a classic collection of science fiction.
+
+197 songs - 1 day 22 hr 18 min - [published](https://open.spotify.com/playlist/5kqH2YqWQccsPT8UIREdqB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

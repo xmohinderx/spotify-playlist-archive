@@ -1,13 +1,45 @@
 {
-  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Katherine Li. Artwork: Paola Saliby\n",
-  "num_followers": 156144,
+  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Maddy Storm. Artwork: Paola Saliby\n",
+  "num_followers": 156312,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc3NDM1NiwwMDAwMDY5NjAwMDAwMTgwMWUzNmU3OGUwMDAwMDE3ZmZmOGE4MjBk",
+  "snapshot_id": "MTY0OTg2MzY0NCwwMDAwMDY5NzAwMDAwMTgwMjM4OTUzYmMwMDAwMDE4MDIzODQxOWU1",
   "tracks": [
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Last Resort",
+        "url": "https://open.spotify.com/album/4RAwawz5JYMUCMW63mgtaE"
+      },
+      "artists": [
+        {
+          "name": "Maddy Storm",
+          "url": "https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT"
+        }
+      ],
+      "duration_ms": 129039,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/4YrFU5gRsmKv69s2L3AYdB"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Sex In Public",
+        "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
+      },
+      "artists": [
+        {
+          "name": "Menna",
+          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
+        }
+      ],
+      "duration_ms": 143531,
+      "name": "Sex In Public",
+      "url": "https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk"
+    },
     {
       "added_at": "2022-04-06 15:45:49",
       "album": {
@@ -25,20 +57,180 @@
       "url": "https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc"
     },
     {
-      "added_at": "2022-04-06 15:45:49",
+      "added_at": "2022-04-13 15:27:24",
       "album": {
-        "name": "Best Dressed Ex / Your New Tattoo",
-        "url": "https://open.spotify.com/album/7weBwRSKvIl9cMq5Xbtfmz"
+        "name": "Ruin Your Night",
+        "url": "https://open.spotify.com/album/4zAXzBt4aTB8dcXAQsXvEA"
       },
       "artists": [
         {
-          "name": "Freddie Lewis",
-          "url": "https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y"
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
         }
       ],
-      "duration_ms": 213355,
-      "name": "Best Dressed Ex",
-      "url": "https://open.spotify.com/track/5N6zMhMWFeJmDSgoDGuCC5"
+      "duration_ms": 167250,
+      "name": "Ruin Your Night",
+      "url": "https://open.spotify.com/track/6dOmJIbASln7e4sln6sHWw"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "i always end up leaving.",
+        "url": "https://open.spotify.com/album/7x4BQ0AQcuN92NGnz6EZih"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        }
+      ],
+      "duration_ms": 235211,
+      "name": "i always end up leaving.",
+      "url": "https://open.spotify.com/track/1tgvVVE8hIryQzTVnPZUdF"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Ready Now",
+        "url": "https://open.spotify.com/album/3HHw4HnBtG1cRc3KVbeTBn"
+      },
+      "artists": [
+        {
+          "name": "Lisa Wright",
+          "url": "https://open.spotify.com/artist/48p7FJQ2yD1Ol8BWhHcfE2"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/2vjKqJ5ng4uEkN24Lbtu5f"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "sea u n tea",
+        "url": "https://open.spotify.com/album/14kyx1y0yhOWqFfsNqWLKh"
+      },
+      "artists": [
+        {
+          "name": "priestess",
+          "url": "https://open.spotify.com/artist/3JDhZBUZGHTTc4Z6B1NzNj"
+        }
+      ],
+      "duration_ms": 207274,
+      "name": "sea u n tea",
+      "url": "https://open.spotify.com/track/3O582rGV8pd7pWKkmSm4bc"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/4LgNaOfIQ24KSz3SENag21"
+      },
+      "artists": [
+        {
+          "name": "Bade",
+          "url": "https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/08P0rCZzo3qjCk6O9p0Gjp"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/4KAh8M5voajKYfF62DN9ri"
+      },
+      "artists": [
+        {
+          "name": "Tishmal",
+          "url": "https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/5CNsudttspVuqYvMaiKhrs"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4"
+      },
+      "artists": [
+        {
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+        }
+      ],
+      "duration_ms": 187475,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "G-GIRL",
+        "url": "https://open.spotify.com/album/0RVSx3zGqFF6W2nYGG8i1W"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "G-GIRL",
+      "url": "https://open.spotify.com/track/3JNEtuIPO7zYnADwzEpKwA"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Wishing",
+        "url": "https://open.spotify.com/album/4iA2y8NwxTQvn58mpfGLux"
+      },
+      "artists": [
+        {
+          "name": "Peter Saputo",
+          "url": "https://open.spotify.com/artist/2cXcO1RPtdDrkGQgJ16HdF"
+        }
+      ],
+      "duration_ms": 192610,
+      "name": "Wishing",
+      "url": "https://open.spotify.com/track/7mf8dkhj7bShBIamvNIcmE"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Meant 4 u",
+        "url": "https://open.spotify.com/album/7jfQ51q2jmIwFFSCXSBU8G"
+      },
+      "artists": [
+        {
+          "name": "Kierra the Goddess",
+          "url": "https://open.spotify.com/artist/1Rm4i7p3cZu98ijRCgGDPI"
+        }
+      ],
+      "duration_ms": 220705,
+      "name": "Meant 4 u",
+      "url": "https://open.spotify.com/track/6WaelsqiK0obqcmaSup3nS"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "runaway",
+        "url": "https://open.spotify.com/album/1ISAORld7KQ9gF8IlGHYvs"
+      },
+      "artists": [
+        {
+          "name": "Sejal",
+          "url": "https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU"
+        }
+      ],
+      "duration_ms": 167671,
+      "name": "runaway",
+      "url": "https://open.spotify.com/track/1lp3Ds70JUbbN1QD5q0VsH"
     },
     {
       "added_at": "2022-03-30 04:00:00",
@@ -57,6 +249,70 @@
       "url": "https://open.spotify.com/track/2POuS8xQxLtR52E8HFtAwB"
     },
     {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Cold Hearted",
+        "url": "https://open.spotify.com/album/6eMdFiAtpOGDNb868GgtGU"
+      },
+      "artists": [
+        {
+          "name": "SNJ\u00dc",
+          "url": "https://open.spotify.com/artist/4FZ3Wx6Mitb6txV51DqasS"
+        }
+      ],
+      "duration_ms": 227692,
+      "name": "Cold Hearted",
+      "url": "https://open.spotify.com/track/7cB40VKCyeR4IZ90r0sVhN"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "What Then",
+        "url": "https://open.spotify.com/album/5xd8cRFKCQSeuJkPKtpjCv"
+      },
+      "artists": [
+        {
+          "name": "McCall",
+          "url": "https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "What Then",
+      "url": "https://open.spotify.com/track/7LzRh6rSeOwIfluOllUvxk"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "everything is fine",
+        "url": "https://open.spotify.com/album/7g21xIlcdpY8DiZ65iTcad"
+      },
+      "artists": [
+        {
+          "name": "shallow pools",
+          "url": "https://open.spotify.com/artist/5wg5i56CcvaCrZrveXt228"
+        }
+      ],
+      "duration_ms": 188792,
+      "name": "everything is fine",
+      "url": "https://open.spotify.com/track/3KUoaFS4cNVRKAqYFCpDQg"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Same Spoon",
+        "url": "https://open.spotify.com/album/1oxzfVto0zDBiZ27QndqL1"
+      },
+      "artists": [
+        {
+          "name": "Takkin",
+          "url": "https://open.spotify.com/artist/6YJXZoTvzi4NK03J19R73d"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Same Spoon",
+      "url": "https://open.spotify.com/track/21E8AG9rDGRtziaFWGf9aU"
+    },
+    {
       "added_at": "2022-04-06 15:45:49",
       "album": {
         "name": "The Way You Are",
@@ -71,6 +327,138 @@
       "duration_ms": 175950,
       "name": "The Way You Are",
       "url": "https://open.spotify.com/track/52GPw706N71AnEaa1oPBtU"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "TOGAF (Tired Of Giving A Fuck)",
+        "url": "https://open.spotify.com/album/2inGUUMkCRM4J1Rc8yuHyK"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Mick",
+          "url": "https://open.spotify.com/artist/0HmWuWhwxKEIuwTVtFyI8s"
+        }
+      ],
+      "duration_ms": 122855,
+      "name": "TOGAF (Tired Of Giving A Fuck)",
+      "url": "https://open.spotify.com/track/5IpEA4IJ82dBpyayJiU5va"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi"
+      },
+      "artists": [
+        {
+          "name": "Feliciana",
+          "url": "https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY"
+        }
+      ],
+      "duration_ms": 133012,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/2OfF1GFffwahzKWrwwgsXq"
+      },
+      "artists": [
+        {
+          "name": "Blake Proehl",
+          "url": "https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Falling Into You",
+      "url": "https://open.spotify.com/track/0z6AuCoTK782Gb4d0JhALP"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/5KKa4O8V0YmpcKdqDfBNZz"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dare",
+          "url": "https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr"
+        }
+      ],
+      "duration_ms": 200563,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/5Dg385wbg8UpFsPGF7mKSN"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "3 Dots",
+        "url": "https://open.spotify.com/album/2zLXDihNr5mOCBPs48xVlx"
+      },
+      "artists": [
+        {
+          "name": "Wheelwright",
+          "url": "https://open.spotify.com/artist/2uliQptJvJh6ZjWB98LBRU"
+        }
+      ],
+      "duration_ms": 223303,
+      "name": "3 Dots",
+      "url": "https://open.spotify.com/track/70Av51U07ACdrKZUJJBPGM"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Disney Bitch",
+        "url": "https://open.spotify.com/album/47vIhafcuqfH9TNgTuBTju"
+      },
+      "artists": [
+        {
+          "name": "Killer Kennedy",
+          "url": "https://open.spotify.com/artist/4Qgwf1NflcpEcVHCuCw9Gd"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "Disney Bitch",
+      "url": "https://open.spotify.com/track/2jRuSsnB481aumCPQ9fJRZ"
+    },
+    {
+      "added_at": "2022-04-13 15:27:24",
+      "album": {
+        "name": "Bloom Indigo",
+        "url": "https://open.spotify.com/album/5bNmet8sQZdUM0c89xHq9U"
+      },
+      "artists": [
+        {
+          "name": "Hollis",
+          "url": "https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL"
+        },
+        {
+          "name": "Dresage",
+          "url": "https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Bloom Indigo",
+      "url": "https://open.spotify.com/track/2ldyLfiut0Q3bayS5MNNZD"
+    },
+    {
+      "added_at": "2022-04-06 15:45:49",
+      "album": {
+        "name": "Best Dressed Ex / Your New Tattoo",
+        "url": "https://open.spotify.com/album/7weBwRSKvIl9cMq5Xbtfmz"
+      },
+      "artists": [
+        {
+          "name": "Freddie Lewis",
+          "url": "https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y"
+        }
+      ],
+      "duration_ms": 213355,
+      "name": "Best Dressed Ex",
+      "url": "https://open.spotify.com/track/5N6zMhMWFeJmDSgoDGuCC5"
     },
     {
       "added_at": "2022-04-06 15:45:49",
@@ -399,38 +787,6 @@
     {
       "added_at": "2022-04-06 15:45:49",
       "album": {
-        "name": "Truth Hurts",
-        "url": "https://open.spotify.com/album/6i6UVkQc7i078vZLx6lUfE"
-      },
-      "artists": [
-        {
-          "name": "Kid Pesto",
-          "url": "https://open.spotify.com/artist/1cf1f5LmgY4C8bqMhjryaD"
-        }
-      ],
-      "duration_ms": 95094,
-      "name": "Truth Hurts",
-      "url": "https://open.spotify.com/track/1R3mCrvOLrwx4TDmhbOMXo"
-    },
-    {
-      "added_at": "2022-04-06 15:45:49",
-      "album": {
-        "name": "Do You Feel the Same?",
-        "url": "https://open.spotify.com/album/0RGCQnlZdobEgf2EfVKnJq"
-      },
-      "artists": [
-        {
-          "name": "Atzur",
-          "url": "https://open.spotify.com/artist/2aAgUmzCbhVIG23fEkhHfZ"
-        }
-      ],
-      "duration_ms": 178247,
-      "name": "Do You Feel the Same?",
-      "url": "https://open.spotify.com/track/324l0fiiyqnAg8TH5QM2PQ"
-    },
-    {
-      "added_at": "2022-04-06 15:45:49",
-      "album": {
         "name": "Fabricated",
         "url": "https://open.spotify.com/album/2wDZQ2KZF8k6tPM2Ai6Pw0"
       },
@@ -641,54 +997,6 @@
       "url": "https://open.spotify.com/track/0TqCoJvdIs4CtDaQpv7JfH"
     },
     {
-      "added_at": "2022-03-30 04:00:00",
-      "album": {
-        "name": "Fake Friends",
-        "url": "https://open.spotify.com/album/30O4r5RflwEQ4AYrt6Ib9H"
-      },
-      "artists": [
-        {
-          "name": "Melladaze",
-          "url": "https://open.spotify.com/artist/5UsqCBkAPzvtOuCnENmdux"
-        }
-      ],
-      "duration_ms": 155036,
-      "name": "Fake Friends",
-      "url": "https://open.spotify.com/track/38fQ6kiW7QPPK3Sd1Wk8w8"
-    },
-    {
-      "added_at": "2022-03-30 04:00:00",
-      "album": {
-        "name": "DON'T WANT YOUR LOVE",
-        "url": "https://open.spotify.com/album/0krOMNmAC1vqyL91cf2Ti8"
-      },
-      "artists": [
-        {
-          "name": "Jack Omstead",
-          "url": "https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br"
-        }
-      ],
-      "duration_ms": 116200,
-      "name": "DON'T WANT YOUR LOVE",
-      "url": "https://open.spotify.com/track/1IS3Uc40zYIWnxCAdquoKk"
-    },
-    {
-      "added_at": "2022-03-30 04:00:00",
-      "album": {
-        "name": "long way home",
-        "url": "https://open.spotify.com/album/6j5Z01WF39JENkXvALSGAH"
-      },
-      "artists": [
-        {
-          "name": "Troy Ogletree",
-          "url": "https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "long way home",
-      "url": "https://open.spotify.com/track/73HrmMGhlFVz8BbdAABaZa"
-    },
-    {
       "added_at": "2022-03-23 13:28:07",
       "album": {
         "name": "Love Warning",
@@ -703,38 +1011,6 @@
       "duration_ms": 219250,
       "name": "Love Warning",
       "url": "https://open.spotify.com/track/75jC2iGlGyS0f2dEkd5FE9"
-    },
-    {
-      "added_at": "2022-03-30 04:00:00",
-      "album": {
-        "name": "Gasp",
-        "url": "https://open.spotify.com/album/4KxODFdlDd6gL0jUbzs2dG"
-      },
-      "artists": [
-        {
-          "name": "Laura Jinn",
-          "url": "https://open.spotify.com/artist/6oHcWUmB7aiGDwYURi9hGs"
-        }
-      ],
-      "duration_ms": 300969,
-      "name": "Gasp",
-      "url": "https://open.spotify.com/track/4Sb1AjM4gzuSv5BQGIe7lq"
-    },
-    {
-      "added_at": "2022-03-30 04:00:00",
-      "album": {
-        "name": "ALIEN",
-        "url": "https://open.spotify.com/album/50ClXs3SvYRKRpZ0052qy4"
-      },
-      "artists": [
-        {
-          "name": "Nick Ward",
-          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
-        }
-      ],
-      "duration_ms": 254516,
-      "name": "ALIEN",
-      "url": "https://open.spotify.com/track/6laEKEHjds44RV91KfptRM"
     },
     {
       "added_at": "2022-03-30 04:00:00",
@@ -1139,70 +1415,6 @@
       "duration_ms": 198750,
       "name": "cool water",
       "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
-    },
-    {
-      "added_at": "2022-03-23 13:28:07",
-      "album": {
-        "name": "Dark Thoughts About A Pretty Flower",
-        "url": "https://open.spotify.com/album/6g0IHMPMy2e0VENropaA4b"
-      },
-      "artists": [
-        {
-          "name": "The Lovelines",
-          "url": "https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Dark Thoughts About A Pretty Flower",
-      "url": "https://open.spotify.com/track/3Xeu9u21qYeI0vlqzdHLSV"
-    },
-    {
-      "added_at": "2022-03-23 13:28:07",
-      "album": {
-        "name": "Melodramatic",
-        "url": "https://open.spotify.com/album/66lZSpsBfyVeNzveSLOAzB"
-      },
-      "artists": [
-        {
-          "name": "Ricky James",
-          "url": "https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Melodramatic",
-      "url": "https://open.spotify.com/track/6G9ExKzE2zAnoJiGCadU8R"
-    },
-    {
-      "added_at": "2022-03-23 13:28:07",
-      "album": {
-        "name": "i\u2019ve been thinking",
-        "url": "https://open.spotify.com/album/0bSJgM583VrwSSGMRKb6QP"
-      },
-      "artists": [
-        {
-          "name": "Ava Della Pietra",
-          "url": "https://open.spotify.com/artist/5whBm2Wk9GvITjOclp8nQX"
-        }
-      ],
-      "duration_ms": 183907,
-      "name": "i\u2019ve been thinking",
-      "url": "https://open.spotify.com/track/0U5NSAv0aEcW2JSzFk6dKj"
-    },
-    {
-      "added_at": "2022-03-23 13:28:07",
-      "album": {
-        "name": "Chance It",
-        "url": "https://open.spotify.com/album/5qRl3vBzy9N93e8Z0h1Cgq"
-      },
-      "artists": [
-        {
-          "name": "A N X",
-          "url": "https://open.spotify.com/artist/4kGi1QaVrlxt8zZ2YWE8aK"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Chance It",
-      "url": "https://open.spotify.com/track/43tuK7UGtUrWwhn7YJ9P9i"
     },
     {
       "added_at": "2022-03-23 13:28:07",
@@ -1787,22 +1999,6 @@
     {
       "added_at": "2022-03-16 04:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2NynaLn2QbS8Au4cyJBWvV"
-      },
-      "artists": [
-        {
-          "name": "Out for Lunch",
-          "url": "https://open.spotify.com/artist/6s2Tpew2IbZPtD3nGm11bj"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2pZkh4KqcPq8VDu9u6uXl9"
-    },
-    {
-      "added_at": "2022-03-16 04:00:00",
-      "album": {
         "name": "too much too soon",
         "url": "https://open.spotify.com/album/2CHJagCyB48dhJhgh594ZK"
       },
@@ -1819,38 +2015,6 @@
     {
       "added_at": "2022-03-16 04:00:00",
       "album": {
-        "name": "Same Plot",
-        "url": "https://open.spotify.com/album/25XUt5RUrgUDYtHixVNzeF"
-      },
-      "artists": [
-        {
-          "name": "Laiko",
-          "url": "https://open.spotify.com/artist/0SQAiYrcEsisHTLuDzffgX"
-        }
-      ],
-      "duration_ms": 121493,
-      "name": "Same Plot",
-      "url": "https://open.spotify.com/track/5R3um5bRV89XYB6stQuTpj"
-    },
-    {
-      "added_at": "2022-03-16 04:00:00",
-      "album": {
-        "name": "50%",
-        "url": "https://open.spotify.com/album/3zqEXt7VL8z0UpnXxm17be"
-      },
-      "artists": [
-        {
-          "name": "Barrett Crake",
-          "url": "https://open.spotify.com/artist/0io0zWpbQm5kKw5SjeCNTO"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "50%",
-      "url": "https://open.spotify.com/track/346HxVNdsswjpSnX6LyQIi"
-    },
-    {
-      "added_at": "2022-03-16 04:00:00",
-      "album": {
         "name": "Becky's Plan",
         "url": "https://open.spotify.com/album/0xqb3ud21ynwqavfw3vPSf"
       },
@@ -1863,22 +2027,6 @@
       "duration_ms": 185485,
       "name": "Becky's Plan",
       "url": "https://open.spotify.com/track/427JUJckVwkdx0susZPzjh"
-    },
-    {
-      "added_at": "2022-03-16 04:00:00",
-      "album": {
-        "name": "Lightning In A Bottle",
-        "url": "https://open.spotify.com/album/2MchDygc6bfMtkW5FYbPrQ"
-      },
-      "artists": [
-        {
-          "name": "Menna",
-          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
-        }
-      ],
-      "duration_ms": 114545,
-      "name": "Lightning In A Bottle",
-      "url": "https://open.spotify.com/track/4G77iJqwT8PGScFHNDRs3b"
     },
     {
       "added_at": "2022-03-16 04:00:00",
@@ -2107,38 +2255,6 @@
     {
       "added_at": "2022-03-09 05:00:00",
       "album": {
-        "name": "Miata Trip",
-        "url": "https://open.spotify.com/album/4vzzMmeuNfNGg9CADAv5HK"
-      },
-      "artists": [
-        {
-          "name": "Boyu",
-          "url": "https://open.spotify.com/artist/7eaiR8THwt8A77v0IZQHm9"
-        }
-      ],
-      "duration_ms": 236928,
-      "name": "Miata Trip",
-      "url": "https://open.spotify.com/track/22gODljaZ3jYXfPO73hkgT"
-    },
-    {
-      "added_at": "2022-03-09 16:56:13",
-      "album": {
-        "name": "Pink Honda Civic",
-        "url": "https://open.spotify.com/album/6kVhTbBrgMwYZoV1e87wkb"
-      },
-      "artists": [
-        {
-          "name": "Angel Cintron",
-          "url": "https://open.spotify.com/artist/6hZZbz6dn2lD5VvXUSeUs3"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Pink Honda Civic",
-      "url": "https://open.spotify.com/track/5mpNLeGFmVA8ECkIZH3If8"
-    },
-    {
-      "added_at": "2022-03-09 05:00:00",
-      "album": {
         "name": "marriage story",
         "url": "https://open.spotify.com/album/79jhHZ1Kdq8KQI3nLoiM0A"
       },
@@ -2151,70 +2267,6 @@
       "duration_ms": 181417,
       "name": "marriage story",
       "url": "https://open.spotify.com/track/30IQqleF2IxItCSY7vaj8C"
-    },
-    {
-      "added_at": "2022-03-02 05:00:00",
-      "album": {
-        "name": "Confused @ 22",
-        "url": "https://open.spotify.com/album/6to37Q23HK6XAnXJxZgCdf"
-      },
-      "artists": [
-        {
-          "name": "Alexa Cappelli",
-          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
-        }
-      ],
-      "duration_ms": 165485,
-      "name": "broke & lonely",
-      "url": "https://open.spotify.com/track/3o7qVVp4P9CDMrcGbegGUM"
-    },
-    {
-      "added_at": "2022-03-09 05:00:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6kYFj9Qebapq8yW5JDmG97"
-      },
-      "artists": [
-        {
-          "name": "Charlie Powers",
-          "url": "https://open.spotify.com/artist/5AraXiDjVroghzTAjhoShV"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5zr8anBYS8Whu1rOTRqmW7"
-    },
-    {
-      "added_at": "2022-03-09 05:00:00",
-      "album": {
-        "name": "Care Too Much",
-        "url": "https://open.spotify.com/album/0uUbdsiNa87MAPCeYDU3vP"
-      },
-      "artists": [
-        {
-          "name": "jas.",
-          "url": "https://open.spotify.com/artist/35m7eRKwhoNWAGSPop4m8J"
-        }
-      ],
-      "duration_ms": 203904,
-      "name": "Care Too Much",
-      "url": "https://open.spotify.com/track/7nxyOFmn57FrSek6DkU5Gd"
-    },
-    {
-      "added_at": "2022-03-09 05:00:00",
-      "album": {
-        "name": "colder",
-        "url": "https://open.spotify.com/album/0obL7bj45jrMzjC2KXIlLi"
-      },
-      "artists": [
-        {
-          "name": "Nvsh",
-          "url": "https://open.spotify.com/artist/6ohARwz7jIYCXTdQxCSPQ3"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "colder",
-      "url": "https://open.spotify.com/track/2t5hh01Z4oT2t3en3G6NPc"
     },
     {
       "added_at": "2022-03-09 05:00:00",
@@ -2375,38 +2427,6 @@
       "duration_ms": 169524,
       "name": "last paycheck",
       "url": "https://open.spotify.com/track/3j40QQw846gskVZbjvsHUc"
-    },
-    {
-      "added_at": "2022-03-02 05:00:00",
-      "album": {
-        "name": "Street Fighter",
-        "url": "https://open.spotify.com/album/3CWUMXyyzlMIfySFeyDW2S"
-      },
-      "artists": [
-        {
-          "name": "Noah in the Open",
-          "url": "https://open.spotify.com/artist/4aOb13B7cfQem9IbDvSNdz"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Street Fighter",
-      "url": "https://open.spotify.com/track/3BUAVAQyZyl6HDCd3S0uVJ"
-    },
-    {
-      "added_at": "2022-03-02 05:00:00",
-      "album": {
-        "name": "DWYSSWM (Don't Worry Your Secret's Safe With Me)",
-        "url": "https://open.spotify.com/album/76K6RboS9bSVXarOZY4HPn"
-      },
-      "artists": [
-        {
-          "name": "Cody Frost",
-          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "DWYSSWM (Don't Worry Your Secret's Safe With Me)",
-      "url": "https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq"
     }
   ],
   "unique_name": "Fresh Finds Pop",

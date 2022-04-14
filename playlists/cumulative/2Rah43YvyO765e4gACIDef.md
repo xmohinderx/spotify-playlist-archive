@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2Rah43YvyO765e4gACIDef.md) - cumulative - [plain](/playlists/plain/2Rah43YvyO765e4gACIDef) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Rah43YvyO765e4gACIDef)
 
-### [\#Hotmess](https://open.spotify.com/playlist/1z1wcZtDuHa4HAPI6tOGqE)
+### [\#Hotmess](https://open.spotify.com/playlist/2Rah43YvyO765e4gACIDef)
 
 > Wake up in your makeup? Rock it.
+
+24 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/1z1wcZtDuHa4HAPI6tOGqE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

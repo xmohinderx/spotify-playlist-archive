@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb54TOYHv7Df.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb54TOYHv7Df) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb54TOYHv7Df)
 
-### [Summer Hits of the 00s](https://open.spotify.com/playlist/2NewpeaZS7iw807az160yF)
+### [Summer Hits of the 00s](https://open.spotify.com/playlist/37i9dQZF1DXb54TOYHv7Df)
 
 > Songs from the 00s that made you sing and dance all summer long.
+
+80 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/2NewpeaZS7iw807az160yF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

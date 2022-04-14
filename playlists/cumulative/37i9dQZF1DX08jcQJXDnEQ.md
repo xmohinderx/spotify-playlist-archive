@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX08jcQJXDnEQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX08jcQJXDnEQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX08jcQJXDnEQ)
 
-### [90s Metal Classics](https://open.spotify.com/playlist/3h31tTr3Ha92IjfhLZSpkP)
+### [90s Metal Classics](https://open.spotify.com/playlist/37i9dQZF1DX08jcQJXDnEQ)
 
 > A collection of the biggest Metal classics of the 90s\. Cover : Metallica
+
+163 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/3h31tTr3Ha92IjfhLZSpkP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

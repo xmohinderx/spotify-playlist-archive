@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdgckExLlG1g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdgckExLlG1g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdgckExLlG1g)
 
-### [Most Favored](https://open.spotify.com/playlist/2ACVboGzl5aIfqANnTZwXY)
+### [Most Favored](https://open.spotify.com/playlist/37i9dQZF1DXdgckExLlG1g)
 
 > The top Christian songs worldwide!  Cover: Lauren Daigle
+
+75 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/2ACVboGzl5aIfqANnTZwXY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

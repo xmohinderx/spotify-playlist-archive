@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2kvBlhyEkb6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2kvBlhyEkb6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2kvBlhyEkb6)
 
-### [This Is Tchaikovsky](https://open.spotify.com/playlist/0wz6julsTeg1QhgoYDFPGm)
+### [This Is Tchaikovsky](https://open.spotify.com/playlist/37i9dQZF1DX2kvBlhyEkb6)
 
 > A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.
+
+61 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/0wz6julsTeg1QhgoYDFPGm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

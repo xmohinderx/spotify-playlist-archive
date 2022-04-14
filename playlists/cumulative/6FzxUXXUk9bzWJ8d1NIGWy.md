@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6FzxUXXUk9bzWJ8d1NIGWy.md) - cumulative - [plain](/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy)
 
-### [Digster HITS \- Best of 2013](https://open.spotify.com/playlist/0xdZfO3uQ76T8SaZ5VCsrL)
+### [Digster HITS \- Best of 2013](https://open.spotify.com/playlist/6FzxUXXUk9bzWJ8d1NIGWy)
 
 > 
+
+75 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0xdZfO3uQ76T8SaZ5VCsrL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

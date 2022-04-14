@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8AjME0HhWBt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8AjME0HhWBt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8AjME0HhWBt)
 
-### [This Is: Rombai](https://open.spotify.com/playlist/3YVkTrZYIq6W40UKFuURZc)
+### [This Is: Rombai](https://open.spotify.com/playlist/37i9dQZF1DX8AjME0HhWBt)
 
 > Disfruta toda la música de Rombai!
+
+46 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/3YVkTrZYIq6W40UKFuURZc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

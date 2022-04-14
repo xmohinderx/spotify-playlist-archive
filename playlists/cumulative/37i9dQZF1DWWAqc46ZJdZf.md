@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWAqc46ZJdZf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWAqc46ZJdZf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWAqc46ZJdZf)
 
-### [Black Lives Matter](https://open.spotify.com/playlist/6NlI2j08Q0MMp7vJMFMQPV)
+### [Black Lives Matter](https://open.spotify.com/playlist/37i9dQZF1DWWAqc46ZJdZf)
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
+
+85 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/6NlI2j08Q0MMp7vJMFMQPV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

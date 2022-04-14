@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU73wUKShGqj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU73wUKShGqj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU73wUKShGqj)
 
-### [Edna St\. Vincent Millay](https://open.spotify.com/playlist/4pmQRAEWiIvvyKP9lZIkoz)
+### [Edna St\. Vincent Millay](https://open.spotify.com/playlist/37i9dQZF1DWU73wUKShGqj)
 
 > "My candle burns at both ends; It will not last the night; But ah, my foes, and oh, my friends — It gives a lovely light!"
+
+18 songs - 40 min 12 sec - [published](https://open.spotify.com/playlist/4pmQRAEWiIvvyKP9lZIkoz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSEjz7TrmLMY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSEjz7TrmLMY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSEjz7TrmLMY)
 
-### [He Venido a Pedirte Perdón](https://open.spotify.com/playlist/3xdcDS5gsL7XdCrYKiv3Fv)
+### [He Venido a Pedirte Perdón](https://open.spotify.com/playlist/37i9dQZF1DWSEjz7TrmLMY)
 
 > Canto de tristeza porque lo nuestro terminó.
+
+50 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/3xdcDS5gsL7XdCrYKiv3Fv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

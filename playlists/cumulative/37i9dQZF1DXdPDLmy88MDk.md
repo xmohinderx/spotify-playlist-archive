@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdPDLmy88MDk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdPDLmy88MDk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdPDLmy88MDk)
 
-### [Soft Instrumental](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
+### [Soft Instrumental](https://open.spotify.com/playlist/37i9dQZF1DXdPDLmy88MDk)
 
 > Gentle instrumental tunes.
+
+93 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

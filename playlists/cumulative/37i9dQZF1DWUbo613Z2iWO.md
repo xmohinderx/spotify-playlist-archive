@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUbo613Z2iWO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUbo613Z2iWO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUbo613Z2iWO)
 
-### [The Newness](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+### [The Newness](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
 > Make room for these R&B/Soul artists on the rise! Photo: Laya
+
+144 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

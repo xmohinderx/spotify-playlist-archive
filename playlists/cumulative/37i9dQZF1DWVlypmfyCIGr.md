@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVlypmfyCIGr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVlypmfyCIGr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVlypmfyCIGr)
 
-### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DWVlypmfyCIGr)
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ano
+
+1,053 songs - 2 day 16 hr 48 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

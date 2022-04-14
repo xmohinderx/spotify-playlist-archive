@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcttP9IwoTTL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcttP9IwoTTL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcttP9IwoTTL)
 
-### [Jennifer Cardini's track IDs](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
+### [Jennifer Cardini's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXcttP9IwoTTL)
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
+
+85 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

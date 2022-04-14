@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXaehqeJpkro.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXaehqeJpkro) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXaehqeJpkro)
 
-### [Sing Along K\-Pop \(노래방 인기가요\)](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
+### [Sing Along K\-Pop \(노래방 인기가요\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
+
+203 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

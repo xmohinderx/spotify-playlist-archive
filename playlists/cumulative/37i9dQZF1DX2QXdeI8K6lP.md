@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2QXdeI8K6lP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2QXdeI8K6lP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2QXdeI8K6lP)
 
-### [Tríos y Boleros Románticos](https://open.spotify.com/playlist/4VWZ2LGtzV2ErHEXEj9GJc)
+### [Tríos y Boleros Románticos](https://open.spotify.com/playlist/37i9dQZF1DX2QXdeI8K6lP)
 
 > Música que te hará suspirar como en aquellos años dorados\. En portada: Los Panchos
+
+144 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/4VWZ2LGtzV2ErHEXEj9GJc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +123,7 @@
 | [Sabor a Mí](https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:48 | 2021-10-01 |  |
 | [Sabra Dios](https://open.spotify.com/track/7fcXNUtZSgh9VrKW58Bjuz) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Tríos Del Mundo : 40 Éxitos](https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg) | 3:06 | 2021-12-26 | 2022-03-19 |
 | [Se Te Olvida](https://open.spotify.com/track/29ONIznY42DeacI6o1HUdN) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Boleros De Los Panchos Volumen 1](https://open.spotify.com/album/1smpWoDzr7OuQxX6hHOocG) | 2:26 | 2021-10-01 |  |
-| [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 | 2021-10-01 |  |
+| [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 | 2021-10-01 | 2022-04-14 |
 | [Si Nos Dejan](https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Fiesta Mexicana en las Voces de los Tres Ases](https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC) | 3:02 | 2021-10-01 |  |
 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 | 2021-10-01 |  |
 | [Sin Ti \- Remasterizado](https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:43 | 2021-10-01 |  |
@@ -137,7 +139,7 @@
 | [Tus Promesas de Amor](https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Exitos De Virginia Lopez \- A Peticion Del Publici](https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe) | 2:39 | 2021-10-01 |  |
 | [Tú me acostumbraste](https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [100th Birthday Celebration](https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf) | 2:43 | 2021-12-26 |  |
 | [Un Dia](https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [15 Boleros Inolvidables Con el Trío las Sombras \(Versiones Originales\)](https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE) | 2:30 | 2021-10-01 | 2022-03-09 |
-| [Un Poco Mas](https://open.spotify.com/track/1FJMNthLqNIV9RGviBDl6i) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Grandes Exitos](https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd) | 2:43 | 2021-10-01 | 2022-04-07 |
+| [Un Poco Mas](https://open.spotify.com/track/1FJMNthLqNIV9RGviBDl6i) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Grandes Exitos](https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd) | 2:43 | 2021-10-01 |  |
 | [Un Siglo de Ausencia](https://open.spotify.com/track/00t8BP7RdsG7eprMzeWrXi) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [100 Boleros a Mis Padres](https://open.spotify.com/album/0q0fK9QCdKbmPTddlvPdPJ) | 2:52 | 2021-10-01 | 2022-03-22 |
 | [Un Siglo de Ausencia \- Remasterizado](https://open.spotify.com/track/7nbh6ki0u8cVToPoKZLzsl) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:57 | 2021-10-01 |  |
 | [Una Copa Más](https://open.spotify.com/track/5dhelPVtMadkXASjPUmqO5) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [La Absoluta Colección](https://open.spotify.com/album/4T8MOQQIuICQ3Q7VF0JFB7) | 2:37 | 2021-10-01 |  |

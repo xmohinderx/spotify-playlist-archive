@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7e8TjkFNKWH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7e8TjkFNKWH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7e8TjkFNKWH)
 
-### [Party Hits 2000s](https://open.spotify.com/playlist/7sSfQBatmYYm9qJg4VdiyJ)
+### [Party Hits 2000s](https://open.spotify.com/playlist/37i9dQZF1DX7e8TjkFNKWH)
 
 > The biggest party hits of the 2000s\. Cover: Shakira.
+
+193 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/7sSfQBatmYYm9qJg4VdiyJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3L1KIXcFcHhfeMlf7pD7IB.md) - cumulative - [plain](/playlists/plain/3L1KIXcFcHhfeMlf7pD7IB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3L1KIXcFcHhfeMlf7pD7IB)
 
-### [Foam Party](https://open.spotify.com/playlist/1gSCktCzvR0lAFauUqIeky)
+### [Foam Party](https://open.spotify.com/playlist/3L1KIXcFcHhfeMlf7pD7IB)
 
 > An epic event in the making\. You can not enjoy a Foam party without the perfect songs to get everyone jumping\. Turn it up and let the foam start flowing!
+
+67 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1gSCktCzvR0lAFauUqIeky)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

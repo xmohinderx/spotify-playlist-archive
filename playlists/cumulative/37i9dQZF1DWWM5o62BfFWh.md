@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWM5o62BfFWh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWM5o62BfFWh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWM5o62BfFWh)
 
-### [Cubatón](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
+### [Cubatón](https://open.spotify.com/playlist/37i9dQZF1DWWM5o62BfFWh)
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
+
+71 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

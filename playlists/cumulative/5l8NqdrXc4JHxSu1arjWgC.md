@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5l8NqdrXc4JHxSu1arjWgC.md) - cumulative - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC)
 
-### [Red Vox Recent Favorites](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+### [Red Vox Recent Favorites](https://open.spotify.com/playlist/5l8NqdrXc4JHxSu1arjWgC)
 
 > 
+
+638 songs - 1 day 18 hr 52 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +71,7 @@
 | [Black Swan](https://open.spotify.com/track/4VbV8Zyjuu1qz0QteX1wVC) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [The Eraser](https://open.spotify.com/album/4QSIeDnAnGag2YZ5DjB2eB) | 4:49 | 2020-02-12 |  |
 | [Blood And Rockets: Movement I, Saga Of Jack Parsons \- Movement II, Too The Moon](https://open.spotify.com/track/3npj5lftwtXnEH45Mae1Fz) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b) | [Blood And Rockets: Movement I, Saga Of Jack Parsons \- Movement II, Too The Moon](https://open.spotify.com/album/2EWURfw9h18ou3ALFEZV48) | 6:29 | 2018-10-31 |  |
 | [Blue Diamonds](https://open.spotify.com/track/1vTAeV45Er8hZIVTu4yJ77) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ) | 3:49 | 2020-03-11 |  |
+| [Blunderbuss](https://open.spotify.com/track/2bItWLPlRV0k38WVcNrLUS) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:05 | 2022-04-13 |  |
 | [Boogieman Sam](https://open.spotify.com/track/1imA2gM3IjetWVmetLNbCa) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Fishing For Fishies](https://open.spotify.com/album/1Q5gtIhAPUYszJQveFEhRr) | 4:41 | 2019-08-27 |  |
 | [Bored and Razed](https://open.spotify.com/track/3Irpfqo370st9qV2Q3OW5E) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger](https://open.spotify.com/album/12rfrkN4eZOpmJUmVzE84M) | 3:35 | 2019-06-25 |  |
 | [Borrowed Tune](https://open.spotify.com/track/321hoM2XRQRaqGIrix1633) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Tonight's the Night](https://open.spotify.com/album/2wjrhhAibIUwC40oFMALtr) | 3:25 | 2021-04-18 |  |

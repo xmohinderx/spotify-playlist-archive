@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTplaZ1W7ARf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTplaZ1W7ARf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTplaZ1W7ARf)
 
-### [Street Soul](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
 > Neighborhood Storytellers\. Cover: Yo Gotti
+
+75 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

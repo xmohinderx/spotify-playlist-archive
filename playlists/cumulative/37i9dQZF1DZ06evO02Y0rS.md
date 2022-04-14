@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO02Y0rS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO02Y0rS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO02Y0rS)
 
-### [This Is Bonobo](https://open.spotify.com/playlist/3Lqe04NZCgclmzpw1Wxzz9)
+### [This Is Bonobo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02Y0rS)
 
 > This is Bonobo\. The essential tracks, all in one playlist.
+
+71 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/3Lqe04NZCgclmzpw1Wxzz9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +32,7 @@
 | [Flutter](https://open.spotify.com/track/118jpM7D5hnAEYJ6EzEY3G) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flutter](https://open.spotify.com/album/2RJzEXouslaRTm2EecGPcm) | 4:44 | 2022-01-15 | 2022-01-31 |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-15 |  |
 | [Get Thy Bearings \(feat\. Szjerdene\)](https://open.spotify.com/track/6tqAkUVWAjqTzT363IzgCw) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Szjerdene](https://open.spotify.com/artist/5WcgyMkdfILvNCPTavIINv) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 3:05 | 2022-01-15 |  |
+| [Ghost Ship](https://open.spotify.com/track/3gegbtYGClUcA05vbmI2z5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands Remixed](https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v) | 4:20 | 2022-04-13 |  |
 | [Grains](https://open.spotify.com/track/0f3G1ecfRIffW1qhQt1lEG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:28 | 2022-01-20 | 2022-03-08 |
 | [Heartbreak](https://open.spotify.com/track/4b6WRfxJRY40RBpl3TMQVq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Heartbreak](https://open.spotify.com/album/41oY7hIc9CdA5FtWQVyFAU) | 4:25 | 2022-01-15 |  |
 | [Heaven For The Sinner](https://open.spotify.com/track/6t7SsmMEWNNJaFEpIjrYop) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:09 | 2022-01-20 |  |
@@ -55,7 +58,7 @@
 | [Outlier](https://open.spotify.com/track/6BbFwwHnzY74a8GOsDg8Sn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:55 | 2022-01-15 | 2022-04-10 |
 | [Pick Up](https://open.spotify.com/track/0fhoxg8I2MqRFjTrLFIIuO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:08 | 2022-03-24 | 2022-04-13 |
 | [Polyghost](https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 1:48 | 2022-01-16 | 2022-01-20 |
-| [Prelude](https://open.spotify.com/track/4cwDC2Yk2zqOp6NMX6v750) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 1:18 | 2022-04-11 |  |
+| [Prelude](https://open.spotify.com/track/4cwDC2Yk2zqOp6NMX6v750) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 1:18 | 2022-04-11 | 2022-04-14 |
 | [Recurring](https://open.spotify.com/track/0bpke7omGYtQEUhn7FBsnz) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Nightlite](https://open.spotify.com/album/3bPzeMYquLHyTCUW8shcPL) | 5:03 | 2022-01-15 |  |
 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 | 2022-01-17 |  |
 | [Rosewood](https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:02 | 2022-03-01 |  |
@@ -72,7 +75,7 @@
 | [Stay The Same](https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:44 | 2022-01-15 |  |
 | [Ten Tigers](https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:03 | 2022-03-24 | 2022-03-26 |
 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 | 2022-01-15 |  |
-| [The Keeper](https://open.spotify.com/track/5hmf3hRQMaDIWuZT1zX3ue) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:48 | 2022-04-10 | 2022-04-12 |
+| [The Keeper](https://open.spotify.com/track/5hmf3hRQMaDIWuZT1zX3ue) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:48 | 2022-04-10 |  |
 | [The Plug](https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:18 | 2022-01-15 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-01-15 |  |
 | [We Could Forever](https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:19 | 2022-01-15 | 2022-04-11 |

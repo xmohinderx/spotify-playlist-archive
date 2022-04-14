@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2y5WZJJL4SF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2y5WZJJL4SF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2y5WZJJL4SF)
 
-### [Harp Lullabies](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+### [Harp Lullabies](https://open.spotify.com/playlist/37i9dQZF1DX2y5WZJJL4SF)
 
 > Soft and calm renditions of songs for harp.
+
+128 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

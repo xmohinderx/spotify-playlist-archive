@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0s5kDXi1oC5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0s5kDXi1oC5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0s5kDXi1oC5)
 
-### [Hit Rewind](https://open.spotify.com/playlist/4Os3czTsKHIz757YsBmPgY)
+### [Hit Rewind](https://open.spotify.com/playlist/37i9dQZF1DX0s5kDXi1oC5)
 
 > Listen to all the tracks you've been missing\. Cover: The Weeknd
+
+95 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/4Os3czTsKHIz757YsBmPgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

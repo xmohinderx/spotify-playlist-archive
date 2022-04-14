@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 97106,
+  "num_followers": 97162,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTYyMCwwMDAwMDAwMDcwZjIxMDg5OGQzNzY3OGU0NGE3MDc5ODc2YWUyYTdi",
+  "snapshot_id": "MTY0OTg5ODIyMywwMDAwMDAwMDdhMzJmNzNlOWVjYzVjNDllZTBhZjI2NDRkZjM3NGQ2",
   "tracks": [
     {
       "added_at": "2021-12-31 06:28:29",
@@ -143,22 +143,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "As I Am (with Peter CottonTale)",
-        "url": "https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4"
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale)",
-      "url": "https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc"
+      "duration_ms": 182857,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -179,22 +175,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Standing In Your Light",
         "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 212040,
       "name": "Standing In Your Light",
       "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "As I Am (with Peter CottonTale)",
+        "url": "https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "As I Am (with Peter CottonTale)",
+      "url": "https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Won't Look Back",
-        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Won't Look Back",
-      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "I Could Sing Of Your Love Forever",
         "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 175000,
       "name": "Candid Heart",
       "url": "https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Won't Look Back",
+        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Won't Look Back",
+      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
     },
     {
       "added_at": "2021-12-31 06:28:29",

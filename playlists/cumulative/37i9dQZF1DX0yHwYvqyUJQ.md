@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0yHwYvqyUJQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0yHwYvqyUJQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0yHwYvqyUJQ)
 
-### [Learn Italian](https://open.spotify.com/playlist/0YZAqN8U28zThYs64zTfVp)
+### [Learn Italian](https://open.spotify.com/playlist/37i9dQZF1DX0yHwYvqyUJQ)
 
 > Learn Italian with a collection of audio courses that will take you from beginner lessons and travel necessities to advanced conversations.
+
+608 songs - 2 day 5 hr 36 min - [published](https://open.spotify.com/playlist/0YZAqN8U28zThYs64zTfVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

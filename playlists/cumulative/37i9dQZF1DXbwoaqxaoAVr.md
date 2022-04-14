@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbwoaqxaoAVr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbwoaqxaoAVr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbwoaqxaoAVr)
 
-### [Sunshine Reggae](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+### [Sunshine Reggae](https://open.spotify.com/playlist/37i9dQZF1DXbwoaqxaoAVr)
 
 > Pop style reggae for a sunny vibe!
+
+82 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

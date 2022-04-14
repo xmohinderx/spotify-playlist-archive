@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,492 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,578 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 44 | [Butti](https://open.spotify.com/track/4mZB5ybjqoc08yYikVwcff) | [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O), [MULTIPLICA](https://open.spotify.com/artist/0xpeO4zfSgXtpZi7NdId69) | [MULTIPLICA MIXTAPE](https://open.spotify.com/album/1FxgddYtjqnQc9Vg1H0IZI) | 3:15 |
 | 45 | [Háblame Claro](https://open.spotify.com/track/5zMbxpqETt0qsKL1lXgiVJ) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Háblame Claro](https://open.spotify.com/album/605tY0qzMFZDxM77IM1plm) | 2:30 |
 | 46 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 |
-| 47 | [MMM](https://open.spotify.com/track/6CV95XxSrsqseO63POFNtq) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Soñando en Pr](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:34 |
+| 47 | [Mmm Mmm](https://open.spotify.com/track/6CV95XxSrsqseO63POFNtq) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Soñando en PR](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:34 |
 | 48 | [Tsunami](https://open.spotify.com/track/2Y91TdZ7qBFargOZzLugZX) | [Mr\. Jukeboxx](https://open.spotify.com/artist/0rTzD0LmYJRCp97EngfAGg) | [Tsunami](https://open.spotify.com/album/5Bru6r1D7aPfSgnNvdoqOb) | 3:29 |
 | 49 | [Antes \(with Obie Bermúdez, Sergio George\)](https://open.spotify.com/track/5yoMy558gjJ0QHvET6jnCd) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Antes \(with Obie Bermúdez, Sergio George\)](https://open.spotify.com/album/51PsWMV6kKVWhiAQPdhed5) | 3:32 |
 | 50 | [Pq Mientes](https://open.spotify.com/track/1axFfn3zrfGlpuIrFUPONT) | [Bodine](https://open.spotify.com/artist/3l0RaT1QvO3sAHccHxZgy1) | [Celos](https://open.spotify.com/album/1j4mTBBcPXsWBr1XmMTnOK) | 2:27 |

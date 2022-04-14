@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXqzQh2VQNvW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXqzQh2VQNvW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXqzQh2VQNvW)
 
-### [Vibes Right Now](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+### [Vibes Right Now](https://open.spotify.com/playlist/37i9dQZF1DWXqzQh2VQNvW)
 
 > The latest and greatest music out now!
+
+114 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

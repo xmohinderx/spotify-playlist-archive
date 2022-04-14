@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1Bxi8UJlVM7tLYDMOqsYYF.md) - cumulative - [plain](/playlists/plain/1Bxi8UJlVM7tLYDMOqsYYF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Bxi8UJlVM7tLYDMOqsYYF)
 
-### [Girls Night Out](https://open.spotify.com/playlist/7DIePvVwp48Hwsf2Ti9F1q)
+### [Girls Night Out](https://open.spotify.com/playlist/1Bxi8UJlVM7tLYDMOqsYYF)
 
 > The ultimate playlist to get you ready for a fun night out with your girlfriends.
+
+47 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/7DIePvVwp48Hwsf2Ti9F1q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

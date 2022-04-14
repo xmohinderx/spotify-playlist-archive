@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXb9I5xoXLjp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXb9I5xoXLjp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXb9I5xoXLjp)
 
-### [The Most Romantic Songs in the World](https://open.spotify.com/playlist/5McL4KDECCvpXBrrAW9ZH7)
+### [The Most Romantic Songs in the World](https://open.spotify.com/playlist/37i9dQZF1DWXb9I5xoXLjp)
 
 > In the mood for some romance?
+
+63 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/5McL4KDECCvpXBrrAW9ZH7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

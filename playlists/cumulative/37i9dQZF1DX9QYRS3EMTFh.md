@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9QYRS3EMTFh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9QYRS3EMTFh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9QYRS3EMTFh)
 
-### [Dancehall Station](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
 > Les hits dancehall du moment\. Photo : Shenseea
+
+74 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

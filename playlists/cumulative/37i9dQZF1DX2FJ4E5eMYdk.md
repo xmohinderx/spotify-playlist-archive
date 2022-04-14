@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2FJ4E5eMYdk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2FJ4E5eMYdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2FJ4E5eMYdk)
 
-### [Psych & Groove](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
+### [Psych & Groove](https://open.spotify.com/playlist/37i9dQZF1DX2FJ4E5eMYdk)
 
 > A little psychedelic, a little groovy, and very rootsy.
+
+68 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

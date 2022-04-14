@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,290 likes - 60 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,302 likes - 60 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 30 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/5ZE0kmMU5Iua0XItSwxKqp) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
 | 31 | [Kortes \(Kasi Luv\)](https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g) | 5:01 |
 | 32 | [Magasman](https://open.spotify.com/track/4HxFndd2LoR2MBtYABjBlv) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:47 |
-| 33 | [Lady Soul](https://open.spotify.com/track/0Ds7vBTOrAXCXado1TFIVH) | [Dj Jazzy D The GrooveMaster](https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5) | [The Soul Project](https://open.spotify.com/album/69QW8sKlWFNhob3AvxyoRf) | 5:27 |
-| 34 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
+| 33 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
+| 34 | [Lady Soul](https://open.spotify.com/track/0Ds7vBTOrAXCXado1TFIVH) | [Dj Jazzy D The GrooveMaster](https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5) | [The Soul Project](https://open.spotify.com/album/69QW8sKlWFNhob3AvxyoRf) | 5:27 |
 | 35 | [Ngeke Ndiphinde](https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [The Beginning](https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er) | 4:00 |
 | 36 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
 | 37 | [Sibongile](https://open.spotify.com/track/6Km1obLAyapxOYbAqeRE0Q) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:15 |
@@ -51,22 +51,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 41 | [Yehlisan'umoya Ma Africa](https://open.spotify.com/track/0axBrl3OJbqYoYBMBQ1ZIp) | [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Urbanzulu](https://open.spotify.com/album/27Nh3R2uDfwuje1HJtjS7o) | 5:25 |
 | 42 | [Thobela](https://open.spotify.com/track/0stWzuy6xRNVuz5qF3x4ZZ) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Kalawa Jazmee 2012 Pre\-Release](https://open.spotify.com/album/1d2LRuYBx8Ne97H6lJqiLJ) | 4:39 |
 | 43 | [Heavenly Sent](https://open.spotify.com/track/1NXVk9diMIkX1ixmAR5itp) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/2kpVZngXLffWpxHE6qIIpV) | 6:27 |
-| 44 | [How Do You Feel](https://open.spotify.com/track/4IEEIfr41nV2GGY6m1CwaB) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/4VarFac5zKWXGBQ8c75BSE) | 5:06 |
-| 45 | [Umoya](https://open.spotify.com/track/3T0qk4IW6gwiQVG0JRYuwl) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Function](https://open.spotify.com/album/14C5e3lBmlHWuhfh10H1Og) | 4:35 |
-| 46 | [Live My Life](https://open.spotify.com/track/0Gns4jfIHrtpxTn9RGK0mM) | [Winnie Khumalo](https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o) | [Just Wanna Live My Life](https://open.spotify.com/album/5oiXqZA8I7QEztd0lgfcXd) | 5:17 |
-| 47 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
-| 48 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
+| 44 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
+| 45 | [How Do You Feel](https://open.spotify.com/track/4IEEIfr41nV2GGY6m1CwaB) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/4VarFac5zKWXGBQ8c75BSE) | 5:06 |
+| 46 | [Umoya](https://open.spotify.com/track/3T0qk4IW6gwiQVG0JRYuwl) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Function](https://open.spotify.com/album/14C5e3lBmlHWuhfh10H1Og) | 4:35 |
+| 47 | [Live My Life](https://open.spotify.com/track/0Gns4jfIHrtpxTn9RGK0mM) | [Winnie Khumalo](https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o) | [Just Wanna Live My Life](https://open.spotify.com/album/5oiXqZA8I7QEztd0lgfcXd) | 5:17 |
+| 48 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 | 49 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 |
 | 50 | [Caracara](https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Kid X](https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf) | [Skhanda Republic](https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf) | 3:46 |
 | 51 | [Thula Mama](https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM) | [Sibongile Khumalo](https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI) | [Ancient Evening](https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT) | 4:06 |
 | 52 | [Bengim'ngaka](https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:15 |
 | 53 | [We Dance Again](https://open.spotify.com/track/2UTARcdseDfnPiOA6KAj3J) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [We Dance Again](https://open.spotify.com/album/3SJJsNibI2wmGuNyxrvTQ7) | 4:41 |
 | 54 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
-| 55 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
-| 56 | [Show Dem](https://open.spotify.com/track/5fhLSsoi49BDmIH4rBJFqq) | [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr), [HHP](https://open.spotify.com/artist/1rbWoWCmXxeyTq98W9wh4R) | [Colourfull](https://open.spotify.com/album/06xCHFna3tggL1FwH74ieA) | 5:46 |
-| 57 | [Zabalaza](https://open.spotify.com/track/0pKIVNpVSFRxGF7TJ6vubs) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Zabalaza: Project B](https://open.spotify.com/album/2pwF2yxPiB1sHMkJcDNRnD) | 6:47 |
-| 58 | [Special Star](https://open.spotify.com/track/3XfCNErb6OHi9N0I9yZo1V) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/7LFni1AYMo1A57EOOtCH2v) | 5:53 |
+| 55 | [Show Dem](https://open.spotify.com/track/5fhLSsoi49BDmIH4rBJFqq) | [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr), [HHP](https://open.spotify.com/artist/1rbWoWCmXxeyTq98W9wh4R) | [Colourfull](https://open.spotify.com/album/06xCHFna3tggL1FwH74ieA) | 5:46 |
+| 56 | [Zabalaza](https://open.spotify.com/track/0pKIVNpVSFRxGF7TJ6vubs) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Zabalaza: Project B](https://open.spotify.com/album/2pwF2yxPiB1sHMkJcDNRnD) | 6:47 |
+| 57 | [Special Star](https://open.spotify.com/track/3XfCNErb6OHi9N0I9yZo1V) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/7LFni1AYMo1A57EOOtCH2v) | 5:53 |
+| 58 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
 | 59 | [Magic](https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:35 |
-| 60 | [Magesh](https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 4:29 |
+| 60 | [Burn Out](https://open.spotify.com/track/1wzXBdFFWIOEKzVG9JmbEm) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/19uCaDMs2fpsvwG5eMqaFG) | 4:54 |
 
-Snapshot ID: `MTY0OTgxMjAyMywwMDAwMDAwMDhhNmU2ZTBkYmYxNTM5MjFiMTQ3MDllZDY2NWQ3YWY4`
+Snapshot ID: `MTY0OTg5ODYwOCwwMDAwMDAwMGZjNTlmMDQwMDJkNGYzZjc5MTQyNzJlYTg5ZmVhODI5`

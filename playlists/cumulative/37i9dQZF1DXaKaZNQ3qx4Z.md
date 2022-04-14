@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKaZNQ3qx4Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKaZNQ3qx4Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKaZNQ3qx4Z)
 
-### [Dos Íconos: Shakira x Alejandro Sanz](https://open.spotify.com/playlist/6mYuqeCD0z3bCRGzsxg0t1)
+### [Dos Íconos: Shakira x Alejandro Sanz](https://open.spotify.com/playlist/37i9dQZF1DXaKaZNQ3qx4Z)
 
 > Los grandes éxitos de Shakira y Alejandro Sanz en un mismo lugar.
+
+50 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/6mYuqeCD0z3bCRGzsxg0t1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

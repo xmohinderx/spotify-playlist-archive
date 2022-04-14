@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbISk8kxnzfCq.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbISk8kxnzfCq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbISk8kxnzfCq)
 
-### [Top 50 \- Nicaragua](https://open.spotify.com/playlist/67hpJFP9pZbo8wnkuSWocy)
+### [Top 50 \- Nicaragua](https://open.spotify.com/playlist/37i9dQZEVXbISk8kxnzfCq)
 
 > Your daily update of the most played tracks right now \- Nicaragua.
+
+279 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/67hpJFP9pZbo8wnkuSWocy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

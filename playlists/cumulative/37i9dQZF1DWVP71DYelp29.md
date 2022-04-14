@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVP71DYelp29.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVP71DYelp29) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVP71DYelp29)
 
-### [Spotify Singles: Hits](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
+### [Spotify Singles: Hits](https://open.spotify.com/playlist/37i9dQZF1DWVP71DYelp29)
 
 > The hits you know like you’ve never heard before\.  Cover: The Kid LAROI, Demi Lovato and Niall Horan
+
+130 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdlhitnpe6FT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdlhitnpe6FT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdlhitnpe6FT)
 
-### [Golden Instrumentals](https://open.spotify.com/playlist/2mdoB8gHvTDYVCENDqa6NW)
+### [Golden Instrumentals](https://open.spotify.com/playlist/37i9dQZF1DXdlhitnpe6FT)
 
 > The notes that will make you long for those days of yore.
+
+127 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/2mdoB8gHvTDYVCENDqa6NW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

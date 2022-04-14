@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX37T6O68lz4o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX37T6O68lz4o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX37T6O68lz4o)
 
-### [Ripple Effect: New England](https://open.spotify.com/playlist/00m3TONAbF60v2PgKEF6G2)
+### [Ripple Effect: New England](https://open.spotify.com/playlist/37i9dQZF1DX37T6O68lz4o)
 
 > New England music breaking waves\. Cover, Coi Leray
+
+83 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/00m3TONAbF60v2PgKEF6G2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

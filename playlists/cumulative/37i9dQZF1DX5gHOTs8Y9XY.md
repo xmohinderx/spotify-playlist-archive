@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5gHOTs8Y9XY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5gHOTs8Y9XY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5gHOTs8Y9XY)
 
-### [Jazz for Beginners](https://open.spotify.com/playlist/6turhzq7wb2AQ4gmSzxhcu)
+### [Jazz for Beginners](https://open.spotify.com/playlist/37i9dQZF1DX5gHOTs8Y9XY)
 
 > An introduction to the beauty of jazz\. Cover: Chet Baker
+
+100 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/6turhzq7wb2AQ4gmSzxhcu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

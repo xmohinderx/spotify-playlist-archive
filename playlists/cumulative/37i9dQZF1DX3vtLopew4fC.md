@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3vtLopew4fC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3vtLopew4fC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3vtLopew4fC)
 
-### [EQUAL Canada](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+### [EQUAL Canada](https://open.spotify.com/playlist/37i9dQZF1DX3vtLopew4fC)
 
 > Listen to women in Canada, at full volume! Cover: Rêve
+
+234 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +179,7 @@
 | [Read The Room](https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Read The Room](https://open.spotify.com/album/66hA0bftjpanygAoCYZhou) | 2:46 | 2022-03-08 | 2022-04-07 |
 | [Rhythm of You](https://open.spotify.com/track/00cThe80WMLCYyXsjytrOq) | [Jenna Bennett](https://open.spotify.com/artist/01F4laId5DDuQ2UdV9ihcC) | [Rhythm of You](https://open.spotify.com/album/1quh5KBdh5voOJCYqnRgNx) | 2:16 | 2021-12-08 | 2022-03-09 |
 | [Rich](https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Just for Now](https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy) | 1:47 | 2022-04-06 |  |
-| [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Aaron Paris](https://open.spotify.com/artist/71zpxFNyq4h7rNXjpl9eJi) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-04-06 |  |
+| [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-04-06 |  |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-04-06 |  |
 | [ROLLA](https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [ROLLA](https://open.spotify.com/album/29FTSpA2recQP47Z4H6Qqm) | 3:52 | 2022-02-02 | 2022-03-09 |
 | [roses](https://open.spotify.com/track/3PmaqkHQLWpxKhSpo6yJip) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [roses](https://open.spotify.com/album/3UqQa5s6XDUlTxnM1wlGFd) | 3:09 | 2022-03-08 | 2022-04-07 |

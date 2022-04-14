@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5hHfOi73rY3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hHfOi73rY3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5hHfOi73rY3)
 
-### [Warehouse Party](https://open.spotify.com/playlist/7uqJ66jF1VtnDKSvWC7k8R)
+### [Warehouse Party](https://open.spotify.com/playlist/37i9dQZF1DX5hHfOi73rY3)
 
 > Classic party anthems from the club to your ears!
+
+79 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/7uqJ66jF1VtnDKSvWC7k8R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

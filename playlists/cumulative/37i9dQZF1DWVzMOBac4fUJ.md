@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVzMOBac4fUJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzMOBac4fUJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzMOBac4fUJ)
 
-### [This Is: Vance Joy](https://open.spotify.com/playlist/2kBzQqQEmUV2KyibWiQyW8)
+### [This Is: Vance Joy](https://open.spotify.com/playlist/37i9dQZF1DWVzMOBac4fUJ)
 
 > Run down to the riptide with the <a href="spotify:artist:10exVja0key0uqUkk6LJRT">Australian songsmith</a>.
+
+32 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/2kBzQqQEmUV2KyibWiQyW8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

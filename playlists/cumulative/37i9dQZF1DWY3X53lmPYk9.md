@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY3X53lmPYk9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY3X53lmPYk9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY3X53lmPYk9)
 
-### [Peaceful Jazz Piano](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+### [Peaceful Jazz Piano](https://open.spotify.com/playlist/37i9dQZF1DWY3X53lmPYk9)
 
 > Soft interpretations of jazz classics.
+
+102 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

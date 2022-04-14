@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4ad1mBZqxYJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4ad1mBZqxYJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4ad1mBZqxYJ)
 
-### [Barbería](https://open.spotify.com/playlist/79XEgWSSlyCm8TlF1L3SRb)
+### [Barbería](https://open.spotify.com/playlist/37i9dQZF1DX4ad1mBZqxYJ)
 
 > ¡Cortes modernos pa' los compas con estilo!
+
+212 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/79XEgWSSlyCm8TlF1L3SRb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

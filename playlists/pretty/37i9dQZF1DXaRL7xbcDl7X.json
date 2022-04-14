@@ -1,12 +1,12 @@
 {
   "description": "a new wave of indie born on the internet. Cover: Lovejoy",
-  "num_followers": 308622,
+  "num_followers": 308722,
   "original_name": "the INDIEnet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTk2MSwwMDAwMDAwMGQ0YzA0MjQ5MmYxZDRmYmVkZWUwZDJjMTE0MGEwNjg1",
+  "snapshot_id": "MTY0OTg5ODU1MCwwMDAwMDAwMDI4OWRjZDc2ZjllNDMxYjY4ZWQ1ZmU2Zjc5Mzc1MTRh",
   "tracks": [
     {
       "added_at": "2021-08-02 18:28:42",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Chip Chrome & The Mono-Tones",
-        "url": "https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "Let's Skip to the Wedding",
         "url": "https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5KbTBSGUvgDg75gIVhUaAW"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "Chip Chrome & The Mono-Tones",
+        "url": "https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "Looking Out for You",
         "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 179499,
       "name": "Looking Out for You",
       "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -583,26 +583,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Loving Is Easy",
-        "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 126464,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "Loving Is Easy",
+        "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "Sensitive",
         "url": "https://open.spotify.com/album/3Zx1LH7RSNIsrctDzs0VJF"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174720,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/6Vo8KwBWXiKwHa4bz4XWht"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 215555,
       "name": "Listerine",
       "url": "https://open.spotify.com/track/5LEVjmo2QweDHc7k19aFcp"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
+        "name": "Bad Contestant",
+        "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 218754,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
         "name": "1980s Horror Film II",
         "url": "https://open.spotify.com/album/7aWXft5ZKnrdLTMQhR2Lur"
       },
@@ -1287,6 +1303,22 @@
       "duration_ms": 235272,
       "name": "1980s Horror Film II",
       "url": "https://open.spotify.com/track/3VzULnaqPKf1deQyZ5W4Ah"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Arms Tonite",
+      "url": "https://open.spotify.com/track/1rRwwqteLePmi70PGaC8ah"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -1307,38 +1339,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Bad Contestant",
-        "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 218754,
-      "name": "As the World Caves In",
-      "url": "https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
-      },
-      "artists": [
-        {
-          "name": "Vierre Cloud",
-          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
-        }
-      ],
-      "duration_ms": 129543,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "Bambi",
         "url": "https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN"
       },
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+        "name": "moment",
+        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
       },
       "artists": [
         {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+          "name": "Vierre Cloud",
+          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Arms Tonite",
-      "url": "https://open.spotify.com/track/1rRwwqteLePmi70PGaC8ah"
+      "duration_ms": 129543,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
     },
     {
       "added_at": "2021-09-10 23:22:09",

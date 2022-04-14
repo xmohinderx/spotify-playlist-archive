@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5LrQkRUFFuKWAJCECd2X9y.md) - cumulative - [plain](/playlists/plain/5LrQkRUFFuKWAJCECd2X9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5LrQkRUFFuKWAJCECd2X9y)
 
-### [Top Picks Jazz and Blues](https://open.spotify.com/playlist/3czpZyTsdFF4qqVwwaetbV)
+### [Top Picks Jazz and Blues](https://open.spotify.com/playlist/5LrQkRUFFuKWAJCECd2X9y)
 
 > 
+
+20 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/3czpZyTsdFF4qqVwwaetbV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2KWq7Xwva8j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2KWq7Xwva8j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2KWq7Xwva8j)
 
-### [Radar España](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Cano
+> Descubre hoy a los artistas de mañana\. Foto: Quevedo
+
+101 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +17,7 @@
 | [Bonita](https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Bonito](https://open.spotify.com/album/1XoRwACvB8LyKkBV2cSeVB) | 2:52 | 2022-02-03 |  |
 | [CAMALEÓN](https://open.spotify.com/track/5H1LLTRLRw59GZh6Xd5lGe) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Camaleón](https://open.spotify.com/album/0jCM9KSax5G30ZScKCTvAG) | 2:55 | 2021-12-31 | 2022-01-07 |
 | [canción de amor](https://open.spotify.com/track/6YB52qsOLvjW0Q25NN9ngp) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/7h6aG4Z7zNpbbMKJhKn6Nh) | 2:57 | 2022-03-31 |  |
+| [Chamaquita](https://open.spotify.com/track/667CH2wRxXnQOfPD1NrlLJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0) | [Chamaquita](https://open.spotify.com/album/1WuBqKxkSxFeAgnYaQd8We) | 2:50 | 2022-04-13 |  |
 | [Ciencia Ficción](https://open.spotify.com/track/3In29m8LwiMqdbjtOcsmt8) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Ciencia Ficción](https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi) | 3:16 | 2021-12-31 | 2022-04-01 |
 | [clones de ti](https://open.spotify.com/track/6oDffrGPRB7Ni10KnMdEiT) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [clones de ti](https://open.spotify.com/album/4PbFj92HUHOw4LjgT8rFYC) | 2:56 | 2022-01-27 |  |
 | [Co Star](https://open.spotify.com/track/0QDvvTM1GDrOHA7VmTtSD8) | [aroa ay](https://open.spotify.com/artist/11VTXvScf8D82FdfeUp8UC) | [Co Star](https://open.spotify.com/album/22XHuK4wkBhFHhTrHVxeyb) | 2:36 | 2021-12-31 | 2022-02-18 |
@@ -85,7 +88,7 @@
 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-01-27 |  |
 | [señal • atardecer](https://open.spotify.com/track/3FgeuqQls327vXIdoFezMW) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [de la luz](https://open.spotify.com/album/378yGSuUhqGyPCsI3eWzFK) | 2:06 | 2022-01-27 |  |
 | [SHUT UP](https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS) | [SHUT UP](https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34) | 2:48 | 2022-01-27 |  |
-| [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-03-31 |  |
+| [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-03-31 | 2022-04-14 |
 | [Si Quieres](https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Si Quieres](https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl) | 2:47 | 2021-12-31 | 2022-04-01 |
 | [Sin Freno](https://open.spotify.com/track/2ywURcm20LeyocKwrkUr0c) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Sin Freno](https://open.spotify.com/album/1PrVcgRrDssHFanLszDKqz) | 2:40 | 2022-01-27 |  |
 | [Sol de Ayer](https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Sol de Ayer](https://open.spotify.com/album/4vJaartlG3Oor3hWN425eA) | 3:10 | 2022-02-24 |  |

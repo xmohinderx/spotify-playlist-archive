@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8D2YR1GbW3K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8D2YR1GbW3K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8D2YR1GbW3K)
 
-### [Headliners](https://open.spotify.com/playlist/32yWo5rps1QJ3QtObrBl8L)
+### [Headliners](https://open.spotify.com/playlist/37i9dQZF1DX8D2YR1GbW3K)
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
+
+140 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/32yWo5rps1QJ3QtObrBl8L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

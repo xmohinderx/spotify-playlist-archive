@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1EFAu0bePhLMSX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFAu0bePhLMSX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFAu0bePhLMSX)
 
-### [Written By Biff Stannard](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
+### [Written By Biff Stannard](https://open.spotify.com/playlist/37i9dQZF1EFAu0bePhLMSX)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+
+134 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

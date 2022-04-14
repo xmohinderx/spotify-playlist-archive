@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXtBjoO4Thyy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXtBjoO4Thyy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXtBjoO4Thyy)
 
-### [The Classical Takeover: Philip Glass](https://open.spotify.com/playlist/2Ko7REyQJ5V1ahMlEs6Sks)
+### [The Classical Takeover: Philip Glass](https://open.spotify.com/playlist/37i9dQZF1DWXtBjoO4Thyy)
 
 > Philip Glass continues The Classical Takeover with his all\-time favourite tunes.
+
+240 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/2Ko7REyQJ5V1ahMlEs6Sks)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

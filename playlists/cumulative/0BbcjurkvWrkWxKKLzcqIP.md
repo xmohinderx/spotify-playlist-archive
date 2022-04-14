@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0BbcjurkvWrkWxKKLzcqIP.md) - cumulative - [plain](/playlists/plain/0BbcjurkvWrkWxKKLzcqIP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0BbcjurkvWrkWxKKLzcqIP)
 
-### [The Perfect Crafternoon](https://open.spotify.com/playlist/62cEIXQ48n0ww7AbIOtkNp)
+### [The Perfect Crafternoon](https://open.spotify.com/playlist/0BbcjurkvWrkWxKKLzcqIP)
 
 > Soundtrack a perfect crafternoon spent scrapbooking, knitting, or working on projects with friends.
+
+70 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/62cEIXQ48n0ww7AbIOtkNp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbMDoHDwVN2tF.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMDoHDwVN2tF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMDoHDwVN2tF)
 
-### [Top 50 \- Global](https://open.spotify.com/playlist/2DihMhvvEvcteVkQxI4f0y)
+### [Top 50 \- Global](https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF)
 
 > Your daily update of the most played tracks right now \- Global.
+
+799 songs - 1 day 21 hr 10 min - [published](https://open.spotify.com/playlist/2DihMhvvEvcteVkQxI4f0y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdbXrPNafg9d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdbXrPNafg9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdbXrPNafg9d)
 
-### [All New Indie](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
 > The best new tracks every week\. Cover: Omar Apollo
+
+3,443 songs - 8 day 10 hr 50 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

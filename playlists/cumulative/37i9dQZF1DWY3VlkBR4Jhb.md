@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY3VlkBR4Jhb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY3VlkBR4Jhb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY3VlkBR4Jhb)
 
-### [This Is Schubert](https://open.spotify.com/playlist/7v2UnqFJJ6VNimJuITu1oj)
+### [This Is Schubert](https://open.spotify.com/playlist/37i9dQZF1DWY3VlkBR4Jhb)
 
 > The essential works of Franz Schubert.
+
+63 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/7v2UnqFJJ6VNimJuITu1oj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

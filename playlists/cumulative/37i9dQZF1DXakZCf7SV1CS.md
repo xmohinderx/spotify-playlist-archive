@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXakZCf7SV1CS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXakZCf7SV1CS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXakZCf7SV1CS)
 
-### [Hyperpop Classics](https://open.spotify.com/playlist/7osmwtkMAqCNF1RA6866nT)
+### [Hyperpop Classics](https://open.spotify.com/playlist/37i9dQZF1DXakZCf7SV1CS)
 
 > Hyperpop classics by the pioneers of the sound and its modern\-day icons\. Cover: 100 gecs
+
+100 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/7osmwtkMAqCNF1RA6866nT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md) - cumulative - [plain](/playlists/plain/2dWfCGZguakRQagX7wM6Mi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2dWfCGZguakRQagX7wM6Mi)
 
-### [\#FlashbackFriday](https://open.spotify.com/playlist/2GkwX1ftJXERWKzcFnaUVH)
+### [\#FlashbackFriday](https://open.spotify.com/playlist/2dWfCGZguakRQagX7wM6Mi)
 
 > Stay tuned for a fresh mix of flashback hits! This week, party like it's 1999!
+
+50 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/2GkwX1ftJXERWKzcFnaUVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

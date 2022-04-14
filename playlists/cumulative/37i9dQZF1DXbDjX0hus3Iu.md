@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbDjX0hus3Iu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbDjX0hus3Iu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbDjX0hus3Iu)
 
-### [Southern Rock 101](https://open.spotify.com/playlist/32m0kp3VU59LLfn7Ms9ksX)
+### [Southern Rock 101](https://open.spotify.com/playlist/37i9dQZF1DXbDjX0hus3Iu)
 
 > The early pioneers and current favorites in Southern Rock\.  Cover:  The Godfather...Charlie Daniels.
+
+106 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/32m0kp3VU59LLfn7Ms9ksX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

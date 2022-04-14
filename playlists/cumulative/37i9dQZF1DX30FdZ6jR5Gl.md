@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX30FdZ6jR5Gl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX30FdZ6jR5Gl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX30FdZ6jR5Gl)
 
-### [This Is Philip Glass](https://open.spotify.com/playlist/3tgtXQCykx52DdHGPw97Cm)
+### [This Is Philip Glass](https://open.spotify.com/playlist/37i9dQZF1DX30FdZ6jR5Gl)
 
 > An introduction to American composer Philip Glass \(b\. 1937\), whose hypnotic and powerful music has become part of our cultural soundtrack.
+
+47 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/3tgtXQCykx52DdHGPw97Cm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTCHbho2Bfok.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTCHbho2Bfok) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTCHbho2Bfok)
 
-### [Christmas Favourites](https://open.spotify.com/playlist/6kMROUmrhkoCB9OtoHeyZI)
+### [Christmas Favourites](https://open.spotify.com/playlist/37i9dQZF1DWTCHbho2Bfok)
 
 > All the festive faves to soundtrack your very merry Christmas!
+
+53 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/6kMROUmrhkoCB9OtoHeyZI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

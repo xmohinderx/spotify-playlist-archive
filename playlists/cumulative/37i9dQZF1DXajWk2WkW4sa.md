@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXajWk2WkW4sa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajWk2WkW4sa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajWk2WkW4sa)
 
-### [Kathy Griffin \#PressPlayForPride](https://open.spotify.com/playlist/06pXHEatbTWVilv8aFhK1X)
+### [Kathy Griffin \#PressPlayForPride](https://open.spotify.com/playlist/37i9dQZF1DXajWk2WkW4sa)
 
 > <a href="spotify:artist:7ahoEOUbXDm3vYTvOHWXbe">Kathy Griffin</a> joins us to \#PressPlayForPride\. Discover more at <a href="https://open.spotify.com/genre/pride">spotify.com/pride.</a>
+
+23 songs - 1 hr 8 min - [published](https://open.spotify.com/playlist/06pXHEatbTWVilv8aFhK1X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

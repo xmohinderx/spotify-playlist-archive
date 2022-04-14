@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7D7lQhUs2b8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7D7lQhUs2b8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7D7lQhUs2b8)
 
-### [EQUAL Centro & Caribe](https://open.spotify.com/playlist/4obl6liHOgVlJw1mIpZjUr)
+### [EQUAL Centro & Caribe](https://open.spotify.com/playlist/37i9dQZF1DX7D7lQhUs2b8)
 
 > Mujeres de Centroamérica y el Caribe a todo volumen\. Foto: YEИDRY
+
+62 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/4obl6liHOgVlJw1mIpZjUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

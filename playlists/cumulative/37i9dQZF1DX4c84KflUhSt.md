@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4c84KflUhSt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4c84KflUhSt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4c84KflUhSt)
 
-### [This Is Tony Bennett](https://open.spotify.com/playlist/29GLRmSqGXZoEa5xuq9JdZ)
+### [This Is Tony Bennett](https://open.spotify.com/playlist/37i9dQZF1DX4c84KflUhSt)
 
 > The essential tracks, all in one playlist.
+
+50 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/29GLRmSqGXZoEa5xuq9JdZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

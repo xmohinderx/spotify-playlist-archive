@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZUozJiHy44Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUozJiHy44Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUozJiHy44Y)
 
-### [This Is Adele](https://open.spotify.com/playlist/25iPwofyuEhxNXtcvJMrYl)
+### [This Is Adele](https://open.spotify.com/playlist/37i9dQZF1DWZUozJiHy44Y)
 
 > 30 has landed, alongside all her biggest hits!
+
+39 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/25iPwofyuEhxNXtcvJMrYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

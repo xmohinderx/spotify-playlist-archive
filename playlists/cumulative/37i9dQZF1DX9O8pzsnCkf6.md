@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9O8pzsnCkf6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9O8pzsnCkf6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9O8pzsnCkf6)
 
-### [Women of Comedy](https://open.spotify.com/playlist/7pBM3n9mOX2TPxhrlh8qMg)
+### [Women of Comedy](https://open.spotify.com/playlist/37i9dQZF1DX9O8pzsnCkf6)
 
 > A collection of sessions from some of the best comedians of all time.
+
+146 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7pBM3n9mOX2TPxhrlh8qMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

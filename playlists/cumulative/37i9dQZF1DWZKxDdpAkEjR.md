@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZKxDdpAkEjR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZKxDdpAkEjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZKxDdpAkEjR)
 
-### [Summer Hits \(2\)](https://open.spotify.com/playlist/3XVXu4Zxe1HRKq3lLQGhGA)
+### [Summer Hits \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWZKxDdpAkEjR)
 
 > The soundtrack of the Summer 2021.
+
+56 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/3XVXu4Zxe1HRKq3lLQGhGA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

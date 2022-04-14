@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcyPBAlQvdpJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcyPBAlQvdpJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcyPBAlQvdpJ)
 
-### [Mother Funk](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
+### [Mother Funk](https://open.spotify.com/playlist/37i9dQZF1DXcyPBAlQvdpJ)
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
+
+50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

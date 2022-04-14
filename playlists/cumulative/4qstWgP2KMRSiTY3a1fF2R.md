@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4qstWgP2KMRSiTY3a1fF2R.md) - cumulative - [plain](/playlists/plain/4qstWgP2KMRSiTY3a1fF2R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4qstWgP2KMRSiTY3a1fF2R)
 
-### [Beat Down Your Morning](https://open.spotify.com/playlist/3cdCDdhiVUM0wJpOO2L3mU)
+### [Beat Down Your Morning](https://open.spotify.com/playlist/4qstWgP2KMRSiTY3a1fF2R)
 
 > Get your morning on the ropes with some ANGRY ROCK!
+
+22 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/3cdCDdhiVUM0wJpOO2L3mU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

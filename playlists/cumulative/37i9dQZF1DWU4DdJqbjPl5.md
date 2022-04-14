@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU4DdJqbjPl5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU4DdJqbjPl5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU4DdJqbjPl5)
 
-### [Tantalizers](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
 > The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=D7iB6dHfQwa8MLdAJWNESQ" > Elaine </a>
+
+74 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

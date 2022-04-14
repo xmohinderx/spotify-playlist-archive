@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT3qht9CfnL3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT3qht9CfnL3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT3qht9CfnL3)
 
-### [Reggaetón para Tu Ex](https://open.spotify.com/playlist/1NWFMjrHiHs2XyVkwZbAl3)
+### [Reggaetón para Tu Ex](https://open.spotify.com/playlist/37i9dQZF1DWT3qht9CfnL3)
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
+
+61 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/1NWFMjrHiHs2XyVkwZbAl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

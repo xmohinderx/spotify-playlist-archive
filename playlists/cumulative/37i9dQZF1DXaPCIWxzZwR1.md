@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaPCIWxzZwR1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaPCIWxzZwR1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaPCIWxzZwR1)
 
-### [Pop Sauce](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
 > next gen pop featuring Leah Kate
+
+876 songs - 1 day 18 hr 38 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +334,7 @@
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 | 2021-05-22 | 2021-06-19 |
 | [Guerrilla](https://open.spotify.com/track/6y57l1NHNuc1dNz7Cel3Oo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 2:44 | 2021-09-11 | 2021-09-25 |
 | [Hailey](https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:13 | 2021-10-09 | 2021-10-30 |
+| [Hair Toss, Arms Crossed](https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hair Toss, Arms Crossed](https://open.spotify.com/album/62v8uC7bm0dN0FXvkSen7z) | 2:37 | 2022-04-14 |  |
 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 | 2021-10-23 | 2022-01-10 |
 | [Hands On You](https://open.spotify.com/track/1c03f9YZmO792D7hRjZMYi) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Hands On You](https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj) | 2:35 | 2021-12-11 | 2022-01-29 |
 | [Handshakes](https://open.spotify.com/track/6poMKKWyHQNUeakvVqLFJJ) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Handshakes](https://open.spotify.com/album/5udPjH4BgvWNrRryk5rleQ) | 2:34 | 2021-05-22 | 2021-06-12 |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6GwdWRQMQpq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6GwdWRQMQpq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6GwdWRQMQpq)
 
-### [Feelin' Myself](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
+### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Coi Leray
+
+110 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

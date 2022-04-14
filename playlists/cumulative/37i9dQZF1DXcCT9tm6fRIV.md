@@ -1,15 +1,17 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcCT9tm6fRIV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcCT9tm6fRIV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcCT9tm6fRIV)
 
-### [Tangos y Milongas](https://open.spotify.com/playlist/48pLdQsTopl1rcmXXDSwY6)
+### [Tangos y Milongas](https://open.spotify.com/playlist/37i9dQZF1DXcCT9tm6fRIV)
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
+
+86 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/48pLdQsTopl1rcmXXDSwY6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adios Pampa mia](https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN) | [Anibal Troilo \- Cancion desesperada](https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW) | 3:24 | 2022-03-18 |  |
 | [Adiós Mi Barrio](https://open.spotify.com/track/0dP5JsydqbwEiLBPVtBHJJ) | [Lágrima Ríos](https://open.spotify.com/artist/0VlP1rHAiBNxelGn7B5JC8) | [Hermano Moreno](https://open.spotify.com/album/3DF4k9KUIVDFf09QZb1Pjh) | 1:58 | 2022-03-18 |  |
 | [Adiós Muchachos](https://open.spotify.com/track/4I0SK7HDyVKL3ycr8lBMsc) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [La Historia Completa De Carlos Gardel \- Volumen 6](https://open.spotify.com/album/4gmnUTT6lzn7EcyNqjVnNh) | 2:29 | 2022-03-18 |  |
-| [Anclao En Paris](https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [20 Grandes Exitos](https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu) | 2:20 | 2022-03-18 |  |
+| [Anclao En Paris](https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [20 Grandes Exitos](https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu) | 2:20 | 2022-03-18 | 2022-04-14 |
 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 | 2022-03-18 |  |
 | [Bahia Blanca](https://open.spotify.com/track/258NSVG3mRBx8g425pxRyr) | [Carlos Di Sarli](https://open.spotify.com/artist/0gAbrqBahiaTF69TmVb9fQ) | [The Masters of Tango: Carlos Di Sarli, Bahia Blanca](https://open.spotify.com/album/4FR3cuYldDYxEULaTWm3LK) | 2:56 | 2022-03-18 |  |
 | [Balada para un Loco](https://open.spotify.com/track/4wJr6OTtHaPlq7MWhKMKxw) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [El Nuevo Rumbo](https://open.spotify.com/album/1KGQqsIDFBur5kKWuOa3z7) | 5:37 | 2022-03-18 |  |
@@ -79,7 +81,7 @@
 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 | 2022-03-18 |  |
 | [Tal vez sera su voz](https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal vez serà su voz](https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG) | 4:22 | 2022-03-18 |  |
 | [Tango Del Angel](https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog) | [Leopoldo Federico y su Orquesta Tipica](https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w) | [Todo Piazzolla](https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO) | 3:16 | 2022-03-18 |  |
-| [Tangos: Decaríssimo](https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Josep Pons](https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV), [Orquestra De Cambra Teatre Lliure](https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr) | [Piazzolla: Concerto pour bandonéon](https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN) | 2:43 | 2022-03-18 | 2022-03-31 |
+| [Tangos: Decaríssimo](https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Josep Pons](https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV), [Orquestra De Cambra Teatre Lliure](https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr) | [Piazzolla: Concerto pour bandonéon](https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN) | 2:43 | 2022-03-18 |  |
 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 | 2022-03-18 |  |
 | [Tinta Roja](https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN), [Francisco Fiorentino](https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT) | [Toda Mi Vida](https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR) | 3:03 | 2022-03-18 |  |
 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 | 2022-03-18 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0SZWVrotKn1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0SZWVrotKn1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0SZWVrotKn1)
 
-### [Perreo a Poca Luz](https://open.spotify.com/playlist/4nbwOwZnCF2dm0Bx957Lwz)
+### [Perreo a Poca Luz](https://open.spotify.com/playlist/37i9dQZF1DX0SZWVrotKn1)
 
 > Tú me dejaste caer pero el perreo me levantó.
+
+64 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/4nbwOwZnCF2dm0Bx957Lwz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

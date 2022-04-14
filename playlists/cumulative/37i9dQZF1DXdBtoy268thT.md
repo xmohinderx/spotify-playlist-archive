@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdBtoy268thT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdBtoy268thT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdBtoy268thT)
 
-### [Musical Comedy](https://open.spotify.com/playlist/26sjLZeW1ti7smgBw1EK0u)
+### [Musical Comedy](https://open.spotify.com/playlist/37i9dQZF1DXdBtoy268thT)
 
 > Tap your foot and laugh your head off with this hilarious Musical Comedy.
+
+49 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/26sjLZeW1ti7smgBw1EK0u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4NdDHVFmygr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4NdDHVFmygr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4NdDHVFmygr)
 
-### [Morocco Sounds](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+### [Morocco Sounds](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
 > The sweet sounds of Morocco.
+
+95 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

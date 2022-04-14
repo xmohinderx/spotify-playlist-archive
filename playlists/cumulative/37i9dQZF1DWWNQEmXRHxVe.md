@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWNQEmXRHxVe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWNQEmXRHxVe)
 
-### [Halftime Hits](https://open.spotify.com/playlist/5zpvS71N2xg1yMnwTPmsSA)
+### [Halftime Hits](https://open.spotify.com/playlist/37i9dQZF1DWWNQEmXRHxVe)
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Dr\. Dre
+
+99 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/5zpvS71N2xg1yMnwTPmsSA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

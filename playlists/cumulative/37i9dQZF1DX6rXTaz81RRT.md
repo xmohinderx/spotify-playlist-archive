@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6rXTaz81RRT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6rXTaz81RRT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6rXTaz81RRT)
 
-### [Te quiero](https://open.spotify.com/playlist/2qSWw5wyRKPb7U8mTPwrYA)
+### [Te quiero](https://open.spotify.com/playlist/37i9dQZF1DX6rXTaz81RRT)
 
 > Formas musicales de decir "Te quiero".
+
+85 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/2qSWw5wyRKPb7U8mTPwrYA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

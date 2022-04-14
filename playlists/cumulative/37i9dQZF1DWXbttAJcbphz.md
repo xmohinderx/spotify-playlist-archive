@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXbttAJcbphz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXbttAJcbphz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXbttAJcbphz)
 
-### [I Love My '10s R&B](https://open.spotify.com/playlist/62gKARUgXf3sQQyKBotdBs)
+### [I Love My '10s R&B](https://open.spotify.com/playlist/37i9dQZF1DWXbttAJcbphz)
 
 > The most essential R&B songs from the 2010s\. Cover: Beyonce
+
+59 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/62gKARUgXf3sQQyKBotdBs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

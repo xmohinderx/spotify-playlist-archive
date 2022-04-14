@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Gwi28HhdBP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Gwi28HhdBP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Gwi28HhdBP)
 
-### [شعبي مصري](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
+### [شعبي مصري](https://open.spotify.com/playlist/37i9dQZF1DX7Gwi28HhdBP)
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
+
+151 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +83,7 @@
 | [Kolo Rah](https://open.spotify.com/track/6C5DOnAWpXh3do5wpXyGg7) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Kolo Rah](https://open.spotify.com/album/4OzNGm3meIPIHdvfPwYmER) | 4:31 | 2022-02-10 |  |
 | [Ma Tefrahoush](https://open.spotify.com/track/3v2n89Farb1ft281eNbAsY) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/6Psz3Qbb1dxxNDaWITkMWf) | 5:40 | 2021-12-16 | 2021-12-30 |
 | [Makany Mesh Hena](https://open.spotify.com/track/4EEDnIppGuHF0Z2iRc2Jjk) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Makany Mesh Hena](https://open.spotify.com/album/7y3MOSdl3YEghIHel9lVCE) | 3:43 | 2021-12-30 |  |
-| [Malkshy Makan](https://open.spotify.com/track/7kCPZBztxoo8QbmiWs5fku) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Malkshy Makan](https://open.spotify.com/album/3z3BGgBDfwipeklotS0L1A) | 4:04 | 2021-12-16 | 2022-04-07 |
+| [Malkshy Makan](https://open.spotify.com/track/7kCPZBztxoo8QbmiWs5fku) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Malkshy Makan](https://open.spotify.com/album/3z3BGgBDfwipeklotS0L1A) | 4:04 | 2021-12-16 |  |
 | [Mashbe3tesh Khesam](https://open.spotify.com/track/7bv3lpA5IW0NA2yaOo4pI0) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Mashbe3tesh Khesam](https://open.spotify.com/album/2RpBN2u4EBNup7albuvnH3) | 3:35 | 2021-12-16 | 2022-03-23 |
 | [Mawal El Khasses](https://open.spotify.com/track/5oDyX6zBW6M19ggURAT7US) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Magareeh](https://open.spotify.com/album/6nVsp22oRsbX1BHzHfLAhM) | 3:52 | 2021-12-16 |  |
 | [Mesaytara](https://open.spotify.com/track/0m9PqpTXUZl1ZFWIdciLXS) | [Hanin Al Kassir](https://open.spotify.com/artist/1V6625kc5Sv1ImXI1iltW2) | [Mesaytara](https://open.spotify.com/album/7qeGAJr2N5GL0MGzlaipIK) | 2:50 | 2021-12-16 | 2022-03-23 |
@@ -103,7 +105,7 @@
 | [Ya Bege7](https://open.spotify.com/track/6sZ0YGoIpHx2EQD8ltgFgU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Bege7](https://open.spotify.com/album/6mPMMYLI5iKMKfE1eGAwbV) | 5:38 | 2021-12-16 | 2022-03-22 |
 | [Ya Dmaghy](https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Ya Dmaghy](https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6) | 4:03 | 2021-12-16 |  |
 | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/track/0PosqExfBBo3NacLexwDly) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/album/1gnWrEMSr6fGOydroYscyu) | 3:16 | 2021-12-16 | 2022-03-23 |
-| [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Sagher](https://open.spotify.com/artist/4KOKaMBblRBFSvw367yNDo) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 | 2021-12-16 |  |
+| [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Sagher](https://open.spotify.com/artist/4KOKaMBblRBFSvw367yNDo) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 | 2021-12-16 | 2022-04-14 |
 | [Yala Bara Mn Hayaty](https://open.spotify.com/track/5zUXH9sKfnGy6oIZSf2wkA) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Yala Bara Mn Hayaty](https://open.spotify.com/album/6ER6I8lOsQiAqQNvkGILAB) | 4:57 | 2021-12-16 |  |
 | [Yamnana](https://open.spotify.com/track/3eT6PNrOKnvjTbzn60Exoz) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Zahmit Hayaty](https://open.spotify.com/album/1p1Ku5H6hutZT7esX7Itwa) | 4:17 | 2021-12-16 | 2022-03-22 |
 | [Zahma](https://open.spotify.com/track/6hahb2CyhzOxgqKVBRbmjw) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Zahma](https://open.spotify.com/album/57ufRngDYryV07UJnTxPpR) | 9:27 | 2021-12-16 |  |

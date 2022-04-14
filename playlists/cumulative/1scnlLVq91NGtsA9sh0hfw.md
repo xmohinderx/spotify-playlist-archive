@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1scnlLVq91NGtsA9sh0hfw.md) - cumulative - [plain](/playlists/plain/1scnlLVq91NGtsA9sh0hfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1scnlLVq91NGtsA9sh0hfw)
 
-### [Nicholas Sparks \| Songs from the Soundtracks](https://open.spotify.com/playlist/5Hcd2hlcyiWmvHpzZafVvY)
+### [Nicholas Sparks \| Songs from the Soundtracks](https://open.spotify.com/playlist/1scnlLVq91NGtsA9sh0hfw)
 
 > Go behind the scenes of the <a href="http://www.twobytwomusic.com">Two By Two</a> book soundtrack curated by <a href="spotify:user:nicholassparksofficial">Nicholas Sparks</a> and featuring songs from <a href="spotify:artist:410MPX0LjYx4PFgIJsBbPT">JD Eicher</a>\. Then, linger a while with soundtrack selections from your favorite Nicholas Sparks films.
+
+53 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/5Hcd2hlcyiWmvHpzZafVvY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

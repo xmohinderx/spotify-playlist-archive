@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6pJ4E78jhBi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6pJ4E78jhBi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6pJ4E78jhBi)
 
-### [Relaxing Christmas](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
+### [Relaxing Christmas](https://open.spotify.com/playlist/37i9dQZF1DX6pJ4E78jhBi)
 
 > Relax to these chilled instrumental Christmas tunes.
+
+37 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

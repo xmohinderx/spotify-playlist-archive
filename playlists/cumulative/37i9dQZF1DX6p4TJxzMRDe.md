@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6p4TJxzMRDe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6p4TJxzMRDe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6p4TJxzMRDe)
 
-### [This Is One Direction](https://open.spotify.com/playlist/2vGLhHOFBYYay19mvIbyec)
+### [This Is One Direction](https://open.spotify.com/playlist/37i9dQZF1DX6p4TJxzMRDe)
 
 > Dance all night to the best songs ever!
+
+50 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/2vGLhHOFBYYay19mvIbyec)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

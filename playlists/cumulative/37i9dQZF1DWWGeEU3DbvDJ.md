@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWGeEU3DbvDJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWGeEU3DbvDJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWGeEU3DbvDJ)
 
-### [2021 Billboard Music Awards](https://open.spotify.com/playlist/7d6umcwHDALr218gyeRSRU)
+### [2021 Billboard Music Awards](https://open.spotify.com/playlist/37i9dQZF1DWWGeEU3DbvDJ)
 
 > The freshest jams from this year’s BBMAs finalists and performers, airing May 23 on NBC! Cover: The Weeknd
+
+94 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/7d6umcwHDALr218gyeRSRU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

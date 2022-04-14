@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6CwQbybVjjk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6CwQbybVjjk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6CwQbybVjjk)
 
-### [SXSW Best Indie](https://open.spotify.com/playlist/1nef7sIigr60Sm6Eg6wJsy)
+### [SXSW Best Indie](https://open.spotify.com/playlist/37i9dQZF1DX6CwQbybVjjk)
 
 > Check out these indie musics, all froms artists playing at SXSW 2017..\. Cover: <a href="spotify:artist:7FU0xCgmSYQEiBeevUqQ4S">Yoke Lore</a>.
+
+59 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/1nef7sIigr60Sm6Eg6wJsy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

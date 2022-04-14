@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdejmG21jbny.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdejmG21jbny) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdejmG21jbny)
 
-### [Mind & Body](https://open.spotify.com/playlist/6R2Y2tMEHANXWuPQwUT6Pc)
+### [Mind & Body](https://open.spotify.com/playlist/37i9dQZF1DXdejmG21jbny)
 
 > Chill instrumental ambient for slow, focused movement.
+
+86 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/6R2Y2tMEHANXWuPQwUT6Pc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

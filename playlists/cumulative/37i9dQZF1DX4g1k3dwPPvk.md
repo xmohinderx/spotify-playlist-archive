@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4g1k3dwPPvk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4g1k3dwPPvk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4g1k3dwPPvk)
 
-### [90s Latino](https://open.spotify.com/playlist/16bzmiNJN2B7CeLU7dd3R4)
+### [90s Latino](https://open.spotify.com/playlist/37i9dQZF1DX4g1k3dwPPvk)
 
 > The Latin soundtrack of the 90s! Cover: Selena
+
+85 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/16bzmiNJN2B7CeLU7dd3R4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

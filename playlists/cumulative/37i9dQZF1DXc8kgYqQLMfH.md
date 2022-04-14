@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc8kgYqQLMfH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc8kgYqQLMfH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc8kgYqQLMfH)
 
-### [Lush Lofi](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+### [Lush Lofi](https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH)
 
 > The chillest instrumental lofi beats, certified lush.
+
+367 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0DxcHtn4Hwo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0DxcHtn4Hwo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0DxcHtn4Hwo)
 
-### [Baby Sleep](https://open.spotify.com/playlist/3W9tr5FRPSgY7pyjmQnvaP)
+### [Baby Sleep](https://open.spotify.com/playlist/37i9dQZF1DX0DxcHtn4Hwo)
 
 > Soothing instrumental music for sleepy babies.
+
+312 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/3W9tr5FRPSgY7pyjmQnvaP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

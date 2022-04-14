@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd6ydjpSDa3z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd6ydjpSDa3z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd6ydjpSDa3z)
 
-### [Russian Lit](https://open.spotify.com/playlist/0nG8vEI548SicPw5elReqB)
+### [Russian Lit](https://open.spotify.com/playlist/37i9dQZF1DXd6ydjpSDa3z)
 
 > Cozy up with Chekhov's classic short stories, or settle in for a longer listen with Tolstoy, Dostoyevsky, and other Russian greats.
+
+65 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/0nG8vEI548SicPw5elReqB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

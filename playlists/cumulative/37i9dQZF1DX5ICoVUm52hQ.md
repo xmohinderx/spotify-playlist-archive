@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5ICoVUm52hQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ICoVUm52hQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ICoVUm52hQ)
 
-### [Karaoke Mexicano](https://open.spotify.com/playlist/76kqMpYpVXonZ7kbMZnW0n)
+### [Karaoke Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX5ICoVUm52hQ)
 
 > ¡Con las Letras de estas canciones, no querrás soltar el micrófono!
+
+114 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/76kqMpYpVXonZ7kbMZnW0n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2021.",
-  "num_followers": 391550,
+  "num_followers": 391540,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTU2NywwMDAwMDAwMDkwYjJlMDRmOTQ0NjNmZGM5YmI4NWU2YTY4YWUwNGI2",
+  "snapshot_id": "MTY0OTg5ODE3MiwwMDAwMDAwMDdjY2FjMGU0NDYwOTIyNzZkNTEyMGFjN2Y1N2RkMmUw",
   "tracks": [
     {
       "added_at": "2021-08-26 22:02:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2021-08-26 22:02:00",
       "album": {
+        "name": "Weekend Vibe",
+        "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "Weekend Vibe",
+      "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
+    },
+    {
+      "added_at": "2021-08-26 22:02:00",
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 125878,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
-    },
-    {
-      "added_at": "2021-08-26 22:02:00",
-      "album": {
-        "name": "Weekend Vibe",
-        "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "Weekend Vibe",
-      "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
     },
     {
       "added_at": "2021-08-26 22:02:00",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdgnLr18vPvu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdgnLr18vPvu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdgnLr18vPvu)
 
-### [Tailgate Party](https://open.spotify.com/playlist/7wnWj8g9uDLSq7ZWd0CcWi)
+### [Tailgate Party](https://open.spotify.com/playlist/37i9dQZF1DXdgnLr18vPvu)
 
 > The right music can make a good tailgate great.
+
+124 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/7wnWj8g9uDLSq7ZWd0CcWi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

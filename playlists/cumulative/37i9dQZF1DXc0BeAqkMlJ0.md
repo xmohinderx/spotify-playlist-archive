@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc0BeAqkMlJ0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc0BeAqkMlJ0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc0BeAqkMlJ0)
 
-### [This Is Shreya Ghoshal](https://open.spotify.com/playlist/0bnGyxqErkc0gMZEKt99SQ)
+### [This Is Shreya Ghoshal](https://open.spotify.com/playlist/37i9dQZF1DXc0BeAqkMlJ0)
 
 > The Bollywood singer’s biggest hits.
+
+33 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0bnGyxqErkc0gMZEKt99SQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4lwqQxljF1Rge3X4eMzdza.md) - cumulative - [plain](/playlists/plain/4lwqQxljF1Rge3X4eMzdza) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4lwqQxljF1Rge3X4eMzdza)
 
-### [Kendrick Lamar](https://open.spotify.com/playlist/1WAozFEHt4DClmlJjCsUVg)
+### [Kendrick Lamar](https://open.spotify.com/playlist/4lwqQxljF1Rge3X4eMzdza)
 
 > Missa inte Kendrick Lamar på Azalea\-scenen på LÖRDAG / 21.00
+
+10 songs - 42 min 35 sec - [published](https://open.spotify.com/playlist/1WAozFEHt4DClmlJjCsUVg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

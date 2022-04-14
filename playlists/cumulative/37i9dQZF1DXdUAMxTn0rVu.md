@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdUAMxTn0rVu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdUAMxTn0rVu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdUAMxTn0rVu)
 
-### [I Love My Underground Classics](https://open.spotify.com/playlist/14eAdAezP3MLdGe4QegXpf)
+### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: J Dilla
+
+101 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/14eAdAezP3MLdGe4QegXpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

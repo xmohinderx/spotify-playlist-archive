@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3BGNfdmZK0t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3BGNfdmZK0t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3BGNfdmZK0t)
 
-### [This Is Rhiannon Giddens](https://open.spotify.com/playlist/4uNzcjey9QtV2Y8seuTMY2)
+### [This Is Rhiannon Giddens](https://open.spotify.com/playlist/37i9dQZF1DX3BGNfdmZK0t)
 
 > Your essential collection of music by the visionary <a href="spotify:artist:1EI0NtLHoh9KBziYCeN1vM">artist</a>, all in a single playlist.
+
+87 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/4uNzcjey9QtV2Y8seuTMY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

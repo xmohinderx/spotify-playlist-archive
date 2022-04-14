@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8TvdyVZSYFY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8TvdyVZSYFY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8TvdyVZSYFY)
 
-### [Acoustic Throwbacks](https://open.spotify.com/playlist/15USUzNR9YKdH5WRjqJCtH)
+### [Acoustic Throwbacks](https://open.spotify.com/playlist/37i9dQZF1DX8TvdyVZSYFY)
 
 > Big hits from the world of acoustics.
+
+311 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/15USUzNR9YKdH5WRjqJCtH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

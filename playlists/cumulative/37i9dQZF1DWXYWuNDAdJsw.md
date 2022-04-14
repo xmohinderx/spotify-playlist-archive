@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXYWuNDAdJsw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXYWuNDAdJsw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXYWuNDAdJsw)
 
-### [Perrear y Llorar](https://open.spotify.com/playlist/61DjCGIvgLvfIb5LlJiMje)
+### [Perrear y Llorar](https://open.spotify.com/playlist/37i9dQZF1DWXYWuNDAdJsw)
 
 > el nombre lo dice todo.
+
+99 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/61DjCGIvgLvfIb5LlJiMje)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

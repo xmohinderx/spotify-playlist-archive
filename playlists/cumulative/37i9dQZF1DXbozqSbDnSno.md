@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbozqSbDnSno.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbozqSbDnSno) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbozqSbDnSno)
 
-### [Shakespeare: The Histories](https://open.spotify.com/playlist/5Fl2YkWnX5ynBkLntzeCzU)
+### [Shakespeare: The Histories](https://open.spotify.com/playlist/37i9dQZF1DXbozqSbDnSno)
 
 > David Tennant, Sir Ian McKellen, and other inspired prophets of Shakespeare's histories await...
+
+87 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/5Fl2YkWnX5ynBkLntzeCzU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

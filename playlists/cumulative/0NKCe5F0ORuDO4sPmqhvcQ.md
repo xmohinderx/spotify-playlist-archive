@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0NKCe5F0ORuDO4sPmqhvcQ.md) - cumulative - [plain](/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ)
 
-### [Moving Castle Monthly](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+### [Moving Castle Monthly](https://open.spotify.com/playlist/0NKCe5F0ORuDO4sPmqhvcQ)
 
 > selects from music we've been listening to @ Moving Castle
+
+183 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +69,7 @@
 | [For Goodness Sake](https://open.spotify.com/track/1ZzAja0kcAqJEXLZzVbPms) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [For Goodness Sake](https://open.spotify.com/album/5Jzk8JkbvxrTu6r5T6kKAu) | 3:07 | 2022-02-28 | 2022-03-31 |
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-01-18 | 2022-02-05 |
 | [Going Home](https://open.spotify.com/track/5AH62IT62TEek7uigczBeR) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Going Home](https://open.spotify.com/album/03idXsvqv5OVZa8srntnH9) | 3:13 | 2022-03-09 | 2022-03-31 |
+| [Good Vibe](https://open.spotify.com/track/4AmHxLSkut2l0Fyv54fjuZ) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Good Vibe](https://open.spotify.com/album/3K15Io1pcbWvhDxaD5YNz1) | 3:49 | 2022-04-13 |  |
 | [Haircut](https://open.spotify.com/track/3vJ7IorxIUTETdUYc8Wmif) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Haircut](https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou) | 2:58 | 2022-03-30 |  |
 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 | 2022-02-28 | 2022-03-31 |
 | [Head Low](https://open.spotify.com/track/0fJyqGqEJ2ljF9OVOhZi2K) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:24 | 2021-11-23 |  |
@@ -163,6 +166,7 @@
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:59 | 2022-02-10 | 2022-03-10 |
 | [The One](https://open.spotify.com/track/1DOBYtW1ttXbZaI7ekcbYF) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [The One](https://open.spotify.com/album/2hOOvHnYeIOkS3QMzbIknb) | 4:00 | 2021-10-14 |  |
 | [The Sea that Swallowed Me Whole](https://open.spotify.com/track/3JDvRAfXZ6aTc4vPehFBQg) | [Kuoga.](https://open.spotify.com/artist/6zVuQdorqzJrQy6jPACUr7) | [Until It Isn't](https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z) | 3:11 | 2022-02-15 | 2022-03-10 |
+| [The World \- camoufly Remix](https://open.spotify.com/track/3yZfA14Zgp2UZyb5BysEa7) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [The World \(camoufly Remix\)](https://open.spotify.com/album/4suezxo3IOqKI8f94rTsWl) | 2:15 | 2022-04-13 |  |
 | [Think About It](https://open.spotify.com/track/1yAThAiJFPoKepwK6jiCHd) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Think About It](https://open.spotify.com/album/5mL2ZU969ZAdz9MmyihsvV) | 2:54 | 2022-03-09 | 2022-03-31 |
 | [tic tac toe \- sober rob Remix](https://open.spotify.com/track/1MmtDCVSMbVzvnDXfaZqTI) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [photos of the sun \(Remixes\)](https://open.spotify.com/album/1AIGhMH0ljbwKbWecu1Ge2) | 4:33 | 2022-01-28 | 2022-02-16 |
 | [To Be Alone \- Covex VIP Remix](https://open.spotify.com/track/76P5uSg4Dli4KCsmLrUGIv) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [To Be Alone \(Covex VIP Remix\)](https://open.spotify.com/album/2skJmwXvmQ2sDDoQTWfYpV) | 3:04 | 2021-10-21 | 2022-01-08 |
@@ -171,6 +175,7 @@
 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 | 2022-02-15 | 2022-03-10 |
 | [Told U So](https://open.spotify.com/track/2TtyGbcqGEXUYQdwQfLtyL) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Told U So](https://open.spotify.com/album/1E73TM4PUI8mSKVlXwUIS3) | 2:43 | 2022-01-18 | 2022-03-10 |
 | [Too Close](https://open.spotify.com/track/37Y4wyfkJQabDNAyhxInVZ) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [Overstimulated](https://open.spotify.com/album/2HNrUJc3c1HBRN4W0zZrQ3) | 2:36 | 2022-01-18 | 2022-02-16 |
+| [too many](https://open.spotify.com/track/6M0xa5VSdtUEXLgoubop0T) | [TK the Architect](https://open.spotify.com/artist/3HgJJz0BOPhFeAbxVkMd2V) | [too many](https://open.spotify.com/album/3PavHmPjfsKPAPzv9CPU6S) | 3:15 | 2022-04-13 |  |
 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 | 2022-03-25 |  |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-22 | 2022-01-08 |
 | [undo](https://open.spotify.com/track/7i9KAvis03PzePTT88cYmG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [undo](https://open.spotify.com/album/1LTXwkbpRU3UrSlqMXkZ53) | 3:04 | 2021-11-01 | 2022-01-08 |

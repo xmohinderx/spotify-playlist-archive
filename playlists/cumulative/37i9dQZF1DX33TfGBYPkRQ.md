@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX33TfGBYPkRQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX33TfGBYPkRQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX33TfGBYPkRQ)
 
-### [Devastating](https://open.spotify.com/playlist/5pmuoSmL7bv4atCJCFd9iO)
+### [Devastating](https://open.spotify.com/playlist/37i9dQZF1DX33TfGBYPkRQ)
 
 > That feeling of being punched in the gut by a song.
+
+143 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/5pmuoSmL7bv4atCJCFd9iO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

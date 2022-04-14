@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2385160,
+  "num_followers": 2385772,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTc3MSwwMDAwMDAwMDVhZTdlYTRhMGNjZWY4NmIxZjIzOWQzM2FiYTg1MWRi",
+  "snapshot_id": "MTY0OTg5ODM2NCwwMDAwMDAwMDhhNzdmZDc2YjE4NzVlOGExMjEwNTg0YTAzYzUxZTUw",
   "tracks": [
     {
       "added_at": "2021-12-07 21:48:59",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/2Ot1QoNbmHYTzXQDTuWnvO"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/25aMcOH9KVYjllvlupKyJj"
+    },
+    {
+      "added_at": "2021-12-07 21:48:59",
+      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
-        "name": "Me & Magdalena",
-        "url": "https://open.spotify.com/album/5Nkpi7AhiOMLKyeUYxJIfJ"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Me & Magdalena",
-      "url": "https://open.spotify.com/track/3mumafLiMRofRhyczBxuwE"
-    },
-    {
-      "added_at": "2021-12-07 21:48:59",
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -207,18 +207,18 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/2Ot1QoNbmHYTzXQDTuWnvO"
+        "name": "Me & Magdalena",
+        "url": "https://open.spotify.com/album/5Nkpi7AhiOMLKyeUYxJIfJ"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 237360,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/25aMcOH9KVYjllvlupKyJj"
+      "duration_ms": 213706,
+      "name": "Me & Magdalena",
+      "url": "https://open.spotify.com/track/3mumafLiMRofRhyczBxuwE"
     },
     {
       "added_at": "2021-12-07 21:48:59",
@@ -235,22 +235,6 @@
       "duration_ms": 102200,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/1rHMg7t3LICgfTl2OsDn46"
-    },
-    {
-      "added_at": "2021-12-07 21:48:59",
-      "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2021-12-07 21:48:59",
@@ -287,18 +271,18 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2021-12-07 21:48:59",
@@ -319,18 +303,18 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
-        "name": "Tea For The Tillerman (Remastered)",
-        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2021-12-07 21:48:59",
@@ -367,38 +351,6 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "In My Life - Remastered",
-      "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
-    },
-    {
-      "added_at": "2021-12-07 21:48:59",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2021-12-07 21:48:59",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -431,6 +383,22 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
+        "name": "Tea For The Tillerman (Remastered)",
+        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
+    },
+    {
+      "added_at": "2021-12-07 21:48:59",
+      "album": {
         "name": "The Definitive Rod Stewart",
         "url": "https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj"
       },
@@ -447,6 +415,22 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "In My Life - Remastered",
+      "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
+    },
+    {
+      "added_at": "2021-12-07 21:48:59",
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2021-12-07 21:48:59",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
     },
     {
       "added_at": "2021-12-07 21:48:59",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-12-07 21:48:59",
       "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2021-12-07 21:48:59",
+      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 215160,
       "name": "She's Leaving Home - Remastered",
       "url": "https://open.spotify.com/track/1Ipl1kvks5s6GKn6oqgzeY"
-    },
-    {
-      "added_at": "2021-12-07 21:48:59",
-      "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2021-12-07 21:48:59",

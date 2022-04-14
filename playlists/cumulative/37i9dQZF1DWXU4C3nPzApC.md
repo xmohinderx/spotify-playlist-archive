@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXU4C3nPzApC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXU4C3nPzApC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXU4C3nPzApC)
 
-### [Very Nearly Nashville](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
+### [Very Nearly Nashville](https://open.spotify.com/playlist/37i9dQZF1DWXU4C3nPzApC)
 
 > The best music with a Nashville flavour\. Cover: Twinnie
+
+75 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

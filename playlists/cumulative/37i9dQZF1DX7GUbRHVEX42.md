@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7GUbRHVEX42.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7GUbRHVEX42) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7GUbRHVEX42)
 
-### [Irie](https://open.spotify.com/playlist/0YIpWHNBNN3qo5IAtegSNU)
+### [Irie](https://open.spotify.com/playlist/37i9dQZF1DX7GUbRHVEX42)
 
 > The best current contemporary Reggae\. Cover: Skip Marley
+
+51 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/0YIpWHNBNN3qo5IAtegSNU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

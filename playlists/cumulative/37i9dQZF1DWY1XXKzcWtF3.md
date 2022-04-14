@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY1XXKzcWtF3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY1XXKzcWtF3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY1XXKzcWtF3)
 
-### [This Is David Mancuso](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
+### [This Is David Mancuso](https://open.spotify.com/playlist/37i9dQZF1DWY1XXKzcWtF3)
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
+
+205 songs - 21 hr 51 min - [published](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

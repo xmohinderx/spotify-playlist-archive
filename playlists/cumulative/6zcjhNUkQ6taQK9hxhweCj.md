@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6zcjhNUkQ6taQK9hxhweCj.md) - cumulative - [plain](/playlists/plain/6zcjhNUkQ6taQK9hxhweCj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6zcjhNUkQ6taQK9hxhweCj)
 
-### [Vintage Blues Folk](https://open.spotify.com/playlist/4RzGPRkTYtjFXUeEeutye5)
+### [Vintage Blues Folk](https://open.spotify.com/playlist/6zcjhNUkQ6taQK9hxhweCj)
 
 > Deep, dark, gritty, vintage sounds from the best in indie blues folk.
+
+48 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/4RzGPRkTYtjFXUeEeutye5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

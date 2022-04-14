@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV5vqkTng2MA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV5vqkTng2MA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV5vqkTng2MA)
 
-### [the new retro](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
+### [the new retro](https://open.spotify.com/playlist/37i9dQZF1DWV5vqkTng2MA)
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
+
+123 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

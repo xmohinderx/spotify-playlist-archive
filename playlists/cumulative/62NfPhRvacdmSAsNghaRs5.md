@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/62NfPhRvacdmSAsNghaRs5.md) - cumulative - [plain](/playlists/plain/62NfPhRvacdmSAsNghaRs5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62NfPhRvacdmSAsNghaRs5)
 
-### [1992](https://open.spotify.com/playlist/5Ojj6385TJ75qjGp5etqJt)
+### [1992](https://open.spotify.com/playlist/62NfPhRvacdmSAsNghaRs5)
 
 > 
+
+50 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5Ojj6385TJ75qjGp5etqJt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

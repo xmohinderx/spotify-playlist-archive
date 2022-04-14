@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUlCmB8llCTB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUlCmB8llCTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUlCmB8llCTB)
 
-### [Perreo City](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+### [Perreo City](https://open.spotify.com/playlist/37i9dQZF1DWUlCmB8llCTB)
 
 > Esto es un perreo a lo...Cris Mj, AK4:20 & Pailita.
+
+180 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

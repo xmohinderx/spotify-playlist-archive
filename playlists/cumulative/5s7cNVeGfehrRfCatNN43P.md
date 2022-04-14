@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5s7cNVeGfehrRfCatNN43P.md) - cumulative - [plain](/playlists/plain/5s7cNVeGfehrRfCatNN43P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5s7cNVeGfehrRfCatNN43P)
 
-### [New Music Friday: The Popjustice Edit](https://open.spotify.com/playlist/7mc3X7u8Z1dkGe7eP6fDcg)
+### [New Music Friday: The Popjustice Edit](https://open.spotify.com/playlist/5s7cNVeGfehrRfCatNN43P)
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
+
+268 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/7mc3X7u8Z1dkGe7eP6fDcg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

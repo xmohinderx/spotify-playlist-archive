@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXccH49bh52dB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXccH49bh52dB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXccH49bh52dB)
 
-### [Chilled Dance Hits](https://open.spotify.com/playlist/5mexHLItAZBx7Z6vC6fNK2)
+### [Chilled Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DXccH49bh52dB)
 
 > The softer side of dance.
+
+107 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5mexHLItAZBx7Z6vC6fNK2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

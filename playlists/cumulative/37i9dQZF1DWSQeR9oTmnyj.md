@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSQeR9oTmnyj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSQeR9oTmnyj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSQeR9oTmnyj)
 
-### [This Is: John Williams](https://open.spotify.com/playlist/5hvIbSwXPyYI6DBFL3KfUN)
+### [This Is: John Williams](https://open.spotify.com/playlist/37i9dQZF1DWSQeR9oTmnyj)
 
 > An introduction to <a href="spotify:user:spotify:playlist:37i9dQZF1DWXXW8bE6k5tq">John Williams'</a> soundtracks.
+
+58 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5hvIbSwXPyYI6DBFL3KfUN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9BXb6GsGCLl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9BXb6GsGCLl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9BXb6GsGCLl)
 
-### [Powerwalk!](https://open.spotify.com/playlist/1x8QJGVpkb79sPVbfvkiMc)
+### [Powerwalk!](https://open.spotify.com/playlist/37i9dQZF1DX9BXb6GsGCLl)
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
+
+137 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/1x8QJGVpkb79sPVbfvkiMc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

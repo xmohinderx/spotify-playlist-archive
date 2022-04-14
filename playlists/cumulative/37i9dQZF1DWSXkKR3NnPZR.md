@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSXkKR3NnPZR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSXkKR3NnPZR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSXkKR3NnPZR)
 
-### [Dos Íconos: Luis Miguel x Alejandro Fernández](https://open.spotify.com/playlist/5WK7KjTj5uopJ9ZogkB7rZ)
+### [Dos Íconos: Luis Miguel x Alejandro Fernández](https://open.spotify.com/playlist/37i9dQZF1DWSXkKR3NnPZR)
 
 > Los grandes éxitos de Luis Miguel y Alejandro Fernández en un mismo lugar.
+
+50 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/5WK7KjTj5uopJ9ZogkB7rZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

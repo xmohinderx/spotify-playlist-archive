@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2hEEH7Yc5Au.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2hEEH7Yc5Au) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2hEEH7Yc5Au)
 
-### [EQUAL Taiwan](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
+### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
 > 一起來支持女性音樂人的精采表現！Cover: 吳卓源 \(Julia Wu\)
+
+112 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

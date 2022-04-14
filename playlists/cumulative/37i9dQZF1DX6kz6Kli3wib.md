@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6kz6Kli3wib.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6kz6Kli3wib) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6kz6Kli3wib)
 
-### [Dinner Lounge](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+### [Dinner Lounge](https://open.spotify.com/playlist/37i9dQZF1DX6kz6Kli3wib)
 
 > Soft electronic music for your dinner.
+
+170 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

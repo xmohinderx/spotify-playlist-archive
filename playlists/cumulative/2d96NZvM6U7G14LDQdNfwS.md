@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2d96NZvM6U7G14LDQdNfwS.md) - cumulative - [plain](/playlists/plain/2d96NZvM6U7G14LDQdNfwS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2d96NZvM6U7G14LDQdNfwS)
 
-### [Austin Sounds](https://open.spotify.com/playlist/1iwZsXIoVt8E1wQycCkerw)
+### [Austin Sounds](https://open.spotify.com/playlist/2d96NZvM6U7G14LDQdNfwS)
 
 > SXSW has deep roots in Austin\. Get a sense of the city and all its sounds.
+
+41 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/1iwZsXIoVt8E1wQycCkerw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

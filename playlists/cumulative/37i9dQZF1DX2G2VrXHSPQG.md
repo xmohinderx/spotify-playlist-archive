@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2G2VrXHSPQG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2G2VrXHSPQG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2G2VrXHSPQG)
 
-### [Your Alternative](https://open.spotify.com/playlist/0ORcVEhvSZghh7zSPbWGd2)
+### [Your Alternative](https://open.spotify.com/playlist/37i9dQZF1DX2G2VrXHSPQG)
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
+
+108 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/0ORcVEhvSZghh7zSPbWGd2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

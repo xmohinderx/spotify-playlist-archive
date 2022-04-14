@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaJ6UYQLBB2k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaJ6UYQLBB2k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaJ6UYQLBB2k)
 
-### [Ambient 1990s](https://open.spotify.com/playlist/099b4qP987Avm2d4iVZhyZ)
+### [Ambient 1990s](https://open.spotify.com/playlist/37i9dQZF1DXaJ6UYQLBB2k)
 
 > Re\-live the glory of Ambient from the 1990s.
+
+72 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/099b4qP987Avm2d4iVZhyZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYkaDif7Ztbp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYkaDif7Ztbp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYkaDif7Ztbp)
 
-### [African Heat](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
+### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR?si=2v5XrI\-QR3acvTsMOUirMA" > DJ Neptune </a> and <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=6xnox\_OdS22A\-rGhKGOpMQ" > Mr Eazi </a>
+
+96 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

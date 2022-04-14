@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9sQDbOMReFI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9sQDbOMReFI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9sQDbOMReFI)
 
-### [I Love My West Coast Classics](https://open.spotify.com/playlist/46WKAAHiPrNpOK0uN1C8qu)
+### [I Love My West Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DX9sQDbOMReFI)
 
 > The best side! Cover: Snoop Dogg & Dr\. Dre
+
+99 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/46WKAAHiPrNpOK0uN1C8qu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

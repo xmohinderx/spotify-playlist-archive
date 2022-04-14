@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7SeoIaFyTmA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7SeoIaFyTmA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7SeoIaFyTmA)
 
-### [Salsa Classics](https://open.spotify.com/playlist/3ly5UldOYTAYtVr6z4nRPR)
+### [Salsa Classics](https://open.spotify.com/playlist/37i9dQZF1DX7SeoIaFyTmA)
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
+
+99 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/3ly5UldOYTAYtVr6z4nRPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

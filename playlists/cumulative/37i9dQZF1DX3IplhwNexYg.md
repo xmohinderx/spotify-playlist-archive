@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3IplhwNexYg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3IplhwNexYg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3IplhwNexYg)
 
-### [pulp](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
 > Raw and unfiltered\. Cover: Pillow Queens
+
+155 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5COO9vTaRpO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5COO9vTaRpO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5COO9vTaRpO)
 
-### [This Is The Rolling Stones \(2\)](https://open.spotify.com/playlist/0vFowEiBrXTiLgDSTmBtAU)
+### [This Is The Rolling Stones \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX5COO9vTaRpO)
 
 > Honoring the life and legacy of the great Charlie Watts
+
+51 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0vFowEiBrXTiLgDSTmBtAU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

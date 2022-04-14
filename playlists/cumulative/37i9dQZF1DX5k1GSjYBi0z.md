@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5k1GSjYBi0z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5k1GSjYBi0z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5k1GSjYBi0z)
 
-### [All You Need Is Love](https://open.spotify.com/playlist/2vKL1SVVTfMXtcf4GVSZO0)
+### [All You Need Is Love](https://open.spotify.com/playlist/37i9dQZF1DX5k1GSjYBi0z)
 
 > During the height of the 60s, no one knew how to convey the message of love and peace better than the Beatles.
+
+50 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/2vKL1SVVTfMXtcf4GVSZO0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

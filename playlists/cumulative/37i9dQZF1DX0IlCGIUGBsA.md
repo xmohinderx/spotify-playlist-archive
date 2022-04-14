@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0IlCGIUGBsA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IlCGIUGBsA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0IlCGIUGBsA)
 
-### [Ultimate Party Classics](https://open.spotify.com/playlist/4tBOrClKcyYatqHpPJNoHl)
+### [Ultimate Party Classics](https://open.spotify.com/playlist/37i9dQZF1DX0IlCGIUGBsA)
 
 > Get the party going with these classics from across the decades.
+
+154 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/4tBOrClKcyYatqHpPJNoHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +41,7 @@
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2021-12-16 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 | 2021-12-16 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2021-12-16 | 2022-03-22 |
-| [Don't Stop The Music](https://open.spotify.com/track/6tXjP6xgPJ7Xr1igrO6bOE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs) | 4:27 | 2021-12-16 |  |
+| [Don't Stop The Music](https://open.spotify.com/track/6tXjP6xgPJ7Xr1igrO6bOE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs) | 4:27 | 2021-12-16 | 2022-04-14 |
 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 | 2021-12-16 | 2022-03-11 |
 | [Down With The Trumpets](https://open.spotify.com/track/4pxtfrUymcQmdPHssboxwd) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Stereo Typical \(Deluxe Version\)](https://open.spotify.com/album/7xlc7E87lZSH9HJsVG1M2L) | 3:06 | 2021-12-16 | 2022-03-12 |
 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 | 2021-12-16 |  |
@@ -91,7 +93,7 @@
 | [Livin' On A Prayer](https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 4:10 | 2021-12-16 | 2022-02-10 |
 | [Long Train Runnin' \- 2006 Remaster](https://open.spotify.com/track/27YtiJUAxOWlc4BossxNea) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Best of The Doobies](https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA) | 3:26 | 2021-12-16 | 2022-01-06 |
 | [Love Train](https://open.spotify.com/track/3rCNLeHuSDsEPJshmo5OuR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Dead Presidents Vol\. 1/Music From The Motion Picture](https://open.spotify.com/album/09yaGU6AaYLHAONWqhWmMk) | 2:58 | 2021-12-16 |  |
-| [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 | 2021-12-16 | 2022-03-14 |
+| [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 | 2021-12-16 |  |
 | [Lush Life](https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life](https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG) | 3:21 | 2021-12-16 |  |
 | [More Than A Woman \(2007 Remastered Saturday Night Fever LP Version\)](https://open.spotify.com/track/0vDeTWoAooavG2zcCKHmI4) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 3:17 | 2021-12-16 | 2022-03-23 |
 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:21 | 2021-12-16 |  |

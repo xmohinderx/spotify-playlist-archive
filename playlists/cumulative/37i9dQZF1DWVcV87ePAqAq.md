@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVcV87ePAqAq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVcV87ePAqAq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVcV87ePAqAq)
 
-### [Fest!](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
+### [Fest!](https://open.spotify.com/playlist/37i9dQZF1DWVcV87ePAqAq)
 
 > Fest kan vara minst lika kul även om du bara är med dina allra närmsta!
+
+249 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

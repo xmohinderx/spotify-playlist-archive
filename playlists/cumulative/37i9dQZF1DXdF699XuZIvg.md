@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdF699XuZIvg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdF699XuZIvg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdF699XuZIvg)
 
-### [Highway to Yell](https://open.spotify.com/playlist/1r9869jHnoCyAuLiaC1eZq)
+### [Highway to Yell](https://open.spotify.com/playlist/37i9dQZF1DXdF699XuZIvg)
 
 > Hit the road and scream your heart out!
+
+110 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/1r9869jHnoCyAuLiaC1eZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

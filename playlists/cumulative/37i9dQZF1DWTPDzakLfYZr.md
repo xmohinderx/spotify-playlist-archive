@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTPDzakLfYZr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTPDzakLfYZr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTPDzakLfYZr)
 
-### [Popetón](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
+### [Popetón](https://open.spotify.com/playlist/37i9dQZF1DWTPDzakLfYZr)
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Piso 21 & Ñejo
+
+118 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +32,8 @@
 | [Cocoloco](https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Cocoloco](https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga) | 2:55 | 2022-03-25 | 2022-04-02 |
 | [Cuántas veces](https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Cuántas veces](https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB) | 2:37 | 2021-12-10 |  |
 | [De 0 a Siempre](https://open.spotify.com/track/1qxwayGaQN4roLdX5L9pM6) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De 0 a Siempre](https://open.spotify.com/album/2s8Wgg7X68n41ZGuwTmqjd) | 4:08 | 2021-12-10 |  |
+| [Deja Vu](https://open.spotify.com/track/6ANTIKDETHmCjzeBVzMQjf) | [Nicolas Mayorca](https://open.spotify.com/artist/2pg3wL9rxgUzpJDYCBTlt1) | [Deja Vu](https://open.spotify.com/album/2xXCVuiKAUffVnimoxFKnh) | 2:41 | 2022-04-08 |  |
 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:08 | 2021-12-10 |  |
-| [Dejavú](https://open.spotify.com/track/6ANTIKDETHmCjzeBVzMQjf) | [Nicolas Mayorca](https://open.spotify.com/artist/2pg3wL9rxgUzpJDYCBTlt1) | [Dejavú](https://open.spotify.com/album/2xXCVuiKAUffVnimoxFKnh) | 2:41 | 2022-04-08 |  |
 | [Despeinada](https://open.spotify.com/track/71cbRI2v81hE6TkKSQOwik) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Despeinada](https://open.spotify.com/album/0wbDhPbkcJvilPNUHxqk10) | 3:44 | 2021-12-10 |  |
 | [Despiértate](https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Despiértate](https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF) | 2:58 | 2021-12-10 |  |
 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 | 2021-12-10 |  |

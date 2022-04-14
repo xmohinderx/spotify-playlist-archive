@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3IN93M08EFq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3IN93M08EFq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3IN93M08EFq)
 
-### [Spela Shoreline!](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
+### [Spela Shoreline!](https://open.spotify.com/playlist/37i9dQZF1DX3IN93M08EFq)
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
+
+76 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

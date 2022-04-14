@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5SzTPIoCKiv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5SzTPIoCKiv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5SzTPIoCKiv)
 
-### [Christian Mix](https://open.spotify.com/playlist/6q0fkfy4UwedQGnQXEpEq6)
+### [Christian Mix](https://open.spotify.com/playlist/37i9dQZF1DX5SzTPIoCKiv)
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
+
+153 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/6q0fkfy4UwedQGnQXEpEq6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

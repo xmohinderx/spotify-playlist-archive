@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263 likes - 102 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,265 likes - 102 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,10 +105,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 95 | [Nous restions là](https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Sentiments humains](https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS) | 3:57 |
 | 96 | [Nostos](https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr), [BUFFLO](https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2) | [Il](https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS) | 4:31 |
 | 97 | [Elton d'août \- Remix](https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Étienne d'août](https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE) | 5:12 |
-| 98 | [Le loup \- Version Vingt](https://open.spotify.com/track/4UdxgVItOw12sBEOowNiWs) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Le loup \- Single \(Version Vingt\)](https://open.spotify.com/album/49wlFrSODpWhXeA2jNOJ0V) | 4:49 |
-| 99 | [Throes](https://open.spotify.com/track/5mBkv8yj6OIN7E8Td1LcMC) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/524nTFaECBD4ftiDNLYDKM) | 0:54 |
+| 98 | [Throes](https://open.spotify.com/track/5mBkv8yj6OIN7E8Td1LcMC) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/524nTFaECBD4ftiDNLYDKM) | 0:54 |
+| 99 | [Le loup \- Version Vingt](https://open.spotify.com/track/4UdxgVItOw12sBEOowNiWs) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Le loup \- Single \(Version Vingt\)](https://open.spotify.com/album/49wlFrSODpWhXeA2jNOJ0V) | 4:49 |
 | 100 | [Nord\-est](https://open.spotify.com/track/46sn5XL1p64JBI7YwpsrGz) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Nord\-est](https://open.spotify.com/album/2McznR3vgPxnnBH9Knu6PE) | 4:03 |
 | 101 | [Oubliette](https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU) | [Flying Hórses](https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq) | [Tölt](https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX) | 5:44 |
 | 102 | [Ce monde](https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I) | [VAN Piunno](https://open.spotify.com/artist/7HQokVgxCA3pXAieQ9HuXI) | [Ce monde \- Single](https://open.spotify.com/album/0E6O5g66aIM69v7YjCw6ov) | 3:19 |
 
-Snapshot ID: `MTY0OTgxMTc5NywwMDAwMDAwMDVjMDQzNDZjMGUwOGU5MDM0ZDQ0MmYyZmNjMzM3NWJm`
+Snapshot ID: `MTY0OTg5ODM4OSwwMDAwMDAwMDQzMzQwY2IxMGZhMTdhNzQ5YWUwZTgxZWFkNjhhYjZi`

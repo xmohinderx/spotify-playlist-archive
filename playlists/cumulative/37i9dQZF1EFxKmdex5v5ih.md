@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1EFxKmdex5v5ih.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFxKmdex5v5ih) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFxKmdex5v5ih)
 
-### [Written By Michael Pollack](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+### [Written By Michael Pollack](https://open.spotify.com/playlist/37i9dQZF1EFxKmdex5v5ih)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+
+162 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/25eSdLvxjvwfev36rQY3xX.md) - cumulative - [plain](/playlists/plain/25eSdLvxjvwfev36rQY3xX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/25eSdLvxjvwfev36rQY3xX)
 
-### [Rocket League Game Soundtrack \(Complete\)](https://open.spotify.com/playlist/3sxJdwAjo2xD4OaulIUqRX)
+### [Rocket League Game Soundtrack \(Complete\)](https://open.spotify.com/playlist/25eSdLvxjvwfev36rQY3xX)
 
 > 
+
+90 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/3sxJdwAjo2xD4OaulIUqRX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

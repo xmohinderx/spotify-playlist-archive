@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcCnTAt8CfNe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcCnTAt8CfNe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcCnTAt8CfNe)
 
-### [Musical Therapy](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+### [Musical Therapy](https://open.spotify.com/playlist/37i9dQZF1DXcCnTAt8CfNe)
 
 > Soothe your mind with gentle instrumentals.
+
+211 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

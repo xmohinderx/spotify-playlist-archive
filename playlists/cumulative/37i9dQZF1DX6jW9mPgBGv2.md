@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6jW9mPgBGv2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6jW9mPgBGv2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6jW9mPgBGv2)
 
-### [FRONTEO](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
+### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Foto: Duki, De La Ghetto, Quevedo
+
+54 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

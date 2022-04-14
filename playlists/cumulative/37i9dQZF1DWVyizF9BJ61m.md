@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVyizF9BJ61m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVyizF9BJ61m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVyizF9BJ61m)
 
-### [Afro Psychedelica](https://open.spotify.com/playlist/79QmEbB0xiRT4xmUcdumGe)
+### [Afro Psychedelica](https://open.spotify.com/playlist/37i9dQZF1DWVyizF9BJ61m)
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
+
+50 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/79QmEbB0xiRT4xmUcdumGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

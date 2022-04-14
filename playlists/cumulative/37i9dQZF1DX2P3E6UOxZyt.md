@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2P3E6UOxZyt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2P3E6UOxZyt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2P3E6UOxZyt)
 
-### [RADAR 新勢力](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
+### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 2022 RADAR 新勢力
+
+138 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

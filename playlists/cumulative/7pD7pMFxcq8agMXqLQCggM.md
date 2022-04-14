@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7pD7pMFxcq8agMXqLQCggM.md) - cumulative - [plain](/playlists/plain/7pD7pMFxcq8agMXqLQCggM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7pD7pMFxcq8agMXqLQCggM)
 
-### [Rock & Roots](https://open.spotify.com/playlist/3dHW7p2adjbbSr9mnyMKdD)
+### [Rock & Roots](https://open.spotify.com/playlist/7pD7pMFxcq8agMXqLQCggM)
 
 > New takes on old sounds\. These tracks talk back to their roots in the folk, blues, soul, country, and Americana traditions.
+
+54 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/3dHW7p2adjbbSr9mnyMKdD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

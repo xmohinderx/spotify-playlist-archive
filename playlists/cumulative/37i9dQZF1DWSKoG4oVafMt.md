@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSKoG4oVafMt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSKoG4oVafMt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSKoG4oVafMt)
 
-### [Punjabi Pyar](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
+
+265 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +19,7 @@
 | [Balle Ni Balle](https://open.spotify.com/track/3Quh2KLPpnsIi3itQWjuQR) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Balle Ni Balle](https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS) | 2:51 | 2022-04-08 |  |
 | [Bas](https://open.spotify.com/track/1NfnyCDpRMTso2ow5fcfTL) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Bas](https://open.spotify.com/album/3JZ03IN16HsWOqVbz5pnhX) | 2:30 | 2022-03-18 |  |
 | [Befikra](https://open.spotify.com/track/32Tfuu9E7wDqSCkUaXpdeg) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Befikra](https://open.spotify.com/album/1IqfKGDaEnFn5zv6xFzJcW) | 3:26 | 2022-02-24 | 2022-04-06 |
+| [Bewafai Kar Gaya](https://open.spotify.com/track/4NtmlxfMrhLYHDV2EIyVcV) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Lekh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GFtO2lpsbV44AuGSd9l3) | 3:48 | 2022-04-13 |  |
 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 | 2022-03-21 |  |
 | [Bhabi](https://open.spotify.com/track/3EAVty65Aq2boaV6O2vj5I) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:30 | 2022-02-03 |  |
 | [Bhabi](https://open.spotify.com/track/3RRvzCenxnnrZwmZ3MiGkP) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Bhabi](https://open.spotify.com/album/2aB58jJjLQB1xJLcaeq6Jj) | 2:35 | 2021-12-02 |  |

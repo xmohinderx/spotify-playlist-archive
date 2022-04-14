@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6ujZpAN0v9r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ujZpAN0v9r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6ujZpAN0v9r)
 
-### [Shoegaze Classics](https://open.spotify.com/playlist/5wox3oqTyq5tKxLClFEbq5)
+### [Shoegaze Classics](https://open.spotify.com/playlist/37i9dQZF1DX6ujZpAN0v9r)
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
+
+144 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/5wox3oqTyq5tKxLClFEbq5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

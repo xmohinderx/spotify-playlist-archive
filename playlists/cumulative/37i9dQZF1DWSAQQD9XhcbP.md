@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSAQQD9XhcbP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSAQQD9XhcbP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSAQQD9XhcbP)
 
-### [Mellow Christmas](https://open.spotify.com/playlist/37tjlG90TZNOtMj5QxYz5W)
+### [Mellow Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSAQQD9XhcbP)
 
 > Cozy Christmas vibes\. Cover: Norah Jones
+
+70 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/37tjlG90TZNOtMj5QxYz5W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

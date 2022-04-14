@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9CCxc3fffni.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9CCxc3fffni) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9CCxc3fffni)
 
-### [Las Canciones Más Bonitas Del Mundo](https://open.spotify.com/playlist/1DI3LMXBqBch95MO3rurYY)
+### [Las Canciones Más Bonitas Del Mundo](https://open.spotify.com/playlist/37i9dQZF1DX9CCxc3fffni)
 
 > La belleza nunca pasa de moda.
+
+83 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/1DI3LMXBqBch95MO3rurYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

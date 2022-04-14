@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXajkNVL0LazE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajkNVL0LazE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajkNVL0LazE)
 
-### [00s Indie Folk](https://open.spotify.com/playlist/7oAJosHP5U7Gjb4MjQ0A6m)
+### [00s Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DXajkNVL0LazE)
 
 > Indie folk that defined the 2000s.
+
+100 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/7oAJosHP5U7Gjb4MjQ0A6m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

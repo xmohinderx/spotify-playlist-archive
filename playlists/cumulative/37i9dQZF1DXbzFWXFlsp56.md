@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbzFWXFlsp56.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbzFWXFlsp56) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbzFWXFlsp56)
 
-### [Radar Andinos](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
+### [Radar Andinos](https://open.spotify.com/playlist/37i9dQZF1DXbzFWXFlsp56)
 
 > Celebramos la Generación 2021 de Radar Andinos con Blessd.
+
+60 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

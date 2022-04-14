@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX905zIRtblN3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX905zIRtblN3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX905zIRtblN3)
 
-### [La Reina: Éxitos del Regional Mexicano](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
+### [La Reina: Éxitos del Regional Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
 > ¡Las más poderosas y llegadoras de nuestra música! Al millón con Junior H, al millón con La Reina.
+
+103 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

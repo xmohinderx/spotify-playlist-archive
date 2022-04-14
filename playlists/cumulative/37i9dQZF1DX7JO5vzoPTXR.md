@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7JO5vzoPTXR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7JO5vzoPTXR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7JO5vzoPTXR)
 
-### [Created by Women](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+### [Created by Women](https://open.spotify.com/playlist/37i9dQZF1DX7JO5vzoPTXR)
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j?si=a4f855b62105409f">Faye Webster</a>
+
+192 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

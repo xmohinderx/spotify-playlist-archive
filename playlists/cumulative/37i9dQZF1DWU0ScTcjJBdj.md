@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU0ScTcjJBdj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU0ScTcjJBdj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU0ScTcjJBdj)
 
-### [Relax & Unwind](https://open.spotify.com/playlist/48nHSzZWFJZqa0aL14cfvw)
+### [Relax & Unwind](https://open.spotify.com/playlist/37i9dQZF1DWU0ScTcjJBdj)
 
 > Let your worries and cares slip away...
+
+174 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/48nHSzZWFJZqa0aL14cfvw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

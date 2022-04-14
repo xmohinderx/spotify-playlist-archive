@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXmUJqjFaQNQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXmUJqjFaQNQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXmUJqjFaQNQ)
 
-### [Short Stories](https://open.spotify.com/playlist/27cRRIWWT9lCqHbgeLFoCz)
+### [Short Stories](https://open.spotify.com/playlist/37i9dQZF1DWXmUJqjFaQNQ)
 
 > A collection of classic short stories perfect for a lazy afternoon or relaxing commute.
+
+65 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/27cRRIWWT9lCqHbgeLFoCz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

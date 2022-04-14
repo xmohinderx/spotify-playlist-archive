@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7WJ4yDmRK8R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7WJ4yDmRK8R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7WJ4yDmRK8R)
 
-### [The Essential Ska](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
+### [The Essential Ska](https://open.spotify.com/playlist/37i9dQZF1DX7WJ4yDmRK8R)
 
 > This is the best of ska, new and classic\. Cover: Goldfinger
+
+152 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

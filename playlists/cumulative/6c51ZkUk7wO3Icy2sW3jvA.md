@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6c51ZkUk7wO3Icy2sW3jvA.md) - cumulative - [plain](/playlists/plain/6c51ZkUk7wO3Icy2sW3jvA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6c51ZkUk7wO3Icy2sW3jvA)
 
-### [Daniel Adams\-Ray](https://open.spotify.com/playlist/7qb8sinZIMii4U9Lig0gc1)
+### [Daniel Adams\-Ray](https://open.spotify.com/playlist/6c51ZkUk7wO3Icy2sW3jvA)
 
 > Missa inte Daniel Adams\-Ray på Flamingo\-scenen på TORSDAG / 16.35
+
+10 songs - 39 min 16 sec - [published](https://open.spotify.com/playlist/7qb8sinZIMii4U9Lig0gc1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

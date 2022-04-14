@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2f4rXblveCedKdU2adFgC8.md) - cumulative - [plain](/playlists/plain/2f4rXblveCedKdU2adFgC8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f4rXblveCedKdU2adFgC8)
 
-### [Motivation Montage](https://open.spotify.com/playlist/3njXIyWDgdqSuNCqJOWqla)
+### [Motivation Montage](https://open.spotify.com/playlist/2f4rXblveCedKdU2adFgC8)
 
 > Live large, run hard\. Score your workout with some epic action movie soundtracks.
+
+46 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/3njXIyWDgdqSuNCqJOWqla)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

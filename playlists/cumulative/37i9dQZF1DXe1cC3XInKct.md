@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe1cC3XInKct.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe1cC3XInKct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe1cC3XInKct)
 
-### [Apply Yourself](https://open.spotify.com/playlist/60jVGhBQ9kNItECXd4mEVi)
+### [Apply Yourself](https://open.spotify.com/playlist/37i9dQZF1DXe1cC3XInKct)
 
 > ...and find your focus.
+
+156 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/60jVGhBQ9kNItECXd4mEVi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

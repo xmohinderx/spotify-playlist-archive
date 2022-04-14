@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/78UTV8Gw5bHpyWc65qR4Px.md) - cumulative - [plain](/playlists/plain/78UTV8Gw5bHpyWc65qR4Px) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/78UTV8Gw5bHpyWc65qR4Px)
 
-### [1974](https://open.spotify.com/playlist/2CNxmGpt1JVJQjnsykw8oG)
+### [1974](https://open.spotify.com/playlist/78UTV8Gw5bHpyWc65qR4Px)
 
 > 
+
+50 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/2CNxmGpt1JVJQjnsykw8oG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

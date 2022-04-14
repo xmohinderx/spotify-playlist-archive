@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3gWAZPuNWpELIhKNbnpfwk.md) - cumulative - [plain](/playlists/plain/3gWAZPuNWpELIhKNbnpfwk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3gWAZPuNWpELIhKNbnpfwk)
 
-### [Synthwave \| Retro \| 80s Vaporwave](https://open.spotify.com/playlist/6Ue29HB0gI4bMizHZxTapf)
+### [Synthwave \| Retro \| 80s Vaporwave](https://open.spotify.com/playlist/3gWAZPuNWpELIhKNbnpfwk)
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв.
+
+165 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/6Ue29HB0gI4bMizHZxTapf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

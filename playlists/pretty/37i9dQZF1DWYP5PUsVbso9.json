@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided.",
-  "num_followers": 203816,
+  "num_followers": 203878,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTU0MSwwMDAwMDAwMDAyYWM5ZDAwN2YxYWNjOTZlODk1YzliM2E2MmMyODBm",
+  "snapshot_id": "MTY0OTg5ODE0NywwMDAwMDAwMDUxZmViNTdkOWZjZjIyMzVmYjg1NWMwNGY0NmE3NDIy",
   "tracks": [
     {
       "added_at": "2018-12-10 16:15:57",
@@ -95,22 +95,6 @@
     {
       "added_at": "2018-12-10 16:15:57",
       "album": {
-        "name": "The Essential John Denver",
-        "url": "https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Thank God I'm a Country Boy - Live",
-      "url": "https://open.spotify.com/track/6n7bcDnJOuKj3Zc5FbnaWs"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 200493,
       "name": "Luckenbach, Texas (Back to the Basics of Love)",
       "url": "https://open.spotify.com/track/6ANPIv5r3vdWntrmFa6H6M"
+    },
+    {
+      "added_at": "2018-12-10 16:15:57",
+      "album": {
+        "name": "The Essential John Denver",
+        "url": "https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Thank God I'm a Country Boy - Live",
+      "url": "https://open.spotify.com/track/6n7bcDnJOuKj3Zc5FbnaWs"
     },
     {
       "added_at": "2018-12-10 16:15:57",
@@ -191,6 +191,26 @@
     {
       "added_at": "2018-12-10 16:15:57",
       "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
+    },
+    {
+      "added_at": "2018-12-10 16:15:57",
+      "album": {
         "name": "One Piece At A Time",
         "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 125666,
       "name": "I Love",
       "url": "https://open.spotify.com/track/4uZ4gkFvrJFwiMLV3b3ob2"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Ultimate Waylon Jennings",
-        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Good Hearted Woman",
-      "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
     },
     {
       "added_at": "2018-12-10 16:15:57",
@@ -475,6 +475,22 @@
     {
       "added_at": "2018-12-10 16:15:57",
       "album": {
+        "name": "Ultimate Ronnie Milsap",
+        "url": "https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 140960,
+      "name": "Pure Love - Remastered",
+      "url": "https://open.spotify.com/track/0bR9zhqRwYTV7dgexsXIb6"
+    },
+    {
+      "added_at": "2018-12-10 16:15:57",
+      "album": {
         "name": "Ultimate Collection: Gene Watson",
         "url": "https://open.spotify.com/album/7MX4FrybOtKHPp2k6YCMS4"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 190773,
       "name": "Marie Laveau",
       "url": "https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Ultimate Ronnie Milsap",
-        "url": "https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "Pure Love - Remastered",
-      "url": "https://open.spotify.com/track/0bR9zhqRwYTV7dgexsXIb6"
     },
     {
       "added_at": "2018-12-10 16:15:57",
@@ -635,22 +635,6 @@
     {
       "added_at": "2018-12-10 16:15:57",
       "album": {
-        "name": "The Best Of Johnny Rodriguez 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/2DoWlIvoIcq6g8aKQCj71f"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rodriguez",
-          "url": "https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU"
-        }
-      ],
-      "duration_ms": 126200,
-      "name": "Ridin' My Thumb To Mexico",
-      "url": "https://open.spotify.com/track/4cts2JWIBKsSyMuclg7yZP"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
         "name": "Anniversary (Ten Years Of Hits)",
         "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 138800,
       "name": "Her Name Is...",
       "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
+    },
+    {
+      "added_at": "2018-12-10 16:15:57",
+      "album": {
+        "name": "The Best Of Johnny Rodriguez 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/2DoWlIvoIcq6g8aKQCj71f"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rodriguez",
+          "url": "https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU"
+        }
+      ],
+      "duration_ms": 126200,
+      "name": "Ridin' My Thumb To Mexico",
+      "url": "https://open.spotify.com/track/4cts2JWIBKsSyMuclg7yZP"
     },
     {
       "added_at": "2018-12-10 16:15:57",
@@ -815,22 +815,6 @@
     {
       "added_at": "2018-12-10 16:15:57",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "When You're Hot, You're Hot",
-      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
         "name": "The Essential Dolly Parton",
         "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 174466,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/145rlLSza5obOXk6dVjioX"
+    },
+    {
+      "added_at": "2018-12-10 16:15:57",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "When You're Hot, You're Hot",
+      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
     },
     {
       "added_at": "2018-12-10 16:15:57",
@@ -863,22 +863,6 @@
     {
       "added_at": "2018-12-10 16:15:57",
       "album": {
-        "name": "The Best Of Sammi Smith",
-        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
-      },
-      "artists": [
-        {
-          "name": "Sammi Smith",
-          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Help Me Make It Through The Night",
-      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
         "name": "Louisiana Woman, Mississippi Man",
         "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 151731,
       "name": "Louisiana Woman, Mississippi Man",
       "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+    },
+    {
+      "added_at": "2018-12-10 16:15:57",
+      "album": {
+        "name": "The Best Of Sammi Smith",
+        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
+      },
+      "artists": [
+        {
+          "name": "Sammi Smith",
+          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
     },
     {
       "added_at": "2018-12-10 16:15:57",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2018-12-10 16:15:57",
       "album": {
-        "name": "The Essential Tammy Wynette",
-        "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 185013,
       "name": "(If Loving You Is Wrong) I Don't Want To Be Right",
       "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
+    },
+    {
+      "added_at": "2018-12-10 16:15:57",
+      "album": {
+        "name": "The Essential Tammy Wynette",
+        "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick"
     },
     {
       "added_at": "2018-12-10 16:15:57",

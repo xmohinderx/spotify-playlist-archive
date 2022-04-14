@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT6VDwxLyl0W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT6VDwxLyl0W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT6VDwxLyl0W)
 
-### [This Is Neil Young](https://open.spotify.com/playlist/02mxLWJfr2BrwBqgDWvM1z)
+### [This Is Neil Young](https://open.spotify.com/playlist/37i9dQZF1DWT6VDwxLyl0W)
 
 > Enjoy over 50 years of musical genius.
+
+50 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/02mxLWJfr2BrwBqgDWvM1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

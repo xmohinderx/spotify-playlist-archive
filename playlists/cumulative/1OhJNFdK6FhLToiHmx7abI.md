@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1OhJNFdK6FhLToiHmx7abI.md) - cumulative - [plain](/playlists/plain/1OhJNFdK6FhLToiHmx7abI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1OhJNFdK6FhLToiHmx7abI)
 
-### [POST](https://open.spotify.com/playlist/0Ib4iIXyKrveWODgQinaSO)
+### [POST](https://open.spotify.com/playlist/1OhJNFdK6FhLToiHmx7abI)
 
 > 
+
+41 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/0Ib4iIXyKrveWODgQinaSO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

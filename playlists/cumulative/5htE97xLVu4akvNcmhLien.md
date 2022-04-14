@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5htE97xLVu4akvNcmhLien.md) - cumulative - [plain](/playlists/plain/5htE97xLVu4akvNcmhLien) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5htE97xLVu4akvNcmhLien)
 
-### [murga](https://open.spotify.com/playlist/2UMGRcA8g2GR51ovhUeUhT)
+### [murga](https://open.spotify.com/playlist/5htE97xLVu4akvNcmhLien)
 
 > 
+
+661 songs - 1 day 14 hr 43 min - [published](https://open.spotify.com/playlist/2UMGRcA8g2GR51ovhUeUhT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

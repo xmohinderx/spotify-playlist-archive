@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdIpacQDPDV5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdIpacQDPDV5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdIpacQDPDV5)
 
-### [mint Canada](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+### [mint Canada](https://open.spotify.com/playlist/37i9dQZF1DXdIpacQDPDV5)
 
 > The best of today's dance hits\. Cover: BLOND:ISH
+
+235 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

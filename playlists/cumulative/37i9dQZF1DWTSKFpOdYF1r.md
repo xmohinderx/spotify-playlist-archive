@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTSKFpOdYF1r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTSKFpOdYF1r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTSKFpOdYF1r)
 
-### [Alternative 80s](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
+### [Alternative 80s](https://open.spotify.com/playlist/37i9dQZF1DWTSKFpOdYF1r)
 
 > The songs that defined the other side of the 80s\. Cover: Siouxsie and the Banshees
+
+128 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +16,7 @@
 | [Are 'Friends' Electric?](https://open.spotify.com/track/4YMjssjl6JWPF4ZIcvcwkg) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE), [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas Redux](https://open.spotify.com/album/1ZTKKrWwhE0prrfe3AudHz) | 5:25 | 2021-11-17 |  |
 | [At Home He's a Tourist](https://open.spotify.com/track/1fpSdqEoXJBEr4HGQhWcxP) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:30 | 2021-11-17 | 2022-03-21 |
 | [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 | 2021-11-17 | 2022-01-01 |
-| [Birth, School, Work, Death](https://open.spotify.com/track/6cKYSjLBhQVFbmXmJSQOA7) | [The Godfathers](https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:07 | 2021-11-17 |  |
+| [Birth, School, Work, Death](https://open.spotify.com/track/6cKYSjLBhQVFbmXmJSQOA7) | [The Godfathers](https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:07 | 2021-11-17 | 2022-04-14 |
 | [Birthday](https://open.spotify.com/track/5zpRUKG7MSRZvNjr25vJsl) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/1at2GIPfbUeGwewAUQr4lw) | 3:58 | 2021-11-17 |  |
 | [Blister In The Sun](https://open.spotify.com/track/4PXH3g9qGgMqDlC52dJw07) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes: Deluxe Edition](https://open.spotify.com/album/645pkwf8FAE9eYY2vx7TiO) | 2:24 | 2021-11-17 |  |
 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 | 2021-11-17 |  |
@@ -72,7 +74,7 @@
 | [Love Plus One](https://open.spotify.com/track/6QKM4Oh1qLrLisUxfnw09T) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:32 | 2021-11-17 |  |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 | 2021-11-17 |  |
 | [Mad World](https://open.spotify.com/track/0fW13W2PZe6zq87vqUBR66) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3lP0Pu6a0jUWGPM83XYPip) | 3:35 | 2021-11-17 |  |
-| [Making Plans For Nigel](https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 3:53 | 2021-11-17 | 2022-03-22 |
+| [Making Plans For Nigel](https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 3:53 | 2021-11-17 |  |
 | [Messages](https://open.spotify.com/track/5LHwD4Djn0iCi0Txq5aiMI) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [The OMD Singles](https://open.spotify.com/album/3uWvHMePGRYbZ1rNKZrprz) | 4:46 | 2021-11-17 | 2022-03-23 |
 | [Mirror in the Bathroom](https://open.spotify.com/track/2JV6DM5CGcpThMVZtucCqC) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [I Just Can't Stop It \[Deluxe Edition\]](https://open.spotify.com/album/4loqJOnMNURLM7LEpZ57cu) | 3:09 | 2021-11-17 |  |
 | [Modern Love \- 1999 Remaster](https://open.spotify.com/track/7LyIoUsiMtelB1I0I4drEF) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 4:48 | 2021-11-17 |  |

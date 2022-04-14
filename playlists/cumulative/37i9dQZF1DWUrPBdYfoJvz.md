@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUrPBdYfoJvz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUrPBdYfoJvz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUrPBdYfoJvz)
 
-### [Ambient Essentials](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
+### [Ambient Essentials](https://open.spotify.com/playlist/37i9dQZF1DWUrPBdYfoJvz)
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
+
+100 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

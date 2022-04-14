@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Wake up with these indie classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,306 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,304 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 24 | [It's So Good](https://open.spotify.com/track/16MkvkwXqgzDPMUuYtAiWq) | [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [It's So Good](https://open.spotify.com/album/41rdI7qcq10ipkknp2HiwY) | 4:49 |
 | 25 | [Hold On](https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj) | 3:46 |
 | 26 | [40 Day Dream](https://open.spotify.com/track/3WBWgjyg6ew1Bq2sehB4is) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf) | 3:53 |
-| 27 | [The Rabbit, the Bat, & the Reindeer](https://open.spotify.com/track/02hDdfBdaJhyVHQkTojXQo) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/7deW5FlwTnjalzBDAftgwf) | 3:29 |
-| 28 | [Hold Your Nerve](https://open.spotify.com/track/6EIqY6G5P3cPJ0bGNbMtAI) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Suck on Light](https://open.spotify.com/album/25rb1ybijxE3mHW12iXdx3) | 3:35 |
-| 29 | [You're Too Weird](https://open.spotify.com/track/33ezCcBwVw2SsAvOsFyJSG) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Tripper](https://open.spotify.com/album/3K2sY2hmvoNszRzFCEf9fE) | 3:46 |
-| 30 | [California Stars](https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw) | 4:58 |
+| 27 | [Hold Your Nerve](https://open.spotify.com/track/6EIqY6G5P3cPJ0bGNbMtAI) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Suck on Light](https://open.spotify.com/album/25rb1ybijxE3mHW12iXdx3) | 3:35 |
+| 28 | [The Rabbit, the Bat, & the Reindeer](https://open.spotify.com/track/02hDdfBdaJhyVHQkTojXQo) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/7deW5FlwTnjalzBDAftgwf) | 3:29 |
+| 29 | [California Stars](https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw) | 4:58 |
+| 30 | [You're Too Weird](https://open.spotify.com/track/33ezCcBwVw2SsAvOsFyJSG) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Tripper](https://open.spotify.com/album/3K2sY2hmvoNszRzFCEf9fE) | 3:46 |
 | 31 | [Father Mountain](https://open.spotify.com/track/78b7cCkXG4QLh0nimwu7uK) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Years to Burn](https://open.spotify.com/album/3InGlpjjfAvSi7fa7Vkuf0) | 2:54 |
 | 32 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7) | 2:50 |
 | 33 | [Lost in My Mind](https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 49 | [Burning](https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 5:48 |
 | 50 | [Somebody That I Used to Know](https://open.spotify.com/track/1cnvv6E1MiOtGs5R5i4FJn) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW), [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Somebody That I Used to Know](https://open.spotify.com/album/4oJkTaoIe7wG4cMOsOjzKd) | 2:23 |
 
-Snapshot ID: `MTY0OTczNzE4NCwwMDAwMDAwMDI5OTUzNWYxNjdhNzBjZDM0Zjc4YzUzNzcwZTNjOGEy`
+Snapshot ID: `MTY0OTg5ODEzMSwwMDAwMDAwMGI3MWFkNWYxN2Q1MmE2Y2EwYzNmMzNlMDFmNTRkMTA3`

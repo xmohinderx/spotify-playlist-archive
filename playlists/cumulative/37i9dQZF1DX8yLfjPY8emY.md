@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8yLfjPY8emY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8yLfjPY8emY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8yLfjPY8emY)
 
-### [100% Cumbia](https://open.spotify.com/playlist/3NPFPzywLrReMGONHDdRqu)
+### [100% Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8yLfjPY8emY)
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar.
+
+88 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3NPFPzywLrReMGONHDdRqu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

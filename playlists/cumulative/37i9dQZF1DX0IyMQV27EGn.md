@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0IyMQV27EGn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IyMQV27EGn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0IyMQV27EGn)
 
-### [Femme Fatale](https://open.spotify.com/playlist/4TFPubUIaS3b8U0Aq9oe9J)
+### [Femme Fatale](https://open.spotify.com/playlist/37i9dQZF1DX0IyMQV27EGn)
 
 > A collection of powerful voices and dark, alluring siren songs\. Cover: Ashley Monroe
+
+86 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/4TFPubUIaS3b8U0Aq9oe9J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSDautEwAKZB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSDautEwAKZB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSDautEwAKZB)
 
-### [Spotify Singles: Latino](https://open.spotify.com/playlist/5TwbIYs6Yq7MRkumDdjTE9)
+### [Spotify Singles: Latino](https://open.spotify.com/playlist/37i9dQZF1DWSDautEwAKZB)
 
 > Latin superstars like you've never heard before\.  Cover: Nathy Peluso, Ambar Lucid & Carin Leon.
+
+50 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5TwbIYs6Yq7MRkumDdjTE9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZeKCadgRdKQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZeKCadgRdKQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZeKCadgRdKQ)
 
-### [Deep Focus](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+### [Deep Focus](https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ)
 
 > Keep calm and focus with ambient and post\-rock music.
+
+437 songs - 1 day 1 hr 44 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

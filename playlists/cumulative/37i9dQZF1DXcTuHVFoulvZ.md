@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcTuHVFoulvZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcTuHVFoulvZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcTuHVFoulvZ)
 
-### [Le meilleur du rap québécois 2021 ](https://open.spotify.com/playlist/0coijtqe33Y0PEyuzfRFFn)
+### [Le meilleur du rap québécois 2021 ](https://open.spotify.com/playlist/37i9dQZF1DXcTuHVFoulvZ)
 
 > Le meilleur du hip\-hop québécois en 2021: les choix de notre équipe éditoriale. Photo: Lost
+
+50 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0coijtqe33Y0PEyuzfRFFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

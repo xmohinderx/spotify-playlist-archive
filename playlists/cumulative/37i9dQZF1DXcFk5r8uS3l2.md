@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcFk5r8uS3l2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcFk5r8uS3l2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcFk5r8uS3l2)
 
-### [Blues Roots](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Cedric Burnside
+
+122 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

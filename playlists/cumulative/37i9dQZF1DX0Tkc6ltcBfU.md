@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0Tkc6ltcBfU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0Tkc6ltcBfU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0Tkc6ltcBfU)
 
-### [No Cap](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
 > The hottest out the south\. Cover: Mike Dimes
+
+192 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

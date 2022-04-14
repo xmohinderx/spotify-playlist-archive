@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbK4SCc53BQf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbK4SCc53BQf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbK4SCc53BQf)
 
-### [Inspiración Tropical](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
+### [Inspiración Tropical](https://open.spotify.com/playlist/37i9dQZF1DXbK4SCc53BQf)
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
+
+59 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +29,7 @@
 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 | 2020-11-24 |  |
 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 | 2020-11-24 |  |
 | [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 |  |
-| [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 | 2020-11-24 | 2022-04-07 |
+| [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 | 2020-11-24 |  |
 | [Hora de Cantar](https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT) | [Gilvan Santana](https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds) | [Redenção e Liberdade](https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr) | 3:36 | 2020-11-24 | 2022-03-23 |
 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 | 2020-11-24 |  |
 | [Jovenes Valientes](https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [24/7](https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH) | 3:43 | 2020-11-24 |  |
@@ -54,7 +56,7 @@
 | [Te Entrego Mi Corazón](https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Te Entrego Mi Corazón](https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT) | 3:27 | 2020-11-24 |  |
 | [Tengo un Nuevo Amor \(Salsa\)](https://open.spotify.com/track/0J5rrCuSHRTNXRVAUZiekO) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [Alábale Con Ritmo de Salsa](https://open.spotify.com/album/7j6xtDw5T1EJMkhPzoazrx) | 4:42 | 2020-11-24 |  |
 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 | 2020-11-24 |  |
-| [Todo Se Lo Debo a Él \(Version Salsa\)](https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl) | [Jerry Hernandez\-Zabala](https://open.spotify.com/artist/1HJMdZQ2zO6NFFXni6JKOK) | [Todo Se Lo Debo a Él \(Version Salsa\)](https://open.spotify.com/album/4SfK0SdbmnPlzdDgTu5Kvl) | 4:08 | 2020-11-24 |  |
+| [Todo Se Lo Debo a Él \(Version Salsa\)](https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl) | [Jerry Hernandez\-Zabala](https://open.spotify.com/artist/1HJMdZQ2zO6NFFXni6JKOK) | [Todo Se Lo Debo a Él \(Version Salsa\)](https://open.spotify.com/album/4SfK0SdbmnPlzdDgTu5Kvl) | 4:08 | 2020-11-24 | 2022-04-14 |
 | [Tu Amor](https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Melissa Hermosillo](https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP) | [Tu Amor](https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90) | 3:12 | 2020-11-24 | 2022-03-22 |
 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 | 2020-11-24 |  |
 | [Tu Voz Hablar](https://open.spotify.com/track/4ehRzyVzgGAVbHcK8x6JyM) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [Tu Voz Hablar](https://open.spotify.com/album/1OxNn74h25cDuGuHkREQzN) | 3:56 | 2020-11-24 |  |

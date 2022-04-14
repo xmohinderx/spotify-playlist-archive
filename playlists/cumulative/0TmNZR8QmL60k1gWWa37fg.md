@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0TmNZR8QmL60k1gWWa37fg.md) - cumulative - [plain](/playlists/plain/0TmNZR8QmL60k1gWWa37fg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0TmNZR8QmL60k1gWWa37fg)
 
-### [Macy's Thanksgiving Day Parade 2013](https://open.spotify.com/playlist/5kv79IEcSNZJwbokg8gezQ)
+### [Macy's Thanksgiving Day Parade 2013](https://open.spotify.com/playlist/0TmNZR8QmL60k1gWWa37fg)
 
 > Catch up on all the performers at the 2013 Macy's Thanksgiving Day Parade.
+
+28 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/5kv79IEcSNZJwbokg8gezQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

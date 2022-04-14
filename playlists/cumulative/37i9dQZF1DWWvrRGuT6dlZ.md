@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvrRGuT6dlZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvrRGuT6dlZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvrRGuT6dlZ)
 
-### [Fresh Finds SG & MY](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
 > Unearthing your new favourite artists\. Cover: TIMUR\. Artwork: Isu Kim.
+
+183 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

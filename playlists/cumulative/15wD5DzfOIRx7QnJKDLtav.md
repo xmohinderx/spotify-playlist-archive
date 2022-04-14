@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/15wD5DzfOIRx7QnJKDLtav.md) - cumulative - [plain](/playlists/plain/15wD5DzfOIRx7QnJKDLtav) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/15wD5DzfOIRx7QnJKDLtav)
 
-### [Austin Pops](https://open.spotify.com/playlist/6mfoCYkJ8cB0ccTo1yXGqm)
+### [Austin Pops](https://open.spotify.com/playlist/15wD5DzfOIRx7QnJKDLtav)
 
 > Your guide to what's hot in Austin, TX during South By Southwest 2017\. Cover: <a href="spotify:artist:4NZvixzsSefsNiIqXn0NDe">Maggie Rogers</a>.
+
+62 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/6mfoCYkJ8cB0ccTo1yXGqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

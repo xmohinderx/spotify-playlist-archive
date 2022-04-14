@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX1DwkjCqoyw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX1DwkjCqoyw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX1DwkjCqoyw)
 
-### [Island Pop](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
+### [Island Pop](https://open.spotify.com/playlist/37i9dQZF1DWX1DwkjCqoyw)
 
 > Pop, Reggae, Soca & Dancehall all in one place, the biggest infused records from the Islands
+
+77 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

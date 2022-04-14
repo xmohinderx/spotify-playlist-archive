@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVzZlRWgqAGH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzZlRWgqAGH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzZlRWgqAGH)
 
-### [Butter](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+### [Butter](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
 > Smooth joints\. Cover: Terrace Martin
+
+619 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

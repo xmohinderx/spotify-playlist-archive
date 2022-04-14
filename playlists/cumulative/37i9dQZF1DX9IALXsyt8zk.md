@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9IALXsyt8zk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9IALXsyt8zk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9IALXsyt8zk)
 
-### [RADAR Korea](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
+### [RADAR Korea](https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk)
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
+
+85 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaPeYMCDRQeg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaPeYMCDRQeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaPeYMCDRQeg)
 
-### [Love Language](https://open.spotify.com/playlist/0EXr3LZI5y1SPDKSOyr1zu)
+### [Love Language](https://open.spotify.com/playlist/37i9dQZF1DXaPeYMCDRQeg)
 
 > Celebrating Black love, one song at a time.
+
+120 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/0EXr3LZI5y1SPDKSOyr1zu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

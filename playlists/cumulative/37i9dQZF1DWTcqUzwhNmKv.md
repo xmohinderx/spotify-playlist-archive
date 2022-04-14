@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTcqUzwhNmKv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTcqUzwhNmKv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTcqUzwhNmKv)
 
-### [Kickass Metal](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
+### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
 > Bullet For My Valentine on top of the biggest Metal playlist!
+
+129 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

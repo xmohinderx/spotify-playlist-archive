@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZAkrucRF6Gq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZAkrucRF6Gq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZAkrucRF6Gq)
 
-### [This Is Daft Punk](https://open.spotify.com/playlist/5Q4XqFyVaPJn3LnUD0iAiG)
+### [This Is Daft Punk](https://open.spotify.com/playlist/37i9dQZF1DWZAkrucRF6Gq)
 
 > Celebrated masters of 'French touch', This Is Daft Punk.
+
+43 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/5Q4XqFyVaPJn3LnUD0iAiG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

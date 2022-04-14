@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWwaxRea1LWS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWwaxRea1LWS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWwaxRea1LWS)
 
-### [Throwback Thursday](https://open.spotify.com/playlist/2yXr2sJKdcvSqNFB56eYbH)
+### [Throwback Thursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
 
 > Boogie with \#SpotifyTBT to some funk and disco grooves\. Cover: Donna Summer
+
+1,252 songs - 3 day 10 hr 59 min - [published](https://open.spotify.com/playlist/2yXr2sJKdcvSqNFB56eYbH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

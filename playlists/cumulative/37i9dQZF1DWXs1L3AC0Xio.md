@@ -1,12 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXs1L3AC0Xio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXs1L3AC0Xio) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXs1L3AC0Xio)
 
-### [Rock Ballads](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
+### [Rock Ballads](https://open.spotify.com/playlist/37i9dQZF1DWXs1L3AC0Xio)
 
 > Chill out with these awesome rock ballads\. Cover: <a href="spotify:artist:6Wr3hh341P84m3EI8qdn9O">Rise Against</a>
 
+102 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
+
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 | 2021-06-03 |  |
+| [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 | 2021-06-03 | 2022-04-14 |
 | [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 | 2021-06-03 |  |
 | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/track/3t9seJl7Y0B556M2ndthl1) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Mark Morales](https://open.spotify.com/artist/5QPc5gUxdETGecetdI8o8O) | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/album/3pvMWJSHWaSjFMDkk93JAE) | 3:15 | 2021-06-03 |  |
 | [All I Need](https://open.spotify.com/track/2FPHOduj8yJPDOadAOqVm5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/7BVYAnGLAZF7SFYYl4Zh8t) | 4:50 | 2021-06-03 |  |
@@ -28,11 +30,11 @@
 | [Drowning \(Face Down\)](https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:55 | 2021-06-03 |  |
 | [Dying in LA](https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:49 | 2021-06-03 |  |
 | [Emergency](https://open.spotify.com/track/4CX8qiTS2hUXp4dqYmNxQy) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Graveyard Whistling \- EP](https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO) | 4:26 | 2021-06-03 |  |
-| [Emotionless](https://open.spotify.com/track/2ix6bfJQw8SK9aDcebJgT3) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/2bZTrCexjn32v0NYH1XYdk) | 4:22 | 2021-06-03 | 2022-04-13 |
+| [Emotionless](https://open.spotify.com/track/2ix6bfJQw8SK9aDcebJgT3) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/2bZTrCexjn32v0NYH1XYdk) | 4:22 | 2021-06-03 |  |
 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 | 2021-06-03 |  |
 | [Every Time You Leave \(Feat\. Delaney Jane\) \- Live Acoustic](https://open.spotify.com/track/11MSSonvzz9Fu8RTdTXnqd) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Every Time You Leave \[Feat\. Delaney Jane\] \(Live Acoustic\)](https://open.spotify.com/album/33rt0rXX6q0XnDFijDfgL9) | 3:07 | 2021-06-03 |  |
 | [Fade In / Fade Out](https://open.spotify.com/track/2FlbiceZnWgzPoUGCviLHT) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 6:04 | 2021-06-03 |  |
-| [Far Away](https://open.spotify.com/track/5QqMJ9JYmNU8zHbjhNRI3p) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Scooter Ward](https://open.spotify.com/artist/2HHqy9faHNOR3lZ2w9uDQM) | [Far Away](https://open.spotify.com/album/6EumKp02NOFIPxdCcmiVTV) | 4:52 | 2021-06-03 | 2022-04-13 |
+| [Far Away](https://open.spotify.com/track/5QqMJ9JYmNU8zHbjhNRI3p) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Scooter Ward](https://open.spotify.com/artist/2HHqy9faHNOR3lZ2w9uDQM) | [Far Away](https://open.spotify.com/album/6EumKp02NOFIPxdCcmiVTV) | 4:52 | 2021-06-03 |  |
 | [Fare Thee Well](https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Fare Thee Well](https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414) | 4:21 | 2021-06-03 |  |
 | [Flawless](https://open.spotify.com/track/1Q7Z7PQlHkuKF1F9fK5VOd) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:02 | 2021-06-03 |  |
 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 | 2021-06-03 |  |
@@ -70,7 +72,7 @@
 | [On My Own](https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:43 | 2021-06-03 |  |
 | [Once](https://open.spotify.com/track/34fv3psKQOOwWZBRxoIF4I) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:33 | 2021-06-03 |  |
 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 | 2021-06-03 |  |
-| [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 | 2021-06-03 |  |
+| [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 | 2021-06-03 | 2022-04-14 |
 | [Over You](https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry](https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW) | 3:24 | 2021-06-03 |  |
 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 | 2021-06-03 |  |
 | [Prayers For The Damned](https://open.spotify.com/track/5d9MTgwOIsiGObIv783pgu) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers For The Damned](https://open.spotify.com/album/0edyfDPU6zQlva185r9gRS) | 4:39 | 2021-06-03 |  |

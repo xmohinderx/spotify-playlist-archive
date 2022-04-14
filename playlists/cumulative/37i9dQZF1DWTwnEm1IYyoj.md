@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTwnEm1IYyoj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTwnEm1IYyoj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTwnEm1IYyoj)
 
-### [Soft Pop Hits](https://open.spotify.com/playlist/7Bn49z5p4CqoX5mpg2CICH)
+### [Soft Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj)
 
 > Listen to easy songs from your favorite artists! Cover: John Legend
+
+310 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/7Bn49z5p4CqoX5mpg2CICH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

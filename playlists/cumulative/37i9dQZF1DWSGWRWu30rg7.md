@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSGWRWu30rg7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSGWRWu30rg7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSGWRWu30rg7)
 
-### [Fresh Finds Indonesia](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Restu\. Artwork: Isu Kim.
+
+510 songs - 1 day 7 hr 16 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY3FN0WeKCeB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY3FN0WeKCeB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY3FN0WeKCeB)
 
-### [The Adventures of Sherlock Holmes](https://open.spotify.com/playlist/3OlTOH26asuwWoePJugB46)
+### [The Adventures of Sherlock Holmes](https://open.spotify.com/playlist/37i9dQZF1DWY3FN0WeKCeB)
 
 > A chronology of Sir Arthur Conan Doyle's best Sherlock Holmes' adventures, followed by rare and vintage radio and audio adaptations.
+
+163 songs - 2 day 20 hr 7 min - [published](https://open.spotify.com/playlist/3OlTOH26asuwWoePJugB46)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

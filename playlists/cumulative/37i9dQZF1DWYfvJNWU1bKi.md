@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYfvJNWU1bKi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYfvJNWU1bKi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYfvJNWU1bKi)
 
-### [Tamil Romance](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
+### [Tamil Romance](https://open.spotify.com/playlist/37i9dQZF1DWYfvJNWU1bKi)
 
 > The best in romantic tunes from Tamil cinema.
+
+96 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

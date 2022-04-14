@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6LY1QKuuZv6rtPKsHJSsnF.md) - cumulative - [plain](/playlists/plain/6LY1QKuuZv6rtPKsHJSsnF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6LY1QKuuZv6rtPKsHJSsnF)
 
-### [Mountain Session](https://open.spotify.com/playlist/6vkeofAPLivkvxeyCjj02I)
+### [Mountain Session](https://open.spotify.com/playlist/6LY1QKuuZv6rtPKsHJSsnF)
 
 > Want to go from 360s to 1080s or just get some extra heights in your airs\. Then this list is for you! A mix of rock, hiphop and pop; The soundtrack to your mountain session IRL!
+
+46 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/6vkeofAPLivkvxeyCjj02I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

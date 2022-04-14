@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSIJCwMOQ10E.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSIJCwMOQ10E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSIJCwMOQ10E)
 
-### [Rumba Colombiana](https://open.spotify.com/playlist/31e0N9ZhkPd7GKHDb9NQgd)
+### [Rumba Colombiana](https://open.spotify.com/playlist/37i9dQZF1DWSIJCwMOQ10E)
 
 > ¡Celebrando con los 14 Cañonazos! Foto: Los Corraleros de Majagual
+
+96 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/31e0N9ZhkPd7GKHDb9NQgd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

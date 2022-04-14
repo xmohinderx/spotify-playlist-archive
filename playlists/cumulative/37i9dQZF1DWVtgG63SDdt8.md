@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVtgG63SDdt8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVtgG63SDdt8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVtgG63SDdt8)
 
-### [New Music Friday Christian](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
+### [New Music Friday Christian](https://open.spotify.com/playlist/37i9dQZF1DWVtgG63SDdt8)
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Tauren Wells
+
+420 songs - 1 day 5 hr 21 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +138,7 @@
 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 | 2022-02-25 | 2022-03-12 |
 | [He Is Not Worried](https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [He Is Not Worried](https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st) | 4:29 | 2022-02-25 | 2022-03-12 |
 | [Heart of the Father](https://open.spotify.com/track/7gknAFcf8D0RgB0rFghWIf) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Heart of the Father](https://open.spotify.com/album/1XHod4wYHeTV6sCc2qrEpB) | 4:03 | 2022-03-18 | 2022-04-02 |
-| [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Patrick McMillan](https://open.spotify.com/artist/5X8cS844ahu4l28jtthd83), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 | 2022-04-08 |  |
+| [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 | 2022-04-08 |  |
 | [heaven come](https://open.spotify.com/track/77h1vOw1NNuCVVYoqviuXZ) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [heaven come](https://open.spotify.com/album/7xcKfIPvCRido81mmOFmzs) | 3:17 | 2022-03-11 | 2022-03-26 |
 | [Heavy](https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Heavy](https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE) | 3:30 | 2022-03-25 | 2022-04-09 |
 | [Here To Stay](https://open.spotify.com/track/7q3TGvvestNvHO0Y95GLwg) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Here To Stay](https://open.spotify.com/album/7jQTiDSbRYX3sGKiz4h2hG) | 3:59 | 2022-03-04 | 2022-03-18 |

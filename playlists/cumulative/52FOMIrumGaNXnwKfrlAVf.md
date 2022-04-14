@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/52FOMIrumGaNXnwKfrlAVf.md) - cumulative - [plain](/playlists/plain/52FOMIrumGaNXnwKfrlAVf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/52FOMIrumGaNXnwKfrlAVf)
 
-### [The Roots of..\. Vampire Weekend](https://open.spotify.com/playlist/6XJHUquAUziywKsbQaaqwm)
+### [The Roots of..\. Vampire Weekend](https://open.spotify.com/playlist/52FOMIrumGaNXnwKfrlAVf)
 
 > 
+
+28 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/6XJHUquAUziywKsbQaaqwm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

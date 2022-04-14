@@ -1,19 +1,21 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVlWpJblBvap.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVlWpJblBvap) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVlWpJblBvap)
 
-### [Songs of Glory](https://open.spotify.com/playlist/3jxuoXcOX7DBxfMH9aM88r)
+### [Songs of Glory](https://open.spotify.com/playlist/37i9dQZF1DWVlWpJblBvap)
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8/">Jesus Culture</a>
+
+109 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/3jxuoXcOX7DBxfMH9aM88r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 | 2021-01-15 | 2022-03-21 |
 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 4:01 | 2021-01-15 | 2022-03-03 |
-| [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 | 2021-01-15 | 2022-03-23 |
+| [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 | 2021-01-15 |  |
 | [Already Done](https://open.spotify.com/track/2bcjiEmggC5r06kuLuwGIm) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/0RBO5fep7UmvtUBd0102HW) | 5:24 | 2021-01-15 | 2022-03-21 |
 | [Another In The Fire \- Studio](https://open.spotify.com/track/2e7UGyxFACAfwHjmgNNMbS) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/6Ek7aLgG88iYlJLKLvFdPT) | 4:25 | 2021-01-15 |  |
 | [Awake My Soul \(With Tasha Cobbs Leonard\)](https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake My Soul \(With Tasha Cobbs Leonard\)](https://open.spotify.com/album/2HC0cgHArt7LwYi31BygLX) | 3:45 | 2021-01-15 |  |
 | [Breakthrough \- Live](https://open.spotify.com/track/2XhFEwJ2k9bPyfTwFbcu8k) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [spark\. \(Breakthrough\) \[Live\]](https://open.spotify.com/album/4lDc3WeiPnCgOdZubCaCIn) | 9:27 | 2021-01-15 |  |
-| [Build My Life](https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 8:11 | 2021-01-15 |  |
+| [Build My Life](https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 8:11 | 2021-01-15 | 2022-04-14 |
 | [Canvas And Clay \- Live](https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv) | 6:40 | 2021-01-15 |  |
 | [Canyons](https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 4:40 | 2021-01-15 |  |
 | [Champion \- Live](https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:46 | 2021-01-15 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3PNltrHQaYdqO0FdTAZ3wB.md) - cumulative - [plain](/playlists/plain/3PNltrHQaYdqO0FdTAZ3wB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3PNltrHQaYdqO0FdTAZ3wB)
 
-### [Sweden Rock 2013](https://open.spotify.com/playlist/4j1mWpyYNcr2DQcqZcZGdH)
+### [Sweden Rock 2013](https://open.spotify.com/playlist/3PNltrHQaYdqO0FdTAZ3wB)
 
 > 
+
+59 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/4j1mWpyYNcr2DQcqZcZGdH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

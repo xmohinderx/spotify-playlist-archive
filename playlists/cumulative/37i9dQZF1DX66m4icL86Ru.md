@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX66m4icL86Ru.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX66m4icL86Ru) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX66m4icL86Ru)
 
-### [BBE](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
+### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Chlöe
+
+135 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

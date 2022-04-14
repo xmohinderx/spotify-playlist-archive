@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1OIMC8iDi74.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1OIMC8iDi74) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1OIMC8iDi74)
 
-### [Trap Mojito](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+### [Trap Mojito](https://open.spotify.com/playlist/37i9dQZF1DX1OIMC8iDi74)
 
 > The best of electronic trap\. Cover: RL Grime
+
+206 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

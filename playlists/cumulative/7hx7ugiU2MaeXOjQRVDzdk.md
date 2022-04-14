@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7hx7ugiU2MaeXOjQRVDzdk.md) - cumulative - [plain](/playlists/plain/7hx7ugiU2MaeXOjQRVDzdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7hx7ugiU2MaeXOjQRVDzdk)
 
-### [Top Picks Country](https://open.spotify.com/playlist/57b22wOj2iNsEsLjl9IBCu)
+### [Top Picks Country](https://open.spotify.com/playlist/7hx7ugiU2MaeXOjQRVDzdk)
 
 > 
+
+20 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/57b22wOj2iNsEsLjl9IBCu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

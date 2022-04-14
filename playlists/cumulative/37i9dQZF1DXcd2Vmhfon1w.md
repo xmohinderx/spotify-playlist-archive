@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcd2Vmhfon1w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcd2Vmhfon1w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcd2Vmhfon1w)
 
-### [Rap Español](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
+### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
+
+85 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

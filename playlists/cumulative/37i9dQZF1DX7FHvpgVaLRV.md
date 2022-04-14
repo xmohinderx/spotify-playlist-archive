@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7FHvpgVaLRV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7FHvpgVaLRV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FHvpgVaLRV)
 
-### [Yoga em Casa](https://open.spotify.com/playlist/0jwL7MrJ5FnWEToiiTEyRD)
+### [Yoga em Casa](https://open.spotify.com/playlist/37i9dQZF1DX7FHvpgVaLRV)
 
 > Para acompanhar sua rotina de ioga no conforto do lar.
+
+93 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/0jwL7MrJ5FnWEToiiTEyRD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

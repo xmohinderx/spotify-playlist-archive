@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbMXbN3EUUhlg.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMXbN3EUUhlg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMXbN3EUUhlg)
 
-### [Top 50 \- Brazil](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+### [Top 50 \- Brazil](https://open.spotify.com/playlist/37i9dQZEVXbMXbN3EUUhlg)
 
 > Your daily update of the most played tracks right now \- Brazil.
+
+359 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

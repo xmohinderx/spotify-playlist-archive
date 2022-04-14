@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2oU49YwtXI2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2oU49YwtXI2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2oU49YwtXI2)
 
-### [This Is Beyoncé](https://open.spotify.com/playlist/1Oa7el09xiU3HicuHeoipZ)
+### [This Is Beyoncé](https://open.spotify.com/playlist/37i9dQZF1DX2oU49YwtXI2)
 
 > Queen Bey's most essential tracks, all in one playlist.
+
+52 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/1Oa7el09xiU3HicuHeoipZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

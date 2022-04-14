@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUMIjnZuaulx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUMIjnZuaulx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUMIjnZuaulx)
 
-### [Fresh Gospel](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
+### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  The Group Fire
+
+123 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTJSgpZmw7H2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTJSgpZmw7H2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTJSgpZmw7H2)
 
-### [Learn French](https://open.spotify.com/playlist/5R3KrUkJZ2AeBVtgG0KSp5)
+### [Learn French](https://open.spotify.com/playlist/37i9dQZF1DWTJSgpZmw7H2)
 
 > Learn French with a collection of audio courses that will take you from beginner lessons to advanced conversations and even French literature appreciation.
+
+472 songs - 1 day 21 hr 33 min - [published](https://open.spotify.com/playlist/5R3KrUkJZ2AeBVtgG0KSp5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2156,6 +2156,24 @@
     },
     {
       "album": {
+        "name": "Praeniteo",
+        "url": "https://open.spotify.com/album/55m0KrbmCCLoyFfXWEhpEL"
+      },
+      "artists": [
+        {
+          "name": "Chasing The Eclipse",
+          "url": "https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154245,
+      "name": "Praeniteo",
+      "url": "https://open.spotify.com/track/33o8qJ9gYei7lJe7FT2ZTY"
+    },
+    {
+      "album": {
         "name": "Quechee",
         "url": "https://open.spotify.com/album/6rd91D5DtuaeL7150xTksL"
       },
@@ -3075,6 +3093,24 @@
       "duration_ms": 159750,
       "name": "Unto Nothing",
       "url": "https://open.spotify.com/track/5cLtfV0IzXgQmYXC2e6dm1"
+    },
+    {
+      "album": {
+        "name": "You are a miracle",
+        "url": "https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE"
+      },
+      "artists": [
+        {
+          "name": "Amosento",
+          "url": "https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223255,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54"
     },
     {
       "album": {

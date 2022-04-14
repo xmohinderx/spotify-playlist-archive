@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1zriHsmiRJmTThtQk8UWPk.md) - cumulative - [plain](/playlists/plain/1zriHsmiRJmTThtQk8UWPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1zriHsmiRJmTThtQk8UWPk)
 
-### [Women in Music \| Stories & Songs](https://open.spotify.com/playlist/64Oo0XtwWC7qy89rV0DUDd)
+### [Women in Music \| Stories & Songs](https://open.spotify.com/playlist/1zriHsmiRJmTThtQk8UWPk)
 
 > Listen to a collection of inspiring women in music as they share the stories of their music icons, from Lera Lynn and Kelly Clarkson to Zendaya and Terri Nunn.
+
+142 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/64Oo0XtwWC7qy89rV0DUDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

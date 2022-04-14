@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVr03NrIUlx5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVr03NrIUlx5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVr03NrIUlx5)
 
-### [8 Bit Hits](https://open.spotify.com/playlist/46CZm4FrkmshiWlNt9Fiv6)
+### [8 Bit Hits](https://open.spotify.com/playlist/37i9dQZF1DWVr03NrIUlx5)
 
 > Big music hits in tiny 8\-bit versions.
+
+145 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/46CZm4FrkmshiWlNt9Fiv6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1PiujNwN5Yy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1PiujNwN5Yy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1PiujNwN5Yy)
 
-### [gris](https://open.spotify.com/playlist/2UyGgwrSRZspaHIh8SZiLr)
+### [gris](https://open.spotify.com/playlist/37i9dQZF1DX1PiujNwN5Yy)
 
 > Canciones tristes para uno de esos días\. Sad songs just 4 you.
+
+117 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/2UyGgwrSRZspaHIh8SZiLr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

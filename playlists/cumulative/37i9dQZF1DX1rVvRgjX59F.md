@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1rVvRgjX59F.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1rVvRgjX59F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1rVvRgjX59F)
 
-### [90s Rock Anthems](https://open.spotify.com/playlist/3ssq6CMYUOuOSUXgLz3W6D)
+### [90s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F)
 
 > These songs rocked the 90s\. Cover: Rage Against The Machine
+
+103 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/3ssq6CMYUOuOSUXgLz3W6D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

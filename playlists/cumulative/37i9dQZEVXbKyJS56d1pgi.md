@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKyJS56d1pgi.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKyJS56d1pgi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKyJS56d1pgi)
 
-### [Top 50 \- Portugal](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
+### [Top 50 \- Portugal](https://open.spotify.com/playlist/37i9dQZEVXbKyJS56d1pgi)
 
 > Your daily update of the most played tracks right now \- Portugal.
+
+440 songs - 23 hr 56 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +275,7 @@
 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 | 2021-12-12 |  |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-08 |
 | [Novinha Malada do Insta](https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Novinha Malada do Insta](https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj) | 1:47 | 2022-01-28 |  |
-| [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 | 2021-06-13 |  |
+| [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 | 2021-06-13 | 2022-04-14 |
 | [Não Quer Chifre](https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC) | [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Quer Chifre](https://open.spotify.com/album/0bjhRzZTAjo8MJ4MuV9Y5g) | 2:29 | 2021-08-23 | 2021-11-10 |
 | [Não, Não Vou](https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5) | 2:53 | 2021-06-28 | 2021-08-27 |
 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 | 2021-08-27 | 2021-09-29 |
@@ -286,6 +288,7 @@
 | [Oitavo Céu](https://open.spotify.com/track/2wQFeNOIMqsMeITsFYAUkg) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:00 | 2022-04-02 | 2022-04-10 |
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-03 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
+| [Onde Anda](https://open.spotify.com/track/3q3EBdrTrlF4PmJQTZ17ie) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Onde Anda](https://open.spotify.com/album/7MI4octiiy2QaJJXwtmQuY) | 2:57 | 2022-04-13 |  |
 | [Onde Vais \(feat\. Carminho\)](https://open.spotify.com/track/4xigvdbvlzxJIIZGIg6eGT) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Onde Vais \(feat\. Carminho\)](https://open.spotify.com/album/2qUlkECr3lYwfkWSSTtr16) | 3:58 | 2021-10-13 | 2022-03-21 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-07 | 2021-12-03 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:48 | 2021-09-12 | 2022-01-08 |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYrH4yMJbkL8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYrH4yMJbkL8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYrH4yMJbkL8)
 
-### [Indigenous](https://open.spotify.com/playlist/3SSsubeAfIHbsO9Jxcto5j)
+### [Indigenous](https://open.spotify.com/playlist/37i9dQZF1DWYrH4yMJbkL8)
 
 > A free space for Indigenous creators in Canada\. Currently curated by Jason Benoit
+
+47 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/3SSsubeAfIHbsO9Jxcto5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

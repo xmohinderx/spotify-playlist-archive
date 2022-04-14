@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/285xVjuyHG2CusStdc8kCS.md) - cumulative - [plain](/playlists/plain/285xVjuyHG2CusStdc8kCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/285xVjuyHG2CusStdc8kCS)
 
-### [Top Picks Club](https://open.spotify.com/playlist/2bNJImpOFadP18HTciRrWh)
+### [Top Picks Club](https://open.spotify.com/playlist/285xVjuyHG2CusStdc8kCS)
 
 > 
+
+20 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/2bNJImpOFadP18HTciRrWh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

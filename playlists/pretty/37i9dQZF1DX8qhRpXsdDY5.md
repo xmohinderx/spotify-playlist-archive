@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,019 likes - 98 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,008 likes - 98 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 60 | [PR Está en Mi Casa](https://open.spotify.com/track/5rXnLr7bq7eTYEMLxd1rUU) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:14 |
 | 61 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1h6z5tth4WJLopBk5Bd0qM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:54 |
 | 62 | [24 de Diciembre](https://open.spotify.com/track/19iucT8nAxsGInO2Y1somA) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 2:25 |
-| 63 | [Dulce Navidad](https://open.spotify.com/track/6WCcLjmWR4GStkBgty303j) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 3:02 |
-| 64 | [Navidad Sin Ti](https://open.spotify.com/track/4omIIwntSC0rw0MNEUwkw8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:59 |
-| 65 | [Winter Wonderland \(Llegó la Navidad\) \- Deluxe Edition](https://open.spotify.com/track/4U5SUsTHpugGGbzDOJVVjb) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Navidad \(Deluxe Edition\)](https://open.spotify.com/album/6EJVhxPPu1fcs3s4aEmRms) | 2:19 |
+| 63 | [Navidad Sin Ti](https://open.spotify.com/track/4omIIwntSC0rw0MNEUwkw8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:59 |
+| 64 | [Winter Wonderland \(Llegó la Navidad\) \- Deluxe Edition](https://open.spotify.com/track/4U5SUsTHpugGGbzDOJVVjb) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Navidad \(Deluxe Edition\)](https://open.spotify.com/album/6EJVhxPPu1fcs3s4aEmRms) | 2:19 |
+| 65 | [Dulce Navidad](https://open.spotify.com/track/6WCcLjmWR4GStkBgty303j) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 3:02 |
 | 66 | [El Regalo](https://open.spotify.com/track/1qcnLest8RDeQzVxQZqPK3) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [El Regalo](https://open.spotify.com/album/0i9y0jCd5ToVNQTscDYfYn) | 3:23 |
 | 67 | [Amparito](https://open.spotify.com/track/2NTSedGwhyDq925dbSVxcK) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:16 |
 | 68 | [White Christmas](https://open.spotify.com/track/6zHDSfn8RvgFY4fXuDGQTY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:38 |
-| 69 | [Me Quede Puyu](https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Quede Puyu](https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx) | 4:35 |
-| 70 | [I'll Be Home For Christmas/Estaré En Mi Casa Esta Navidad](https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [I'll Be Home For Christmas/Estaré En Mi Casa Esta Navidad](https://open.spotify.com/album/0c4qQwNuYDVtcde6xDmNeS) | 3:58 |
+| 69 | [I'll Be Home For Christmas/Estaré En Mi Casa Esta Navidad](https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [I'll Be Home For Christmas/Estaré En Mi Casa Esta Navidad](https://open.spotify.com/album/0c4qQwNuYDVtcde6xDmNeS) | 3:58 |
+| 70 | [Me Quede Puyu](https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Quede Puyu](https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx) | 4:35 |
 | 71 | [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 |
 | 72 | [El Cuerpo Me Pide](https://open.spotify.com/track/0UhSnbHhpp1BuqxXoFpWH9) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Top Latino Navidad](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 5:00 |
 | 73 | [Por La Paz](https://open.spotify.com/track/5JrU1kaeVGEgGB4gUZs8Bp) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 3:43 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 97 | [Christmas Through Your Eyes](https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 5:00 |
 | 98 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3ckZlXpLQyUF0xYYl11MlL) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 4:00 |
 
-Snapshot ID: `MTY0OTgxMTkwNSwwMDAwMDAwMGI0ODA1NzU5MTZjY2FhZTE5NWJmNjNkYThhZjJmNzQ0`
+Snapshot ID: `MTY0OTg5ODQ5NSwwMDAwMDAwMDllNDcwNTQwZWU1YzQzODg5ZTgzNTk5MWE5NjZlMTNi`

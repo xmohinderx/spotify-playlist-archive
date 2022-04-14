@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/056jpfChuMP5D1NMMaDXRR.md) - cumulative - [plain](/playlists/plain/056jpfChuMP5D1NMMaDXRR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/056jpfChuMP5D1NMMaDXRR)
 
-### [Metallica: The Early Years](https://open.spotify.com/playlist/6yYahXA9HrpDo483tFp1zJ)
+### [Metallica: The Early Years](https://open.spotify.com/playlist/056jpfChuMP5D1NMMaDXRR)
 
 > Companion playlist for the Metallica documentaries.
+
+30 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/6yYahXA9HrpDo483tFp1zJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

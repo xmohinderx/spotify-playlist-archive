@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6nghHfwjiMg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6nghHfwjiMg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6nghHfwjiMg)
 
-### [Radar Al Sur](https://open.spotify.com/playlist/5Pxi8eyAIqTOgi5TjZfI4h)
+### [Radar Al Sur](https://open.spotify.com/playlist/37i9dQZF1DX6nghHfwjiMg)
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Sael.
+
+73 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/5Pxi8eyAIqTOgi5TjZfI4h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

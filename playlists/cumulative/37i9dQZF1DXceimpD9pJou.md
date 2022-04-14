@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXceimpD9pJou.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXceimpD9pJou) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXceimpD9pJou)
 
-### [Novedades Cristianas](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
+### [Novedades Cristianas](https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou)
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Pablo Bentacourth
+
+197 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

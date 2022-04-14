@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5EkyRFIV92g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5EkyRFIV92g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5EkyRFIV92g)
 
-### [This Is Kendrick Lamar](https://open.spotify.com/playlist/2gURM4VFY4GNBKA4eJjlmx)
+### [This Is Kendrick Lamar](https://open.spotify.com/playlist/37i9dQZF1DX5EkyRFIV92g)
 
 > This is Kendrick Lamar\. Essential tracks all in one playlist.
+
+41 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/2gURM4VFY4GNBKA4eJjlmx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

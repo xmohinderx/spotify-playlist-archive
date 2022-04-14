@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX95vhptNy3YE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX95vhptNy3YE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX95vhptNy3YE)
 
-### [AMPLIFIKA](https://open.spotify.com/playlist/1jX5Ne4edsz9wqa3MMSini)
+### [AMPLIFIKA](https://open.spotify.com/playlist/37i9dQZF1DX95vhptNy3YE)
 
 > Vulgo VK e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
+
+70 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1jX5Ne4edsz9wqa3MMSini)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

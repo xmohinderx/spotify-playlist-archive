@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0rM1NjYKMJa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0rM1NjYKMJa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0rM1NjYKMJa)
 
-### [Carnival](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
+### [Carnival](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
 > Carnival 2022 is in session, follow Kes as he takes us on a trip to Trinidad & Tobago
+
+104 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

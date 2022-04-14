@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5DGKC3XcKsx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5DGKC3XcKsx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5DGKC3XcKsx)
 
-### [Trapperz Uruguay](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
+### [Trapperz Uruguay](https://open.spotify.com/playlist/37i9dQZF1DX5DGKC3XcKsx)
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
+
+70 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

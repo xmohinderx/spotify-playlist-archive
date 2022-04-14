@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7oMO417tEZs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7oMO417tEZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7oMO417tEZs)
 
-### [Outliers](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+### [Outliers](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
 > Proudly marching to the beat of their own drum\. Cover: Prince Innocence
+
+183 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

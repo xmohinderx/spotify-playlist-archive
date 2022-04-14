@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3bH0P2uDnWA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3bH0P2uDnWA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3bH0P2uDnWA)
 
-### [Electro Swing](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+### [Electro Swing](https://open.spotify.com/playlist/37i9dQZF1DX3bH0P2uDnWA)
 
 > Bringing the roaring 20s into the 2020s
+
+155 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

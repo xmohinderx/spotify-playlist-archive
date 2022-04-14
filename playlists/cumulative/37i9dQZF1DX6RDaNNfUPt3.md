@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6RDaNNfUPt3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6RDaNNfUPt3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6RDaNNfUPt3)
 
-### [Shura \#PressPlayForPride](https://open.spotify.com/playlist/7Jl1N9OVCqNebST4ScwtZT)
+### [Shura \#PressPlayForPride](https://open.spotify.com/playlist/37i9dQZF1DX6RDaNNfUPt3)
 
 > <a href="spotify:artist:1qpR5mURxk3d8f6mww6uKT">Shura</a> joins us to \#PressPlayForPride\. Discover more at <a href="https://open.spotify.com/genre/pride">spotify.com/pride.</a>
+
+26 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/7Jl1N9OVCqNebST4ScwtZT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

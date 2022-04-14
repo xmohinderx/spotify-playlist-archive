@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4IkhbdzRjb2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4IkhbdzRjb2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4IkhbdzRjb2)
 
-### [PRIDE: Casita Del Campo](https://open.spotify.com/playlist/3lB6k3JKLDvfBdY6WvvJD6)
+### [PRIDE: Casita Del Campo](https://open.spotify.com/playlist/37i9dQZF1DX4IkhbdzRjb2)
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
+
+50 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/3lB6k3JKLDvfBdY6WvvJD6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

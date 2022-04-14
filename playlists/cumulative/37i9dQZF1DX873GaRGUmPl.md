@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX873GaRGUmPl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX873GaRGUmPl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX873GaRGUmPl)
 
-### [Alternative 10s](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+### [Alternative 10s](https://open.spotify.com/playlist/37i9dQZF1DX873GaRGUmPl)
 
 > The best alternative songs of the decade so far\. Cover: Grimes
+
+174 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +88,7 @@
 | [Keep on Calling](https://open.spotify.com/track/4FUrVPC15KK8OcABXprp3Z) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Small Crimes / Keep on Calling](https://open.spotify.com/album/6P0OeaEOj3lhJ31agZkAc1) | 3:50 | 2021-11-15 | 2022-02-27 |
 | [Kingston](https://open.spotify.com/track/6UDsXXPcmbCwXRlNp8s1wT) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Kingston](https://open.spotify.com/album/2l8u3R99icWYGKk2KNfP48) | 3:22 | 2021-11-15 |  |
 | [Left Hand Free](https://open.spotify.com/track/126TblwXGNTUZ7RPMnThkU) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/6TbkWAqqY4nhQnYim61IU8) | 2:53 | 2021-11-15 |  |
-| [Lemon Glow](https://open.spotify.com/track/1gmYNelMcY3SFIXhpeBkaz) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1xg88pe0CUD6UeE3fEnEkD) | 4:04 | 2021-11-15 |  |
+| [Lemon Glow](https://open.spotify.com/track/1gmYNelMcY3SFIXhpeBkaz) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1xg88pe0CUD6UeE3fEnEkD) | 4:04 | 2021-11-15 | 2022-04-14 |
 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2021-11-15 |  |
 | [Let's Pray](https://open.spotify.com/track/2jNS5HbLR2HDtPY3q8P7pP) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/6BjZX96z3VRpwLHgA6BOVP) | 3:35 | 2022-02-21 | 2022-03-08 |
 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 | 2021-11-15 |  |
@@ -105,7 +107,7 @@
 | [No Reptiles](https://open.spotify.com/track/1SN1gifVAKecU85lZggS8k) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Get To Heaven \(Deluxe\)](https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J) | 4:42 | 2021-11-15 |  |
 | [Oblivion](https://open.spotify.com/track/2RtNSM8cPCAOZ5bvQbW6y3) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/2jXthXcPiAdhatxYPv4yPk) | 4:11 | 2021-11-15 | 2022-03-21 |
 | [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:11 | 2022-02-21 |  |
-| [Octopus](https://open.spotify.com/track/2sSHL10udKLFAWsGwPZjjq) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [FOUR \(Deluxe Version\)](https://open.spotify.com/album/4T5NbYNbGEgTF3SbTQH0rT) | 3:05 | 2021-11-15 | 2022-03-23 |
+| [Octopus](https://open.spotify.com/track/2sSHL10udKLFAWsGwPZjjq) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [FOUR \(Deluxe Version\)](https://open.spotify.com/album/4T5NbYNbGEgTF3SbTQH0rT) | 3:05 | 2021-11-15 |  |
 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 | 2021-11-15 |  |
 | [Old Friends](https://open.spotify.com/track/66q3yNMEO2tOsiFny1IPQW) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal](https://open.spotify.com/album/2SmrUzUMMOYQqoPuOhlhjw) | 3:27 | 2021-11-15 |  |
 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 | 2021-11-15 | 2022-02-12 |

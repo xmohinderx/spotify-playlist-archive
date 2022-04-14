@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3PKEfo9uS5R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3PKEfo9uS5R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3PKEfo9uS5R)
 
-### [Pilates Lounge](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+### [Pilates Lounge](https://open.spotify.com/playlist/37i9dQZF1DX3PKEfo9uS5R)
 
 > Chill house tracks to power your pilates session.
+
+102 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

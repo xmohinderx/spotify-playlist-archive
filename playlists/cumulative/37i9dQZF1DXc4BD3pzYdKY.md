@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc4BD3pzYdKY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc4BD3pzYdKY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc4BD3pzYdKY)
 
-### [The Flow](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+### [The Flow](https://open.spotify.com/playlist/37i9dQZF1DXc4BD3pzYdKY)
 
 > The best of Christian Hip Hop today\.  Cover: Trip Lee
+
+417 songs - 21 hr 23 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

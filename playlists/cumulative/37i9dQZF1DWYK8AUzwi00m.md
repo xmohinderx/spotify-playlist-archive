@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYK8AUzwi00m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYK8AUzwi00m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYK8AUzwi00m)
 
-### [A Merry Lofi Christmas](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+### [A Merry Lofi Christmas](https://open.spotify.com/playlist/37i9dQZF1DWYK8AUzwi00m)
 
 > have yourself a chill and lofi xmas
+
+110 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

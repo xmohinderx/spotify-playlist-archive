@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6bnzK9KPvrz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6bnzK9KPvrz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6bnzK9KPvrz)
 
-### [This Is The Weeknd](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
+### [This Is The Weeknd](https://open.spotify.com/playlist/37i9dQZF1DX6bnzK9KPvrz)
 
 > The essential tracks from The Weeknd.
+
+84 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

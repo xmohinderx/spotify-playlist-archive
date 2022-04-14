@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZLN2cXno63R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZLN2cXno63R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZLN2cXno63R)
 
-### [Café Cubano](https://open.spotify.com/playlist/2dn5lQ5XbZAyok1EXkCng8)
+### [Café Cubano](https://open.spotify.com/playlist/37i9dQZF1DWZLN2cXno63R)
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
+
+62 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/2dn5lQ5XbZAyok1EXkCng8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

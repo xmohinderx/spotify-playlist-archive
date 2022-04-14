@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5DfG8gQdC3F.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5DfG8gQdC3F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5DfG8gQdC3F)
 
-### [New Music Friday Canada](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
 > All the best new tracks this week, all in one place\. Cover: bbno$
+
+1,505 songs - 3 day 8 hr 17 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

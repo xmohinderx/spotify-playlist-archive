@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,243 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,396 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 71 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
 | 72 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 |
 | 73 | [The Past And Pending](https://open.spotify.com/track/406DlQKEhXubIyV4bgH2nM) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/1OXUnUd8QPoVJpStlBGn0J) | 5:23 |
-| 74 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
-| 75 | [Neil Young on High](https://open.spotify.com/track/58q9HQ973MIbexDlnIsWQT) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Neil Young on High](https://open.spotify.com/album/1S0sGRopjEF7cQ7HfTJF7P) | 3:07 |
+| 74 | [Neil Young on High](https://open.spotify.com/track/58q9HQ973MIbexDlnIsWQT) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Neil Young on High](https://open.spotify.com/album/1S0sGRopjEF7cQ7HfTJF7P) | 3:07 |
+| 75 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
 | 76 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 |
 | 77 | [Let's Move To The Country](https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/60i9U1oYiGHVmt7wkwzybi) | 3:05 |
 | 78 | [Rae Street](https://open.spotify.com/track/2CNNKiZvxEUDaw4G8Sk0rP) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Rae Street](https://open.spotify.com/album/4UlYlmh4MZXio3RQc9Jmco) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [If Not For You \(Demo\)](https://open.spotify.com/track/3HUCTp20rxqMnCtdyU7JgU) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Shakey Graves And The Horse He Rode In On \(Nobody's Fool and The Donor Blues EP\)](https://open.spotify.com/album/5ZetO1qY0okdczkZzAQEBL) | 3:11 |
 | 100 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
 
-Snapshot ID: `MTY0OTgxMTgzOSwwMDAwMDAwMGM1M2FjMDMzMzBiZGY1ZGFjM2U5NWQxNmFhOTU4ZDJk`
+Snapshot ID: `MTY0OTg5ODQzMywwMDAwMDAwMDVmYjRlN2ViMDA1YzMzOGFhZGJlNjM5MjRjZjY0Nzg2`

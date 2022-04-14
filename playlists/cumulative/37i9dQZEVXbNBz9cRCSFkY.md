@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbNBz9cRCSFkY.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbNBz9cRCSFkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNBz9cRCSFkY)
 
-### [Top 50 \- Philippines](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
+### [Top 50 \- Philippines](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY)
 
 > Your daily update of the most played tracks right now \- Philippines.
+
+392 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

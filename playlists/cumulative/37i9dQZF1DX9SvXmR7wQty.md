@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9SvXmR7wQty.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9SvXmR7wQty) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9SvXmR7wQty)
 
-### [Nouveautés de la semaine Canada](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
+### [Nouveautés de la semaine Canada](https://open.spotify.com/playlist/37i9dQZF1DX9SvXmR7wQty)
 
 > Les nouveautés francophones de la semaine\. Photo: Ludovick Bourgeois
+
+506 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1tW4VlEfDSS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1tW4VlEfDSS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1tW4VlEfDSS)
 
-### [Groove Theory](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
+### [Groove Theory](https://open.spotify.com/playlist/37i9dQZF1DX1tW4VlEfDSS)
 
 > A feel\-good soulful house  and disco selection.
+
+145 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4laDTTxplAf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4laDTTxplAf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4laDTTxplAf)
 
-### [00s Ballads](https://open.spotify.com/playlist/0aBMvnmhVVq7DnIOckm0a1)
+### [00s Ballads](https://open.spotify.com/playlist/37i9dQZF1DX4laDTTxplAf)
 
 > All 00s, all ballads\. Cover: Norah Jones
+
+72 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/0aBMvnmhVVq7DnIOckm0a1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

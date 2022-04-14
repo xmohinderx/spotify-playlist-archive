@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2lOMjzyPMlcIvcaWlaF6MB.md) - cumulative - [plain](/playlists/plain/2lOMjzyPMlcIvcaWlaF6MB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2lOMjzyPMlcIvcaWlaF6MB)
 
-### [Historic Venue: Ryman Auditorium](https://open.spotify.com/playlist/5506hqpZp1f58pMjStt2mc)
+### [Historic Venue: Ryman Auditorium](https://open.spotify.com/playlist/2lOMjzyPMlcIvcaWlaF6MB)
 
 > Transport yourself to the "Mother Church of Country Music" with these live cuts from the Ryman.
+
+26 songs - 1 hr 37 min - [published](https://open.spotify.com/playlist/5506hqpZp1f58pMjStt2mc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3ukqAcaahACMyRzpkwHXew.md) - cumulative - [plain](/playlists/plain/3ukqAcaahACMyRzpkwHXew) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3ukqAcaahACMyRzpkwHXew)
 
-### [New year's eve by Icona Pop](https://open.spotify.com/playlist/7slMxVjAJmnLU1zLsubwJy)
+### [New year's eve by Icona Pop](https://open.spotify.com/playlist/3ukqAcaahACMyRzpkwHXew)
 
 > 
+
+16 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/7slMxVjAJmnLU1zLsubwJy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1YPTAhwehsC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1YPTAhwehsC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1YPTAhwehsC)
 
-### [State of Mind](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
+### [State of Mind](https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC)
 
 > Up and down I\-95\. Cover: B\-Lovee
+
+155 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

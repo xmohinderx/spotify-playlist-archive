@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdwmD5Q7Gxah.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdwmD5Q7Gxah)
 
-### [Lorem](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
 > just want lorde to shush me\. cover: flowerovlove
+
+1,547 songs - 3 day 10 hr 44 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

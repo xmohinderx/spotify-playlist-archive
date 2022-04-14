@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZel4xa7wX1s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZel4xa7wX1s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZel4xa7wX1s)
 
-### [The New Waltz](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
+### [The New Waltz](https://open.spotify.com/playlist/37i9dQZF1DWZel4xa7wX1s)
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
+
+73 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +23,7 @@
 | [Chelsea](https://open.spotify.com/track/6QsaoM6upioGbe4WZhLCmc) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Chelsea](https://open.spotify.com/album/2Fr2BpLSBpck5R21kysYox) | 4:49 | 2019-11-29 |  |
 | [Devil's Tower](https://open.spotify.com/track/1PCRrXONHBtqfxXnRL1IKc) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Devil's Tower](https://open.spotify.com/album/7c9tmy3Crbn9b94xJ7wtbT) | 3:43 | 2019-11-29 |  |
 | [Didn't I](https://open.spotify.com/track/6dr3VRZV5SS8abPR4SbvnA) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Bridget Cady](https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z) | [Didn't I](https://open.spotify.com/album/5R1izqEWxeyPGrsglmoYIr) | 4:00 | 2019-11-29 |  |
-| [Dominoes](https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 5:02 | 2019-11-29 | 2022-04-07 |
+| [Dominoes](https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 5:02 | 2019-11-29 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/29RANVBx4oilCZhaWlmcMv) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Don't Be Afraid](https://open.spotify.com/album/4vwgDlySiCRfw8VLtGjqpx) | 4:49 | 2019-11-29 |  |
 | [Dreaming Time Again](https://open.spotify.com/track/3A01HmcLsjL5dcGRGnuHzd) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Dreaming Time Again \- EP](https://open.spotify.com/album/6vtOgyM8mqBML5vTVxTrrN) | 4:54 | 2019-11-29 | 2022-03-22 |
 | [Drink](https://open.spotify.com/track/47AkyDjYQnsbKvpAYuDjVD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Drink](https://open.spotify.com/album/6YFDqKEFYJuQLnzPGqeVqa) | 3:49 | 2019-11-29 |  |
@@ -44,7 +46,7 @@
 | [If I Can Dream \(from the NBC Elvis All\-Star Tribute\)](https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [The Best of The '68 Comeback Special \(Live\)](https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01) | 3:10 | 2019-11-29 |  |
 | [If She Ever Leaves Me](https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:13 | 2019-11-29 |  |
 | [If You See Her, Say Hello \- Take 1](https://open.spotify.com/track/4o8ASl77G362BEVsp3TuvB) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [If You See Her, Say Hello \(Take 1\)](https://open.spotify.com/album/4JuawjFEN2SnBhYlffORhI) | 3:58 | 2019-11-29 |  |
-| [Let Me Know](https://open.spotify.com/track/3Yeey7zLzWwpyw83Ypwnlm) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Let Me Know](https://open.spotify.com/album/4yM1WvRo2WYOeSYKYJdknF) | 2:55 | 2019-11-29 |  |
+| [Let Me Know](https://open.spotify.com/track/3Yeey7zLzWwpyw83Ypwnlm) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Let Me Know](https://open.spotify.com/album/4yM1WvRo2WYOeSYKYJdknF) | 2:55 | 2019-11-29 | 2022-04-14 |
 | [Light On](https://open.spotify.com/track/7oDksGjePXQW8RlGXnfv8Q) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Light On](https://open.spotify.com/album/6yO3xjbNgtCnJEhoqW438h) | 4:48 | 2019-11-29 |  |
 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 | 2019-11-29 |  |
 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/2Eowpnfjs5iXP8OLToAOYA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5E6dG2q42szysfESYn40FL) | 3:01 | 2019-11-29 | 2022-03-19 |

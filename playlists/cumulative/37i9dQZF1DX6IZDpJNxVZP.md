@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6IZDpJNxVZP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6IZDpJNxVZP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6IZDpJNxVZP)
 
-### [Trick or Treat](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+### [Trick or Treat](https://open.spotify.com/playlist/37i9dQZF1DX6IZDpJNxVZP)
 
 > Celebrate Halloween at home with these fun tracks
+
+133 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

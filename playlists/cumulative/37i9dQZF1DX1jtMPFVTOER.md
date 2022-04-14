@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1jtMPFVTOER.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1jtMPFVTOER) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1jtMPFVTOER)
 
-### [Orbit](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
+### [Orbit](https://open.spotify.com/playlist/37i9dQZF1DX1jtMPFVTOER)
 
 > You and jazz are the center of this universe\. Cover: Robert Glasper
+
+179 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

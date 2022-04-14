@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVS1LdzBKmob.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVS1LdzBKmob) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVS1LdzBKmob)
 
-### [Sound Bath](https://open.spotify.com/playlist/1Lw3OcfQQZwnc25pF6c86g)
+### [Sound Bath](https://open.spotify.com/playlist/37i9dQZF1DWVS1LdzBKmob)
 
 > Bowls, tones and gongs to lift you up and transcend.
+
+76 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/1Lw3OcfQQZwnc25pF6c86g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,14 +1,16 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZy48MuOV69W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZy48MuOV69W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZy48MuOV69W)
 
-### [Fireside Christmas Jazz](https://open.spotify.com/playlist/5cNXdJnskmm641e5o7i3nb)
+### [Fireside Christmas Jazz](https://open.spotify.com/playlist/37i9dQZF1DWZy48MuOV69W)
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
+
+57 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/5cNXdJnskmm641e5o7i3nb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Child Is Born](https://open.spotify.com/track/2xoTSMtigVw64fJ9Ff5Tlk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:16 | 2021-12-21 |  |
 | [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 | 2021-12-21 |  |
-| [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 | 2021-12-21 | 2022-03-23 |
+| [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 | 2021-12-21 |  |
 | [An Old Fashioned Christmas](https://open.spotify.com/track/769WL9sLCRlKv8VbBMMxQi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & His Pennsylvanians](https://open.spotify.com/artist/56KTGgSkXENl57LeuSR2oQ) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:47 | 2021-12-21 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH) | [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Pretty Swingin' Christmas](https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU) | 2:09 | 2021-12-21 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/0V8QwRbttYen0nSQ3YrbmD) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7), [John Di Martino](https://open.spotify.com/artist/3IMLMHXZmOkvt8TEYvspCK) | [Jazz Christmas](https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc) | 3:55 | 2021-12-21 |  |
@@ -55,7 +57,7 @@
 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 | 2021-12-21 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/0n4aPxuxJ9QojwjNpVD4yT) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:17 | 2021-12-21 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/34Ri3Om2B8uVwtH0nINZKh) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:53 | 2021-12-21 |  |
-| [The First Snowfall \- Single Version](https://open.spotify.com/track/5g7GS1C3zqW2evPRjqiOjA) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [A Merry Christmas With Bing Crosby & The Andrews Sisters](https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76) | 3:07 | 2021-12-21 |  |
+| [The First Snowfall \- Single Version](https://open.spotify.com/track/5g7GS1C3zqW2evPRjqiOjA) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [A Merry Christmas With Bing Crosby & The Andrews Sisters](https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76) | 3:07 | 2021-12-21 | 2022-04-14 |
 | [The Secret Of Christmas](https://open.spotify.com/track/23e53JCxxqZBTz5AO6SjTS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p) | 2:45 | 2021-12-21 |  |
 | [What About Me?](https://open.spotify.com/track/6Qo2N9Jhn3Vy03REErv3kX) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Baby It's Cold Outside](https://open.spotify.com/album/5nZAaue7FQgCTOY3SA62u7) | 1:42 | 2021-12-21 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:50 | 2021-12-21 |  |

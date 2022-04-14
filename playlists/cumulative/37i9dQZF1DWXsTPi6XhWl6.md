@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXsTPi6XhWl6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXsTPi6XhWl6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXsTPi6XhWl6)
 
-### [Wide Awake](https://open.spotify.com/playlist/4QEboiTQ5FZpURd879PG5r)
+### [Wide Awake](https://open.spotify.com/playlist/37i9dQZF1DWXsTPi6XhWl6)
 
 > Wake up with these indie classics
+
+72 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/4QEboiTQ5FZpURd879PG5r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

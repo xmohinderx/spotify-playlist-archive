@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYN0zdqzbEwl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYN0zdqzbEwl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYN0zdqzbEwl)
 
-### [Rock en Español](https://open.spotify.com/playlist/63Igemtn2mMuN2LhnHm574)
+### [Rock en Español](https://open.spotify.com/playlist/37i9dQZF1DWYN0zdqzbEwl)
 
 > Legendarios del rock en español\. Cover: Maná
+
+88 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/63Igemtn2mMuN2LhnHm574)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

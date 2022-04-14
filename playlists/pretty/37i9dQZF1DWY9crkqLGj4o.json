@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 262231,
+  "num_followers": 262468,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTUzMywwMDAwMDAwMDhkZTdiY2MzMDIwNGNkNzhjZGQzNzZlMTRmYTA4YzY5",
+  "snapshot_id": "MTY0OTg5ODE0MCwwMDAwMDAwMDJiMjE3OTViMjQxMzY2ZDIwOTY0NmJkNmNkM2E3NmJk",
   "tracks": [
     {
       "added_at": "2022-03-04 12:57:35",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-03-04 12:57:35",
       "album": {
-        "name": "Ele \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/466qdSihFolGNRfdnRLuuS"
-      },
-      "artists": [
-        {
-          "name": "Morada",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 372173,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7o00LMD8A69Ghc2KznnRFL"
-    },
-    {
-      "added_at": "2022-03-04 12:57:35",
-      "album": {
         "name": "Era Eu",
         "url": "https://open.spotify.com/album/5Zc0RUJvU7WPBsWMxYIzrR"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 272013,
       "name": "Era Eu",
       "url": "https://open.spotify.com/track/3NGxu0cxmlhh5g5MpmkP23"
+    },
+    {
+      "added_at": "2022-03-04 12:57:35",
+      "album": {
+        "name": "Ele \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/466qdSihFolGNRfdnRLuuS"
+      },
+      "artists": [
+        {
+          "name": "Morada",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 372173,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7o00LMD8A69Ghc2KznnRFL"
     },
     {
       "added_at": "2022-03-04 12:57:35",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-03-04 12:57:35",
       "album": {
-        "name": "Kemuel (Sony Music Live)",
-        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 314289,
-      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
-      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
-    },
-    {
-      "added_at": "2022-03-04 12:57:35",
-      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 290763,
       "name": "Ele N\u00e3o Desiste de Voc\u00ea",
       "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
+    },
+    {
+      "added_at": "2022-03-04 12:57:35",
+      "album": {
+        "name": "Kemuel (Sony Music Live)",
+        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 314289,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
+      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
     },
     {
       "added_at": "2022-03-04 12:57:35",
@@ -655,6 +655,26 @@
     {
       "added_at": "2022-03-04 12:57:35",
       "album": {
+        "name": "Enche-me (Ao Vivo)",
+        "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 450560,
+      "name": "Enche-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
+    },
+    {
+      "added_at": "2022-03-04 12:57:35",
+      "album": {
         "name": "Renovo",
         "url": "https://open.spotify.com/album/7fiWxyJRFR0NIQ1nfFXcbL"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 384760,
       "name": "Maranata - Ao Vivo",
       "url": "https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N"
-    },
-    {
-      "added_at": "2022-03-04 12:57:35",
-      "album": {
-        "name": "Enche-me (Ao Vivo)",
-        "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 450560,
-      "name": "Enche-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
     },
     {
       "added_at": "2022-03-04 12:57:35",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-03-04 12:57:35",
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 266193,
-      "name": "Soldado Ferido",
-      "url": "https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX"
-    },
-    {
-      "added_at": "2022-03-04 12:57:35",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 385063,
       "name": "Tudo a Ver Com Ele",
       "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
+    },
+    {
+      "added_at": "2022-03-04 12:57:35",
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 266193,
+      "name": "Soldado Ferido",
+      "url": "https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX"
     },
     {
       "added_at": "2022-03-04 12:57:35",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-03-04 12:57:35",
       "album": {
-        "name": "Esperanc\u0327a",
-        "url": "https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 298005,
-      "name": "Teus Olhos Revelam",
-      "url": "https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe"
-    },
-    {
-      "added_at": "2022-03-04 12:57:35",
-      "album": {
         "name": "Compromisso",
         "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2022-03-04 12:57:35",
       "album": {
+        "name": "Esperanc\u0327a",
+        "url": "https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 298005,
+      "name": "Teus Olhos Revelam",
+      "url": "https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe"
+    },
+    {
+      "added_at": "2022-03-04 12:57:35",
+      "album": {
         "name": "Consagra\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 381318,
       "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
       "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+    },
+    {
+      "added_at": "2022-03-04 12:57:35",
+      "album": {
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 297726,
+      "name": "Raridade",
+      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
     },
     {
       "added_at": "2022-03-04 12:57:35",
@@ -1183,22 +1199,6 @@
       "duration_ms": 465885,
       "name": "Me Leva Pra Casa",
       "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
-    },
-    {
-      "added_at": "2022-03-04 12:57:35",
-      "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 297726,
-      "name": "Raridade",
-      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
     },
     {
       "added_at": "2022-03-04 12:57:35",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2RahGIyQXcJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2RahGIyQXcJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2RahGIyQXcJ)
 
-### [Desi Hip Hop](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
+### [Desi Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX2RahGIyQXcJ)
 
 > Featuring today's dopest Desi MCs from across the globe\. Cover: Emiway Bantai
+
+82 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

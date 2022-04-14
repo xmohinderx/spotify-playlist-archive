@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4ve1H90mNWg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4ve1H90mNWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4ve1H90mNWg)
 
-### [Ripple Effect: Texas](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+### [Ripple Effect: Texas](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
 > Texas music breaking waves\. Cover, Mike Dimes.
+
+92 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

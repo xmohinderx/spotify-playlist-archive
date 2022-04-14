@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Qo2zphj7u3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Qo2zphj7u3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Qo2zphj7u3)
 
-### [Hits Románticos](https://open.spotify.com/playlist/0jl0XlOQEsEONv8moCpOdv)
+### [Hits Románticos](https://open.spotify.com/playlist/37i9dQZF1DX7Qo2zphj7u3)
 
 > Éxitos románticos y eternos\. Foto: Alejandro Sanz
+
+250 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/0jl0XlOQEsEONv8moCpOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

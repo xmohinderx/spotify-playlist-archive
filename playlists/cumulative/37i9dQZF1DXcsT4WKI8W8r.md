@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcsT4WKI8W8r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcsT4WKI8W8r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcsT4WKI8W8r)
 
-### [Music for a Workday](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
+### [Music for a Workday](https://open.spotify.com/playlist/37i9dQZF1DXcsT4WKI8W8r)
 
 > A playlist to get you through your whole workday.
+
+205 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

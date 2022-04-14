@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0RGhgSIsFBm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0RGhgSIsFBm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0RGhgSIsFBm)
 
-### [Scary Stories](https://open.spotify.com/playlist/3QuUmxQpDsOeCDX4P6b5tf)
+### [Scary Stories](https://open.spotify.com/playlist/37i9dQZF1DX0RGhgSIsFBm)
 
 > A collection of classic horror and spooky stories, from Stoker to Hitchcock.
+
+127 songs - 1 day 17 hr 20 min - [published](https://open.spotify.com/playlist/3QuUmxQpDsOeCDX4P6b5tf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

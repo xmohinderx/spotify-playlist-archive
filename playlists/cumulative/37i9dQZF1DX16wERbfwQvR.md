@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX16wERbfwQvR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX16wERbfwQvR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX16wERbfwQvR)
 
-### [This Is Haydn](https://open.spotify.com/playlist/4o6YvR8pyggN9QqkAYzWZO)
+### [This Is Haydn](https://open.spotify.com/playlist/37i9dQZF1DX16wERbfwQvR)
 
 > Father of the symphony and string quartet, and teacher to both <a href="spotify:user:spotify:playlist:1tNvLjwgTtsZH8RlbK6Yib">Mozart</a> and <a href="spotify:user:spotify:playlist:4NPecrxm0zdPCIIzVTHUd9">Beethoven</a>\. This is Haydn.
+
+62 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/4o6YvR8pyggN9QqkAYzWZO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

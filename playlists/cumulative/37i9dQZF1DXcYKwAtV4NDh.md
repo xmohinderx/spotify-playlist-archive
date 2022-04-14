@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcYKwAtV4NDh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcYKwAtV4NDh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcYKwAtV4NDh)
 
-### [History of Country Music](https://open.spotify.com/playlist/2Qo80W3yO0hp9ZkThC7cjv)
+### [History of Country Music](https://open.spotify.com/playlist/37i9dQZF1DXcYKwAtV4NDh)
 
 > A deep and concise look at the music that made Country Music what is is today\.  Covers eras <br/>1930's \- 1990.
+
+107 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/2Qo80W3yO0hp9ZkThC7cjv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

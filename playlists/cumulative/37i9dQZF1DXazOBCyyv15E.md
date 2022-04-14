@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXazOBCyyv15E.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXazOBCyyv15E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXazOBCyyv15E)
 
-### [The Other List](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+### [The Other List](https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E)
 
 > The home of the best new alternative music\. Cover: Sad Night Dynamite
+
+842 songs - 2 day 2 hr 19 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

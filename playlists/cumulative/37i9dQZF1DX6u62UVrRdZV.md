@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6u62UVrRdZV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6u62UVrRdZV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6u62UVrRdZV)
 
-### [Dub On The Beach](https://open.spotify.com/playlist/5siQC20oHoSDI6W0jYW206)
+### [Dub On The Beach](https://open.spotify.com/playlist/37i9dQZF1DX6u62UVrRdZV)
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
+
+50 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/5siQC20oHoSDI6W0jYW206)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

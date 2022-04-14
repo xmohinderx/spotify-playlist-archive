@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ZaylsK87YU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ZaylsK87YU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ZaylsK87YU)
 
-### [Modhymns](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
+### [Modhymns](https://open.spotify.com/playlist/37i9dQZF1DX3ZaylsK87YU)
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
+
+175 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +148,7 @@
 | [Softly And Tenderly](https://open.spotify.com/track/3RVSPxPCT29wt3NgJgAQNn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Softly And Tenderly](https://open.spotify.com/album/0Mi5UCbI2mPA4Ws6Ql60Wj) | 5:29 | 2021-07-30 |  |
 | [Sooner Count the Stars](https://open.spotify.com/track/3Eao8XJ5auwZRSIMjL6oHq) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Sooner Count the Stars: Worshiping the Triune God](https://open.spotify.com/album/4nnETGFb2jOnogd5TUc4bw) | 4:31 | 2021-07-30 | 2022-03-22 |
 | [Speak O Lord](https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:01 | 2021-07-30 | 2022-03-21 |
-| [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 | 2021-07-30 | 2022-04-07 |
+| [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 | 2021-07-30 |  |
 | [Take a Moment \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3J7vBrecAaQpAf5CpbXpj4) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel B\-Sides](https://open.spotify.com/album/3HwQXwC4V5Gbhwz8QJ6t80) | 9:40 | 2021-07-30 | 2022-03-22 |
 | [Take Courage \(Live\)](https://open.spotify.com/track/1h8OjoX94lp8npq80D6yLK) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene Di Marco](https://open.spotify.com/artist/63hMbJ08jrIVgp9rdxivpP) | [Starlight \(Live\)](https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0) | 6:18 | 2021-07-30 | 2022-03-22 |
 | [The Old Rugged Cross](https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Precious Memories](https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe) | 3:06 | 2021-07-30 | 2022-03-21 |
@@ -171,7 +173,7 @@
 | [Vineyard](https://open.spotify.com/track/7lF6Jbf9GCTEF9SdYmLte3) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Posters](https://open.spotify.com/album/57Ny8gmLYJiuVsKxsCODI9) | 4:27 | 2021-07-30 | 2022-03-23 |
 | [Want](https://open.spotify.com/track/4OYE671tr7tLa3vUG21pop) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 2:07 | 2021-07-30 |  |
 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 | 2021-07-30 |  |
-| [What A Savior \(Psalm 65\)](https://open.spotify.com/track/30f1fbavDCP11JFP3cTEDo) | [Melanie Waldman](https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd), [Waterdeep](https://open.spotify.com/artist/3jPKY265XrMlohnJw3nGt0) | [What A Savior \(Psalm 65\) Featuring Waterdeep](https://open.spotify.com/album/3OEjeCz9gEYPJnQYJvQJNX) | 3:32 | 2021-07-30 |  |
+| [What A Savior \(Psalm 65\)](https://open.spotify.com/track/30f1fbavDCP11JFP3cTEDo) | [Melanie Waldman](https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd), [Waterdeep](https://open.spotify.com/artist/3jPKY265XrMlohnJw3nGt0) | [What A Savior \(Psalm 65\) Featuring Waterdeep](https://open.spotify.com/album/3OEjeCz9gEYPJnQYJvQJNX) | 3:32 | 2021-07-30 | 2022-04-14 |
 | [What Wondrous Love Is This \(Live from Mayne Island\)](https://open.spotify.com/track/1zyEnquNOscqlJwO672XJ7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG) | [The Sea in Between \(Soundtrack\)](https://open.spotify.com/album/0Ao2w5SU5pRoHJKrwg2D1Z) | 2:00 | 2021-07-30 | 2022-03-23 |
 | [Where Were You](https://open.spotify.com/track/6Xmcw141LKERzrhLJuXVLu) | [Ghost Ship](https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931) | [The Good King](https://open.spotify.com/album/6RK6TNZLiXPbIWOxtQwAH4) | 4:00 | 2021-07-30 |  |
 | [Who Am I / Praise You in This Storm](https://open.spotify.com/track/2Q2xuQY3UybDZx9kQ9Yf36) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep) | [Who Am I / Praise You in This Storm](https://open.spotify.com/album/0RhKUYlJuERerUmQoOfh48) | 2:59 | 2021-07-30 | 2022-03-13 |

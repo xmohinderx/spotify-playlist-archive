@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYE5MI4mMuii.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYE5MI4mMuii) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYE5MI4mMuii)
 
-### [Rock & Roll Party](https://open.spotify.com/playlist/5IBuC0AHNldOgHOCTRII87)
+### [Rock & Roll Party](https://open.spotify.com/playlist/37i9dQZF1DWYE5MI4mMuii)
 
 > Time to put on your best dancing shoes \- the jukebox is on!
+
+80 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/5IBuC0AHNldOgHOCTRII87)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4OF8aCFCpJb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OF8aCFCpJb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OF8aCFCpJb)
 
-### [Svensk Reggae](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
+### [Svensk Reggae](https://open.spotify.com/playlist/37i9dQZF1DX4OF8aCFCpJb)
 
 > Det bästa från den svenska reggaescenen.
+
+153 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

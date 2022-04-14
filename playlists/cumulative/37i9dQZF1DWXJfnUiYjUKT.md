@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXJfnUiYjUKT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXJfnUiYjUKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJfnUiYjUKT)
 
-### [New Music Friday \(2\)](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+### [New Music Friday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXJfnUiYjUKT)
 
 > The very best in new music from around the world\. Cover: Camila Cabello & WILLOW
+
+1,494 songs - 3 day 6 hr 30 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

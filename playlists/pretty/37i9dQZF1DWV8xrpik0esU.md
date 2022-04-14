@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,382 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,561 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 32 | [Runaway](https://open.spotify.com/track/6csX1JjmeoLhGqMBXGnZF0) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Forgiven, Not Forgotten](https://open.spotify.com/album/4acB71ZhsfYGdTdqdbpzLK) | 4:25 |
 | 33 | [Why](https://open.spotify.com/track/2fYYmPNwDaNpw1KRSxpQ5H) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:53 |
 | 34 | [You Gotta Be](https://open.spotify.com/track/5Z8kUbnUQqBUzM5FsBNOAl) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 4:00 |
-| 35 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
-| 36 | [Circle Of Life](https://open.spotify.com/track/1DqMnZpdOXy4mjmsXnFv2t) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 4:50 |
-| 37 | [Dreams](https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Find Your Way](https://open.spotify.com/album/3G14jXmb8ul7FmkRnPZooj) | 3:42 |
-| 38 | [I Wanna Be the Only One \(feat\. Bebe Winans\)](https://open.spotify.com/track/0XvOoNb9zZOwFIOM0mwbiq) | [Eternal](https://open.spotify.com/artist/7zYGAXxAaq15C9eM29M8Fj), [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [Before The Rain](https://open.spotify.com/album/0FkXp8n7cMtnLBo1l77W20) | 3:36 |
-| 39 | [Rotterdam \(Or Anywhere\)](https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l) | [The Beautiful South](https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90) | [Blue Is The Colour](https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2) | 3:35 |
-| 40 | [Sunshine On a Rainy Day](https://open.spotify.com/track/6p2XXeslyqOvCgiv2SK90E) | [Zoe Mazah](https://open.spotify.com/artist/4md7aRL1VkgiOk4SLhnvi1) | [Renaissance The Classics](https://open.spotify.com/album/0KC34vUKxySSzrvGv0SlKm) | 4:47 |
-| 41 | [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:19 |
+| 35 | [Rotterdam \(Or Anywhere\)](https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l) | [The Beautiful South](https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90) | [Blue Is The Colour](https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2) | 3:35 |
+| 36 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
+| 37 | [Circle Of Life](https://open.spotify.com/track/1DqMnZpdOXy4mjmsXnFv2t) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 4:50 |
+| 38 | [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:19 |
+| 39 | [Dreams](https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Find Your Way](https://open.spotify.com/album/3G14jXmb8ul7FmkRnPZooj) | 3:42 |
+| 40 | [I Wanna Be the Only One \(feat\. Bebe Winans\)](https://open.spotify.com/track/0XvOoNb9zZOwFIOM0mwbiq) | [Eternal](https://open.spotify.com/artist/7zYGAXxAaq15C9eM29M8Fj), [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [Before The Rain](https://open.spotify.com/album/0FkXp8n7cMtnLBo1l77W20) | 3:36 |
+| 41 | [Sunshine On a Rainy Day](https://open.spotify.com/track/6p2XXeslyqOvCgiv2SK90E) | [Zoe Mazah](https://open.spotify.com/artist/4md7aRL1VkgiOk4SLhnvi1) | [Renaissance The Classics](https://open.spotify.com/album/0KC34vUKxySSzrvGv0SlKm) | 4:47 |
 | 42 | [Friday I'm In Love](https://open.spotify.com/track/20CNpCKq1oTdvekXaboyeq) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/6tCOXpiN1FvDBl0eT6WtG3) | 3:35 |
 | 43 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 44 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 79 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
 | 80 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
 
-Snapshot ID: `MTY0OTgxMTQyMiwwMDAwMDAwMDAxNDMzMzZhODM3NDFmZmU0ZTljMzBhODdkYWJkOTkw`
+Snapshot ID: `MTY0OTg5ODAzNSwwMDAwMDAwMDYzM2NmZmZiOWVkMDg0MjJlZWM1MmM2YzNmNjYzZTk0`

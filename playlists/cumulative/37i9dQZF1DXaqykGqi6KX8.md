@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaqykGqi6KX8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaqykGqi6KX8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaqykGqi6KX8)
 
-### [Arab Metal](https://open.spotify.com/playlist/3sThgltbrDH5c6hYx5luxv)
+### [Arab Metal](https://open.spotify.com/playlist/37i9dQZF1DXaqykGqi6KX8)
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
+
+48 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/3sThgltbrDH5c6hYx5luxv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

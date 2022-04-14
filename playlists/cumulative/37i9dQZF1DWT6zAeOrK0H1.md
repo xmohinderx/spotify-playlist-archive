@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT6zAeOrK0H1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT6zAeOrK0H1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT6zAeOrK0H1)
 
-### [The Best Bands In The Universe 🪐](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
+### [The Best Bands In The Universe 🪐](https://open.spotify.com/playlist/37i9dQZF1DWT6zAeOrK0H1)
 
 > Home of the best bands orbiting the universe right now\. Cover: Beach House
+
+83 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

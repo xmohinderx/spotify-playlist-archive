@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcLNIxmtGu8N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcLNIxmtGu8N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcLNIxmtGu8N)
 
-### [GO\-GO](https://open.spotify.com/playlist/7bHL0spTsLvzRLJlpib6rN)
+### [GO\-GO](https://open.spotify.com/playlist/37i9dQZF1DXcLNIxmtGu8N)
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
+
+65 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/7bHL0spTsLvzRLJlpib6rN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUptwB9dhZvQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUptwB9dhZvQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUptwB9dhZvQ)
 
-### [Kollywood Themes](https://open.spotify.com/playlist/6OAKXR3lL6SjbrqJyJl0zB)
+### [Kollywood Themes](https://open.spotify.com/playlist/37i9dQZF1DWUptwB9dhZvQ)
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Ajith Kumar
+
+62 songs - 1 hr 46 min - [published](https://open.spotify.com/playlist/6OAKXR3lL6SjbrqJyJl0zB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

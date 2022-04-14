@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX82KQhRWvaIs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX82KQhRWvaIs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82KQhRWvaIs)
 
-### [This is MILOŠ](https://open.spotify.com/playlist/57Tzrtx4jHxJk32TpJwQHo)
+### [This is MILOŠ](https://open.spotify.com/playlist/37i9dQZF1DX82KQhRWvaIs)
 
 > This is MILOŠ\. The essential tracks, all in one playlist.
+
+84 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/57Tzrtx4jHxJk32TpJwQHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbZmKskFbVct.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbZmKskFbVct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbZmKskFbVct)
 
-### [ASMR Sleep Whispers](https://open.spotify.com/playlist/0WpRCwnHLqwwOEdSsL7BjN)
+### [ASMR Sleep Whispers](https://open.spotify.com/playlist/37i9dQZF1DXbZmKskFbVct)
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
+
+53 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/0WpRCwnHLqwwOEdSsL7BjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,10 +20,10 @@
 | [DEEP SLEEP in 45 Minutes Pt.3](https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [DEEP SLEEP in 45 Minutes](https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u) | 4:58 | 2022-01-07 |  |
 | [Do You Have Plans?](https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Checking Up On You \(Scratch, Tapping, Ramble\)](https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy) | 5:21 | 2021-11-12 |  |
 | [Everything is Okay](https://open.spotify.com/track/0EuUoivsrB7lBHZDffnvxc) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw) | 3:07 | 2021-11-12 |  |
-| [Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering, Pt\. 1](https://open.spotify.com/track/5k6j68qAUCCMtuFsuKPWSo) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering \[ASMR at 100% Sensitivity\]](https://open.spotify.com/album/1OmgwNuQvXPqnqENtlkrjT) | 3:12 | 2021-11-12 |  |
+| [Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering, Pt\. 1](https://open.spotify.com/track/5k6j68qAUCCMtuFsuKPWSo) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering \[ASMR at 100% Sensitivity\]](https://open.spotify.com/album/1OmgwNuQvXPqnqENtlkrjT) | 3:12 | 2021-11-12 | 2022-04-14 |
 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ) | 5:16 | 2021-11-12 |  |
 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c) | 6:01 | 2021-11-12 |  |
-| [Guided Meditation and Positive Affirmations, Pt\. 1](https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [Whispering Things Your Brain Needs To Hear](https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di) | 15:09 | 2021-11-12 | 2022-03-24 |
+| [Guided Meditation and Positive Affirmations, Pt\. 1](https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [Whispering Things Your Brain Needs To Hear](https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di) | 15:09 | 2021-11-12 |  |
 | [Guided Visualization for Sleep, Pt\. 1](https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f) | [ASMR Blossom](https://open.spotify.com/artist/6HpWebq041QRizskcykHPH) | [ASMR Guided Visualisation for Sleep](https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK) | 2:15 | 2021-11-12 |  |
 | [Identifying the Different Fantasy Coins](https://open.spotify.com/track/6Y53WoHgjy7RwHh7AXiROE) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8) | 5:03 | 2021-11-12 |  |
 | [Intense Relaxation Pt.2](https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Intense Relaxation](https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8) | 7:27 | 2021-11-12 |  |

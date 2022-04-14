@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSxaFwRXIXnt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSxaFwRXIXnt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSxaFwRXIXnt)
 
-### [King Khan: The Best of SRK](https://open.spotify.com/playlist/5XcFGzAhCR8ybnj0riMfkk)
+### [King Khan: The Best of SRK](https://open.spotify.com/playlist/37i9dQZF1DWSxaFwRXIXnt)
 
 > Classic songs from Bollywood's badshah, Shah Rukh Khan.
+
+57 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/5XcFGzAhCR8ybnj0riMfkk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

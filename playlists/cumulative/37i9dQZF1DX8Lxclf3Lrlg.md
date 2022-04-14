@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8Lxclf3Lrlg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Lxclf3Lrlg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Lxclf3Lrlg)
 
-### [PRIDE: Alibi Lounge](https://open.spotify.com/playlist/0I6NjmMieaYkwAHKRc1A0L)
+### [PRIDE: Alibi Lounge](https://open.spotify.com/playlist/37i9dQZF1DX8Lxclf3Lrlg)
 
 > <a href="https://www.alibiharlem.com/">Alibi Lounge</a> is an openly LGBTQQIA+ lounge in Harlem whose soundtrack reflects the many ways in which they show their Pride in the heart of NYC\. Let the music play!
+
+49 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/0I6NjmMieaYkwAHKRc1A0L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2UwTnYkh7zZjMY6NEQdP95.md) - cumulative - [plain](/playlists/plain/2UwTnYkh7zZjMY6NEQdP95) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2UwTnYkh7zZjMY6NEQdP95)
 
-### [Grazia Daily: Summer 2013](https://open.spotify.com/playlist/7f23olFojXNqT2XCHIpANY)
+### [Grazia Daily: Summer 2013](https://open.spotify.com/playlist/2UwTnYkh7zZjMY6NEQdP95)
 
 > 
+
+40 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7f23olFojXNqT2XCHIpANY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

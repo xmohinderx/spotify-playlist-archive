@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSvfPiFfb8Mi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSvfPiFfb8Mi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSvfPiFfb8Mi)
 
-### [Poolside Disco](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
+### [Poolside Disco](https://open.spotify.com/playlist/37i9dQZF1DWSvfPiFfb8Mi)
 
 > Disco, house, funk and soul for the good times.
+
+66 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4SrOBCjlfVi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4SrOBCjlfVi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4SrOBCjlfVi)
 
-### [New Joints](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+### [New Joints](https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi)
 
 > New joints of the week featuring Fivio Foreign, Coi Leray, Vince Staples, and more\. Cover: Lil Baby
+
+562 songs - 1 day 2 hr 31 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

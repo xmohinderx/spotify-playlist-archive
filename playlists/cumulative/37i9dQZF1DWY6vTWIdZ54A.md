@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY6vTWIdZ54A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY6vTWIdZ54A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY6vTWIdZ54A)
 
-### [Dirty Rock](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+### [Dirty Rock](https://open.spotify.com/playlist/37i9dQZF1DWY6vTWIdZ54A)
 
 > Get down and dirty with these bluesy rock songs\. Cover: Royal Blood
+
+142 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

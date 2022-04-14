@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2cIkPMesqdx5VV6IAvX9bE.md) - cumulative - [plain](/playlists/plain/2cIkPMesqdx5VV6IAvX9bE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2cIkPMesqdx5VV6IAvX9bE)
 
-### [1977](https://open.spotify.com/playlist/59IlqcEC6rOPigeqfCVZZ6)
+### [1977](https://open.spotify.com/playlist/2cIkPMesqdx5VV6IAvX9bE)
 
 > 
+
+50 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/59IlqcEC6rOPigeqfCVZZ6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

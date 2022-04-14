@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0pTJgTL7GIhxto5z35Rfwu.md) - cumulative - [plain](/playlists/plain/0pTJgTL7GIhxto5z35Rfwu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0pTJgTL7GIhxto5z35Rfwu)
 
-### [Hultsfred 2013](https://open.spotify.com/playlist/2fydrvh7WjW6XubgPmCaXu)
+### [Hultsfred 2013](https://open.spotify.com/playlist/0pTJgTL7GIhxto5z35Rfwu)
 
 > 
+
+39 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/2fydrvh7WjW6XubgPmCaXu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

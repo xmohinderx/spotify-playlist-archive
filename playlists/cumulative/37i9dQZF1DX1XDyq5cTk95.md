@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1XDyq5cTk95.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1XDyq5cTk95) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1XDyq5cTk95)
 
-### [This Is Radiohead](https://open.spotify.com/playlist/316QYWvrxBZ4K82evnrAVV)
+### [This Is Radiohead](https://open.spotify.com/playlist/37i9dQZF1DX1XDyq5cTk95)
 
 > The essential Radiohead, all in one playlist.
+
+69 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/316QYWvrxBZ4K82evnrAVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

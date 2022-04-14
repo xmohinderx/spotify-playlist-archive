@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX20VDU4OIBfS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX20VDU4OIBfS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX20VDU4OIBfS)
 
-### [Canciones del Recuerdo](https://open.spotify.com/playlist/1QOdLztBWNrsSWvFlIeQGt)
+### [Canciones del Recuerdo](https://open.spotify.com/playlist/37i9dQZF1DX20VDU4OIBfS)
 
 > Temas inolvidables del baúl de los recuerdos.
+
+208 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/1QOdLztBWNrsSWvFlIeQGt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

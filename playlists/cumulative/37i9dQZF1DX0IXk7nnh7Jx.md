@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0IXk7nnh7Jx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IXk7nnh7Jx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0IXk7nnh7Jx)
 
-### [Indie Spirit](https://open.spotify.com/playlist/7vzhDddiv6oXbXOyLANGbq)
+### [Indie Spirit](https://open.spotify.com/playlist/37i9dQZF1DX0IXk7nnh7Jx)
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
+
+89 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/7vzhDddiv6oXbXOyLANGbq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

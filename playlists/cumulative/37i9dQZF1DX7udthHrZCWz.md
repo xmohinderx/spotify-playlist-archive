@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7udthHrZCWz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7udthHrZCWz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7udthHrZCWz)
 
-### [Easy 10s](https://open.spotify.com/playlist/0oEW2djZdF5843olQKfDJx)
+### [Easy 10s](https://open.spotify.com/playlist/37i9dQZF1DX7udthHrZCWz)
 
 > Unwind to these easy classics from the 2010s...
+
+107 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/0oEW2djZdF5843olQKfDJx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +69,7 @@
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2020-07-08 |  |
 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 | 2020-07-08 |  |
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2020-07-08 |  |
-| [Price Tag](https://open.spotify.com/track/2Zb61Z5WIsb7R6CH19mjHm) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:43 | 2020-07-08 |  |
+| [Price Tag](https://open.spotify.com/track/2Zb61Z5WIsb7R6CH19mjHm) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:43 | 2020-07-08 | 2022-04-14 |
 | [Read All About It, Pt\. III](https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 4:43 | 2020-07-08 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:48 | 2020-07-08 |  |
 | [Safe Inside](https://open.spotify.com/track/5ooilrQAnOJbUjq7IDm8lY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:42 | 2020-07-08 | 2022-03-15 |
@@ -110,7 +112,7 @@
 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 | 2020-07-08 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 | 2020-07-08 |  |
 | [Wildest Dreams](https://open.spotify.com/track/4A4A6dwl5DqdqrZaEtKGPR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:40 | 2020-07-08 |  |
-| [Wildest Moments](https://open.spotify.com/track/0nt09YWqPwIdYFzwmSNHSH) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion \- The Gold Edition](https://open.spotify.com/album/7nxjemFXgk7MH9ZeTulRNb) | 3:42 | 2020-07-08 | 2022-03-16 |
+| [Wildest Moments](https://open.spotify.com/track/0nt09YWqPwIdYFzwmSNHSH) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion \- The Gold Edition](https://open.spotify.com/album/7nxjemFXgk7MH9ZeTulRNb) | 3:42 | 2020-07-08 |  |
 | [You've Got The Love](https://open.spotify.com/track/3GNDBGICWkYOz6sUkZEBhQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 2:48 | 2020-07-08 | 2022-03-22 |
 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 | 2020-07-08 |  |
 

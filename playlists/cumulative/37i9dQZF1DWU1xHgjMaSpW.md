@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU1xHgjMaSpW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU1xHgjMaSpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU1xHgjMaSpW)
 
-### [This Is: Merle Haggard](https://open.spotify.com/playlist/3of4aVahSHI0YSU2DldRaK)
+### [This Is: Merle Haggard](https://open.spotify.com/playlist/37i9dQZF1DWU1xHgjMaSpW)
 
 > All Mighty Merle...All The Time!
+
+85 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/3of4aVahSHI0YSU2DldRaK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

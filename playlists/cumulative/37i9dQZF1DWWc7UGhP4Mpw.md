@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWc7UGhP4Mpw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWc7UGhP4Mpw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWc7UGhP4Mpw)
 
-### [This Is Ramones \(2\)](https://open.spotify.com/playlist/42teHVxZTrx4W6zxtNyqgm)
+### [This Is Ramones \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWWc7UGhP4Mpw)
 
 > The essential Ramones, all in one playlist.
+
+34 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/42teHVxZTrx4W6zxtNyqgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

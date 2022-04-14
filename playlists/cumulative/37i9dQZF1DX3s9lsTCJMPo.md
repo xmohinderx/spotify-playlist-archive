@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3s9lsTCJMPo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3s9lsTCJMPo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3s9lsTCJMPo)
 
-### [Soca Classics](https://open.spotify.com/playlist/64TrHSSpN6MFtOko77c2wK)
+### [Soca Classics](https://open.spotify.com/playlist/37i9dQZF1DX3s9lsTCJMPo)
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
+
+106 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/64TrHSSpN6MFtOko77c2wK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

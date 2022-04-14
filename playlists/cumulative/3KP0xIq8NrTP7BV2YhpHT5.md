@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3KP0xIq8NrTP7BV2YhpHT5.md) - cumulative - [plain](/playlists/plain/3KP0xIq8NrTP7BV2YhpHT5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3KP0xIq8NrTP7BV2YhpHT5)
 
-### [It's a Boy!](https://open.spotify.com/playlist/0UW8eOJlHHINh01XKFaYqu)
+### [It's a Boy!](https://open.spotify.com/playlist/3KP0xIq8NrTP7BV2YhpHT5)
 
 > Celebrate your baby boy and spread the good news!
+
+23 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/0UW8eOJlHHINh01XKFaYqu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

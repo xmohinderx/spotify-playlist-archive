@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWYlokKRoQoC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWYlokKRoQoC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWYlokKRoQoC)
 
-### [This Is John Prine](https://open.spotify.com/playlist/4gIqlrrdrFdLdKRd3GcyNq)
+### [This Is John Prine](https://open.spotify.com/playlist/37i9dQZF1DWWYlokKRoQoC)
 
 > Celebrating the life and legacy of the songwriting legend.
+
+94 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/4gIqlrrdrFdLdKRd3GcyNq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

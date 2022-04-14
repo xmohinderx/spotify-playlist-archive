@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWpEiFt0w46m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWpEiFt0w46m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWpEiFt0w46m)
 
-### [This Is Fleet Foxes](https://open.spotify.com/playlist/3Ab6bLyPSbFCoNGPLRTNkn)
+### [This Is Fleet Foxes](https://open.spotify.com/playlist/37i9dQZF1DWWpEiFt0w46m)
 
 > The essential tracks, all in one playlist.
+
+40 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/3Ab6bLyPSbFCoNGPLRTNkn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

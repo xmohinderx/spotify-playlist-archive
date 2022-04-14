@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3Sx2mAdbEvx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Sx2mAdbEvx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Sx2mAdbEvx)
 
-### [Vocal Jazz Classics](https://open.spotify.com/playlist/1sLi29R8TrTX0NVOKdYl9z)
+### [Vocal Jazz Classics](https://open.spotify.com/playlist/37i9dQZF1DX3Sx2mAdbEvx)
 
 > Iconic artists and voices\. Cover: Ella Fitzgerald
+
+50 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/1sLi29R8TrTX0NVOKdYl9z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

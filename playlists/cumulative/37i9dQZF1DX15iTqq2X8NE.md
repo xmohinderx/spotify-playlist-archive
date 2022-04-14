@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX15iTqq2X8NE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX15iTqq2X8NE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX15iTqq2X8NE)
 
-### [Sudan Sounds](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
+### [Sudan Sounds](https://open.spotify.com/playlist/37i9dQZF1DX15iTqq2X8NE)
 
 > The sweet sounds of Sudan.
+
+71 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +66,7 @@
 | [Sam7a](https://open.spotify.com/track/5mcwBrNKtFF444czlqeIoh) | [Lil Freeny](https://open.spotify.com/artist/5ABYsKceqqiCJoBADKpC26), [Maman](https://open.spotify.com/artist/3gzyZvEZZ3IgxQuo90IErA) | [Sam7a](https://open.spotify.com/album/7mvcTHWJDf5ZS99PKVa8tn) | 3:09 | 2021-12-09 | 2022-03-23 |
 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 | 2021-12-09 |  |
 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 | 2021-12-09 |  |
-| [Soukura \- Boddhi Satva Ancestral Soul Remix](https://open.spotify.com/track/3hXjEjCujOecf0X0yxUdx2) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Soukura \- EP](https://open.spotify.com/album/5uIKH8R1wPDKABSt6AOv73) | 5:20 | 2021-12-09 | 2022-03-31 |
+| [Soukura \- Boddhi Satva Ancestral Soul Remix](https://open.spotify.com/track/3hXjEjCujOecf0X0yxUdx2) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Soukura \- EP](https://open.spotify.com/album/5uIKH8R1wPDKABSt6AOv73) | 5:20 | 2021-12-09 |  |
 | [Stay Alive](https://open.spotify.com/track/23RTebU5woj5YZgKi9xuZm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/6BcaOyEe7OjryQ8EP3HUfF) | 3:01 | 2021-12-09 |  |
 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 | 2021-12-09 |  |
 | [Sudania](https://open.spotify.com/track/5NeVCUBVudh9rPpDik5amG) | [Omar Majid](https://open.spotify.com/artist/30kqjrpTAZryMkMjk1FbK2), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [G Salih](https://open.spotify.com/artist/7k6dtdPdypqE2KXYWWl4tH), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudania](https://open.spotify.com/album/5HtVbnnYh94EB0HLkdrrVo) | 4:27 | 2021-12-09 |  |
@@ -76,6 +78,6 @@
 | [Ya Sudan \- Alive At Spacebomb Studios](https://open.spotify.com/track/1YpnoEzbd883QqxoV7BkcE) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Ya Sudan \(Alive At Spacebomb Studios\)](https://open.spotify.com/album/2Dp2bjaqbtGWdhV2v2kXeU) | 3:09 | 2021-12-09 |  |
 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 | 2021-12-09 |  |
 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 | 2021-12-09 | 2022-04-07 |
-| [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 | 2021-12-09 |  |
+| [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 | 2021-12-09 | 2022-04-14 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

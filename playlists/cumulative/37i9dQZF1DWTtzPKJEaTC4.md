@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTtzPKJEaTC4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTtzPKJEaTC4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtzPKJEaTC4)
 
-### [Swamp Dogg Digs Jazz](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
+### [Swamp Dogg Digs Jazz](https://open.spotify.com/playlist/37i9dQZF1DWTtzPKJEaTC4)
 
 > <a href="spotify:artist:6ZEUa75BqZkvpjhuVzCsdX">Swamp Dogg</a> shares his \(smooth\) jazz favorites
+
+184 songs - 16 hr 54 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

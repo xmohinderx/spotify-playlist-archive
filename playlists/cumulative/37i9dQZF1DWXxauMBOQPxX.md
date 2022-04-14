@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXxauMBOQPxX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXxauMBOQPxX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXxauMBOQPxX)
 
-### [Heartbreaker](https://open.spotify.com/playlist/4JRrymEYXv68y6zp25JHgT)
+### [Heartbreaker](https://open.spotify.com/playlist/37i9dQZF1DWXxauMBOQPxX)
 
 > Heartbroken? These songs might just help...
+
+54 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4JRrymEYXv68y6zp25JHgT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

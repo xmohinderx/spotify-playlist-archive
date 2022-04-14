@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX70zl2mz7vvV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX70zl2mz7vvV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX70zl2mz7vvV)
 
-### [Legendary Labels: VP Records](https://open.spotify.com/playlist/3unIimQjWMk86DrgGDOhN0)
+### [Legendary Labels: VP Records](https://open.spotify.com/playlist/37i9dQZF1DX70zl2mz7vvV)
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
+
+85 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/3unIimQjWMk86DrgGDOhN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

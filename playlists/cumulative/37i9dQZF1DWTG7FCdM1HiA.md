@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTG7FCdM1HiA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTG7FCdM1HiA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTG7FCdM1HiA)
 
-### [Cool Jazz](https://open.spotify.com/playlist/10BCizIIBZqIAWnzbKylaT)
+### [Cool Jazz](https://open.spotify.com/playlist/37i9dQZF1DWTG7FCdM1HiA)
 
 > The unhurried and fundamentally cool side of jazz\. Cover: Miles Davis
+
+115 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/10BCizIIBZqIAWnzbKylaT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7rqPov2ZRCB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7rqPov2ZRCB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7rqPov2ZRCB)
 
-### [Merengue Típico](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
+### [Merengue Típico](https://open.spotify.com/playlist/37i9dQZF1DX7rqPov2ZRCB)
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
+
+212 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +36,7 @@
 | [Como Tu](https://open.spotify.com/track/6cdX2qASQqvG8RCUBT0QFH) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Los Caciques del Tipico](https://open.spotify.com/album/3CksgyH4LGfL2C8VEVfp0Q) | 5:13 | 2019-09-09 | 2022-03-21 |
 | [Como Tu \- Live](https://open.spotify.com/track/5GSQ5TVxrilyZDYYBR3APB) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Two Strong Live \(Summer Latino, Vol.2\)](https://open.spotify.com/album/1McWsUpoxjfln3hhXWq5d6) | 3:56 | 2019-09-09 | 2022-03-18 |
 | [Con el Agua y el Jabon](https://open.spotify.com/track/0EVM5zK0JvLCaaRBL1fPSq) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Merengues Típicos, Vol\. 1](https://open.spotify.com/album/5EZB4tvAG8NpJ67jD0muQQ) | 4:00 | 2019-09-09 |  |
-| [Con el Agua y el Jabón](https://open.spotify.com/track/1VeE2eQetaWW9OYtXBjv1l) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 4:19 | 2019-09-09 |  |
+| [Con el Agua y el Jabón](https://open.spotify.com/track/1VeE2eQetaWW9OYtXBjv1l) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 4:19 | 2019-09-09 | 2022-04-14 |
 | [Con el Agua y el Jabón \(En Vivo\)](https://open.spotify.com/track/39iwcYBNRMWekv9PFEEAC4) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 5:06 | 2019-09-09 | 2022-03-07 |
 | [Consejo a las Mujeres](https://open.spotify.com/track/34iX8GBGXa89VA2PbmK1IS) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Grandes Exitos](https://open.spotify.com/album/0JO10CGBRTo4nhCvaoTgJy) | 3:32 | 2019-09-09 |  |
 | [Consejo de Mujer](https://open.spotify.com/track/7B2XcYGbd6aMYghDpZIBlq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj) | [Tipicazos](https://open.spotify.com/album/5tIuwjIPjjZ5PdnFGtTPjs) | 3:31 | 2019-09-09 | 2022-03-22 |
@@ -132,7 +134,7 @@
 | [La Pava](https://open.spotify.com/track/6EYmqkj3o78oX29YF5FOyl) | [Tatico](https://open.spotify.com/artist/06szOvix5Fvf3lGkERzGI4) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 2:51 | 2019-09-09 | 2022-03-11 |
 | [La Pava](https://open.spotify.com/track/5MFurpjWaE0RP7O5fpxkNz) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Lo Mejor](https://open.spotify.com/album/023zve01lZHkCgbqesOjSg) | 2:53 | 2019-09-09 | 2022-03-16 |
 | [La Pava](https://open.spotify.com/track/2PaI6XS5ytj6fVMx3VCsH7) | [Wilman Peña](https://open.spotify.com/artist/4ZCt8TwKamzijlmkvHxuKH), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Qué Linda](https://open.spotify.com/album/6fCoSrjnnmEpkej8iiyiox) | 6:09 | 2019-09-09 | 2022-03-22 |
-| [La Pimienta es la Que Pica](https://open.spotify.com/track/1cwD4kYEcYmLCPj42Ym8Yx) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Cantando He De Morir](https://open.spotify.com/album/1WLMlfIxmGS78b2oQXKNHW) | 4:44 | 2019-09-09 | 2022-04-07 |
+| [La Pimienta es la Que Pica](https://open.spotify.com/track/1cwD4kYEcYmLCPj42Ym8Yx) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Cantando He De Morir](https://open.spotify.com/album/1WLMlfIxmGS78b2oQXKNHW) | 4:44 | 2019-09-09 |  |
 | [La Pobre Adela](https://open.spotify.com/track/5wsOSUobdcnDwWlxjG0nIH) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 4:25 | 2019-09-09 |  |
 | [La Queja](https://open.spotify.com/track/4zlyMC48VaNlwsKWfsYJPR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [TipicoHits 2004](https://open.spotify.com/album/00txF7UY3TZ597BduwAmCq) | 5:08 | 2019-09-09 | 2022-03-04 |
 | [La Querida Tipica](https://open.spotify.com/track/7oez5wsiPo24mYY0jzQIxN) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [La Cabaña](https://open.spotify.com/album/0RdcZm4JIUfIyTfN7exGIV) | 3:43 | 2019-09-09 | 2022-03-21 |

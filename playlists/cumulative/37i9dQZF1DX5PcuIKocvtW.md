@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5PcuIKocvtW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5PcuIKocvtW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5PcuIKocvtW)
 
-### [FORYOU](https://open.spotify.com/playlist/4NFhsSQp7eBmubCLYHTp9M)
+### [FORYOU](https://open.spotify.com/playlist/37i9dQZF1DX5PcuIKocvtW)
 
 > it's a lifestyle / Cover: Jeris Johnson
+
+180 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4NFhsSQp7eBmubCLYHTp9M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5Dn14a8hNIhT3NLLjUUBGL.md) - cumulative - [plain](/playlists/plain/5Dn14a8hNIhT3NLLjUUBGL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5Dn14a8hNIhT3NLLjUUBGL)
 
-### [Fuck Valentine!](https://open.spotify.com/playlist/5HnZnOK100vtHpkA15ViSq)
+### [Fuck Valentine!](https://open.spotify.com/playlist/5Dn14a8hNIhT3NLLjUUBGL)
 
 > 
+
+74 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/5HnZnOK100vtHpkA15ViSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

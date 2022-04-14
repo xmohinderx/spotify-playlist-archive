@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! En portada: Alan Navarro
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,445 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,519 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 8 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 |
 | 9 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 |
 | 10 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 |
-| 11 | [Buena Suerte](https://open.spotify.com/track/45lw7issmJHMkPrrm2voTA) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Buena Suerte](https://open.spotify.com/album/74fYwjYPrKgQwMZxQzFuTZ) | 3:20 |
+| 11 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
 | 12 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
-| 13 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
+| 13 | [Buena Suerte](https://open.spotify.com/track/45lw7issmJHMkPrrm2voTA) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Buena Suerte](https://open.spotify.com/album/74fYwjYPrKgQwMZxQzFuTZ) | 3:20 |
 | 14 | [Neón Ponderosa](https://open.spotify.com/track/0ew6IpoCY2hx5xVfCt6BhE) | [José Hoek](https://open.spotify.com/artist/0bq9MHfPforgiUxuuffVzs) | [Neón Ponderosa](https://open.spotify.com/album/5eDv0qyiE6Rau1LEQxk7hN) | 3:23 |
 | 15 | [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 |
 | 16 | [Pasajero](https://open.spotify.com/track/6EBd69hWC96BKJ0Ts92riX) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [Pasajero](https://open.spotify.com/album/5DGSn1ipSRxFMgleIALTXL) | 2:52 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 25 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 |
 | 26 | [Te Quieres Ir](https://open.spotify.com/track/5stGwgzM6HeOya3FrXrA5V) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Te Quieres Ir](https://open.spotify.com/album/4Ymj7pfgVf3U3mYVSbZ8ZO) | 3:36 |
 | 27 | [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 |
-| 28 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
-| 29 | [180 km/h](https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [180 km/h](https://open.spotify.com/album/3mJHsaye3UADQIKwZxKXhZ) | 2:43 |
+| 28 | [180 km/h](https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [180 km/h](https://open.spotify.com/album/3mJHsaye3UADQIKwZxKXhZ) | 2:43 |
+| 29 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
 | 30 | [Shot de Tequila](https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Shot de Tequila](https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc) | 3:31 |
 | 31 | [Arrebatada](https://open.spotify.com/track/2NPrK3MXPjgoZgXqgjWDKA) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Arrebatada](https://open.spotify.com/album/5LpKeG5wRaCMdCjoKft3bn) | 2:17 |
 | 32 | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/track/1zXfyjLOsTOvYdkGlXprWE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/album/7sF2hlKgjWhBNMd66wu1T8) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 50 | [Oportunidad](https://open.spotify.com/track/6wzdMhX1spHmcZiMfQcA7R) | [Made](https://open.spotify.com/artist/5yHZluiOoBTPf6QyT0LzY6) | [Oportunidad](https://open.spotify.com/album/7Gyf6o9zasu7KqfQPmy9pf) | 3:05 |
 
-Snapshot ID: `MTY0OTgxMTkxMywwMDAwMDAwMGNjNDM5YzI5ZmYzODg5NWJjYzU0ZTI4ZGQwN2M0ZWE1`
+Snapshot ID: `MTY0OTg5ODUwMywwMDAwMDAwMGNjODg2ZWY0NzdjYWExMDEzZTU2Yzg0ZmEwNzA5ZWFk`

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX37CqNpZIOOZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX37CqNpZIOOZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX37CqNpZIOOZ)
 
-### [This Is Richard Strauss](https://open.spotify.com/playlist/6q5YBSpYIzroQvZmItG9Jk)
+### [This Is Richard Strauss](https://open.spotify.com/playlist/37i9dQZF1DX37CqNpZIOOZ)
 
 > Discover the music of Richard Strauss.
+
+58 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/6q5YBSpYIzroQvZmItG9Jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

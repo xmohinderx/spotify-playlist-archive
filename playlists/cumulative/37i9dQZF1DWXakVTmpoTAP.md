@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXakVTmpoTAP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXakVTmpoTAP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXakVTmpoTAP)
 
-### [Father's Day Love](https://open.spotify.com/playlist/3B9KBYwsNJbaDjE2PiZgRZ)
+### [Father's Day Love](https://open.spotify.com/playlist/37i9dQZF1DWXakVTmpoTAP)
 
 > Send your dad some love today!
+
+38 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/3B9KBYwsNJbaDjE2PiZgRZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

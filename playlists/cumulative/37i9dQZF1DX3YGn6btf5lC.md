@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3YGn6btf5lC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3YGn6btf5lC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3YGn6btf5lC)
 
-### [Nerding Around](https://open.spotify.com/playlist/7jWuxrm69qIssOeGynezli)
+### [Nerding Around](https://open.spotify.com/playlist/37i9dQZF1DX3YGn6btf5lC)
 
 > 100% fan\-made music\. Gaming parodies of famous songs and unique creations, inspired by Minecraft, Warcraft, Pokémon and more.
+
+29 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/7jWuxrm69qIssOeGynezli)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

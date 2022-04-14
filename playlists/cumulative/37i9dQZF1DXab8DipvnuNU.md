@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXab8DipvnuNU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXab8DipvnuNU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXab8DipvnuNU)
 
-### [The Cookout](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
+### [The Cookout](https://open.spotify.com/playlist/37i9dQZF1DXab8DipvnuNU)
 
 > Essential tunes for time with the family.
+
+57 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

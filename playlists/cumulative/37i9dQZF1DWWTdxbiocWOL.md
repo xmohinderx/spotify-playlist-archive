@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWTdxbiocWOL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWTdxbiocWOL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWTdxbiocWOL)
 
-### [Calm Before the Storm](https://open.spotify.com/playlist/2vUbCCQUSY5J25PxfmpGKN)
+### [Calm Before the Storm](https://open.spotify.com/playlist/37i9dQZF1DWWTdxbiocWOL)
 
 > Aerial post\-rock sounds to take you somewhere else.
+
+58 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2vUbCCQUSY5J25PxfmpGKN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0IquWoRS2Rk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IquWoRS2Rk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0IquWoRS2Rk)
 
-### [How to Write...](https://open.spotify.com/playlist/7blaG5L2CB9qu7uIP3D2g3)
+### [How to Write...](https://open.spotify.com/playlist/37i9dQZF1DX0IquWoRS2Rk)
 
 > Advice on writing everything from college compositions to mystery novels and children's books.
+
+103 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/7blaG5L2CB9qu7uIP3D2g3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

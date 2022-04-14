@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVzL4bYZBn6V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzL4bYZBn6V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzL4bYZBn6V)
 
-### [Gym Motivation](https://open.spotify.com/playlist/41QyXALy8jMYAlVYh7UXYG)
+### [Gym Motivation](https://open.spotify.com/playlist/37i9dQZF1DWVzL4bYZBn6V)
 
 > 50 canciones que llenan tu rutina de pura energía.
+
+50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/41QyXALy8jMYAlVYh7UXYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

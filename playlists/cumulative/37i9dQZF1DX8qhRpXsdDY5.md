@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8qhRpXsdDY5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8qhRpXsdDY5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8qhRpXsdDY5)
 
-### [Latin Christmas](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
+### [Latin Christmas](https://open.spotify.com/playlist/37i9dQZF1DX8qhRpXsdDY5)
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: El Alfa
+
+101 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

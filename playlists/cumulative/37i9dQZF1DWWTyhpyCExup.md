@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWTyhpyCExup.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWTyhpyCExup) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWTyhpyCExup)
 
-### [Our Roots](https://open.spotify.com/playlist/2zeMD6M2G1mrTH8hnWvyw7)
+### [Our Roots](https://open.spotify.com/playlist/37i9dQZF1DWWTyhpyCExup)
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
+
+75 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/2zeMD6M2G1mrTH8hnWvyw7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

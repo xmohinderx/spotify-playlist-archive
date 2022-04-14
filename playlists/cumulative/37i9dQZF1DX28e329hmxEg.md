@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX28e329hmxEg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX28e329hmxEg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX28e329hmxEg)
 
-### [Country Music 101:  Good Vibes](https://open.spotify.com/playlist/2db9tp2CGELXOtmorOR09V)
+### [Country Music 101:  Good Vibes](https://open.spotify.com/playlist/37i9dQZF1DX28e329hmxEg)
 
 > Country music that makes you FEEL GOOD!
+
+87 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2db9tp2CGELXOtmorOR09V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

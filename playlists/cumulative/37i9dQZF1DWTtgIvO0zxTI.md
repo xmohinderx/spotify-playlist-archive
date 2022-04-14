@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTtgIvO0zxTI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTtgIvO0zxTI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtgIvO0zxTI)
 
-### [Flow Venezuela](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
+### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Motherflowers
+
+64 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

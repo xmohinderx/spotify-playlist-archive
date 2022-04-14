@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWsiJMaq2jt5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWsiJMaq2jt5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWsiJMaq2jt5)
 
-### [EQUAL Polska](https://open.spotify.com/playlist/4GLTrwzQfm5erozUlasyTG)
+### [EQUAL Polska](https://open.spotify.com/playlist/37i9dQZF1DWWsiJMaq2jt5)
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: VELLOW
+
+268 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/4GLTrwzQfm5erozUlasyTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

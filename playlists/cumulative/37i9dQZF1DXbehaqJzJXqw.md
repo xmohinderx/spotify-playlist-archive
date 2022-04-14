@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbehaqJzJXqw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbehaqJzJXqw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbehaqJzJXqw)
 
-### [French Jazz Café](https://open.spotify.com/playlist/0n3iccKC8QyenwGtq9NXxf)
+### [French Jazz Café](https://open.spotify.com/playlist/37i9dQZF1DXbehaqJzJXqw)
 
 > You are sipping on your coffee in a café in Paris while a jazz band plays somewhere in the background.
+
+103 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/0n3iccKC8QyenwGtq9NXxf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

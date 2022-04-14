@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaUaRhCgtpCo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaUaRhCgtpCo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaUaRhCgtpCo)
 
-### [Best of Star Wars](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
+### [Best of Star Wars](https://open.spotify.com/playlist/37i9dQZF1DXaUaRhCgtpCo)
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
+
+99 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

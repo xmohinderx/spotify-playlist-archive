@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT2I2nyOA0zG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT2I2nyOA0zG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT2I2nyOA0zG)
 
-### [Afrocentric](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+### [Afrocentric](https://open.spotify.com/playlist/37i9dQZF1DWT2I2nyOA0zG)
 
 > Cool vibes from the African continent.
+
+91 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

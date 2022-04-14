@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8h3zQNo57xG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8h3zQNo57xG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8h3zQNo57xG)
 
-### [Binaural Beats Sleep](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
+### [Binaural Beats Sleep](https://open.spotify.com/playlist/37i9dQZF1DX8h3zQNo57xG)
 
 > Put yourself to sleep with delta frequencies.
+
+78 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

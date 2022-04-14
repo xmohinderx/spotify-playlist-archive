@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5uokaTN4FTR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5uokaTN4FTR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5uokaTN4FTR)
 
-### [Massive Dance Hits](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
+### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
 > The UK's biggest dance playlist! Cover: David Guetta, Becky Hill and Ella Henderson
+
+174 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

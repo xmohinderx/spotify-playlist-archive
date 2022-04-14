@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7CHrwiytyubNpnaZqyyUkb.md) - cumulative - [plain](/playlists/plain/7CHrwiytyubNpnaZqyyUkb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7CHrwiytyubNpnaZqyyUkb)
 
-### [Beer 'n Burgers](https://open.spotify.com/playlist/1LHqBu1TKoDsRTt8biQCn9)
+### [Beer 'n Burgers](https://open.spotify.com/playlist/7CHrwiytyubNpnaZqyyUkb)
 
 > Rockabilly and old school rock & roll—the perfect soundtrack to a night of beer and burgers.
+
+21 songs - 58 min 44 sec - [published](https://open.spotify.com/playlist/1LHqBu1TKoDsRTt8biQCn9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

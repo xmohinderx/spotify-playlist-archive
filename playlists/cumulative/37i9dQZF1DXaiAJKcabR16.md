@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaiAJKcabR16.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaiAJKcabR16) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaiAJKcabR16)
 
-### [Acoustic Grit](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
+### [Acoustic Grit](https://open.spotify.com/playlist/37i9dQZF1DXaiAJKcabR16)
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
+
+62 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

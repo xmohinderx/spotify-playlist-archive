@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSWHOzidsSnO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSWHOzidsSnO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWHOzidsSnO)
 
-### [EQUAL Colombia](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+### [EQUAL Colombia](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
 > ¡<a href="https://bit.ly/FestivalEqualColombia">Compra tus entradas al Festival EQUAL aquí</a>! En portada: Farina
+
+96 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

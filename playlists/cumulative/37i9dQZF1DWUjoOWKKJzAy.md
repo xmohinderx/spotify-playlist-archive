@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUjoOWKKJzAy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUjoOWKKJzAy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUjoOWKKJzAy)
 
-### [BRock 80](https://open.spotify.com/playlist/63TGYg7jcQRjwyH3XEdPgY)
+### [BRock 80](https://open.spotify.com/playlist/37i9dQZF1DWUjoOWKKJzAy)
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
+
+60 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/63TGYg7jcQRjwyH3XEdPgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

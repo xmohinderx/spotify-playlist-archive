@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSK8os4XIQBk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSK8os4XIQBk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSK8os4XIQBk)
 
-### [All About Country](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
 > Nothing but the best modern country music\. Cover: Cole Swindell
+
+181 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

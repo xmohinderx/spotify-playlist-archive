@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0LonJ1uN97e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0LonJ1uN97e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0LonJ1uN97e)
 
-### [This Is Chuck Berry](https://open.spotify.com/playlist/7mzxOSqCgGPyNqDXWE5FL7)
+### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DX0LonJ1uN97e)
 
 > Chuck Berry, the essential tracks, all in one playlist.
+
+57 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/7mzxOSqCgGPyNqDXWE5FL7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

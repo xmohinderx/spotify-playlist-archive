@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW3PJidfC26k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW3PJidfC26k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW3PJidfC26k)
 
-### [Hardly Strictly Bluegrass](https://open.spotify.com/playlist/2MbvFGK8Q4PKjddwW7wsN9)
+### [Hardly Strictly Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DWW3PJidfC26k)
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
+
+60 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2MbvFGK8Q4PKjddwW7wsN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

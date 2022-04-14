@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5JHtri4qWRK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5JHtri4qWRK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5JHtri4qWRK)
 
-### [Heartbreak Hotel](https://open.spotify.com/playlist/1Ve8KXr0RcZEOOEI6rgy7n)
+### [Heartbreak Hotel](https://open.spotify.com/playlist/37i9dQZF1DX5JHtri4qWRK)
 
 > R&B jams for the brokenhearted.
+
+154 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/1Ve8KXr0RcZEOOEI6rgy7n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

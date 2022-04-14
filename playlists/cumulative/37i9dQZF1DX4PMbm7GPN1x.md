@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4PMbm7GPN1x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4PMbm7GPN1x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4PMbm7GPN1x)
 
-### [Disco Deewane](https://open.spotify.com/playlist/6SfeW0XptP9Kbsct3VXOcx)
+### [Disco Deewane](https://open.spotify.com/playlist/37i9dQZF1DX4PMbm7GPN1x)
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
+
+50 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6SfeW0XptP9Kbsct3VXOcx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

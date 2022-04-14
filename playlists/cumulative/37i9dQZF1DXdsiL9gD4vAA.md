@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdsiL9gD4vAA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdsiL9gD4vAA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdsiL9gD4vAA)
 
-### [Golden Ghazals](https://open.spotify.com/playlist/6yqJqn3UTLFElfzmBKUDO9)
+### [Golden Ghazals](https://open.spotify.com/playlist/37i9dQZF1DXdsiL9gD4vAA)
 
 > Let these contemplative couplets take you away.
+
+50 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/6yqJqn3UTLFElfzmBKUDO9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

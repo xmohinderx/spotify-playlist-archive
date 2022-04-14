@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2PpQS44qqLL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2PpQS44qqLL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2PpQS44qqLL)
 
-### [Las Estrellas ](https://open.spotify.com/playlist/3vJ4qB7BMV10tBofkiawS6)
+### [Las Estrellas ](https://open.spotify.com/playlist/37i9dQZF1DX2PpQS44qqLL)
 
 > Siempre espectaculares\. Foto: Vicente Fernández
+
+359 songs - 23 hr 54 min - [published](https://open.spotify.com/playlist/3vJ4qB7BMV10tBofkiawS6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +145,7 @@
 | [Herida \- Remastered 2004](https://open.spotify.com/track/4Mea588bA2OzvbCKIqcemt) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Serie Verde\- Myrian Hernandez](https://open.spotify.com/album/1T6m2wsmFrcL6j9ElQuOG2) | 4:01 | 2021-12-21 |  |
 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 | 2021-12-21 |  |
 | [Hey](https://open.spotify.com/track/5BtNKZScq7gRDbcJ2FhIQb) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [HEY!](https://open.spotify.com/album/0UWylhMlO3b9AgGS7PR8qU) | 5:00 | 2021-12-21 |  |
-| [Hielo](https://open.spotify.com/track/5IrGVeiV2N9yuvJGt5uGB9) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Singles](https://open.spotify.com/album/1yTICkCGrAN8nQO0JGuZoC) | 3:44 | 2021-12-21 | 2022-04-07 |
+| [Hielo](https://open.spotify.com/track/5IrGVeiV2N9yuvJGt5uGB9) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Singles](https://open.spotify.com/album/1yTICkCGrAN8nQO0JGuZoC) | 3:44 | 2021-12-21 |  |
 | [Hoy Lo Vi Pasar](https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Para Toda La Vida](https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd) | 3:22 | 2021-12-21 |  |
 | [Hoy Quiero Confesarme](https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 4:49 | 2021-12-21 |  |
 | [Huele A Peligro](https://open.spotify.com/track/5qPsvYBxpqxZYwRgq1SQ9j) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo El Amor](https://open.spotify.com/album/3K3pNRZGFoW9T0iMuQOw3n) | 4:57 | 2021-12-21 |  |
@@ -200,7 +202,7 @@
 | [Me llamas](https://open.spotify.com/track/1Dlh7BkGvWBzWi8UxUP6EO) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [15 De Coleccion](https://open.spotify.com/album/7w7gtaOL9JBDympoY9SddQ) | 4:36 | 2021-12-21 | 2022-03-23 |
 | [Me llamo Raquel](https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 2:47 | 2021-12-21 | 2022-03-08 |
 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 | 2021-12-21 |  |
-| [Me Quedo Aquí Abajo](https://open.spotify.com/track/5Y8Lc8JeIWIEUlW7r0kTZO) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Singles](https://open.spotify.com/album/4gOzJcJDu87NyiPO6XarzA) | 4:29 | 2021-12-21 |  |
+| [Me Quedo Aquí Abajo](https://open.spotify.com/track/5Y8Lc8JeIWIEUlW7r0kTZO) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Singles](https://open.spotify.com/album/4gOzJcJDu87NyiPO6XarzA) | 4:29 | 2021-12-21 | 2022-04-14 |
 | [Me Va A Extranar](https://open.spotify.com/track/0RWbbc4NCcd33aU9tQnaZA) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/7xpuQcTsD5qYl4kOJkhVPi) | 4:17 | 2021-12-21 |  |
 | [Media Naranja](https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Fey](https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh) | 3:41 | 2021-12-21 | 2022-03-23 |
 | [Medley \(Yo Que No Vivo Sin Ti / Culpable O No / Más Allá De Todo / Fría Como El Viento / Entrégate /Tengo Todo Excepto A Ti / La Incondicional\) \- En Vivo](https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 16:32 | 2021-12-21 |  |

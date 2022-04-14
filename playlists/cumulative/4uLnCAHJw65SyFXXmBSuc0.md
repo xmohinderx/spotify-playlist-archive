@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4uLnCAHJw65SyFXXmBSuc0.md) - cumulative - [plain](/playlists/plain/4uLnCAHJw65SyFXXmBSuc0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4uLnCAHJw65SyFXXmBSuc0)
 
-### [Top Picks holiday](https://open.spotify.com/playlist/7CTSKVlr53QndOBWX1dGSH)
+### [Top Picks holiday](https://open.spotify.com/playlist/4uLnCAHJw65SyFXXmBSuc0)
 
 > 
+
+20 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/7CTSKVlr53QndOBWX1dGSH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

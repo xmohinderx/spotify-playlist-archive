@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5q67ZpWyRrZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5q67ZpWyRrZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5q67ZpWyRrZ)
 
-### [Indie India ](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
+### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
 > The best of the country's independent artists\. Cover: Lucky Ali
+
+127 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4H3NUOwVLXj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4H3NUOwVLXj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4H3NUOwVLXj)
 
-### [This Is Frank Sinatra](https://open.spotify.com/playlist/2T8me0cRpLc4lIStz2qLuB)
+### [This Is Frank Sinatra](https://open.spotify.com/playlist/37i9dQZF1DX4H3NUOwVLXj)
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
+
+52 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/2T8me0cRpLc4lIStz2qLuB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX09buIVUF0Gg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX09buIVUF0Gg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX09buIVUF0Gg)
 
-### [Thankful](https://open.spotify.com/playlist/1i17XwBqCrC6tVU9jaq6Dt)
+### [Thankful](https://open.spotify.com/playlist/37i9dQZF1DX09buIVUF0Gg)
 
 > For time with family + friends.
+
+35 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/1i17XwBqCrC6tVU9jaq6Dt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

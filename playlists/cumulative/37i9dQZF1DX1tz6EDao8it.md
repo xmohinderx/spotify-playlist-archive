@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1tz6EDao8it.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1tz6EDao8it) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1tz6EDao8it)
 
-### [Iconic Soundtracks](https://open.spotify.com/playlist/4xWD1N1G8wZyE8HKW18sNF)
+### [Iconic Soundtracks](https://open.spotify.com/playlist/37i9dQZF1DX1tz6EDao8it)
 
 > Timeless, unforgettable melodies from the movies.
+
+65 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/4xWD1N1G8wZyE8HKW18sNF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

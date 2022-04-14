@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVrtsSlLKzro.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVrtsSlLKzro) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVrtsSlLKzro)
 
-### [Sad Beats](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+### [Sad Beats](https://open.spotify.com/playlist/37i9dQZF1DWVrtsSlLKzro)
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
+
+157 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

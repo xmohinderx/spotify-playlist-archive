@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdqrBLlPKz6L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdqrBLlPKz6L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdqrBLlPKz6L)
 
-### [Trapperz Andinos](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
+### [Trapperz Andinos](https://open.spotify.com/playlist/37i9dQZF1DXdqrBLlPKz6L)
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Micro TDH
+
+68 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

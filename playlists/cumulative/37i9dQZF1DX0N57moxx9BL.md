@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0N57moxx9BL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0N57moxx9BL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0N57moxx9BL)
 
-### [Top Christian Rock](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
 > Crank up the recent hits of Christian rock\.  Cover artist: Wolves At The Gate
+
+89 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

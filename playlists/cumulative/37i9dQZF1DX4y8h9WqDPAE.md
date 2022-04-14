@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4y8h9WqDPAE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4y8h9WqDPAE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4y8h9WqDPAE)
 
-### [Channel X](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
+### [Channel X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Khalid
+
+79 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

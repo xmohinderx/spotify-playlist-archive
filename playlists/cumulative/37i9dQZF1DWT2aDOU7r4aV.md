@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT2aDOU7r4aV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT2aDOU7r4aV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT2aDOU7r4aV)
 
-### [The Best of Viva Latino 2021](https://open.spotify.com/playlist/3xuc7VrHaKGLUBTnbh5RlW)
+### [The Best of Viva Latino 2021](https://open.spotify.com/playlist/37i9dQZF1DWT2aDOU7r4aV)
 
 > Our editor picks for the year's best hits! Cover: Maria Becerra
+
+50 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3xuc7VrHaKGLUBTnbh5RlW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

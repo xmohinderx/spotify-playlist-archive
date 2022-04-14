@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX33sAKOXmmb7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX33sAKOXmmb7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX33sAKOXmmb7)
 
-### [10s Indie Folk](https://open.spotify.com/playlist/5PgrvIfr1duvdyg1OOZoxC)
+### [10s Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DX33sAKOXmmb7)
 
 > Indie folk that defined the 2010s.
+
+120 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/5PgrvIfr1duvdyg1OOZoxC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

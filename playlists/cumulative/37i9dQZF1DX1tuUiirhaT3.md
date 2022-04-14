@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1tuUiirhaT3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1tuUiirhaT3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1tuUiirhaT3)
 
-### [Meditate to the Sounds of Nature](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+### [Meditate to the Sounds of Nature](https://open.spotify.com/playlist/37i9dQZF1DX1tuUiirhaT3)
 
 > Calm ambient music with gentle nature sounds.
+
+184 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +126,7 @@
 | [Peaceful Memories](https://open.spotify.com/track/3xeXkQ3g2J1kBo5ex8uM2H) | [Ralph Torin](https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx) | [Abstract Textures](https://open.spotify.com/album/7uLEzZ94QeZma7UYAwU77N) | 3:37 | 2021-12-17 |  |
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2021-12-17 |  |
 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 | 2021-12-17 |  |
+| [Praeniteo](https://open.spotify.com/track/33o8qJ9gYei7lJe7FT2ZTY) | [Chasing The Eclipse](https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC) | [Praeniteo](https://open.spotify.com/album/55m0KrbmCCLoyFfXWEhpEL) | 2:34 | 2022-04-13 |  |
 | [Quechee](https://open.spotify.com/track/0YHo8BjNpNr35qkQ06OB7Y) | [Stig Dahl](https://open.spotify.com/artist/3MYCekQ5MCvigzegvwg0Vt) | [Quechee](https://open.spotify.com/album/6rd91D5DtuaeL7150xTksL) | 3:50 | 2021-12-17 |  |
 | [Rain Spirit](https://open.spotify.com/track/3lrkbRgRSxQFXlJRz2PbK7) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Rain Spirit](https://open.spotify.com/album/3mkEeKRZoNrsIDvUp8h3X0) | 2:36 | 2021-12-17 |  |
 | [Rays Of Light](https://open.spotify.com/track/2bCFJvVVR7nsLAZCobtTFI) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Rays Of Light](https://open.spotify.com/album/4yKpRgQDVr1QQsNzbawduh) | 3:01 | 2021-12-17 |  |
@@ -175,6 +178,7 @@
 | [Tones of Nature](https://open.spotify.com/track/78jPG2b6dRYEn5xtf36TxI) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:54 | 2021-12-17 |  |
 | [True Awakening](https://open.spotify.com/track/0s7Qc2ytTasqhqjA9K2U2S) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Paranormal](https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu) | 3:21 | 2021-12-17 |  |
 | [Unto Nothing](https://open.spotify.com/track/5cLtfV0IzXgQmYXC2e6dm1) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Unto Nothing](https://open.spotify.com/album/06eFwXIBHDiut7njFtruKF) | 2:39 | 2021-12-17 |  |
+| [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2022-04-13 |  |
 | [Verjongen](https://open.spotify.com/track/7tXeUZJmBp9cngsIziXi9e) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Verjongen](https://open.spotify.com/album/5ope3rhRd1xkWz6Yj3wJGH) | 2:52 | 2021-12-17 |  |
 | [Viento](https://open.spotify.com/track/2iNbdFBKtfrDqdt0e7rzSt) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Noche de Lluvia](https://open.spotify.com/album/2ApJ0R7QH7FlBQS97bmw9h) | 3:03 | 2021-12-17 |  |
 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 | 2021-12-17 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVXBHEDDpqLs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVXBHEDDpqLs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVXBHEDDpqLs)
 
-### [Global Club Music](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
+### [Global Club Music](https://open.spotify.com/playlist/37i9dQZF1DWVXBHEDDpqLs)
 
 > The biggest club songs from regions around the world\. Cover: Black Rave Culture
+
+117 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

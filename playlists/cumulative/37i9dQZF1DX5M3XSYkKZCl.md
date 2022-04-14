@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5M3XSYkKZCl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5M3XSYkKZCl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5M3XSYkKZCl)
 
-### [This Is: Pavarotti](https://open.spotify.com/playlist/66saN2I1skkb1AhteyAPLW)
+### [This Is: Pavarotti](https://open.spotify.com/playlist/37i9dQZF1DX5M3XSYkKZCl)
 
 > An introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era.
+
+50 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/66saN2I1skkb1AhteyAPLW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

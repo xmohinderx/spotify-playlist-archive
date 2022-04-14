@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdbizRAR17Ui.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdbizRAR17Ui) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdbizRAR17Ui)
 
-### [4AM Chillout](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
+### [4AM Chillout](https://open.spotify.com/playlist/37i9dQZF1DXdbizRAR17Ui)
 
 > When the night isn't over just yet.
+
+154 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

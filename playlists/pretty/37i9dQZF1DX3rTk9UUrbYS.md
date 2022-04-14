@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,487 likes - 50 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,514 likes - 50 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 6 | [You've Got To Have Freedom](https://open.spotify.com/track/1rD9sOqJSlzvLHtpuEW4El) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Africa](https://open.spotify.com/album/2IdacfEEDEjmNKEFlRYd6d) | 10:06 |
 | 7 | [Puzzle](https://open.spotify.com/track/6AfsQO3JDAW1Gc8se9lJ4N) | [Abbey Rader](https://open.spotify.com/artist/0qOItf2jhJgVM1Dzbd2t0Q), [John Mcminn](https://open.spotify.com/artist/2iTriZI6FAZpS5qY53JCcE) | [Phenobarbital Sessions](https://open.spotify.com/album/1Tv3Q5NVv0wLntosUmUffA) | 5:53 |
 | 8 | [Symphony in Green](https://open.spotify.com/track/2vNuKZig6013siPnsYXB8h) | [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN) | [The Dorothy Wallace Suite](https://open.spotify.com/album/2xbXh227nPXhYKRTk1XDyL) | 4:44 |
-| 9 | [Piano Equation](https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [The Piano Equation](https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3) | 5:14 |
-| 10 | [Playing Retention](https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE) | [Daniel Carter](https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4), [Jim Clouse](https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp) | [Playing Retention](https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf) | 7:38 |
-| 11 | [Straight Horns of Plenty](https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY) | [Sam Newsome](https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke) | [Sopranoville: Works for Prepared and Non\-Prepared Soprano](https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs) | 2:31 |
-| 12 | [Argonautica](https://open.spotify.com/track/4psi675ZQIx471xz2T66Bn) | [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5) | [Argonautica](https://open.spotify.com/album/7FsJspq5NoVKFjFm8IFSej) | 42:53 |
+| 9 | [Playing Retention](https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE) | [Daniel Carter](https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4), [Jim Clouse](https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp) | [Playing Retention](https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf) | 7:38 |
+| 10 | [Straight Horns of Plenty](https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY) | [Sam Newsome](https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke) | [Sopranoville: Works for Prepared and Non\-Prepared Soprano](https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs) | 2:31 |
+| 11 | [Argonautica](https://open.spotify.com/track/4psi675ZQIx471xz2T66Bn) | [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5) | [Argonautica](https://open.spotify.com/album/7FsJspq5NoVKFjFm8IFSej) | 42:53 |
+| 12 | [Piano Equation](https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [The Piano Equation](https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3) | 5:14 |
 | 13 | [Zero Tolerance](https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu) | [Barre Phillips](https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony), [John Butcher](https://open.spotify.com/artist/0ci7QTOgaA15OkgT5GvZ7F), [Ståle Liavik Solberg](https://open.spotify.com/artist/78WjVQTuTL8OxmMqp9yM8c) | [We Met \- and Then](https://open.spotify.com/album/1kQGh6hvL2zXndbyZB5uAw) | 8:39 |
 | 14 | [WW1](https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn) | [Evan Parker](https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke) | [Winns Win](https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb) | 3:20 |
 | 15 | [Joe Btfsplk](https://open.spotify.com/track/2USetQp7MV5k6yWzvXDKsK) | [Don Byron](https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD), [Aruan Ortiz](https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o) | [Random Dances & \(A\)Tonalities](https://open.spotify.com/album/0gvblXLr6kRVAJuyPEfEVw) | 5:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Crescent](https://open.spotify.com/track/4zg0iYZ0PM6iYLUDbvr76B) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Anthology](https://open.spotify.com/album/0pTrvb720Q5pz4R4pnn9U5) | 6:22 |
 | 50 | [Bugatti \(étude\)](https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Bugatti \(étude\)](https://open.spotify.com/album/3judRd8KJgyP9NVUDdGLJl) | 4:14 |
 
-Snapshot ID: `MTY0OTgxMTczMSwwMDAwMDAwMDY0MWIzNWVkODdkY2JhMGE4Y2FlMmYwNzNjNDc4MmE5`
+Snapshot ID: `MTY0OTg5ODMyNywwMDAwMDAwMDY5OThkN2Y3YzdkZWQ4YWEwNTg4NGE5NWZiOTJkNzE3`

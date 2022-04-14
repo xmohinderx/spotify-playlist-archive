@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW1XLSH8Oafp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW1XLSH8Oafp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW1XLSH8Oafp)
 
-### [planet rave](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
 > ur on the list bb 🪐 featuring TDJ
+
+202 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +40,7 @@
 | [Call Me Your Hope](https://open.spotify.com/track/12MinAwnBD9uFK2amDeXty) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Call Me Your Hope](https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp) | 1:56 | 2022-01-07 | 2022-03-05 |
 | [Calvin K](https://open.spotify.com/track/6Zk08BX1fHfxm8ULeqUNG6) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Calvin K](https://open.spotify.com/album/67w5bTBa3uFQ69I6Gd76i2) | 2:28 | 2021-11-19 | 2022-02-19 |
 | [Can't Stop \- Egg Remix](https://open.spotify.com/track/5I31EqzRDHfKnVOdjHvNLG) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Can't Stop \(Egg Remix\)](https://open.spotify.com/album/2CJ6zZL6tVdBJAR66U6pVp) | 3:53 | 2021-12-31 | 2022-02-26 |
+| [care4me](https://open.spotify.com/track/0w4azd2nPbcRe3JN11MDPI) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [care4me](https://open.spotify.com/album/0Xgto2oJ4IS2GmHh4fQzc9) | 2:07 | 2022-04-13 |  |
 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 | 2021-11-12 | 2022-02-24 |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2021-10-29 |  |
 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 | 2022-03-07 |  |
@@ -156,6 +159,7 @@
 | [Pyramid](https://open.spotify.com/track/1Up1XBkxqdtu2BMP8iJr48) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Alchemy](https://open.spotify.com/album/7Cy7mBf9lW1eDCc8XVYD4D) | 3:53 | 2022-03-17 |  |
 | [r u ok?](https://open.spotify.com/track/0VFmlXQMAON7gUfTsufMop) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [r u ok?](https://open.spotify.com/album/5XYq4QZnzSocz2SWjfwx4O) | 3:03 | 2022-02-18 |  |
 | [Raingurl](https://open.spotify.com/track/5z1wOyEyoRu0HTkXYvuqiH) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/0LVHebiLemk6H6Djzi5NVf) | 3:57 | 2021-07-23 |  |
+| [Rash Devices](https://open.spotify.com/track/2mubBWUJIr8yYo3NlNs9g8) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Us Ephemeral](https://open.spotify.com/album/25s8VKOfdaccZaD2VRv8Z5) | 5:02 | 2022-04-13 |  |
 | [REACH 4 THE STARS](https://open.spotify.com/track/5zNWI5JlZbS6ShRsRlT8xk) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [HARDCORE HEAVEN](https://open.spotify.com/album/2SmLSzKyZ5c133Dp76Vzw3) | 3:15 | 2021-10-29 | 2022-02-05 |
 | [Reason](https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:11 | 2021-10-15 |  |
 | [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 | 2021-09-17 | 2022-03-12 |
@@ -166,6 +170,8 @@
 | [SABBATH SHIRT](https://open.spotify.com/track/6lenr6z1MhdGPyIui1tGdb) | [P.H.F.](https://open.spotify.com/artist/73vzL36ohUDVI5YPT5rVze), [Fantasyluv](https://open.spotify.com/artist/0ADXdLkKzHptTccz47JK2r) | [SABBATH SHIRT](https://open.spotify.com/album/0JhAbln1s9kKAOSZrym1he) | 2:21 | 2022-02-25 | 2022-03-05 |
 | [Sakura no eda](https://open.spotify.com/track/78DynEbRmPghcmQ4o1jOOv) | [Loli in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N), [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [Sakura no eda](https://open.spotify.com/album/5gTpIw4eWWrxopwG0njMem) | 2:45 | 2021-10-08 |  |
 | [save file 4](https://open.spotify.com/track/4qCvEh6SJpfD8zPWbblKXY) | [optic core](https://open.spotify.com/artist/2iyLphVMYwRzaMn9hwHqDf), [Shiro](https://open.spotify.com/artist/1udlYKXZJPJW9zFMz6deuj) | [save room](https://open.spotify.com/album/14pBcl13JNJ0Hab46ErdbS) | 4:14 | 2021-12-31 | 2022-03-12 |
+| [Save Me](https://open.spotify.com/track/5Ru2NOdxgo0f6mvqfVGZo9) | [GnB Chili](https://open.spotify.com/artist/0BbAouKPCNKRe8uo2k2XGU) | [Basement Popstar](https://open.spotify.com/album/3g6BGhwBDj0uRYIWV35iQ0) | 2:25 | 2022-04-13 |  |
+| [Self Service 1999 \- Instupendo Remix](https://open.spotify.com/track/4n6XlGMsftEDxW9UXIhFMI) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Self Service 1999 \(Instupendo Remix\)](https://open.spotify.com/album/1EWFq5QP7ygc29BQTgGk1O) | 3:35 | 2022-04-13 |  |
 | [serenity](https://open.spotify.com/track/5btMsv4TpSBYA57jaUvaG8) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm) | [serenity](https://open.spotify.com/album/06ckPEyABV1de75cji42I9) | 4:12 | 2021-12-24 | 2022-03-05 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 |  |
 | [Shining Star](https://open.spotify.com/track/4TUYvlr3fiFUGuRgFncGf8) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [Eternity](https://open.spotify.com/album/6yoQATdfYMXb5nM8qnOxqd) | 5:22 | 2021-07-23 | 2022-01-22 |

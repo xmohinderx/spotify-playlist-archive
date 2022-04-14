@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1cddSHoeIrE3m0i8TqYNbn.md) - cumulative - [plain](/playlists/plain/1cddSHoeIrE3m0i8TqYNbn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1cddSHoeIrE3m0i8TqYNbn)
 
-### [Annorlunda Kärlekslåtar](https://open.spotify.com/playlist/6p9c4PTliFseHrbUcJ0JZh)
+### [Annorlunda Kärlekslåtar](https://open.spotify.com/playlist/1cddSHoeIrE3m0i8TqYNbn)
 
 > 
+
+75 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/6p9c4PTliFseHrbUcJ0JZh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

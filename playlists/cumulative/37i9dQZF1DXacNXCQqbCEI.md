@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXacNXCQqbCEI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXacNXCQqbCEI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXacNXCQqbCEI)
 
-### [Eléctrica Selvática](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+### [Eléctrica Selvática](https://open.spotify.com/playlist/37i9dQZF1DXacNXCQqbCEI)
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
+
+145 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +36,9 @@
 | [Chinito Rulo \(Remix\)](https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8) | [Shushupe](https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Chinito Rulo \(Remix\)](https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS) | 3:07 | 2021-11-26 | 2022-03-15 |
 | [Chureito en la mañana](https://open.spotify.com/track/1mRkO12GcDopMRRW9o4p5c) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk) | [Chureito en la Mañana](https://open.spotify.com/album/5B9smDQD7JTx7n6XPhqD6V) | 4:38 | 2022-02-18 | 2022-03-17 |
 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 | 2021-11-26 |  |
-| [Como Noide](https://open.spotify.com/track/2rO5c5C7ZjPhmvO05BfZ9B) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Como Noide](https://open.spotify.com/album/7F40dc8XuDfuWC0CQegd9y) | 4:37 | 2021-11-26 |  |
+| [Como Noide](https://open.spotify.com/track/2rO5c5C7ZjPhmvO05BfZ9B) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Como Noide](https://open.spotify.com/album/7F40dc8XuDfuWC0CQegd9y) | 4:37 | 2021-11-26 | 2022-04-14 |
 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 | 2021-11-26 |  |
-| [Cuco Picogordo De La Española](https://open.spotify.com/track/2mv6A1cfHwgYe61Ffv2eVd) | [Maracuyá](https://open.spotify.com/artist/38FNtkkkH8KTZv3eLESoJb), [Ximena Obregón](https://open.spotify.com/artist/3mofqFxNYa2aJTLc5vXcTf) | [Cuco Picogordo De La Española](https://open.spotify.com/album/6dfrXT3xCDNonwn52oxmQC) | 4:50 | 2021-11-26 | 2022-03-23 |
+| [Cuco Picogordo De La Española](https://open.spotify.com/track/2mv6A1cfHwgYe61Ffv2eVd) | [Maracuyá](https://open.spotify.com/artist/38FNtkkkH8KTZv3eLESoJb), [Ximena Obregón](https://open.spotify.com/artist/3mofqFxNYa2aJTLc5vXcTf) | [Cuco Picogordo De La Española](https://open.spotify.com/album/6dfrXT3xCDNonwn52oxmQC) | 4:50 | 2021-11-26 |  |
 | [Cumbia del Olvido](https://open.spotify.com/track/6qINThmTDYBm8twguFRueG) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/7Mz3hUKPxQMZco25qZ6sQF) | 3:36 | 2021-11-26 |  |
 | [Currulao Version](https://open.spotify.com/track/0tCCY12EmCOF8KSbJjpKKo) | [Dub Across Borders](https://open.spotify.com/artist/7c7NsrA9itbqcg9hvVAxK4) | [Por ti me voy](https://open.spotify.com/album/4Kxe5SQsLmD64rPIivJVil) | 5:17 | 2021-11-26 |  |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-11-26 |  |

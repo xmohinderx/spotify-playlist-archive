@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1uIp2WHCf6ODHxHRPmjWG5.md) - cumulative - [plain](/playlists/plain/1uIp2WHCf6ODHxHRPmjWG5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1uIp2WHCf6ODHxHRPmjWG5)
 
-### [Rest & Relaxation](https://open.spotify.com/playlist/5ZdvhadebWgcZm7ADIX2DW)
+### [Rest & Relaxation](https://open.spotify.com/playlist/1uIp2WHCf6ODHxHRPmjWG5)
 
 > 
+
+36 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/5ZdvhadebWgcZm7ADIX2DW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZi7MSnECo7D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZi7MSnECo7D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZi7MSnECo7D)
 
-### [Indie Brasil](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
 > Novidades e destaques do indie nacional\. Foto: Jandaia
+
+155 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

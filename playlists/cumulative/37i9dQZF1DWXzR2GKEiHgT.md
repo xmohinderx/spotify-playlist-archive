@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXzR2GKEiHgT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXzR2GKEiHgT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXzR2GKEiHgT)
 
-### [The Sleep Machine: Waterscapes](https://open.spotify.com/playlist/3orUpWmUP8XdWYQVEuyTH3)
+### [The Sleep Machine: Waterscapes](https://open.spotify.com/playlist/37i9dQZF1DWXzR2GKEiHgT)
 
 > Slip into slumber with soothing water sounds.
+
+203 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/3orUpWmUP8XdWYQVEuyTH3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md) - cumulative - [plain](/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA)
 
-### [2010s Hits 🔥 ](https://open.spotify.com/playlist/4urElZ9y19mvfNZKk2dRwe)
+### [2010s Hits 🔥 ](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more\. Image: Harry Styles.
+
+186 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/4urElZ9y19mvfNZKk2dRwe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

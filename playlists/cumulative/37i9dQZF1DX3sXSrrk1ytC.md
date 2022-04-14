@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3sXSrrk1ytC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3sXSrrk1ytC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3sXSrrk1ytC)
 
-### [Energizing Classics](https://open.spotify.com/playlist/5NLIi6b1jj5pLOk4OhDpvU)
+### [Energizing Classics](https://open.spotify.com/playlist/37i9dQZF1DX3sXSrrk1ytC)
 
 > Feel energized with classic Pop and Rock.
+
+48 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5NLIi6b1jj5pLOk4OhDpvU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

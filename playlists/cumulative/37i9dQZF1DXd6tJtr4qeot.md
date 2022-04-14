@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd6tJtr4qeot.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd6tJtr4qeot) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd6tJtr4qeot)
 
-### [Punk Essentials](https://open.spotify.com/playlist/4NfEC9yeEsrC4krXTum2UL)
+### [Punk Essentials](https://open.spotify.com/playlist/37i9dQZF1DXd6tJtr4qeot)
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
+
+83 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/4NfEC9yeEsrC4krXTum2UL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

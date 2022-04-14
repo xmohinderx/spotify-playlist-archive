@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUlTJaFU1ddx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUlTJaFU1ddx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUlTJaFU1ddx)
 
-### [Jordan Sounds](https://open.spotify.com/playlist/3RjKkBGdUUaqqoXkZCGwyG)
+### [Jordan Sounds](https://open.spotify.com/playlist/37i9dQZF1DWUlTJaFU1ddx)
 
 > The sweet sounds of Jordan.
+
+51 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/3RjKkBGdUUaqqoXkZCGwyG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

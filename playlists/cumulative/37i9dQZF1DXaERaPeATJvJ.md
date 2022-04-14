@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaERaPeATJvJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaERaPeATJvJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaERaPeATJvJ)
 
-### [Memorindie](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
 > Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Themilo
+
+64 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of classic and new piano rock and pop.",
-  "num_followers": 144570,
+  "num_followers": 144593,
   "original_name": "The Piano Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQzNCwwMDAwMDAwMGVkNmRkZDdlNjgwYmY1NTc5NTI0ZGQ1ZTE4ZGQzYWY2",
+  "snapshot_id": "MTY0OTg5ODA0NiwwMDAwMDAwMDRkZjU5OGE2MTY1OWVkNzExNWRjMTkwOWZkMjdlZDE1",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
+        "name": "Tapestry (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
         "name": "The Best Bette",
         "url": "https://open.spotify.com/album/2aBNewGpx5XIAdSFKvEKGw"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 300800,
       "name": "Caravan - 2013 Remaster",
       "url": "https://open.spotify.com/track/1US01PIcb3RFVrcN8mO8CS"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Tapestry (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Little Earthquakes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 341813,
-      "name": "Winter - 2015 Remaster",
-      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 223373,
       "name": "Because the Night - Live Unplugged",
       "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Little Earthquakes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 341813,
+      "name": "Winter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
     },
     {
       "added_at": "2021-10-01 04:01:00",

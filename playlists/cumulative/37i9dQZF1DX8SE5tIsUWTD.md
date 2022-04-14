@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8SE5tIsUWTD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8SE5tIsUWTD)
 
-### [Funk & Disco Zamaan](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
+### [Funk & Disco Zamaan](https://open.spotify.com/playlist/37i9dQZF1DX8SE5tIsUWTD)
 
 > A playlist for your Arab hipster starter kit.
+
+71 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

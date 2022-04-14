@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0H8hDpv38Ju.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0H8hDpv38Ju) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0H8hDpv38Ju)
 
-### [’80s Jam Session](https://open.spotify.com/playlist/0UAu9TQlCaAu2isJwSbdX8)
+### [’80s Jam Session](https://open.spotify.com/playlist/37i9dQZF1DX0H8hDpv38Ju)
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
+
+56 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0UAu9TQlCaAu2isJwSbdX8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

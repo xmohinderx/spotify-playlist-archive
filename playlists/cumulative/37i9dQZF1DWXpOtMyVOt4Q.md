@@ -1,14 +1,16 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXpOtMyVOt4Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXpOtMyVOt4Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXpOtMyVOt4Q)
 
-### [Soundscapes For Gaming](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
+### [Soundscapes For Gaming](https://open.spotify.com/playlist/37i9dQZF1DWXpOtMyVOt4Q)
 
 > Soundtrack your gaming with these atmospheric beats.
+
+61 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Beautiful Mine](https://open.spotify.com/track/69W7GtjzZY4ljBPnS1UPfy) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/1la4Ol737XPo4bZJMqQS57) | 5:29 | 2019-12-16 |  |
 | [A Drifting Up](https://open.spotify.com/track/2mEGWzbwnYg8WTlGQGR05r) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 6:27 | 2019-12-16 |  |
-| [A Song That Will Help You Remember To Forget](https://open.spotify.com/track/3IUhMLJM4Y0fkEFnUAQZVI) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound Of Lights When Dim](https://open.spotify.com/album/0QW4mcRROn00Kc1sEUaZp1) | 6:14 | 2019-12-16 | 2022-04-13 |
+| [A Song That Will Help You Remember To Forget](https://open.spotify.com/track/3IUhMLJM4Y0fkEFnUAQZVI) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound Of Lights When Dim](https://open.spotify.com/album/0QW4mcRROn00Kc1sEUaZp1) | 6:14 | 2019-12-16 |  |
 | [Aminals](https://open.spotify.com/track/1depKpsqGCvr8wtjFFaFoO) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/66Pk1ZQyHpMjF2Fm7qjqQY) | 3:18 | 2019-12-16 |  |
 | [Another Day \(revised\)](https://open.spotify.com/track/2SD75djCvrho74KDWD9YgY) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/4r6F9MHmX3c5zeYzaETi7z) | 4:21 | 2019-12-16 |  |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-12-16 |  |
@@ -40,7 +42,7 @@
 | [Mosaic](https://open.spotify.com/track/1kua6VM4K3jnxqKxliDVyx) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Across the Oceans](https://open.spotify.com/album/2ytkZoVgs5yKkFEP9oZiut) | 3:54 | 2019-12-16 |  |
 | [My Only Swerving](https://open.spotify.com/track/1l0aqj8C1yDkdpksIDZZSr) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/0wKweXH1tHY04ONpa7Cphv) | 5:14 | 2019-12-16 |  |
 | [Never Mess With Sunday](https://open.spotify.com/track/1sotD6Cn8aOtUsL0bd5HTJ) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U) | [Ninja Tune XX \(Volume 2\)](https://open.spotify.com/album/61bYJTYERgYGSgFUamgTCa) | 3:16 | 2019-12-16 |  |
-| [Nevergreen](https://open.spotify.com/track/6DsGpDGIDRv8EFGgW10T1p) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:35 | 2019-12-16 |  |
+| [Nevergreen](https://open.spotify.com/track/6DsGpDGIDRv8EFGgW10T1p) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:35 | 2019-12-16 | 2022-04-14 |
 | [Nobody](https://open.spotify.com/track/5b3VOW8Z3KRPrUS2889NfE) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Ghost Notes](https://open.spotify.com/album/17RQgvIhxDC17NKO71jkZx) | 4:28 | 2019-12-16 |  |
 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 | 2019-12-16 |  |
 | [Open Eye Signal](https://open.spotify.com/track/5aBdWL4ud0ovtDJIJGQLdc) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/7H7UxuxjGSJuV7LcCFUxTD) | 7:48 | 2019-12-16 |  |

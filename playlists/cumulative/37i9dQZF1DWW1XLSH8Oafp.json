@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "care4me",
+        "url": "https://open.spotify.com/album/0Xgto2oJ4IS2GmHh4fQzc9"
+      },
+      "artists": [
+        {
+          "name": "black balloons",
+          "url": "https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127407,
+      "name": "care4me",
+      "url": "https://open.spotify.com/track/0w4azd2nPbcRe3JN11MDPI"
+    },
+    {
+      "album": {
         "name": "Cherry - Spotify Singles",
         "url": "https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p"
       },
@@ -2852,6 +2870,24 @@
     },
     {
       "album": {
+        "name": "Us Ephemeral",
+        "url": "https://open.spotify.com/album/25s8VKOfdaccZaD2VRv8Z5"
+      },
+      "artists": [
+        {
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302906,
+      "name": "Rash Devices",
+      "url": "https://open.spotify.com/track/2mubBWUJIr8yYo3NlNs9g8"
+    },
+    {
+      "album": {
         "name": "HARDCORE HEAVEN",
         "url": "https://open.spotify.com/album/2SmLSzKyZ5c133Dp76Vzw3"
       },
@@ -3049,6 +3085,46 @@
       "duration_ms": 254285,
       "name": "save file 4",
       "url": "https://open.spotify.com/track/4qCvEh6SJpfD8zPWbblKXY"
+    },
+    {
+      "album": {
+        "name": "Basement Popstar",
+        "url": "https://open.spotify.com/album/3g6BGhwBDj0uRYIWV35iQ0"
+      },
+      "artists": [
+        {
+          "name": "GnB Chili",
+          "url": "https://open.spotify.com/artist/0BbAouKPCNKRe8uo2k2XGU"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145718,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5Ru2NOdxgo0f6mvqfVGZo9"
+    },
+    {
+      "album": {
+        "name": "Self Service 1999 (Instupendo Remix)",
+        "url": "https://open.spotify.com/album/1EWFq5QP7ygc29BQTgGk1O"
+      },
+      "artists": [
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        },
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215207,
+      "name": "Self Service 1999 - Instupendo Remix",
+      "url": "https://open.spotify.com/track/4n6XlGMsftEDxW9UXIhFMI"
     },
     {
       "album": {

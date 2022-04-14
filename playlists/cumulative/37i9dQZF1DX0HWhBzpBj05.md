@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0HWhBzpBj05.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0HWhBzpBj05) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0HWhBzpBj05)
 
-### [Happy Holidays](https://open.spotify.com/playlist/1am0nT5NWPDwpwR2gOJMLS)
+### [Happy Holidays](https://open.spotify.com/playlist/37i9dQZF1DX0HWhBzpBj05)
 
 > Spread some cheer with this list of new and old seasonal favorites.
+
+77 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/1am0nT5NWPDwpwR2gOJMLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

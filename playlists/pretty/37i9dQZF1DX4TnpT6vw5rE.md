@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,163 likes - 91 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,201 likes - 91 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,19 +85,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 75 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 |
 | 76 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 |
 | 77 | [1000 Arms](https://open.spotify.com/track/0zZIYr7bxWx4RMQx5k4R3G) | [Lymbyc Systym](https://open.spotify.com/artist/7fpjImuvKls8BeMFW9iil5) | [Carved By Glaciers](https://open.spotify.com/album/12JjiCRZO1g6JAdPn0jGpG) | 2:49 |
-| 78 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
-| 79 | [Not Going Back To The Harbour \- Dauwd Remix](https://open.spotify.com/track/3KYH5A1SQg6poc9cTr5TjR) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng), [Dauwd Muhammad](https://open.spotify.com/artist/6T1WoscBXu9YjFzN8uvTTG) | [Low Tide](https://open.spotify.com/album/5fgdzuVFij8Qw6xa7aeJSY) | 4:13 |
-| 80 | [Comfort Zone](https://open.spotify.com/track/6UrBPZ1zQTheV7sn9PuZif) | [General Fuzz](https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r) | [Soulful Filling](https://open.spotify.com/album/6NPMX9kAPtqG09mZKQDwU8) | 6:02 |
-| 81 | [The First Surface](https://open.spotify.com/track/0GUxlhUfZhTKXtuYPSm7Ha) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/5HqxbKNC2NdtKagRP7MXxU) | 5:36 |
+| 78 | [The First Surface](https://open.spotify.com/track/0GUxlhUfZhTKXtuYPSm7Ha) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/5HqxbKNC2NdtKagRP7MXxU) | 5:36 |
+| 79 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
+| 80 | [Not Going Back To The Harbour \- Dauwd Remix](https://open.spotify.com/track/3KYH5A1SQg6poc9cTr5TjR) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng), [Dauwd Muhammad](https://open.spotify.com/artist/6T1WoscBXu9YjFzN8uvTTG) | [Low Tide](https://open.spotify.com/album/5fgdzuVFij8Qw6xa7aeJSY) | 4:13 |
+| 81 | [Comfort Zone](https://open.spotify.com/track/6UrBPZ1zQTheV7sn9PuZif) | [General Fuzz](https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r) | [Soulful Filling](https://open.spotify.com/album/6NPMX9kAPtqG09mZKQDwU8) | 6:02 |
 | 82 | [It's Called, 'Daisy'](https://open.spotify.com/track/0LXs0oOINrcboPzcn63zIB) | [Her Name Is Calla](https://open.spotify.com/artist/5T4PUHbhqRuBnNXE0GJeUy) | [Navigator](https://open.spotify.com/album/5IDR0xoCJuVydMlc1TQEjF) | 1:52 |
-| 83 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
-| 84 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 |
-| 85 | [Part 3](https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0vfiJSS4yr9dlKgl3uLING) | 5:13 |
-| 86 | [Outlaw](https://open.spotify.com/track/7d8UsuThQiOn5WZ5pdv0Ti) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 3:38 |
+| 83 | [Outlaw](https://open.spotify.com/track/7d8UsuThQiOn5WZ5pdv0Ti) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 3:38 |
+| 84 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
+| 85 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 |
+| 86 | [Part 3](https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0vfiJSS4yr9dlKgl3uLING) | 5:13 |
 | 87 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 |
-| 88 | [Blank Pages](https://open.spotify.com/track/47D774OTQbbGPU6fTMTgya) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [A Chorus of Storytellers](https://open.spotify.com/album/6WmTiX3fSgwC6QO1QScVD4) | 4:28 |
-| 89 | [Kaksi](https://open.spotify.com/track/6htL2c5qW0IhL6QgCawXsK) | [Ukkonen](https://open.spotify.com/artist/7gAih0l51IrX04F2wKSR4L) | [Erriapo](https://open.spotify.com/album/25kRg1Ggrgm1mw5i5C17k8) | 6:59 |
-| 90 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 |
+| 88 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 |
+| 89 | [Blank Pages](https://open.spotify.com/track/47D774OTQbbGPU6fTMTgya) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [A Chorus of Storytellers](https://open.spotify.com/album/6WmTiX3fSgwC6QO1QScVD4) | 4:28 |
+| 90 | [Kaksi](https://open.spotify.com/track/6htL2c5qW0IhL6QgCawXsK) | [Ukkonen](https://open.spotify.com/artist/7gAih0l51IrX04F2wKSR4L) | [Erriapo](https://open.spotify.com/album/25kRg1Ggrgm1mw5i5C17k8) | 6:59 |
 | 91 | [Another Day \(revised\)](https://open.spotify.com/track/114gL99tniO1ocR4gyukNX) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/0cN366vmPQoH0cepgK7CUZ) | 4:21 |
 
-Snapshot ID: `MTY0OTgxMTc0OCwwMDAwMDAwMDM1ZmM5MTVhNGMzMTk5ZmE0NGFkMjY0ZDE2MWFiNmYw`
+Snapshot ID: `MTY0OTg5ODM0MywwMDAwMDAwMGEzZWE3NjM4MWVhZWNjODdlOWI3ZTdkYmU0OWY3NGVl`

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX82Zzp6AKx64.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX82Zzp6AKx64) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82Zzp6AKx64)
 
-### [Rock Power Ballads](https://open.spotify.com/playlist/0Y6AXnQrxChNv1IvTCTZu8)
+### [Rock Power Ballads](https://open.spotify.com/playlist/37i9dQZF1DX82Zzp6AKx64)
 
 > In loving memory of Meat Loaf, king of rock power ballads\. Cover: Meat Loaf
+
+137 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/0Y6AXnQrxChNv1IvTCTZu8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

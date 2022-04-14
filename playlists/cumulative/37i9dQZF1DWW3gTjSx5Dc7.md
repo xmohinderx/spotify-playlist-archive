@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW3gTjSx5Dc7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW3gTjSx5Dc7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW3gTjSx5Dc7)
 
-### [This Is Axwell Λ Ingrosso](https://open.spotify.com/playlist/1qlQS0dicA7ZrDFellq1LG)
+### [This Is Axwell Λ Ingrosso](https://open.spotify.com/playlist/37i9dQZF1DWW3gTjSx5Dc7)
 
 > This is the essential Axwell Λ Ingrosso.
+
+24 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/1qlQS0dicA7ZrDFellq1LG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

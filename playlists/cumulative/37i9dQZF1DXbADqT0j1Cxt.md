@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbADqT0j1Cxt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbADqT0j1Cxt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbADqT0j1Cxt)
 
-### [Lullaby Baby](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
+### [Lullaby Baby](https://open.spotify.com/playlist/37i9dQZF1DXbADqT0j1Cxt)
 
 > Lull your little ones with piano music.
+
+316 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

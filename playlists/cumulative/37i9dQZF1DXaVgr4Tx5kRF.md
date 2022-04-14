@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaVgr4Tx5kRF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaVgr4Tx5kRF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaVgr4Tx5kRF)
 
-### [Britpop, Etc.](https://open.spotify.com/playlist/2UfTWjq9QRlsLv1yZlnYYd)
+### [Britpop, Etc.](https://open.spotify.com/playlist/37i9dQZF1DXaVgr4Tx5kRF)
 
 > The songs that defined a golden era of British indie\. Cover: Blur
+
+50 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2UfTWjq9QRlsLv1yZlnYYd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

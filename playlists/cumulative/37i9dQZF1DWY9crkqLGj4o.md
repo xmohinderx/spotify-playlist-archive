@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY9crkqLGj4o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY9crkqLGj4o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY9crkqLGj4o)
 
-### [Louvando e Louça](https://open.spotify.com/playlist/0Giu1xu0c1ZY6tJIwbSuTL)
+### [Louvando e Louça](https://open.spotify.com/playlist/37i9dQZF1DWY9crkqLGj4o)
 
 > Lavando e louvando a Deus com grandes hinos.
+
+116 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/0Giu1xu0c1ZY6tJIwbSuTL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

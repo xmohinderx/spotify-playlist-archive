@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdTCdwCKzXwo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdTCdwCKzXwo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTCdwCKzXwo)
 
-### [Early Alternative](https://open.spotify.com/playlist/1biJVwGgudNJMTh4YCWUBg)
+### [Early Alternative](https://open.spotify.com/playlist/37i9dQZF1DXdTCdwCKzXwo)
 
 > Classic alternative\. These early pioneers brought the underground to the foreground\. Cover: Lou Reed
+
+101 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/1biJVwGgudNJMTh4YCWUBg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

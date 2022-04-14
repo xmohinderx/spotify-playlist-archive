@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaaLM83puGG5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaaLM83puGG5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaaLM83puGG5)
 
-### [House Party](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
+### [House Party](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
 > Keeping the party going where ever you are w/ Stay Silent
+
+173 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

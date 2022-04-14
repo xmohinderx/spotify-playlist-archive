@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWJOmJ7nRx0C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWJOmJ7nRx0C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWJOmJ7nRx0C)
 
-### [Rock Hard](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+### [Rock Hard](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
 > For those who like the newest songs loud\. Very loud\. Cover: Papa Roach
+
+262 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

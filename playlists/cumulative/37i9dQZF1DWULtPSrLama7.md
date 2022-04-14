@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWULtPSrLama7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWULtPSrLama7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWULtPSrLama7)
 
-### [This Is Ringo Starr](https://open.spotify.com/playlist/5ZAAJ6BOV12RJbWSyIDImx)
+### [This Is Ringo Starr](https://open.spotify.com/playlist/37i9dQZF1DWULtPSrLama7)
 
 > Former member of The Beatles.
+
+42 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/5ZAAJ6BOV12RJbWSyIDImx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

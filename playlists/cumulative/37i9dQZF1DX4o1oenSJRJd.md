@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4o1oenSJRJd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4o1oenSJRJd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4o1oenSJRJd)
 
-### [All Out 2000s](https://open.spotify.com/playlist/5uDBqvCStKpKKrbDdGmyZc)
+### [All Out 2000s](https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd)
 
 > The biggest songs of the 2000s.
+
+532 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/5uDBqvCStKpKKrbDdGmyZc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

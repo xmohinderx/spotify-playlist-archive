@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdo6A3mWpdWx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdo6A3mWpdWx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdo6A3mWpdWx)
 
-### [90s Party](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
+### [90s Party](https://open.spotify.com/playlist/37i9dQZF1DXdo6A3mWpdWx)
 
 > The biggest party hits of the 1990s\. Cover: Vengaboys.
+
+222 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

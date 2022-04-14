@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbIGqYf7WDxP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbIGqYf7WDxP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbIGqYf7WDxP)
 
-### [Pop Chillout](https://open.spotify.com/playlist/3Qa0VHfwyUK3QwocBQxjbt)
+### [Pop Chillout](https://open.spotify.com/playlist/37i9dQZF1DXbIGqYf7WDxP)
 
 > The best music for just chilling.
+
+109 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/3Qa0VHfwyUK3QwocBQxjbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

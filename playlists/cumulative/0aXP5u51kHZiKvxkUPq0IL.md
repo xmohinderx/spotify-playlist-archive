@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0aXP5u51kHZiKvxkUPq0IL.md) - cumulative - [plain](/playlists/plain/0aXP5u51kHZiKvxkUPq0IL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0aXP5u51kHZiKvxkUPq0IL)
 
-### [Indie Ballads](https://open.spotify.com/playlist/04ZASbGllIfGh6S6l6QMRk)
+### [Indie Ballads](https://open.spotify.com/playlist/0aXP5u51kHZiKvxkUPq0IL)
 
 > Score your day with some signature indie ballads.
+
+57 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/04ZASbGllIfGh6S6l6QMRk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

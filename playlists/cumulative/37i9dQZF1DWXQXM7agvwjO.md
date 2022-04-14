@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXQXM7agvwjO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXQXM7agvwjO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXQXM7agvwjO)
 
-### [.ORG](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Folk9 \(Thailand\)
+
+97 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

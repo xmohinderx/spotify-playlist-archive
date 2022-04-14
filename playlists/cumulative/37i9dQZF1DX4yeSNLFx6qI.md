@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4yeSNLFx6qI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4yeSNLFx6qI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4yeSNLFx6qI)
 
-### [Sin Ti](https://open.spotify.com/playlist/5ip3Hsabx9kyB1i1dzdp3Y)
+### [Sin Ti](https://open.spotify.com/playlist/37i9dQZF1DX4yeSNLFx6qI)
 
 > Se acabó el amor\. La música continúa.
+
+154 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/5ip3Hsabx9kyB1i1dzdp3Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

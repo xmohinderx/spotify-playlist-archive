@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1X23oiQRTB5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1X23oiQRTB5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1X23oiQRTB5)
 
-### [PVNCHLNRS](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
 > 1PLIKÉ140 au top de la première playlist de rap français !
+
+58 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

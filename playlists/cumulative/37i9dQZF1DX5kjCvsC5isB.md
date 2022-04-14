@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5kjCvsC5isB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5kjCvsC5isB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5kjCvsC5isB)
 
-### [Fierce Femmes](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+### [Fierce Femmes](https://open.spotify.com/playlist/37i9dQZF1DX5kjCvsC5isB)
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Miley Cyrus
+
+185 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

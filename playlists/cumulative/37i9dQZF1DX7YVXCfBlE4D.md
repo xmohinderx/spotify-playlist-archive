@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7YVXCfBlE4D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7YVXCfBlE4D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7YVXCfBlE4D)
 
-### [Boleros](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
+### [Boleros](https://open.spotify.com/playlist/37i9dQZF1DX7YVXCfBlE4D)
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
+
+255 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +84,7 @@
 | [En que quedamos por fin](https://open.spotify.com/track/4vnsKYluymPZnV0T6ChZh2) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines \- Bolero Romantico](https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg) | 2:40 | 2021-05-15 | 2022-01-22 |
 | [En un Beso la Vida](https://open.spotify.com/track/2PX70JKFb0643xkuUBjwtn) | [Orlando Contreras](https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3) | [Boleros](https://open.spotify.com/album/5T7W2TcTbPou8U6nQ6VZoO) | 2:24 | 2021-05-15 |  |
 | [Enamorada](https://open.spotify.com/track/25ttzJRRV67HToO9bMGSws) | [Los Galantes](https://open.spotify.com/artist/4cJzTny1t4rtLPrvEjr8oP) | [Novia Mia Novia Mia](https://open.spotify.com/album/4TFsxbzF6Fu2eDljmVtzVb) | 3:09 | 2021-05-15 | 2022-01-22 |
-| [Entre Tu Amor Y Mi Amor](https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 3:09 | 2022-01-21 |  |
+| [Entre Tu Amor Y Mi Amor](https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 3:09 | 2022-01-21 | 2022-04-14 |
 | [Entre Tu Amor y Mi Amor](https://open.spotify.com/track/1gN6EsWafOEODCrnDI55By) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [Felipe Pirela \- Mi Historia Músical Volume 5](https://open.spotify.com/album/6DPZLqS4VB5YpP6MGhB26s) | 3:10 | 2021-05-15 |  |
 | [Envidia](https://open.spotify.com/track/1h27UDtlLiEKvvDui0QVuC) | [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Mi Diario Musical](https://open.spotify.com/album/5akhxQagOxDAbWZqyWqXAG) | 3:09 | 2021-05-15 |  |
 | [Escarcha](https://open.spotify.com/track/1ugGKlwldUL94oICQEf8oC) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Triunfadora Sonora Santanera](https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6) | 3:15 | 2021-05-15 |  |
@@ -126,7 +128,7 @@
 | [Las Cuarenta](https://open.spotify.com/track/1RtKzarcBJ0M3SV2B2NgsI) | [Daniel Santos](https://open.spotify.com/artist/5f3xR8vlimLH0pPTuQcjHr) | [Serie Inmortales \- Daniel Santos Y Sus Amigos](https://open.spotify.com/album/62cmgS24ZBUW0xPUbACJpq) | 3:04 | 2021-05-15 |  |
 | [Lazo Eterno](https://open.spotify.com/track/21VudhdjNioZOAvWWoo2ws) | [Chepín y su Orquesta Oriental](https://open.spotify.com/artist/5QNU4GzG5Kem8MS1u9KDJQ) | [El Que Ríe Ultimo Ríe Mejor](https://open.spotify.com/album/7xUhDvw7P9Mm91mUFbxoat) | 3:20 | 2022-01-21 |  |
 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 | 2021-05-15 |  |
-| [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 | 2021-05-15 | 2022-04-07 |
+| [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 | 2021-05-15 |  |
 | [Lloraras](https://open.spotify.com/track/0SOjfS6ETkV9G1yxrxiFPc) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/55V3MJmvS6WOl6ZxEseAbA) | 2:49 | 2021-05-15 | 2022-01-22 |
 | [Lo Dudo](https://open.spotify.com/track/7qSYB3owQHpz2MtLXlZL3u) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Principe Con Trio Vol\. 2](https://open.spotify.com/album/5OHGeZumv8Pkck1tfcsAc8) | 4:14 | 2021-05-15 | 2022-01-22 |
 | [Lo Que No Fue, No Será](https://open.spotify.com/track/3yfiQ1lwQ6xwZrj0lnBTCx) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Principe Con Trio Vol\. 3](https://open.spotify.com/album/0uW6cpLFJMRHkManeYBGfX) | 4:04 | 2021-05-15 | 2022-01-22 |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3D8eZBmcXjAjFzUjYtrl6f.md) - cumulative - [plain](/playlists/plain/3D8eZBmcXjAjFzUjYtrl6f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3D8eZBmcXjAjFzUjYtrl6f)
 
-### [Dear Mama](https://open.spotify.com/playlist/68SZZ4l89EUjec0NoUDDoA)
+### [Dear Mama](https://open.spotify.com/playlist/3D8eZBmcXjAjFzUjYtrl6f)
 
 > To the best mother in the world.
+
+29 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/68SZZ4l89EUjec0NoUDDoA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7s0efM9c1ZS427tw2B6wEF.md) - cumulative - [plain](/playlists/plain/7s0efM9c1ZS427tw2B6wEF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7s0efM9c1ZS427tw2B6wEF)
 
-### [Top Tracks in Workout](https://open.spotify.com/playlist/5wCRTpUAbmXr4jCAlzPfn8)
+### [Top Tracks in Workout](https://open.spotify.com/playlist/7s0efM9c1ZS427tw2B6wEF)
 
 > 
+
+25 songs - 1 hr 37 min - [published](https://open.spotify.com/playlist/5wCRTpUAbmXr4jCAlzPfn8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2LTcinqsO68.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2LTcinqsO68) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2LTcinqsO68)
 
-### [Old School Metal](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
+### [Old School Metal](https://open.spotify.com/playlist/37i9dQZF1DX2LTcinqsO68)
 
 > Like the old school sound of metal? Then you'll love this playlist!
+
+125 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

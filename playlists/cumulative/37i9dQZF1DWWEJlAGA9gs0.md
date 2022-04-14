@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWEJlAGA9gs0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWEJlAGA9gs0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWEJlAGA9gs0)
 
-### [Classical Essentials](https://open.spotify.com/playlist/4GpVB3ZYw6xDnEoi26xxbh)
+### [Classical Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0)
 
 > A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of <a href="spotify:genre:classical">classical</a> music.
+
+150 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/4GpVB3ZYw6xDnEoi26xxbh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

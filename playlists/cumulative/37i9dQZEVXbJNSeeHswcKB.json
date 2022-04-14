@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2985,7 +2985,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 195440,
       "name": "Fils de joie",
       "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
@@ -5519,6 +5519,24 @@
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+    },
+    {
+      "album": {
+        "name": "Lift U Up / Hou Vol (Uit Liefde Voor Muziek)",
+        "url": "https://open.spotify.com/album/1mlMaVn4UEwHyTPxNOdisY"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177958,
+      "name": "Lift U Up / Hou Vol - Uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/1VrTePpz96HKp68qWMrkVQ"
     },
     {
       "album": {
@@ -9607,6 +9625,24 @@
       "duration_ms": 179690,
       "name": "Tranen",
       "url": "https://open.spotify.com/track/0y6ehP0fhVbxv8GoP19lxs"
+    },
+    {
+      "album": {
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168373,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y"
     },
     {
       "album": {

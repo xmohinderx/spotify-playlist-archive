@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4sEKPcBYLcW3woDviiaigj.md) - cumulative - [plain](/playlists/plain/4sEKPcBYLcW3woDviiaigj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4sEKPcBYLcW3woDviiaigj)
 
-### [50 Songs for Snow](https://open.spotify.com/playlist/3MI9Q2lZumNQfu6eaMUaMo)
+### [50 Songs for Snow](https://open.spotify.com/playlist/4sEKPcBYLcW3woDviiaigj)
 
 > Give in to the season, with the ultimate collection of classic snow songs.
+
+50 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/3MI9Q2lZumNQfu6eaMUaMo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

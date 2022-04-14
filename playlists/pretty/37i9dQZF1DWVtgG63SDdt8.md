@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,355 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,447 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 9 | [Don't Look Down](https://open.spotify.com/track/7wRtZB9hYQd4SK9PhHN51D) | [Streetlights](https://open.spotify.com/artist/6JrmofdhxBatsnpTA10CHB), [Prisims](https://open.spotify.com/artist/7lzLpc7rhPU8drvFcRNLNy) | [Don't Look Down](https://open.spotify.com/album/5D0ytYyt9HDWSpPgliek6H) | 4:45 |
 | 10 | [Trophy Gvng](https://open.spotify.com/track/1Sqk0qcuR6LjO3sEZ9u4cG) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Trophy Gvng](https://open.spotify.com/album/4XtdoRCSPmYXCGzfppSsM8) | 2:35 |
 | 11 | [Llegó el Culto \- Remix](https://open.spotify.com/track/7MSWXSadUTvH0ZqPsRa91N) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Llegó el Culto \(Remix\)](https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY) | 3:16 |
-| 12 | [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Patrick McMillan](https://open.spotify.com/artist/5X8cS844ahu4l28jtthd83), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 |
+| 12 | [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 |
 | 13 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 |
 | 14 | [Anything but Fail](https://open.spotify.com/track/7cMMCxWyC4NQUI31lg8yVr) | [The Group Fire](https://open.spotify.com/artist/3txT8oRKvO8rnYXxn8lnSm) | [Anything but Fail](https://open.spotify.com/album/6vuieclSb9Y1FmxgUuTAVI) | 4:17 |
 | 15 | [It's Already Done](https://open.spotify.com/track/7sVbyt8Vmg9VbqTMsLAXpv) | [David and Tiffany Spencer](https://open.spotify.com/artist/2hcgTMKAn8YClg6IeunoKl) | [It's Already Done](https://open.spotify.com/album/1Jj9fxM3zLA0qykFOAiC1u) | 2:15 |

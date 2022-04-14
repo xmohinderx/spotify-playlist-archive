@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTD6JPQU0gqz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTD6JPQU0gqz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTD6JPQU0gqz)
 
-### [Orgullo Afro\-Latino](https://open.spotify.com/playlist/7oLsX7IwgiSOJmGxuJ1YL5)
+### [Orgullo Afro\-Latino](https://open.spotify.com/playlist/37i9dQZF1DWTD6JPQU0gqz)
 
 > Black lives and voices matter\. Cover: Ibeyi
+
+149 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/7oLsX7IwgiSOJmGxuJ1YL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +28,7 @@
 | [Come](https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Come](https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1) | 2:56 | 2022-02-18 |  |
 | [Como Fue \(feat\. Beny Moré & The Charlie Sepulveda Big Band\)](https://open.spotify.com/track/3rIeltjCtoEP51tBBvQGW4) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW), [The Charlie Sepulveda Big Band](https://open.spotify.com/artist/1xadjgB3AlOdFGiOnqIab7), [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Como Fue \(feat\. Beny Moré & The Charlie Sepulveda Big Band\)](https://open.spotify.com/album/3v8Fjo6X1ZN1bqUwAtKz0A) | 2:57 | 2021-12-21 |  |
 | [Como Yo](https://open.spotify.com/track/0apOzfbwOCsINxju87Jylq) | [Raka Dun](https://open.spotify.com/artist/0Z145W2GhSOwI5qh1zHh70), [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0) | [Como Yo](https://open.spotify.com/album/0vRjlWXK4cyPQ8msSQgJiB) | 2:39 | 2022-02-18 |  |
-| [Conteo](https://open.spotify.com/track/36cDiC7Akn1K36uJMcqISf) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 4:00 | 2021-12-21 | 2022-03-18 |
+| [Conteo](https://open.spotify.com/track/36cDiC7Akn1K36uJMcqISf) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 4:00 | 2021-12-21 |  |
 | [Cuarentena](https://open.spotify.com/track/7zNGzcGEnfVld7PdlXSeSa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:11 | 2022-02-18 |  |
 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2021-12-21 |  |
 | [De Corazón](https://open.spotify.com/track/1No13FL0EeJTlUdS2h20A0) | [X Alfonso](https://open.spotify.com/artist/2SkTDH2B8axbKWqDgDaIze) | [Reverse](https://open.spotify.com/album/6cjW1IiUj2FQBu4o1rNX94) | 4:07 | 2021-12-21 |  |
@@ -71,7 +73,7 @@
 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 | 2022-02-18 |  |
 | [La Modelo](https://open.spotify.com/track/2m2ZGfJcs3lHWNPzhWH3XH) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [La Modelo \(feat\. Cardi B\)](https://open.spotify.com/album/1zZAOGpcOD9AjAs6dTkEBb) | 4:16 | 2021-12-21 |  |
 | [La Negra Tiene Tumbao](https://open.spotify.com/track/78UZRdq9Wl3fkFoT12zA4g) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Reina Y Sus Amigos](https://open.spotify.com/album/0FLIEL0LI4A6lIYqRekRWH) | 4:12 | 2021-12-21 |  |
-| [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 | 2022-02-18 |  |
+| [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 | 2022-02-18 | 2022-04-14 |
 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 | 2021-12-21 |  |
 | [La Presa](https://open.spotify.com/track/0NLZDfMKJXHY6dtop4Bct0) | [El Perfect](https://open.spotify.com/artist/5AhKtthAZClvPD1x9flcyY), [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [La Presa](https://open.spotify.com/album/4XgrDRMdsPDzaI9u4wxgiL) | 2:47 | 2022-02-18 |  |
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2021-12-21 |  |

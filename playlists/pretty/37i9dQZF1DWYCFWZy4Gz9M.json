@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 32408,
+  "num_followers": 32440,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTUzNSwwMDAwMDAwMDQ4ZjJlOWJmZGYzZTI4YTYwODgyMDJlZWIzYjc4ZTE5",
+  "snapshot_id": "MTY0OTg5ODE0MiwwMDAwMDAwMDViODAzNjdmMzNjNmQxYWQ2YTM5ODA4Y2Y3MDc0ZjY5",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 534987,
-      "name": "La Illaha Illa Allah",
-      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Roots & Plugged",
         "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 270651,
       "name": "Yobadi",
       "url": "https://open.spotify.com/track/5DbrFW9JN9I10x6YlN48Xv"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 534987,
+      "name": "La Illaha Illa Allah",
+      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -179,38 +179,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/6OZheEwdy4ckrFIYUM6X2C"
-      },
-      "artists": [
-        {
-          "name": "Nuru Kane",
-          "url": "https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "Bambala",
-      "url": "https://open.spotify.com/track/1MRufqwOqcz0tVPlymfIEi"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Jah Gnawi",
-        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Impulse",
-          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
-        }
-      ],
-      "duration_ms": 245097,
-      "name": "Lalla Mira - Jan Rase Remix",
-      "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "\u0633\u0627\u0646\u062f\u064a\u0627",
         "url": "https://open.spotify.com/album/4goIKWNFoKz6fwBooJDinQ"
       },
@@ -239,6 +207,38 @@
       "duration_ms": 249053,
       "name": "Hamdouchia",
       "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/6OZheEwdy4ckrFIYUM6X2C"
+      },
+      "artists": [
+        {
+          "name": "Nuru Kane",
+          "url": "https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "Bambala",
+      "url": "https://open.spotify.com/track/1MRufqwOqcz0tVPlymfIEi"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Jah Gnawi",
+        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Impulse",
+          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
+        }
+      ],
+      "duration_ms": 245097,
+      "name": "Lalla Mira - Jan Rase Remix",
+      "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -447,6 +447,26 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+      },
+      "artists": [
+        {
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+        }
+      ],
+      "duration_ms": 541653,
+      "name": "Salat al Nabi",
+      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -551,42 +571,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
-      },
-      "artists": [
-        {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
-        }
-      ],
-      "duration_ms": 541653,
-      "name": "Salat al Nabi",
-      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Roots & Plugged",
-        "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Kasri",
-          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
-        }
-      ],
-      "duration_ms": 320388,
-      "name": "Bouhali",
-      "url": "https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Colours of the Night",
         "url": "https://open.spotify.com/album/4pCHBjS3nULoQ3NEy3WI0g"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Roots & Plugged",
+        "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+        }
+      ],
+      "duration_ms": 320388,
+      "name": "Bouhali",
+      "url": "https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "El Ghaba",
         "url": "https://open.spotify.com/album/6lSSJcyIWmBpdw2VqKn3ci"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 474333,
       "name": "El Ghaba",
       "url": "https://open.spotify.com/track/1nY3pSoPw1OisHDjoPGXNa"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Soir\u00e9es Gnawa Neurasys Remaster, Vol.10",
-        "url": "https://open.spotify.com/album/0FwPty5SAM8pW2CtJhf1zp"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Kasri",
-          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
-        }
-      ],
-      "duration_ms": 244819,
-      "name": "Boulila",
-      "url": "https://open.spotify.com/track/3l5rXIV9hHGlIUypkZ9RBM"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -779,6 +763,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Soir\u00e9es Gnawa Neurasys Remaster, Vol.10",
+        "url": "https://open.spotify.com/album/0FwPty5SAM8pW2CtJhf1zp"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+        }
+      ],
+      "duration_ms": 244819,
+      "name": "Boulila",
+      "url": "https://open.spotify.com/track/3l5rXIV9hHGlIUypkZ9RBM"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Djaza\u00efr Johara",
         "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
       },
@@ -795,42 +795,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
-        }
-      ],
-      "duration_ms": 375120,
-      "name": "Baba Arabi",
-      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Baniya",
-        "url": "https://open.spotify.com/album/728cVMrc6Fr1U4cg9TzPXS"
-      },
-      "artists": [
-        {
-          "name": "Rabii Harnoune",
-          "url": "https://open.spotify.com/artist/7ul9FxrfzNQuEjy9JplFef"
-        },
-        {
-          "name": "V.B.K\u00fchl",
-          "url": "https://open.spotify.com/artist/1fSETgHPMH1kmGRA6qq0pP"
-        }
-      ],
-      "duration_ms": 379744,
-      "name": "Baniya",
-      "url": "https://open.spotify.com/track/0dL5X4UqGdw2jt3DNDUj6T"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Innov Gnawa",
         "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
       },
@@ -843,6 +807,22 @@
       "duration_ms": 323615,
       "name": "Bangara",
       "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+        }
+      ],
+      "duration_ms": 375120,
+      "name": "Baba Arabi",
+      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -875,6 +855,26 @@
       "duration_ms": 422053,
       "name": "African Blues",
       "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Baniya",
+        "url": "https://open.spotify.com/album/728cVMrc6Fr1U4cg9TzPXS"
+      },
+      "artists": [
+        {
+          "name": "Rabii Harnoune",
+          "url": "https://open.spotify.com/artist/7ul9FxrfzNQuEjy9JplFef"
+        },
+        {
+          "name": "V.B.K\u00fchl",
+          "url": "https://open.spotify.com/artist/1fSETgHPMH1kmGRA6qq0pP"
+        }
+      ],
+      "duration_ms": 379744,
+      "name": "Baniya",
+      "url": "https://open.spotify.com/track/0dL5X4UqGdw2jt3DNDUj6T"
     },
     {
       "added_at": "2022-03-10 07:10:03",

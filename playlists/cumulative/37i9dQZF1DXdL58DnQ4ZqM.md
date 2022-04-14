@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdL58DnQ4ZqM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdL58DnQ4ZqM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdL58DnQ4ZqM)
 
-### [Lazy Chill Afternoon](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+### [Lazy Chill Afternoon](https://open.spotify.com/playlist/37i9dQZF1DXdL58DnQ4ZqM)
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
+
+229 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +31,7 @@
 | [Bilitis](https://open.spotify.com/track/2oGF6uYbJedBfVFJlbOxaY) | [Luc Serra](https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7) | [Bilitis](https://open.spotify.com/album/3dBvTEs2VjD0qdIN3CV23S) | 4:23 | 2021-08-10 | 2022-03-17 |
 | [Birds](https://open.spotify.com/track/306GnnNhbXL45lPLBNUsbT) | [Temperal Guidance](https://open.spotify.com/artist/5NYAa1gibaabXhygG2bcsi) | [Birds](https://open.spotify.com/album/04jcKscEcNDL37POactNm3) | 3:05 | 2022-01-12 | 2022-01-17 |
 | [Blanket of Stars](https://open.spotify.com/track/1TQWuCSb7dt3ve7BfqzdWW) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Blanket of Stars](https://open.spotify.com/album/2HQwQL5kkH8w6WBqxhOFJT) | 3:12 | 2022-03-16 |  |
-| [Blue Day](https://open.spotify.com/track/19RHlkA9PM5Bw2DKPmPteh) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Nuances](https://open.spotify.com/album/3Vioqdh0ojprGuAMKScjQs) | 2:31 | 2022-03-16 |  |
+| [Blue Day](https://open.spotify.com/track/19RHlkA9PM5Bw2DKPmPteh) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Nuances](https://open.spotify.com/album/3Vioqdh0ojprGuAMKScjQs) | 2:31 | 2022-03-16 | 2022-04-14 |
 | [Born To Be Yours \- Chill Out Version](https://open.spotify.com/track/5n5DrY0ZIYiQ37sYnqbKPF) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm) | 4:24 | 2021-08-10 | 2022-03-17 |
 | [Botanist](https://open.spotify.com/track/6fgQ4P7VrKTwFwVJJNMadk) | [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Botanist](https://open.spotify.com/album/6ZWNZC3NNLOp7d0wnOaoPX) | 2:29 | 2022-03-16 |  |
 | [Brazeo](https://open.spotify.com/track/5gspPS4AV8sCXlhyFY9ofJ) | [Rosi Peloni](https://open.spotify.com/artist/1VgCv8r28xEc11pDhmJSWf) | [Brazeo](https://open.spotify.com/album/4vIXNOaSwvOBwr7NPaCsI0) | 3:19 | 2021-08-10 | 2022-03-17 |
@@ -192,7 +194,7 @@
 | [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 2:22 | 2022-03-16 |  |
 | [Stay Lo Get Go \- Chill Original](https://open.spotify.com/track/5JVGYVANcbXaf1AThIYlQM) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai) | 3:13 | 2021-08-10 | 2022-03-17 |
 | [Sticky Rice](https://open.spotify.com/track/3pXGD8AWXkPmZ1IzuYjWwc) | [Vin cent](https://open.spotify.com/artist/5Tg78SQRvgm7UUR9hjayxH) | [Sticky Rice](https://open.spotify.com/album/1jOJLf1dG1lLLzfDnx76BY) | 1:52 | 2022-03-16 |  |
-| [Streetlights](https://open.spotify.com/track/6e1YbiurMIWL9A8TqZkwQQ) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Timescapes : Longer Nights](https://open.spotify.com/album/6p2INecNLR2k2GfnvZBBdO) | 2:37 | 2022-03-16 | 2022-03-31 |
+| [Streetlights](https://open.spotify.com/track/6e1YbiurMIWL9A8TqZkwQQ) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Timescapes : Longer Nights](https://open.spotify.com/album/6p2INecNLR2k2GfnvZBBdO) | 2:37 | 2022-03-16 |  |
 | [Streets of Philadelphia](https://open.spotify.com/track/1RFA5RnMV4CRi4LUVXsPQJ) | [Dúo Calientas](https://open.spotify.com/artist/6ElNAiKEtqWnJMrdYxVP2G) | [La Carretera](https://open.spotify.com/album/2fJ3dl4x89GzX8Cl9qHZIB) | 3:31 | 2021-08-10 | 2022-03-17 |
 | [Strings](https://open.spotify.com/track/5996EotYWMzHpgS9g3N4bW) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Strings](https://open.spotify.com/album/3C37KEQUnXsoslOyBsUXug) | 1:38 | 2022-03-16 |  |
 | [Sunbrella](https://open.spotify.com/track/7zlv1OLzjtbBL8OqHBYoAi) | [Embarco](https://open.spotify.com/artist/2U28L4mqy3Lo2ENcS5p0LO) | [Juice](https://open.spotify.com/album/30EcODyc2BAtdRQQpW0MYQ) | 2:41 | 2022-03-16 |  |

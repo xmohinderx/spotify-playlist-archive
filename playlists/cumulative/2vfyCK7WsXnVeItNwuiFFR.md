@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2vfyCK7WsXnVeItNwuiFFR.md) - cumulative - [plain](/playlists/plain/2vfyCK7WsXnVeItNwuiFFR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2vfyCK7WsXnVeItNwuiFFR)
 
-### [Congratulations, Sofia and Daniel](https://open.spotify.com/playlist/1llOOS0K8C4Svio1fexiRT)
+### [Congratulations, Sofia and Daniel](https://open.spotify.com/playlist/2vfyCK7WsXnVeItNwuiFFR)
 
 > 
+
+30 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/1llOOS0K8C4Svio1fexiRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 521061,
+  "num_followers": 521096,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTU5OSwwMDAwMDAwMDllNzYxZTM5YjQyMDA5Mzg0OTQ3YjNhZDU2MDllMmY0",
+  "snapshot_id": "MTY0OTg5ODIwMywwMDAwMDAwMDdlNjMwYzVjMGZkZTdmMzUwYTA2Y2Q1Zjc5MjM3Mjk5",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -267,6 +267,26 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 139460,
+      "name": "my ex's best friend (with blackbear)",
+      "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Learn to Love the Lie",
         "url": "https://open.spotify.com/album/7MXPq7mdVBCRH0IPz67sv6"
       },
@@ -299,26 +319,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 139460,
-      "name": "my ex's best friend (with blackbear)",
-      "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Ghost in My Home",
         "url": "https://open.spotify.com/album/18EL26qP11mySASVZGWIAf"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 200189,
       "name": "Ghost in My Home",
       "url": "https://open.spotify.com/track/59Ku2whuuXy9y3ZiUiYqHP"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Dead Reflection",
-        "url": "https://open.spotify.com/album/43mB8nIZ2n1TAKzbkUUtrI"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "The Afterglow",
-      "url": "https://open.spotify.com/track/2DdQUpye64CYDB9Hahf3Q3"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -411,6 +395,22 @@
       "duration_ms": 168253,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Dead Reflection",
+        "url": "https://open.spotify.com/album/43mB8nIZ2n1TAKzbkUUtrI"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "The Afterglow",
+      "url": "https://open.spotify.com/track/2DdQUpye64CYDB9Hahf3Q3"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Jurassic Park",
-      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 190714,
       "name": "Paper Wings",
       "url": "https://open.spotify.com/track/4ALLjfDmAioOkLkE4hTHLK"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Jurassic Park",
+      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "I Beg To Differ (This Will Get Better)",
-        "url": "https://open.spotify.com/album/0UaxFieNv1ccs2GCECCUGy"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 216561,
-      "name": "I Beg To Differ (This Will Get Better)",
-      "url": "https://open.spotify.com/track/739PZq7vljYry4Hz5wL7Mx"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Dead and Gone",
         "url": "https://open.spotify.com/album/7dWaDBoF3eE96uezYnhwNR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 191756,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/22aRgzwro3KIz9QWAdY2E1"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "I Beg To Differ (This Will Get Better)",
+        "url": "https://open.spotify.com/album/0UaxFieNv1ccs2GCECCUGy"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 216561,
+      "name": "I Beg To Differ (This Will Get Better)",
+      "url": "https://open.spotify.com/track/739PZq7vljYry4Hz5wL7Mx"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Without Me (P\u00e2querette)",
-        "url": "https://open.spotify.com/album/7H8jW1UyGZiHqHpIWoTtZS"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 192468,
-      "name": "Without Me (P\u00e2querette)",
-      "url": "https://open.spotify.com/track/2YZhnf9AUQ4HBTfDjgIfnq"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Shook By Your Shaved Head",
         "url": "https://open.spotify.com/album/3hsRuI836SopOrq3dW6T1g"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 163860,
       "name": "Shook By Your Shaved Head",
       "url": "https://open.spotify.com/track/4Nx4ytJjdpmkIQ6tyLll2p"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Without Me (P\u00e2querette)",
+        "url": "https://open.spotify.com/album/7H8jW1UyGZiHqHpIWoTtZS"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 192468,
+      "name": "Without Me (P\u00e2querette)",
+      "url": "https://open.spotify.com/track/2YZhnf9AUQ4HBTfDjgIfnq"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Greatest Of All Time",
-        "url": "https://open.spotify.com/album/4ULjQJSTpbibgr8cKFBr9o"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 177037,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/6tJ8T00sdozc2ZSkPT8Qj1"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/47z6lzRf8ka60nxT2TiCrE"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 206752,
       "name": "Here's To Us",
       "url": "https://open.spotify.com/track/5FPqsuveLITGgSFzJft2wn"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Greatest Of All Time",
+        "url": "https://open.spotify.com/album/4ULjQJSTpbibgr8cKFBr9o"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 177037,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/6tJ8T00sdozc2ZSkPT8Qj1"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Interrobang",
         "url": "https://open.spotify.com/album/1GYrUGqVBmMSA5W1WiAqLX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 179349,
       "name": "Underground",
       "url": "https://open.spotify.com/track/5dXvUNCTKEgAHW9c1y7fAN"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4A01B3wh6uv7yOpzYdVLR3.md) - cumulative - [plain](/playlists/plain/4A01B3wh6uv7yOpzYdVLR3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4A01B3wh6uv7yOpzYdVLR3)
 
-### [TeamSupreme Selects](https://open.spotify.com/playlist/0Hwzpuhf8n2GEACKtavKdB)
+### [TeamSupreme Selects](https://open.spotify.com/playlist/4A01B3wh6uv7yOpzYdVLR3)
 
 > Weekly Selects of the best music chosen by the TeamSupremeCrew themselves..\. Turn the Volume up to 100.
+
+40 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/0Hwzpuhf8n2GEACKtavKdB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

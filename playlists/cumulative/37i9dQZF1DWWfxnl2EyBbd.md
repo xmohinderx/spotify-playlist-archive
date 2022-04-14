@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWfxnl2EyBbd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWfxnl2EyBbd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWfxnl2EyBbd)
 
-### [Relaxing Jazz Piano](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+### [Relaxing Jazz Piano](https://open.spotify.com/playlist/37i9dQZF1DWWfxnl2EyBbd)
 
 > The soft sound of a jazz trio to help you relax and unwind.
+
+151 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +55,7 @@
 | [I Love You, Yes I Do](https://open.spotify.com/track/4FTsxmd8yBGIIPlF0eS6pP) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 4:10 | 2022-02-10 |  |
 | [I Remember Clifford \- Live At Philharmonie, Munich / 1986](https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Still Live](https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P) | 4:01 | 2022-02-10 |  |
 | [I Surrender Dear](https://open.spotify.com/track/5Ruwfqx4jMonaaF1z6RA3n) | [Billy Lester](https://open.spotify.com/artist/66egz5VrR7JGpVmlzZrBBt) | [From Scratch](https://open.spotify.com/album/4CfhVVsp9OlDdqartoyZP3) | 6:01 | 2022-02-18 |  |
-| [I Thought About You](https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 4:01 | 2022-02-10 | 2022-04-13 |
+| [I Thought About You](https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 4:01 | 2022-02-10 |  |
 | [I Wish I Knew](https://open.spotify.com/track/2W6JLNB4tOiP6dZBQE1ANE) | [Alan Broadbent](https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1), [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [You and the Night and the Music](https://open.spotify.com/album/2bFn7LQRuAa7RmWQLkBNFb) | 8:53 | 2022-02-10 |  |
 | [I'll Know](https://open.spotify.com/track/2OQiiPnoC7h2v3UprQa3zP) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:12 | 2022-02-10 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/0nXlU9IfgrhI5tZo3KktvM) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Standards](https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby) | 5:01 | 2022-02-10 |  |
@@ -118,7 +120,7 @@
 | [Smoke Gets In Your Eyes \- Live](https://open.spotify.com/track/3FwzNfCgyYSIafAG9QGvRZ) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 8:26 | 2022-02-10 |  |
 | [Some Day My Prince Will Come](https://open.spotify.com/track/7MOcps59D9EKIzO6jxivQg) | [The Alan Broadbent Trio](https://open.spotify.com/artist/3Al4iiw6OMtADaBw7NDWIG) | [Pacific Standard Time](https://open.spotify.com/album/3N8ehynLixrhNFbv98YbCV) | 4:42 | 2022-02-10 |  |
 | [Souvenir](https://open.spotify.com/track/47yAskmqMUSR3W0lte2E1v) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja), [Scott Colley](https://open.spotify.com/artist/2xXlVRnJO7vxdGV8Z2nWjb), [Dennis Mackrel](https://open.spotify.com/artist/3PUIxfK6P8boslOXGpZPoK) | [Souvenir](https://open.spotify.com/album/3brxc2ayHoVUxk8PhXFZ8A) | 7:56 | 2022-02-10 |  |
-| [Spartacus Love Theme](https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 7:53 | 2022-02-10 |  |
+| [Spartacus Love Theme](https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 7:53 | 2022-02-10 | 2022-04-14 |
 | [Stairway to the Stars](https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Trio](https://open.spotify.com/album/09gOqXkme0kvY0n32naCqY) | 6:38 | 2022-02-10 |  |
 | [Story II: Early Snow](https://open.spotify.com/track/6IDHaero0jclHqzqk2PXzy) | [Heiri Känzig](https://open.spotify.com/artist/0KBHDpk6syXYfN7DItgFDF) | [Five Stories](https://open.spotify.com/album/1ZwF41qmQptzg0FKm3mDEp) | 7:18 | 2022-03-10 |  |
 | [Strays](https://open.spotify.com/track/3UvkApsnwcV9pQHfU5WASz) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6) | [Awareness](https://open.spotify.com/album/1DMLil6FOSdKNzRGWCCZiw) | 5:24 | 2022-02-10 |  |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5YyEO1dtgbR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5YyEO1dtgbR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5YyEO1dtgbR)
 
-### [Halo](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
+### [Halo](https://open.spotify.com/playlist/37i9dQZF1DX5YyEO1dtgbR)
 
 > Experimental electronic beyond the borders of tradition.
+
+77 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

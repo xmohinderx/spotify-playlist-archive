@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaQQM8OxjxoC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaQQM8OxjxoC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaQQM8OxjxoC)
 
-### [This Is Brahms](https://open.spotify.com/playlist/1XDbvVi0X3ytWtcUNYcRM6)
+### [This Is Brahms](https://open.spotify.com/playlist/37i9dQZF1DXaQQM8OxjxoC)
 
 > Discover the music of Brahms.
+
+59 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/1XDbvVi0X3ytWtcUNYcRM6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbFRZSqP41al.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbFRZSqP41al) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbFRZSqP41al)
 
-### [Rock Your Body](https://open.spotify.com/playlist/5v75t6HpGYMhjfPC1WhqkE)
+### [Rock Your Body](https://open.spotify.com/playlist/37i9dQZF1DXbFRZSqP41al)
 
 > Burn off all those beers from last night.
+
+72 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/5v75t6HpGYMhjfPC1WhqkE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

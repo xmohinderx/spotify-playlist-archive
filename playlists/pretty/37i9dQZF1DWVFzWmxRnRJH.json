@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 117152,
+  "num_followers": 117549,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQyNywwMDAwMDAwMDJiOTk1Njc5YWEzOWMxYTU0MzUyMjJmNDdlMjE3MmYy",
+  "snapshot_id": "MTY0OTg5ODAzOSwwMDAwMDAwMGNmNDA2ZDE0OTAyMzZjNjIwZDY2Y2EzNDJlODFiZjA5",
   "tracks": [
     {
       "added_at": "2021-09-23 20:29:34",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
+        "name": "Old 8 x 10",
+        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Life's a Dance",
-      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
+      "duration_ms": 219080,
+      "name": "Deeper Than the Holler",
+      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Old 8 x 10",
-        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Deeper Than the Holler",
-      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
+      "duration_ms": 188840,
+      "name": "Life's a Dance",
+      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Livin' It Up",
         "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+      "duration_ms": 195346,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -927,6 +911,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Roll On",
         "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1023,38 +1023,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 148973,
-      "name": "Tall, Tall Trees",
-      "url": "https://open.spotify.com/track/5JkGBzxQ6qqf6MSzuLnjV2"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -1067,6 +1035,22 @@
       "duration_ms": 188200,
       "name": "How Forever Feels",
       "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 148973,
+      "name": "Tall, Tall Trees",
+      "url": "https://open.spotify.com/track/5JkGBzxQ6qqf6MSzuLnjV2"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Third Rock From The Sun",
         "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Let's Be Us Again",
-        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "Mr. Mom",
-      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -1131,22 +1115,6 @@
       "duration_ms": 195586,
       "name": "Play Something Country",
       "url": "https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Let's Be Us Again",
+        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "Mr. Mom",
+      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Why Not Me",
         "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 204626,
       "name": "Independence Day",
       "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/5Wp1Y8jscofORVp0FH0N9l"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Discovery Vaults",
         "url": "https://open.spotify.com/album/385KMx13B7NQxd6KYec4CS"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 208733,
       "name": "God Blessed Texas",
       "url": "https://open.spotify.com/track/4qkshp4FWe0msInDWTbBlR"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/5Wp1Y8jscofORVp0FH0N9l"
     },
     {
       "added_at": "2021-12-06 15:54:08",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Twenty Years Of Rascal Flatts - The Greatest Hits",
+        "url": "https://open.spotify.com/album/7iJH0tFXr2zjAAqqYKG2Ms"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Fast Cars And Freedom",
+      "url": "https://open.spotify.com/track/3OmdUAiXlzJU5h3XjnKbtz"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 202826,
       "name": "We Danced Anyway",
       "url": "https://open.spotify.com/track/5kcTZhifldKTijz3siSDBf"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Is There Life Out There",
-      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
     }
   ],
   "unique_name": "Raised on Country",

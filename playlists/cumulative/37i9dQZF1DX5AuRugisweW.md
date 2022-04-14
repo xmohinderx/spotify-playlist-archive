@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5AuRugisweW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5AuRugisweW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5AuRugisweW)
 
-### [Crossroad Blues](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
+### [Crossroad Blues](https://open.spotify.com/playlist/37i9dQZF1DX5AuRugisweW)
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
+
+60 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

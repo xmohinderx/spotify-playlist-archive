@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTofcvJ2Dvma.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTofcvJ2Dvma) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTofcvJ2Dvma)
 
-### [Vinyasa Flow](https://open.spotify.com/playlist/2y03h8NmsGkUYwlMxFr6ZI)
+### [Vinyasa Flow](https://open.spotify.com/playlist/37i9dQZF1DWTofcvJ2Dvma)
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
+
+168 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2y03h8NmsGkUYwlMxFr6ZI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

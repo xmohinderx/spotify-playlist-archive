@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6G7arXBXa3A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6G7arXBXa3A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6G7arXBXa3A)
 
-### [Big Band](https://open.spotify.com/playlist/3540LvahXVa3DfJ3k1sJDB)
+### [Big Band](https://open.spotify.com/playlist/37i9dQZF1DX6G7arXBXa3A)
 
 > Big bands, big sounds.
+
+56 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/3540LvahXVa3DfJ3k1sJDB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6piCqp6Q8ck.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6piCqp6Q8ck) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6piCqp6Q8ck)
 
-### [Feel Good Christmas](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
+### [Feel Good Christmas](https://open.spotify.com/playlist/37i9dQZF1DX6piCqp6Q8ck)
 
 > Uplifting and happy jazz christmas classics.
+
+63 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

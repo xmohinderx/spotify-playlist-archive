@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0DH66SG2vZ7dIocTxxA5q9.md) - cumulative - [plain](/playlists/plain/0DH66SG2vZ7dIocTxxA5q9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0DH66SG2vZ7dIocTxxA5q9)
 
-### [Ystad Sweden Jazzfestival 2012](https://open.spotify.com/playlist/21aumIyo3msDlYoA4EpILu)
+### [Ystad Sweden Jazzfestival 2012](https://open.spotify.com/playlist/0DH66SG2vZ7dIocTxxA5q9)
 
 > Ystad Jazzfestival arrangeras i sommar för tredje gången\. 2012 års festival går av stapeln den 2:a augusti och pågår t.o.m\. den 5:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
+
+32 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/21aumIyo3msDlYoA4EpILu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

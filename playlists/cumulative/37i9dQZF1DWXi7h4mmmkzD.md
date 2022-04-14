@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXi7h4mmmkzD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXi7h4mmmkzD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXi7h4mmmkzD)
 
-### [Country Nights](https://open.spotify.com/playlist/4Rm4c5XWoHXgvLuAPjgog8)
+### [Country Nights](https://open.spotify.com/playlist/37i9dQZF1DWXi7h4mmmkzD)
 
 > Nighttime is the right time for these party hits!
+
+109 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4Rm4c5XWoHXgvLuAPjgog8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

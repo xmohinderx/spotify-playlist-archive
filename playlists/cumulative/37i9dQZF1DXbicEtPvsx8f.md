@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbicEtPvsx8f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbicEtPvsx8f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbicEtPvsx8f)
 
-### [This Is: Olga Tanon](https://open.spotify.com/playlist/2HQXH2Is1zaGlQYlqtQ2Tr)
+### [This Is: Olga Tanon](https://open.spotify.com/playlist/37i9dQZF1DXbicEtPvsx8f)
 
 > The latest and greatest\. Lo nuevo y lo esencial.
+
+48 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/2HQXH2Is1zaGlQYlqtQ2Tr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

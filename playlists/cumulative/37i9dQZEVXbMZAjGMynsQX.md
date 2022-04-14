@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbMZAjGMynsQX.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMZAjGMynsQX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMZAjGMynsQX)
 
-### [Top 50 \- Costa Rica](https://open.spotify.com/playlist/4ZZ76LbmUi9lBAiiZYLWQu)
+### [Top 50 \- Costa Rica](https://open.spotify.com/playlist/37i9dQZEVXbMZAjGMynsQX)
 
 > Your daily update of the most played tracks right now \- Costa Rica.
+
+339 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/4ZZ76LbmUi9lBAiiZYLWQu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

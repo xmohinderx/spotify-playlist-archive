@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd4hrw8K7Pxm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd4hrw8K7Pxm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd4hrw8K7Pxm)
 
-### [Ballads Forever](https://open.spotify.com/playlist/4kV4p5GG7I9PAKbvOcs33Y)
+### [Ballads Forever](https://open.spotify.com/playlist/37i9dQZF1DXd4hrw8K7Pxm)
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
+
+54 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/4kV4p5GG7I9PAKbvOcs33Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

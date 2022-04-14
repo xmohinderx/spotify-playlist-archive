@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWQRKXabpuS2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWQRKXabpuS2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWQRKXabpuS2)
 
-### [خليجي جديد](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: داليا
+
+96 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

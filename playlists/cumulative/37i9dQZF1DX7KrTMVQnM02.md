@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7KrTMVQnM02.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7KrTMVQnM02) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7KrTMVQnM02)
 
-### [Quiet Moment](https://open.spotify.com/playlist/5X2uSgbooDuJBwhTBFmpAA)
+### [Quiet Moment](https://open.spotify.com/playlist/37i9dQZF1DX7KrTMVQnM02)
 
 > Gentle classical music to help you relax and reflect.
+
+27 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/5X2uSgbooDuJBwhTBFmpAA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

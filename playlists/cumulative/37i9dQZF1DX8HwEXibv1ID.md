@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8HwEXibv1ID.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8HwEXibv1ID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8HwEXibv1ID)
 
-### [The Cole Porter Songbook](https://open.spotify.com/playlist/07HhJQQxCFAjy4pqibACp7)
+### [The Cole Porter Songbook](https://open.spotify.com/playlist/37i9dQZF1DX8HwEXibv1ID)
 
 > The best recordings from the never ending songbook of Cole Porter\. Cover: Cole Porter
+
+75 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/07HhJQQxCFAjy4pqibACp7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

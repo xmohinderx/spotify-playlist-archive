@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5mILnBJLA26.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5mILnBJLA26) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5mILnBJLA26)
 
-### [AmaPiano Grooves](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
+### [AmaPiano Grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=pehu9N2ESLaYhtWbxnD6OQ">Uncle Waffles</a>
+
+240 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

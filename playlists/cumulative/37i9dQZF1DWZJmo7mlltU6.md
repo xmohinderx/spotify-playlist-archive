@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZJmo7mlltU6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZJmo7mlltU6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZJmo7mlltU6)
 
-### [borderless](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+### [borderless](https://open.spotify.com/playlist/37i9dQZF1DWZJmo7mlltU6)
 
 > Beyond genre, beyond language, beyond borders\. Cover: Σtella
+
+205 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvvyNmW9V9a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvvyNmW9V9a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvvyNmW9V9a)
 
-### [teen beats](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
+### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
 > the songs you need rn Cover: Willow
+
+199 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

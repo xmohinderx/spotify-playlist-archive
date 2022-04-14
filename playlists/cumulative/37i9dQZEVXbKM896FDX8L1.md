@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKM896FDX8L1.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKM896FDX8L1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKM896FDX8L1)
 
-### [Top 50 \- Ireland](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
+### [Top 50 \- Ireland](https://open.spotify.com/playlist/37i9dQZEVXbKM896FDX8L1)
 
 > Your daily update of the most played tracks right now \- Ireland.
+
+579 songs - 1 day 9 hr 39 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

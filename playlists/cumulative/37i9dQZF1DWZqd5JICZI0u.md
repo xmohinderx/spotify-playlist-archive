@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZqd5JICZI0u.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZqd5JICZI0u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqd5JICZI0u)
 
-### [Peaceful Meditation](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+### [Peaceful Meditation](https://open.spotify.com/playlist/37i9dQZF1DWZqd5JICZI0u)
 
 > Breathe\. Sense\. Feel\. Transcend.
+
+364 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXepGEFFmQXJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXepGEFFmQXJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXepGEFFmQXJ)
 
-### [Fresh Country](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
 > The cream of today's Country crop\. Cover: Brad Cox
+
+116 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

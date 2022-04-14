@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWC5ySVGqQA1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWC5ySVGqQA1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWC5ySVGqQA1)
 
-### [Jane Austen](https://open.spotify.com/playlist/3AugNB8FAKSRrkNJCc480c)
+### [Jane Austen](https://open.spotify.com/playlist/37i9dQZF1DWWC5ySVGqQA1)
 
 > A collection of all things Austen, including audiobooks, poetry, and cinematic scores.
+
+127 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/3AugNB8FAKSRrkNJCc480c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

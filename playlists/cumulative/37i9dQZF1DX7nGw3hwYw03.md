@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7nGw3hwYw03.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7nGw3hwYw03) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7nGw3hwYw03)
 
-### [This Is Alesso](https://open.spotify.com/playlist/4tKFuW2fmInY4mrZMERNFx)
+### [This Is Alesso](https://open.spotify.com/playlist/37i9dQZF1DX7nGw3hwYw03)
 
 > Essential Alesso originals and remixes.
+
+57 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/4tKFuW2fmInY4mrZMERNFx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

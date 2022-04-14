@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Dream Light",
+        "url": "https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9"
+      },
+      "artists": [
+        {
+          "name": "Novah Scotia",
+          "url": "https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Dream Light",
+      "url": "https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6"
+    },
+    {
+      "album": {
         "name": "Dreaming Of Dust",
         "url": "https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7"
       },
@@ -1071,6 +1089,24 @@
       "duration_ms": 218884,
       "name": "Haze",
       "url": "https://open.spotify.com/track/4hv0YrKRtGmsDghhkURaNJ"
+    },
+    {
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1"
+      },
+      "artists": [
+        {
+          "name": "Zion Llama",
+          "url": "https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169105,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
     },
     {
       "album": {

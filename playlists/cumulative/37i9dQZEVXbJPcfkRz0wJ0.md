@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJPcfkRz0wJ0.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJPcfkRz0wJ0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJPcfkRz0wJ0)
 
-### [Top 50 \- Australia](https://open.spotify.com/playlist/3fGsaIApkTu3PJ5qXSnLlk)
+### [Top 50 \- Australia](https://open.spotify.com/playlist/37i9dQZEVXbJPcfkRz0wJ0)
 
 > Your daily update of the most played tracks right now \- Australia.
+
+524 songs - 1 day 6 hr 0 min - [published](https://open.spotify.com/playlist/3fGsaIApkTu3PJ5qXSnLlk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +262,8 @@
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-08 | 2022-01-15 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-24 | 2021-12-27 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-19 | 2021-12-27 |
-| [LET'S TROT!](https://open.spotify.com/track/2oqlgNaWn1ewr3FNKYLoie) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [LET'S TROT!](https://open.spotify.com/album/2KzG1z2SrIEFlvtPuwYgks) | 3:08 | 2022-03-21 |  |
+| [LET'S TROT!](https://open.spotify.com/track/2oqlgNaWn1ewr3FNKYLoie) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [LET'S TROT!](https://open.spotify.com/album/2KzG1z2SrIEFlvtPuwYgks) | 3:08 | 2022-03-21 | 2022-04-14 |
+| [LET'S TROT!](https://open.spotify.com/track/6r8xlPyUQG8zbXbh26duFW) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [LET'S TROT!](https://open.spotify.com/album/24NYPLQVwLU4DP7LEZ9wwv) | 3:08 | 2022-04-13 |  |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-03-27\* |  |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-09-25 | 2021-11-14 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-22 | 2022-02-06 |

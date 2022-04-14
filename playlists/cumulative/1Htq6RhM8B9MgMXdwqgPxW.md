@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1Htq6RhM8B9MgMXdwqgPxW.md) - cumulative - [plain](/playlists/plain/1Htq6RhM8B9MgMXdwqgPxW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Htq6RhM8B9MgMXdwqgPxW)
 
-### [Fresh Jazz \| The New Vanguard](https://open.spotify.com/playlist/2yRNLhjQHtiyKb5VI6IUyD)
+### [Fresh Jazz \| The New Vanguard](https://open.spotify.com/playlist/1Htq6RhM8B9MgMXdwqgPxW)
 
 > Break out of your routine with trios of tracks from some of the brightest new stars in Jazz.
+
+45 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/2yRNLhjQHtiyKb5VI6IUyD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

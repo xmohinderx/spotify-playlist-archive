@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6R7QUWePReA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6R7QUWePReA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6R7QUWePReA)
 
-### [Christmas Classics](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
+### [Christmas Classics](https://open.spotify.com/playlist/37i9dQZF1DX6R7QUWePReA)
 
 > Chestnuts roasting on an open fire..\. Timeless heart\-warming classics for the holiday season.
+
+70 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

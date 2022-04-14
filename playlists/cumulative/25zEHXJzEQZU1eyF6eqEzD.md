@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/25zEHXJzEQZU1eyF6eqEzD.md) - cumulative - [plain](/playlists/plain/25zEHXJzEQZU1eyF6eqEzD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/25zEHXJzEQZU1eyF6eqEzD)
 
-### [Barista Blend](https://open.spotify.com/playlist/1gvp4Z6MVwROvI4CdD1I5Z)
+### [Barista Blend](https://open.spotify.com/playlist/25zEHXJzEQZU1eyF6eqEzD)
 
 > A rich, mellow blend of hits to see you through your most productive days and cozy nights.
+
+65 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/1gvp4Z6MVwROvI4CdD1I5Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

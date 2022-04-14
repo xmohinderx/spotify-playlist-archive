@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0hImzzXX6Mw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0hImzzXX6Mw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0hImzzXX6Mw)
 
-### [This Is Angus & Julia Stone](https://open.spotify.com/playlist/1eORdHRndy89c34z8ORNgV)
+### [This Is Angus & Julia Stone](https://open.spotify.com/playlist/37i9dQZF1DX0hImzzXX6Mw)
 
 > Check out the latest album, Snow, as well as the best moments from Sydney's brother\-and\-sister <a href="spotify:artist:4tvKz56Tr39bkhcQUTO0Xr">duo</a>.
+
+60 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/1eORdHRndy89c34z8ORNgV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

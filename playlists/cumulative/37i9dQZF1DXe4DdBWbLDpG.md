@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe4DdBWbLDpG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe4DdBWbLDpG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe4DdBWbLDpG)
 
-### [Red Bull Batalla](https://open.spotify.com/playlist/0czRm1bZ5YA9YxDSXYTnLg)
+### [Red Bull Batalla](https://open.spotify.com/playlist/37i9dQZF1DXe4DdBWbLDpG)
 
 > Revive las mejores batallas, y descubre música original de los participantes\. Foto: Aczino
+
+64 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/0czRm1bZ5YA9YxDSXYTnLg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

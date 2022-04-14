@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1JuraqRjLX4CmhyvvuXiPF.md) - cumulative - [plain](/playlists/plain/1JuraqRjLX4CmhyvvuXiPF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1JuraqRjLX4CmhyvvuXiPF)
 
-### [Winding Roads](https://open.spotify.com/playlist/0Dpt39RuQHj9QExnYEB8yT)
+### [Winding Roads](https://open.spotify.com/playlist/1JuraqRjLX4CmhyvvuXiPF)
 
 > Take the back roads...
+
+25 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/0Dpt39RuQHj9QExnYEB8yT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

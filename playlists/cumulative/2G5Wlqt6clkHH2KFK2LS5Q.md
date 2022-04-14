@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2G5Wlqt6clkHH2KFK2LS5Q.md) - cumulative - [plain](/playlists/plain/2G5Wlqt6clkHH2KFK2LS5Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2G5Wlqt6clkHH2KFK2LS5Q)
 
-### [Happy Birthday George!](https://open.spotify.com/playlist/0M5MzRNSenC4ADzUcmnhGE)
+### [Happy Birthday George!](https://open.spotify.com/playlist/2G5Wlqt6clkHH2KFK2LS5Q)
 
 > 
+
+24 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/0M5MzRNSenC4ADzUcmnhGE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

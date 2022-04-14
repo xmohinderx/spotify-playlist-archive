@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaSYtampkg5n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaSYtampkg5n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaSYtampkg5n)
 
-### [Pure Sunshine](https://open.spotify.com/playlist/41r1TwzS2DsY8J0laGzpi0)
+### [Pure Sunshine](https://open.spotify.com/playlist/37i9dQZF1DXaSYtampkg5n)
 
 > Sheer joy for sunny days in 50 old and new African jams.
+
+50 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/41r1TwzS2DsY8J0laGzpi0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

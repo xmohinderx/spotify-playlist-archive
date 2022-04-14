@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5y71ufjoyXC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5y71ufjoyXC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5y71ufjoyXC)
 
-### [Viral Latino](https://open.spotify.com/playlist/3CxC8LtCZGQ1UKd1U5mJuy)
+### [Viral Latino](https://open.spotify.com/playlist/37i9dQZF1DX5y71ufjoyXC)
 
 > The Latin viral tracks you'll wanna listen to\. Cover: FMK, Tiago PZK, Mau y Ricky
+
+83 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/3CxC8LtCZGQ1UKd1U5mJuy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

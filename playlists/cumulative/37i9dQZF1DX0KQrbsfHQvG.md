@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0KQrbsfHQvG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0KQrbsfHQvG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0KQrbsfHQvG)
 
-### [Rise Up](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
+### [Rise Up](https://open.spotify.com/playlist/37i9dQZF1DX0KQrbsfHQvG)
 
 > Get up\. Stand up\. Be the revolution.
+
+96 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,9 +91,9 @@
 | [The Profane Rights Of Man](https://open.spotify.com/track/2plNKajxMkf7memACv71aY) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Profane Rights Of Man](https://open.spotify.com/album/2iNjMspXlDXtAt5zs0ymvH) | 2:06 | 2020-08-19 |  |
 | [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 | 2020-08-19 |  |
 | [This Is War](https://open.spotify.com/track/2D52zjCyqEIQa221lhw6uk) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 5:26 | 2020-08-19 |  |
-| [thoughts & prayers](https://open.spotify.com/track/22yRdwQ4OXUlPrLGhF6ebu) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [thoughts & prayers](https://open.spotify.com/album/2oPgtJ1qOAi6ht4q4mTs6B) | 3:45 | 2020-08-19 |  |
+| [thoughts & prayers](https://open.spotify.com/track/22yRdwQ4OXUlPrLGhF6ebu) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [thoughts & prayers](https://open.spotify.com/album/2oPgtJ1qOAi6ht4q4mTs6B) | 3:45 | 2020-08-19 | 2022-04-14 |
 | [Too Real](https://open.spotify.com/track/2wLAE0dOBrxmKFql0qpsw5) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too Real](https://open.spotify.com/album/5vdQmnjcwSpFDnO5lRaDuh) | 4:04 | 2020-08-19 | 2022-03-22 |
-| [Trigger](https://open.spotify.com/track/4dHNWm43HrElSRtwvRRbtg) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Trigger](https://open.spotify.com/album/1H84oHDW2NjJlZMBAZsjtT) | 2:44 | 2020-08-19 | 2022-04-07 |
+| [Trigger](https://open.spotify.com/track/4dHNWm43HrElSRtwvRRbtg) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Trigger](https://open.spotify.com/album/1H84oHDW2NjJlZMBAZsjtT) | 2:44 | 2020-08-19 |  |
 | [Unbreakable](https://open.spotify.com/track/3UbIhHCEYbH7ayc76IB0Q9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Unbreakable](https://open.spotify.com/album/6P400jhSwhdmFywQZvXFBM) | 3:08 | 2020-08-19 | 2022-03-18 |
 | [VANDALS](https://open.spotify.com/track/1GimywxURsgAQHndRPToYj) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [VANDALS](https://open.spotify.com/album/2rcUKQmIZbyqNwX27l6Z6U) | 2:57 | 2020-08-19 |  |
 | [Walking In My Shoes](https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:51 | 2020-08-19 |  |

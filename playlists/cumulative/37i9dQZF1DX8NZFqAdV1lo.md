@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8NZFqAdV1lo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8NZFqAdV1lo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8NZFqAdV1lo)
 
-### [Unsolicited Advice](https://open.spotify.com/playlist/1ttHJX8Doe1lpYercSCEHI)
+### [Unsolicited Advice](https://open.spotify.com/playlist/37i9dQZF1DX8NZFqAdV1lo)
 
 > Some advice is best taken with a pillar of salt\. \[Warning: Explicit Content\]
+
+26 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/1ttHJX8Doe1lpYercSCEHI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

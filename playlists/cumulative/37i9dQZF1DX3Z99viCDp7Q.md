@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3Z99viCDp7Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Z99viCDp7Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Z99viCDp7Q)
 
-### [Wedding Songs](https://open.spotify.com/playlist/4RV7c0yFbiXvNTQOBR7yJe)
+### [Wedding Songs](https://open.spotify.com/playlist/37i9dQZF1DX3Z99viCDp7Q)
 
 > Wondering what to have for your first dance? We got you.
+
+122 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/4RV7c0yFbiXvNTQOBR7yJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

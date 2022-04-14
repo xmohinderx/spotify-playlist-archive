@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5OUjSS1OMgV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5OUjSS1OMgV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OUjSS1OMgV)
 
-### [One More Rep](https://open.spotify.com/playlist/7HxL3sD1XtHdgI4KkmP1RI)
+### [One More Rep](https://open.spotify.com/playlist/37i9dQZF1DX5OUjSS1OMgV)
 
 > Rock this list to help you rock that last rep\. Gainz.
+
+103 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/7HxL3sD1XtHdgI4KkmP1RI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

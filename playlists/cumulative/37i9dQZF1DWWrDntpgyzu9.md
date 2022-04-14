@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWrDntpgyzu9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWrDntpgyzu9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWrDntpgyzu9)
 
-### [Cantando no Chuveiro](https://open.spotify.com/playlist/1zsveXP4y3EfVZQZKneD0e)
+### [Cantando no Chuveiro](https://open.spotify.com/playlist/37i9dQZF1DWWrDntpgyzu9)
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
+
+84 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/1zsveXP4y3EfVZQZKneD0e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe8ssiX0naPV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe8ssiX0naPV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe8ssiX0naPV)
 
-### [Love Poems](https://open.spotify.com/playlist/6mS8i8v8LihceMkYhLV3y1)
+### [Love Poems](https://open.spotify.com/playlist/37i9dQZF1DXe8ssiX0naPV)
 
 > A collection of some of the most romantic and sensual poems in the English language.
+
+36 songs - 1 hr 3 min - [published](https://open.spotify.com/playlist/6mS8i8v8LihceMkYhLV3y1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

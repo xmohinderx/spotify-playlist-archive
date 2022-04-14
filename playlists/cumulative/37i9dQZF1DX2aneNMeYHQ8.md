@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2aneNMeYHQ8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2aneNMeYHQ8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2aneNMeYHQ8)
 
-### [Rockin' Vibes](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+### [Rockin' Vibes](https://open.spotify.com/playlist/37i9dQZF1DX2aneNMeYHQ8)
 
 > The best in alt, folk, and indie rock\. Cover: Gang of Youths
+
+156 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

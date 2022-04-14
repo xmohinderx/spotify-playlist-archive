@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5qjSia2PLFP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5qjSia2PLFP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5qjSia2PLFP)
 
-### [Ripple Effect](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
 > Emerging music breaking waves\.  Cover: A$AP ANT
+
+103 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7wHseZmxqFF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7wHseZmxqFF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7wHseZmxqFF)
 
-### [Little Mix: Pride](https://open.spotify.com/playlist/3L4dM6eSGvIxUEviUKowiC)
+### [Little Mix: Pride](https://open.spotify.com/playlist/37i9dQZF1DX7wHseZmxqFF)
 
 > The UK girl group grab the power and show their love for Pride, unfurling a no\-fail list of pop party jams and club classics.
+
+27 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/3L4dM6eSGvIxUEviUKowiC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

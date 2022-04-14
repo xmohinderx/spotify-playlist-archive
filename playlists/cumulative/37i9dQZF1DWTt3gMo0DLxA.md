@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTt3gMo0DLxA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTt3gMo0DLxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTt3gMo0DLxA)
 
-### [Dance Duets](https://open.spotify.com/playlist/55N7eexil0MrFE02LmjUsZ)
+### [Dance Duets](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
 > Step Up for this Top Hit Telugu songs
+
+52 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/55N7eexil0MrFE02LmjUsZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

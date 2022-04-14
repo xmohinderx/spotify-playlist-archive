@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT2jS7NwYPVI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT2jS7NwYPVI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT2jS7NwYPVI)
 
-### [New Noise](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+### [New Noise](https://open.spotify.com/playlist/37i9dQZF1DWT2jS7NwYPVI)
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Linda Lindas
+
+389 songs - 20 hr 39 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

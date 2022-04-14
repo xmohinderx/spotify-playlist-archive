@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX82GYcclJ3Ug.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX82GYcclJ3Ug) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82GYcclJ3Ug)
 
-### [The New Alt](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
+### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: DE'WAYNE & POORSTACY
+
+258 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

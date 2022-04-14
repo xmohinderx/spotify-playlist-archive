@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/6GZ9F4MZpPdHJEwhq3kHKG.md) - cumulative - [plain](/playlists/plain/6GZ9F4MZpPdHJEwhq3kHKG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6GZ9F4MZpPdHJEwhq3kHKG)
 
-### [Classic Soul With Seth Rogen](https://open.spotify.com/playlist/5YsLaBRjUJNx2hkGeBYsEG)
+### [Classic Soul With Seth Rogen](https://open.spotify.com/playlist/6GZ9F4MZpPdHJEwhq3kHKG)
 
 > Listen to all of Seth's favorite classic soul tracks right here\. And be sure to check out his charity, Hilarity for Charity.
+
+41 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/5YsLaBRjUJNx2hkGeBYsEG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

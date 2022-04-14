@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/45mRKVQrL1pK9tbRp25yro.md) - cumulative - [plain](/playlists/plain/45mRKVQrL1pK9tbRp25yro) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/45mRKVQrL1pK9tbRp25yro)
 
-### [Top Picks Workout](https://open.spotify.com/playlist/28yy7SMVhzh7PtwZ7xu3H7)
+### [Top Picks Workout](https://open.spotify.com/playlist/45mRKVQrL1pK9tbRp25yro)
 
 > 
+
+20 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/28yy7SMVhzh7PtwZ7xu3H7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

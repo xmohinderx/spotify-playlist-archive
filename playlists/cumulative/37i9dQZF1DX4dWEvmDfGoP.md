@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4dWEvmDfGoP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4dWEvmDfGoP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4dWEvmDfGoP)
 
-### [This Is Raffi](https://open.spotify.com/playlist/5eoNsfTPOCWQNBTj56kTqm)
+### [This Is Raffi](https://open.spotify.com/playlist/37i9dQZF1DX4dWEvmDfGoP)
 
 > An essential introduction to Raffi.
+
+52 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/5eoNsfTPOCWQNBTj56kTqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

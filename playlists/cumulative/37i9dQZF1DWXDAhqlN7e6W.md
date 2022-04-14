@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXDAhqlN7e6W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXDAhqlN7e6W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXDAhqlN7e6W)
 
-### [This Is: Max Martin](https://open.spotify.com/playlist/493jwAVjZmRSYFyYQPpsaC)
+### [This Is: Max Martin](https://open.spotify.com/playlist/37i9dQZF1DWXDAhqlN7e6W)
 
 > Hits written and produced by Max Martin.
+
+116 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/493jwAVjZmRSYFyYQPpsaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

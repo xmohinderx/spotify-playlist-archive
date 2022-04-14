@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6QDedCAYqRI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6QDedCAYqRI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6QDedCAYqRI)
 
-### [Haunting Vocals](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
+### [Haunting Vocals](https://open.spotify.com/playlist/37i9dQZF1DX6QDedCAYqRI)
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
+
+70 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

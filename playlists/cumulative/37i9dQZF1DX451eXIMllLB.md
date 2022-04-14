@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX451eXIMllLB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX451eXIMllLB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX451eXIMllLB)
 
-### [Poems for Spring](https://open.spotify.com/playlist/7KRqP00I5XHo1TaHQzyxjQ)
+### [Poems for Spring](https://open.spotify.com/playlist/37i9dQZF1DX451eXIMllLB)
 
 > Odes to springtime...
+
+33 songs - 33 min 50 sec - [published](https://open.spotify.com/playlist/7KRqP00I5XHo1TaHQzyxjQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb2cYklA89lm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb2cYklA89lm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb2cYklA89lm)
 
-### [Hot Rods & Horror Shows](https://open.spotify.com/playlist/6c1YOrZpM9l4oCxY3cV0I7)
+### [Hot Rods & Horror Shows](https://open.spotify.com/playlist/37i9dQZF1DXb2cYklA89lm)
 
 > Fast cars, zombie love, and psychobilly freakouts!
+
+74 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/6c1YOrZpM9l4oCxY3cV0I7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

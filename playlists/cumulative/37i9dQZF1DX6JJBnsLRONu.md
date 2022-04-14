@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6JJBnsLRONu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6JJBnsLRONu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JJBnsLRONu)
 
-### [The Frontier](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
+### [The Frontier](https://open.spotify.com/playlist/37i9dQZF1DX6JJBnsLRONu)
 
 > Pushing the boundaries of instrumental Folk and Americana.
+
+54 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

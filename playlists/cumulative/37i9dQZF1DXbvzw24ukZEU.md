@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbvzw24ukZEU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbvzw24ukZEU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbvzw24ukZEU)
 
-### [Latin Chillout 10s](https://open.spotify.com/playlist/3FGOdzBhTAyW8zf7DnlUoN)
+### [Latin Chillout 10s](https://open.spotify.com/playlist/37i9dQZF1DXbvzw24ukZEU)
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
+
+81 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/3FGOdzBhTAyW8zf7DnlUoN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

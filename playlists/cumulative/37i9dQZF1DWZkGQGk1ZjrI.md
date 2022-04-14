@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZkGQGk1ZjrI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZkGQGk1ZjrI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZkGQGk1ZjrI)
 
-### [This Is Elliott Smith](https://open.spotify.com/playlist/0Crrix9Kk1sbN0odqbwlEh)
+### [This Is Elliott Smith](https://open.spotify.com/playlist/37i9dQZF1DWZkGQGk1ZjrI)
 
 > The late, great Elliott Smith\. RIP
+
+22 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/0Crrix9Kk1sbN0odqbwlEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

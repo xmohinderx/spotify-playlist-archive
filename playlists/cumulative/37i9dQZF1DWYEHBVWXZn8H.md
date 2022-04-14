@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYEHBVWXZn8H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYEHBVWXZn8H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYEHBVWXZn8H)
 
-### [This Is Nick Cave](https://open.spotify.com/playlist/0oElCuxJ6tGmauIUa0OXSM)
+### [This Is Nick Cave](https://open.spotify.com/playlist/37i9dQZF1DWYEHBVWXZn8H)
 
 > The essential tracks, all in one playlist.
+
+65 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/0oElCuxJ6tGmauIUa0OXSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

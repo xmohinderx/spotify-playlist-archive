@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWu0xeeDiEZc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWu0xeeDiEZc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWu0xeeDiEZc)
 
-### [Sing Along](https://open.spotify.com/playlist/73tk3HQ1A5zVZL7BTE95Dd)
+### [Sing Along](https://open.spotify.com/playlist/37i9dQZF1DWWu0xeeDiEZc)
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
+
+44 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/73tk3HQ1A5zVZL7BTE95Dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

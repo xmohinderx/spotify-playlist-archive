@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY1wwcap53LA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY1wwcap53LA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY1wwcap53LA)
 
-### [Country Frequency](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
 > Country music making waves\. Cover: Rodell Duff
+
+70 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

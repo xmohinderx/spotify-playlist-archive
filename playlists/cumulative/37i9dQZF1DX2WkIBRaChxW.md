@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2WkIBRaChxW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2WkIBRaChxW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2WkIBRaChxW)
 
-### [R&B Right Now](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
+### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
 > What's happening in R&B, right now\. Cover: Ella Mai
+
+180 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2PB4Qx11qXU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2PB4Qx11qXU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2PB4Qx11qXU)
 
-### [This Is: Paul McCartney](https://open.spotify.com/playlist/4SEUnndjtTnkPppO3XjZpB)
+### [This Is: Paul McCartney](https://open.spotify.com/playlist/37i9dQZF1DX2PB4Qx11qXU)
 
 > The essential songs from Paul McCartney's solo career and the Wings.
+
+71 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4SEUnndjtTnkPppO3XjZpB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

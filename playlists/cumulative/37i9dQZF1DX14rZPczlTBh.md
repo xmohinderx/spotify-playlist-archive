@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX14rZPczlTBh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX14rZPczlTBh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX14rZPczlTBh)
 
-### [EDM Telugu](https://open.spotify.com/playlist/78b2rp1nXUaWMPRj1Tflck)
+### [EDM Telugu](https://open.spotify.com/playlist/37i9dQZF1DX14rZPczlTBh)
 
 > The perfect uptempo tracks for the function.
+
+66 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/78b2rp1nXUaWMPRj1Tflck)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

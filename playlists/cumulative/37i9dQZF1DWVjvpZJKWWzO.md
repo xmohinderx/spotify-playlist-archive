@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVjvpZJKWWzO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVjvpZJKWWzO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVjvpZJKWWzO)
 
-### [Dos Íconos: Celia Cruz x Tito Puente](https://open.spotify.com/playlist/42vZA0UNgFC5oXYwNCKqsh)
+### [Dos Íconos: Celia Cruz x Tito Puente](https://open.spotify.com/playlist/37i9dQZF1DWVjvpZJKWWzO)
 
 > Los grandes éxitos de Celia Cruz Y Tito Puente en un mismo lugar\. Listen to both icons here!
+
+50 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/42vZA0UNgFC5oXYwNCKqsh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

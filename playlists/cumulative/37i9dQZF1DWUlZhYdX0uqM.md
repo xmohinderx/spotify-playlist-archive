@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUlZhYdX0uqM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUlZhYdX0uqM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUlZhYdX0uqM)
 
-### [This Is Tom Petty](https://open.spotify.com/playlist/5V2xUpr8HdyOjxYA6JjAGs)
+### [This Is Tom Petty](https://open.spotify.com/playlist/37i9dQZF1DWUlZhYdX0uqM)
 
 > Experience Tom Petty's final project, "Wildflowers & All The Rest," the way he originally envisioned it.
+
+78 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/5V2xUpr8HdyOjxYA6JjAGs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

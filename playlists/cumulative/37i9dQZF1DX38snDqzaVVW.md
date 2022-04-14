@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX38snDqzaVVW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX38snDqzaVVW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX38snDqzaVVW)
 
-### [Salam!](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
+### [Salam!](https://open.spotify.com/playlist/37i9dQZF1DX38snDqzaVVW)
 
 > Maher Zain with his favourite tracks this Ramadan.
+
+85 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

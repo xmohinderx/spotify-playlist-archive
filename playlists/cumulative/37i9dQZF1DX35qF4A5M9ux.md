@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX35qF4A5M9ux.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35qF4A5M9ux) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35qF4A5M9ux)
 
-### [Salsa de Oro](https://open.spotify.com/playlist/6Q7TpOrWNfwV0Hlu2l7meq)
+### [Salsa de Oro](https://open.spotify.com/playlist/37i9dQZF1DX35qF4A5M9ux)
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
+
+171 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/6Q7TpOrWNfwV0Hlu2l7meq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

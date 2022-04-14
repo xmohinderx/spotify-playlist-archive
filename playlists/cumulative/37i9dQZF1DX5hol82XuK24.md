@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5hol82XuK24.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hol82XuK24) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5hol82XuK24)
 
-### [Spooky](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+### [Spooky](https://open.spotify.com/playlist/37i9dQZF1DX5hol82XuK24)
 
 > Are you afraid of the dark?
+
+94 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

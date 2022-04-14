@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Rogerinho com Wesley Safadão, Marcos & Belutti, Camila Cabello e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,051 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,264 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 15 | [Quem Jura Mente](https://open.spotify.com/track/1UhQf6drOjGtJ08aKYMoll) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Quem Jura Mente](https://open.spotify.com/album/5xKZcT2cd4xVQ0OAhuu6y3) | 3:30 |
 | 16 | [Na Salienciazinha](https://open.spotify.com/track/1zju8LPU8MRqEQL14WZA8U) | [GS O Rei do Beat](https://open.spotify.com/artist/1HCxqECKHu5v2btafZVzIm) | [Na Salienciazinha](https://open.spotify.com/album/3nlZQGVDE9FCnOS4pSu4zd) | 2:26 |
 | 17 | [Tropa das Malvadinhas](https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Tropa das Malvadinhas](https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q) | 2:25 |
-| 18 | [Arlequina](https://open.spotify.com/track/5UopFUJV8gWYr6od8KntK4) | [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Arlequina](https://open.spotify.com/album/0kB3TWtIvZsCEIDNDzYjfw) | 2:14 |
+| 18 | [Arlequina](https://open.spotify.com/track/5UopFUJV8gWYr6od8KntK4) | [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Arlequina](https://open.spotify.com/album/0kB3TWtIvZsCEIDNDzYjfw) | 2:12 |
 | 19 | [380 Balançando na Cintura](https://open.spotify.com/track/2bocFRjTGbjp8O9GzJbH8m) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [380 Balançando na Cintura](https://open.spotify.com/album/1vGGEFbPtC2jPLOvwzhO02) | 2:11 |
 | 20 | [Set do Jotta \- Vida de Filme](https://open.spotify.com/track/0Be0nxB6dj1CL1asbRWoKd) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Set do Jotta \- Vida de Filme](https://open.spotify.com/album/6Vad0wV1VC3ud4p2YG1C9Y) | 7:28 |
 | 21 | [não mais](https://open.spotify.com/track/7dSOWUPP9KkixmLRHnmHgL) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Nuno](https://open.spotify.com/artist/1lg8hQQPsc2Qf4uiVhrqyf) | [não mais](https://open.spotify.com/album/5LXYNQNliYB8Ijp4ZRBgUi) | 3:45 |

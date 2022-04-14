@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVDVRzaLYm4M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVDVRzaLYm4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVDVRzaLYm4M)
 
-### [This Is George Harrison](https://open.spotify.com/playlist/7dDRiy335B5YClsB9QvI3a)
+### [This Is George Harrison](https://open.spotify.com/playlist/37i9dQZF1DWVDVRzaLYm4M)
 
 > The quiet Beatle\. Listen to all his essential tracks.
+
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/7dDRiy335B5YClsB9QvI3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

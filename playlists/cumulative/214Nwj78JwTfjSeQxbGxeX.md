@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/214Nwj78JwTfjSeQxbGxeX.md) - cumulative - [plain](/playlists/plain/214Nwj78JwTfjSeQxbGxeX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/214Nwj78JwTfjSeQxbGxeX)
 
-### [Alternative New Year's Eve](https://open.spotify.com/playlist/4P577G96GUNn1BMUbl35Kj)
+### [Alternative New Year's Eve](https://open.spotify.com/playlist/214Nwj78JwTfjSeQxbGxeX)
 
 > A different option for your New Year's Eve party\. Sweet pop, rock, and singer/songwriter tunes about this special holiday.
+
+28 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/4P577G96GUNn1BMUbl35Kj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

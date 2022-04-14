@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbo534XMsLSe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbo534XMsLSe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbo534XMsLSe)
 
-### [Country Music 101:  Welcome to Brokenheartsville](https://open.spotify.com/playlist/33h7IhEQ8COVIot6RuyanD)
+### [Country Music 101:  Welcome to Brokenheartsville](https://open.spotify.com/playlist/37i9dQZF1DXbo534XMsLSe)
 
 > In Country Music, if your heart hasn't been broken, you haven't been trying hard enough\.  Keep a tissue handy.
+
+116 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/33h7IhEQ8COVIot6RuyanD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

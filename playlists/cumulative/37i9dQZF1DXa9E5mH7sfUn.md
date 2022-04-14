@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa9E5mH7sfUn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa9E5mH7sfUn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa9E5mH7sfUn)
 
-### [El Bar de la Soledad](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
+### [El Bar de la Soledad](https://open.spotify.com/playlist/37i9dQZF1DXa9E5mH7sfUn)
 
 > Amigo, ven te invito una copa...
+
+65 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

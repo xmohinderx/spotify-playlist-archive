@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSXBu5naYCM9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSXBu5naYCM9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSXBu5naYCM9)
 
-### [A Perfect Day](https://open.spotify.com/playlist/5WRsL9vjIxcRWm9K2mzwBF)
+### [A Perfect Day](https://open.spotify.com/playlist/37i9dQZF1DWSXBu5naYCM9)
 
 > Timeless melodies from your favourite artists, both old and new.
+
+90 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/5WRsL9vjIxcRWm9K2mzwBF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

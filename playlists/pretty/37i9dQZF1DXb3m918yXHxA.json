@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1188853,
+  "num_followers": 1189164,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTk4MiwwMDAwMDAwMGIzNDU2ZDk5YzBiYzAxZjhhNTNhMDIzNzFkMzhkMWE2",
+  "snapshot_id": "MTY0OTg5ODU3MCwwMDAwMDAwMDFiNTk5ODZmOGI3MGI1NjNkNjhmNWExMWVmZTMyMzZm",
   "tracks": [
     {
       "added_at": "2022-02-12 04:59:37",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -555,22 +571,6 @@
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Greatest Hits 1976-1986",
         "url": "https://open.spotify.com/album/1Q6YR2Cbo0FDpq9dcmlFUW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 230533,
       "name": "Lovin', Touchin', Squeezin'",
       "url": "https://open.spotify.com/track/0VQ0n5gMgJLNixG8BfWBT5"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK"
     },
     {
       "added_at": "2022-02-12 04:59:37",

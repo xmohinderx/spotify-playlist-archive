@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8xV1CEmgc1h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8xV1CEmgc1h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8xV1CEmgc1h)
 
-### [Motown Soul Number Ones](https://open.spotify.com/playlist/7ndk3nV4DgJKqpMzIEHyoK)
+### [Motown Soul Number Ones](https://open.spotify.com/playlist/37i9dQZF1DX8xV1CEmgc1h)
 
 > Chart topping hits from the legendary label.
+
+65 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/7ndk3nV4DgJKqpMzIEHyoK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

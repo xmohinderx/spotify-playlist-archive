@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4nGm7tTyA78.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4nGm7tTyA78) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4nGm7tTyA78)
 
-### [Trapstorno](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
+### [Trapstorno](https://open.spotify.com/playlist/37i9dQZF1DX4nGm7tTyA78)
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
+
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

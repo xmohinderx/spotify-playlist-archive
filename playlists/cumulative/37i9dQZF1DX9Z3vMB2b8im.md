@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9Z3vMB2b8im.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Z3vMB2b8im) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Z3vMB2b8im)
 
-### [The Most Beautiful Songs in the World](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+### [The Most Beautiful Songs in the World](https://open.spotify.com/playlist/37i9dQZF1DX9Z3vMB2b8im)
 
 > Songs so beautiful, they'll stop you in your tracks
+
+92 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

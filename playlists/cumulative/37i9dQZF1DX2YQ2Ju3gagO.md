@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2YQ2Ju3gagO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2YQ2Ju3gagO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2YQ2Ju3gagO)
 
-### [This Is: Tinie Tempah](https://open.spotify.com/playlist/0djoAdNpRoA4KrusLWzRXi)
+### [This Is: Tinie Tempah](https://open.spotify.com/playlist/37i9dQZF1DX2YQ2Ju3gagO)
 
 > A collection of Tinie Tempah's biggest hits, features and classic cuts\. This Is: Tinie Tempah
+
+45 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/0djoAdNpRoA4KrusLWzRXi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

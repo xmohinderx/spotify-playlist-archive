@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5YBM9tRiBVF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5YBM9tRiBVF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5YBM9tRiBVF)
 
-### [EQUAL Belgium](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
+### [EQUAL Belgium](https://open.spotify.com/playlist/37i9dQZF1DX5YBM9tRiBVF)
 
 > Listen to women from Belgium, at full volume\. Cover: Camille
+
+115 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +62,7 @@
 | [It Ends With You](https://open.spotify.com/track/0Rj3PMzpeh68GZGjRd3Kk8) | [AMARI](https://open.spotify.com/artist/2UJ9tfT0cOFGo1FljX1vwM) | [It Ends With You](https://open.spotify.com/album/5wDIeTEJWkNThiMbLAGDgK) | 2:26 | 2022-02-02 |  |
 | [It Wasn't You](https://open.spotify.com/track/0JXHYz6XBO7E4PepXY67xP) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [Reveal](https://open.spotify.com/album/3vdtu2yxqGsLElDSmwxsmf) | 3:28 | 2021-12-08 | 2022-04-06 |
 | [Karma](https://open.spotify.com/track/1rE0AN79Z37hRORV6S8rWy) | [Sunday Rose](https://open.spotify.com/artist/0on2Bi1asBv63WyzwbSQvE) | [Karma](https://open.spotify.com/album/3WsLlOY7OTJx3VTyAYHGIk) | 3:37 | 2021-12-08 | 2022-04-06 |
+| [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-04-13 |  |
 | [La pluie](https://open.spotify.com/track/0XxtQ9PGq6USHe0sTYeKK6) | [Coralien](https://open.spotify.com/artist/4aY3SsnE1uONObJiFBhPIB) | [La pluie](https://open.spotify.com/album/4COjVKA3o0LGtTsBMuxtJT) | 2:25 | 2022-03-07 |  |
 | [La salle aux lumières](https://open.spotify.com/track/4XJJCXGv7VDdmsHGwq6LCM) | [Coline & Toitoine](https://open.spotify.com/artist/23OQ6YOqstcqnorCjDM0GO) | [La salle aux lumières](https://open.spotify.com/album/0RJMgljPKrtFcPi8eHmedU) | 3:04 | 2022-04-05 |  |
 | [Leaké](https://open.spotify.com/track/39VJhV4pi2aqxW7JnvZ6u9) | [Aszul](https://open.spotify.com/artist/2IQSsvzilwzPzSDybnqAII) | [Leaké](https://open.spotify.com/album/0O7sDyvM1QHMNpzHZrzfGL) | 2:44 | 2021-12-08 | 2022-02-03 |

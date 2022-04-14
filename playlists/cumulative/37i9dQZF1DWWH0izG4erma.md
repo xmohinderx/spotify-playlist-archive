@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWH0izG4erma.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWH0izG4erma) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWH0izG4erma)
 
-### [Country Rocks](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
 > Country Music that ROCKS!!  <br/>Cover: Jackson Dean
+
+135 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

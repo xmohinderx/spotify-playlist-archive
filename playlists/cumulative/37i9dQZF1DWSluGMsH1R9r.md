@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSluGMsH1R9r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSluGMsH1R9r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSluGMsH1R9r)
 
-### [Perfect Concentration](https://open.spotify.com/playlist/5ivlBPrVw7Ueam5McdaCfx)
+### [Perfect Concentration](https://open.spotify.com/playlist/37i9dQZF1DWSluGMsH1R9r)
 
 > Calm piano music for enhanced concentration.
+
+464 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/5ivlBPrVw7Ueam5McdaCfx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

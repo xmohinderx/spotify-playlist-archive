@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3DZBe6wPMXo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3DZBe6wPMXo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3DZBe6wPMXo)
 
-### [Relaxing Reading](https://open.spotify.com/playlist/1DQy7gS8V44qes6mI0Slm9)
+### [Relaxing Reading](https://open.spotify.com/playlist/37i9dQZF1DX3DZBe6wPMXo)
 
 > Gentle instrumental music to help you relax while you read.
+
+50 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/1DQy7gS8V44qes6mI0Slm9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

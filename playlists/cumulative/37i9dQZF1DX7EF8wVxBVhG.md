@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7EF8wVxBVhG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7EF8wVxBVhG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7EF8wVxBVhG)
 
-### [Binaural Beats: Focus](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+### [Binaural Beats: Focus](https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG)
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
+
+248 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

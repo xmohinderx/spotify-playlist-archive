@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX37bXS7EGI3f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX37bXS7EGI3f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX37bXS7EGI3f)
 
-### [Epic & Melodic](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Alestorm
+
+263 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

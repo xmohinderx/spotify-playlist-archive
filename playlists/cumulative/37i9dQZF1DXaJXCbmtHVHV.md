@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaJXCbmtHVHV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaJXCbmtHVHV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaJXCbmtHVHV)
 
-### [Big Country](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
+### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
 > The top country hits of the week across America! Cover: HARDY, Dierks Bentley and BRELAND
+
+75 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

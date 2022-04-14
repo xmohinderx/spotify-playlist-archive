@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4MLFX9OXy9ncfBlTfei9Ok.md) - cumulative - [plain](/playlists/plain/4MLFX9OXy9ncfBlTfei9Ok) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4MLFX9OXy9ncfBlTfei9Ok)
 
-### [Nightly Meditations](https://open.spotify.com/playlist/4WRMv1AwFzZ1WnCu3qJrmb)
+### [Nightly Meditations](https://open.spotify.com/playlist/4MLFX9OXy9ncfBlTfei9Ok)
 
 > &quot;Sleep is the best meditation.&quot; \-Dalai Lama
+
+34 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/4WRMv1AwFzZ1WnCu3qJrmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

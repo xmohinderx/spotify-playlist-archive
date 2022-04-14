@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZv25tLhsWKX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZv25tLhsWKX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZv25tLhsWKX)
 
-### [Country Soul](https://open.spotify.com/playlist/6q3rP2a04MXLNfjAQ9mpop)
+### [Country Soul](https://open.spotify.com/playlist/37i9dQZF1DWZv25tLhsWKX)
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: Yola
+
+65 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/6q3rP2a04MXLNfjAQ9mpop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

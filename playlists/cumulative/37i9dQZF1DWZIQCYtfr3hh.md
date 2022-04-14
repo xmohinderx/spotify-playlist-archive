@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZIQCYtfr3hh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZIQCYtfr3hh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZIQCYtfr3hh)
 
-### [Asli Aishwarya](https://open.spotify.com/playlist/2wa76kZjKorfXsagM1g6oY)
+### [Asli Aishwarya](https://open.spotify.com/playlist/37i9dQZF1DWZIQCYtfr3hh)
 
 > The best of the Bollywood diva\. Cover: Aishwarya Rai Bachchan.
+
+29 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/2wa76kZjKorfXsagM1g6oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

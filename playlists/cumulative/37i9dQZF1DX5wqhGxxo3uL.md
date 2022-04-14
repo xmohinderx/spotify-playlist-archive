@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5wqhGxxo3uL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5wqhGxxo3uL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5wqhGxxo3uL)
 
-### [Slumber Party](https://open.spotify.com/playlist/6PTJHBFUIOwc6BtLykSSy8)
+### [Slumber Party](https://open.spotify.com/playlist/37i9dQZF1DX5wqhGxxo3uL)
 
 > hairbrush as a microphone type songs.
+
+163 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/6PTJHBFUIOwc6BtLykSSy8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

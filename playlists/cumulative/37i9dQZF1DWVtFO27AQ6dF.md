@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVtFO27AQ6dF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVtFO27AQ6dF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVtFO27AQ6dF)
 
-### [Maldita Hamburguesa](https://open.spotify.com/playlist/1GYt6A531w759QfJlAemMx)
+### [Maldita Hamburguesa](https://open.spotify.com/playlist/37i9dQZF1DWVtFO27AQ6dF)
 
 > Música motivacional para quemar esa hamburguesa que comiste el finde.
+
+86 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1GYt6A531w759QfJlAemMx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

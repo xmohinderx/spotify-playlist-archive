@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaZan2kzvaVc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaZan2kzvaVc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaZan2kzvaVc)
 
-### [This Is The Beach Boys](https://open.spotify.com/playlist/2LcKdYKo5HcSVFkeuh5PrS)
+### [This Is The Beach Boys](https://open.spotify.com/playlist/37i9dQZF1DXaZan2kzvaVc)
 
 > The Beach Boys, the essential tracks, all in one playlist.
+
+50 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/2LcKdYKo5HcSVFkeuh5PrS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbj9Ksq4BAdj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbj9Ksq4BAdj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbj9Ksq4BAdj)
 
-### [This Is Metallica](https://open.spotify.com/playlist/7yJFAwfixRqZNnU8OgCc5R)
+### [This Is Metallica](https://open.spotify.com/playlist/37i9dQZF1DXbj9Ksq4BAdj)
 
 > The best of Metallica, all in one playlist.
+
+50 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/7yJFAwfixRqZNnU8OgCc5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

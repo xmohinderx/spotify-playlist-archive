@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3hR94iGaotWbCFv5eDe0gZ.md) - cumulative - [plain](/playlists/plain/3hR94iGaotWbCFv5eDe0gZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3hR94iGaotWbCFv5eDe0gZ)
 
-### [Shady Records Spotify Picks](https://open.spotify.com/playlist/1zlMawWlGLEVN2AQEX9jyR)
+### [Shady Records Spotify Picks](https://open.spotify.com/playlist/3hR94iGaotWbCFv5eDe0gZ)
 
 > Shady Records top picks chosen by Spotify.
+
+41 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/1zlMawWlGLEVN2AQEX9jyR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

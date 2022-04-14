@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZVuIRLEh0tE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZVuIRLEh0tE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZVuIRLEh0tE)
 
-### [Flow Dominicano](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
+### [Flow Dominicano](https://open.spotify.com/playlist/37i9dQZF1DWZVuIRLEh0tE)
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: Dowba Montana
+
+60 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

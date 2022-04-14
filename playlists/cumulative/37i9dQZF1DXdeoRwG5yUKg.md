@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdeoRwG5yUKg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdeoRwG5yUKg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdeoRwG5yUKg)
 
-### [Blue Ballads](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+### [Blue Ballads](https://open.spotify.com/playlist/37i9dQZF1DXdeoRwG5yUKg)
 
 > Soulful, bluesy ballads\. Cover: Lizz Wright
+
+86 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

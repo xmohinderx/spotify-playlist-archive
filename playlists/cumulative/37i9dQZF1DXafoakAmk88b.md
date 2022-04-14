@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXafoakAmk88b.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafoakAmk88b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafoakAmk88b)
 
-### [Indie Frequency](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
+### [Indie Frequency](https://open.spotify.com/playlist/37i9dQZF1DXafoakAmk88b)
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
+
+126 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

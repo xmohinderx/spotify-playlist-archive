@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTWhA27mtRFK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTWhA27mtRFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTWhA27mtRFK)
 
-### [New Age Classics](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
+### [New Age Classics](https://open.spotify.com/playlist/37i9dQZF1DWTWhA27mtRFK)
 
 > Open your mind to these classics from the golden era of New Age music.
+
+57 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

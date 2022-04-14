@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4cEqBpR9k1C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4cEqBpR9k1C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4cEqBpR9k1C)
 
-### [This Is Trentemøller](https://open.spotify.com/playlist/6kXIYrC8YPNSIb9QCcYjSt)
+### [This Is Trentemøller](https://open.spotify.com/playlist/37i9dQZF1DX4cEqBpR9k1C)
 
 > Immerse yourself in the dark and beautiful sound of Trentemøller.
+
+35 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6kXIYrC8YPNSIb9QCcYjSt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

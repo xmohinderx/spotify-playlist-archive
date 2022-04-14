@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8f6LHxMjnzD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8f6LHxMjnzD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8f6LHxMjnzD)
 
-### [Singled Out](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
+### [Singled Out](https://open.spotify.com/playlist/37i9dQZF1DX8f6LHxMjnzD)
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Jack Harlow
+
+624 songs - 1 day 8 hr 32 min - [published](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXagb3XZSnOQ8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXagb3XZSnOQ8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXagb3XZSnOQ8)
 
-### [This Is Iron Maiden](https://open.spotify.com/playlist/4xxPU47IkTNnuNKOGAGgFj)
+### [This Is Iron Maiden](https://open.spotify.com/playlist/37i9dQZF1DXagb3XZSnOQ8)
 
 > The best of Iron Maiden\. All in one playlist.
+
+50 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/4xxPU47IkTNnuNKOGAGgFj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

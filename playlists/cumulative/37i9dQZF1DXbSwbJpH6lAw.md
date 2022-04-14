@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbSwbJpH6lAw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbSwbJpH6lAw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbSwbJpH6lAw)
 
-### [Radar US Latin](https://open.spotify.com/playlist/0A4PWVsKLtJ5kcTgNrliz4)
+### [Radar US Latin](https://open.spotify.com/playlist/37i9dQZF1DXbSwbJpH6lAw)
 
 > The most exciting new Latin artists and tracks, handpicked by our curators featuring Chavi Leons.
+
+48 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/0A4PWVsKLtJ5kcTgNrliz4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

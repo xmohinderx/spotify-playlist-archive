@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaXn0hGbmLLg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaXn0hGbmLLg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaXn0hGbmLLg)
 
-### [EQUAL Netherlands](https://open.spotify.com/playlist/4HFBvyCxCRzRXdAd3xUnbU)
+### [EQUAL Netherlands](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
 > Women at full volume! Luister naar muziek van vrouwen uit Nederland\. Cover: S10
+
+221 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/4HFBvyCxCRzRXdAd3xUnbU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZa22FVzx47m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZa22FVzx47m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZa22FVzx47m)
 
-### [Las Románticas de Mamá](https://open.spotify.com/playlist/0w6qy4SJi5dmsrqM38MLcj)
+### [Las Románticas de Mamá](https://open.spotify.com/playlist/37i9dQZF1DWZa22FVzx47m)
 
 > Canciones te inspiran a ti y a todas las mamás.
+
+106 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/0w6qy4SJi5dmsrqM38MLcj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

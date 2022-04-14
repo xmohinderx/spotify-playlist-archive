@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSIvbYYt1Dvi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSIvbYYt1Dvi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSIvbYYt1Dvi)
 
-### [AULAS](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
+### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
 > mamacita é AULAS
+
+76 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

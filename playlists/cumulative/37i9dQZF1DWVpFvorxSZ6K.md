@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVpFvorxSZ6K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVpFvorxSZ6K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVpFvorxSZ6K)
 
-### [This Is Leonard Cohen](https://open.spotify.com/playlist/7eCzCVE5qCaVfM0MMOMuRX)
+### [This Is Leonard Cohen](https://open.spotify.com/playlist/37i9dQZF1DWVpFvorxSZ6K)
 
 > All of your favorite songs from the legendary singer\-songwriter.
+
+50 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/7eCzCVE5qCaVfM0MMOMuRX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

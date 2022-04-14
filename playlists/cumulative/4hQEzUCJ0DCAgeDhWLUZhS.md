@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4hQEzUCJ0DCAgeDhWLUZhS.md) - cumulative - [plain](/playlists/plain/4hQEzUCJ0DCAgeDhWLUZhS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4hQEzUCJ0DCAgeDhWLUZhS)
 
-### [Plugged In](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Red Hot Chilli Peppers
+
+287 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

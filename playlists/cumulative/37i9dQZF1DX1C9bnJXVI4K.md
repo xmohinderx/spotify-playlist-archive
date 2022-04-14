@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1C9bnJXVI4K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1C9bnJXVI4K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1C9bnJXVI4K)
 
-### [A Child's Garden of Verses](https://open.spotify.com/playlist/1QHYQGpMQDOHxZrqNTaXiB)
+### [A Child's Garden of Verses](https://open.spotify.com/playlist/37i9dQZF1DX1C9bnJXVI4K)
 
 > Playful poems and amusing rhymes for the young at heart.
+
+41 songs - 52 min 17 sec - [published](https://open.spotify.com/playlist/1QHYQGpMQDOHxZrqNTaXiB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

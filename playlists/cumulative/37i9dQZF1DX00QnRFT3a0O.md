@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX00QnRFT3a0O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX00QnRFT3a0O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX00QnRFT3a0O)
 
-### [2017 Dove Award Winners](https://open.spotify.com/playlist/4caiUoRFFGqTXYmKac7uj8)
+### [2017 Dove Award Winners](https://open.spotify.com/playlist/37i9dQZF1DX00QnRFT3a0O)
 
 > Here are the winners of the 48th Annual GMA Dove Awards\. For more information go to <a href="http://doveawards.com//">2017 Dove Awards</a>
+
+31 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/4caiUoRFFGqTXYmKac7uj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

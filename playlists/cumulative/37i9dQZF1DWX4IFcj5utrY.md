@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX4IFcj5utrY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX4IFcj5utrY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX4IFcj5utrY)
 
-### [mint South Africa](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
+### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=8\_2ohtNiR5i0U4oDloSrPA">Dr Feel</a>
+
+278 songs - 1 day 4 hr 37 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2y6end4Tb8T.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2y6end4Tb8T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2y6end4Tb8T)
 
-### [808.](https://open.spotify.com/playlist/7I6QNVjLs0VZaycFD8oEdq)
+### [808.](https://open.spotify.com/playlist/37i9dQZF1DX2y6end4Tb8T)
 
 > Rap de alta gama\. Foto: Juice WRLD
+
+113 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/7I6QNVjLs0VZaycFD8oEdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +24,7 @@
 | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9) | 2:21 | 2021-11-12 |  |
 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 | 2021-11-12 |  |
 | [Cruze \(feat\. Meek Mill\)](https://open.spotify.com/track/0G2xUa52zy2Rqf3paeAzCi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Cottonwood](https://open.spotify.com/album/3pDWtiwshSUkWVkJ4rLkgq) | 3:05 | 2021-11-12 |  |
-| [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 | 2021-11-12 |  |
+| [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 | 2021-11-12 | 2022-04-14 |
 | [DOLLAZ ON MY HEAD \(feat\. Young Thug\)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2021-11-12 |  |
 | [Double G \(feat\. Pop Smoke\)](https://open.spotify.com/track/6zAXl7WqhGuOuTDkPDKQ7P) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Double G \(feat\. Pop Smoke\)](https://open.spotify.com/album/1GC8fGddUiXsLtvmvWspd6) | 2:37 | 2021-11-12 |  |
 | [Drums Drums Drums](https://open.spotify.com/track/6SDNbGIe9f09Rb3diob8Ii) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Drums Drums Drums](https://open.spotify.com/album/3zmvZQIkyfdTt2uzirCx4M) | 2:53 | 2021-11-12 | 2022-02-26 |
@@ -82,7 +84,7 @@
 | [Quedate Sola](https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Quedate Sola](https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl) | 4:30 | 2021-11-12 |  |
 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 | 2021-11-12 |  |
 | [Red Light Green Light](https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Red Light Green Light](https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC) | 2:39 | 2021-11-12 |  |
-| [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2021-11-12 | 2022-03-22 |
+| [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2021-11-12 |  |
 | [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 | 2021-11-12 |  |
 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 | 2021-11-12 |  |
 | [Saint\-Tropez](https://open.spotify.com/track/7C39RtGhnEw7cyf0Pyw7PV) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 2:30 | 2021-11-12 |  |

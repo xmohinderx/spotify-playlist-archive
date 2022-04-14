@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5JOn3LSfpbCrOQ7azB4S6C.md) - cumulative - [plain](/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C)
 
-### [New Singles on Spotify](https://open.spotify.com/playlist/5XmfkZLyyyaxek9bcgI9kg)
+### [New Singles on Spotify](https://open.spotify.com/playlist/5JOn3LSfpbCrOQ7azB4S6C)
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
+
+76 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/5XmfkZLyyyaxek9bcgI9kg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

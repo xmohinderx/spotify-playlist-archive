@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1ZrmwZWFpDG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ZrmwZWFpDG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ZrmwZWFpDG)
 
-### [New Year's Dance Floor](https://open.spotify.com/playlist/2jkrQYbakoIZ1jH5waVymP)
+### [New Year's Dance Floor](https://open.spotify.com/playlist/37i9dQZF1DX1ZrmwZWFpDG)
 
 > Let's end the year with a bang\. These are the ultimate floorfillers for your New Year's party!
+
+38 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/2jkrQYbakoIZ1jH5waVymP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

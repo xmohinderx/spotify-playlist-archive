@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXeaMD6NdSui3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXeaMD6NdSui3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXeaMD6NdSui3)
 
-### [Lone Star Blues](https://open.spotify.com/playlist/2yVnQOLdW4J3Zp3OZ1Oj4o)
+### [Lone Star Blues](https://open.spotify.com/playlist/37i9dQZF1DXeaMD6NdSui3)
 
 > Simply Texas blues at its best.
+
+50 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2yVnQOLdW4J3Zp3OZ1Oj4o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

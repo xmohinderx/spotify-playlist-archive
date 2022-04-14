@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX11ghcIxjcjE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX11ghcIxjcjE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX11ghcIxjcjE)
 
-### [Grunge Forever](https://open.spotify.com/playlist/28qkTCnYXNzdsou4tGgtal)
+### [Grunge Forever](https://open.spotify.com/playlist/37i9dQZF1DX11ghcIxjcjE)
 
 > Grunge will live forever\. Cover: Kurt Cobain
+
+68 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/28qkTCnYXNzdsou4tGgtal)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

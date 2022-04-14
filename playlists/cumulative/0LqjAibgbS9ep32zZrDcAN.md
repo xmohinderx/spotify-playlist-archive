@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0LqjAibgbS9ep32zZrDcAN.md) - cumulative - [plain](/playlists/plain/0LqjAibgbS9ep32zZrDcAN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0LqjAibgbS9ep32zZrDcAN)
 
-### [Welcome Home](https://open.spotify.com/playlist/6ZzaRwkIqkDTAxx4Nmt8Nv)
+### [Welcome Home](https://open.spotify.com/playlist/0LqjAibgbS9ep32zZrDcAN)
 
 > Finally that person that we've missed so much is home\. This deserves  a party!
+
+70 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/6ZzaRwkIqkDTAxx4Nmt8Nv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

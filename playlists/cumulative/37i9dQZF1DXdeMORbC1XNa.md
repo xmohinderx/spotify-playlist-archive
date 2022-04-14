@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdeMORbC1XNa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdeMORbC1XNa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdeMORbC1XNa)
 
-### [Afro Bashment](https://open.spotify.com/playlist/60Bw7Cwgr0oH9rAK1w2wYZ)
+### [Afro Bashment](https://open.spotify.com/playlist/37i9dQZF1DXdeMORbC1XNa)
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover:  Rema
+
+207 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/60Bw7Cwgr0oH9rAK1w2wYZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

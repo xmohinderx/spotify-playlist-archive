@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaRycgyh6kXP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaRycgyh6kXP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaRycgyh6kXP)
 
-### [Electronica Romantica](https://open.spotify.com/playlist/5z5TOODdOzr7Xe3P1TW7fd)
+### [Electronica Romantica](https://open.spotify.com/playlist/37i9dQZF1DXaRycgyh6kXP)
 
 > Delicate digital expressions of the heart.
+
+113 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/5z5TOODdOzr7Xe3P1TW7fd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8kJmrTVx1yE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8kJmrTVx1yE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8kJmrTVx1yE)
 
-### [Enganchados: Latinos](https://open.spotify.com/playlist/6WNVwKx5b2eYvG3DgOaqOA)
+### [Enganchados: Latinos](https://open.spotify.com/playlist/37i9dQZF1DX8kJmrTVx1yE)
 
 > Dale play, y que los temazos no paren.
+
+122 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/6WNVwKx5b2eYvG3DgOaqOA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX46HBMApdlID.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX46HBMApdlID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX46HBMApdlID)
 
-### [This Is The Chainsmokers](https://open.spotify.com/playlist/7xQJMMwpi69EkuU1BM4SCN)
+### [This Is The Chainsmokers](https://open.spotify.com/playlist/37i9dQZF1DX46HBMApdlID)
 
 > The essential originals and remixes from Alex & Drew.
+
+48 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/7xQJMMwpi69EkuU1BM4SCN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

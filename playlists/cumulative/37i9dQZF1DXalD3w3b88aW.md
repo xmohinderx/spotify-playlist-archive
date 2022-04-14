@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXalD3w3b88aW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXalD3w3b88aW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXalD3w3b88aW)
 
-### [Mood Swing](https://open.spotify.com/playlist/1WgjuGPGPoZVKEll7oH1Vz)
+### [Mood Swing](https://open.spotify.com/playlist/37i9dQZF1DXalD3w3b88aW)
 
 > The emotional interludes we wish were longer.
+
+76 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/1WgjuGPGPoZVKEll7oH1Vz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6KE9M7aTCxK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6KE9M7aTCxK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6KE9M7aTCxK)
 
-### [This Is NOFX](https://open.spotify.com/playlist/3gRfc5r1jjL88z25pzBFOH)
+### [This Is NOFX](https://open.spotify.com/playlist/37i9dQZF1DX6KE9M7aTCxK)
 
 > All of the classics songs, all in one place.
+
+52 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/3gRfc5r1jjL88z25pzBFOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6K3W8KBiALe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6K3W8KBiALe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6K3W8KBiALe)
 
-### [Classical Moments in Movies](https://open.spotify.com/playlist/1QWhIJzyTDvacbNTzsyc3s)
+### [Classical Moments in Movies](https://open.spotify.com/playlist/37i9dQZF1DX6K3W8KBiALe)
 
 > Chill to the familiar classical pieces featured in award\-winning films.
+
+71 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1QWhIJzyTDvacbNTzsyc3s)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

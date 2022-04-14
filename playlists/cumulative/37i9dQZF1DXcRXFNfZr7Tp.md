@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcRXFNfZr7Tp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcRXFNfZr7Tp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcRXFNfZr7Tp)
 
-### [just hits](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
+### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
 > Current favorites and exciting new music\. Cover: Charlie Puth
+
+551 songs - 1 day 4 hr 43 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

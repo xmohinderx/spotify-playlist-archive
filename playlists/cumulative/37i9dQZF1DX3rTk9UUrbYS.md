@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3rTk9UUrbYS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3rTk9UUrbYS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3rTk9UUrbYS)
 
-### [Avant\-Jazz](https://open.spotify.com/playlist/0VDNYH3pzGkgUvS5GusBo1)
+### [Avant\-Jazz](https://open.spotify.com/playlist/37i9dQZF1DX3rTk9UUrbYS)
 
 > Avant\-garde, experimental and free jazz.
+
+80 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/0VDNYH3pzGkgUvS5GusBo1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

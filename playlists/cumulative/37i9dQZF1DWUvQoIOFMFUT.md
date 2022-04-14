@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUvQoIOFMFUT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUvQoIOFMFUT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUvQoIOFMFUT)
 
-### [The Stress Buster](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+### [The Stress Buster](https://open.spotify.com/playlist/37i9dQZF1DWUvQoIOFMFUT)
 
 > Breathe deep and release that pressure.
+
+100 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

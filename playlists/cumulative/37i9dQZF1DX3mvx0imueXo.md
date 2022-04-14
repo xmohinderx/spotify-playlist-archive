@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3mvx0imueXo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3mvx0imueXo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3mvx0imueXo)
 
-### [Island Reggae](https://open.spotify.com/playlist/2blojqbK7VuiIRbFqTGQVl)
+### [Island Reggae](https://open.spotify.com/playlist/37i9dQZF1DX3mvx0imueXo)
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
+
+51 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/2blojqbK7VuiIRbFqTGQVl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

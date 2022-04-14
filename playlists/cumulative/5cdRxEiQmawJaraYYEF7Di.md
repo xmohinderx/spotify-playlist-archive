@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5cdRxEiQmawJaraYYEF7Di.md) - cumulative - [plain](/playlists/plain/5cdRxEiQmawJaraYYEF7Di) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5cdRxEiQmawJaraYYEF7Di)
 
-### [\#SundayFunday](https://open.spotify.com/playlist/5uVO9F0m4taiqJdSdtDqmJ)
+### [\#SundayFunday](https://open.spotify.com/playlist/5cdRxEiQmawJaraYYEF7Di)
 
 > Infectiously happy hits from years past blended with the best of today's chart toppers.
+
+53 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/5uVO9F0m4taiqJdSdtDqmJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

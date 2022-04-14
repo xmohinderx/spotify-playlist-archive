@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXoqmNKv7cNC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXoqmNKv7cNC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXoqmNKv7cNC)
 
-### [EQUAL México](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
 > Mujeres  a todo volumen\. En portada: Mariana Bo
+
+161 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3Y4Bt8VdicW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Y4Bt8VdicW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Y4Bt8VdicW)
 
-### [This Is Father John Misty](https://open.spotify.com/playlist/1CPYrW11OOvEDhlZzOPNbU)
+### [This Is Father John Misty](https://open.spotify.com/playlist/37i9dQZF1DX3Y4Bt8VdicW)
 
 > Get into the inspired sounds of <a href="spotify:artist:2kGBy2WHvF0VdZyqiVCkDT">Father John Misty</a>.
+
+36 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/1CPYrW11OOvEDhlZzOPNbU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

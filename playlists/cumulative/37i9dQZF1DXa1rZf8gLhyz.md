@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa1rZf8gLhyz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa1rZf8gLhyz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa1rZf8gLhyz)
 
-### [Jazz for Sleep](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+### [Jazz for Sleep](https://open.spotify.com/playlist/37i9dQZF1DXa1rZf8gLhyz)
 
 > Let these jazz tracks lull you to sleep.
+
+133 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

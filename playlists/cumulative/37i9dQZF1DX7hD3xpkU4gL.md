@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7hD3xpkU4gL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7hD3xpkU4gL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7hD3xpkU4gL)
 
-### [Las 100 mejores baladas](https://open.spotify.com/playlist/6aZpup5jgvFQkPSXm4XElN)
+### [Las 100 mejores baladas](https://open.spotify.com/playlist/37i9dQZF1DX7hD3xpkU4gL)
 
 > Para cantar muy bajito..\. o a voz en grito.
+
+114 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/6aZpup5jgvFQkPSXm4XElN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

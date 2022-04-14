@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,042 likes - 30 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,072 likes - 30 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,20 +23,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 13 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 |
 | 14 | [Shokran \(Thank You\)](https://open.spotify.com/track/3jCPmClsW1pHGCRGpvgnDe) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 4:08 |
 | 15 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
-| 16 | [Ahlan Wa Sahlan](https://open.spotify.com/track/2jyCql7bHLtn3K7Z6E04b5) | [Al\-Qasar](https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r) | [Ahlan Wa Sahlan](https://open.spotify.com/album/1bCDFZGI02ikwSwDT4RDgK) | 3:04 |
-| 17 | [Quest For Eternity](https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:46 |
-| 18 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 |
+| 16 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 |
+| 17 | [Ahlan Wa Sahlan](https://open.spotify.com/track/2jyCql7bHLtn3K7Z6E04b5) | [Al\-Qasar](https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r) | [Ahlan Wa Sahlan](https://open.spotify.com/album/1bCDFZGI02ikwSwDT4RDgK) | 3:04 |
+| 18 | [Quest For Eternity](https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:46 |
 | 19 | [The Tragedy Within](https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC) | [BILOCATE](https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe) | [Summoning the Bygones](https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx) | 8:44 |
-| 20 | [Mejwez](https://open.spotify.com/track/0Ti4bbSLBtIP2pJHHmQgqR) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Arabic Rock Orchestra](https://open.spotify.com/album/2K3NavDtqMRQW1bEPQ9tAu) | 4:09 |
-| 21 | [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 |
-| 22 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
-| 23 | [Damascus Gate](https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Ruins of Empires](https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6) | 4:50 |
-| 24 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |
+| 20 | [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 |
+| 21 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
+| 22 | [Damascus Gate](https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Ruins of Empires](https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6) | 4:50 |
+| 23 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |
+| 24 | [Mejwez](https://open.spotify.com/track/0Ti4bbSLBtIP2pJHHmQgqR) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Arabic Rock Orchestra](https://open.spotify.com/album/2K3NavDtqMRQW1bEPQ9tAu) | 4:09 |
 | 25 | [The Twelth Gate](https://open.spotify.com/track/1SkWDSHs825x3os2JtxKBQ) | [Crescent](https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz) | [The Order Of Amenti](https://open.spotify.com/album/3ZICoVkNWfn9ers5Dsa6v6) | 4:00 |
 | 26 | [Unfollow](https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY) | [Massive Scar Era](https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D) | [Color Blind](https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy) | 3:42 |
-| 27 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
+| 27 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
 | 28 | [Lay chafi](https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm) | [Betweenatna](https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT) | [Betweenatna](https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8) | 4:02 |
-| 29 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
+| 29 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
 | 30 | [12](https://open.spotify.com/track/67Ds7V9onIBlErmkSWFtt6) | [Benevolent](https://open.spotify.com/artist/5wuGLHfb2t7AIIg5AgEMDZ) | [The Wave](https://open.spotify.com/album/3lTr2YYIhsGuvbZI4ZDwGY) | 5:20 |
 
-Snapshot ID: `MTY0OTgxMTk3NSwwMDAwMDAwMDliNmE4NGI5ZTlhZmM1NzFmNDQwNTdjNjgxNzFmZTUy`
+Snapshot ID: `MTY0OTg5ODU2MywwMDAwMDAwMDJhMDEzYzRlYTEyYjIzMWFjNzRiY2FlMzEzMWRiNmFj`

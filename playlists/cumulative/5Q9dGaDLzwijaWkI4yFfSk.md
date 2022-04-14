@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5Q9dGaDLzwijaWkI4yFfSk.md) - cumulative - [plain](/playlists/plain/5Q9dGaDLzwijaWkI4yFfSk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5Q9dGaDLzwijaWkI4yFfSk)
 
-### [Peace & Love 2013](https://open.spotify.com/playlist/068AiYIrmBFKV7esjtzVDQ)
+### [Peace & Love 2013](https://open.spotify.com/playlist/5Q9dGaDLzwijaWkI4yFfSk)
 
 > 
+
+45 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/068AiYIrmBFKV7esjtzVDQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

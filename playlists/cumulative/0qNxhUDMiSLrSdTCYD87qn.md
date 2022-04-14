@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0qNxhUDMiSLrSdTCYD87qn.md) - cumulative - [plain](/playlists/plain/0qNxhUDMiSLrSdTCYD87qn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0qNxhUDMiSLrSdTCYD87qn)
 
-### [Dub Zone](https://open.spotify.com/playlist/69KLygf0rbt6s7GqKtqniY)
+### [Dub Zone](https://open.spotify.com/playlist/0qNxhUDMiSLrSdTCYD87qn)
 
 > 
+
+23 songs - 1 hr 13 min - [published](https://open.spotify.com/playlist/69KLygf0rbt6s7GqKtqniY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

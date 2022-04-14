@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdcgmlEJyzKw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdcgmlEJyzKw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdcgmlEJyzKw)
 
-### [Musique Concrète](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
+### [Musique Concrète](https://open.spotify.com/playlist/37i9dQZF1DXdcgmlEJyzKw)
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
+
+63 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

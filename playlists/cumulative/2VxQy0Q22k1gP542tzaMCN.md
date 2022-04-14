@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2VxQy0Q22k1gP542tzaMCN.md) - cumulative - [plain](/playlists/plain/2VxQy0Q22k1gP542tzaMCN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2VxQy0Q22k1gP542tzaMCN)
 
-### [Word of Mouth](https://open.spotify.com/playlist/7aj8Vu1TwbNHnPURQxFezP)
+### [Word of Mouth](https://open.spotify.com/playlist/2VxQy0Q22k1gP542tzaMCN)
 
 > Explore the evolution of eternal folk songs through some of their essential adaptations – from field recordings to recent releases\. Follow for new additions and song cycles!
+
+58 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/7aj8Vu1TwbNHnPURQxFezP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

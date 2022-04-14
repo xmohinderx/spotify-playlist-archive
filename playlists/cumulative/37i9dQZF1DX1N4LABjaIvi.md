@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1N4LABjaIvi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1N4LABjaIvi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1N4LABjaIvi)
 
-### [This Is: Luciano Pereyra](https://open.spotify.com/playlist/4zlojQtvqb3RldX3KbypZD)
+### [This Is: Luciano Pereyra](https://open.spotify.com/playlist/37i9dQZF1DX1N4LABjaIvi)
 
 > Todo lo nuevo y lo esencial de Luciano en una sola lista.
+
+62 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/4zlojQtvqb3RldX3KbypZD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

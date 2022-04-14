@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaXeq4HFmqQR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaXeq4HFmqQR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaXeq4HFmqQR)
 
-### [EQUAL Chile](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
+### [EQUAL Chile](https://open.spotify.com/playlist/37i9dQZF1DXaXeq4HFmqQR)
 
 > Amara Ignacia y más mujeres, a todo volumen.
+
+237 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

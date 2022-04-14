@@ -2500,6 +2500,24 @@
     },
     {
       "album": {
+        "name": "Late",
+        "url": "https://open.spotify.com/album/5813hoFP1EHSFiTuI5PREu"
+      },
+      "artists": [
+        {
+          "name": "Cayo",
+          "url": "https://open.spotify.com/artist/1MEkNy8o7kUgle1Yrru6MH"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108617,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/2KfXUhCXsGW16I8OVgZFeJ"
+    },
+    {
+      "album": {
         "name": "Audacious",
         "url": "https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF"
       },
@@ -3021,6 +3039,24 @@
       "duration_ms": 254080,
       "name": "Messages from the Stars",
       "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
+    },
+    {
+      "album": {
+        "name": "L.A. to Miami",
+        "url": "https://open.spotify.com/album/2KtKTDPHET53VNgccwlYvj"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207146,
+      "name": "Miami, My Amy",
+      "url": "https://open.spotify.com/track/5K1HsMKNWMrxADlqAUjpIp"
     },
     {
       "album": {

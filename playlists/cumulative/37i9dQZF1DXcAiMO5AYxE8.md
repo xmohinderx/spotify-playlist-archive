@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcAiMO5AYxE8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcAiMO5AYxE8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcAiMO5AYxE8)
 
-### [Soulful Disco](https://open.spotify.com/playlist/4d56K0ojoUctLC4v8eczuD)
+### [Soulful Disco](https://open.spotify.com/playlist/37i9dQZF1DXcAiMO5AYxE8)
 
 > All the best soul disco sounds for getting down.
+
+66 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/4d56K0ojoUctLC4v8eczuD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

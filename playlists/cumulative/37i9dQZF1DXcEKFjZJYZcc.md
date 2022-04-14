@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcEKFjZJYZcc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcEKFjZJYZcc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcEKFjZJYZcc)
 
-### [Feel Good Piano](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
+### [Feel Good Piano](https://open.spotify.com/playlist/37i9dQZF1DXcEKFjZJYZcc)
 
 > Positive piano music.
+
+126 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

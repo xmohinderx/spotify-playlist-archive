@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdVelxaccCqL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdVelxaccCqL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdVelxaccCqL)
 
-### [This Is Lou Reed](https://open.spotify.com/playlist/6MORC1pKx3p9a0MIGkpurW)
+### [This Is Lou Reed](https://open.spotify.com/playlist/37i9dQZF1DXdVelxaccCqL)
 
 > Lou Reed, the essential tracks, all in one playlist.
+
+50 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/6MORC1pKx3p9a0MIGkpurW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

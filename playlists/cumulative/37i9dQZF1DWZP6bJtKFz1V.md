@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZP6bJtKFz1V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZP6bJtKFz1V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZP6bJtKFz1V)
 
-### [Et Alt](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+### [Et Alt](https://open.spotify.com/playlist/37i9dQZF1DWZP6bJtKFz1V)
 
 > alternative hits of today, tomorrow, and then some\. Cover: chloe moriondo
+
+196 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

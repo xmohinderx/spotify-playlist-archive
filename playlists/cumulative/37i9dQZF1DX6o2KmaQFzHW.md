@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6o2KmaQFzHW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6o2KmaQFzHW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6o2KmaQFzHW)
 
-### [Folklore de Siempre](https://open.spotify.com/playlist/4wtAcRqaRr1DxciaVaIabv)
+### [Folklore de Siempre](https://open.spotify.com/playlist/37i9dQZF1DX6o2KmaQFzHW)
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
+
+175 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/4wtAcRqaRr1DxciaVaIabv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +64,7 @@
 | [Del Chucaro](https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:27 | 2021-07-23 |  |
 | [Desde el Puente Carretero \(with Peteco Carabajal\)](https://open.spotify.com/track/32mWcBr72gtKjrZhbWotbi) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [14 De Colección](https://open.spotify.com/album/4uS0algE0q6RfX07BdZkPi) | 2:26 | 2021-07-23 |  |
 | [Dios a la Una](https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE) | [Daniel Altamirano](https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx) | [Mi Ultima Canción](https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz) | 6:04 | 2021-07-23 | 2022-03-19 |
-| [Duerme Negrito](https://open.spotify.com/track/3K2rDVQkxeWhOWWXipYgrR) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Duerme Negrito](https://open.spotify.com/album/5zI855uIx1Z0M9WIARqukR) | 4:27 | 2021-07-23 |  |
+| [Duerme Negrito](https://open.spotify.com/track/3K2rDVQkxeWhOWWXipYgrR) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Duerme Negrito](https://open.spotify.com/album/5zI855uIx1Z0M9WIARqukR) | 4:27 | 2021-07-23 | 2022-04-14 |
 | [Duerme, Negrito](https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 2:25 | 2021-07-23 | 2022-03-15 |
 | [Déjame Que Me Vaya](https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 3:32 | 2021-07-23 |  |
 | [El Alazan](https://open.spotify.com/track/6BUxDhJHSAZsLdqsMb51WQ) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Sus 60 Mejores Zambas, Milongas, Canciones...](https://open.spotify.com/album/1do8NEPEUpdeHZSGSeuyTs) | 3:49 | 2021-07-23 | 2022-03-18 |
@@ -123,7 +125,7 @@
 | [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 | 2021-07-23 |  |
 | [Luna Tucumana](https://open.spotify.com/track/75tyu2vBzS0qHN7PMNtAH5) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Tito Francia](https://open.spotify.com/artist/3zTLMAxxbnq55CDqwj38vx) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 3:30 | 2021-07-23 |  |
 | [Luna Tucumana](https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Luna Tucumana](https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm) | 4:21 | 2021-07-23 | 2022-02-02 |
-| [Luna Tucumana \- Remastered 2003](https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Recordando Zambas Con Los Chalchaleros](https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR) | 3:34 | 2021-07-23 | 2022-03-23 |
+| [Luna Tucumana \- Remastered 2003](https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Recordando Zambas Con Los Chalchaleros](https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR) | 3:34 | 2021-07-23 |  |
 | [López Pereyra](https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:12 | 2021-07-23 |  |
 | [Maestras De Jujuy](https://open.spotify.com/track/6PVgr4W0ykPhb5w7MZl3Ez) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Verdaderas Canciones de Amor](https://open.spotify.com/album/55aTDgHkAjZleFL09SlvsQ) | 4:18 | 2021-07-23 | 2022-03-09 |
 | [Mama Vieja](https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl) | 3:15 | 2021-07-23 | 2022-03-13 |

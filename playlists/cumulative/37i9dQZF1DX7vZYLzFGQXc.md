@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7vZYLzFGQXc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7vZYLzFGQXc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7vZYLzFGQXc)
 
-### [Fresh Finds Korea](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
+### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
 > Fresh new Korean independent talents are here\. \(Cover: Tomiyo\(토미요\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
+
+241 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

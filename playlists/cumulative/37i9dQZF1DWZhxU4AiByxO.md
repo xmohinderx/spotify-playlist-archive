@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZhxU4AiByxO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZhxU4AiByxO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZhxU4AiByxO)
 
-### [Pop 4 Kids](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+### [Pop 4 Kids](https://open.spotify.com/playlist/37i9dQZF1DWZhxU4AiByxO)
 
 > Enjoy some kid\-friendly pop tunes.
+
+152 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

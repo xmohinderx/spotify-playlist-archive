@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4sWSpwq3LiO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4sWSpwq3LiO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4sWSpwq3LiO)
 
-### [Peaceful Piano](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
+### [Peaceful Piano](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO)
 
 > Relax and indulge with beautiful piano pieces.
+
+1,262 songs - 2 day 9 hr 7 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

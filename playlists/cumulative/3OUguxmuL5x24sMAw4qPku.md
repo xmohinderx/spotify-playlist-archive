@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3OUguxmuL5x24sMAw4qPku.md) - cumulative - [plain](/playlists/plain/3OUguxmuL5x24sMAw4qPku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3OUguxmuL5x24sMAw4qPku)
 
-### [Acoustic Commute](https://open.spotify.com/playlist/5HGsECFmUgn6C3KZsEJ28P)
+### [Acoustic Commute](https://open.spotify.com/playlist/3OUguxmuL5x24sMAw4qPku)
 
 > Turn your commute into a perfect, peaceful drive...
+
+57 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/5HGsECFmUgn6C3KZsEJ28P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

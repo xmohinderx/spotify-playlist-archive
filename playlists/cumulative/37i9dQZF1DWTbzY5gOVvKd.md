@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTbzY5gOVvKd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTbzY5gOVvKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTbzY5gOVvKd)
 
-### [Jazzy Romance](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
+### [Jazzy Romance](https://open.spotify.com/playlist/37i9dQZF1DWTbzY5gOVvKd)
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
+
+107 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +56,7 @@
 | [L\-O\-V\-E](https://open.spotify.com/track/0pbEgA27VE15Y7uKOQzzfF) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [L\-O\-V\-E](https://open.spotify.com/album/33zMJxjE9NOKnTG0Vpa48D) | 2:08 | 2019-05-26\* |  |
 | [La vie en rose](https://open.spotify.com/track/5ShdF7P8hl40IhvhoTnVyx) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 3:47 | 2019-05-26\* |  |
 | [Language Of Love](https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language Of Love](https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL) | 4:16 | 2021-04-26 |  |
-| [Let's Do It](https://open.spotify.com/track/0dImZ1ZhnS1xfhYVkPPeqE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:36 | 2022-02-23 |  |
+| [Let's Do It](https://open.spotify.com/track/0dImZ1ZhnS1xfhYVkPPeqE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:36 | 2022-02-23 | 2022-04-14 |
 | [Let's Make The Most Of A Beautiful Thing](https://open.spotify.com/track/7zrgXzhF8eSA1O9TvYippG) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/7mNaZiHXdEWQV9CJ2ha63o) | 4:39 | 2019-05-26\* |  |
 | [Let’s Fall In Love](https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 3:09 | 2019-05-26\* |  |
 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 | 2019-05-26\* |  |
@@ -97,7 +99,7 @@
 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 | 2019-05-26\* |  |
 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 | 2019-05-26\* |  |
 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 | 2019-05-26\* |  |
-| [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-02-14 | 2022-04-13 |
+| [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-02-14 |  |
 | [The Nearness Of You](https://open.spotify.com/track/5Q8vFGe2wgjD50TzkHWAkp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Precious & Rare: Nancy Wilson](https://open.spotify.com/album/1qvEgeCQpyGkmEFCL2fH8C) | 2:58 | 2019-05-26\* |  |
 | [The Very Thought Of You](https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/6COf6f8aKjM6GiBhi1LH5O) | 6:01 | 2019-05-27 |  |
 | [Then I'll Be Tired of You](https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Love & the Lack Thereof](https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6) | 6:13 | 2019-05-26\* |  |

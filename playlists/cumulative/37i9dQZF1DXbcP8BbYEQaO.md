@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbcP8BbYEQaO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbcP8BbYEQaO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbcP8BbYEQaO)
 
-### [Night Pop](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+### [Night Pop](https://open.spotify.com/playlist/37i9dQZF1DXbcP8BbYEQaO)
 
 > dancing under streetlights type beat
+
+337 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/35HteeTTB5NE0hsliZ77H1.md) - cumulative - [plain](/playlists/plain/35HteeTTB5NE0hsliZ77H1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/35HteeTTB5NE0hsliZ77H1)
 
-### [The Life Eclectic](https://open.spotify.com/playlist/3y8h3uLgTIyw7glLKF1Gbf)
+### [The Life Eclectic](https://open.spotify.com/playlist/35HteeTTB5NE0hsliZ77H1)
 
 > Yours is no ordinary life\. Listen outside the lines.
+
+63 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/3y8h3uLgTIyw7glLKF1Gbf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

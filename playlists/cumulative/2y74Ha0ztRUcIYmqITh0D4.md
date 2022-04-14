@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2y74Ha0ztRUcIYmqITh0D4.md) - cumulative - [plain](/playlists/plain/2y74Ha0ztRUcIYmqITh0D4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2y74Ha0ztRUcIYmqITh0D4)
 
-### [National Blood Week](https://open.spotify.com/playlist/1jzFbY3gbFLbWH8fOeK9yR)
+### [National Blood Week](https://open.spotify.com/playlist/2y74Ha0ztRUcIYmqITh0D4)
 
 > 
+
+25 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/1jzFbY3gbFLbWH8fOeK9yR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

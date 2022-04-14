@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,139 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,144 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 13 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
 | 14 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 15 | [Country Roads \(Radio Version\)](https://open.spotify.com/track/2tuVCjUXN9UvCQNpmt9xlG) | [Hermes House Band](https://open.spotify.com/artist/75QQAQ1DfmGW500AJZbM0i) | [Country Roads](https://open.spotify.com/album/6fg29c6LSKHa7yqQzyRwvf) | 3:21 |
-| 16 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm) | 3:50 |
-| 17 | [The Shoop Shoop Song \(It's In His Kiss\)](https://open.spotify.com/track/1F93GMRPvmWpVP970SzjpH) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts \(UK Mid Price\)](https://open.spotify.com/album/4Zzx7tVCCHj0rufZPXsrhr) | 2:50 |
-| 18 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/7r5bS08R8d0jZuDZutVeHQ) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/366R23DbfxqjZo6AUBrQjv) | 4:54 |
+| 16 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/7r5bS08R8d0jZuDZutVeHQ) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/366R23DbfxqjZo6AUBrQjv) | 4:54 |
+| 17 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm) | 3:50 |
+| 18 | [The Shoop Shoop Song \(It's In His Kiss\)](https://open.spotify.com/track/1F93GMRPvmWpVP970SzjpH) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts \(UK Mid Price\)](https://open.spotify.com/album/4Zzx7tVCCHj0rufZPXsrhr) | 2:50 |
 | 19 | [Gimme Hope Jo'anna](https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [The Biggest Reggae Hits](https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a) | 4:03 |
 | 20 | [September](https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Essential Earth, Wind & Fire](https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg) | 3:35 |
 | 21 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [Soul Man \- 45 Version](https://open.spotify.com/track/5JNfpFuU4ew1kq1oEc9OaX) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Man / May I Baby](https://open.spotify.com/album/510opTQ5kdnZYF4n5iXeDA) | 2:36 |
 | 80 | [Karma Chameleon](https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 4:02 |
 
-Snapshot ID: `MTY0OTgxMTYyMywwMDAwMDAwMDAyMDBkNjI5YTUxNjg0NzY1YzkxNTNhMTczZjdkMTgx`
+Snapshot ID: `MTY0OTg5ODIyNiwwMDAwMDAwMDBiOTZiZTY1MjY4YWMzYzExMmFiZjNhMWVhNGNjNmEy`

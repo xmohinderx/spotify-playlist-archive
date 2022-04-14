@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTqZKf590Jo5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTqZKf590Jo5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTqZKf590Jo5)
 
-### [This is: Maxwell](https://open.spotify.com/playlist/2nis0cD7S2fnkZeb3SRwMP)
+### [This is: Maxwell](https://open.spotify.com/playlist/37i9dQZF1DWTqZKf590Jo5)
 
 > Celebrate R&amp;B crooner Maxwell's career with this essential collection of songs.
+
+23 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/2nis0cD7S2fnkZeb3SRwMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

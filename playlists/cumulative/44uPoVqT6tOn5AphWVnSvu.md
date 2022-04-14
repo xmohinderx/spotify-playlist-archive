@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/44uPoVqT6tOn5AphWVnSvu.md) - cumulative - [plain](/playlists/plain/44uPoVqT6tOn5AphWVnSvu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/44uPoVqT6tOn5AphWVnSvu)
 
-### [Happy Birthday Prince!](https://open.spotify.com/playlist/1JBP0FsAiaUy4cjOcjqcRB)
+### [Happy Birthday Prince!](https://open.spotify.com/playlist/44uPoVqT6tOn5AphWVnSvu)
 
 > 
+
+46 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1JBP0FsAiaUy4cjOcjqcRB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

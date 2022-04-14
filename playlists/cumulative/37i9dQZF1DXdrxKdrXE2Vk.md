@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdrxKdrXE2Vk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdrxKdrXE2Vk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdrxKdrXE2Vk)
 
-### [Best of Live Worship](https://open.spotify.com/playlist/0s8QQefwdwJjE5Nq6dWGT4)
+### [Best of Live Worship](https://open.spotify.com/playlist/37i9dQZF1DXdrxKdrXE2Vk)
 
 > Experience the best of live worship here\. Cover: North Point Worship
+
+106 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/0s8QQefwdwJjE5Nq6dWGT4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

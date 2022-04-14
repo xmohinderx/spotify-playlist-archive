@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1s9knjP51Oa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1s9knjP51Oa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1s9knjP51Oa)
 
-### [Calm Vibes](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
+### [Calm Vibes](https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa)
 
 > Slow down with some calming keys.
+
+445 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

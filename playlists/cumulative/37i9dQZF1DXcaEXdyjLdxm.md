@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcaEXdyjLdxm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcaEXdyjLdxm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcaEXdyjLdxm)
 
-### [Spotify Singles: Pride](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
+### [Spotify Singles: Pride](https://open.spotify.com/playlist/37i9dQZF1DXcaEXdyjLdxm)
 
 > LGBTQQIA+ artists & allies like you've never heard before\. Cover: CHIKA, Troye Sivan and Rina Sawayama.
+
+37 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

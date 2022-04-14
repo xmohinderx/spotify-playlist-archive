@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8qDhzfjyTN6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8qDhzfjyTN6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8qDhzfjyTN6)
 
-### [Romantic Era 50: Spotify Picks](https://open.spotify.com/playlist/6MaqQcBfsv5agf37jXCxwN)
+### [Romantic Era 50: Spotify Picks](https://open.spotify.com/playlist/37i9dQZF1DX8qDhzfjyTN6)
 
 > This 50\-track collection takes you through a fascinating journey from the singular works of Schubert, Schumann and Chopin that defined the era, to the last masterpiece of late romanticism composed after WWII, Strauss' Four Last Songs\. For operas from this era, see <a href="spotify:user:spotify:playlist:473bnHuzXcRUsDmSkdUrmz">this</a> playlist.
+
+50 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/6MaqQcBfsv5agf37jXCxwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXxlTjrCu8cE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXxlTjrCu8cE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXxlTjrCu8cE)
 
-### [Rotina de Beleza](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
+### [Rotina de Beleza](https://open.spotify.com/playlist/37i9dQZF1DWXxlTjrCu8cE)
 
 > Cuidar de si todos os dias com a melhor trilha sonora.
+
+36 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

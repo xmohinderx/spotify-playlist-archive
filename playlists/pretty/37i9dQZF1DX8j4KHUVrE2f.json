@@ -1,12 +1,12 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1034325,
+  "num_followers": 1034395,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTkwMiwwMDAwMDAwMGVhZmQ1NmQxZTAyMzBhNzQ0OTNkYjEwZDEwZmQwZGZk",
+  "snapshot_id": "MTY0OTg5ODQ5MywwMDAwMDAwMDViNTE4ZDFiMTViNmI1ZGE1Nzg4N2ZlM2YzM2I5Zjc3",
   "tracks": [
     {
       "added_at": "2020-07-08 17:51:15",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/6cX5XwYMwa4AoYC6Eyy25j"
-      },
-      "artists": [
-        {
-          "name": "Will Young",
-          "url": "https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/3Zg1941PbcmsxLmSaVJ3OZ"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 151640,
       "name": "I Wish I Was a Punk Rocker (with Flowers in My Hair)",
       "url": "https://open.spotify.com/track/4mnTMsp8Cgf9TNiQMhH11L"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/6cX5XwYMwa4AoYC6Eyy25j"
+      },
+      "artists": [
+        {
+          "name": "Will Young",
+          "url": "https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/3Zg1941PbcmsxLmSaVJ3OZ"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "Decade In The Sun - Best Of Stereophonics (Deluxe)",
-        "url": "https://open.spotify.com/album/4tm2y6cW1crczFhkylSSHZ"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/360T76vzavPvB0ZLRqvATQ"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 258826,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "Decade In The Sun - Best Of Stereophonics (Deluxe)",
+        "url": "https://open.spotify.com/album/4tm2y6cW1crczFhkylSSHZ"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/360T76vzavPvB0ZLRqvATQ"
     },
     {
       "added_at": "2020-07-08 17:51:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these cheery 60s and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,684 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,797 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 41 | [Walk Like a Man](https://open.spotify.com/track/4C76SOnBa9eQDwOwe11hPz) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Big Girls Don't Cry and 12 Other Hits](https://open.spotify.com/album/21nYbsqCxRcKE1gOB9f98a) | 2:17 |
 | 42 | [I'd Like to Teach the World to Sing \(In Perfect Harmony\)](https://open.spotify.com/track/0hbC2CAJidLslKqJ39Lxh4) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [We'd Like To Teach The World To Sing](https://open.spotify.com/album/1aImJMkHm38YnlL88tnqrc) | 2:25 |
 | 43 | [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 |
-| 44 | [I Only Want To Be With You](https://open.spotify.com/track/22O0VTGMYSMWHhQsZPEYoR) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Very Best Of Dusty Springfield](https://open.spotify.com/album/3BMtVA6jcl1GzwfIO4HD48) | 2:38 |
-| 45 | [My Guy](https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:52 |
-| 46 | [Dancing Queen](https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1M4anG49aEs4YimBdj96Oy) | 3:50 |
-| 47 | [I Want You Back](https://open.spotify.com/track/0PGwM5vdr5fMejx0IIAYXj) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [20th Century Masters: The Millennium Collection: Best Of The Jackson 5](https://open.spotify.com/album/2oJRp9GV4zpFzpnneGZqZH) | 3:00 |
+| 44 | [I Want You Back](https://open.spotify.com/track/0PGwM5vdr5fMejx0IIAYXj) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [20th Century Masters: The Millennium Collection: Best Of The Jackson 5](https://open.spotify.com/album/2oJRp9GV4zpFzpnneGZqZH) | 3:00 |
+| 45 | [I Only Want To Be With You](https://open.spotify.com/track/22O0VTGMYSMWHhQsZPEYoR) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Very Best Of Dusty Springfield](https://open.spotify.com/album/3BMtVA6jcl1GzwfIO4HD48) | 2:38 |
+| 46 | [My Guy](https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:52 |
+| 47 | [Dancing Queen](https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1M4anG49aEs4YimBdj96Oy) | 3:50 |
 | 48 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 49 | [Sherry](https://open.spotify.com/track/0NpvdCO506uO58D4AbKzki) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 2:32 |
 | 50 | [It's Not Unusual](https://open.spotify.com/track/2LW29dEaw4EWNkHNzRma2O) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [The Best Of ..\. Tom Jones](https://open.spotify.com/album/2RTw7VSbOKkniM20HE2vzJ) | 1:59 |
 
-Snapshot ID: `MTY0OTgxMTg4MCwwMDAwMDAwMDk0MWRmNzkwMDc3OWEyNjc2M2Q1MWFjMGU1Y2Q1NGJm`
+Snapshot ID: `MTY0OTg5ODQ3MiwwMDAwMDAwMGRhMmM1Nzc3OWIxZDgzYTg3MTE3NmEzOWYzYzYwODg1`

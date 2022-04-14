@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd41OiKoLJY1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd41OiKoLJY1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd41OiKoLJY1)
 
-### [Fresh Finds Philippines](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
 > Fresh releases from your future favorite artists\. Cover: Sam&Steff, Artwork: Isu Kim
+
+263 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

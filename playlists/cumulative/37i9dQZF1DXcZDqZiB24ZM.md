@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcZDqZiB24ZM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcZDqZiB24ZM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcZDqZiB24ZM)
 
-### [Les nouveaux classiques](https://open.spotify.com/playlist/3cVoEbBWNU3qZ1tiBk2ipz)
+### [Les nouveaux classiques](https://open.spotify.com/playlist/37i9dQZF1DXcZDqZiB24ZM)
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
+
+122 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/3cVoEbBWNU3qZ1tiBk2ipz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

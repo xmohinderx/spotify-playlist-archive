@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKgOqDv3HpW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKgOqDv3HpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKgOqDv3HpW)
 
-### [Meditação e Relaxamento](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+### [Meditação e Relaxamento](https://open.spotify.com/playlist/37i9dQZF1DXaKgOqDv3HpW)
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
+
+162 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +46,7 @@
 | [Descending](https://open.spotify.com/track/6i1azfJNXmsV9fNIA41tea) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Breathe Out](https://open.spotify.com/album/2CiiGCO5igDhPWapdqw2Ub) | 3:30 | 2022-02-18 |  |
 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2022-02-18 |  |
 | [Desires](https://open.spotify.com/track/66GzrVXhZQYafC9v9OBGqw) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Desires](https://open.spotify.com/album/3u9NUvlffRk4BDiQgNgVt3) | 3:25 | 2022-02-18 |  |
+| [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-04-13 |  |
 | [Dreaming Of Dust](https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Dreaming Of Dust](https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7) | 2:50 | 2022-02-18 |  |
 | [Drowsy](https://open.spotify.com/track/0UN65yFrhpHPOWVRgPDJ3J) | [Paul Martinson](https://open.spotify.com/artist/3bRs4tOeVr1K0EVWi1BKkj) | [Drowsy](https://open.spotify.com/album/6yUJ7asi7Ns3PME7zE037D) | 3:31 | 2022-02-18 |  |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-02-18 |  |
@@ -65,6 +68,7 @@
 | [Giant Steps Tomorrow](https://open.spotify.com/track/2KiBZ6xU6dnj47aT71G28P) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Giant Steps Tomorrow](https://open.spotify.com/album/31cxoMZtA7p665UG7sEhew) | 3:15 | 2022-02-18 |  |
 | [Glemt Perle](https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Glemt Perle](https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ) | 4:13 | 2022-03-08 |  |
 | [Haze](https://open.spotify.com/track/4hv0YrKRtGmsDghhkURaNJ) | [Anima](https://open.spotify.com/artist/3XM6Pf9Qxz0xdPZV1SEGjd) | [Haze](https://open.spotify.com/album/1D9Ik1SIjR9YVi8BeY8JQr) | 3:38 | 2022-02-18 |  |
+| [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-04-13 |  |
 | [Hermosa](https://open.spotify.com/track/5Qg04tWgRG0Yv8VNRUKs9k) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [Hermosa](https://open.spotify.com/album/5lLEiFsDZ1OexGJOxxfQnp) | 2:58 | 2022-02-18 |  |
 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 | 2022-02-18 |  |
 | [Hollow](https://open.spotify.com/track/0r0SemZMW04XkiIp8dvFQQ) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Hollow](https://open.spotify.com/album/3fuPthOuUnuZw9aC7H1qyt) | 2:37 | 2022-02-18 |  |

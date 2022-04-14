@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5eku7F05o6O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5eku7F05o6O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5eku7F05o6O)
 
-### [Tout doux](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
+### [Tout doux](https://open.spotify.com/playlist/37i9dQZF1DX5eku7F05o6O)
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
+
+102 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

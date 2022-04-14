@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSUo7EWzIcjZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSUo7EWzIcjZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSUo7EWzIcjZ)
 
-### [Merengue Clásico](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+### [Merengue Clásico](https://open.spotify.com/playlist/37i9dQZF1DWSUo7EWzIcjZ)
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
+
+240 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

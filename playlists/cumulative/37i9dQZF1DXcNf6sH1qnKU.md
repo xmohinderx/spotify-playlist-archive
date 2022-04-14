@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcNf6sH1qnKU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcNf6sH1qnKU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNf6sH1qnKU)
 
-### [Dreampop Classics](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
+### [Dreampop Classics](https://open.spotify.com/playlist/37i9dQZF1DXcNf6sH1qnKU)
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
+
+75 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +47,7 @@
 | [Love Fade](https://open.spotify.com/track/24ZsdPJj8uwhCxo4uanFpG) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/4yfIr3uR60hcYNr1ttJNoC) | 3:40 | 2021-10-01 |  |
 | [Majorette](https://open.spotify.com/track/73guNXAOFu7XB6Sby4ahCp) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Thank Your Lucky Stars](https://open.spotify.com/album/7zPfNw88t2Xv2nVXWKqQls) | 4:00 | 2022-01-11 |  |
 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 | 2021-10-01 |  |
-| [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 | 2021-10-01 | 2022-03-24 |
+| [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 | 2021-10-01 |  |
 | [Nearer Than Heaven](https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:28 | 2021-10-01 | 2022-03-16 |
 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 | 2021-10-01 |  |
 | [Nothing Natural](https://open.spotify.com/track/6zrL6etENCa2ZEwnPcxGkb) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/4sy5PYpO6j5BgLajSMGcZD) | 5:54 | 2021-10-01 | 2022-03-18 |
@@ -69,7 +71,7 @@
 | [Sure](https://open.spotify.com/track/3zdTA309WHMFZo1l6IAiPu) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/6ukRsxcKxoNNi1PNUui57O) | 4:09 | 2021-10-01 |  |
 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 | 2021-10-01 |  |
 | [Sweetness and Light](https://open.spotify.com/track/577LINEVunl9HDxC4vxuAx) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK) | 5:17 | 2021-10-01 |  |
-| [Tal Uno](https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/2JzXJknJh0hzHPbh8KAQ2r) | 4:27 | 2021-10-01 |  |
+| [Tal Uno](https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/2JzXJknJh0hzHPbh8KAQ2r) | 4:27 | 2021-10-01 | 2022-04-14 |
 | [The Book Lovers](https://open.spotify.com/track/4O76joQmZKoZm78s0vOHTJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:49 | 2021-10-01 |  |
 | [The Spiral Arm \(Edit\)](https://open.spotify.com/track/2xC7k5bQpiveeTlUSscstA) | [Dallas Acid](https://open.spotify.com/artist/1xAG4AeOmO97QdYhoW01EA) | [The Spiral Arm \(Edit\)](https://open.spotify.com/album/2btvxLqexGKMoCiL6BylqK) | 5:18 | 2021-10-01 | 2022-03-21 |
 | [The World Backwards](https://open.spotify.com/track/3KGOHUtSdDMUQ9v7V4DmW1) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:00 | 2021-10-01 |  |

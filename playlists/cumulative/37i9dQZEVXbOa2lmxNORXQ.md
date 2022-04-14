@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbOa2lmxNORXQ.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbOa2lmxNORXQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbOa2lmxNORXQ)
 
-### [Top 50 \- Colombia](https://open.spotify.com/playlist/1oznrLnQS5DZxxfUr57NET)
+### [Top 50 \- Colombia](https://open.spotify.com/playlist/37i9dQZEVXbOa2lmxNORXQ)
 
 > Your daily update of the most played tracks right now \- Colombia.
+
+323 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/1oznrLnQS5DZxxfUr57NET)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

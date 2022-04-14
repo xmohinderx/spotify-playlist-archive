@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWNlI0CRgWup.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWNlI0CRgWup) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWNlI0CRgWup)
 
-### [RADAR FRANCE](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
+### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
 > Découvrez notre sélection des artistes à suivre\. Photo : blond
+
+44 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

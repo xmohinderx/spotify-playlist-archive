@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTvM9hRJYH10.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTvM9hRJYH10) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTvM9hRJYH10)
 
-### [Young Nashville](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Alana Springsteen
+
+167 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

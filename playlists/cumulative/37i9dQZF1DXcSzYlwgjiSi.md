@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcSzYlwgjiSi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcSzYlwgjiSi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcSzYlwgjiSi)
 
-### [Party Cove](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
+### [Party Cove](https://open.spotify.com/playlist/37i9dQZF1DXcSzYlwgjiSi)
 
 > The perfect soundtrack for a day on the water.
+
+155 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

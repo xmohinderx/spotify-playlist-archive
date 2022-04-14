@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUh7dobVCfAj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUh7dobVCfAj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUh7dobVCfAj)
 
-### [Piano Bar Classics](https://open.spotify.com/playlist/2MyINiSmtZ2BJuybb4XTsA)
+### [Piano Bar Classics](https://open.spotify.com/playlist/37i9dQZF1DWUh7dobVCfAj)
 
 > Sing\-along favorites\. Cover: Billy Joel
+
+59 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2MyINiSmtZ2BJuybb4XTsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

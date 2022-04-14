@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/71WgbCkbVXGzAltJTAT6lD.md) - cumulative - [plain](/playlists/plain/71WgbCkbVXGzAltJTAT6lD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/71WgbCkbVXGzAltJTAT6lD)
 
-### [\(Descent\) A Beginning](https://open.spotify.com/playlist/0KivzAlqg1AfGekXJuYoZu)
+### [\(Descent\) A Beginning](https://open.spotify.com/playlist/71WgbCkbVXGzAltJTAT6lD)
 
 > Slip into the world of Brian Eno...
+
+23 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/0KivzAlqg1AfGekXJuYoZu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

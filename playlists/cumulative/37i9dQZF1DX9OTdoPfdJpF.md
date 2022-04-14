@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9OTdoPfdJpF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9OTdoPfdJpF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9OTdoPfdJpF)
 
-### [This is: Jamiroquai](https://open.spotify.com/playlist/6JpObmeb89mqYuEUceHPUy)
+### [This is: Jamiroquai](https://open.spotify.com/playlist/37i9dQZF1DX9OTdoPfdJpF)
 
 > Jamiroquai, the essential tracks, all in one playlist.
+
+50 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/6JpObmeb89mqYuEUceHPUy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

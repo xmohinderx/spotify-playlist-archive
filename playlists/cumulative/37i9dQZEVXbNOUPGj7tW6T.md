@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbNOUPGj7tW6T.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbNOUPGj7tW6T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNOUPGj7tW6T)
 
-### [Top 50 \- Paraguay](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
+### [Top 50 \- Paraguay](https://open.spotify.com/playlist/37i9dQZEVXbNOUPGj7tW6T)
 
 > Your daily update of the most played tracks right now \- Paraguay.
+
+214 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

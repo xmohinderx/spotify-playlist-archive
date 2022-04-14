@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe4mpNXfrVqx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe4mpNXfrVqx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe4mpNXfrVqx)
 
-### [Só as Minas](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Samantha Machado
+
+71 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

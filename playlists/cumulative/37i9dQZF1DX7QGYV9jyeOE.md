@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7QGYV9jyeOE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7QGYV9jyeOE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QGYV9jyeOE)
 
-### [EQUAL New Age](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
+### [EQUAL New Age](https://open.spotify.com/playlist/37i9dQZF1DX7QGYV9jyeOE)
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
+
+70 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

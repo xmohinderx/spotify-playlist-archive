@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdJa941ExayM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdJa941ExayM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdJa941ExayM)
 
-### [Punk Unleashed](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+### [Punk Unleashed](https://open.spotify.com/playlist/37i9dQZF1DXdJa941ExayM)
 
 > Maybe it's punk, maybe it's not\. Cover: Jean Dawson
+
+103 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

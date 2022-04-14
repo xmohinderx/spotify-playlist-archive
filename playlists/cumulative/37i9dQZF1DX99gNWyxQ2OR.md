@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX99gNWyxQ2OR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX99gNWyxQ2OR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX99gNWyxQ2OR)
 
-### [Chopin Nocturnes](https://open.spotify.com/playlist/6VwimZsczbR7whpzQAEoeh)
+### [Chopin Nocturnes](https://open.spotify.com/playlist/37i9dQZF1DX99gNWyxQ2OR)
 
 > A complete collection of Chopin's Nocturnes.
+
+21 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/6VwimZsczbR7whpzQAEoeh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

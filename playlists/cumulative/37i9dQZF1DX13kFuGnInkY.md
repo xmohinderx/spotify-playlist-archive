@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX13kFuGnInkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX13kFuGnInkY)
 
-### [ACM Awards 2022](https://open.spotify.com/playlist/2O2A0u2oMemfyiWYSMET6A)
+### [ACM Awards 2022](https://open.spotify.com/playlist/37i9dQZF1DX13kFuGnInkY)
 
 > Congratulations to all of this year's winners & nominees!
+
+151 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/2O2A0u2oMemfyiWYSMET6A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

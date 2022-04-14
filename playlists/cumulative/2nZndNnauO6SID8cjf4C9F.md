@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2nZndNnauO6SID8cjf4C9F.md) - cumulative - [plain](/playlists/plain/2nZndNnauO6SID8cjf4C9F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2nZndNnauO6SID8cjf4C9F)
 
-### [MMG Spotify Picks](https://open.spotify.com/playlist/4y8nGcU7lg9W5cfmjTKAH5)
+### [MMG Spotify Picks](https://open.spotify.com/playlist/2nZndNnauO6SID8cjf4C9F)
 
 > MMG top picks chosen by Spotify.
+
+40 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/4y8nGcU7lg9W5cfmjTKAH5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

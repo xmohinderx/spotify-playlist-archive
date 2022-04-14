@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTRnup1IgL4a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTRnup1IgL4a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTRnup1IgL4a)
 
-### [Under the Stars](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+### [Under the Stars](https://open.spotify.com/playlist/37i9dQZF1DWTRnup1IgL4a)
 
 > Drift off to sleep with acoustic guitar.
+
+90 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLwpL8TjsxOG.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLwpL8TjsxOG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLwpL8TjsxOG)
 
-### [Top 50 \- Hong Kong](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+### [Top 50 \- Hong Kong](https://open.spotify.com/playlist/37i9dQZEVXbLwpL8TjsxOG)
 
 > Your daily update of the most played tracks right now \- Hong Kong.
+
+344 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

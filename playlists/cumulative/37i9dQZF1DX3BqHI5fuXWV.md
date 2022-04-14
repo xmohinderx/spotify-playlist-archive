@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3BqHI5fuXWV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3BqHI5fuXWV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3BqHI5fuXWV)
 
-### [This Is Miles Davis](https://open.spotify.com/playlist/6e4rtl5SvFO1Jq3xitAZyt)
+### [This Is Miles Davis](https://open.spotify.com/playlist/37i9dQZF1DX3BqHI5fuXWV)
 
 > The best tracks from the great Miles Davis.
+
+75 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/6e4rtl5SvFO1Jq3xitAZyt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

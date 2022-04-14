@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaw68inx4UiN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaw68inx4UiN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaw68inx4UiN)
 
-### [Sounds of the Rain Forest](https://open.spotify.com/playlist/2IGFxvMJkgpydS1w8Mozy7)
+### [Sounds of the Rain Forest](https://open.spotify.com/playlist/37i9dQZF1DXaw68inx4UiN)
 
 > The magical soundscapes of the rain forest.
+
+78 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/2IGFxvMJkgpydS1w8Mozy7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

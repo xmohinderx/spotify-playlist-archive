@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2O0Nf9Mi5tM17PM7Ns6Fgu.md) - cumulative - [plain](/playlists/plain/2O0Nf9Mi5tM17PM7Ns6Fgu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2O0Nf9Mi5tM17PM7Ns6Fgu)
 
-### [Guest List: Orb](https://open.spotify.com/playlist/2Bcp4A69q971j3GWwAWYuB)
+### [Guest List: Orb](https://open.spotify.com/playlist/2O0Nf9Mi5tM17PM7Ns6Fgu)
 
 > Orb's official Spotify Gaming playlist! Full of high BPM, kick\-ass melodies and euphoria.
+
+38 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/2Bcp4A69q971j3GWwAWYuB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

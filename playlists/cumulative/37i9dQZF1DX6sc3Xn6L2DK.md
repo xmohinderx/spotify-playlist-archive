@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6sc3Xn6L2DK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6sc3Xn6L2DK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6sc3Xn6L2DK)
 
-### [Cosmic Country](https://open.spotify.com/playlist/5Ymp5r0Wpvihvt8IezwUoh)
+### [Cosmic Country](https://open.spotify.com/playlist/37i9dQZF1DX6sc3Xn6L2DK)
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
+
+106 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/5Ymp5r0Wpvihvt8IezwUoh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

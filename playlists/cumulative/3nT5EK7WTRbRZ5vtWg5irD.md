@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3nT5EK7WTRbRZ5vtWg5irD.md) - cumulative - [plain](/playlists/plain/3nT5EK7WTRbRZ5vtWg5irD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3nT5EK7WTRbRZ5vtWg5irD)
 
-### [1967](https://open.spotify.com/playlist/0gL7H1tl4Gxr9VkueYvdGL)
+### [1967](https://open.spotify.com/playlist/3nT5EK7WTRbRZ5vtWg5irD)
 
 > 
+
+49 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/0gL7H1tl4Gxr9VkueYvdGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

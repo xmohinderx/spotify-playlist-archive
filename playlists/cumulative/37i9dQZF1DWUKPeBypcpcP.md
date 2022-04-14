@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUKPeBypcpcP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUKPeBypcpcP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUKPeBypcpcP)
 
-### [Nature Noise](https://open.spotify.com/playlist/3PEHXXxoI35nN8diF5gcHS)
+### [Nature Noise](https://open.spotify.com/playlist/37i9dQZF1DWUKPeBypcpcP)
 
 > Where nature and white noise meet.
+
+134 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/3PEHXXxoI35nN8diF5gcHS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

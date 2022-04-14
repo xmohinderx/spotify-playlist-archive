@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcGV9sg8bMdx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcGV9sg8bMdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcGV9sg8bMdx)
 
-### [This Is Jane's Addiction \(2\)](https://open.spotify.com/playlist/6aVO3Qq8vxXbcg0PDWFk7D)
+### [This Is Jane's Addiction \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXcGV9sg8bMdx)
 
 > Jane says these are the essentials.
+
+40 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6aVO3Qq8vxXbcg0PDWFk7D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

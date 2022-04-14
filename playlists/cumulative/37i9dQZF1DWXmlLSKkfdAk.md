@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXmlLSKkfdAk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXmlLSKkfdAk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXmlLSKkfdAk)
 
-### [Acoustic Covers](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
+### [Acoustic Covers](https://open.spotify.com/playlist/37i9dQZF1DWXmlLSKkfdAk)
 
 > A fun mix of acoustic covers.
+
+209 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

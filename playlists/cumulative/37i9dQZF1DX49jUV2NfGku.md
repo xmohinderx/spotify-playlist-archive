@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX49jUV2NfGku.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX49jUV2NfGku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX49jUV2NfGku)
 
-### [Rock Solid](https://open.spotify.com/playlist/4pFaQUM5cFSlRBE1ox0Ws5)
+### [Rock Solid](https://open.spotify.com/playlist/37i9dQZF1DX49jUV2NfGku)
 
 > New classics and essential cuts from all your favorite rock bands\. Cover: Foo Fighters
+
+96 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4pFaQUM5cFSlRBE1ox0Ws5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

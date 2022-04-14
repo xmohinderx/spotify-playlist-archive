@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5SrscLLafXx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5SrscLLafXx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5SrscLLafXx)
 
-### [Love In Paris](https://open.spotify.com/playlist/525tUhRC3jLQuC8NFk0Nxr)
+### [Love In Paris](https://open.spotify.com/playlist/37i9dQZF1DX5SrscLLafXx)
 
 > Ah, Paris\. It's easy to see why it's called the city of love.
+
+51 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/525tUhRC3jLQuC8NFk0Nxr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbTYpRASjxaF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbTYpRASjxaF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbTYpRASjxaF)
 
-### [Copão na mão](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
+### [Copão na mão](https://open.spotify.com/playlist/37i9dQZF1DXbTYpRASjxaF)
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Veigh, Kyan
+
+55 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

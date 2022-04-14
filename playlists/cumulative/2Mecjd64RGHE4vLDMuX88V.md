@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2Mecjd64RGHE4vLDMuX88V.md) - cumulative - [plain](/playlists/plain/2Mecjd64RGHE4vLDMuX88V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Mecjd64RGHE4vLDMuX88V)
 
-### [Top Picks Events](https://open.spotify.com/playlist/6YwludBaZdq8l6W86AzOAb)
+### [Top Picks Events](https://open.spotify.com/playlist/2Mecjd64RGHE4vLDMuX88V)
 
 > 
+
+19 songs - 1 hr 15 min - [published](https://open.spotify.com/playlist/6YwludBaZdq8l6W86AzOAb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

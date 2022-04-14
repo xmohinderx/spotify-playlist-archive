@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5YTAi6JhwZm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5YTAi6JhwZm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5YTAi6JhwZm)
 
-### [Happy Jazz!](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
+### [Happy Jazz!](https://open.spotify.com/playlist/37i9dQZF1DX5YTAi6JhwZm)
 
 > Happy and swinging jazz.
+
+122 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +40,7 @@
 | [Happy and the Fall](https://open.spotify.com/track/36FSengmFZRJNe0xaY1GGA) | [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2) | [Searching for Jupiter](https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5) | 5:35 | 2021-12-17 |  |
 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 | 2021-12-17 |  |
 | [Home Cookin' \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6QzARXbdztTRu42kQigY96) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:28 | 2021-12-17 |  |
+| [Honey Dripper](https://open.spotify.com/track/0V75nAVrYddcZA41d8MtKn) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:22 | 2022-04-13 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 | 2022-02-03 |  |
 | [HOP](https://open.spotify.com/track/5Irw0xyFo1FB6qD1x8DDcl) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [HOP](https://open.spotify.com/album/3No8sszndBhwqacWUARKAv) | 2:20 | 2021-12-17 | 2022-03-02 |
 | [How it feels pt\. 2](https://open.spotify.com/track/4IBfnogykVhpiDLiQ7OPm0) | [Harald Lassen](https://open.spotify.com/artist/5S7kHKrpKHvzpQSYw9SMx1), [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG) | [How It Feels Pt\. 2](https://open.spotify.com/album/63cCSdLjj0LDiZTP1WhTcB) | 4:26 | 2021-12-17 | 2022-03-02 |
@@ -89,6 +92,7 @@
 | [Rigor Mortez \- Rudy Van Gelder 24\-Bit Mastering/2003 Remaster](https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 6:21 | 2022-01-13 |  |
 | [Rockin' In Rhythm](https://open.spotify.com/track/66OY61byAl0G6vOXHzFKzB) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 4:39 | 2022-02-24 |  |
 | [Running](https://open.spotify.com/track/6XbnOMT8ZYQtombZHv6fDp) | [Jørgen Emborg](https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS) | [Swan Songs](https://open.spotify.com/album/4lMvK2xPVaxRkEtqXUlOh8) | 5:49 | 2021-12-17 |  |
+| [Sing, Sing, Sing](https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Ken Burns Jazz\-Benny Goodman](https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS) | 8:40 | 2022-04-13 |  |
 | [Smile, Stacey \- Remastered](https://open.spotify.com/track/2ssA3VT7tzLDtF1wKgouiX) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 8:06 | 2021-12-17 |  |
 | [Soon](https://open.spotify.com/track/2HyhUHo9i6tsAEjb8Rjvmk) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Soon](https://open.spotify.com/album/2SIpgdBZhwz6fYZ0pGMwcu) | 3:45 | 2021-12-17 | 2022-03-05 |
 | [Star Eyes](https://open.spotify.com/track/03wsijXCWgrIjGaPHy3sTe) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Minor Move \(Expanded Edition\)](https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH) | 8:15 | 2022-03-04 |  |

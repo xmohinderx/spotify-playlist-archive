@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX02pmAaEbu9H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX02pmAaEbu9H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX02pmAaEbu9H)
 
-### [Viaje en Carretera Nostalgia](https://open.spotify.com/playlist/3JzmrCyCRaLhXdH8s8iKXI)
+### [Viaje en Carretera Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DX02pmAaEbu9H)
 
 > Recorre los kilómetros con estos cantables clásicos para el camino.
+
+184 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/3JzmrCyCRaLhXdH8s8iKXI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

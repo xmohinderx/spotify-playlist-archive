@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2UkbeRPWQqZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2UkbeRPWQqZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2UkbeRPWQqZ)
 
-### [Guitar Lullabies](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+### [Guitar Lullabies](https://open.spotify.com/playlist/37i9dQZF1DX2UkbeRPWQqZ)
 
 > Sweet lullabies on guitar for little dreamers.
+
+90 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

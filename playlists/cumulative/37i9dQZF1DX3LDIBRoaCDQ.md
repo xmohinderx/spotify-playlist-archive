@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3LDIBRoaCDQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3LDIBRoaCDQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3LDIBRoaCDQ)
 
-### [Classic Punk](https://open.spotify.com/playlist/7AUlVPNk24dFfEcomcApCH)
+### [Classic Punk](https://open.spotify.com/playlist/37i9dQZF1DX3LDIBRoaCDQ)
 
 > Classic songs that built the foundations of punk.
+
+81 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/7AUlVPNk24dFfEcomcApCH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

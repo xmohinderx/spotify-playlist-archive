@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7GWlXStIq5M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7GWlXStIq5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7GWlXStIq5M)
 
-### [Gamer Gang](https://open.spotify.com/playlist/73qzmtM6uDZBs8ROQmiLzF)
+### [Gamer Gang](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
+
+91 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/73qzmtM6uDZBs8ROQmiLzF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +26,7 @@
 | [Ela Adora Veneno](https://open.spotify.com/track/0pZUtEL4oKQEeI3omlt9dg) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Ela Adora Veneno](https://open.spotify.com/album/2M2ERLeG59UHlyTPRkVZWI) | 3:41 | 2020-10-20 |  |
 | [Ela É Gostosa Pra Caralho](https://open.spotify.com/track/2SkP3MIByz26LEAAQjauhl) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [Não Tem Bacanal na Quarentena](https://open.spotify.com/album/76MTUhdoZaC93BkOmGOhVS) | 3:03 | 2020-10-20 |  |
 | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 | 2020-10-20 |  |
+| [Fuuga](https://open.spotify.com/track/27C3ZWAo3xPFR6rXw2sfHI) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw), [Dj Coala](https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI) | [Fuuga](https://open.spotify.com/album/1hMEnHTNEDjElq7I7SGMuT) | 2:15 | 2020-10-20 |  |
 | [Gangorra](https://open.spotify.com/track/32z2XMNAqSNOB9lAxctyce) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Gangorra](https://open.spotify.com/album/3RT2HCFAmlvkJ6eopeEYR5) | 3:47 | 2020-10-20 |  |
 | [Gatinha](https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Gatinha](https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW) | 3:15 | 2020-10-20 |  |
 | [Glockada](https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Glockada](https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF) | 2:01 | 2020-10-20 |  |
@@ -39,7 +42,7 @@
 | [Kenny G](https://open.spotify.com/track/3MkdA6vwF0ifRl86yzTlJW) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Kenny G](https://open.spotify.com/album/6dXKy9X9o0HpcF0YZjaWOa) | 3:09 | 2020-10-20 |  |
 | [Kyoto](https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Kyoto](https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q) | 3:06 | 2020-10-20 |  |
 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 | 2020-10-20 |  |
-| [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/5MmC9qcCkQPMMb5Ye4l4jA) | 4:21 | 2020-10-20 |  |
+| [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/5MmC9qcCkQPMMb5Ye4l4jA) | 4:21 | 2020-10-20 | 2022-04-14 |
 | [LEAL](https://open.spotify.com/track/5cEZdqWwTQbQ5mfiZJpzps) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ladrão](https://open.spotify.com/album/2Qz6gIPZbP5rNiITj2aFjl) | 3:32 | 2020-10-20 |  |
 | [Lemonade](https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN) | 3:15 | 2020-10-20 |  |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2020-10-20 |  |

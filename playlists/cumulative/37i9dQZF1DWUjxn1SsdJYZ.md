@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUjxn1SsdJYZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUjxn1SsdJYZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUjxn1SsdJYZ)
 
-### [Local Hype](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
 > The best Hip Hop coming out of Australia\. Cover: Say True God?
+
+118 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe1eE6Gj3EKS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe1eE6Gj3EKS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe1eE6Gj3EKS)
 
-### [This Is Jack Johnson](https://open.spotify.com/playlist/3ojf5BR6vEXY49pmq4oml9)
+### [This Is Jack Johnson](https://open.spotify.com/playlist/37i9dQZF1DXe1eE6Gj3EKS)
 
 > Your essential Jack Johnson, all in one playlist.
+
+69 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/3ojf5BR6vEXY49pmq4oml9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

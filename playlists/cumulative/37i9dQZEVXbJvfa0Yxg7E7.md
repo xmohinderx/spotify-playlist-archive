@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJvfa0Yxg7E7.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJvfa0Yxg7E7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJvfa0Yxg7E7)
 
-### [Top 50 \- Norway](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+### [Top 50 \- Norway](https://open.spotify.com/playlist/37i9dQZEVXbJvfa0Yxg7E7)
 
 > Your daily update of the most played tracks right now \- Norway.
+
+594 songs - 1 day 7 hr 16 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

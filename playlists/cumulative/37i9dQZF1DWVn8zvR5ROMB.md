@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVn8zvR5ROMB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVn8zvR5ROMB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVn8zvR5ROMB)
 
-### [New Music Nashville](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+### [New Music Nashville](https://open.spotify.com/playlist/37i9dQZF1DWVn8zvR5ROMB)
 
 > All of the newest country music releases in one playlist!
+
+634 songs - 1 day 10 hr 59 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

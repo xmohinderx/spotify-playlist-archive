@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4ADFgvieTAg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4ADFgvieTAg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4ADFgvieTAg)
 
-### [Amor de teleserie](https://open.spotify.com/playlist/03QQBDDqaY6eMKb3K8wvRK)
+### [Amor de teleserie](https://open.spotify.com/playlist/37i9dQZF1DX4ADFgvieTAg)
 
 > Todo el drama, pero con final feliz.
+
+162 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/03QQBDDqaY6eMKb3K8wvRK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

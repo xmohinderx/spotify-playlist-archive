@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX661EjJOj3Tu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX661EjJOj3Tu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX661EjJOj3Tu)
 
-### [Latin Jazz](https://open.spotify.com/playlist/6qmxQRqQvEVEPIuHCP321g)
+### [Latin Jazz](https://open.spotify.com/playlist/37i9dQZF1DX661EjJOj3Tu)
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
+
+215 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/6qmxQRqQvEVEPIuHCP321g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

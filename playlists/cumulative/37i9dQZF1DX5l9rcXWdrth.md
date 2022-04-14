@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5l9rcXWdrth.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5l9rcXWdrth) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5l9rcXWdrth)
 
-### [Women of Hip\-Hop](https://open.spotify.com/playlist/5CobvX2WaihXg6bR2qXgbE)
+### [Women of Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX5l9rcXWdrth)
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
+
+99 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/5CobvX2WaihXg6bR2qXgbE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

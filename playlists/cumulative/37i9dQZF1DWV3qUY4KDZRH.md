@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV3qUY4KDZRH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV3qUY4KDZRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV3qUY4KDZRH)
 
-### [PRIDE: Los Angeles](https://open.spotify.com/playlist/0xU8ZNY9JRY0CnmJx6Gc6H)
+### [PRIDE: Los Angeles](https://open.spotify.com/playlist/37i9dQZF1DWV3qUY4KDZRH)
 
 > MUNA co\-curate a list of the very best songs from LGBTQQIA+ artists and allies that L.A\. has to offer.
+
+29 songs - 1 hr 40 min - [published](https://open.spotify.com/playlist/0xU8ZNY9JRY0CnmJx6Gc6H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

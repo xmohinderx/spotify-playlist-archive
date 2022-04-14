@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5T5XRP5VmUL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5T5XRP5VmUL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5T5XRP5VmUL)
 
-### [Christmas in Canada](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+### [Christmas in Canada](https://open.spotify.com/playlist/37i9dQZF1DX5T5XRP5VmUL)
 
 > The perfect soundtrack to the holiday season!
+
+179 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

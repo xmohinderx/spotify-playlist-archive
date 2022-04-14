@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6tPTxr8qwRe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6tPTxr8qwRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6tPTxr8qwRe)
 
-### [SALT](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: KiNG MALA
+
+143 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVqJMsgEN0F4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVqJMsgEN0F4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVqJMsgEN0F4)
 
-### [Alt NOW](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
+### [Alt NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
 > The Regrettes along with the top Alternative songs right now.
+
+95 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

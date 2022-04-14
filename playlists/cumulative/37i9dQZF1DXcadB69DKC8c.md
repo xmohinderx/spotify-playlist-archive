@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcadB69DKC8c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcadB69DKC8c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcadB69DKC8c)
 
-### [Tezeta](https://open.spotify.com/playlist/2swQv4ikd7ynpg9c5SZWLm)
+### [Tezeta](https://open.spotify.com/playlist/37i9dQZF1DXcadB69DKC8c)
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
+
+50 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/2swQv4ikd7ynpg9c5SZWLm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

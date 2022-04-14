@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZqbnP2e1SEM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZqbnP2e1SEM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqbnP2e1SEM)
 
-### [Island Anthems](https://open.spotify.com/playlist/2XKOagCBnk79SrhGVVglPo)
+### [Island Anthems](https://open.spotify.com/playlist/37i9dQZF1DWZqbnP2e1SEM)
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
+
+100 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/2XKOagCBnk79SrhGVVglPo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

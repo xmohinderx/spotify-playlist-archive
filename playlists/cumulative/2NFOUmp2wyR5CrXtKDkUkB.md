@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2NFOUmp2wyR5CrXtKDkUkB.md) - cumulative - [plain](/playlists/plain/2NFOUmp2wyR5CrXtKDkUkB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2NFOUmp2wyR5CrXtKDkUkB)
 
-### [1960s Nostalgia](https://open.spotify.com/playlist/491qlCmsR03qN3XsC2mlXc)
+### [1960s Nostalgia](https://open.spotify.com/playlist/2NFOUmp2wyR5CrXtKDkUkB)
 
 > Those were the days, this was the music...
+
+67 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/491qlCmsR03qN3XsC2mlXc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

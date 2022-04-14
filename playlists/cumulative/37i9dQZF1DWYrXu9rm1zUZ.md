@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYrXu9rm1zUZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYrXu9rm1zUZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYrXu9rm1zUZ)
 
-### [This Is Volbeat](https://open.spotify.com/playlist/1tvRbH9HR3hMMekAQISUOa)
+### [This Is Volbeat](https://open.spotify.com/playlist/37i9dQZF1DWYrXu9rm1zUZ)
 
 > Check out the essential tracks by Volbeat.
+
+54 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/1tvRbH9HR3hMMekAQISUOa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

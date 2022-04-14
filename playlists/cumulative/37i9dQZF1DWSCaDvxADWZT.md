@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSCaDvxADWZT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSCaDvxADWZT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSCaDvxADWZT)
 
-### [St\. Patrick's Day 2022](https://open.spotify.com/playlist/6NuDy1yqJIupGY1iTzbTeX)
+### [St\. Patrick's Day 2022](https://open.spotify.com/playlist/37i9dQZF1DWSCaDvxADWZT)
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
+
+108 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/6NuDy1yqJIupGY1iTzbTeX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

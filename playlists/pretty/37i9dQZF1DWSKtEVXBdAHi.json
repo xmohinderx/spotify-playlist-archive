@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTczNzAzNiwwMDAwMDAwMGY4OTU1N2MxNjkzODA4M2Y4MjRlODVjM2ZiZTlmYWVm",
+  "snapshot_id": "MTY0OTg5Nzk0NiwwMDAwMDAwMDBmZjc0MzFkZmQzY2I4YWU4YWYxNzFhZmNiY2ZkNDUy",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/5XaQnx7fQ1IUyVvOwdy94E"
+      },
+      "artists": [
+        {
+          "name": "ARMAN",
+          "url": "https://open.spotify.com/artist/1BLoSM09taerQU26f83fDf"
+        },
+        {
+          "name": "Clavi",
+          "url": "https://open.spotify.com/artist/77co49dyxHjUTnS8UMHw41"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/54rZW5jkApNTZ5FOqU10bU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Compass",
-        "url": "https://open.spotify.com/album/5XaQnx7fQ1IUyVvOwdy94E"
-      },
-      "artists": [
-        {
-          "name": "ARMAN",
-          "url": "https://open.spotify.com/artist/1BLoSM09taerQU26f83fDf"
-        },
-        {
-          "name": "Clavi",
-          "url": "https://open.spotify.com/artist/77co49dyxHjUTnS8UMHw41"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/54rZW5jkApNTZ5FOqU10bU"
     },
     {
       "added_at": "2020-02-18 13:31:30",

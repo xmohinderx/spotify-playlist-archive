@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1hVRardJ30X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1hVRardJ30X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1hVRardJ30X)
 
-### [New Music Friday Latin](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+### [New Music Friday Latin](https://open.spotify.com/playlist/37i9dQZF1DX1hVRardJ30X)
 
 > All\-new releases by Latin artists! Cover: Camila Cabello
+
+833 songs - 1 day 20 hr 9 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +489,7 @@
 | [Millonario](https://open.spotify.com/track/3T0QlrtLXqzDs3L53l3omE) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Millonario](https://open.spotify.com/album/2Ew5EYNKFve7HJMiMFNC5H) | 3:00 | 2022-04-01 | 2022-04-09 |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-03-18 | 2022-03-26 |
 | [Miéntele](https://open.spotify.com/track/3bNR7s47uN8uGcgdr41Lom) | [Yomil](https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Miéntele](https://open.spotify.com/album/7FOcGJPS0y7mu2HWNwq6EZ) | 3:11 | 2022-02-25 | 2022-03-05 |
-| [MMM](https://open.spotify.com/track/6CV95XxSrsqseO63POFNtq) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Soñando en Pr](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:34 | 2022-04-08 |  |
+| [Mmm Mmm](https://open.spotify.com/track/6CV95XxSrsqseO63POFNtq) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Soñando en PR](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:34 | 2022-04-08 |  |
 | [Mmmm](https://open.spotify.com/track/2jleU5RN760PwXvHxIirFs) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO) | [Mmmm](https://open.spotify.com/album/5uYPSbMvOgeJpY6PA9hrdF) | 3:33 | 2022-02-11 | 2022-02-19 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-03-25 | 2022-04-02 |
 | [Momentos](https://open.spotify.com/track/6sZiSaFFIoZz79lNmozkaE) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Momentos](https://open.spotify.com/album/7x63e71jq2qV5RzPLgXaLf) | 3:15 | 2022-04-08 |  |

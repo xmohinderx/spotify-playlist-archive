@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 22085,
+  "num_followers": 22152,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTk1MCwwMDAwMDAwMDE1ZDViZDlkZTRmOWI4MDNlNGY0MGNjMTg3MTBjYTRh",
+  "snapshot_id": "MTY0OTg5ODUzOSwwMDAwMDAwMGI1YmI5ZmMzMmUwZjljZjBlMWZlMzk0YmI4OTkzMzE5",
   "tracks": [
     {
       "added_at": "2022-01-07 17:54:30",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 244000,
       "name": "champagne problems",
       "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -147,18 +147,18 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4"
+      "duration_ms": 219880,
+      "name": "Don't You Worry",
+      "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Home Tapes",
-        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Don't You Worry",
-      "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Melchor Lullaby Hotline Vol. 1",
         "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 193972,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -259,54 +259,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "accidentally told you (demo)",
-        "url": "https://open.spotify.com/album/74HhXdyGSrFwvZTIuorLsZ"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 154250,
-      "name": "accidentally told you - demo",
-      "url": "https://open.spotify.com/track/1VI5k8ZyR8LzTkmoDvR7oP"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-        "url": "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "mirrorball",
-      "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Vanilla (Stairwell Version)",
         "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
       },
@@ -335,6 +287,54 @@
       "duration_ms": 216000,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "accidentally told you (demo)",
+        "url": "https://open.spotify.com/album/74HhXdyGSrFwvZTIuorLsZ"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 154250,
+      "name": "accidentally told you - demo",
+      "url": "https://open.spotify.com/track/1VI5k8ZyR8LzTkmoDvR7oP"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+        "url": "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "mirrorball",
+      "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+        "name": "Simply the Best (From \"Schitt's Creek\")",
+        "url": "https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
         }
       ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
+      "duration_ms": 177918,
+      "name": "Simply the Best (From \"Schitt's Creek\")",
+      "url": "https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Simply the Best (From \"Schitt's Creek\")",
-        "url": "https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu"
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
       "artists": [
         {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 177918,
-      "name": "Simply the Best (From \"Schitt's Creek\")",
-      "url": "https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI"
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 157801,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 213920,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Shoot",
-        "url": "https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 157801,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Chaos In My Court",
-        "url": "https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 180692,
-      "name": "Dancing Alone",
-      "url": "https://open.spotify.com/track/3waZuM6xOriyiAu5tXDOLS"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "there for you",
         "url": "https://open.spotify.com/album/1TvvBHVRmuhlQVxg6569Pi"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Chaos In My Court",
+        "url": "https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 180692,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/3waZuM6xOriyiAu5tXDOLS"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
+        "name": "Grapefruit Season",
+        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 212634,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5RgQixDEabaSuMdeT5Hf7l"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 304279,
       "name": "Delicious Things",
       "url": "https://open.spotify.com/track/6pAfAhSBOeNi5Tw8AfB5RQ"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Grapefruit Season",
-        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 212634,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5RgQixDEabaSuMdeT5Hf7l"
     },
     {
       "added_at": "2022-01-07 17:54:30",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcrFx9OjqPuj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcrFx9OjqPuj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcrFx9OjqPuj)
 
-### [Party Jazz](https://open.spotify.com/playlist/0URm84MB7MMlfi2eP9YKgm)
+### [Party Jazz](https://open.spotify.com/playlist/37i9dQZF1DXcrFx9OjqPuj)
 
 > Get the party started with some uplifting party jazz.
+
+100 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/0URm84MB7MMlfi2eP9YKgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbObFQZ3JLcXt.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbObFQZ3JLcXt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbObFQZ3JLcXt)
 
-### [Top 50 \- Indonesia](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
+### [Top 50 \- Indonesia](https://open.spotify.com/playlist/37i9dQZEVXbObFQZ3JLcXt)
 
 > Your daily update of the most played tracks right now \- Indonesia.
+
+251 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

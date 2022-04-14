@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1UnoGuyf388.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1UnoGuyf388) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1UnoGuyf388)
 
-### [Pop Frequency](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
+### [Pop Frequency](https://open.spotify.com/playlist/37i9dQZF1DX1UnoGuyf388)
 
 > Pop music driving the current, every week\. Cover Bree Runway
+
+107 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

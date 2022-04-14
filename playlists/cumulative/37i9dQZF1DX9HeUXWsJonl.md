@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9HeUXWsJonl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9HeUXWsJonl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9HeUXWsJonl)
 
-### [Tunisia Sounds](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+### [Tunisia Sounds](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
 
 > The sweet sounds of Tunisia.
+
+61 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

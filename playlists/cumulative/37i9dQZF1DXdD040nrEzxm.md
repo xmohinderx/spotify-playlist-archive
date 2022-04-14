@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdD040nrEzxm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdD040nrEzxm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdD040nrEzxm)
 
-### [African Heat Presents..\. Best African Songs of 2021](https://open.spotify.com/playlist/6yGvt4AKJQKkos6TrQLQgc)
+### [African Heat Presents..\. Best African Songs of 2021](https://open.spotify.com/playlist/37i9dQZF1DXdD040nrEzxm)
 
 > Editor's picks: The best African songs of 2021\. Cover: <a href="https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu?si=nFgcQ\_fRQH6RnMN65adARg">LADIPOE</a>
+
+100 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/6yGvt4AKJQKkos6TrQLQgc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

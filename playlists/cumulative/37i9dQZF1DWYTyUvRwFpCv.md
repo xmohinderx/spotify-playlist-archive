@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYTyUvRwFpCv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYTyUvRwFpCv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYTyUvRwFpCv)
 
-### [Dos Íconos: Selena x Jenni Rivera](https://open.spotify.com/playlist/1yp29JzIyqwCrXAjDlArdr)
+### [Dos Íconos: Selena x Jenni Rivera](https://open.spotify.com/playlist/37i9dQZF1DWYTyUvRwFpCv)
 
 > Los grandes éxitos de Selena y Jenni en un mismo lugar.
+
+50 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/1yp29JzIyqwCrXAjDlArdr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4WAExTTn6PI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4WAExTTn6PI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4WAExTTn6PI)
 
-### [Emerging Americana](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
+### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
+
+100 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1pARmsw0z4yebhBtZKxAU0.md) - cumulative - [plain](/playlists/plain/1pARmsw0z4yebhBtZKxAU0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1pARmsw0z4yebhBtZKxAU0)
 
-### [June 10](https://open.spotify.com/playlist/0Wc8HV4c22DDfSsTKqmjcG)
+### [June 10](https://open.spotify.com/playlist/1pARmsw0z4yebhBtZKxAU0)
 
 > 
+
+71 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/0Wc8HV4c22DDfSsTKqmjcG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

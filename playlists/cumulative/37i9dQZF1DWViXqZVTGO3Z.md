@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWViXqZVTGO3Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWViXqZVTGO3Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWViXqZVTGO3Z)
 
-### [Christmas Spirit](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
+
+221 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

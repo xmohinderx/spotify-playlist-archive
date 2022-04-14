@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6e85hOkilRL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6e85hOkilRL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6e85hOkilRL)
 
-### [Country Lullabies](https://open.spotify.com/playlist/2m4pXywMAaN7pHVpz8FeBY)
+### [Country Lullabies](https://open.spotify.com/playlist/37i9dQZF1DX6e85hOkilRL)
 
 > A playlist featuring instrumental lullaby versions of your favorite country tunes.
+
+73 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/2m4pXywMAaN7pHVpz8FeBY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

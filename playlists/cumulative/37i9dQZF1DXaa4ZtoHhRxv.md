@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaa4ZtoHhRxv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaa4ZtoHhRxv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaa4ZtoHhRxv)
 
-### [Country Club](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
+### [Country Club](https://open.spotify.com/playlist/37i9dQZF1DXaa4ZtoHhRxv)
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
+
+110 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

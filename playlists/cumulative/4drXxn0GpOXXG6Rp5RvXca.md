@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4drXxn0GpOXXG6Rp5RvXca.md) - cumulative - [plain](/playlists/plain/4drXxn0GpOXXG6Rp5RvXca) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4drXxn0GpOXXG6Rp5RvXca)
 
-### [Bread & Dub](https://open.spotify.com/playlist/6RupOzfZxDj3kAwi2WBIS4)
+### [Bread & Dub](https://open.spotify.com/playlist/4drXxn0GpOXXG6Rp5RvXca)
 
 > Enjoy your morning to great breakfast dub beats.
+
+24 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/6RupOzfZxDj3kAwi2WBIS4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

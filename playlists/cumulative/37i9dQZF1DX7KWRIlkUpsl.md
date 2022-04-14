@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7KWRIlkUpsl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7KWRIlkUpsl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7KWRIlkUpsl)
 
-### [This Is Maroon 5](https://open.spotify.com/playlist/6Ofp0EBE9ws2oDUdakS608)
+### [This Is Maroon 5](https://open.spotify.com/playlist/37i9dQZF1DX7KWRIlkUpsl)
 
 > From Songs About Jane to JORDI, find their latest releases here!
+
+50 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6Ofp0EBE9ws2oDUdakS608)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Sael.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,171 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,161 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,20 +21,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 11 | [Ni Verte](https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg) | [MATAHONEY](https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ni Verte](https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS) | 3:03 |
 | 12 | [Big Cut](https://open.spotify.com/track/7pin8wDLL57efEYLvOpAAS) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Big Cut](https://open.spotify.com/album/2bHX5Y6PPg1cdgA0JTVZ5j) | 3:14 |
 | 13 | [Water](https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa) | 3:10 |
-| 14 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 |
-| 15 | [Piel](https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Piel](https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2) | 3:29 |
+| 14 | [Piel](https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Piel](https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2) | 3:29 |
+| 15 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 |
 | 16 | [Buen Rato](https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Fe](https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi) | 3:05 |
 | 17 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 18 | [Se Corre la Bola](https://open.spotify.com/track/7MIdTXBR5xOjxl8SOV4XAf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:43 |
-| 19 | [Bambú](https://open.spotify.com/track/0qdcKORnomK1GVPwdTFfZp) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Bambú](https://open.spotify.com/album/7gFnvbdX2Xhag5vd072EAZ) | 2:50 |
-| 20 | [Te Mentiria](https://open.spotify.com/track/5MOF8J0yJVHdKE3gRgpM6r) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Mentiria](https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K) | 3:06 |
-| 21 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 |
-| 22 | [Gira \(El Mundo Gira\)](https://open.spotify.com/track/4Z6CKsJqAKsRi8UFQYaXM7) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Gira \(El Mundo Gira\)](https://open.spotify.com/album/5pqwiGyCURr9bzYQyC6JfQ) | 2:39 |
+| 19 | [Te Mentiria](https://open.spotify.com/track/5MOF8J0yJVHdKE3gRgpM6r) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Mentiria](https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K) | 3:06 |
+| 20 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 |
+| 21 | [Gira \(El Mundo Gira\)](https://open.spotify.com/track/4Z6CKsJqAKsRi8UFQYaXM7) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Gira \(El Mundo Gira\)](https://open.spotify.com/album/5pqwiGyCURr9bzYQyC6JfQ) | 2:39 |
+| 22 | [Bambú](https://open.spotify.com/track/0qdcKORnomK1GVPwdTFfZp) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Bambú](https://open.spotify.com/album/7gFnvbdX2Xhag5vd072EAZ) | 2:50 |
 | 23 | [Magia](https://open.spotify.com/track/1VRh6jQfaiiRkXfdxpjxd2) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Magia](https://open.spotify.com/album/7v8XaZJHFw83xKWjcrZdJR) | 2:56 |
-| 24 | [Mágica](https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Mágica](https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ) | 2:16 |
-| 25 | [Tal Como Soy](https://open.spotify.com/track/5rw5RHbmi7BLGJqpDjbCSr) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Tal Como Soy](https://open.spotify.com/album/7LATzEUfsgsZ7UAw731bGS) | 3:37 |
-| 26 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 |
-| 27 | [Papi No Me Hagas Llorar](https://open.spotify.com/track/04S43sYjrLmZXjxqcU8BxJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Papi No Me Hagas Llorar](https://open.spotify.com/album/7nphArTieJ9uRNuQiH1sIL) | 3:49 |
+| 24 | [Tal Como Soy](https://open.spotify.com/track/5rw5RHbmi7BLGJqpDjbCSr) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Tal Como Soy](https://open.spotify.com/album/7LATzEUfsgsZ7UAw731bGS) | 3:37 |
+| 25 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 |
+| 26 | [Papi No Me Hagas Llorar](https://open.spotify.com/track/04S43sYjrLmZXjxqcU8BxJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Papi No Me Hagas Llorar](https://open.spotify.com/album/7nphArTieJ9uRNuQiH1sIL) | 3:49 |
+| 27 | [Mágica](https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Mágica](https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ) | 2:16 |
 | 28 | [Gris](https://open.spotify.com/track/54TITTIjdmIbHH0eZM0uRi) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Charlie Guns](https://open.spotify.com/artist/1svCFZxt0Qei4VMSkelVBa) | [Gris](https://open.spotify.com/album/2JepnySF2k8h15YQ9wPA3h) | 3:26 |
 | 29 | [Emocional \(feat\. Marlku\)](https://open.spotify.com/track/21wToWcFmf43bfuLHqDRls) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Emocional](https://open.spotify.com/album/6TrcWCUDZuWU3Sf6YqHZAV) | 2:52 |
 | 30 | [La Casualidad](https://open.spotify.com/track/3rqoDD2GJTpde3VO83T0LY) | [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [La Casualidad](https://open.spotify.com/album/0uj09wSpaUp58kWvYnZ7tw) | 3:39 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 39 | [Pa Brillar](https://open.spotify.com/track/2hLYw0CXY5uTXk5jwFOdYI) | [APHELIA](https://open.spotify.com/artist/0wi4BjYbEeecnYvhQtvwi3), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Pa Brillar](https://open.spotify.com/album/2YevHM1xhh11dwoZqiQ6kQ) | 3:02 |
 | 40 | [No Me Conocen](https://open.spotify.com/track/2wiAf96qTYdqPpXouFLWFs) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [No Me Conocen](https://open.spotify.com/album/74hjTdZ6VJuKBGKcSQbinu) | 2:24 |
 
-Snapshot ID: `MTY0OTgxMTgzNSwwMDAwMDAwMGU3OThiM2FjM2ZiMWRjZGFlOGE3MWNkZjcyZWI0N2I3`
+Snapshot ID: `MTY0OTg5ODQyOSwwMDAwMDAwMDhkMjhlY2EzMzVhYWNmYTRhYTM2Njg5YTBiMTkxNDRk`

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5pxi1UkDk0BbUPDTPjmi4v.md) - cumulative - [plain](/playlists/plain/5pxi1UkDk0BbUPDTPjmi4v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5pxi1UkDk0BbUPDTPjmi4v)
 
-### [Graduation](https://open.spotify.com/playlist/24oxbIyGOJ1OSC5jAbIJgp)
+### [Graduation](https://open.spotify.com/playlist/5pxi1UkDk0BbUPDTPjmi4v)
 
 > Here's to cherishing lifelong friends, remembering the good times, and celebrating the end of an era!
+
+40 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/24oxbIyGOJ1OSC5jAbIJgp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

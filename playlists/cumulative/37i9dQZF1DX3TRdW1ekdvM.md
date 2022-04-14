@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3TRdW1ekdvM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3TRdW1ekdvM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3TRdW1ekdvM)
 
-### [REM sleep](https://open.spotify.com/playlist/0k7IQIk85I1l06fbIplDhu)
+### [REM sleep](https://open.spotify.com/playlist/37i9dQZF1DX3TRdW1ekdvM)
 
 > Perfect sleep riding Theta brain waves\. It's Science, it works!
+
+45 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/0k7IQIk85I1l06fbIplDhu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX79Q60SopbIW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX79Q60SopbIW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX79Q60SopbIW)
 
-### [This Is The Flaming Lips](https://open.spotify.com/playlist/0uLD91wq5dz9FhLSt7bVSc)
+### [This Is The Flaming Lips](https://open.spotify.com/playlist/37i9dQZF1DX79Q60SopbIW)
 
 > Get deep into The Flaming Lips with this career\-spanning playlist.
+
+49 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/0uLD91wq5dz9FhLSt7bVSc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

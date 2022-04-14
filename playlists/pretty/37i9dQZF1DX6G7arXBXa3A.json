@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 365289,
+  "num_followers": 365326,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTgxOCwwMDAwMDAwMGY4ODQ3Njg2MTc1OGMwOWM4NzcxOWJmZDU3NTZkYTdk",
+  "snapshot_id": "MTY0OTg5ODQxMiwwMDAwMDAwMDU5NTJmYjMzMTYyMmEwNDFlZTk2NWJlNzMwMTUzN2Ji",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 147066,
       "name": "I Could Write a Book",
       "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "In a Jazz Orbit",
-        "url": "https://open.spotify.com/album/06DUmNXYFPfGSIRQIXjqEc"
-      },
-      "artists": [
-        {
-          "name": "Bill Holman",
-          "url": "https://open.spotify.com/artist/0Ouo7BAL9KvlpA8YcR7JFI"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/7HKuUa0uhJpJO466jtCnrg"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/4nnrb8iMCWDNkgP9ibskgI"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 175733,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/5s9wI2Jijxp5sDyL9ltKmR"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "In a Jazz Orbit",
+        "url": "https://open.spotify.com/album/06DUmNXYFPfGSIRQIXjqEc"
+      },
+      "artists": [
+        {
+          "name": "Bill Holman",
+          "url": "https://open.spotify.com/artist/0Ouo7BAL9KvlpA8YcR7JFI"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/7HKuUa0uhJpJO466jtCnrg"
     },
     {
       "added_at": "2020-03-06 16:28:56",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXIPSKePHmRn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXIPSKePHmRn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXIPSKePHmRn)
 
-### [This Is Sharon Jones](https://open.spotify.com/playlist/54iKo4uLPtXlCh2nwASBo8)
+### [This Is Sharon Jones](https://open.spotify.com/playlist/37i9dQZF1DWXIPSKePHmRn)
 
 > Remembering the amazing <a href="spotify:artist:6LufpoVlIYKQCu9Gjpk8B7">artist</a> \(1956–2016\)\. You will be missed.
+
+30 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/54iKo4uLPtXlCh2nwASBo8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

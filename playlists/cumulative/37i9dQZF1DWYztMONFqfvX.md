@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYztMONFqfvX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYztMONFqfvX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYztMONFqfvX)
 
-### [This Is Arijit Singh](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
+### [This Is Arijit Singh](https://open.spotify.com/playlist/37i9dQZF1DWYztMONFqfvX)
 
 > The Bollywood crooner's best songs.
+
+74 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

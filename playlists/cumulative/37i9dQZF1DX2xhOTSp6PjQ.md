@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2xhOTSp6PjQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2xhOTSp6PjQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2xhOTSp6PjQ)
 
-### [Maskandi Favourites](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
+### [Maskandi Favourites](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
+
+50 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

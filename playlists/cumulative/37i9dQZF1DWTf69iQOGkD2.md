@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTf69iQOGkD2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTf69iQOGkD2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTf69iQOGkD2)
 
-### [Rap Acústico](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
+### [Rap Acústico](https://open.spotify.com/playlist/37i9dQZF1DWTf69iQOGkD2)
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: BIN, Vitão
+
+80 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

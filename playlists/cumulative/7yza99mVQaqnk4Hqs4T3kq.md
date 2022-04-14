@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7yza99mVQaqnk4Hqs4T3kq.md) - cumulative - [plain](/playlists/plain/7yza99mVQaqnk4Hqs4T3kq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7yza99mVQaqnk4Hqs4T3kq)
 
-### [New Wave Of British Heavy Metal](https://open.spotify.com/playlist/3jVWsUAqcZeqeWa4ySQcyn)
+### [New Wave Of British Heavy Metal](https://open.spotify.com/playlist/7yza99mVQaqnk4Hqs4T3kq)
 
 > Companion playlist for the Metallica documentaries.
+
+30 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/3jVWsUAqcZeqeWa4ySQcyn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

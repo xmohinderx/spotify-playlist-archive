@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc8dqv8mDRBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc8dqv8mDRBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc8dqv8mDRBy)
 
-### [Bienvenido a la Friendzone](https://open.spotify.com/playlist/6zwOwkn8jYbaNjGrktCDGR)
+### [Bienvenido a la Friendzone](https://open.spotify.com/playlist/37i9dQZF1DXc8dqv8mDRBy)
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
+
+61 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/6zwOwkn8jYbaNjGrktCDGR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

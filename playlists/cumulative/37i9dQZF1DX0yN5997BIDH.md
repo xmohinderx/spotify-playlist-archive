@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0yN5997BIDH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0yN5997BIDH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0yN5997BIDH)
 
-### [Tarea Casual](https://open.spotify.com/playlist/6RF1E793gGxvwvWp2MLyJS)
+### [Tarea Casual](https://open.spotify.com/playlist/37i9dQZF1DX0yN5997BIDH)
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
+
+132 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/6RF1E793gGxvwvWp2MLyJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

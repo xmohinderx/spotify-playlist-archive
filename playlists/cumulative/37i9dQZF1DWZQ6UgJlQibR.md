@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZQ6UgJlQibR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZQ6UgJlQibR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZQ6UgJlQibR)
 
-### [Tarab](https://open.spotify.com/playlist/7s0WHDm1xGgwzCT0C6gGrJ)
+### [Tarab](https://open.spotify.com/playlist/37i9dQZF1DWZQ6UgJlQibR)
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
+
+40 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/7s0WHDm1xGgwzCT0C6gGrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

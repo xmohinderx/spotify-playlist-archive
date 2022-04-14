@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX26cFbtLr0Wn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX26cFbtLr0Wn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX26cFbtLr0Wn)
 
-### [Modern Poetry](https://open.spotify.com/playlist/26UbNA7N6xJsJ26dOu9rse)
+### [Modern Poetry](https://open.spotify.com/playlist/37i9dQZF1DX26cFbtLr0Wn)
 
 > Selections of modern and contemporary poetry, featuring readings from the poets themselves.
+
+170 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/26UbNA7N6xJsJ26dOu9rse)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

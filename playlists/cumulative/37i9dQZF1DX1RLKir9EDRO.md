@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1RLKir9EDRO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1RLKir9EDRO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1RLKir9EDRO)
 
-### [Fresh Finds Türkiye](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Dozi Ozovski Çizim: Isu Kim
+
+183 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

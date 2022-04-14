@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3cC0Hnr7idCemR4JxOh2lI.md) - cumulative - [plain](/playlists/plain/3cC0Hnr7idCemR4JxOh2lI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3cC0Hnr7idCemR4JxOh2lI)
 
-### [Folk & Rock 200 favoriter](https://open.spotify.com/playlist/38XOf6V8VzyGUZlKrY3e4M)
+### [Folk & Rock 200 favoriter](https://open.spotify.com/playlist/3cC0Hnr7idCemR4JxOh2lI)
 
 > Borlängeprofilen Ingemar Magnusson, som till vardags driver skivbutiken Folk å Rock, listar sina 200 favoritlåtar\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
+
+200 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/38XOf6V8VzyGUZlKrY3e4M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

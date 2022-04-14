@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZMWLrh2UzwC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZMWLrh2UzwC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZMWLrh2UzwC)
 
-### [New Music Friday Malaysia](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
 > The best newly released songs of the week\. Cover: Charlie Puth
+
+1,240 songs - 2 day 20 hr 15 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

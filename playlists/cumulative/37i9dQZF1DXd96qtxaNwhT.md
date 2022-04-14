@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd96qtxaNwhT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd96qtxaNwhT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd96qtxaNwhT)
 
-### [Peaceful Pop](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+### [Peaceful Pop](https://open.spotify.com/playlist/37i9dQZF1DXd96qtxaNwhT)
 
 > Soak up the serenity with these beautiful melodies.
+
+392 songs - 22 hr 9 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

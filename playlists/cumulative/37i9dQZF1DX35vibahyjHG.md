@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX35vibahyjHG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35vibahyjHG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35vibahyjHG)
 
-### [EQUAL Africa](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
+### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=NUkyaTHqSXKn6rO\-lrJrZA"> Nomfundo Moh </a>
+
+92 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

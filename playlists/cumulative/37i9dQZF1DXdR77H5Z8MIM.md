@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdR77H5Z8MIM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdR77H5Z8MIM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdR77H5Z8MIM)
 
-### [Nolja!](https://open.spotify.com/playlist/39wzMqbKWozYJSfwexJqx9)
+### [Nolja!](https://open.spotify.com/playlist/37i9dQZF1DXdR77H5Z8MIM)
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: TWICE
+
+239 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/39wzMqbKWozYJSfwexJqx9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

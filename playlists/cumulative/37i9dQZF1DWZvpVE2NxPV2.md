@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZvpVE2NxPV2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZvpVE2NxPV2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZvpVE2NxPV2)
 
-### [Hatha Yoga](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
+### [Hatha Yoga](https://open.spotify.com/playlist/37i9dQZF1DWZvpVE2NxPV2)
 
 > Peaceful ambient for mind body connection.
+
+86 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

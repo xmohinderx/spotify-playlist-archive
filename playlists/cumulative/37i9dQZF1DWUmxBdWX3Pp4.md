@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUmxBdWX3Pp4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUmxBdWX3Pp4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUmxBdWX3Pp4)
 
-### [TRAPPERZ](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
+### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
 
-> Éxitos del Trap Latino\. Foto: Rels B.
+> Éxitos del Trap Latino\. Foto: KHEA.
+
+137 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +37,7 @@
 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 | 2022-03-04 |  |
 | [Cuando Toca Toca](https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Cuando Toca Toca](https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj) | 3:04 | 2021-12-06 |  |
 | [Cucaracha](https://open.spotify.com/track/3Lkt1xGzHXV6bEsmtJNEyn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:29 | 2021-12-06 | 2022-03-26 |
-| [CUENTA](https://open.spotify.com/track/57JxDNtEe4iDhKFiwQT6Uo) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CUENTA](https://open.spotify.com/album/4HKm0BAbVpTdwb1dru6uem) | 2:36 | 2021-12-06 |  |
+| [CUENTA](https://open.spotify.com/track/57JxDNtEe4iDhKFiwQT6Uo) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CUENTA](https://open.spotify.com/album/4HKm0BAbVpTdwb1dru6uem) | 2:36 | 2021-12-06 | 2022-04-14 |
 | [Cómo Te Explico?](https://open.spotify.com/track/2ouBjgKseCiYoGBAJm3S7B) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Cómo Te Explico?](https://open.spotify.com/album/5LaLUUh2nUdBK8DoNSgX1n) | 2:42 | 2022-04-04 |  |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-12-06 |  |
 | [Dejar Atrás / Rompe Corazones](https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 4:05 | 2021-12-06 |  |
@@ -141,6 +143,7 @@
 | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo) | 3:33 | 2021-12-06 | 2022-03-05 |
 | [Ya volví](https://open.spotify.com/track/5DWdfSyrocFlZtav2HFwXF) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Ya volví](https://open.spotify.com/album/2ib9VdF1InoqJjfMFftIVS) | 3:13 | 2022-03-11 | 2022-03-26 |
 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 | 2021-12-06 |  |
+| [Young Flex](https://open.spotify.com/track/2C4f6LeM7Io332EuMbDGIT) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Young Flex](https://open.spotify.com/album/5Y2GbPfqARt1tXJ5O7ZWUR) | 2:41 | 2022-04-13 |  |
 | [Zona Pistola](https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Zona Pistola](https://open.spotify.com/album/6S9WkhYhjNzBYhkDDqH1Qf) | 2:56 | 2022-02-04 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

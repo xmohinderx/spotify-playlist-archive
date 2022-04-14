@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4FcAKI5Nhzq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4FcAKI5Nhzq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4FcAKI5Nhzq)
 
-### [K\-Pop Rising](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
 > Future K\-Pop hits! Cover: DKZ
+
+544 songs - 1 day 6 hr 31 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

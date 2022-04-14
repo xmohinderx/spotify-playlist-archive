@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWViBxWcYEI1b.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWViBxWcYEI1b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWViBxWcYEI1b)
 
-### [Contemporary Blend](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+### [Contemporary Blend](https://open.spotify.com/playlist/37i9dQZF1DWViBxWcYEI1b)
 
 > For those with a taste for both the new and the classic\. Cover: Maggie Rogers
+
+229 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

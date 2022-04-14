@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLoATJ81JYXz.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLoATJ81JYXz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLoATJ81JYXz)
 
-### [Top 50 \- Sweden](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+### [Top 50 \- Sweden](https://open.spotify.com/playlist/37i9dQZEVXbLoATJ81JYXz)
 
 > Your daily update of the most played tracks right now \- Sweden.
+
+729 songs - 1 day 14 hr 58 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

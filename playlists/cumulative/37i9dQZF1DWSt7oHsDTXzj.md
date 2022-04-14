@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSt7oHsDTXzj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSt7oHsDTXzj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSt7oHsDTXzj)
 
-### [Indie Christmas](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+### [Indie Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSt7oHsDTXzj)
 
 > The ultimate seasonal \(indie\) playlist.
+
+131 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

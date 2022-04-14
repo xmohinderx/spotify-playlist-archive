@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2lenzaqw2vs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2lenzaqw2vs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2lenzaqw2vs)
 
-### [Latin Pride](https://open.spotify.com/playlist/5YJ4toIxNRIrBELWHX0e5E)
+### [Latin Pride](https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs)
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: YADAM
+
+104 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/5YJ4toIxNRIrBELWHX0e5E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

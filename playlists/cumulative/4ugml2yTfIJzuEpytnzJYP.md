@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4ugml2yTfIJzuEpytnzJYP.md) - cumulative - [plain](/playlists/plain/4ugml2yTfIJzuEpytnzJYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ugml2yTfIJzuEpytnzJYP)
 
-### [An\-Ten\-Nae \- Weekly Medicine \(DEEP BASS \- DUBSTEP \- VIBES\)](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+### [An\-Ten\-Nae \- Weekly Medicine \(DEEP BASS \- DUBSTEP \- VIBES\)](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
+
+82 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

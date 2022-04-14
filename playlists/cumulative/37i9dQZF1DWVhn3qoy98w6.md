@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVhn3qoy98w6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVhn3qoy98w6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVhn3qoy98w6)
 
-### [Fresh Finds España](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
+### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Tina Pámpano
+
+395 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

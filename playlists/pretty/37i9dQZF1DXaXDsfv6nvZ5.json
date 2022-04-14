@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 693318,
+  "num_followers": 693396,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTk2NCwwMDAwMDAwMGZjZTlhMDczZWIxNDJiNjYyMmU3MTZhMjQ5OGVjYWUx",
+  "snapshot_id": "MTY0OTg5ODU1MywwMDAwMDAwMDI2NjViMTRkNjQ5MGQ3M2FhMzkyOWYxM2FhMDI1MzFh",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 256542,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
         "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 175319,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 256542,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
     },
     {
       "added_at": "2022-03-11 05:00:00",

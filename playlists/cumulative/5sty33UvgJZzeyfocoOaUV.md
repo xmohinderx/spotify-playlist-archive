@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5sty33UvgJZzeyfocoOaUV.md) - cumulative - [plain](/playlists/plain/5sty33UvgJZzeyfocoOaUV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5sty33UvgJZzeyfocoOaUV)
 
-### [\#MakeitHappen](https://open.spotify.com/playlist/2NfnKhwSG039yzdfwNKw71)
+### [\#MakeitHappen](https://open.spotify.com/playlist/5sty33UvgJZzeyfocoOaUV)
 
 > Get the most out of your day and \#makeithappen.
+
+30 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/2NfnKhwSG039yzdfwNKw71)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

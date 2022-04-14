@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaUR9QvMCPsb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaUR9QvMCPsb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaUR9QvMCPsb)
 
-### [The Beats](https://open.spotify.com/playlist/2ZwMw7TFbY9YtY1eo3JL3Z)
+### [The Beats](https://open.spotify.com/playlist/37i9dQZF1DXaUR9QvMCPsb)
 
 > Readings from some of the best minds of the beat generation.
+
+211 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/2ZwMw7TFbY9YtY1eo3JL3Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

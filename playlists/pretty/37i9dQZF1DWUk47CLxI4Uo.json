@@ -1,12 +1,12 @@
 {
   "description": "Instrumental only. For the maniacs out there. Cover: pg.lost",
-  "num_followers": 249908,
+  "num_followers": 250058,
   "original_name": "Instrumental Madness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQxMiwwMDAwMDAwMGU0NTIxODBmMmY0OTA2ZGEwZjVmNGEwZDY4NzliYTE2",
+  "snapshot_id": "MTY0OTg5ODAyNSwwMDAwMDAwMDYyN2M5OGIxOTZkOTI3M2YxMDk3YWQ5ODRhMTc2NTNl",
   "tracks": [
     {
       "added_at": "2021-07-28 13:21:42",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-07-28 13:21:42",
       "album": {
+        "name": "The Way Forward",
+        "url": "https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU"
+      },
+      "artists": [
+        {
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Touch and Go",
+      "url": "https://open.spotify.com/track/3nDOvQvA8iPamdULGubIQE"
+    },
+    {
+      "added_at": "2021-07-28 13:21:42",
+      "album": {
         "name": "The Instrumentals",
         "url": "https://open.spotify.com/album/3E13XWEBDe4il8vgrWbfbX"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 301397,
       "name": "New Air",
       "url": "https://open.spotify.com/track/5d7mgCyxijA9CRGVHwAeMJ"
-    },
-    {
-      "added_at": "2021-07-28 13:21:42",
-      "album": {
-        "name": "The Way Forward",
-        "url": "https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU"
-      },
-      "artists": [
-        {
-          "name": "Intervals",
-          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Touch and Go",
-      "url": "https://open.spotify.com/track/3nDOvQvA8iPamdULGubIQE"
     },
     {
       "added_at": "2021-07-28 13:21:42",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-07-28 13:21:42",
       "album": {
+        "name": "Paratyphoid Fever",
+        "url": "https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "duration_ms": 397613,
+      "name": "Paratyphoid Fever",
+      "url": "https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd"
+    },
+    {
+      "added_at": "2021-07-28 13:21:42",
+      "album": {
         "name": "Boundless",
         "url": "https://open.spotify.com/album/0PPEx5fIfCQesfyebojcvH"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 230222,
       "name": "Alfa",
       "url": "https://open.spotify.com/track/2GXNAVESi3Ncv8CumNOljv"
-    },
-    {
-      "added_at": "2021-07-28 13:21:42",
-      "album": {
-        "name": "Paratyphoid Fever",
-        "url": "https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ"
-      },
-      "artists": [
-        {
-          "name": "Tides From Nebula",
-          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
-        }
-      ],
-      "duration_ms": 397613,
-      "name": "Paratyphoid Fever",
-      "url": "https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd"
     },
     {
       "added_at": "2021-07-28 13:21:42",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-07-28 13:21:42",
       "album": {
-        "name": "The Inevitable End",
-        "url": "https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0"
-      },
-      "artists": [
-        {
-          "name": "Etherius",
-          "url": "https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "The Inevitable End",
-      "url": "https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ"
-    },
-    {
-      "added_at": "2021-07-28 13:21:42",
-      "album": {
         "name": "Tabula Rasa",
         "url": "https://open.spotify.com/album/2CZ9tJdRdhw4HeH6s9GaOQ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 274800,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/2HTMy5d7fLNlWBIINGEOkK"
+    },
+    {
+      "added_at": "2021-07-28 13:21:42",
+      "album": {
+        "name": "The Inevitable End",
+        "url": "https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0"
+      },
+      "artists": [
+        {
+          "name": "Etherius",
+          "url": "https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "The Inevitable End",
+      "url": "https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ"
     },
     {
       "added_at": "2021-07-28 13:21:42",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-07-28 13:21:42",
       "album": {
-        "name": "Chaos. Order. Renewal.",
-        "url": "https://open.spotify.com/album/2nkXL3bfEip5LpyIn9oUxj"
-      },
-      "artists": [
-        {
-          "name": "Etherius",
-          "url": "https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "The Eye of Ra",
-      "url": "https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa"
-    },
-    {
-      "added_at": "2021-07-28 13:21:42",
-      "album": {
         "name": "5-HTP",
         "url": "https://open.spotify.com/album/4Vsv078oiNKKaBTlD4Xu6M"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 256026,
       "name": "It's Raining on the Moon, Pt. 1",
       "url": "https://open.spotify.com/track/5K8hsK21BinXBIqrSeEC2L"
+    },
+    {
+      "added_at": "2021-07-28 13:21:42",
+      "album": {
+        "name": "Chaos. Order. Renewal.",
+        "url": "https://open.spotify.com/album/2nkXL3bfEip5LpyIn9oUxj"
+      },
+      "artists": [
+        {
+          "name": "Etherius",
+          "url": "https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "The Eye of Ra",
+      "url": "https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa"
     },
     {
       "added_at": "2021-07-28 13:21:42",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-07-28 13:21:42",
       "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/6GNLsuuFan7tHJxHPqW2V2"
-      },
-      "artists": [
-        {
-          "name": "Arch Echo",
-          "url": "https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "To the Moon",
-      "url": "https://open.spotify.com/track/4gmH73AYOhokTH7YmZAZvM"
-    },
-    {
-      "added_at": "2021-07-28 13:21:42",
-      "album": {
         "name": "SY",
         "url": "https://open.spotify.com/album/06bbY7KesJd8be5vQOMBxw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 152642,
       "name": "Wouldst Thou Like to Live Deliciously? - Live",
       "url": "https://open.spotify.com/track/6hCpzW3IHokg4JMoY883I3"
+    },
+    {
+      "added_at": "2021-07-28 13:21:42",
+      "album": {
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/6GNLsuuFan7tHJxHPqW2V2"
+      },
+      "artists": [
+        {
+          "name": "Arch Echo",
+          "url": "https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "To the Moon",
+      "url": "https://open.spotify.com/track/4gmH73AYOhokTH7YmZAZvM"
     },
     {
       "added_at": "2021-07-28 13:21:42",

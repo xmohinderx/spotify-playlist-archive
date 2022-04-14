@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0BXZJ6BiA151CzaMcTKPMN.md) - cumulative - [plain](/playlists/plain/0BXZJ6BiA151CzaMcTKPMN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0BXZJ6BiA151CzaMcTKPMN)
 
-### [2011](https://open.spotify.com/playlist/1mfq8nwdjIezY1MmAiP26B)
+### [2011](https://open.spotify.com/playlist/0BXZJ6BiA151CzaMcTKPMN)
 
 > 
+
+50 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/1mfq8nwdjIezY1MmAiP26B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

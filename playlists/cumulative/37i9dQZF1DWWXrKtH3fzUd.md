@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWXrKtH3fzUd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWXrKtH3fzUd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWXrKtH3fzUd)
 
-### [Floorfillers](https://open.spotify.com/playlist/1AA4UMyoniomo3EBnKv1jr)
+### [Floorfillers](https://open.spotify.com/playlist/37i9dQZF1DWWXrKtH3fzUd)
 
 > Automatic floorfillers\. A DJ's best friend.
+
+115 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/1AA4UMyoniomo3EBnKv1jr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXIrropGBmnR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXIrropGBmnR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXIrropGBmnR)
 
-### [Strings for Sleeping](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
+### [Strings for Sleeping](https://open.spotify.com/playlist/37i9dQZF1DWXIrropGBmnR)
 
 > Calm and soothing strings for sleeping.
+
+75 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

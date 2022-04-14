@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8jpyvTAre41.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8jpyvTAre41) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8jpyvTAre41)
 
-### [Rock Your Block](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+### [Rock Your Block](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
 > The hottest tunes in rock\. Crank it up! Cover: LØLØ
+
+247 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

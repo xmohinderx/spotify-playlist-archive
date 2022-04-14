@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2uk5oHRWimT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2uk5oHRWimT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2uk5oHRWimT)
 
-### [Acoustic Christmas](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
+### [Acoustic Christmas](https://open.spotify.com/playlist/37i9dQZF1DX2uk5oHRWimT)
 
 > Have yourself a little cozy Christmas.
+
+131 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

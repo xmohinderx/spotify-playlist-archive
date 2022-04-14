@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2ULa1Ss8vbo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo)
 
-### [Irish Folk \- Ballads](https://open.spotify.com/playlist/0KDUll3BlUZ8Z5ArCYrr7l)
+### [Irish Folk \- Ballads](https://open.spotify.com/playlist/37i9dQZF1DX2ULa1Ss8vbo)
 
 > Songs from the old country: the essential traditional Irish ballads.
+
+50 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/0KDUll3BlUZ8Z5ArCYrr7l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

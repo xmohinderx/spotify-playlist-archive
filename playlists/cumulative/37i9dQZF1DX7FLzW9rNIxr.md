@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7FLzW9rNIxr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7FLzW9rNIxr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FLzW9rNIxr)
 
-### [This Is London Grammar](https://open.spotify.com/playlist/41wFOtNkApkTfV7lmk73Au)
+### [This Is London Grammar](https://open.spotify.com/playlist/37i9dQZF1DX7FLzW9rNIxr)
 
 > They have not been wasting their young years \- they have been making some of the most beautiful music in the world.
+
+31 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/41wFOtNkApkTfV7lmk73Au)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

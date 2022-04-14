@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7b1rMSnmiYfj8nH8spIjxF.md) - cumulative - [plain](/playlists/plain/7b1rMSnmiYfj8nH8spIjxF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7b1rMSnmiYfj8nH8spIjxF)
 
-### [Urkult 2012](https://open.spotify.com/playlist/7HsngfErmC6abTVUnyZ4Kr)
+### [Urkult 2012](https://open.spotify.com/playlist/7b1rMSnmiYfj8nH8spIjxF)
 
 > Första helgen i augusti går folk\- och världsmusikfestivalen Urkult av stapeln för 18:e året i rad\. 2 \- 4 augusti är datumen för sommarens upplaga\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
+
+18 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/7HsngfErmC6abTVUnyZ4Kr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

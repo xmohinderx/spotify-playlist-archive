@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9sIqqvKsjG8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9sIqqvKsjG8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9sIqqvKsjG8)
 
-### [Instrumental Study](https://open.spotify.com/playlist/4z9zMoxN01IrpIcoI15ekY)
+### [Instrumental Study](https://open.spotify.com/playlist/37i9dQZF1DX9sIqqvKsjG8)
 
 > A soft musical backdrop for your studies.
+
+500 songs - 21 hr 39 min - [published](https://open.spotify.com/playlist/4z9zMoxN01IrpIcoI15ekY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

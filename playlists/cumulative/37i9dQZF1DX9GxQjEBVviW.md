@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9GxQjEBVviW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9GxQjEBVviW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GxQjEBVviW)
 
-### [Doo\-Wop Dee Doo](https://open.spotify.com/playlist/2rBoCOPkSalXiItTwp0w7v)
+### [Doo\-Wop Dee Doo](https://open.spotify.com/playlist/37i9dQZF1DX9GxQjEBVviW)
 
 > ​Boogie along to doo\-wop's greatest hits.
+
+64 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/2rBoCOPkSalXiItTwp0w7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

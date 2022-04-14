@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1m6DKwKNM1YLcm3OX6RzJg.md) - cumulative - [plain](/playlists/plain/1m6DKwKNM1YLcm3OX6RzJg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1m6DKwKNM1YLcm3OX6RzJg)
 
-### [Kvinnor att ha koll på 2014](https://open.spotify.com/playlist/12ULcUeryTX9L62IjU8aNs)
+### [Kvinnor att ha koll på 2014](https://open.spotify.com/playlist/1m6DKwKNM1YLcm3OX6RzJg)
 
 > Upptäck svenska talanger som kommer att vara soundtracket till ditt 2014\.  En spellista som ständigt uppdateras.
+
+63 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/12ULcUeryTX9L62IjU8aNs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

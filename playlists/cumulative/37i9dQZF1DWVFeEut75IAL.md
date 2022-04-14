@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVFeEut75IAL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVFeEut75IAL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVFeEut75IAL)
 
-### [Calming Classical](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
+### [Calming Classical](https://open.spotify.com/playlist/37i9dQZF1DWVFeEut75IAL)
 
 > The most calming classical music.
+
+76 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

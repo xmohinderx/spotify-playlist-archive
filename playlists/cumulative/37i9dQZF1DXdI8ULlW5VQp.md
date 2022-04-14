@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdI8ULlW5VQp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdI8ULlW5VQp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdI8ULlW5VQp)
 
-### [Cantamores](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+### [Cantamores](https://open.spotify.com/playlist/37i9dQZF1DXdI8ULlW5VQp)
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. En portada: Charlie Rodd & Leo Rizzi.
+
+97 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

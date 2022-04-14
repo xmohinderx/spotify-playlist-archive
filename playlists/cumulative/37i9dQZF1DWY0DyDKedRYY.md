@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY0DyDKedRYY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY0DyDKedRYY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY0DyDKedRYY)
 
-### [RADAR US \- Artists to Watch](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+### [RADAR US \- Artists to Watch](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
 > All the new artists and songs to watch in 2022, handpicked by our curators\. Featuring Yahritza y Su Esencia on the cover.
+
+132 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

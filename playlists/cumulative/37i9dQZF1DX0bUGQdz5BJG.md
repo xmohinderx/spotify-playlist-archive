@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0bUGQdz5BJG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0bUGQdz5BJG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0bUGQdz5BJG)
 
-### [Next From Nashville](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
 > Music City must\-hears\. Cover: Caitlyn Smith
+
+424 songs - 22 hr 56 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

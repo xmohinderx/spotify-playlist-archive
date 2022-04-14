@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ0OzPeadl0h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ0OzPeadl0h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ0OzPeadl0h)
 
-### [Lush + Ethereal](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+### [Lush + Ethereal](https://open.spotify.com/playlist/37i9dQZF1DWZ0OzPeadl0h)
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
+
+108 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

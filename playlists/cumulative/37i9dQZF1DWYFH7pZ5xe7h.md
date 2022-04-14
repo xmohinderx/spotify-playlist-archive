@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYFH7pZ5xe7h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYFH7pZ5xe7h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYFH7pZ5xe7h)
 
-### [This Is Mahler](https://open.spotify.com/playlist/5pQkVwBe6Vse0qMqKyFUdg)
+### [This Is Mahler](https://open.spotify.com/playlist/37i9dQZF1DWYFH7pZ5xe7h)
 
 > Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.
+
+70 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/5pQkVwBe6Vse0qMqKyFUdg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +77,6 @@
 | [Symphony No.10 in F\-sharp Major: IV\. Scherzo II: Kräftig, nicht zu schnell](https://open.spotify.com/track/56anl3ns0VcBsGy1E2M15Q) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [David Zinman](https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT) | [Mahler: Symphony No\. 10](https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl) | 13:35 | 2020-02-27 |  |
 | [Symphony No.10 in F\-sharp Major: V\. Finale\. Langsam \- Allegro moderato \- Andante comodo, aber nicht schleppend](https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [David Zinman](https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT) | [Mahler: Symphony No\. 10](https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl) | 21:37 | 2020-02-27 |  |
 | [Totenfeier](https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Orchestra of the Age of Enlightenment](https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB), [Vladimir Jurowski](https://open.spotify.com/artist/56zD3vlVlbxtkfNPaznQoA) | [Mahler: Totenfeier, Lieder eines fahrenden Gesellen](https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l) | 22:32 | 2020-02-27 |  |
-| [Winterlied](https://open.spotify.com/track/21xmYdw32ZcvHAruFOFPmZ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Bernarda Fink](https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0), [Anthony Spiri](https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM) | [Mahler: Lieder](https://open.spotify.com/album/3hGdaHVgLyLpKNOh5NbOkS) | 3:24 | 2020-02-27 |  |
+| [Winterlied](https://open.spotify.com/track/21xmYdw32ZcvHAruFOFPmZ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Gustav Mahler Ensemble](https://open.spotify.com/artist/6ivbCf0rHD7MJLfawBtXqT), [Bernarda Fink](https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0), [Anthony Spiri](https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM) | [Mahler: Lieder](https://open.spotify.com/album/3hGdaHVgLyLpKNOh5NbOkS) | 3:24 | 2020-02-27 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

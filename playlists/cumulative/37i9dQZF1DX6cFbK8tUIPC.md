@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6cFbK8tUIPC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6cFbK8tUIPC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6cFbK8tUIPC)
 
-### [pumpkin spice](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
+### [pumpkin spice](https://open.spotify.com/playlist/37i9dQZF1DX6cFbK8tUIPC)
 
 > <a href="https://open.spotify.com/track/20bNmfHntXFvYInCEQZYfp?si=e255ce242aff4eae">latte foam art, tiny pumpkins, fuzzy comfy socks</a>
+
+108 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

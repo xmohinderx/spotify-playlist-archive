@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4gScoXV8KpV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4gScoXV8KpV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4gScoXV8KpV)
 
-### [This Is Sum 41](https://open.spotify.com/playlist/3sk9shYdl4K5fSuGYbxpVL)
+### [This Is Sum 41](https://open.spotify.com/playlist/37i9dQZF1DX4gScoXV8KpV)
 
 > All killer, no filler.
+
+50 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/3sk9shYdl4K5fSuGYbxpVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

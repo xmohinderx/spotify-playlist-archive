@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7W9NinHzoYY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7W9NinHzoYY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7W9NinHzoYY)
 
-### [This Is: Xavier Omär](https://open.spotify.com/playlist/4zIgelLzsO7I4h9rLwwuBy)
+### [This Is: Xavier Omär](https://open.spotify.com/playlist/37i9dQZF1DX7W9NinHzoYY)
 
 > Hear Xavier Omär's breakout track &quot;Blind Man&quot; and other essential jams.
+
+27 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/4zIgelLzsO7I4h9rLwwuBy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

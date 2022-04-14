@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUWC0NIJDJKL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUWC0NIJDJKL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUWC0NIJDJKL)
 
-### [Indie Sunshine](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
+### [Indie Sunshine](https://open.spotify.com/playlist/37i9dQZF1DWUWC0NIJDJKL)
 
 > Fun in the sun with these indie pop jams!
+
+67 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

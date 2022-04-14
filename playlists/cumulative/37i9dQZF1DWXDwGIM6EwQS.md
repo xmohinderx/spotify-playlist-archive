@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXDwGIM6EwQS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXDwGIM6EwQS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXDwGIM6EwQS)
 
-### [Nocturno](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
+### [Nocturno](https://open.spotify.com/playlist/37i9dQZF1DWXDwGIM6EwQS)
 
 > Vibes de noche\. Late night tunes for an endless night.
+
+90 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

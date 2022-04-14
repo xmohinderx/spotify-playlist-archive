@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1oDFttzXiLUJLjMyulUugY.md) - cumulative - [plain](/playlists/plain/1oDFttzXiLUJLjMyulUugY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1oDFttzXiLUJLjMyulUugY)
 
-### [Workday – Zen](https://open.spotify.com/playlist/5LZtncbGVmYkaBqv23p6OZ)
+### [Workday – Zen](https://open.spotify.com/playlist/1oDFttzXiLUJLjMyulUugY)
 
 > Achieve optimal workday zen with this relaxed, meditative mix.
+
+75 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5LZtncbGVmYkaBqv23p6OZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

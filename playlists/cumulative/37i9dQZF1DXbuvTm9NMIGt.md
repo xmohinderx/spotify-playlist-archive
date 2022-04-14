@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbuvTm9NMIGt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbuvTm9NMIGt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbuvTm9NMIGt)
 
-### [This Is Red Hot Chili Peppers](https://open.spotify.com/playlist/1XNZ71Oqx9ekLoWyu77r8o)
+### [This Is Red Hot Chili Peppers](https://open.spotify.com/playlist/37i9dQZF1DXbuvTm9NMIGt)
 
 > The best of RHCP, all in one playlist.
+
+50 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/1XNZ71Oqx9ekLoWyu77r8o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

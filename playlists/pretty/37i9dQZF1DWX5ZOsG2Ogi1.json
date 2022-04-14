@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Perreo del bueno! For those who like it raw.\nCover: Alexis Y Fido",
-  "num_followers": 1245032,
+  "num_followers": 1245288,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQ5OCwwMDAwMDAwMGMwY2ExMzAwMzVkZTFkMDA1OTg5ODk0YTc2MGU0MjY3",
+  "snapshot_id": "MTY0OTg5ODEwNiwwMDAwMDAwMGI1ZTg5Y2NlMjM0N2FmMmIxNGQ2ZmRiMWEzMjY4MTZh",
   "tracks": [
     {
       "added_at": "2022-03-21 16:53:40",
@@ -563,6 +563,26 @@
     {
       "added_at": "2022-03-21 16:53:40",
       "album": {
+        "name": "C\u00d3MO SE SIENTE (Remix)",
+        "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "C\u00d3MO SE SIENTE - Remix",
+      "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
+    },
+    {
+      "added_at": "2022-03-21 16:53:40",
+      "album": {
         "name": "Sal y Perrea (Remix)",
         "url": "https://open.spotify.com/album/6HemabiQkjzBGrAIr8ynE4"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 226500,
       "name": "Sal y Perrea - Remix",
       "url": "https://open.spotify.com/track/1mG8VynhqySA52bALfYrvO"
-    },
-    {
-      "added_at": "2022-03-21 16:53:40",
-      "album": {
-        "name": "C\u00d3MO SE SIENTE (Remix)",
-        "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "C\u00d3MO SE SIENTE - Remix",
-      "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
     },
     {
       "added_at": "2022-03-21 16:53:40",
@@ -675,6 +675,30 @@
       "duration_ms": 217627,
       "name": "Deprimida",
       "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
+    },
+    {
+      "added_at": "2022-03-21 16:53:40",
+      "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
     },
     {
       "added_at": "2022-03-21 16:53:40",
@@ -755,30 +779,6 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
-    },
-    {
-      "added_at": "2022-03-21 16:53:40",
-      "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 309120,
-      "name": "No Me Conoce - Remix",
-      "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
     },
     {
       "added_at": "2022-03-21 16:53:40",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-03-21 16:53:40",
       "album": {
-        "name": "Barrio Fino (International Version)",
-        "url": "https://open.spotify.com/album/6Tihi8QTaBhTnhHv8LtJZT"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Paso, Paso",
-      "url": "https://open.spotify.com/track/6bbHD9AvnyiPK8s9hOZfd0"
-    },
-    {
-      "added_at": "2022-03-21 16:53:40",
-      "album": {
         "name": "El Efecto",
         "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-03-21 16:53:40",
       "album": {
+        "name": "Barrio Fino (International Version)",
+        "url": "https://open.spotify.com/album/6Tihi8QTaBhTnhHv8LtJZT"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Lo Que Paso, Paso",
+      "url": "https://open.spotify.com/track/6bbHD9AvnyiPK8s9hOZfd0"
+    },
+    {
+      "added_at": "2022-03-21 16:53:40",
+      "album": {
         "name": "La Historia De El D\u00fao (Vol.1)",
         "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 207480,
       "name": "Ahora Es",
       "url": "https://open.spotify.com/track/0hdYSzEWKyKHnfhGoVFSGM"
+    },
+    {
+      "added_at": "2022-03-21 16:53:40",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2022-03-21 16:53:40",
@@ -1023,18 +1039,34 @@
     {
       "added_at": "2022-03-21 16:53:40",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+      "duration_ms": 260547,
+      "name": "Perreo Pesau'",
+      "url": "https://open.spotify.com/track/5bQ9rtAfOUbPmuxjPK8zDp"
+    },
+    {
+      "added_at": "2022-03-21 16:53:40",
+      "album": {
+        "name": "La Historia De El D\u00fao (Vol.1)",
+        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
     },
     {
       "added_at": "2022-03-21 16:53:40",
@@ -1067,38 +1099,6 @@
       "duration_ms": 175733,
       "name": "11 PM",
       "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
-    },
-    {
-      "added_at": "2022-03-21 16:53:40",
-      "album": {
-        "name": "La Historia De El D\u00fao (Vol.1)",
-        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
-    },
-    {
-      "added_at": "2022-03-21 16:53:40",
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 260547,
-      "name": "Perreo Pesau'",
-      "url": "https://open.spotify.com/track/5bQ9rtAfOUbPmuxjPK8zDp"
     },
     {
       "added_at": "2022-03-21 16:53:40",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-03-21 16:53:40",
       "album": {
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
+    },
+    {
+      "added_at": "2022-03-21 16:53:40",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 265746,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
-    },
-    {
-      "added_at": "2022-03-21 16:53:40",
-      "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2022-03-21 16:53:40",
@@ -1959,30 +1959,6 @@
     {
       "added_at": "2022-03-21 16:53:40",
       "album": {
-        "name": "El Desorden",
-        "url": "https://open.spotify.com/album/4mB0S19kFt0O2REi1W21mB"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "El Desorden",
-      "url": "https://open.spotify.com/track/0JOUrhZGMCx3lk9VosAQWl"
-    },
-    {
-      "added_at": "2022-03-21 16:53:40",
-      "album": {
         "name": "GUCCI FENDI",
         "url": "https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8"
       },
@@ -2031,6 +2007,30 @@
     {
       "added_at": "2022-03-21 16:53:40",
       "album": {
+        "name": "El Desorden",
+        "url": "https://open.spotify.com/album/4mB0S19kFt0O2REi1W21mB"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "El Desorden",
+      "url": "https://open.spotify.com/track/0JOUrhZGMCx3lk9VosAQWl"
+    },
+    {
+      "added_at": "2022-03-21 16:53:40",
+      "album": {
         "name": "Chica Bombastic",
         "url": "https://open.spotify.com/album/7CxQ4WnscnBTcW4G2JNjHO"
       },
@@ -2063,6 +2063,30 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "added_at": "2022-03-21 16:53:40",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "Todo Comienza en la Disco",
+      "url": "https://open.spotify.com/track/3a2aBKuvgP1qHo3BqU3lGh"
     },
     {
       "added_at": "2022-03-21 16:53:40",
@@ -2107,30 +2131,6 @@
       "duration_ms": 325692,
       "name": "Eleg\u00ed (feat. Farruko, Anuel AA, Sech, D\u00edmelo Flow & Justin Quiles) - Remix",
       "url": "https://open.spotify.com/track/3oCghu20Kto5Xcu8Pg0cit"
-    },
-    {
-      "added_at": "2022-03-21 16:53:40",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "Todo Comienza en la Disco",
-      "url": "https://open.spotify.com/track/3a2aBKuvgP1qHo3BqU3lGh"
     }
   ],
   "unique_name": "Puro Perreo",

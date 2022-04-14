@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/4se8FxjaBGTHCTXIPoJlc0.md) - cumulative - [plain](/playlists/plain/4se8FxjaBGTHCTXIPoJlc0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4se8FxjaBGTHCTXIPoJlc0)
 
-### [Music Happens Here: The Music](https://open.spotify.com/playlist/5dcMmZPPMG0sxpdyZjJdMH)
+### [Music Happens Here: The Music](https://open.spotify.com/playlist/4se8FxjaBGTHCTXIPoJlc0)
 
 > Music from the podcast Music Happens Here\. This episode focuses on the most iconic songs of Los Angeles, CA.
+
+23 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/5dcMmZPPMG0sxpdyZjJdMH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

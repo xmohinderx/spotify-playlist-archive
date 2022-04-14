@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2nb7lCySvvf7PNxHUD5oun.md) - cumulative - [plain](/playlists/plain/2nb7lCySvvf7PNxHUD5oun) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2nb7lCySvvf7PNxHUD5oun)
 
-### [\#JazzAppreciationMonth](https://open.spotify.com/playlist/3TcAGRFGBp7J7c40caudRt)
+### [\#JazzAppreciationMonth](https://open.spotify.com/playlist/2nb7lCySvvf7PNxHUD5oun)
 
 > In honor of JAM, we're collecting your favorite jazz tracks! Share yours at \#SpotifyJAM
+
+40 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/3TcAGRFGBp7J7c40caudRt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

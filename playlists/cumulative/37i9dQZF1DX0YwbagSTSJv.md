@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0YwbagSTSJv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0YwbagSTSJv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0YwbagSTSJv)
 
-### [Energy Release](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+### [Energy Release](https://open.spotify.com/playlist/37i9dQZF1DX0YwbagSTSJv)
 
 > Let it all go.
+
+103 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

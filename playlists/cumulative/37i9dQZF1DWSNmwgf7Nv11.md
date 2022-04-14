@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSNmwgf7Nv11.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSNmwgf7Nv11) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSNmwgf7Nv11)
 
-### [Boho + Chill](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+### [Boho + Chill](https://open.spotify.com/playlist/37i9dQZF1DWSNmwgf7Nv11)
 
 > Free\-spirited, atmospheric vibes.
+
+165 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

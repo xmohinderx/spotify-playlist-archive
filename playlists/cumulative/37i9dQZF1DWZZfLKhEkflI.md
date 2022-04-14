@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZZfLKhEkflI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZZfLKhEkflI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZZfLKhEkflI)
 
-### [Hard Bop Classics](https://open.spotify.com/playlist/2b7j02vyfaUwUVvu3T1f24)
+### [Hard Bop Classics](https://open.spotify.com/playlist/37i9dQZF1DWZZfLKhEkflI)
 
 > Funky jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
+
+80 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/2b7j02vyfaUwUVvu3T1f24)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

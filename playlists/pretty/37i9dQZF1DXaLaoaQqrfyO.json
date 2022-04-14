@@ -1,12 +1,12 @@
 {
   "description": "Indie pop that defined the 2010s. Cover: Lana Del Rey",
-  "num_followers": 284331,
+  "num_followers": 284458,
   "original_name": "Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTk1OSwwMDAwMDAwMGU5YjMxMDkwYzBjMWY0ZTU3ZGEzOWUxMjVlOTQxNThk",
+  "snapshot_id": "MTY0OTg5ODU0NywwMDAwMDAwMDdiNjczY2EyYjU2YjUyNmFlMjZjZDZkNjRkNDY2NmQx",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Pure Heroine (Extended)",
-        "url": "https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 201433,
-      "name": "The Love Club",
-      "url": "https://open.spotify.com/track/2yrJ1jWo3HLksJFUqUsZE4"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Between Two Lungs",
         "url": "https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 252818,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/6dux5viG3Ku3IefPx3gFNT"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Pure Heroine (Extended)",
+        "url": "https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 201433,
+      "name": "The Love Club",
+      "url": "https://open.spotify.com/track/2yrJ1jWo3HLksJFUqUsZE4"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/3QykM79uWpxMEc3e29D711"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 189453,
-      "name": "Seeing Stars",
-      "url": "https://open.spotify.com/track/7HwoUfASF7xwt4vFEhkQF3"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/3QykM79uWpxMEc3e29D711"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "Seeing Stars",
+      "url": "https://open.spotify.com/track/7HwoUfASF7xwt4vFEhkQF3"
     },
     {
       "added_at": "2021-03-15 19:25:13",

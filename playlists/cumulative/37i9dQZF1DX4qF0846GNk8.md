@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4qF0846GNk8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4qF0846GNk8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4qF0846GNk8)
 
-### [أقوى المهرجانات](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
 > أجمد المهرجانات في مصر\. الغلاف: حوده بندق
+
+66 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

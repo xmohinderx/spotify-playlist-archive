@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7oE1ZquUHSd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7oE1ZquUHSd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7oE1ZquUHSd)
 
-### [Clásicos del Hip Hop Latino](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
+### [Clásicos del Hip Hop Latino](https://open.spotify.com/playlist/37i9dQZF1DX7oE1ZquUHSd)
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
+
+367 songs - 1 day 1 hr 22 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

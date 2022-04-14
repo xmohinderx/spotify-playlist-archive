@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7M1twJ8D6TS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7M1twJ8D6TS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7M1twJ8D6TS)
 
-### [Texas Country Rewind](https://open.spotify.com/playlist/6kdXzda1LIaxeejkB6DjXj)
+### [Texas Country Rewind](https://open.spotify.com/playlist/37i9dQZF1DX7M1twJ8D6TS)
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
+
+137 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/6kdXzda1LIaxeejkB6DjXj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

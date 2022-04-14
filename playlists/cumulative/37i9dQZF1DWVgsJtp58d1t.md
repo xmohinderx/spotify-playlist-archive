@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVgsJtp58d1t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVgsJtp58d1t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVgsJtp58d1t)
 
-### [This is Frequency](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+### [This is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
 > New releases, driving the current\. Cover: Syd
+
+332 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Dhruv Kapoor, Artwork: Isu Kim.\n\n\n\n",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Dikshant, Artwork: Isu Kim.\n\n\n\n",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -245,6 +245,24 @@
       "duration_ms": 300000,
       "name": "ABRACADABRA",
       "url": "https://open.spotify.com/track/65Ep0TP3QqAIo83u9jlj8M"
+    },
+    {
+      "album": {
+        "name": "Ajnabi",
+        "url": "https://open.spotify.com/album/7ClXcrZcbw4kTFE5YupKIM"
+      },
+      "artists": [
+        {
+          "name": "Arjun Tikadar",
+          "url": "https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266882,
+      "name": "Ajnabi",
+      "url": "https://open.spotify.com/track/3gzey6CSvu3wDZ1m29eywX"
     },
     {
       "album": {
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 214770,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/5XjIaxOYxo1clgzCwsntfK"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 225821,
       "name": "Dancing With My Shadows",
       "url": "https://open.spotify.com/track/0wptMnEupUHQ3GOwhULztk"
@@ -1285,10 +1303,28 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 288333,
       "name": "Faces of The Moon",
       "url": "https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB"
+    },
+    {
+      "album": {
+        "name": "Fall out of Love",
+        "url": "https://open.spotify.com/album/3uluaYxA6K1jTQlrhafOBW"
+      },
+      "artists": [
+        {
+          "name": "Yash Barse",
+          "url": "https://open.spotify.com/artist/3P8AGs3T5QpfNcr4wcNV4X"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299178,
+      "name": "Fall out of Love",
+      "url": "https://open.spotify.com/track/7J6ilu8f5IpPhl6XQwzPn3"
     },
     {
       "album": {
@@ -1513,7 +1549,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 249402,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/6pqTfK8KVNY97rdcJTcv9P"
@@ -3081,7 +3117,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 201176,
       "name": "Log Kehte Hai",
       "url": "https://open.spotify.com/track/4zSsXAyVJDrnQiZRcz1vJV"
@@ -3618,6 +3654,32 @@
     },
     {
       "album": {
+        "name": "Mind Palace",
+        "url": "https://open.spotify.com/album/5SZlcHiUFuP3CDgM3zVsZE"
+      },
+      "artists": [
+        {
+          "name": "Niranjan Menon",
+          "url": "https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d"
+        },
+        {
+          "name": "Vimal Roy",
+          "url": "https://open.spotify.com/artist/2Ws5tRsVrkr9ti2yGT9wPC"
+        },
+        {
+          "name": "Rohan Raveesh",
+          "url": "https://open.spotify.com/artist/2KtuDRokFFlc3rRm9mbZqO"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Mind Palace",
+      "url": "https://open.spotify.com/track/6sS3tnyRPVsuvyTHVLcA1V"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2OPof019rnmR6xThgEF71j"
       },
@@ -4020,6 +4082,58 @@
     },
     {
       "album": {
+        "name": "Our Own Universe",
+        "url": "https://open.spotify.com/album/1omZSeQN1d3LHeyIQKCAGm"
+      },
+      "artists": [
+        {
+          "name": "Mihir Chandan",
+          "url": "https://open.spotify.com/artist/1Re6PBa7Yd7nDfiRJGEaid"
+        },
+        {
+          "name": "Gowri Bhat",
+          "url": "https://open.spotify.com/artist/6o7tpIX0B2Wlhs64yHaEmc"
+        },
+        {
+          "name": "C-Deep",
+          "url": "https://open.spotify.com/artist/1FV4WTegDiySN8P0E73kM4"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "Our Own Universe",
+      "url": "https://open.spotify.com/track/6bWsufSDJQBDlGathtdDIc"
+    },
+    {
+      "album": {
+        "name": "Our Souls At Night",
+        "url": "https://open.spotify.com/album/4oEtIMnuM3IfqOMwkb9KfG"
+      },
+      "artists": [
+        {
+          "name": "Dipan Basak",
+          "url": "https://open.spotify.com/artist/02UPbnzR33FpUAWmPLI3xR"
+        },
+        {
+          "name": "Josh Dasgupta",
+          "url": "https://open.spotify.com/artist/1TaYvUQFT1WAfYYdolAiRB"
+        },
+        {
+          "name": "Stuart Munro",
+          "url": "https://open.spotify.com/artist/67k83N42RRF8nnqwVRaXge"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311830,
+      "name": "Our Souls At Night",
+      "url": "https://open.spotify.com/track/5gFQp3Oi2YLlFqwj1NAjGa"
+    },
+    {
+      "album": {
         "name": "Owl's Eye",
         "url": "https://open.spotify.com/album/7w3IDu25zo3c6yZihyeUa9"
       },
@@ -4071,6 +4185,28 @@
       "duration_ms": 294428,
       "name": "Panaah",
       "url": "https://open.spotify.com/track/494HaAQ2CQ1fTdGi8snJsN"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/73HzBHmFwFOcVOLMzUHsMd"
+      },
+      "artists": [
+        {
+          "name": "Aadya",
+          "url": "https://open.spotify.com/artist/4P3Iw29k94k2bcNSGcllxA"
+        },
+        {
+          "name": "Reuel Benedict",
+          "url": "https://open.spotify.com/artist/6rBMMf6y2MeTx63wBjZlcc"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224457,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/0fa50OwXhMHdKRpbYlmwYl"
     },
     {
       "album": {
@@ -4294,6 +4430,28 @@
     },
     {
       "album": {
+        "name": "Pink Blue",
+        "url": "https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "Bharg",
+          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Pink Blue",
+      "url": "https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt"
+    },
+    {
+      "album": {
         "name": "Pink Shoes",
         "url": "https://open.spotify.com/album/3g6K9YMdbSOFdJNaq163WD"
       },
@@ -4385,7 +4543,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 203294,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4bMB33ogfELHl7VNsAUanJ"
@@ -4611,6 +4769,28 @@
     {
       "album": {
         "name": "Roobaroo",
+        "url": "https://open.spotify.com/album/7iiLaQldT1CvP7N9JzoA6O"
+      },
+      "artists": [
+        {
+          "name": "Brite Roy",
+          "url": "https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y"
+        },
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220610,
+      "name": "Roobaroo",
+      "url": "https://open.spotify.com/track/5D23CpcHaDp798goHYbNzm"
+    },
+    {
+      "album": {
+        "name": "Roobaroo",
         "url": "https://open.spotify.com/album/6rOoszEjVKHzWuHxxeoBXp"
       },
       "artists": [
@@ -4677,6 +4857,24 @@
       "duration_ms": 220848,
       "name": "Run",
       "url": "https://open.spotify.com/track/6UsJup3QM0i0M2MB89x5dZ"
+    },
+    {
+      "album": {
+        "name": "runaway",
+        "url": "https://open.spotify.com/album/1ISAORld7KQ9gF8IlGHYvs"
+      },
+      "artists": [
+        {
+          "name": "Sejal",
+          "url": "https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167671,
+      "name": "runaway",
+      "url": "https://open.spotify.com/track/1lp3Ds70JUbbN1QD5q0VsH"
     },
     {
       "album": {
@@ -5055,7 +5253,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 331300,
       "name": "Shayad Mai Hun",
       "url": "https://open.spotify.com/track/4n9jiuV58tlUrZ8hmtxwU9"
@@ -5135,7 +5333,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 178530,
       "name": "Sombre Valley",
       "url": "https://open.spotify.com/track/5YLgjQFodijfE9A2iDPGkW"
@@ -5601,6 +5799,24 @@
       "duration_ms": 225008,
       "name": "Tere Sheher",
       "url": "https://open.spotify.com/track/0rdHhDNW3rTFskutobGaIM"
+    },
+    {
+      "album": {
+        "name": "Teri Rooh",
+        "url": "https://open.spotify.com/album/3VhgLRqu9QlhnWWOFRE8js"
+      },
+      "artists": [
+        {
+          "name": "Trishita Recs",
+          "url": "https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203499,
+      "name": "Teri Rooh",
+      "url": "https://open.spotify.com/track/71uTEP7pjH3M3ofMWMgNr8"
     },
     {
       "album": {
@@ -6101,7 +6317,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 349090,
       "name": "Ude",
       "url": "https://open.spotify.com/track/2OKsROZXF2C5FIBSMTlp7M"
@@ -6525,7 +6741,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-14",
       "duration_ms": 178800,
       "name": "Your Best",
       "url": "https://open.spotify.com/track/10XpcY7siZYCfmo5pTBqIo"

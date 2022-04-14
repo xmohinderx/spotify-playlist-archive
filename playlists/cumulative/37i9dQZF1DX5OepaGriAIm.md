@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5OepaGriAIm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5OepaGriAIm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OepaGriAIm)
 
-### [EQUAL: Jazz](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
+### [EQUAL: Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5OepaGriAIm)
 
 > Trace the history of jazz from timeless classics to boundary\-breaking contemporary favorites\. Cover: Diana Krall
+
+126 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

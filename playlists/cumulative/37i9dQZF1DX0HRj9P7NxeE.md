@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0HRj9P7NxeE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0HRj9P7NxeE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0HRj9P7NxeE)
 
-### [Workout Twerkout](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
+### [Workout Twerkout](https://open.spotify.com/playlist/37i9dQZF1DX0HRj9P7NxeE)
 
 > Get your body right with this workout twerkout
+
+84 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

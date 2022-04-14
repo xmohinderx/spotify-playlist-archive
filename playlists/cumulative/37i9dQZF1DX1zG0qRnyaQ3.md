@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1zG0qRnyaQ3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1zG0qRnyaQ3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1zG0qRnyaQ3)
 
-### [Political Punks](https://open.spotify.com/playlist/5KqdPjZsZp6sxfFMSxGy2A)
+### [Political Punks](https://open.spotify.com/playlist/37i9dQZF1DX1zG0qRnyaQ3)
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
+
+82 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/5KqdPjZsZp6sxfFMSxGy2A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

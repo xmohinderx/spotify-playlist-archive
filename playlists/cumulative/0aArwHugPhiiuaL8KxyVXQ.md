@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/0aArwHugPhiiuaL8KxyVXQ.md) - cumulative - [plain](/playlists/plain/0aArwHugPhiiuaL8KxyVXQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0aArwHugPhiiuaL8KxyVXQ)
 
-### [Spotify Global Discoveries](https://open.spotify.com/playlist/0QA1T5svkL8X1NKMauCn6p)
+### [Spotify Global Discoveries](https://open.spotify.com/playlist/0aArwHugPhiiuaL8KxyVXQ)
 
 > 
+
+104 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/0QA1T5svkL8X1NKMauCn6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

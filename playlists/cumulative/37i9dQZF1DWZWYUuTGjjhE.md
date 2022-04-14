@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZWYUuTGjjhE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZWYUuTGjjhE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZWYUuTGjjhE)
 
-### [Easy 60s](https://open.spotify.com/playlist/5Vq2hKKlZjdhN1O2QfNrQm)
+### [Easy 60s](https://open.spotify.com/playlist/37i9dQZF1DWZWYUuTGjjhE)
 
 > Timeless easy listening from the sixties...
+
+81 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5Vq2hKKlZjdhN1O2QfNrQm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

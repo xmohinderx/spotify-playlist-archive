@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,620 likes - 70 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,687 likes - 70 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 39 | [Bulie](https://open.spotify.com/track/5sUjZx2TG22xttouC86tnz) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Ready](https://open.spotify.com/album/3ZDKzS3dLFIo0UErHknL2A) | 5:01 |
 | 40 | [The Great Shepherd](https://open.spotify.com/track/5L7D9BRV28mN3ph3E9QKuh) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The Great Shepherd](https://open.spotify.com/album/33eY0hoLeLU58nPAFtDKiM) | 5:34 |
 | 41 | [Days of Elijah \- Live](https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:51 |
-| 42 | [We Raise a Sound](https://open.spotify.com/track/5mj8UgV1q3weOrDfXdn1jk) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/4kJCxe5NvDa9J3O1TlVbTR) | [We Raise a Sound](https://open.spotify.com/album/0kS3yEDK9ECw0fhTi4WoeX) | 7:12 |
+| 42 | [We Raise a Sound](https://open.spotify.com/track/5mj8UgV1q3weOrDfXdn1jk) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise a Sound](https://open.spotify.com/album/0kS3yEDK9ECw0fhTi4WoeX) | 7:12 |
 | 43 | [Jesus Is Enough](https://open.spotify.com/track/3mnkSqpC8veeCS9arqB0yV) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:39 |
 | 44 | [Won Rope O Pede](https://open.spotify.com/track/7g5GsaCdI7slVkypFtDZcP) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Aye Ope Yo](https://open.spotify.com/album/1VsWWG83qOj4i1nKcFh5P4) | 5:39 |
 | 45 | [Faithful](https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Faithful](https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7) | 4:25 |

@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 817525,
+  "num_followers": 817588,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTg0OCwwMDAwMDAwMDcyY2NkMDA0ZDVjYmJhMDgxYTcxNzM3NWFkNTViNWUx",
+  "snapshot_id": "MTY0OTg5ODQ0MSwwMDAwMDAwMDdlMzcwNGZkN2ZhODZkNGQ5YjQzODI3YTUxN2VmZTAy",
   "tracks": [
     {
       "added_at": "2021-10-29 22:18:02",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
         "name": "Where's My Love (Acoustic)",
         "url": "https://open.spotify.com/album/2u0MG5q7xctOMwx2q9Tm4o"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 209714,
       "name": "Day by Day - Acoustic",
       "url": "https://open.spotify.com/track/3rpKU2rWPJEZK7lUOLaRxL"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
-        "name": "Carry You",
-        "url": "https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/0i1fRfEysDAYVLEY3OxFWW"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 241481,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2R8GATuv6RR4YfCANdTYI9"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
         "name": "Bite",
         "url": "https://open.spotify.com/album/7wk5T0X8Op7jvjOIOIXAWZ"
       },
@@ -467,6 +483,22 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/2uFwQ8yiZR0NsIvzmzWf8j"
       },
@@ -495,38 +527,6 @@
       "duration_ms": 212120,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "apathy",
-      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
-        "name": "Homegrown",
-        "url": "https://open.spotify.com/album/0i1fRfEysDAYVLEY3OxFWW"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 241481,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2R8GATuv6RR4YfCANdTYI9"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202009,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
         "name": "Samara",
         "url": "https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 206669,
       "name": "Arc - Stripped",
       "url": "https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202009,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Seven Hours",
-      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "A Book Of Flying",
         "url": "https://open.spotify.com/album/5QbW6Uu7YAmB2bNQr88pQs"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 256261,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/5YWJYToSH7vZ98r5PS3y6j"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Seven Hours",
+      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "Minimum",
-        "url": "https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "Heavenbound",
         "url": "https://open.spotify.com/album/1g5USZiscLk3QGtqd49Q9y"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 252173,
       "name": "Heavenbound",
       "url": "https://open.spotify.com/track/6hXEp8HiIhOh3lMFyN7tKN"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "El B\u00faho",
-        "url": "https://open.spotify.com/album/6YIAb7KMrIM9jHHUgNBNn3"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "El B\u00faho",
-      "url": "https://open.spotify.com/track/0B0hFMSIYac3LS1z2PEsrQ"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "Dead Man's Suit",
         "url": "https://open.spotify.com/album/5Q5vl3ZCUQhbSOOp0TIuW2"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 219283,
       "name": "Dead Man's Suit",
       "url": "https://open.spotify.com/track/3h21zgsmD8ncbYz3RSlAJI"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "El B\u00faho",
+        "url": "https://open.spotify.com/album/6YIAb7KMrIM9jHHUgNBNn3"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "El B\u00faho",
+      "url": "https://open.spotify.com/track/0B0hFMSIYac3LS1z2PEsrQ"
     },
     {
       "added_at": "2021-10-29 22:18:02",

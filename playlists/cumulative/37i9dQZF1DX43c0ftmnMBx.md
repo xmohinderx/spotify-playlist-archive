@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX43c0ftmnMBx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43c0ftmnMBx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX43c0ftmnMBx)
 
-### [Bachatéame](https://open.spotify.com/playlist/033UsUOq5jX4rotaC52w8z)
+### [Bachatéame](https://open.spotify.com/playlist/37i9dQZF1DX43c0ftmnMBx)
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
+
+112 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/033UsUOq5jX4rotaC52w8z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +44,7 @@
 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 | 2021-12-02 |  |
 | [El Beso Que No Le Di](https://open.spotify.com/track/2kcc5humLS6PKOI9rwvXex) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:27 | 2021-12-02 |  |
 | [El Intruso](https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 2:52 | 2021-12-02 |  |
-| [El Placer Del Sexo](https://open.spotify.com/track/1sWKWpwaw1eBZxZjRctU7e) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Yo Vivo Por Ti](https://open.spotify.com/album/0qpty2m9kHLlGTYi6r5q6W) | 3:57 | 2021-12-02 |  |
+| [El Placer Del Sexo](https://open.spotify.com/track/1sWKWpwaw1eBZxZjRctU7e) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Yo Vivo Por Ti](https://open.spotify.com/album/0qpty2m9kHLlGTYi6r5q6W) | 3:57 | 2021-12-02 | 2022-04-14 |
 | [El Profesor](https://open.spotify.com/track/0WQKhw1aMGfqdNbTj2RhZx) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Bachatas Pal Pueblo: Mas Pueblo Que Nunca](https://open.spotify.com/album/2OQYFVC8gKoCApueLNdIUi) | 3:41 | 2021-12-02 |  |
 | [Ese Hombre Soy Yo](https://open.spotify.com/track/4dGuCncg3xydBZ6A5vYI2Z) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata A Su Tiempo](https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK) | 4:04 | 2021-12-02 |  |
 | [Eso da Pa To](https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN) | [Marino Castellanos](https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz) | [Bachatas Para La Historia](https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU) | 3:30 | 2021-12-02 |  |
@@ -111,7 +113,7 @@
 | [Traicionera](https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Cariño de Mi Vida](https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE) | 3:40 | 2021-12-02 |  |
 | [Tu Eres Ajena](https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Amor En Silencio](https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu) | 3:59 | 2021-12-02 |  |
 | [Tus Besos](https://open.spotify.com/track/2QyJTZeqxmVfbesnoN3r7k) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todo Tiene Su Hora](https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2) | 3:17 | 2021-12-02 |  |
-| [Tuyo](https://open.spotify.com/track/3cZhoRYQFqJ8B9z0AN9gJB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:38 | 2021-12-02 | 2022-03-31 |
+| [Tuyo](https://open.spotify.com/track/3cZhoRYQFqJ8B9z0AN9gJB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:38 | 2021-12-02 |  |
 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq) | 4:29 | 2021-12-02 |  |
 | [Vete y Alejate de Mi](https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:36 | 2021-12-02 |  |
 | [Vine A Decirte Adios](https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Vine a Decirte Adios](https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm) | 4:37 | 2021-12-02 |  |

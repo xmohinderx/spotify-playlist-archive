@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8skPjZYk8mL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8skPjZYk8mL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8skPjZYk8mL)
 
-### [Sweet Lullabies](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
+### [Sweet Lullabies](https://open.spotify.com/playlist/37i9dQZF1DX8skPjZYk8mL)
 
 > Soft instrumental lullabies for the little ones.
+
+383 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

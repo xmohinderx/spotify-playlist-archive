@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTVE8ZCcLQ5Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTVE8ZCcLQ5Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTVE8ZCcLQ5Q)
 
-### [RADAR Brasil](https://open.spotify.com/playlist/62Z0vZErIH6g7RB9Wn42Q7)
+### [RADAR Brasil](https://open.spotify.com/playlist/37i9dQZF1DWTVE8ZCcLQ5Q)
 
 > Descubra novos talentos brasileiros no horizonte\. Celebrando a classe de 2021!
+
+228 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/62Z0vZErIH6g7RB9Wn42Q7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

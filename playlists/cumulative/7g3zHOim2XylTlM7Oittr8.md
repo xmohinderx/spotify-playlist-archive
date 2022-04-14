@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/7g3zHOim2XylTlM7Oittr8.md) - cumulative - [plain](/playlists/plain/7g3zHOim2XylTlM7Oittr8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7g3zHOim2XylTlM7Oittr8)
 
-### [Best of 2016:  Hot Country](https://open.spotify.com/playlist/1J91eYkhnaRSxGcD3PNzXl)
+### [Best of 2016:  Hot Country](https://open.spotify.com/playlist/7g3zHOim2XylTlM7Oittr8)
 
 > Enjoy the top streamed country songs of 2016 right here! Cover: Dan + Shay
+
+50 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1J91eYkhnaRSxGcD3PNzXl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

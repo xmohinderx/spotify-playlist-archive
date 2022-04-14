@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT0upuUFtT7o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT0upuUFtT7o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT0upuUFtT7o)
 
-### [Fresh Finds Indie](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+### [Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Luke Royalty Artwork: Robin Clifford Ellis
+
+464 songs - 1 day 1 hr 24 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +130,7 @@
 | [Dr Pong \- Radio Edit](https://open.spotify.com/track/6iEULgrj89rosaX7pvb7Tf) | [Pale Blue Eyes](https://open.spotify.com/artist/066i2FQQZzagmCpd4AUBRi) | [Dr Pong](https://open.spotify.com/album/51O6Ds0rrkrleMZPnnh2vj) | 3:42 | 2022-03-16 | 2022-04-13 |
 | [Drive Slow](https://open.spotify.com/track/13795WBWdWvQHCXeOPLCWQ) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Drive Slow](https://open.spotify.com/album/16hoKJlZ0Y3kt7zJ5eIP7R) | 2:57 | 2021-12-01 | 2022-01-13 |
 | [Dude In A Romantic Way](https://open.spotify.com/track/61V900hMxvHdpGdarlFbve) | [Callaway Martin](https://open.spotify.com/artist/32Om1pF9kloxRMFv1gUifZ) | [Dude In A Romantic Way](https://open.spotify.com/album/33qhi8y8l1LN1Ift6Ihc0V) | 3:01 | 2022-03-22 |  |
+| [Dusty Issues](https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Dusty Issues](https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ) | 2:04 | 2022-04-13 |  |
 | [Dynamites](https://open.spotify.com/track/4dT3AyyEH3A0p7miSaAT7j) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [Dynamites](https://open.spotify.com/album/7774xln4QSVtgp07oeiEmC) | 4:44 | 2022-02-16 | 2022-03-17 |
 | [Easier Said](https://open.spotify.com/track/4xtovOO8zN3TYmC8kcLcN1) | [Aint Afraid](https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5) | [Easier Said](https://open.spotify.com/album/4hKZOqBRw4EhTIQRvbwCd8) | 3:40 | 2022-03-16 | 2022-04-13 |
 | [Easy Come Easy Go](https://open.spotify.com/track/2LgkM7cuxKyW9KIZ9wZHiH) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Easy Come Easy Go](https://open.spotify.com/album/5CQjLyXaqP5LPtcqOaAgNM) | 3:12 | 2022-01-19 | 2022-02-17 |

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4P0ijJK5lUv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4P0ijJK5lUv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4P0ijJK5lUv)
 
-### [Classical Christmas](https://open.spotify.com/playlist/1wC0ShR4J2RwULQ8yliEYA)
+### [Classical Christmas](https://open.spotify.com/playlist/37i9dQZF1DX4P0ijJK5lUv)
 
 > Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.
+
+119 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/1wC0ShR4J2RwULQ8yliEYA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

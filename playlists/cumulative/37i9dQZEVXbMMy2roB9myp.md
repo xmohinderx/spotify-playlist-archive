@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbMMy2roB9myp.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMMy2roB9myp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMMy2roB9myp)
 
-### [Top 50 \- Argentina](https://open.spotify.com/playlist/5OGTGwAXm9ef4quCFwcKo8)
+### [Top 50 \- Argentina](https://open.spotify.com/playlist/37i9dQZEVXbMMy2roB9myp)
 
 > Your daily update of the most played tracks right now \- Argentina.
+
+286 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/5OGTGwAXm9ef4quCFwcKo8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

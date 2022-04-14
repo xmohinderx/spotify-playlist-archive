@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9XdJRfSK6a0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9XdJRfSK6a0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9XdJRfSK6a0)
 
-### [An Instrumental Sunday](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
+### [An Instrumental Sunday](https://open.spotify.com/playlist/37i9dQZF1DX9XdJRfSK6a0)
 
 > This Sunday, let's tune out the words.
+
+45 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

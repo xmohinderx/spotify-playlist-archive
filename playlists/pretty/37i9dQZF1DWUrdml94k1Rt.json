@@ -1,12 +1,12 @@
 {
   "description": "Digging deep into the history of 00s Metal. Maybe rediscover old favorites?",
-  "num_followers": 94624,
+  "num_followers": 94810,
   "original_name": "Deep Dive - 00s Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTQxNiwwMDAwMDAwMDc3YmY1MjQyMTEwYTI0MGIwZjdmMDMwYWMyYjJiNThk",
+  "snapshot_id": "MTY0OTg5ODAyOSwwMDAwMDAwMDgyNTQzNjMwNWM4NTgwODEwNWVjMGM3ZGU1YmQ4NTZj",
   "tracks": [
     {
       "added_at": "2021-08-23 17:41:38",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2021-08-23 17:41:38",
       "album": {
+        "name": "New American Gospel",
+        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 292293,
+      "name": "Black Label",
+      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
+    },
+    {
+      "added_at": "2021-08-23 17:41:38",
+      "album": {
         "name": "Light From Above",
         "url": "https://open.spotify.com/album/3x9uRyWv85nlIf7CVCTDqz"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 535800,
       "name": "Right In Two",
       "url": "https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk"
-    },
-    {
-      "added_at": "2021-08-23 17:41:38",
-      "album": {
-        "name": "New American Gospel",
-        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 292293,
-      "name": "Black Label",
-      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
     },
     {
       "added_at": "2021-08-23 17:41:38",

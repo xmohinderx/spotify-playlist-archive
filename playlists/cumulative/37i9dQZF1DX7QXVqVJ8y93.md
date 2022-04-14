@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7QXVqVJ8y93.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7QXVqVJ8y93) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QXVqVJ8y93)
 
-### [The H\. P\. Lovecraft Compendium](https://open.spotify.com/playlist/5Y48399fEY2c02Sph2fu1z)
+### [The H\. P\. Lovecraft Compendium](https://open.spotify.com/playlist/37i9dQZF1DX7QXVqVJ8y93)
 
 > You might want to leave a light on when listening to these chilling performances of H\. P\. Lovecraft's horror fiction....
+
+63 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/5Y48399fEY2c02Sph2fu1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

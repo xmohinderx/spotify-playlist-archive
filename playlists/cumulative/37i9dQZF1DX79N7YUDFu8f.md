@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX79N7YUDFu8f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX79N7YUDFu8f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX79N7YUDFu8f)
 
-### [Easy On Saturday](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+### [Easy On Saturday](https://open.spotify.com/playlist/37i9dQZF1DX79N7YUDFu8f)
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
+
+104 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

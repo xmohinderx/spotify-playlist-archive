@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 90s",
-  "num_followers": 89991,
+  "num_followers": 90196,
   "original_name": "Good Feeling 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTgxMSwwMDAwMDAwMGFlMGU4NzlhYWNhNzAxNjA5YjNhMDdkODkwNTg2Mjhi",
+  "snapshot_id": "MTY0OTg5ODQwNSwwMDAwMDAwMDE4M2M0YmViMjdlNjVmZDgyMmI5Y2VhM2U1YjA4Y2Zm",
   "tracks": [
     {
       "added_at": "2020-11-24 03:55:51",
@@ -399,22 +399,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 390861,
-      "name": "Freedom! '90 - Remastered",
-      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Twisted (Re-Presents)",
         "url": "https://open.spotify.com/album/3wJNOWCW03lJBnvdZutTCb"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 132264,
       "name": "Roll To Me",
       "url": "https://open.spotify.com/track/4Ayrd5LUI2r1R1vErPt9Z1"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 390861,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
     },
     {
       "added_at": "2020-11-24 03:55:51",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXblV99WEHIW4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXblV99WEHIW4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXblV99WEHIW4)
 
-### [Blood, Shred & Tears](https://open.spotify.com/playlist/0Ngqpcl8RKKzJxWis2gA88)
+### [Blood, Shred & Tears](https://open.spotify.com/playlist/37i9dQZF1DXblV99WEHIW4)
 
 > Heavy music that understands.
+
+66 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/0Ngqpcl8RKKzJxWis2gA88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

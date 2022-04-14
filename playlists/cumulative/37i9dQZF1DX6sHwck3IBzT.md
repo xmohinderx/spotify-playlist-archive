@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6sHwck3IBzT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6sHwck3IBzT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6sHwck3IBzT)
 
-### [Amapiano Grooves Presents..\. Best Amapiano Songs of 2021](https://open.spotify.com/playlist/6yMdXHBKHjFzleSb1wMhBz)
+### [Amapiano Grooves Presents..\. Best Amapiano Songs of 2021](https://open.spotify.com/playlist/37i9dQZF1DX6sHwck3IBzT)
 
 > Top 50 of the best Amapiano songs in 2021!
+
+50 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/6yMdXHBKHjFzleSb1wMhBz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

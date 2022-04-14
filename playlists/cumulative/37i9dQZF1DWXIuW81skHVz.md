@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXIuW81skHVz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXIuW81skHVz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXIuW81skHVz)
 
-### [Changes](https://open.spotify.com/playlist/1yd2XxEOQ5oq4lnly4pXQ0)
+### [Changes](https://open.spotify.com/playlist/37i9dQZF1DWXIuW81skHVz)
 
 > The shape of jazz today\. Cover: Kamasi Washington
+
+101 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/1yd2XxEOQ5oq4lnly4pXQ0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXJnW46G73SM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXJnW46G73SM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJnW46G73SM)
 
-### [أجدد الأغاني](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+### [أجدد الأغاني](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: احمد سعد
+
+132 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

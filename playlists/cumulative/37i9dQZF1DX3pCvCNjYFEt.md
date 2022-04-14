@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3pCvCNjYFEt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3pCvCNjYFEt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3pCvCNjYFEt)
 
-### [Charles Dickens' Classics](https://open.spotify.com/playlist/2vWuxc3CqUY3ZcjJucDwiQ)
+### [Charles Dickens' Classics](https://open.spotify.com/playlist/37i9dQZF1DX3pCvCNjYFEt)
 
 > Experience the beloved classics of Charles Dickens.
+
+67 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/2vWuxc3CqUY3ZcjJucDwiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

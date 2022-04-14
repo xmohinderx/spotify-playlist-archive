@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1MmXcTuWbvBApvUMIgxDhV.md) - cumulative - [plain](/playlists/plain/1MmXcTuWbvBApvUMIgxDhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1MmXcTuWbvBApvUMIgxDhV)
 
-### [Date Night At Home](https://open.spotify.com/playlist/6tKteHIqGif5NGbdYIC5jm)
+### [Date Night At Home](https://open.spotify.com/playlist/1MmXcTuWbvBApvUMIgxDhV)
 
 > 
+
+81 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/6tKteHIqGif5NGbdYIC5jm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

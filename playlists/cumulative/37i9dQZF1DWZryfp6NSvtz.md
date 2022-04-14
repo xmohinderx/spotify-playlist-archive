@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZryfp6NSvtz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZryfp6NSvtz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZryfp6NSvtz)
 
-### [All New Rock](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+### [All New Rock](https://open.spotify.com/playlist/37i9dQZF1DWZryfp6NSvtz)
 
 > The best new tracks every week\. Cover: Papa Roach
+
+753 songs - 1 day 19 hr 1 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

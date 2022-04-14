@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdEZt3tTR001.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdEZt3tTR001) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdEZt3tTR001)
 
-### [Floating](https://open.spotify.com/playlist/2P37iN5jM6fBGSmKRtbrBn)
+### [Floating](https://open.spotify.com/playlist/37i9dQZF1DXdEZt3tTR001)
 
 > Lay back\. Chill out.
+
+52 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2P37iN5jM6fBGSmKRtbrBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

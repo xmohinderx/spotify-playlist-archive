@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/2wqwH7uKckoLe7UVTx1RfO.md) - cumulative - [plain](/playlists/plain/2wqwH7uKckoLe7UVTx1RfO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2wqwH7uKckoLe7UVTx1RfO)
 
-### [Follow Your Bliss](https://open.spotify.com/playlist/5AOW1lkcvzw6zDUE1S9qsC)
+### [Follow Your Bliss](https://open.spotify.com/playlist/2wqwH7uKckoLe7UVTx1RfO)
 
 > Coast through the good life with these folksy and blissed out tracks.
+
+78 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/5AOW1lkcvzw6zDUE1S9qsC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXarebqD2nAVg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXarebqD2nAVg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXarebqD2nAVg)
 
-### [Tender](https://open.spotify.com/playlist/4EXf5AMaeP3Fe932ZLNuWq)
+### [Tender](https://open.spotify.com/playlist/37i9dQZF1DXarebqD2nAVg)
 
 > Raw, sentimental feels.
+
+50 songs - 2 hr 0 min - [published](https://open.spotify.com/playlist/4EXf5AMaeP3Fe932ZLNuWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

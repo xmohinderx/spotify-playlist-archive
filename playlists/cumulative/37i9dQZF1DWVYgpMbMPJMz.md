@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVYgpMbMPJMz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVYgpMbMPJMz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVYgpMbMPJMz)
 
-### [WorshipNow](https://open.spotify.com/playlist/12yoI78Chtrh071OwGd6QO)
+### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Mosaic MSC
+
+136 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/12yoI78Chtrh071OwGd6QO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

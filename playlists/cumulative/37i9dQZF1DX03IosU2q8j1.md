@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX03IosU2q8j1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX03IosU2q8j1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX03IosU2q8j1)
 
-### [This Is Rodrigo](https://open.spotify.com/playlist/6dgtnvASuzqZatnc3do951)
+### [This Is Rodrigo](https://open.spotify.com/playlist/37i9dQZF1DX03IosU2q8j1)
 
 > Ro, Ro, Ro, Rodrigo carajo!
+
+61 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/6dgtnvASuzqZatnc3do951)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

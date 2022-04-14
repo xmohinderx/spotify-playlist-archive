@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3N4mXY2MuSz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3N4mXY2MuSz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3N4mXY2MuSz)
 
-### [Punk Christmas](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
+### [Punk Christmas](https://open.spotify.com/playlist/37i9dQZF1DX3N4mXY2MuSz)
 
 > Holiday classics from your favorite punks\. Cover: jxdn
+
+140 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

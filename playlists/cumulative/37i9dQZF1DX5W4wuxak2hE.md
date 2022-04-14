@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5W4wuxak2hE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5W4wuxak2hE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5W4wuxak2hE)
 
-### [Power Pop](https://open.spotify.com/playlist/2YOkhgiX4mtX981PcVEeLB)
+### [Power Pop](https://open.spotify.com/playlist/37i9dQZF1DX5W4wuxak2hE)
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
+
+82 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/2YOkhgiX4mtX981PcVEeLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

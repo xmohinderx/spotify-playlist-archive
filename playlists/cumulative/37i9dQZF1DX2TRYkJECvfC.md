@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2TRYkJECvfC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2TRYkJECvfC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2TRYkJECvfC)
 
-### [Deep House Relax](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+### [Deep House Relax](https://open.spotify.com/playlist/37i9dQZF1DX2TRYkJECvfC)
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
+
+253 songs - 23 hr 4 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8HSZzYIDgBB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8HSZzYIDgBB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8HSZzYIDgBB)
 
-### [Indie AlterLatino](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+### [Indie AlterLatino](https://open.spotify.com/playlist/37i9dQZF1DX8HSZzYIDgBB)
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Juanita Euka en portada.
+
+111 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

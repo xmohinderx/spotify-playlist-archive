@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4YLk1hHv7S9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4YLk1hHv7S9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4YLk1hHv7S9)
 
-### [Backyard Wedding](https://open.spotify.com/playlist/6rCYrydpnHq8rysUj3aHJ6)
+### [Backyard Wedding](https://open.spotify.com/playlist/37i9dQZF1DX4YLk1hHv7S9)
 
 > Sweet acoustic love songs for the perfect day.
+
+85 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/6rCYrydpnHq8rysUj3aHJ6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbIVYVBNw9D5K.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbIVYVBNw9D5K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbIVYVBNw9D5K)
 
-### [Top 50 \- Turkey](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+### [Top 50 \- Turkey](https://open.spotify.com/playlist/37i9dQZEVXbIVYVBNw9D5K)
 
 > Your daily update of the most played tracks right now \- Turkey.
+
+413 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

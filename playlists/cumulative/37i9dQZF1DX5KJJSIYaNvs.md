@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5KJJSIYaNvs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5KJJSIYaNvs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5KJJSIYaNvs)
 
-### [EQUAL India](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
+### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
 > Listen to Indian women, at full volume\. Cover: Akasa
+
+115 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

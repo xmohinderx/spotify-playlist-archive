@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVbXsIvZBlOB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVbXsIvZBlOB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVbXsIvZBlOB)
 
-### [EQUAL Israel](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
+### [EQUAL Israel](https://open.spotify.com/playlist/37i9dQZF1DWVbXsIvZBlOB)
 
 > Listen to Israeli women at full volume\. Cover: Anna Zak
+
+95 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

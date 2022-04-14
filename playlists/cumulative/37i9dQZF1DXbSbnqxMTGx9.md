@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbSbnqxMTGx9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbSbnqxMTGx9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbSbnqxMTGx9)
 
-### [Reggae Classics](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
+### [Reggae Classics](https://open.spotify.com/playlist/37i9dQZF1DXbSbnqxMTGx9)
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
+
+104 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +36,7 @@
 | [Drive Her Home](https://open.spotify.com/track/5Tx4LTzQIYIJFMdzONWjcJ) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Hopeton Lewis](https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:01 | 2021-03-02 | 2022-03-11 |
 | [East of the River Nile \- 1971 Version](https://open.spotify.com/track/44Oy8VNAjajn6zT2BRUxzy) | [Augustus Pablo](https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI) | [Rebel Music: A Reggae Anthology](https://open.spotify.com/album/6fzSXHcEKtKgewVwHydgsD) | 2:47 | 2021-03-02 |  |
 | [Eastern Standard Time](https://open.spotify.com/track/04cCYxaUC2LObYVTGlRYBX) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:43 | 2021-03-02 |  |
-| [Engine 54](https://open.spotify.com/track/74jDDWXiT7pPEjL7mBYrs3) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 | 2021-03-02 | 2022-03-23 |
+| [Engine 54](https://open.spotify.com/track/74jDDWXiT7pPEjL7mBYrs3) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 | 2021-03-02 |  |
 | [Fighting Against Conviction](https://open.spotify.com/track/5UDdz40BW59qquk43Ymjrx) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 5:10 | 2021-03-02 |  |
 | [First Time for a Long Time](https://open.spotify.com/track/2euVoVfW1ZlRLsWjLcvi61) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Best of Desmond Dekker](https://open.spotify.com/album/1602hAHL5oyTZlEsGC8tuv) | 2:29 | 2021-03-02 | 2022-02-07 |
 | [Fu Man Chu](https://open.spotify.com/track/4mSa4FTQnnlrSMkbHUdo7B) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 3:19 | 2021-03-02 |  |
@@ -62,7 +64,7 @@
 | [Let Down](https://open.spotify.com/track/4aCsgwFhbZ8CmYAotK7W2B) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Radiodread](https://open.spotify.com/album/775nfRVFPVu7WSsIju6ipJ) | 4:44 | 2021-03-02 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 | 2021-03-02 |  |
 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 | 2021-03-02 |  |
-| [Love Has Found Its Way](https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 4:26 | 2021-03-02 |  |
+| [Love Has Found Its Way](https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 4:26 | 2021-03-02 | 2022-04-14 |
 | [Marcus Garvey](https://open.spotify.com/track/3Ni6vR9yGUnVy7fRFwpVfE) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Jah No Dead \- An Introduction To Burning Spear](https://open.spotify.com/album/054qvIn982kZxFYHvoxrmL) | 3:19 | 2021-03-02 |  |
 | [Mellow Mood](https://open.spotify.com/track/0OKMUpT5jHO3g5MePDoDXr) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/5rM5qPO90wib9kRdESozAt) | 3:51 | 2021-03-02 |  |
 | [Milk & Honey](https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Hollie Cook](https://open.spotify.com/album/1maKK0LZS4kKqJmrDPMMU5) | 3:39 | 2021-03-02 |  |

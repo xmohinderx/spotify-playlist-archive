@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJU9eQpX8gPT.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJU9eQpX8gPT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJU9eQpX8gPT)
 
-### [Top 50 \- Morocco](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+### [Top 50 \- Morocco](https://open.spotify.com/playlist/37i9dQZEVXbJU9eQpX8gPT)
 
 > Your daily update of the most played tracks right now \- Morocco.
+
+598 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,10 +102,10 @@
 | [BOUNCE!](https://open.spotify.com/track/1eVNZfliNyJJj5vHiZHR8D) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [VIBZ](https://open.spotify.com/album/5tQrJMLzU4BNGvhyF9ioqF) | 3:25 | 2021-07-25 | 2021-07-27 |
 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/4LaGu95Ui2s4vprSQYWUAZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:23 | 2021-07-18 | 2021-07-19 |
 | [Boy In Luv](https://open.spotify.com/track/17AFcTj1bj9qhWrHbsLDSb) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:52 | 2022-03-02 | 2022-03-04 |
-| [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-02-22 | 2022-04-02 |
+| [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-02-22 |  |
 | [Bpm](https://open.spotify.com/track/2Os7R405bpt64GZaHGZZBU) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:14 | 2021-09-15 | 2021-09-17 |
 | [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-01-31 |  |
-| [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2021-12-29 |  |
+| [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2021-12-29 | 2022-04-14 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-12-16 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [Butter \(Instrumental\)](https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:42 | 2021-05-23 | 2021-05-24 |
@@ -413,7 +415,7 @@
 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 | 2021-03-27\* | 2021-06-18 |
 | [Nounou](https://open.spotify.com/track/1jqcBOYOADm83XsQUE3W9O) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:52 | 2021-10-03 | 2021-11-27 |
 | [Numero uno](https://open.spotify.com/track/5H1HZedeDHC5ahCgoimGFM) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero uno](https://open.spotify.com/album/268SaqJcoWm0rt8xKlH1CV) | 4:00 | 2021-06-21 | 2021-07-18 |
-| [Obscurité \(feat\. Hamza\)](https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 4:45 | 2021-03-27\* | 2022-04-11 |
+| [Obscurité \(feat\. Hamza\)](https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 4:45 | 2021-03-27\* |  |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-05 |
 | [OG](https://open.spotify.com/track/4rhBWOjhizvPajnOhp7q5H) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:47 | 2021-12-05 | 2021-12-09 |
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2021-08-19 | 2021-09-15 |
@@ -540,7 +542,7 @@
 | [Time To Move](https://open.spotify.com/track/3FInU5pybNWxW1JECVoaBW) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Carmen](https://open.spotify.com/artist/6YeSd89uAp6HfQaZH2rhKZ) | [Time To Move](https://open.spotify.com/album/1lHpEkSLPxogNXrr2XXTAp) | 2:55 | 2022-04-01 | 2022-04-04 |
 | [Torres](https://open.spotify.com/track/5nRm47HYBMSt85ZvyA7D6Y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:27 | 2021-06-24 | 2021-06-26 |
 | [Traitement](https://open.spotify.com/track/1AEEWYcJzrTHksdQmixnHL) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:00 | 2021-09-15 | 2021-09-20 |
-| [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2021-04-21 |  |
+| [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2021-04-21 | 2022-04-14 |
 | [TRAP ROUMI V3](https://open.spotify.com/track/07yjOxOAi1cxhO2FALf861) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V3](https://open.spotify.com/album/4W3m38nSMZmQcjxEopmMss) | 5:30 | 2022-01-04 | 2022-04-12 |
 | [TRILL](https://open.spotify.com/track/5k9bEY4ISp2U6XNvqx1Yvj) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [TRILL](https://open.spotify.com/album/2zqBYm0eFdJRAPZ36V2vRl) | 2:10 | 2022-03-11 | 2022-03-14 |
 | [Trivia 起 : Just Dance](https://open.spotify.com/track/4YDHRtzm0OGuieCTVQjVuk) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:45 | 2022-02-15 | 2022-02-17 |

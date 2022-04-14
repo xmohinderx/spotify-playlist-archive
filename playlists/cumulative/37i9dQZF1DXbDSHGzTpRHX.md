@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbDSHGzTpRHX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbDSHGzTpRHX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbDSHGzTpRHX)
 
-### [Fresh Finds Presents..\. Class of 2019](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+### [Fresh Finds Presents..\. Class of 2019](https://open.spotify.com/playlist/37i9dQZF1DXbDSHGzTpRHX)
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
+
+100 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

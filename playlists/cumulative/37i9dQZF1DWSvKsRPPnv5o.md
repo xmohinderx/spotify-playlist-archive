@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSvKsRPPnv5o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSvKsRPPnv5o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSvKsRPPnv5o)
 
-### [Westside Story](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
+### [Westside Story](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
 > Holdin' it down for the westside\. Cover: Buddy
+
+125 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

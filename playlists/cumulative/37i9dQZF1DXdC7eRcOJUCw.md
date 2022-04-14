@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdC7eRcOJUCw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdC7eRcOJUCw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdC7eRcOJUCw)
 
-### [Reinas del Mariachi](https://open.spotify.com/playlist/28qg7h7VtnPvoLfHcWoH3E)
+### [Reinas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DXdC7eRcOJUCw)
 
 > Estas damas sí que tienen carácter\. En portada: Guadalupe Pineda
+
+101 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/28qg7h7VtnPvoLfHcWoH3E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

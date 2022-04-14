@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 67630,
+  "num_followers": 67676,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTk5MSwwMDAwMDAwMGRmOGI5ZWI1Y2U2ZTVlNTE4MmI3MWVmZDFiNzJlMDI3",
+  "snapshot_id": "MTY0OTg5ODU3OSwwMDAwMDAwMDlhODI4NzExZmNiNWM3MGFjNTFiOWM0ZWJjNWQ2NmNk",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -163,6 +163,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Anexo",
+        "url": "https://open.spotify.com/album/0VWgiXOxnp07WJisg4AAHN"
+      },
+      "artists": [
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 183054,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/7zoaxuyAARzX2SqkiHQQqD"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 303576,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/0fZAqx5OPbcTjjJi41TWqp"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Anexo",
-        "url": "https://open.spotify.com/album/0VWgiXOxnp07WJisg4AAHN"
-      },
-      "artists": [
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 183054,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/7zoaxuyAARzX2SqkiHQQqD"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -375,26 +375,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
         "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 222506,
       "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
       "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -467,6 +467,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 219271,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/5SwdX9b2laNcqtfCM4U491"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
+      },
+      "artists": [
+        {
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
+        }
+      ],
+      "duration_ms": 257650,
+      "name": "Yo Te Adoro",
+      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Tu Voz Hablar",
         "url": "https://open.spotify.com/album/1OxNn74h25cDuGuHkREQzN"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Vestida De Adoracion",
-        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
-      },
-      "artists": [
-        {
-          "name": "Kathy Cristina",
-          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
-        }
-      ],
-      "duration_ms": 257650,
-      "name": "Yo Te Adoro",
-      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Todo Se Lo Debo a \u00c9l (Version Salsa)",
-        "url": "https://open.spotify.com/album/4SfK0SdbmnPlzdDgTu5Kvl"
+        "name": "Ven Te Estado Esperando",
+        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
       },
       "artists": [
         {
-          "name": "Jerry Hernandez-Zabala",
-          "url": "https://open.spotify.com/artist/1HJMdZQ2zO6NFFXni6JKOK"
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
         }
       ],
-      "duration_ms": 248944,
-      "name": "Todo Se Lo Debo a \u00c9l (Version Salsa)",
-      "url": "https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl"
+      "duration_ms": 349909,
+      "name": "Hermoso Nombre",
+      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcecv7ESbOPu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcecv7ESbOPu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcecv7ESbOPu)
 
-### [New Music Friday Sweden](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+### [New Music Friday Sweden](https://open.spotify.com/playlist/37i9dQZF1DXcecv7ESbOPu)
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
+
+1,771 songs - 3 day 21 hr 42 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

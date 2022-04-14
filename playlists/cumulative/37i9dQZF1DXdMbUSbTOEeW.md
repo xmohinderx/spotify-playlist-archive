@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdMbUSbTOEeW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdMbUSbTOEeW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdMbUSbTOEeW)
 
-### [mint India](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+### [mint India](https://open.spotify.com/playlist/37i9dQZF1DXdMbUSbTOEeW)
 
 > EDM is blowing up in India, thanks to these artists\. Cover: DIVINE, KSHMR, LIT KILLAH.
+
+88 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

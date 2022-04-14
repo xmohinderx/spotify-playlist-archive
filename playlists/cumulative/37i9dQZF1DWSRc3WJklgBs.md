@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSRc3WJklgBs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSRc3WJklgBs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSRc3WJklgBs)
 
-### [Heart Beats](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+### [Heart Beats](https://open.spotify.com/playlist/37i9dQZF1DWSRc3WJklgBs)
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
+
+888 songs - 2 day 4 hr 59 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

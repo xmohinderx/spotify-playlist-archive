@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWxPM4nWdhyI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWxPM4nWdhyI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWxPM4nWdhyI)
 
-### [This Is Ed Sheeran](https://open.spotify.com/playlist/1ubXN8ZL3te8j1JSTcPftP)
+### [This Is Ed Sheeran](https://open.spotify.com/playlist/37i9dQZF1DWWxPM4nWdhyI)
 
 > All his biggest hits, in one place.
+
+61 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1ubXN8ZL3te8j1JSTcPftP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

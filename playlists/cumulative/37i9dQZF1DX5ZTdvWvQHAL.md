@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5ZTdvWvQHAL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ZTdvWvQHAL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ZTdvWvQHAL)
 
-### [Baby Sleep: Nature Sounds](https://open.spotify.com/playlist/47G451af9u2JmfvxOvW6Ut)
+### [Baby Sleep: Nature Sounds](https://open.spotify.com/playlist/37i9dQZF1DX5ZTdvWvQHAL)
 
 > Soothing sounds of rain, birds, and waves.
+
+90 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/47G451af9u2JmfvxOvW6Ut)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYBXtbGSCurj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYBXtbGSCurj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYBXtbGSCurj)
 
-### [Trap Ouro](https://open.spotify.com/playlist/4T7iGLaKVcPullqJpNjFYS)
+### [Trap Ouro](https://open.spotify.com/playlist/37i9dQZF1DWYBXtbGSCurj)
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Hyperanhas
+
+187 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/4T7iGLaKVcPullqJpNjFYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

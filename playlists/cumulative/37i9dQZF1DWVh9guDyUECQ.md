@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVh9guDyUECQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVh9guDyUECQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVh9guDyUECQ)
 
-### [Flow Cristiano](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
+### [Flow Cristiano](https://open.spotify.com/playlist/37i9dQZF1DWVh9guDyUECQ)
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Lizzy Parra
+
+160 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

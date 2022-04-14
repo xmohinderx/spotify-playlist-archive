@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/1kPmmFOfrsEk7KzW46uo8m.md) - cumulative - [plain](/playlists/plain/1kPmmFOfrsEk7KzW46uo8m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1kPmmFOfrsEk7KzW46uo8m)
 
-### [CAZZETTE – Eject pt\. I](https://open.spotify.com/playlist/4FbYYfNxeiw0F7qog27pPG)
+### [CAZZETTE – Eject pt\. I](https://open.spotify.com/playlist/1kPmmFOfrsEk7KzW46uo8m)
 
 > 
+
+6 songs - 34 min 47 sec - [published](https://open.spotify.com/playlist/4FbYYfNxeiw0F7qog27pPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

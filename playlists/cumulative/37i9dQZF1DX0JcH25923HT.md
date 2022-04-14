@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0JcH25923HT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0JcH25923HT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0JcH25923HT)
 
-### [Trap Rewind](https://open.spotify.com/playlist/0rDcjPtrgz5dJNKYa0ZUTg)
+### [Trap Rewind](https://open.spotify.com/playlist/37i9dQZF1DX0JcH25923HT)
 
 > Esos éxitos del trap latino que todavía quieres seguir escuchando.<br/>Foto: Paulo Londra.
+
+207 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/0rDcjPtrgz5dJNKYa0ZUTg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

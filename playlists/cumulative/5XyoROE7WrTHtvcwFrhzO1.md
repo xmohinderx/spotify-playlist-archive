@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/5XyoROE7WrTHtvcwFrhzO1.md) - cumulative - [plain](/playlists/plain/5XyoROE7WrTHtvcwFrhzO1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5XyoROE7WrTHtvcwFrhzO1)
 
-### [Britfolk](https://open.spotify.com/playlist/25nhzadB5UyiKjadgBAAMM)
+### [Britfolk](https://open.spotify.com/playlist/5XyoROE7WrTHtvcwFrhzO1)
 
 > The best in folk and singer songwriter from the UK and Ireland.
+
+15 songs - 59 min 54 sec - [published](https://open.spotify.com/playlist/25nhzadB5UyiKjadgBAAMM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

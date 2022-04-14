@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYxUz0Ouugmb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYxUz0Ouugmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYxUz0Ouugmb)
 
-### [RADAR Indonesia](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: noui
+
+89 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

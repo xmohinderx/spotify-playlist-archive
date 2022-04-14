@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbL3J0k32lWnN.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbL3J0k32lWnN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbL3J0k32lWnN)
 
-### [Top 50 \- Denmark](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+### [Top 50 \- Denmark](https://open.spotify.com/playlist/37i9dQZEVXbL3J0k32lWnN)
 
 > Your daily update of the most played tracks right now \- Denmark.
+
+616 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

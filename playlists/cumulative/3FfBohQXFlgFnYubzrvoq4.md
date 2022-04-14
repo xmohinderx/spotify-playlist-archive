@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3FfBohQXFlgFnYubzrvoq4.md) - cumulative - [plain](/playlists/plain/3FfBohQXFlgFnYubzrvoq4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3FfBohQXFlgFnYubzrvoq4)
 
-### [On to Something Good](https://open.spotify.com/playlist/0J1Ou8RXioSVBEZUNgOfDq)
+### [On to Something Good](https://open.spotify.com/playlist/3FfBohQXFlgFnYubzrvoq4)
 
 > 
+
+20 songs - 1 hr 10 min - [published](https://open.spotify.com/playlist/0J1Ou8RXioSVBEZUNgOfDq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

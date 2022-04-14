@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb83YJL7gTWj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb83YJL7gTWj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb83YJL7gTWj)
 
-### [Chill Dinner](https://open.spotify.com/playlist/5xFoAu42rUxBBjwiUOlAS2)
+### [Chill Dinner](https://open.spotify.com/playlist/37i9dQZF1DXb83YJL7gTWj)
 
 > Press play and enjoy a relaxing meal\. Easy!
+
+146 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/5xFoAu42rUxBBjwiUOlAS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

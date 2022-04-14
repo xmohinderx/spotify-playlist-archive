@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaUDcU6KDCj4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaUDcU6KDCj4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaUDcU6KDCj4)
 
-### [Fresh Folk](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: River Whyless
+
+403 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

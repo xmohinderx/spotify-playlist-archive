@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evNZXcOE4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evNZXcOE4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evNZXcOE4)
 
-### [This Is Jane's Addiction](https://open.spotify.com/playlist/3WuJuTMYi6oilkx2gNA0Eb)
+### [This Is Jane's Addiction](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXcOE4)
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
+
+56 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3WuJuTMYi6oilkx2gNA0Eb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11,12 +13,12 @@
 | [Been Caught Stealing](https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 | 2022-01-11 |  |
 | [Been Caught Stealing \- Studio Out\-Take](https://open.spotify.com/track/2ingbF0o8bNLy68jUCqahX) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:20 | 2022-01-11 |  |
 | [Broken People](https://open.spotify.com/track/5N5o5FArQjWJdZhy00qmUK) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:39 | 2022-01-11 | 2022-03-12 |
-| [Chip Away](https://open.spotify.com/track/7mlv1xHxHHv3PBcapEiJp7) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 2:43 | 2022-01-14 |  |
+| [Chip Away](https://open.spotify.com/track/7mlv1xHxHHv3PBcapEiJp7) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 2:43 | 2022-01-14 | 2022-04-14 |
 | [City \- Soul Kiss 88](https://open.spotify.com/track/1KncvzweVpOpMmKgth4yok) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 2:30 | 2022-01-11 |  |
 | [Classic Girl](https://open.spotify.com/track/6Y6XXDCJsDYgde0FH6hlhl) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 5:07 | 2022-01-11 |  |
-| [Curiosity Kills](https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 4:29 | 2022-01-12 | 2022-04-13 |
-| [Don't Call Me Nigger, Whitey \(with Body Count\)](https://open.spotify.com/track/2vJY6FmgufXRAG5XAEmg52) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR), [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 4:18 | 2022-01-25 |  |
-| [End To The Lies](https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:31 | 2022-01-19 |  |
+| [Curiosity Kills](https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 4:29 | 2022-01-12 |  |
+| [Don't Call Me Nigger, Whitey \(with Body Count\)](https://open.spotify.com/track/2vJY6FmgufXRAG5XAEmg52) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR), [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 4:18 | 2022-01-25 | 2022-04-14 |
+| [End To The Lies](https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:31 | 2022-01-19 | 2022-04-14 |
 | [Everybody's Friend](https://open.spotify.com/track/4BtRrC7LxO4kCLhyWEhvvV) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:18 | 2022-01-11 |  |
 | [I Would for You](https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:52 | 2022-03-25 | 2022-03-27 |
 | [I Would For You \- 2006 Remastered Version](https://open.spotify.com/track/4cxwxr9Y4FPDeICr1LnCjs) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Up from the Catacombs: The Best of Jane's Addiction](https://open.spotify.com/album/1yHjzdrnVBPzPRD8CTk5xz) | 3:53 | 2022-01-11 | 2022-03-24 |
@@ -60,7 +62,7 @@
 | [Underground](https://open.spotify.com/track/5SleusK2Wc2SH46DVidSES) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:07 | 2022-01-11 |  |
 | [Up the Beach](https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:01 | 2022-01-11 |  |
 | [Whole Lotta Love \- Live, 1987](https://open.spotify.com/track/4TTnZh4sso8ir4DM7NQtAn) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 4:06 | 2022-02-08 | 2022-04-01 |
-| [Whores](https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 4:04 | 2022-01-11 | 2022-04-13 |
+| [Whores](https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 4:04 | 2022-01-11 |  |
 | [Wrong Girl](https://open.spotify.com/track/4xAv0JDzl3NmWjVzbVmW3T) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 4:32 | 2022-01-18 | 2022-01-20 |
 
 \*This playlist was first scraped on 2022-01-12. Prior content cannot be recovered.

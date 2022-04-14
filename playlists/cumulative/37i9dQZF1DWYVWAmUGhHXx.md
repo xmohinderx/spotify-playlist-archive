@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYVWAmUGhHXx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYVWAmUGhHXx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYVWAmUGhHXx)
 
-### [cachondea](https://open.spotify.com/playlist/5zFuETfEhKRghsm5a0dGCk)
+### [cachondea](https://open.spotify.com/playlist/37i9dQZF1DWYVWAmUGhHXx)
 
 > Ritmos latinos para encender la llama de la pasión.
+
+78 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/5zFuETfEhKRghsm5a0dGCk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

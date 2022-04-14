@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/3pxwKjnmDg4kwTc5nItYcx.md) - cumulative - [plain](/playlists/plain/3pxwKjnmDg4kwTc5nItYcx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3pxwKjnmDg4kwTc5nItYcx)
 
-### [Low Key Pop](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
+
+558 songs - 1 day 6 hr 10 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

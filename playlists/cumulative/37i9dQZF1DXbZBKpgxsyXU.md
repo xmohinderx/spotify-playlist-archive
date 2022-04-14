@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbZBKpgxsyXU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbZBKpgxsyXU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbZBKpgxsyXU)
 
-### [This Is OneRepublic](https://open.spotify.com/playlist/2vSU1mrzJLM9z8pFih229i)
+### [This Is OneRepublic](https://open.spotify.com/playlist/37i9dQZF1DXbZBKpgxsyXU)
 
 > The essential tracks, all in one playlist.
+
+44 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/2vSU1mrzJLM9z8pFih229i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

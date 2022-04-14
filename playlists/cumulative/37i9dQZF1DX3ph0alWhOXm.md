@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ph0alWhOXm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ph0alWhOXm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ph0alWhOXm)
 
-### [Drinkin' Songs](https://open.spotify.com/playlist/1tMONXYD6Zd2IPC4azaPza)
+### [Drinkin' Songs](https://open.spotify.com/playlist/37i9dQZF1DX3ph0alWhOXm)
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
+
+99 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/1tMONXYD6Zd2IPC4azaPza)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for the function.",
-  "num_followers": 23058,
+  "num_followers": 23073,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTYzNCwwMDAwMDAwMDVjYjgwNDU4YmE1Yzc1ODE1OWJhM2ZjZDM5OWM5ZDY1",
+  "snapshot_id": "MTY0OTg5ODIzNiwwMDAwMDAwMDQwYjFhNjBkNTEzZDM5OTBjZTFjMWM3NDI2YjMxZmRi",
   "tracks": [
     {
       "added_at": "2021-06-24 14:44:57",
@@ -667,26 +667,38 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Saaho",
-        "url": "https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr"
+        "name": "Sarrainodu",
+        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "M.C. Vickey",
+          "url": "https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL"
         },
         {
-          "name": "Dhvani Bhanushali",
-          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          "name": "M. M. Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
         }
       ],
-      "duration_ms": 166293,
-      "name": "Psycho Saiyaan",
-      "url": "https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E"
+      "duration_ms": 263440,
+      "name": "Private Party",
+      "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "MCA (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 197321,
+      "name": "MCA",
+      "url": "https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -715,38 +727,26 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "MCA (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q"
+        "name": "Saaho",
+        "url": "https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr"
       },
       "artists": [
         {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        }
-      ],
-      "duration_ms": 197321,
-      "name": "MCA",
-      "url": "https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Sarrainodu",
-        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
-      },
-      "artists": [
-        {
-          "name": "M.C. Vickey",
-          "url": "https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "M. M. Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         }
       ],
-      "duration_ms": 263440,
-      "name": "Private Party",
-      "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
+      "duration_ms": 166293,
+      "name": "Psycho Saiyaan",
+      "url": "https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "I - Manoharudu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Pareshanayya - Remix",
-      "url": "https://open.spotify.com/track/2zF9IP6ELZAOQqRjchVYhB"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Attarrintiki Daaredi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/13XyqrYVQXonzIrgBLfFrX"
       },
@@ -1207,6 +1183,30 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "I - Manoharudu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Pareshanayya - Remix",
+      "url": "https://open.spotify.com/track/2zF9IP6ELZAOQqRjchVYhB"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Gharshana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5vcMhImy6HvLrAczwRtakO"
       },
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Janatha Garage",
-        "url": "https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8"
+        "name": "Jai Lava Kusa",
+        "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
       },
       "artists": [
         {
-          "name": "Geetha Madhuri",
-          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
         },
         {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
         }
       ],
-      "duration_ms": 259329,
-      "name": "Pakka Local",
-      "url": "https://open.spotify.com/track/3oLSlzMt3SD5PYSMf1Aqo0"
+      "duration_ms": 260588,
+      "name": "Tring Tring",
+      "url": "https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Jai Lava Kusa",
-        "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
+        "name": "Janatha Garage",
+        "url": "https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8"
       },
       "artists": [
         {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
         },
         {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
         }
       ],
-      "duration_ms": 260588,
-      "name": "Tring Tring",
-      "url": "https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq"
+      "duration_ms": 259329,
+      "name": "Pakka Local",
+      "url": "https://open.spotify.com/track/3oLSlzMt3SD5PYSMf1Aqo0"
     },
     {
       "added_at": "2021-06-24 14:44:57",

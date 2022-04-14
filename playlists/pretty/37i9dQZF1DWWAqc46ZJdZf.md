@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,619 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,532 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 42 | [Otherside Of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
 | 43 | [No Peace](https://open.spotify.com/track/3DliwhIdelfQchlNF6ApRt) | [Jalen Santoy](https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS) | [No Peace](https://open.spotify.com/album/3v1VMKHsrg0F0vrBoiRRhr) | 3:09 |
 | 44 | [Melanated](https://open.spotify.com/track/0ojNk5JVukyByGIps1Sw42) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Melanated](https://open.spotify.com/album/0AJBYPB9XN3To4eKbQIOfk) | 3:12 |
-| 45 | [Grinding All My Life](https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 2:55 |
-| 46 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 |
+| 45 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 |
+| 46 | [Grinding All My Life](https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 2:55 |
 | 47 | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\) \- Edit](https://open.spotify.com/track/1v49ImdfM7a8TcnBzwHhLY) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\)](https://open.spotify.com/album/6EiGFcgkaIJzznQF25DbFY) | 4:53 |
 | 48 | [Strange Stains](https://open.spotify.com/track/5lCjKaQeeaQgyEbRbSHkpg) | [Kendre Streeter](https://open.spotify.com/artist/7nJfRg4AXIRUuYseHZxr7w) | [Strange Stains](https://open.spotify.com/album/6DbxM01JWegPZoVARyHslF) | 4:05 |
 | 49 | [Dear Mr\. President](https://open.spotify.com/track/4HYxdImJMiZ1pcpxwIRzEo) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Dear Mr\. President](https://open.spotify.com/album/3mlLZTk6WbtK1exwMTfvBj) | 4:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
 | 60 | [Kings](https://open.spotify.com/track/34I7k03M8nh8HDlLcrHlVS) | [Kosine](https://open.spotify.com/artist/5JO4jfnkthNB05Byp1zA84), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Kings](https://open.spotify.com/album/1JBUJodU3ej0ZIWBjkpKgE) | 3:29 |
 
-Snapshot ID: `MTY0OTgxMTQ2MCwwMDAwMDAwMDBhOTk1MTg5MTcyNjljNzI2MTJlNDYyMDBlOTEyNDlh`
+Snapshot ID: `MTY0OTg5ODA3MywwMDAwMDAwMDMwMmU0MDVlOTU0NTcxYzE1MTY2ZjJjODhkYmRiNWU0`

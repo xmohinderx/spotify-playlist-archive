@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/43rSnXFDoctqiZxvEqH14P.md) - cumulative - [plain](/playlists/plain/43rSnXFDoctqiZxvEqH14P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/43rSnXFDoctqiZxvEqH14P)
 
-### [Chill as Folk](https://open.spotify.com/playlist/5PAgA9VLmJBsGlCGam0fhB)
+### [Chill as Folk](https://open.spotify.com/playlist/43rSnXFDoctqiZxvEqH14P)
 
 > Your go\-to collection for just hanging out and doing nothing..\. or whatever.
+
+56 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5PAgA9VLmJBsGlCGam0fhB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

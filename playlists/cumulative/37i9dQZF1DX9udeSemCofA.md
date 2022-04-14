@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9udeSemCofA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9udeSemCofA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9udeSemCofA)
 
-### [Heavy Dub](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
+### [Heavy Dub](https://open.spotify.com/playlist/37i9dQZF1DX9udeSemCofA)
 
 > Mellow out with this dub music.
+
+52 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

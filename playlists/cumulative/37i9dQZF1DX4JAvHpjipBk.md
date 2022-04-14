@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4JAvHpjipBk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4JAvHpjipBk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4JAvHpjipBk)
 
-### [New Music Friday](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
+### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
 > New music from Lil Baby, Jack Harlow, Camila Cabello, Charlie Puth, and more!
+
+12,665 songs - 27 day 17 hr 48 min - [published](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

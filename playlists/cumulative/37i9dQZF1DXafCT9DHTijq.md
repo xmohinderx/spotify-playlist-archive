@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXafCT9DHTijq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafCT9DHTijq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafCT9DHTijq)
 
-### [Classical Halloween](https://open.spotify.com/playlist/1ohNgKUVv603CyUhWhtNO6)
+### [Classical Halloween](https://open.spotify.com/playlist/37i9dQZF1DXafCT9DHTijq)
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
+
+48 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/1ohNgKUVv603CyUhWhtNO6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

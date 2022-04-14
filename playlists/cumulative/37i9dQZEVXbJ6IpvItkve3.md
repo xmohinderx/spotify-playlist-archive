@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJ6IpvItkve3.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJ6IpvItkve3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJ6IpvItkve3)
 
-### [Top 50 \- Israel](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+### [Top 50 \- Israel](https://open.spotify.com/playlist/37i9dQZEVXbJ6IpvItkve3)
 
 > Your daily update of the most played tracks right now \- Israel.
+
+334 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

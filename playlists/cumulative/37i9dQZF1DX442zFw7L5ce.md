@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX442zFw7L5ce) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX442zFw7L5ce)
 
-### [Tollywood Divas](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
+### [Tollywood Divas](https://open.spotify.com/playlist/37i9dQZF1DX442zFw7L5ce)
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
+
+57 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,801 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,064 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 19 | [O Baixo do Kassin](https://open.spotify.com/track/2rqbQFXEwBboCYy2uwSoxM) | [Sonzeira](https://open.spotify.com/artist/5ECw3EVP88QcyfvjWehLSH), [Kassin](https://open.spotify.com/artist/3KNQV3MQsTnUfJaVpZUfCk) | [Tam Tam Tam Reimagined](https://open.spotify.com/album/1uXTbo8bF8rARKVIFqnm4A) | 3:27 |
 | 20 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 21 | [Asa Branca](https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 4:12 |
-| 22 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
+| 22 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 |
 | 23 | [I'm Losin' the Feelin](https://open.spotify.com/track/21mfBGEabxcfK6UtEeZRtU) | [Little Beaver](https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn) | [Joey](https://open.spotify.com/album/5AcBVnXBm6kcSA2xwX88aE) | 3:18 |
-| 24 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 |
+| 24 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
 | 25 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
 | 26 | [Nakamarra](https://open.spotify.com/track/1WCbWyu8mRrOk5Su9yPnkO) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:34 |
 | 27 | [Moment to Change](https://open.spotify.com/track/1ML1hKOswbviGfAGVLXA3k) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [At the Moment](https://open.spotify.com/album/6AANVkZf5rOwMb1emJOPpe) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 |
 | 75 | [If Anything](https://open.spotify.com/track/05Id2KGI1qVa67tQeg2MBh) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [If Anything](https://open.spotify.com/album/0q29rzT91aR2Jy5EssSDPZ) | 2:40 |
 
-Snapshot ID: `MTY0OTgxMTgxNSwwMDAwMDAwMDA1MjY4ZTYyZTk5OTBiNzAyYTEwYjZiODgxYjRmOWZm`
+Snapshot ID: `MTY0OTg5ODQwOCwwMDAwMDAwMDJlNjJkZDU5NzRiOTdmMjEyYjIzNjViODAxNDBjMGQz`

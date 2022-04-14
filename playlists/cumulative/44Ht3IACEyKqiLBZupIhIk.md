@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/44Ht3IACEyKqiLBZupIhIk.md) - cumulative - [plain](/playlists/plain/44Ht3IACEyKqiLBZupIhIk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/44Ht3IACEyKqiLBZupIhIk)
 
-### [Sweetgrass](https://open.spotify.com/playlist/0mhBL89dTtfA8gdS3XrXKq)
+### [Sweetgrass](https://open.spotify.com/playlist/44Ht3IACEyKqiLBZupIhIk)
 
 > Sweet and slow, soft and soothing..\. a collection of beautiful bluegrass vocals.
+
+29 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/0mhBL89dTtfA8gdS3XrXKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

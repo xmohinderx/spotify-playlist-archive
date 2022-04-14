@@ -1,8 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZRM5WD7taad.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZRM5WD7taad) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZRM5WD7taad)
 
-### [Femcees](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Snow Tha Product
+
+86 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

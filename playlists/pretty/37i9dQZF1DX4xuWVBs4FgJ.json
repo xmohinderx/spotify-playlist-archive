@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1397226,
+  "num_followers": 1397381,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgxMTc2OSwwMDAwMDAwMDQzMDg3NzMwOWE3YjY3ZDc3MjA2MDQ2MjA3YTEwMzFm",
+  "snapshot_id": "MTY0OTg5ODM2MiwwMDAwMDAwMDYxMTUwYWRmOGE2YWU4OWEwYmZhZGRhOWJiMGUxZWI5",
   "tracks": [
     {
       "added_at": "2021-06-22 07:40:49",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
-        "name": "Ordinary People",
-        "url": "https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 253597,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
         "name": "L\u00c9ON",
         "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 225868,
       "name": "Come Home To Me",
       "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
+        "name": "Ordinary People",
+        "url": "https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 253597,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l"
     },
     {
       "added_at": "2021-06-22 07:40:49",
@@ -199,38 +199,6 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/16A6HpMW9UMCB3GNA0Es7a"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 234623,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2Pph0CUJ8uksCBzV6iyuQF"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
         "name": "You And I",
         "url": "https://open.spotify.com/album/1c1hJ610qZdUBs0eSavbB4"
       },
@@ -247,6 +215,22 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
         "name": "The One I Love",
         "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 191386,
       "name": "The One I Love",
       "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/16A6HpMW9UMCB3GNA0Es7a"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 234623,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2Pph0CUJ8uksCBzV6iyuQF"
     },
     {
       "added_at": "2021-06-22 07:40:49",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
-        "name": "What A Day",
-        "url": "https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v"
-      },
-      "artists": [
-        {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
-        }
-      ],
-      "duration_ms": 189160,
-      "name": "What A Day",
-      "url": "https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
         "name": "All Love Everything",
         "url": "https://open.spotify.com/album/2BsJeAxJ9TixXTDTis7T7I"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 147946,
       "name": "All Love Everything",
       "url": "https://open.spotify.com/track/7g5bq2JSKV0eNKTFluoQNt"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
+        "name": "What A Day",
+        "url": "https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "What A Day",
+      "url": "https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH"
     },
     {
       "added_at": "2021-06-22 07:40:49",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
-        "name": "I Believe in Us",
-        "url": "https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "I Believe in Us",
-      "url": "https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
         "name": "Amidst the Chaos",
         "url": "https://open.spotify.com/album/3GhJxHA12jGyBTgTD5zbmt"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 166880,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/3tR6P9ZbmAv9rqtUBEEIbY"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
+        "name": "I Believe in Us",
+        "url": "https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "I Believe in Us",
+      "url": "https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4"
     },
     {
       "added_at": "2021-06-22 07:40:49",
