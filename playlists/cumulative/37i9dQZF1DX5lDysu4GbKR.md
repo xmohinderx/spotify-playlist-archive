@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
 
-114 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+115 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,11 +62,12 @@
 | [If You Let Me \(acoustic\)](https://open.spotify.com/track/0uiD8QLovbwsuJPnIRqQWM) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [If You Let Me \(acoustic\)](https://open.spotify.com/album/3Rg1V0bGiMusD8yvXy8oR1) | 4:25 | 2021-12-09 |  |
 | [Insecure \- Live in Nashville](https://open.spotify.com/track/1xKTLrwGGxHhltkrDHd6N8) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Insecure \(Live In Nashville\)](https://open.spotify.com/album/3GS6nnMAWVavSdhcq7PLKS) | 3:07 | 2021-12-09 |  |
 | [Is This Love](https://open.spotify.com/track/4DNisbJkFrnE940piQZZa8) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/5F9dIlw7nEOIVpXk0sBnVg) | 4:04 | 2021-12-09 |  |
-| [Island \- Acoustic](https://open.spotify.com/track/5Uy03aUBj5VnFlUsAqee96) | [Jessica Domingo](https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR) | [Island \(Acoustic\)](https://open.spotify.com/album/5jlDQfDkKGseLn7ZAyCB9E) | 3:32 | 2021-12-09 |  |
+| [Island \- Acoustic](https://open.spotify.com/track/5Uy03aUBj5VnFlUsAqee96) | [Jessica Domingo](https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR) | [Island \(Acoustic\)](https://open.spotify.com/album/5jlDQfDkKGseLn7ZAyCB9E) | 3:32 | 2021-12-09 | 2022-04-15 |
 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wuTSrQV6VRAND6HDxPECb) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/1XyQMANgAQrw0fhHFi50ll) | 4:25 | 2021-12-09 |  |
 | [Kool Aid \- Acoustic](https://open.spotify.com/track/6GLWJ3RSJvWjtYV9b97pW4) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Kool Aid \(Acoustic\)](https://open.spotify.com/album/5Tz504v4T99RM3I6Plh6AJ) | 3:21 | 2021-12-09 | 2022-01-14 |
 | [Learn to Love](https://open.spotify.com/track/3taKjGFvma0IwV5GmLsLDd) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Learn to Love](https://open.spotify.com/album/2g7lu7csvYm3EtX1hwtVgo) | 3:45 | 2021-12-09 |  |
 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 | 2021-12-09 |  |
+| [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 | 2022-04-14 |  |
 | [Like I Want You \- Acoustic](https://open.spotify.com/track/0qXu4pFQSIwkfTUgkE6WzF) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:05 | 2021-12-09 |  |
 | [Listen \- Acoustic Version](https://open.spotify.com/track/0T1G4VdmWe9rX37ekFNFJi) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/3YEOY0jQ0vjWKbMQ0vVJ1f) | 4:08 | 2021-12-09 |  |
 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 | 2021-12-09 |  |

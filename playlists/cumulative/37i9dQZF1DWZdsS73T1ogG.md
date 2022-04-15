@@ -2,7 +2,7 @@
 
 ### [New Urbano](https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG)
 
-> Descubre lo más nuevo del movimiento\. Cover: Polimá Westcoast, Farruko, KEVVO, Wisin
+> Descubre lo más nuevo del movimiento\. Cover: Ozuna, Boza
 
 67 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 

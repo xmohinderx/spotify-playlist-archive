@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,435 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,457 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 17 | [Bottom Bitch](https://open.spotify.com/track/1L0z2CQKrKJ2spYSMkfim9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:17 |
 | 18 | [Money](https://open.spotify.com/track/3Tqi3BMq3bhuX6hT36M0Ni) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Money](https://open.spotify.com/album/2RpR1PdoMGXgt7n9k3lsV5) | 2:56 |
 | 19 | [Foreva](https://open.spotify.com/track/5mwQ8wQElaMO1joDd5vtwd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Gangsta Bitch Music Vol 1](https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO) | 3:22 |
-| 20 | [LMK\_WHAT’S REALLY GOOD REMIX\_ FEAT\_PRINCESS NOKIA\_JUNGLEPUSSY\_CUPCAKKE\_MS\. BOOGIE\_100 BPM](https://open.spotify.com/track/5lhN9EmmTNJ18mPxtIHyzZ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Ms\. Boogie](https://open.spotify.com/artist/6E8343mwYf03Z5kGxZoRVt) | [LMK\_WHAT’S REALLY GOOD REMIX\_ FEAT\_PRINCESS NOKIA\_JUNGLEPUSSY\_CUPCAKKE\_MS\. BOOGIE\_100 BPM](https://open.spotify.com/album/5zSmx2XP0vZkd9Q3tgChoE) | 5:20 |
+| 20 | [LMK\_WHAT’S REALLY GOOD REMIX\_ FEAT\_PRINCESS NOKIA\_JUNGLEPUSSY\_CUPCAKKE\_MS\. BOOGIE\_100 BPM](https://open.spotify.com/track/5lhN9EmmTNJ18mPxtIHyzZ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq) | [LMK\_WHAT’S REALLY GOOD REMIX\_ FEAT\_PRINCESS NOKIA\_JUNGLEPUSSY\_CUPCAKKE\_MS\. BOOGIE\_100 BPM](https://open.spotify.com/album/5zSmx2XP0vZkd9Q3tgChoE) | 5:20 |
 | 21 | [Deepthroat](https://open.spotify.com/track/5cXtT63OTadsjqfRkm5Dwd) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Cum Cake](https://open.spotify.com/album/5ATRiVbJcsarm1ndaI0DY9) | 3:19 |
 | 22 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
 | 23 | [Blessed \(with Tyga\)](https://open.spotify.com/track/5imCvF3VHty1TZ0qaE1JEj) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blessed \(with Tyga\)](https://open.spotify.com/album/7aTeShQY6NnCiFmjYluvcl) | 2:28 |

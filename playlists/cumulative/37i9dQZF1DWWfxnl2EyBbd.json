@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 352850,
       "name": "A Mother's Heart",
       "url": "https://open.spotify.com/track/1hH9i9VsAu9tpBBgOPtCqS"
@@ -103,14 +103,6 @@
         {
           "name": "Gene Jackson",
           "url": "https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8"
-        },
-        {
-          "name": "Gabriel Guerrero",
-          "url": "https://open.spotify.com/artist/1zjmlITuCUFAD5Pmg2JjPu"
-        },
-        {
-          "name": "Carlo De Rosa",
-          "url": "https://open.spotify.com/artist/3e0v6X6eP71gnWARy2FT5Q"
         }
       ],
       "date_added": "2022-02-10",
@@ -731,10 +723,36 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 234511,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/74bdbf4mh1BjApMO0quFNT"
+      },
+      "artists": [
+        {
+          "name": "Justin Salisbury",
+          "url": "https://open.spotify.com/artist/0wCRGycyYyEg4vWwoi11SS"
+        },
+        {
+          "name": "Max Ridley",
+          "url": "https://open.spotify.com/artist/1V9Kzod7IH1xbKx8i000ko"
+        },
+        {
+          "name": "Dan Nadeau",
+          "url": "https://open.spotify.com/artist/4S9by6hwhiUvkmHNTG5FXY"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413374,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA"
     },
     {
       "album": {
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 376680,
       "name": "Jitterbug Waltz",
       "url": "https://open.spotify.com/track/78tkbFOl19X4dd25sxossL"
@@ -1479,6 +1497,32 @@
       "duration_ms": 403226,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx"
+    },
+    {
+      "album": {
+        "name": "(Don't) Count Your Blessings",
+        "url": "https://open.spotify.com/album/1zPqKASG9jkMCYzZzNDz13"
+      },
+      "artists": [
+        {
+          "name": "Hansen Arief",
+          "url": "https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA"
+        },
+        {
+          "name": "Kevin Yosua",
+          "url": "https://open.spotify.com/artist/1uLcc17o9i3d6maIgWD1g8"
+        },
+        {
+          "name": "Nial Djuliarso",
+          "url": "https://open.spotify.com/artist/7xvuA4KIDWeASr76zEvwOw"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299400,
+      "name": "Lullaby for Kala",
+      "url": "https://open.spotify.com/track/2iDBp6FJxuJyAOYCzahVAw"
     },
     {
       "album": {
@@ -1603,7 +1647,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 245698,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
@@ -2306,6 +2350,24 @@
     },
     {
       "album": {
+        "name": "Soft Summer Breeze",
+        "url": "https://open.spotify.com/album/4943XSKD7cXKrUQIs1FdNL"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411613,
+      "name": "Soul Train",
+      "url": "https://open.spotify.com/track/6gbgvmLYZ3Ms3yXfZU3YtS"
+    },
+    {
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/3brxc2ayHoVUxk8PhXFZ8A"
       },
@@ -2351,7 +2413,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 473680,
       "name": "Spartacus Love Theme",
       "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
@@ -2373,6 +2435,24 @@
       "duration_ms": 398866,
       "name": "Stairway to the Stars",
       "url": "https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN"
+    },
+    {
+      "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319893,
+      "name": "Still Crazy After All These Years",
+      "url": "https://open.spotify.com/track/08m95knJWmtWZ4xWwAFVoX"
     },
     {
       "album": {
@@ -2939,7 +3019,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 450426,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/6UN7iywg34GxVpbWGcEuPd"

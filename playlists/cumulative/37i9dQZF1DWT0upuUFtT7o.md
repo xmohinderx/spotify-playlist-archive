@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Luke Royalty Artwork: Robin Clifford Ellis
 
-464 songs - 1 day 1 hr 24 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+465 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Waiting](https://open.spotify.com/track/3As28sSAJhIJM4eiWsqy0o) | [Shane Malone](https://open.spotify.com/artist/7fpylGUyXMAdpnA3K1PBQe), [Sprig](https://open.spotify.com/artist/0jaGYCvtXQKLpEsQjH3cIU) | [Waiting](https://open.spotify.com/album/0pL6pdKpWpvOv7sfjhAy4J) | 4:24 | 2022-03-09 |  |
 | [Wanna Say](https://open.spotify.com/track/1eGrBNUpkLzFpAJStjlwOo) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Wanna Say](https://open.spotify.com/album/5rKcHgjJmuawXDqH8sMFU2) | 2:58 | 2021-12-01 | 2022-01-13 |
 | [Want More](https://open.spotify.com/track/3u4I0wG01BfLQmRx7l1o8Y) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Want More](https://open.spotify.com/album/111cloERDY2VKFcne8JNzq) | 3:39 | 2022-04-06 |  |
+| [Waves](https://open.spotify.com/track/70f04FcqkT4uZiXAy4mJlH) | [Wild Painting](https://open.spotify.com/artist/4XJBPKlKZKYlkgjxOPgo69) | [Emotions](https://open.spotify.com/album/2l44jK6Q5tnQjCUHwmnv28) | 3:53 | 2022-04-14 |  |
 | [way back 2 you](https://open.spotify.com/track/3ySkKnDdEkmW6zEzkQIsOv) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [way back 2 you](https://open.spotify.com/album/0ZKlsBdvVS0vGbLZF8DBZ9) | 2:05 | 2022-02-09 | 2022-03-17 |
 | [Wet Clothes](https://open.spotify.com/track/6PJQ48cSLvoTBwPkohXZwa) | [Dear Boy](https://open.spotify.com/artist/4FMlCZsSwNgGiNk6PHo796) | [Wet Clothes](https://open.spotify.com/album/7HwdLn7aZxYsFWIsCQbVns) | 4:13 | 2022-03-30 |  |
 | [What I Need](https://open.spotify.com/track/1BRfYRNpesnh2MgrII9odh) | [Slimb](https://open.spotify.com/artist/56gYVdHAHZ4M1eKO1bI97l) | [What I Need](https://open.spotify.com/album/7M1M0LJK7KNGQNBlZhfPwe) | 2:00 | 2022-03-09 |  |

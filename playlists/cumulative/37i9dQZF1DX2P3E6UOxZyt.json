@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2022 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u9396\u5b9a\u83ef\u8a9e\u6a02\u58c7\u7684\u6700\u5f37\u65b0\u8072\u4ee3\uff01\u5927\u63a8\u6f5b\u529b\u7121\u9650\u7684\u4e9e\u6d32\u8072\u52e2\u529b\uff01Cover: 2022 RADAR \u65b0\u52e2\u529b",
+  "description": "2022 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u9396\u5b9a\u83ef\u8a9e\u6a02\u58c7\u7684\u6700\u5f37\u65b0\u8072\u4ee3\uff01\u5927\u63a8\u6f5b\u529b\u7121\u9650\u7684\u4e9e\u6d32\u8072\u52e2\u529b\uff01Cover: \u67cf\u9716PoLin",
   "name": "RADAR \u65b0\u52e2\u529b",
   "published_playlist_ids": [
     "4F7NjOso9HiGHjthWcrZL4"
@@ -275,6 +275,24 @@
       "duration_ms": 172282,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL"
+    },
+    {
+      "album": {
+        "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
+        "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273872,
+      "name": "Imma Get A New One",
+      "url": "https://open.spotify.com/track/0WSTcd9inhbtHhV9vi1jDQ"
     },
     {
       "album": {
@@ -767,7 +785,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 180208,
       "name": "You Like Me",
       "url": "https://open.spotify.com/track/7x6lPvge2DmUzODEWkYYam"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "\u4e09\u5929\u4e4b\u5167\u6688\u4e86\u4f60",
       "url": "https://open.spotify.com/track/2sTgpjvhk5NYKtGO6LWogR"
@@ -915,10 +933,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 215381,
       "name": "\u4f60\u554a\u4f60\u554a",
       "url": "https://open.spotify.com/track/3XZm6Oodp4jBnJUYe2lRSv"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u5920\u4e86",
+        "url": "https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201363,
+      "name": "\u4f60\u5920\u4e86",
+      "url": "https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR"
     },
     {
       "album": {
@@ -977,10 +1013,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 253484,
       "name": "\u4f60\u70ba\u4e86\u6211\u6490\u628a\u5098",
       "url": "https://open.spotify.com/track/4EaJwA6CPIV30CX6mpHwbP"
+    },
+    {
+      "album": {
+        "name": "\u4f86\u4e0d\u53ca\u7684\u544a\u767d (\u6771\u68ee\u96fb\u8996\u81ea\u88fd\u6232\u5287\u300a\u984d\u5916\u65c5\u7a0b\u300b\u7247\u982d\u66f2)",
+        "url": "https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "\u4f86\u4e0d\u53ca\u7684\u544a\u767d - \u6771\u68ee\u96fb\u8996\u81ea\u88fd\u6232\u5287\u300a\u984d\u5916\u65c5\u7a0b\u300b\u7247\u982d\u66f2",
+      "url": "https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD"
     },
     {
       "album": {
@@ -1343,7 +1397,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 204800,
       "name": "\u5979\u7e3d\u662f",
       "url": "https://open.spotify.com/track/4pe1L6Aqzcb1N2igoamraU"
@@ -1487,7 +1541,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 217311,
       "name": "\u5df2\u7d93\u90fd\u58de\u6389\u4e86",
       "url": "https://open.spotify.com/track/63SsfMEls60dFyvkcFIkz9"
@@ -1707,7 +1761,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 230823,
       "name": "\u6211\u7684\u611b\u4eba - \u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5yB8pbwyi8eNuJWs50nkEH"
@@ -1743,7 +1797,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
@@ -1819,7 +1873,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 197334,
       "name": "\u6700\u7f8e\u7684\u98a8\u666f (feat. \u83ab\u5bb0\u7f8a)",
       "url": "https://open.spotify.com/track/3LkITiONSVW8eWhruHhiDJ"
@@ -1909,7 +1963,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 223368,
       "name": "\u6839\u672c\u4e0d\u662f\u6211\u5c0d\u624b",
       "url": "https://open.spotify.com/track/2K38uU4e957XLRNdO1C8NE"
@@ -2535,7 +2589,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 306546,
       "name": "\u966a\u4f60\u5931\u6557 (feat. \u5bfa\u4e8c)",
       "url": "https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl"

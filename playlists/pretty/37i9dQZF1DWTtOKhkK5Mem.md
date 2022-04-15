@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,539 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,761 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 150 | [Let's Stay Together](https://open.spotify.com/track/13IDNoCfqSo5ixi2WO2oOk) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 3:18 |
 
-Snapshot ID: `MTY0OTg5Nzk5OSwwMDAwMDAwMDJiZDAxMTRiMGVmYmU3ZTk4NjVlZDkzZmE3NGU4ODZl`
+Snapshot ID: `MTY0OTk4NDA5NCwwMDAwMDAwMDJiZDAxMTRiMGVmYmU3ZTk4NjVlZDkzZmE3NGU4ODZl`

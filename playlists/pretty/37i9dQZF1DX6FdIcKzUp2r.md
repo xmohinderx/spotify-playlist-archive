@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,711 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,779 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [Easter Parade](https://open.spotify.com/track/1tpmxprFpSPS7sOmFySmGl) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [A Walk Across The Rooftops](https://open.spotify.com/album/2UrSPDjccATKgu4CIxu8IV) | 4:34 |
 | 80 | [Lady Marian \- Remastered 2003](https://open.spotify.com/track/4hCacl8149uMvU4EBx4c19) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Legend](https://open.spotify.com/album/2Ybk2o6v6vqbLcRkPS7m2F) | 3:22 |
 
-Snapshot ID: `MTY0OTg5ODQxMSwwMDAwMDAwMDY2MjczNzVjZDZhZmNkZmY2OTZjMTg0NGI1OGU1OGI0`
+Snapshot ID: `MTY0OTk4NDUyNywwMDAwMDAwMDY2MjczNzVjZDZhZmNkZmY2OTZjMTg0NGI1OGU1OGI0`

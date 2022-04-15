@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Mágico do Som e os funks mais 🔑 do Brasil\. Foto: Mc WM, MC Lan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,544,838 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,546,325 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

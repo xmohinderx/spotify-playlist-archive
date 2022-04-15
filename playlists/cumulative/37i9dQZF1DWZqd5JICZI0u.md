@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-364 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+366 songs - 19 hr 19 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Amoralis](https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Always Wear A Crown](https://open.spotify.com/album/1lqjD9lHsGxFVgzoYP7Xxg) | 4:13 | 2021-09-29 |  |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2021-05-05 |  |
 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 | 2020-09-30\* |  |
+| [Anteayer](https://open.spotify.com/track/3OGJPptGu6VVcvrum6Nhxu) | [Saige Kasey](https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV) | [Anteayer](https://open.spotify.com/album/58JQTw0M50HIXY8EqtQZj1) | 2:32 | 2022-04-14 |  |
 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 | 2020-12-11 |  |
 | [Arrival](https://open.spotify.com/track/3jaCuiu5pvF2e7XnSi1NBw) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter One](https://open.spotify.com/album/4sVkpKX5ifo2XYpSNHKLyU) | 3:05 | 2021-04-14 |  |
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2020-12-24 |  |
@@ -183,6 +184,7 @@
 | [Lost at Sea](https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Wandering the Coast](https://open.spotify.com/album/2ufoGt7vrupWII9nAa2pfa) | 3:12 | 2020-09-30\* | 2021-11-19 |
 | [Lowering Mind](https://open.spotify.com/track/5tfnG31hpSaIGTFLVUdlEx) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Humility](https://open.spotify.com/album/0sUwuNy0E8I5xVWKXLy3XI) | 4:12 | 2021-08-26 |  |
 | [Lucerne](https://open.spotify.com/track/023i4Phiw266d2OaRbudOg) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Lucerne](https://open.spotify.com/album/5SvO1rgtXSxI44z0M53if2) | 3:17 | 2020-12-24 |  |
+| [Lucid](https://open.spotify.com/track/6gTCJjbNwIv0natup8hdnF) | [Annmarie Celine](https://open.spotify.com/artist/0XdUzYIOLBT1s6YgLxcWi6) | [Lucid](https://open.spotify.com/album/0UCYKJ1G9fLOPr48jtq3U6) | 2:34 | 2022-04-14 |  |
 | [Lyrae](https://open.spotify.com/track/7ezPWKIAQvCztMhiHRQPuJ) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [Lyrae](https://open.spotify.com/album/2LdgV7loCwJ99NyWlIOi1C) | 3:32 | 2020-09-30\* | 2022-03-25 |
 | [Magica](https://open.spotify.com/track/75D9esOK7ASfcREQAvbtql) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Magica](https://open.spotify.com/album/0I1dDqctYZ26sVYoFxGIZY) | 2:57 | 2020-09-30\* | 2021-09-14 |
 | [Malam Damai](https://open.spotify.com/track/6D70aCXcWTHKQwKF0UwEXK) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Malam Damai](https://open.spotify.com/album/0PqegpoTe8loOHH8QVTKsj) | 3:45 | 2021-01-29 |  |

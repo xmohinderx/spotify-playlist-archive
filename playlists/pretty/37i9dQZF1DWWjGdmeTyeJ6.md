@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Black Polish, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,365 likes - 59 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,453 likes - 59 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 4 | [Losing You](https://open.spotify.com/track/13bfgUVzFatSYQPkZ4euTe) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Losing You](https://open.spotify.com/album/22iUSFqCbq62Oa7J3pAyhO) | 2:14 |
 | 5 | [Sad Lesbians](https://open.spotify.com/track/6hndh6PMrczXUahuOy6EQg) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Out of Place](https://open.spotify.com/album/1i2dNMsTYnqJ9z8NNVp78Q) | 3:52 |
 | 6 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 |
-| 7 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [miss u](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 |
+| 7 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [Miss U](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 |
 | 8 | [HONEYMOON](https://open.spotify.com/track/3pBVQynngYmTMnAsXnFXcF) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [HONEYMOON](https://open.spotify.com/album/3OsmmFOV70yEsmVUMjmEuf) | 3:18 |
 | 9 | [Last Resort](https://open.spotify.com/track/4YrFU5gRsmKv69s2L3AYdB) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Last Resort](https://open.spotify.com/album/4RAwawz5JYMUCMW63mgtaE) | 2:09 |
 | 10 | [You Always Do](https://open.spotify.com/track/5tWUcgLQs38p5qXhJEdmZF) | [Gable Bradley](https://open.spotify.com/artist/2wHxKvmyVbfpfcynrta2z1) | [You Always Do](https://open.spotify.com/album/5Ez4FzBMit1JlQ8oh2Sw9E) | 2:43 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 58 | [Periwinkle](https://open.spotify.com/track/6CVHJkSw1VomefpLOOxIUE) | [colleen dow](https://open.spotify.com/artist/1TkYhihp4BiyP0JnhIoyRI) | [Periwinkle](https://open.spotify.com/album/4XKnNKmJotZzQd6Qk3qYLI) | 2:59 |
 | 59 | [Meant 4 u](https://open.spotify.com/track/6WaelsqiK0obqcmaSup3nS) | [Kierra the Goddess](https://open.spotify.com/artist/1Rm4i7p3cZu98ijRCgGDPI) | [Meant 4 u](https://open.spotify.com/album/7jfQ51q2jmIwFFSCXSBU8G) | 3:40 |
 
-Snapshot ID: `MTY0OTg5ODA5MiwwMDAwMDAwMDA2MWY4OTcxOTk0YzU1YWY0NmUwYWFlNDI5ZmFiNmI3`
+Snapshot ID: `MTY0OTk4NDE4OCwwMDAwMDAwMDA2MWY4OTcxOTk0YzU1YWY0NmUwYWFlNDI5ZmFiNmI3`

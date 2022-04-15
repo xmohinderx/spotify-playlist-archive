@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "2 Al Azar",
+        "url": "https://open.spotify.com/album/38kFWMuONHiysmBgHbjktR"
+      },
+      "artists": [
+        {
+          "name": "Tipa Tipo",
+          "url": "https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219661,
+      "name": "2 Al Azar",
+      "url": "https://open.spotify.com/track/5abLpDZzQFMXHCyGzH4au4"
+    },
+    {
+      "album": {
         "name": "2 AM (Drink n' Dial) (Extended Mix)",
         "url": "https://open.spotify.com/album/0JEwJywEKFa0Wsit7Eg5bO"
       },
@@ -409,6 +427,32 @@
       "duration_ms": 191963,
       "name": "A Picture Of A Woman",
       "url": "https://open.spotify.com/track/6Rnpogyv18TxGSFhoKcsjI"
+    },
+    {
+      "album": {
+        "name": "A Thousand Doors",
+        "url": "https://open.spotify.com/album/2GyNy4WhV3SxIx4ZWPQe1e"
+      },
+      "artists": [
+        {
+          "name": "Sundowners",
+          "url": "https://open.spotify.com/artist/0vawNmvVL1rjYLltPFVoDO"
+        },
+        {
+          "name": "Paul Weller",
+          "url": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+        },
+        {
+          "name": "Steve Pilgrim",
+          "url": "https://open.spotify.com/artist/6D1A2q2frmZcP9zwYQ98Xs"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171998,
+      "name": "A Thousand Doors (feat. Paul Weller)",
+      "url": "https://open.spotify.com/track/6CxXD1KVG6TxMZ8OE96zw6"
     },
     {
       "album": {
@@ -773,6 +817,24 @@
       "duration_ms": 193069,
       "name": "All My Time",
       "url": "https://open.spotify.com/track/5hZ1PDuNnUWT96cIquKnIt"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138304,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1"
     },
     {
       "album": {
@@ -1220,6 +1282,24 @@
     },
     {
       "album": {
+        "name": "Avant Garde",
+        "url": "https://open.spotify.com/album/1PoNYyEZZwWZiwYTFBxJyF"
+      },
+      "artists": [
+        {
+          "name": "The Code",
+          "url": "https://open.spotify.com/artist/21eeOqX01yzH3M9nSyYJ1S"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Avant Garde",
+      "url": "https://open.spotify.com/track/2Z0pRkn5MftLEdNaLE7OAw"
+    },
+    {
+      "album": {
         "name": "Avi\u00f5es",
         "url": "https://open.spotify.com/album/1VFwIIhSrwyx0oTNgjG1Kn"
       },
@@ -1623,7 +1703,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 216666,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/2F2kZLbO6lrHHgKOu3xSiN"
@@ -4215,7 +4295,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 140869,
       "name": "commas",
       "url": "https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ"
@@ -7684,6 +7764,28 @@
     },
     {
       "album": {
+        "name": "Forever Happy",
+        "url": "https://open.spotify.com/album/0VVkpWsafKoQZi1o5pCAAd"
+      },
+      "artists": [
+        {
+          "name": "Niko Ros\u00e9",
+          "url": "https://open.spotify.com/artist/3KHtbeQsPzZNZ7KNwneHYF"
+        },
+        {
+          "name": "MPV",
+          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166018,
+      "name": "Forever Happy",
+      "url": "https://open.spotify.com/track/1quzBJO2Dt1DsPW4IPYyyA"
+    },
+    {
+      "album": {
         "name": "FOUND",
         "url": "https://open.spotify.com/album/23962ZjbKVk7qXAUdFOLDX"
       },
@@ -8367,7 +8469,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 162324,
       "name": "Glizzock",
       "url": "https://open.spotify.com/track/50F40CdIRO70n7frT879nO"
@@ -9175,7 +9277,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 132882,
       "name": "Hello Hi",
       "url": "https://open.spotify.com/track/7AtRnmiP5gDEYLE5lBXnpD"
@@ -9289,6 +9391,24 @@
       "duration_ms": 167072,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/3DmK9CjTb6DMgnveSK5Sr5"
+    },
+    {
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4Sx9Ku1GHKzbZkwAaMEnNn"
+      },
+      "artists": [
+        {
+          "name": "Dr Joos",
+          "url": "https://open.spotify.com/artist/6rPPz09MzKmQ0FqDyEXoCb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192439,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/3KqJzagmBudChavtK8T104"
     },
     {
       "album": {
@@ -10961,7 +11081,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 336622,
       "name": "Invisible Friend",
       "url": "https://open.spotify.com/track/37hXPeT8x9exVWsaT8WxtQ"
@@ -11775,6 +11895,28 @@
       "duration_ms": 214573,
       "name": "La peau sur les os",
       "url": "https://open.spotify.com/track/5zaIctmoqxTH3qbjB3QUpE"
+    },
+    {
+      "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/2gQWsInId3kSvUwY3jYZaZ"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        },
+        {
+          "name": "Santa M\u00f3nica",
+          "url": "https://open.spotify.com/artist/5WDnK1T9c6tvjJTh0S1ejm"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/3EjAh9ZdGCUKvmki4gwqH5"
     },
     {
       "album": {
@@ -12633,6 +12775,28 @@
       "duration_ms": 222826,
       "name": "London In Summer",
       "url": "https://open.spotify.com/track/03sl2JtEbgzxhpUHccCEi1"
+    },
+    {
+      "album": {
+        "name": "Loneliness on the run (QuinzeQuinze Remix)",
+        "url": "https://open.spotify.com/album/0r6mHRxC1UMreF7wngNsdi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "QuinzeQuinze",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175284,
+      "name": "Loneliness on the run - QuinzeQuinze Remix",
+      "url": "https://open.spotify.com/track/4lNiM1Y3r5V11kD9Sir34z"
     },
     {
       "album": {
@@ -14331,7 +14495,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 156600,
       "name": "MR DJ",
       "url": "https://open.spotify.com/track/4zxZwjlJ4ubjqM3JaqWAGa"
@@ -14749,6 +14913,24 @@
       "duration_ms": 183179,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/5zphtUnDQBzA4lL7fvRXcP"
+    },
+    {
+      "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/01Mc1QJnVeTQIQjKEiWr7F"
+      },
+      "artists": [
+        {
+          "name": "Kyla La Grange",
+          "url": "https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255537,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/2DsbwMMIrNonnvAKEbeOPH"
     },
     {
       "album": {
@@ -15597,7 +15779,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 150099,
       "name": "ON GO!",
       "url": "https://open.spotify.com/track/1KWtjjioFh3CWGSae7HlZc"
@@ -16305,6 +16487,24 @@
       "duration_ms": 273313,
       "name": "p.s.",
       "url": "https://open.spotify.com/track/75dqxybZAeB9gZBJUNktCP"
+    },
+    {
+      "album": {
+        "name": "Pa' Mi",
+        "url": "https://open.spotify.com/album/13BelOLxDcsPcRF21PsFni"
+      },
+      "artists": [
+        {
+          "name": "Big Yamo",
+          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Pa' Mi",
+      "url": "https://open.spotify.com/track/3dzp29iTQ8hHaplDlU5m6U"
     },
     {
       "album": {
@@ -17579,7 +17779,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 158000,
       "name": "Red Flags & Warning Signs",
       "url": "https://open.spotify.com/track/0aLTP49i5zIoM5Pl0fPfDS"
@@ -21882,6 +22082,28 @@
     },
     {
       "album": {
+        "name": "TODO HA CAMBIAO'",
+        "url": "https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229369,
+      "name": "TODO HA CAMBIAO'",
+      "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
+    },
+    {
+      "album": {
         "name": "Tongue Tied",
         "url": "https://open.spotify.com/album/1Pz4As0DpXug5IQnXoxxG7"
       },
@@ -22922,6 +23144,24 @@
     },
     {
       "album": {
+        "name": "Waiting for You",
+        "url": "https://open.spotify.com/album/29DMwajyQzza121EdFwLon"
+      },
+      "artists": [
+        {
+          "name": "Nadlyn",
+          "url": "https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175122,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/03h8Q14m0FGSmw39hIvJUH"
+    },
+    {
+      "album": {
         "name": "SAND CLUB",
         "url": "https://open.spotify.com/album/5Oqscx8KKe1UIN2q4qKtfs"
       },
@@ -23099,7 +23339,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 240093,
       "name": "Waves (Beyond The Shore)",
       "url": "https://open.spotify.com/track/2WU2gqoehYB6NGVt6JH0OO"
@@ -23649,7 +23889,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 194875,
       "name": "Where Is My Money ?",
       "url": "https://open.spotify.com/track/5eMwov8xQJe8KN9mYUmN1S"

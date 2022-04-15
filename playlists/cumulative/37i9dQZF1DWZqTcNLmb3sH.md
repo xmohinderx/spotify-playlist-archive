@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-193 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+194 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Marakastra \- Title Song \(From "Marakastra"\)](https://open.spotify.com/track/3F3xIdSVTq98lMqPpqnqf6) | [Nataraaja](https://open.spotify.com/artist/1UErNdfdSWc0ZHTRk03HTM), [Miracle Manju](https://open.spotify.com/artist/280acnYsyZaWANGSzzBR33) | [Marakastra \- Title Song \(From "Marakastra"\)](https://open.spotify.com/album/4QWyTbQGXFZIjqU3JdOPtU) | 2:57 | 2022-02-23 |  |
 | [Master the Blaster \(From "Master"\)](https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Bjorn Surrao](https://open.spotify.com/artist/6WaQm4n7YfvvH7r94yMAeu) | [Master the Blaster \(From "Master"\)](https://open.spotify.com/album/5WJcoXdTMji80ZtFDQgZrL) | 1:32 | 2021-12-06 | 2022-02-16 |
 | [Meet Madana Illa Date Madana \- From "Ek Love Ya"](https://open.spotify.com/track/3bKMdHQdEWttlc6h5H7YxX) | [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Meet Madana Illa Date Madana \(From "Ek Love Ya"\)](https://open.spotify.com/album/2A1ytcC5g08p6Na8a0Btaa) | 3:41 | 2021-12-24 |  |
+| [Mehabooba](https://open.spotify.com/track/7GYrsaZviUU4egHeVzXBS6) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/61o7rl6Tsa8CIYCcmIdVS2) | 3:32 | 2022-04-14 |  |
 | [Mellane \(From "Rider"\)](https://open.spotify.com/track/5CE4ULqBgzTFQkNA4uD2ln) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Mellane \(From "Rider"\)](https://open.spotify.com/album/5ooP0ESmqiPLJTwiK7lQFm) | 3:28 | 2021-12-06 |  |
 | [Missing Me \(From "Maha Purusha"\)](https://open.spotify.com/track/6oS5cQgo2W1XvzdknsQLxP) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI) | [Missing Me \(From "Maha Purusha"\)](https://open.spotify.com/album/2X7vg1g1UZ2Ksef03UNNiG) | 3:01 | 2022-02-08 | 2022-03-14 |
 | [Modern Suprabhatha](https://open.spotify.com/track/0E2DFxXt7dcGCIOI2r6QPl) | [Hithan Hassan](https://open.spotify.com/artist/2MZXYynfCx4eRuQB2hh9jn), [Kadabagere Muniraju](https://open.spotify.com/artist/2xlQNg5cVHTJJqUs4DFlUm) | [Govinda Govinda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6LylQW2rFaRUHwqJe17JNX) | 2:10 | 2021-12-06 | 2022-02-03 |

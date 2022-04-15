@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across the African continent. Worship in your mother tongue here!",
-  "num_followers": 47687,
+  "num_followers": 47750,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU1ODAwMCwwMDAwMDAzMjAwMDAwMTdmOWExYmZlMzgwMDAwMDE3MGM0YmU5MTkx",
+  "snapshot_id": "MTY0OTk3NzIwMCwwMDAwMDAzMzAwMDAwMTgwMmE0ZTBlMjEwMDAwMDE3MGM0YmU5MTkx",
   "tracks": [
     {
       "added_at": "2020-05-15 08:28:24",
@@ -23,22 +23,6 @@
       "duration_ms": 375146,
       "name": "Sengiyacela - Live",
       "url": "https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc"
-    },
-    {
-      "added_at": "2018-10-01 23:13:33",
-      "album": {
-        "name": "Refresh",
-        "url": "https://open.spotify.com/album/0YUeVP08TIvAJr72DLfue8"
-      },
-      "artists": [
-        {
-          "name": "Fountain Of Praise",
-          "url": "https://open.spotify.com/artist/4Xy5Yn2jebbHnzG4OhkRjr"
-        }
-      ],
-      "duration_ms": 1102093,
-      "name": "Mimo (feat. Sola Allyson)",
-      "url": "https://open.spotify.com/track/5aLpw7VX35DeXZID3Drv4B"
     },
     {
       "added_at": "2020-07-10 08:59:06",
@@ -135,6 +119,22 @@
       "duration_ms": 355760,
       "name": "Eh Yaweh",
       "url": "https://open.spotify.com/track/1xHh8dzuyqyGJxVETA5Waj"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "Unrelenting Love",
+        "url": "https://open.spotify.com/album/7EPslUe7EreCwFVt5b7E9x"
+      },
+      "artists": [
+        {
+          "name": "CRC Music",
+          "url": "https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7"
+        }
+      ],
+      "duration_ms": 258337,
+      "name": "Unrelenting Love",
+      "url": "https://open.spotify.com/track/0aSZ3n4vyy7XDf9XupAtRI"
     },
     {
       "added_at": "2018-10-01 23:13:33",

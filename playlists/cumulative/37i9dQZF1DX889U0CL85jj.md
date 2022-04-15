@@ -4,7 +4,7 @@
 
 > Just chill...
 
-241 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+242 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Don't Look Back \(feat\. Kotomi & Ryan Elder\) \[From Rick and Morty: Season 4\]](https://open.spotify.com/track/1VbiENVGHwF5Y70Ywotwe1) | [Rick and Morty](https://open.spotify.com/artist/2M0kKcVuBsLFH5d12pW215), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Ryan Elder](https://open.spotify.com/artist/4Pb4bahbtpK9nkdfp4bHgi) | [Don't Look Back \(feat\. Kotomi & Ryan Elder\) \[From Rick and Morty: Season 4\]](https://open.spotify.com/album/36hmo7ODAmoUoLAy2mFa1P) | 3:27 | 2020-06-16 | 2022-01-22 |
 | [Door](https://open.spotify.com/track/0x82ZV6zf2o5tOXIbN0aCF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Door](https://open.spotify.com/album/26gPb1EQQFK1Y0ij5E5rAE) | 5:22 | 2019-06-26 |  |
 | [Doors To Kick](https://open.spotify.com/track/304031hRDCZEAIItiKxSol) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [Doors To Kick](https://open.spotify.com/album/7cBQcCvIUy9MP78nK77xDp) | 3:26 | 2021-06-07 |  |
+| [Dot](https://open.spotify.com/track/69p1aR2n7h7lOL0uPDwnHA) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Dot](https://open.spotify.com/album/5sJ8PzY1bbaILoGztXsaJX) | 5:22 | 2022-04-14 |  |
 | [Dream Away](https://open.spotify.com/track/3L3GtwAflCkqh4QCoacRYk) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 3:39 | 2020-08-10 | 2022-01-22 |
 | [Dream For Dreaming](https://open.spotify.com/track/2dMMC7nrI2v1wYdncGJVXY) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream For Dreaming](https://open.spotify.com/album/3oVYWStRa3452eCmKHhKKZ) | 3:39 | 2019-10-04 | 2022-01-22 |
 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 | 2020-03-09 |  |

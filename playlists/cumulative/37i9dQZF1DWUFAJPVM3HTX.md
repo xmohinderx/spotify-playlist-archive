@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Kennedy Rd., Artwork: Hennessy
 
-401 songs - 21 hr 23 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+402 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 | 2022-01-12 | 2022-02-10 |
 | [Anyway](https://open.spotify.com/track/3ppib4m3rTXysDTrSMEfLp) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z), [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU) | [Anyway](https://open.spotify.com/album/2uyfXSf7K1qRa8m2YnJw0O) | 3:38 | 2022-02-02 | 2022-03-12 |
 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 | 2022-01-19 | 2022-02-17 |
+| [April Showers](https://open.spotify.com/track/3prFyUfgOtdOQByDUkeuIX) | [Shay 24K](https://open.spotify.com/artist/2b7sUe0m7QSyY4R0m8C1RF) | [April Showers](https://open.spotify.com/album/0cwjXKYJxOotqgRZUJ8c1y) | 2:30 | 2022-04-13 |  |
 | [Are We OK?](https://open.spotify.com/track/7EvR8W21LfjtKM4GTZEqbd) | [Vicky Farewell](https://open.spotify.com/artist/6LpKqwp5tMWhUS3Cosbwb4) | [Are We OK?](https://open.spotify.com/album/5ACwMaN5xjOaUfSWY0deG2) | 3:34 | 2022-01-26 | 2022-03-17 |
 | [b r e a t h e](https://open.spotify.com/track/7tImEdPjymnkct5JuBeKHc) | [c i r u](https://open.spotify.com/artist/3QbGzV6Q0FWM2QOYGXWzlu), [T££KAY](https://open.spotify.com/artist/20kYuYDnROwFgsEqncI37Q) | [b r e a t h e](https://open.spotify.com/album/3SbFrYQ14SZoge8uiHTQP3) | 2:59 | 2022-02-02 | 2022-03-31 |
 | [Babymama](https://open.spotify.com/track/0K0HrU0HtABBttPYv2h6xV) | [Jeunesaint](https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y) | [Babymama](https://open.spotify.com/album/6k1Up8kX5trQNVIyDkN7j5) | 3:24 | 2022-02-16 | 2022-03-12 |

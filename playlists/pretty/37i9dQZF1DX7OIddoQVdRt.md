@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,067 likes - 40 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,165 likes - 40 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [You Deserve It \(feat\. Bishop Cortez Vaughn\)](https://open.spotify.com/track/0njqt2jPYkAK7zIwSdkFU8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Bishop Cortez Vaughn](https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/4UyE4UHYnNJ6zGoJmTcJ0u) | 6:05 |
 | 40 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 |
 
-Snapshot ID: `MTY0OTg5ODQ1MiwwMDAwMDAwMDViMmExYzcwYTA4NGFkMGFiODI4M2VlYTJjN2U2ZDBl`
+Snapshot ID: `MTY0OTk4NDU3MCwwMDAwMDAwMDViMmExYzcwYTA4NGFkMGFiODI4M2VlYTJjN2U2ZDBl`

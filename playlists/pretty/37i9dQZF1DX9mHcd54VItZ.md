@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=TnxF3JSTRx2gX2NV4hpZsA">Lucy Kruger & The Lost Boys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,138 likes - 73 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,145 likes - 73 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> Si la rompe, está acá\. <br/>Foto: Quevedo, Duki & De La Ghetto.
+> Si la rompe, está acá\. <br/>Foto: WOS.
 
 96 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/1nImrgfieBX5MJPoAx7Qaw)
 

@@ -7823,7 +7823,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 165223,
       "name": "Messi",
       "url": "https://open.spotify.com/track/3dlgCN1SOpdYTSihZ7s80k"
@@ -11835,6 +11835,28 @@
       "duration_ms": 188348,
       "name": "Ti Zitas",
       "url": "https://open.spotify.com/track/357Ces27QaK6BQ3W6cZUeE"
+    },
+    {
+      "album": {
+        "name": "Timelapse",
+        "url": "https://open.spotify.com/album/6iE5O2KMXjo251MZ1mIOVv"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Timelapse",
+      "url": "https://open.spotify.com/track/753Zxm3yOAgS5WJnjNcrNV"
     },
     {
       "album": {

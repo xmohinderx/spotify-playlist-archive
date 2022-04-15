@@ -1,47 +1,31 @@
 {
   "description": "A collection of recent tracks from the world of black and dark metal. Cover: Watain",
-  "num_followers": 279129,
+  "num_followers": 279197,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQwMTQzNSwwMDAwMDEzZDAwMDAwMTgwMDdmYzk2NTAwMDAwMDE3ZWUzZTYzMzA5",
+  "snapshot_id": "MTY0OTk4MDg2MCwwMDAwMDEzZTAwMDAwMTgwMmE4NWU2YjkwMDAwMDE3ZWUzZTYzMzA5",
   "tracks": [
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz"
+        "name": "Vargtimman",
+        "url": "https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs"
       },
       "artists": [
         {
-          "name": "Batushka",
-          "url": "https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J"
+          "name": "Ereb Altor",
+          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
         }
       ],
-      "duration_ms": 289853,
-      "name": "IRMOS I",
-      "url": "https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt"
+      "duration_ms": 366325,
+      "name": "Ner i M\u00f6rkret",
+      "url": "https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
-      "album": {
-        "name": "We remain",
-        "url": "https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 373773,
-      "name": "We remain",
-      "url": "https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9"
-    },
-    {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Infinite Sequential Visions of a Sphere of Hate",
         "url": "https://open.spotify.com/album/0qMWnSbR71q3ccgPyPx9v6"
@@ -61,23 +45,7 @@
       "url": "https://open.spotify.com/track/4tLtrLgROIRKkMkQdeYZ4h"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
-      "album": {
-        "name": "Vargtimman",
-        "url": "https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs"
-      },
-      "artists": [
-        {
-          "name": "Ereb Altor",
-          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
-        }
-      ],
-      "duration_ms": 366325,
-      "name": "Ner i M\u00f6rkret",
-      "url": "https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1"
-    },
-    {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "G\u00f6tterd\u00e4mmerung",
         "url": "https://open.spotify.com/album/532N76CgIpRjwycLTePruz"
@@ -93,23 +61,39 @@
       "url": "https://open.spotify.com/track/2af26RNEV5okdhwPSet5b5"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
-        "name": "FANTASY",
-        "url": "https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn"
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz"
       },
       "artists": [
         {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+          "name": "Batushka",
+          "url": "https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J"
         }
       ],
-      "duration_ms": 130688,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN"
+      "duration_ms": 289853,
+      "name": "IRMOS I",
+      "url": "https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
+      "album": {
+        "name": "We remain",
+        "url": "https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 373773,
+      "name": "We remain",
+      "url": "https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9"
+    },
+    {
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Bleeding Veil",
         "url": "https://open.spotify.com/album/2aQu2K5LfwOBed3T1DGojg"
@@ -125,7 +109,7 @@
       "url": "https://open.spotify.com/track/0LH8EFWl3v3T7YtSFB7Jbr"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Lust Called Knowledge (Re-Recorded 2022)",
         "url": "https://open.spotify.com/album/1oltdhcpRRjJN8Elcrbn0v"
@@ -141,7 +125,7 @@
       "url": "https://open.spotify.com/track/4B692KoX3G3KXXIrJhxeZr"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Blackest Sabbath 1997",
         "url": "https://open.spotify.com/album/7aHt1M9ebUKH96ZX8ywN9m"
@@ -157,7 +141,23 @@
       "url": "https://open.spotify.com/track/6NNxpCVslN0gi4UvwfxeOs"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
+      "album": {
+        "name": "Chapter III: Nest",
+        "url": "https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj"
+      },
+      "artists": [
+        {
+          "name": "Where's My Bible",
+          "url": "https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7"
+        }
+      ],
+      "duration_ms": 223604,
+      "name": "Chapter III: Nest",
+      "url": "https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj"
+    },
+    {
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "We Are The Apocalypse",
         "url": "https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Entropic Queen",
         "url": "https://open.spotify.com/album/291tfqTN3GMnxAQyLqKba4"
@@ -189,7 +189,23 @@
       "url": "https://open.spotify.com/track/0lqpWwuvUWZeS9ItLGZMkk"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
+      "album": {
+        "name": "Totentanz - Dance Macabre",
+        "url": "https://open.spotify.com/album/5XZO6D5qfdUyYkSWt6ezoa"
+      },
+      "artists": [
+        {
+          "name": "Belphegor",
+          "url": "https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Totentanz - Dance Macabre",
+      "url": "https://open.spotify.com/track/5VdUHQEaxWFRbKbnxLQ0tG"
+    },
+    {
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "ERRA",
         "url": "https://open.spotify.com/album/3OuLJUIq1lBj8EUaoIQvWZ"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/3pkfVWPONcWQU5UAxWyALx"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "In Absentia Dei",
         "url": "https://open.spotify.com/album/3LAuN7xpQgqsrcA6q3oJd5"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/7fqAKOrf2T2wxCnN6u3MkJ"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "I Am the Night",
         "url": "https://open.spotify.com/album/5dAqD9ry2pOU7YMPRXazRz"
@@ -237,7 +253,31 @@
       "url": "https://open.spotify.com/track/7n4U90ST7RSr6B0WXXAcbt"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/7IwWlcYAosb728DUZnw9RO"
+      },
+      "artists": [
+        {
+          "name": "Thou",
+          "url": "https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo"
+        },
+        {
+          "name": "Emma Ruth Rundle",
+          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        },
+        {
+          "name": "Mizmor",
+          "url": "https://open.spotify.com/artist/655AEE6ifgDJ3TYkhHdP48"
+        }
+      ],
+      "duration_ms": 241763,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ"
+    },
+    {
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Urkraft",
         "url": "https://open.spotify.com/album/5sf63KzWDQWmHYt8uulINM"
@@ -253,7 +293,7 @@
       "url": "https://open.spotify.com/track/4bRajxPpQhnHYrNFFyHkyw"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "MEMORIES OF THE FUTURE",
         "url": "https://open.spotify.com/album/0cpMyNT6voEnwPYBHmJ8PW"
@@ -273,7 +313,7 @@
       "url": "https://open.spotify.com/track/7Hcl0HhRJu9vkm74nJQ5Jc"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Strepitus Mundi",
         "url": "https://open.spotify.com/album/2gTBYf4PyYXYOqYpXXzrgF"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/3f9GL4zy4NfKhIFePXofP0"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Dissociation of the Extinguished Mind",
         "url": "https://open.spotify.com/album/3gHYXJp2doaScSI6pEbsHq"
@@ -305,7 +345,7 @@
       "url": "https://open.spotify.com/track/5Ucq7WMc4ouHggTqo09ITX"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Book of Breath",
         "url": "https://open.spotify.com/album/1YXcHOfyzrJduglh9NWgOG"
@@ -321,7 +361,7 @@
       "url": "https://open.spotify.com/track/7hA0Cv3sWhKIjKbpnMcg1G"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Path to Paradise",
         "url": "https://open.spotify.com/album/086hwE3ZkLpf3CjhrVWPuf"
@@ -337,7 +377,7 @@
       "url": "https://open.spotify.com/track/6d1Hee07EoLcPAVkswj2i2"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Mokita",
         "url": "https://open.spotify.com/album/2qrwjlmMCbJlFr160LEB7t"
@@ -353,7 +393,7 @@
       "url": "https://open.spotify.com/track/2eA9UzZtaP0rILXZKh88QX"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Reborn Paradise",
         "url": "https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa"
@@ -369,7 +409,7 @@
       "url": "https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Middlemist Red",
         "url": "https://open.spotify.com/album/6ujJzfrTiv96eAmCBQkp9o"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/5l7ad026Ev0NpUkldLY5az"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Necrobionics",
         "url": "https://open.spotify.com/album/4XekYCMN88wxtjOxkfrOlN"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/3AaLvR5xPbeewAElRzRMdB"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Reign Of Fate",
         "url": "https://open.spotify.com/album/4qkFvszEAXyJEBXFqSPXpI"
@@ -417,7 +457,7 @@
       "url": "https://open.spotify.com/track/3wFqj9dM7GptoByndbI121"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Fall Of Jotunheim",
         "url": "https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL"
@@ -433,7 +473,7 @@
       "url": "https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Fn .380 Acp#19074",
         "url": "https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf"
@@ -449,7 +489,7 @@
       "url": "https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Purest Black",
         "url": "https://open.spotify.com/album/0yARYnhJy9u9HLq3RfgI97"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/6En6JSC3qRPv9XnoGQZ7F0"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "In Nomine Sanguinis",
         "url": "https://open.spotify.com/album/1gHTP0xHAJkLiiYtm3U6Oa"
@@ -481,7 +521,7 @@
       "url": "https://open.spotify.com/track/7Hzq8rzkH0LjKSRSXwFXYD"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Culture of Violence",
         "url": "https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw"
@@ -497,7 +537,7 @@
       "url": "https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Burn the Witch",
         "url": "https://open.spotify.com/album/33djeHekh7U3g2MudCPIg0"
@@ -517,7 +557,7 @@
       "url": "https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "In Tenebris",
         "url": "https://open.spotify.com/album/4ep3HzckKB6SLCbJUhq49v"
@@ -533,7 +573,7 @@
       "url": "https://open.spotify.com/track/77CRIpEPQFDZAY4wOMACbh"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Encased in Chrome",
         "url": "https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Noktvrn",
         "url": "https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Ov Behest",
         "url": "https://open.spotify.com/album/1zIKlDMfUjGuYZttGLJwTt"
@@ -581,7 +621,7 @@
       "url": "https://open.spotify.com/track/5TX941hWLDj4ru5N2xbJti"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm"
@@ -597,7 +637,7 @@
       "url": "https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Black Fog and Poison Wind",
         "url": "https://open.spotify.com/album/7L9L2M4znx70n1qBBBvtKl"
@@ -613,7 +653,7 @@
       "url": "https://open.spotify.com/track/6cS2AAZePp2lSwYy1HrrRG"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The howling",
         "url": "https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Moonflowers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek"
@@ -645,23 +685,7 @@
       "url": "https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
-      "album": {
-        "name": "Chapter I: Escape",
-        "url": "https://open.spotify.com/album/6RetrQBkhFn2SXftzZODXG"
-      },
-      "artists": [
-        {
-          "name": "Where's My Bible",
-          "url": "https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7"
-        }
-      ],
-      "duration_ms": 266635,
-      "name": "Chapter I: Escape",
-      "url": "https://open.spotify.com/track/50wNXncjCWM87QlNQ5bmKq"
-    },
-    {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Riitti",
         "url": "https://open.spotify.com/album/59VTx7tGkZgqWFqyK9HQDK"
@@ -677,7 +701,7 @@
       "url": "https://open.spotify.com/track/4Hd6i2Gsz8oteMoaz1NJ9u"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Of Beasts and Worms",
         "url": "https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o"
@@ -693,7 +717,7 @@
       "url": "https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Day Of Reckoning",
         "url": "https://open.spotify.com/album/5zWNR6TtpcdMCKzGmj8auM"
@@ -709,7 +733,7 @@
       "url": "https://open.spotify.com/track/60WxTHidnICRt1b4JdoWWC"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Erasure",
         "url": "https://open.spotify.com/album/5huhY847S7cVpUPVZmmG1q"
@@ -725,7 +749,7 @@
       "url": "https://open.spotify.com/track/0bsQEcdbZPUAv33cVrxUNW"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/7fbTDvnweDQXMW3YNdGgBS"
@@ -741,7 +765,7 @@
       "url": "https://open.spotify.com/track/4hnpgtGXHlsfQGHBAfYj4x"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Ecclesia",
         "url": "https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q"
@@ -757,7 +781,7 @@
       "url": "https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Long Road North",
         "url": "https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB"
@@ -773,7 +797,7 @@
       "url": "https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Pipe Dreams",
         "url": "https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl"
@@ -789,7 +813,7 @@
       "url": "https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Nocturnal Molestation",
         "url": "https://open.spotify.com/album/6i55zeF8mGsYqiBpFdzab1"
@@ -805,7 +829,7 @@
       "url": "https://open.spotify.com/track/0YkF4zY7p56B9cIA9dmaZp"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Wilde Kinder",
         "url": "https://open.spotify.com/album/1sdmnVWndpvGblDOcjbj1D"
@@ -821,7 +845,7 @@
       "url": "https://open.spotify.com/track/5j9LuICwwmUbts1A4rxmhu"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Dawn Never Breaks",
         "url": "https://open.spotify.com/album/4QJZuKTCSuq4XmyHbVmmll"
@@ -841,7 +865,7 @@
       "url": "https://open.spotify.com/track/6ZrXr1vAlFq1zjJanMGddY"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Anadem Gyre",
         "url": "https://open.spotify.com/album/7ykuG0RJkSqhPWCi6kplm5"
@@ -857,7 +881,7 @@
       "url": "https://open.spotify.com/track/1eBUzrOlsY9OMmiaSolhox"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Vargtimman",
         "url": "https://open.spotify.com/album/2TQ3R02Fi7ZgFEzegs4QsK"
@@ -873,7 +897,7 @@
       "url": "https://open.spotify.com/track/5bMmrsetYnEO89tBG05ljx"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Reckoning",
         "url": "https://open.spotify.com/album/6WfPQTk5dUOKIgHIsl03MU"
@@ -889,7 +913,7 @@
       "url": "https://open.spotify.com/track/2hBKZG4x9Wjed6T2oAFAwm"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Companion",
         "url": "https://open.spotify.com/album/4kQyk8NpLezupFyYnK9q8n"
@@ -905,7 +929,7 @@
       "url": "https://open.spotify.com/track/1uUB0yPKZolbq3ryoLDOlY"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Resurgence",
         "url": "https://open.spotify.com/album/7JIec3VUIGOhcZnyffsgXE"
@@ -921,7 +945,7 @@
       "url": "https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Beheading of the Circus Director",
         "url": "https://open.spotify.com/album/6jluDbYTif6ZoEQSLkkM1j"
@@ -937,7 +961,7 @@
       "url": "https://open.spotify.com/track/5jMXAsU5zf0JwRk521rI71"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Godkiller",
         "url": "https://open.spotify.com/album/7LBSl4Et96Km08oDAa2kxP"
@@ -953,7 +977,7 @@
       "url": "https://open.spotify.com/track/3iXwVC24spjmldA84JCjuz"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Sidereus Nuncius",
         "url": "https://open.spotify.com/album/0Uyv8xXfDXeTDx4Rm0aJdQ"
@@ -969,7 +993,7 @@
       "url": "https://open.spotify.com/track/71gPwccCGNsMnsWCjKfSs1"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Istok",
         "url": "https://open.spotify.com/album/6ZjiERTM8gvDyJFc49g4P9"
@@ -985,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3wIOB1z2Vxse4W6fulRqJg"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Caravans to the Outer Worlds",
         "url": "https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo"
@@ -1001,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "An Evening With Imperial Triumphant (Live at Slipper Room)",
         "url": "https://open.spotify.com/album/1gKZvyVWVA4rtfJNRWe08H"
@@ -1017,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4coCbcc2diO04CaUquMQ4W"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Nauseating Oblivion",
         "url": "https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a"
@@ -1033,7 +1057,7 @@
       "url": "https://open.spotify.com/track/7JYPEnhWA1jthT9QihGnQi"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Sadist",
         "url": "https://open.spotify.com/album/5ckNNJmh051xpFqHzPstQM"
@@ -1049,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3Ne8ghFiincs3REg5M2Ygf"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Hv\u00edtir Sandar",
         "url": "https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl"
@@ -1069,7 +1093,7 @@
       "url": "https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Tranceformation",
         "url": "https://open.spotify.com/album/360FLVwXFB7wBVFHDW9qNf"
@@ -1085,7 +1109,7 @@
       "url": "https://open.spotify.com/track/1ntRngCCMm5TpY9w6Pkhgn"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Existence Is Futile",
         "url": "https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI"
@@ -1101,7 +1125,7 @@
       "url": "https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "FN SCAR 16",
         "url": "https://open.spotify.com/album/4RnKTCpcGFoJ2301aeQboD"
@@ -1117,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5IiT9uOFW5v4AN3PstKB3S"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "The Dregs of Hades",
         "url": "https://open.spotify.com/album/2LAZb8cxJwce79vcz8gJCn"
@@ -1133,7 +1157,7 @@
       "url": "https://open.spotify.com/track/03NK3EtH3txhiF6HiDH649"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Veter",
         "url": "https://open.spotify.com/album/1VYgM86x2AFTqHxZmOWv3l"
@@ -1149,7 +1173,7 @@
       "url": "https://open.spotify.com/track/1YuB9VNoHmGVtVxyZQ6dLB"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Part of the End",
         "url": "https://open.spotify.com/album/0uEm2ITFYpqkflzwJz01kV"
@@ -1165,7 +1189,7 @@
       "url": "https://open.spotify.com/track/5GXsYrLmKbMrFXci8wSqn0"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Reflection in Slow Time",
         "url": "https://open.spotify.com/album/6KWTVQKwzvVcmcg1BPpUN4"
@@ -1181,7 +1205,7 @@
       "url": "https://open.spotify.com/track/0qS90byEur2fejdteseTO3"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Jean Grenier",
         "url": "https://open.spotify.com/album/6gWOWQh9y1PKFsiTgTXDkP"
@@ -1197,7 +1221,7 @@
       "url": "https://open.spotify.com/track/0qPVLDSC4mqL0oUDMwJEqu"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Gehenna",
         "url": "https://open.spotify.com/album/6BFtNQI9JIkLEmcrlWLRdi"
@@ -1213,23 +1237,7 @@
       "url": "https://open.spotify.com/track/3x2A8myfYInyflbGmZKQDD"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
-      "album": {
-        "name": "Primordial Arcana",
-        "url": "https://open.spotify.com/album/0M1M4SydzXhogLTGa2ERWG"
-      },
-      "artists": [
-        {
-          "name": "Wolves In The Throne Room",
-          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
-        }
-      ],
-      "duration_ms": 354386,
-      "name": "Through Eternal Fields",
-      "url": "https://open.spotify.com/track/2lN893qNt07OkH3E1rv1AN"
-    },
-    {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Apostle",
         "url": "https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA"
@@ -1245,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "There's Always Blood At The End Of The Road",
         "url": "https://open.spotify.com/album/0hpFRZEgy6k8J7gS29F0Q4"
@@ -1261,7 +1269,7 @@
       "url": "https://open.spotify.com/track/6tth0ovaLcEPtHasmjhYiv"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Neither Moth nor Rust",
         "url": "https://open.spotify.com/album/1QVMTChYOhXsAyRC949Nkt"
@@ -1277,7 +1285,7 @@
       "url": "https://open.spotify.com/track/6a8iR9C7Mi5Gkww7yOyoJE"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Worthless",
         "url": "https://open.spotify.com/album/3E4ImGoMJqqEs3dRROZEMj"
@@ -1293,7 +1301,7 @@
       "url": "https://open.spotify.com/track/0P9Eascqqk3l4rqw6kYF2z"
     },
     {
-      "added_at": "2022-04-08 07:03:55",
+      "added_at": "2022-04-15 00:01:00",
       "album": {
         "name": "Shamatanic",
         "url": "https://open.spotify.com/album/1M5a4v5udsE4wUhKl3Lzi3"

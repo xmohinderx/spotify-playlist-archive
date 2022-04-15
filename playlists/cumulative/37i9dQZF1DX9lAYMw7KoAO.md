@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-74 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+75 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Make a Way \- Live](https://open.spotify.com/track/1DrlNnjjp7VBaJRfBOqqK3) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema Moremi](https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE) | [Spirit of Praise New Voices \(Live\)](https://open.spotify.com/album/13ytrQ0CS9ipmq1UdlwhfD) | 4:38 | 2019-11-06 |  |
 | [Messiah](https://open.spotify.com/track/408SouH6qikkfmpyVN0Aqa) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn](https://open.spotify.com/album/1R4VaMYmRT58HE9GYg1jKe) | 4:06 | 2018-10-01 |  |
 | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/4Oa1YzzDPEqGi0GaNOCU5k) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/album/3opAdWW3lwePS6g9tjJrsz) | 5:20 | 2018-10-01 |  |
-| [Mimo \(feat\. Sola Allyson\)](https://open.spotify.com/track/5aLpw7VX35DeXZID3Drv4B) | [Fountain Of Praise](https://open.spotify.com/artist/4Xy5Yn2jebbHnzG4OhkRjr) | [Refresh](https://open.spotify.com/album/0YUeVP08TIvAJr72DLfue8) | 18:22 | 2018-10-01 |  |
+| [Mimo \(feat\. Sola Allyson\)](https://open.spotify.com/track/5aLpw7VX35DeXZID3Drv4B) | [Fountain Of Praise](https://open.spotify.com/artist/4Xy5Yn2jebbHnzG4OhkRjr) | [Refresh](https://open.spotify.com/album/0YUeVP08TIvAJr72DLfue8) | 18:22 | 2018-10-01 | 2022-04-15 |
 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 | 2018-10-01 |  |
 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 | 2018-10-01 |  |
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2021-04-19 |  |
@@ -68,6 +68,7 @@
 | [The Lord Reigneth](https://open.spotify.com/track/5cPxj6vTdXjzbjQwe56VGw) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Sanctioned](https://open.spotify.com/album/5S0tW85A3qZzHIx2VFUJgp) | 4:21 | 2018-10-01 |  |
 | [Ti Oluwa ni ile](https://open.spotify.com/track/5AMDNyqqeOaskNITsQ65Mb) | [Ade Jones](https://open.spotify.com/artist/2QzzeWLJqUxxUsCSAyeRdx) | [Ti Oluwa ni ile](https://open.spotify.com/album/7Cyq6Xnc1NBGfEipmUtBex) | 4:26 | 2020-11-05 | 2022-02-04 |
 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 | 2020-10-09 |  |
+| [Unrelenting Love](https://open.spotify.com/track/0aSZ3n4vyy7XDf9XupAtRI) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Unrelenting Love](https://open.spotify.com/album/7EPslUe7EreCwFVt5b7E9x) | 4:18 | 2022-04-14 |  |
 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 | 2020-05-15 |  |
 | [Way Maker](https://open.spotify.com/track/4eTgQdjd7bIet6d045GGUc) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/7gFZYUrRossdN7GEY938s1) | 5:06 | 2018-10-01 |  |
 | [We Raise a Sound](https://open.spotify.com/track/5mj8UgV1q3weOrDfXdn1jk) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise a Sound](https://open.spotify.com/album/0kS3yEDK9ECw0fhTi4WoeX) | 7:12 | 2021-01-22 |  |

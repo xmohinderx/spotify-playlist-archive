@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan.
 
-48 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+49 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,13 +30,14 @@
 | [Godo Godo](https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Godo Godo](https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV) | 2:39 | 2022-02-18 |  |
 | [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 |  |
 | [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 |  |
-| [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 |  |
+| [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 |  |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 |  |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 |  |
 | [La victoire \- Remix](https://open.spotify.com/track/0FYfNzQ2zhmZFMgAFNVEqL) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [La victoire \(Remix\)](https://open.spotify.com/album/71ZaRIJrHO1VOi8ifqlsdj) | 3:40 | 2021-12-20 | 2022-01-22 |
+| [LA VOIX AUTORISÉE](https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [LA VOIX AUTORISÉE](https://open.spotify.com/album/6qufDDfosaF5gaQLRkmL4T) | 4:21 | 2022-04-14 |  |
 | [La vérité](https://open.spotify.com/track/5e89B7HTL78eGqD52uThwT) | [2Boyz](https://open.spotify.com/artist/0NdS4SVwgaxj7O4dtUxwos), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [La vérité](https://open.spotify.com/album/7FdXFRSZjwcqzLOuTKpgdC) | 3:33 | 2021-12-20 |  |
 | [Le carburant](https://open.spotify.com/track/5OHsWkJ1JadGSYcbdrlSdJ) | [Prince Kiala](https://open.spotify.com/artist/0uDRYM5vquP9o3WTQbCUuy) | [Le carburant](https://open.spotify.com/album/5Ot6IDnXrjBM3L9K20y40r) | 4:33 | 2021-12-20 |  |
 | [Le goût de](https://open.spotify.com/track/3wCuWuUMQXkoDDaFBEQJns) | [Rémy Adan](https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo) | [Le goût de](https://open.spotify.com/album/5kr2CVexmWa7A4ygOsDFxD) | 4:05 | 2021-12-20 |  |

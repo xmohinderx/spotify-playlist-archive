@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Snow Tha Product
 
-86 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+87 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2021-12-13 |  |
 | [Bounce](https://open.spotify.com/track/5q1wShNQKfniCCv097p00x) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/7yOETWq7Ft6mjRNQxgXyhY) | 2:38 | 2021-12-13 |  |
 | [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2021-12-13 |  |
-| [Buscando el Sol](https://open.spotify.com/track/0X6vzLwQa5suHlByNvbOsJ) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Buscando el Sol](https://open.spotify.com/album/69WN4ZXCkezCzch1LKGr2a) | 3:19 | 2022-02-09 |  |
+| [Buscando el Sol](https://open.spotify.com/track/0X6vzLwQa5suHlByNvbOsJ) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Buscando el Sol](https://open.spotify.com/album/69WN4ZXCkezCzch1LKGr2a) | 3:19 | 2022-02-09 | 2022-04-15 |
 | [BUSINESS WOMAN](https://open.spotify.com/track/3rkbuNUCnmdaWBn7XY5Nd6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [BUSINESS WOMAN](https://open.spotify.com/album/3BTGhFn6HnEKGRYFTBoIzJ) | 3:47 | 2021-12-13 |  |
 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 | 2021-12-13 |  |
 | [Confleis \(No Soy Santa\)](https://open.spotify.com/track/55SDauaBnxY86XsVfztdCU) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Confleis \(No Soy Santa\)](https://open.spotify.com/album/4yNqZUf4BwhDoDz6yIhkzP) | 2:03 | 2021-12-13 |  |
@@ -30,6 +30,7 @@
 | [En el Aire](https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea) | 3:01 | 2021-12-13 |  |
 | [En la Boca del Lobo](https://open.spotify.com/track/5OkeYRvjJXLTlQwDIC12e9) | [IRA](https://open.spotify.com/artist/4SFufo8OG7wyneSSj2F5UY) | [Arte y Terrorismo](https://open.spotify.com/album/7pK4Gd3Rti0OWr82uRJ4IB) | 3:25 | 2021-12-13 |  |
 | [En Lo Mío](https://open.spotify.com/track/3ayUFSz3DEJQIkUUQMckA5) | [Luisa Rincón](https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0) | [En Lo Mío](https://open.spotify.com/album/6aBkNh2qDEzgnJ5FlGgaBi) | 3:27 | 2021-12-13 |  |
+| [Entes](https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Entes](https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA) | 4:19 | 2022-04-14 |  |
 | [Espacio](https://open.spotify.com/track/63FlJhCXIrBRvw93XKsbyn) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Espacio](https://open.spotify.com/album/4e2aY5NFttjRbJHCg3gNSs) | 3:37 | 2021-12-13 |  |
 | [Experiencia](https://open.spotify.com/track/2rOGiQFlSp7CK3MhYruYxf) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/2C3NwN17FmCqXMDlzSMcnN) | 2:13 | 2021-12-13 |  |
 | [FREAKY](https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [FREAKY](https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH) | 2:30 | 2021-12-13 |  |

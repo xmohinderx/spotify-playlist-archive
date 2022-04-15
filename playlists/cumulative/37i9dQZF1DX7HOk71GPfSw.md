@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> spotify hyperpop playlist Cover: Elyotto
+> spotify hyperpop playlist Cover: 100 gecs
 
 1,198 songs - 2 day 6 hr 30 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 

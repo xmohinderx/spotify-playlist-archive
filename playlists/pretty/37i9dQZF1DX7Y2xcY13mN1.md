@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,730 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,817 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 30 | [Medley: The Recruiting Sergeant / The Rocky Road to Dublin / Galway Races](https://open.spotify.com/track/1boQR0hrVk6rJ7r2JbpvLh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:04 |
 | 31 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
 | 32 | [Hungover at Mass](https://open.spotify.com/track/31Yu3GZPzEP0W5VQbgYpAn) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Fuck Off I Love You](https://open.spotify.com/album/3pgfgpBBeC180QtwWT1uIB) | 2:49 |
-| 33 | [The Poor Wayfaring Stranger](https://open.spotify.com/track/4MAvTqux8OBlUiH2mQDQHQ) | [Lumiere](https://open.spotify.com/artist/5lKx4FLD3nO1yczPdoIUdr) | [Lumiere](https://open.spotify.com/album/2IbZxFIZe4Sd1m1lYveNUm) | 4:42 |
+| 33 | [The Poor Wayfaring Stranger](https://open.spotify.com/track/4MAvTqux8OBlUiH2mQDQHQ) | [Lumiere](https://open.spotify.com/artist/2muJDtOur0DrbTJsnyXdRl) | [Lumiere](https://open.spotify.com/album/2IbZxFIZe4Sd1m1lYveNUm) | 4:42 |
 | 34 | [Ten Thousand Miles](https://open.spotify.com/track/4tncQGSj6X9RERVrmL0mGH) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/18Sw7E8tqhuNfWRPoBJzKL) | 3:30 |
 | 35 | [Black Velvet Band](https://open.spotify.com/track/3eLJLZn6bkE6il9x5pS07g) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Essential Collection](https://open.spotify.com/album/3AxsXQdgP3zZXPvezSI9bK) | 4:29 |
 | 36 | [Lisdoonvarna](https://open.spotify.com/track/05KvSXpXEWd3YCwTPG0xu9) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [On the Road](https://open.spotify.com/album/0pGk5GqEidvPcTratzBAyJ) | 5:06 |

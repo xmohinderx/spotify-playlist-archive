@@ -4,7 +4,7 @@
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-84 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
+85 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Rock The Raag](https://open.spotify.com/track/5gxWgboHi5iPAW76hkyQKS) | [Mrigya](https://open.spotify.com/artist/0p5FLesLYt17BYby6Vjn43) | [World Harmony](https://open.spotify.com/album/24B3bABQW9nJM5WcpvN6Lk) | 7:32 | 2021-10-31\* |  |
 | [Ruswaa](https://open.spotify.com/track/57sbDFoOKvZTd2D13slsKf) | [Reeshabh Purohit](https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E), [Kalim Shaikh](https://open.spotify.com/artist/1lEYogfDxYP1Iu3VIh4eXW), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Ruswaa](https://open.spotify.com/album/3LzXbL4Wgtwp9Q1Ji0wUKx) | 4:29 | 2021-12-13 |  |
 | [Saahiba](https://open.spotify.com/track/72ZCskgfexMXQ7k9E0qx5l) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Saahiba](https://open.spotify.com/album/0Atpcs1HndL61F1zQO8BYV) | 4:54 | 2021-12-11 |  |
+| [Saajan More \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/2mOZsknA6l7qTGDy8wELeU) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Air Devi](https://open.spotify.com/artist/49HEYP8DQrHDQmdBCU4MSD), [Purani](https://open.spotify.com/artist/0bnKXCAkZoRV3qmPrFMN30) | [Saajan More \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/3JjXXx7QML49r6T0WOUToC) | 1:54 | 2022-04-14 |  |
 | [Saathi Suno](https://open.spotify.com/track/1lFaXChk2zP7c07pI9Eq6L) | [Srabasti Acharya](https://open.spotify.com/artist/6NHoiPWSlDS9qUsjrQGmFz), [Roshan Sebastian](https://open.spotify.com/artist/72fjH95OAer1Y0g78l5QaM) | [Saathi Suno](https://open.spotify.com/album/3X5OxWtugyB7Yt1tyyg9qI) | 2:16 | 2021-10-31\* |  |
 | [Saiyan More \- Female Version](https://open.spotify.com/track/13TufNYTciiuhpKu0opjTm) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Darshan Doshi](https://open.spotify.com/artist/4DeflX7cpU7aG3Wq6eGOJr), [Rhythm Shaw](https://open.spotify.com/artist/6akOptJkTKxrfiMmlhCnSn), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Saiyan More \(Female Version\)](https://open.spotify.com/album/2NFDkcUM8JXfdgkMDodbGM) | 6:26 | 2022-01-12 |  |
 | [Sakhi](https://open.spotify.com/track/1nlgs8u9AEoIljf13DBWnQ) | [Dhaiwat](https://open.spotify.com/artist/0MDNPCoSJLI4iBkIFBTnob), [Vidushi Kalpana Zokarkar](https://open.spotify.com/artist/12r2xD99LYO5hrilYhAFXV) | [Sakhi](https://open.spotify.com/album/3iRKkWNQQ2EnnAA5jA4sAZ) | 4:19 | 2021-10-31\* |  |

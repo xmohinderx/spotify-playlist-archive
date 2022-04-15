@@ -1,12 +1,12 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=D7iB6dHfQwa8MLdAJWNESQ\" > Elaine </a>",
-  "num_followers": 100078,
+  "num_followers": 100278,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg5ODAwNSwwMDAwMDAwMDAwOWI4YWJjNWI1MWEwYzc3NTg0MTlhMDhlNzk0MDE5",
+  "snapshot_id": "MTY0OTk4NDEwMSwwMDAwMDAwMDQxNDI5YzdiOGFhZmNjNzBkNDBkYmQxYTBlZDA0N2Qy",
   "tracks": [
     {
       "added_at": "2021-09-24 05:23:07",
@@ -187,6 +187,26 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "ALL OF ME",
+        "url": "https://open.spotify.com/album/4PLaaaFomjdQdRPPmBv8V5"
+      },
+      "artists": [
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        },
+        {
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+        }
+      ],
+      "duration_ms": 208290,
+      "name": "ALL OF ME",
+      "url": "https://open.spotify.com/track/4LK8gp5INawRELfGEhnjHv"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1031,22 +1051,6 @@
       "duration_ms": 141030,
       "name": "Sade",
       "url": "https://open.spotify.com/track/5RFUao2hVBqb7PT6Mag63z"
-    },
-    {
-      "added_at": "2022-02-03 23:02:00",
-      "album": {
-        "name": "Afraid to Lose You",
-        "url": "https://open.spotify.com/album/12AqU8dNMrCvL0beCDohYv"
-      },
-      "artists": [
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        }
-      ],
-      "duration_ms": 207446,
-      "name": "Afraid to Lose You",
-      "url": "https://open.spotify.com/track/2rhQwPsQi6oqLyc1fVkLm8"
     },
     {
       "added_at": "2021-12-16 23:01:00",

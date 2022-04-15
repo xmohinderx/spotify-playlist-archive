@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-140 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+147 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 | 2021-12-07 |  |
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2021-12-07 |  |
 | [Buzz](https://open.spotify.com/track/4l9tBmE0kfF7pHQ0BavAGB) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Buzz](https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw) | 2:34 | 2021-12-07 |  |
+| [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 | 2022-04-15 |  |
 | [Calma](https://open.spotify.com/track/3pcGSIMVgx1ZQX3Ouou084) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Calma](https://open.spotify.com/album/1N7MyTPZMJZ8aUvtXFeCdl) | 2:25 | 2021-12-07 |  |
 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 | 2021-12-07 |  |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2021-12-07 |  |
@@ -40,7 +41,9 @@
 | [dead reckoning](https://open.spotify.com/track/1HPRFECUZyvqlTsVcnVQqL) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [abstract mapping](https://open.spotify.com/album/3wnY9D1Dl69OohA8MtkU2z) | 1:48 | 2021-12-07 |  |
 | [Dreaming](https://open.spotify.com/track/2sAueBql5AeZv5lbgIoCmw) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Dreaming](https://open.spotify.com/album/0OFCOApz7zlibihMfLmnyf) | 2:31 | 2021-12-07 |  |
 | [efímero](https://open.spotify.com/track/5SRg6ipwt6uYyAur2HARPe) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [efímero](https://open.spotify.com/album/4nZISHOozkmb87YDkpe5eO) | 3:18 | 2021-12-07 |  |
+| [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-04-15 |  |
 | [Ender](https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu) | [Goblin](https://open.spotify.com/album/5HuYg16CS7wK0qDa6Y1K7V) | 2:44 | 2021-12-07 |  |
+| [equator](https://open.spotify.com/track/4132t2oYuNlgzSmsp1E9Tm) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [equator](https://open.spotify.com/album/5UAdjfXZRTmtuEQdOtHUyc) | 1:16 | 2022-04-15 |  |
 | [Evergreen Forest](https://open.spotify.com/track/2qrTpPdOoAVbqONnV0p6mN) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Evergreen Forest](https://open.spotify.com/album/1SaDSYQdoE17uanBI6qxes) | 2:10 | 2021-12-07 |  |
 | [Everything Once Again](https://open.spotify.com/track/6VIVyMdXYvA18tqfY9LNss) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [Everything Once Again](https://open.spotify.com/album/5UWIOdwytfQBtbrJzq2exd) | 2:30 | 2021-12-07 |  |
 | [Exhibit A](https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN) | [Divine Stacks](https://open.spotify.com/artist/3gxhMzrCpxtLnUvLo1bEQC) | [Pellegrino](https://open.spotify.com/album/0UHLq4m23c1rspMr8rsqHe) | 2:09 | 2021-12-07 |  |
@@ -60,6 +63,7 @@
 | [Free as a Bird](https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH) | 2:16 | 2021-12-07 |  |
 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 | 2021-12-07 |  |
 | [hagaparken](https://open.spotify.com/track/5u3rKKdFqAl63VuzbWDZ2P) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [hagaparken](https://open.spotify.com/album/18MAXqnzVBabmMptAeu14h) | 1:59 | 2021-12-07 |  |
+| [Happy Floating](https://open.spotify.com/track/2tbNmBfUatF57h4t3XdFP2) | [Bah Linn](https://open.spotify.com/artist/3gy6Hphc2dgZcIKDi9VOvV) | [Happy Floating](https://open.spotify.com/album/6Jkbx0oLMUaPC0gNXIATUh) | 1:59 | 2022-04-15 |  |
 | [Harpazo](https://open.spotify.com/track/2CJExqrBLTlUZS973gS4aQ) | [Blu Crown](https://open.spotify.com/artist/3ep6h6m1oYrtEKiF60g19K) | [Harpazo](https://open.spotify.com/album/3M9FaUP4gZ4xNHJ0HrFTd8) | 2:18 | 2021-12-07 |  |
 | [Headache](https://open.spotify.com/track/22ECnbNX6WlUzr7gZelnlW) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Headache](https://open.spotify.com/album/1GTBhTkHMVf6eRvn1K4Ipk) | 2:26 | 2021-12-07 |  |
 | [helluva](https://open.spotify.com/track/41hOiG9rbP9VbNFZkGkNQf) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [helluva & hummingbird](https://open.spotify.com/album/4PDJXXbhESvvr9i7PjKeyy) | 2:39 | 2021-12-07 |  |
@@ -71,16 +75,19 @@
 | [Jazz Has Many Faces](https://open.spotify.com/track/6S1v4mCBFT3yG895yilYyt) | [Super Off\-Beat](https://open.spotify.com/artist/08gFTIqLswYXSzCTLqkDT4) | [Jazz Has Many Faces](https://open.spotify.com/album/5U13M8p2FQMbI9IZUffHDN) | 2:00 | 2021-12-07 |  |
 | [Just Another Sip](https://open.spotify.com/track/6IuedPL68KNsBzci64vX9J) | [Maraboy](https://open.spotify.com/artist/3dZyuWwtjxpoCy6bbPu5Gj) | [Domino Party](https://open.spotify.com/album/43eSBlvqzZt3h5WKegoFSl) | 2:18 | 2021-12-07 |  |
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-12-07 |  |
+| [Lake Painting](https://open.spotify.com/track/4A3MN7FJPa9WT8kRutdz3N) | [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH) | [Lake Painting](https://open.spotify.com/album/6FOne9cfwcZgvhsJCNy2P1) | 2:38 | 2022-04-15 |  |
 | [Lakeside](https://open.spotify.com/track/2vfoQNoj0XTdk64B21cdpc) | [yourneighborsclassicbeats](https://open.spotify.com/artist/07YwFEZfj3G4ZRQ08iFDAM) | [Lakeside](https://open.spotify.com/album/5NhSlxdnAPt27SlzxFHJXd) | 2:03 | 2021-12-07 |  |
 | [landslide](https://open.spotify.com/track/4ht7dWyVh2eUt3S2Vjjt3x) | [Mass Effect](https://open.spotify.com/artist/1Owv65l8RxWnof7K5xetKq) | [breakbeat poetry](https://open.spotify.com/album/0qRefCA6PWOybxJvQeBXl6) | 2:04 | 2021-12-07 |  |
 | [Last One](https://open.spotify.com/track/1Bw0Vj3hp6Dos8xgAV9rLm) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Tidy your Room](https://open.spotify.com/album/6ov0vylgSHHYQbCWBAK3Sd) | 2:39 | 2021-12-07 |  |
 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 | 2021-12-07 |  |
 | [Lime Express](https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:40 | 2021-12-07 |  |
 | [lofi jam](https://open.spotify.com/track/7HQmkAioOUG8ZxPkfcEw5p) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [lofi jam](https://open.spotify.com/album/6dsQvoFTSMBp7e3rwyzWf6) | 2:19 | 2021-12-07 |  |
+| [Lofi love](https://open.spotify.com/track/4WrzPaoDS5vtaMuzQ53ffb) | [Ceelen](https://open.spotify.com/artist/2KOGdGOCUsZeoU6FsyuDzc) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:36 | 2022-04-15 |  |
 | [Lonely Horseman](https://open.spotify.com/track/3VDiKLJhDIRktINkdoIfUC) | [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [Walterwarm](https://open.spotify.com/artist/07kiOUGRiofjbQZbEPH8yk) | [Lonely Horseman](https://open.spotify.com/album/5cGGSO12FCm088hdzmcMN8) | 2:00 | 2021-12-07 |  |
 | [Lunaris](https://open.spotify.com/track/3XMCfc2CUciBE7DLrjdFz6) | [Lumen](https://open.spotify.com/artist/14Dt2vDIbAR28uyDzohVlK) | [Lunaris](https://open.spotify.com/album/4fpYpc9phR63kfZOlYiznG) | 1:33 | 2021-12-07 |  |
 | [Lune](https://open.spotify.com/track/2boNzMHyWWrDWpgL5ddkP3) | [Fallen Shores](https://open.spotify.com/artist/054Pqx7Nqx2Wcpxv5rylcc) | [Lune](https://open.spotify.com/album/3vDGGpJoyA01CTa0QUFlj1) | 3:12 | 2021-12-07 |  |
 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 | 2022-03-08 |  |
+| [Mario Lopez](https://open.spotify.com/track/5BEOEB4JQmvOLrhHp3T9Jl) | [Ceelen](https://open.spotify.com/artist/2KOGdGOCUsZeoU6FsyuDzc) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:55 | 2022-04-15 |  |
 | [Maybe Tomorrow?](https://open.spotify.com/track/5SeMmi8XpLcWGHQ1PqpsZn) | [Waxing Moods](https://open.spotify.com/artist/2v125JM156kVhtBO3TjOMN) | [Maybe Tomorrow?](https://open.spotify.com/album/3wS0pPrQENgREfs4IEZ9bP) | 2:38 | 2021-12-07 | 2022-04-08 |
 | [Microwave Jam](https://open.spotify.com/track/0JXHJVMM7sy9sszTiEpumr) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Microwave Jam](https://open.spotify.com/album/75JaaUPon3gnk3c8zT4RCm) | 2:25 | 2021-12-07 |  |
 | [Mikonos](https://open.spotify.com/track/0qnvXzItiOWH4YzNoztrPc) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Mikonos](https://open.spotify.com/album/5oJF59iGEfTX7grO1ovUy6) | 2:20 | 2022-04-08 |  |

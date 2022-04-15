@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Happy and swinging jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,853 likes - 114 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,906 likes - 114 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 23 | [Camptown Races](https://open.spotify.com/track/1NkCYPvbK6YVCoGp3GGtQ8) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Very Best](https://open.spotify.com/album/14CJ7ivDy9dMuDdHHm19ES) | 1:57 |
 | 24 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 |
 | 25 | [Move](https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:53 |
-| 26 | [Move](https://open.spotify.com/track/1m6xA6Yvt2miUOJtLLlviD) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:25 |
+| 26 | [Move](https://open.spotify.com/track/1m6xA6Yvt2miUOJtLLlviD) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:25 |
 | 27 | [Edda](https://open.spotify.com/track/0UgG6ZQ46DjB6V55pWZLfw) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Rumproller](https://open.spotify.com/album/3dMhT1ZhEeYk9NwzPAzi3u) | 7:19 |
 | 28 | [Sing, Sing, Sing](https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Ken Burns Jazz\-Benny Goodman](https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS) | 8:40 |
 | 29 | [Things Ain't What They Used To Be](https://open.spotify.com/track/7pzhoKl2D6oRVU6C7ZDqjR) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 4:43 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 34 | [Lion's Den \- Rudy Van Gelder Edition/2007 Remaster](https://open.spotify.com/track/5Q9XLLVex1yZ0Heo2SVhMI) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Undercurrent \(Rudy Van Gelder Edition/2007 Remaster\)](https://open.spotify.com/album/3dLsZ0Gv8OjgUyES2imXIK) | 4:53 |
 | 35 | [CRAZY WITCH GAME](https://open.spotify.com/track/5hPQlfdBxE6TSpLzI1Xn3f) | [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN) | [Kresten Osgood Quintet Plays Jazz](https://open.spotify.com/album/4CfhpyQmetCkJ8sGrPGnaU) | 3:12 |
 | 36 | [Down Home](https://open.spotify.com/track/4bSS0sl1sSGTpR79V11EWW) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:43 |
-| 37 | [Opus De Funk](https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:12 |
+| 37 | [Opus De Funk](https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:12 |
 | 38 | [Greasy](https://open.spotify.com/track/5rcEapnWT4NrPSFT5co106) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [New Soil](https://open.spotify.com/album/2jutpmWgWgnoYm6wgy1I2Z) | 7:25 |
 | 39 | [Sunday Mornin'](https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Soul](https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt) | 6:30 |
 | 40 | [On a Clear Day You Can See Forever](https://open.spotify.com/track/2EjpDPynGPxmhmjY1llgI2) | [Filip Ekestubbe Trio](https://open.spotify.com/artist/22fkqIp1tH47ueIeCeg7Fr) | [On a Clear Day](https://open.spotify.com/album/4etOBTogBYyurgykqGY85Z) | 6:00 |

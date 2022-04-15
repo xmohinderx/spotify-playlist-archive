@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,652 likes - 61 songs - 3 hr 5 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,678 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 60 | [Daddy Cool](https://open.spotify.com/track/50rcUhHimavzT1qq6QrgMG) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Daddy Cool](https://open.spotify.com/album/7fXtm0TpLRIJhxobKDjxRp) | 2:34 |
 | 61 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 |
 
-Snapshot ID: `MjI2MCw2ODEwOTc1NTBmNGZiMGM4YWMxMDhmNjQ3ZjdhZmY0Mjk5NTk4YzAw`
+Snapshot ID: `MjI2Miw3ZmUyZWFiZDYyNTY0Y2Q0MzE3YmJiMjM2MzcyN2M2YzljODBiY2Mw`

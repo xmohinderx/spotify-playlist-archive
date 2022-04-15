@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-217 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/5G465BVDSMcRmryY2Z1rr5)
+219 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/5G465BVDSMcRmryY2Z1rr5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Calming Down](https://open.spotify.com/track/30kmgRQJxOJM8JmhLCTF33) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 3:36 | 2021-12-21 |  |
 | [Campanis](https://open.spotify.com/track/3dKEGve9GLAg0q8REFQpgY) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:04 | 2021-12-21 | 2022-03-25 |
 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 | 2021-12-21 |  |
+| [Celestial Visions](https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Celestial Visions](https://open.spotify.com/album/5CW2QFsfzbf5YVkAjbrM3u) | 2:27 | 2022-04-14 |  |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2021-12-21 |  |
 | [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 | 2022-03-24 |  |
 | [Clouds Part](https://open.spotify.com/track/7ynEnHDa88G4wX0KvtzCxP) | [Stol Perez](https://open.spotify.com/artist/7vX6lEYQpX7Eh81wa9LxGP) | [Clouds Part](https://open.spotify.com/album/73h8fitLHaGy0ttdecDDMn) | 2:58 | 2021-12-21 |  |
@@ -54,6 +55,7 @@
 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 | 2021-12-21 | 2022-02-19 |
 | [Dormire](https://open.spotify.com/track/6InNkqlwY0lPh4oPTOucPq) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Dormire](https://open.spotify.com/album/5hL42wL2uFtuUKZnsc6FJy) | 3:12 | 2021-12-21 |  |
 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 | 2021-12-21 |  |
+| [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-04-14 |  |
 | [Dreams in the Wind](https://open.spotify.com/track/4D0uy3JWqfanEiYfYK6lcq) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Dreams in the Wind](https://open.spotify.com/album/1XoR9Y5odF9JgYgpptubAD) | 3:20 | 2021-12-21 |  |
 | [Dykhtau](https://open.spotify.com/track/6Dzybyg4sWgI3lDNsflTqn) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Dykhtau](https://open.spotify.com/album/4rdkuEThqNcw4ftMKf4McR) | 3:08 | 2021-12-21 |  |
 | [Electron](https://open.spotify.com/track/0KkNeFOoAKW0NkhaleFeGk) | [Sisi Row](https://open.spotify.com/artist/7MeJbMhCO5vWIy2RqBIUMy) | [Electron](https://open.spotify.com/album/18JKMnG2P9b4mkMBLPDbMF) | 3:34 | 2021-12-21 |  |

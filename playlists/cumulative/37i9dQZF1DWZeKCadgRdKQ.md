@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-437 songs - 1 day 1 hr 44 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+439 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Clear Skies](https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Clear Skies](https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m) | 2:42 | 2019-06-19\* |  |
 | [Closer](https://open.spotify.com/track/3kkH1XIAqtsWrb3vXdAnym) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Closer](https://open.spotify.com/album/3yOlCRaOGv6KmzkPKlzE8X) | 2:29 | 2019-06-19\* | 2020-08-07 |
 | [Clovelly Dreams](https://open.spotify.com/track/55ojtTlWV3pyJLxIWEn0Z2) | [Zero Mileage](https://open.spotify.com/artist/6Ighdl27ZYCe5lkwr4nd0a) | [Clovelly Dreams](https://open.spotify.com/album/6F843Gp74FosoRk9RXvBs0) | 3:11 | 2019-06-19\* | 2021-09-14 |
+| [Coastlines](https://open.spotify.com/track/1CMi03AXBZLUT2Wg6YHd9s) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [Coastlines](https://open.spotify.com/album/0rSFyMg9HbshcjLkAkB3uB) | 2:58 | 2022-04-14 |  |
 | [Coda](https://open.spotify.com/track/2TFQPFUqRtgj1auq9b5PlR) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 3:00 | 2019-12-31 | 2021-11-26 |
 | [cold start](https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz) | [RRST](https://open.spotify.com/artist/3nPrEz2yxxCTnR2yPHiFo6) | [cold start](https://open.spotify.com/album/50bVrDOjalJh8BlPpsNHYZ) | 2:32 | 2021-04-28 |  |
 | [Colgando](https://open.spotify.com/track/2dVvMXDWBY0U7VjCjOjVH9) | [Barulinho](https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH) | [Siesta](https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf) | 4:28 | 2020-08-07 | 2020-10-27 |
@@ -365,6 +366,7 @@
 | [The Light](https://open.spotify.com/track/2JPF4tCg8thUuISn496ynn) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into The Blue Again](https://open.spotify.com/album/1pFrCdJfefM5UgijeacUpB) | 4:29 | 2019-05-26\* | 2019-06-19 |
 | [The Light is on](https://open.spotify.com/track/2Sz1ecyIujZ248BMzSjE8z) | [Man With A Horse](https://open.spotify.com/artist/4VIQtKYdZ6NMgCLGLx7BfO) | [The Light Is On](https://open.spotify.com/album/6aWGNwCECmCu0iJQBs9Iqw) | 4:55 | 2019-05-26\* | 2019-06-19 |
 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2019-06-19\* | 2021-09-14 |
+| [The Meaning](https://open.spotify.com/track/4XBdcBdB8cIlJIipHbTd7G) | [Fondur](https://open.spotify.com/artist/13HVLXNw3aIkcbo354xEcS) | [The Meaning](https://open.spotify.com/album/6R8HbHMhZq7h4LgxIQ5OeD) | 3:18 | 2022-04-14 |  |
 | [The Outlook](https://open.spotify.com/track/58BB8I0IO8pxDkwuwWyEdw) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [The Outlook](https://open.spotify.com/album/4hoEgPCfFsv0fr9F5gkZ3t) | 2:58 | 2021-12-22 |  |
 | [The Plains of Dover](https://open.spotify.com/track/3ExU31i7Fh2vbhB1DzM1Gr) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [The Plains of Dover](https://open.spotify.com/album/0aA4oMl9Ggfh4ZyvjM2fMM) | 3:11 | 2019-05-26\* | 2020-08-07 |
 | [The Powers Of The Universe](https://open.spotify.com/track/15sQ657gDj93yUN2MTl0qU) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 3:58 | 2019-05-26\* | 2020-08-07 |

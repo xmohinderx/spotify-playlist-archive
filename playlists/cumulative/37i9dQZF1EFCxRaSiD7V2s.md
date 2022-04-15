@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-226 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+228 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Long Long Gone \- Demo](https://open.spotify.com/track/5yBKGfBKo62opt4uKOHiKP) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 2:23 | 2021-12-27 |  |
 | [Love For Long](https://open.spotify.com/track/7xQxYu9ACcFBQNiQWJw3TL) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 2:53 | 2021-12-27 |  |
 | [Maybe Next Year](https://open.spotify.com/track/3xORAJaTECHOIW9Xquv5Ac) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Maybe Next Year](https://open.spotify.com/album/6hBLWo0O6GtMQAai5rggP1) | 3:08 | 2021-12-27 |  |
+| [Memory Palace](https://open.spotify.com/track/4GrNDsg8P5HTifFme7q6nI) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Rooms I Used to Call My Own](https://open.spotify.com/album/2LeDzfWieHtdO61gQhBYIj) | 3:05 | 2022-04-14 |  |
 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 | 2021-12-27 |  |
 | [Miss America](https://open.spotify.com/track/6U9TWGNjqChbMr8AVdcVU1) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [It Doesn't Have To Make Sense](https://open.spotify.com/album/7CboNMoh7xPzZnL1rprGLV) | 3:32 | 2021-12-27 |  |
 | [Mustard](https://open.spotify.com/track/5d4KGTy5iyVG97R5VE0nfm) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:24 | 2021-12-27 |  |
@@ -181,6 +182,7 @@
 | [Start + Stop](https://open.spotify.com/track/42U4EYKZykqpYQZv60Id33) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 2:59 | 2021-12-27 |  |
 | [Stereotype Buffet](https://open.spotify.com/track/07nRJoIQhG6atGSEghrCk1) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Alba Daza](https://open.spotify.com/artist/1Qd19KgWCixiW6034cR4UC), [Mackenzie MacDade](https://open.spotify.com/artist/5dE12X45Oxm9dATqBRPoIC) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:55 | 2021-12-27 |  |
 | [Still Life](https://open.spotify.com/track/1a2vU3uStDJKQDmvi9k5ju) | [Bell Horses](https://open.spotify.com/artist/2AdoTCFp76OEjtdSM1NZvC) | [This Loves Last Time](https://open.spotify.com/album/5ZPOnEFbI3BgWS1vHair0O) | 3:33 | 2021-12-27 |  |
+| [Stillness](https://open.spotify.com/track/4GHyQJVNkZnXVZ91M7xSF5) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf) | [Rooms I Used to Call My Own](https://open.spotify.com/album/2LeDzfWieHtdO61gQhBYIj) | 4:04 | 2022-04-14 |  |
 | [Sunfish](https://open.spotify.com/track/6EiHhh1XCIqY0nVLFR0SKV) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 3:41 | 2021-12-27 |  |
 | [Superstar](https://open.spotify.com/track/3LIIjLJC3HfY73s2SZD9fg) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N), [Bess Rogers](https://open.spotify.com/artist/6IjD7M43Yhh7iPvWz9LJi8), [The One AM Radio](https://open.spotify.com/artist/38M4yfT8QisQgpCBdecFeR) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:58 | 2021-12-27 |  |
 | [Surprise](https://open.spotify.com/track/7JwaNCnrKB06BDHEzNHdCt) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:25 | 2021-12-27 |  |

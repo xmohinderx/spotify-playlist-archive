@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Cause & Effect",
+        "url": "https://open.spotify.com/album/2WC2FtG0whiGZxgMzFSXy0"
+      },
+      "artists": [
+        {
+          "name": "Sacha Hoedemaker",
+          "url": "https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156448,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6YzOHIoCXojns8Dsi3Uqx0"
+    },
+    {
+      "album": {
         "name": "Akeleie",
         "url": "https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP"
       },
@@ -761,6 +779,24 @@
       "duration_ms": 154374,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3oXEH4clrLtZWCfqZGVUJg"
+      },
+      "artists": [
+        {
+          "name": "Kiran Greene",
+          "url": "https://open.spotify.com/artist/3zufotQtFwEEXgir5jMVoP"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7DwR3QHQXyDjFAC1L3mh2a"
     },
     {
       "album": {
@@ -1603,7 +1639,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 115750,
       "name": "L\u00e6ngsel",
       "url": "https://open.spotify.com/track/1lwVlrh8sqai2WuvVqfZYy"
@@ -1787,6 +1823,42 @@
       "duration_ms": 120000,
       "name": "Mis\u00e9rable",
       "url": "https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx"
+    },
+    {
+      "album": {
+        "name": "Moments Of Being",
+        "url": "https://open.spotify.com/album/1lz5emJgyNAv1qxKgHAp5t"
+      },
+      "artists": [
+        {
+          "name": "Melani\u00e9 Poret",
+          "url": "https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159757,
+      "name": "Moments Of Being",
+      "url": "https://open.spotify.com/track/1TDnwB8FEIKjMnIjJJ7pGs"
+    },
+    {
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/7Jhzqb6xoRsAMWqXvC15Mf"
+      },
+      "artists": [
+        {
+          "name": "Sanna Aalto",
+          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/3qowDmCLrK4mgwbbFW5unz"
     },
     {
       "album": {
@@ -2071,7 +2143,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 144576,
       "name": "Pour toujours",
       "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"

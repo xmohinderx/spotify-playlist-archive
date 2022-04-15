@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-99 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+102 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2021-11-11 |  |
 | [Flunked](https://open.spotify.com/track/1zKF974S6JmaaqX6SwUdnH) | [Pathos](https://open.spotify.com/artist/000A3Oa2wuuR3oJ5vjXkns) | [Flunked](https://open.spotify.com/album/18Xuryl7R77FH98TD2tuLL) | 1:41 | 2021-11-11 |  |
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-02-17 |  |
+| [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 | 2022-04-15 |  |
 | [Goodies](https://open.spotify.com/track/034s5MPRbS4Ii8lpZoWNY2) | [Psychedelicatessen](https://open.spotify.com/artist/1Aqsr5edFoWGrBBjdKvUk9) | [Goodies](https://open.spotify.com/album/1tRfhMX6FsiPaBgKoAndBt) | 1:24 | 2021-11-11 |  |
 | [High Blossom](https://open.spotify.com/track/3P9nPdI80qLU6i4PCu9utx) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [High Blossom](https://open.spotify.com/album/39ugvLGxxkcuJxlDJutvU9) | 2:29 | 2021-11-11 |  |
 | [Higher](https://open.spotify.com/track/646uaJeMJuuwKA5u769awi) | [Nuble](https://open.spotify.com/artist/2zBqV404liOJKn4DW0rYAa) | [Higher](https://open.spotify.com/album/4OJYXTQoqln2MHOuL91WCC) | 3:37 | 2021-11-11 |  |
@@ -71,6 +72,8 @@
 | [Miles](https://open.spotify.com/track/15mn6DKfYvoLRnu89LFDXJ) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Translation EP](https://open.spotify.com/album/5Ze1hIBeHeRnmp6d52VwCR) | 2:12 | 2021-11-11 |  |
 | [Mobilize](https://open.spotify.com/track/5NuVAK4UqklSQMOQ1E5CJe) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Mobilize](https://open.spotify.com/album/1CBvh99afG08PolU6jVvyp) | 2:56 | 2021-11-11 |  |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2021-11-11 |  |
+| [mtv cribs](https://open.spotify.com/track/7xquksomVzxsHXvgCw6OYs) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [mtv cribs](https://open.spotify.com/album/2tzSHLpARzLa3kXWbpBFFb) | 1:38 | 2022-04-15 |  |
+| [New Era](https://open.spotify.com/track/3dHpf96vSkzBaO5f6J4Wxr) | [Flawless Delivery](https://open.spotify.com/artist/0LpzTJIg9AOD4ix4dsRRlf), [Solrakmi](https://open.spotify.com/artist/5XGMQDMtmKNgCPrQ9FqUfL) | [New Era](https://open.spotify.com/album/0GjENKCnXAvIlIJxhcMXlM) | 2:50 | 2022-04-15 |  |
 | [Ninetofive](https://open.spotify.com/track/4vrJiLtAsycPuLAkSTVqPk) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Beat Aesthetics](https://open.spotify.com/album/384S9zPWlZBE4E8Td4ljsE) | 2:51 | 2021-11-11 |  |
 | [Old Enough To Party](https://open.spotify.com/track/1toZcQ10Fj2q2kFlM6f7e3) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:08 | 2021-11-11 |  |
 | [Old Tram](https://open.spotify.com/track/3nFoFJdKjaIEdJcNuEcIZB) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Old Tram](https://open.spotify.com/album/1o3IAb8iXLdEeUmj6tfbTf) | 2:10 | 2022-02-18 |  |

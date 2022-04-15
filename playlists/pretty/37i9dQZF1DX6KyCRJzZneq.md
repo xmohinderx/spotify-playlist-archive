@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,401 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,470 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 41 | [Move \- Remastered](https://open.spotify.com/track/5CEh7PH1TuHjzBaRTG5WbI) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Birth Of The Cool](https://open.spotify.com/album/2vm2b8COVMLIoHqB58iN4w) | 2:34 |
 | 42 | [A Night In Tunisia](https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 5:34 |
 | 43 | [Lester Left Town](https://open.spotify.com/track/4YiP13DBr6osYKZd9KODGY) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Best Of Art Blakey](https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS) | 6:27 |
-| 44 | [Invisible](https://open.spotify.com/track/2lwlScELPERmPJzsemoone) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!! The Music of Ornette Coleman \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 4:15 |
+| 44 | [Invisible](https://open.spotify.com/track/2lwlScELPERmPJzsemoone) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 4:15 |
 | 45 | [Love For Sale](https://open.spotify.com/track/2HlT0tEiELR2wLgsJhBHYV) | [Sonny Criss](https://open.spotify.com/artist/5HL4KA3y1IyeAD2TbgaoYe) | [This Is Criss!](https://open.spotify.com/album/5RddAbKe6UJ22nodgQ6vPB) | 6:25 |
 
 Snapshot ID: `MTYzMDMzNjI2NSwwMDAwMDAxNDAwMDAwMTdiOTc5ZDJjNjUwMDAwMDE3NDBjNTYwNGFh`

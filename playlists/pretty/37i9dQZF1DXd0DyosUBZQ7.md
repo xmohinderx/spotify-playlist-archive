@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,116 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,343 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 69 | [The Reason](https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH) | 3:52 |
 | 70 | [Leave Right Now](https://open.spotify.com/track/04eBItNb4WohCQ6x1ccA80) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/0yvfheLTvk91zegOmw3CvA) | 3:34 |
 
-Snapshot ID: `MTY0OTg5ODYyNiwwMDAwMDAwMGEyOTdmNTgwMjhmNGY5MzkwYjBlNjBhYTU5NTY0MDEw`
+Snapshot ID: `MTY0OTk4NDc1MCwwMDAwMDAwMGEyOTdmNTgwMjhmNGY5MzkwYjBlNjBhYTU5NTY0MDEw`

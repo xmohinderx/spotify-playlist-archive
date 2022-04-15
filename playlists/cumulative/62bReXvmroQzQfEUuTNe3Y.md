@@ -4,12 +4,13 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-275 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+276 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50//50 \- Edit](https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [50//50](https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn) | 2:09 | 2022-01-21 |  |
 | [Addicted to You](https://open.spotify.com/track/7g6wU2kGtt2cwzyH5HWYB6) | [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Addicted to You](https://open.spotify.com/album/6Zqc8k6f22Zh3yEEwmKifP) | 2:52 | 2021-01-15 | 2021-11-11 |
+| [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 | 2022-04-14 |  |
 | [Afterlife \- Chilled Mix](https://open.spotify.com/track/3G9MXFijXiqbZGNAuNfOUs) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Afterlife \(Chilled Mix\)](https://open.spotify.com/album/0f370SHJL21Z8s4kEx37W8) | 3:29 | 2021-04-24 |  |
 | [All I Want Is You](https://open.spotify.com/track/1kvCXlTdOSHX4nO631YTsn) | [exclap](https://open.spotify.com/artist/5kDLlXP8v2hQi26n7Ik5xS) | [All I Want Is You](https://open.spotify.com/album/6MbknM6zcZbV4K5by86DQu) | 2:56 | 2021-10-16 | 2022-03-12 |
 | [Almost Love \(feat\. Dominic Neill\)](https://open.spotify.com/track/5rqdZvpgQGp3d8zvlpkl6c) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Almost Love \(feat\. Dominic Neill\)](https://open.spotify.com/album/11Qhu8bimVBjtbb6RXm0O9) | 2:14 | 2020-10-10 | 2021-10-02 |

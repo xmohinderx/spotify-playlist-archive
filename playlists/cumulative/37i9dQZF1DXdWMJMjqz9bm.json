@@ -1376,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "The Bright Side",
+        "url": "https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ"
+      },
+      "artists": [
+        {
+          "name": "Aer",
+          "url": "https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206160,
+      "name": "Floats My Boat",
+      "url": "https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL"
+    },
+    {
+      "album": {
         "name": "For A Minute",
         "url": "https://open.spotify.com/album/2751qfhddwsCitLsJwhbvS"
       },

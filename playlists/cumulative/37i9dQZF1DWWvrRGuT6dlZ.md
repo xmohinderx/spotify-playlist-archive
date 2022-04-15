@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: TIMUR\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Apriltwentyfifth\. Artwork: Isu Kim.
 
-183 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+186 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Better Days](https://open.spotify.com/track/1OHCR5feWzz6gvD7hSaesu) | [Lara Alyssa](https://open.spotify.com/artist/2YFNMLajZOMN5HLbVKs7sD), [J.O](https://open.spotify.com/artist/3WGNMotvcqvXUeagYi8N2u) | [Better Days](https://open.spotify.com/album/1ZkzR8JtuOZnEMeF7ybxIQ) | 3:29 | 2021-12-01 | 2022-01-14 |
 | [bittersweet](https://open.spotify.com/track/2VhCaIbw36S8NXi6734ehU) | [CLARY](https://open.spotify.com/artist/0cvCbPXZzELIrIYQl2yxLm), [zeauk](https://open.spotify.com/artist/6lSwya9NXVN29RnQqQCHnE) | [bittersweet](https://open.spotify.com/album/6JrE0n1iAvsxx1ae2V2j6P) | 3:01 | 2022-01-13 |  |
 | [BLAZE](https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [camp](https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX) | 3:09 | 2022-03-17 |  |
+| [Bonfire](https://open.spotify.com/track/4F2Hm9Iu84ribXJf0ZUDpl) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Bonfire](https://open.spotify.com/album/3WK4vTqkm7A5LNeajoqFRh) | 3:05 | 2022-04-14 |  |
 | [Broken Reflection](https://open.spotify.com/track/7boZJzzpdwFUOYjAIRNzIo) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [Broken Reflection](https://open.spotify.com/album/70tSiWNRM6jDvYat6H9Hhs) | 2:27 | 2021-12-01 | 2022-01-14 |
 | [Call Me Sweet](https://open.spotify.com/track/08P78OIZjosuCEcfMxU0iq) | [Bittersweet](https://open.spotify.com/artist/3A2xivbWFzprF2vmp644ii) | [Call Me Sweet](https://open.spotify.com/album/6sBot4UKvvyWqzhpWHugpL) | 2:40 | 2022-01-13 | 2022-03-11 |
 | [Call Out](https://open.spotify.com/track/5cnCKbndudY9uSCzmDY6rG) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Call Out](https://open.spotify.com/album/2r8OpLaGO0nOtI27wTaBfH) | 3:18 | 2022-01-13 | 2022-03-11 |
@@ -96,6 +97,7 @@
 | [Judah Love](https://open.spotify.com/track/4Sr1GPn3rAFhrcd9XzkSo2) | [Amos Judah](https://open.spotify.com/artist/7zBe6dQQIDeRBHoxiDbKkf) | [Up To No Good](https://open.spotify.com/album/5dZWgLcCIfzrORX6IPOiiV) | 3:00 | 2022-01-13 | 2022-03-25 |
 | [Just Another Minute](https://open.spotify.com/track/6AEmZBWGYlI6nsuWB5qViN) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Just Another Minute](https://open.spotify.com/album/4C6UwXY2vG00aX9u5wPIcI) | 4:00 | 2022-01-13 |  |
 | [Kiss Me In The Rain](https://open.spotify.com/track/54G8T1sofBKaxNDTvbmNFY) | [RINES](https://open.spotify.com/artist/2FquRCgJvkUVwoDNrnsgAD) | [Kiss Me In The Rain](https://open.spotify.com/album/0Yi9xC5oEUCnM5hDSvGYxE) | 3:24 | 2021-12-01 | 2022-01-14 |
+| [least of u](https://open.spotify.com/track/3OE0fTXpnWRZKJWkBcpfPT) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [least of u](https://open.spotify.com/album/6oeujVIsUA2CLjJoI3Lwd8) | 2:29 | 2022-04-14 |  |
 | [Let's Never Talk About It](https://open.spotify.com/track/6oxjlxrcfeUpoEM6jyOBPs) | [Chloe Ho](https://open.spotify.com/artist/7byfBlKrHxvaPLNi4BGkq3) | [Let's Never Talk About It](https://open.spotify.com/album/0j8Bibkb5sg2ISCJ1ZCXzq) | 2:03 | 2021-12-01 | 2022-01-14 |
 | [Like Nobody Else](https://open.spotify.com/track/3ABvUFubkVu5ORn0EMCTsZ) | [Ruebben Chelvan](https://open.spotify.com/artist/4eedlzJY8B8Va9aCfNL0Aa), [Ben Variyan](https://open.spotify.com/artist/0NpgMUuP7ibAnSFAt72tm2), [Matthew Ong](https://open.spotify.com/artist/229q1HeeL8YDsSKQby4PcP) | [Like Nobody Else](https://open.spotify.com/album/3GSCRy72GzYxjIagTI6JMd) | 5:05 | 2022-01-13 |  |
 | [LMI \(feat\. Sherlyn Veronica\)](https://open.spotify.com/track/5czXZZpUJVrZnUkWdk8tBq) | [Astronauts](https://open.spotify.com/artist/2d4PRxsiDtfcXVv9WKs7Ci), [Sherlyn Veronica](https://open.spotify.com/artist/2dUieILowO0QlDgMi64K6d) | [LMI \(feat\. Sherlyn Veronica\)](https://open.spotify.com/album/0u8Bx8HVsmC5W39nkfLc0S) | 3:54 | 2021-12-01 | 2022-01-14 |
@@ -117,6 +119,7 @@
 | [Minah](https://open.spotify.com/track/7oWW1ILeliMU2HVpgvUmEy) | [abgdanial](https://open.spotify.com/artist/2axSWwXcBtAN3e5pBao9wF), [DANNFOSHO](https://open.spotify.com/artist/5TP0c4ogpaGI12A10iW5XM) | [Minah](https://open.spotify.com/album/620YKeHPzLkjmX6eLv0Phf) | 2:25 | 2022-02-17 |  |
 | [Mine](https://open.spotify.com/track/1yfS27iJnwOBsM5ygDeoLS) | [Shahera Sam](https://open.spotify.com/artist/4nUa44lnlvjTOHMkXhv7pN) | [Mine](https://open.spotify.com/album/2y0d3tdRcdpwBFCUtOuURz) | 2:56 | 2022-02-17 |  |
 | [Moon & The Sun](https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Moon & The Sun](https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT) | 3:24 | 2021-12-01 | 2022-01-14 |
+| [mosquitos in my room](https://open.spotify.com/track/0EjlC2TKUDCz0SuIkkP88Q) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL) | [mosquitos in my room](https://open.spotify.com/album/5wn5LHru9YcPYVpZRdLumA) | 3:26 | 2022-04-14 |  |
 | [Move On](https://open.spotify.com/track/2CQSOR6ETLKlsfjfMS1rNn) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Things I Wished I'd Said](https://open.spotify.com/album/62UiCtWlr8X5sDkIFKiaE8) | 3:35 | 2021-12-01 | 2022-01-14 |
 | [My World Too](https://open.spotify.com/track/6v4Y98Y5nhelVwwjB0Xdbk) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh) | [My World Too](https://open.spotify.com/album/4f1F2OfvY2ZsRUz7ic1Yfz) | 3:18 | 2022-01-13 | 2022-03-11 |
 | [NAME DROP](https://open.spotify.com/track/06O9EQlQASt3khh9PrtVjZ) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS), [ZIONN](https://open.spotify.com/artist/5kEEpbGzmLPGYFm4gV7aYG) | [NAME DROP](https://open.spotify.com/album/6upXb5Huje6z6GXO58C71V) | 2:48 | 2021-12-01 | 2022-01-14 |

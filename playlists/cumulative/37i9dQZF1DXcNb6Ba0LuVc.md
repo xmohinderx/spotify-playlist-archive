@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-229 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+234 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Dimples](https://open.spotify.com/track/5zNXoNQMHEQYegSTnfn5Jo) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Dimples](https://open.spotify.com/album/7a3HiRaJgeMO3RQNza1JCh) | 1:55 | 2021-11-11 |  |
 | [Dreaming About It](https://open.spotify.com/track/7FEgFOeGLK4inE6UsMIrWH) | [Larry Lelobster](https://open.spotify.com/artist/6axFc4iYvZQGoop388BSSZ) | [Summer Love](https://open.spotify.com/album/2ffasP5vZ4BfXtPb314sBr) | 2:09 | 2021-11-11 |  |
 | [Dust till Dawn](https://open.spotify.com/track/4FTWqP9PgQ24kmVctCWREf) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Solid Centre](https://open.spotify.com/album/0z1c6gc89Bfxz9iTQDChiM) | 2:14 | 2022-03-21 |  |
+| [El Patrón](https://open.spotify.com/track/7pAcgWT8D6risFfsR0JSPe) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [El Patrón](https://open.spotify.com/album/1TGOGVKxbBB3AvSEw0qaky) | 1:40 | 2022-04-15 |  |
 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 | 2021-11-11 |  |
 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 | 2021-11-11 |  |
 | [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 | 2021-11-11 |  |
@@ -72,6 +73,7 @@
 | [Golden Cat](https://open.spotify.com/track/1zvls0maQeLYZyIJwynbD1) | [Above the Mex](https://open.spotify.com/artist/2hH7uEbdBk31CRmcHj8Emh) | [Golden Cat](https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR) | 3:46 | 2021-11-11 |  |
 | [Group Study](https://open.spotify.com/track/5OxxVnONU85inGDHoRBs2M) | [Maoen](https://open.spotify.com/artist/1bKSEAwS6nhv0kTYWfRkZK), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Group Study](https://open.spotify.com/album/1cUyNhvm1u0k9TKeIswkoq) | 1:30 | 2021-11-11 |  |
 | [Guava Gods](https://open.spotify.com/track/3MY68eRK74kdGZucW8d8bA) | [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH), [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Guava Gods](https://open.spotify.com/album/1Jx6aukHSmymo0Itc8nvzn) | 1:57 | 2021-11-11 |  |
+| [Guitar Vignette No\. 5](https://open.spotify.com/track/07SkTZlDrQBUThcIjAXrKJ) | [Mantetu](https://open.spotify.com/artist/29OdSwPfuMNDXd1h5R2McY) | [Guitar Vignette No\. 5](https://open.spotify.com/album/5arcu5rX3ruwpT7okhIxcG) | 2:05 | 2022-04-15 |  |
 | [Habana Vieja](https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD) | [Yumas](https://open.spotify.com/artist/3xmU1hRg5TC6koUJ24CRBv) | [¿Qué bolá?](https://open.spotify.com/album/2IVF0eGQmUwWVHRZ5sBtZg) | 3:06 | 2021-11-11 |  |
 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 | 2021-11-11 |  |
 | [Happy to See You](https://open.spotify.com/track/2c6Si68uNJOXbWA4gFOo6p) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Happy To See You](https://open.spotify.com/album/2RQywmTrDDg7Zf4FdOKNIr) | 2:11 | 2021-11-11 |  |
@@ -99,8 +101,10 @@
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2021-11-11 |  |
 | [Just Vibin’](https://open.spotify.com/track/4XqMeXDc6GrMIhKo9AIFeQ) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Just Vibin’](https://open.spotify.com/album/1sbGkDsIHzeesq8VTbdaOM) | 2:06 | 2021-11-11 |  |
 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [artoban](https://open.spotify.com/artist/3sQE7gxylG2AydTX4UutZT) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 | 2021-11-11 |  |
+| [Koji](https://open.spotify.com/track/1nC17MFFBInGll7Wjun7XS) | [Calabrese](https://open.spotify.com/artist/3Bbd9D85OngaqLISpyDUmf), [Jay PowPow](https://open.spotify.com/artist/4iKJ2T8WvQc8SDxg6qdbrg) | [Koji](https://open.spotify.com/album/2h0JTol7uA3XQxaVgFfKG1) | 2:45 | 2022-04-15 |  |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2021-11-11 |  |
 | [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 2:21 | 2021-11-11 |  |
+| [Late at Night](https://open.spotify.com/track/7E9D2k2LU9hqzf9Wp4IZpW) | [Tiny Anthem](https://open.spotify.com/artist/4mvPTefcTixgsLnqjwc8K2) | [Late at Night](https://open.spotify.com/album/5waBBAq9BKnpUjmEpdAC9c) | 3:00 | 2022-04-15 |  |
 | [Late Hour](https://open.spotify.com/track/5ueBL4PSEp7B7TInLXxhFA) | [kahlooa station](https://open.spotify.com/artist/7IltJzcGeHqTULdYFB0GwT) | [Late Hour](https://open.spotify.com/album/2XmEWdLXAmLF6pY3mht9wi) | 2:18 | 2021-11-11 |  |
 | [Late Night Cruisin'](https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Late Night Cruisin'](https://open.spotify.com/album/1MF15bUjDTGL2ojqnJKldU) | 1:37 | 2021-11-11 |  |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2021-11-11 |  |
@@ -225,6 +229,7 @@
 | [Walking to Adachi](https://open.spotify.com/track/3HTm1FF3Cv1i7QMMIBkbVJ) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Walking to Adachi / Neon Signage](https://open.spotify.com/album/5lFq6p8lHq53YXV5BmoaBb) | 2:21 | 2021-11-11 |  |
 | [Wanderlust](https://open.spotify.com/track/6LodoJCkHdELJ4JHiDfMGz) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Wanderlust](https://open.spotify.com/album/0K7VVnjrbKfCFHw2FnjIjs) | 2:21 | 2021-11-11 |  |
 | [Warm Breeze](https://open.spotify.com/track/5728OBye3peeIkv9qlps0H) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warm Breeze](https://open.spotify.com/album/0Bm5guq2GPsGYGhfGo5PJu) | 2:24 | 2021-11-11 |  |
+| [Warmer Nights](https://open.spotify.com/track/0nGWIqSxMU7jlkDTZoHDlE) | [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V), [Merlin Szy](https://open.spotify.com/artist/57hLwzyiBKkX3LVNrmpiON) | [Synergy](https://open.spotify.com/album/7ovvwcyMA3s7550V3kUAIb) | 2:31 | 2022-04-15 |  |
 | [Wasser Light](https://open.spotify.com/track/0UOf1ZcsrHG2GHpCuOaWwh) | [Wyl](https://open.spotify.com/artist/0WfdC8rfPxrkSrNSCaC4xU), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Lukas Wilmsmeyer](https://open.spotify.com/artist/3LYMmlImII8FtmGZvZxdvv) | [Wasser Light & Oceania](https://open.spotify.com/album/2cELdSNVgZS5OygdU1xjUx) | 3:09 | 2021-11-11 | 2022-04-08 |
 | [Wednesday](https://open.spotify.com/track/5HuWX6GZ5s9cOYVSv3Pi0j) | [Mike Angello](https://open.spotify.com/artist/7hwyKGEnB8408LB3SwfMM8) | [Hysteria](https://open.spotify.com/album/576XK15YhFQ8aTccc3pEom) | 1:16 | 2021-11-11 |  |
 | [Wee Hours](https://open.spotify.com/track/1AmusTPVvkxMo7pTKrGWoE) | [Sobremesa](https://open.spotify.com/artist/7DiPStuVRz0u4HiOj3A5NQ), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Wee Hours](https://open.spotify.com/album/4TEuU29433mJOyxdLjclhv) | 2:32 | 2021-11-11 |  |

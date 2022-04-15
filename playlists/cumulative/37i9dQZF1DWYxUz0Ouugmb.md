@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: noui
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shanna Shannon
 
-89 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+90 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2021-11-25 | 2022-03-25 |
 | [CHING](https://open.spotify.com/track/2SBD7hDiuVIRvngQ5tHCBa) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [CHING](https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO) | 2:35 | 2021-11-25 | 2022-03-25 |
 | [Come Over \(I’m In Tresno\)](https://open.spotify.com/track/2TGAMsANnNOj1mZGbwCB2Y) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Come Over \(I’m In Tresno\)](https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX) | 4:04 | 2021-11-25 | 2022-03-25 |
+| [Dari Sabang Sampai Merauke](https://open.spotify.com/track/0EdpbaIFpECUTQw6LaJiiD) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Dari Sabang Sampai Merauke](https://open.spotify.com/album/122E1O9Ms8QEtGzPVK5vpY) | 3:02 | 2022-04-14 |  |
 | [Do You Think You Know Me?](https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do You Think You Know Me?](https://open.spotify.com/album/2pZYi5d7n0Ns1dBVFodbf3) | 3:26 | 2021-11-25 | 2022-03-25 |
 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 | 2022-03-24 |  |
 | [Favorite](https://open.spotify.com/track/6Nd7rc30EsFdGrwfeB8N2n) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Mirror](https://open.spotify.com/album/51etW6Ge46Vuuvhq5cgTQ6) | 3:25 | 2022-03-24 |  |

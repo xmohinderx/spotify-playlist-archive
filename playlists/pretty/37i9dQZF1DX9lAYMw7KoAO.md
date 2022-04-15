@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,687 likes - 70 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,750 likes - 70 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sengiyacela \- Live](https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sengiyacela \(Live\)](https://open.spotify.com/album/2tifu52HSqgY17VIrf4zaA) | 6:15 |
-| 2 | [Mimo \(feat\. Sola Allyson\)](https://open.spotify.com/track/5aLpw7VX35DeXZID3Drv4B) | [Fountain Of Praise](https://open.spotify.com/artist/4Xy5Yn2jebbHnzG4OhkRjr) | [Refresh](https://open.spotify.com/album/0YUeVP08TIvAJr72DLfue8) | 18:22 |
-| 3 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 |
-| 4 | [Always God](https://open.spotify.com/track/7zbk4JGPAziL1DNv8MasHR) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Always God](https://open.spotify.com/album/2TckfbhLqj59dw5gYQ3wxu) | 9:04 |
-| 5 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
-| 6 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 |
-| 7 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
-| 8 | [Eh Yaweh](https://open.spotify.com/track/1xHh8dzuyqyGJxVETA5Waj) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Celebrate!](https://open.spotify.com/album/2jqinUWqqWhSB5ICFNykgD) | 5:55 |
+| 2 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 |
+| 3 | [Always God](https://open.spotify.com/track/7zbk4JGPAziL1DNv8MasHR) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Always God](https://open.spotify.com/album/2TckfbhLqj59dw5gYQ3wxu) | 9:04 |
+| 4 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
+| 5 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 |
+| 6 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
+| 7 | [Eh Yaweh](https://open.spotify.com/track/1xHh8dzuyqyGJxVETA5Waj) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Celebrate!](https://open.spotify.com/album/2jqinUWqqWhSB5ICFNykgD) | 5:55 |
+| 8 | [Unrelenting Love](https://open.spotify.com/track/0aSZ3n4vyy7XDf9XupAtRI) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Unrelenting Love](https://open.spotify.com/album/7EPslUe7EreCwFVt5b7E9x) | 4:18 |
 | 9 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 |
 | 10 | [Xorla \(Savior\)](https://open.spotify.com/track/5oeCjtT8jKUHnzRmRdPm5Q) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Ps\. Helen Yawson](https://open.spotify.com/artist/6kTupYkSzsvfbbE75WuAlb) | [Xorla \(Savior\)](https://open.spotify.com/album/5ksHtx5tszK7XVxXjwAPzV) | 7:28 |
 | 11 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 69 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
 | 70 | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/4Oa1YzzDPEqGi0GaNOCU5k) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/album/3opAdWW3lwePS6g9tjJrsz) | 5:20 |
 
-Snapshot ID: `MTY0NzU1ODAwMCwwMDAwMDAzMjAwMDAwMTdmOWExYmZlMzgwMDAwMDE3MGM0YmU5MTkx`
+Snapshot ID: `MTY0OTk3NzIwMCwwMDAwMDAzMzAwMDAwMTgwMmE0ZTBlMjEwMDAwMDE3MGM0YmU5MTkx`

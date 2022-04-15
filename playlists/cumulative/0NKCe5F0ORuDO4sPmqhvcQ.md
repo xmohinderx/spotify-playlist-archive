@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle
 
-183 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+185 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [all i need](https://open.spotify.com/track/7vOjikQFRmxz1DISXsCQqG) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [all i need](https://open.spotify.com/album/766oNoOCHh5KNvykOsbWtd) | 3:17 | 2022-02-28 | 2022-03-31 |
 | [All I'd Ever Need](https://open.spotify.com/track/6IZNg0VEi6mYCozaqmN5kH) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [Digital Forest](https://open.spotify.com/album/1QKKd2KIRG4YEAysfwv3Y1) | 3:26 | 2022-01-28 | 2022-02-16 |
 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 | 2021-11-19 | 2022-01-08 |
+| [All Or Nothing](https://open.spotify.com/track/0t9RRa08BNjaNfnKlY6mIU) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Alter/Ego Volume II](https://open.spotify.com/album/0BCJXsvVkC7fpEPhFEBzhB) | 4:52 | 2022-04-14 |  |
 | [Always A Dream](https://open.spotify.com/track/5gV4soDW0AsPmD5tx1JEM4) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP) | [Always A Dream](https://open.spotify.com/album/6FvLm2WrMOHLuu2ZgFr2Et) | 2:54 | 2021-11-12 | 2022-01-08 |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-01 |  |
 | [Amphibious](https://open.spotify.com/track/6BOzOhp0lkineq7GADZNs5) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Polite](https://open.spotify.com/album/0WgipZtpMYTd3nTZ8iG8HR) | 3:37 | 2021-06-16 | 2022-03-31 |
@@ -158,6 +159,7 @@
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-02-16 |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2022-02-05 |
 | [take me far away](https://open.spotify.com/track/7zwBK6O9AXWSjqC4y7POIj) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [take me far away](https://open.spotify.com/album/7J3Y4DM5BkGJtG8FENL5ac) | 5:09 | 2021-11-22 | 2022-01-08 |
+| [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-04-14 |  |
 | [Tears '06](https://open.spotify.com/track/363StpInH8eU79r1ZEmn2F) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Tears '06](https://open.spotify.com/album/3iT6LycWhaHIsb9dslPOtK) | 4:38 | 2022-02-28 | 2022-03-31 |
 | [tellmewhatuwant](https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [tellmewhatuwant](https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR) | 3:13 | 2022-01-21 | 2022-02-16 |
 | [The Drunk Song](https://open.spotify.com/track/3eq75k7Y2KnA1VmDXO5fDx) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Lain](https://open.spotify.com/artist/2V7qTNoIHlrmDGhjI005us) | [The Drunk Song](https://open.spotify.com/album/5N1I5GterExcrrM0sesPsR) | 3:18 | 2022-04-01 |  |

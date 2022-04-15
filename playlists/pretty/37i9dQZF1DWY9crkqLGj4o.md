@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,468 likes - 70 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,736 likes - 70 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Meu Respirar](https://open.spotify.com/track/6Be3DpCcfD1s6tLFgjSDLF) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Meu Respirar](https://open.spotify.com/album/41TzJblbwDixbznTOk4DqJ) | 5:36 |
 | 70 | [Lugar Secreto](https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:02 |
 
-Snapshot ID: `MTY0OTg5ODE0MCwwMDAwMDAwMDJiMjE3OTViMjQxMzY2ZDIwOTY0NmJkNmNkM2E3NmJk`
+Snapshot ID: `MTY0OTk4NDIzOCwwMDAwMDAwMDJiMjE3OTViMjQxMzY2ZDIwOTY0NmJkNmNkM2E3NmJk`

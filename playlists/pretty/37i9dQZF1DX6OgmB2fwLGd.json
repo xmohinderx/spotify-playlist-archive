@@ -1,28 +1,28 @@
 {
   "description": "Check out <a href=\"spotify:show:3oTlNRRUyazgdUpWZYdvd5\">Internet People Live</a> \u2014 only on Spotify Live. Cover: bbno$",
-  "num_followers": 1098584,
+  "num_followers": 1099031,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg4NDIyMCwwMDAwMDJmZDAwMDAwMTgwMjRjMzRkYjMwMDAwMDE4MDFmMTA1Zjg3",
+  "snapshot_id": "MTY0OTk0OTAzNSwwMDAwMDJmZjAwMDAwMTgwMjhhMDRhNzMwMDAwMDE4MDFmMTA1Zjg3",
   "tracks": [
     {
-      "added_at": "2022-04-12 19:02:39",
+      "added_at": "2022-04-14 15:10:35",
       "album": {
-        "name": "ICE CREAM MAN",
-        "url": "https://open.spotify.com/album/13SiRk6WMmDwuKGF40FBgU"
+        "name": "GED",
+        "url": "https://open.spotify.com/album/79OuTWEfANwyDiKEYmNPgW"
       },
       "artists": [
         {
-          "name": "chase plato",
-          "url": "https://open.spotify.com/artist/6fhU5nl4JH1Umw2aiuCtYg"
+          "name": "Rocstaryoshi",
+          "url": "https://open.spotify.com/artist/11wXsMzrtYLvAsaF1EfHBx"
         }
       ],
-      "duration_ms": 110123,
-      "name": "ICE CREAM MAN",
-      "url": "https://open.spotify.com/track/0snmq7LOpK9xRO0dJfFlOz"
+      "duration_ms": 112169,
+      "name": "GED",
+      "url": "https://open.spotify.com/track/63T33mvThv0sZQEjTcglYx"
     },
     {
       "added_at": "2022-02-10 16:05:00",
@@ -73,6 +73,30 @@
       "url": "https://open.spotify.com/track/6uLimhxMmX7fjn2ZQ16WYk"
     },
     {
+      "added_at": "2022-04-14 15:05:53",
+      "album": {
+        "name": "The Main Protagonist",
+        "url": "https://open.spotify.com/album/4vgBuZTRJm9LJmoq6yqnp1"
+      },
+      "artists": [
+        {
+          "name": "Tae Retro",
+          "url": "https://open.spotify.com/artist/4nlZaWXDymf9NB5loJOko0"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "StanWill",
+          "url": "https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX"
+        }
+      ],
+      "duration_ms": 146494,
+      "name": "Phil Jackson",
+      "url": "https://open.spotify.com/track/1gta8EqFZ9rpF7Ci4lo3vD"
+    },
+    {
       "added_at": "2022-04-08 04:05:00",
       "album": {
         "name": "mathematics",
@@ -119,6 +143,26 @@
       "duration_ms": 153600,
       "name": "Dub",
       "url": "https://open.spotify.com/track/2Ocbja3GNcxq9Ualmmvfc1"
+    },
+    {
+      "added_at": "2022-04-14 15:05:53",
+      "album": {
+        "name": "ScatPacc (feat. NLE Choppa)",
+        "url": "https://open.spotify.com/album/4LJxpok0JXlEKtF1hYcXhL"
+      },
+      "artists": [
+        {
+          "name": "Baby Hot",
+          "url": "https://open.spotify.com/artist/4mKGgMDSLv2POrC1CJ84xc"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "ScatPacc (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/2WSoVPCIzIQkgMT4SD9LzE"
     },
     {
       "added_at": "2022-02-03 00:21:09",
@@ -191,6 +235,22 @@
       "duration_ms": 156708,
       "name": "MURDAMAN!",
       "url": "https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ"
+    },
+    {
+      "added_at": "2022-04-12 19:02:39",
+      "album": {
+        "name": "ICE CREAM MAN",
+        "url": "https://open.spotify.com/album/13SiRk6WMmDwuKGF40FBgU"
+      },
+      "artists": [
+        {
+          "name": "chase plato",
+          "url": "https://open.spotify.com/artist/6fhU5nl4JH1Umw2aiuCtYg"
+        }
+      ],
+      "duration_ms": 110123,
+      "name": "ICE CREAM MAN",
+      "url": "https://open.spotify.com/track/0snmq7LOpK9xRO0dJfFlOz"
     },
     {
       "added_at": "2022-04-06 22:28:32",

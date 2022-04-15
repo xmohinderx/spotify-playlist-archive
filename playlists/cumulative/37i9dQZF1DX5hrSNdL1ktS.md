@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Siho Villalobos
 
-67 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+68 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [De Lao Remix](https://open.spotify.com/track/0xvrNtfjeNn8Ueug6eXzrY) | [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Fran Zata](https://open.spotify.com/artist/38qrFBs12feiiLMMcLWekk), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [De Lao Remix](https://open.spotify.com/album/3spAK93c7mgN7sbLIqR3cB) | 4:14 | 2022-01-07 |  |
 | [DEJA VU](https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [DEJA VU](https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe) | 2:51 | 2022-01-07 |  |
 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 | 2022-01-07 |  |
-| [DOCE](https://open.spotify.com/track/09700e3oszBufdrwLsqvz7) | [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [DOCE](https://open.spotify.com/album/0jmZ1rdtbnxn3LYFI10SKa) | 3:06 | 2022-01-07 |  |
+| [DOCE](https://open.spotify.com/track/09700e3oszBufdrwLsqvz7) | [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [DOCE](https://open.spotify.com/album/0jmZ1rdtbnxn3LYFI10SKa) | 3:06 | 2022-01-07 | 2022-04-15 |
 | [efectos secundarios](https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [efectos secundarios](https://open.spotify.com/album/7sUapRkZsZTV4sBVxlcfpT) | 2:42 | 2022-01-07 | 2022-02-16 |
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2022-01-07 | 2022-01-23 |
 | [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 | 2022-03-02 |  |
@@ -54,6 +54,7 @@
 | [Nieve de Vainilla](https://open.spotify.com/track/6DNaON1fypnYBW9ud7za94) | [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Nieve de Vainilla](https://open.spotify.com/album/0Gor4xY55uhvXIxsB2y9ly) | 2:41 | 2022-01-07 |  |
 | [NO CONFÍO EN EL INSTA](https://open.spotify.com/track/6XMATi0vt6UMEu244ykCyf) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:18 | 2022-01-07 | 2022-02-16 |
 | [No Es Justo](https://open.spotify.com/track/4rqprXWVN6msrKaA6MK0Wl) | [YNG LGNDZ](https://open.spotify.com/artist/1w2oGzpOHgn6dzF6dW5zmT), [Cruzito](https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p), [Danny](https://open.spotify.com/artist/4qQ3QoXAwsMqUqh1QDoqtK) | [YNG LGNDZ: Season 1](https://open.spotify.com/album/6THHZzzZicnZYL3HiwnTDL) | 2:42 | 2022-01-07 |  |
+| [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-14 |  |
 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 | 2022-02-23 |  |
 | [Otra Vez](https://open.spotify.com/track/4R9yPomFNl8zjDOpNxeUFw) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Otra Vez](https://open.spotify.com/album/7HvsH9tnLxISte8aMXsl7J) | 3:07 | 2022-01-07 |  |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2022-01-07 |  |

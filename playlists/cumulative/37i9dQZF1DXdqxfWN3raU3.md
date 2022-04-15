@@ -2,9 +2,9 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B creado en el continente y España\. Foto: Ramon Vega, Kenia OS
+> Disfruta del más fino R&B creado en el continente y España\. Foto: Jesse Baez
 
-134 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+135 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Corre Que Se Quema](https://open.spotify.com/track/36aP83QLSwTi1yqDZouAbb) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Corre Que Se Quema](https://open.spotify.com/album/5d3vxGM2GMWOYaWXz3IQVd) | 3:15 | 2021-12-13 | 2022-01-11 |
 | [Cuando Te Veo](https://open.spotify.com/track/5JWob8X9N857wBlpwZlsDy) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Cuando Te Veo](https://open.spotify.com/album/1iUGjo0OBL0XMjjwiR0S2o) | 2:40 | 2021-12-13 | 2022-03-12 |
 | [Dalí](https://open.spotify.com/track/20BbptvwAiTLTfYBSafptA) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Dalí](https://open.spotify.com/album/77OueE2Wa2jvuLYgLiR75i) | 2:42 | 2021-12-13 | 2022-01-22 |
-| [De Mí](https://open.spotify.com/track/2iKcjICXMLgHHsTMs377Hk) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [De Mí](https://open.spotify.com/album/1AznrMTaqdAZTzHt3eZU3H) | 2:12 | 2021-12-13 |  |
+| [De Mí](https://open.spotify.com/track/2iKcjICXMLgHHsTMs377Hk) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [De Mí](https://open.spotify.com/album/1AznrMTaqdAZTzHt3eZU3H) | 2:12 | 2021-12-13 | 2022-04-15 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2021-12-13 | 2022-03-08 |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2021-12-13 |  |
 | [Desaparecer](https://open.spotify.com/track/5VA5vIIfllzd39yAqBCjC4) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Desaparecer](https://open.spotify.com/album/66JKhnhWqlvJkXD2EMuj4k) | 3:44 | 2021-12-13 |  |
@@ -113,7 +113,7 @@
 | [Quédame](https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Quédame](https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14) | 2:49 | 2021-12-13 |  |
 | [Químico](https://open.spotify.com/track/0xJodMjaPnEjGm8dDix9oc) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Químico](https://open.spotify.com/album/5Rf4NA823SjUQRrmGcFmaZ) | 3:19 | 2021-12-13 |  |
 | [RIP](https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [RIP](https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC) | 3:12 | 2022-01-04 |  |
-| [rosas \(dímelo\)](https://open.spotify.com/track/36eeh1rlxM8Rq5uFTMog6t) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rosas \(dímelo\)](https://open.spotify.com/album/1D5uJ3gKp054hw4T2GYjXT) | 3:31 | 2021-12-13 |  |
+| [rosas \(dímelo\)](https://open.spotify.com/track/36eeh1rlxM8Rq5uFTMog6t) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rosas \(dímelo\)](https://open.spotify.com/album/1D5uJ3gKp054hw4T2GYjXT) | 3:31 | 2021-12-13 | 2022-04-15 |
 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 | 2022-03-08 |  |
 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 | 2021-12-13 |  |
 | [Señal](https://open.spotify.com/track/4fq8WAZCvNYr8seBcf1ONw) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Señal](https://open.spotify.com/album/5or6pcsZbmvKWcdmhnYBOK) | 2:39 | 2021-12-13 |  |
@@ -142,5 +142,6 @@
 | [Wiken](https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wiken](https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP) | 3:43 | 2021-12-13 |  |
 | [Yo sigo aquí](https://open.spotify.com/track/1MRoHyLRphJUWL2hmVC9VN) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Yo sigo aquí](https://open.spotify.com/album/4yAlIlVC8mk5tLKAGxf9cd) | 3:28 | 2021-12-13 | 2022-03-09 |
 | [Zaï](https://open.spotify.com/track/1oXr8VGtgPHF3niV9lA21u) | [BFlecha](https://open.spotify.com/artist/269q1RiWEIZ2IwKRF0jXNO) | [Vacío / Zaï](https://open.spotify.com/album/3Mse1uCmatA3uZmCAIwgY3) | 3:04 | 2021-12-13 |  |
+| [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-14 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

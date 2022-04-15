@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-753 songs - 1 day 18 hr 10 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+754 songs - 1 day 18 hr 13 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 | 2021-08-15 | 2021-08-22 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-09-25 | 2021-11-14 |
 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 | 2021-08-08 | 2021-08-15 |
-| [Loveletting \- 7" Cut](https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Loveletting \(7" Cut\)](https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU) | 3:55 | 2022-04-09 |  |
+| [Loveletting \- 7" Cut](https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Loveletting \(7" Cut\)](https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU) | 3:55 | 2022-04-09 | 2022-04-15 |
 | [Lumous](https://open.spotify.com/track/1W35gR1uXjTrrFn47NwEAP) | [Tuure Kilpeläinen ja Kaihon Karavaani](https://open.spotify.com/artist/5SXVpRtKIFOc2zU1az6RVG) | [Lumous](https://open.spotify.com/album/1sgGl0zR4aGruXPiVXfX7j) | 3:41 | 2021-04-18 | 2021-04-19 |
 | [Lupaan](https://open.spotify.com/track/2kcW8pChyGW3GYjEoBUyok) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:27 | 2021-05-17 | 2021-09-12 |
 | [Lämmin lumi peittää maan](https://open.spotify.com/track/5T4wJfpwn3sEJdA4OovEfR) | [Antti Tuisku](https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt) | [Minun Jouluni](https://open.spotify.com/album/7rVlIh4Z0nZbqZ6PRQpKNz) | 3:59 | 2021-12-06 | 2021-12-29 |
@@ -441,6 +441,7 @@
 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/5K3ZT6CPpaPXanq1lKyRuL) | 3:15 | 2022-01-01 | 2022-01-03 |
 | [Muistuta mua \(Vain elämää kausi 12\)](https://open.spotify.com/track/4mYpuh6UplXtnFpzgN3Adu) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Muistuta mua \(Vain elämää kausi 12\)](https://open.spotify.com/album/4PB2f8Yd39k9iQfFi1KXV3) | 3:11 | 2021-11-22 | 2021-12-03 |
 | [Munatoti](https://open.spotify.com/track/6rQIoiIXrECnSfQj9MNDQ4) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B), [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto) | [Munatoti](https://open.spotify.com/album/0va9fk9nlRddKX2IcoyLhI) | 2:57 | 2021-11-21 | 2021-12-14 |
+| [Munkaa](https://open.spotify.com/track/6uBUE6pgQnHYq64cENGtrb) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4), [Mjay](https://open.spotify.com/artist/49HhZWQR9iHmdH8mRCvQo5) | [G baby](https://open.spotify.com/album/7hoH4f2X9sIsp4A0JiQO41) | 2:55 | 2022-04-14 |  |
 | [Muuri](https://open.spotify.com/track/4snwfFDmLOyilXsRhYPSU6) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Elonmerkki](https://open.spotify.com/album/3VIBxVpl6k6Q0w9oIrPS0W) | 3:02 | 2021-05-23 | 2021-06-05 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-03-27\* | 2021-05-22 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-11-28 |

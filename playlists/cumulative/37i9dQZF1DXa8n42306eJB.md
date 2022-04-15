@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-69 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+71 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,12 @@
 | [Down With You](https://open.spotify.com/track/5Iok4ErbMb8ozpzZkLe2VA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You](https://open.spotify.com/album/6AlOEPBNtnf5aFlKZ9JR4b) | 3:30 | 2021-08-24 |  |
 | [Duduke](https://open.spotify.com/track/2rcH25kgOyS0cQbtiMkhQw) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/0GxxbvuvH78qHtiAWz7P4R) | 2:52 | 2021-08-24 |  |
 | [Early In The Morning](https://open.spotify.com/track/2R9nfayl1NXhuAdEpwG2Qa) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Early In The Morning](https://open.spotify.com/album/7jBZzB6g10Uw2qwHN3hdDR) | 2:52 | 2021-08-24 |  |
-| [Fever \- Samoa Remix](https://open.spotify.com/track/2LXSLQ5xEWYzxKR3povD07) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3kdpy8H4J0uSYqGULaZDlw), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fever \- Island Remixes \(Fiji\)](https://open.spotify.com/album/26BFKTLCPzZLn6HylNeMW6) | 3:32 | 2021-08-24 |  |
+| [Fever \- Samoa Remix](https://open.spotify.com/track/2LXSLQ5xEWYzxKR3povD07) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3kdpy8H4J0uSYqGULaZDlw), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fever \- Island Remixes \(Fiji\)](https://open.spotify.com/album/26BFKTLCPzZLn6HylNeMW6) | 3:32 | 2021-08-24 | 2022-04-15 |
 | [Fire](https://open.spotify.com/track/2DyRPkBu8gHPdhxnUjQ86D) | [Soul Brown](https://open.spotify.com/artist/4gRJyO5LOBVHkbJz4W4tTU), [Kabin Bread Boyz](https://open.spotify.com/artist/4bo1Rnjq7uRSYVxTfa1XXO) | [Fire](https://open.spotify.com/album/6s5VEE4s07qFTF3zdezGI7) | 4:04 | 2021-08-24 |  |
 | [Girl Let Me Love You](https://open.spotify.com/track/6kc0DPZtfLf5283diEIOwi) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW) | [Girl Let Me Love You](https://open.spotify.com/album/5BPG6zlS7nyG8ULbWbrBmm) | 3:17 | 2021-08-24 |  |
 | [Good Time](https://open.spotify.com/track/68HBUpt1FVAmQD49hWJqnM) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Good Time](https://open.spotify.com/album/7gL5nwGBxLpqwtUQSQtVzx) | 3:24 | 2021-08-24 |  |
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-08-24 |  |
+| [Hello](https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Get Soca 2018](https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc) | 3:19 | 2022-04-14 |  |
 | [Here to Stay](https://open.spotify.com/track/0qxTym0LJ6HMV4g87FYIdR) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4) | 4:17 | 2021-08-24 |  |
 | [Holiday](https://open.spotify.com/track/3zqbvsFfpYLBhtcVIw42Sz) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/3wTqGvbAcURFH1ALVckuhg) | 3:15 | 2021-08-24 |  |
 | [Homebound](https://open.spotify.com/track/70iZhm23HpNcFXGg3UMMSB) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Homebound](https://open.spotify.com/album/4bTVw0yJcmqbH0Sg9fsJCQ) | 3:46 | 2021-08-24 |  |
@@ -53,6 +54,7 @@
 | [My Guy \- Remix](https://open.spotify.com/track/5p2KU5VmtZLIzv0SidAb1V) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [My Guy \(Remix\)](https://open.spotify.com/album/46SVmaDiBJTnWNnfUcTMi3) | 3:25 | 2021-08-24 |  |
 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 | 2021-08-24 |  |
 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 | 2021-08-24 |  |
+| [No Worry](https://open.spotify.com/track/7mpWPwY647zn20l5bLVJIG) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [No Worry](https://open.spotify.com/album/5tYZDsMZujFGrxrdVm3TAy) | 4:15 | 2022-04-14 |  |
 | [Oh My Goodness Ft\. Big Steve](https://open.spotify.com/track/0ySxHGWdbENkqGdthmBxps) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [Dear Billy](https://open.spotify.com/album/0DOQvfdera8Np9cZ7ppSC2) | 4:03 | 2021-08-24 |  |
 | [One More Try](https://open.spotify.com/track/7MHme1xL7GpZYNsRf69CFG) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf), [Stanley T](https://open.spotify.com/artist/2jNmaMmdk0tMMY0jxuqXQN) | [One More Try](https://open.spotify.com/album/3283HXjZnm2knf0KhUcVaD) | 3:09 | 2021-08-24 |  |
 | [Party](https://open.spotify.com/track/2hrDu4B5sb10WXs1yLqDOo) | [House Of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Island Vibration](https://open.spotify.com/album/6cNLIj2EwjJpyL5ugk1GlV) | 4:36 | 2021-08-24 |  |

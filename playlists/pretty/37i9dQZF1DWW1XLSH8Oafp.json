@@ -1,17 +1,33 @@
 {
   "description": "ur on the list bb \ud83e\ude90 featuring TDJ",
-  "num_followers": 151970,
+  "num_followers": 152567,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg4NDk0NSwwMDAwMDA2MjAwMDAwMTgwMjRjZTVhYjYwMDAwMDE4MDA2MWNiOGQw",
+  "snapshot_id": "MTY0OTkwMDc1MywwMDAwMDA2NDAwMDAwMTgwMjViZjkwZWYwMDAwMDE4MDA2MWNiOGQw",
   "tracks": [
+    {
+      "added_at": "2022-04-14 01:43:03",
+      "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 183865,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu"
+    },
     {
       "added_at": "2022-04-08 04:00:00",
       "album": {
-        "name": "miss u",
+        "name": "Miss U",
         "url": "https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC"
       },
       "artists": [
@@ -551,22 +567,6 @@
       "duration_ms": 208400,
       "name": "what's on your mind? (feat. funeral)",
       "url": "https://open.spotify.com/track/0QEQlPt2mFmzV52PGB5ZLg"
-    },
-    {
-      "added_at": "2022-02-18 19:49:47",
-      "album": {
-        "name": "r u ok?",
-        "url": "https://open.spotify.com/album/5XYq4QZnzSocz2SWjfwx4O"
-      },
-      "artists": [
-        {
-          "name": "In Explosions",
-          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "r u ok?",
-      "url": "https://open.spotify.com/track/0VFmlXQMAON7gUfTsufMop"
     },
     {
       "added_at": "2021-08-12 18:39:34",
@@ -1587,26 +1587,6 @@
       "duration_ms": 218363,
       "name": "18 & Over",
       "url": "https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt"
-    },
-    {
-      "added_at": "2021-12-17 18:04:26",
-      "album": {
-        "name": "It's All Gone (R U Init? Remix)",
-        "url": "https://open.spotify.com/album/1YgW3TgqMdncztUYAH3QQJ"
-      },
-      "artists": [
-        {
-          "name": "Niko B",
-          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
-        },
-        {
-          "name": "R U Init",
-          "url": "https://open.spotify.com/artist/1gXNjHPJXM6LCgzxBDen5e"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "It's All Gone - R U Init? Remix",
-      "url": "https://open.spotify.com/track/3Vwe6D2wpu3KNciSMZnypy"
     },
     {
       "added_at": "2022-02-04 05:01:00",

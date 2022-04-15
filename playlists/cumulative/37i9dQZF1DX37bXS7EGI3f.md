@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Alestorm
 
-263 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+264 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Kaufmann und Maid](https://open.spotify.com/track/78B9RvFjcpSQgGFtjy1zBE) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Sasha](https://open.spotify.com/artist/091dY4SjI2cy4YHdvhCjg1), [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI), [Subway To Sally](https://open.spotify.com/artist/544X9aDcwFDSon8HevRcqg), [Tanzwut](https://open.spotify.com/artist/1lnAE48Ht3fnUDrcnx2nTM), [Schandmaul](https://open.spotify.com/artist/388Jc5WX2TxTOgGwXidDM7), [dArtagnan](https://open.spotify.com/artist/7Lj8CmxeAuJ2c2I6YxA6AJ), [Patty Gurdy](https://open.spotify.com/artist/4LmjMMv69tN9V7ggJpva6r) | [Kaufmann und Maid](https://open.spotify.com/album/3P0SjSnnozzn8fU1kSMzZP) | 3:43 | 2020-11-29\* | 2021-10-01 |
 | [King of Shadows](https://open.spotify.com/track/1CZ5mkwlvFMQgnrkUlU5vq) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [King of Shadows](https://open.spotify.com/album/1yHDiZEZc4rwlZhjID82YE) | 3:52 | 2020-11-29\* | 2021-11-13 |
 | [Kiss of the Cobra King \(New Version 2019\)](https://open.spotify.com/track/3NEHXoiwQ3Les2vJ3QfiH4) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Kiss of the Cobra King \(New Version 2019\)](https://open.spotify.com/album/4VltaOJjOsLjwyf5D3hpTH) | 3:49 | 2020-11-29\* | 2021-06-19 |
-| [Kiss The Mountain](https://open.spotify.com/track/3H6LUyEnkwY4Q1ve2QcYWf) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [II \- Those We Don't Speak Of](https://open.spotify.com/album/4hSTThiexItng5cluApyAN) | 3:41 | 2021-09-04 |  |
+| [Kiss The Mountain](https://open.spotify.com/track/3H6LUyEnkwY4Q1ve2QcYWf) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [II \- Those We Don't Speak Of](https://open.spotify.com/album/4hSTThiexItng5cluApyAN) | 3:41 | 2021-09-04 | 2022-04-15 |
 | [Kraven the Hunter \- Single Edit](https://open.spotify.com/track/3skZ9npI1llyAOivyBCC7y) | [Power Paladin](https://open.spotify.com/artist/2jkaoO6BDX0QvewdjxRSvB) | [Kraven The Hunter](https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma) | 4:42 | 2021-12-11 |  |
 | [Land Under Storm](https://open.spotify.com/track/3U5Vr0V0iv9t9R6DKT4hQU) | [Frozen Shield](https://open.spotify.com/artist/1KiaTHAqtLFqstFaPG933b) | [Land Under Storm](https://open.spotify.com/album/5yGz3JfrZC5Rzp48h5FGe9) | 5:35 | 2021-06-19 | 2022-02-26 |
 | [Le Radeau de La Méduse](https://open.spotify.com/track/3pA6e63BSPjPt9SFF9lwha) | [Aephanemer](https://open.spotify.com/artist/1M2nK2dOXJjcCuW3SQEzET) | [Le Radeau de La Méduse \(English\)](https://open.spotify.com/album/1KENM3kf19xETgAZT0DQng) | 5:42 | 2021-11-20 |  |
@@ -149,6 +149,7 @@
 | [Master of Illusion](https://open.spotify.com/track/6Op6N8JQWZTV47SmYkGVsM) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Master of Illusion](https://open.spotify.com/album/5I1kV6kix3FshspHbkC48G) | 4:08 | 2021-10-23 | 2021-11-27 |
 | [Megiddo](https://open.spotify.com/track/5mozT56uO6kj4JkoucY4WU) | [Exlibris](https://open.spotify.com/artist/3w8AGJIJV3eAHw6cCZiFjb) | [Megiddo](https://open.spotify.com/album/49iN772JmIq3pIBQG79MID) | 5:20 | 2020-11-29\* | 2021-09-04 |
 | [Melancholia](https://open.spotify.com/track/6WtbP3cLqZzCTpE5hixRox) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Melancholia](https://open.spotify.com/album/7y6GgbKr1I0kFTh84eQcsk) | 6:28 | 2020-11-29\* | 2021-09-04 |
+| [Melancholy Angel](https://open.spotify.com/track/3dUh0IyeVBCEaHZciFOSAO) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Melancholy Angel](https://open.spotify.com/album/5vZb64hkg5telnO3kemLaJ) | 3:55 | 2022-04-15 |  |
 | [Metal United](https://open.spotify.com/track/2J39E5ALx4hS1WkhWl6qXu) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Metal United](https://open.spotify.com/album/0GVawmsGBiJTnKcY0rpIDX) | 3:38 | 2021-09-11 |  |
 | [Moonlight Rendezvous](https://open.spotify.com/track/30cxiM2snx2Hstvhk8Z7pv) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Moonlight Rendezvous](https://open.spotify.com/album/4Hzr7Tgtvn9QQX3HQmLktH) | 5:38 | 2021-09-04 | 2021-10-01 |
 | [Music \- Edit](https://open.spotify.com/track/04kk8MFlGciFNMp5x7J9i6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Music \(Edit\)](https://open.spotify.com/album/74yf9InZ3uUBOLYKpIrk93) | 4:46 | 2021-05-28 | 2022-01-22 |

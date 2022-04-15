@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,075 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,243 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Slush](https://open.spotify.com/track/65G9ljHILZ3jYtQwnBIWSt) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Slush](https://open.spotify.com/album/5WI4Iwq4M6g4enr4ZCUozH) | 3:57 |
 | 100 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 
-Snapshot ID: `MTY0OTg5ODA2NywwMDAwMDAwMDMwN2I0NmI1MDc2NTJlNzZmNGIyZGQ1OTk5MTgwYTZh`
+Snapshot ID: `MTY0OTk4NDE2MywwMDAwMDAwMDMwN2I0NmI1MDc2NTJlNzZmNGIyZGQ1OTk5MTgwYTZh`

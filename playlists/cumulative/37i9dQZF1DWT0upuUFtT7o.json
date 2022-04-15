@@ -8148,6 +8148,24 @@
     },
     {
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/2l44jK6Q5tnQjCUHwmnv28"
+      },
+      "artists": [
+        {
+          "name": "Wild Painting",
+          "url": "https://open.spotify.com/artist/4XJBPKlKZKYlkgjxOPgo69"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233188,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/70f04FcqkT4uZiXAy4mJlH"
+    },
+    {
+      "album": {
         "name": "way back 2 you",
         "url": "https://open.spotify.com/album/0ZKlsBdvVS0vGbLZF8DBZ9"
       },

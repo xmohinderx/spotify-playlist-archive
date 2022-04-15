@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-277 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+279 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Amoralis](https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Always Wear A Crown](https://open.spotify.com/album/1lqjD9lHsGxFVgzoYP7Xxg) | 4:13 | 2021-11-10 |  |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2021-11-10 |  |
 | [Annashuwa](https://open.spotify.com/track/10ZtwOdYSWqKgiYgOg36N5) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Annashuwa](https://open.spotify.com/album/0nJZwim2ChJLwgnr6xo4PR) | 3:35 | 2021-11-10 |  |
+| [Anteayer](https://open.spotify.com/track/3OGJPptGu6VVcvrum6Nhxu) | [Saige Kasey](https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV) | [Anteayer](https://open.spotify.com/album/58JQTw0M50HIXY8EqtQZj1) | 2:32 | 2022-04-14 |  |
 | [Aphelia](https://open.spotify.com/track/3PFOZVcCigY9NLmnjl7z9O) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Aphelia](https://open.spotify.com/album/5B9Px7QuwBZZU9T2bD4Q93) | 2:20 | 2021-11-10 |  |
 | [apoapsis](https://open.spotify.com/track/4HeGTGqUfgIA98HEkIWTp2) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [apoapsis](https://open.spotify.com/album/7Bova6yWsJlQV3Zms6wm1M) | 3:58 | 2021-11-10 |  |
 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 | 2021-11-10 |  |
@@ -88,6 +89,7 @@
 | [Devine Light](https://open.spotify.com/track/1hyJfBTTlzB2JSCjOlW31o) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Devine Light](https://open.spotify.com/album/2cxWuCK6JkysadbQbGIEuw) | 2:20 | 2021-11-10 |  |
 | [Down the Delta 147Hz \- 149Hz](https://open.spotify.com/track/4aBW8uatLJcGKI3u7a9TA3) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 3:15 | 2021-11-10 |  |
 | [dream cycles](https://open.spotify.com/track/5TtlYXmOCvwRSnqwhwuY3Q) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [dream cycles](https://open.spotify.com/album/25IvyzXDIr6m9CEiyLtZFx) | 3:25 | 2021-11-10 |  |
+| [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-04-14 |  |
 | [Dream Of Flight](https://open.spotify.com/track/6aXdJ9fD7KLRIQu3TN7LoE) | [Nile Kaufman](https://open.spotify.com/artist/2pyrI3SOsUuA1iiVe62WU4) | [Dream Of Flight](https://open.spotify.com/album/48dIMDFlwhgIh0hHpA1XMV) | 2:41 | 2021-11-10 |  |
 | [Dreaminess](https://open.spotify.com/track/6FTI1GirXye67U41XkzR2h) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Dreaminess](https://open.spotify.com/album/3KglVMFuTixkC48muX1fox) | 3:17 | 2021-11-10 |  |
 | [Dreamland](https://open.spotify.com/track/1Dv71hYl7XMbPonSYKqW5m) | [Beautiful Sleep](https://open.spotify.com/artist/4wapzvXqBROuuOhKmB0mxh) | [Night Hug](https://open.spotify.com/album/23Shp85L0ntMS24oZwE7ja) | 2:46 | 2021-11-10 |  |

@@ -5802,6 +5802,24 @@
     },
     {
       "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/0UCYKJ1G9fLOPr48jtq3U6"
+      },
+      "artists": [
+        {
+          "name": "Annmarie Celine",
+          "url": "https://open.spotify.com/artist/0XdUzYIOLBT1s6YgLxcWi6"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/6gTCJjbNwIv0natup8hdnF"
+    },
+    {
+      "album": {
         "name": "Luminescence",
         "url": "https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu"
       },

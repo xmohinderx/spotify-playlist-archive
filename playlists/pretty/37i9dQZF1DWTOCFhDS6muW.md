@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,576 likes - 38 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,592 likes - 38 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Quemala](https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc) | [Quemala](https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB) | 2:25 |
 | 38 | [Punta MIX 2019](https://open.spotify.com/track/4w4DKjVsfiOyzrDmmaKkKF) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Punta MIX 2019](https://open.spotify.com/album/3ZLQoQNQidVeEyoO3SwM1T) | 5:01 |
 
-Snapshot ID: `MTY0OTg5Nzk4MiwwMDAwMDAwMDIwOWJkODVmMzY1OGQ3ZDg3MzA2MTdlNzY4YWE5NDcy`
+Snapshot ID: `MTY0OTk4NDA3NywwMDAwMDAwMDIwOWJkODVmMzY1OGQ3ZDg3MzA2MTdlNzY4YWE5NDcy`

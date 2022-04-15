@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > An introduction to the beauty of jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,902 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,188 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/0RGMEpSB5iF6uD0ojXIiWz) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 4:14 |
 | 100 | [Come Rain or Come Shine](https://open.spotify.com/track/3aVYJ1IPXaWAA24pRE2BQX) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Milestones of a Legend: Sammy Davis Jr., Vol\. 1](https://open.spotify.com/album/0ygYq42Zni7UTDtdlXlfSp) | 3:43 |
 
-Snapshot ID: `MTY0OTg5ODM5MCwwMDAwMDAwMDliZGU4ODUxM2Y3YzBkYzIzNDZjNmZkMzBjOGVjY2Nh`
+Snapshot ID: `MTY0OTk4NDUwOCwwMDAwMDAwMDliZGU4ODUxM2Y3YzBkYzIzNDZjNmZkMzBjOGVjY2Nh`

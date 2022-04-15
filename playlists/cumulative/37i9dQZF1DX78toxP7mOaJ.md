@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Cowboy Mugshot \| Artwork: Jim Klok
 
-271 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+272 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Talk It Out](https://open.spotify.com/track/1oZi5VyS06UFkxzAtJxwCJ) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Talk It Out](https://open.spotify.com/album/4dCjjXeMR4GTb04B9Gn1XH) | 4:04 | 2021-12-01 | 2022-02-03 |
 | [Tamaryn \(Wherever I Am\)](https://open.spotify.com/track/1a2rkkSxS9IZqeHT4OxsTU) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0) | [Tamaryn \(Wherever I Am\)](https://open.spotify.com/album/0ZLQTyn9N2uQGkLall22Ay) | 4:18 | 2021-12-01 | 2022-03-24 |
 | [Teal](https://open.spotify.com/track/18eWVQXDPnRghOmYWvoThV) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Teal](https://open.spotify.com/album/4bKMQzd1vuZftMTcoEwqg0) | 3:10 | 2021-12-01 | 2022-01-27 |
+| [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 | 2022-04-13 |  |
 | [Ten Feet Tall](https://open.spotify.com/track/1Rpl7JQICcdSJaGRQbHhNc) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Ten Feet Tall](https://open.spotify.com/album/6f1ajTIvYluvERIaI81qpO) | 3:44 | 2021-12-01 | 2022-01-20 |
 | [The City](https://open.spotify.com/track/4ogrk8iGbQKDFjb9RF9dyb) | [AV Dummy](https://open.spotify.com/artist/7EEhQh6CQf7tOSOu98fofs) | [The City](https://open.spotify.com/album/0kT8FjFhFfiOOywd2VBu2L) | 3:50 | 2022-03-30 |  |
 | [The Funhouse](https://open.spotify.com/track/056PQr5KUlsRlntQsrNXWd) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [The Funhouse](https://open.spotify.com/album/74CD5vRjAS3QS0zxTQSiXZ) | 4:14 | 2022-03-09 |  |

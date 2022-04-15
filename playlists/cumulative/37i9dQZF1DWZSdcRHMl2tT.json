@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Ceylon Drift / Vindby",
+        "url": "https://open.spotify.com/album/7vF85ASpc9O6Wq2h7vDadA"
+      },
+      "artists": [
+        {
+          "name": "Phello",
+          "url": "https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Ceylon Drift",
+      "url": "https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk"
+    },
+    {
+      "album": {
         "name": "Clockwork",
         "url": "https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS"
       },
@@ -837,6 +855,24 @@
       "duration_ms": 127396,
       "name": "Feel Di Pulse",
       "url": "https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG"
+    },
+    {
+      "album": {
+        "name": "Sunstrip",
+        "url": "https://open.spotify.com/album/4Bd78qUqkrB4wISdBCFcNx"
+      },
+      "artists": [
+        {
+          "name": "Marzell Paris",
+          "url": "https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168898,
+      "name": "Feet in the sand",
+      "url": "https://open.spotify.com/track/6Q9loIPwc1mbXjdJ8mD1Gq"
     },
     {
       "album": {
@@ -2137,7 +2173,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 348066,
       "name": "Palm Tree",
       "url": "https://open.spotify.com/track/6nalAQtGzYV2PGBdHLrz9p"
@@ -2195,6 +2231,24 @@
       "duration_ms": 161102,
       "name": "Peaceful Nature",
       "url": "https://open.spotify.com/track/1gDslzncbGkKzv5P6NZ8Ql"
+    },
+    {
+      "album": {
+        "name": "Pinkland",
+        "url": "https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat"
+      },
+      "artists": [
+        {
+          "name": "Young Community",
+          "url": "https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329467,
+      "name": "Pinkland",
+      "url": "https://open.spotify.com/track/3NrEA3JQTvVFfy6BMPy8EH"
     },
     {
       "album": {
@@ -3127,7 +3181,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 148005,
       "name": "Tekapo - Edit",
       "url": "https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ"

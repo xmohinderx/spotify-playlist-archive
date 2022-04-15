@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: chloe moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,661 likes - 131 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,731 likes - 131 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. zheani",
+  "description": "welcome to our universe ft. 100 gecs",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -654,6 +654,24 @@
     },
     {
       "album": {
+        "name": "Doritos & Fritos",
+        "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196896,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
+    },
+    {
+      "album": {
         "name": "Dutch Courage",
         "url": "https://open.spotify.com/album/30kaWVTwGdetGhUqlbv04p"
       },
@@ -799,6 +817,24 @@
       "duration_ms": 177818,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/530V51I8suvq6qTwaQZLse"
+    },
+    {
+      "album": {
+        "name": "flesh",
+        "url": "https://open.spotify.com/album/11RxEPz4jDAJZGaHkJ9z6K"
+      },
+      "artists": [
+        {
+          "name": "babychaos",
+          "url": "https://open.spotify.com/artist/5sW5suu6saLZkj0anZtZyg"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "flesh",
+      "url": "https://open.spotify.com/track/1BAIlAqftLfHlpvhfgVwrm"
     },
     {
       "album": {
@@ -1362,6 +1398,28 @@
     },
     {
       "album": {
+        "name": "iScream",
+        "url": "https://open.spotify.com/album/1cB1LeV8nA8EZgxVUenuVV"
+      },
+      "artists": [
+        {
+          "name": "Deaton Chris Anthony",
+          "url": "https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203480,
+      "name": "iScream",
+      "url": "https://open.spotify.com/track/1mGtSulwCCpDQoXHrrZ4Ur"
+    },
+    {
+      "album": {
         "name": "Party At The Cemetery",
         "url": "https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ"
       },
@@ -1449,7 +1507,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 156107,
       "name": "Literal Legend",
       "url": "https://open.spotify.com/track/69yvAav3DrSy27zXqJKTIS"
@@ -1557,7 +1615,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 198620,
       "name": "Major Waste",
       "url": "https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32"
@@ -1685,7 +1743,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 123093,
       "name": "MIKE",
       "url": "https://open.spotify.com/track/4WkfTWEVvYavJ5DP14Trh7"
@@ -2151,7 +2209,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 181306,
       "name": "R34l L1e$",
       "url": "https://open.spotify.com/track/5m6YJ2umjuFD9CK4h7Ca9w"

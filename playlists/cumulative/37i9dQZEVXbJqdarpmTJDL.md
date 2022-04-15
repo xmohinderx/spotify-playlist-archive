@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-625 songs - 1 day 10 hr 8 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+626 songs - 1 day 10 hr 13 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Melanie](https://open.spotify.com/track/2dXPx2RaIy16C8JnJlaETW) | [Mef](https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC), [YT](https://open.spotify.com/artist/48pDK4NOqLtJxn5AAKVUra) | [Melanie](https://open.spotify.com/album/6ZbqSHXncjFU8ab60qjHrQ) | 3:42 | 2021-04-13 | 2021-04-15 |
 | [Merokamato](https://open.spotify.com/track/4CNzqNo2XViL4fWzlLXyl5) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [Merokamato](https://open.spotify.com/album/6NPVceZOqxSsInzRQZfMjL) | 4:02 | 2022-02-18 | 2022-02-25 |
 | [Merokamato](https://open.spotify.com/track/6QU0eI88roG2LSTFxR6UPF) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Still Active](https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe) | 3:27 | 2021-03-27\* | 2021-04-11 |
-| [Messi](https://open.spotify.com/track/3dlgCN1SOpdYTSihZ7s80k) | [GAB](https://open.spotify.com/artist/0LuYYFDRJd3PNTh1k4nFRN), [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [Young A6](https://open.spotify.com/artist/0VLbPNdrtGwHO1xlxodxYm) | [Messi](https://open.spotify.com/album/6jKknmLf1326njwOwMVufl) | 2:45 | 2022-04-11 |  |
+| [Messi](https://open.spotify.com/track/3dlgCN1SOpdYTSihZ7s80k) | [GAB](https://open.spotify.com/artist/0LuYYFDRJd3PNTh1k4nFRN), [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [Young A6](https://open.spotify.com/artist/0VLbPNdrtGwHO1xlxodxYm) | [Messi](https://open.spotify.com/album/6jKknmLf1326njwOwMVufl) | 2:45 | 2022-04-11 | 2022-04-15 |
 | [Metrhta](https://open.spotify.com/track/6kIzO9B518SyHCiKCC8q0J) | [GAMEBOY](https://open.spotify.com/artist/09admC8JPSuizanrDUzWtd) | [Metrhta](https://open.spotify.com/album/6AciJoFvJZ8Q4w6gOio7Rz) | 2:29 | 2021-10-23 | 2021-10-24 |
 | [MH ME PAIZEIS](https://open.spotify.com/track/579VIq1bwcXL7xB4nU1a9v) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX), [Gio Melody](https://open.spotify.com/artist/0Sh0w5zB1VEVANn4VO0GEp) | [MH ME PAIZEIS](https://open.spotify.com/album/7IqCVBZVWFGuDXvU8LLUBL) | 3:55 | 2021-08-15 | 2021-08-18 |
 | [Mi Koitas Tin Ora](https://open.spotify.com/track/6750yVgCrAoOp3seWLy2tC) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Rackattack \(Deluxe Edition\)](https://open.spotify.com/album/5T6qUQtVUyNagAK4955FV1) | 3:09 | 2021-08-21 | 2021-09-20 |
@@ -567,6 +567,7 @@
 | [Ti Fovasai](https://open.spotify.com/track/5Gk1WhWoRgy9feTvLT9RWK) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 4:18 | 2021-06-06 | 2021-10-17 |
 | [Ti Perimeneis](https://open.spotify.com/track/5myAiflrkMcI9XyCRHANHE) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 3:03 | 2021-06-20 | 2021-06-22 |
 | [Ti Zitas](https://open.spotify.com/track/357Ces27QaK6BQ3W6cZUeE) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ti Zitas](https://open.spotify.com/album/1DuLi4qFncYBLF6vbc9ecX) | 3:08 | 2022-03-30 | 2022-04-03 |
+| [Timelapse](https://open.spotify.com/track/753Zxm3yOAgS5WJnjNcrNV) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Timelapse](https://open.spotify.com/album/6iE5O2KMXjo251MZ1mIOVv) | 4:15 | 2022-04-14 |  |
 | [Tipota](https://open.spotify.com/track/7xCer4RU565CQ9FrtxDAq8) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Tipota](https://open.spotify.com/album/3fmpc9PM480kjDbTrD18H8) | 3:46 | 2021-04-18 | 2021-04-30 |
 | [Tipota Esi](https://open.spotify.com/track/3ZpaqJNpd9ejcW6IGdJZmp) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Tipota Esi](https://open.spotify.com/album/1YAZbRQ4gwzf3QAeaOAhYq) | 3:38 | 2022-01-09 | 2022-02-09 |
 | [To 'Xoun Kapsei](https://open.spotify.com/track/6rCfFX21lHuDFfexga27F1) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [To 'Xoun Kapsei](https://open.spotify.com/album/7sOaVrDhibrYHjUsvYJgck) | 3:05 | 2022-03-01 | 2022-03-06 |

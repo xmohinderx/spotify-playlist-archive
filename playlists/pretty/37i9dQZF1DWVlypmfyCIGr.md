@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ano
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,359 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,405 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AIDA](https://open.spotify.com/track/01Yi8a6gHOmEa7IV4ZDr77) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [AIDA](https://open.spotify.com/album/0urzy9q0PsNI7L0JDEyhuh) | 3:41 |
 | 2 | [生きる](https://open.spotify.com/track/7KGLZBRgherjXdWkCgVhqS) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [生きる](https://open.spotify.com/album/5I4xaUGynFIeZR3ZRAMiCE) | 4:01 |
-| 3 | [CapSule](https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [星街すいせい](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [CapSule](https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ) | 2:54 |
+| 3 | [CapSule](https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [CapSule](https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ) | 2:54 |
 | 4 | [灰になって空に舞う](https://open.spotify.com/track/0cv01P6YagCS2AzVJ7Zm53) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [灰になって空に舞う](https://open.spotify.com/album/42O4d68FPjGsellVrCxJBp) | 2:50 |
 | 5 | [ミッドナイトタイムライン](https://open.spotify.com/track/1755RUcIKOA3OxVM5HkrYl) | [Haruna Yusa](https://open.spotify.com/artist/3lc5Z805sOOFhD7BcUlMG2) | [ミッドナイトタイムライン](https://open.spotify.com/album/6QkKf9Zgtv4rtKYA2J2t05) | 5:16 |
 | 6 | [Shooting Star](https://open.spotify.com/track/5CQckhFOdIUS1N4dAiFtNP) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP) | [tint](https://open.spotify.com/album/5Y292CKdDGO2PEOHvGaAWe) | 2:37 |

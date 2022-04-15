@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best Hip Hop coming out of Australia. Cover: Say True God?",
+  "description": "The best Hip Hop coming out of Australia. Cover: NASA NOVA",
   "name": "Local Hype",
   "published_playlist_ids": [
     "4Dkoxwgg3cIjwa7yuFFJFE"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 181112,
       "name": "96 Bulls",
       "url": "https://open.spotify.com/track/7j2RJA45G8l0ZcDK2bOJJL"
@@ -398,6 +398,36 @@
     },
     {
       "album": {
+        "name": "CARGO",
+        "url": "https://open.spotify.com/album/113S4s52yL4OzHqQsCNn2W"
+      },
+      "artists": [
+        {
+          "name": "Swish Music",
+          "url": "https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI"
+        },
+        {
+          "name": "XPUNCH",
+          "url": "https://open.spotify.com/artist/4UyFWogo0bZ0jWLWTcIvmr"
+        },
+        {
+          "name": "Dau Dau",
+          "url": "https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1"
+        },
+        {
+          "name": "Jay Swi$h",
+          "url": "https://open.spotify.com/artist/1vE0MbvpMkA7G3IfgcWAIO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175652,
+      "name": "CARGO",
+      "url": "https://open.spotify.com/track/74f5CGOuldSJzhlP3VrIJr"
+    },
+    {
+      "album": {
         "name": "Cashed Out Stoner",
         "url": "https://open.spotify.com/album/7EGvtRZTg6juwrjiCiaHdK"
       },
@@ -644,6 +674,24 @@
     },
     {
       "album": {
+        "name": "PUBLIC ENEMY",
+        "url": "https://open.spotify.com/album/55SIX2DV1xWxf5Qn3lPmrN"
+      },
+      "artists": [
+        {
+          "name": "Mac11",
+          "url": "https://open.spotify.com/artist/3V4EvPxOtNBztsOyoLV1co"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "FRENEMIES",
+      "url": "https://open.spotify.com/track/2hwAugT0B9Xu7VGZnPh3Ur"
+    },
+    {
+      "album": {
         "name": "FRIDAY",
         "url": "https://open.spotify.com/album/0zQvIfYMosxDoCVap48SkU"
       },
@@ -803,6 +851,28 @@
       "duration_ms": 142229,
       "name": "HEARTBREAK",
       "url": "https://open.spotify.com/track/1gP57mFKlNNMT1DhwlN8mF"
+    },
+    {
+      "album": {
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/3rv3dFnCgjEXheaE5mN614"
+      },
+      "artists": [
+        {
+          "name": "Jono",
+          "url": "https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR"
+        },
+        {
+          "name": "Jose Poly",
+          "url": "https://open.spotify.com/artist/0efNl355u2tjhp8oo3EMy0"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163943,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/3pWyjL4tP35kcMUhxEyaQP"
     },
     {
       "album": {
@@ -1125,6 +1195,24 @@
       "duration_ms": 177902,
       "name": "M1",
       "url": "https://open.spotify.com/track/4MZQpYHloIv9IhX1yAdi5J"
+    },
+    {
+      "album": {
+        "name": "M31 (Racing down the Hume)",
+        "url": "https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8"
+      },
+      "artists": [
+        {
+          "name": "Mulalo",
+          "url": "https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "M31 (Racing down the Hume)",
+      "url": "https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ"
     },
     {
       "album": {
@@ -1971,7 +2059,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 110867,
       "name": "spaceship",
       "url": "https://open.spotify.com/track/5kE5Wi5ZNyQxjZosVH3eTw"

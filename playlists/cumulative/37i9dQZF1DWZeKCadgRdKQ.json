@@ -1172,6 +1172,24 @@
     },
     {
       "album": {
+        "name": "Coastlines",
+        "url": "https://open.spotify.com/album/0rSFyMg9HbshcjLkAkB3uB"
+      },
+      "artists": [
+        {
+          "name": "Garden Collective",
+          "url": "https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Coastlines",
+      "url": "https://open.spotify.com/track/1CMi03AXBZLUT2Wg6YHd9s"
+    },
+    {
+      "album": {
         "name": "Endeavour",
         "url": "https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH"
       },
@@ -6467,6 +6485,24 @@
       "duration_ms": 167386,
       "name": "The Light of Day",
       "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
+    },
+    {
+      "album": {
+        "name": "The Meaning",
+        "url": "https://open.spotify.com/album/6R8HbHMhZq7h4LgxIQ5OeD"
+      },
+      "artists": [
+        {
+          "name": "Fondur",
+          "url": "https://open.spotify.com/artist/13HVLXNw3aIkcbo354xEcS"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198172,
+      "name": "The Meaning",
+      "url": "https://open.spotify.com/track/4XBdcBdB8cIlJIipHbTd7G"
     },
     {
       "album": {

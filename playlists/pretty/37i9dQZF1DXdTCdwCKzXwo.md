@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Classic alternative\. These early pioneers brought the underground to the foreground\. Cover: Lou Reed
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,629 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,163 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Indian Summer](https://open.spotify.com/track/0MPsh65qp5QJdcENUNBDZq) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Jamboree](https://open.spotify.com/album/467spL3Q9YifFybOjqQQGx) | 3:05 |
 | 75 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
 
-Snapshot ID: `MTY0OTg5ODY0MSwwMDAwMDAwMDk1YzIzZTBjMTZhYWVjZWM2MjUyNDM2OWFiYjQxZWY1`
+Snapshot ID: `MTY0OTk4NDc2NSwwMDAwMDAwMDk1YzIzZTBjMTZhYWVjZWM2MjUyNDM2OWFiYjQxZWY1`

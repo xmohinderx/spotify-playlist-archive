@@ -4,7 +4,7 @@
 
 > Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> — only on Spotify Live\. Cover: bbno$
 
-230 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+233 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Forever Known](https://open.spotify.com/track/5a8UxWWXVhCs9vZRsfk6XD) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [TTB: STREETS CHOSE ME](https://open.spotify.com/album/6Q4v67qp7kf3J8g5uey5MT) | 3:12 | 2021-10-01 | 2022-02-26 |
 | [Frankenstein](https://open.spotify.com/track/7vkFn4MeLp77flJYqffY1r) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Bin Reaper 2](https://open.spotify.com/album/1tv75OLGopTFJOGLUc25hx) | 2:28 | 2021-11-29 | 2022-02-05 |
 | [From Tha Back](https://open.spotify.com/track/6yPXp9wf5SVk98bhJdOZkM) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [Huncho Da Rockstar](https://open.spotify.com/artist/4VrY0JpWXcvse8rsqAIZj3) | [From Tha Back](https://open.spotify.com/album/2uH6mlobFkCOzoTS7oqvKy) | 2:46 | 2021-09-21 | 2022-03-26 |
+| [GED](https://open.spotify.com/track/63T33mvThv0sZQEjTcglYx) | [Rocstaryoshi](https://open.spotify.com/artist/11wXsMzrtYLvAsaF1EfHBx) | [GED](https://open.spotify.com/album/79OuTWEfANwyDiKEYmNPgW) | 1:52 | 2022-04-14 |  |
 | [Get TF Out My Face](https://open.spotify.com/track/0m0mtfrpVxsrXqgdCsURNd) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Get TF Out My Face](https://open.spotify.com/album/3EAlwCLd3mbD7cOZo1GIJv) | 2:13 | 2021-12-10 | 2021-12-27 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-21 |  |
 | [Go](https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Go](https://open.spotify.com/album/0fas0oNoInW2Y68mdaW0Gf) | 2:12 | 2021-11-27 | 2022-02-26 |
@@ -165,6 +166,7 @@
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 |  |
 | [Paralyzed](https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Paralyzed](https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT) | 2:47 | 2022-01-28 | 2022-02-23 |
 | [PELICAN](https://open.spotify.com/track/0V5TfRvQm0qLtv9Q0IPOKS) | [Cashout Mike](https://open.spotify.com/artist/00AolXifCyBruO9xdTyWgF) | [PELICAN](https://open.spotify.com/album/3pURr9iMS8fy1kK0K2SxK2) | 1:43 | 2022-03-12 |  |
+| [Phil Jackson](https://open.spotify.com/track/1gta8EqFZ9rpF7Ci4lo3vD) | [Tae Retro](https://open.spotify.com/artist/4nlZaWXDymf9NB5loJOko0), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [StanWill](https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX) | [The Main Protagonist](https://open.spotify.com/album/4vgBuZTRJm9LJmoq6yqnp1) | 2:26 | 2022-04-14 |  |
 | [Playboy](https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt) | [Jx.Zero](https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d) | [In My Sins](https://open.spotify.com/album/4GENTWizn55KM44eriqNq8) | 2:32 | 2022-02-02 |  |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-28 | 2022-02-05 |
 | [Poppin](https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:47 | 2022-03-06 |  |
@@ -185,6 +187,7 @@
 | [Rocket](https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Rocket](https://open.spotify.com/album/0fPkcy88RYqvj2iHxQ4qZc) | 1:23 | 2022-01-21 | 2022-02-05 |
 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 | 2022-02-16 |  |
 | [Royal Rumble](https://open.spotify.com/track/56jgkn6nl2YjJkr4FcOBXf) | [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [Matt Ox](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Quadie Diesel](https://open.spotify.com/artist/6ioTAQZBmrqOErz48ks1Ey) | [Royal Rumble](https://open.spotify.com/album/2JzI9K1ICPpMd3H9burGsG) | 2:22 | 2021-12-10 | 2022-02-23 |
+| [ScatPacc \(feat\. NLE Choppa\)](https://open.spotify.com/track/2WSoVPCIzIQkgMT4SD9LzE) | [Baby Hot](https://open.spotify.com/artist/4mKGgMDSLv2POrC1CJ84xc), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [ScatPacc \(feat\. NLE Choppa\)](https://open.spotify.com/album/4LJxpok0JXlEKtF1hYcXhL) | 3:25 | 2022-04-14 |  |
 | [Shake](https://open.spotify.com/track/010MlmLvo1ca6KMRLKayli) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Planet Headband \(Deluxe\)](https://open.spotify.com/album/1CX6Qu9EAzLdIKtuqvPFAR) | 1:37 | 2021-11-10 | 2022-02-05 |
 | [Shake](https://open.spotify.com/track/18pZAkoz9eNXd6gpy48RQL) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Aura The Scientist](https://open.spotify.com/artist/4gTlq0DUpq2DYYgTEQeD9O) | [ISHOWSPEED](https://open.spotify.com/album/0A289AosxAJWEwIS8ILlqQ) | 2:36 | 2021-12-22 | 2022-02-23 |
 | [Shakira!](https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Shakira!](https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM) | 2:29 | 2021-11-05 | 2022-02-26 |

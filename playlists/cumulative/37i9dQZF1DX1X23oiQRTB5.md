@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> 1PLIKÉ140 au top de la première playlist de rap français !
+> DA Uzi x Gazo au top de la première playlist de rap français !
 
 58 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 

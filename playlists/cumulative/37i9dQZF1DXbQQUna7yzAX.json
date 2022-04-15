@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 208281,
       "name": "Boring",
       "url": "https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 269080,
       "name": "Caught",
       "url": "https://open.spotify.com/track/46nccm1ZvlvHspOQHcPskS"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 224769,
       "name": "G.",
       "url": "https://open.spotify.com/track/245OyRA6R6aPTCr2cJZQrX"
@@ -674,6 +674,24 @@
     },
     {
       "album": {
+        "name": "HLA-11TF",
+        "url": "https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj"
+      },
+      "artists": [
+        {
+          "name": "Mascara",
+          "url": "https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336186,
+      "name": "Half Light Aftermath",
+      "url": "https://open.spotify.com/track/02ne7eK9Q48RMtTcRdhbuz"
+    },
+    {
+      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/5VhJpyxeRFGxh2U9P76M3H"
       },
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 198080,
       "name": "Hey Sis",
       "url": "https://open.spotify.com/track/18BngYNbP0xadmssigycDH"
@@ -1016,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "Nothing to Believe",
+        "url": "https://open.spotify.com/album/0k7q2N2bD1WBio7SCvod2f"
+      },
+      "artists": [
+        {
+          "name": "Rockford",
+          "url": "https://open.spotify.com/artist/2pAfcd9rbqt6XxUCWEZ8SN"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232694,
+      "name": "Nothing to Believe",
+      "url": "https://open.spotify.com/track/7ccBf9nZsND5ORMTf3EVDp"
+    },
+    {
+      "album": {
         "name": "Walk Around Me",
         "url": "https://open.spotify.com/album/45XDQvwcmV6mQxTs4few7H"
       },
@@ -1243,7 +1279,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 188000,
       "name": "Stay Out",
       "url": "https://open.spotify.com/track/4dqcedp9451K9DvxYugrTt"
@@ -1412,6 +1448,24 @@
     },
     {
       "album": {
+        "name": "Three Monkey Song",
+        "url": "https://open.spotify.com/album/5EDqyvBw9DSVdhuONZxW2m"
+      },
+      "artists": [
+        {
+          "name": "Sivan Langer",
+          "url": "https://open.spotify.com/artist/7ckVHLOYWQRV09kEoLOiqD"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142980,
+      "name": "Three Monkey Song",
+      "url": "https://open.spotify.com/track/0COCUDsuzYUZdaMTPmgcKP"
+    },
+    {
+      "album": {
         "name": "To the Grave",
         "url": "https://open.spotify.com/album/6IyPVkaTahXnsUgKaBxZv3"
       },
@@ -1503,6 +1557,42 @@
       "duration_ms": 222307,
       "name": "Tribe",
       "url": "https://open.spotify.com/track/0zbhp3vwTYsqd6JDnyKUg9"
+    },
+    {
+      "album": {
+        "name": "Under the Weather",
+        "url": "https://open.spotify.com/album/2FSABn25OvVT0vhNoCwqss"
+      },
+      "artists": [
+        {
+          "name": "Pretty",
+          "url": "https://open.spotify.com/artist/5IjTJxqya7T44SsTYNewCO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242003,
+      "name": "Under the Weather",
+      "url": "https://open.spotify.com/track/5F400JsRJBkflKqaUHMKPz"
+    },
+    {
+      "album": {
+        "name": "Credere Di Pensare",
+        "url": "https://open.spotify.com/album/74zRzOFTdEjTGycktwGa0Q"
+      },
+      "artists": [
+        {
+          "name": "Raniss",
+          "url": "https://open.spotify.com/artist/5V0f1RKm4X0Lh6HBLSps3V"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220312,
+      "name": "Vortice",
+      "url": "https://open.spotify.com/track/6RA1qE9WbVXmWdLWmjN8Z3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Footprint Project\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,538 likes - 125 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,560 likes - 125 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 17 | [Désordre](https://open.spotify.com/track/1I7svFG2Zh4NvonUyDIvot) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Désordre](https://open.spotify.com/album/63XpcQS6u4Q0E1DvWP76lp) | 3:41 |
 | 18 | [Naima \- Atjazz Remix](https://open.spotify.com/track/5tN1ARWZgerMpoahtqehV1) | [Sean Khan](https://open.spotify.com/artist/0NaIM4UkTy7uRjTyDIz4nG), [Heidi Vogel](https://open.spotify.com/artist/5H6KAuCOwgEpQXx6WKYCcN), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Naima \(Original & Atjazz Remix\)](https://open.spotify.com/album/2nPWdKbxnq9bC6i1fUqA7l) | 6:49 |
 | 19 | [Monday](https://open.spotify.com/track/0cEiHdoJbX8lLwba6plTm2) | [Nikolai Olshansky](https://open.spotify.com/artist/4BA3kZtZgmFt4eqXSFOYOO) | [Monday](https://open.spotify.com/album/5ZMOd2UcnZcDqVJE0XCYRd) | 8:15 |
-| 20 | [Lady Champagne \- Single ver](https://open.spotify.com/track/68I7iYB3Z8z4cuuVBVnWju) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [George Kano Experience](https://open.spotify.com/artist/2LOaFRYsMKI9JAOs5izXJz), [DAISUKE](https://open.spotify.com/artist/2nrQDqtlfj9G0ftzvK6AKS) | [Lady Champagne](https://open.spotify.com/album/2TRPR3vaCXHrta2xx5kP0B) | 3:34 |
+| 20 | [Lady Champagne \- Single ver](https://open.spotify.com/track/68I7iYB3Z8z4cuuVBVnWju) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [George Kano Experience](https://open.spotify.com/artist/2LOaFRYsMKI9JAOs5izXJz), [DAISUKE](https://open.spotify.com/artist/2nrQDqtlfj9G0ftzvK6AKS), [T\-GROOVE & GEORGE KANO EXPERIENCE](https://open.spotify.com/artist/1Afm2ZSmz3Vuof17bZeW25) | [Lady Champagne](https://open.spotify.com/album/2TRPR3vaCXHrta2xx5kP0B) | 3:34 |
 | 21 | [Puzzel](https://open.spotify.com/track/7pia03Arx2piEl0KPzhCuf) | [Alberto García](https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Lou Lecaudey](https://open.spotify.com/artist/5hUdNFtVf3ZHuSM1WBwag1) | [Puzzel](https://open.spotify.com/album/60cFbHwijbAp0v6xNKNTUe) | 6:51 |
 | 22 | [L'Aventino](https://open.spotify.com/track/3gYiUNsqHikK1WbACGQm18) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [L'Aventino](https://open.spotify.com/album/43A04XzVyrDLNXMLoiyZpd) | 6:36 |
 | 23 | [Stop in the Jungle](https://open.spotify.com/track/4gEHEJvgdGFbGThRSoJWRr) | [Los 300](https://open.spotify.com/artist/0zexiVTqcXkhGabeCpmsmV) | [Stop in the Jungle](https://open.spotify.com/album/0bvsKCQlITN5GkXzLoVunu) | 4:05 |

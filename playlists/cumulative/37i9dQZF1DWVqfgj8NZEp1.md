@@ -4,7 +4,7 @@
 
 > Relax to the sound of jazz.
 
-182 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+184 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj) | 4:12 | 2020-10-09 |  |
 | [Naima](https://open.spotify.com/track/53QNo32MLknNMvfO5u87DR) | [Lo Greco Bros Quartet](https://open.spotify.com/artist/3y3000WyBJpDtIGHI5y4FG) | [Naima](https://open.spotify.com/album/1MkJ9Cw7FOgkzsbfJ9uRM6) | 4:39 | 2021-07-30 |  |
 | [Naima](https://open.spotify.com/track/0D5PNTs1HSYe2nHlHulJQw) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Giant Steps](https://open.spotify.com/album/1mws5azyWvnyPkaNZEDGa4) | 5:02 | 2020-10-09 |  |
+| [Nancy \(With the Laughing Face\)](https://open.spotify.com/track/2l9lJ9HxxXyGilNIjTdO3j) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [Lovers Moment \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig) | 4:50 | 2022-04-14 |  |
 | [New Morning](https://open.spotify.com/track/4aUrYkpfMzm2DVfG1Pplzk) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [New Morning](https://open.spotify.com/album/6svNUeo9s8K04JPAjdB7b5) | 9:30 | 2020-10-09 |  |
 | [No More Shadows \- Remastered 2019](https://open.spotify.com/track/57V00mGqAIgnxjZGiAG8lE) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Closeup in Swing \(Octave Remastered Series\)](https://open.spotify.com/album/0aRjwRazZAc77hndjCWVMR) | 4:07 | 2021-12-03 | 2022-03-11 |
 | [November](https://open.spotify.com/track/4qD7gLqAtSXFmS83Bj9Qyp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:29 | 2022-03-17 |  |
@@ -180,6 +181,7 @@
 | [Uptown, Downtown](https://open.spotify.com/track/58TwX5CF328t6qDm9sgaLb) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/1rKuZrtVnezUOqklw7fSKc) | 6:00 | 2020-10-09 |  |
 | [Vid Frösö kyrka \- From Frösöblomster](https://open.spotify.com/track/6bqNdzv1KHd5C7ae0YbV7r) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Träumerei](https://open.spotify.com/album/0xvKY28Z5isacgZ1CoEn8r) | 4:57 | 2020-10-09 |  |
 | [Vila Bela](https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Sankofa](https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf) | 4:44 | 2021-06-25 |  |
+| [We Three](https://open.spotify.com/track/5jkJkA8Dpu9a60s0LYfW2I) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin'](https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx) | 11:01 | 2022-04-14 |  |
 | [We Will Never Meet Again](https://open.spotify.com/track/6zYDzFqWrXG2rMWZA1I7tZ) | [John Rae](https://open.spotify.com/artist/09SVpoNxeMVRHY48xjqS0c) | [We Will Never Meet Again](https://open.spotify.com/album/4FrHFBCtchCE0qfhEcXdqF) | 4:17 | 2020-10-09 |  |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2020-10-09 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2020-10-09 |  |

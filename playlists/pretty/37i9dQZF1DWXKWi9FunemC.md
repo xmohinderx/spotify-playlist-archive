@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,574 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,606 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 93 | [Come As You Are](https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 4:32 |
 | 94 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
 | 95 | [I Know Just What You Need](https://open.spotify.com/track/4yKLqYXt2tQaBw4qta5iMs) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Rebekah Autumn](https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ) | [I Know Just What You Need](https://open.spotify.com/album/5Sn2cIEG2QQcTFAdrJ29BV) | 3:33 |
-| 96 | [Who You Say I Am \- Live/Acoustic](https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 3:11 |
+| 96 | [Who You Say I Am \- Live/Acoustic](https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 3:11 |
 | 97 | [Before You](https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ) | [Before You](https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE) | 4:21 |
 | 98 | [This Wild Earth](https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \(Or the Nuclear Sunburst of the Truth Revealed\)](https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp) | 4:00 |
 | 99 | [One Good Try](https://open.spotify.com/track/6wdW7RIXNx64DH6HqDOgSf) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [One Good Try](https://open.spotify.com/album/6Dvwl5Ss1vis3sNVJ0yKbj) | 3:49 |
 | 100 | [More Than Anything](https://open.spotify.com/track/6EDa0a42UOJHgcy4WIqwMY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [More Than Anything](https://open.spotify.com/album/0XZ65qQkiiz1TMDkZAsm92) | 7:17 |
 
-Snapshot ID: `MTY0OTg5ODExMiwwMDAwMDAwMGQwNWI2YWM3MDAyMmJjMjYzODEzMDQ4MGYyNzA2ZTg0`
+Snapshot ID: `MTY0OTk4NDIxMCwwMDAwMDAwMGQwNWI2YWM3MDAyMmJjMjYzODEzMDQ4MGYyNzA2ZTg0`

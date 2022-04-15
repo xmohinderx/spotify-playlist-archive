@@ -4,7 +4,7 @@
 
 > Bowls, tones and gongs to lift you up and transcend.
 
-76 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/1Lw3OcfQQZwnc25pF6c86g)
+79 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/1Lw3OcfQQZwnc25pF6c86g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Angelic Rays](https://open.spotify.com/track/4G4omzP32mLXToXpBvAuQR) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Sounds Of Light \- The Pure Tones Of Crystal Singing Bowls](https://open.spotify.com/album/0SNmay1Uzlo1mbp9OYUmj0) | 8:51 | 2022-01-06 |  |
 | [Balance](https://open.spotify.com/track/4ssTYVGgSfy3Ri0ZZDfQVY) | [Aura Tones](https://open.spotify.com/artist/1CVsQlEnzZI4Xf8UecToZi) | [Balance](https://open.spotify.com/album/2er4p4jHPWafXpign0UCau) | 9:56 | 2022-01-06 |  |
 | [Be Well! Quartz Crystal Bowls for Brow, Throat & Heart Chakras](https://open.spotify.com/track/7K8naQAjxQ3HGqn6EPcOga) | [Phil Cory](https://open.spotify.com/artist/6VwEvHieOj07W7mIVdjnNi) | [Be Well! Quartz Crystal Bowls for Brow, Throat & Heart Chakras](https://open.spotify.com/album/3b2jyAktZMNpB1AgcnfMiM) | 9:11 | 2022-01-06 |  |
+| [Cacophony A432](https://open.spotify.com/track/4UUY9ZUYBzZiFsYbfxXeki) | [Natural Tuning](https://open.spotify.com/artist/0db3whzEc8o8hAIp7Q9wp5) | [Cacophony A432](https://open.spotify.com/album/2sict1ksexBHINmD0zIL5T) | 3:40 | 2022-04-14 |  |
 | [Calming Bowls](https://open.spotify.com/track/65A12U2jKBo95338kC8lqc) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Calming Bowls](https://open.spotify.com/album/5lzWTvXfhA60WLzQ6T3M4F) | 3:04 | 2022-02-22 |  |
 | [Clean](https://open.spotify.com/track/3Hjp6zXNKL9DET8AVnAhvw) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 2:42 | 2022-01-06 |  |
 | [Clear Light](https://open.spotify.com/track/1NhS1qT1I92D7NwOXMOD7Z) | [Henry Wolff](https://open.spotify.com/artist/5P9GOBmioOd73PEbC1iGRT), [Drew Gladstone](https://open.spotify.com/artist/4pPu2Gh6iguBzvVeqKMmnf), [Nancy Hennings](https://open.spotify.com/artist/4uVd6sNdsHHgPknM4EZQnT) | [Tibetan Bells](https://open.spotify.com/album/0VU4keMlWkYomkOpVJJtCT) | 4:02 | 2022-01-06 |  |
@@ -33,6 +34,7 @@
 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 | 2022-01-06 |  |
 | [Emotional Work](https://open.spotify.com/track/0VC9OeCCDfGC9WlmU101TH) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Healing Sound Waves for Meditation](https://open.spotify.com/album/5hiIGtbXnYu03Vck0nV7dY) | 2:55 | 2022-01-06 |  |
 | [Expanding Earth Gong](https://open.spotify.com/track/0vCDI2Idh2jSYqtkRshMsC) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 2:11 | 2022-01-06 |  |
+| [Forest Frogs & Bee Chants](https://open.spotify.com/track/2PEBEoNfiFb15F5rF0TsNP) | [Energy Center](https://open.spotify.com/artist/64T9tcXGhRumS4toOuCCOO) | [Forest Frogs & Bee Chants](https://open.spotify.com/album/4ssetshclvvpyY32fscqyR) | 4:24 | 2022-04-14 |  |
 | [Gong Bath](https://open.spotify.com/track/1KtfudvuPrxLde8ROI7zBS) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Sonic Cosmogony](https://open.spotify.com/album/01tZd33aBB1HKNv2pSjf5E) | 5:27 | 2022-01-06 |  |
 | [Gong Bath 1 \- Loopable](https://open.spotify.com/track/1zYzED3dU4r74IhiqhCiWu) | [A Sound Healer](https://open.spotify.com/artist/7tBUl1HEvXqQ9Ws2oenI5d) | [Gong Bath Sound Meditations](https://open.spotify.com/album/5T8EhrYCTyHntUYgKFAvkH) | 3:45 | 2022-01-06 |  |
 | [Gong Yoga](https://open.spotify.com/track/7mHFHaN7FGLDFjT53jRKYW) | [Gong Bath](https://open.spotify.com/artist/0qzZtsNy383IVvVza57IoS) | [Loopable Zen: Pianissimo, Drones and Gongs for Meditation Therapy, Peaceful Relaxation and Study](https://open.spotify.com/album/5bZoFnI4yVomgz3bHvDARe) | 4:00 | 2022-01-06 |  |
@@ -80,6 +82,7 @@
 | [Tibetan Bowl Meditation](https://open.spotify.com/track/2Vh8dAhsAWDjX651xHGKwt) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 2:37 | 2022-02-22 |  |
 | [Tibetan Bowl Mind Clarity](https://open.spotify.com/track/5SXk3qGtMOLUDVUttQLea0) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 4:06 | 2022-02-22 |  |
 | [Tibetan Bowls Sound Massage \(Massaggio Sonoro Con Campane Tibetane\)](https://open.spotify.com/track/1uxMFlCjZLLfQcwQRTu3qk) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Tibetan Bowls Sound Massage \(Massaggio Sonoro Con Campane Tibetane\)](https://open.spotify.com/album/6avoryhRkQVhGtWl3b2hQ8) | 6:07 | 2022-01-06 |  |
+| [Tranquility \(Crystal Sound Meditation\)](https://open.spotify.com/track/13vU2lqVVClRBAvDOAKr5L) | [Lauri Poldre](https://open.spotify.com/artist/0ANW2NaM4xL8vlFB8jSPXB) | [Tranquility \(Crystal Sound Meditation\)](https://open.spotify.com/album/7t9DJLZJc6BK2XroiA0NiT) | 20:13 | 2022-04-14 |  |
 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [Sun Prayers](https://open.spotify.com/artist/5ooYkvBXhXVAVuoTQTTscC) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 | 2022-01-06 |  |
 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 | 2022-01-06 |  |
 | [Walking Earth Gong](https://open.spotify.com/track/7tZuNzE2ye0HCbILkCkH2f) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 2:13 | 2022-01-06 |  |

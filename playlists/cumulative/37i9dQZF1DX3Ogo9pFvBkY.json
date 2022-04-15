@@ -6798,6 +6798,24 @@
     },
     {
       "album": {
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/5MHWq6pCwzDE3niX3dCZ4b"
+      },
+      "artists": [
+        {
+          "name": "Valentinah Garcia",
+          "url": "https://open.spotify.com/artist/2H7P5YeImYP9Z6RdOSPyQN"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/36JZbTsvp44NkViBfn5o0o"
+    },
+    {
+      "album": {
         "name": "Neblinoso",
         "url": "https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS"
       },

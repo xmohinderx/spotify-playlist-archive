@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 109,533 likes - 80 songs - 7 hr 8 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 109,690 likes - 80 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 38 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 |
 | 39 | [Oceans \(Where Feet May Fail\) \- Live from Madison Square Garden](https://open.spotify.com/track/0GTfVXhvbhO4AhaEfzPhU6) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The People Tour: Live from Madison Square Garden](https://open.spotify.com/album/2KAJsrTtWloQtFaStadvbB) | 7:23 |
 | 40 | [Because Of Christ \- Live](https://open.spotify.com/track/7r7cqJyvYepirmrIWZESjz) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [Because Of Christ \(Live\)](https://open.spotify.com/album/1HGXYg4KxoXD1gpUjCKP2I) | 9:19 |
-| 41 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 |
+| 41 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 |
 | 42 | [Bigger Than Impossible \- Live](https://open.spotify.com/track/5kc5L0PpCJRbEoPUves8F1) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Bigger Than Impossible \(Live\)](https://open.spotify.com/album/507PuVlEp6f9nbGBXuEjwc) | 5:22 |
 | 43 | [Miracle](https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Miracle](https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH) | 4:56 |
 | 44 | [Oh Lord, You're Beautiful](https://open.spotify.com/track/24wGP6FgMDBZhvok5H0MD5) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [Wanna Go Back To Egypt](https://open.spotify.com/album/107ZqsdHOQIh80R68dPqLf) | 4:16 |

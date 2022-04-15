@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Dikshant, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,788 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,814 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 9 | [Our Souls At Night](https://open.spotify.com/track/5gFQp3Oi2YLlFqwj1NAjGa) | [Dipan Basak](https://open.spotify.com/artist/02UPbnzR33FpUAWmPLI3xR), [Josh Dasgupta](https://open.spotify.com/artist/1TaYvUQFT1WAfYYdolAiRB), [Stuart Munro](https://open.spotify.com/artist/67k83N42RRF8nnqwVRaXge) | [Our Souls At Night](https://open.spotify.com/album/4oEtIMnuM3IfqOMwkb9KfG) | 5:11 |
 | 10 | [Roobaroo](https://open.spotify.com/track/5D23CpcHaDp798goHYbNzm) | [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Roobaroo](https://open.spotify.com/album/7iiLaQldT1CvP7N9JzoA6O) | 3:40 |
 | 11 | [Fall out of Love](https://open.spotify.com/track/7J6ilu8f5IpPhl6XQwzPn3) | [Yash Barse](https://open.spotify.com/artist/3P8AGs3T5QpfNcr4wcNV4X) | [Fall out of Love](https://open.spotify.com/album/3uluaYxA6K1jTQlrhafOBW) | 4:59 |
-| 12 | [Paranoid](https://open.spotify.com/track/0fa50OwXhMHdKRpbYlmwYl) | [Aadya](https://open.spotify.com/artist/4P3Iw29k94k2bcNSGcllxA), [Reuel Benedict](https://open.spotify.com/artist/6rBMMf6y2MeTx63wBjZlcc) | [Paranoid](https://open.spotify.com/album/73HzBHmFwFOcVOLMzUHsMd) | 3:44 |
+| 12 | [Paranoid](https://open.spotify.com/track/0fa50OwXhMHdKRpbYlmwYl) | [Aadya](https://open.spotify.com/artist/4P3Iw29k94k2bcNSGcllxA) | [Paranoid](https://open.spotify.com/album/73HzBHmFwFOcVOLMzUHsMd) | 3:44 |
 | 13 | [Hot Summer](https://open.spotify.com/track/5o4DHW80M4NEk362yt0RvB) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [Meet Me Halfway](https://open.spotify.com/album/5BdZeACOwHB5sCvlYoIVch) | 3:01 |
 | 14 | [Pink Blue](https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [Pink Blue](https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF) | 3:25 |
 | 15 | [runaway](https://open.spotify.com/track/1lp3Ds70JUbbN1QD5q0VsH) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [runaway](https://open.spotify.com/album/1ISAORld7KQ9gF8IlGHYvs) | 2:47 |

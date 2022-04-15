@@ -4,7 +4,7 @@
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Carl Cox & Fatboy Slim.
 
-11,245 songs - 29 day 2 hr 42 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
+11,246 songs - 29 day 2 hr 46 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1357,6 +1357,7 @@
 | [Bugging](https://open.spotify.com/track/0kg06i2G3b4NQIiXi8GEIA) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [FABER](https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0) | [Bugging](https://open.spotify.com/album/4EQ3ZgKNrfaJVq2D3uOM98) | 3:09 | 2022-03-25 | 2022-04-02 |
 | [Buggy](https://open.spotify.com/track/6HfUcROv62DvX9qwscSTHz) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Buggy](https://open.spotify.com/album/7HPdpGKOJHXuGWZ4VTMOzC) | 5:00 | 2020-08-14 | 2020-08-21 |
 | [Bull Kick](https://open.spotify.com/track/2k7UgCWmGYxSzyHPakrKBx) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Bull Kick](https://open.spotify.com/album/4Gi2I8uK0DJIqofpqgqaEj) | 3:41 | 2020-08-07 | 2020-08-14 |
+| [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-08 |  |
 | [Bullet](https://open.spotify.com/track/5UOkuYXJRyarCyQxwCGA9u) | [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB), [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Bullet](https://open.spotify.com/album/5fF7pdTHN9y76XE36svfmf) | 3:41 | 2021-05-22 | 2021-05-29 |
 | [Bulletproof](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Bulletproof](https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL) | 2:42 | 2021-05-22 | 2021-05-29 |
 | [Bullseye](https://open.spotify.com/track/5j1qQ5giDGKHrKAnOk1nhD) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Bullseye](https://open.spotify.com/album/53sjABJV5bODHkW0Ts8DDU) | 4:17 | 2021-09-11 | 2021-09-18 |
@@ -6224,7 +6225,7 @@
 | [Misha](https://open.spotify.com/track/5CcZD46vayvA0dh2I38aUJ) | [ilo ilo](https://open.spotify.com/artist/0rSZHzeyKxdfnQLoTIbq6U) | [Misha](https://open.spotify.com/album/1sMwtpeUBUmWraz8ODJY0I) | 3:31 | 2020-09-04 | 2020-09-11 |
 | [Miss B](https://open.spotify.com/track/25Gn1kR7JZRYYDY9VNFPxL) | [Lauren Lo Sung](https://open.spotify.com/artist/2skgOXx0JaoCoR7gqJYH05) | [Miss B](https://open.spotify.com/album/0v8hyn2w4hBJ3nAy7zDQ5w) | 6:44 | 2021-02-12 | 2021-02-19 |
 | [Miss Me Much \(feat\. Syon\)](https://open.spotify.com/track/4xUinBUAsm1OSYGLVjqf9D) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Miss Me Much \(feat\. Syon\)](https://open.spotify.com/album/2yJ34T6Civoy2koo4DO9Tm) | 3:21 | 2021-06-05 | 2021-06-12 |
-| [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [miss u](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 | 2022-04-08 |  |
+| [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [Miss U](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 | 2022-04-08 |  |
 | [Miss You](https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Miss You](https://open.spotify.com/album/098FaVNDWnOYMluE1uEFA8) | 2:38 | 2021-04-10 | 2021-04-17 |
 | [Miss You](https://open.spotify.com/track/2fHznHYgWJ2nwk16rAA6gv) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8) | [Best Part Of Me EP](https://open.spotify.com/album/163FJeoQmdoWpqDFqV5TiB) | 3:05 | 2021-06-19 | 2021-06-26 |
 | [Miss You](https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Miss You](https://open.spotify.com/album/6yNMqtPxykHsGzMJe9m5Fg) | 3:20 | 2021-09-04 | 2021-09-11 |

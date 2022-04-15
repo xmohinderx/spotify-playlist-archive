@@ -4,7 +4,7 @@
 
 > Congratulations to the amazing Jon Batiste \(cover\).
 
-462 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+463 songs - 1 day 4 hr 30 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Can't Stop Your Lovin' – The Undercover Dream Lovers Remix](https://open.spotify.com/track/4Nq47HhMm0aA0h1XbXmDze) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Can't Stop Your Lovin' – The Undercover Dream Lovers Remix](https://open.spotify.com/album/4XmbBlP05fZXjKN9t6m6mG) | 3:29 | 2020-03-25\* | 2020-07-03 |
 | [Care for Your Mother](https://open.spotify.com/track/0eX41bBBkZ8Pl6v1KStWmm) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/6cd5Vc0UrVFjTARhdBWlm2) | 4:13 | 2020-03-25\* | 2020-11-13 |
 | [Carried Away](https://open.spotify.com/track/29ZonaZKYeeuOu6gMheY8D) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:08 | 2021-06-11 | 2022-01-14 |
+| [Celebrate](https://open.spotify.com/track/4GWYtknluqDyrsANhmf1hR) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Celebrate](https://open.spotify.com/album/2jHoignz0YlzkIRwzLqXiL) | 3:12 | 2022-04-14 |  |
 | [Celebrate](https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:23 | 2022-04-08 |  |
 | [Change \- from the Netflix Series "We The People"](https://open.spotify.com/track/6xVNLDRZtnQsKGKIbPxUi5) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Change \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/5TJLb0uEmHxpKt20715yM9) | 3:08 | 2021-06-04 |  |
 | [Change For Me \(With Samm Henshaw\)](https://open.spotify.com/track/7mEfwGs3l9NQSllJfKQlKY) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Change For Me \(With Samm Henshaw\)](https://open.spotify.com/album/6xQvCrikkzeOUdABXbN6Ub) | 4:09 | 2020-05-15 | 2020-11-13 |

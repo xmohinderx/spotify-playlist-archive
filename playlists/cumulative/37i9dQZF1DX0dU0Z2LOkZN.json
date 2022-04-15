@@ -654,6 +654,32 @@
     },
     {
       "album": {
+        "name": "Full Level",
+        "url": "https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk"
+      },
+      "artists": [
+        {
+          "name": "SP-Mato",
+          "url": "https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym"
+        },
+        {
+          "name": "illuZion",
+          "url": "https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93000,
+      "name": "Full Level",
+      "url": "https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo"
+    },
+    {
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/1tRfhMX6FsiPaBgKoAndBt"
       },
@@ -1155,6 +1181,50 @@
       "duration_ms": 155000,
       "name": "Morning Vibes",
       "url": "https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz"
+    },
+    {
+      "album": {
+        "name": "mtv cribs",
+        "url": "https://open.spotify.com/album/2tzSHLpARzLa3kXWbpBFFb"
+      },
+      "artists": [
+        {
+          "name": "Kobe Banks",
+          "url": "https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI"
+        },
+        {
+          "name": "Roadetrix",
+          "url": "https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98666,
+      "name": "mtv cribs",
+      "url": "https://open.spotify.com/track/7xquksomVzxsHXvgCw6OYs"
+    },
+    {
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/0GjENKCnXAvIlIJxhcMXlM"
+      },
+      "artists": [
+        {
+          "name": "Flawless Delivery",
+          "url": "https://open.spotify.com/artist/0LpzTJIg9AOD4ix4dsRRlf"
+        },
+        {
+          "name": "Solrakmi",
+          "url": "https://open.spotify.com/artist/5XGMQDMtmKNgCPrQ9FqUfL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170965,
+      "name": "New Era",
+      "url": "https://open.spotify.com/track/3dHpf96vSkzBaO5f6J4Wxr"
     },
     {
       "album": {

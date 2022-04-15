@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-616 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+617 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Koldt Udenfor](https://open.spotify.com/track/0rEwD7QVscNnz05ooEb0qB) | [Page Four](https://open.spotify.com/artist/7HhY2BesKCaNSBRigohHXj) | [Koldt Udenfor](https://open.spotify.com/album/0vo1GonIjpeo2GIVUobBaM) | 3:11 | 2021-11-30 | 2021-12-27 |
 | [KOMFORTABELT](https://open.spotify.com/track/3LbIf7PslxDzCtm9vP96oT) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [KOMFORTABELT](https://open.spotify.com/album/1SkYW8fY21r5KwLFkxjPmK) | 2:06 | 2021-08-29 | 2022-01-08 |
 | [Kongespil \- Tinka og Kongespillet](https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Midt I En Drøm Eller Noget Der Ligner](https://open.spotify.com/album/0Ac80GpaaAu8pUGfjO6Swb) | 2:50 | 2021-11-23 | 2021-12-29 |
-| [Krop Som En Sten](https://open.spotify.com/track/2yZK8pNpn1mp2942A3bmpB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:08 | 2022-01-08 |  |
+| [Krop Som En Sten](https://open.spotify.com/track/2yZK8pNpn1mp2942A3bmpB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:08 | 2022-01-08 | 2022-04-15 |
 | [Krystalkuglen](https://open.spotify.com/track/0lVG3xhpjArK0F589JEjHV) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 0:38 | 2022-01-08 | 2022-01-12 |
 | [Kærlighed](https://open.spotify.com/track/1HT4tiNLC1CnHcVTuDwD2P) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kærlighed](https://open.spotify.com/album/0UKQ7Tm0wYJc7laBIzg51b) | 3:11 | 2021-05-09 | 2021-08-22 |
 | [Kærlighedssangen](https://open.spotify.com/track/6WELXrF1hsdUZEcasR1DGG) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Kærlighedssangen](https://open.spotify.com/album/2zAj1kiG3WgHc4CLPIqv7p) | 2:33 | 2021-03-27\* | 2021-05-15 |
@@ -378,6 +378,7 @@
 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 | 2021-03-27\* | 2021-04-02 |
 | [Ludvig Og Julemanden](https://open.spotify.com/track/5CfFiZrV7IPYbM7IcP7CMs) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [Ludvig Og Julemanden](https://open.spotify.com/album/0wSs8ingSBK08kBM4J3igZ) | 2:55 | 2021-11-30 | 2021-12-08 |
 | [LUFTKYS \(BURHAN G X TESSA\)](https://open.spotify.com/track/2796Rbg9xaNZJ5GlyGGj7E) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [LUFTKYS \(BURHAN G X TESSA\)](https://open.spotify.com/album/3PRgP854crwaBnWDVugpuO) | 2:35 | 2021-09-05 | 2021-09-19 |
+| [Lågsus For Evigt](https://open.spotify.com/track/1lARru9E0ESa5lZchy1Rvm) | [Specktors](https://open.spotify.com/artist/36Na2YYP8im6qQJBZu2fsa), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Lågsus For Evigt](https://open.spotify.com/album/5BsIA40eamUa23jQyAp3d1) | 2:40 | 2022-04-14 |  |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-23 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-13 |
 | [Makaveli](https://open.spotify.com/track/787vzoY5gXpRi2LeFVh16L) | [S1sco](https://open.spotify.com/artist/6P5E47LG2XlrXhGu5Ia17x), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Makaveli](https://open.spotify.com/album/6XMwIpE6OoLqyralBAA5zk) | 2:33 | 2021-08-08 | 2021-08-19 |

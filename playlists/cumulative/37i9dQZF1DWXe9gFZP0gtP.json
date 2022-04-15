@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Anteayer",
+        "url": "https://open.spotify.com/album/58JQTw0M50HIXY8EqtQZj1"
+      },
+      "artists": [
+        {
+          "name": "Saige Kasey",
+          "url": "https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Anteayer",
+      "url": "https://open.spotify.com/track/3OGJPptGu6VVcvrum6Nhxu"
+    },
+    {
+      "album": {
         "name": "Aphelia",
         "url": "https://open.spotify.com/album/5B9Px7QuwBZZU9T2bD4Q93"
       },
@@ -4415,7 +4433,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 218500,
       "name": "What's Best For You",
       "url": "https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl"

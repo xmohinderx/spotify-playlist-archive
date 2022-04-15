@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-413 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+414 songs - 21 hr 27 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Bikinisinde Astronomi \(Bonus Trek\)](https://open.spotify.com/track/2Nw7SJPxBMbkQdTVPatSgR) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/0xf8Fop940B7lQoODf6Ccv) | 3:01 | 2022-02-10 | 2022-02-16 |
 | [Bikinisinde Astronomi \- Bonus Trek](https://open.spotify.com/track/1R6rAl2uzy8vdTBQ0qElO6) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/6IkJXO4FvWJDwlYZ0gnQWJ) | 3:01 | 2022-03-05 | 2022-03-10 |
 | [Bilir O Beni](https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Bilir O Beni](https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb) | 3:48 | 2022-02-28 | 2022-03-06 |
-| [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 | 2022-04-13 |
+| [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 |  |
 | [Bilmem Mi?](https://open.spotify.com/track/0IF4B98sMyCv1lZjpS1FGz) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/3s82rScbmzY5VSjWHnMg4W) | 3:06 | 2021-09-01 | 2021-09-04 |
 | [Bir Sebebi Var](https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bir Sebebi Var](https://open.spotify.com/album/1TOYbjUU1GF3KTbb6JZj1i) | 3:30 | 2021-03-27\* | 2021-09-03 |
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 |  |
@@ -106,7 +106,7 @@
 | [Butter \(Instrumental\)](https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:42 | 2021-05-30 | 2021-06-01 |
 | [Bütün Gülleri Çalmışlar](https://open.spotify.com/track/0ZrreFYweVri0h5fZhegq0) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Umut](https://open.spotify.com/album/3BdlyOtto3aobfiUiSkYMJ) | 2:41 | 2021-05-16 | 2021-05-21 |
 | [Bırakma Kendini](https://open.spotify.com/track/087cds8zjbUmokjg2jdMOp) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Bırakma Kendini](https://open.spotify.com/album/2kj7ndfLwEJgeNFn9kL3jP) | 4:00 | 2021-03-27\* | 2021-06-03 |
-| [Cakal : İmdat](https://open.spotify.com/track/2vaT7cy28DS0lfMJOXX91S) | [RaidKlein](https://open.spotify.com/artist/2Ch8FjuR5IME08KDhdQ9CG) | [Cakal : İmdat](https://open.spotify.com/album/6zKuK8fUf5kBenRW7bTUVk) | 2:23 | 2022-04-12 |  |
+| [Cakal : İmdat](https://open.spotify.com/track/2vaT7cy28DS0lfMJOXX91S) | [RaidKlein](https://open.spotify.com/artist/2Ch8FjuR5IME08KDhdQ9CG) | [Cakal : İmdat](https://open.spotify.com/album/6zKuK8fUf5kBenRW7bTUVk) | 2:23 | 2022-04-12 | 2022-04-15 |
 | [Cindy](https://open.spotify.com/track/40UN1GTSOsEtp7nAZYKrYq) | [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Cindy](https://open.spotify.com/album/5heDTlRs2OOzVf136RSW5e) | 1:59 | 2021-09-25 | 2021-09-26 |
 | [CINDY](https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [CINDY](https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv) | 1:59 | 2021-09-26 |  |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
@@ -207,6 +207,7 @@
 | [Istediğim Olucak](https://open.spotify.com/track/62N782Va609fZ9aDAVIgvN) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Istediğim Olucak](https://open.spotify.com/album/49kxsR1L47TCkRFi5AaPmB) | 2:11 | 2021-06-06 | 2021-08-15 |
 | [Istediğim Olucak](https://open.spotify.com/track/6pIVJRrlvECfYXfGFRNwVn) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-06 |
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |
+| [İMDAT](https://open.spotify.com/track/5Rqz2Jz07P73uEH9nBpWPr) | [Lucerina](https://open.spotify.com/artist/5dM81P7RcVcTvQhWKBhGa7), [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [Shanga](https://open.spotify.com/artist/2x80eqIoeRyIDnZnqNicSs) | [İMDAT](https://open.spotify.com/album/5p4hOjhukXZUS9hs9SLwsx) | 2:23 | 2022-04-14 |  |
 | [İnsan Dertli Olunca](https://open.spotify.com/track/7oPVCLLZYpU52IUKQ3hRc1) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Yıllar Affetmez](https://open.spotify.com/album/3MEwxwYMEHjElfE7AEnpfd) | 4:34 | 2022-03-09 | 2022-03-30 |
 | [İntihaşk](https://open.spotify.com/track/5bqNvDn1PB16vswbUN5ppx) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [İntihaşk](https://open.spotify.com/album/3Zty9nxrogxLMtMTiLxlCO) | 3:12 | 2021-11-14 | 2021-11-14 |
 | [İSTANBUL](https://open.spotify.com/track/2qmdgQun2BbLmIRsQsedER) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM), [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 3:41 | 2021-03-27\* | 2021-04-11 |
@@ -240,7 +241,7 @@
 | [Kusura Bakma](https://open.spotify.com/track/7ng3MkDXpSUVFQEhN6vtqG) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Kusura Bakma](https://open.spotify.com/album/2wQTy5lZxRCArc6UScs8zt) | 2:35 | 2021-03-27\* | 2021-12-19 |
 | [Kuytu Köşelerde](https://open.spotify.com/track/145jqpXnJcombk47TB8305) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Kuytu Köşelerde](https://open.spotify.com/album/66fQ1OfL3g4o2aOzLn247q) | 3:55 | 2021-04-15 | 2021-04-20 |
 | [KÂR](https://open.spotify.com/track/7jPUGtOJTHPxIlWNGVqD8U) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:42 | 2022-01-22 | 2022-02-14 |
-| [Kül](https://open.spotify.com/track/5NPg92vbjaGk4q9mh7MMEM) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Kül](https://open.spotify.com/album/1cwzjSTuLXEf2L0XcutndQ) | 4:54 | 2021-03-27\* |  |
+| [Kül](https://open.spotify.com/track/5NPg92vbjaGk4q9mh7MMEM) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Kül](https://open.spotify.com/album/1cwzjSTuLXEf2L0XcutndQ) | 4:54 | 2021-03-27\* | 2022-04-15 |
 | [KÜLÜ KALDI](https://open.spotify.com/track/1r0PLedFwwsxU394jUdNQ3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Doğa](https://open.spotify.com/artist/1ssHZfyjdFYWwWjebQoXeV) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:20 | 2022-01-22 | 2022-01-28 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-15 |
 | [LE CANE](https://open.spotify.com/track/03S0moTUyxwtznCNWOreb4) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [LE CANE](https://open.spotify.com/album/6xdKUwHPi18XDPbymocoVM) | 4:16 | 2021-07-18 | 2021-10-24 |

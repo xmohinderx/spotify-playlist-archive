@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Celebramos la Generación 2021 de Radar México con el Spotify Single de Bratty y RENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,896 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,901 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Bitches and Ceviches](https://open.spotify.com/track/3W9JZp5dMeW8XN69AhUg4I) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bitches and Ceviches](https://open.spotify.com/album/286q229FNIyWuqzpOanl35) | 4:04 |
 | 50 | [Venus](https://open.spotify.com/track/6WiiqABNefc4RZTVmjHZQm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Venus](https://open.spotify.com/album/7B5wZ550fbqIhhB850XlML) | 2:29 |
 
-Snapshot ID: `MTY0OTg5ODU5MywwMDAwMDAwMGVjNjVkOTQ3M2Q3MDg3ZmQ2NzU1YzE4ZWFjMGFlMzUx`
+Snapshot ID: `MTY0OTk4NDcxNiwwMDAwMDAwMGVjNjVkOTQ3M2Q3MDg3ZmQ2NzU1YzE4ZWFjMGFlMzUx`

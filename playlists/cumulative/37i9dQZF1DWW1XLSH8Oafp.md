@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring TDJ
 
-202 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+203 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Calvin K](https://open.spotify.com/track/6Zk08BX1fHfxm8ULeqUNG6) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Calvin K](https://open.spotify.com/album/67w5bTBa3uFQ69I6Gd76i2) | 2:28 | 2021-11-19 | 2022-02-19 |
 | [Can't Stop \- Egg Remix](https://open.spotify.com/track/5I31EqzRDHfKnVOdjHvNLG) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Can't Stop \(Egg Remix\)](https://open.spotify.com/album/2CJ6zZL6tVdBJAR66U6pVp) | 3:53 | 2021-12-31 | 2022-02-26 |
 | [care4me](https://open.spotify.com/track/0w4azd2nPbcRe3JN11MDPI) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [care4me](https://open.spotify.com/album/0Xgto2oJ4IS2GmHh4fQzc9) | 2:07 | 2022-04-13 |  |
+| [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 | 2022-04-14 |  |
 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 | 2021-11-12 | 2022-02-24 |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2021-10-29 |  |
 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 | 2022-03-07 |  |
@@ -110,7 +111,7 @@
 | [IN YOUR BLOOD \- TAAHLIAH Remix](https://open.spotify.com/track/2h3syRhAmidFjUbpjHVKWb) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [IN YOUR BLOOD \(TAAHLIAH Remix\)](https://open.spotify.com/album/1XZ34uniRgCjDrrz2S29a2) | 3:58 | 2022-01-14 | 2022-03-12 |
 | [Intersection](https://open.spotify.com/track/4PhsQ6YBW1C5PNqNniOHOU) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Intersection](https://open.spotify.com/album/73r0PS8ARH89XAyRyMhe4m) | 5:50 | 2022-01-07 |  |
 | [Inverse](https://open.spotify.com/track/15pTzjt4Lfw3AWon5OaJ30) | [Lokey](https://open.spotify.com/artist/3eYcOArYBlrzJ1XOLxsQSW) | [Isolation Works, Vol\. 1](https://open.spotify.com/album/7GUeWQo7aAWwqQWRQ2HYXQ) | 4:40 | 2021-10-05 |  |
-| [It's All Gone \- R U Init? Remix](https://open.spotify.com/track/3Vwe6D2wpu3KNciSMZnypy) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [R U Init](https://open.spotify.com/artist/1gXNjHPJXM6LCgzxBDen5e) | [It's All Gone \(R U Init? Remix\)](https://open.spotify.com/album/1YgW3TgqMdncztUYAH3QQJ) | 4:27 | 2021-12-17 |  |
+| [It's All Gone \- R U Init? Remix](https://open.spotify.com/track/3Vwe6D2wpu3KNciSMZnypy) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [R U Init](https://open.spotify.com/artist/1gXNjHPJXM6LCgzxBDen5e) | [It's All Gone \(R U Init? Remix\)](https://open.spotify.com/album/1YgW3TgqMdncztUYAH3QQJ) | 4:27 | 2021-12-17 | 2022-04-15 |
 | [It’s Not You, It’s Me \- Club Mix](https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [It's Not You, It's Me \(Club Mix\)](https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF) | 3:44 | 2021-07-30 | 2022-03-05 |
 | [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 | 2021-07-23 | 2022-02-05 |
 | [JOY \(Take To The Light\) \- niina Remix](https://open.spotify.com/track/6rVaF8lDvKlW0Jt5FNVmzI) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [JOY \(Take To The Light\) \[niina Remix\]](https://open.spotify.com/album/2VWbBgHJPlTrUyjtfKS7JD) | 3:30 | 2022-02-04 | 2022-02-26 |
@@ -133,7 +134,7 @@
 | [Meteora Sunrise](https://open.spotify.com/track/4GEOqJmlReTPNtxcWU2iKC) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Meteora Sunrise](https://open.spotify.com/album/0cnvjcpz3DZqp9eCk6aRGq) | 5:34 | 2022-04-01 |  |
 | [Midnight Caller](https://open.spotify.com/track/335xnCcOKgG25tzSg0Hirf) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Shady Novelle](https://open.spotify.com/artist/6uK0QOsx1haVqi5FoCBLG6), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl) | [Midnight Caller](https://open.spotify.com/album/0Da4n9pDU78E3mU3f9tp6H) | 4:30 | 2021-12-02 |  |
 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 | 2021-07-23 | 2022-02-26 |
-| [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [miss u](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 | 2022-04-08 |  |
+| [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [Miss U](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 | 2022-04-08 |  |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2021-08-12 |  |
 | [MOONLIGHT](https://open.spotify.com/track/3D3xADuIZsg9LGXCku7zls) | [Muddyoush](https://open.spotify.com/artist/66ufdnoY06SAK2zHcHjo0G) | [MOONLIGHT](https://open.spotify.com/album/6E6pwAcrC9Le88FQYPMAme) | 3:07 | 2022-03-17 |  |
 | [More Sensuous](https://open.spotify.com/track/5rF2osPlyeyIwUOmS5MbQ4) | [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Pulsers](https://open.spotify.com/album/6cTwWowzWlQAF8CrhOKp8D) | 5:26 | 2021-10-15 | 2022-01-22 |
@@ -157,7 +158,7 @@
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-01-05 |  |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-07-23 | 2022-02-19 |
 | [Pyramid](https://open.spotify.com/track/1Up1XBkxqdtu2BMP8iJr48) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Alchemy](https://open.spotify.com/album/7Cy7mBf9lW1eDCc8XVYD4D) | 3:53 | 2022-03-17 |  |
-| [r u ok?](https://open.spotify.com/track/0VFmlXQMAON7gUfTsufMop) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [r u ok?](https://open.spotify.com/album/5XYq4QZnzSocz2SWjfwx4O) | 3:03 | 2022-02-18 |  |
+| [r u ok?](https://open.spotify.com/track/0VFmlXQMAON7gUfTsufMop) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [r u ok?](https://open.spotify.com/album/5XYq4QZnzSocz2SWjfwx4O) | 3:03 | 2022-02-18 | 2022-04-15 |
 | [Raingurl](https://open.spotify.com/track/5z1wOyEyoRu0HTkXYvuqiH) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/0LVHebiLemk6H6Djzi5NVf) | 3:57 | 2021-07-23 |  |
 | [Rash Devices](https://open.spotify.com/track/2mubBWUJIr8yYo3NlNs9g8) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Us Ephemeral](https://open.spotify.com/album/25s8VKOfdaccZaD2VRv8Z5) | 5:02 | 2022-04-13 |  |
 | [REACH 4 THE STARS](https://open.spotify.com/track/5zNWI5JlZbS6ShRsRlT8xk) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [HARDCORE HEAVEN](https://open.spotify.com/album/2SmLSzKyZ5c133Dp76Vzw3) | 3:15 | 2021-10-29 | 2022-02-05 |

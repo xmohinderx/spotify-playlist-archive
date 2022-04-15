@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,483 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,583 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Spring Cleaning](https://open.spotify.com/track/2JkXhRy52nxXS6Fgx8kimn) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Spring Cleaning](https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ) | 2:12 |
 | 100 | [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 |
 
-Snapshot ID: `MTY0OTg5ODA1MywwMDAwMDAwMDg2MjQxMmFiMTAzMDFlODkyNmY3MDc5MGQ0NmM1NjVj`
+Snapshot ID: `MTY0OTk4NDE0OCwwMDAwMDAwMDg2MjQxMmFiMTAzMDFlODkyNmY3MDc5MGQ0NmM1NjVj`

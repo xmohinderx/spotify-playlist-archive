@@ -2290,6 +2290,24 @@
     },
     {
       "album": {
+        "name": "Sangre Caliente",
+        "url": "https://open.spotify.com/album/4sagZiOibBxsMoPt0Ldn9B"
+      },
+      "artists": [
+        {
+          "name": "JC el Diamante",
+          "url": "https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163695,
+      "name": "Sangre Caliente",
+      "url": "https://open.spotify.com/track/5fkO6YnsBjLNmo6YNjj4Nb"
+    },
+    {
+      "album": {
         "name": "SAOKO",
         "url": "https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If"
       },

@@ -4,7 +4,7 @@
 
 > A collection of recent tracks from the world of black and dark metal\. Cover: Watain
 
-132 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+135 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2021-12-17 | 2022-01-22 |
 | [Burn the Witch](https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT) | [Bloody Falls](https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r), [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Burn the Witch](https://open.spotify.com/album/33djeHekh7U3g2MudCPIg0) | 4:47 | 2021-12-17 |  |
 | [Calendula](https://open.spotify.com/track/2Xdk8F4L6TCaKCxOiZHOQw) | [Elcrost](https://open.spotify.com/artist/6QA513IBQrcc4PXZWwri64) | [Calendula](https://open.spotify.com/album/3kZc7YfVWkEf1WwD5K5M6g) | 5:24 | 2021-12-17 | 2022-04-09 |
-| [Chapter I: Escape](https://open.spotify.com/track/50wNXncjCWM87QlNQ5bmKq) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter I: Escape](https://open.spotify.com/album/6RetrQBkhFn2SXftzZODXG) | 4:26 | 2022-01-21 |  |
+| [Chapter I: Escape](https://open.spotify.com/track/50wNXncjCWM87QlNQ5bmKq) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter I: Escape](https://open.spotify.com/album/6RetrQBkhFn2SXftzZODXG) | 4:26 | 2022-01-21 | 2022-04-15 |
+| [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 | 2022-04-15 |  |
 | [Chernobyl Blues \- Live at Slipper Room](https://open.spotify.com/track/4coCbcc2diO04CaUquMQ4W) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [An Evening With Imperial Triumphant \(Live at Slipper Room\)](https://open.spotify.com/album/1gKZvyVWVA4rtfJNRWe08H) | 7:32 | 2021-12-17 |  |
 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 | 2021-12-17 | 2022-01-15 |
 | [Corpus Asunder](https://open.spotify.com/track/22LDsQ4MS0UCfjFxxzWK5d) | [Hooded Menace](https://open.spotify.com/artist/10mjw8SFRZjS0d8tecdEW8) | [The Tritonus Bell](https://open.spotify.com/album/0x4i70nD0RJfABpctTg7zn) | 7:18 | 2021-12-17 | 2022-04-09 |
@@ -41,7 +42,7 @@
 | [Esaiah](https://open.spotify.com/track/50TtG7RA5yBa1RI4tLGhU7) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Excerpts from the Dark Age](https://open.spotify.com/album/07DJUKMAxbTzfM3cWnAVUn) | 4:35 | 2021-12-17 | 2022-02-11 |
 | [Ethnogenese](https://open.spotify.com/track/71Y8PGb5uicatooZb7Yot1) | [Obscurity](https://open.spotify.com/artist/1O6WsZT2io58x15CXAQVBO) | [Ethnogenese](https://open.spotify.com/album/2TOEbYty0peTaPXBw6EicO) | 4:10 | 2021-12-17 | 2022-01-29 |
 | [Event Horizon](https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Event Horizon](https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm) | 3:51 | 2021-12-17 |  |
-| [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-04-08 |  |
+| [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-04-08 | 2022-04-15 |
 | [Fn .380 Acp\#19074](https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Fn .380 Acp\#19074](https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf) | 5:54 | 2021-12-17 |  |
 | [FN SCAR 16](https://open.spotify.com/track/5IiT9uOFW5v4AN3PstKB3S) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [FN SCAR 16](https://open.spotify.com/album/4RnKTCpcGFoJ2301aeQboD) | 4:07 | 2021-12-17 |  |
 | [Focus](https://open.spotify.com/track/34zePJ5FTg2gyhOSEiExIT) | [Rivers of Nihil](https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN) | [Focus](https://open.spotify.com/album/5nEEG3gnVTvjqmXNuEKSqh) | 4:54 | 2021-12-17 | 2022-04-02 |
@@ -77,6 +78,7 @@
 | [Nauseating Oblivion](https://open.spotify.com/track/7JYPEnhWA1jthT9QihGnQi) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Nauseating Oblivion](https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a) | 3:15 | 2021-12-17 |  |
 | [Necrobionics](https://open.spotify.com/track/3AaLvR5xPbeewAElRzRMdB) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Necrobionics](https://open.spotify.com/album/4XekYCMN88wxtjOxkfrOlN) | 3:31 | 2022-03-18 |  |
 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 | 2022-01-14 |  |
+| [Night](https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo), [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Mizmor](https://open.spotify.com/artist/655AEE6ifgDJ3TYkhHdP48) | [Night](https://open.spotify.com/album/7IwWlcYAosb728DUZnw9RO) | 4:01 | 2022-04-15 |  |
 | [Nightfall](https://open.spotify.com/track/0m6IB9pleRQPFmPxiwbAYn) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Nightfall](https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb) | 5:13 | 2022-02-11 | 2022-03-19 |
 | [Noblesse Oblige Richesse Oblige](https://open.spotify.com/track/6tth0ovaLcEPtHasmjhYiv) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [There's Always Blood At The End Of The Road](https://open.spotify.com/album/0hpFRZEgy6k8J7gS29F0Q4) | 5:06 | 2022-01-14 |  |
 | [Nocturnal Molestation](https://open.spotify.com/track/0YkF4zY7p56B9cIA9dmaZp) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Nocturnal Molestation](https://open.spotify.com/album/6i55zeF8mGsYqiBpFdzab1) | 3:41 | 2022-02-11 |  |
@@ -122,8 +124,9 @@
 | [The Purest Black](https://open.spotify.com/track/6En6JSC3qRPv9XnoGQZ7F0) | [LIVLØS](https://open.spotify.com/artist/3upLnjEfkXlcb8IddTLQUA) | [The Purest Black](https://open.spotify.com/album/0yARYnhJy9u9HLq3RfgI97) | 5:51 | 2021-12-17 |  |
 | [The Wanderer](https://open.spotify.com/track/6u8c9F8vSZoUp15oFFqc7V) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Argent Moon \- EP](https://open.spotify.com/album/1Sz8A4Jnbqf84G9gypTOpz) | 6:11 | 2021-12-17 | 2022-01-15 |
 | [The Wolves of Ossory](https://open.spotify.com/track/5ubwQNPVeyNVqJcszYiozP) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [The Wolves of Ossory](https://open.spotify.com/album/0BKqlnTtMCPehA59EuEm0o) | 3:53 | 2021-12-17 | 2022-04-02 |
-| [Through Eternal Fields](https://open.spotify.com/track/2lN893qNt07OkH3E1rv1AN) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Primordial Arcana](https://open.spotify.com/album/0M1M4SydzXhogLTGa2ERWG) | 5:54 | 2021-12-17 |  |
+| [Through Eternal Fields](https://open.spotify.com/track/2lN893qNt07OkH3E1rv1AN) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Primordial Arcana](https://open.spotify.com/album/0M1M4SydzXhogLTGa2ERWG) | 5:54 | 2021-12-17 | 2022-04-15 |
 | [Till Valhall \- Svitjod Edition](https://open.spotify.com/track/0nn0RZJ2HIigg38UrRXka0) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Till Valhall](https://open.spotify.com/album/6xgmB5t5CUzD47ppBQg2CY) | 3:43 | 2021-12-17 | 2022-01-22 |
+| [Totentanz \- Dance Macabre](https://open.spotify.com/track/5VdUHQEaxWFRbKbnxLQ0tG) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Totentanz \- Dance Macabre](https://open.spotify.com/album/5XZO6D5qfdUyYkSWt6ezoa) | 3:40 | 2022-04-15 |  |
 | [Trance IV: Nemesis](https://open.spotify.com/track/1ntRngCCMm5TpY9w6Pkhgn) | [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Tranceformation](https://open.spotify.com/album/360FLVwXFB7wBVFHDW9qNf) | 7:18 | 2021-12-17 |  |
 | [Urkraft](https://open.spotify.com/track/4bRajxPpQhnHYrNFFyHkyw) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Urkraft](https://open.spotify.com/album/5sf63KzWDQWmHYt8uulINM) | 7:35 | 2022-04-01 |  |
 | [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 | 2022-01-07 | 2022-04-09 |

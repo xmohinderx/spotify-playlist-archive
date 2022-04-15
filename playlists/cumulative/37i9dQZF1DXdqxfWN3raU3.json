@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Foto: Ramon Vega, Kenia OS",
+  "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Foto: Jesse Baez",
   "name": "R&B Latino",
   "published_playlist_ids": [
     "322xEoodQLUql4qTRvYX7v"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 132973,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/2iKcjICXMLgHHsTMs377Hk"
@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-15",
       "duration_ms": 211811,
       "name": "rosas (d\u00edmelo)",
       "url": "https://open.spotify.com/track/36eeh1rlxM8Rq5uFTMog6t"
@@ -2729,6 +2729,24 @@
       "duration_ms": 184302,
       "name": "Za\u00ef",
       "url": "https://open.spotify.com/track/1oXr8VGtgPHF3niV9lA21u"
+    },
+    {
+      "album": {
+        "name": "\u00cdntimo",
+        "url": "https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG"
+      },
+      "artists": [
+        {
+          "name": "Alex Gracia",
+          "url": "https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "\u00cdntimo",
+      "url": "https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3"

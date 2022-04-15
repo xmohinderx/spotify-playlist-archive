@@ -4,7 +4,7 @@
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-83 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
+84 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [So Far Away \(feat\. Jamie Scott & Romy Dya\)](https://open.spotify.com/track/0OlnLZY4cmQzT6ZGttvWBM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jamie Scott](https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr), [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Far Away \(feat\. Jamie Scott & Romy Dya\)](https://open.spotify.com/album/3jMnO9ehAlTTCxNeVMu1zY) | 3:03 | 2021-12-09 |  |
 | [Spaceships](https://open.spotify.com/track/7Ktv8bQUjZt0rr16qgB4h2) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Spaceships](https://open.spotify.com/album/4OzNNlB0YbT16uWQgT6cux) | 2:49 | 2021-12-09 |  |
 | [Spotless](https://open.spotify.com/track/0HT6YGHjXKNvnTjGGtur3j) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:15 | 2021-12-09 |  |
+| [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY) | 3:22 | 2022-04-14 |  |
 | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR) | 2:43 | 2021-12-09 |  |
 | [Sun Is Never Going Down \(feat\. Dawn Golden\)](https://open.spotify.com/track/6x7r0lpyqxBKGq8J7LFMeu) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:24 | 2021-12-09 |  |
 | [The Only Way Is Up](https://open.spotify.com/track/5wsskBPgW3pw876uCa9JX4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/0EJ1snUYEw0bkISahebQUC) | 4:18 | 2021-12-09 |  |
