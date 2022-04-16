@@ -70,6 +70,28 @@
     },
     {
       "album": {
+        "name": "[BUMP] Pick Me Up",
+        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "[Admire Her] (with Gunna)",
+      "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC"
       },
@@ -117,7 +139,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 240288,
       "name": "ALL EYES ON ME",
       "url": "https://open.spotify.com/track/3EgG8FCbyTpVBU0BgDpiMF"
@@ -182,6 +204,28 @@
     },
     {
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196922,
+      "name": "AMEN (with Musiq Soulchild)",
+      "url": "https://open.spotify.com/track/6QTnYGzvy89vanUGSsyLEq"
+    },
+    {
+      "album": {
         "name": "Angles (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS"
       },
@@ -227,6 +271,28 @@
       "duration_ms": 203653,
       "name": "Appreciation",
       "url": "https://open.spotify.com/track/3mvMkZMSvp7Xjd9JCAC1Y7"
+    },
+    {
+      "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/6B6TNpcbfLYdBweoByc1vi"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Aye Yai Yai (with Yung Bleu)",
+      "url": "https://open.spotify.com/track/5598VtNWcsDXh61B70Ryco"
     },
     {
       "album": {
@@ -1721,7 +1787,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 232662,
       "name": "Hopscotch (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/34hQD28WymyIZBJDZNh5zF"
@@ -1922,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "album": {
         "name": "GEEZYWORLD",
         "url": "https://open.spotify.com/album/0kNhJM4dXKfsKbCERz7QBg"
       },
@@ -2035,7 +2119,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 172137,
       "name": "Like A Thug (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
@@ -2255,7 +2339,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 168720,
       "name": "Mountains (with Fivio Foreign & Young M.A)",
       "url": "https://open.spotify.com/track/5DeONcxxhHSBnmODMadT5l"

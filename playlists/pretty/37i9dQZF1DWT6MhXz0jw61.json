@@ -1,13 +1,49 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Chance The Rapper",
-  "num_followers": 1055472,
+  "num_followers": 1056177,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDE5ZDAwMDAwMTgwMDc1NDMyZDIwMDAwMDE3ZmRjNjUyZTFi",
+  "snapshot_id": "MTY0OTk5NTI2MCwwMDAwMDE5ZTAwMDAwMTgwMmI2MWExMGIwMDAwMDE3ZmRjNjUyZTFi",
   "tracks": [
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Good Friday",
+        "url": "https://open.spotify.com/album/6gFhfBgwuQrsHqp0qGbXj1"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 221624,
+      "name": "Good Friday",
+      "url": "https://open.spotify.com/track/06sZ51gSjEQXBa0UXAp8F5"
+    },
+    {
+      "added_at": "2022-01-28 20:30:35",
+      "album": {
+        "name": "Richer Than I Ever Been (Deluxe)",
+        "url": "https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 236799,
+      "name": "Not For Nothing (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
+    },
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
@@ -67,62 +103,6 @@
       "duration_ms": 255486,
       "name": "Child of God",
       "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Head High",
-        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Head High",
-      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
-    },
-    {
-      "added_at": "2022-01-28 20:30:35",
-      "album": {
-        "name": "Richer Than I Ever Been (Deluxe)",
-        "url": "https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 236799,
-      "name": "Not For Nothing (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "better",
-        "url": "https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        },
-        {
-          "name": "Sam Truth",
-          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "better",
-      "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -191,6 +171,26 @@
       "duration_ms": 320000,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l"
+    },
+    {
+      "added_at": "2022-03-25 04:52:36",
+      "album": {
+        "name": "Superghetto",
+        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 208422,
+      "name": "Coolest Things (feat. Ari Lennox)",
+      "url": "https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -273,6 +273,26 @@
       "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Jerry Curl (feat. Larry June)",
+        "url": "https://open.spotify.com/album/1E9FHhsy0KqudxNbZ8HFZb"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 194022,
+      "name": "Jerry Curl (feat. Larry June)",
+      "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
+    },
+    {
       "added_at": "2022-03-25 04:52:36",
       "album": {
         "name": "THE PRICE EP",
@@ -325,26 +345,6 @@
       "url": "https://open.spotify.com/track/5Kz3x2O7Zfbikh9xuUeUWU"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Jerry Curl (feat. Larry June)",
-        "url": "https://open.spotify.com/album/1E9FHhsy0KqudxNbZ8HFZb"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 194022,
-      "name": "Jerry Curl (feat. Larry June)",
-      "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Tana Talk 4",
@@ -365,24 +365,40 @@
       "url": "https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA"
     },
     {
-      "added_at": "2022-03-25 04:52:36",
+      "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Superghetto",
-        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
+        "name": "better",
+        "url": "https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO"
       },
       "artists": [
         {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
         },
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Sam Truth",
+          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
         }
       ],
-      "duration_ms": 208422,
-      "name": "Coolest Things (feat. Ari Lennox)",
-      "url": "https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl"
+      "duration_ms": 190153,
+      "name": "better",
+      "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Head High",
+        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Head High",
+      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
     },
     {
       "added_at": "2022-01-28 20:30:35",
@@ -451,6 +467,42 @@
       "duration_ms": 153750,
       "name": "The Happy",
       "url": "https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH"
+    },
+    {
+      "added_at": "2021-09-10 04:00:00",
+      "album": {
+        "name": "Friday Activities",
+        "url": "https://open.spotify.com/album/6g5Ztk1usaEbRPNoW4kGDO"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Friday Activities",
+      "url": "https://open.spotify.com/track/4QxTfL8i7rAou5zZqyOWVE"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "The Playbook",
+        "url": "https://open.spotify.com/album/4CT6nY5XxTTrhEDFinV3mH"
+      },
+      "artists": [
+        {
+          "name": "NCognita",
+          "url": "https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI"
+        }
+      ],
+      "duration_ms": 126245,
+      "name": "Just What it Seem",
+      "url": "https://open.spotify.com/track/1EX11t2KcrBqQmi5v3AyuG"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -531,6 +583,30 @@
       "duration_ms": 148946,
       "name": "The Tonight Show",
       "url": "https://open.spotify.com/track/79gAYrZvmDIXbFSwL7CFGh"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Circumstances",
+        "url": "https://open.spotify.com/album/14qunYehq5fAbj8oAtpWVn"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 275917,
+      "name": "Circumstances",
+      "url": "https://open.spotify.com/track/5AnyUq0QkIQPrmysUe5bYD"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -677,6 +753,22 @@
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
     },
     {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/6NV5eCfuSxaC1pEvJ73BCJ"
+      },
+      "artists": [
+        {
+          "name": "Bishop Nehru",
+          "url": "https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8"
+        }
+      ],
+      "duration_ms": 195496,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6wbcWUz7Ro8PMNsAyJnD9e"
+    },
+    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Southside of the Moon",
@@ -735,26 +827,6 @@
       "duration_ms": 162858,
       "name": "I Deserve (w/ NOS.)",
       "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
-    },
-    {
-      "added_at": "2021-09-10 04:00:00",
-      "album": {
-        "name": "Friday Activities",
-        "url": "https://open.spotify.com/album/6g5Ztk1usaEbRPNoW4kGDO"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Friday Activities",
-      "url": "https://open.spotify.com/track/4QxTfL8i7rAou5zZqyOWVE"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -1127,22 +1199,6 @@
       "duration_ms": 191250,
       "name": "PACE",
       "url": "https://open.spotify.com/track/0lEsjWwGYNLvaimecHyWWE"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Face It",
-        "url": "https://open.spotify.com/album/568W7PktRYaxj5xsVylE3s"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Face It",
-      "url": "https://open.spotify.com/track/3k2siE5234rEIV52ltcIYY"
     },
     {
       "added_at": "2021-08-13 04:00:00",
@@ -1613,30 +1669,6 @@
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
     },
     {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Gold Rolex",
-        "url": "https://open.spotify.com/album/2CP8TcIt4nEqG6UYItXl8f"
-      },
-      "artists": [
-        {
-          "name": "Bobby Sessions",
-          "url": "https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 218071,
-      "name": "Gold Rolex (feat. Benny The Butcher & Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/26qmrHdW63w6sUfRLwmsb4"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Life is Like a Dice Game - Spotify Singles",
@@ -1727,26 +1759,6 @@
       "duration_ms": 221318,
       "name": "Imagine [Feat. PJ]",
       "url": "https://open.spotify.com/track/2MntSatbcikLjKbpJoPgVV"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "If I Fail Are We Still Cool?",
-        "url": "https://open.spotify.com/album/0MUTPeBvOXAPuJDzNE1Yum"
-      },
-      "artists": [
-        {
-          "name": "Patrick Paige II",
-          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 105984,
-      "name": "Ain't Talking Bout Much",
-      "url": "https://open.spotify.com/track/5GFbdE94mXEPrpQpsLPiNF"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1865,26 +1877,6 @@
       "url": "https://open.spotify.com/track/1ZXIe812rP3Wja2FRzw8LA"
     },
     {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/1z8WyOkgd080WMDeSmmQpJ"
-      },
-      "artists": [
-        {
-          "name": "Malz Monday",
-          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 215920,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/7fQ4WRBESYZNY6BMhAoIQ8"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "BFF",
@@ -1899,46 +1891,6 @@
       "duration_ms": 187586,
       "name": "BFF",
       "url": "https://open.spotify.com/track/27v7VwfIRKsNOCcg5SDCAv"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "These Exchanges",
-        "url": "https://open.spotify.com/album/2sqeJD0HL3cwdn37ygYBPW"
-      },
-      "artists": [
-        {
-          "name": "Matt McGhee",
-          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
-        },
-        {
-          "name": "Jaylen!",
-          "url": "https://open.spotify.com/artist/5ioXxveZPntrI87HKKokoV"
-        },
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 134587,
-      "name": "These Exchanges",
-      "url": "https://open.spotify.com/track/5LwfBxr0KEgFunjcdaxou6"
-    },
-    {
-      "added_at": "2021-08-13 04:00:00",
-      "album": {
-        "name": "Cut",
-        "url": "https://open.spotify.com/album/23voq9b1N3vrMgg7ZA643f"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boone",
-          "url": "https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO"
-        }
-      ],
-      "duration_ms": 131818,
-      "name": "Cut",
-      "url": "https://open.spotify.com/track/4VlO4Z7oZIjQRIPWOj4Qc0"
     }
   ],
   "unique_name": "Mellow Bars",

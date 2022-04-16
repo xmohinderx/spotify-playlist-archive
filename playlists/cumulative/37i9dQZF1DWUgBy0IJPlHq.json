@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Orville Peck",
+  "description": "A new shade of Country. Cover: Kaitlin Butts",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -59,6 +59,24 @@
       "duration_ms": 224754,
       "name": "A Cowboy Knows How",
       "url": "https://open.spotify.com/track/4V5fbXluLR7vmQvAZ1xYYf"
+    },
+    {
+      "album": {
+        "name": "All I Needed",
+        "url": "https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179288,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No"
     },
     {
       "album": {
@@ -269,6 +287,28 @@
       "duration_ms": 187259,
       "name": "Better With A Broken Heart (feat. TJ Osborne)",
       "url": "https://open.spotify.com/track/2jYCFNo30hKtPxzCg9P5R5"
+    },
+    {
+      "album": {
+        "name": "Beyond the Stars (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/3ha32uxw82uW6rFHzErQVE"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200320,
+      "name": "Beyond the Stars (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/6u7ZlZMY0WtHHfTKv9Khdv"
     },
     {
       "album": {
@@ -623,6 +663,24 @@
       "duration_ms": 344973,
       "name": "Country Boy",
       "url": "https://open.spotify.com/track/5YuC9ltT0DKP5IteGHSzbF"
+    },
+    {
+      "album": {
+        "name": "Cowgirl in the Sand (Luck Mansion Sessions)",
+        "url": "https://open.spotify.com/album/0vcOQqq32M0boUIxgd7OXg"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211982,
+      "name": "Cowgirl in the Sand - Luck Mansion Sessions",
+      "url": "https://open.spotify.com/track/5posXVKDheKdJiYBOsZW8J"
     },
     {
       "album": {
@@ -1167,7 +1225,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 249940,
       "name": "Glory of True Love",
       "url": "https://open.spotify.com/track/2vi13dqyEG3YA7fqrEZRAA"
@@ -1805,7 +1863,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 142853,
       "name": "Jubilee",
       "url": "https://open.spotify.com/track/48fWEET1Ew40JKW9ze9wEY"
@@ -1845,6 +1903,24 @@
       "duration_ms": 232226,
       "name": "Leave Those Memories Alone",
       "url": "https://open.spotify.com/track/04K7wZAM3YVDyFJORi1yDg"
+    },
+    {
+      "album": {
+        "name": "Live With Me",
+        "url": "https://open.spotify.com/album/4BE1HH4fHulpfVc2XGd4iL"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "Live With Me",
+      "url": "https://open.spotify.com/track/0XvNERkCNQXBfnlwYLOLma"
     },
     {
       "album": {
@@ -2383,7 +2459,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 230086,
       "name": "Port City",
       "url": "https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj"
@@ -2735,7 +2811,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 225317,
       "name": "Sunk Like a Stone",
       "url": "https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT"
@@ -3133,7 +3209,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 214360,
       "name": "The Neon",
       "url": "https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk"
@@ -3217,7 +3293,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 168124,
       "name": "This Town (feat. Shakey Graves)",
       "url": "https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ"
@@ -3376,6 +3452,24 @@
     },
     {
       "album": {
+        "name": "Welcome 2 Club XIII",
+        "url": "https://open.spotify.com/album/5eEe392vaoKZOsVrEIyLsT"
+      },
+      "artists": [
+        {
+          "name": "Drive-By Truckers",
+          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "Welcome 2 Club XIII",
+      "url": "https://open.spotify.com/track/0CqQEFDDgVBj4VZAH5C43S"
+    },
+    {
+      "album": {
         "name": "The Panhandlers",
         "url": "https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R"
       },
@@ -3407,6 +3501,24 @@
       "duration_ms": 188610,
       "name": "West Texas in My Eye",
       "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
+    },
+    {
+      "album": {
+        "name": "What Else Can She Do",
+        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310173,
+      "name": "what else can she do",
+      "url": "https://open.spotify.com/track/77fOA740BCuAkclGxQUuEP"
     },
     {
       "album": {

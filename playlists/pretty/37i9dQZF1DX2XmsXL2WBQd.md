@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,425 likes - 70 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,554 likes - 70 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Cha Cha Cha](https://open.spotify.com/track/0FPXDopNoeVy2GmE6ZLrv1) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Rhino Hi\-Five: MC Lyte](https://open.spotify.com/album/1dO9eKzbFJxKy9uej2bfak) | 3:00 |
 | 70 | [My Adidas](https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 2:47 |
 
-Snapshot ID: `MTY0OTk4NDM5OCwwMDAwMDAwMGUyYThkYzVlNmU4MTcxNWQ5OTRmNDNkYmZiY2MxODhl`
+Snapshot ID: `MTY1MDA3MDYyMCwwMDAwMDAwMGUyYThkYzVlNmU4MTcxNWQ5OTRmNDNkYmZiY2MxODhl`

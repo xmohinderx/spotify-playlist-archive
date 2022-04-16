@@ -1,64 +1,292 @@
 {
   "description": "Texas music breaking waves. Cover, Mike Dimes. ",
-  "num_followers": 3221,
+  "num_followers": 3225,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODg1NzI3MywwMDAwMDAxODAwMDAwMTdmZTc4ZDUzNGIwMDAwMDE3ZjBmMjIyZmUz",
+  "snapshot_id": "MTY1MDAwOTAwMCwwMDAwMDAxOTAwMDAwMTgwMmMzMzQ5MWIwMDAwMDE3ZjBmMjIyZmUz",
   "tracks": [
     {
-      "added_at": "2022-04-01 23:54:33",
+      "added_at": "2022-04-15 07:50:00",
       "album": {
-        "name": "Desmond's Song (feat. Tobe Nwigwe)",
-        "url": "https://open.spotify.com/album/1RQ3maCeZZ2a4bUXrcX4ct"
+        "name": "No Recognition",
+        "url": "https://open.spotify.com/album/2GgyM0I0LtYZXNdx7OVigR"
       },
       "artists": [
         {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 147441,
+      "name": "No Recognition",
+      "url": "https://open.spotify.com/track/7uhk4hJCx5fDAZCyjev4Fh"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Throw'd As It Gets (Remix)[Feat. Maxo Kream]",
+        "url": "https://open.spotify.com/album/7xrChkbhPLl6lWyFNOlix5"
+      },
+      "artists": [
+        {
+          "name": "Cam Wallace",
+          "url": "https://open.spotify.com/artist/15PcygUDr0j5LvDA23i5BG"
         },
         {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         }
       ],
-      "duration_ms": 258717,
-      "name": "Desmond's Song (feat. Tobe Nwigwe)",
-      "url": "https://open.spotify.com/track/6N5bNooor0y0z1V5Rce5d0"
+      "duration_ms": 201420,
+      "name": "Throw'd As It Gets (Remix)[Feat. Maxo Kream]",
+      "url": "https://open.spotify.com/track/7zSSH0SSoU3jOUT6gbd1uA"
     },
     {
-      "added_at": "2022-04-01 23:54:33",
+      "added_at": "2022-04-15 07:50:00",
       "album": {
-        "name": "Desmond's Song (feat. Tobe Nwigwe)",
-        "url": "https://open.spotify.com/album/1RQ3maCeZZ2a4bUXrcX4ct"
+        "name": "Tuh (feat. Queendom Come)",
+        "url": "https://open.spotify.com/album/7owOwgant5ITCSmbCD1NL5"
       },
       "artists": [
         {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+          "name": "BeatKing",
+          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
+        },
+        {
+          "name": "Queendom Come",
+          "url": "https://open.spotify.com/artist/0tFnayGz6sZxgRf1YS5VmI"
         }
       ],
-      "duration_ms": 234890,
-      "name": "Heaven Is Everywhere",
-      "url": "https://open.spotify.com/track/0TtBZXGYlOmyTXVEXewJ9j"
+      "duration_ms": 140018,
+      "name": "Tuh (feat. Queendom Come)",
+      "url": "https://open.spotify.com/track/3Ws45kDHTzluLrOBphKwkO"
     },
     {
-      "added_at": "2022-04-01 23:54:33",
+      "added_at": "2022-04-15 07:50:00",
       "album": {
-        "name": "Fixture 001",
-        "url": "https://open.spotify.com/album/1lJMLJN86TrKnl9AQGDFNw"
+        "name": "Get Paid",
+        "url": "https://open.spotify.com/album/5IlwJIWswcDznugc8wdT2K"
       },
       "artists": [
         {
-          "name": "Tobacco Ryan",
-          "url": "https://open.spotify.com/artist/5quuJTU1v0t8ObC0qwwHx0"
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
         }
       ],
-      "duration_ms": 130664,
-      "name": "Fixture 001",
-      "url": "https://open.spotify.com/track/539mpTGzLkMXyAOFCjp054"
+      "duration_ms": 151698,
+      "name": "Get Paid",
+      "url": "https://open.spotify.com/track/5hhvK8Png04nKtNZalWK8s"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "556 (Green Tip) (Spotem G-Mix)",
+        "url": "https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        },
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        }
+      ],
+      "duration_ms": 172995,
+      "name": "556 (Green Tip) (Spotem G-Mix)",
+      "url": "https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Fell In love",
+        "url": "https://open.spotify.com/album/4VvszXf5XVA6cmvMNEBsQC"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        }
+      ],
+      "duration_ms": 156786,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/6ykJ3ZAQYIJTuUhetjcqrd"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/1UsDEajtCBCUNM8e4pcGfc"
+      },
+      "artists": [
+        {
+          "name": "lil.eaarl",
+          "url": "https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES"
+        },
+        {
+          "name": "BeatKing",
+          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
+        },
+        {
+          "name": "Kblast",
+          "url": "https://open.spotify.com/artist/3WyzXUbSj6GlWl379WjHOU"
+        }
+      ],
+      "duration_ms": 164375,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/6V2Zic3VK8Lh7tXn26bjmY"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Murder She Wrote",
+        "url": "https://open.spotify.com/album/2MpWuDP1XufFCVsFeqbOJS"
+      },
+      "artists": [
+        {
+          "name": "BFG Straap",
+          "url": "https://open.spotify.com/artist/2HIW5ZZGmdKmy2EH1NtSfL"
+        }
+      ],
+      "duration_ms": 151040,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/72KemdNWtlNwW62GK3IyRj"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/5ZSibtsVrMCp5hvu1rbEM7"
+      },
+      "artists": [
+        {
+          "name": "Juan Mone",
+          "url": "https://open.spotify.com/artist/4et46DfYJMlkRmpGMewaRG"
+        }
+      ],
+      "duration_ms": 156865,
+      "name": "Ratchet",
+      "url": "https://open.spotify.com/track/014PLUZunFPW1EtbcXJLnu"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Eat (feat. Z-Ro)",
+        "url": "https://open.spotify.com/album/05bWcmoya1DMykuBkoXAu3"
+      },
+      "artists": [
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        },
+        {
+          "name": "Z-Ro",
+          "url": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
+        }
+      ],
+      "duration_ms": 166473,
+      "name": "Eat (feat. Z-Ro)",
+      "url": "https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Cabbage Patch",
+        "url": "https://open.spotify.com/album/47rQ8RjOoqoSGq1EuKpYa7"
+      },
+      "artists": [
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 149999,
+      "name": "Cabbage Patch",
+      "url": "https://open.spotify.com/track/0YfXvOrPRRtWMOsRTeCnVu"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Scrimmage (feat. Lil 2z & LilCJ Kasino)",
+        "url": "https://open.spotify.com/album/1KnULQWwL6qJhFNUI0VKnq"
+      },
+      "artists": [
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        },
+        {
+          "name": "Lil 2z",
+          "url": "https://open.spotify.com/artist/3XQ81u1a60R7egDWLKzV88"
+        },
+        {
+          "name": "LilCJ Kasino",
+          "url": "https://open.spotify.com/artist/4pORMflJEUW1OYfNgiMLH5"
+        }
+      ],
+      "duration_ms": 265846,
+      "name": "Scrimmage (feat. Lil 2z & LilCJ Kasino)",
+      "url": "https://open.spotify.com/track/3vRqYFznGB3ZpiocgTou1H"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "supercalifragilistic",
+        "url": "https://open.spotify.com/album/56UXn7lj4erZRyVNsQRhUr"
+      },
+      "artists": [
+        {
+          "name": "Sosamann",
+          "url": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
+        }
+      ],
+      "duration_ms": 196952,
+      "name": "supercalifragilistic",
+      "url": "https://open.spotify.com/track/7J9sAoWvr9RckIuQm5CvsK"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Codependency",
+        "url": "https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB"
+      },
+      "artists": [
+        {
+          "name": "David Saint Val",
+          "url": "https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J"
+        }
+      ],
+      "duration_ms": 200681,
+      "name": "Codependency",
+      "url": "https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf"
+    },
+    {
+      "added_at": "2022-04-15 07:50:00",
+      "album": {
+        "name": "Durag & Bonnet (Chopped Not Slopped)",
+        "url": "https://open.spotify.com/album/1EPBB8dx1pgDZpWunXsDiy"
+      },
+      "artists": [
+        {
+          "name": "DJ Slim K",
+          "url": "https://open.spotify.com/artist/6qdmKCBZwJO6YkYUJ775hq"
+        },
+        {
+          "name": "My'Key Iso",
+          "url": "https://open.spotify.com/artist/5yYqiMfrgSaxWdTMmpySwS"
+        },
+        {
+          "name": "The Chopstars",
+          "url": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "duration_ms": 435563,
+      "name": "Durag & Bonnet (Chopped Not Slopped)",
+      "url": "https://open.spotify.com/track/4q78VhAl0vUjxTo05nPY2s"
     },
     {
       "added_at": "2022-04-01 23:54:33",
@@ -139,82 +367,6 @@
       "duration_ms": 198730,
       "name": "Check On Me",
       "url": "https://open.spotify.com/track/1PeEEdga1K0p7WyPlc6asG"
-    },
-    {
-      "added_at": "2022-04-01 23:54:33",
-      "album": {
-        "name": "Toot It Up (with Flo Milli)",
-        "url": "https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP"
-      },
-      "artists": [
-        {
-          "name": "Sally Sossa",
-          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Toot It Up (with Flo Milli)",
-      "url": "https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g"
-    },
-    {
-      "added_at": "2022-04-01 23:54:33",
-      "album": {
-        "name": "Planet Eaarl",
-        "url": "https://open.spotify.com/album/1x1mgKUBxY2MNlZ8AoHyph"
-      },
-      "artists": [
-        {
-          "name": "lil.eaarl",
-          "url": "https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES"
-        },
-        {
-          "name": "HunchoDaRockstar",
-          "url": "https://open.spotify.com/artist/2G10LkgVnV7y2eDw5yM1Rs"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "From Tha Back",
-      "url": "https://open.spotify.com/track/2mAu9r6c8RxB0dZg70C8f2"
-    },
-    {
-      "added_at": "2022-04-01 23:54:33",
-      "album": {
-        "name": "LOOPS",
-        "url": "https://open.spotify.com/album/1dfjacIDUbdMb2eFCv2clm"
-      },
-      "artists": [
-        {
-          "name": "LTR",
-          "url": "https://open.spotify.com/artist/56rSgcGV0PamwI8ULtrt2I"
-        },
-        {
-          "name": "Young Deji",
-          "url": "https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX"
-        }
-      ],
-      "duration_ms": 192199,
-      "name": "LOOPS",
-      "url": "https://open.spotify.com/track/5qTstbQt9WbHy3er8VlnZm"
-    },
-    {
-      "added_at": "2022-04-01 23:54:33",
-      "album": {
-        "name": "Walk The Line",
-        "url": "https://open.spotify.com/album/238hxIpTZmLmDhG0Msp1CN"
-      },
-      "artists": [
-        {
-          "name": "Quin Nfn",
-          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
-        }
-      ],
-      "duration_ms": 202448,
-      "name": "Walk The Line",
-      "url": "https://open.spotify.com/track/2s8Od2lfFMtwMoGKJIYDE9"
     },
     {
       "added_at": "2022-04-01 23:54:33",
@@ -315,22 +467,6 @@
       "duration_ms": 223759,
       "name": "Savage",
       "url": "https://open.spotify.com/track/7xecb061GSm1x2Kpg2FKdm"
-    },
-    {
-      "added_at": "2022-03-18 04:30:03",
-      "album": {
-        "name": "Lumberjack",
-        "url": "https://open.spotify.com/album/3FawhLemoSum9V6qQrhKEH"
-      },
-      "artists": [
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 122999,
-      "name": "Lumberjack",
-      "url": "https://open.spotify.com/track/7fXgSlTS783UInCrJOnO0r"
     },
     {
       "added_at": "2022-03-18 04:30:03",
@@ -643,22 +779,6 @@
     {
       "added_at": "2022-02-18 23:20:15",
       "album": {
-        "name": "Straap 4 President",
-        "url": "https://open.spotify.com/album/7wGijYY0GJbkbbcyvmWQm9"
-      },
-      "artists": [
-        {
-          "name": "BFG Straap",
-          "url": "https://open.spotify.com/artist/2HIW5ZZGmdKmy2EH1NtSfL"
-        }
-      ],
-      "duration_ms": 193820,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5J5hwHY8okc8kYRwbD51lX"
-    },
-    {
-      "added_at": "2022-02-18 23:20:15",
-      "album": {
         "name": "LGND",
         "url": "https://open.spotify.com/album/6T1pA33tQktkHk3glNYAaq"
       },
@@ -701,30 +821,6 @@
       "url": "https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F"
     },
     {
-      "added_at": "2022-02-18 23:20:15",
-      "album": {
-        "name": "Holy Goat 2",
-        "url": "https://open.spotify.com/album/5wDguEom5rr6ZV51Ap5yQR"
-      },
-      "artists": [
-        {
-          "name": "Og Bobby Billions",
-          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
-        },
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        },
-        {
-          "name": "Lil Jairmy",
-          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
-        }
-      ],
-      "duration_ms": 186302,
-      "name": "Pain in the Ghetto (feat. Trae tha Truth & Lil Jairmy)",
-      "url": "https://open.spotify.com/track/5v2ArrX27i9VmZNvPRlI49"
-    },
-    {
       "added_at": "2022-01-29 00:07:15",
       "album": {
         "name": "Pop Music",
@@ -749,22 +845,6 @@
       "url": "https://open.spotify.com/track/4cl6Z9a9lA9MY8lXiPQoFA"
     },
     {
-      "added_at": "2022-01-29 00:07:15",
-      "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/3hxTTzd658zM7Y5058CzaP"
-      },
-      "artists": [
-        {
-          "name": "Whookilledkenny",
-          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
-        }
-      ],
-      "duration_ms": 127173,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/2lE8eyJfiWcOiAWIY1tOjn"
-    },
-    {
       "added_at": "2022-03-18 04:30:03",
       "album": {
         "name": "Same",
@@ -783,26 +863,6 @@
     {
       "added_at": "2022-01-29 00:07:15",
       "album": {
-        "name": "E30",
-        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
-      },
-      "artists": [
-        {
-          "name": "Le$",
-          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "4 the love of the game",
-      "url": "https://open.spotify.com/track/2urE4My6PcNLELXCRnCoVj"
-    },
-    {
-      "added_at": "2022-01-29 00:07:15",
-      "album": {
         "name": "BIGslim",
         "url": "https://open.spotify.com/album/3JgtydA6D88Q1yp6oOdxgl"
       },
@@ -815,22 +875,6 @@
       "duration_ms": 127893,
       "name": "BIGslim",
       "url": "https://open.spotify.com/track/0XDqaGsTZcZRM9rzkq2ATP"
-    },
-    {
-      "added_at": "2022-01-29 00:07:15",
-      "album": {
-        "name": "Bussin Behind Tint",
-        "url": "https://open.spotify.com/album/4bsKXHgMjik9oSsxud0WK9"
-      },
-      "artists": [
-        {
-          "name": "OTB Fastlane",
-          "url": "https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj"
-        }
-      ],
-      "duration_ms": 176526,
-      "name": "WALK",
-      "url": "https://open.spotify.com/track/7MiNSmlB2O2NrllWXltofY"
     },
     {
       "added_at": "2022-01-29 00:07:15",
@@ -879,26 +923,6 @@
       "duration_ms": 142470,
       "name": "Started This",
       "url": "https://open.spotify.com/track/1k3HvGrMl6oCCLPocfhnmB"
-    },
-    {
-      "added_at": "2022-03-18 04:30:03",
-      "album": {
-        "name": "lost my mind",
-        "url": "https://open.spotify.com/album/36xWZJMkO6CFHwiOYGEgyY"
-      },
-      "artists": [
-        {
-          "name": "Khlaw",
-          "url": "https://open.spotify.com/artist/0oAK0DvKNnuXm1TQdhDEOv"
-        },
-        {
-          "name": "IZAYA TIJI",
-          "url": "https://open.spotify.com/artist/18xtrueqKyuj2tdIREyam7"
-        }
-      ],
-      "duration_ms": 94389,
-      "name": "no texts, no calls - slowed",
-      "url": "https://open.spotify.com/track/4qbH56v5m33f3SZSGl1oPO"
     },
     {
       "added_at": "2021-10-29 05:45:04",
@@ -975,66 +999,6 @@
       "duration_ms": 145244,
       "name": "BIG PERSONA (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/4uKjkPDGkkpOHxw152rM1g"
-    },
-    {
-      "added_at": "2021-11-23 21:12:19",
-      "album": {
-        "name": "Gas God",
-        "url": "https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj"
-      },
-      "artists": [
-        {
-          "name": "Lil Jairmy",
-          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 142294,
-      "name": "Trust Nun (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/0D77ULkdHxpfbu0NsDLeRL"
-    },
-    {
-      "added_at": "2021-09-10 16:25:30",
-      "album": {
-        "name": "Mr. Put It On",
-        "url": "https://open.spotify.com/album/67jVfwe7OzwZniEtB7Ra4Z"
-      },
-      "artists": [
-        {
-          "name": "Guapo",
-          "url": "https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6"
-        }
-      ],
-      "duration_ms": 125506,
-      "name": "Mr. Put It On",
-      "url": "https://open.spotify.com/track/42ollc35fN6l5HZh8R3jWD"
-    },
-    {
-      "added_at": "2021-07-12 09:13:04",
-      "album": {
-        "name": "SDAB (feat. 2 Chainz & Juicy J)",
-        "url": "https://open.spotify.com/album/6l6eZomrOIlyXrMpArYsAH"
-      },
-      "artists": [
-        {
-          "name": "BeatKing",
-          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 190006,
-      "name": "SDAB (feat. 2 Chainz & Juicy J)",
-      "url": "https://open.spotify.com/track/0NpskjXXo9O4F2OcpIh8td"
     }
   ],
   "unique_name": "Ripple Effect: Texas",

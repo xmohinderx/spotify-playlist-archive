@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 151510,
       "name": "Cake",
       "url": "https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Flex - Remix",
       "url": "https://open.spotify.com/track/2FZpTgE0ksf5lmxi4wx6Zf"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 181000,
       "name": "Genging",
       "url": "https://open.spotify.com/track/5V2Kj7uULK3qSk7EnQlpZS"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 215822,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/28sixsVzWagLkjuX7VeEx0"
@@ -1160,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215757,
+      "name": "Perfect (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/49qrjYuXyYH6YFnq9hjjSO"
+    },
+    {
+      "album": {
         "name": "Pilolo",
         "url": "https://open.spotify.com/album/3Wl8CMx2v82kgyf3RbE8Wn"
       },
@@ -1407,7 +1429,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 213354,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"

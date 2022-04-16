@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 196875,
       "name": "All In My Head (feat. grandson) - Saint Punk Remix",
       "url": "https://open.spotify.com/track/5GzBDqFoMUrjjfGtHEbGfY"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 243200,
       "name": "Battle Sirens (feat. Knife Party)",
       "url": "https://open.spotify.com/track/6PeXzqP7E9g3H0aMbBhB9L"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 170769,
       "name": "Cash Machine (Remix) [feat. Dillon Francis & grandson]",
       "url": "https://open.spotify.com/track/6FqS20S6qXlbL3o2htqszT"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 233092,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4"
@@ -568,6 +568,32 @@
     },
     {
       "album": {
+        "name": "COMPLICATED (feat. aldn & 8485)",
+        "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "COMPLICATED (feat. aldn & 8485)",
+      "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
+    },
+    {
+      "album": {
         "name": "Control (feat. Add1ction)",
         "url": "https://open.spotify.com/album/58yeuRwPRp7KFoIn0uhtzw"
       },
@@ -605,7 +631,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 178909,
       "name": "Core (That's Who We Are)",
       "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
@@ -653,7 +679,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 209454,
       "name": "Cruel Love (feat. shYbeast & FRANK ZUMMO)",
       "url": "https://open.spotify.com/track/1NTfEjAtESDdRX8H2a9uFh"
@@ -767,7 +793,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
@@ -877,7 +903,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 142065,
       "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/4Fgbypn4hVKhTOod1znr7R"
@@ -961,7 +987,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 198620,
       "name": "Enemy VIP (with Shane Told of Silverstein)",
       "url": "https://open.spotify.com/track/0b0vvHAw17DwRllYuEKD9A"
@@ -1085,7 +1111,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 209411,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy"
@@ -1290,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "album": {
         "name": "Ghost Story (with All Time Low)",
         "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
       },
@@ -1349,7 +1393,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 201076,
       "name": "Go On Then, Love",
       "url": "https://open.spotify.com/track/0Ux2vG5O8Odi5WCiPARWw8"
@@ -1529,7 +1573,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
@@ -1569,7 +1613,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 167812,
       "name": "I'm Losing Myself",
       "url": "https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS"
@@ -1613,7 +1657,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 219007,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/5XyP3oBFkJPOUpdsyNnkJD"
@@ -1639,7 +1683,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 193568,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk"
@@ -1769,7 +1813,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 296250,
       "name": "Liar (with OST)",
       "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
@@ -1931,7 +1975,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 157803,
       "name": "Love You For All Time",
       "url": "https://open.spotify.com/track/3Lu1fijr9XkO4eSfhya2cG"
@@ -1971,7 +2015,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 148809,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/4zm4IBGGTHZZK9jrkcPjyA"
@@ -2037,7 +2081,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 248275,
       "name": "Medulla - Barren Gates Remix",
       "url": "https://open.spotify.com/track/2MlzZqpjkGNCigtGOaj8oT"
@@ -2125,7 +2169,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 167343,
       "name": "My Name Is Thunder",
       "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
@@ -2147,7 +2191,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 166800,
       "name": "Never Let You Down (with TELLE)",
       "url": "https://open.spotify.com/track/7l7UeB9sG7lMtikz0DUkpS"
@@ -2165,7 +2209,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 171034,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
@@ -2191,7 +2235,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 204611,
       "name": "Night Terror (feat. Of Mice & Men)",
       "url": "https://open.spotify.com/track/1LZ4s4yuTmlsQy1udl1hPZ"
@@ -2363,7 +2407,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 212946,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/5eIAOdzmt3Nxd7XDFzek9U"
@@ -2493,7 +2537,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 229327,
       "name": "Radium Girls",
       "url": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v"
@@ -2769,7 +2813,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 181666,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/11s8gbi7pqmvuREruilbJP"
@@ -2791,7 +2835,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
@@ -2835,7 +2879,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
@@ -2879,7 +2923,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 221937,
       "name": "Searching For Nothing",
       "url": "https://open.spotify.com/track/6YSVt64BHDRcgXtPybnbj5"
@@ -2897,7 +2941,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 207626,
       "name": "Seesayer",
       "url": "https://open.spotify.com/track/7GwfYq04b7XQLtwbDLRJEL"
@@ -2937,7 +2981,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 257021,
       "name": "Seven Nation Army - The Glitch Mob Remix",
       "url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc"
@@ -3007,7 +3051,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 229090,
       "name": "Sick",
       "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
@@ -3091,7 +3135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 226758,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/44MxUoeZg6FXDlHMrSbVjX"
@@ -3135,7 +3179,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 151500,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
@@ -3171,7 +3215,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 217458,
       "name": "Stigmata",
       "url": "https://open.spotify.com/track/2dmPVqFpmhNuggEB3niC9S"
@@ -3267,7 +3311,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 181083,
       "name": "Taking Over (feat. Sam Nelson)",
       "url": "https://open.spotify.com/track/7gcYawraNqOWLGclp34H4G"
@@ -3333,7 +3377,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 277555,
       "name": "The Change (feat. DMA'S)",
       "url": "https://open.spotify.com/track/28MN5zcvOPm5OD49gOsBZ8"
@@ -3495,7 +3539,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 158464,
       "name": "Too Bizarre (with Swae Lee & Siiickbrain)",
       "url": "https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS"
@@ -3557,7 +3601,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 197043,
       "name": "Trouble (with Talk Show)",
       "url": "https://open.spotify.com/track/4gPswM6V3BkFv0jXVm7lIP"
@@ -3597,7 +3641,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 217600,
       "name": "UMBRA",
       "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
@@ -3641,7 +3685,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 208062,
       "name": "Up In Flames (feat. Alex Gaskarth of All Time Low)",
       "url": "https://open.spotify.com/track/7hgE1K6lm7V4ULzlxMWPiF"
@@ -3784,6 +3828,32 @@
     },
     {
       "album": {
+        "name": "The Trip Out",
+        "url": "https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b"
+      },
+      "artists": [
+        {
+          "name": "The Crystal Method",
+          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
+        },
+        {
+          "name": "Koda",
+          "url": "https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu"
+        },
+        {
+          "name": "VAAAL",
+          "url": "https://open.spotify.com/artist/69F2d9RXVEVXH6Dhy5G7ng"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201235,
+      "name": "Watch Me Now (feat. Koda & VAAAL)",
+      "url": "https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu"
+    },
+    {
+      "album": {
         "name": "Death Of An Optimist",
         "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
       },
@@ -3795,7 +3865,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 168736,
       "name": "We Did It!!!",
       "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"
@@ -3817,7 +3887,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "We Got It",
       "url": "https://open.spotify.com/track/5AAiUVQeQ0fIDOTG6mc0Sq"
@@ -3835,7 +3905,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 226300,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/5zk0YQTwGNaPo6EpJPUl2t"
@@ -3879,7 +3949,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 199374,
       "name": "Years",
       "url": "https://open.spotify.com/track/2hwgLB5lv2AZrxAj9Q4Ywl"

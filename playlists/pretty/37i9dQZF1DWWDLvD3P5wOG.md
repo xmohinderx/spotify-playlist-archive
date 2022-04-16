@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,674 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,050 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/5ybmNlxt7WB6VglgvUvQ93) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2006](https://open.spotify.com/album/5A2hQZdDkGVEqbE9ciEhPT) | 2:47 |
 | 80 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 |
 
-Snapshot ID: `MTY0OTk4NDE3MCwwMDAwMDAwMGEyMjhmNTMyNmNiYjY5OTdjNDljZjQzMzFhNTI1YjYy`
+Snapshot ID: `MTY1MDA3MDQxMCwwMDAwMDAwMGEyMjhmNTMyNmNiYjY5OTdjNDljZjQzMzFhNTI1YjYy`

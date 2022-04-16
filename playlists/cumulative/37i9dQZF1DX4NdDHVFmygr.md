@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-95 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+96 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Douka](https://open.spotify.com/track/4XLGewxYfYfvaajEtRgDVy) | [Adil Assil](https://open.spotify.com/artist/5idudw3rFRe9uVUCus4Kp1) | [Douka](https://open.spotify.com/album/6FDpxxCHJwACZIzmtnRRch) | 3:12 | 2022-02-22 |  |
 | [Dowara](https://open.spotify.com/track/7f5S0zYuv6Ou0xEPwLXUDU) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Dowara](https://open.spotify.com/album/12ZhO91Amzo0mYJOP1eP1t) | 3:15 | 2021-12-25 |  |
 | [Enty Hayaty](https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Enty Hayaty](https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN) | 4:15 | 2021-12-25 | 2022-04-12 |
+| [Galo Lik Elia](https://open.spotify.com/track/6BU7Xu7gYJl5fwctmS1RTb) | [Chaimae Abdelaziz](https://open.spotify.com/artist/2dAN3UYOUQU41wR5IObThO) | [Galo Lik Elia](https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6) | 3:34 | 2022-04-15 |  |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 |  |
 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-01-15 |  |
@@ -67,7 +68,7 @@
 | [Mankhalik Matkhalini](https://open.spotify.com/track/7IxGDdtOCXlgsnZGtQCL8P) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Yousra](https://open.spotify.com/artist/2hCrlLMEy5nMm00yVVOY6h) | [Mankhalik Matkhalini](https://open.spotify.com/album/5l8TksASDKz7pmNFIt77gh) | 3:31 | 2021-12-25 | 2022-01-28 |
 | [Marfoud](https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Marfoud](https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p) | 3:23 | 2021-12-25 | 2022-03-15 |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-12-25 |  |
-| [Mmi Lalla](https://open.spotify.com/track/7nsSXzC5emf376CWUkn8Sw) | [Khalifa](https://open.spotify.com/artist/19qkQqETJstZ0IOcVoZhUJ) | [Mmi Lalla](https://open.spotify.com/album/7yIchg5XojEvKS3lYnZd4L) | 3:27 | 2022-01-24 |  |
+| [Mmi Lalla](https://open.spotify.com/track/7nsSXzC5emf376CWUkn8Sw) | [Khalifa](https://open.spotify.com/artist/19qkQqETJstZ0IOcVoZhUJ) | [Mmi Lalla](https://open.spotify.com/album/7yIchg5XojEvKS3lYnZd4L) | 3:27 | 2022-01-24 | 2022-04-16 |
 | [Nabra](https://open.spotify.com/track/4zrKP7AehgyJaU8jGIGvPQ) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Nabra](https://open.spotify.com/album/7Mj2Go09HnPewEFgyOlral) | 3:40 | 2021-12-25 | 2022-01-04 |
 | [Nada Nada \(feat\. Chawki\)](https://open.spotify.com/track/1lF775PA7nBwkYW0jEQlyk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 3:08 | 2021-12-25 | 2022-01-08 |
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2021-12-25 |  |

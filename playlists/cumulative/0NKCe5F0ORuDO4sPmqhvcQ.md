@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle
 
-185 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+186 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-11-12 | 2022-01-08 |
 | [Fa111en Angels](https://open.spotify.com/track/2nAVOPiURJ8CYwFEFq3HBU) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:47 | 2021-12-07 | 2022-01-08 |
 | [Fall In](https://open.spotify.com/track/6uEy133no179YW6ulcmalc) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Fall In](https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz) | 4:22 | 2022-03-30 |  |
+| [Feel Flows \- Vindata Remix](https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT) | [Feel Flow \(Vindata Remix\)](https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh) | 4:22 | 2022-04-15 |  |
 | [Feel Like That](https://open.spotify.com/track/6OnoVlTab0GXCPqnu19Z9S) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [Feel Like That](https://open.spotify.com/album/2JRR9tOzrH6mczJQDiFfP7) | 2:57 | 2021-11-19 | 2022-01-08 |
 | [Fill Up My Soul](https://open.spotify.com/track/60GQWonONfgADHxYL6zudO) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Fill Up My Soul](https://open.spotify.com/album/1umGjanxEtYyHRmC0QStND) | 3:00 | 2021-12-07 | 2022-01-08 |
 | [Fire](https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Ethereal](https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ) | 3:41 | 2022-02-28 |  |

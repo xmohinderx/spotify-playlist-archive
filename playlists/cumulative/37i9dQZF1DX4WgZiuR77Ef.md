@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound.
 
-127 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+128 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Flyers Direct](https://open.spotify.com/track/2nYYsMqbbuybDaDoiFkUWH) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers II](https://open.spotify.com/album/2zMa2FJ6WyyAgyzEO42pPc) | 2:44 | 2020-10-30 | 2022-04-09 |
 | [Funk Is My Religion](https://open.spotify.com/track/5JfPmqLsOHBFqiMbjVcH5X) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Funk Is My Religion](https://open.spotify.com/album/1ebG6V1lQvLgRhJ2sCwzgN) | 4:50 | 2021-04-30 |  |
 | [Funky Chick](https://open.spotify.com/track/2fedMEurhK2S48JlKSTaBu) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S), [Tomar Williams](https://open.spotify.com/artist/2fzU2rB7Q6czKOCJ6g79cD) | [Funky Chick](https://open.spotify.com/album/0Y4HFxgJ9AKnKElCC56bVV) | 3:34 | 2021-10-01 |  |
+| [Giving You My Heart](https://open.spotify.com/track/3pBE5lftPP2MxhD2DQRvBm) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Reachin' Up](https://open.spotify.com/album/4Adfft6sCzWvgkr4B7Vjql) | 3:35 | 2022-04-15 |  |
 | [Good As It Gets Anymore](https://open.spotify.com/track/3PMcmP6Zc38ZH9tUHjG9ps) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw) | [Good As It Gets Anymore](https://open.spotify.com/album/5vFFSTw2zxCeFE7ebm8qTY) | 3:41 | 2022-04-08 |  |
 | [Good Thing Guaranteed](https://open.spotify.com/track/1lgsm58CmP87rlry7TEPgo) | [The Ashton Jones Project](https://open.spotify.com/artist/5b4C1dg9101DqeDygFHZTE) | [The Ashton Jones Project](https://open.spotify.com/album/1RkDZj6q2Rw3syrItup75T) | 3:35 | 2020-10-30 | 2022-04-09 |
 | [Got Me Funked Up](https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [The Deep End](https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29) | 3:32 | 2020-10-30 | 2022-04-09 |

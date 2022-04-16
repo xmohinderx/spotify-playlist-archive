@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New England music breaking waves. Cover, Coi Leray",
+  "description": "New England music breaking waves. Cover, Bia",
   "name": "Ripple Effect: New England",
   "published_playlist_ids": [
     "00m3TONAbF60v2PgKEF6G2"
@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "AIN'T BEEN THE SAME",
+        "url": "https://open.spotify.com/album/6BX1SGE39jGZuj89V4H3om"
+      },
+      "artists": [
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179917,
+      "name": "Ain't Been the Same",
+      "url": "https://open.spotify.com/track/63MG1aq2r8U8SrBRTB3QsJ"
+    },
+    {
+      "album": {
         "name": "All for me",
         "url": "https://open.spotify.com/album/6HCQWGVNIbhtI0gzfXB3wH"
       },
@@ -85,6 +103,24 @@
       "duration_ms": 139441,
       "name": "All for me",
       "url": "https://open.spotify.com/track/5AzqVU6v7JMh0sSC4IkGLn"
+    },
+    {
+      "album": {
+        "name": "ALL FOR NOTHING",
+        "url": "https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS"
+      },
+      "artists": [
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "ALL FOR NOTHING",
+      "url": "https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh"
     },
     {
       "album": {
@@ -277,7 +313,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 185060,
       "name": "Cape Cod Lettuce",
       "url": "https://open.spotify.com/track/3DNgIzLfkSIroH894nSqDv"
@@ -343,6 +379,24 @@
       "duration_ms": 130690,
       "name": "Chris Rock",
       "url": "https://open.spotify.com/track/6JkhdC5kDeblUbq5abrLIm"
+    },
+    {
+      "album": {
+        "name": "Dancing With The Devil",
+        "url": "https://open.spotify.com/album/6gRCG7vCuYBYdyZozqP663"
+      },
+      "artists": [
+        {
+          "name": "Y Gizzle",
+          "url": "https://open.spotify.com/artist/2NrmxpPJ1YPMkidYYckQVT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165631,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/1lmKuhfpjHbnV0JMsmSOBo"
     },
     {
       "album": {
@@ -736,6 +790,24 @@
     },
     {
       "album": {
+        "name": "How U Feel",
+        "url": "https://open.spotify.com/album/67nowCLsP8OpPl1IE9zDcy"
+      },
+      "artists": [
+        {
+          "name": "Najee Janey",
+          "url": "https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "How U Feel",
+      "url": "https://open.spotify.com/track/1giI6r0Nsrjppnma2uoFiw"
+    },
+    {
+      "album": {
         "name": "To Whom Much is Given",
         "url": "https://open.spotify.com/album/7AkfjqxYvM68KZKLGYLPlh"
       },
@@ -763,7 +835,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 182450,
       "name": "I.D.F.W.N.",
       "url": "https://open.spotify.com/track/2aDMyqyVlxe8cxVZEMEmHL"
@@ -899,7 +971,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 202758,
       "name": "La Broa",
       "url": "https://open.spotify.com/track/6lRBQpcFI2CcjNhMf3Fh0U"
@@ -1015,6 +1087,28 @@
       "duration_ms": 190163,
       "name": "LIFESTYLE",
       "url": "https://open.spotify.com/track/3CNHjf59yioe51HIRdKqGP"
+    },
+    {
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "album": {
@@ -1505,7 +1599,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 162982,
       "name": "THE WAVE",
       "url": "https://open.spotify.com/track/2j5ZWHpUhzV8dQ2wcSLKUg"
@@ -1625,7 +1719,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 229601,
       "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"

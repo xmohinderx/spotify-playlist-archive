@@ -1,43 +1,67 @@
 {
   "description": "Pacific Northwest music breaking waves. Cover, Sango.",
-  "num_followers": 999,
+  "num_followers": 1001,
   "original_name": "Ripple Effect: PNW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODg1ODg2NCwwMDAwMDAxMzAwMDAwMTdmZTdhNTliZmIwMDAwMDE3ZjBmMDdlOTVk",
+  "snapshot_id": "MTY1MDAwNzc3OCwwMDAwMDAxNDAwMDAwMTgwMmMyMGE2N2MwMDAwMDE3ZjBmMDdlOTVk",
   "tracks": [
     {
-      "added_at": "2022-02-18 22:51:59",
+      "added_at": "2022-04-15 07:29:38",
       "album": {
-        "name": "to hell with it (Remixes)",
-        "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
+        "name": "Rewind It",
+        "url": "https://open.spotify.com/album/4pUNDU81EXj6KsRYZmZOzW"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
         },
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/0P8O2tgFwGDTSauprJthJI"
+          "name": "Eight9FLY",
+          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
+        },
+        {
+          "name": "Jarrel the Young",
+          "url": "https://open.spotify.com/artist/6JxB2H6EYCPWF4bEwuQ3uv"
         }
       ],
-      "duration_ms": 115200,
-      "name": "I must apologise - Sango Remix",
-      "url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
+      "duration_ms": 178085,
+      "name": "Rewind It",
+      "url": "https://open.spotify.com/track/6mwu4F96qQlAWFU2lgy6E8"
     },
     {
-      "added_at": "2022-03-18 04:33:35",
+      "added_at": "2022-04-15 07:29:38",
       "album": {
-        "name": "Red Water",
-        "url": "https://open.spotify.com/album/3gu3MYL0XG51fQ1zBnjHee"
+        "name": "Everything Cost",
+        "url": "https://open.spotify.com/album/3yCPZnCK5Cv5SlLxtElfRc"
+      },
+      "artists": [
+        {
+          "name": "Pinder",
+          "url": "https://open.spotify.com/artist/4VNhdOgxfxVzFRWLNPP2kz"
+        }
+      ],
+      "duration_ms": 139365,
+      "name": "Ever Again",
+      "url": "https://open.spotify.com/track/4SU38yyehdhNjrSWbYysCJ"
+    },
+    {
+      "added_at": "2022-04-15 07:29:38",
+      "album": {
+        "name": "Corduroy",
+        "url": "https://open.spotify.com/album/3KPpIrJ5p3i8jl2uTGLYhW"
       },
       "artists": [
         {
           "name": "Jaywop",
           "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         },
         {
           "name": "Donte Thomas",
@@ -46,15 +70,31 @@
         {
           "name": "Sxlxmxn",
           "url": "https://open.spotify.com/artist/1pDVDyfDlzo2XXQ5dH5rAK"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
       "duration_ms": 220254,
       "name": "Red Water",
-      "url": "https://open.spotify.com/track/1vJfed0RlNaEwhlio4JLm3"
+      "url": "https://open.spotify.com/track/4M6wNTUJra5iXIoPZdeQWm"
+    },
+    {
+      "added_at": "2022-04-15 07:29:38",
+      "album": {
+        "name": "Who's Listening Anyway",
+        "url": "https://open.spotify.com/album/52AEsPS0IsOHaVpoxN1EQn"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "duration_ms": 254377,
+      "name": "I Think That I Love You",
+      "url": "https://open.spotify.com/track/3gG6Yuezs45BE0A8YULmmL"
     },
     {
       "added_at": "2022-03-18 04:33:35",
@@ -91,6 +131,26 @@
       "duration_ms": 98000,
       "name": "River City",
       "url": "https://open.spotify.com/track/6orAlR80bW83kBu27ShyrG"
+    },
+    {
+      "added_at": "2022-04-15 07:29:38",
+      "album": {
+        "name": "Secrets Keep Friends",
+        "url": "https://open.spotify.com/album/4rf9sIzWYeUGmimR2oTKkQ"
+      },
+      "artists": [
+        {
+          "name": "D.Worthy",
+          "url": "https://open.spotify.com/artist/3erKONJnV1kHT5ksWJLR7y"
+        },
+        {
+          "name": "SADLOKA",
+          "url": "https://open.spotify.com/artist/4GWbqE5gzUI7fFco1vO6Zo"
+        }
+      ],
+      "duration_ms": 122880,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/6sj3QQ03Skwe41fzDzIAJq"
     },
     {
       "added_at": "2022-03-18 04:33:35",
@@ -191,6 +251,22 @@
       "duration_ms": 192640,
       "name": "FUCKIN' UP",
       "url": "https://open.spotify.com/track/44xPebK5giaVdci7dV2oMX"
+    },
+    {
+      "added_at": "2022-04-15 07:29:38",
+      "album": {
+        "name": "Lex Luthor",
+        "url": "https://open.spotify.com/album/7hSpsjqZQgMGQPaMF7glDl"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Lex Luthor",
+      "url": "https://open.spotify.com/track/6GuTQfGWR5Og4w8FjA66SO"
     },
     {
       "added_at": "2022-03-18 04:33:35",

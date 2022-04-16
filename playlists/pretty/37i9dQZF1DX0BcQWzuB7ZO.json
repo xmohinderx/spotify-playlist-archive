@@ -1,33 +1,13 @@
 {
-  "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Jax Jones & MNEK.",
-  "num_followers": 3480964,
+  "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with deadmau5 & Kaskade.",
+  "num_followers": 3481988,
   "original_name": "Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTcyNjY5MCwwMDAwMDE4ODAwMDAwMTgwMWI1ZjkzOTIwMDAwMDE3Zjc0OTI5YThj",
+  "snapshot_id": "MTY0OTk5NTI2MCwwMDAwMDE4OTAwMDAwMTgwMmI2MWEwZDcwMDAwMDE4MDJhMjc5Nzk1",
   "tracks": [
-    {
-      "added_at": "2022-03-30 21:57:09",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
     {
       "added_at": "2022-03-30 21:57:09",
       "album": {
@@ -55,6 +35,26 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 221220,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
     },
     {
       "added_at": "2022-03-30 21:57:09",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
     },
     {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "CTRL + ALT + DEL",
+        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 153166,
+      "name": "CTRL + ALT + DEL",
+      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
+    },
+    {
       "added_at": "2022-03-30 21:57:09",
       "album": {
         "name": "Call Me (with R3HAB & Timmy Trumpet)",
@@ -143,6 +159,46 @@
       "duration_ms": 178309,
       "name": "Call Me (with R3HAB & Timmy Trumpet)",
       "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+    },
+    {
+      "added_at": "2022-03-30 21:57:09",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2022-03-30 21:57:09",
+      "album": {
+        "name": "Beg For You (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Beg For You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
     },
     {
       "added_at": "2022-03-30 21:57:09",
@@ -223,26 +279,6 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2022-03-30 21:57:09",
-      "album": {
-        "name": "Beg For You (feat. Rina Sawayama)",
-        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Beg For You (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
     },
     {
       "added_at": "2022-03-30 21:57:09",
@@ -829,10 +865,10 @@
       "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
     },
     {
-      "added_at": "2022-03-30 21:57:09",
+      "added_at": "2022-04-15 04:01:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/0qfQxiLiUyGvWpz8QQs0Gd"
+        "name": "You Give Me A Feeling",
+        "url": "https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12"
       },
       "artists": [
         {
@@ -840,17 +876,13 @@
           "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
-      "duration_ms": 237023,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0kzhCraxTEGj5uyft6y6aD"
+      "duration_ms": 185896,
+      "name": "You Give Me A Feeling",
+      "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"
     },
     {
       "added_at": "2022-03-30 21:57:09",
@@ -989,6 +1021,22 @@
       "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
     },
     {
+      "added_at": "2022-04-12 01:24:50",
+      "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
       "added_at": "2022-03-30 21:57:09",
       "album": {
         "name": "Love Tonight (David Guetta Remix)",
@@ -1007,22 +1055,6 @@
       "duration_ms": 158095,
       "name": "Love Tonight - David Guetta Remix Edit",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
-    },
-    {
-      "added_at": "2022-04-12 01:24:50",
-      "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
       "added_at": "2022-03-30 21:57:09",
@@ -1447,26 +1479,6 @@
     {
       "added_at": "2022-03-30 21:57:09",
       "album": {
-        "name": "Hypnocurrency",
-        "url": "https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 292524,
-      "name": "Hypnocurrency",
-      "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
-    },
-    {
-      "added_at": "2022-03-30 21:57:09",
-      "album": {
         "name": "Butterflies (with Starrah & Four Tet)",
         "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
@@ -1487,22 +1499,6 @@
       "duration_ms": 195706,
       "name": "Butterflies (with Starrah & Four Tet)",
       "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
-    },
-    {
-      "added_at": "2022-03-30 21:57:09",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     }
   ],
   "unique_name": "Dance Hits",

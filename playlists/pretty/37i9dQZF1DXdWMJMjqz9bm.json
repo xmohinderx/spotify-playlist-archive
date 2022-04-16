@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: anees",
-  "num_followers": 143863,
+  "num_followers": 144194,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk0NTA4NiwwMDAwMDExMzAwMDAwMTgwMjg2NDBiNTcwMDAwMDE4MDFhNWZhZTNi",
+  "snapshot_id": "MTY0OTk5NzU0MCwwMDAwMDExNDAwMDAwMTgwMmI4NDZiMGIwMDAwMDE4MDFhNWZhZTNi",
   "tracks": [
+    {
+      "added_at": "2022-04-11 20:55:09",
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+    },
     {
       "added_at": "2022-04-08 19:13:31",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "24 48",
+        "url": "https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "24 48",
+      "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
     },
     {
       "added_at": "2022-04-04 22:47:16",
@@ -73,6 +105,22 @@
       "url": "https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL"
     },
     {
+      "added_at": "2022-04-04 15:24:43",
+      "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 234215,
+      "name": "3005",
+      "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
+    },
+    {
       "added_at": "2022-04-08 19:00:34",
       "album": {
         "name": "First Class",
@@ -87,6 +135,26 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/1t0NQ9kXjNVFmWRwV1iDcg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Powers",
+          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
+        },
+        {
+          "name": "BIGBABYGUCCI",
+          "url": "https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs"
+        }
+      ],
+      "duration_ms": 155016,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn"
     },
     {
       "added_at": "2022-04-04 22:47:16",
@@ -105,20 +173,20 @@
       "url": "https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq"
     },
     {
-      "added_at": "2022-04-04 15:24:43",
+      "added_at": "2022-04-08 13:25:03",
       "album": {
-        "name": "up again",
-        "url": "https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU"
+        "name": "mathematics",
+        "url": "https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm"
       },
       "artists": [
         {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 168902,
-      "name": "up again",
-      "url": "https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X"
+      "duration_ms": 147000,
+      "name": "mathematics",
+      "url": "https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -153,36 +221,44 @@
       "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
-      "added_at": "2022-04-08 13:25:03",
+      "added_at": "2022-04-04 15:24:43",
       "album": {
-        "name": "mathematics",
-        "url": "https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm"
+        "name": "up again",
+        "url": "https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
         }
       ],
-      "duration_ms": 147000,
-      "name": "mathematics",
-      "url": "https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ"
+      "duration_ms": 168902,
+      "name": "up again",
+      "url": "https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X"
     },
     {
-      "added_at": "2022-04-11 20:55:09",
+      "added_at": "2022-04-15 04:39:00",
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+        "name": "Grin On Me 2",
+        "url": "https://open.spotify.com/album/26rW3vENtPgoAVWge38Wfs"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        },
+        {
+          "name": "BirdsFlyStoned",
+          "url": "https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
         }
       ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+      "duration_ms": 123093,
+      "name": "Grin On Me 2",
+      "url": "https://open.spotify.com/track/2cld913W9DGU1n4osTL3ju"
     },
     {
       "added_at": "2022-04-08 18:54:57",
@@ -199,6 +275,26 @@
       "duration_ms": 228786,
       "name": "Stop it",
       "url": "https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "Teammates",
+        "url": "https://open.spotify.com/album/04ybMaeuitS4ISlJug42dZ"
+      },
+      "artists": [
+        {
+          "name": "Asher Roth",
+          "url": "https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT"
+        },
+        {
+          "name": "Heather Grey",
+          "url": "https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE"
+        }
+      ],
+      "duration_ms": 144546,
+      "name": "Teammates",
+      "url": "https://open.spotify.com/track/4NJaaIIhzLlzGj4dHMb4FO"
     },
     {
       "added_at": "2022-04-08 13:25:03",
@@ -237,20 +333,20 @@
       "url": "https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN"
     },
     {
-      "added_at": "2022-04-04 15:24:43",
+      "added_at": "2022-04-15 04:39:00",
       "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
+        "name": "pretty little lies",
+        "url": "https://open.spotify.com/album/1QkH2FPORhEP0okiAcGfJ7"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Marco Luka",
+          "url": "https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM"
         }
       ],
-      "duration_ms": 234215,
-      "name": "3005",
-      "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
+      "duration_ms": 165724,
+      "name": "pretty little lies",
+      "url": "https://open.spotify.com/track/4GRLGjwgWzZ33HQU3BIdH9"
     },
     {
       "added_at": "2022-04-08 13:25:03",
@@ -283,6 +379,22 @@
       "duration_ms": 255486,
       "name": "Child of God",
       "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/3bRmPk6JsO9fXbCOhVsOEL"
+      },
+      "artists": [
+        {
+          "name": "Nate Good",
+          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/6aNgALkspvsIlNvzdwG02z"
     },
     {
       "added_at": "2022-04-08 13:25:03",
@@ -335,6 +447,22 @@
       "duration_ms": 207813,
       "name": "Cigarettes On Patios",
       "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "I Miss the Homies",
+        "url": "https://open.spotify.com/album/7nitS66V1Z7HdHowBJ0Ksu"
+      },
+      "artists": [
+        {
+          "name": "Decorator",
+          "url": "https://open.spotify.com/artist/1CplTPi43L6iFj0gLg2LDa"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "I Miss the Homies",
+      "url": "https://open.spotify.com/track/0XclwfhIIsS6ZQLqve6jLQ"
     },
     {
       "added_at": "2022-04-04 22:47:16",
@@ -463,6 +591,22 @@
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/0bfyruUb9HKc4UoBjVB8OW"
+      },
+      "artists": [
+        {
+          "name": "Bazanji",
+          "url": "https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4TgJnxjzyah22ijJR3tRvN"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -607,6 +751,22 @@
       "duration_ms": 125302,
       "name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
       "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "Runnin' the Road",
+        "url": "https://open.spotify.com/album/3dzOG2QNNV9MOY1l2eqHMT"
+      },
+      "artists": [
+        {
+          "name": "Loud City",
+          "url": "https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Runnin' the Road",
+      "url": "https://open.spotify.com/track/1vK0W3jWBR44lEh2dDWvSF"
     },
     {
       "added_at": "2022-04-06 22:43:48",
@@ -883,6 +1043,22 @@
       "duration_ms": 122130,
       "name": "Winning",
       "url": "https://open.spotify.com/track/1yS8J9iYUVXBs2k7HH8LBd"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/0QUpa5lYsDBRykPis5WHvc"
+      },
+      "artists": [
+        {
+          "name": "JED",
+          "url": "https://open.spotify.com/artist/5HP5WDrdxXqa9JyQv0phVQ"
+        }
+      ],
+      "duration_ms": 201923,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/36Dl8J2GhDwcTkWYHbcJII"
     },
     {
       "added_at": "2022-04-04 15:24:43",

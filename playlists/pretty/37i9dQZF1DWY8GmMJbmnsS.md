@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,856 likes - 33 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,896 likes - 33 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 32 | [Pledging My Love](https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT) | [Johnny Ace](https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah), [Johnny Otis & His Orchestra](https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1) | [Memorial Album](https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ) | 2:28 |
 | 33 | [Georgia on My Mind \- Original Master Recording](https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Georgia on My Mind \(Original Master Recording\)](https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb) | 3:37 |
 
-Snapshot ID: `MTY0OTk4NDIzNywwMDAwMDAwMGJjMmYzMmU2MjljNWUxMTNjMmJiN2FiODNkODQ1YjQz`
+Snapshot ID: `MTY1MDA3MDQ3NiwwMDAwMDAwMGJjMmYzMmU2MjljNWUxMTNjMmJiN2FiODNkODQ1YjQz`

@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Mágico do Som e os funks mais 🔑 do Brasil\. Foto: Mc WM, MC Lan
+> Desenrola Bate Joga de Ladin e os funks mais 🔑 do Brasil\. Foto: L7NNON, Os Hawaianos, DJ Biel do Furduncinho, DJ Bel da CDD
 
 79 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 

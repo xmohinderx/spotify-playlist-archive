@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 237070,
       "name": "C\u01a1n M\u01b0a B\u00ecnh Y\u00ean (feat. C\u01b0\u1eddng)",
       "url": "https://open.spotify.com/track/3kGgUPDgMF2N9QQUREePAi"
@@ -2407,7 +2407,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 260834,
       "name": "K\u1ebb \u0110\u00e1ng Th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/0uYlDhNMjcJzOhDAA5kew7"
@@ -2465,7 +2465,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 188571,
       "name": "LILYHAMMER",
       "url": "https://open.spotify.com/track/3AsPopTxHAoNdMADqj6BIi"
@@ -2735,7 +2735,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 129080,
       "name": "Memento",
       "url": "https://open.spotify.com/track/7l4Z5kp4QcGDucsrQjOqML"
@@ -3636,6 +3636,24 @@
     },
     {
       "album": {
+        "name": "Ran San Moi",
+        "url": "https://open.spotify.com/album/6eJWocDEO1JslZf9wHQfer"
+      },
+      "artists": [
+        {
+          "name": "72 Kiddy",
+          "url": "https://open.spotify.com/artist/6ZOeFMi6fotDJZHO6rK7y7"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210218,
+      "name": "Ran San Moi",
+      "url": "https://open.spotify.com/track/6G0YMBSWjwnfFfC8OP2kAV"
+    },
+    {
+      "album": {
         "name": "Redamancy (feat. Cristian & Bennn)",
         "url": "https://open.spotify.com/album/2anRDolKDPHjlTuAVNPkPf"
       },
@@ -3887,6 +3905,28 @@
       "duration_ms": 192000,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/0JM1GItPD8ZH5vdMem75qC"
+    },
+    {
+      "album": {
+        "name": "S\u0103n M\u1ed3i",
+        "url": "https://open.spotify.com/album/0XmOi37QSFOi5iWWZgp1d7"
+      },
+      "artists": [
+        {
+          "name": "Anzz",
+          "url": "https://open.spotify.com/artist/5y2RBcWcJfnvuoZ4OomdiO"
+        },
+        {
+          "name": "sinist/a",
+          "url": "https://open.spotify.com/artist/64J18vLHKpDvEOXAQMbdEM"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "S\u0103n M\u1ed3i",
+      "url": "https://open.spotify.com/track/6vvqufho5vyqVInqstNVwJ"
     },
     {
       "album": {
@@ -4249,6 +4289,24 @@
       "duration_ms": 210000,
       "name": "TOURIST",
       "url": "https://open.spotify.com/track/3wdK1Ldkj6ju4JIvg94G24"
+    },
+    {
+      "album": {
+        "name": "Tri K\u1ef7",
+        "url": "https://open.spotify.com/album/45p5URyPipuzapUUXpD5rP"
+      },
+      "artists": [
+        {
+          "name": "LT Midside",
+          "url": "https://open.spotify.com/artist/50OfeNlZcOMffMzBpfDCTL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164493,
+      "name": "Tri K\u1ef7",
+      "url": "https://open.spotify.com/track/4RxqA5YDopOIuBfk6426n9"
     },
     {
       "album": {

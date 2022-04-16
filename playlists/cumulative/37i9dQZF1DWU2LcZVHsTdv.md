@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Reba McEntire
 
-101 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+106 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Chase Me Down \(feat\. RaeLynn\)](https://open.spotify.com/track/4PVt0PcZyI61mCuwMdvtzy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:28 | 2021-12-10 |  |
 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 | 2021-12-10 |  |
 | [Day with Jesus](https://open.spotify.com/track/4ciThdLjICgN7HzeBaLrSw) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Day with Jesus](https://open.spotify.com/album/3KGAeln42pur213kCU0iHH) | 4:02 | 2021-12-10 |  |
+| [Dear Jesus](https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:43 | 2022-04-15 |  |
 | [Devil](https://open.spotify.com/track/6TrsjnEV5IpVAYMdAvucGs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:24 | 2021-12-10 | 2022-04-02 |
 | [Everybody Talks To God](https://open.spotify.com/track/78NoI7XWKDtir8JvnonJ2y) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Everybody Talks To God](https://open.spotify.com/album/3InfLUe6iHsB6bx05pg9dL) | 4:17 | 2022-01-14 |  |
 | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/track/0TBkgBR2VLYeTG9ynsoIkm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/album/3rxDjgnx1xHwImjgUFDctg) | 3:11 | 2021-12-10 |  |
@@ -56,6 +57,7 @@
 | [I'll Fly Away](https://open.spotify.com/track/2Rk8fztS3B4ozeNjKtirHb) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:52 | 2021-12-10 |  |
 | [If That Ain't God](https://open.spotify.com/track/2wD4EACbGI6zfKXEAKJmBV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [If That Ain't God](https://open.spotify.com/album/6zJ23RQJ1NeubHuCzyvPlE) | 3:30 | 2021-12-10 |  |
 | [In All Things](https://open.spotify.com/track/4CVSGsxGy52bNpUAwFqrm7) | [Leslie Jordan](https://open.spotify.com/artist/7rYLqyGeyCnraP6vBfhfFn), [Danny Myrick](https://open.spotify.com/artist/2VnIRUWeM04JHxZvYkxJWv) | [Company's Comin'](https://open.spotify.com/album/2n9E08VXyUL1GGOwnVM6tm) | 3:30 | 2021-12-10 |  |
+| [In Christ Alone](https://open.spotify.com/track/4nZLgB1NYxEjfStRRPZBWE) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [In Christ Alone](https://open.spotify.com/album/5v36cGV6Gk6cA4l79cMImt) | 4:11 | 2022-04-15 |  |
 | [Just a Closer Walk with Thee](https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Just a Closer Walk with Thee](https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g) | 3:40 | 2022-01-28 |  |
 | [Less Than Whole](https://open.spotify.com/track/3OzqxGvLzW00YOet2P78sD) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:44 | 2021-12-10 |  |
 | [Like Jesus Does](https://open.spotify.com/track/3wxgj5N8ZKoZWHDw6FJUf2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:18 | 2021-12-10 |  |
@@ -97,6 +99,7 @@
 | [The Struggle](https://open.spotify.com/track/0IH6d4yjydoocRdMxaiJpY) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [The Struggle](https://open.spotify.com/album/3YC3za841d6jr4Gkgi3Dx4) | 3:43 | 2021-12-10 |  |
 | [There Is a God](https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Definitive Collection](https://open.spotify.com/album/05XWUOLckWAk8WqIWZ18IV) | 4:16 | 2021-12-10 |  |
 | [Thought About You](https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Thought About You](https://open.spotify.com/album/0LPzkET4jAcOUbkrGagdI4) | 3:45 | 2021-12-10 |  |
+| [Three](https://open.spotify.com/track/1XE2AiPIecv5qDJvoajruU) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Three](https://open.spotify.com/album/4qBC2PWgHdkaec6uwBiKUh) | 3:30 | 2022-04-15 |  |
 | [Three Wooden Crosses](https://open.spotify.com/track/3y1celx9jzjsbfI9T3hmvw) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Three Wooden Crosses: The Inspirational Hits of Randy Travis](https://open.spotify.com/album/17GFGc299gAbkJWoIu5eba) | 3:21 | 2021-12-10 |  |
 | [Today](https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Today](https://open.spotify.com/album/73oc4kEemraQEzKGcgtwOm) | 3:49 | 2021-12-10 |  |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-12-10 |  |
@@ -109,5 +112,7 @@
 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/46JqDjp4BMbLQrTOUHdspO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/album/1cgi25XjeIHOHs2dldAnYN) | 3:50 | 2021-12-10 |  |
 | [WOMAN AT THE WELL](https://open.spotify.com/track/2fqHlRhWsA4YyRysR7FR4v) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [WOMAN AT THE WELL](https://open.spotify.com/album/24Yth0NqR6gEVUhMyMHKiG) | 3:29 | 2021-12-10 |  |
 | [Working On Sunday](https://open.spotify.com/track/64ZqOZGfgq4OABx1qN8Ftd) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [Working On Sunday](https://open.spotify.com/album/3dPIlZag9xByUbPjvaO7ji) | 3:20 | 2021-12-10 |  |
+| [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0W04i66yWfmc0tUT9WP5tQ) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 | 2022-04-15 |  |
+| [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 | 2022-04-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

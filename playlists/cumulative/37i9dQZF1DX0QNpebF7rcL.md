@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Albert Cummings
+> The best in blues right now\. Cover: Walter Trout
 
-169 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+171 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Further](https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Further](https://open.spotify.com/album/5YU8wpgoWdOkiRrjuJCeNo) | 2:57 | 2021-10-08 |  |
 | [Get Down](https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/3cBmAwjBX1csLooXbuwHhr) | 3:27 | 2021-06-25 |  |
 | [Get Out of My Life Woman](https://open.spotify.com/track/5KN5fmcJShC49J830DEqHI) | [Watermelon Slim](https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN) | [Church of the Blues](https://open.spotify.com/album/4Zy8gXmsSdNNeVjrmCIq3T) | 3:09 | 2020-12-14 | 2022-02-26 |
+| [Ghosts](https://open.spotify.com/track/0Abu2kVKUQrTNSqfowYWEp) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ghosts](https://open.spotify.com/album/78AbRfKfLgNCIPsm03P72R) | 5:09 | 2022-04-15 |  |
 | [Giving Up On Your Love](https://open.spotify.com/track/1b4iMXi38xiZM6emdMlU0O) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [The Big Sound of Lil' Ed & The Blues Imperials](https://open.spotify.com/album/0bgCN0pFtQMEfoaiNRaoCR) | 3:39 | 2021-04-13 |  |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-01-14 |  |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 |  |
@@ -135,6 +136,7 @@
 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 | 2022-01-28 | 2022-02-26 |
 | [Stones](https://open.spotify.com/track/3WCu21jYrADpRuoPcQ7onA) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Stones](https://open.spotify.com/album/1kcBgQaYOSCO8G2D6Kk8KT) | 3:25 | 2021-12-10 | 2022-02-26 |
 | [Stop Draggin' That Chain Around](https://open.spotify.com/track/2J1fKycjwpQvxJHQMcyOoL) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [The Real Deal](https://open.spotify.com/album/1aI7k455fkWA6fKq0UrUGV) | 4:14 | 2021-12-10 |  |
+| [Stranger](https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 4:06 | 2022-04-15 |  |
 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 | 2020-12-14 | 2022-02-26 |
 | [Sunshine City](https://open.spotify.com/track/4PpF9xvXBP5kH7IOBPkwBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Sunshine City](https://open.spotify.com/album/1MxTTpJSDtNjni0SF5zIMt) | 4:17 | 2021-10-15 | 2022-02-26 |
 | [Take Me Back](https://open.spotify.com/track/5Ft33jkZFk4vtCURt4BaHX) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [New Morning](https://open.spotify.com/album/2TTXWDSbuk0LDVDEUNnsCh) | 5:36 | 2021-04-23 |  |

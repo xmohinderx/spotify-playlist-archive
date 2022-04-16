@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Brad Cox
 
-117 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+118 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Denim & Rhinestones](https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs) | 2:48 | 2022-04-07 |  |
 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 | 2022-03-31 |  |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-30 |  |
+| [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-14 |  |
 | [Drink Along Song](https://open.spotify.com/track/0EKtrPckzmWUQgVQpLd61k) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Drink Along Song](https://open.spotify.com/album/5r840J3ihnRPTn2XShDJyy) | 2:48 | 2021-12-30 | 2022-04-01 |
 | [Drink Along Song](https://open.spotify.com/track/2BBbFB5XlySql9TliA0bsV) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Drink Along Song](https://open.spotify.com/album/3dYhC4VoJB2ytJxZfcuilM) | 2:56 | 2022-03-31 |  |
 | [Drinking Songs](https://open.spotify.com/track/4rqjF6HMDIPWx52U09kNwV) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Drinking Songs](https://open.spotify.com/album/1fOOTVggmp78uXc2P5lJo1) | 3:12 | 2022-01-06 |  |

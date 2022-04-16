@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Albert Cummings",
+  "description": "The best in blues right now. Cover: Walter Trout",
   "name": "Got Blues",
   "published_playlist_ids": [
     "6WXBnoSHTaV1fXgP91Rwcb"
@@ -731,6 +731,24 @@
       "duration_ms": 189717,
       "name": "Get Out of My Life Woman",
       "url": "https://open.spotify.com/track/5KN5fmcJShC49J830DEqHI"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/78AbRfKfLgNCIPsm03P72R"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309175,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0Abu2kVKUQrTNSqfowYWEp"
     },
     {
       "album": {
@@ -2427,6 +2445,36 @@
       "duration_ms": 254506,
       "name": "Stop Draggin' That Chain Around",
       "url": "https://open.spotify.com/track/2J1fKycjwpQvxJHQMcyOoL"
+    },
+    {
+      "album": {
+        "name": "Brother Johnny",
+        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
+      },
+      "artists": [
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        },
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2"
     },
     {
       "album": {

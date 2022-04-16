@@ -1144,6 +1144,28 @@
     },
     {
       "album": {
+        "name": "Infraganti",
+        "url": "https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Taiko",
+          "url": "https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164404,
+      "name": "Infraganti",
+      "url": "https://open.spotify.com/track/25h54oPQAB19qacffSp5wG"
+    },
+    {
+      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
       },

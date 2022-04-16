@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=hF3KpHpFTNmf7Go9\_OfZVg"> Yemi Alade </a> and <a href="https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S?si=VUxF\_jE8RZuqUQSxi9AoJAg"> Kranium</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,867 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,883 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

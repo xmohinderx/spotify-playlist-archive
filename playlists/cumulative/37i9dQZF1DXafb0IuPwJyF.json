@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 186872,
       "name": "Always",
       "url": "https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 221460,
       "name": "Pale Rain",
       "url": "https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF"
@@ -2794,6 +2794,24 @@
     },
     {
       "album": {
+        "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
+        "url": "https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz"
+      },
+      "artists": [
+        {
+          "name": "Official HIGE DANdism",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213438,
+      "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
+      "url": "https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ"
+    },
+    {
+      "album": {
         "name": "\u30df\u30e9",
         "url": "https://open.spotify.com/album/5RLYmHgINEeyKJrWTDZr4c"
       },
@@ -3911,6 +3929,24 @@
       "duration_ms": 196285,
       "name": "\u963f\u4fee\u7f85\u3061\u3083\u3093",
       "url": "https://open.spotify.com/track/4lEk6fyJu7LLPenqL0Raj5"
+    },
+    {
+      "album": {
+        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266373,
+      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
     },
     {
       "album": {

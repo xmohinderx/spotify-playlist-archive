@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "B's Up",
+        "url": "https://open.spotify.com/album/32vLStumGgwykRkaMRHD7x"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150028,
+      "name": "B's Up",
+      "url": "https://open.spotify.com/track/7LzDAUdS3NHUS2gkFUX5a5"
+    },
+    {
+      "album": {
         "name": "ALIVE (Deluxe)",
         "url": "https://open.spotify.com/album/1ThGGXmoSFxHIQLhE4vy7M"
       },
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 104039,
       "name": "Champions",
       "url": "https://open.spotify.com/track/11y5mfZsBaMV79mJmg8CJT"
@@ -756,6 +774,24 @@
     },
     {
       "album": {
+        "name": "DooWop",
+        "url": "https://open.spotify.com/album/0YQC53muBpRAc8TazpEZm5"
+      },
+      "artists": [
+        {
+          "name": "Kenndog",
+          "url": "https://open.spotify.com/artist/2NLseG7xyv3fHY5U8AUntx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "DooWop",
+      "url": "https://open.spotify.com/track/3MLq7vHvOlbKPKvQK9m3Gi"
+    },
+    {
+      "album": {
         "name": "Draped Up (feat. Future)",
         "url": "https://open.spotify.com/album/6Xyk6KAjVUd6lp3uhr0Enb"
       },
@@ -841,7 +877,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
@@ -1021,6 +1057,24 @@
       "duration_ms": 210027,
       "name": "Gospel (with Eminem)",
       "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu"
+      },
+      "artists": [
+        {
+          "name": "Day Sulan",
+          "url": "https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134780,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn"
     },
     {
       "album": {
@@ -1977,7 +2031,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 135888,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/6VlyGntFkztRrLlMBDxLRj"
@@ -1999,10 +2053,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 200063,
       "name": "Personal",
       "url": "https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq"
+    },
+    {
+      "album": {
+        "name": "Picasso",
+        "url": "https://open.spotify.com/album/1tjG76nlg1AlhGG4O2CGU9"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106847,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/43t69WNj30qqc2XDryeLAj"
     },
     {
       "album": {
@@ -2167,7 +2239,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
@@ -2363,6 +2435,28 @@
       "duration_ms": 115822,
       "name": "STOP IT",
       "url": "https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy"
+    },
+    {
+      "album": {
+        "name": "Street Signs",
+        "url": "https://open.spotify.com/album/7e9S1FRNCWxw2UeIQtmFAP"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Street Signs",
+      "url": "https://open.spotify.com/track/1tu6h8NPmeS4q2RRpEGjT8"
     },
     {
       "album": {

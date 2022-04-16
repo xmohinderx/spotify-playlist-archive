@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Elza Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209,261 likes - 90 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,412 likes - 90 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 6 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz e o Violão](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 |
 | 7 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
 | 8 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
-| 9 | [Façamos \(Vamos Amar\)](https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Do Cóccix Até o Pescoço](https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR) | 5:53 |
-| 10 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
-| 11 | [Nu Com a Minha Música](https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Nu Com a Minha Música \(EP\)](https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw) | 4:43 |
-| 12 | [Relicário \- Ao Vivo](https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:06 |
-| 13 | [Fado do Ultramar](https://open.spotify.com/track/6hIwZzQCIbu7DRymTbp7aX) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF), [Thais Nicodemo](https://open.spotify.com/artist/5AZTwsZvQ1X5fTz2c3APov) | [Fado do Ultramar](https://open.spotify.com/album/1fezN2gBwdCi7tqMby5H03) | 4:08 |
+| 9 | [Eu Também Quero Beijar / A Lua e o Mar](https://open.spotify.com/track/0JdiACPzhOZ5nuFJG2Rzlb) | [Zabelê](https://open.spotify.com/artist/4JMakNBSx2CeKCKVIEcw21), [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Eu Também Quero Beijar / A Lua e o Mar](https://open.spotify.com/album/6DSaEClssEB5gUtlcNzdn7) | 2:52 |
+| 10 | [Façamos \(Vamos Amar\)](https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Do Cóccix Até o Pescoço](https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR) | 5:53 |
+| 11 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
+| 12 | [Nu Com a Minha Música](https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Nu Com a Minha Música \(EP\)](https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw) | 4:43 |
+| 13 | [Relicário \- Ao Vivo](https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:06 |
 | 14 | [Amor I Love You \(feat\. Arnaldo Antunes\) \- Ao Vivo](https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Memórias \(2001\) \- Ao Vivo](https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK) | 3:20 |
 | 15 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 16 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 89 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta \(1970\)](https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4) | 4:12 |
 | 90 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 
-Snapshot ID: `MTY0MjcxNjc0MCwwMDAwMDA3ZDAwMDAwMTdlNzk4YzM5ZjQwMDAwMDE3ZTc5OGJkZWVk`
+Snapshot ID: `MTY0OTk5MTY2MCwwMDAwMDA3ZTAwMDAwMTgwMmIyYWIyNjkwMDAwMDE3ZTc5OGJkZWVk`

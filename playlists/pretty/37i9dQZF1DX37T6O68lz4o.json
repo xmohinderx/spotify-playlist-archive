@@ -1,13 +1,33 @@
 {
-  "description": "New England music breaking waves. Cover, Coi Leray",
-  "num_followers": 809,
+  "description": "New England music breaking waves. Cover, Bia",
+  "num_followers": 812,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODg1ODM3NSwwMDAwMDAxNzAwMDAwMTdmZTc5ZTI0ZDkwMDAwMDE3ZmU3OWRlYjRi",
+  "snapshot_id": "MTY1MDAwOTY2MiwwMDAwMDAxODAwMDAwMTgwMmMzZDY0MWEwMDAwMDE4MDJjM2QzNzg2",
   "tracks": [
+    {
+      "added_at": "2022-04-15 08:01:02",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
     {
       "added_at": "2022-04-02 00:02:24",
       "album": {
@@ -85,6 +105,22 @@
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
     },
     {
+      "added_at": "2022-04-15 08:01:02",
+      "album": {
+        "name": "ALL FOR NOTHING",
+        "url": "https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS"
+      },
+      "artists": [
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "ALL FOR NOTHING",
+      "url": "https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh"
+    },
+    {
       "added_at": "2022-04-02 00:02:24",
       "album": {
         "name": "Ghost",
@@ -115,22 +151,6 @@
       "duration_ms": 176959,
       "name": "Fembrook Dr.",
       "url": "https://open.spotify.com/track/3BFysywxDgfI95sEhvl2ws"
-    },
-    {
-      "added_at": "2022-03-18 04:37:31",
-      "album": {
-        "name": "THE WAVE",
-        "url": "https://open.spotify.com/album/0WuLFXqgCresbLWPrXv83j"
-      },
-      "artists": [
-        {
-          "name": "Kevin George",
-          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
-        }
-      ],
-      "duration_ms": 162982,
-      "name": "THE WAVE",
-      "url": "https://open.spotify.com/track/2j5ZWHpUhzV8dQ2wcSLKUg"
     },
     {
       "added_at": "2021-12-01 18:09:33",
@@ -167,6 +187,22 @@
       "duration_ms": 151714,
       "name": "KILLA CAM",
       "url": "https://open.spotify.com/track/0ueiptVlkYXsu2gQ0xMWTi"
+    },
+    {
+      "added_at": "2022-04-15 08:01:02",
+      "album": {
+        "name": "Dancing With The Devil",
+        "url": "https://open.spotify.com/album/6gRCG7vCuYBYdyZozqP663"
+      },
+      "artists": [
+        {
+          "name": "Y Gizzle",
+          "url": "https://open.spotify.com/artist/2NrmxpPJ1YPMkidYYckQVT"
+        }
+      ],
+      "duration_ms": 165631,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/1lmKuhfpjHbnV0JMsmSOBo"
     },
     {
       "added_at": "2022-04-02 00:02:24",
@@ -367,58 +403,6 @@
       "duration_ms": 195967,
       "name": "Complicated - Remastered",
       "url": "https://open.spotify.com/track/1tW9w4AJjqNqVJZ2CkC83g"
-    },
-    {
-      "added_at": "2021-07-29 03:19:54",
-      "album": {
-        "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) [Remix]",
-        "url": "https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 229601,
-      "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
-      "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
-    },
-    {
-      "added_at": "2022-02-18 22:25:03",
-      "album": {
-        "name": "To Whom Much is Given",
-        "url": "https://open.spotify.com/album/7AkfjqxYvM68KZKLGYLPlh"
-      },
-      "artists": [
-        {
-          "name": "StashtheWave",
-          "url": "https://open.spotify.com/artist/64N9Pa5Tf51kYp23AffeLo"
-        },
-        {
-          "name": "Jiles",
-          "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
-        },
-        {
-          "name": "Qwan?",
-          "url": "https://open.spotify.com/artist/2Fe9mGfr5IXxvSyug4o69b"
-        },
-        {
-          "name": "Arold",
-          "url": "https://open.spotify.com/artist/1Jpk08KQX96BkCwHXejl8e"
-        },
-        {
-          "name": "Clyde Black",
-          "url": "https://open.spotify.com/artist/3Lyx3bIdL2NgAP4lh1W101"
-        }
-      ],
-      "duration_ms": 182450,
-      "name": "I.D.F.W.N.",
-      "url": "https://open.spotify.com/track/2aDMyqyVlxe8cxVZEMEmHL"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -717,6 +701,22 @@
       "url": "https://open.spotify.com/track/7EyDWblggvlq72t9uegWtt"
     },
     {
+      "added_at": "2022-04-15 08:01:02",
+      "album": {
+        "name": "AIN'T BEEN THE SAME",
+        "url": "https://open.spotify.com/album/6BX1SGE39jGZuj89V4H3om"
+      },
+      "artists": [
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        }
+      ],
+      "duration_ms": 179917,
+      "name": "Ain't Been the Same",
+      "url": "https://open.spotify.com/track/63MG1aq2r8U8SrBRTB3QsJ"
+    },
+    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "It's Purple at Midnite (Deluxe)",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/0ocj1EyVx5ykvj2APlMuYo"
     },
     {
-      "added_at": "2022-04-02 00:02:24",
-      "album": {
-        "name": "Cape Cod Lettuce",
-        "url": "https://open.spotify.com/album/5JLqdQOGauHJ0mwMMBAXIh"
-      },
-      "artists": [
-        {
-          "name": "Theo Martins",
-          "url": "https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "Cape Cod Lettuce",
-      "url": "https://open.spotify.com/track/3DNgIzLfkSIroH894nSqDv"
-    },
-    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "Juice",
@@ -767,34 +751,6 @@
       "duration_ms": 178511,
       "name": "Juice",
       "url": "https://open.spotify.com/track/68BtzrEvjP4CBIin4NLvKy"
-    },
-    {
-      "added_at": "2022-01-29 00:15:56",
-      "album": {
-        "name": "La Broa",
-        "url": "https://open.spotify.com/album/5EXTKzebNvL0eRakSGvqRi"
-      },
-      "artists": [
-        {
-          "name": "Riel Santana",
-          "url": "https://open.spotify.com/artist/5lqkAKnq679k0QQWD3tqcd"
-        },
-        {
-          "name": "Kiddo Kris",
-          "url": "https://open.spotify.com/artist/6LPSgOnLa3C0XWWXaho0Ss"
-        },
-        {
-          "name": "Heavy Jay",
-          "url": "https://open.spotify.com/artist/0WEpLHJ2iFg290hGtof2tl"
-        },
-        {
-          "name": "Flixdo Lavish",
-          "url": "https://open.spotify.com/artist/6v75SIeLMgpihYXskE0rz9"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "La Broa",
-      "url": "https://open.spotify.com/track/6lRBQpcFI2CcjNhMf3Fh0U"
     },
     {
       "added_at": "2022-01-29 00:15:56",
@@ -879,6 +835,22 @@
       "duration_ms": 182569,
       "name": "Play Nice",
       "url": "https://open.spotify.com/track/1mKSm9tWIyoNa3BPe7JVwc"
+    },
+    {
+      "added_at": "2022-04-15 08:01:02",
+      "album": {
+        "name": "How U Feel",
+        "url": "https://open.spotify.com/album/67nowCLsP8OpPl1IE9zDcy"
+      },
+      "artists": [
+        {
+          "name": "Najee Janey",
+          "url": "https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "How U Feel",
+      "url": "https://open.spotify.com/track/1giI6r0Nsrjppnma2uoFiw"
     },
     {
       "added_at": "2022-01-29 00:15:56",

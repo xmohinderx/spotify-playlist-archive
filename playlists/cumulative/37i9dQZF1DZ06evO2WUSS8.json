@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 273066,
       "name": "Houses in Motion",
       "url": "https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 348840,
       "name": "Idje Idje",
       "url": "https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 201369,
       "name": "La Vida Es Un Carnaval - Bomba Estereo Remix",
       "url": "https://open.spotify.com/track/1gp1yn0h8hQWgrJq4Kgiu5"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 361546,
       "name": "Listening Wind",
       "url": "https://open.spotify.com/track/2vh0Wy3Jvyy3vy6X9S4FgU"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 207026,
       "name": "Oya Diosa",
       "url": "https://open.spotify.com/track/5W5xwZtuu2pUbBnTSJyTgR"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 184146,
       "name": "Seen and Not Seen",
       "url": "https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93"
@@ -1289,6 +1289,24 @@
       "duration_ms": 404193,
       "name": "Symphony No. 12, \"Lodger\": II. Move On",
       "url": "https://open.spotify.com/track/7HJWIEkczmSKHm6Qf4CjQF"
+    },
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Tatchedogbe",
+      "url": "https://open.spotify.com/track/6nmkqN1prP1ExfKV1l2kzY"
     },
     {
       "album": {
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 220493,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY"

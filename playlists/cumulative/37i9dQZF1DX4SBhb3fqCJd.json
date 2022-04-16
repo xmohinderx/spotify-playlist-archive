@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of R&B music today.  Cover: Syd",
+  "description": "The pulse of R&B music today.  Cover: Muni Long",
   "name": "Are & Be",
   "published_playlist_ids": [
     "5zrlCMCGUGIh9pkJp17t53"
@@ -79,6 +79,24 @@
       "duration_ms": 160017,
       "name": "Amazing (feat. DJ Khaled)",
       "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
+    },
+    {
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
     },
     {
       "album": {

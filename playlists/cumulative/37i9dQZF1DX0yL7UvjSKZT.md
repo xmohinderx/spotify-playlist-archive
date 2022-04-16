@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: <a href="spotify:artist:4LX0KCPnH7gvxEbVXqXmAE">Molly Tuttle</a>
 
-125 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+128 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Daylight](https://open.spotify.com/track/702VulzPRsk5vlGWNqwmXm) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Such Jubilee](https://open.spotify.com/album/6oYZeaQQ35oCweYNLMoPdX) | 3:13 | 2021-10-01 | 2022-01-22 |
 | [Dead Leaves And The Dirty Ground](https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 3:07 | 2021-10-01 |  |
 | [Desperado](https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5), [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Desperado](https://open.spotify.com/album/2ronfsFOihh7eRyM0RxhwR) | 3:34 | 2022-02-18 |  |
+| [Don't Cry](https://open.spotify.com/track/6nnDEzYTDH9kYDVvndebqN) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Don't Cry](https://open.spotify.com/album/2nWaFbthQGIJAfHg3zhCJg) | 3:21 | 2022-04-15 |  |
 | [Dreamer](https://open.spotify.com/track/4U0HjWz3SImM5P5S24OBUk) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 2:41 | 2021-10-01 |  |
 | [Echo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2d7lM2tUbVZbfOvmJFn4pw) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:31 | 2021-10-01 | 2022-01-22 |
 | [Edges Run](https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv) | 3:14 | 2021-10-01 |  |
@@ -56,6 +57,7 @@
 | [Hot Hands](https://open.spotify.com/track/3tSpEKEMSy45FraGEEh0W1) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:03 | 2021-10-01 | 2022-01-22 |
 | [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-10-01 |  |
 | [How Long](https://open.spotify.com/track/62Y0ujNxDSwplJU2locl1E) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [25 Trips](https://open.spotify.com/album/5MW8vgKSki8FkuzIeEbDjG) | 4:49 | 2021-10-01 |  |
+| [Howl](https://open.spotify.com/track/32ioHHPhIoZjPtwUw5TVfE) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Howl](https://open.spotify.com/album/35a3US8iAh300740OipUz0) | 4:53 | 2022-04-15 |  |
 | [I'll Be Lost](https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [I'll Be Lost](https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy) | 3:22 | 2022-01-07 |  |
 | [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 |  |
 | [Intentions](https://open.spotify.com/track/2D7OJKIDb9orPkcgZd5OAp) | [Sean Waters](https://open.spotify.com/artist/7xAiCdg8rJmhZtvpYnpbGD) | [Intentions](https://open.spotify.com/album/4RFlBj7vLZ72jtihEXY0Ib) | 3:32 | 2022-02-25 |  |
@@ -64,6 +66,7 @@
 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 | 2021-10-01 | 2022-01-22 |
 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 | 2022-03-04 |  |
 | [Kalamazoo](https://open.spotify.com/track/2UAlL898aPpEM265wnWV3Q) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [How It All Goes Down](https://open.spotify.com/album/0DhpnbqiSrzKDJ2Wk5MkHp) | 5:53 | 2021-10-01 |  |
+| [Kill the Snake](https://open.spotify.com/track/1OOmfxYnKweraqU5y6nta5) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Kill the Snake](https://open.spotify.com/album/4XgxQ7cWdvzEkBebsD2fbV) | 3:18 | 2022-04-15 |  |
 | [Lemons and Tangerines \- Live Session, Paso Robles, CA, 2021](https://open.spotify.com/track/5xIO3D9k6gUGg5ptO1abRk) | [AJ Lee & Blue Summit](https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Jam in the Van \- AJ Lee & Blue Summit \(Live Session, Paso Robles, CA, 2021\)](https://open.spotify.com/album/5fmJvOgfxX37ndWmbnOL2U) | 4:12 | 2022-01-21 |  |
 | [Local Honey](https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim) | [Sean Watkins](https://open.spotify.com/artist/45K759axQK0aohwSjbkgpy) | [What to Fear](https://open.spotify.com/album/7jf04POqt5rp1jWM8KQhzd) | 2:44 | 2021-10-01 |  |
 | [Love Letter](https://open.spotify.com/track/3l6KKhbzmDDy4ye0qqgTEf) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 3:07 | 2021-10-01 |  |

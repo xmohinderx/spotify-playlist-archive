@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving roots & folk scene. Cover: S.G. Goodman\n",
+  "description": "Explore the ever-evolving roots & folk scene. Cover: Big Thief\n",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
@@ -1488,6 +1488,28 @@
     },
     {
       "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "album": {
         "name": "I'm Around (feat. Ariel Posen)",
         "url": "https://open.spotify.com/album/1VbqbeqMBeHFdBQHRQhoae"
       },
@@ -1623,7 +1645,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
@@ -1699,6 +1721,24 @@
       "duration_ms": 178573,
       "name": "London's Song",
       "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+    },
+    {
+      "album": {
+        "name": "Texas Blue",
+        "url": "https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176169,
+      "name": "Loretta",
+      "url": "https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ"
     },
     {
       "album": {
@@ -1789,7 +1829,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 242581,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK"
@@ -2111,7 +2151,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 245946,
       "name": "Pine Grove (Madhouse)",
       "url": "https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua"
@@ -2281,7 +2321,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY"
@@ -2531,6 +2571,24 @@
       "duration_ms": 240413,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
+    },
+    {
+      "album": {
+        "name": "Stealing Dark from the Night Sky",
+        "url": "https://open.spotify.com/album/59no0qoZyYklUPxRvWf8sM"
+      },
+      "artists": [
+        {
+          "name": "Arlo McKinley",
+          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287165,
+      "name": "Stealing Dark from the Night Sky",
+      "url": "https://open.spotify.com/track/58qBPB08tTvygwLhFy3qUr"
     },
     {
       "album": {
@@ -2997,6 +3055,24 @@
       "duration_ms": 219213,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
+    },
+    {
+      "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "album": {

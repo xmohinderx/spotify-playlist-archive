@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Elza Soares
 
-93 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
+94 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,9 +49,10 @@
 | [Entre a Serpente e a Estrela \- Ao Vivo](https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Zé Ramalho Na Paraíba \(Ao Vivo\)](https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA) | 3:33 | 2021-12-31 |  |
 | [Espelhos D'água](https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Trinta](https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq) | 4:51 | 2021-12-31 |  |
 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 3:49 | 2021-12-31 |  |
+| [Eu Também Quero Beijar / A Lua e o Mar](https://open.spotify.com/track/0JdiACPzhOZ5nuFJG2Rzlb) | [Zabelê](https://open.spotify.com/artist/4JMakNBSx2CeKCKVIEcw21), [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Eu Também Quero Beijar / A Lua e o Mar](https://open.spotify.com/album/6DSaEClssEB5gUtlcNzdn7) | 2:52 | 2022-04-15 |  |
 | [Ex\-Amor](https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ex\-Amor](https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf) | 4:05 | 2021-12-31 |  |
 | [Exagerado 3.0](https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado 3.0 \- Single](https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3) | 3:46 | 2021-12-31 |  |
-| [Fado do Ultramar](https://open.spotify.com/track/6hIwZzQCIbu7DRymTbp7aX) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF), [Thais Nicodemo](https://open.spotify.com/artist/5AZTwsZvQ1X5fTz2c3APov) | [Fado do Ultramar](https://open.spotify.com/album/1fezN2gBwdCi7tqMby5H03) | 4:08 | 2021-12-31 |  |
+| [Fado do Ultramar](https://open.spotify.com/track/6hIwZzQCIbu7DRymTbp7aX) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF), [Thais Nicodemo](https://open.spotify.com/artist/5AZTwsZvQ1X5fTz2c3APov) | [Fado do Ultramar](https://open.spotify.com/album/1fezN2gBwdCi7tqMby5H03) | 4:08 | 2021-12-31 | 2022-04-16 |
 | [Façamos \(Vamos Amar\)](https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Do Cóccix Até o Pescoço](https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR) | 5:53 | 2022-01-20 |  |
 | [Feito nós](https://open.spotify.com/track/00nCJkH4vKNohhcxDnif24) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Miltons](https://open.spotify.com/album/7qrmWwDm6WEBdJH9rtCIeV) | 3:51 | 2021-12-31 |  |
 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz e o Violão](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 | 2021-12-31 |  |

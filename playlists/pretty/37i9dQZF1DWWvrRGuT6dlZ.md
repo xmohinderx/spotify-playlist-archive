@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Apriltwentyfifth\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,239 likes - 109 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,243 likes - 109 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

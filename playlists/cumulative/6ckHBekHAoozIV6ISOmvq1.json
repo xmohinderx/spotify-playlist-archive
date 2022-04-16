@@ -2193,7 +2193,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 319533,
       "name": "Borlet: Tr\u00e9s doulz amis / Ma dame / Cent mille fois",
       "url": "https://open.spotify.com/track/6iM2rNvrl3yvHB2xb4SxFQ"
@@ -2245,7 +2245,7 @@
       ],
       "date_added": "2020-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 218040,
       "name": "C'est la Fins - La Quinte Estampie Real (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/24RvrHjk1L659W83q9HAXK"
@@ -4259,7 +4259,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 324028,
       "name": "Dame souvrayne (Virelay - 38r)",
       "url": "https://open.spotify.com/track/4tLSNHWJkerM4NZsbZMBvc"
@@ -6395,7 +6395,7 @@
       ],
       "date_added": "2019-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 302240,
       "name": "Humils, forfaitz, repres e penedens",
       "url": "https://open.spotify.com/track/54XMTwdnuQsEQEyGxw12MG"
@@ -6559,7 +6559,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 258466,
       "name": "I Edessa",
       "url": "https://open.spotify.com/track/4lT21aEzK7RLcFboU7bTGa"
@@ -6581,7 +6581,7 @@
       ],
       "date_added": "2020-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-11",
+      "date_removed": null,
       "duration_ms": 229786,
       "name": "I en polles amarties (The Fallen Woman)",
       "url": "https://open.spotify.com/track/6rxXbssQZVZ3eG6GTaWU4i"
@@ -7863,7 +7863,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 229560,
       "name": "La tierche estampie real (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/2d1NNXnnRGdIhmrTgUCLJ3"
@@ -7979,6 +7979,28 @@
       "duration_ms": 207186,
       "name": "Lamento di Tristano - La rotta",
       "url": "https://open.spotify.com/track/4vJmOFoty97iQhScVeK5OP"
+    },
+    {
+      "album": {
+        "name": "Love, Revelry and the Dance in Medi\u00e6val Music",
+        "url": "https://open.spotify.com/album/6nrVZmUHx0ScYiqsIkAtVv"
+      },
+      "artists": [
+        {
+          "name": "Richard de Fournival",
+          "url": "https://open.spotify.com/artist/3KQm01SmRuog0CT4XpXFY5"
+        },
+        {
+          "name": "Millenarium",
+          "url": "https://open.spotify.com/artist/5UhwUxgbTzr3BANnluciky"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263813,
+      "name": "Lamento du Val fourni",
+      "url": "https://open.spotify.com/track/24p8WaY0k1soeNrjurAUpf"
     },
     {
       "album": {
@@ -9302,6 +9324,32 @@
     },
     {
       "album": {
+        "name": "Dufay: Missa Se la face ay pale",
+        "url": "https://open.spotify.com/album/3ZNwGBJXSleyuLltiFs0G7"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Dufay",
+          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
+        },
+        {
+          "name": "Diabolus in Musica",
+          "url": "https://open.spotify.com/artist/2gChbtOwNOifa0aVsBTt6O"
+        },
+        {
+          "name": "Antoine Guerber",
+          "url": "https://open.spotify.com/artist/65FVhhXHH8rOgeeDJQFqSm"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607000,
+      "name": "Missa Se la face ay pale: III. Gloria",
+      "url": "https://open.spotify.com/track/5XAxrtjlUxGE6nKcu20jrA"
+    },
+    {
+      "album": {
         "name": "Dufay: Missa Se la face ay pale (Alpha Collection)",
         "url": "https://open.spotify.com/album/2biQ7P72Gebknv6ET5vHa3"
       },
@@ -9559,7 +9607,7 @@
       ],
       "date_added": "2020-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 355000,
       "name": "Motets: Veni Sancte Spiritus",
       "url": "https://open.spotify.com/track/5zYJ9nS0bSPsxMIjgNcVTS"
@@ -10173,7 +10221,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 256799,
       "name": "Nymphes des bois - Requiem",
       "url": "https://open.spotify.com/track/6q6xlQsvF3G7TzPrapM3lW"
@@ -10481,7 +10529,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 234360,
       "name": "O rosa bella - Quodlibet: O rosa bella (Anonymous) (Glogauer Liederbuch, c. 1480)",
       "url": "https://open.spotify.com/track/7cbAjFEtOpc7pe3ISiYIez"
@@ -10733,7 +10781,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 295333,
       "name": "Onques n'amai tant comme je fui amee",
       "url": "https://open.spotify.com/track/3WjHgk3nT1gUkJJAUE3IoN"
@@ -10807,10 +10855,40 @@
       ],
       "date_added": "2019-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t (Minnes\u00e4nger, Holy Roman Empire, 13th c.)",
       "url": "https://open.spotify.com/track/67QyZjpmfEh6m2YJxzB9Lt"
+    },
+    {
+      "album": {
+        "name": "Wanderers' Voices: Medieval Cantigas & Minnesang",
+        "url": "https://open.spotify.com/album/2ExRoEMYBRvq3plUgTBhjB"
+      },
+      "artists": [
+        {
+          "name": "Neidhart von Reuental",
+          "url": "https://open.spotify.com/artist/5LtSeo1WugzhhajRXZPM8r"
+        },
+        {
+          "name": "Drew Minter",
+          "url": "https://open.spotify.com/artist/03n5UIywxQr78Le7yhGitT"
+        },
+        {
+          "name": "Mary Springfels",
+          "url": "https://open.spotify.com/artist/2bhD5Q0OeRJRyP1Gi0eKA0"
+        },
+        {
+          "name": "The Newberry Consort",
+          "url": "https://open.spotify.com/artist/0tzBzVmr9eQkyTqeJx0BiF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "Ow\u00ea dirre n\u00f4t!",
+      "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
     },
     {
       "album": {
@@ -10915,7 +10993,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 212693,
       "name": "Par maintes foys",
       "url": "https://open.spotify.com/track/6o6g5gccAlcKLkurf54d7P"
@@ -12452,6 +12530,28 @@
     },
     {
       "album": {
+        "name": "Knights, Maids and Miracles: The Spring of Middle Ages",
+        "url": "https://open.spotify.com/album/2P0jDP6wFy3919X36Y1uhb"
+      },
+      "artists": [
+        {
+          "name": "Matteo da Perugia",
+          "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Rondeau sans texte",
+      "url": "https://open.spotify.com/track/7aYl63wiS4qd1v4qLNaHDJ"
+    },
+    {
+      "album": {
         "name": "De Santa Mar\u00eda",
         "url": "https://open.spotify.com/album/0GQ1qhJga360H7pEZZjptd"
       },
@@ -13571,7 +13671,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "The 7th cansi: No.m say d'amor",
       "url": "https://open.spotify.com/track/1KC1utFEUrr2sbbCfnynCw"
@@ -13937,10 +14037,60 @@
       ],
       "date_added": "2019-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 366533,
       "name": "Un pellegrin uccel",
       "url": "https://open.spotify.com/track/24AfAK9A9l2Sycx8uMODIP"
+    },
+    {
+      "album": {
+        "name": "Paolo da Firenze: Narcisso speculando",
+        "url": "https://open.spotify.com/album/6zLDAIDH3JIV7IwoOhsob5"
+      },
+      "artists": [
+        {
+          "name": "Paolo da Firenze",
+          "url": "https://open.spotify.com/artist/1TMXn6UOBju54PVrfLXx9x"
+        },
+        {
+          "name": "Mala Punica",
+          "url": "https://open.spotify.com/artist/6XsuXZjZmnYxWSBOqRAUv0"
+        },
+        {
+          "name": "Pedro Memelsdorff",
+          "url": "https://open.spotify.com/artist/4a4kjVU5kUK7AiaBehvRsf"
+        },
+        {
+          "name": "Tina Aagaard",
+          "url": "https://open.spotify.com/artist/3JoqUu36K12zJ6s2xKNi9D"
+        },
+        {
+          "name": "Alessandro Carmignani",
+          "url": "https://open.spotify.com/artist/51Phn9xBoQ8dqCXTfZyb1V"
+        },
+        {
+          "name": "Elisa Franzetti",
+          "url": "https://open.spotify.com/artist/28ehjaMuOCPpbRqRNUrOUv"
+        },
+        {
+          "name": "Jane Achtman",
+          "url": "https://open.spotify.com/artist/6vjMRvxUnfBcYBFVVzIIvp"
+        },
+        {
+          "name": "Fran\u00e7oise Augustin",
+          "url": "https://open.spotify.com/artist/42oLM0ixi5zfSIfaXahv1l"
+        },
+        {
+          "name": "Karl-Ernst Schr\u00f6der",
+          "url": "https://open.spotify.com/artist/5H8FK5VpXnj2aZMlfOVqEA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366533,
+      "name": "Un pellegrin uccel",
+      "url": "https://open.spotify.com/track/3s41PDslZxNSfumhIb6fnc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura. Cover: Savannah R\u00e9",
+  "description": "This is R&B in Canada, elevate your aura. Cover: Dylan Sinclair",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -117,6 +117,24 @@
       "duration_ms": 166153,
       "name": "Angel",
       "url": "https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7"
+    },
+    {
+      "album": {
+        "name": "ARENA Y MAR",
+        "url": "https://open.spotify.com/album/10wlt2vpWYDy6XKDGvFYO4"
+      },
+      "artists": [
+        {
+          "name": "BEBEBOY",
+          "url": "https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153403,
+      "name": "ARENA Y MAR",
+      "url": "https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO"
     },
     {
       "album": {
@@ -286,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b"
+      },
+      "artists": [
+        {
+          "name": "Joe Gez",
+          "url": "https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172388,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4"
+    },
+    {
+      "album": {
         "name": "Can't Wait",
         "url": "https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N"
       },
@@ -326,6 +362,24 @@
     },
     {
       "album": {
+        "name": "CATCH 22",
+        "url": "https://open.spotify.com/album/4XeMqeZz3kJPowaqMMB1uo"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95838,
+      "name": "CATCH 22",
+      "url": "https://open.spotify.com/track/61eEF4qIHhrJsE8CF1R5kX"
+    },
+    {
+      "album": {
         "name": "Ce Soir 22",
         "url": "https://open.spotify.com/album/3DwGIRqyfNcbcKkYTudUc3"
       },
@@ -337,7 +391,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 74000,
       "name": "Ce Soir 22",
       "url": "https://open.spotify.com/track/0r2GXh51kE6Lxt5khapdWE"
@@ -461,7 +515,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 181714,
       "name": "don't call me",
       "url": "https://open.spotify.com/track/3gKY1wkjy7wRbgiK4Um8dz"
@@ -1113,7 +1167,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 192656,
       "name": "Highway",
       "url": "https://open.spotify.com/track/6PU6jUiadiaPA4VaXhtpqp"
@@ -1262,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Hymn",
+        "url": "https://open.spotify.com/album/2xRw2iiMHx52vMaZ9ewQRF"
+      },
+      "artists": [
+        {
+          "name": "Josh Dillon",
+          "url": "https://open.spotify.com/artist/5oMcE7NWSdStKb6sMUzA32"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251111,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2fGiwQIUWDauKSYgosdlhN"
+    },
+    {
+      "album": {
         "name": "IT'S NOT PERSONAL",
         "url": "https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5"
       },
@@ -1273,7 +1345,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 100000,
       "name": "I'M TIRED",
       "url": "https://open.spotify.com/track/2LDQj5vY72s7KRfXUxoD5d"
@@ -1403,7 +1475,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 150173,
       "name": "Knackademus",
       "url": "https://open.spotify.com/track/684FU29L57XNQDMkMUfqB4"
@@ -1421,7 +1493,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 168698,
       "name": "La Misi\u00f3n",
       "url": "https://open.spotify.com/track/4uPEACej0HoZIZdpiLq9eh"
@@ -1479,7 +1551,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 171604,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/6xLhCZQD15AsrgOC0yUgDP"
@@ -1519,6 +1591,24 @@
       "duration_ms": 199008,
       "name": "Let's Be Dead Together",
       "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189651,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
     },
     {
       "album": {
@@ -2020,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/5FLVEOXmhNSu4Fn3tiiVFg"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231720,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/2hbHVkOLOKd8t9hDtaDYB7"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT"
       },
@@ -2158,6 +2266,28 @@
     },
     {
       "album": {
+        "name": "Over U",
+        "url": "https://open.spotify.com/album/7xqNjgPEQFQmlKKCxdUZEB"
+      },
+      "artists": [
+        {
+          "name": "Jay Isaiah",
+          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169878,
+      "name": "Over U",
+      "url": "https://open.spotify.com/track/2c1xEMyAW0Y9wGiWvvNRws"
+    },
+    {
+      "album": {
         "name": "Papa Wemba",
         "url": "https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V"
       },
@@ -2223,7 +2353,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 137064,
       "name": "Plaster :)",
       "url": "https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu"
@@ -2637,7 +2767,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 192000,
       "name": "Suppress",
       "url": "https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX"
@@ -2837,7 +2967,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 172173,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/3qOYmmCabW28q5QQJvac42"
@@ -3087,6 +3217,24 @@
       "duration_ms": 182535,
       "name": "While You on Road",
       "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200359,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu"
     },
     {
       "album": {

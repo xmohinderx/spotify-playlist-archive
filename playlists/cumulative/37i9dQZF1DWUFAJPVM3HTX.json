@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 193431,
       "name": "Body",
       "url": "https://open.spotify.com/track/4SBEgCAsQm8ZHIoc2TPfQo"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-24",
+      "date_removed": null,
       "duration_ms": 229821,
       "name": "Bouquets",
       "url": "https://open.spotify.com/track/7IEXIiFwSv3KU5dDHSEUaC"
@@ -2270,6 +2270,24 @@
     },
     {
       "album": {
+        "name": "Fall Out",
+        "url": "https://open.spotify.com/album/1RqBppQiq7XHUynZeStZB4"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Connor",
+          "url": "https://open.spotify.com/artist/0dTyLBxKquvXcBuiN0KPQ0"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282405,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/41urDtyXoZgZ6wWMEdkqOC"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/21NqqOhXkTffhFt8ENWdPf"
       },
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 154666,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7b7NdGG8LFS10xru0ijGYR"
@@ -3585,7 +3603,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 224597,
       "name": "INeedYouHere",
       "url": "https://open.spotify.com/track/1D4AWnKZVnZ0e5pW19VMp9"
@@ -4913,6 +4931,24 @@
       "duration_ms": 227475,
       "name": "On You",
       "url": "https://open.spotify.com/track/3ythtQRDBoO7DPye4rw9k0"
+    },
+    {
+      "album": {
+        "name": "One Man Woman",
+        "url": "https://open.spotify.com/album/7wj0WCgCgJJV9aDhduzIvn"
+      },
+      "artists": [
+        {
+          "name": "Godiva",
+          "url": "https://open.spotify.com/artist/6IGFNGtI94N8h6oHp9Tk3j"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160208,
+      "name": "One Man Woman",
+      "url": "https://open.spotify.com/track/5kPvNnodG7lDpM5K0iyI5Y"
     },
     {
       "album": {
@@ -6973,7 +7009,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 184000,
       "name": "U Got It Bad",
       "url": "https://open.spotify.com/track/7IGMBjZfecufFLqhqmDvi9"

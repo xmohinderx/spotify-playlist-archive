@@ -1,13 +1,29 @@
 {
   "description": "New funky songs with a classic funky sound.",
-  "num_followers": 386034,
+  "num_followers": 386101,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDUyMCwwMDAwMDA4YjAwMDAwMTgwMDc1NjA3MTAwMDAwMDE2ZDE1MjkwMTY0",
+  "snapshot_id": "MTY0OTk5NTI2MCwwMDAwMDA4YzAwMDAwMTgwMmI2MWExMWQwMDAwMDE2ZDE1MjkwMTY0",
   "tracks": [
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Reachin' Up",
+        "url": "https://open.spotify.com/album/4Adfft6sCzWvgkr4B7Vjql"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Giving You My Heart",
+      "url": "https://open.spotify.com/track/3pBE5lftPP2MxhD2DQRvBm"
+    },
     {
       "added_at": "2022-04-08 04:02:00",
       "album": {

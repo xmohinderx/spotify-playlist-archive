@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in R&B, right now. Cover: Ella Mai",
+  "description": "What's happening in R&B, right now. Cover: Muni Long",
   "name": "R&B Right Now",
   "published_playlist_ids": [
     "1MI0QV708eM6TBitmgfhKB"
@@ -23,6 +23,24 @@
       "duration_ms": 202551,
       "name": "24hrs",
       "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
+    },
+    {
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "album": {
@@ -77,6 +95,24 @@
       "duration_ms": 146000,
       "name": "and i'd go a thousand miles",
       "url": "https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz"
+    },
+    {
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
     },
     {
       "album": {
@@ -537,10 +573,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 244138,
       "name": "CYBAH (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
+    },
+    {
+      "album": {
+        "name": "D O D O (Adekunle Gold Version)",
+        "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179884,
+      "name": "D O D O - Adekunle Gold Version",
+      "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
     },
     {
       "album": {
@@ -1211,7 +1269,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 204316,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
@@ -1739,6 +1797,24 @@
       "duration_ms": 166875,
       "name": "Lick (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189651,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
     },
     {
       "album": {
@@ -2325,7 +2401,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 306059,
       "name": "Only With Time",
       "url": "https://open.spotify.com/track/0xTZ5PCUersxLyUiLgNp2U"
@@ -3057,7 +3133,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 192000,
       "name": "Suppress",
       "url": "https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX"

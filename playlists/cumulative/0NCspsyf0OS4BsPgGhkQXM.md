@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-244 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+245 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [5 AM \(feat\. SayWeCanFly\)](https://open.spotify.com/track/1sSIrpavZvit6lPFro11yy) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [5 AM \(feat\. SayWeCanFly\)](https://open.spotify.com/album/2lyl0g0xjvlbkQjtaH7lzk) | 3:54 | 2022-01-14 |  |
 | [Adrenaline](https://open.spotify.com/track/3oWRC85b3vcl2xGfv9GwJv) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Hubstcy](https://open.spotify.com/artist/1GthlfmL1MOvV9R7sT8JlI), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Adrenaline](https://open.spotify.com/album/5vSXoikwA71eYYku7kcKA6) | 2:16 | 2022-03-22 |  |
 | [Aethra](https://open.spotify.com/track/0UPstfIsC6MffdDBDpr7Yq) | [Animadrop](https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR) | [Aethra](https://open.spotify.com/album/1HLGtpl7bN2miDYx3jpQT9) | 6:53 | 2022-01-25 | 2022-03-05 |
+| [Afraid of What's Inside](https://open.spotify.com/track/7bCDBmQ2AZdsnMRSL40J7s) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Afraid of What's Inside](https://open.spotify.com/album/7hHe8MdufsyYDG1jLLDTZd) | 3:39 | 2022-04-15 |  |
 | [Alive With You](https://open.spotify.com/track/6nzvYVrpfZFAAMmLhmpIPP) | [Andrew Nagy](https://open.spotify.com/artist/62gVQJQGs9WNqDjBfuDING), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [Alive With You](https://open.spotify.com/album/2zhNMOvsfGIG06KxyfYCyt) | 2:40 | 2022-01-14 | 2022-01-29 |
 | [All For You](https://open.spotify.com/track/4jS5uR6agOCvl2q2CYRmF7) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Salvo](https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [All For You](https://open.spotify.com/album/78D1Ec8kv7xTfq44GgdPmV) | 2:28 | 2022-01-14 | 2022-01-29 |
 | [All Through the Night](https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 3:30 | 2022-01-14 |  |

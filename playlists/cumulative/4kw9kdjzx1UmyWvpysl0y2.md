@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-133 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+135 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-01-21 | 2022-03-31 |
 | [Falling For You](https://open.spotify.com/track/6EW5mHMHEcsL1RSpy1HQ6p) | [Sabai](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [With Løve](https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Falling For You](https://open.spotify.com/album/4kPYN4m2ALwHLFMAG58cba) | 2:58 | 2021-11-19 | 2022-02-03 |
-| [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 |  |
+| [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
 | [Feels Like Home](https://open.spotify.com/track/0H8Eh2BgyRTjgCb2PwDylI) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [The Return](https://open.spotify.com/album/0HKsE8AP6AjvA9hO0ujw2T) | 3:11 | 2021-12-08 | 2022-03-12 |
 | [find u.](https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [find u.](https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8) | 3:21 | 2022-01-07 | 2022-03-17 |
 | [Find You](https://open.spotify.com/track/7bl50TyWM1apVF684jNU2e) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Find You](https://open.spotify.com/album/5haJvW7CtOB7823T9ByvCe) | 4:15 | 2021-11-24 | 2022-03-01 |
@@ -67,6 +67,7 @@
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 |  |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 |  |
+| [Just Dance](https://open.spotify.com/track/3OTClWUY9bf3qVXrR9LNL6) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Just Dance](https://open.spotify.com/album/5JKQ1by0GaQLYzgR1IyyS4) | 3:14 | 2022-04-15 |  |
 | [just wanna luv](https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [just wanna luv](https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv) | 4:17 | 2022-03-25 |  |
 | [Let Me Hold You](https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Let Me Hold You](https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N) | 3:25 | 2022-04-06 |  |
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2021-11-19 | 2022-01-29 |
@@ -137,6 +138,7 @@
 | [Warp](https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Warp](https://open.spotify.com/album/4awsZLcxJXiAdiLU5Jzv5a) | 3:43 | 2022-03-07 |  |
 | [Warriors](https://open.spotify.com/track/1iJpQvWxpYSSVbEx671V6w) | [Glacier](https://open.spotify.com/artist/7DS9AJjKnseiE7nVofoULL) | [Warriors](https://open.spotify.com/album/6rmqekUXNb6eIXiNlwYCVE) | 4:15 | 2021-11-19 | 2022-02-03 |
 | [Water Resistant](https://open.spotify.com/track/6LvU1xQJaAXxdVhJXviRJq) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Water Resistant](https://open.spotify.com/album/2WLfJXC56KZzaTl4JQ0odn) | 3:17 | 2021-11-19 | 2022-02-23 |
+| [Waterloo](https://open.spotify.com/track/2m4CoBXFU89fVREZQeq8CW) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Waterloo](https://open.spotify.com/album/2IP4Jtybqn9yhijp7edZik) | 3:51 | 2022-04-15 |  |
 | [We Could Have It All](https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [We Could Have It All](https://open.spotify.com/album/6Nm8yTBRXvqYY6LuGsvXHu) | 3:30 | 2022-04-08 |  |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2021-11-19 | 2022-02-18 |
 | [Wheel Of Life](https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [Wheel Of Life](https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR) | 3:50 | 2022-01-19 | 2022-03-26 |

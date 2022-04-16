@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-579 songs - 1 day 9 hr 39 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
+580 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-06 | 2022-02-11 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 |  |
 | [First Times](https://open.spotify.com/track/5QYnNhTKsN3kE7OaqILA1U) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:05 | 2021-10-31 | 2021-11-07 |
+| [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 |  |
 | [Flowers \(Say My Name\)](https://open.spotify.com/track/2BzAGK3lEZAQz5cU0Ae1wd) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Flowers \(Say My Name\)](https://open.spotify.com/album/1ZMrAC2zQ3OmlOKFKAKzGA) | 2:38 | 2021-11-07 | 2022-01-03 |
 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 | 2021-07-18 | 2021-10-31 |
 | [Fly Away](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away](https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq) | 2:58 | 2021-07-07 | 2021-07-18 |
@@ -543,7 +544,7 @@
 | [War](https://open.spotify.com/track/49KTdYsWNtkvOslTpgZuM1) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [War](https://open.spotify.com/album/6rWrQmCAsrocRq5HL2dqgU) | 2:46 | 2022-02-05 | 2022-02-13 |
 | [WASSUP](https://open.spotify.com/track/7vUoHe1gbpMDN2yfp9sA3u) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Majk Spirit](https://open.spotify.com/artist/4gvBx2BxCJcy3Ysiih8AAG) | [WASSUP](https://open.spotify.com/album/6kwiz2ofhe8aitctdlcoXx) | 2:46 | 2022-04-05 | 2022-04-07 |
 | [Wasted](https://open.spotify.com/track/32pPek0KsHsMSSFogNu49f) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Wasted](https://open.spotify.com/album/0TVIICdInY6IypDbLsb6MB) | 2:54 | 2021-08-15 | 2021-08-20 |
-| [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-03-27\* |  |
+| [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-03-27\* | 2022-04-16 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-10-17 |
 | [Way Too Long](https://open.spotify.com/track/4YMApzzqCO31TPxPvgdHhh) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Way Too Long](https://open.spotify.com/album/4PeGJQ4bZiathdzJ0bpj0X) | 2:30 | 2021-06-21 | 2021-06-26 |
 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/31CdkzHnMbvJuKZvtCQfR6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:13 | 2021-11-14 | 2021-11-14 |

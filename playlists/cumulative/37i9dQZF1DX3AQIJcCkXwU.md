@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-88 songs - 6 hr 48 min - not published yet
+88 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

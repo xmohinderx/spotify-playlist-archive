@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-80 songs - 5 hr 38 min - not published yet
+80 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

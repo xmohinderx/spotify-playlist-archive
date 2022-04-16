@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,775 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,863 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 79 | [Rhythm Nation](https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:30 |
 | 80 | [White Wedding, Pt\. 1 \- Edit](https://open.spotify.com/track/5g5mL6j77KPniAoUUSEo7D) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [This Is..\. 1985](https://open.spotify.com/album/7tgsgsiypWVQFxbNEnPHik) | 3:34 |
 
-Snapshot ID: `MTY0OTk4NDI3OCwwMDAwMDAwMDYyZTY3ZWZkNThkMGE5NGY2NTJlYWE2MzIyYWFhZDA3`
+Snapshot ID: `MTY1MDA3MDUxNCwwMDAwMDAwMDYyZTY3ZWZkNThkMGE5NGY2NTJlYWE2MzIyYWFhZDA3`

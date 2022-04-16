@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,455 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,682 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 | 69 | [Harley & Rose](https://open.spotify.com/track/3fjA8feYyRg4wcxpNhyi73) | [The Black Sorrows](https://open.spotify.com/artist/1iES8Ckei3eLmSBPo4vwU7) | [Harley and Rose](https://open.spotify.com/album/25H4oWFqYPhwEhu0s7yXrk) | 3:54 |
 | 70 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 
-Snapshot ID: `MTY0OTk4NDUyMSwwMDAwMDAwMDE4M2M0YmViMjdlNjVmZDgyMmI5Y2VhM2U1YjA4Y2Zm`
+Snapshot ID: `MTY1MDA3MDczMiwwMDAwMDAwMDE4M2M0YmViMjdlNjVmZDgyMmI5Y2VhM2U1YjA4Y2Zm`

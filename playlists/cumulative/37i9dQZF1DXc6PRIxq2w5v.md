@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
+> Entre os versos e beats, a palavra do Senhor\. Foto: Ton Carfi, Israel Santos
 
-72 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+74 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,11 +41,13 @@
 | [Habita em Mim](https://open.spotify.com/track/7fg2MiYeWQGg2IHLdGx4Ou) | [NOLIPE](https://open.spotify.com/artist/74Va1JZHMJVBrIvW7u3oYa), [Channel Records 01](https://open.spotify.com/artist/1KHMO8fUZgDYz5aQh6QCG4) | [Habita em Mim](https://open.spotify.com/album/7AvcxdvrJaNsbR12g37P5o) | 2:22 | 2022-03-22 |  |
 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 | 2022-03-22 |  |
 | [Impostor](https://open.spotify.com/track/3G4WJPxXdI7EB4UR3H3OZV) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Impostor](https://open.spotify.com/album/5O81T9io3EMHKyUSt2pYTC) | 2:29 | 2022-03-22 |  |
-| [início](https://open.spotify.com/track/78sirKcVH9aChZCPOfdpLE) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Nova Chance](https://open.spotify.com/artist/1J3n5oPPjjpFfG7LeCwDA8) | [o fim é o início](https://open.spotify.com/album/3mey5oqcpDDUCrj8dKQpfr) | 2:22 | 2022-03-22 |  |
+| [início](https://open.spotify.com/track/78sirKcVH9aChZCPOfdpLE) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Nova Chance](https://open.spotify.com/artist/1J3n5oPPjjpFfG7LeCwDA8) | [o fim é o início](https://open.spotify.com/album/3mey5oqcpDDUCrj8dKQpfr) | 2:22 | 2022-03-22 | 2022-04-16 |
 | [Jardim](https://open.spotify.com/track/00u4kGgE3Dn2PHoXwSF63O) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Jardim](https://open.spotify.com/album/4zESGmL812r4wAGRRqcs9V) | 2:33 | 2022-03-22 |  |
 | [Jesus Tá Vendo Seu Corre](https://open.spotify.com/track/2XHjZrVsjb6DKLigH3JGKP) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Jesus Tá Vendo Seu Corre](https://open.spotify.com/album/4F5IPg8ZXKtBQ6lySq2q5X) | 2:20 | 2022-03-22 | 2022-03-26 |
+| [Joquebede](https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [Joquebede](https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb) | 2:49 | 2022-04-15 |  |
 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 | 2022-03-25 |  |
 | [Kaboom \(feat\. Felipe Vilela & Thiagão\)](https://open.spotify.com/track/6RXvJRbUPnfgLHXtGJnUZB) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Kaboom](https://open.spotify.com/album/0uZGLgKXyJ5KntLEHDtzAs) | 5:05 | 2022-03-22 |  |
+| [Lagrimas](https://open.spotify.com/track/0aJRjpVmYfGSBY4iNdLH4C) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Lagrimas](https://open.spotify.com/album/4rgYRoQRWYvRxtfsCOFKHu) | 2:20 | 2022-04-15 |  |
 | [LEVANTAR](https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7) | [Levantar](https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR) | 2:47 | 2022-03-22 |  |
 | [Mama África](https://open.spotify.com/track/1F8721tTzDYDgJwzmgm4k3) | [Marone Falasha](https://open.spotify.com/artist/7G5ECe50jN1cy6ReJvAz7t), [Julia Thiesen](https://open.spotify.com/artist/0C17VEwrrtIxFcOjdvbgy4) | [Mama África](https://open.spotify.com/album/5pJVgPfWazHMsAQYRowlzw) | 2:48 | 2022-03-22 | 2022-04-02 |
 | [Marionete](https://open.spotify.com/track/7gSXvricIaaFGw1MyklcBl) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/1fCcpZjzGQLqjheVLLHhWE) | 3:06 | 2022-03-22 |  |
@@ -66,7 +68,7 @@
 | [Prazer Jesus](https://open.spotify.com/track/2x5SsYLKlvQdlq7ozUdfJn) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Prazer Jesus](https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt) | 2:38 | 2022-03-22 |  |
 | [Primeiro e Último](https://open.spotify.com/track/4S5k9fUUASxhDeLOeheKK9) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg) | [Primeiro e Último](https://open.spotify.com/album/3U23okBepQJxPNqhe1fxL9) | 2:42 | 2022-03-22 |  |
 | [Qual Sua Dor](https://open.spotify.com/track/01PJfKc1lNs1uIQV4drX9V) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Erick Mc](https://open.spotify.com/artist/0zn9oySXWKtlJG4ve7NgrA) | [Qual Sua Dor](https://open.spotify.com/album/47SKnflX6FLrj9zAAG7Xme) | 3:30 | 2022-03-22 |  |
-| [Retiro](https://open.spotify.com/track/1BuYlLVF6ySbqiju0iYn6Y) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Retiro](https://open.spotify.com/album/2s5pImhro07IBKAypatAmV) | 4:24 | 2022-03-22 |  |
+| [Retiro](https://open.spotify.com/track/1BuYlLVF6ySbqiju0iYn6Y) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Retiro](https://open.spotify.com/album/2s5pImhro07IBKAypatAmV) | 4:24 | 2022-03-22 | 2022-04-16 |
 | [Salve\-Me](https://open.spotify.com/track/0nqQOyubrl569kp2yOCx44) | [LiL Drew](https://open.spotify.com/artist/0RZCo9UCieAomFpS2URXqA) | [Salve\-Me](https://open.spotify.com/album/2NBVIggG8bXLfNkkETlXym) | 3:54 | 2022-03-22 |  |
 | [Savana](https://open.spotify.com/track/4V4rKt1wh4bJzhUYW89aeG) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Savana](https://open.spotify.com/album/1HU6ifep8YhpdWL0E9pO1P) | 3:23 | 2022-03-22 |  |
 | [SEM MENTIRAS](https://open.spotify.com/track/1bsCdxcSHy1hqThOUJoEwr) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [SEM MENTIRAS](https://open.spotify.com/album/3FpPTJhEECVWMupYLvNALK) | 2:24 | 2022-03-22 |  |

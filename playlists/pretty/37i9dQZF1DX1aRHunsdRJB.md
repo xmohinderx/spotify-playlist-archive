@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,132 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,148 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Fattt](https://open.spotify.com/track/1gdjPy3aUqN0K1q5sXpdAZ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:13 |
 | 68 | [Anthem](https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi) | [Anthem](https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI) | 2:55 |
 
-Snapshot ID: `MTY0OTk4NDM2MSwwMDAwMDAwMGY0MDEyNGM5YzFhMTZmOTQxMjA0NDRiMWMzYjNjMTRk`
+Snapshot ID: `MTY1MDA3MDU4NywwMDAwMDAwMGY0MDEyNGM5YzFhMTZmOTQxMjA0NDRiMWMzYjNjMTRk`

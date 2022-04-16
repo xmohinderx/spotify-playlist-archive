@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-344 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+345 songs - 20 hr 58 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-10-04 | 2021-10-17 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-12 | 2022-02-28 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-16 |  |
-| [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 | 2022-02-12 |  |
+| [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 | 2022-02-12 | 2022-04-16 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-31 | 2021-06-13 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-25 | 2021-12-29 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-04-03 |
@@ -250,6 +250,7 @@
 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-12-24 |  |
 | [孤獨病](https://open.spotify.com/track/5Gi88IBuzFwSTAAcYcqpqL) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [孤獨病](https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY) | 4:13 | 2022-02-17 |  |
 | [宋代SAD BOY](https://open.spotify.com/track/7uo5PgFlHaRpdigxdzP0i7) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:53 | 2021-09-01 | 2021-09-02 |
+| [小心地滑](https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [小心地滑](https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm) | 3:59 | 2022-04-15 |  |
 | [小諧星](https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [小諧星](https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj) | 4:37 | 2021-07-25 |  |
 | [年青有為](https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [年青有為](https://open.spotify.com/album/21mjvuCpLVh8tvSEFUG8Of) | 4:18 | 2021-11-21 | 2021-12-04 |
 | [幼稚未完](https://open.spotify.com/track/1TcsJ21R8PMmpLcj34A02E) | [Raymond Lam](https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK) | [幼稚未完](https://open.spotify.com/album/1cMNmZCvoKkwGdUZpwcLTF) | 4:06 | 2022-02-15 | 2022-04-02 |

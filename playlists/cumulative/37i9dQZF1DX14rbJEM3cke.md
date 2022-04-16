@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover Kamiyada+
 
-78 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
+80 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,12 @@
 | [Back to Myself](https://open.spotify.com/track/2PUslve4vetmfpuTPF4tik) | [Hero The Band](https://open.spotify.com/artist/2PZZXkVyUo7SV4wfKwa8FW) | [Back to Myself](https://open.spotify.com/album/6MTc8DuyrgfgBqAtT55w7P) | 3:26 | 2022-02-12 |  |
 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 | 2022-02-12 |  |
 | [Bullet \- Single Version](https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Bullet](https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h) | 2:53 | 2022-02-12 | 2022-02-26 |
-| [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 | 2022-02-12 |  |
+| [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 | 2022-02-12 | 2022-04-16 |
 | [Buy You](https://open.spotify.com/track/1U52aITwe4t3cDxwonxRbN) | [Bearaxe](https://open.spotify.com/artist/0CB94eFj66LgHaWYMaVprR) | [Last Call \- EP](https://open.spotify.com/album/4yAbVEvjK4UiynwQR8OuDR) | 3:10 | 2022-02-12 |  |
 | [Can't FeeL](https://open.spotify.com/track/31I4NAcUNUHcTOsDBYVlPY) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG), [Alireza](https://open.spotify.com/artist/3RsRLPxo40RMdGpyLKNil3) | [Can't FeeL](https://open.spotify.com/album/69xLmfihyy1FI2B45XDb48) | 3:00 | 2022-02-12 |  |
 | [Can't Stay Away](https://open.spotify.com/track/0KAOUetWwOlmQIbZ5eMoXB) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Purple BLUE](https://open.spotify.com/album/4n6ueWyNmmeqB9OVBPwbWh) | 2:47 | 2022-02-12 |  |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-12 |  |
+| [Chelsea Hotel](https://open.spotify.com/track/3yuUo3VJreRdasr1erzGJM) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Chelsea Hotel](https://open.spotify.com/album/3tHJ7OgxXS3OjKmvkwNOGS) | 3:40 | 2022-04-15 |  |
 | [Children of The Dark](https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Children of The Dark](https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py) | 2:32 | 2022-02-12 | 2022-03-18 |
 | [Cigarettes](https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Cigarettes](https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi) | 3:47 | 2022-02-12 |  |
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-18 |  |
@@ -26,6 +27,7 @@
 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 | 2022-02-12 |  |
 | [Definition \(ft\. Jason Aalon Of Fever 333\)](https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Mohawks & Durags](https://open.spotify.com/album/4w9TJ5AhaRLidoQQIqgCIt) | 2:56 | 2022-02-12 |  |
 | [Demon Child](https://open.spotify.com/track/1RaVC8vuMq3HfrdIKmBUJ3) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Demon Child](https://open.spotify.com/album/1UmT3WDoH3f6RP9qHX6hoI) | 2:49 | 2022-02-12 | 2022-02-26 |
+| [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-04-15 |  |
 | [DIRTY WHITE VANS//](https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [DIRTY WHITE VANS//](https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky) | 2:21 | 2022-03-18 |  |
 | [DORRIGO](https://open.spotify.com/track/2HADhFSuN65iC1qDHQeWGr) | [Roberto](https://open.spotify.com/artist/5tE6Vl7ytONXbf5JYVJJ4S) | [DORRIGO](https://open.spotify.com/album/2NAXiM6NNBmnr5vOeWxvtg) | 3:08 | 2022-02-12 | 2022-03-18 |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-02-12 |  |
@@ -83,7 +85,7 @@
 | [Victory \(Feat\. Matt B\. of From Ashes To New\)](https://open.spotify.com/track/7BF2ldGXrlGf9hRQWPeSc6) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Victory \(Feat\. Matt B\. of From Ashes To New\)](https://open.spotify.com/album/1fRGTgUynPbZkBzB969cyb) | 3:43 | 2022-02-12 |  |
 | [Virus](https://open.spotify.com/track/1Yqx7WwyNUuZ96GqpxL2J8) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [Shayley Bourget](https://open.spotify.com/artist/3yb7c2d4ksZZSdIPbK7Rd3) | [GlitchGang](https://open.spotify.com/album/3aCmgbuJABpDD03b4ixC5B) | 3:04 | 2022-02-12 |  |
 | [Voodoo Child](https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Comandante](https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA) | 5:12 | 2022-02-12 |  |
-| [We Believe \(feat\. David Draiman\)](https://open.spotify.com/track/4II6MQP9Cv9PwwCoXBJevq) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/album/3fbzfcUd9ejrFDChKFGSBP) | 3:18 | 2022-02-12 |  |
+| [We Believe \(feat\. David Draiman\)](https://open.spotify.com/track/4II6MQP9Cv9PwwCoXBJevq) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/album/3fbzfcUd9ejrFDChKFGSBP) | 3:18 | 2022-02-12 | 2022-04-16 |
 | [White parents](https://open.spotify.com/track/5uixFA3xg4j7fUmwllKFrm) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [White parents](https://open.spotify.com/album/49CMIVxY031J5eNiqvbeg8) | 2:12 | 2022-02-12 | 2022-03-18 |
 | [WITHOUT YOU](https://open.spotify.com/track/4NDffVrm7zr0vJSzakrBbw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 3:09 | 2022-02-12 |  |
 

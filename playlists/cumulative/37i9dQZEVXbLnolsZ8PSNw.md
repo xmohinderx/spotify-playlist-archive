@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-688 songs - 1 day 15 hr 44 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
+689 songs - 1 day 15 hr 47 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-06 | 2022-02-11 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 |  |
 | [First Times](https://open.spotify.com/track/5QYnNhTKsN3kE7OaqILA1U) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:05 | 2021-10-31 | 2021-11-11 |
+| [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 |  |
 | [Flowers \(Say My Name\)](https://open.spotify.com/track/2BzAGK3lEZAQz5cU0Ae1wd) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Flowers \(Say My Name\)](https://open.spotify.com/album/1ZMrAC2zQ3OmlOKFKAKzGA) | 2:38 | 2021-11-07 | 2022-03-21 |
 | [Flowers \(Say My Name\)](https://open.spotify.com/track/2jjsIpj4OG68TpojNlZcE6) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:38 | 2022-03-20 | 2022-03-22 |
 | [Flowers and the Snow](https://open.spotify.com/track/02L35AUJSHvIOeKERcWUdj) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Independence Day](https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK) | 3:18 | 2021-08-08 | 2021-08-09 |
@@ -205,7 +206,7 @@
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-07-06 | 2021-07-07 |
 | [Freed from Desire](https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life](https://open.spotify.com/album/2dNLeo3WYrq3tGLm4OIMcQ) | 3:34 | 2021-07-13 | 2021-07-14 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-01-04 |
-| [Funky Friday](https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Funky Friday](https://open.spotify.com/album/3CFVTstiXfXZDHF6EeMnGf) | 3:02 | 2022-03-08 |  |
+| [Funky Friday](https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Funky Friday](https://open.spotify.com/album/3CFVTstiXfXZDHF6EeMnGf) | 3:02 | 2022-03-08 | 2022-04-16 |
 | [Funny Bunny Nails](https://open.spotify.com/track/7tPO5mQWaJlcDK1Xp5Tp6X) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 2:50 | 2021-11-21 | 2021-11-22 |
 | [G Lock](https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [G Lock](https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE) | 3:10 | 2022-03-05 | 2022-03-07 |
 | [Gang Gang \(feat\. JAY1 & Deno\)](https://open.spotify.com/track/4xdElB9O7YfpISMghyMUsV) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 2:43 | 2021-07-18 | 2021-07-24 |

@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Enrique Iglesias.",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Ricky Martin & Reik.",
   "name": "Enamor\u00e1ndose",
   "published_playlist_ids": [
     "1AAjF0AYqsSQNvAOQluejC"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Veces Bien Y A Veces Mal",
+        "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145783,
+      "name": "A Veces Bien Y A Veces Mal",
+      "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
+    },
     {
       "album": {
         "name": "Animal Pt. 1",
@@ -23,6 +45,28 @@
       "duration_ms": 185257,
       "name": "Acaramelao",
       "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
+    },
+    {
+      "album": {
+        "name": "End\u00falzame los O\u00eddos / Acaramelao (Headphone Mix)",
+        "url": "https://open.spotify.com/album/7C6WY8UbWT2ny3Oogkpu8E"
+      },
+      "artists": [
+        {
+          "name": "Patricia Sosa",
+          "url": "https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167859,
+      "name": "Acaramelao / End\u00falzame los O\u00eddos - Headphone Mix",
+      "url": "https://open.spotify.com/track/4nbDc7f97uUIno916znqQM"
     },
     {
       "album": {
@@ -375,6 +419,28 @@
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "album": {
+        "name": "Como Lo Hice Yo",
+        "url": "https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177062,
+      "name": "Como Lo Hice Yo",
+      "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
     },
     {
       "album": {
@@ -1395,7 +1461,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 171661,
       "name": "NEGRO MATE",
       "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
@@ -1697,7 +1763,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 175445,
       "name": "providencia111",
       "url": "https://open.spotify.com/track/699DNqDW75pAtQuvbXSOEb"
@@ -2147,7 +2213,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 250308,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/2IlmFRKKq1sLztL2tqVXOF"

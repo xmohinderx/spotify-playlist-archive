@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLD1ufgw60J.md) - [plain]
 
 > The perfect classical side\-dish to some light chopping, stirring and seasoning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,274 likes - 36 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,326 likes - 36 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

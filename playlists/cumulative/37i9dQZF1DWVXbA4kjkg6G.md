@@ -4,7 +4,7 @@
 
 > Psychedelic beat science.
 
-96 songs - 9 hr 7 min - not published yet
+96 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/6eBI6VN4wzCZhaYMTZa7eR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

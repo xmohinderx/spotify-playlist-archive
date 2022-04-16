@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 213443,
       "name": "#VoltaC4bal",
       "url": "https://open.spotify.com/track/2UiNtvsvUpJo1W3dXbxWfY"
@@ -326,6 +326,28 @@
     },
     {
       "album": {
+        "name": "Coisas Leves",
+        "url": "https://open.spotify.com/album/2U48Cs5buA8lZaLcGffdjA"
+      },
+      "artists": [
+        {
+          "name": "Bruna Carvalho",
+          "url": "https://open.spotify.com/artist/5P0j9DemcaaFD2WFaJK20p"
+        },
+        {
+          "name": "P.L.K",
+          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192111,
+      "name": "Coisas Leves",
+      "url": "https://open.spotify.com/track/0EkmJaL8T2mE80Dnyh2Xnb"
+    },
+    {
+      "album": {
         "name": "Conduta",
         "url": "https://open.spotify.com/album/6kmjwv16vGysFNngvFw09O"
       },
@@ -367,6 +389,32 @@
       "duration_ms": 151051,
       "name": "Conex\u00e3o Jamaica",
       "url": "https://open.spotify.com/track/1cHdMwOegYGT75EZY4sAIx"
+    },
+    {
+      "album": {
+        "name": "Conto as Horas",
+        "url": "https://open.spotify.com/album/7ahwQNvJTBiRklnezDHtvo"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199550,
+      "name": "Conto as Horas",
+      "url": "https://open.spotify.com/track/4Jk4qUicqULfGxXuQPxEsI"
     },
     {
       "album": {
@@ -419,7 +467,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 256763,
       "name": "Correria",
       "url": "https://open.spotify.com/track/4nH9etbzEQzpO8mCHbcHJp"
@@ -645,7 +693,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 238588,
       "name": "Euforia",
       "url": "https://open.spotify.com/track/2k60EtSTWz41Req1ZSCJpL"
@@ -965,7 +1013,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 194766,
       "name": "Kong e King",
       "url": "https://open.spotify.com/track/1H9Say7mxDZBRxjPBfcZ62"
@@ -1105,6 +1153,50 @@
       "duration_ms": 205010,
       "name": "Minha Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5sBkSctwO5z0rQdKfWrbeH"
+    },
+    {
+      "album": {
+        "name": "Mon\u00f3logo",
+        "url": "https://open.spotify.com/album/1F94TfsNYPARsdjJB5zCFW"
+      },
+      "artists": [
+        {
+          "name": "Cassol",
+          "url": "https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315480,
+      "name": "Mon\u00f3logo",
+      "url": "https://open.spotify.com/track/12gq7G3vaOaqmgenVBkl9O"
+    },
+    {
+      "album": {
+        "name": "My Queen",
+        "url": "https://open.spotify.com/album/46LVBOoGpsqMeKjjcuoOrD"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Giganthe",
+          "url": "https://open.spotify.com/artist/1zChRFlMhgA4MLX0xUPSXg"
+        },
+        {
+          "name": "Dhono",
+          "url": "https://open.spotify.com/artist/6eRkkTM21mVDrWHAFl4W6j"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187239,
+      "name": "My Queen",
+      "url": "https://open.spotify.com/track/05LIi9hNQOyTibQadyYuYL"
     },
     {
       "album": {
@@ -1579,6 +1671,44 @@
       "duration_ms": 205714,
       "name": "Quanto Que Vale?",
       "url": "https://open.spotify.com/track/0BzIDcmczbA6FXlYvGlRXu"
+    },
+    {
+      "album": {
+        "name": "R.U.A 12 Batalha de Vida",
+        "url": "https://open.spotify.com/album/1UwM49xZkncbw3Rsqkq2l7"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        },
+        {
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+        },
+        {
+          "name": "Max Bo",
+          "url": "https://open.spotify.com/artist/5XXPhWP74GdoaxLyoljzsS"
+        },
+        {
+          "name": "Alves",
+          "url": "https://open.spotify.com/artist/2zS9YaAB6eGPZYhHdFeMvN"
+        },
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618000,
+      "name": "R.U.A 12 Batalha de Vida",
+      "url": "https://open.spotify.com/track/1E8nSsB4EKkKlOQOfUA9mV"
     },
     {
       "album": {
@@ -2135,7 +2265,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 184285,
       "name": "Uh Damn",
       "url": "https://open.spotify.com/track/4WHBGJn6UDWq4B5WXpy8vE"

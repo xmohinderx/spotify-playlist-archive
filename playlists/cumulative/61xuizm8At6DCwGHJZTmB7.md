@@ -4,7 +4,7 @@
 
 > Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
 
-135 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+136 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [God So Loved \- Live](https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [God So Loved \(Live\)](https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz) | 5:55 | 2022-03-02 | 2022-04-05 |
 | [God Song](https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 6:46 | 2022-04-08 |  |
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2022-02-17 |  |
+| [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 | 2022-04-15 |  |
 | [Goodness Of God \- Live](https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Goodness Of God \(Live\)](https://open.spotify.com/album/7KgAz06YJmhpSPLl5Nfc44) | 5:47 | 2022-02-17 |  |
 | [Grace Like Waters](https://open.spotify.com/track/4nIcCKDmnK8TlpKOPErbGx) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp) | [Grace Like Waters](https://open.spotify.com/album/3lNZtu2l9ucttcXOdK0M01) | 6:12 | 2022-02-17 |  |
 | [Graves Into Gardens](https://open.spotify.com/track/1c9YQ3wWFBds5Vd7l28g9p) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe), [Adam Smucker](https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr) | [Top 25 Praise Songs \- Graves Into Gardens](https://open.spotify.com/album/6iCjUV2eqSC1eNzQMcZjGx) | 4:17 | 2022-02-17 |  |

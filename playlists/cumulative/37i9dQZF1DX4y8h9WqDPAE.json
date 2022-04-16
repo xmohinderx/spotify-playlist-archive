@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Khalid",
-  "name": "Channel X",
+  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Lizzo",
+  "name": "Channel-X",
   "published_playlist_ids": [
     "5s7fhvbutNcZHU1nvTcDIN"
   ],
@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
         "name": "Angles (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS"
       },
@@ -63,6 +81,28 @@
       "duration_ms": 208000,
       "name": "Angles (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1rdTdOTRfGXjQ9Auwn1gzx"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
     },
     {
       "album": {
@@ -107,6 +147,32 @@
       "duration_ms": 212878,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
+    },
+    {
+      "album": {
+        "name": "Big Energy (feat. DJ Khaled) [Remix]",
+        "url": "https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181665,
+      "name": "Big Energy (feat. DJ Khaled) - Remix",
+      "url": "https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP"
     },
     {
       "album": {
@@ -331,7 +397,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 182400,
       "name": "Crazy Tings",
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
@@ -540,6 +606,28 @@
     },
     {
       "album": {
+        "name": "Freaky Deaky",
+        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215281,
+      "name": "Freaky Deaky",
+      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -673,7 +761,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 284991,
       "name": "HOLLOW.",
       "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
@@ -735,7 +823,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 189280,
       "name": "In Motion",
       "url": "https://open.spotify.com/track/2IcHKhyhlaQRoZplICg17l"
@@ -881,7 +969,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 266937,
       "name": "LALA (Unlocked) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/58ZPswvAZ5hscCmbYJvNpW"
@@ -928,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Likkle Darling",
+        "url": "https://open.spotify.com/album/5aUIjtLeBvjJkaGt86K0C9"
+      },
+      "artists": [
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114506,
+      "name": "Likkle Darling",
+      "url": "https://open.spotify.com/track/4xf7vkvAhEmKXheEhLcVAp"
+    },
+    {
+      "album": {
         "name": "Make a Mall",
         "url": "https://open.spotify.com/album/4oCeqTNixwJLgsPjJmW5z2"
       },
@@ -943,7 +1049,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 182500,
       "name": "Make a Mall",
       "url": "https://open.spotify.com/track/3IXAiQPAN5FXsETn9Gk3PR"
@@ -1005,6 +1111,32 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "album": {
+        "name": "No Love (with SZA & Cardi B) [Extended Version]",
+        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276214,
+      "name": "No Love (with SZA & Cardi B) - Extended Version",
+      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
     },
     {
       "album": {
@@ -1265,7 +1397,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 172832,
       "name": "Rumors (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
@@ -1335,7 +1467,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 387210,
       "name": "Shine [Feat. D Smoke + Tiffany Gouch\u00e9]",
       "url": "https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee"
@@ -1488,6 +1620,32 @@
     },
     {
       "album": {
+        "name": "Tell Somebody",
+        "url": "https://open.spotify.com/album/4bdbkfQjyuRdCsWR3UAj9C"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        {
+          "name": "Sage Harris",
+          "url": "https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199180,
+      "name": "Tell Somebody",
+      "url": "https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO"
+    },
+    {
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -1554,6 +1712,28 @@
     },
     {
       "album": {
+        "name": "It's Not So Bad",
+        "url": "https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178185,
+      "name": "Unreplaceable",
+      "url": "https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe"
+    },
+    {
+      "album": {
         "name": "Walk Through The Fire (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/6mOgBsnfslEZnkdfbUYp2K"
       },
@@ -1605,7 +1785,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 205700,
       "name": "Whenever You're Ready",
       "url": "https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe"

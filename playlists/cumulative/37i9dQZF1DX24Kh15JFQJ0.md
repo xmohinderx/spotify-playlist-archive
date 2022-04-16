@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-115 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+116 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 | 2021-10-15 |  |
 | [Better Off](https://open.spotify.com/track/4Xr858RhuY9r6OUH9ldPNK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Better Off](https://open.spotify.com/album/3cG4lEWXpY3kBhWuuPh8W9) | 3:09 | 2021-10-15 |  |
 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 | 2021-10-15 |  |
+| [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/6u7ZlZMY0WtHHfTKv9Khdv) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/album/3ha32uxw82uW6rFHzErQVE) | 3:20 | 2022-04-15 |  |
 | [Big Bertha \(feat\. Vince Gill\)](https://open.spotify.com/track/63zeH35ojREKtEyTZjisUW) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [A Better Word for Love](https://open.spotify.com/album/0t6BIT9pK7zzLtc4C0XdPM) | 3:04 | 2021-10-15 |  |
 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/7GU9wHH2KHXfvHsRxMBH5T) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3dTp47JrsjNtAZa6XReLlk) | 4:07 | 2022-02-11 |  |
 | [Blanket on the Ground](https://open.spotify.com/track/0fNVf87epF7g8qTtAozihN) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt), [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Come See Me and Come Lonely](https://open.spotify.com/album/606eNhfSHz9jVyyoVZ9p85) | 3:50 | 2021-10-15 |  |

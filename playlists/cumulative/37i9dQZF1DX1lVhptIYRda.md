@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Cole Swindell
+> Today's top country hits of the week, worldwide! Cover: Kelsea Ballerini
 
-506 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
+508 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Anything but Yellow](https://open.spotify.com/track/7HDpJlJj7OSJKsKXjllJeV) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Anything but Yellow](https://open.spotify.com/album/0sXFSZWJgiIheiygxFhnXv) | 3:00 | 2019-07-13 | 2019-08-10 |
 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2019-08-24 | 2020-06-21 |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2021-08-07 | 2022-02-19 |
+| [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2022-04-15 |  |
 | [Bachelorettes on Broadway](https://open.spotify.com/track/277YJPrwcN4a1W3xaP06T0) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Bachelorettes on Broadway](https://open.spotify.com/album/75zdFQaCMkQy5Q8BT1Coxl) | 3:28 | 2019-10-19 | 2020-01-18 |
 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 | 2021-07-04 | 2022-01-08 |
 | [Back To Life](https://open.spotify.com/track/7Lr4XaxGpkAwa37IVgg22k) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Life](https://open.spotify.com/album/3f45YnvjJazhk0Ena7CASK) | 3:34 | 2019-08-04 | 2019-11-02 |
@@ -101,6 +102,7 @@
 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 | 2021-05-03 | 2021-10-09 |
 | [Country Again](https://open.spotify.com/track/3SR6R5XetNfOcVqvUwDkTz) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg) | 3:41 | 2021-04-24 | 2021-05-03 |
 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 | 2022-01-11 | 2022-03-12 |
+| [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-04-15 |  |
 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6AoHQqGnuwFk9ygWhzLRws) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:50 | 2020-06-14 | 2020-10-18 |
 | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/track/7zOoHxDt1duHL8czY7o7ab) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/album/26mCA3BoItiaZyhxmmvPRl) | 3:40 | 2020-06-02 | 2020-06-03 |
 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 | 2020-06-06 | 2020-09-17 |
@@ -318,7 +320,7 @@
 | [Never Be Sorry](https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:23 | 2020-11-10 | 2021-02-20 |
 | [Never Be Sorry](https://open.spotify.com/track/1sE1zYYMBsHd7iR6nPN16p) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Never Be Sorry](https://open.spotify.com/album/3lefhQbcxYWU4pdUgcWWiG) | 3:27 | 2019-10-26 | 2019-12-14 |
 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70) | 2:56 | 2021-11-20 |  |
-| [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2021-12-17 |  |
+| [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2021-12-17 | 2022-04-16 |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-11-06 |  |
 | [New Truck](https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [New Truck](https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM) | 2:54 | 2021-10-09 | 2022-03-18 |
 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 | 2020-09-05 | 2021-09-25 |
@@ -469,7 +471,7 @@
 | [Trying Like The Devil](https://open.spotify.com/track/1ALSPkVDcZFDj2eBcVTzWL) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Red Bandana](https://open.spotify.com/album/0WMC1R1SgwLSLwiklZGIhI) | 3:40 | 2019-06-22 | 2019-06-30 |
 | [Under My Skin](https://open.spotify.com/track/59SoAaZ8tWxL5OBkWOG6aN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin](https://open.spotify.com/album/0KZJ9CMf2E4hi7uC55Bp6X) | 2:58 | 2020-11-22 | 2021-04-10 |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-01-15 | 2021-06-12 |
-| [Up](https://open.spotify.com/track/1GOMHxclGDvkcODCfYuuje) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:03 | 2021-12-24 |  |
+| [Up](https://open.spotify.com/track/1GOMHxclGDvkcODCfYuuje) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:03 | 2021-12-24 | 2022-04-16 |
 | [Villain](https://open.spotify.com/track/6PXUv7YuTC2Ua1rowd9Uql) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/31WjCvWYsVgesxT7l8lyBo) | 2:56 | 2021-04-30 | 2021-08-14 |
 | [Want It Again](https://open.spotify.com/track/7KRcMPOGQA0WOw0T8qeXD7) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO) | 2:52 | 2021-03-14 | 2021-04-24 |
 | [wAnt me back](https://open.spotify.com/track/2Dv2XlnlpeZ0TZDt9TRPn3) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [wAnt me back](https://open.spotify.com/album/0J5QZXemoH6yxiGxM6ctu6) | 3:13 | 2020-08-08 | 2021-02-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A quality alternative blend. Cover: Lucius",
+  "description": "A quality alternative blend. Cover: Kurt Vile",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 267825,
       "name": "A Sleep in the Garden",
       "url": "https://open.spotify.com/track/0pz1mBpvTtblb4xV7dwa3h"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 258079,
       "name": "Becoming All Alone",
       "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
@@ -1074,6 +1074,24 @@
     },
     {
       "album": {
+        "name": "Don't Bother Me",
+        "url": "https://open.spotify.com/album/3XZIH8fWJIWug0oiVjGVWE"
+      },
+      "artists": [
+        {
+          "name": "The Suffers",
+          "url": "https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209579,
+      "name": "Don't Bother Me",
+      "url": "https://open.spotify.com/track/0qXhEpz1OnQzxovxnYCG9l"
+    },
+    {
+      "album": {
         "name": "Don't Fade",
         "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
       },
@@ -1089,6 +1107,28 @@
       "duration_ms": 190252,
       "name": "Don't Fade",
       "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
+    },
+    {
+      "album": {
+        "name": "Don't Want Your Love",
+        "url": "https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d"
+      },
+      "artists": [
+        {
+          "name": "Haiva Ru",
+          "url": "https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA"
+        },
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212376,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
     },
     {
       "album": {
@@ -1377,7 +1417,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 216363,
       "name": "Fever - Edit",
       "url": "https://open.spotify.com/track/0raqMVW55oQnMJyVcHcrzh"
@@ -1600,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/4OgdaAYtSaLpVKMEKFbK7C"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Hard Drive Gold",
+      "url": "https://open.spotify.com/track/2MkK2gR0uoAAnct58fu1d7"
+    },
+    {
+      "album": {
         "name": "Head Right",
         "url": "https://open.spotify.com/album/1uxEgl1zadKOff90XJU3dA"
       },
@@ -1615,6 +1673,24 @@
       "duration_ms": 197737,
       "name": "Head Right",
       "url": "https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs"
+    },
+    {
+      "album": {
+        "name": "Love Is Real b/w Heart Shape",
+        "url": "https://open.spotify.com/album/7kKKozYknjwDR0AoG7RwHu"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196984,
+      "name": "Heart Shape",
+      "url": "https://open.spotify.com/track/0Y2d6bZXLoQLfJvI7Sqr5q"
     },
     {
       "album": {
@@ -1741,7 +1817,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 241920,
       "name": "Honey Understand",
       "url": "https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc"
@@ -2269,10 +2345,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 438173,
       "name": "Like Exploding Stones",
       "url": "https://open.spotify.com/track/2JND4SkJHfRpLpN0woStlP"
+    },
+    {
+      "album": {
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438173,
+      "name": "Like Exploding Stones",
+      "url": "https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct"
     },
     {
       "album": {
@@ -2341,7 +2435,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 148256,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/0eoBkpMZuo2GzBzM9Vwn77"
@@ -2529,7 +2623,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
@@ -2716,6 +2810,24 @@
     },
     {
       "album": {
+        "name": "Normal Kid",
+        "url": "https://open.spotify.com/album/1rX2mSRqM0GmTM0e4YK9H7"
+      },
+      "artists": [
+        {
+          "name": "Jillette Johnson",
+          "url": "https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192382,
+      "name": "Normal Kid",
+      "url": "https://open.spotify.com/track/1tvVxUE33ROYbQDrr2nXIw"
+    },
+    {
+      "album": {
         "name": "Take In The Roses",
         "url": "https://open.spotify.com/album/5eIYEqnWX9NaWSCm2GG8pU"
       },
@@ -2821,7 +2933,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 201226,
       "name": "Paul Newman Daytona Rolex",
       "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
@@ -3219,7 +3331,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 194374,
       "name": "Roll The Dice",
       "url": "https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO"
@@ -3356,6 +3468,24 @@
     },
     {
       "album": {
+        "name": "Seven Bridge Road",
+        "url": "https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266140,
+      "name": "Seven Bridge Road",
+      "url": "https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p"
+    },
+    {
+      "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
@@ -3385,7 +3515,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 200209,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/3gPAnmfquPJ9jsGKQNdd1H"
@@ -3407,6 +3537,24 @@
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "album": {
@@ -3487,6 +3635,32 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "album": {
+        "name": "Sold Me a Dream (Terry Tracksuit Edit)",
+        "url": "https://open.spotify.com/album/2O4jdVnB7QgVETMA17wQ46"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        },
+        {
+          "name": "Mild High Club",
+          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+        },
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170778,
+      "name": "Sold Me a Dream - Terry Tracksuit Edit",
+      "url": "https://open.spotify.com/track/05n521uk7tzOpvuQZMtQag"
     },
     {
       "album": {
@@ -4006,6 +4180,24 @@
     },
     {
       "album": {
+        "name": "Head of Roses: Phantom Limb",
+        "url": "https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222371,
+      "name": "The Weakness in Me",
+      "url": "https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj"
+    },
+    {
+      "album": {
         "name": "The Wire",
         "url": "https://open.spotify.com/album/41UFnVR8Qb8NqBxvhteQrh"
       },
@@ -4078,6 +4270,24 @@
     },
     {
       "album": {
+        "name": "Top Down",
+        "url": "https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198511,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K"
+    },
+    {
+      "album": {
         "name": "U&ME (Baauer Remix)",
         "url": "https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop"
       },
@@ -4107,7 +4317,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"

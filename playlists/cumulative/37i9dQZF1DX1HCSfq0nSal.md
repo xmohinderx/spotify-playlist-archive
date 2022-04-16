@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Quevedo, Duki, De La Ghetto
 
-131 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/0eEaxEcjouD8bXoqNOVuIi)
+132 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/0eEaxEcjouD8bXoqNOVuIi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-03-10 | 2022-04-14 |
 | [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-03-18 | 2022-04-09 |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-04-08 |  |
+| [Infraganti](https://open.spotify.com/track/25h54oPQAB19qacffSp5wG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Infraganti](https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo) | 2:44 | 2022-04-13 |  |
 | [Instagram](https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Instagram](https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH) | 2:42 | 2022-04-13 |  |
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-02-02 | 2022-02-26 |
 | [Jordan](https://open.spotify.com/track/7rqWefJX6XaO4JD5tZax4m) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/0E4Yaqbp3rJBaLBSsgyZRC) | 2:56 | 2022-02-25 |  |

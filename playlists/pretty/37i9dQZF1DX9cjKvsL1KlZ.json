@@ -1,13 +1,101 @@
 {
   "description": "Sounds of New York curated by Sidetalk, New York\u2019s one-minute street show",
-  "num_followers": 17623,
+  "num_followers": 17915,
   "original_name": "Sidetalk Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDAwNTAwMDAwMTdmYmYzYzE0ZDYwMDAwMDE3ZjA0ZDUyYzQ3",
+  "snapshot_id": "MTY0OTk5ODgwMCwwMDAwMDAwNjAwMDAwMTgwMmI5N2E0ZTkwMDAwMDE3ZjA0ZDUyYzQ3",
   "tracks": [
+    {
+      "added_at": "2022-04-15 05:00:00",
+      "album": {
+        "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+        "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        },
+        {
+          "name": "Bory300",
+          "url": "https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH"
+        }
+      ],
+      "duration_ms": 118249,
+      "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+      "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "THE UNLUCCY LUCCY KID",
+        "url": "https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 153521,
+      "name": "Flows",
+      "url": "https://open.spotify.com/track/7k4fn2FDvkXyEpZeXHYYWV"
+    },
+    {
+      "added_at": "2022-04-15 05:00:00",
+      "album": {
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "Remember (with Nigo)",
+      "url": "https://open.spotify.com/track/0PGRXJFSwpn5OAGFpEwiqK"
+    },
+    {
+      "added_at": "2022-04-15 05:00:00",
+      "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 205287,
+      "name": "Through the Fire (feat. Quavo)",
+      "url": "https://open.spotify.com/track/1PtD0GMcPogQvMAeYUW8QF"
+    },
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
@@ -29,20 +117,20 @@
       "url": "https://open.spotify.com/track/7rSnKi58HPIVC0FVyh04Q1"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2022-03-01 05:00:00",
       "album": {
-        "name": "800 BC",
-        "url": "https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0"
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
       },
       "artists": [
         {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 151216,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/599kwEj2aunpRVJNr9GYfK"
+      "duration_ms": 220240,
+      "name": "Leaked",
+      "url": "https://open.spotify.com/track/0W64NfLrIsRTAFObko6uJx"
     },
     {
       "added_at": "2022-03-01 05:00:00",
@@ -61,6 +149,62 @@
       "url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f"
     },
     {
+      "added_at": "2022-04-15 05:00:00",
+      "album": {
+        "name": "Magic City (feat. Quavo)",
+        "url": "https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 158771,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih"
+    },
+    {
+      "added_at": "2022-03-01 05:00:00",
+      "album": {
+        "name": "DON'T SLEEP",
+        "url": "https://open.spotify.com/album/0giyK2LuJ6wcfVN2QXDIlB"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "duration_ms": 131286,
+      "name": "Breakin Bad (Okay)",
+      "url": "https://open.spotify.com/track/2KMPEI406H9G8UqiWDfuTK"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "800 BC",
+        "url": "https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 151216,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/599kwEj2aunpRVJNr9GYfK"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Shoot For The Stars Aim For The Moon",
@@ -75,6 +219,30 @@
       "duration_ms": 160000,
       "name": "What You Know Bout Love",
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2022-04-15 05:00:00",
+      "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 201398,
+      "name": "What\u2019s My Name (with Queen Naija) [feat. Coi Leray]",
+      "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -109,28 +277,24 @@
       "url": "https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2022-04-15 05:00:00",
       "album": {
-        "name": "LONG.LIVE.A$AP (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+        "name": "The God Hour",
+        "url": "https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6"
       },
       "artists": [
         {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
           "name": "A$AP Rocky",
           "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Gunplay",
-          "url": "https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
         }
       ],
-      "duration_ms": 237733,
-      "name": "Ghetto Symphony (feat. Gunplay & A$AP Ferg)",
-      "url": "https://open.spotify.com/track/57pOLYHz6mt5aMkOXa2Gis"
+      "duration_ms": 155076,
+      "name": "The God Hour",
+      "url": "https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -169,22 +333,6 @@
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
-      "added_at": "2022-03-01 05:00:00",
-      "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Leaked",
-      "url": "https://open.spotify.com/track/0W64NfLrIsRTAFObko6uJx"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "IYKYK",
@@ -203,6 +351,30 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Gunplay",
+          "url": "https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Ghetto Symphony (feat. Gunplay & A$AP Ferg)",
+      "url": "https://open.spotify.com/track/57pOLYHz6mt5aMkOXa2Gis"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
         "name": "The D.O.A. Tape",
         "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
       },
@@ -215,26 +387,6 @@
       "duration_ms": 113600,
       "name": "PSA",
       "url": "https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "THE UNLUCCY LUCCY KID",
-        "url": "https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        },
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 153521,
-      "name": "Flows",
-      "url": "https://open.spotify.com/track/7k4fn2FDvkXyEpZeXHYYWV"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -521,26 +673,6 @@
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
     },
     {
-      "added_at": "2022-03-01 05:00:00",
-      "album": {
-        "name": "DON'T SLEEP",
-        "url": "https://open.spotify.com/album/0giyK2LuJ6wcfVN2QXDIlB"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        }
-      ],
-      "duration_ms": 131286,
-      "name": "Breakin Bad (Okay)",
-      "url": "https://open.spotify.com/track/2KMPEI406H9G8UqiWDfuTK"
-    },
-    {
       "added_at": "2022-03-10 18:58:33",
       "album": {
         "name": "Meet The Woo 2",
@@ -603,30 +735,6 @@
     {
       "added_at": "2022-03-01 05:00:00",
       "album": {
-        "name": "City of Gods",
-        "url": "https://open.spotify.com/album/0Nzff60OICCUBrtr980elH"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "City of Gods",
-      "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
-    },
-    {
-      "added_at": "2022-03-01 05:00:00",
-      "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
       },
@@ -679,6 +787,34 @@
       "duration_ms": 169560,
       "name": "Peso",
       "url": "https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3"
+    },
+    {
+      "added_at": "2022-03-01 05:00:00",
+      "album": {
+        "name": "Just 4 Yall",
+        "url": "https://open.spotify.com/album/4X8Ups0dQHxxnEdE4KP6FJ"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        },
+        {
+          "name": "Eli Fross",
+          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
+        }
+      ],
+      "duration_ms": 212801,
+      "name": "PICASSO",
+      "url": "https://open.spotify.com/track/1XNftuHylWlfWbPx9MVS2a"
     },
     {
       "added_at": "2022-03-01 05:00:00",
@@ -771,34 +907,6 @@
     {
       "added_at": "2022-03-01 05:00:00",
       "album": {
-        "name": "Just 4 Yall",
-        "url": "https://open.spotify.com/album/4X8Ups0dQHxxnEdE4KP6FJ"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        },
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "Jay Critch",
-          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
-        },
-        {
-          "name": "Eli Fross",
-          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
-        }
-      ],
-      "duration_ms": 212801,
-      "name": "PICASSO",
-      "url": "https://open.spotify.com/track/1XNftuHylWlfWbPx9MVS2a"
-    },
-    {
-      "added_at": "2022-03-01 05:00:00",
-      "album": {
         "name": "LIVE.LOVE.A$AP",
         "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
       },
@@ -875,22 +983,6 @@
       "duration_ms": 118560,
       "name": "Purple Swag",
       "url": "https://open.spotify.com/track/51cqtusY2TwC6mbN8Vz8iA"
-    },
-    {
-      "added_at": "2022-03-01 05:00:00",
-      "album": {
-        "name": "800 BC",
-        "url": "https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 235009,
-      "name": "Wetty",
-      "url": "https://open.spotify.com/track/6DuxLU1Uqvjgz1S2YdcpbG"
     },
     {
       "added_at": "2022-03-01 05:00:00",

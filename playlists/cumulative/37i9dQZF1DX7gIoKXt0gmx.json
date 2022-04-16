@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Get Home SAFE (Part 1)",
+        "url": "https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0ZsWurOpUo8u4fjMygvSAG"
+    },
+    {
+      "album": {
         "name": "All My Friends (feat. Tinashe & Chance the Rapper)",
         "url": "https://open.spotify.com/album/5cOhR878H8hC3UsxYq5Xyv"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 170680,
       "name": "Angels",
       "url": "https://open.spotify.com/track/67kXYrMTQbS7MVbXyGyxHm"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-08",
+      "date_removed": null,
       "duration_ms": 250454,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2020-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 174004,
       "name": "CON TAL",
       "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 199614,
       "name": "EL POETA",
       "url": "https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 278715,
       "name": "Hate The Club (feat. Masego)",
       "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
@@ -1268,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN"
+      },
+      "artists": [
+        {
+          "name": "Shanuka",
+          "url": "https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254526,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX"
+    },
+    {
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69"
       },
@@ -1283,7 +1319,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 230026,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/13wNEvWmBsWaWVtiLPRIW5"
@@ -1308,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "album": {
         "name": "digital druglord",
         "url": "https://open.spotify.com/album/30QoUTsSdpQuZunPNFsLnm"
       },
@@ -1323,6 +1377,24 @@
       "duration_ms": 211127,
       "name": "i miss the old u",
       "url": "https://open.spotify.com/track/1nMYtxDrONcoGnKRvxTwPv"
+    },
+    {
+      "album": {
+        "name": "IT'S NOT PERSONAL",
+        "url": "https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199548,
+      "name": "IF HE RULES THE WORLD",
+      "url": "https://open.spotify.com/track/4W7bZVTlkupyRLq1XnQCXs"
     },
     {
       "album": {
@@ -1431,7 +1503,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 262453,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
@@ -1482,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Keep Me Around",
+        "url": "https://open.spotify.com/album/3MPbBDFqY66cvdC68ddmpx"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "Keep Me Around",
+      "url": "https://open.spotify.com/track/7kQ5eCSvLropJUPuEYaUbX"
+    },
+    {
+      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -1511,7 +1601,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 153658,
       "name": "LANSDOWNE",
       "url": "https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF"
@@ -1573,6 +1663,42 @@
       "duration_ms": 204979,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/4VA0v1bv45og1IVCGr9gxl"
+    },
+    {
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134626,
+      "name": "Letter To Ur Ex",
+      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189651,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
     },
     {
       "album": {
@@ -1641,7 +1767,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 190135,
       "name": "Losing",
       "url": "https://open.spotify.com/track/5qY6sANDQpCctL1EtBlR2J"
@@ -1765,6 +1891,24 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "album": {
@@ -1903,7 +2047,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 347586,
       "name": "Marvins Room",
       "url": "https://open.spotify.com/track/1GpSXGBCDDHKRrOTqg4jdr"
@@ -2233,7 +2377,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 254617,
       "name": "Primrose",
       "url": "https://open.spotify.com/track/1NRX2Ktplk6T3nj8rriiYJ"
@@ -2251,7 +2395,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 243238,
       "name": "Provider",
       "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
@@ -2269,7 +2413,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 161985,
       "name": "Psycho, Pt. 2",
       "url": "https://open.spotify.com/track/26OhjtaTamFocE08t83ml6"
@@ -2287,7 +2431,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 333946,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/4cRBqWBjuccCowYVHFlXK6"
@@ -2327,6 +2471,24 @@
       "duration_ms": 249320,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
+    },
+    {
+      "album": {
+        "name": "Heaux Tales, Mo' Tales: The Deluxe",
+        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Roster",
+      "url": "https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH"
     },
     {
       "album": {
@@ -2457,7 +2619,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 209185,
       "name": "Shot Down",
       "url": "https://open.spotify.com/track/58nciIyr5vKpUJkUXXkxCq"
@@ -2475,7 +2637,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 224720,
       "name": "Shot For Me",
       "url": "https://open.spotify.com/track/6k7b4mcxLP5HPo6hNoXoM6"
@@ -2725,7 +2887,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 312426,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L"
@@ -3059,6 +3221,24 @@
       "duration_ms": 199179,
       "name": "Whoa",
       "url": "https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200359,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu"
     },
     {
       "album": {

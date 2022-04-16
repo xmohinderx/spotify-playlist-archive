@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "The newest from Jack White along with the top Rock songs you need to know.",
+  "description": "The newest from Red Hot Chili Peppers along with the top Rock songs you need to know.",
   "name": "Rock This",
   "published_playlist_ids": [
     "6Fsj2Im6Dv5sgOMEKd4oVV"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 262224,
       "name": "Brother the Cloud",
       "url": "https://open.spotify.com/track/3SQeF7y4ZKFaHiLkfw6CnW"
@@ -555,6 +555,28 @@
       "duration_ms": 171830,
       "name": "Destructible",
       "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"
+    },
+    {
+      "album": {
+        "name": "DIE OUT HERE (feat. POORSTACY)",
+        "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134266,
+      "name": "DIE OUT HERE (feat. POORSTACY)",
+      "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
     },
     {
       "album": {

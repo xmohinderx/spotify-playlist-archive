@@ -683,6 +683,24 @@
     {
       "album": {
         "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8"
+      },
+      "artists": [
+        {
+          "name": "Elijah Waters",
+          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
         "url": "https://open.spotify.com/album/7iJOysKUXYwx78G17DT3sh"
       },
       "artists": [
@@ -747,7 +765,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 177914,
       "name": "Bling Up",
       "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 154546,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/7xDWUhy7YerkQMFUGwwaOr"
@@ -2325,10 +2343,32 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 222168,
       "name": "Get Back (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
+    },
+    {
+      "album": {
+        "name": "Get High, Get By",
+        "url": "https://open.spotify.com/album/54pyZZdBYpNGdHprxAqTOD"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273011,
+      "name": "Get High, Get By",
+      "url": "https://open.spotify.com/track/1VjBUsTjfdSipjpihEPOhg"
     },
     {
       "album": {
@@ -3302,6 +3342,24 @@
     },
     {
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189651,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
+    },
+    {
+      "album": {
         "name": "Like I Feel (feat. Mereba)",
         "url": "https://open.spotify.com/album/0lwbJqkYbNedGKrLoqOhfN"
       },
@@ -3687,6 +3745,24 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
+    },
+    {
+      "album": {
+        "name": "82 Moons",
+        "url": "https://open.spotify.com/album/4jRfeVlkvAvqgvGCGfPQ5Y"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264828,
+      "name": "Lovin' you",
+      "url": "https://open.spotify.com/track/2rIrdCcmhbm7RLbBaVhIIQ"
     },
     {
       "album": {
@@ -4245,7 +4321,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 278866,
       "name": "OFF",
       "url": "https://open.spotify.com/track/4NV1Hoah3ggnoOP7PlrWjh"

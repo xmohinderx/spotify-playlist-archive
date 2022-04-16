@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,230 likes - 100 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,333 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [You Never Let Go](https://open.spotify.com/track/1b5863Da4fmbWu9EPZa5WS) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:37 |
 | 100 | [You and You Alone](https://open.spotify.com/track/3tLcZK0pGyOEKMsDBV8wgb) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Cody Lee](https://open.spotify.com/artist/3NS111TVIvnIdDFbzoa94b) | [You and You Alone](https://open.spotify.com/album/6075aT6dLdld7uG2ia8xGx) | 9:59 |
 
-Snapshot ID: `MTY0OTk4NDUxNCwwMDAwMDAwMGI3MTRkYmJhNmY4ZmQxZDcxOTZlYWM4ODQ0NjA3Nzc2`
+Snapshot ID: `MTY1MDA3MDcyNiwwMDAwMDAwMGI3MTRkYmJhNmY4ZmQxZDcxOTZlYWM4ODQ0NjA3Nzc2`

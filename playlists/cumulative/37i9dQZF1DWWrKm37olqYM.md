@@ -4,7 +4,7 @@
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Mighty Mark
 
-74 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5TALYxdz8KvCUOjfUqx9cT)
+76 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/5TALYxdz8KvCUOjfUqx9cT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,11 +68,13 @@
 | [Rooted \(feat\. Ester Dean\) \- Al Rich Club Mix](https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Rooted \(feat\. Ester Dean\) \[Al Rich Club Mix\]](https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt) | 3:04 | 2020-12-24 |  |
 | [Rump](https://open.spotify.com/track/38Mosn1LG4vg8ZmazW8CwU) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 1: Operation Startup](https://open.spotify.com/album/43FIoknvVjGX6qLBWdLD2t) | 2:27 | 2020-12-24 |  |
 | [Run Hard](https://open.spotify.com/track/3uegwtrn0nB5ck0BbEu9PI) | [Say Wut](https://open.spotify.com/artist/3GBzhIGX4yybQ9JDWasQrj) | [Run Hard](https://open.spotify.com/album/1wrBcJ4DPpgLRDxjnJtGdF) | 3:33 | 2020-12-24 |  |
+| [Sailors' Superstition \- Bmore Club Remix](https://open.spotify.com/track/2HkFQRcNbymYFNrhEIOJW8) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [SDOT MUSIC](https://open.spotify.com/artist/5ruvWpLs2aMVuibVXpsJwL) | [Sailors' Superstition \(Bmore Club Remix\)](https://open.spotify.com/album/23mwk7S0raIWPZoYIAAKRl) | 2:48 | 2022-04-15 |  |
 | [Samir's Theme](https://open.spotify.com/track/0k9F1DkyffXmLl9jMadQdB) | [Debonair Samir](https://open.spotify.com/artist/4l4sd3P2zK0zJP2Ak7o3wO) | [Samir's Theme \(Tujamo Remix\)](https://open.spotify.com/album/07nMwI9nOKvwnNj6TU51Ax) | 2:31 | 2020-12-24 |  |
 | [Shake](https://open.spotify.com/track/4Z0RI4RoY0UUMTnAVzEaMe) | [Dukeyman](https://open.spotify.com/artist/3OeK0k6vkbUDkk0GSjYjcO) | [Baltimore Club Classics \(Dukeyman Greatest Hits\)](https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx) | 3:56 | 2020-12-24 |  |
 | [Shake It To The Ground](https://open.spotify.com/track/2bI3kWsArBEHG4X54RCOET) | [Blaqstarr](https://open.spotify.com/artist/0gOlGdYlQ1Z0tacM4v6Bc7), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Supastarr \- EP](https://open.spotify.com/album/2QewQPilYVcvCUN92hc5kx) | 2:48 | 2020-12-24 |  |
 | [Shake My Ass](https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS) | [CalvoMusic](https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo), [Zfrek](https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g) | [Nights Into Mornings EP](https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea) | 2:46 | 2022-02-25 |  |
 | [Shake That](https://open.spotify.com/track/2DdX7VQBd9h6oAFvJtN8Sa) | [Blaqstarr](https://open.spotify.com/artist/0gOlGdYlQ1Z0tacM4v6Bc7) | [Shake That](https://open.spotify.com/album/0KycW68xaVX563jXMXBPqh) | 3:56 | 2020-12-24 | 2022-02-26 |
+| [The Floor Is Ours](https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [The Floor Is Ours](https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1) | 3:29 | 2022-04-15 |  |
 | [Them Do It Horns](https://open.spotify.com/track/2Itc88OdB1bXroD9xqzOPb) | [James Nasty](https://open.spotify.com/artist/7wvP2lwU1zadibtqoebkFx) | [Da Movelt Posse : Episode 5](https://open.spotify.com/album/1224FjgExjJnR56Dh4gm6o) | 3:36 | 2020-12-24 |  |
 | [Tote It](https://open.spotify.com/track/11ynhcvIvgdPDHPIXUy98r) | [Blaqstarr](https://open.spotify.com/artist/0gOlGdYlQ1Z0tacM4v6Bc7) | [Supastarr \- EP](https://open.spotify.com/album/2QewQPilYVcvCUN92hc5kx) | 3:35 | 2020-12-24 |  |
 | [Tote It \(RMX\)](https://open.spotify.com/track/3KBX18K8MI84ZL5IBSlOlJ) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 2:40 | 2020-12-24 | 2022-02-26 |

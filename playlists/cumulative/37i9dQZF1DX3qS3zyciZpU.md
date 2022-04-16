@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-106 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
+107 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [God, Your Mama, And Me](https://open.spotify.com/track/4VFE6ZNqa8jHAmbYICoAFg) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:03 | 2021-09-17 |  |
 | [Great Ones](https://open.spotify.com/track/4noLkCgGpRBVjvQM6NQGjW) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:42 | 2021-09-17 |  |
 | [Greatest Love Story](https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:42 | 2021-09-17 |  |
-| [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-18 |  |
+| [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-18 | 2022-04-16 |
+| [Growing Old With You \- First Dance Version](https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You \(First Dance Version\)](https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD) | 3:12 | 2022-04-15 |  |
 | [H.O.L.Y.](https://open.spotify.com/track/0BCy325UZyR9z0t0uxwn2N) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:14 | 2021-09-17 |  |
 | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/track/2DwbFtfC6sXBiVDPmju8Dd) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/album/4K4Zt6ttyStgYV5B3bWuBi) | 2:50 | 2021-09-17 |  |
 | [Has Anybody Ever Told You](https://open.spotify.com/track/4BxdVLaMTHiQcJTRL4O9zx) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [The Blade](https://open.spotify.com/album/6P7WO2yLdzzVmRLILb85Gj) | 3:52 | 2021-09-17 |  |

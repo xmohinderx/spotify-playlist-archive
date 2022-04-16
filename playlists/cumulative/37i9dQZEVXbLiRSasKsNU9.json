@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 183066,
       "name": "#doyalike",
       "url": "https://open.spotify.com/track/36Sg1qwErh1ONjBv6I9zPn"
@@ -2593,7 +2593,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 140665,
       "name": "IDGAF (with blackbear)",
       "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
@@ -3450,6 +3450,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN FLOWER",
+        "url": "https://open.spotify.com/album/7iUuXpOPDfKXT5DwelKQpz"
+      },
+      "artists": [
+        {
+          "name": "Tatarka",
+          "url": "https://open.spotify.com/artist/6AskOVL13sRjMWnL45lxp0"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127338,
+      "name": "KAWAII",
+      "url": "https://open.spotify.com/track/46AX8pgh331m7C7q2t9Jra"
+    },
+    {
+      "album": {
         "name": "Komuram Bheemudo (From \"RRR\")",
         "url": "https://open.spotify.com/album/6es8wELOWESpxXxfsOmd0l"
       },
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 170783,
       "name": "LEBENSLANG - HBz Remix",
       "url": "https://open.spotify.com/track/4FXX4P3dxc1JMBx5wVRJ5N"
@@ -4423,7 +4441,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
@@ -4557,7 +4575,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
@@ -5238,6 +5256,24 @@
     },
     {
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "album": {
         "name": "Sana \u00c7\u0131k\u0131yor Yollar (Kaderimin Oyunu Orijinal Dizi M\u00fczi\u011fi)",
         "url": "https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi"
       },
@@ -5689,6 +5725,24 @@
       "duration_ms": 206426,
       "name": "Son Arzum",
       "url": "https://open.spotify.com/track/4C2BEVMCOoTRYLQdxumczm"
+    },
+    {
+      "album": {
+        "name": "Son Dura\u011f\u0131n",
+        "url": "https://open.spotify.com/album/1ByJNjITFk1Imru7zBM1al"
+      },
+      "artists": [
+        {
+          "name": "Kahraman Deniz",
+          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236630,
+      "name": "Son Dura\u011f\u0131n",
+      "url": "https://open.spotify.com/track/63PJ7AVOjL5WcaYmPxiblX"
     },
     {
       "album": {

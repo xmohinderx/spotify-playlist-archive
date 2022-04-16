@@ -9860,6 +9860,24 @@
     },
     {
       "album": {
+        "name": "You'll Be Fine",
+        "url": "https://open.spotify.com/album/0bNZgXHoG7SXMBN6ZWyZMg"
+      },
+      "artists": [
+        {
+          "name": "Rully Ananta",
+          "url": "https://open.spotify.com/artist/4KxcnztydOURtpMKA9dtcU"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188966,
+      "name": "You'll Be Fine",
+      "url": "https://open.spotify.com/track/5vOlZ1Ri6GpzSGGWsnufJ8"
+    },
+    {
+      "album": {
         "name": "You'll Be Okay",
         "url": "https://open.spotify.com/album/0pehukATgfNhfe4LaF5EN3"
       },

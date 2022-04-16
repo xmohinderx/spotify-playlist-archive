@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=wAQc0DAxSMulOXdmZWl4dA">Shane Eagle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,792 likes - 74 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,817 likes - 74 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

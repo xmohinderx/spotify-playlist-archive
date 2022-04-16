@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\.  Artist: Rvshvd
 
-198 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+200 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Don’t You Wanna Know](https://open.spotify.com/track/4kkFmjTq8hl2nVSEjNxh83) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Don't You Wanna Know](https://open.spotify.com/album/3Q5iInpjJCZQQVf20UkD2z) | 2:24 | 2021-12-10 |  |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-10 |  |
 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 | 2021-12-10 |  |
+| [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 | 2022-04-15 |  |
 | [Effortless](https://open.spotify.com/track/6cxnYQWZdZDlfJiCtI1vnr) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Effortless](https://open.spotify.com/album/2Afegl9NLgCYGQCHfYjSVd) | 3:24 | 2021-12-10 |  |
 | [Everything Changes](https://open.spotify.com/track/5qDERSuqkR2swJWGkH2Oox) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Everything Changes](https://open.spotify.com/album/3u1603AetS0Vg1TWSRIU1N) | 3:10 | 2021-12-10 | 2022-02-26 |
 | [Everything I'm Not](https://open.spotify.com/track/2Sh4TM6Ypg3KiEjdOS2GVy) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Everything I'm Not](https://open.spotify.com/album/69xhM28ljDGkmazJoODM87) | 3:11 | 2021-12-10 |  |
@@ -83,6 +84,7 @@
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
 | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/track/3Hj2VfZMpov5Z9KiKv22Cx) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/album/38uTO3DOjGERyVb9ug1R1U) | 3:38 | 2021-12-10 |  |
 | [hail mary](https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [hail mary](https://open.spotify.com/album/66ffihcpI4EZbBw8XlkPkR) | 2:30 | 2021-12-31 |  |
+| [Happy](https://open.spotify.com/track/055RqRu1mNSgLCEyrj7b76) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Happy](https://open.spotify.com/album/0vuPBOaCaK0a6dhBFp3Ynz) | 3:10 | 2022-04-15 |  |
 | [Having It All](https://open.spotify.com/track/6U9ReLnZaZvqBk3uJcgPZV) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Having It All](https://open.spotify.com/album/1I6LESufAXYVWAnfdoIyjv) | 2:53 | 2021-12-10 | 2022-02-26 |
 | [Hawaii](https://open.spotify.com/track/0ht0H5ArfHnsXfMFQ37pNS) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Hawaii](https://open.spotify.com/album/0PD5fuEHBYunYbKxttn1yr) | 2:56 | 2021-12-10 | 2022-02-26 |
 | [Headlights](https://open.spotify.com/track/6999hCnJloghAoFgdnSbOZ) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Headlights](https://open.spotify.com/album/4ktGyJCvZrEDcDMMR9tWnh) | 2:54 | 2021-12-10 | 2022-02-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,194 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,247 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 74 | [Grip of Grace](https://open.spotify.com/track/1krkicizq4r7FIsqYiTjwo) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Grip of Grace](https://open.spotify.com/album/4ZtCH3TpeVc0MWIpEC1se0) | 5:07 |
 | 75 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 
-Snapshot ID: `MTY0OTk4NDMyMywwMDAwMDAwMDdhMzJmNzNlOWVjYzVjNDllZTBhZjI2NDRkZjM3NGQ2`
+Snapshot ID: `MTY1MDA3MDU2MCwwMDAwMDAwMDdhMzJmNzNlOWVjYzVjNDllZTBhZjI2NDRkZjM3NGQ2`

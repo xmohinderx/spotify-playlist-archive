@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,200 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,212 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 49 | [He'll Take The Pain Away](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 50 | [Center Of My Joy \- Live](https://open.spotify.com/track/2oKFjzpOQrj2t0lwXlSrjV) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 7:25 |
 
-Snapshot ID: `MTY0OTk4NDcwNCwwMDAwMDAwMGQyZjFlMmQ0ZTAyN2RlOTYzODQwMDcxMTM1N2Q5Njc0`
+Snapshot ID: `MTY1MDA3MDkwNCwwMDAwMDAwMGQyZjFlMmQ0ZTAyN2RlOTYzODQwMDcxMTM1N2Q5Njc0`

@@ -4,10 +4,11 @@
 
 > Country rap songs, made to be cranked up\. Cover: Colt Ford
 
-86 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+88 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Country Girl Can Survive](https://open.spotify.com/track/4KAXqEF9LkQKEgSNMmxDHJ) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [A Country Girl Can Survive](https://open.spotify.com/album/3lPzSJhe2dcc94oMqRMnSe) | 2:53 | 2022-04-15 |  |
 | [AutoPilot](https://open.spotify.com/track/4P9Ubi9gxlFNNR27g3ML1t) | [DurtE](https://open.spotify.com/artist/6VZRx4elqkf5cXo3nrc8y7), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [AutoPilot](https://open.spotify.com/album/5PlAnlR9c9kuwFRAde1cwp) | 3:40 | 2021-07-23 |  |
 | [Back to Them Backroads](https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 3:11 | 2021-05-21 |  |
 | [Backroads Life \(feat\. The Lacs\)](https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Hog Heaven](https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf) | 4:42 | 2021-05-21 |  |
@@ -79,6 +80,7 @@
 | [Small Town](https://open.spotify.com/track/0ZvKNZwQrri0K9RwUWvO79) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [The Classics](https://open.spotify.com/album/0kdkEFsTqxmrcU2RspxbPM) | 4:04 | 2021-09-10 |  |
 | [Southern Boy](https://open.spotify.com/track/27cntMbTvzUyvklZB6bSXP) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Dirt Road Revival](https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk) | 3:14 | 2021-10-08 |  |
 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 | 2021-05-21 |  |
+| [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 | 2022-04-15 |  |
 | [Stomp Them Boots](https://open.spotify.com/track/5Nwyg9vefS3tLj8AnId4PD) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 9](https://open.spotify.com/album/5RBysFw9eejDJw9jdQYQrD) | 3:55 | 2021-05-21 |  |
 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 | 2021-11-05 |  |
 | [Stuck](https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Stuck](https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM) | 3:09 | 2021-05-21 |  |

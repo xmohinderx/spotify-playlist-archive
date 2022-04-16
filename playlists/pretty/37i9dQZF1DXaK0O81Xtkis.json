@@ -1,12 +1,12 @@
 {
   "description": "shake it up and let it pop! cover: peach tree rascals",
-  "num_followers": 191272,
+  "num_followers": 191334,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDBhMDAwMDAwMTgwMDc1NDMyZDAwMDAwMDE4MDA1ZGJlN2Jk",
+  "snapshot_id": "MTY0OTk5NTIwMCwwMDAwMDBhMTAwMDAwMTgwMmI2MGI2ZGEwMDAwMDE4MDA1ZGJlN2Jk",
   "tracks": [
     {
       "added_at": "2022-04-08 04:00:00",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/0skrS3ItclFdUYVZZeUy07"
     },
     {
+      "added_at": "2022-01-14 20:45:04",
+      "album": {
+        "name": "The Click",
+        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 227267,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/3LFMOM2H8eBY7VRHRbKNzp"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 150756,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/1jTxFF7FjIW4USQnnoplX9"
+    },
+    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "It Doesn\u2019t Matter (feat. Sn\u00f8w)",
@@ -93,6 +125,38 @@
       "url": "https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN"
     },
     {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "The Band CAMINO",
+        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 182658,
+      "name": "I Think I Like You",
+      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
+    },
+    {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "Lost In The Moment",
+        "url": "https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "duration_ms": 153214,
+      "name": "Lost In The Moment",
+      "url": "https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa"
+    },
+    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "It's not me, It's you.",
@@ -109,20 +173,20 @@
       "url": "https://open.spotify.com/track/4MwG8EQAMytchgc6jvIFrM"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
+      "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/3LFMOM2H8eBY7VRHRbKNzp"
+        "name": "Cool Kids",
+        "url": "https://open.spotify.com/album/3SlkRa6qs5qeEg7H2yk9yW"
       },
       "artists": [
         {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+          "name": "Max Frost",
+          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
         }
       ],
-      "duration_ms": 150756,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/1jTxFF7FjIW4USQnnoplX9"
+      "duration_ms": 179078,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/6w9kwKYCCL2YapGsXLasxq"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -193,22 +257,6 @@
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
     },
     {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "The Click",
-        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 227267,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
-    },
-    {
       "added_at": "2022-03-25 04:00:00",
       "album": {
         "name": "Disappointment (feat. Rxseboy)",
@@ -229,20 +277,20 @@
       "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
     },
     {
-      "added_at": "2022-03-18 04:01:00",
+      "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Lost In The Moment",
-        "url": "https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ"
+        "name": "Happy Pills",
+        "url": "https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1"
       },
       "artists": [
         {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
         }
       ],
-      "duration_ms": 153214,
-      "name": "Lost In The Moment",
-      "url": "https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa"
+      "duration_ms": 203080,
+      "name": "Happy Pills",
+      "url": "https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -291,22 +339,6 @@
       "duration_ms": 173195,
       "name": "YOUR GHOST",
       "url": "https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "The Band CAMINO",
-        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182658,
-      "name": "I Think I Like You",
-      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
     },
     {
       "added_at": "2022-03-28 04:00:00",
@@ -427,22 +459,6 @@
       "duration_ms": 218524,
       "name": "Rush",
       "url": "https://open.spotify.com/track/6DwesuBTzYmdAjTynjuKEd"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Happy Pills",
-        "url": "https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1"
-      },
-      "artists": [
-        {
-          "name": "Weathers",
-          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "Happy Pills",
-      "url": "https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -857,22 +873,6 @@
       "url": "https://open.spotify.com/track/2urI2TKhLqK3o4hTR3i2R8"
     },
     {
-      "added_at": "2022-02-25 16:02:16",
-      "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/2MIWXHiODW5ERIJx7FZKj6"
-      },
-      "artists": [
-        {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
-        }
-      ],
-      "duration_ms": 219898,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/2Fia4eleF1Oj1CgdPh2DyZ"
-    },
-    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Replace Me",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Give Me Your Shoulders, Pt. 1",
-        "url": "https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
-    },
-    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "it's a little complicated, but i'm okay.",
@@ -983,70 +967,6 @@
       "duration_ms": 206786,
       "name": "IF I KNEW YOU IN A PAST LIFE",
       "url": "https://open.spotify.com/track/1cb5DwlrURMljmqfoLF0oC"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Back To The Future",
-      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "f**k it, i'm the man",
-        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "f**k it, i'm the man",
-      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Notion",
-        "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/5d4OHlY3hciR9R7QKBK2vF"
-      },
-      "artists": [
-        {
-          "name": "Lost Stars",
-          "url": "https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/2ol8FEyh73HwRoirGIbNh8"
     },
     {
       "added_at": "2022-01-14 20:45:04",

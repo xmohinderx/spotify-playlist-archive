@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Breaking News",
+        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
+    },
+    {
+      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },

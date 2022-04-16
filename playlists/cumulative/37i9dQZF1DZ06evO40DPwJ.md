@@ -4,7 +4,7 @@
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/3HuRNar3SDFartpoMja17I)
+48 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/3HuRNar3SDFartpoMja17I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,10 +18,11 @@
 | [Dirty Picture](https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:38 | 2021-12-28 |  |
 | [Do What You Like](https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/04zgNiSQl0PiOG85BNHwFP) | 3:20 | 2021-12-28 |  |
 | [Dynamate](https://open.spotify.com/track/3ie62ykCa9eFGM3LBK8gDS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [DJ SNYPAYUSH](https://open.spotify.com/artist/4fR7R8Wats33udr7iae2Xr) | [Party Attitude](https://open.spotify.com/album/6tJ0Cy3DitXaUQh6TB1Y9w) | 4:05 | 2021-12-28 |  |
-| [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 | 2021-12-28 |  |
+| [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 | 2021-12-28 | 2022-04-16 |
 | [Dynamite \- David May Rmx Edit](https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [David May](https://open.spotify.com/artist/5d0rLXoTGxF0XzX88MTKeK) | [The Annual Compilation 2012 \(Deluxe Edition\)](https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3) | 4:40 | 2021-12-28 |  |
 | [Dynamite \- Stonebridge Remix Radio Edit](https://open.spotify.com/track/3woqA7BkmDe9ROuGkqo7WT) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Dynamite \(The Remixes\)](https://open.spotify.com/album/1QIRKG66PdTq9PKf7ooDQA) | 3:35 | 2021-12-28 |  |
 | [Everybody's Changing](https://open.spotify.com/track/6bRHHbM9mxFakL8gcDUUmG) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Ultimate R&B 2009 \(International Version\)](https://open.spotify.com/album/4meVJvSnundOZ4jYKl2aYm) | 3:32 | 2021-12-28 |  |
+| [Falling In Love](https://open.spotify.com/track/3u9dgy0yEKAUh02mjGmczS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:31 | 2022-04-15 |  |
 | [Fast Car](https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Fast Hits EP](https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc) | 3:45 | 2021-12-28 |  |
 | [Feel Again \- Remastered](https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:37 | 2021-12-28 |  |
 | [Hangover](https://open.spotify.com/track/5pmL3RzOy3IvGFaSDi4hZL) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 4:04 | 2021-12-28 |  |

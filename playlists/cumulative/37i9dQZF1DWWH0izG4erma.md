@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!!  <br/>Cover: Jackson Dean
 
-135 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+136 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 | 2021-11-01 |  |
 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 | 2022-02-18 |  |
 | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Jason Hook](https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ) | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv) | 3:27 | 2021-11-01 |  |
+| [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 |  |
 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 | 2022-01-07 |  |
 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/2QWEKEYag6vI7VfJehbd7v) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Burn It Down \(717 Tapes\)](https://open.spotify.com/album/40CsyVbSKJPVHgxfLDKhJN) | 2:49 | 2022-01-21 |  |
 | [Burned Out](https://open.spotify.com/track/76i6pbHbUXVngXGmqmaAeO) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q) | [Burned Out](https://open.spotify.com/album/29fXlrBSPq0n5QSfONE0wX) | 2:58 | 2022-02-25 |  |

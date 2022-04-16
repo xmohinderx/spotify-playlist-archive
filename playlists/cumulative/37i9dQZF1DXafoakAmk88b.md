@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-126 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
+127 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-02-18 |  |
 | [Burn Me Out](https://open.spotify.com/track/6EA7oUfwTlK4Uc5RIzAJrz) | [Shébani](https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc) | [Burn Me Out](https://open.spotify.com/album/4020PhRlGUOUZwRcU00Uc1) | 4:43 | 2022-02-18 |  |
 | [Claymore \(feat\. Smino\)](https://open.spotify.com/track/051zam2WDIKOLdu4XYpCaA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:06 | 2022-02-18 |  |
-| [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2022-02-18 |  |
+| [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2022-02-18 | 2022-04-16 |
 | [Dark & Handsome](https://open.spotify.com/track/0Zgcv1wy4bRWpfsM27uPGK) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Angel's Pulse](https://open.spotify.com/album/3KLLRiCnqYvt78H52TeZ1k) | 2:33 | 2022-02-18 | 2022-03-05 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/7vMDFGBs0CTEkENk2dyCnc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Destroy Myself Just For You](https://open.spotify.com/album/3cQmOITwkOtQIk9NcyoZ2g) | 2:26 | 2022-02-18 |  |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-02-18 |  |
@@ -55,6 +55,7 @@
 | [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-18 |  |
 | [Hours \- Acoustic](https://open.spotify.com/track/2XeiErcAs3bupghj4jfB6u) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Hours \(Acoustic\)](https://open.spotify.com/album/43RroKIozB14vXHnBsjsbY) | 2:46 | 2022-03-04 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2022-02-18 | 2022-03-05 |
+| [Hymn](https://open.spotify.com/track/2fGiwQIUWDauKSYgosdlhN) | [Josh Dillon](https://open.spotify.com/artist/5oMcE7NWSdStKb6sMUzA32) | [Hymn](https://open.spotify.com/album/2xRw2iiMHx52vMaZ9ewQRF) | 4:11 | 2022-04-15 |  |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-02-18 | 2022-04-02 |
 | [I'm Just A Fan](https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [I'm Just A Fan](https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0) | 3:03 | 2022-02-18 |  |
 | [I'm On](https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I'm On](https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc) | 4:10 | 2022-02-18 | 2022-03-15 |

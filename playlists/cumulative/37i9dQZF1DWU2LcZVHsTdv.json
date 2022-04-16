@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "The Low Light Sessions",
+        "url": "https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223329,
+      "name": "Dear Jesus",
+      "url": "https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0"
+    },
+    {
+      "album": {
         "name": "My Jesus",
         "url": "https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG"
       },
@@ -941,6 +959,24 @@
       "duration_ms": 210493,
       "name": "In All Things",
       "url": "https://open.spotify.com/track/4CVSGsxGy52bNpUAwFqrm7"
+    },
+    {
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/5v36cGV6Gk6cA4l79cMImt"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251947,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/4nZLgB1NYxEjfStRRPZBWE"
     },
     {
       "album": {
@@ -1714,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/4qBC2PWgHdkaec6uwBiKUh"
+      },
+      "artists": [
+        {
+          "name": "Jackson Michelson",
+          "url": "https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210218,
+      "name": "Three",
+      "url": "https://open.spotify.com/track/1XE2AiPIecv5qDJvoajruU"
+    },
+    {
+      "album": {
         "name": "Three Wooden Crosses: The Inspirational Hits of Randy Travis",
         "url": "https://open.spotify.com/album/17GFGc299gAbkJWoIu5eba"
       },
@@ -1943,6 +1997,46 @@
       "duration_ms": 200840,
       "name": "Working On Sunday",
       "url": "https://open.spotify.com/track/64ZqOZGfgq4OABx1qN8Ftd"
+    },
+    {
+      "album": {
+        "name": "You and Jesus",
+        "url": "https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT"
+      },
+      "artists": [
+        {
+          "name": "Walker County",
+          "url": "https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg"
+        },
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0W04i66yWfmc0tUT9WP5tQ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "You and Jesus",
+      "url": "https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym"
+    },
+    {
+      "album": {
+        "name": "You Can Rest",
+        "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott",
+          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288658,
+      "name": "You Can Rest",
+      "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv"

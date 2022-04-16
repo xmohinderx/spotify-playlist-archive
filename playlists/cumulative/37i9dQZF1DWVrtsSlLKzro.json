@@ -2634,6 +2634,28 @@
     },
     {
       "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/2VXFiPevUK5R98J8CsUjQi"
+      },
+      "artists": [
+        {
+          "name": "Tom Finster",
+          "url": "https://open.spotify.com/artist/0jA09tU838A2JRveNgDSGa"
+        },
+        {
+          "name": "barking continues",
+          "url": "https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211071,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/3sfYpzimgCeLiPIshgbIRn"
+    },
+    {
+      "album": {
         "name": "Saving Lives",
         "url": "https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt"
       },

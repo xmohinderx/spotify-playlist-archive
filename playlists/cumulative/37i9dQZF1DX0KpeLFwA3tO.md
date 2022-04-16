@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Witch Fever
 
-261 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+262 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 | 2022-02-25 |  |
 | [Big Moon Lake](https://open.spotify.com/track/2qlBuPhhaeO1QIAyPjwtrU) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Big Moon Lake](https://open.spotify.com/album/2upoEnydOlq3ZKPTLIqRrX) | 3:14 | 2022-03-04 | 2022-04-08 |
 | [Birthday](https://open.spotify.com/track/4neGom5qBXNpZinJ6hCcjw) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Birthday](https://open.spotify.com/album/2faO53SnnPd2ZUtpuvJsZH) | 2:12 | 2022-03-18 |  |
+| [Bite Down](https://open.spotify.com/track/5wHGEpWP0DmI219NIwIrlB) | [Rotten Oranges](https://open.spotify.com/artist/1wtqbCoyaXTtPJaONrexyP), [Lil Capi](https://open.spotify.com/artist/5qPl7NbNWiPsa4pekgInWI), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bite Down](https://open.spotify.com/album/7kzOw2ZuvDg8PqCYFXMTJ6) | 2:27 | 2022-04-14 |  |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-17 | 2022-01-28 |
 | [Blank Curtain](https://open.spotify.com/track/5TY7d3yQmsIad8NlwmuFvN) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Blank Curtain](https://open.spotify.com/album/52LYHwmooQOlKRU56HaOoZ) | 3:49 | 2022-04-07 |  |
 | [Blessed Be Thy](https://open.spotify.com/track/6oOrDOcWae9TplDG761Zvn) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Blessed Be Thy](https://open.spotify.com/album/3GFlXi5j7CgQgNDo4islwF) | 3:12 | 2022-04-14 |  |

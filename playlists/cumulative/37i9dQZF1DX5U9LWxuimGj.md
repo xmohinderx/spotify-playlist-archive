@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Hayley Orrantia
 
-78 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+79 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Humble and Kind \(Nunca Te Olvides de Amar\)](https://open.spotify.com/track/5N7sdQWdISg5JmbIynMxGb) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble and Kind \(Nunca Te Olvides de Amar\)](https://open.spotify.com/album/4nPrv6mX6qT2pSofIpoXY5) | 4:16 | 2021-12-10 |  |
 | [I Am a Mexican](https://open.spotify.com/track/5v3JieJAHIspWkXNVy5rHq) | [Rick Trevino](https://open.spotify.com/artist/28yWs7I4FXiDyBuHoZqkY8), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [I Am a Mexican](https://open.spotify.com/album/1Qij0nelotbxl3wu3h0rx8) | 3:24 | 2021-12-10 |  |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-02-25 |  |
+| [I'm the One \- Remix](https://open.spotify.com/track/3OTOuRFsNPz18mM9oor9vJ) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [El Taiger](https://open.spotify.com/artist/6HkNcKiG3lY6qILv7gEm4x) | [I'm the One \(Remix\)](https://open.spotify.com/album/7wHphNvWeFFo4vQWMluzSL) | 2:16 | 2022-04-15 |  |
 | [If I Don't](https://open.spotify.com/track/0u340rUGhfVFoq9TMcslmD) | [Hayley Orrantia](https://open.spotify.com/artist/6Ba7gb6RPgcbbWCQY7N8Dx) | [If I Don't](https://open.spotify.com/album/4bN4XhEzN22vgDdXvGIVE5) | 3:47 | 2021-12-10 |  |
 | [Island of Heaven](https://open.spotify.com/track/0N3chwzAmCThKkFm6Hx6Y7) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Island of Heaven](https://open.spotify.com/album/7rRPMkwHsePa5fKYfb9zOW) | 3:21 | 2021-12-10 |  |
 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 | 2021-12-10 |  |

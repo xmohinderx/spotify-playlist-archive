@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Lefty Frizzell, Hank Williams, Kitty Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,360 likes - 96 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,493 likes - 96 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 95 | [Hey Joe](https://open.spotify.com/track/6CFckB9Rn0ptccgUwQylnR) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [Heartbreak USA 1953\-1962](https://open.spotify.com/album/66M7jYsBkIHRd1ToZ2TYko) | 2:37 |
 | 96 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 
-Snapshot ID: `MTY0OTk4NDE5MSwwMDAwMDAwMDAyZWYwYjBhYjY0ZjI3NTI0ODFhZTZkZThjMGFmYjAx`
+Snapshot ID: `MTY1MDA3MDQzMywwMDAwMDAwMDAyZWYwYjBhYjY0ZjI3NTI0ODFhZTZkZThjMGFmYjAx`

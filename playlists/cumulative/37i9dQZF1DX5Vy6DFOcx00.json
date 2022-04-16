@@ -3590,6 +3590,28 @@
     },
     {
       "album": {
+        "name": "My Name Is My Name",
+        "url": "https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216066,
+      "name": "Nosetalgia",
+      "url": "https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH"
+    },
+    {
+      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
       },

@@ -618,6 +618,28 @@
     },
     {
       "album": {
+        "name": "Secrets Keep Friends",
+        "url": "https://open.spotify.com/album/4rf9sIzWYeUGmimR2oTKkQ"
+      },
+      "artists": [
+        {
+          "name": "D.Worthy",
+          "url": "https://open.spotify.com/artist/3erKONJnV1kHT5ksWJLR7y"
+        },
+        {
+          "name": "SADLOKA",
+          "url": "https://open.spotify.com/artist/4GWbqE5gzUI7fFco1vO6Zo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/6sj3QQ03Skwe41fzDzIAJq"
+    },
+    {
+      "album": {
         "name": "DEADMAN",
         "url": "https://open.spotify.com/album/72yFFKxh3DsJLVXGYZYpxf"
       },
@@ -787,6 +809,24 @@
       "duration_ms": 230000,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7dy8BLHXymlzybb3ilMnO0"
+    },
+    {
+      "album": {
+        "name": "Everything Cost",
+        "url": "https://open.spotify.com/album/3yCPZnCK5Cv5SlLxtElfRc"
+      },
+      "artists": [
+        {
+          "name": "Pinder",
+          "url": "https://open.spotify.com/artist/4VNhdOgxfxVzFRWLNPP2kz"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139365,
+      "name": "Ever Again",
+      "url": "https://open.spotify.com/track/4SU38yyehdhNjrSWbYysCJ"
     },
     {
       "album": {
@@ -1097,7 +1137,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 115200,
       "name": "I must apologise - Sango Remix",
       "url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
@@ -1119,6 +1159,28 @@
       "duration_ms": 163902,
       "name": "I Need",
       "url": "https://open.spotify.com/track/3DJ7JSgGzGvZdyiZMd2g8Z"
+    },
+    {
+      "album": {
+        "name": "Who's Listening Anyway",
+        "url": "https://open.spotify.com/album/52AEsPS0IsOHaVpoxN1EQn"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254377,
+      "name": "I Think That I Love You",
+      "url": "https://open.spotify.com/track/3gG6Yuezs45BE0A8YULmmL"
     },
     {
       "album": {
@@ -1261,6 +1323,24 @@
       "duration_ms": 245999,
       "name": "L.O.V.E.",
       "url": "https://open.spotify.com/track/6gIwd1Nv0suDV5stwOVI57"
+    },
+    {
+      "album": {
+        "name": "Lex Luthor",
+        "url": "https://open.spotify.com/album/7hSpsjqZQgMGQPaMF7glDl"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Lex Luthor",
+      "url": "https://open.spotify.com/track/6GuTQfGWR5Og4w8FjA66SO"
     },
     {
       "album": {
@@ -1739,10 +1819,40 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 220254,
       "name": "Red Water",
       "url": "https://open.spotify.com/track/1vJfed0RlNaEwhlio4JLm3"
+    },
+    {
+      "album": {
+        "name": "Corduroy",
+        "url": "https://open.spotify.com/album/3KPpIrJ5p3i8jl2uTGLYhW"
+      },
+      "artists": [
+        {
+          "name": "Jaywop",
+          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Donte Thomas",
+          "url": "https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor"
+        },
+        {
+          "name": "Sxlxmxn",
+          "url": "https://open.spotify.com/artist/1pDVDyfDlzo2XXQ5dH5rAK"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220254,
+      "name": "Red Water",
+      "url": "https://open.spotify.com/track/4M6wNTUJra5iXIoPZdeQWm"
     },
     {
       "album": {
@@ -1827,6 +1937,32 @@
       "duration_ms": 127346,
       "name": "Replace Me",
       "url": "https://open.spotify.com/track/4CeRJ6jPGlCYAp0REGrKJL"
+    },
+    {
+      "album": {
+        "name": "Rewind It",
+        "url": "https://open.spotify.com/album/4pUNDU81EXj6KsRYZmZOzW"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Eight9FLY",
+          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
+        },
+        {
+          "name": "Jarrel the Young",
+          "url": "https://open.spotify.com/artist/6JxB2H6EYCPWF4bEwuQ3uv"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178085,
+      "name": "Rewind It",
+      "url": "https://open.spotify.com/track/6mwu4F96qQlAWFU2lgy6E8"
     },
     {
       "album": {

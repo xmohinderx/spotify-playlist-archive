@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rifqi FTR, Unaa, Fanirahmansyah\. Artwork: Isu Kim.
 
-534 songs - 1 day 8 hr 50 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+535 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [You and I \- secret track](https://open.spotify.com/track/7nI2xf2PBSSSgdyqxeQyMV) | [Franky Gabriel](https://open.spotify.com/artist/6z6caIlEzWd6jECArPjAwS) | [You and I \(secret track\)](https://open.spotify.com/album/2XR7tBYyPI7owzpLzniexH) | 5:31 | 2022-01-06 | 2022-01-14 |
 | [You Betray Me, Don't You?](https://open.spotify.com/track/1FkMeVH15gPaQyUiSLcV1r) | [Juniper](https://open.spotify.com/artist/4PmM1z53wM12PEAGnMhdhg) | [You Betray Me, Don't You?](https://open.spotify.com/album/0o5UUMJMMPUyjkWuJkdVrV) | 3:44 | 2022-01-27 | 2022-02-11 |
 | [You Don't Want My Name](https://open.spotify.com/track/2u2OhYjRBh5PZpVDYQgLmP) | [Rifkysetya](https://open.spotify.com/artist/28U66vinWbf17vJbvvfRTB) | [You Don't Want My Name](https://open.spotify.com/album/7JVba6SNe2NxdhbgvywEED) | 3:31 | 2022-03-04 | 2022-03-18 |
+| [You'll Be Fine](https://open.spotify.com/track/5vOlZ1Ri6GpzSGGWsnufJ8) | [Rully Ananta](https://open.spotify.com/artist/4KxcnztydOURtpMKA9dtcU) | [You'll Be Fine](https://open.spotify.com/album/0bNZgXHoG7SXMBN6ZWyZMg) | 3:08 | 2022-04-14 |  |
 | [You'll Be Okay](https://open.spotify.com/track/0STcPbthVS84I1Q1hEmDNk) | [The Aline](https://open.spotify.com/artist/1f7rj1CIKadlDGoIf62beO) | [You'll Be Okay](https://open.spotify.com/album/0pehukATgfNhfe4LaF5EN3) | 3:00 | 2022-01-06 | 2022-01-14 |
 | [Young Woman's Eyes](https://open.spotify.com/track/37YVVCexVs5bMErtz7Z0AH) | [Flowerbaby](https://open.spotify.com/artist/5fu2fvrcBE90L1GbRmsj1q) | [Young Woman's Eyes](https://open.spotify.com/album/4KMjJp4Y1XLMNonkrctDO0) | 3:51 | 2022-01-13 | 2022-01-28 |
 

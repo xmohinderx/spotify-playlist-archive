@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A little psychedelic, a little groovy, and very rootsy.",
+  "description": "groovy.",
   "name": "Psych & Groove",
   "published_playlist_ids": [
     "3pt2XHEmoAsRNo2qzVm6m5"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 292000,
       "name": "250 Miles",
       "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 307573,
       "name": "About a Stranger",
       "url": "https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 298933,
       "name": "Ain't Nothin' New",
       "url": "https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF"
@@ -109,10 +109,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 247047,
       "name": "As Above, so Below",
       "url": "https://open.spotify.com/track/5Ht9288DV4yDb3Bs14tMYx"
+    },
+    {
+      "album": {
+        "name": "Access",
+        "url": "https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA"
+      },
+      "artists": [
+        {
+          "name": "Major Murphy",
+          "url": "https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177326,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 228253,
       "name": "Automechanic",
       "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 216413,
       "name": "Eno Nothing",
       "url": "https://open.spotify.com/track/3IRSGpUi9NhYHl6EdfQo8D"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF"
@@ -419,10 +437,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 236973,
       "name": "Hey Man",
       "url": "https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF"
+    },
+    {
+      "album": {
+        "name": "Hippo",
+        "url": "https://open.spotify.com/album/1w2SKr8HERIcQbsP3kWEUB"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140164,
+      "name": "Hippo",
+      "url": "https://open.spotify.com/track/62ik4X7W26bB7X9JtJcTjY"
     },
     {
       "album": {
@@ -437,7 +473,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
@@ -491,7 +527,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 360946,
       "name": "Juniper Arms",
       "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
@@ -509,7 +545,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 236533,
       "name": "Kaufman's Ballad",
       "url": "https://open.spotify.com/track/792ebNEUn9ndC6GT54a7hc"
@@ -545,10 +581,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 258800,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
+    },
+    {
+      "album": {
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438173,
+      "name": "Like Exploding Stones",
+      "url": "https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct"
     },
     {
       "album": {
@@ -625,7 +679,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 229506,
       "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
       "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
@@ -650,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Love Love Love",
+        "url": "https://open.spotify.com/album/3AizvY3QpObTZc9tv79TMf"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222093,
+      "name": "Love Love Love",
+      "url": "https://open.spotify.com/track/61WbhRdmRaasVoszXDYcZx"
+    },
+    {
+      "album": {
         "name": "LONER",
         "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
       },
@@ -661,7 +733,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 248791,
       "name": "More Of The Same",
       "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
@@ -701,6 +773,24 @@
       "duration_ms": 210241,
       "name": "My Game",
       "url": "https://open.spotify.com/track/7yAXpAYFiPqKzyi86xXbLQ"
+    },
+    {
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "album": {
@@ -751,10 +841,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 193520,
       "name": "No Quit",
       "url": "https://open.spotify.com/track/4g15kgCDhIdHEzbBJvCNd0"
+    },
+    {
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
     },
     {
       "album": {
@@ -769,7 +877,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 254541,
       "name": "Opposite House",
       "url": "https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR"
@@ -805,7 +913,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 219029,
       "name": "Pain",
       "url": "https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi"
@@ -823,7 +931,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 226933,
       "name": "Pretty Bird",
       "url": "https://open.spotify.com/track/3e2dTtSpfuDA8iXnRCxCov"
@@ -859,7 +967,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 205525,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
@@ -1043,7 +1151,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
@@ -1206,6 +1314,24 @@
     },
     {
       "album": {
+        "name": "A Love Extreme",
+        "url": "https://open.spotify.com/album/2zQGpwdvHqZhw2BguUqb18"
+      },
+      "artists": [
+        {
+          "name": "Benji Hughes",
+          "url": "https://open.spotify.com/artist/1w4UUVXVsk63VT2vTwx1e1"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255213,
+      "name": "Waiting for an Invitation",
+      "url": "https://open.spotify.com/track/71yh7sKS2R54c3qcGuRv2j"
+    },
+    {
+      "album": {
         "name": "\u00cdkaros",
         "url": "https://open.spotify.com/album/67M0ktUMgHOrZqDVdZLOfl"
       },
@@ -1217,10 +1343,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 284733,
       "name": "Washed Out",
       "url": "https://open.spotify.com/track/6eRWiC37qNFG4p3IsLrst6"
+    },
+    {
+      "album": {
+        "name": "Strange to Explain",
+        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
+      },
+      "artists": [
+        {
+          "name": "Woods",
+          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351725,
+      "name": "Where Do You Go When You Dream",
+      "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
     },
     {
       "album": {

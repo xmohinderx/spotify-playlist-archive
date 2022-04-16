@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best modern country music\. Cover: Cole Swindell
+> Nothing but the best modern country music\. Cover: Little Big Town
 
-181 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+184 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 | 2021-12-31 |  |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-31 |  |
 | [Don't It Sound Alright](https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Don't It Sound Alright](https://open.spotify.com/album/3zLyedIJvUMz9V6iLeFPlv) | 3:38 | 2022-04-01 |  |
+| [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-15 |  |
 | [Don’t Come Lookin’](https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:07 | 2022-03-11 |  |
 | [Down Home](https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Down Home](https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf) | 3:21 | 2022-03-11 |  |
 | [Drink Along Song](https://open.spotify.com/track/3ZftVJFtvbtH2bALPVY66a) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Drink Along Song](https://open.spotify.com/album/4NjUdog7CFIBePB2kfFxrz) | 2:48 | 2021-12-31 |  |
@@ -71,9 +72,11 @@
 | [Have A Little Faith In Me](https://open.spotify.com/track/0Xb4liHMsXRr3z1BUj1AhJ) | [Johnny Reid](https://open.spotify.com/artist/2QnCvSa46mN4Wi4gDVdnso) | [Love Someone](https://open.spotify.com/album/6WOTaKpFJarbgSUGzmBi8L) | 3:41 | 2021-12-31 | 2022-01-15 |
 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-08 |  |
 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 | 2021-12-31 | 2022-03-05 |
+| [Hell Yeah](https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hell Yeah](https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I) | 2:55 | 2022-04-15 |  |
 | [Hide From A Broken Heart](https://open.spotify.com/track/5VrlPIcMKixFC40QFcxXsa) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Hide From A Broken Heart](https://open.spotify.com/album/1f7zNLjz3cKwshw05BPtum) | 3:28 | 2021-12-31 |  |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-04-01 |  |
-| [Horseshoes and Hand Grenades](https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Horseshoes and Hand Grenades](https://open.spotify.com/album/7q7T3eIdjbppmEEii3kKci) | 3:31 | 2022-03-04 |  |
+| [Horseshoes and Hand Grenades](https://open.spotify.com/track/25pLhVpi2zzPeo2D7LNQKR) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:31 | 2022-04-15 |  |
+| [Horseshoes and Hand Grenades](https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Horseshoes and Hand Grenades](https://open.spotify.com/album/7q7T3eIdjbppmEEii3kKci) | 3:31 | 2022-03-04 | 2022-04-16 |
 | [How Do You Love \(with Lee Brice & Lindsay Ell\)](https://open.spotify.com/track/6deDpxfbapjMLgHoaNuAx6) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [How Do You Love \(with Lee Brice & Lindsay Ell\)](https://open.spotify.com/album/3s8fBzIbBGrRhlR2dOk4bq) | 3:30 | 2021-12-31 | 2022-02-26 |
 | [How To Talk To Girls](https://open.spotify.com/track/0TmtIEVQGDMYHWmgYw3Zlq) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [How To Talk To Girls](https://open.spotify.com/album/4G7ZM1XjOlhHBpiCh2QctX) | 3:20 | 2021-12-31 | 2022-03-19 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-25 |  |
@@ -122,7 +125,7 @@
 | [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 | 2021-12-31 | 2022-01-15 |
 | [Nothin' I Don't Love About You](https://open.spotify.com/track/3bpUoxpGoJkEQIHmMaUYPl) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [The Demos](https://open.spotify.com/album/0u5178s4Tdo1FboVzXSQUl) | 2:46 | 2021-12-31 |  |
 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 2:53 | 2021-12-31 | 2022-03-05 |
-| [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2021-12-31 |  |
+| [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2021-12-31 | 2022-04-16 |
 | [Our Days Are Numbered](https://open.spotify.com/track/0tGseysazP8CoS6TbUwfyk) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Our Days Are Numbered](https://open.spotify.com/album/370Fhdm7RYd4R386MOhcjO) | 3:29 | 2022-02-28 |  |
 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 | 2022-03-18 |  |
 | [Over All Over Again](https://open.spotify.com/track/6gLVJsmW7EMNIbZJF89zeW) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Over All Over Again](https://open.spotify.com/album/07CyKxeL5Qi6cxfWk572XW) | 3:21 | 2021-12-31 | 2022-02-19 |
@@ -138,7 +141,7 @@
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 | 2022-01-29 |
 | [Same Boat](https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:10 | 2021-12-31 |  |
 | [She Don't Know](https://open.spotify.com/track/4IIY0QOlVtmvpJbeoMWYvY) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/3SEBw5oY1ovdxTKeblEwJC) | 3:24 | 2021-12-31 |  |
-| [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2022-04-08 |  |
+| [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2022-04-08 | 2022-04-16 |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2021-12-31 |  |
 | [Shut Er Down](https://open.spotify.com/track/1WZNw6XKMjYn4mxUX7ctiI) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Everbound](https://open.spotify.com/album/46w9JKmyydAsnkVW34kP6I) | 2:49 | 2022-03-11 |  |
 | [Slow](https://open.spotify.com/track/6hCbCpHz17ER6amPrHwJCz) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Campfire Troubadour](https://open.spotify.com/album/0JXLd6bWmSoMEofuBlP3KP) | 3:49 | 2021-12-31 | 2022-02-26 |

@@ -136,6 +136,24 @@
     },
     {
       "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+    },
+    {
+      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -323,6 +341,24 @@
       "duration_ms": 215117,
       "name": "Better Version",
       "url": "https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA"
+    },
+    {
+      "album": {
+        "name": "Bicolana",
+        "url": "https://open.spotify.com/album/1c95CMYIMxAmcEvxF4OLeI"
+      },
+      "artists": [
+        {
+          "name": "Fred Engay",
+          "url": "https://open.spotify.com/artist/007MmXwT1HwcXwuyROgNJb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194648,
+      "name": "Bicolana",
+      "url": "https://open.spotify.com/track/21WRNpR0AO5R78Qgr8zK2W"
     },
     {
       "album": {
@@ -1208,6 +1244,32 @@
     },
     {
       "album": {
+        "name": "Look At You",
+        "url": "https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ"
+      },
+      "artists": [
+        {
+          "name": "Keeyen Martin",
+          "url": "https://open.spotify.com/artist/50rvEyhTLlWQ5gIjEM6ZxT"
+        },
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Monma",
+          "url": "https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165962,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO"
+    },
+    {
+      "album": {
         "name": "There's Really A Wolf",
         "url": "https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC"
       },
@@ -1639,7 +1701,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 174440,
       "name": "Pieces ft Duckwrth",
       "url": "https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s"
@@ -2207,7 +2269,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 189920,
       "name": "UNPREDICTABLE",
       "url": "https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH"

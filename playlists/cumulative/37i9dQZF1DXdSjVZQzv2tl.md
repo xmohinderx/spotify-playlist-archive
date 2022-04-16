@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: George Henrique & Rodrigo, Gusttavo Lima
+> O melhor do sertanejo em uma só playlist! Foto: João Bosco e Gabriel, Diego & Victor Hugo
 
 69 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 

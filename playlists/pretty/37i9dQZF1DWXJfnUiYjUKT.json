@@ -1,29 +1,13 @@
 {
   "description": "The very best in new music from around the world. Cover: Swedish House Mafia",
-  "num_followers": 304721,
+  "num_followers": 304819,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk3NzIwMCwwMDAwMDM2ZDAwMDAwMTgwMmE0ZTBlM2YwMDAwMDE4MDJhMGU3MGU4",
+  "snapshot_id": "MTY0OTk5NzM1NCwwMDAwMDM2ZjAwMDAwMTgwMmI4MTk3OTQwMDAwMDE4MDJhMGU3MGU4",
   "tracks": [
-    {
-      "added_at": "2022-04-14 23:00:00",
-      "album": {
-        "name": "Top Down",
-        "url": "https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 198511,
-      "name": "Top Down",
-      "url": "https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K"
-    },
     {
       "added_at": "2022-04-14 23:00:00",
       "album": {
@@ -179,6 +163,22 @@
     {
       "added_at": "2022-04-14 23:00:00",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0fQ0yGghNPFuRgxQJhaDh8"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 190148,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7pMLnEJrGpg7jx9Z0gyhiF"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
         "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
         "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
       },
@@ -219,6 +219,26 @@
       "duration_ms": 196896,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
+    },
+    {
+      "added_at": "2022-04-15 04:35:54",
+      "album": {
+        "name": "Two-Face Bang 2",
+        "url": "https://open.spotify.com/album/5AqfTcATeonwu2i5yLV6Zy"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 195590,
+      "name": "Last One Left (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/0UO48o2FQlksTxH1o8m4kS"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -275,6 +295,22 @@
       "duration_ms": 203480,
       "name": "iScream",
       "url": "https://open.spotify.com/track/1mGtSulwCCpDQoXHrrZ4Ur"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "of note",
+        "url": "https://open.spotify.com/album/3WOdAvguXdCeZE0P1G2UlV"
+      },
+      "artists": [
+        {
+          "name": "dempsey hope",
+          "url": "https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7"
+        }
+      ],
+      "duration_ms": 147370,
+      "name": "ur not delilah",
+      "url": "https://open.spotify.com/track/2npGF2T4MHbn2YEDlOaPQg"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -527,6 +563,22 @@
     {
       "added_at": "2022-04-14 23:00:00",
       "album": {
+        "name": "Freak Like That",
+        "url": "https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 135843,
+      "name": "Freak Like That",
+      "url": "https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
         "name": "Clap",
         "url": "https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk"
       },
@@ -611,6 +663,22 @@
       "duration_ms": 171261,
       "name": "Surprise Me",
       "url": "https://open.spotify.com/track/29hh4KOAANANjqfl4XcD7K"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "Half Tee Half Beast",
+        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 272842,
+      "name": "Robbery Part 3",
+      "url": "https://open.spotify.com/track/604i6TTlBXBv6HA6392C0b"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -715,6 +783,22 @@
     {
       "added_at": "2022-04-14 23:00:00",
       "album": {
+        "name": "Darl+ing",
+        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Darl+ing",
+      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
         "name": "Think Of You",
         "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
       },
@@ -731,6 +815,22 @@
       "duration_ms": 185142,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "Mr. Crawford Sampler",
+        "url": "https://open.spotify.com/album/3wTBdbTjE7aGH1e7WEs7A3"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 137799,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/3S6DSiBFZuQrkqirp33iSB"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -955,6 +1055,26 @@
     {
       "added_at": "2022-04-14 23:00:00",
       "album": {
+        "name": "Running Out Of Love",
+        "url": "https://open.spotify.com/album/5BYyNPawWiDnE1XPKVoaHk"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "Dante Smith",
+          "url": "https://open.spotify.com/artist/0wI2v917gHsRkC3HF5JHO7"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Running Out Of Love",
+      "url": "https://open.spotify.com/track/4udmLibqrbdqJtPizt6yBT"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
         "name": "Tears Are Falling",
         "url": "https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn"
       },
@@ -983,6 +1103,22 @@
       "duration_ms": 126708,
       "name": "Buy The Building",
       "url": "https://open.spotify.com/track/4RFq7aObCPnrNHyqBOkrdq"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "24 48",
+        "url": "https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "24 48",
+      "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -1371,6 +1507,22 @@
     {
       "added_at": "2022-04-14 23:00:00",
       "album": {
+        "name": "Fingers",
+        "url": "https://open.spotify.com/album/2SMhuSaFP9jvpMNy6w4YcT"
+      },
+      "artists": [
+        {
+          "name": "Jules Paymer",
+          "url": "https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "Fingers",
+      "url": "https://open.spotify.com/track/5IEHHypxL6TaMZhqUfF0vS"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
         "name": "My Heart's Been Waiting For You (feat. Duvall)",
         "url": "https://open.spotify.com/album/1JXZJkssqEVjgN6hE0lVVW"
       },
@@ -1407,6 +1559,22 @@
       "duration_ms": 230250,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2WEFtOvc70xfKzRNYkXzer"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "82 Moons",
+        "url": "https://open.spotify.com/album/4jRfeVlkvAvqgvGCGfPQ5Y"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 264828,
+      "name": "Lovin' you",
+      "url": "https://open.spotify.com/track/2rIrdCcmhbm7RLbBaVhIIQ"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -1475,6 +1643,22 @@
       "duration_ms": 214866,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w"
+    },
+    {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "Top Down",
+        "url": "https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 198511,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K"
     },
     {
       "added_at": "2022-04-14 23:00:00",

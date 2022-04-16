@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Lizzo
 
-1,019 songs - 2 day 5 hr 5 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+1,020 songs - 2 day 5 hr 7 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Forever Gold](https://open.spotify.com/track/4gvkzozl1zBKCJl8hmzIr0) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Forever Gold](https://open.spotify.com/album/3yeimX9CJX1MSnW9LxggJ8) | 2:52 | 2022-03-31 | 2022-04-08 |
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-03-24 | 2022-04-01 |
 | [Forgive Me](https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Forgive Me](https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW) | 3:45 | 2022-03-03 | 2022-03-11 |
+| [Freak Like That](https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE) | 2:15 | 2022-04-14 |  |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-02-25 | 2022-03-04 |
 | [FREE](https://open.spotify.com/track/52kYbQXrntPEsZ4iiqWKL6) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [FREE](https://open.spotify.com/album/5Z1rLGZjQPAoqI1YZqVkdq) | 3:42 | 2022-04-07 | 2022-04-15 |
 | [Friends](https://open.spotify.com/track/5XzgWnzmPbFtmbK5qGOft7) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Friends](https://open.spotify.com/album/1Xge1Monze0iq1sVANTiJr) | 2:56 | 2022-03-10 | 2022-03-18 |

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-129 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+130 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [In Those Tapes](https://open.spotify.com/track/1VxXn7Tryr630n0KfVRz8B) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Mike Tuccillo](https://open.spotify.com/artist/6vGiwaZ9zrjN0APKhLMSSX) | [Ramy: Seasons One and Two \(Original Composition Soundtrack Album\)](https://open.spotify.com/album/57jesfA7JE3bWqg98gE2eA) | 2:45 | 2021-12-20 |  |
 | [Into the Fire](https://open.spotify.com/track/0TeV9D5NtoAjITBs80oMVg) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Into the Fire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1J4q69vEusnKYtTOrmTpZ6) | 4:04 | 2021-12-20 |  |
 | [Invasion Main Title \- From "Invasion"](https://open.spotify.com/track/1jYHpFrJkXfDfOGlLDevTS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Invasion Main Title \(From "Invasion"\)](https://open.spotify.com/album/4nTgXALKpr4TfilVVM7dNG) | 1:16 | 2021-12-20 |  |
+| [Iris](https://open.spotify.com/track/4qiU2MttlW4RKfV1IbjrxI) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Operation Mincemeat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DDY4cYGgBsiL6cffrDSzZ) | 1:20 | 2022-04-15 |  |
 | [J'ai perdu mon corps](https://open.spotify.com/track/5JtAPiIDccjGa7WSqsc7Iv) | [Dan Levy](https://open.spotify.com/artist/5ubdjQN4F9Xe6jPIVqrce1) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pS4WR8U0b2NFt2T1HBIZ4) | 2:44 | 2021-12-20 |  |
 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 | 2021-12-20 |  |
 | [King's Dream](https://open.spotify.com/track/1Xn1yrAbRRs9AhDYcdjFsO) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Lisey's Story \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/11CiJmVVoKOs6ERfvGPV5C) | 1:36 | 2021-12-20 |  |

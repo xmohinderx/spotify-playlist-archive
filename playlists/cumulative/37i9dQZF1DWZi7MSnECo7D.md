@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Jandaia
+> Novidades e destaques do indie nacional\. Foto: Gorduratrans
 
-155 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+157 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Dóidóidói](https://open.spotify.com/track/4oSVbS2wVr62tRypCHHiQY) | [Labaq](https://open.spotify.com/artist/3lYrvAJgDMVswjcn0Zi0La) | [Dóidóidói](https://open.spotify.com/album/5ORpzqsldrjpCGMBlhSUQA) | 2:46 | 2022-04-01 |  |
 | [Ela Tem Razão](https://open.spotify.com/track/07y63Bvc8jC9WNt7psG7K9) | [Taboo](https://open.spotify.com/artist/1qL8ZkjCQ1MPX0IsunOLC0) | [Taboo](https://open.spotify.com/album/0zngE17ncImExMEoivtMzr) | 2:51 | 2022-03-18 |  |
 | [enquanto isso...](https://open.spotify.com/track/6uPfQxEOJ7EKVO24C127NZ) | [Resp](https://open.spotify.com/artist/7aQV5qISnvnjl2IiAw1Q6o) | [enquanto isso...](https://open.spotify.com/album/31aNUqj3CvyC3r7rRSGbNS) | 3:23 | 2022-01-14 | 2022-01-22 |
+| [enterro dos ossos](https://open.spotify.com/track/2y1IMBalLAnBfljmc5E8iB) | [Gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [enterro dos ossos](https://open.spotify.com/album/763NGc1NT0bfk4DjfLUmcH) | 2:51 | 2022-04-15 |  |
 | [espelho...](https://open.spotify.com/track/7yU2AHrWg5OGnicuu8cdVt) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Byusukii](https://open.spotify.com/artist/5pvTUpf1gd0VbNGPANCscY) | [espelho...](https://open.spotify.com/album/7clz4qxUPJ4TbY0xlNT6W2) | 2:58 | 2022-01-14 | 2022-03-18 |
 | [Estrago](https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Atenta](https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw) | 3:01 | 2022-03-11 | 2022-03-26 |
 | [Estrago](https://open.spotify.com/track/7guu5QTbzpxrt0jbKqF3X8) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Estrago](https://open.spotify.com/album/6n6ychgsjSX4AsAmPcyCT4) | 3:49 | 2022-04-08 |  |
@@ -76,6 +77,7 @@
 | [Imperfeito](https://open.spotify.com/track/3bTkfTFNh90ZWsLwecx1JR) | [Arequipa](https://open.spotify.com/artist/0pnDB20LmxCVBhFuFAIcWw) | [Imperfeito](https://open.spotify.com/album/0QZGvE9vKVt8LvNqNQTRJy) | 3:24 | 2022-03-11 |  |
 | [Isso Não Se Faz](https://open.spotify.com/track/6Quaofku66oYyMJ3m2bgyg) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Niska: Uma Mensagem para Os Tempos de Emergência](https://open.spotify.com/album/1DMLwp6NXaU3CxjPHL8el2) | 3:56 | 2022-01-14 | 2022-02-12 |
 | [Jangada](https://open.spotify.com/track/3EhGmDJSX80MJ1b1DGEwNb) | [mamguá](https://open.spotify.com/artist/68muZlHFoo6eQf8FMChxRi) | [Este é um disco sobre amor](https://open.spotify.com/album/6Z0DDEnCHnOCGmPT78etYH) | 3:26 | 2022-03-18 | 2022-04-09 |
+| [Lazy Dayz](https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Lazy Dayz](https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt) | 4:59 | 2022-04-15 |  |
 | [Lia](https://open.spotify.com/track/02AfIrjEzN8REjSe5ypcXF) | [Lado Fim do Mundo](https://open.spotify.com/artist/66ItPiB5AheRX2jXy4vzZa) | [Lia](https://open.spotify.com/album/45yv7cwCF6mQHYtYYLWkzR) | 5:08 | 2022-01-14 | 2022-02-12 |
 | [Love Song](https://open.spotify.com/track/2mbHhK2CvpS5dsxmOYFYnD) | [Gi Basito](https://open.spotify.com/artist/5TTRCZuJLSRUhIXIBjIFBJ) | [LOVE SONGS](https://open.spotify.com/album/7swFG1JHSEBu76Zxp73k8Q) | 4:22 | 2022-03-25 | 2022-04-09 |
 | [mais um lance](https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [mais um lance](https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT) | 3:01 | 2022-01-21 |  |
@@ -98,7 +100,7 @@
 | [No Escuro](https://open.spotify.com/track/2ZHxQrtMQF5goQyNUWG702) | [Mini Lamers](https://open.spotify.com/artist/4gJTuwBkcgDY6BC2lpYavZ), [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [No Escuro](https://open.spotify.com/album/3SnTf4h0rOS9f6f31wr9P2) | 3:55 | 2022-01-14 | 2022-01-22 |
 | [noiada indoor](https://open.spotify.com/track/64BAxCJPOd3FfipIXHSLUI) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [noiada indoor](https://open.spotify.com/album/5imRZ16LnB9olJx5algmTV) | 3:44 | 2022-02-11 | 2022-03-12 |
 | [Novos Amigos](https://open.spotify.com/track/0AKOSNb6X5lLAQUQVwUgIc) | [insandessa](https://open.spotify.com/artist/0aFNJcmIq2uD638VXjFxxp) | [Novos Amigos](https://open.spotify.com/album/4AhbybLM9SDwz1N0QkjRMM) | 2:52 | 2022-01-14 | 2022-02-12 |
-| [Não foi por mal](https://open.spotify.com/track/40XZqX5zbxr0PaqnmPGr1Y) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não foi por mal](https://open.spotify.com/album/4rQgElXcm1KYhD2dhoez8g) | 2:15 | 2022-02-11 |  |
+| [Não foi por mal](https://open.spotify.com/track/40XZqX5zbxr0PaqnmPGr1Y) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não foi por mal](https://open.spotify.com/album/4rQgElXcm1KYhD2dhoez8g) | 2:15 | 2022-02-11 | 2022-04-16 |
 | [O Amor Se Acabou](https://open.spotify.com/track/30kvSA3nmIdNcEn7Qbz62V) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [Crashes n' Crushes](https://open.spotify.com/album/5EVeip4LayRSxsJoIKXmKr) | 2:55 | 2022-01-14 | 2022-01-22 |
 | [O Limbo do Menino Sem Olhos](https://open.spotify.com/track/0vPdgRzDiARUkiGO81iPKW) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Limbo do Menino Sem Olhos](https://open.spotify.com/album/5Rj9CtWNQiVUYWOiAYInTG) | 2:49 | 2022-02-18 |  |
 | [O Psicopata](https://open.spotify.com/track/7nMOiydlrXngDKZ1KXjxnA) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Psicopata](https://open.spotify.com/album/6N9EiImMR3VxArvmNGCtPh) | 3:04 | 2022-01-14 | 2022-03-18 |
@@ -143,7 +145,7 @@
 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 | 2022-01-21 |  |
 | [Teu Corre](https://open.spotify.com/track/7xxgsPQZJEha6c588wZSAi) | [Igor B.](https://open.spotify.com/artist/7CYcOnoNkoI4LXpEQqnfUP) | [Teu Corre](https://open.spotify.com/album/3nb2i3XcXxcHEPQFtekLVW) | 4:27 | 2022-01-14 | 2022-01-27 |
 | [Tierra del Fuego](https://open.spotify.com/track/2xWVXSEwJcqSRUrnvRK32F) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [A Tentação do Fracasso](https://open.spotify.com/album/02t2XPkozQeUgfEYesclF0) | 6:21 | 2022-03-11 |  |
-| [Tim Tim](https://open.spotify.com/track/3dohwzZ7eRztHA3JkfrJV0) | [Marcela Brandão](https://open.spotify.com/artist/4YihvchpM0vU5a2ZoTdyak) | [Tim Tim](https://open.spotify.com/album/32hSnYUthTsIjnk7GRmhhz) | 3:17 | 2022-04-01 |  |
+| [Tim Tim](https://open.spotify.com/track/3dohwzZ7eRztHA3JkfrJV0) | [Marcela Brandão](https://open.spotify.com/artist/4YihvchpM0vU5a2ZoTdyak) | [Tim Tim](https://open.spotify.com/album/32hSnYUthTsIjnk7GRmhhz) | 3:17 | 2022-04-01 | 2022-04-16 |
 | [toda vez](https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [belina](https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21) | 4:07 | 2022-01-28 |  |
 | [Transtornos](https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW) | [Pedro Bala e Os Holofotes](https://open.spotify.com/artist/3IVu27tS3rMSVzmhaJcZO8) | [Transtornos](https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa) | 3:19 | 2022-04-01 |  |
 | [Traumas de Estimação](https://open.spotify.com/track/3b1Vaxhbj3Vmp5ORS4Pf0d) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Traumas de Estimação](https://open.spotify.com/album/29Ao0U6tuUUR9u8FUBaytS) | 5:07 | 2022-02-11 | 2022-03-12 |

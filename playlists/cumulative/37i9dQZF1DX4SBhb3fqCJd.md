@@ -2,15 +2,16 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\.  Cover: Syd
+> The pulse of R&B music today\.  Cover: Muni Long
 
-97 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
+98 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/0crw01bqnefvDUDjsuKraD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1) | 4:09 | 2022-02-11 |  |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-12-17 | 2022-03-26 |
 | [Amazing \(feat\. DJ Khaled\)](https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Amazing \(feat\. DJ Khaled\)](https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi) | 2:40 | 2021-12-17 | 2022-01-15 |
+| [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 | 2022-04-15 |  |
 | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn) | 5:17 | 2021-12-17 | 2022-01-29 |
 | [Bed Friend \(feat\. Queen Naija\)](https://open.spotify.com/track/0NeBH6OPQMBJMcmhRoCUmv) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Bed Friend](https://open.spotify.com/album/4yddao1MpTLxHNHoSupTpP) | 3:01 | 2021-12-17 | 2022-01-15 |
 | [Best Of Me \(Originals\)](https://open.spotify.com/track/1KkxtIMy5n9AN0hhlzWbAc) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Best Of Me](https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu) | 3:58 | 2021-12-17 | 2022-03-26 |

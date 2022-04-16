@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Conan Gray
 
-1,311 songs - 3 day 0 hr 16 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+1,316 songs - 3 day 0 hr 34 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-17 | 2022-02-25 |
 | [American Dream](https://open.spotify.com/track/5fnYDXLhFOioudAeiQGOPD) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [American Dream](https://open.spotify.com/album/0ySQ4Viqi1pDRZEC3Wwx1z) | 2:40 | 2022-03-10 | 2022-03-18 |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-01-06 | 2022-01-14 |
+| [Angel](https://open.spotify.com/track/7pMLnEJrGpg7jx9Z0gyhiF) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Angel](https://open.spotify.com/album/0fQ0yGghNPFuRgxQJhaDh8) | 3:10 | 2022-04-15 |  |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-03 | 2022-03-11 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-03-24 | 2022-04-01 |
 | [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 | 2022-03-10 | 2022-03-18 |
@@ -272,6 +273,7 @@
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-01-13 | 2022-01-21 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-24 | 2022-03-04 |
 | [Dangerous](https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Dangerous](https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH) | 3:31 | 2022-01-13 | 2022-01-21 |
+| [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-14 |  |
 | [DASH!](https://open.spotify.com/track/4c2omfFacFHQSguseR51fc) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEGUN](https://open.spotify.com/album/0uF2qZ5B62L4ZlfLkAXhd1) | 2:52 | 2022-04-14 |  |
 | [Dating Rules \- Studio Live](https://open.spotify.com/track/7oSrtwyMNXomragc2eLyI4) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Dating Rules \(Studio Live\)](https://open.spotify.com/album/5SjqXySWWIZc5DWSw6uYwf) | 3:33 | 2022-02-24 | 2022-03-04 |
 | [Daughter of Khan](https://open.spotify.com/track/6yGnUnnFL1kuf2PGZcOTEq) | [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Mrs M](https://open.spotify.com/artist/2epgpKCVQxPfBPBzR81527) | [Daughter of Khan](https://open.spotify.com/album/17ed4lUwkdZXc6xt3sG4R1) | 3:12 | 2022-04-14 |  |
@@ -752,6 +754,7 @@
 | [Muddy Waters](https://open.spotify.com/track/3XJ1GdicdMxdCru9Be8vzy) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Muddy Waters](https://open.spotify.com/album/5zg12qv7QIpjNkqkM7cTBy) | 3:01 | 2022-01-13 | 2022-01-21 |
 | [MURDER ME](https://open.spotify.com/track/7bHnDPNl7KQTtupTppd3oR) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [MURDER ME](https://open.spotify.com/album/6u2wZGyeP9BHs1wYThOCfn) | 3:34 | 2022-01-06 | 2022-01-14 |
 | [Murder On The Dance Floor](https://open.spotify.com/track/7ut7SI5v0jHaU8xAxZVFjt) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/3AL0qHWE5sF8SYY273nFXX) | 3:22 | 2022-03-10 | 2022-03-18 |
+| [MVSK \- Remix](https://open.spotify.com/track/5Io9E7JUo707GXVPGC68j8) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 3:41 | 2022-04-14 |  |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-17 | 2022-03-25 |
 | [My Life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [My Life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-20 | 2022-01-28 |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-10 | 2022-03-18 |
@@ -763,6 +766,7 @@
 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 | 2022-03-24 | 2022-04-01 |
 | [Naomi, Why Won't You Answer My Call?](https://open.spotify.com/track/0cy1Ix7DSmvOwh1CItLptA) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Naomi, Why Won't You Answer My Call?](https://open.spotify.com/album/4so2GyTxSd7QJQoaKSu5Fk) | 2:56 | 2022-02-24 | 2022-03-04 |
 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 | 2022-02-17 | 2022-02-25 |
+| [NAVILLERA](https://open.spotify.com/track/5zLCLAce7F5J2OfE4S8yAC) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:07 | 2022-04-14 |  |
 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 | 2022-04-07 | 2022-04-15 |
 | [Need A Moment](https://open.spotify.com/track/54dfyiqH4Q8FQAyASqJNyt) | [SEKI](https://open.spotify.com/artist/2MdhltoGdV44xCcmAReBwQ) | [Need A Moment](https://open.spotify.com/album/0mfsoIAe1N7g7DBKBFQBsZ) | 3:15 | 2022-03-17 | 2022-03-25 |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-02-10 | 2022-02-18 |
@@ -969,6 +973,7 @@
 | [Settle Down](https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [It's 2016 Somewhere](https://open.spotify.com/album/6suTADibkHRNH8K4Up3xec) | 2:58 | 2022-04-14 |  |
 | [Sex Magik](https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:26 | 2022-02-24 | 2022-03-04 |
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-02-24 | 2022-03-04 |
+| [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 | 2022-04-14 |  |
 | [Shallow Water](https://open.spotify.com/track/1GYLx5N1krkkvifDW8Iijn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shallow Water](https://open.spotify.com/album/5nN1w3mTySgI1rWt5hygdZ) | 4:41 | 2022-04-14 |  |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-27 | 2022-02-04 |
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-23 | 2021-12-31 |

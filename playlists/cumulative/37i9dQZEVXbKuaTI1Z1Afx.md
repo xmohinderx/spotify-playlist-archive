@@ -4,11 +4,11 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-363 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
+364 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#doyalike](https://open.spotify.com/track/36Sg1qwErh1ONjBv6I9zPn) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#doyalike](https://open.spotify.com/album/3rS3wTkFe8pRefM2j51gdP) | 3:03 | 2022-04-13 |  |
+| [\#doyalike](https://open.spotify.com/track/36Sg1qwErh1ONjBv6I9zPn) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#doyalike](https://open.spotify.com/album/3rS3wTkFe8pRefM2j51gdP) | 3:03 | 2022-04-13 | 2022-04-16 |
 | [\#Doyalike](https://open.spotify.com/track/4JhL6VywH5lKtAW6E3gKpD) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#Doyalike](https://open.spotify.com/album/1E4Eap7cvWM5wtLNZsVlev) | 3:03 | 2022-04-05 | 2022-04-14 |
 | [1 True Love](https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:19 | 2022-04-05 | 2022-04-13 |
 | [12 Days of Christmas](https://open.spotify.com/track/6bE3npRCJW3wmy4NV44ZS2) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 1:52 | 2021-12-27 | 2022-01-01 |
@@ -260,7 +260,7 @@
 | [Playboy](https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt) | [Jx.Zero](https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d) | [In My Sins](https://open.spotify.com/album/4GENTWizn55KM44eriqNq8) | 2:32 | 2022-02-04 | 2022-03-23 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-01 | 2022-03-07 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-27 | 2022-01-06 |
-| [Poppin](https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:47 | 2022-03-15 |  |
+| [Poppin](https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:47 | 2022-03-15 | 2022-04-16 |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-29 | 2022-03-31 |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-03-15 | 2022-03-23 |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-04-05 |  |
@@ -303,6 +303,7 @@
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-25 | 2022-02-17 |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2022-02-16 | 2022-02-23 |
 | [Strawberry Skies](https://open.spotify.com/track/458EaCXcB9TRBoJEDVcdcr) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies](https://open.spotify.com/album/1WgMm5NRGKfWBGLdvTA1Ky) | 2:45 | 2022-01-29 | 2022-02-01 |
+| [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 | 2022-04-15 |  |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-12-27 | 2022-02-05 |
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2021-12-27 | 2022-02-02 |
 | [Super Urus](https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Super Urus](https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh) | 2:22 | 2022-03-15 | 2022-04-13 |

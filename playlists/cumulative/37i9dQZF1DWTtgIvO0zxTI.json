@@ -570,6 +570,32 @@
     },
     {
       "album": {
+        "name": "Flixi Flaxi",
+        "url": "https://open.spotify.com/album/5kIvpNW9CkRnEINlt9xKPT"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Sunsplash",
+          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Flixi Flaxi",
+      "url": "https://open.spotify.com/track/23UgOgqI6cmSzCy5denhXU"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1DtyUnwykOKQ6n0UE1Gj1B"
       },

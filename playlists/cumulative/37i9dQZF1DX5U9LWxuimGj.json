@@ -600,6 +600,28 @@
     },
     {
       "album": {
+        "name": "I'm the One (Remix)",
+        "url": "https://open.spotify.com/album/7wHphNvWeFFo4vQWMluzSL"
+      },
+      "artists": [
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/6HkNcKiG3lY6qILv7gEm4x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "I'm the One - Remix",
+      "url": "https://open.spotify.com/track/3OTOuRFsNPz18mM9oor9vJ"
+    },
+    {
+      "album": {
         "name": "If I Don't",
         "url": "https://open.spotify.com/album/4bN4XhEzN22vgDdXvGIVE5"
       },

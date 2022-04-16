@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 407042,
+  "num_followers": 407103,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDQ2MCwwMDAwMDAzYjAwMDAwMTgwMDc1NTFjZmIwMDAwMDE3ZGI1ZDhhMjYx",
+  "snapshot_id": "MTY0OTk5NTMyMCwwMDAwMDAzYzAwMDAwMTgwMmI2MjhiMTQwMDAwMDE3ZGI1ZDhhMjYx",
   "tracks": [
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Everybody Wants To Be My Friend",
+        "url": "https://open.spotify.com/album/1YTz5RAgMEKkSavrQAg3yN"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "duration_ms": 217678,
+      "name": "Everybody Wants To Be My Friend",
+      "url": "https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e"
+    },
     {
       "added_at": "2022-04-01 04:02:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 293800,
       "name": "Howl",
       "url": "https://open.spotify.com/track/32ioHHPhIoZjPtwUw5TVfE"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/09KRwQuSiA0RE2Hy1L3u20"
+      },
+      "artists": [
+        {
+          "name": "Vaneese Thomas",
+          "url": "https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK"
+        }
+      ],
+      "duration_ms": 226454,
+      "name": "Fight the Good Fight",
+      "url": "https://open.spotify.com/track/4SZcib7kgYNZC43ZeLpYQM"
     },
     {
       "added_at": "2022-03-28 20:50:43",
@@ -87,6 +119,22 @@
       "duration_ms": 216716,
       "name": "Watch Me Change",
       "url": "https://open.spotify.com/track/4t7izd9oN5muhlpi2ViCMm"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Order out of Chaos",
+        "url": "https://open.spotify.com/album/474UZkOJiONk1qZbePll0F"
+      },
+      "artists": [
+        {
+          "name": "Xander and the Peace Pirates",
+          "url": "https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy"
+        }
+      ],
+      "duration_ms": 302120,
+      "name": "Order out of Chaos",
+      "url": "https://open.spotify.com/track/0g4O3fIl76RzfB6YvPjEhI"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1807,22 +1855,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "May Your Kindness Remain",
-        "url": "https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Border",
-      "url": "https://open.spotify.com/track/4rGnfA4SP3xkvdk6cxqwWl"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh"
       },
@@ -1855,22 +1887,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Earthtones",
-        "url": "https://open.spotify.com/album/5Pe4lj6pfNgR0ZXeZ1altv"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "No Wrong",
-      "url": "https://open.spotify.com/track/6j3ltnb3g4RQRt8azR7Yf5"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Black Holes and Overdoses",
         "url": "https://open.spotify.com/album/12bknsFQe4EJbp0JSnQb7y"
       },
@@ -1887,22 +1903,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/1LwaJSz2vxOtE5nq4P4khN"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Splintered",
-      "url": "https://open.spotify.com/track/4ImN33OfhmbjjWBAB7pElK"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Rubber Factory",
         "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
       },
@@ -1915,22 +1915,6 @@
       "duration_ms": 294933,
       "name": "The Lengths",
       "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 252039,
-      "name": "You and Your Folks, Me and My Folks - Recorded at East West Studios",
-      "url": "https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr"
     },
     {
       "added_at": "2022-01-28 05:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: L\u00d8L\u00d8",
+  "description": "The hottest tunes in rock. Crank it up! Cover: Anyway Gang",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -461,6 +461,24 @@
     {
       "album": {
         "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
+    },
+    {
+      "album": {
+        "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/1rN1O6lNjyw1P3SNs3KZzs"
       },
       "artists": [
@@ -493,6 +511,24 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2"
+    },
+    {
+      "album": {
+        "name": "Earthling",
+        "url": "https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262224,
+      "name": "Brother the Cloud",
+      "url": "https://open.spotify.com/track/3SQeF7y4ZKFaHiLkfw6CnW"
     },
     {
       "album": {
@@ -569,6 +605,24 @@
       "duration_ms": 219404,
       "name": "CANDU",
       "url": "https://open.spotify.com/track/0XWsMu0KI7l1TdoCyoqCmI"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/51Oc9zA07RUPajQqvFUQib"
+      },
+      "artists": [
+        {
+          "name": "Texas King",
+          "url": "https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190275,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/59cS8qsSylHFJAdIo2QSnt"
     },
     {
       "album": {
@@ -713,7 +767,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 250860,
       "name": "Compliance",
       "url": "https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q"
@@ -731,7 +785,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 196887,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/4KegQTOlL9MRctg4JIeVUl"
@@ -1155,7 +1209,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 161592,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/3LBLmC8gqvt1l43kdpx43w"
@@ -1227,7 +1281,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
@@ -1563,6 +1617,24 @@
       "duration_ms": 201029,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/7K4NDffzGp9eHZN7yRYuOV"
+    },
+    {
+      "album": {
+        "name": "Adios Radio",
+        "url": "https://open.spotify.com/album/3X3wNJbcXXm6k928WNYdrn"
+      },
+      "artists": [
+        {
+          "name": "W3APONS",
+          "url": "https://open.spotify.com/artist/4bw2EdX9oLfubvr0o1aRWL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240187,
+      "name": "Gotta Stop",
+      "url": "https://open.spotify.com/track/0eP70BH4qjAy7FbgkPCEBV"
     },
     {
       "album": {
@@ -2336,6 +2408,24 @@
     },
     {
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/2vSmVwFn4mMHp1G57E9RJK"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/6HeaTl38wTgtMgGLTl9d13"
+    },
+    {
+      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/7jjqldf5ajW5aafm6NiYfP"
       },
@@ -2383,10 +2473,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 293105,
       "name": "Listen to the Beat",
       "url": "https://open.spotify.com/track/1nNczyQpQI6nwjcnsnctNs"
+    },
+    {
+      "album": {
+        "name": "Little High Little Low",
+        "url": "https://open.spotify.com/album/4iPzGH8F1IIYz7ktfJ26II"
+      },
+      "artists": [
+        {
+          "name": "The Royal Foundry",
+          "url": "https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "Little High Little Low",
+      "url": "https://open.spotify.com/track/0OzLuAmu5XNIPhCSsPAYer"
     },
     {
       "album": {
@@ -2467,6 +2575,24 @@
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261545,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
     },
     {
       "album": {
@@ -2551,7 +2677,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 122570,
       "name": "make up sex (feat. blackbear)",
       "url": "https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1"
@@ -2801,7 +2927,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 182065,
       "name": "Need You Tonight - Spotify Singles",
       "url": "https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63"
@@ -2823,7 +2949,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 197253,
       "name": "Neurotic (feat. Lukas Rossi)",
       "url": "https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY"
@@ -2931,10 +3057,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 188139,
       "name": "No Apologies",
       "url": "https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb"
+    },
+    {
+      "album": {
+        "name": "Saskadelphia",
+        "url": "https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181626,
+      "name": "Not Necessary",
+      "url": "https://open.spotify.com/track/5pffKlF4vFdE97wNxhcNWW"
     },
     {
       "album": {
@@ -3312,6 +3456,24 @@
     },
     {
       "album": {
+        "name": "Reckless Reckless",
+        "url": "https://open.spotify.com/album/5czDSXLq00A1PZpLxi6Qrd"
+      },
+      "artists": [
+        {
+          "name": "Anyway Gang",
+          "url": "https://open.spotify.com/artist/2CJSKzMdOlJ6FaffywHeHr"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207942,
+      "name": "Reckless Reckless",
+      "url": "https://open.spotify.com/track/38nKx2qqbuyVzNhLO0xp9G"
+    },
+    {
+      "album": {
         "name": "Reckoning",
         "url": "https://open.spotify.com/album/5213OlCkbO2jaQg96wGVNa"
       },
@@ -3341,7 +3503,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 274386,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/0DSGx4kH1WwwtLMVzsiQMS"
@@ -3489,7 +3651,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 199198,
       "name": "Ruin My Life (feat. Deryck Whibley)",
       "url": "https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH"
@@ -3529,6 +3691,24 @@
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6aPG4u5M2yzBbwABa6uGbo"
+    },
+    {
+      "album": {
+        "name": "Running For The Hills",
+        "url": "https://open.spotify.com/album/12iUAdUunxdy80zdZduc9u"
+      },
+      "artists": [
+        {
+          "name": "The Darcys",
+          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177958,
+      "name": "Running For The Hills",
+      "url": "https://open.spotify.com/track/47jE6cHrtaLp3KIiPXQ3eP"
     },
     {
       "album": {
@@ -3622,6 +3802,24 @@
     },
     {
       "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267826,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -3709,7 +3907,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 152280,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/3FMudXjXtacIvLP4D00KF9"
@@ -3788,6 +3986,24 @@
     },
     {
       "album": {
+        "name": "Soundtrack to the End of the World",
+        "url": "https://open.spotify.com/album/2rbI0ac0G0WHszqW6wlmG6"
+      },
+      "artists": [
+        {
+          "name": "The Congregation",
+          "url": "https://open.spotify.com/artist/4DNfDn4Cibrj36mVQnVIUd"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170549,
+      "name": "Soundtrack to the End of the World",
+      "url": "https://open.spotify.com/track/5w5smajWD6cU9yoV8Xup4x"
+    },
+    {
+      "album": {
         "name": "Story Of My Life (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
       },
@@ -3861,7 +4077,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 242424,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM"
@@ -4077,7 +4293,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 195506,
       "name": "The Garden of Eden",
       "url": "https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7"
@@ -4099,6 +4315,24 @@
       "duration_ms": 228834,
       "name": "The Liars Club",
       "url": "https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt"
+    },
+    {
+      "album": {
+        "name": "The Lightning I, II",
+        "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154893,
+      "name": "The Lightning II",
+      "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
     },
     {
       "album": {
@@ -4185,7 +4419,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 227659,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2LT7SqhTeMEczWPBABrR3r"
@@ -4203,7 +4437,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 236216,
       "name": "These Are the Ways",
       "url": "https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ"
@@ -4420,6 +4654,24 @@
     },
     {
       "album": {
+        "name": "Wake Me Up (When This Nightmare's Over)",
+        "url": "https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216474,
+      "name": "Wake Me Up (When This Nightmare's Over)",
+      "url": "https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku"
+    },
+    {
+      "album": {
         "name": "Things Are Great",
         "url": "https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q"
       },
@@ -4449,7 +4701,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 200939,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/4F5tbFtORseJ6Vbemsn4vG"
@@ -4503,7 +4755,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
@@ -4575,7 +4827,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
@@ -4611,7 +4863,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 179712,
       "name": "You",
       "url": "https://open.spotify.com/track/64oJZbt8DzFfoLK6YOUHA9"

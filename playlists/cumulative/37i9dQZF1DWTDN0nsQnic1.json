@@ -760,6 +760,32 @@
     },
     {
       "album": {
+        "name": "Could It Be U / Surface",
+        "url": "https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "INIMI",
+          "url": "https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187767,
+      "name": "Surface",
+      "url": "https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47"
+    },
+    {
+      "album": {
         "name": "Suspended",
         "url": "https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L"
       },

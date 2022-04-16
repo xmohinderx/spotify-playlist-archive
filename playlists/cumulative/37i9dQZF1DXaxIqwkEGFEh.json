@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/0A9OoTlDkyq72dcmrgctyw"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184175,
+      "name": "24",
+      "url": "https://open.spotify.com/track/74liWk9c43Eu8jSNoN1XFq"
+    },
+    {
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -219,7 +237,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 122338,
       "name": "All In",
       "url": "https://open.spotify.com/track/1sE7vQVIRzptUgsx2TH4Gy"
@@ -255,7 +273,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 177693,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3dqFdKbZacv3Z3XzFtIFjE"
@@ -427,10 +445,32 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 154880,
       "name": "Beat The Streets",
       "url": "https://open.spotify.com/track/3z8OCUCuwJop3DB4tIMsRX"
+    },
+    {
+      "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111970,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
     },
     {
       "album": {
@@ -975,6 +1015,24 @@
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/4B0k2ugCAjuBiWbk82P6NZ"
+      },
+      "artists": [
+        {
+          "name": "Kuttem Reese",
+          "url": "https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109545,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/2l5WPsV6FPChUFVzFx7hJQ"
     },
     {
       "album": {
@@ -1731,7 +1789,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 173333,
       "name": "Home Alone",
       "url": "https://open.spotify.com/track/1AOFIqezViAzT4EahxhRAd"
@@ -2035,7 +2093,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 123750,
       "name": "Ice Cream (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
@@ -2109,7 +2167,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 178013,
       "name": "Jump Out (feat. Hotboy Wes)",
       "url": "https://open.spotify.com/track/3W4YwvwzqDqcnUrfF2sDfO"
@@ -2233,10 +2291,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 171349,
       "name": "Lamborghini Geeski",
       "url": "https://open.spotify.com/track/6zKn5ATZWR6XUeK53UoOKC"
+    },
+    {
+      "album": {
+        "name": "Two-Face Bang 2",
+        "url": "https://open.spotify.com/album/5AqfTcATeonwu2i5yLV6Zy"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195590,
+      "name": "Last One Left (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/0UO48o2FQlksTxH1o8m4kS"
     },
     {
       "album": {
@@ -2375,7 +2455,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 160000,
       "name": "Long Time Comin",
       "url": "https://open.spotify.com/track/48ftvy55wQVtwnk1ijfZ5a"
@@ -2606,6 +2686,28 @@
     },
     {
       "album": {
+        "name": "Half Tee Half Beast",
+        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "MilTroit (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
+    },
+    {
+      "album": {
         "name": "Industry Ready",
         "url": "https://open.spotify.com/album/26bYIUAp933spmDSjM2p3B"
       },
@@ -2617,7 +2719,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 102373,
       "name": "Milwaukee",
       "url": "https://open.spotify.com/track/6vY53ev5SnH2m3EDe0OmU7"
@@ -3036,6 +3138,28 @@
     },
     {
       "album": {
+        "name": "On A Tee (with Icewear Vezzo) [Extended Version]",
+        "url": "https://open.spotify.com/album/0Vg6ftTMSD0yb1Uf10O635"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "On A Tee (with Icewear Vezzo) - Extended Version",
+      "url": "https://open.spotify.com/track/3THhDihqhM6tWpPEMZsxkg"
+    },
+    {
+      "album": {
         "name": "On Go (feat. Polo G)",
         "url": "https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z"
       },
@@ -3241,7 +3365,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 100862,
       "name": "Phone Ringing",
       "url": "https://open.spotify.com/track/4O5RjbYzHBFGeXj7Aakz1Y"
@@ -3375,7 +3499,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 196657,
       "name": "Publicity Stunt",
       "url": "https://open.spotify.com/track/1SKkHYkGqhadpciJKXfRhU"
@@ -3623,7 +3747,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 173000,
       "name": "Ridin",
       "url": "https://open.spotify.com/track/4yyc6fQflpJKQuUgAGn3U4"
@@ -3794,6 +3918,24 @@
     },
     {
       "album": {
+        "name": "Serial Killers",
+        "url": "https://open.spotify.com/album/1Odwcvb4QNe1pCYZnG8K25"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188967,
+      "name": "Serial Killers",
+      "url": "https://open.spotify.com/track/5KcZNsrl7PMIxJ2xBbTwH3"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx"
       },
@@ -3831,6 +3973,36 @@
       "duration_ms": 202012,
       "name": "Shake Em Off (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/7JkFYCGtKLrpXMkLuzGCfh"
+    },
+    {
+      "album": {
+        "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+        "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        },
+        {
+          "name": "Bory300",
+          "url": "https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118249,
+      "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+      "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
     },
     {
       "album": {
@@ -4092,6 +4264,28 @@
     },
     {
       "album": {
+        "name": "SRT (feat. OTB Fastlane)",
+        "url": "https://open.spotify.com/album/1or6SskWw7SII7QoladS34"
+      },
+      "artists": [
+        {
+          "name": "Guapo",
+          "url": "https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6"
+        },
+        {
+          "name": "OTB Fastlane",
+          "url": "https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150591,
+      "name": "SRT (feat. OTB Fastlane)",
+      "url": "https://open.spotify.com/track/4goyaIOHI67Nod52RsPt90"
+    },
+    {
+      "album": {
         "name": "MAD.",
         "url": "https://open.spotify.com/album/1yMaeBkeqGdhpJH98GnJBJ"
       },
@@ -4209,6 +4403,28 @@
       "duration_ms": 178413,
       "name": "Straight To It (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O"
+    },
+    {
+      "album": {
+        "name": "Street Signs",
+        "url": "https://open.spotify.com/album/7e9S1FRNCWxw2UeIQtmFAP"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Street Signs",
+      "url": "https://open.spotify.com/track/1tu6h8NPmeS4q2RRpEGjT8"
     },
     {
       "album": {
@@ -4625,6 +4841,24 @@
       "duration_ms": 179586,
       "name": "Turbo",
       "url": "https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1"
+    },
+    {
+      "album": {
+        "name": "Mr. Crawford Sampler",
+        "url": "https://open.spotify.com/album/3wTBdbTjE7aGH1e7WEs7A3"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137799,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/3S6DSiBFZuQrkqirp33iSB"
     },
     {
       "album": {

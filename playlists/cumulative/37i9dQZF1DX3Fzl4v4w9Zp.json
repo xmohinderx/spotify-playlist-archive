@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "All I Needed",
+        "url": "https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179288,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No"
+    },
+    {
+      "album": {
         "name": "A Thousand Turns",
         "url": "https://open.spotify.com/album/7B1SY1ny6RhqjdQRxHpXdQ"
       },
@@ -904,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Don't Bother Me",
+        "url": "https://open.spotify.com/album/3XZIH8fWJIWug0oiVjGVWE"
+      },
+      "artists": [
+        {
+          "name": "The Suffers",
+          "url": "https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209579,
+      "name": "Don't Bother Me",
+      "url": "https://open.spotify.com/track/0qXhEpz1OnQzxovxnYCG9l"
+    },
+    {
+      "album": {
         "name": "Dooley's Farm (feat. Billy Strings)",
         "url": "https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp"
       },
@@ -1629,7 +1665,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 311597,
       "name": "How Do We Heal",
       "url": "https://open.spotify.com/track/2EP80jwbqkWrLPLw9VMdgU"
@@ -1687,6 +1723,28 @@
       "duration_ms": 218357,
       "name": "How to Love",
       "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
+    },
+    {
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
     },
     {
       "album": {
@@ -2382,6 +2440,28 @@
     },
     {
       "album": {
+        "name": "Freewheelin' Woman",
+        "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        },
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "No More Tears",
+      "url": "https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w"
+    },
+    {
+      "album": {
         "name": "Now is the Time",
         "url": "https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4"
       },
@@ -2393,7 +2473,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel"
@@ -3081,6 +3161,28 @@
       "duration_ms": 241540,
       "name": "Something Has to Change",
       "url": "https://open.spotify.com/track/3UYk55HdmtGfWQMggK5ie4"
+    },
+    {
+      "album": {
+        "name": "South Dakota Wild One",
+        "url": "https://open.spotify.com/album/4YjegqlMlr5K8fFIyvPEBV"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        },
+        {
+          "name": "Riley Downing",
+          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203480,
+      "name": "South Dakota Wild One",
+      "url": "https://open.spotify.com/track/0BJlcD5MNOzlHZr4IeFGnj"
     },
     {
       "album": {
@@ -3841,6 +3943,24 @@
       "duration_ms": 192706,
       "name": "We Shall Rise",
       "url": "https://open.spotify.com/track/6JWfXrbrsSqapQ4cAWrZuV"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Club XIII",
+        "url": "https://open.spotify.com/album/5eEe392vaoKZOsVrEIyLsT"
+      },
+      "artists": [
+        {
+          "name": "Drive-By Truckers",
+          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "Welcome 2 Club XIII",
+      "url": "https://open.spotify.com/track/0CqQEFDDgVBj4VZAH5C43S"
     },
     {
       "album": {

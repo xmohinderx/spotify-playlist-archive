@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Marilyne L\u00e9onard",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Peter Peter",
   "name": "Montr\u00e9al Chill",
   "published_playlist_ids": [
     "4x7dCsK0Zzpdb88Niig3QN"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 276425,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt"
@@ -63,6 +63,24 @@
       "duration_ms": 190153,
       "name": "Alison",
       "url": "https://open.spotify.com/track/13aJkLI6FTqT6CdyqxfTt2"
+    },
+    {
+      "album": {
+        "name": "All Fucking Weekend",
+        "url": "https://open.spotify.com/album/5DjP8o0NVjn6LrjxtGqUio"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222888,
+      "name": "All Fucking Weekend",
+      "url": "https://open.spotify.com/track/6qfwBFEZnmakt7GGXdsYzb"
     },
     {
       "album": {
@@ -219,7 +237,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 223347,
       "name": "Bad Behaviour - Busty and the Bass Remix",
       "url": "https://open.spotify.com/track/7wEhnDrdSm7bUAl5g1jDX8"
@@ -245,6 +263,24 @@
       "duration_ms": 185913,
       "name": "Beau beam",
       "url": "https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV"
+    },
+    {
+      "album": {
+        "name": "Another Self",
+        "url": "https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0"
+      },
+      "artists": [
+        {
+          "name": "Sara-Danielle",
+          "url": "https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229972,
+      "name": "Blind Eyes",
+      "url": "https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r"
     },
     {
       "album": {
@@ -568,6 +604,28 @@
     },
     {
       "album": {
+        "name": "Digital Damage",
+        "url": "https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        },
+        {
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149209,
+      "name": "Digital Damage",
+      "url": "https://open.spotify.com/track/6ysriWddMJP3xo4qElbQu7"
+    },
+    {
+      "album": {
         "name": "Dis-moi si la ville",
         "url": "https://open.spotify.com/album/2G57Hhyh1W3gqlZBWMOnsy"
       },
@@ -652,6 +710,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9potoir",
+        "url": "https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193120,
+      "name": "D\u00e9potoir",
+      "url": "https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh"
+    },
+    {
+      "album": {
         "name": "Snake eyes",
         "url": "https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8"
       },
@@ -706,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193876,
+      "name": "Facile",
+      "url": "https://open.spotify.com/track/0U2nIrAiDBB2GIavdQ3p6J"
+    },
+    {
+      "album": {
         "name": "medium plaisir",
         "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
       },
@@ -757,7 +851,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 178461,
       "name": "Fleurs",
       "url": "https://open.spotify.com/track/6J4sn4PN9POF1TeZiE77w2"
@@ -844,6 +938,28 @@
     },
     {
       "album": {
+        "name": "Height of the Feeling",
+        "url": "https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239040,
+      "name": "Height of the Feeling",
+      "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
+    },
+    {
+      "album": {
         "name": "HERA (feat. Evelyne Brochu)",
         "url": "https://open.spotify.com/album/1c9gQnARueqvPuouIwcELm"
       },
@@ -859,7 +975,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 191000,
       "name": "HERA",
       "url": "https://open.spotify.com/track/71u8qE2VjE98HJwuXmIVYs"
@@ -960,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Indiesong",
+        "url": "https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn"
+      },
+      "artists": [
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153157,
+      "name": "Indiesong",
+      "url": "https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9"
+    },
+    {
+      "album": {
         "name": "INSULA",
         "url": "https://open.spotify.com/album/2VbxpSTJVR2aHcnjEMDsS3"
       },
@@ -1033,7 +1167,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 143911,
       "name": "La richesse des pauvres",
       "url": "https://open.spotify.com/track/4jV3QKV40FmtcJikbBpfCf"
@@ -1311,7 +1445,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 267148,
       "name": "Moment Feed",
       "url": "https://open.spotify.com/track/2hDnhl2MV9zsAdCzw6hCjL"
@@ -1401,7 +1535,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 259471,
       "name": "Nothing Less, Nothing More",
       "url": "https://open.spotify.com/track/6GYsooXBA2y4ICjPgCPE4k"
@@ -1564,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Perfected Steps",
+        "url": "https://open.spotify.com/album/2sdTa1WtzVB56sLxCwetxy"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398491,
+      "name": "Perfected Steps",
+      "url": "https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL"
+    },
+    {
+      "album": {
         "name": "Plaster :)",
         "url": "https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1"
       },
@@ -1611,7 +1763,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 202959,
       "name": "Porcelaine",
       "url": "https://open.spotify.com/track/3qeQtEMW0HsxrN8qbvdr6b"
@@ -1944,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Vestiges",
+        "url": "https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244158,
+      "name": "Vestiges",
+      "url": "https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq"
+    },
+    {
+      "album": {
         "name": "Vie de r\u00eave",
         "url": "https://open.spotify.com/album/4v3HOHcAZ6Ip94i6XyzLtC"
       },
@@ -1973,7 +2143,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 191013,
       "name": "Ville ame\u0301ricaine",
       "url": "https://open.spotify.com/track/0YVMPldYkDHfpT4oZdr9kT"

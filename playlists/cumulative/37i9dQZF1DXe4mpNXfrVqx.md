@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Samantha Machado
 
-71 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+72 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 |  |
 | [Mal Acostumada](https://open.spotify.com/track/7GnPbQS1aDXXmON7bMxwX4) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/0r6xdmo9wYNcHrsIlpDvNh) | 2:16 | 2022-03-18 |  |
 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 | 2022-03-18 |  |
+| [Manda Foto](https://open.spotify.com/track/4zJlNlP04sjaIryU8EIlTV) | [Ge Nunes](https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Manda Foto](https://open.spotify.com/album/68lUUHGYtKKcAKxBvRKpvz) | 2:17 | 2022-04-15 |  |
 | [me dá dinheiro ou me faz gozar](https://open.spotify.com/track/6dX7MYD8SXum7KFgcfdxdT) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [me dá dinheiro ou me faz gozar](https://open.spotify.com/album/6inLM6jekV3HXn8IW3AYWS) | 2:00 | 2022-03-18 |  |
 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/0HyNbYtVf6qXJRqbdqO9Uk) | 2:43 | 2022-03-18 |  |
 | [Medusa](https://open.spotify.com/track/2ycdoQS6a9dC33o0v3c1sx) | [Inked Mari](https://open.spotify.com/artist/2bQLU0aXvd4PY08qdTpeUJ) | [Medusa](https://open.spotify.com/album/2k5xtl0YyJVFomryO8MGBp) | 2:19 | 2022-03-18 |  |
@@ -70,7 +71,7 @@
 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 | 2022-03-18 |  |
 | [Suíte](https://open.spotify.com/track/2V1OUlByWK0TETvPKjdUqp) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Suíte](https://open.spotify.com/album/2czFe8CEb8GcRnYCiZyHd0) | 2:58 | 2022-03-18 | 2022-04-09 |
 | [Só Mais um Trapper](https://open.spotify.com/track/077llN7tZH947zQPJFAsMJ) | [Donna Forte](https://open.spotify.com/artist/7pFC3Q9kglhwQQ9y5h9utD) | [Só Mais um Trapper](https://open.spotify.com/album/4xFk7SlXHcQYK1muQp4roe) | 2:24 | 2022-03-18 |  |
-| [Só Para Você](https://open.spotify.com/track/7dqHd6Sc9TbRmmSnU7z4Ro) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Só Para Você](https://open.spotify.com/album/78c8qIT7DWLFDGRB7vdU8u) | 2:15 | 2022-03-18 |  |
+| [Só Para Você](https://open.spotify.com/track/7dqHd6Sc9TbRmmSnU7z4Ro) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Só Para Você](https://open.spotify.com/album/78c8qIT7DWLFDGRB7vdU8u) | 2:15 | 2022-03-18 | 2022-04-16 |
 | [Só Você](https://open.spotify.com/track/3OPtaoYm5WKIwzpZ5rJKwU) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Aloizio](https://open.spotify.com/artist/5vC11pPaZkV4ydnM4kRo91) | [Nunchi](https://open.spotify.com/album/1Jyyxrx1LEpuPKwf1r2nlx) | 2:50 | 2022-03-18 |  |
 | [Território Latino](https://open.spotify.com/track/4j4e7eyjnr8o7rbNnSSvpU) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Território Latino](https://open.spotify.com/album/5TQSuXBvBN0oHJYppBeKIH) | 2:04 | 2022-03-18 |  |
 | [Toma Cuidado](https://open.spotify.com/track/6NXcJBwuVHkXklcJnZPf7X) | [A Pitbull](https://open.spotify.com/artist/60lg8oWzcNfWXdD1zidOI3), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Toma Cuidado](https://open.spotify.com/album/4bREUNf7QrzXeMjUOp6sp6) | 2:01 | 2022-03-18 |  |

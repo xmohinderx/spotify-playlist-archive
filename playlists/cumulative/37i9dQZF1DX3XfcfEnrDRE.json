@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "The ever-evolving sound of Alt! Cover: Kristene DiMarco",
+  "description": "The ever-evolving sound of Alt! Cover: Semler",
   "name": "Ultimate Christian Alternative",
   "published_playlist_ids": [
     "1NSGD7171i0HygYQPY0WUi"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 196578,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/14tyaEf3kt4CwwoYZDuIM9"
@@ -741,6 +741,46 @@
       "duration_ms": 232703,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
+    },
+    {
+      "album": {
+        "name": "hey peace,",
+        "url": "https://open.spotify.com/album/7lB2zFSTyXXMfZxImIDWzr"
+      },
+      "artists": [
+        {
+          "name": "um.sounds",
+          "url": "https://open.spotify.com/artist/2WXbONQ7vR74Xit8g3L9nX"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266590,
+      "name": "hey peace,",
+      "url": "https://open.spotify.com/track/2L2Jp1jncIkIk7bXC7Sy13"
+    },
+    {
+      "album": {
+        "name": "High Calling",
+        "url": "https://open.spotify.com/album/3g41qW3oYLAsJmp81NDHe0"
+      },
+      "artists": [
+        {
+          "name": "The Shelter",
+          "url": "https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC"
+        },
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189706,
+      "name": "High Calling",
+      "url": "https://open.spotify.com/track/2gB0rcZPb6q0P3Pd828K8Y"
     },
     {
       "album": {
@@ -1340,6 +1380,24 @@
     },
     {
       "album": {
+        "name": "Stages Of A Breakdown",
+        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192562,
+      "name": "Raise Up",
+      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
+    },
+    {
+      "album": {
         "name": "Rebel Heart",
         "url": "https://open.spotify.com/album/6XGZvU6rGfvHhrhNSdKfSa"
       },
@@ -1680,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "Where To Find Me",
+        "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138846,
+      "name": "Where To Find Me",
+      "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
+    },
+    {
+      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/5qg6SgN6aJGLWuv1QU27LC"
       },
@@ -1735,7 +1811,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 230444,
       "name": "YEAR OF VICTORY",
       "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"

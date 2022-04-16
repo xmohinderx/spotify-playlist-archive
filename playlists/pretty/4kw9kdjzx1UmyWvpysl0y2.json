@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128413,
+  "num_followers": 128417,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM1MiwwNmQ4YzM3OTI0ZGRlMTRiZjg2MTNlMDNjNmMwMzhjYWY0ZmEwMjY3",
+  "snapshot_id": "MzM1NSxkNzQ3YmQzYTRiYzZmYTUzMDk0NGI2Mjg4Y2E5Y2EyNWU5NmI5MjVi",
   "tracks": [
+    {
+      "added_at": "2022-04-15 16:37:07",
+      "album": {
+        "name": "Just Dance",
+        "url": "https://open.spotify.com/album/5JKQ1by0GaQLYzgR1IyyS4"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 194032,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/3OTClWUY9bf3qVXrR9LNL6"
+    },
+    {
+      "added_at": "2022-04-15 16:36:30",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/2IP4Jtybqn9yhijp7edZik"
+      },
+      "artists": [
+        {
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/2m4CoBXFU89fVREZQeq8CW"
+    },
     {
       "added_at": "2022-04-14 15:53:25",
       "album": {
@@ -1107,22 +1139,6 @@
       "duration_ms": 331034,
       "name": "Almost 3am",
       "url": "https://open.spotify.com/track/3cmpyH2zavEwZwWIGHcdyh"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "feeling",
-        "url": "https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "feeling",
-      "url": "https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

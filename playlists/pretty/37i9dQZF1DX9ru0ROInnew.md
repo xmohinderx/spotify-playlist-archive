@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,884 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,972 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 54 | [La Groupie](https://open.spotify.com/track/254VGWS3FCXAlw572PMYAP) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [La Groupie](https://open.spotify.com/album/3otipvumReIoy4UrzDhuZl) | 5:42 |
 | 55 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 |
 
-Snapshot ID: `MTY0OTk4NDY0OCwwMDAwMDAwMGM2ZTAzZDUxY2QxYmFjZWY2M2UzY2E0Y2FmOTczNmYz`
+Snapshot ID: `MTY1MDA3MDg0OCwwMDAwMDAwMGM2ZTAzZDUxY2QxYmFjZWY2M2UzY2E0Y2FmOTczNmYz`

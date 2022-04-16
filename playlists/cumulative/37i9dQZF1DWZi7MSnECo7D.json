@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Jandaia",
+  "description": "Novidades e destaques do indie nacional. Foto: Gorduratrans",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -916,6 +916,24 @@
     },
     {
       "album": {
+        "name": "enterro dos ossos",
+        "url": "https://open.spotify.com/album/763NGc1NT0bfk4DjfLUmcH"
+      },
+      "artists": [
+        {
+          "name": "Gorduratrans",
+          "url": "https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171648,
+      "name": "enterro dos ossos",
+      "url": "https://open.spotify.com/track/2y1IMBalLAnBfljmc5E8iB"
+    },
+    {
+      "album": {
         "name": "espelho...",
         "url": "https://open.spotify.com/album/7clz4qxUPJ4TbY0xlNT6W2"
       },
@@ -1309,6 +1327,28 @@
       "duration_ms": 206100,
       "name": "Jangada",
       "url": "https://open.spotify.com/track/3EhGmDJSX80MJ1b1DGEwNb"
+    },
+    {
+      "album": {
+        "name": "Lazy Dayz",
+        "url": "https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt"
+      },
+      "artists": [
+        {
+          "name": "Glue Trip",
+          "url": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299480,
+      "name": "Lazy Dayz",
+      "url": "https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5"
     },
     {
       "album": {
@@ -1775,7 +1815,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 135910,
       "name": "N\u00e3o foi por mal",
       "url": "https://open.spotify.com/track/40XZqX5zbxr0PaqnmPGr1Y"
@@ -2649,7 +2689,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 197040,
       "name": "Tim Tim",
       "url": "https://open.spotify.com/track/3dohwzZ7eRztHA3JkfrJV0"

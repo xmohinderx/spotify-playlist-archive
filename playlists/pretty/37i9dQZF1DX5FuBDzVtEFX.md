@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,600 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,708 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 14 | [Tip Toe Thru' the Tulips with Me](https://open.spotify.com/track/2Hat3Kra9vyfFJUMk681zs) | [Dustin Hanusch](https://open.spotify.com/artist/7AWGEBFLCdSRMCbe7TeCJG) | [Tip Toe Thru' the Tulips with Me](https://open.spotify.com/album/2yjbhNZBZHvk2T5eoitb3M) | 2:06 |
 | 15 | [After Surf](https://open.spotify.com/track/4AsbXl4HsasxVm4BBkKJd4) | [Taylor Tyler](https://open.spotify.com/artist/6ry9ltnbChMrzsLRQlJapY) | [After Surf](https://open.spotify.com/album/1DTfXTwSyAce5DYVFmMFhR) | 2:04 |
 | 16 | [Moonlight](https://open.spotify.com/track/0KxDCJzQ5SQfMoe42IN0NC) | [Farah Sumners](https://open.spotify.com/artist/3fn8yofOvpgD2AKNTkbcuz) | [Rainbow](https://open.spotify.com/album/0xk2K2WET3c855QLiDQ8fC) | 3:24 |
-| 17 | [You Are The Sunshine](https://open.spotify.com/track/1x0McHFiqkUOo7sqzMADmc) | [Ailani Akoni](https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k) | [Ipanema](https://open.spotify.com/album/6aDeFSTaYOrxoNKtjKtihO) | 3:08 |
-| 18 | [The Lazy Song \- Ukulele](https://open.spotify.com/track/3NEHhzWhUqFupyHv1IMoNc) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 3:11 |
+| 17 | [The Lazy Song \- Ukulele](https://open.spotify.com/track/3NEHhzWhUqFupyHv1IMoNc) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 3:11 |
+| 18 | [You Are The Sunshine](https://open.spotify.com/track/1x0McHFiqkUOo7sqzMADmc) | [Ailani Akoni](https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k) | [Ipanema](https://open.spotify.com/album/6aDeFSTaYOrxoNKtjKtihO) | 3:08 |
 | 19 | [Don't Look Back](https://open.spotify.com/track/7CGhNKVYThivDTjXTV34ej) | [Luna Leigh](https://open.spotify.com/artist/15QfJ6oZojHoP3JozO2079) | [Don't Look Back](https://open.spotify.com/album/7ky9LVdqdBG450s2w7pyVy) | 2:47 |
 | 20 | [Sunset Jam](https://open.spotify.com/track/3i1aj5PSwGAv4DBuBBJTcd) | [Jambo Ree](https://open.spotify.com/artist/6StwowfQ7VuVgp16U8TU3G) | [Sunset Jam](https://open.spotify.com/album/2aSrL3RXuZIZMtN2bO3HyS) | 1:39 |
 | 21 | [You Are My Sunshine](https://open.spotify.com/track/5WPzdUWZbMgJIOJ07Jgv7O) | [Honolulu Jack](https://open.spotify.com/artist/26YYA34VUK9sdsFLw1Hn1Y) | [Honolulu Jack](https://open.spotify.com/album/0HuD2eiPtxujR7wwQNQn29) | 3:01 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 55 | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/track/5yFEuHawcsewDx3aSYFJss) | [Relaxation Guitar Maestro](https://open.spotify.com/artist/6B5MoYNLUzzteweIhTxIaC) | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/album/3axtiXVPio96WlTBczCKKG) | 4:47 |
 | 56 | [Yesterday](https://open.spotify.com/track/3SdPIwKA7dmxrYJIs63KCj) | [Winton Pearl](https://open.spotify.com/artist/5eM9121fISPjCeJjixEnqZ) | [You Are The Sunshine Of My Life](https://open.spotify.com/album/5gCYcWDJ34dH9oV2zWeaKi) | 2:35 |
 
-Snapshot ID: `MTYzNjY3NTIwMCwwMDAwMDAyZTAwMDAwMTdkMTE3MWE0OTIwMDAwMDE2ZDAwYmRhYWZk`
+Snapshot ID: `MTY1MDAxOTk0MywwMDAwMDAyZjAwMDAwMTgwMmNkYTQ1MzUwMDAwMDE2ZDAwYmRhYWZk`

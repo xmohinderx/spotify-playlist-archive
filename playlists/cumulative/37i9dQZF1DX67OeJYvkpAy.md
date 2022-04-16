@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Nemzzz
 
-95 songs - 4 hr 36 min - not published yet
+95 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

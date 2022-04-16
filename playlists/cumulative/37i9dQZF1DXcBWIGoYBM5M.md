@@ -2,7 +2,7 @@
 
 ### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> Camila Cabello is on top of the Hottest 50!
+> Jack Harlow is on top of the Hottest 50!
 
 719 songs - 1 day 14 hr 24 min - [published](https://open.spotify.com/playlist/47EyYjdbbASCmJLAzJxhXP)
 

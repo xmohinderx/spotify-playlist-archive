@@ -4,7 +4,7 @@
 
 > Home to english South Asian tracks, acclaimed worldwide \- Cover: Joy Crookes
 
-100 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+104 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Flash](https://open.spotify.com/track/5Qf9xsjIGRXnltWynliPv2) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Flash](https://open.spotify.com/album/02sAO2mY4vylQKdXjPxlIT) | 2:41 | 2021-11-10 |  |
 | [flip a coin](https://open.spotify.com/track/3zIhnOb5m3hWEtFjsaJzyO) | [Tepu](https://open.spotify.com/artist/5PeMo5hLLWstecqBEbWtHQ) | [flip a coin](https://open.spotify.com/album/4m6fvR66fT4uM8gE8t9Zej) | 2:34 | 2021-11-10 |  |
 | [For a While](https://open.spotify.com/track/3rnvpHtlBLa4dSPvzNLiQN) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [For a While \- Single](https://open.spotify.com/album/4lw2BuCZftDXnFGEJJw6Ib) | 3:30 | 2021-11-10 |  |
+| [Fortune 500](https://open.spotify.com/track/5U9rAHd7GIE6QGGWiogytI) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548) | [Fortune 500](https://open.spotify.com/album/5XdN21beRlus9HrfQJG3jk) | 2:32 | 2022-04-15 |  |
 | [Fresh Air](https://open.spotify.com/track/3gc6FK8cVsdSb3RIq21C8V) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Jackie](https://open.spotify.com/album/3GmLZdSugxGxuninHFvvk4) | 3:30 | 2021-11-10 |  |
 | [G.O.A.T Flow \(feat\. THEMXXNLIGHT\) \[Produced by Cardo, Co\-Produced by ID Labs\]](https://open.spotify.com/track/6PVX4IODZNDM9qSvf8sh4e) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [Fly Times Vol\. 1: The Good Fly Young](https://open.spotify.com/album/2bwyHN2Y9iljWbUZYPXMrC) | 3:17 | 2021-11-10 |  |
 | [Gluttony](https://open.spotify.com/track/1O1XxaZ8Yyjxl6mlN18Xz4) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Gluttony](https://open.spotify.com/album/20tenLppJDI4jly4ZmPNrz) | 3:09 | 2021-11-10 |  |
@@ -62,6 +63,7 @@
 | [Mama](https://open.spotify.com/track/18SFyxDgdM3256wVI67BEx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Mama](https://open.spotify.com/album/0w7WlmpM5oWDCKwZ78nQ6J) | 4:00 | 2021-11-10 |  |
 | [Mami](https://open.spotify.com/track/4zxnSs7bnFb6TisMem8Q7n) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Mami](https://open.spotify.com/album/3wYkr0Fwc8he14Kn6Hma6d) | 2:44 | 2021-11-10 |  |
 | [Medusa Eyes](https://open.spotify.com/track/0AL9Qcu83RCD8sAQVE9SxL) | [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Medusa Eyes](https://open.spotify.com/album/4nzrTtS7ZxvfwMJ83fcVcv) | 3:21 | 2021-11-10 |  |
+| [Mehbooba ft\. DYSTINCT](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 | 2022-04-15 |  |
 | [Melanin In The Hamptons](https://open.spotify.com/track/00vRKEBd2AMhEP5d014eIW) | [Dandila](https://open.spotify.com/artist/4o0fmWItqg6aEjvsDopr07) | [Melanin In The Hamptons](https://open.spotify.com/album/2GZcjgZBKZ4oPHDMYc4TLK) | 2:09 | 2021-11-10 |  |
 | [Mercury](https://open.spotify.com/track/03AbZgjtzQaHFmp4UveeyX) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548) | [SVDP 2](https://open.spotify.com/album/1Sd5W902T0uiG3wAcLqmso) | 1:16 | 2021-11-10 | 2022-01-21 |
 | [Moments](https://open.spotify.com/track/4Xj05yq3cCARyLibGgID9q) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3), [Sahra](https://open.spotify.com/artist/2qhmnPujuMQoW2IGmdMGhH) | [Olympas](https://open.spotify.com/album/3GVXuN5iZvhuSzDVk8Iin7) | 2:58 | 2021-11-10 |  |
@@ -75,6 +77,7 @@
 | [New Jack](https://open.spotify.com/track/6WqA2cECPziBQNbsEiLUHo) | [Keshavara](https://open.spotify.com/artist/0jydXaYhlJIF2kLYHPofSI) | [New Jack](https://open.spotify.com/album/4F45rLAezmG3o7JAVSXhmt) | 2:50 | 2021-11-10 |  |
 | [Next Life](https://open.spotify.com/track/6PVujJYQmv8oJxa96v1ptT) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Next Life](https://open.spotify.com/album/1qY8L7CXdYKIRlMbomzR5k) | 3:06 | 2021-11-10 |  |
 | [Nusrat on the Beach](https://open.spotify.com/track/2QnnaGWHTgkvyo8Kh7Mpxy) | [Humeysha](https://open.spotify.com/artist/1VoKwUAdCduhJQqJMIUHtW) | [Nusrat on the Beach](https://open.spotify.com/album/1OMjopWk39Js2j74ngAdaJ) | 3:19 | 2021-11-10 |  |
+| [On God](https://open.spotify.com/track/3rUD7NkWJbQruI0ZhEJuqg) | [Ali Kulture](https://open.spotify.com/artist/79g4UUYgjUD4uulYV4ie9S) | [ON GOD](https://open.spotify.com/album/0NDCFsOdLUkfYGSBtsm8a6) | 3:21 | 2022-04-15 |  |
 | [On My Way](https://open.spotify.com/track/38zEODrwgUnlWODI3AGW7S) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [On My Way](https://open.spotify.com/album/4c4aLA391P0WfAZOnaqhUR) | 2:41 | 2021-11-10 |  |
 | [Out Of Order](https://open.spotify.com/track/2uQk7j469l313v2jRJEb9I) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Out Of Order](https://open.spotify.com/album/0jnhqLUVvEbAx1Ui21qOfp) | 3:04 | 2021-11-10 |  |
 | [Peng](https://open.spotify.com/track/7cbrvCI0I91vGThudRwkno) | [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd) | [Peng](https://open.spotify.com/album/6VoxLsPAzcKdzNWvx847rI) | 2:39 | 2021-11-10 |  |
@@ -84,6 +87,7 @@
 | [Reezons](https://open.spotify.com/track/2pud8BG8Dpg5vNBkfe2TiR) | [OM](https://open.spotify.com/artist/1HRU2ePXvkG1Lyn1xPhSNS) | [Reezons](https://open.spotify.com/album/6uzkaLYSAPbN4G8CPHseJI) | 3:00 | 2021-11-10 |  |
 | [Rise](https://open.spotify.com/track/3vCuMkt8hRqydQ6K8v2LXo) | [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L) | [Rise](https://open.spotify.com/album/48xj93YvPgOVurNmI4eGRO) | 3:17 | 2021-11-10 |  |
 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 | 2022-01-20 |  |
+| [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 2:24 | 2022-04-15 |  |
 | [Shanti](https://open.spotify.com/track/2H2hgzXQkrrvU7TRmqxhhp) | [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA), [Kenny Holland](https://open.spotify.com/artist/0bkJj6RKaCzPPEw5yKeGbq), [David Meli](https://open.spotify.com/artist/4ZALWwBr7dwXOhlyiYRMd1) | [ShiShi](https://open.spotify.com/album/4H6l9ZquV8v7PQmQj8tZzT) | 3:55 | 2021-11-10 | 2022-01-21 |
 | [Somebody to Love](https://open.spotify.com/track/3pdHWxpeFJqai3skQcRr41) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Marbled](https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7) | 4:10 | 2021-11-10 |  |
 | [Something In Common](https://open.spotify.com/track/26OTg2xFP2X2Bllzb2AIZM) | [Anushqa](https://open.spotify.com/artist/0IcLVlZlFJH2ifZjasaCVm) | [Something In Common](https://open.spotify.com/album/6Iwlg5fffwQFgYTDBzq6Ab) | 3:02 | 2021-11-10 |  |

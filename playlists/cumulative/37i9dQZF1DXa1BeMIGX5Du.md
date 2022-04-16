@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-80 songs - 4 hr 51 min - not published yet
+80 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/6mRS7vK5o4DCt7Kc7WlJdj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

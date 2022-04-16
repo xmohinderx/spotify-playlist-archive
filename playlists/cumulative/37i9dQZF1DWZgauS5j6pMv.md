@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Cory Wong
 
-151 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+153 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Come Over](https://open.spotify.com/track/08lS7uqLMbXv7BDOb9guYJ) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Come Over](https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0) | 3:42 | 2020-11-20 | 2022-04-09 |
 | [Coming Back Around](https://open.spotify.com/track/3uHYh9Fou12jo5JAEt6S6V) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Coming Back Around](https://open.spotify.com/album/1JxYrg1tPFOpv85nPNrmg4) | 4:08 | 2021-01-15 |  |
 | [common sense](https://open.spotify.com/track/2hypebb8hlTmlR011pxf7k) | [d.r.w.s.](https://open.spotify.com/artist/1M7hE1Aey8aOROKiJg847K), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [common sense](https://open.spotify.com/album/0dsFIldaIJMwx0eGeXE7N2) | 3:34 | 2021-02-19 | 2022-01-29 |
+| [Crisis](https://open.spotify.com/track/6kDUK6LFD04adKc2ol3Cve) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Crisis](https://open.spotify.com/album/2Gvg1yrzvA3rZJNtzoYykI) | 4:17 | 2022-04-15 |  |
 | [D.T.Y.O.B.](https://open.spotify.com/track/41iBqPWpC2imF7c7AV3ssN) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy) | [Little House](https://open.spotify.com/album/1j3MxHfoULsrj2vRZ0KZxE) | 3:22 | 2022-02-11 |  |
 | [Dangerous](https://open.spotify.com/track/5jyOnbGplNA8CXczAERKZq) | [Miss Mojo](https://open.spotify.com/artist/0gOgTykHtej65Q5SOV7xpV) | [Dangerous](https://open.spotify.com/album/4SBEvfxXZnMjzcUr5hi7ir) | 4:09 | 2020-11-20 | 2022-04-09 |
 | [Do Your Thang](https://open.spotify.com/track/2QHKyQgP6WQasHjufqOfbX) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Apollo](https://open.spotify.com/album/6f0A1F9M21dIgLIGLgZUKO) | 3:54 | 2020-11-20 | 2022-04-09 |
@@ -49,6 +50,7 @@
 | [Don't Leave Me on Read](https://open.spotify.com/track/11diXJtSS2XZUimNMl6Wgo) | [Yuphoric](https://open.spotify.com/artist/7dUQFBLwkdsa2l4Ttc6EGP) | [Don't Leave Me on Read](https://open.spotify.com/album/7jUwZ8HVfJOIQJ35PfWgqZ) | 3:48 | 2020-11-20 | 2022-04-09 |
 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 | 2020-11-20 | 2022-01-29 |
 | [Ease Your Mind](https://open.spotify.com/track/0uwXneXFLt47MlgvoQDouq) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Ease Your Mind](https://open.spotify.com/album/7B5n3tOUAIyahj8TwwPLcN) | 4:44 | 2021-03-12 |  |
+| [Everybody in the World \(feat\. New Breed Brass Band\)](https://open.spotify.com/track/3xRrcTVx6yjNGSEhw8rE2A) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5) | [Everybody in the World](https://open.spotify.com/album/5BLQId2P20h6e3N7RRuXgY) | 3:54 | 2022-04-15 |  |
 | [Express](https://open.spotify.com/track/75Mp8SoON8fbpcOtNx3PwN) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [All In The Family](https://open.spotify.com/album/2DUBK14GtWoErG8eTy6fqI) | 3:13 | 2021-11-05 |  |
 | [Fantasize](https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:19 | 2020-12-08 | 2022-04-09 |
 | [Feeling Of Love \(feat\. DāM\-FunK\)](https://open.spotify.com/track/2B4A0vo8Wsu6SZtHx8Qs3I) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Feeling Of Love](https://open.spotify.com/album/3i2ckvhQzgKThpoiERkG8e) | 4:25 | 2022-02-11 |  |

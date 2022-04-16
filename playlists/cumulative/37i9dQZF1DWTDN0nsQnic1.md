@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-54 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+55 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Something More](https://open.spotify.com/track/1WUenMBQLpOkvu1lc9AbFg) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Butcher Brown](https://open.spotify.com/artist/1EjwcoJN7uzJPuv1vbf2qk) | [Juicebox](https://open.spotify.com/album/7LkpnXXvh8x6EU4mRHgFQW) | 5:03 | 2021-09-08 |  |
 | [Sunn](https://open.spotify.com/track/4ZAA5ABChC3NtSGNvXsMGV) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Flutter](https://open.spotify.com/album/0AIhIiAotftWvQlP0qXyuu) | 2:36 | 2021-09-08 |  |
 | [Super Sad Always](https://open.spotify.com/track/1BqSqUUGo1ilm7Pg4ghJvR) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Super Sad Always](https://open.spotify.com/album/5TZUlZef0K4UmjUFzOh3HL) | 3:13 | 2021-09-08 |  |
+| [Surface](https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [INIMI](https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL) | [Could It Be U / Surface](https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt) | 3:07 | 2022-04-15 |  |
 | [Suspended](https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Suspended](https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L) | 2:10 | 2021-10-29 |  |
 | [syrupy](https://open.spotify.com/track/0jL4kBFDLR9tCJuDP9B7iH) | [av4ln](https://open.spotify.com/artist/3E6IjOeXDYo2swzAUYZ5ln), [ichika](https://open.spotify.com/artist/0gnJx3IKBjjTrDpg1xNG52) | [syrupy](https://open.spotify.com/album/7j9dYye1M5ANMKkBhK0pnV) | 2:49 | 2021-09-08 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2021-09-08 |  |

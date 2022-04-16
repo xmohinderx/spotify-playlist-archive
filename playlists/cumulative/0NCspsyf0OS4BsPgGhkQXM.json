@@ -136,6 +136,28 @@
     },
     {
       "album": {
+        "name": "Afraid of What's Inside",
+        "url": "https://open.spotify.com/album/7hHe8MdufsyYDG1jLLDTZd"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Kala",
+          "url": "https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Afraid of What's Inside",
+      "url": "https://open.spotify.com/track/7bCDBmQ2AZdsnMRSL40J7s"
+    },
+    {
+      "album": {
         "name": "Alive With You",
         "url": "https://open.spotify.com/album/2zhNMOvsfGIG06KxyfYCyt"
       },

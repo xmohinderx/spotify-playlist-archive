@@ -4,13 +4,13 @@
 
 > Alternative Arabic songs\. Cover: ŸUMA.
 
-73 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+74 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3abali](https://open.spotify.com/track/7be2niudzNWRnBdhTMKzWz) | [Police Voleur](https://open.spotify.com/artist/4ZIaNtLAJXK0Bee9QHJ9MR) | [3abali](https://open.spotify.com/album/0JUu2lcXnRmvJwAy7V32V1) | 2:37 | 2022-02-18 |  |
 | [Al Fajer Al Kazeb](https://open.spotify.com/track/75f1DWsH7SzOHQbtURZf0u) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Polylog](https://open.spotify.com/album/68PRVUPTJsIygqpuDKrgXG) | 6:04 | 2021-12-23 |  |
-| [Al Rabta](https://open.spotify.com/track/7BnxgBDGc0f0xgFGNaYaWC) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Al Rabta](https://open.spotify.com/album/74YSFIcE0BoGp0vLfkYNis) | 5:03 | 2021-12-23 |  |
+| [Al Rabta](https://open.spotify.com/track/7BnxgBDGc0f0xgFGNaYaWC) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Al Rabta](https://open.spotify.com/album/74YSFIcE0BoGp0vLfkYNis) | 5:03 | 2021-12-23 | 2022-04-16 |
 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 | 2022-01-10 |  |
 | [Ann Alawan](https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ann Alawan](https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg) | 3:45 | 2022-02-25 |  |
 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 | 2021-12-23 | 2022-02-10 |
@@ -43,6 +43,7 @@
 | [Lan Ansa \- Single Edit](https://open.spotify.com/track/0KwFmu6kZiqKSwIJG1eJQU) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Lan Ansa](https://open.spotify.com/album/3loPFrWppE0ACpiRGXBrIG) | 3:37 | 2021-12-23 |  |
 | [Latina](https://open.spotify.com/track/42d62TnY6q3qVR5RiyaEps) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Latina](https://open.spotify.com/album/7mljCWuvJRbbTazyT8R4rR) | 3:06 | 2021-12-23 |  |
 | [Laysh](https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Third World Wide Vol\. 1](https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh) | 2:58 | 2021-12-23 |  |
+| [Lessa Bahinlha](https://open.spotify.com/track/5Hto3NaFsv1or3zn3GdfY3) | [Ramy Essam](https://open.spotify.com/artist/7axpCYU6YisPgZQXYzNzis) | [Lessa Bahinlha](https://open.spotify.com/album/428C46dH0EBtXIbzpeLSGO) | 3:27 | 2022-04-15 |  |
 | [Ma Kan Ala Baly](https://open.spotify.com/track/1055RLG3kqVGBfOusIH8wg) | [Andrew Mounir](https://open.spotify.com/artist/5j87IbPLinOmiegvVuuDAA), [Hana Ghoneim](https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk), [Ahmed Nihad](https://open.spotify.com/artist/2nRvsNbmm4kJSHmM3rel9r) | [Ma Kan Ala Baly](https://open.spotify.com/album/1tgXPdVUYVgPvb8vuXDvTZ) | 3:43 | 2022-01-20 |  |
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-03-14 |  |
 | [Mahlaki](https://open.spotify.com/track/6B7zL4ZQzIfNPyNqCmh1Kh) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mahlaki](https://open.spotify.com/album/1w6bOsRP9n1M4FdTlwswiP) | 3:33 | 2021-12-23 |  |
@@ -79,7 +80,7 @@
 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [DaMoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 | 2022-02-17 |  |
 | [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-01-01 |  |
 | [في السماء \(Fe Samaa\)](https://open.spotify.com/track/1dIf1Gc7gIoXSuRzlnOTWC) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV), [ڭليثر Glitter٥٥](https://open.spotify.com/artist/2KWnDPIjSGjvYrwexIdYyI) | [في السماء \(Fe Samaa\)](https://open.spotify.com/album/03rlICPw5ab843v5pXMo4H) | 3:53 | 2021-12-23 |  |
-| [لحالها](https://open.spotify.com/track/64NJb1lr4J9IXDUNl63nxo) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [لحالها](https://open.spotify.com/album/2War9jZBTVTUv12nB0YkUz) | 2:53 | 2021-12-23 |  |
+| [لحالها](https://open.spotify.com/track/64NJb1lr4J9IXDUNl63nxo) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [لحالها](https://open.spotify.com/album/2War9jZBTVTUv12nB0YkUz) | 2:53 | 2021-12-23 | 2022-04-16 |
 | [وين اليوم](https://open.spotify.com/track/3D4FAxWer4j9RD2ASrdfv2) | [DaMoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [وين اليوم](https://open.spotify.com/album/4Bw1p9br1qbIaA8tZz42td) | 3:45 | 2022-01-13 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

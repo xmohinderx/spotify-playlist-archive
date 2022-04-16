@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-626 songs - 1 day 10 hr 13 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+627 songs - 1 day 10 hr 16 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Interpol](https://open.spotify.com/track/1r8FtFFRvksF4iCjb52SsY) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Still Active](https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe) | 3:20 | 2021-03-27\* | 2021-04-09 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-25 | 2021-12-27 |
-| [It's Love](https://open.spotify.com/track/6bOAwlJ6V8oWqGOXeairhN) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Love](https://open.spotify.com/album/61fjiw7XzE91ldIpdf3iCz) | 2:51 | 2022-04-11 |  |
+| [It's Love](https://open.spotify.com/track/6bOAwlJ6V8oWqGOXeairhN) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Love](https://open.spotify.com/album/61fjiw7XzE91ldIpdf3iCz) | 2:51 | 2022-04-11 | 2022-04-16 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-25 | 2021-12-27 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-04 |
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-25 | 2021-05-28 |
@@ -491,6 +491,7 @@
 | [Rihanna](https://open.spotify.com/track/5kkfi60K9OQkXtn3Q6XNHD) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:46 | 2022-01-14 |  |
 | [Rima Polivolo](https://open.spotify.com/track/6AjmjuZVqdNVhFAzWqB0y5) | [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX), [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [22:22](https://open.spotify.com/album/2CASbkwxK2zM1vBmFRi9iN) | 2:45 | 2021-07-24 | 2021-08-25 |
 | [Ring](https://open.spotify.com/track/5g5GOBG3mTODUxegwjK4VL) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Ring](https://open.spotify.com/album/3AOLS2URlI0nyp6v6I9XS3) | 3:41 | 2021-03-27\* | 2021-06-04 |
+| [Ring Ring](https://open.spotify.com/track/6CdE60o6FN8FtJikF580M4) | [Lau Jr](https://open.spotify.com/artist/0VqAapxk0FZ4ijMAZxf3hA), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Ring Ring](https://open.spotify.com/album/3ogObtcOGDUsc0Pl9SHZh3) | 2:56 | 2022-04-15 |  |
 | [Risko](https://open.spotify.com/track/7hj318e237PHNa6RoacNrr) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Timima](https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU) | 3:57 | 2021-11-20 | 2021-12-03 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-13 | 2021-12-27 |
 | [Rollie](https://open.spotify.com/track/1rL4mn6pBrQsLeQLf4mnEX) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Rollie](https://open.spotify.com/album/2C8I5KiJbYWIoXU2kV9Q2G) | 3:04 | 2021-06-09 | 2021-07-18 |

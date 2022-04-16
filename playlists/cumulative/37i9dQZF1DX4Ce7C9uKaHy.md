@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-80 songs - 2 hr 54 min - not published yet
+80 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

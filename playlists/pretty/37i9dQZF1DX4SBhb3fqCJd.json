@@ -1,56 +1,28 @@
 {
-  "description": "The pulse of R&B music today.  Cover: Syd",
-  "num_followers": 5886392,
+  "description": "The pulse of R&B music today.  Cover: Muni Long",
+  "num_followers": 5886968,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5NTQ5NSwwMDAwMDU1YTAwMDAwMTgwMDdhMWYxNjkwMDAwMDE4MDA3NTJkYzU1",
+  "snapshot_id": "MTY0OTk5NjA1MCwwMDAwMDU1YjAwMDAwMTgwMmI2ZGIxZjkwMDAwMDE4MDI5MzQxYmM2",
   "tracks": [
     {
-      "added_at": "2022-04-08 04:06:18",
+      "added_at": "2022-04-15 04:14:10",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "No Love (with SZA & Cardi B) [Extended Version]",
-        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 276214,
-      "name": "No Love (with SZA & Cardi B) - Extended Version",
-      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -89,22 +61,6 @@
       "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
     },
     {
-      "added_at": "2022-04-08 05:24:55",
-      "album": {
-        "name": "Treat Me",
-        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "Treat Me",
-      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Public Displays Of Affection",
@@ -123,34 +79,26 @@
     {
       "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+        "name": "No Love (with SZA & Cardi B) [Extended Version]",
+        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
       "artists": [
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3pcxxaUxAMSfz2zgetHydD"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
+        },
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+      "duration_ms": 276214,
+      "name": "No Love (with SZA & Cardi B) - Extended Version",
+      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -169,20 +117,20 @@
       "url": "https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q"
     },
     {
-      "added_at": "2022-04-08 04:06:18",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "City of Gods (Part II)",
-        "url": "https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J"
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 192000,
-      "name": "City of Gods (Part II)",
-      "url": "https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS"
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-04-08 04:06:18",
@@ -221,20 +169,24 @@
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-04-08 04:06:18",
       "album": {
-        "name": "WE (Warm Embrace)",
-        "url": "https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV"
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 234966,
-      "name": "WE (Warm Embrace)",
-      "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -251,6 +203,122 @@
       "duration_ms": 134626,
       "name": "Letter To Ur Ex",
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 189905,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3pcxxaUxAMSfz2zgetHydD"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Get Home SAFE (Part 1)",
+        "url": "https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "By My Side (feat. Kaash Paige)",
+      "url": "https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 222096,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1caYuDcVSxd8qZBEqzrXQk"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "WE (Warm Embrace)",
+        "url": "https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 234966,
+      "name": "WE (Warm Embrace)",
+      "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Bling Up",
+        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
+        }
+      ],
+      "duration_ms": 177914,
+      "name": "Bling Up",
+      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
+    },
+    {
+      "added_at": "2022-04-08 05:24:55",
+      "album": {
+        "name": "Treat Me",
+        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "Treat Me",
+      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "added_at": "2022-04-08 04:06:18",
+      "album": {
+        "name": "City of Gods (Part II)",
+        "url": "https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "City of Gods (Part II)",
+      "url": "https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -289,22 +357,6 @@
       "url": "https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d"
     },
     {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Bling Up",
-        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
-        }
-      ],
-      "duration_ms": 177914,
-      "name": "Bling Up",
-      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
-    },
-    {
       "added_at": "2022-03-25 15:42:10",
       "album": {
         "name": "Superghetto",
@@ -323,42 +375,6 @@
       "duration_ms": 248700,
       "name": "Happy Hour (feat. T-Pain)",
       "url": "https://open.spotify.com/track/39O9qxLezqqrmre1TPGRVu"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Get Home SAFE (Part 1)",
-        "url": "https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH"
-      },
-      "artists": [
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "By My Side (feat. Kaash Paige)",
-      "url": "https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 222096,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/1caYuDcVSxd8qZBEqzrXQk"
     },
     {
       "added_at": "2022-03-18 05:00:00",

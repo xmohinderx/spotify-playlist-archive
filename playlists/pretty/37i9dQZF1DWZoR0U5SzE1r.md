@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,438 likes - 100 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,525 likes - 100 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Starts And Ends \- Live](https://open.spotify.com/track/6pVL0PbjKbn56UHzXfNF37) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 8:10 |
 | 100 | [God of Revival \- Live](https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:35 |
 
-Snapshot ID: `MTY0OTk4NDI4OSwwMDAwMDAwMGYxNTczOTY2NDUyZTgxNjAyODQ0OTlkYjZiYTkwMzBl`
+Snapshot ID: `MTY1MDA3MDUyNywwMDAwMDAwMGYxNTczOTY2NDUyZTgxNjAyODQ0OTlkYjZiYTkwMzBl`

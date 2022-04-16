@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Alana Springsteen
 
-167 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+170 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Casual](https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Anything But Casual](https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s) | 3:27 | 2022-01-21 |  |
 | [Casual](https://open.spotify.com/track/5gDMFKZB0BT42aDJB0AGPI) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Casual](https://open.spotify.com/album/5biFk4V11QxQO2J8Q9kMmr) | 2:43 | 2021-12-31 |  |
 | [Champagne Problem](https://open.spotify.com/track/7JIzEv4l1UVnEZ6owvjnWf) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Champagne Problem](https://open.spotify.com/album/7h6UDZVbl2zzhcANEe7zB7) | 2:50 | 2021-12-31 |  |
+| [Comin' from](https://open.spotify.com/track/2RbFPHlqlkHERW2oWdr6YG) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [Comin' from](https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0) | 2:58 | 2022-04-15 |  |
 | [Couldn't Care Less](https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/50gHenRfrlNVQ6nSYELygE) | 3:08 | 2022-04-01 |  |
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-31 |  |
 | [Cowboy](https://open.spotify.com/track/76dft06UMtOBvXRcnQp5AP) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Cowboy](https://open.spotify.com/album/43nbnIDcdVU0ky255QCq9K) | 3:08 | 2022-01-28 |  |
@@ -77,6 +78,7 @@
 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 | 2021-12-31 |  |
 | [Jealous of the Sun](https://open.spotify.com/track/28RKuL2HO40ZQkrmOrL2C9) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Jealous of the Sun](https://open.spotify.com/album/2scEI8g9oSSqagxctpMQEj) | 3:23 | 2021-12-31 | 2022-02-12 |
 | [Kinda](https://open.spotify.com/track/7k4eO6vkBNU9OO8LAonra4) | [Jake Rose](https://open.spotify.com/artist/6uj6GUVOExWu9W98Gq5i98) | [Kinda](https://open.spotify.com/album/0ldOhc6vksH0Eja0Eai5Oi) | 2:26 | 2021-12-31 |  |
+| [King Of The World](https://open.spotify.com/track/6yK2aEEVtYTmQ2ca3wja3S) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [King Of The World](https://open.spotify.com/album/2YP4ubZ2u87XOAkeRaKwlU) | 3:19 | 2022-04-15 |  |
 | [Kiss About It](https://open.spotify.com/track/4atQ9Mu2f3s4ym4U2y811i) | [Cash Campbell](https://open.spotify.com/artist/57niI6IBcl5QLGLY45pEdw) | [Kiss About It](https://open.spotify.com/album/0H8cRuaKhqv98RjOWowmN7) | 3:16 | 2021-12-31 | 2022-01-08 |
 | [Knee On](https://open.spotify.com/track/2Ls3eAK8JioZRuyI508fIn) | [Clayton Shay](https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR) | [Knee On](https://open.spotify.com/album/0DERFnU3gL3kT4phelFrzZ) | 3:04 | 2021-12-31 | 2022-02-12 |
 | [Laid Back](https://open.spotify.com/track/1DxeneyJ1e1N9ahmq1y6zy) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/0NBmlHXj47hWNHIdneHCu5) | 2:51 | 2021-12-31 |  |
@@ -151,6 +153,7 @@
 | [That Summer](https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [That Summer](https://open.spotify.com/album/37fZJrMmfyGdPgBupuXKLo) | 3:04 | 2021-12-31 |  |
 | [THE DRILL](https://open.spotify.com/track/7FdVVD2WD45K7gLnN3ly41) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [THE DRILL](https://open.spotify.com/album/0YK0h0tRUflzEx4LrmjcSg) | 3:31 | 2022-04-01 |  |
 | [The Hell of Growing Up](https://open.spotify.com/track/35rwwX2KWvKIryS3enGiVH) | [Jason Reeves](https://open.spotify.com/artist/4ISvSAA85lr3lDwpMEBNgS), [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [The Hell of Growing Up](https://open.spotify.com/album/03xew9gcAHb4cHjeRpps6v) | 3:41 | 2021-12-31 |  |
+| [The Least You Could Do](https://open.spotify.com/track/7v0LWyA2fZo24xyxw6vEYL) | [Teagan Stewart](https://open.spotify.com/artist/4UUoAIVwAOhWNncWlfQxkb) | [The Least You Could Do](https://open.spotify.com/album/1Uvssuk2dY5MMvmT1q9Rpg) | 3:01 | 2022-04-15 |  |
 | [The Only Thing](https://open.spotify.com/track/7yzUuwUZk07zmeRNTPeIYQ) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/1nH2M5l54JzGUaWvJzDqVY) | 3:09 | 2021-12-31 |  |
 | [The Road](https://open.spotify.com/track/4FZI7N03gZMZY59QEqnC7I) | [Cort Carpenter](https://open.spotify.com/artist/6lfRjPeIhzhxRovhoTGtsn) | [The Road](https://open.spotify.com/album/072rBBXzlxzLJDqy80hP6q) | 3:07 | 2021-12-31 | 2022-02-12 |
 | [The Storm](https://open.spotify.com/track/0DMfKoqcOIZDyzcl5iMfeo) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [The Storm](https://open.spotify.com/album/2PfguD2plJWzW903T83UNu) | 3:44 | 2022-03-11 |  |

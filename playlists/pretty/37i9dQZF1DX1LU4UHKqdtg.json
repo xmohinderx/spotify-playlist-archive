@@ -1,12 +1,12 @@
 {
   "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: Red Velvet",
-  "num_followers": 185257,
+  "num_followers": 185692,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk4NDM0OCwwMDAwMDAwMGY0ZDJjNTljNGRiMmFjZTBiNzU3MzliOTQzMjVhYjQ2",
+  "snapshot_id": "MTY1MDA3MDU3OSwwMDAwMDAwMGY0ZDJjNTljNGRiMmFjZTBiNzU3MzliOTQzMjVhYjQ2",
   "tracks": [
     {
       "added_at": "2022-04-14 15:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 229520,
       "name": "WILDSIDE",
       "url": "https://open.spotify.com/track/4RmEqYXrb89Mlwzm2p6Wyd"
+    },
+    {
+      "added_at": "2022-04-14 15:00:00",
+      "album": {
+        "name": "Darl+ing",
+        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Darl+ing",
+      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
     },
     {
       "added_at": "2022-04-14 15:00:00",

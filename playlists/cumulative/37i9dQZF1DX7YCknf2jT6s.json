@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Gerald Clayton",
+  "description": "New jazz for open minds. Cover: Joel Ross",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 282066,
       "name": "All Roads Lead To Los Angeles",
       "url": "https://open.spotify.com/track/4lAZgA07GReOs9Vf1rpcbl"
@@ -139,6 +139,28 @@
       "duration_ms": 324692,
       "name": "All The Memories That Objects Carry",
       "url": "https://open.spotify.com/track/0rdFlicMEENER7yTfqI6wu"
+    },
+    {
+      "album": {
+        "name": "All the Things You Are (feat. Mark Turner)",
+        "url": "https://open.spotify.com/album/1JYmZVumPmo72c3sZFwmCP"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        },
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344812,
+      "name": "All the Things You Are (feat. Mark Turner)",
+      "url": "https://open.spotify.com/track/1sj18gBQAKZ8onvZx0awSw"
     },
     {
       "album": {
@@ -396,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380631,
+      "name": "Beep Durple",
+      "url": "https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM"
+    },
+    {
+      "album": {
         "name": "Smoke Sessions (Remixed)",
         "url": "https://open.spotify.com/album/5tBRsq9lzXfvMGsIQsTIn9"
       },
@@ -577,7 +617,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 164000,
       "name": "Can We? Take A Break",
       "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
@@ -668,6 +708,24 @@
     },
     {
       "album": {
+        "name": "Pursuit of Ends",
+        "url": "https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Chemical X",
+      "url": "https://open.spotify.com/track/3nHQOFh1evDtoyrprDHLih"
+    },
+    {
+      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
       },
@@ -679,7 +737,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 401440,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/6yOA4oobnVP9wJ53TnI4lA"
@@ -849,7 +907,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 255682,
       "name": "De-Dah",
       "url": "https://open.spotify.com/track/5Mr3wSYstgd22IE5GzprgT"
@@ -1027,7 +1085,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 239613,
       "name": "DOXOLOGY (Hope)",
       "url": "https://open.spotify.com/track/1sesgJFnwH4nZ2Hn2Whr8C"
@@ -1193,7 +1251,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 381925,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6GEV8VT0VetzFzlGLGYzub"
@@ -1237,7 +1295,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 222946,
       "name": "Fat Hair",
       "url": "https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP"
@@ -1321,6 +1379,28 @@
       "duration_ms": 339950,
       "name": "Flesk",
       "url": "https://open.spotify.com/track/5E6UpGjpvQ29R8IasnIFeJ"
+    },
+    {
+      "album": {
+        "name": "Flume Ride Blues",
+        "url": "https://open.spotify.com/album/3LQjN6bwGqmkycky15TOxA"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        },
+        {
+          "name": "Sandro S\u00e1ez",
+          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228620,
+      "name": "Flume Ride Blues",
+      "url": "https://open.spotify.com/track/6looAL2s44oXuobZrNEcom"
     },
     {
       "album": {
@@ -1492,6 +1572,28 @@
     },
     {
       "album": {
+        "name": "Giorgio knows",
+        "url": "https://open.spotify.com/album/5J8z4j1nlYXNgvbtjdwGrA"
+      },
+      "artists": [
+        {
+          "name": "the intern",
+          "url": "https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2"
+        },
+        {
+          "name": "BNMO",
+          "url": "https://open.spotify.com/artist/0K93FFKHhvSVG654YlexpR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Giorgio knows",
+      "url": "https://open.spotify.com/track/4c5KThPFzOVrxQuRrLj79s"
+    },
+    {
+      "album": {
         "name": "Gold Dust Black Magic (Karriem Riggins Remix)",
         "url": "https://open.spotify.com/album/6cqmcc7Cw9Es5qmMIQOCYL"
       },
@@ -1537,6 +1639,24 @@
       "duration_ms": 230045,
       "name": "Gotta Go Fast",
       "url": "https://open.spotify.com/track/7k8vWqQfzTumg74KhfvTGk"
+    },
+    {
+      "album": {
+        "name": "The Parable Of The Poet",
+        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562400,
+      "name": "GUILT",
+      "url": "https://open.spotify.com/track/2qteg5TQZlkMpNZ46DQ99w"
     },
     {
       "album": {
@@ -1744,6 +1864,36 @@
     },
     {
       "album": {
+        "name": "Humoresque",
+        "url": "https://open.spotify.com/album/5qBzaHd0TI5Ez5YvJeTBIQ"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        },
+        {
+          "name": "Jan Lundgren",
+          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+        },
+        {
+          "name": "Hans Backenroth",
+          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
+        },
+        {
+          "name": "Kristian Leth",
+          "url": "https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320399,
+      "name": "Humoresque - Radio Edit",
+      "url": "https://open.spotify.com/track/3PSK5LVKm2RPNqsA5Kzjnj"
+    },
+    {
+      "album": {
         "name": "Huntress",
         "url": "https://open.spotify.com/album/7zZ3bMGIFKWvGGLFnVorhd"
       },
@@ -1915,7 +2065,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 340290,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5T3n7Ft1W7HhdEyr5fAFKM"
@@ -1937,6 +2087,32 @@
       "duration_ms": 147573,
       "name": "Jagdish",
       "url": "https://open.spotify.com/track/39xTN7WxxA2KkrPS9y53M6"
+    },
+    {
+      "album": {
+        "name": "JAZZ IS DEAD (feat. Gary Bartz & Kassa Overall)",
+        "url": "https://open.spotify.com/album/52hb2bb8dacjqXLRLhyCZZ"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        },
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307240,
+      "name": "JAZZ IS DEAD (feat. Gary Bartz & Kassa Overall)",
+      "url": "https://open.spotify.com/track/2I1W4oyGhq8bIEkmVjD6UZ"
     },
     {
       "album": {
@@ -1973,7 +2149,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 408240,
       "name": "Just Coolin\u2019",
       "url": "https://open.spotify.com/track/1nvGD6MpBrI0tSwiGIcZxQ"
@@ -2786,6 +2962,36 @@
     },
     {
       "album": {
+        "name": "Noam",
+        "url": "https://open.spotify.com/album/7vHi4PfaQLjzhgs66R73eN"
+      },
+      "artists": [
+        {
+          "name": "Oded Tzur",
+          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Petros Klampanis",
+          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
+        },
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397066,
+      "name": "Noam",
+      "url": "https://open.spotify.com/track/3HYHagZGinnjSfdDPOTgAg"
+    },
+    {
+      "album": {
         "name": "Not for Now",
         "url": "https://open.spotify.com/album/3OJfzhNvtZA1yjYDhEE51R"
       },
@@ -3335,7 +3541,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 326120,
       "name": "Shifting Images",
       "url": "https://open.spotify.com/track/7mA0egatfJxrL2xpC6ff9w"
@@ -3361,7 +3567,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 577782,
       "name": "Softly as in a Morning Sunrise",
       "url": "https://open.spotify.com/track/5plonrhghcq2wiznKpDHp5"
@@ -3463,6 +3669,24 @@
       "duration_ms": 300288,
       "name": "Stay Home",
       "url": "https://open.spotify.com/track/6R1R6czIpUXR6vhWWqfgC2"
+    },
+    {
+      "album": {
+        "name": "String Feelings",
+        "url": "https://open.spotify.com/album/5sGNr9UrlW362sabxIaG37"
+      },
+      "artists": [
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119053,
+      "name": "String Feelings",
+      "url": "https://open.spotify.com/track/1HFutJnyYvkl8vOlcu1pP0"
     },
     {
       "album": {
@@ -3579,7 +3803,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 133235,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/1FePXz2POgqbRHXyvTaatk"
@@ -3635,7 +3859,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 236520,
       "name": "The Circle",
       "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
@@ -3731,6 +3955,58 @@
       "duration_ms": 350145,
       "name": "The Mental Traveller Theme - Triorit\u00e4t Session",
       "url": "https://open.spotify.com/track/7uNIT7WRvGYveZgGfediBL"
+    },
+    {
+      "album": {
+        "name": "The Scout",
+        "url": "https://open.spotify.com/album/7pDX6sN6XxwKsuA5d17msl"
+      },
+      "artists": [
+        {
+          "name": "Thomas Agergaard",
+          "url": "https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8"
+        },
+        {
+          "name": "Jeppe Gram",
+          "url": "https://open.spotify.com/artist/6HwPDkSUPabzWB8PyTPXdo"
+        },
+        {
+          "name": "Jonas Westergaard",
+          "url": "https://open.spotify.com/artist/367P7Sb8eJw6mRwH9wBG9P"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "The Scout",
+      "url": "https://open.spotify.com/track/3mKHDZazl2fuugMyTRE39e"
+    },
+    {
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/7CCjUNt1yUBYj87AE4Pzzw"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Elchin Shirinov",
+          "url": "https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274403,
+      "name": "The Window",
+      "url": "https://open.spotify.com/track/2lJzX1Vn1bEuCRrNUotnup"
     },
     {
       "album": {
@@ -3873,6 +4149,24 @@
       "duration_ms": 511000,
       "name": "Two Chords & the Truth - Soho Radio Vinyl Sessions",
       "url": "https://open.spotify.com/track/5zNvrpPnAq6vtBs1cr9APR"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30ec\u30d3\u671d\u65e5\u7cfb\u30a2\u30cb\u30e1\u300c\u30ea\u30fc\u30de\u30f3\u30ba\u30af\u30e9\u30d6\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4E2efX6mnN7FLWRXDQRaG0"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "Ultimate Formation",
+      "url": "https://open.spotify.com/track/4Y3ytn0XtqAE6PiJDT2cPb"
     },
     {
       "album": {
@@ -4045,7 +4339,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 224012,
       "name": "Wave of Interest",
       "url": "https://open.spotify.com/track/2gYsdI8oB5mHdtXuB0Sh3u"
@@ -4139,6 +4433,32 @@
       "duration_ms": 251278,
       "name": "Yoshi Orange",
       "url": "https://open.spotify.com/track/6DAXWnejJNzLIt6ShyUgdh"
+    },
+    {
+      "album": {
+        "name": "You Don't Know What Love Is",
+        "url": "https://open.spotify.com/album/2sGz1ZyUJGAuPUkvJfQLQi"
+      },
+      "artists": [
+        {
+          "name": "Joris Teepe",
+          "url": "https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz"
+        },
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        },
+        {
+          "name": "Bruce Cox",
+          "url": "https://open.spotify.com/artist/5alxENWo4vQJNNNbjvuSf6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378488,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/7mzo6tiWRZE8Fu6AEvGXLd"
     },
     {
       "album": {

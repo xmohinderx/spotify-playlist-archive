@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Booty Call",
+        "url": "https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194086,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE"
+    },
+    {
+      "album": {
         "name": "Boxes",
         "url": "https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN"
       },
@@ -1357,6 +1375,24 @@
       "duration_ms": 195973,
       "name": "Fille \u00e0 porter",
       "url": "https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157373,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
     },
     {
       "album": {

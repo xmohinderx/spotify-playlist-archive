@@ -510,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Fortune 500",
+        "url": "https://open.spotify.com/album/5XdN21beRlus9HrfQJG3jk"
+      },
+      "artists": [
+        {
+          "name": "Shan Vincent De Paul",
+          "url": "https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152079,
+      "name": "Fortune 500",
+      "url": "https://open.spotify.com/track/5U9rAHd7GIE6QGGWiogytI"
+    },
+    {
+      "album": {
         "name": "Jackie",
         "url": "https://open.spotify.com/album/3GmLZdSugxGxuninHFvvk4"
       },
@@ -1076,6 +1094,28 @@
     },
     {
       "album": {
+        "name": "Mehbooba ft. DYSTINCT",
+        "url": "https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234945,
+      "name": "Mehbooba ft. DYSTINCT",
+      "url": "https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N"
+    },
+    {
+      "album": {
         "name": "Melanin In The Hamptons",
         "url": "https://open.spotify.com/album/2GZcjgZBKZ4oPHDMYc4TLK"
       },
@@ -1334,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "ON GOD",
+        "url": "https://open.spotify.com/album/0NDCFsOdLUkfYGSBtsm8a6"
+      },
+      "artists": [
+        {
+          "name": "Ali Kulture",
+          "url": "https://open.spotify.com/artist/79g4UUYgjUD4uulYV4ie9S"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201586,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/3rUD7NkWJbQruI0ZhEJuqg"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/4c4aLA391P0WfAZOnaqhUR"
       },
@@ -1505,6 +1563,28 @@
       "duration_ms": 185426,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP"
+    },
+    {
+      "album": {
+        "name": "The Blend",
+        "url": "https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144411,
+      "name": "Sahi Ja Nahi? (Good Or Not?) ft. Raja Kumari",
+      "url": "https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN"
     },
     {
       "album": {

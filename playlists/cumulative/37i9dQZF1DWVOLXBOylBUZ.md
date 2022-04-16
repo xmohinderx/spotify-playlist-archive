@@ -2,9 +2,9 @@
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Mora tiene el ritmo que mueve Latinoamérica.
+> Farina y Ryan Castro tienen el ritmo que mueve Latinoamérica.
 
-184 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3K8lWo1A5PGXtJdAZf1WiQ)
+185 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/3K8lWo1A5PGXtJdAZf1WiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fanático \(feat\. Feid & De La Ghetto\) \- Remix](https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Fanático \(feat\. Feid & De La Ghetto\) \[Remix\]](https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO) | 5:10 | 2022-01-07 | 2022-02-05 |
 | [Feeling](https://open.spotify.com/track/0cHuDFkcVBjuvYQxEgcpBv) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Feeling](https://open.spotify.com/album/5A9mItuPjhWffKpSUhCihV) | 3:09 | 2022-01-07 | 2022-03-12 |
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-02-25 |  |
+| [Fiexta](https://open.spotify.com/track/3PMbcW1Rap6Uyy2Ysk75qs) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fiexta](https://open.spotify.com/album/6lBcWzcBdPmgl6IUtM4Naz) | 2:56 | 2022-04-15 |  |
 | [Flashed](https://open.spotify.com/track/7iPmi18b6Z1yy45aOaPHAK) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Gárgolas Forever](https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO) | 3:33 | 2022-01-07 | 2022-04-09 |
 | [Frenesí](https://open.spotify.com/track/1KqpVKfZY3YvWndnx976s8) | [Byron Salas](https://open.spotify.com/artist/70YTbHC7IlTl4EId7bDv2v), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Frenesí](https://open.spotify.com/album/2zUwkxPz7DW73fYRKl97n9) | 3:14 | 2022-01-14 | 2022-01-29 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-02-18 |  |
@@ -160,7 +161,7 @@
 | [SINALOA](https://open.spotify.com/track/3DN5cqnNcrhZ8udxcywiG8) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SINALOA](https://open.spotify.com/album/2HfGfq6diPlFqvpkdDaZFi) | 3:18 | 2022-01-07 | 2022-03-19 |
 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 | 2022-01-14 |  |
 | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/album/7eoNzwrC6Hs8kYNSgAQEkE) | 4:33 | 2022-04-01 |  |
-| [Solo Para Mí](https://open.spotify.com/track/0WluXpyGKqZV6OJmwmXq9c) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Solo Para Mí](https://open.spotify.com/album/1m3eEviQMPKiyWc105PI1M) | 2:52 | 2022-04-08 |  |
+| [Solo Para Mí](https://open.spotify.com/track/0WluXpyGKqZV6OJmwmXq9c) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Solo Para Mí](https://open.spotify.com/album/1m3eEviQMPKiyWc105PI1M) | 2:52 | 2022-04-08 | 2022-04-16 |
 | [Solo Remix \(with Rauw Alejandro & Nio Garcia feat\. Amenazzy\)](https://open.spotify.com/track/3e4Mu36CwPanrSK0Il5uJj) | [Jay Menez](https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Solo Remix \(with Rauw Alejandro & Nio Garcia feat\. Amenazzy\)](https://open.spotify.com/album/4NYdjt6mBY2qVUNpWyVwqE) | 4:28 | 2022-01-07 | 2022-01-15 |
 | [Soñando Despierto](https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 2:56 | 2022-02-11 |  |
 | [Suelta](https://open.spotify.com/track/6b8ssfeNotmNKa9AzS734T) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Suelta](https://open.spotify.com/album/4ryQ5zgWSHGFuoYO4bmY92) | 3:17 | 2022-02-18 |  |

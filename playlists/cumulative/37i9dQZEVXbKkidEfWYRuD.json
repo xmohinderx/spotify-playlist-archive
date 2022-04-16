@@ -5337,7 +5337,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -5831,6 +5831,24 @@
       "duration_ms": 123262,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
+    },
+    {
+      "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Why Not",
+      "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
     },
     {
       "album": {
@@ -8565,7 +8583,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 109133,
       "name": "\u043a\u043b\u0430\u0434\u0431\u0438\u0449\u0435",
       "url": "https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8"
@@ -9423,13 +9441,13 @@
           "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
         },
         {
-          "name": "\u041e\u0434\u0438\u043d \u0432 \u043a\u0430\u043d\u043e\u0435",
-          "url": "https://open.spotify.com/artist/0NjYwLF6qmip8zNPCaQM7S"
+          "name": "Odyn v Kanoe",
+          "url": "https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc"
         }
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 252533,
       "name": "\u041c\u0456\u0441\u0442\u043e \u0432\u0435\u0441\u043d\u0438",
       "url": "https://open.spotify.com/track/56wSomSllGESHGhcfHrvEw"

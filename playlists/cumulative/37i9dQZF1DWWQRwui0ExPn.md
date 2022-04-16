@@ -4,7 +4,7 @@
 
 > Purrrr with beats to chill, relax, study, code, focus, and sleep..\. 🐱
 
-2,648 songs - 4 day 4 hr 44 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+2,650 songs - 4 day 4 hr 48 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Algud](https://open.spotify.com/track/25HieURiGAzYHS2m4A2NRk) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Algud](https://open.spotify.com/album/7bKRlQGgleIbmuX9Sw2WTg) | 2:30 | 2022-04-08 |  |
 | [Alkaline](https://open.spotify.com/track/0OLOedccgpHlbwbAVbq5E0) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Alkaline](https://open.spotify.com/album/1O1glf5xkwb3tjF24HUR5N) | 2:07 | 2021-12-17 |  |
 | [All About](https://open.spotify.com/track/3zQ7sXNcnuB5XU9BeqxGIj) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:45 | 2020-11-05 | 2021-10-20 |
+| [All I Need](https://open.spotify.com/track/4EumqfEVsWUnL6enOFLPIE) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [All I Need](https://open.spotify.com/album/65pPygkQi2XDsUuWXHHC3O) | 2:00 | 2022-04-15 |  |
 | [All is Golden](https://open.spotify.com/track/3LNJ5WNY1hbxJ1nlHpCKK7) | [Aykroyd](https://open.spotify.com/artist/6ptJ0me90iIz3OSsho69cm), [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [All is Golden](https://open.spotify.com/album/4u1mhStpHu43DOMMvjH1W4) | 1:56 | 2022-02-25 |  |
 | [All My Dreams](https://open.spotify.com/track/7akiCIrEtDBy02jXQ21UqR) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Phases](https://open.spotify.com/album/3UMqhBgBTUniqsBIZ09ZCT) | 2:59 | 2022-03-11 |  |
 | [All the Feels](https://open.spotify.com/track/6KKu7Lfc3BFeL7Jsu7NGAI) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [All The Feels](https://open.spotify.com/album/3l66FSe2PrwsGZT1V4Jchy) | 2:13 | 2019-06-19 | 2021-07-11 |
@@ -363,6 +364,7 @@
 | [Call For Spring](https://open.spotify.com/track/0TvNYHasD0uc3WNNszVmqb) | [Bauke Top](https://open.spotify.com/artist/5uE2MwBtAkezKgHl2QwJYX) | [Call For Spring](https://open.spotify.com/album/1UyXpdZX8FwQxQWjnKxnTk) | 1:53 | 2020-09-18 | 2021-10-20 |
 | [Call Me](https://open.spotify.com/track/6xWXGHp0duQcbJEFOr6qiD) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/4IqRFDngg9UAZS6Zb0zIY8) | [Call Me](https://open.spotify.com/album/7l3TZS1ruWyHXY5E9F1azZ) | 1:28 | 2019-11-08 | 2021-01-19 |
 | [Call me](https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC) | [Muerto A Puntapiés](https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV) | [Call me](https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI) | 1:58 | 2022-01-21 |  |
+| [Call Me](https://open.spotify.com/track/34KmJ8zj9Fqq2aFWOEA5br) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [Call Me](https://open.spotify.com/album/1gCfbexRCFVibwqTL6JCpX) | 2:00 | 2022-04-15 |  |
 | [Call You Rose](https://open.spotify.com/track/4TTHortSdkh3qFyDXBUttF) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Call You Rose](https://open.spotify.com/album/5TyqTKVtXOjnnwuEhWuDmW) | 2:06 | 2022-02-25 |  |
 | [Calling mars](https://open.spotify.com/track/5EkBTY3zbyZIgLDXhEwsyf) | [FG yang](https://open.spotify.com/artist/2Cub4EX4bNBLZMbbfzTumv) | [Calling mars](https://open.spotify.com/album/7uHnpZoPqOEfvO4N4AzZUK) | 2:05 | 2021-07-11 | 2022-03-11 |
 | [Calm](https://open.spotify.com/track/2NLdkXP8IzzRcfyN7NsuZZ) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [CALM \(Instrumentals\)](https://open.spotify.com/album/2GwSPFkFkcFeRTED5pt55M) | 2:44 | 2021-01-18 | 2021-10-20 |

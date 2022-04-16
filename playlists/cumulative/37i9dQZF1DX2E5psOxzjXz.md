@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Cover: Wooly and the Uke
 
-109 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+111 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dou Pal](https://open.spotify.com/track/59hkyI30Y03Zei8ITME2mz) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Dou Pal](https://open.spotify.com/album/5RpDf2hdASOFcyz88kVUZS) | 2:53 | 2021-12-06 |  |
 | [Down](https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Down](https://open.spotify.com/album/60BgpEaXzIBL91LhxeMgud) | 2:06 | 2021-12-06 |  |
 | [Dur Nahi](https://open.spotify.com/track/3hYsIM29iqaooKXdtzgfIt) | [Anna Salman](https://open.spotify.com/artist/2NGSwSwsSD1ik4xDJ4l582) | [Dur Nahi](https://open.spotify.com/album/5xo216GInwuzHZjns0x9yv) | 3:34 | 2021-12-06 |  |
+| [Duur Se](https://open.spotify.com/track/3ODxqsvcsdmG7ucehNSxn1) | [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Duur Se](https://open.spotify.com/album/6Ly24eStpe3CeK0YcOxVio) | 4:22 | 2022-04-15 |  |
 | [Ek Shaam Tum](https://open.spotify.com/track/6d06y9vzzldN2wE5AowgQh) | [Murtaza Akbar](https://open.spotify.com/artist/3hr5oDRmPrVXpTkWIM0O2u), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Ek Shaam Tum](https://open.spotify.com/album/1Fga2sLlKhSNU8h3LFN9PH) | 4:16 | 2021-12-06 | 2022-03-05 |
 | [Faaslay](https://open.spotify.com/track/34MruoNGQNNy5OZJ9czg0x) | [Miracle Mangal](https://open.spotify.com/artist/2V1XXUtkW6Xr9pUSqoggfI), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Wali Aleem](https://open.spotify.com/artist/4yAZWHrBK6G6d7gOzJJqlF) | [MM005](https://open.spotify.com/album/5k5Pm7PhTPmxOY6RfYMUxF) | 4:29 | 2021-12-06 |  |
 | [Faryaad](https://open.spotify.com/track/1nWZOrc3xYIybxhSyDO6ga) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Faryaad](https://open.spotify.com/album/5qgIy9CK7C2dxyk8Flnn3Z) | 4:45 | 2021-12-06 |  |
@@ -90,6 +91,7 @@
 | [Saaye](https://open.spotify.com/track/40H5kKnRnnzf31N5UiECJL) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saaye](https://open.spotify.com/album/0J3TKBNNYzrev70LxTKziX) | 3:32 | 2022-01-18 |  |
 | [Sab Acha Hai](https://open.spotify.com/track/0p5xSLSblGV9sS2QV3JKGu) | [Shajie](https://open.spotify.com/artist/72Uj5s1nJQ5G6qZCulNoCX) | [Sab Acha Hai](https://open.spotify.com/album/4ijewIuA0Nmopy5l88oeyn) | 3:45 | 2021-12-06 | 2022-03-05 |
 | [Sab Theek Ho Jaye Ga](https://open.spotify.com/track/1eFgdsMjnVZV23vakr5One) | [Biryani Brothers](https://open.spotify.com/artist/6uI5DSR9jmYd0IptIoZYRZ) | [Sab Theek Ho Jaye Ga](https://open.spotify.com/album/5UUAnC69c8DbUuU0nmPRRi) | 4:07 | 2021-12-06 | 2022-03-05 |
+| [SAFARISH](https://open.spotify.com/track/3dMIW6GxoDGyIlG5JHTyrz) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [SAFARISH](https://open.spotify.com/album/4nmNtsMvp7xJMF60WLXUWX) | 3:42 | 2022-04-15 |  |
 | [Saqi\-E\-Bawafa](https://open.spotify.com/track/02HGPSotKHvGNgHKSG75zw) | [Saakin](https://open.spotify.com/artist/0HKHFik8L0gLia4fKMhxjk) | [Saqi\-E\-Bawafa](https://open.spotify.com/album/2nCo0KIubcXbDZAp1GiI0c) | 5:39 | 2021-12-06 |  |
 | [Sar Phira](https://open.spotify.com/track/1uI4sS3pweJnEVZDA1Ujgh) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Sar Phira](https://open.spotify.com/album/3gyzk3cLjoaILBDhofgxp9) | 2:58 | 2022-01-18 |  |
 | [Seedhi Baat](https://open.spotify.com/track/5iGw9yznWCrWeFQi0xpTm6) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO), [Jamal](https://open.spotify.com/artist/1x63CGMdloIMW4cgzfAdOe) | [Seedhi Baat](https://open.spotify.com/album/26tqdGSrtD82GKizR8Snbk) | 2:59 | 2021-12-06 |  |

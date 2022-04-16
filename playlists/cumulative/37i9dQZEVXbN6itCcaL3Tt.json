@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 162857,
       "name": "Afryka",
       "url": "https://open.spotify.com/track/2JD2C6QTsIjogwoP1QRn6y"
@@ -4645,7 +4645,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 209655,
       "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
       "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
@@ -6067,7 +6067,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 212571,
       "name": "Krokodyl Dundee",
       "url": "https://open.spotify.com/track/28h0ZFwYV84OffAbqVnbxy"
@@ -6825,7 +6825,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 189767,
       "name": "Mateusz",
       "url": "https://open.spotify.com/track/6ZTYmNJgzHjJLuIXlhiOSY"
@@ -8447,6 +8447,28 @@
       "duration_ms": 219546,
       "name": "Ostatni (Rojst '97 | Netflix)",
       "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
+    },
+    {
+      "album": {
+        "name": "ostatnia nadzieja",
+        "url": "https://open.spotify.com/album/3LunLj7fiUtXVbikh5GMRa"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225767,
+      "name": "ostatnia nadzieja",
+      "url": "https://open.spotify.com/track/09oLypr5y21Yc63sYU59nt"
     },
     {
       "album": {
@@ -11367,7 +11389,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 165653,
       "name": "Szmata",
       "url": "https://open.spotify.com/track/1BwnO14BpmoRjGt2lla75r"

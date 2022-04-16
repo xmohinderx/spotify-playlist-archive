@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,569 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,781 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 74 | [Cape Cod Kwassa Kwassa](https://open.spotify.com/track/7q4MJZSiqPC16dbhQWxugv) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 3:34 |
 | 75 | [Jamming](https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:34 |
 
-Snapshot ID: `MTY0OTk4NDEzMiwwMDAwMDAwMDNmOTExNWY0NjFhNGQ3MmJiZDkzOTI3YTlkOGIxMTc2`
+Snapshot ID: `MTY1MDA3MDM3NCwwMDAwMDAwMDNmOTExNWY0NjFhNGQ3MmJiZDkzOTI3YTlkOGIxMTc2`

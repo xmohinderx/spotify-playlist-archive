@@ -710,6 +710,28 @@
     },
     {
       "album": {
+        "name": "N3ichou la vida",
+        "url": "https://open.spotify.com/album/3jOBAFhJqcZC3TSmLTxFNB"
+      },
+      "artists": [
+        {
+          "name": "Cheb Momo",
+          "url": "https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM"
+        },
+        {
+          "name": "Housseyn Benguerna",
+          "url": "https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221962,
+      "name": "N3ichou la vida",
+      "url": "https://open.spotify.com/track/5wSTysykILbhPqKdD2XN2F"
+    },
+    {
+      "album": {
         "name": "Nakareen El Khir",
         "url": "https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR"
       },

@@ -6524,6 +6524,24 @@
     },
     {
       "album": {
+        "name": "Freak Like That",
+        "url": "https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135843,
+      "name": "Freak Like That",
+      "url": "https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8"
+    },
+    {
+      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },

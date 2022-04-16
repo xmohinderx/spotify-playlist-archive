@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Motherflowers
 
-64 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
+65 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Error](https://open.spotify.com/track/2zJ72e7aoDwpyWkw8Ohz9T) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Error](https://open.spotify.com/album/4Iia6he8VBkkbiIXrsmGGN) | 2:53 | 2022-03-11 |  |
 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 | 2022-03-11 |  |
 | [Espero Que Seas Feliz](https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:35 | 2022-03-11 |  |
+| [Flixi Flaxi](https://open.spotify.com/track/23UgOgqI6cmSzCy5denhXU) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Flixi Flaxi](https://open.spotify.com/album/5kIvpNW9CkRnEINlt9xKPT) | 3:28 | 2022-04-08 |  |
 | [Fuego](https://open.spotify.com/track/18hAN4TYNwXERnzAzZu5Tt) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Fuego](https://open.spotify.com/album/1DtyUnwykOKQ6n0UE1Gj1B) | 3:34 | 2022-03-11 | 2022-04-09 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hasta Que Salga el Sol](https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8) | 3:29 | 2022-03-11 |  |
 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2022-03-11 |  |

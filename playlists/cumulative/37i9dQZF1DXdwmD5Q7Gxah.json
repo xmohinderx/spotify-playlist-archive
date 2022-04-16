@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "just want lorde to shush me. cover: flowerovlove",
+  "description": "soft songs that go hard. cover: ROLE MODEL",
   "name": "Lorem",
   "published_playlist_ids": [
     "2xUOX5SyncubeZSn9gFeBN"
@@ -394,6 +394,24 @@
     },
     {
       "album": {
+        "name": "90s American Superstar",
+        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "90s American Superstar",
+      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
+    },
+    {
+      "album": {
         "name": "97 Avalon",
         "url": "https://open.spotify.com/album/1J7dujPQV4tAQpObLon2hb"
       },
@@ -499,7 +517,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 199090,
       "name": "A Lovesong for Whoever",
       "url": "https://open.spotify.com/track/5B2Y72SuWrmRF5SE8qD658"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 239081,
       "name": "bandaid",
       "url": "https://open.spotify.com/track/57F44LdefJqI3Qk6oqZULY"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
@@ -2731,6 +2749,24 @@
       "duration_ms": 153293,
       "name": "blind",
       "url": "https://open.spotify.com/track/6d1ffV5RisInvrDxkLgBxe"
+    },
+    {
+      "album": {
+        "name": "Block me out",
+        "url": "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249494,
+      "name": "Block me out",
+      "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
     },
     {
       "album": {
@@ -4160,6 +4196,24 @@
     },
     {
       "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183865,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu"
+    },
+    {
+      "album": {
         "name": "Earth Boy",
         "url": "https://open.spotify.com/album/0kR7MqklL8vFXV7v3LqCrb"
       },
@@ -5225,6 +5279,32 @@
       "duration_ms": 188707,
       "name": "commuter",
       "url": "https://open.spotify.com/track/0GXBr7RQEfCsDwva2LS1zl"
+    },
+    {
+      "album": {
+        "name": "COMPLICATED (feat. aldn & 8485)",
+        "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "COMPLICATED (feat. aldn & 8485)",
+      "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
     },
     {
       "album": {
@@ -6349,6 +6429,24 @@
       "duration_ms": 190000,
       "name": "Did You Sleep Last Night?",
       "url": "https://open.spotify.com/track/3mOf4VKJR7S8fHXlMakRK1"
+    },
+    {
+      "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "die for my bitch",
+      "url": "https://open.spotify.com/track/4JcibCP49g3evpDtS4Ij6x"
     },
     {
       "album": {
@@ -7541,7 +7639,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
@@ -7779,6 +7877,24 @@
       "duration_ms": 253386,
       "name": "Ever Since New York",
       "url": "https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n"
+    },
+    {
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "album": {
@@ -8165,7 +8281,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 191188,
       "name": "Fall In Love With A Girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
@@ -9017,7 +9133,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 215621,
       "name": "For My Friends",
       "url": "https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8"
@@ -9673,7 +9789,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 178447,
       "name": "girl like me",
       "url": "https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF"
@@ -9835,7 +9951,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 277437,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/2orSQUC5Pu4LHeL5UaGyDx"
@@ -13013,7 +13129,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 217243,
       "name": "if jesus saves, she's my type",
       "url": "https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH"
@@ -13313,7 +13429,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 155254,
       "name": "Invisible Fence",
       "url": "https://open.spotify.com/track/5ziFqEEcLfe7G6MdrnCLy8"
@@ -17966,6 +18082,24 @@
     },
     {
       "album": {
+        "name": "Non-Satisfaction",
+        "url": "https://open.spotify.com/album/5FMycpbu55cMAWprBG4qm6"
+      },
+      "artists": [
+        {
+          "name": "Ruru",
+          "url": "https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219833,
+      "name": "Non-Satisfaction",
+      "url": "https://open.spotify.com/track/2JBKto9PeVMKcgnYuMVRX6"
+    },
+    {
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -18678,6 +18812,24 @@
     },
     {
       "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "ONE IN A MILLION",
+      "url": "https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb"
+    },
+    {
+      "album": {
         "name": "Sideline Star",
         "url": "https://open.spotify.com/album/6EyXcFKu0dmDeGqw1ABxOm"
       },
@@ -18773,6 +18925,24 @@
       "duration_ms": 218586,
       "name": "OPEN A WINDOW (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG"
+    },
+    {
+      "album": {
+        "name": "orange juice",
+        "url": "https://open.spotify.com/album/4bmluZugh54DkReHoghYGu"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "orange juice",
+      "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
     },
     {
       "album": {
@@ -22531,7 +22701,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
@@ -25293,7 +25463,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 193216,
       "name": "tellmewhatuwant",
       "url": "https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt"
@@ -26928,6 +27098,24 @@
     },
     {
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151840,
+      "name": "Waiting on You",
+      "url": "https://open.spotify.com/track/7204ajWyC38ZbcuCULCI3e"
+    },
+    {
+      "album": {
         "name": "Walk Backwards",
         "url": "https://open.spotify.com/album/0ti1WWYsz8tMMYupwHag7b"
       },
@@ -27651,6 +27839,24 @@
       "duration_ms": 209419,
       "name": "Who Cares (Never Inside Throwaway)",
       "url": "https://open.spotify.com/track/4QOdODlBcVna8HLnCoyMPx"
+    },
+    {
+      "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "who hurt you",
+      "url": "https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO"
     },
     {
       "album": {
@@ -28771,6 +28977,24 @@
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
+    },
+    {
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
     },
     {
       "album": {

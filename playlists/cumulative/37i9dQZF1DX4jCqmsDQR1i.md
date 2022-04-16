@@ -2,7 +2,7 @@
 
 ### [Metal Empire](https://open.spotify.com/playlist/37i9dQZF1DX4jCqmsDQR1i)
 
-> Metal tracks all the way from the birth of Metal to today\. Cover: Black Sabbath
+> Metal tracks all the way from the birth of Metal to today\. Cover: Pantera
 
 100 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/2OhgYZKv07Y3c94a2ERvl9)
 

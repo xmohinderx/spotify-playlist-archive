@@ -1,12 +1,12 @@
 {
   "description": "DMV music breaking waves. Cover: Yung Manny",
-  "num_followers": 9964,
+  "num_followers": 9969,
   "original_name": "Ripple Effect: DMV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDAzNTAwMDAwMTgwMDc1NDMyYjcwMDAwMDE4MDA2Y2QzNzNl",
+  "snapshot_id": "MTY1MDAwOTg4OCwwMDAwMDAzNjAwMDAwMTgwMmM0MGQ1ZDQwMDAwMDE4MDA2Y2QzNzNl",
   "tracks": [
     {
       "added_at": "2022-04-08 04:00:00",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz"
     },
     {
+      "added_at": "2022-04-15 08:04:48",
+      "album": {
+        "name": "RESIDE",
+        "url": "https://open.spotify.com/album/47l42xLfI3eMlscIKSloxg"
+      },
+      "artists": [
+        {
+          "name": "Iphe",
+          "url": "https://open.spotify.com/artist/2J058qhuIv7tcZtzpWT7Hx"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "RESIDE",
+      "url": "https://open.spotify.com/track/06cs7lFYMcqowleyJPquAC"
+    },
+    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "Love Song",
@@ -153,6 +169,22 @@
       "url": "https://open.spotify.com/track/3bT4hHXBasKx8ZUUZFwknt"
     },
     {
+      "added_at": "2022-04-15 08:04:48",
+      "album": {
+        "name": "One Man Woman",
+        "url": "https://open.spotify.com/album/7wj0WCgCgJJV9aDhduzIvn"
+      },
+      "artists": [
+        {
+          "name": "Godiva",
+          "url": "https://open.spotify.com/artist/6IGFNGtI94N8h6oHp9Tk3j"
+        }
+      ],
+      "duration_ms": 160208,
+      "name": "One Man Woman",
+      "url": "https://open.spotify.com/track/5kPvNnodG7lDpM5K0iyI5Y"
+    },
+    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "WE (Warm Embrace)",
@@ -167,6 +199,78 @@
       "duration_ms": 234966,
       "name": "WE (Warm Embrace)",
       "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
+    },
+    {
+      "added_at": "2022-04-15 08:04:48",
+      "album": {
+        "name": "Jake Tape",
+        "url": "https://open.spotify.com/album/4Wp8cd65CcZe3kwQV0nG0E"
+      },
+      "artists": [
+        {
+          "name": "Jake Vicious",
+          "url": "https://open.spotify.com/artist/4uzponaVyeBeZ9oSlaGBrA"
+        },
+        {
+          "name": "Lightshow",
+          "url": "https://open.spotify.com/artist/0bxqbGrU4OdgDQNGs9DYp4"
+        },
+        {
+          "name": "Louie Bagz",
+          "url": "https://open.spotify.com/artist/4Z8UVgz0uRs0Ytv1zTmwrr"
+        },
+        {
+          "name": "Flex Kartel",
+          "url": "https://open.spotify.com/artist/2Rc3Mw5rvtHwbGlqB8Mg6S"
+        },
+        {
+          "name": "Biggs Cooley",
+          "url": "https://open.spotify.com/artist/1mXazq0Jd5lhvoVTe8MNlj"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "DMV Prayer",
+      "url": "https://open.spotify.com/track/0iAfHLAh9zqFrWKrRIJvVc"
+    },
+    {
+      "added_at": "2022-04-15 08:04:48",
+      "album": {
+        "name": "The Floor Is Ours",
+        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "The Floor Is Ours",
+      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
+    },
+    {
+      "added_at": "2022-04-15 08:04:48",
+      "album": {
+        "name": "Sailors' Superstition (Bmore Club Remix)",
+        "url": "https://open.spotify.com/album/23mwk7S0raIWPZoYIAAKRl"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        },
+        {
+          "name": "SDOT MUSIC",
+          "url": "https://open.spotify.com/artist/5ruvWpLs2aMVuibVXpsJwL"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Sailors' Superstition - Bmore Club Remix",
+      "url": "https://open.spotify.com/track/2HkFQRcNbymYFNrhEIOJW8"
     },
     {
       "added_at": "2022-04-01 04:00:00",

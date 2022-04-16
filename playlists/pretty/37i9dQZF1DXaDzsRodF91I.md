@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,952 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,099 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Treat You Better](https://open.spotify.com/track/5Ve2oJUFYFpqkYiOB9LODB) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Treat You Better](https://open.spotify.com/album/48Dn2TSX2I9sav0syJgsEH) | 3:07 |
 | 100 | [Give Yourself A Try](https://open.spotify.com/track/1P6mrljaCLCUTwSTmyiCmx) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/3AHrrGDl9BTWbaJX69U2Ta) | 3:19 |
 
-Snapshot ID: `MTY0OTk4NDY2MiwwMDAwMDAwMDBkZjAzM2ZhYmJlZGM1YWViNzQ0ODc3NTRmOTllNjhj`
+Snapshot ID: `MTY1MDA3MDg2MywwMDAwMDAwMDBkZjAzM2ZhYmJlZGM1YWViNzQ0ODc3NTRmOTllNjhj`

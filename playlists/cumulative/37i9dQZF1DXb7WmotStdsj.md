@@ -4,7 +4,7 @@
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-51 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+52 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Maniche Ghaya](https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Maniche Ghaya](https://open.spotify.com/album/0cZAAarZByPdTYTWlco14o) | 4:42 | 2021-10-19 |  |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-10-19 |  |
 | [Moul Karsan](https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Moul Karsan](https://open.spotify.com/album/1Wz4Lb9J28dWAbV3AB42YC) | 10:00 | 2022-03-08 |  |
+| [N3ichou la vida](https://open.spotify.com/track/5wSTysykILbhPqKdD2XN2F) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Housseyn Benguerna](https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy) | [N3ichou la vida](https://open.spotify.com/album/3jOBAFhJqcZC3TSmLTxFNB) | 3:41 | 2022-04-15 |  |
 | [Nakareen El Khir](https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Nakareen El Khir](https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR) | 4:58 | 2022-01-31 |  |
 | [Nti Daout El Kheir](https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Nti Daout El Kheir](https://open.spotify.com/album/6vSuWq4upKblZk9JPISsrX) | 4:25 | 2021-10-19 |  |
 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 | 2021-10-19 |  |

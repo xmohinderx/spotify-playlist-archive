@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-157 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+158 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Read Your Mind \(with sad alex\)](https://open.spotify.com/track/5YXpxCNleJkeXZ0bLKv7MJ) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [Parker](https://open.spotify.com/artist/7HvystfBAIH8khkGVO4vne), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Read Your Mind \(with sad alex\)](https://open.spotify.com/album/0YrVbBOAFno3lbKyY03Rob) | 3:06 | 2022-02-18 |  |
 | [Remember the Summer \(feat\. Karra\)](https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Remember the Summer \(feat\. Karra\)](https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3) | 2:50 | 2021-12-03 |  |
 | [Sail Away \(feat\. Jay Mason\)](https://open.spotify.com/track/4r9qyANhnnv7q2ENG2ggre) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Sail Away \(feat\. Jay Mason\)](https://open.spotify.com/album/6UEOL9j71DS5c7yvHV5xUW) | 4:12 | 2022-02-18 |  |
+| [Save Yourself](https://open.spotify.com/track/3sfYpzimgCeLiPIshgbIRn) | [Tom Finster](https://open.spotify.com/artist/0jA09tU838A2JRveNgDSGa), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [Save Yourself](https://open.spotify.com/album/2VXFiPevUK5R98J8CsUjQi) | 3:31 | 2022-04-15 |  |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-12-03 |  |
 | [Scared Of Us](https://open.spotify.com/track/4R7P9MgPwDpaXGBseZx9W5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Scared Of Us](https://open.spotify.com/album/0qnOC5xzY2pkubcrNUjYNV) | 3:31 | 2022-01-14 |  |
 | [Shipwreck](https://open.spotify.com/track/06AuNyqPNwKBvZ7a0G6rZP) | [Otherwise Fine](https://open.spotify.com/artist/0n255T84TbJje4U9RcKHGP), [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Shipwreck](https://open.spotify.com/album/7snKIaGE7juwYtQjIQQe87) | 2:56 | 2021-12-03 |  |

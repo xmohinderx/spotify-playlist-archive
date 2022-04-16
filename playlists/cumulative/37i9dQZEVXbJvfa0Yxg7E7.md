@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-594 songs - 1 day 7 hr 16 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+595 songs - 1 day 7 hr 18 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-02-10 | 2022-04-10 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-06 | 2022-02-11 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 |  |
+| [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 |  |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-03-27\* | 2021-04-11 |
 | [Fredag \- Digg å være norsk](https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB) | [Mr Melk](https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD) | [Fredag \(Digg å være norsk\)](https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy) | 2:13 | 2022-03-20 |  |
 | [Fri](https://open.spotify.com/track/1Eatn3b2Xso8J0Pew0Inpk) | [Petter Northug Jr](https://open.spotify.com/artist/1cGAI8rl33xtRQW12YsnTq) | [Fri](https://open.spotify.com/album/6pOarP48YCy4bXGrHISeBz) | 2:26 | 2021-07-20 | 2021-07-21 |
@@ -442,7 +443,7 @@
 | [Pretty](https://open.spotify.com/track/4c2FHHtnHFMWs5vpbGXr6i) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Pretty](https://open.spotify.com/album/4bonCpNW4OlAAPNbSklCpf) | 2:55 | 2021-12-12 | 2022-02-15 |
 | [promise,](https://open.spotify.com/track/31Tauz6YbzCwWUyGJQWxdm) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [promise,](https://open.spotify.com/album/57Wk5bDtMhDhMwId6VCrF5) | 3:10 | 2021-12-25 | 2021-12-27 |
 | [Psycho](https://open.spotify.com/track/2dc4WAziek7KxUufKrYh9Y) | [Myra](https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Psycho](https://open.spotify.com/album/5XOaMlJFS2WuNOoglgjocm) | 2:39 | 2022-01-03 | 2022-01-08 |
-| [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/73cnVqsbZygieKi8xF10sO) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:21 | 2022-04-09 |  |
+| [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/73cnVqsbZygieKi8xF10sO) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:21 | 2022-04-09 | 2022-04-16 |
 | [Puppastemning](https://open.spotify.com/track/0u49ctvusRpTB7Zr0q3igQ) | [Spårtsklubben](https://open.spotify.com/artist/0WSZVhdjqDhQ9IrLn5yBNJ) | [Puppastemning](https://open.spotify.com/album/7f34WWUikPUau1E591ta3b) | 2:06 | 2021-09-10 | 2021-10-28 |
 | [Pure Souls](https://open.spotify.com/track/7up5MwPUHQdv4DkzQRHRWP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:58 | 2021-08-31 | 2021-09-05 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-01-26 | 2022-01-28 |

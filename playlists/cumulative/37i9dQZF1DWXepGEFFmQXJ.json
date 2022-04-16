@@ -522,6 +522,24 @@
     },
     {
       "album": {
+        "name": "Don't Think Jesus",
+        "url": "https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226975,
+      "name": "Don't Think Jesus",
+      "url": "https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2"
+    },
+    {
+      "album": {
         "name": "Drink Along Song",
         "url": "https://open.spotify.com/album/5r840J3ihnRPTn2XShDJyy"
       },

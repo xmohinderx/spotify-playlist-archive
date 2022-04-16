@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
@@ -2219,7 +2219,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -3317,7 +3317,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -6008,6 +6008,24 @@
     },
     {
       "album": {
+        "name": "Lovoj Vezi",
+        "url": "https://open.spotify.com/album/6nfWSB23c2PAoGCBg9nJDq"
+      },
+      "artists": [
+        {
+          "name": "HUTTCH",
+          "url": "https://open.spotify.com/artist/3ZkRB4MLskyZjOU9dFWqTK"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121521,
+      "name": "Lovoj Vezi",
+      "url": "https://open.spotify.com/track/0VyoYK7w4J35Xuwtwx3C4Z"
+    },
+    {
+      "album": {
         "name": "Lukaku Freestyle",
         "url": "https://open.spotify.com/album/6sgfD9sYPVnQYFORbDbf9r"
       },
@@ -8677,7 +8695,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 211276,
       "name": "Rojaus Obuoliukai",
       "url": "https://open.spotify.com/track/7J5J0RjBq1rz9vV2iBqDqd"
@@ -10957,7 +10975,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 174240,
       "name": "u.",
       "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"

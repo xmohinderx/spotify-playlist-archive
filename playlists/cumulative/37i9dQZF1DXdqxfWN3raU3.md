@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Jesse Baez
 
-135 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+136 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Luz de Luna](https://open.spotify.com/track/0iA0fZPjdfsc7cmlL164Qg) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO) | [Fuego](https://open.spotify.com/album/42myA7rDKd1QWWMATQldju) | 4:39 | 2021-12-13 |  |
 | [Margaritas](https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Margaritas](https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2) | 2:46 | 2021-12-13 | 2022-01-13 |
 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 | 2021-12-13 | 2022-03-09 |
+| [MENTE DE AGUA](https://open.spotify.com/track/1sf7pnykFEJKQdQzjdV7aL) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [MENTE DE AGUA](https://open.spotify.com/album/3RI9UsS8XzaZCMwRIUmFAZ) | 3:39 | 2022-04-15 |  |
 | [Mil Días](https://open.spotify.com/track/4lOgqoITjicF1LYFHNuDxh) | [Abhir Hathi](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [Mil Días](https://open.spotify.com/album/6IIBk8tGXPYHiYX0jgrXyX) | 3:33 | 2021-12-13 | 2022-03-27 |
 | [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 | 2021-12-13 |  |
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2021-12-13 |  |

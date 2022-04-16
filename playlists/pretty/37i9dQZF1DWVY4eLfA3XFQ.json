@@ -1,13 +1,97 @@
 {
-  "description": "Tech house technicians. Cover: Mark Knight",
-  "num_followers": 545384,
+  "description": "Tech house technicians. Cover: Biscits",
+  "num_followers": 545548,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2ODI3MiwwMDAwMDExZTAwMDAwMTgwMjNjZmYxZjQwMDAwMDE3ZmY1YmJmZTAy",
+  "snapshot_id": "MTY1MDAzNDk1MywwMDAwMDExZjAwMDAwMTgwMmRiZjRjMDQwMDAwMDE4MDJkYTdiMjI0",
   "tracks": [
+    {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "The Judge",
+        "url": "https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 220966,
+      "name": "The Judge",
+      "url": "https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Them Drums",
+        "url": "https://open.spotify.com/album/7dQ4q6Tnxkv4csaUqLYEBi"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Them Drums",
+      "url": "https://open.spotify.com/track/4ug7ZV9kjKXbbha4gDyhug"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+    },
+    {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "Trigger Technology",
+        "url": "https://open.spotify.com/album/61Hv14MDmklquNTnwh55wo"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 214047,
+      "name": "Trigger Technology",
+      "url": "https://open.spotify.com/track/29e8sjYkArwTiNxKNEgvpX"
+    },
     {
       "added_at": "2022-04-01 17:01:52",
       "album": {
@@ -39,6 +123,22 @@
       "duration_ms": 240570,
       "name": "El Bombo",
       "url": "https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8"
+    },
+    {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "Mercy Me",
+        "url": "https://open.spotify.com/album/74wpv2Iwfvtnf5lZtUM3PB"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        }
+      ],
+      "duration_ms": 453644,
+      "name": "Mercy Me",
+      "url": "https://open.spotify.com/track/6hVpBh8UqWxiMUl3adfwz5"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -77,20 +177,36 @@
       "url": "https://open.spotify.com/track/5lc7Fkqt3GdHbM8F77CJ1E"
     },
     {
-      "added_at": "2022-03-25 17:23:15",
+      "added_at": "2022-04-15 15:02:33",
       "album": {
-        "name": "We Don\u2019t Need",
-        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+        "name": "Rainfall",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
       "artists": [
         {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 158462,
-      "name": "We Don\u2019t Need",
-      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+      "duration_ms": 166569,
+      "name": "Rainfall",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+    },
+    {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "Funk Accelerator",
+        "url": "https://open.spotify.com/album/72t6Fxyx5KRt0SaZ801jOl"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 232132,
+      "name": "Funk Accelerator",
+      "url": "https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -115,6 +231,58 @@
       "duration_ms": 172920,
       "name": "State Of Mind (feat. Sarah de Warren) - Guz Remix",
       "url": "https://open.spotify.com/track/7rcuHUBzcsHNJOlPNvH14q"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Don't Stop the Music",
+        "url": "https://open.spotify.com/album/0qG1DZ3U6h4y0l8CWii36d"
+      },
+      "artists": [
+        {
+          "name": "Richard Grey",
+          "url": "https://open.spotify.com/artist/7xfEjDr3c7DIUoW0qf6s0A"
+        }
+      ],
+      "duration_ms": 384480,
+      "name": "Don't Stop the Music - Original Mix",
+      "url": "https://open.spotify.com/track/5GSdqMlUmNA34MJbX4WYeP"
+    },
+    {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/6JAhfai1CGXVzXo3REiSDG"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Nick Francis",
+          "url": "https://open.spotify.com/artist/4VQyjHVrLyfCrUQtOiNmh3"
+        }
+      ],
+      "duration_ms": 177958,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/3LCmWRVsEDSwB4Q16Z3EYF"
+    },
+    {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "Can't You See",
+        "url": "https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Can't You See - Radio Edit",
+      "url": "https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -163,6 +331,22 @@
       "duration_ms": 209760,
       "name": "Sete",
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
+    },
+    {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "Love On Time",
+        "url": "https://open.spotify.com/album/6KZ9zbDkMoCizTAosnreCh"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Love On Time",
+      "url": "https://open.spotify.com/track/4ZmguSWmIYdytMJUthKIG2"
     },
     {
       "added_at": "2022-03-25 17:23:15",
@@ -221,24 +405,24 @@
       "url": "https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-04-15 15:02:33",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
+        "name": "High",
+        "url": "https://open.spotify.com/album/0qd5jmxOt5UVUc9Xe9mj6b"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Dissolut",
+          "url": "https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO"
         },
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Sonickraft",
+          "url": "https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o"
         }
       ],
-      "duration_ms": 218500,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+      "duration_ms": 156190,
+      "name": "High",
+      "url": "https://open.spotify.com/track/38QZnd0zSofvcobBpXuWAJ"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -343,6 +527,26 @@
       "duration_ms": 348387,
       "name": "Trip",
       "url": "https://open.spotify.com/track/5vI3ndAToxdJitBdl0Tf1j"
+    },
+    {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "Records U Play",
+        "url": "https://open.spotify.com/album/01KBC88qZIv2iIEVodMQe6"
+      },
+      "artists": [
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Records U Play",
+      "url": "https://open.spotify.com/track/5VkNcbo3JDsUw25CLP6FZh"
     },
     {
       "added_at": "2022-02-04 17:19:00",
@@ -493,6 +697,26 @@
       "url": "https://open.spotify.com/track/2xZbruVujURSsK3CRPpPJz"
     },
     {
+      "added_at": "2022-04-15 15:02:33",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/09M3JM0eACEFvZYO0THtxy"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        }
+      ],
+      "duration_ms": 201850,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4z5KUXHyHzrmUduxTzhpzS"
+    },
+    {
       "added_at": "2022-03-11 18:48:28",
       "album": {
         "name": "La Danza",
@@ -507,26 +731,6 @@
       "duration_ms": 157619,
       "name": "La Danza",
       "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Pra Nao Dizer",
-        "url": "https://open.spotify.com/album/4T90MAy1ApB3LyatLqTqAc"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
-        }
-      ],
-      "duration_ms": 203971,
-      "name": "Pra Nao Dizer",
-      "url": "https://open.spotify.com/track/3FdtdBduxDxNzzHBhB3Pks"
     },
     {
       "added_at": "2022-03-25 18:09:12",
@@ -559,22 +763,6 @@
       "duration_ms": 188220,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Don't Stop the Music",
-        "url": "https://open.spotify.com/album/0qG1DZ3U6h4y0l8CWii36d"
-      },
-      "artists": [
-        {
-          "name": "Richard Grey",
-          "url": "https://open.spotify.com/artist/7xfEjDr3c7DIUoW0qf6s0A"
-        }
-      ],
-      "duration_ms": 384480,
-      "name": "Don't Stop the Music - Original Mix",
-      "url": "https://open.spotify.com/track/5GSdqMlUmNA34MJbX4WYeP"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -703,22 +891,6 @@
       "duration_ms": 358007,
       "name": "Sin City",
       "url": "https://open.spotify.com/track/2rdMlVRtuImJXZhUHQjjj9"
-    },
-    {
-      "added_at": "2022-04-01 15:56:43",
-      "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/5XHqjPYI5mRWF6EDNF4FiT"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 223735,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/2j1XskkDOBp6QXZEQTj8cY"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -1459,22 +1631,6 @@
       "duration_ms": 209523,
       "name": "Bubblin",
       "url": "https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Them Drums",
-        "url": "https://open.spotify.com/album/7dQ4q6Tnxkv4csaUqLYEBi"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Them Drums",
-      "url": "https://open.spotify.com/track/4ug7ZV9kjKXbbha4gDyhug"
     },
     {
       "added_at": "2022-01-21 05:05:00",

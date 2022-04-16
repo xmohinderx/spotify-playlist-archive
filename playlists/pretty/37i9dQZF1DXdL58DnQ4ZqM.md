@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,817 likes - 80 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,917 likes - 80 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 79 | [Streetlights](https://open.spotify.com/track/6e1YbiurMIWL9A8TqZkwQQ) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Timescapes : Longer Nights](https://open.spotify.com/album/6p2INecNLR2k2GfnvZBBdO) | 2:37 |
 | 80 | [Jazzhop Wonderland](https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Jazzhop Wonderland](https://open.spotify.com/album/2aHKW2nDbVlEsRsq9loKjY) | 2:22 |
 
-Snapshot ID: `MTY0OTk4NDc2MCwwMDAwMDAwMDM5NGQ0MzY1YTZlODI2YzYxMWQ5MmNiODg2N2ZiMDk0`
+Snapshot ID: `MTY1MDA3MDk1NiwwMDAwMDAwMDM5NGQ0MzY1YTZlODI2YzYxMWQ5MmNiODg2N2ZiMDk0`

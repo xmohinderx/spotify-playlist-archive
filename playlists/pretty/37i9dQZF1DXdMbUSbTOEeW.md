@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > EDM is blowing up in India, thanks to these artists\. Cover: DIVINE, KSHMR, LIT KILLAH.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,571 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,582 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

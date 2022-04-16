@@ -158,6 +158,28 @@
     },
     {
       "album": {
+        "name": "Asking For",
+        "url": "https://open.spotify.com/album/6oSxomsicif0h0fb8dzdFy"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175862,
+      "name": "Asking For",
+      "url": "https://open.spotify.com/track/1YIkj75IPsfW4fzPB6qNlE"
+    },
+    {
+      "album": {
         "name": "Assault",
         "url": "https://open.spotify.com/album/0qTtqa02EU5tpRhVNMek92"
       },
@@ -315,7 +337,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Bellz",
       "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
@@ -637,7 +659,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 198315,
       "name": "Can We Be Free",
       "url": "https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I"
@@ -926,6 +948,32 @@
     },
     {
       "album": {
+        "name": "Do It To It (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Do It To It - Subtronics Remix",
+      "url": "https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u"
+    },
+    {
+      "album": {
         "name": "DO SUMMIN",
         "url": "https://open.spotify.com/album/1xqGnAaUclFB1IoNBuOc6I"
       },
@@ -1109,7 +1157,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 176000,
       "name": "Faded",
       "url": "https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI"
@@ -1157,7 +1205,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 206404,
       "name": "Falling (Alexandar Smash Remix)",
       "url": "https://open.spotify.com/track/3zJTXgtzn4mr9YYanvSGfp"
@@ -1179,7 +1227,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 248275,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6PVxTUWkUdH5nqmGL1mO6O"
@@ -1535,7 +1583,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 364800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
@@ -1659,7 +1707,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 223999,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
@@ -1681,6 +1729,24 @@
       "duration_ms": 143426,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/7wwin4Zrs6dB9waWnVZqZa"
+    },
+    {
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/05zUsDDYlLrK2A0YDr0NOl"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155192,
+      "name": "High Life",
+      "url": "https://open.spotify.com/track/2N6qMBL0E2G55pKKmkCDce"
     },
     {
       "album": {
@@ -1787,7 +1853,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 156800,
       "name": "HUMBLE. - SKRILLEX REMIX",
       "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
@@ -1879,7 +1945,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 166896,
       "name": "IMY",
       "url": "https://open.spotify.com/track/0TuMPEUwvdKnLQcnq4RS8L"
@@ -2097,10 +2163,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 297620,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3yFb3JWYOaKdgwViCGPnM2"
+    },
+    {
+      "album": {
+        "name": "Level",
+        "url": "https://open.spotify.com/album/60Td5Qx0Cs0ua9sAqePcPX"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2EaQrkCOe5Esv3NWSnk4sX"
     },
     {
       "album": {
@@ -2453,7 +2541,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 161012,
       "name": "No Brakes",
       "url": "https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG"
@@ -2945,7 +3033,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 164800,
       "name": "Reaper (feat. JID)",
       "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
@@ -3269,7 +3357,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
@@ -3497,7 +3585,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 131254,
       "name": "Sin",
       "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
@@ -3903,7 +3991,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 150193,
       "name": "TIKTOK",
       "url": "https://open.spotify.com/track/0TQ2Sfay7vPm8RclGBVnGi"
@@ -3929,7 +4017,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 171810,
       "name": "TILL I DIE",
       "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
@@ -4013,7 +4101,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 147378,
       "name": "Trap Anthem",
       "url": "https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C"
@@ -4035,7 +4123,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 169714,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"

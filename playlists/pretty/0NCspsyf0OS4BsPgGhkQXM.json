@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2041020,
+  "num_followers": 2040959,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE1NTgsYWI4YjIwZmNmZjlhY2Y1NTBkZTc5N2M2OTZkMjg2NThkZGQ1YjdlZg==",
+  "snapshot_id": "MTE1NjAsYWUyMWZiOTJmZGY0M2U1M2FiNTVhZTc2M2YyYTE3NGE5MzM4MzMyYw==",
   "tracks": [
     {
       "added_at": "2022-04-08 16:21:09",
@@ -51,6 +51,26 @@
       "duration_ms": 231428,
       "name": "Fall Into Me (feat. Dylan Matthew)",
       "url": "https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty"
+    },
+    {
+      "added_at": "2022-04-15 13:19:59",
+      "album": {
+        "name": "Afraid of What's Inside",
+        "url": "https://open.spotify.com/album/7hHe8MdufsyYDG1jLLDTZd"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Kala",
+          "url": "https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Afraid of What's Inside",
+      "url": "https://open.spotify.com/track/7bCDBmQ2AZdsnMRSL40J7s"
     },
     {
       "added_at": "2022-04-08 16:21:09",

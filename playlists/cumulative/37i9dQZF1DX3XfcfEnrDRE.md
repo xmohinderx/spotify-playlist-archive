@@ -2,9 +2,9 @@
 
 ### [Ultimate Christian Alternative](https://open.spotify.com/playlist/37i9dQZF1DX3XfcfEnrDRE)
 
-> The ever\-evolving sound of Alt! Cover: Kristene DiMarco
+> The ever\-evolving sound of Alt! Cover: Semler
 
-93 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
+97 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Every Morning](https://open.spotify.com/track/17P6kojDstdaw65xDCOARU) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Every Morning](https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy) | 3:43 | 2022-02-27 |  |
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2022-03-11 |  |
 | [Fall On The Nation](https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Corry Robinson](https://open.spotify.com/artist/2bOO4AHJ9Y4CGsHFMpdhXv) | [Fall On The Nation](https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML) | 4:32 | 2022-02-27 |  |
-| [Far Away](https://open.spotify.com/track/14tyaEf3kt4CwwoYZDuIM9) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Far Away](https://open.spotify.com/album/0JhhRKFEWb0QfccAzYLaDc) | 3:16 | 2022-02-27 |  |
+| [Far Away](https://open.spotify.com/track/14tyaEf3kt4CwwoYZDuIM9) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Far Away](https://open.spotify.com/album/0JhhRKFEWb0QfccAzYLaDc) | 3:16 | 2022-02-27 | 2022-04-16 |
 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart \(Deluxe\)](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 | 2022-02-27 |  |
 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 | 2022-02-27 |  |
 | [Finish Line](https://open.spotify.com/track/2vhm74O8q8sVaprPpkPuap) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Finish Line](https://open.spotify.com/album/4b9MBB7Z9UL99QdcsLafpX) | 3:37 | 2022-02-27 |  |
@@ -46,6 +46,8 @@
 | [He Is Good](https://open.spotify.com/track/1dl11ALhlMcCPxJekWvQYk) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [He Is Good](https://open.spotify.com/album/57JFOyf7sOuYDK0zTpW6aj) | 2:52 | 2022-02-27 |  |
 | [Heaven Is Everywhere](https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heaven Is Everywhere](https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1) | 3:54 | 2022-02-27 |  |
 | [Here We Are](https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Praise](https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY) | 3:52 | 2022-03-11 |  |
+| [hey peace,](https://open.spotify.com/track/2L2Jp1jncIkIk7bXC7Sy13) | [um.sounds](https://open.spotify.com/artist/2WXbONQ7vR74Xit8g3L9nX) | [hey peace,](https://open.spotify.com/album/7lB2zFSTyXXMfZxImIDWzr) | 4:26 | 2022-04-15 |  |
+| [High Calling](https://open.spotify.com/track/2gB0rcZPb6q0P3Pd828K8Y) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3g41qW3oYLAsJmp81NDHe0) | 3:09 | 2022-04-15 |  |
 | [Home Now](https://open.spotify.com/track/0W7Ae9yHEQkz6OSpYjIKsS) | [Emissary](https://open.spotify.com/artist/2Ri7fP3YtNrLb2A2ZoTxXf) | [Iridescence, Pt\. 2](https://open.spotify.com/album/74qw7cHsWyG1z0NX58jtUq) | 4:30 | 2022-02-27 |  |
 | [I Believe It \- Radio Version](https://open.spotify.com/track/6Lee2y4s3r46RVjsYxdMsE) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [I Believe It \(Radio Version\)](https://open.spotify.com/album/7siKwggsLfMhJNkj9ViiTp) | 3:48 | 2022-02-27 |  |
 | [I Believe It Now](https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [I Believe It Now](https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk) | 3:48 | 2022-02-27 |  |
@@ -76,6 +78,7 @@
 | [Pilot](https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sammie Lee](https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2) | [Pilot](https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY) | 1:40 | 2022-03-11 |  |
 | [Power in the Name](https://open.spotify.com/track/45JAWhKAhmn24BBRxMrdSQ) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Power in the Name](https://open.spotify.com/album/38B4VQuH9L7ehUBjooYFdN) | 4:34 | 2022-02-27 |  |
 | [Promised Land](https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Promised Land](https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij) | 3:29 | 2022-02-27 |  |
+| [Raise Up](https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Stages Of A Breakdown](https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT) | 3:12 | 2022-04-15 |  |
 | [Rebel Heart](https://open.spotify.com/track/1CYfu90Vv4TOCMyrPVdYi1) | [Sam Hibbard](https://open.spotify.com/artist/08mV0xcJ2gAanEFGjWJsCT) | [Rebel Heart](https://open.spotify.com/album/6XGZvU6rGfvHhrhNSdKfSa) | 2:47 | 2022-02-27 |  |
 | [Remember What It Cost](https://open.spotify.com/track/6uamWfgHsS72Axi8Gpb95p) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Aodhan King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [7](https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni) | 5:25 | 2022-02-27 |  |
 | [Right Now](https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR) | [Tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP) | [Rapzilla.com Presents: Freshmen 2021](https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h) | 2:21 | 2022-02-27 |  |
@@ -94,9 +97,10 @@
 | [War Going On](https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB) | [Port Duo](https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP) | [War Going On](https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ) | 4:22 | 2022-02-27 |  |
 | [Way, Truth, Life](https://open.spotify.com/track/5INCnWloUf354udWzwGgYs) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Naomi Mae](https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK) | [Way, Truth, Life](https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB) | 2:53 | 2022-02-27 |  |
 | [We Won't Bow](https://open.spotify.com/track/040Nak0IKPUFSDMiqL37b5) | [Kamban](https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP) | [We Won't Bow](https://open.spotify.com/album/536bwdqrKaKDLKH0LZgSfE) | 2:52 | 2022-02-27 |  |
+| [Where To Find Me](https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Where To Find Me](https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb) | 2:18 | 2022-04-15 |  |
 | [Who Am I](https://open.spotify.com/track/4qxZb7aRiaqeQaRtwZe3S4) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/5qg6SgN6aJGLWuv1QU27LC) | 3:27 | 2022-02-27 |  |
 | [WILD THINGS](https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g), [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW), [TRAPSHIP COLLECTIVE](https://open.spotify.com/artist/7CsdYLl6ItJb7WK7Kak1Sz) | [WILD THINGS](https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i) | 3:03 | 2022-02-27 |  |
-| [YEAR OF VICTORY](https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YEAR OF VICTORY](https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx) | 3:50 | 2022-02-27 |  |
+| [YEAR OF VICTORY](https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YEAR OF VICTORY](https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx) | 3:50 | 2022-02-27 | 2022-04-16 |
 | [You](https://open.spotify.com/track/2838keaxdqYgR2t1L78OIF) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Patient](https://open.spotify.com/album/05qd0bhPJrFj3jUa5yXze5) | 3:46 | 2022-02-27 |  |
 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 | 2022-04-08 |  |
 | [You Are Not Far](https://open.spotify.com/track/16qYFDLyYVW6JtluzSlHSa) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [You Are Not Far](https://open.spotify.com/album/51oVPxUN4Edw1WSrwhqtyq) | 2:14 | 2022-02-27 |  |

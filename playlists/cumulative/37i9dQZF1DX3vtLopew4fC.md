@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Rêve
 
-234 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+236 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-08 | 2022-04-07 |
 | [Black Boots And Leather Rebellion](https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Black Boots And Leather Rebellion](https://open.spotify.com/album/5bUXsJJChr9ugC6zD9Bmj4) | 3:42 | 2022-01-05 | 2022-02-03 |
 | [Boom Boom](https://open.spotify.com/track/4BMyIZpXeMwOYzwKNSogOM) | [Shay 24K](https://open.spotify.com/artist/2b7sUe0m7QSyY4R0m8C1RF) | [5am From The Bedroom Floor](https://open.spotify.com/album/1fKKzix4YsevXQzYB2XKev) | 2:23 | 2022-01-05 | 2022-02-03 |
+| [Booty Call](https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Booty Call](https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB) | 3:14 | 2022-04-15 |  |
 | [Boxes](https://open.spotify.com/track/3OWi7ov1nFXhjnf1wvegcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Boxes](https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN) | 2:50 | 2022-04-06 |  |
 | [Break](https://open.spotify.com/track/7MAF260QrFoPLbcigPfRFp) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Break](https://open.spotify.com/album/5BnZ7N719nnVLX9TFSyCIt) | 2:57 | 2022-04-06 |  |
 | [Brutal](https://open.spotify.com/track/0bCru2ovpMwBY1dZdrKRms) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Brutal](https://open.spotify.com/album/79sn46ySVe1GiIQREIv169) | 3:05 | 2021-12-08 | 2022-01-06 |
@@ -82,6 +83,7 @@
 | [Femme de caractère](https://open.spotify.com/track/3sFoiLKhFMaQiNaee7jAgB) | [Noushka](https://open.spotify.com/artist/6gedm4MWkvdB1ffEcdrllK) | [Femme de caractère](https://open.spotify.com/album/4VpWbNBd6lkwVrUkBffuNc) | 3:12 | 2022-03-08 | 2022-04-07 |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-04-06 |  |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-03-08 | 2022-04-07 |
+| [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 |  |
 | [FOR ME](https://open.spotify.com/track/6SCpR5CoMdbPJnwPHDErQ6) | [Broco](https://open.spotify.com/artist/1vcvlxsVaMndbUyyXnUS9L) | [FOR ME](https://open.spotify.com/album/5wyI5Q6tud3rmrra1QvYPL) | 2:59 | 2021-12-08 | 2022-01-06 |
 | [Forever](https://open.spotify.com/track/7b7NdGG8LFS10xru0ijGYR) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [Forever](https://open.spotify.com/album/4bKQuWQPFWzgwex0sK1OhF) | 2:34 | 2022-03-08 | 2022-04-07 |
 | [Free Grillz](https://open.spotify.com/track/60YGUQOa2e5BwtDgfltZvQ) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Free Grillz](https://open.spotify.com/album/4Lagndmtb3CdC01wU12E1k) | 2:17 | 2022-03-08 | 2022-04-07 |

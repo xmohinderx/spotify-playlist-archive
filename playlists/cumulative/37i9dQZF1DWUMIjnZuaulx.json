@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  The Group Fire",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  William Murphy",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -401,6 +401,32 @@
       "duration_ms": 472891,
       "name": "Cry Out (feat. Naomi Raine)",
       "url": "https://open.spotify.com/track/66PfXpuPoNJ7fhvyAq7qlW"
+    },
+    {
+      "album": {
+        "name": "Dependable (feat. Darrell Walls & Chandler Moore) [Live Version]",
+        "url": "https://open.spotify.com/album/0SnHqwsdvfuCqLhQcuVxBU"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Darrel Walls",
+          "url": "https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469797,
+      "name": "Dependable (feat. Darrell Walls & Chandler Moore) - Live Version",
+      "url": "https://open.spotify.com/track/4ULea2qGmXZmKtoTlE4jpv"
     },
     {
       "album": {
@@ -867,7 +893,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 210373,
       "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
       "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
@@ -1057,7 +1083,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 220666,
       "name": "I'm Walking",
       "url": "https://open.spotify.com/track/2zuOKB1VTStUdgcIX1EjDj"
@@ -1301,6 +1327,24 @@
       "duration_ms": 180946,
       "name": "Just Like God",
       "url": "https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG"
+    },
+    {
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/1IiFcfPQXkOinuNhejlk3d"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362709,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/4tFrt3KFlSj1kDKXTJNbtJ"
     },
     {
       "album": {
@@ -1728,6 +1772,28 @@
     },
     {
       "album": {
+        "name": "Not Forgotten",
+        "url": "https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv"
+      },
+      "artists": [
+        {
+          "name": "Be Amplified",
+          "url": "https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W"
+        },
+        {
+          "name": "Anaysha Figueroa-Cooper",
+          "url": "https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Not Forgotten",
+      "url": "https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo"
+    },
+    {
+      "album": {
         "name": "Now I Know",
         "url": "https://open.spotify.com/album/5hycuLt6iA5c1hwPUlOK8H"
       },
@@ -2095,7 +2161,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 237108,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/0jZkU2WcbamGJBkMpWiXpO"
@@ -2320,6 +2386,24 @@
     },
     {
       "album": {
+        "name": "Waiting (Reimagined)",
+        "url": "https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225804,
+      "name": "Waiting (Reimagined)",
+      "url": "https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu"
+    },
+    {
+      "album": {
         "name": "Walk With Me (Otis' Dream)",
         "url": "https://open.spotify.com/album/74QgHuPul4WqKDmO6LwWoP"
       },
@@ -2523,7 +2607,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-16",
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
