@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,508 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,585 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 149 | [Do It Anyway](https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG) | [Keith Cuts](https://open.spotify.com/artist/0h4NIiGxZcD1K0Vu6pO0rN) | [Do It Anyway](https://open.spotify.com/album/02MwUDPORy0V7VNQsaCyZa) | 3:35 |
 | 150 | [Just A Little Bit](https://open.spotify.com/track/3dIIFugA63qbkvnX9pTgw3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Just A Little Bit](https://open.spotify.com/album/56bhw19Vvl8lJ5A8DAZMm3) | 5:02 |
 
-Snapshot ID: `MTY1MDA3MDMzOSwwMDAwMDAwMGQ3YmUwYzQyMTA2ZDhiZjY5NGM4ZmRjOWUyZDVjM2Rh`
+Snapshot ID: `MTY1MDE1Njk0OCwwMDAwMDAwMGQ3YmUwYzQyMTA2ZDhiZjY5NGM4ZmRjOWUyZDVjM2Rh`

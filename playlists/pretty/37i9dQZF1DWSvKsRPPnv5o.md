@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Buddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,493 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,552 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 8 | [Popstar](https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Popstar](https://open.spotify.com/album/6WDP50ES2v8aY4oETrFZYa) | 2:21 |
 | 9 | [Do It Up](https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Do It Up](https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7) | 4:04 |
 | 10 | [Street Signs](https://open.spotify.com/track/1tu6h8NPmeS4q2RRpEGjT8) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Street Signs](https://open.spotify.com/album/7e9S1FRNCWxw2UeIQtmFAP) | 1:53 |
-| 11 | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 |
+| 11 | [MAGIC](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 |
 | 12 | [Lifetime](https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lifetime](https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb) | 2:15 |
 | 13 | [Hair Salon \(with Cozz feat\. G Perico & Reason\)](https://open.spotify.com/track/7eheBzQNeMd0ZxU3HoXltE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 3:13 |
 | 14 | [B's Up](https://open.spotify.com/track/7LzDAUdS3NHUS2gkFUX5a5) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [B's Up](https://open.spotify.com/album/32vLStumGgwykRkaMRHD7x) | 2:30 |

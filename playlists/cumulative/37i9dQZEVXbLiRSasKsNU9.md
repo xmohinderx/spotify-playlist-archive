@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-358 songs - 19 hr 40 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+359 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Harnaś ice tea](https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35) | [Gawryle](https://open.spotify.com/artist/1IIrmj7nKJuaYXi47RZKGz) | [Harnaś ice tea](https://open.spotify.com/album/4hJjMqRyISzXiAd2eMS2tw) | 2:56 | 2021-12-27 | 2022-01-12 |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-03-29 |  |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-22 | 2022-02-06 |
-| [Hell](https://open.spotify.com/track/309t7w6d1TDNKYHuKgddiN) | [flames](https://open.spotify.com/artist/10MWNjErfnYRQSF1B7wot7) | [Hell](https://open.spotify.com/album/71xuMnDURluXvcyguMbQB2) | 3:25 | 2022-04-12 | 2022-04-15 |
+| [Hell](https://open.spotify.com/track/309t7w6d1TDNKYHuKgddiN) | [flames](https://open.spotify.com/artist/10MWNjErfnYRQSF1B7wot7) | [Hell](https://open.spotify.com/album/71xuMnDURluXvcyguMbQB2) | 3:25 | 2022-04-12 |  |
 | [Hits 2021 \- Mashup](https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hits 2021 \(Mashup\)](https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa) | 2:42 | 2022-03-07 |  |
 | [Hiç İyi Değilim](https://open.spotify.com/track/2w5SV2BYwU4FVKBkFYlCU2) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Hiç İyi Değilim](https://open.spotify.com/album/44zFal7caQMugsHyXdUude) | 3:32 | 2022-04-05 |  |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-03-22 | 2022-04-06 |
@@ -227,7 +227,7 @@
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-29 | 2022-04-05 |
 | [Mudhal Nee Mudivum Nee Title Track \(From "Mudhal Nee Mudivum Nee"\)](https://open.spotify.com/track/1AzNN19lPYC68iacrbWL8X) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee Title Track \(From "Mudhal Nee Mudivum Nee"\)](https://open.spotify.com/album/3hDQpJsEBtu5cIXUtC8ykc) | 5:32 | 2022-02-02 | 2022-03-14 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-26 | 2022-03-02 |
-| [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2022-04-05 |  |
+| [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2022-04-05 | 2022-04-17 |
 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 | 2022-03-13 | 2022-03-16 |
 | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-27 | 2022-01-11 |
 | [Ne Ay Geceden](https://open.spotify.com/track/4tJa4Vbru9vnEj1IV9aaX1) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Ne Ay Geceden](https://open.spotify.com/album/4XNoVKD5AJ746I5UyoBNuG) | 3:19 | 2022-03-20 | 2022-04-06 |
@@ -344,6 +344,7 @@
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-03-13 |  |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-02-23 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-02-24 |  |
+| [untitled](https://open.spotify.com/track/5qxHtOVLh3aR5kGUErwwt4) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [untitled](https://open.spotify.com/album/4BDcT33TBqrJAtu4YU82xN) | 3:03 | 2022-04-16 |  |
 | [Uyire \- From "Minnal Murali"](https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Narayani Gopan](https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI), [Mithun Jayaraj](https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh) | [Uyire \(From "Minnal Murali"\)](https://open.spotify.com/album/5FzV5fBNAsL0WtfIFkw3Mt) | 5:27 | 2022-01-01 | 2022-01-10 |
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2022-01-04 | 2022-01-09 |
 | [Vulture Island](https://open.spotify.com/track/7FfFdw6GlRT2cZ06uil4Y8) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Vulture Island](https://open.spotify.com/album/4SwOxtIysNbF8N4jCkQSGR) | 2:15 | 2022-03-29 | 2022-04-03 |

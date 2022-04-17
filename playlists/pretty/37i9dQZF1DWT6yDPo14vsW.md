@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,645 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,737 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 99 | [Sabor a Mi](https://open.spotify.com/track/0M3gfocW6UgqUS9XaobkNB) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Todos Los Romances](https://open.spotify.com/album/1acqznTFsJ7ekLNp00bj1p) | 3:03 |
 | 100 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/2ucXI3ph3XsFhe9T78cfYZ) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Entre el Cielo Vos y Yo](https://open.spotify.com/album/1GDddDwEU7KOjbwN8jL9aD) | 4:19 |
 
-Snapshot ID: `MTY1MDA3MDMxMiwwMDAwMDAwMDNkN2RlZGIwNjUyNmFmNTVlNzg0ZDcyZWQ2MDQ3OGUw`
+Snapshot ID: `MTY1MDE1NjkyMiwwMDAwMDAwMDNkN2RlZGIwNjUyNmFmNTVlNzg0ZDcyZWQ2MDQ3OGUw`

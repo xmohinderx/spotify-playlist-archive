@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-639 songs - 1 day 9 hr 53 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
+640 songs - 1 day 9 hr 56 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-08-29 | 2021-08-30 |
 | [Buzele Cu Rosu Inchis](https://open.spotify.com/track/6iIlBfytdQXhW12dohRrP5) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Buzele Cu Rosu Inchis](https://open.spotify.com/album/2tRBImAHbEKIFXKa7KqUDY) | 3:22 | 2021-06-23 | 2022-01-04 |
 | [c l o s e](https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:48 | 2021-05-16 | 2021-05-17 |
+| [C'est Vrai](https://open.spotify.com/track/0aigjrjMuIdhu6cl5XGIGP) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [C'est Vrai](https://open.spotify.com/album/5oSRbM20q7xjRn76UOg7c1) | 3:11 | 2022-04-16 |  |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2021-04-04 | 2021-05-08 |
 | [Calling My Phone](https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Calling My Phone](https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp) | 3:25 | 2021-03-27\* | 2021-04-04 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-11-25 |
@@ -481,7 +482,7 @@
 | [remediu](https://open.spotify.com/track/2YCaHIpMcyYyqK2wfztYBi) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [L.V\. Pattern](https://open.spotify.com/album/1RSLUq6ballnsOwuLhNU0o) | 2:59 | 2021-08-08 | 2021-08-09 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-03 |
 | [Restart](https://open.spotify.com/track/56EmQyGejndg9liKFbQxEC) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo](https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV) | 2:20 | 2022-02-21 | 2022-02-27 |
-| [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-02-27 |  |
+| [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-02-27 | 2022-04-17 |
 | [Ride](https://open.spotify.com/track/2gRZ71ywny0ZEhr7R3KT0c) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BANDO 2](https://open.spotify.com/album/6KGDcUVT6gGuJfpiOQ6lBG) | 2:42 | 2021-06-27 | 2021-06-28 |
 | [Rita](https://open.spotify.com/track/7d4RyD7PlTRY4spQM5CP5t) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Rita](https://open.spotify.com/album/1kDsaG7riZfr6LxtTNOXZd) | 2:54 | 2021-08-03 | 2022-02-14 |
 | [Roceri](https://open.spotify.com/track/6ko0ugyIQPPPnrp4AeHc8O) | [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2), [Amuly](https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [Roceri](https://open.spotify.com/album/322ExFFuXrtAhAbfjIBHoC) | 2:46 | 2021-08-01 | 2021-10-17 |

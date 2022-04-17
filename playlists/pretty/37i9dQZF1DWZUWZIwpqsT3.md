@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600,540 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,726 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 | 17 | [Shivers \- Alok Remix](https://open.spotify.com/track/2W5n5YsWKPy3kw3yMb4qh0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Shivers \(Alok Remix\)](https://open.spotify.com/album/6cgj2takjXRiUbUcjvbVZO) | 2:52 |
 | 18 | [Wherever You Go \(feat\. John Martin\) \[Alan Walker Remix\]](https://open.spotify.com/track/6McS3EupXFAjaPdhziFjk7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wherever You Go \(feat\. John Martin\) \[Alan Walker Remix\]](https://open.spotify.com/album/4rn3aNUPv1cggzCQqHdaCp) | 3:16 |
 | 19 | [Love Again](https://open.spotify.com/track/7HmLm3SiBGJeVpJ552PJJP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Love Again](https://open.spotify.com/album/7KVK7tuZWISu6DWhvxtNyM) | 2:27 |
-| 20 | [Alone](https://open.spotify.com/track/3JS1nCTR2jixEUAUHnh4fk) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [APOPHIS](https://open.spotify.com/artist/5SMfoXFfkK7genvCUOVpi1) | [Alone](https://open.spotify.com/album/2YyY8qfDyn0P6cyqZ1l48A) | 3:20 |
+| 20 | [Alone](https://open.spotify.com/track/3JS1nCTR2jixEUAUHnh4fk) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Apophis](https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK) | [Alone](https://open.spotify.com/album/2YyY8qfDyn0P6cyqZ1l48A) | 3:20 |
 | 21 | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV) | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR) | 2:30 |
 | 22 | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/track/5DUKWjGZOVwdPN048FIHc4) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/album/2YBubTKCWWX3681kCrq4AF) | 3:16 |
 | 23 | [It Don't Matter \- Spotify Singles](https://open.spotify.com/track/3GMsSOhn712MhnWa1KEmaD) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don't Matter \- Spotify Singles](https://open.spotify.com/album/1y8GQ99W2OOIKGnedOqbC8) | 2:53 |

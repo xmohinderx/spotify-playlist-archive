@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,414 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,399 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 |
 | 100 | [Can't Wait Till Christmas](https://open.spotify.com/track/5EFDul5zvAw4yI3SV38cbP) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Can't Wait Till Christmas](https://open.spotify.com/album/2P5W3sdpuzWJ7C9dvHjiQA) | 3:41 |
 
-Snapshot ID: `MTY1MDA3MDcxNSwwMDAwMDAwMDY1Nzk2NzdkOWEzNTM3YmU0ZmQ4OWMxNDk2YTJiNDI3`
+Snapshot ID: `MTY1MDE1NzMwOSwwMDAwMDAwMDY1Nzk2NzdkOWEzNTM3YmU0ZmQ4OWMxNDk2YTJiNDI3`

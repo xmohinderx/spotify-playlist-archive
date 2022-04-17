@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,238 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,282 likes - 79 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 8 | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/track/2WzzdfuJuo5SayCuDn7Qoz) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/album/3kXYgc782J3ItogKA3db6n) | 2:51 |
 | 9 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 |
 | 10 | [Suit Gulabi](https://open.spotify.com/track/1do83bSMh85dYMSCml1t8I) | [Dalvir Sidhu](https://open.spotify.com/artist/56z6Zt5dNIwgD7ajzBwu0A) | [Never Died](https://open.spotify.com/album/6QgCbo5YPwTmCLejqEaaLZ) | 2:34 |
-| 11 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 |
+| 11 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 |
 | 12 | [Junoon](https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs) | 3:11 |
 | 13 | [Bhabi](https://open.spotify.com/track/3EAVty65Aq2boaV6O2vj5I) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:30 |
 | 14 | [Haal Naar Da](https://open.spotify.com/track/3PaHa8GeaViou9hQfigbuN) | [Nikk](https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR), [Rox A](https://open.spotify.com/artist/1tG4YxtmYSP5G7w2YA8jRJ) | [Haal Naar Da](https://open.spotify.com/album/7d4obTsFgPzSzZzH98DvoI) | 2:53 |

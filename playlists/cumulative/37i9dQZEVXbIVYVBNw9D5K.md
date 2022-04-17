@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-414 songs - 21 hr 27 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+415 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Gelmesin](https://open.spotify.com/track/6udxaddhezdU8dwfZVapmw) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Gelmesin](https://open.spotify.com/album/6X8ndvkdGtHNcwcbKcF1Lg) | 3:30 | 2021-06-05 | 2021-07-01 |
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 |  |
 | [Gerçekleşebilir](https://open.spotify.com/track/1KwiqA75C5lIIdMBoiEffe) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gerçekleşebilir](https://open.spotify.com/album/6tkwRvL9npE0otgeyibMls) | 3:49 | 2021-11-28 | 2021-12-10 |
+| [Geçme Artık Sokağımdan](https://open.spotify.com/track/2OAt5u4jbxjoOPshOSOa7g) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Geçme Artık Sokağımdan](https://open.spotify.com/album/6wAx2Xm6iVXeCkl8Iv0GEW) | 3:33 | 2022-04-16 |  |
 | [GEÇMİŞİ SİL](https://open.spotify.com/track/4K7lVYPJxi8RpXRe5aU31A) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [GEÇMİŞİ SİL](https://open.spotify.com/album/7CGkq5YGahSU6MIA1lWJNd) | 3:08 | 2021-11-28 | 2021-12-06 |
 | [Geççek](https://open.spotify.com/track/7qT1uoiwvXEHSjaiHbw0n1) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Geççek](https://open.spotify.com/album/7vbykiNDCY72e48gKcNsf4) | 3:14 | 2022-02-18 | 2022-03-21 |
 | [Ghetto](https://open.spotify.com/track/1AU0gqFQ1sWXT2c84yBDvw) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ghetto](https://open.spotify.com/album/2pERxA6Rq3GWyRkT71DEPF) | 2:42 | 2021-11-14 | 2021-12-02 |
@@ -241,7 +242,7 @@
 | [Kusura Bakma](https://open.spotify.com/track/7ng3MkDXpSUVFQEhN6vtqG) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Kusura Bakma](https://open.spotify.com/album/2wQTy5lZxRCArc6UScs8zt) | 2:35 | 2021-03-27\* | 2021-12-19 |
 | [Kuytu Köşelerde](https://open.spotify.com/track/145jqpXnJcombk47TB8305) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Kuytu Köşelerde](https://open.spotify.com/album/66fQ1OfL3g4o2aOzLn247q) | 3:55 | 2021-04-15 | 2021-04-20 |
 | [KÂR](https://open.spotify.com/track/7jPUGtOJTHPxIlWNGVqD8U) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:42 | 2022-01-22 | 2022-02-14 |
-| [Kül](https://open.spotify.com/track/5NPg92vbjaGk4q9mh7MMEM) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Kül](https://open.spotify.com/album/1cwzjSTuLXEf2L0XcutndQ) | 4:54 | 2021-03-27\* |  |
+| [Kül](https://open.spotify.com/track/5NPg92vbjaGk4q9mh7MMEM) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Kül](https://open.spotify.com/album/1cwzjSTuLXEf2L0XcutndQ) | 4:54 | 2021-03-27\* | 2022-04-17 |
 | [KÜLÜ KALDI](https://open.spotify.com/track/1r0PLedFwwsxU394jUdNQ3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Doğa](https://open.spotify.com/artist/1ssHZfyjdFYWwWjebQoXeV) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:20 | 2022-01-22 | 2022-01-28 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-15 |
 | [LE CANE](https://open.spotify.com/track/03S0moTUyxwtznCNWOreb4) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [LE CANE](https://open.spotify.com/album/6xdKUwHPi18XDPbymocoVM) | 4:16 | 2021-07-18 | 2021-10-24 |

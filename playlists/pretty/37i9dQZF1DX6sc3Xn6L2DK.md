@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,519 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,539 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Still Waiting](https://open.spotify.com/track/0RApjVPmGOFbLJaVIFIObr) | [Ryan Sobb and the Dead Mall](https://open.spotify.com/artist/1q5EP0GKRrvj7pnMCp2IyI) | [Concrete Feelings](https://open.spotify.com/album/4WB6BFuAYpAkyJWkqJmzRU) | 3:34 |
 | 75 | [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 |
 
-Snapshot ID: `MTY1MDA3MDc1NiwwMDAwMDAwMGE1NGJhYmZiM2RlMTZhMjhiYjk0NjRhYmE3YTM3NGIy`
+Snapshot ID: `MTY1MDE1NzM1MCwwMDAwMDAwMGE1NGJhYmZiM2RlMTZhMjhiYjk0NjRhYmE3YTM3NGIy`

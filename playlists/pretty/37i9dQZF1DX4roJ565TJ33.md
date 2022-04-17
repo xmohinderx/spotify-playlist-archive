@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,993 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,000 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 8 | [Autumn in New York](https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Autumn in New York](https://open.spotify.com/album/1Lghm5aLmjNNf2pOl4bYFg) | 2:59 |
 | 9 | [What a Wonderful World](https://open.spotify.com/track/5UmSpoIcHl74x58dleXMul) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Look for the Silver Lining](https://open.spotify.com/album/5vDSlnXD8tdlY8KmhbizcX) | 3:03 |
 | 10 | [To the Moon and Back](https://open.spotify.com/track/1nh00HwoFCLCuaIzB5kEpG) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Wanderlust](https://open.spotify.com/album/2JaYh91QAp1DZUwXgKWo40) | 7:50 |
-| 11 | [Round Midnight \- A.M\. Version](https://open.spotify.com/track/2u2mCxnprZJ3A004fneapb) | [Sylvia Vrethammar](https://open.spotify.com/artist/1wOhrP0NunS8jFFaHMrHg4) | [Round Midnight](https://open.spotify.com/album/7MNkotX9DEAZTrTKimbH99) | 5:18 |
+| 11 | [Round Midnight \- A.M\. Version](https://open.spotify.com/track/2u2mCxnprZJ3A004fneapb) | [Sylvia Vrethammar](https://open.spotify.com/artist/1wOhrP0NunS8jFFaHMrHg4), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Round Midnight](https://open.spotify.com/album/7MNkotX9DEAZTrTKimbH99) | 5:18 |
 | 12 | [Childhood](https://open.spotify.com/track/6yOA4oobnVP9wJ53TnI4lA) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 6:41 |
 | 13 | [The Jingle](https://open.spotify.com/track/7aLzL6v7NdiBaFH5GVNVMv) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [The Jingle](https://open.spotify.com/album/7jyfxLayqHx6fW638doFTo) | 3:52 |
 | 14 | [I Fall in Love Too Easily](https://open.spotify.com/track/0a8LOrGltmx7rWvK5ex8Nb) | [Svante Henryson](https://open.spotify.com/artist/5gD2IIwhFa7qrXTWCmvMPn), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [I Fall in Love Too Easily](https://open.spotify.com/album/1ARNBkNhtWFb7hdnBuXcM0) | 5:19 |

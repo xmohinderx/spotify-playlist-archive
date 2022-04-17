@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Jack Harlow\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,859 likes - 72 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,914 likes - 72 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 18 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 |
 | 19 | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1) | 2:38 |
 | 20 | [mathematics](https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [mathematics](https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm) | 2:27 |
-| 21 | [Taco](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:26 |
+| 21 | [Taco \- Prd\. by Kaytranada](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco \(Prd\. by Kaytranada\)](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:26 |
 | 22 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 |
 | 23 | [Woke Up](https://open.spotify.com/track/0DwtqquWjyczrOGRovtcgx) | [10MilliVision](https://open.spotify.com/artist/4e7WtSJOKKN7e4vuRpgEAR), [ENHYPEN](https://open.spotify.com/artist/153WVZF82FEDLgoWCfKkmo), [Lilkvffs](https://open.spotify.com/artist/7pYTKZXyiR4fADDin2S8e9) | [Woke Up](https://open.spotify.com/album/4uIX6T5q6BU8GCwKza1htU) | 1:40 |
 | 24 | [Ain’t No Fun](https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Ain’t No Fun](https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6) | 2:27 |

@@ -4,7 +4,7 @@
 
 > Beautiful noise: when Shoegaze goes Ambient.
 
-73 songs - 6 hr 12 min - not published yet
+73 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

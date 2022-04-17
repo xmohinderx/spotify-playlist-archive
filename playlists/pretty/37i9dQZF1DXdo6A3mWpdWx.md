@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Vengaboys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,094 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,665 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 69 | [Sex on the Beach \- Radio Mix](https://open.spotify.com/track/0IprUQmGWvCtnbcpHj9UIi) | [T\-Spoon](https://open.spotify.com/artist/6AGGV787LmMPGeyCgZqy6U) | [The Hit Collection](https://open.spotify.com/album/47vSyDEsXn8mG7JKDMiK5L) | 3:46 |
 | 70 | [Total Eclipse of the Heart \- Alternative 7 Inch](https://open.spotify.com/track/4TeGZLhI6hIKCwiRCvEkwK) | [Nicki French](https://open.spotify.com/artist/1RfiRshRC2YlSG4Y1zNkAE) | [Total Eclipse of the Heart](https://open.spotify.com/album/5mra2vTBQLmEfPZwtV2alH) | 3:49 |
 | 71 | [Don't Give Me Your Life \- Radio Version](https://open.spotify.com/track/6zTUlTbwdSVC61yrNY0SfS) | [Alex Party](https://open.spotify.com/artist/41VxAgbLRHo2ZYZEq5P1mD) | [Alex Party](https://open.spotify.com/album/0fYJIhjxCdKwWSYcF8Po99) | 3:17 |
-| 72 | [Children Of The Night \- Radio Edit](https://open.spotify.com/track/3kgJepRrGMc5nq4LbtFg2B) | [Nakatomi](https://open.spotify.com/artist/7xdjiWTeSt3mqtS5Zv1d0Y) | [Children Of The Night](https://open.spotify.com/album/2Zxgh6FvMhUKdqhl5eoqC2) | 4:06 |
+| 72 | [Children Of The Night](https://open.spotify.com/track/3kgJepRrGMc5nq4LbtFg2B) | [Nakatomi](https://open.spotify.com/artist/7xdjiWTeSt3mqtS5Zv1d0Y) | [Children Of The Night](https://open.spotify.com/album/2Zxgh6FvMhUKdqhl5eoqC2) | 4:06 |
 | 73 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 |
 | 74 | [Twist And Shout](https://open.spotify.com/track/4wrS2dvdYei9jZN0JlUBP6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Jack Radics](https://open.spotify.com/artist/0YeIluqMsCUwn5NC3TG2iQ), [The Taxi Gang](https://open.spotify.com/artist/2Af07b1sTnXHHSdCqdLSfy) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 3:57 |
 | 75 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 149 | [Love & Devotion](https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/4SJ6x0Hlml18n0Ur9hnWNU) | 4:34 |
 | 150 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
 
-Snapshot ID: `MTY1MDA3MDk3NCwwMDAwMDAwMDY2NDdjYWU0NzA4MDc1MzA3MTQ3MDBiOWM4N2VhMzY3`
+Snapshot ID: `MTY1MDE1NzU1OSwwMDAwMDAwMDY2NDdjYWU0NzA4MDc1MzA3MTQ3MDBiOWM4N2VhMzY3`

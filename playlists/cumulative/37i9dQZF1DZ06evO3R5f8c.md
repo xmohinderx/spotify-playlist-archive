@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-67 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
+68 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [DJ Mix 3](https://open.spotify.com/track/7xZdRkC3g57gOtdFlum2eS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 1:10:18 | 2021-12-28 | 2021-12-30 |
 | [Don't You \(Give Up\) \- Live](https://open.spotify.com/track/6O4CHPJQdyTfPv1AZC667n) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:44 | 2021-12-28 |  |
 | [Drive \- Edit](https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:11 | 2021-12-28 |  |
-| [Even Though](https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 | 2022-04-10 |  |
+| [Even Though](https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 | 2022-04-10 | 2022-04-17 |
 | [Extra Time On You](https://open.spotify.com/track/2pesaSV3G2scS7BWywijgA) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Portia Monique](https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 7:22 | 2021-12-28 |  |
 | [Flava \(feat\. Una Rams & Tellaman\)](https://open.spotify.com/track/2mhkxRse3yU8bx6zJuiNI7) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:29 | 2021-12-28 | 2022-03-25 |
 | [Gardens Of Eden](https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:11 | 2021-12-28 |  |
@@ -61,6 +61,7 @@
 | [Rock My World \- Rancido Remix](https://open.spotify.com/track/1ucTDyNsXRPjjYGMMahN9w) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Soulstar](https://open.spotify.com/artist/5PekFhkqiljmAn0XKX5HFs) | [Rock My World](https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9) | 7:11 | 2021-12-28 |  |
 | [SBCNCSLY](https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [SBCNCSLY](https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp) | 6:24 | 2021-12-28 |  |
 | [Someday](https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:42 | 2021-12-28 |  |
+| [Stimela \(Coal Train\) \- Black Coffee Remix](https://open.spotify.com/track/5zc9sDB5u1KGA1CF8ej2gY) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Black Coffee](https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E) | 7:32 | 2022-04-16 |  |
 | [Stuck In Your Love](https://open.spotify.com/track/0XKk5tVNAR4gGxwhc8SAcV) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Azola](https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 7:05 | 2021-12-28 |  |
 | [Superman](https://open.spotify.com/track/752l1xT5G1OHzg71ZBnTyZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:13 | 2021-12-28 |  |
 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 | 2021-12-31 |  |

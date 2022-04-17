@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 47 | [Ché pas aimer](https://open.spotify.com/track/5JBHKiz1B3sSNvHtYOd36m) | [Leïla Lanova](https://open.spotify.com/artist/6vZaYrTbNPdkcxTBwfj9dI) | [Ché pas aimer](https://open.spotify.com/album/1DJmWokEMleQgnprdIloiM) | 3:57 |
 | 48 | [Privilège](https://open.spotify.com/track/51MahjAKXpmGrM6npy99fa) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW) | [Privilège](https://open.spotify.com/album/2IDpUnDHuGRm6tNM75rb6G) | 2:09 |
 | 49 | [Nuit](https://open.spotify.com/track/6mz6BXD2buUl5f8dngL9DH) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Nuit](https://open.spotify.com/album/2I8svUiy9H9b4IIAZKfTtj) | 3:03 |
-| 50 | [Lesbienne Woke sur l'autotune](https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [Lesbienne Woke sur l'autotune](https://open.spotify.com/album/6mKwEJV5F4DqilpZaJMS0N) | 3:24 |
+| 50 | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/album/6mKwEJV5F4DqilpZaJMS0N) | 3:24 |
 
 Snapshot ID: `MTY0OTk5NTI2MCwwMDAwMDQxNDAwMDAwMTgwMmI2MWEwZWUwMDAwMDE4MDIzZTdjY2E3`

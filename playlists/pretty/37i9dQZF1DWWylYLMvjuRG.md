@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 > The biggest party hits of the 2010s\. Cover: Pitbull.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,487 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,087 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [Into You \- 3LAU Remix](https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Into You \(3LAU Remix\)](https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl) | 3:17 |
 | 150 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 
-Snapshot ID: `MTY1MDA3MDQ0MiwwMDAwMDAwMGYxNmQ5Y2E5Zjc0NTQ2MDNjZmMyNWQ1MjlmYWM5OTUy`
+Snapshot ID: `MTY1MDE1NzA0NCwwMDAwMDAwMGYxNmQ5Y2E5Zjc0NTQ2MDNjZmMyNWQ1MjlmYWM5OTUy`

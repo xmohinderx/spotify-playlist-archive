@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Kurt Vile
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,191 likes - 116 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,277 likes - 116 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

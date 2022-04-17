@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,601 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,637 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Lydia \(Please Make It Better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
 | 50 | [Glass Shards](https://open.spotify.com/track/1Yhkq1TUW3d1WYyhS7Vt9g) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:08 |
 
-Snapshot ID: `MTY1MDA3MDY0MCwwMDAwMDAwMDlmOGJhNmVlMDFlMTkyOTBmZmY5MGQyYTg0MzdkZDJj`
+Snapshot ID: `MTY1MDE1NzIzNCwwMDAwMDAwMDlmOGJhNmVlMDFlMTkyOTBmZmY5MGQyYTg0MzdkZDJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,754 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,128 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 149 | [Leave a Light On \(7"\)](https://open.spotify.com/track/5Fmwhqt1zOi0uPYa1nl72k) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Runaway Horses \(Remastered & Expanded Special Edition\)](https://open.spotify.com/album/3tWN0uTRc9uSFiRoTTSmAQ) | 4:15 |
 | 150 | [Freeway Of Love](https://open.spotify.com/track/0lpIVCLNQRBKffcRRNrHyh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Who's Zoomin' Who? \(Expanded Edition\)](https://open.spotify.com/album/7x58T4Q8rIR7rY9mPen1li) | 5:52 |
 
-Snapshot ID: `MTY1MDA3MDc1OSwwMDAwMDAwMDYwMDlmNzdhMjczOTc0NTZkNGJhN2U5NTZhMTQ0OTJi`
+Snapshot ID: `MTY1MDE1NzM1MywwMDAwMDAwMDYwMDlmNzdhMjczOTc0NTZkNGJhN2U5NTZhMTQ0OTJi`

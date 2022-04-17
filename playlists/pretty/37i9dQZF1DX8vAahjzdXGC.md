@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,885 likes - 96 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,896 likes - 96 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 31 | [Jatuh Padamu](https://open.spotify.com/track/0iftSHbvV9Op0uac93tBFg) | [Diskopantera](https://open.spotify.com/artist/2q54uzLZU4WBwz63KRqVQD), [Bisma Karisma](https://open.spotify.com/artist/2enJCAxn8Ol08JzJYBWaBc) | [Jatuh Padamu](https://open.spotify.com/album/5GmzSRXNgcHKXRspperqVg) | 3:44 |
 | 32 | [You're Not Alone](https://open.spotify.com/track/4IpGBqDgU60g8dxjdtYR8B) | [Andra Ramadhan Project](https://open.spotify.com/artist/3ezcVV0fiYvDuWgpImeAAO) | [You're Not Alone](https://open.spotify.com/album/5OCbAhJozMQTnGuBgwUxm9) | 4:45 |
 | 33 | [24](https://open.spotify.com/track/1kGdmYglB6zVHnlnDuq9WW) | [Raracellina](https://open.spotify.com/artist/4c35lGsLbwUTvQzGZxb2iI) | [24](https://open.spotify.com/album/34oqgpbFPJtlgJLAEV8nw5) | 3:36 |
-| 34 | [I Still Love You \(feat\. NGHTNGALE\)](https://open.spotify.com/track/653o19PRBng25ebOVKDXVP) | [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [NSG](https://open.spotify.com/artist/3dMGfB3Ony7lPHsn8oFgig), [NGHTNGALE](https://open.spotify.com/artist/1BjY8OlzCH17snJo69ZGnc) | [I Still Love You \(feat\. NGHTNGALE\)](https://open.spotify.com/album/48lPV2h6JdsHCaVdhTnnCv) | 3:42 |
+| 34 | [I Still Love You \(feat\. NGHTNGALE\)](https://open.spotify.com/track/653o19PRBng25ebOVKDXVP) | [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [NGHTNGALE](https://open.spotify.com/artist/1BjY8OlzCH17snJo69ZGnc) | [I Still Love You \(feat\. NGHTNGALE\)](https://open.spotify.com/album/48lPV2h6JdsHCaVdhTnnCv) | 3:42 |
 | 35 | [breathe, go away](https://open.spotify.com/track/3xYtWEjFrn8jbUtOlhs6L5) | [Ramandhika](https://open.spotify.com/artist/47WzpqQTUuAnZQsMl6V6Kt) | [breathe, go away](https://open.spotify.com/album/3zwNBGSjc4zc6tINF87BXF) | 2:48 |
 | 36 | [Too Doo Doo](https://open.spotify.com/track/0H7Uy6KK3jHD082R0x5VtT) | [Rifkysetya](https://open.spotify.com/artist/28U66vinWbf17vJbvvfRTB) | [Too Doo Doo](https://open.spotify.com/album/6wVU7cIHqU0KILc87a2xCf) | 3:14 |
 | 37 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 83 | [Apple Tree Blues](https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Apple Tree Blues](https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g) | 3:32 |
 | 84 | [Fatal Distraction](https://open.spotify.com/track/6OgrhVp2c2o9PNLJZ8qdzU) | [IF YOU DARE](https://open.spotify.com/artist/24LhTHlri6WopEv4StByYo) | [Fatal Distraction](https://open.spotify.com/album/5CgY8nIYvKb6O1dcltOucj) | 3:22 |
 | 85 | [No Sad Goodbye](https://open.spotify.com/track/25cwmocOzHo7bYLcmTkPmv) | [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [No Sad Goodbye](https://open.spotify.com/album/6CgcIyA4UmYA6nNz9Nd1jI) | 2:49 |
-| 86 | [Blah Blah Blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Blah Blah Blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
+| 86 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
 | 87 | [The Dream State](https://open.spotify.com/track/0BY1UMRp2LFzqWZ17jS6nu) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The Dream State](https://open.spotify.com/album/6fcWkvPaizsp4KsW9Vhb6e) | 2:53 |
 | 88 | [Crash My Car](https://open.spotify.com/track/4Rrl4ep3FRVuF2OZ40LQl6) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [Crash My Car/Devil On My Shoulder](https://open.spotify.com/album/0QjEeDfF38YVsbb9Bv92NC) | 2:44 |
 | 89 | [We Just Chase The Light](https://open.spotify.com/track/464ZEz02BK62dKMeEkktNW) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Today From Past Days](https://open.spotify.com/album/5pfb32JF2tPT5HTpcX63gu) | 4:45 |

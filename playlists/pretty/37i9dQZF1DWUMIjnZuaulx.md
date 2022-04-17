@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  William Murphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,719 likes - 99 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,896 likes - 99 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just Us](https://open.spotify.com/track/4tFrt3KFlSj1kDKXTJNbtJ) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Just Us](https://open.spotify.com/album/1IiFcfPQXkOinuNhejlk3d) | 6:02 |
-| 2 | [Dependable \(feat\. Darrell Walls & Chandler Moore\) \- Live Version](https://open.spotify.com/track/4ULea2qGmXZmKtoTlE4jpv) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Dependable \(feat\. Darrell Walls & Chandler Moore\) \[Live Version\]](https://open.spotify.com/album/0SnHqwsdvfuCqLhQcuVxBU) | 7:49 |
+| 2 | [Dependable \(feat\. Darrel Walls & Chandler Moore\) \- Live Version](https://open.spotify.com/track/4ULea2qGmXZmKtoTlE4jpv) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Dependable \(feat\. Darrel Walls & Chandler Moore\) \[Live Version\]](https://open.spotify.com/album/0SnHqwsdvfuCqLhQcuVxBU) | 7:49 |
 | 3 | [Anything but Fail](https://open.spotify.com/track/7cMMCxWyC4NQUI31lg8yVr) | [The Group Fire](https://open.spotify.com/artist/3txT8oRKvO8rnYXxn8lnSm) | [Anything but Fail](https://open.spotify.com/album/6vuieclSb9Y1FmxgUuTAVI) | 4:17 |
 | 4 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 |
 | 5 | [joyful](https://open.spotify.com/track/1Eg2byzEpuiG5rM5PUFVAt) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [joyful](https://open.spotify.com/album/57XPU0P5oh5VlO9wfR6EK1) | 2:16 |

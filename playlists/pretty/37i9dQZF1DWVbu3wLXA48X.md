@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The Walters
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,290 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,301 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 42 | [Together](https://open.spotify.com/track/5EfkbBaR8OMEJpdOF2uY2Q) | [Rosai in Hurry](https://open.spotify.com/artist/1Sc1el3Xygnijenpj9mkmk) | [Together](https://open.spotify.com/album/4myVGIyb9WmkWn2Bh5TaHf) | 5:10 |
 | 43 | [2+2](https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [2+2](https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ) | 2:48 |
 | 44 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 |
-| 45 | [Whenever I See You \- Live](https://open.spotify.com/track/5fVD9x5lBXSjMqiR5s2Efc) | [Minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Whenever I See You \(Live\)](https://open.spotify.com/album/44D6tch9k4I8EbE8jXyPpm) | 3:35 |
+| 45 | [Whenever I See You \- Live](https://open.spotify.com/track/5fVD9x5lBXSjMqiR5s2Efc) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Whenever I See You \(Live\)](https://open.spotify.com/album/44D6tch9k4I8EbE8jXyPpm) | 3:35 |
 | 46 | [Life 4 You](https://open.spotify.com/track/4QgmBsLjmbrSPdkduDXutZ) | [Jiwhan Kim](https://open.spotify.com/artist/5iuodxEu3skXjt8pTbImO1), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [Life 4 You](https://open.spotify.com/album/0y8AqUHFyZX5e8A0qBKKAh) | 2:55 |
 | 47 | [Easy Like 123](https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [FUNFAIR](https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i) | 2:28 |
 | 48 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 |

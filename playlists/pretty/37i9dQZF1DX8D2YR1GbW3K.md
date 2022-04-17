@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,918 likes - 125 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,133 likes - 125 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 17 | [Eat Sleep Rave Repeat \(feat\. Beardyman\) \- Calvin Harris Radio Edit](https://open.spotify.com/track/6gF4YXwuu1N0lJDOuMLgbU) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Beardyman](https://open.spotify.com/artist/6lITXT7V1VIC7nwlgh8ycO), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Eat Sleep Rave Repeat \(feat\. Beardyman\)](https://open.spotify.com/album/0aUExTA64dIbHjW8Ezg9iT) | 2:48 |
 | 18 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
 | 19 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/5Sey3HgGa6KB46mlOyCClZ) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/68ORvGqWXloU4WOUOdW8bm) | 3:25 |
-| 20 | [The Veldt \(feat\. Chris James\) \- Radio Edit](https://open.spotify.com/track/29B5iOEsl6pMnvZke3rcIT) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/36tYUHvwOqvoVtpDscFUHw) | [The Veldt \(feat\. Chris James\)](https://open.spotify.com/album/57jutsGPCkXUkmBL0pCdlB) | 2:50 |
+| 20 | [The Veldt \(feat\. Chris James\) \- Radio Edit](https://open.spotify.com/track/29B5iOEsl6pMnvZke3rcIT) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Veldt \(feat\. Chris James\)](https://open.spotify.com/album/57jutsGPCkXUkmBL0pCdlB) | 2:50 |
 | 21 | [Wasted](https://open.spotify.com/track/1EavLSmwRWtmkKEmlCfFzT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Wasted](https://open.spotify.com/album/584m4QL0kmpG69zSpMKvv8) | 3:08 |
 | 22 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 |
 | 23 | [Strangers](https://open.spotify.com/track/2U0pVx4m1Kdm1Gsjjm6iq8) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv), [Shane 54](https://open.spotify.com/artist/2ITbqEgyp32vL3BxEFmQ1V), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Worlds Apart](https://open.spotify.com/album/3ZLP4gT36JCBPH0PZUUcPj) | 3:24 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Get Low](https://open.spotify.com/track/5cNAXdmcLBckABGuNhxE37) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Get Low](https://open.spotify.com/album/5pr3Yy1S6Nzarr9wO1BLY2) | 3:33 |
 | 125 | [Virus \(How About Now\)](https://open.spotify.com/track/0W6yJKJW8I04iDT6BsINaL) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/6cMs1rlzNK7VhFI5zXNXID) | 3:18 |
 
-Snapshot ID: `MTY1MDA3MDc5OSwwMDAwMDAwMGQzZTZhMzRlYWM0YmY5MzQyNWIxNTI1MmUxN2ViMTc4`
+Snapshot ID: `MTY1MDE1NzM5MSwwMDAwMDAwMGQzZTZhMzRlYWM0YmY5MzQyNWIxNTI1MmUxN2ViMTc4`

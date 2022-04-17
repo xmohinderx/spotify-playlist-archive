@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Explore the year's showcasing artists\. Public showcase tickets available at <a href="https://www.eventbrite.com/e/folk\-unlocked\-virtual\-showcases\-public\-access\-tickets\-129353276131">folk.org/showcasedonation</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,909 likes - 169 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,910 likes - 169 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

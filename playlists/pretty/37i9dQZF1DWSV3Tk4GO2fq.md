@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,695 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,153 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 85 | [I'm Walkin'](https://open.spotify.com/track/07TQDFaoLBwvo6JU1nnaiU) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 2:15 |
 | 86 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 |
 | 87 | [Wild One](https://open.spotify.com/track/77FRvC6JRthZBYDiMJeAFg) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [BD Music Presents Jerry Lee lewis](https://open.spotify.com/album/2HQ3nHpKUGVfxRSp09ewne) | 1:54 |
-| 88 | [Autumn in New York \- 2003 Remastered Version](https://open.spotify.com/track/5y3gqKswDeU8pJ878YFPUy) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Blue Moon](https://open.spotify.com/album/28cgY2HKAZY3btnqnCDK5n) | 3:41 |
+| 88 | [Autumn in New York \- 2003 Remaster](https://open.spotify.com/track/5y3gqKswDeU8pJ878YFPUy) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Blue Moon](https://open.spotify.com/album/28cgY2HKAZY3btnqnCDK5n) | 3:41 |
 | 89 | [Banana Boat \(Day\-O\)](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Calypso](https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3) | 3:03 |
 | 90 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 |
 | 91 | [Red River Rock](https://open.spotify.com/track/7EM1CeaWPjCdVY1vO0KiO4) | [Johnny & The Hurricanes](https://open.spotify.com/artist/5sgpmIi6mJNrm3fs3swCa7) | [Rockin' & Rollin' \(Volume 1\)](https://open.spotify.com/album/3L5LMEk9l6WaSgBmIU0j2G) | 2:08 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 149 | [I Saw The Light](https://open.spotify.com/track/675n4cfx308vwH0VBGqEOM) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [I Saw The Light \(Expanded Edition\)](https://open.spotify.com/album/3FdA6hnmuVQCow4rdnl2CR) | 2:45 |
 | 150 | [Mr\. Blue](https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:25 |
 
-Snapshot ID: `MTY1MDA3MDI5MywwMDAwMDAwMGIxNTJmNDA5ODlmMmE5OWNlYmU2N2M1NzI4ZjliODNk`
+Snapshot ID: `MTY1MDE1NjkwNCwwMDAwMDAwMGIxNTJmNDA5ODlmMmE5OWNlYmU2N2M1NzI4ZjliODNk`

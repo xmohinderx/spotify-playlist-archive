@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 292000,
       "name": "250 Miles",
       "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 177326,
       "name": "Attention",
       "url": "https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 228253,
       "name": "Automechanic",
       "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
@@ -163,10 +163,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 229840,
       "name": "Baby Bluebird",
       "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "album": {
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 282975,
       "name": "Confidence Man",
       "url": "https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 243769,
       "name": "Domino",
       "url": "https://open.spotify.com/track/4UPVhpMIAuTUS6NDaEajXI"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 216413,
       "name": "Eno Nothing",
       "url": "https://open.spotify.com/track/3IRSGpUi9NhYHl6EdfQo8D"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 163280,
       "name": "Goodbye Summer",
       "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 235407,
       "name": "Island Time",
       "url": "https://open.spotify.com/track/453gfGTfhbbOGXVaaNVrPo"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 418146,
       "name": "Kingfisher",
       "url": "https://open.spotify.com/track/6Phj3iOnTi0haVX6dPnzoQ"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 258800,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 295396,
       "name": "Listening In",
       "url": "https://open.spotify.com/track/2MiE4uNtlIr7GKM6DwiUgl"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 222093,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/61WbhRdmRaasVoszXDYcZx"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 248791,
       "name": "More Of The Same",
       "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 193520,
       "name": "No Quit",
       "url": "https://open.spotify.com/track/4g15kgCDhIdHEzbBJvCNd0"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 254541,
       "name": "Opposite House",
       "url": "https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 219029,
       "name": "Pain",
       "url": "https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 205525,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 234346,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/5HiIz6ICFx1VgoxjxX4ywc"
@@ -1021,10 +1039,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 248093,
       "name": "Replica",
       "url": "https://open.spotify.com/track/7xGMxT9ehrOlWjJwEyhuk2"
+    },
+    {
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/5TheealFtp3ScdyJws3wvD"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx"
     },
     {
       "album": {
@@ -1097,7 +1133,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 262542,
       "name": "Sing a Glad Song",
       "url": "https://open.spotify.com/track/1rKcc3LdBjj2mTLBSjSYfW"
@@ -1140,6 +1176,24 @@
     },
     {
       "album": {
+        "name": "Preacher's Sigh & Potion: Lost Album",
+        "url": "https://open.spotify.com/album/6UcymrHI2XaNdzIMeesL4Z"
+      },
+      "artists": [
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205755,
+      "name": "Sow Down",
+      "url": "https://open.spotify.com/track/3TwvrI5KmWg82jy87PCWFt"
+    },
+    {
+      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -1151,7 +1205,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
@@ -1314,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Keen",
+          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221514,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7"
+    },
+    {
+      "album": {
         "name": "A Love Extreme",
         "url": "https://open.spotify.com/album/2zQGpwdvHqZhw2BguUqb18"
       },
@@ -1379,7 +1451,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 222453,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a"

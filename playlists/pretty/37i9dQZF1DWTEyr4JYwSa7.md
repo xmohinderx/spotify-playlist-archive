@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,799 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,794 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
 | 100 | [Joyeux Noël](https://open.spotify.com/track/1xRBTzIffG760rUzbGeAf3) | [Charlēne](https://open.spotify.com/artist/2DywdSfGqK5EtQVLllyOmB) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 2:39 |
 
-Snapshot ID: `MTY1MDA3MDMxNiwwMDAwMDAwMDFkZWUxNzY2ZDZhM2M4ZjM3ZmE1MTYyYzE0MzNkMTIx`
+Snapshot ID: `MTY1MDE1NjkyNywwMDAwMDAwMDFkZWUxNzY2ZDZhM2M4ZjM3ZmE1MTYyYzE0MzNkMTIx`

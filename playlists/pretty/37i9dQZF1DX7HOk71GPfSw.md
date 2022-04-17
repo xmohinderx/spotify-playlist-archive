@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > spotify hyperpop playlist Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,692 likes - 149 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,882 likes - 149 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 145 | [Kaleidoscope](https://open.spotify.com/track/5FDBgeJawQYrnnpkBa5aI6) | [Clonethekid](https://open.spotify.com/artist/4PEDT3kx00oQFvezHOng8V) | [Kaleidoscope](https://open.spotify.com/album/7FlxoRFvZavjONp6SKqKuv) | 1:51 |
 | 146 | [No Rest](https://open.spotify.com/track/63VaZkQwtaFCQ48pEBZrke) | [Aj simons](https://open.spotify.com/artist/2Hg3jEqEsp1jThhvybP0HX), [emotegi](https://open.spotify.com/artist/0EZi1A6N8QYNTuA3D9KwB5) | [Soul Spa](https://open.spotify.com/album/0PEyufMZRPisvEJcGdKzuM) | 2:40 |
 | 147 | [Hope That You Know](https://open.spotify.com/track/2M2b0V0CvV8KtwI9kEqaYk) | [Rosesleeves](https://open.spotify.com/artist/6C5SxIdYMB0Yw8eLjlVtX4) | [Hope That You Know](https://open.spotify.com/album/7spvHspcAR3gji9Yf54zdD) | 2:56 |
-| 148 | [Party By Myself](https://open.spotify.com/track/46EvxBNc7C13UsWJ9Nidx6) | [She Loves Boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Party By Myself](https://open.spotify.com/album/2qsmn7KtsiGXSyaD9N7dCF) | 2:13 |
+| 148 | [Party By Myself](https://open.spotify.com/track/46EvxBNc7C13UsWJ9Nidx6) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Party By Myself](https://open.spotify.com/album/2qsmn7KtsiGXSyaD9N7dCF) | 2:13 |
 | 149 | [Rose Coloured Ear Drums](https://open.spotify.com/track/69xuSR3BFb7aAN7HUJ2MiS) | [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BIG KILL FUTURE](https://open.spotify.com/album/49RtLwYTyBKciCUDUfUI45) | 2:58 |
 
 Snapshot ID: `MTY0OTk5NTMyMCwwMDAwMDE1ODAwMDAwMTgwMmI2MjhiMTIwMDAwMDE4MDI5MWMzZmRl`

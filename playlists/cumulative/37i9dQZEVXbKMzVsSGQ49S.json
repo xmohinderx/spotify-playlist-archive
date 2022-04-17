@@ -548,6 +548,28 @@
     },
     {
       "album": {
+        "name": "Amplified",
+        "url": "https://open.spotify.com/album/1KYVClcOUd1Lg8s8NBKuBg"
+      },
+      "artists": [
+        {
+          "name": "DJ Muscleboy",
+          "url": "https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f"
+        },
+        {
+          "name": "Manswess",
+          "url": "https://open.spotify.com/artist/3ZCQVTHTAg68IJ5hWRgh9X"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Amplified",
+      "url": "https://open.spotify.com/track/4WeXbnhN2jQ5izKOJX0Pfv"
+    },
+    {
+      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/5Q0aWHu3M6alND61tb9N7i"
       },
@@ -6713,7 +6735,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
@@ -12265,7 +12287,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -13061,7 +13083,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-06-20",
+      "date_removed": null,
       "duration_ms": 286348,
       "name": "\u00dea\u00f0 er gott a\u00f0 elska",
       "url": "https://open.spotify.com/track/3KQYk6xCiUI6yKdxXlYA1C"

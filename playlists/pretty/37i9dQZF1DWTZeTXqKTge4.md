@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Izzy\-S
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,694 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,739 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 43 | [Savoir Faire](https://open.spotify.com/track/0QzKhiUheuDm0et5lzKpTy) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [8ruki](https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2) | [Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur](https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO) | 3:11 |
 | 44 | [ADN](https://open.spotify.com/track/5uXJ37ol7W82PLhOkP1ieu) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [ADN](https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe) | 2:55 |
 | 45 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 |
-| 46 | [Lesbienne Woke sur l'autotune](https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [Lesbienne Woke sur l'autotune](https://open.spotify.com/album/6mKwEJV5F4DqilpZaJMS0N) | 3:24 |
+| 46 | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/album/6mKwEJV5F4DqilpZaJMS0N) | 3:24 |
 | 47 | [Cobra Kai](https://open.spotify.com/track/7wfpL51ZlfBQ4nC0ynnLx7) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Houdini Greatness](https://open.spotify.com/artist/7nCIEHWyuL1oX0jkgS0eqa) | [Cobra Kai](https://open.spotify.com/album/2kJ7GhSSi25OEz47vlioU6) | 3:05 |
 | 48 | [Beriz](https://open.spotify.com/track/2taeWDYU3KPjlxvSy7nSVH) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [Coup De Feu Rue De La Paix](https://open.spotify.com/album/64HldXz7R0KapCaiAiZiYC) | 3:17 |
 | 49 | [Bêta](https://open.spotify.com/track/5JvaeXciDAaUiLXPtU3lP4) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bêta](https://open.spotify.com/album/2PBbBSfXftHd7AVs2Yt451) | 2:19 |

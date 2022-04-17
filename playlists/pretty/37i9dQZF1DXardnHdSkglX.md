@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,940 likes - 139 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,225 likes - 139 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 125 | [Smoke on the Water](https://open.spotify.com/track/1fz735l9WBXIjO0Y9Rk2r6) | [The Cooltrane Quartet](https://open.spotify.com/artist/3tFvFDca4inwWMY5vupFbX) | [Cool Jazz Blends](https://open.spotify.com/album/1qEJG8kgMcLSZ3dwdjQvr3) | 4:24 |
 | 126 | [Don´t Stop ´till You Get Enough](https://open.spotify.com/track/4VrvrQe8C9QxUVxQoWKHFv) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Alanah](https://open.spotify.com/artist/417Zhwldkb0YZiVmM1pMah) | [Bossa N' Disco](https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK) | 5:13 |
 | 127 | [Like A Virgin \(Bossa Version\)](https://open.spotify.com/track/4B5SsTcDjP1Jfa9CFbsOOb) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:50 |
-| 128 | [No Woman, No Cry](https://open.spotify.com/track/501YlAetaUihOReeVjAJq1) | [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7), [Astrud C](https://open.spotify.com/artist/0NK0MNkLVmoTRc6wKP7Bb0), [Moana](https://open.spotify.com/artist/7qkpISPPPTIP0a3fOKrjLe) | [Bossa n' Marley](https://open.spotify.com/album/7IEYnDhRLDixYADs3fSEC0) | 4:45 |
+| 128 | [No Woman, No Cry](https://open.spotify.com/track/501YlAetaUihOReeVjAJq1) | [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7), [Astrud C](https://open.spotify.com/artist/0NK0MNkLVmoTRc6wKP7Bb0), [moana](https://open.spotify.com/artist/444nnv3ACMwwt0N2eiI9fs) | [Bossa n' Marley](https://open.spotify.com/album/7IEYnDhRLDixYADs3fSEC0) | 4:45 |
 | 129 | [Careless Whisper](https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:53 |
 | 130 | [Stand By Me \(Bossa version\)](https://open.spotify.com/track/7C7qWqnoMSzm1Dqphcua78) | [Bruno Camurati](https://open.spotify.com/artist/5EfKwJn5Hq1F8hoZ8zXl0F) | [Relaxing Bossa Lounge 5](https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ) | 3:42 |
 | 131 | [Hey Brother](https://open.spotify.com/track/6KjeFfePSDrlvsOb1aXqwy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid) | 3:41 |

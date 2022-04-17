@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: Scene Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,569 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,768 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 |
 | 80 | [Wanted and Wild](https://open.spotify.com/track/71KBRRkf9uoIdW1sZ9zD3V) | [MoonSun](https://open.spotify.com/artist/1nSYsxBoOs3Cvi6j6WDXdS) | [Escapalace](https://open.spotify.com/album/3h7npJD5gTvtgblS9Zhqst) | 3:31 |
 
-Snapshot ID: `MTY1MDA3MDQ0OCwwMDAwMDAwMDhiOWM1NDcwOTg2ZmNlYzhlNTIwNDExYTdlZjdhOTNk`
+Snapshot ID: `MTY1MDE1NzA1MSwwMDAwMDAwMDhiOWM1NDcwOTg2ZmNlYzhlNTIwNDExYTdlZjdhOTNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: bülow
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,599 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,369 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 81 | [Crucify](https://open.spotify.com/track/79SSjcCUxQQfok16FvaSRh) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Crucify](https://open.spotify.com/album/0FSyUSjWDpmJxTm6SKiW8q) | 2:51 |
 | 82 | [Sober](https://open.spotify.com/track/6Z638kYKLsW2GQhD8vDd4Z) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34), [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Sober](https://open.spotify.com/album/0zF1RVOJ4oSHIeoAh5JENn) | 3:35 |
 | 83 | [Something Changed](https://open.spotify.com/track/5i0kg0Q8tdAKvzFT4w3uEH) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Something Changed](https://open.spotify.com/album/3or76O7y0xIg226n36rLyl) | 3:56 |
-| 84 | [Waiting](https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Waiting](https://open.spotify.com/album/4mZ0acYHXQQh9SEyjrDTnr) | 3:36 |
+| 84 | [Waiting](https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Waiting](https://open.spotify.com/album/4mZ0acYHXQQh9SEyjrDTnr) | 3:01 |
 | 85 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 |
 | 86 | [Where Did the Day Go](https://open.spotify.com/track/0TeAdXoA8jjuFJtLHXRHko) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Where Did the Day Go](https://open.spotify.com/album/3r1K9yDTSAF8qQKfppJ3QN) | 2:24 |
 | 87 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 |

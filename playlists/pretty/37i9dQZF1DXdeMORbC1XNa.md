@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover:  Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,720 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,793 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 38 | [Petite](https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Petite](https://open.spotify.com/album/3VviaPzhAXAIco8H3syNNq) | 3:02 |
 | 39 | [Vogue](https://open.spotify.com/track/4Fg5l5tuO0iNoEc4orRPt3) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [Vogue](https://open.spotify.com/album/5AA9M5Uc8Kh4Uu5FOh4FqL) | 3:14 |
 | 40 | [LV N ATTN feat\. Wizkid](https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
-| 41 | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/track/5SSYzmp4B9GnT3xYswsUh7) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/album/1Re42ryUU8e6Mau0MfMBv0) | 2:50 |
+| 41 | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/track/5SSYzmp4B9GnT3xYswsUh7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/album/1Re42ryUU8e6Mau0MfMBv0) | 2:50 |
 | 42 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 |
 | 43 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
 | 44 | [Wonder Woman](https://open.spotify.com/track/3Ojkw9bUCkW3odXjl6J1xi) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Wonder Woman](https://open.spotify.com/album/4MrFFWpbIjr4mjCxfMkCsk) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 49 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
 | 50 | [Lupita](https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Roots](https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx) | 3:37 |
 
-Snapshot ID: `MTY1MDA3MDk2OCwwMDAwMDAwMDAyYzNlYzQ1NjFkMGFjNGZiYWNlOTEyODI3MTVjYTli`
+Snapshot ID: `MTY1MDE1NzU1MywwMDAwMDAwMDAyYzNlYzQ1NjFkMGFjNGZiYWNlOTEyODI3MTVjYTli`

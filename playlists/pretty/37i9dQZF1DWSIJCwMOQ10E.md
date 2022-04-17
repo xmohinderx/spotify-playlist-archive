@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > ¡Celebrando con los 14 Cañonazos! Foto: Los Corraleros de Majagual
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,361 likes - 96 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,367 likes - 96 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 73 | [Swagga](https://open.spotify.com/track/2dLBxEQ7sv973o8qlH4Rr9) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Full HD](https://open.spotify.com/album/0dteJwWNDCUKcDePamzSHI) | 4:08 |
 | 74 | [Me Resbala](https://open.spotify.com/track/6Jh2w04fCPnEfgsUkoR9x2) | [Integracion Casanova](https://open.spotify.com/artist/0Xx3Z17IxJu0ChEHaeEKPs) | [Me Resbala \- Single](https://open.spotify.com/album/2l15rca1hcCvd1LbwfnIbq) | 3:56 |
 | 75 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 |
-| 76 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper "Pimienta" Díaz](https://open.spotify.com/artist/6NopZqcXwC96QEt0TmI3oC) | [Greatest Hits](https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ) | 3:57 |
+| 76 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Greatest Hits](https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ) | 3:57 |
 | 77 | [Créeme](https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Créeme](https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG) | 3:32 |
 | 78 | [Un Vestido Bonito](https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [5 Años Aferrados al Sabor](https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN) | 5:34 |
 | 79 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |

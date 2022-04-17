@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: biggie diehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,647 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,657 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 20 | [Pitbull](https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Pitbull](https://open.spotify.com/album/6EwvwqxByg8Ll9VJmeqBcc) | 2:50 |
 | 21 | [Minha Vida](https://open.spotify.com/track/2NIwJ0BXryqFfArHKCPiV1) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Minha Vida](https://open.spotify.com/album/6vituzkW1HmE4WTv8nqCpN) | 3:01 |
 | 22 | [Querem Me Atrasar](https://open.spotify.com/track/2BF32XzVlYYdjRAb5C2fJQ) | [Geninho](https://open.spotify.com/artist/4bLNPnwrhcXfY6RYrPqemy), [Viñamata](https://open.spotify.com/artist/5rpXRksG6PDOhZgRK9iaBC), [Scoppey](https://open.spotify.com/artist/70SW7kxgroNfFqOB2IFHz5) | [Querem Me Atrasar](https://open.spotify.com/album/5eSLVHJDlLp5FLndtzS9Tj) | 3:15 |
-| 23 | [Só Melhoria](https://open.spotify.com/track/0ThZimTDpDOcFeh7SbIUZU) | [YngLu.](https://open.spotify.com/artist/2PfM7oa1J4LuIEdTrwJ4ZH), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Patrickzaun](https://open.spotify.com/artist/1jwGYSmc5PZibKTO59H17P) | [Só Melhoria](https://open.spotify.com/album/6wANtceggS1duh3n9Rn4D5) | 3:04 |
+| 23 | [Só Melhoria](https://open.spotify.com/track/0ThZimTDpDOcFeh7SbIUZU) | [YngLu.](https://open.spotify.com/artist/2PfM7oa1J4LuIEdTrwJ4ZH), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Só Melhoria](https://open.spotify.com/album/6wANtceggS1duh3n9Rn4D5) | 3:04 |
 | 24 | [Loopz](https://open.spotify.com/track/2mheIaHBWW040BPzf1bG0C) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC), [Checo](https://open.spotify.com/artist/07s80klBJroLH5WqnVIyeB) | [Loopz](https://open.spotify.com/album/6Xhsd7VbqyhlSbSwIpn2Ky) | 2:38 |
 | 25 | [Camomila](https://open.spotify.com/track/5GA2k3zSZ8QcpA7U5mKefj) | [Thiago Kelbert](https://open.spotify.com/artist/54rY6D7VjLPPMTZqCeVkVa), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Camomila](https://open.spotify.com/album/46ZFMknkTMreOd2ErKTo0W) | 3:23 |
 | 26 | [Menino do Gueto](https://open.spotify.com/track/5Gjnq8N7kPi7QRay4Eswmd) | [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Menino do Gueto](https://open.spotify.com/album/3lZbmbLlwheRgBHbvMWh6W) | 2:26 |

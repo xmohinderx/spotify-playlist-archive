@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. En portada: Guadalupe Pineda
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,970 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,015 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 38 | [Cucurrucucú Paloma](https://open.spotify.com/track/10WbMX4C7efbMqgffLr4tC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cucurrucucú Paloma](https://open.spotify.com/album/2PiT6mwkpUXGuzNgczDg5e) | 4:18 |
 | 39 | [Las Margaritas](https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:23 |
 | 40 | [Inocente Pobre Amiga \(with Mariachi América de Jesús Rodríguez de Hijar\)](https://open.spotify.com/track/1CwbpsXpzVmVrIxOEraUTs) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [El Mariachi De América De Jesús Rodriguez De Hijar](https://open.spotify.com/artist/0waXcYWOieapc2IFrRMoy7) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 4:09 |
-| 41 | [Cuando Abra los Ojos](https://open.spotify.com/track/5rIMzmh2EaiLw7nao6vHol) | [Jenni Rivera](https://open.spotify.com/artist/7BuSKzrnlhe1Ouvz00jxMg) | [Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga](https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt) | 3:50 |
+| 41 | [Cuando Abra los Ojos](https://open.spotify.com/track/5rIMzmh2EaiLw7nao6vHol) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga](https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt) | 3:50 |
 | 42 | [Volver, Volver](https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:14 |
 | 43 | [Ya No Me Interesas](https://open.spotify.com/track/359vq12J0koGowGV9pxek4) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 |
 | 44 | [Ya No Me Interesas](https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:23 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 49 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 50 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
 | 51 | [Rata De Dos Patas](https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Taco Placero](https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh) | 3:38 |
-| 52 | [La Tequilera](https://open.spotify.com/track/2XuJmv5Cc4N1gYEPzLshVl) | [Jenni Rivera](https://open.spotify.com/artist/7BuSKzrnlhe1Ouvz00jxMg) | [Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga](https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt) | 2:26 |
+| 52 | [La Tequilera](https://open.spotify.com/track/2XuJmv5Cc4N1gYEPzLshVl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga](https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt) | 2:26 |
 | 53 | [Tus Maletas En La Puerta](https://open.spotify.com/track/2aZhicClWLsJFQSkbLFMbL) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [Serie Platino](https://open.spotify.com/album/4kCW29zMjnbmK9jUDtgCry) | 2:31 |
 | 54 | [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 |
 | 55 | [No Me Amenaces \(feat\. Lila Downs\)](https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr), [Mariachi Reyna De Los Angeles](https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pa' que Sientas Lo Que Siento](https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Carta Jugada](https://open.spotify.com/track/7pu2f2ul7iRObUquN0lBhI) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Exitos \- Mercedes Castro](https://open.spotify.com/album/1FDNTmoO3WactuDqtltfVg) | 2:30 |
 | 100 | [Un Mundo Raro](https://open.spotify.com/track/2lTBORKda4JQ6QoiIgSqWw) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Canta A Jose Alfredo Jimenez Vol\. 2](https://open.spotify.com/album/67KtaN3OEZxnsGb6F1MvTB) | 2:41 |
 
-Snapshot ID: `MTY1MDA3MDk1MSwwMDAwMDAwMDJmY2QwOTA3N2ZjYjViOWU2ZmU1N2VmOTA1YzQyZjYz`
+Snapshot ID: `MTY1MDE1NzUzNywwMDAwMDAwMDJmY2QwOTA3N2ZjYjViOWU2ZmU1N2VmOTA1YzQyZjYz`

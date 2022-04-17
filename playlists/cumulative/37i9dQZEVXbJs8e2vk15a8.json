@@ -198,6 +198,24 @@
     },
     {
       "album": {
+        "name": "Dejame Solo (Pablo Chile)",
+        "url": "https://open.spotify.com/album/3bfikovvMEQWjFTCqraiTY"
+      },
+      "artists": [
+        {
+          "name": "aa44aaa44aaa",
+          "url": "https://open.spotify.com/artist/6bOjk2pxlG2m94yupuLYzx"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Dejame Solo (Pablo Chile)",
+      "url": "https://open.spotify.com/track/1kosY1ulR7Xnn2q1AGJQhV"
+    },
+    {
+      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -314,6 +332,36 @@
     },
     {
       "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "album": {
         "name": "ESE CULITO",
         "url": "https://open.spotify.com/album/04s8SgqUuaEBdElV1XwZxh"
       },
@@ -329,7 +377,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 222693,
       "name": "ESE CULITO",
       "url": "https://open.spotify.com/track/4ezUYRDJUiLuupER93nkiX"
@@ -502,6 +550,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN FLOWER",
+        "url": "https://open.spotify.com/album/7iUuXpOPDfKXT5DwelKQpz"
+      },
+      "artists": [
+        {
+          "name": "Tatarka",
+          "url": "https://open.spotify.com/artist/6AskOVL13sRjMWnL45lxp0"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127338,
+      "name": "KAWAII",
+      "url": "https://open.spotify.com/track/46AX8pgh331m7C7q2t9Jra"
+    },
+    {
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -571,7 +637,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
@@ -699,7 +765,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 200816,
       "name": "Pantano",
       "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
@@ -759,6 +825,36 @@
       "duration_ms": 288004,
       "name": "Phillie y Botella (Remix)",
       "url": "https://open.spotify.com/track/0yc0Cewx8JTFPjiOVLfzkS"
+    },
+    {
+      "album": {
+        "name": "Prende el Party",
+        "url": "https://open.spotify.com/album/0nZ7g8tTNbNUkgh0Z8QDjc"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184194,
+      "name": "Prende el Party",
+      "url": "https://open.spotify.com/track/23IfleMgXhIkqdcelFaFZm"
     },
     {
       "album": {
@@ -1019,7 +1115,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 188893,
       "name": "U Know What's Up",
       "url": "https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,204 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,209 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 63 | [PEACH 2](https://open.spotify.com/track/5YPH5jvgUdz2idFDTnv6rY) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [Quân R.E.V](https://open.spotify.com/artist/5UgQxRnX0fvTuUgD3SUKjo), [hổ](https://open.spotify.com/artist/2nN082YbHkqvJYvJiwpc4R) | [PEACH 2](https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ) | 4:20 |
 | 64 | [letmeloveyou](https://open.spotify.com/track/7JQPDchdfMw7z80fhTXfnt) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY) | [letmeloveyou](https://open.spotify.com/album/0SsM6eWLkCnwOXpgYbj0QQ) | 3:13 |
 | 65 | [Neva Chia Lia](https://open.spotify.com/track/2pAZhdD0dtk0bQyOV6g8gd) | [Minchu](https://open.spotify.com/artist/5BvG46pJjsubbOQpc83sUi), [BadBz](https://open.spotify.com/artist/24g2ZCgiC9b4RQ5UcFaDDG) | [Neva Chia Lia](https://open.spotify.com/album/68jOYrlMo9XTUI3sPWPJbR) | 3:20 |
-| 66 | [Worthless](https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB), [Left Hand](https://open.spotify.com/artist/0Ftvam9jrL8kG5Y9LMVl9D) | [Worthless](https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn) | 3:36 |
+| 66 | [Worthless](https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Worthless](https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn) | 3:36 |
 | 67 | [Precious \- Cukak Remix](https://open.spotify.com/track/3LXgtPzLjoniEX4qvsOZ7i) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [KiperT](https://open.spotify.com/artist/4bxBytwIxfYh9r73z0zE4y) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/4aJFVEWiAZXjn3csBJwdAf) | 3:05 |
 | 68 | [Có Cao Ngang Bằng](https://open.spotify.com/track/71NbitGBgOq5wRVJtDgtNO) | [Phương Anh Idol](https://open.spotify.com/artist/0FGIOjX91Nnaq4ENBkXBxH) | [Có Cao Ngang Bằng](https://open.spotify.com/album/5WbY3z0X6xR0fdfSeETXgG) | 4:35 |
 | 69 | [Yêu Đơn Phương Là Gì?](https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS) | [Yêu Đơn Phương Là Gì](https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo) | 3:35 |

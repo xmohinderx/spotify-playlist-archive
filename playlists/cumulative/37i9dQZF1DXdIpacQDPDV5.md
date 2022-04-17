@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Swedish House Mafia
 
-242 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+242 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-03-18 |  |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2021-12-31 | 2022-03-12 |
 | [Volition](https://open.spotify.com/track/0nGRMJGfNJVY9SNGckjP04) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Cronus / Volition](https://open.spotify.com/album/5yMK9RyecHKtrkFYfI7ye4) | 4:52 | 2021-12-31 | 2022-01-22 |
-| [Waiting](https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Waiting](https://open.spotify.com/album/4mZ0acYHXQQh9SEyjrDTnr) | 3:36 | 2022-04-15 |  |
+| [Waiting](https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Waiting](https://open.spotify.com/album/4mZ0acYHXQQh9SEyjrDTnr) | 3:01 | 2022-04-15 |  |
 | [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-03-25 |  |
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2022-03-18 |  |
 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 | 2021-12-31 | 2022-02-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Swedish House Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,605 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,673 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 17 | [Loveless \(with Teddy Swims\)](https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Loveless \(with Teddy Swims\)](https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC) | 3:03 |
 | 18 | [Come Around Again](https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Come Around Again](https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC) | 2:49 |
 | 19 | [My Pony](https://open.spotify.com/track/1UaaVPtlo795n1hWqHpOYS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/3DTLDnxeGFdJZSME6WYgE1) | 2:33 |
-| 20 | [Waiting](https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Waiting](https://open.spotify.com/album/4mZ0acYHXQQh9SEyjrDTnr) | 3:36 |
+| 20 | [Waiting](https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Waiting](https://open.spotify.com/album/4mZ0acYHXQQh9SEyjrDTnr) | 3:01 |
 | 21 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
 | 22 | [Redlight](https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Redlight](https://open.spotify.com/album/79YZVPlv0WgFrhi0jxAjd0) | 4:02 |
 | 23 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 |

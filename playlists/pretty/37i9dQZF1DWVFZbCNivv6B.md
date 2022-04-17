@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de TREN LOKOTE y Homer El Mero Mero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,190 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,452 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mi Fucking Vida Loca](https://open.spotify.com/track/5TaEqPEcVumcFj6BIJUUUc) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Homer el Mero](https://open.spotify.com/artist/1Mh39pQQ3QUjuhKo0VXzI5) | [Mi Fucking Vida Loca](https://open.spotify.com/album/5FYjXEhiF2tJ3mNXGoe079) | 3:26 |
+| 1 | [Mi Fucking Vida Loca](https://open.spotify.com/track/5TaEqPEcVumcFj6BIJUUUc) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Mi Fucking Vida Loca](https://open.spotify.com/album/5FYjXEhiF2tJ3mNXGoe079) | 3:26 |
 | 2 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 |
 | 3 | [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 |
 | 4 | [Último Adiós](https://open.spotify.com/track/0RGcJ6VaN0UlC91o3xqJBB) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/0Fcbk98RH370akJ4nyMANT) | 4:18 |

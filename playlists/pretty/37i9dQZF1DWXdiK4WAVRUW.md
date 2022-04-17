@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > The most memorable country hits from the 2010's\. Cover: Miranda Lambert, Luke Bryan and Jason Aldean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,783 likes - 200 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,235 likes - 200 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [Get Me Some Of That](https://open.spotify.com/track/4O1CExxinEpKZi3861NlTK) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [It Goes Like This](https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB) | 3:07 |
 | 200 | [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 |
 
-Snapshot ID: `MTY1MDA3MDQ2MCwwMDAwMDAwMGU1ZWQ5M2E1YTJiNzA0M2FhMWQ0YTcwNzYwNzFkOTJj`
+Snapshot ID: `MTY1MDE1NzA2MywwMDAwMDAwMGU1ZWQ5M2E1YTJiNzA0M2FhMWQ0YTcwNzYwNzFkOTJj`

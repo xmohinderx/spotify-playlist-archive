@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,642 likes - 132 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,658 likes - 132 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 126 | [Drinkin' for Two \- One Take](https://open.spotify.com/track/4lLehyULZRrOtF7mT8G5C4) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 |
 | 127 | [Wild Love](https://open.spotify.com/track/7DJRKddQ7GogZpzgFfkA0i) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Wild Love](https://open.spotify.com/album/6HdfW84BXTz10aSsMs8kZN) | 3:14 |
 | 128 | [Only Us \- Acoustic](https://open.spotify.com/track/51pGduBpukl8Oy2qUEOAqS) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Only Us \(Acoustic\)](https://open.spotify.com/album/7DhKXqfA3WJeyHIGjmwfgW) | 2:35 |
-| 129 | [Forever and Always](https://open.spotify.com/track/2xBs8cDJEAtpostbqtcAk6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Forever and Always](https://open.spotify.com/album/3wyXosy7uV7muyjHjxVTqO) | 2:58 |
+| 129 | [Forever and Always \- Acoustic Version](https://open.spotify.com/track/2xBs8cDJEAtpostbqtcAk6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Forever and Always \(Acoustic Version\)](https://open.spotify.com/album/3wyXosy7uV7muyjHjxVTqO) | 2:58 |
 | 130 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 |
 | 131 | [Future Me \(Stripped\)](https://open.spotify.com/track/18n24cWVRHKT9PFhkEvsTG) | [Frank Legeay](https://open.spotify.com/artist/3UGllLBllWl2L26fEFe7l0), [Brittany Ray](https://open.spotify.com/artist/3MsA2aQCSDMoi7K7pZEYPo) | [Future Me \(Stripped\)](https://open.spotify.com/album/1BRX5eqhG2MQ5u1Mmzjyui) | 3:10 |
 | 132 | [No Now](https://open.spotify.com/track/6QqXvIQk3T9jLQq6aSynAU) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:37 |

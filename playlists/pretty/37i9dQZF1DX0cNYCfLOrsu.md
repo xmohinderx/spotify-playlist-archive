@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best to ever do it\. Cover: Amaria BB
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,398 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,460 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Fine Dine](https://open.spotify.com/track/3r9rBLRYvaImpuBfwSZcg7) | [Shauna Shadae](https://open.spotify.com/artist/3emXVifDxKaDkNSJ3MX0wr), [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv) | [Fine Dine](https://open.spotify.com/album/1NJGdaRwqm6cDYyXu7y7Yg) | 3:28 |
 | 75 | [LIGHTS](https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug) | [Leaha](https://open.spotify.com/artist/1QKXXl3OKfTUTcXg0z1ntp) | [LIGHTS](https://open.spotify.com/album/0Mbjwil51uX1EE2nARbl0f) | 3:05 |
 
-Snapshot ID: `MTY1MDA3MDU1OSwwMDAwMDAwMGIxZDY1ZWExODAxNDE0N2ZiMjkwOGRjMjk4NTM0MGQ3`
+Snapshot ID: `MTY1MDE1NzE1NSwwMDAwMDAwMGIxZDY1ZWExODAxNDE0N2ZiMjkwOGRjMjk4NTM0MGQ3`

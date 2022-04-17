@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: NASA NOVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,029 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,038 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 4 | [LET'S TROT!](https://open.spotify.com/track/2oqlgNaWn1ewr3FNKYLoie) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [LET'S TROT!](https://open.spotify.com/album/2KzG1z2SrIEFlvtPuwYgks) | 3:08 |
 | 5 | [Wasted](https://open.spotify.com/track/0KwwVrNjGqXzHswSeJsrx7) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR) | [Wasted](https://open.spotify.com/album/6zhiAQmpFZwE9FxSCMJLGO) | 2:27 |
 | 6 | [Forget You](https://open.spotify.com/track/2fShsVCCvgpELEJpbrz007) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Forget You](https://open.spotify.com/album/2QwgK5BvLgBEiBVG4gfucG) | 2:32 |
-| 7 | [FRENEMIES](https://open.spotify.com/track/2hwAugT0B9Xu7VGZnPh3Ur) | [Mac11](https://open.spotify.com/artist/3V4EvPxOtNBztsOyoLV1co) | [PUBLIC ENEMY](https://open.spotify.com/album/55SIX2DV1xWxf5Qn3lPmrN) | 3:01 |
+| 7 | [FRENEMIES](https://open.spotify.com/track/2hwAugT0B9Xu7VGZnPh3Ur) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0) | [PUBLIC ENEMY](https://open.spotify.com/album/55SIX2DV1xWxf5Qn3lPmrN) | 3:01 |
 | 8 | [Troublesome](https://open.spotify.com/track/0VC5JJ1DVONoX1tv77nxLm) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M) | [Troublesome](https://open.spotify.com/album/4jSEeA1ramOD61CZT7KlhW) | 3:03 |
 | 9 | [Game Day Ritual](https://open.spotify.com/track/4LWjiqxih81T0MwcNwZMUZ) | [OTEEZY](https://open.spotify.com/artist/1xM0fxmeNse4TvBV5RsuwO) | [Game Day Ritual](https://open.spotify.com/album/7dw7qyNIQiJ2nTpU5acc39) | 3:00 |
 | 10 | [RICKY](https://open.spotify.com/track/2YXYSajbiZzJD5K49KUGon) | [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u) | [RICKY](https://open.spotify.com/album/4z94jJZUEw0ne7zNzozKLy) | 2:56 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 16 | [OUT OF SIGHT](https://open.spotify.com/track/6a2POOrd49v2PW9RZkV6LD) | [YP](https://open.spotify.com/artist/69UmThngo84p8zzyAAMkGB), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [OUT OF SIGHT](https://open.spotify.com/album/5qdOHbi7GnkKVISrjGZ8iF) | 2:37 |
 | 17 | [Riding](https://open.spotify.com/track/1VroX76EOk6I4qoqsCMH06) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [Yeloboi Tommy](https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa) | [Riding](https://open.spotify.com/album/1GII4E9XlbESfPKgTzwORg) | 2:43 |
 | 18 | [HoodBars](https://open.spotify.com/track/4xEtZV7oNIjlr7XsPZdklQ) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [HoodBars](https://open.spotify.com/album/3o21gdPvDC1eSmbHpjClsN) | 2:39 |
-| 19 | [STILL HERE](https://open.spotify.com/track/0igYALStTLq74Xo5OLiywe) | [Mac11](https://open.spotify.com/artist/3V4EvPxOtNBztsOyoLV1co), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [STILL HERE](https://open.spotify.com/album/4LJsftEAwqLUPBlq7N3iCR) | 3:50 |
+| 19 | [STILL HERE](https://open.spotify.com/track/0igYALStTLq74Xo5OLiywe) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [STILL HERE](https://open.spotify.com/album/4LJsftEAwqLUPBlq7N3iCR) | 3:50 |
 | 20 | [Hard Labour](https://open.spotify.com/track/5paXlSDYWldSZLS3dilNul) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/5dQ48B7z887gEkgcz3Euvf) | 3:53 |
 | 21 | [Bosque](https://open.spotify.com/track/4Wnnw2K8sZHxSn6aHDtZIZ) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Redback](https://open.spotify.com/artist/0cm54lBGuzyjIjJyGiTqY4), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5) | [Bosque](https://open.spotify.com/album/0DbMMgvaRCVfvdOkoXzhDE) | 3:16 |
 | 22 | [Hit My Line](https://open.spotify.com/track/3pWyjL4tP35kcMUhxEyaQP) | [Jono](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR), [Jose Poly](https://open.spotify.com/artist/0efNl355u2tjhp8oo3EMy0) | [Hit My Line](https://open.spotify.com/album/3rv3dFnCgjEXheaE5mN614) | 2:43 |

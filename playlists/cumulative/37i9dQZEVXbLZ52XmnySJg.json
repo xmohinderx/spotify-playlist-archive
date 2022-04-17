@@ -6768,6 +6768,64 @@
     },
     {
       "album": {
+        "name": "Kgf Chapter 2",
+        "url": "https://open.spotify.com/album/6tYYbx3TIgC0xIqAYGkCD7"
+      },
+      "artists": [
+        {
+          "name": "Srikrishna",
+          "url": "https://open.spotify.com/artist/03zNmGIzwWA6dGKXqzoHwJ"
+        },
+        {
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        },
+        {
+          "name": "Arun Kaundinya",
+          "url": "https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4"
+        },
+        {
+          "name": "Saicharan",
+          "url": "https://open.spotify.com/artist/3AE1c5ny1Q8MMR1OxqyLaA"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Mohan Krishna",
+          "url": "https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7"
+        },
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Puneeth Rudranag",
+          "url": "https://open.spotify.com/artist/6oLN9TELPauBfctYeWPtYP"
+        },
+        {
+          "name": "Manish Dinakar",
+          "url": "https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw"
+        },
+        {
+          "name": "Harini Ivaturi",
+          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224994,
+      "name": "Sulthana",
+      "url": "https://open.spotify.com/track/7cNebZz7NXdrFzFOiqY5W5"
+    },
+    {
+      "album": {
         "name": "Sulthana (From \"Kgf Chapter 2\")",
         "url": "https://open.spotify.com/album/4R955INGwSW6nShxhpLPj3"
       },
@@ -6815,7 +6873,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 225069,
       "name": "Sulthana (From \"Kgf Chapter 2\")",
       "url": "https://open.spotify.com/track/1zMMaXKW1YKnkA86l0nwxM"
@@ -7045,7 +7103,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -7185,6 +7243,60 @@
       "duration_ms": 250287,
       "name": "Tip Tip (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"
+    },
+    {
+      "album": {
+        "name": "KGF Chapter 2",
+        "url": "https://open.spotify.com/album/62afs3y06fy6gZqMUASF9I"
+      },
+      "artists": [
+        {
+          "name": "Sandesh Datta Naik",
+          "url": "https://open.spotify.com/artist/5pmMZOwVgXjgD0c5rLsS9x"
+        },
+        {
+          "name": "Laxman Datta Naik",
+          "url": "https://open.spotify.com/artist/7pchh9p2Z6Y8cASKWopg3G"
+        },
+        {
+          "name": "Brijesh Shandilya",
+          "url": "https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q"
+        },
+        {
+          "name": "Mohan Krishna",
+          "url": "https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7"
+        },
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Puneeth Rudranag",
+          "url": "https://open.spotify.com/artist/6oLN9TELPauBfctYeWPtYP"
+        },
+        {
+          "name": "Priyanka Bharali",
+          "url": "https://open.spotify.com/artist/1gAlvF1ZgElfljtD0JZNgt"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213083,
+      "name": "Toofan",
+      "url": "https://open.spotify.com/track/45GXsEdPxpFLnqQMPR2Cyy"
     },
     {
       "album": {

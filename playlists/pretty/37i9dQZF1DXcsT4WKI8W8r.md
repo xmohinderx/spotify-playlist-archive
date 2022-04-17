@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,399 likes - 145 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,428 likes - 145 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [Love Someone](https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH) | 3:25 |
 | 145 | [Lean on Me](https://open.spotify.com/track/1CB9uNZ6RwxnQ3stGfVbQv) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [L Is For](https://open.spotify.com/album/7DLdbnubPOPOqC2Yggx4eI) | 2:37 |
 
-Snapshot ID: `MTY1MDA3MDk0NCwwMDAwMDAwMGM4NTM2ODYzMjQwMDVjN2JkNzk2MWZjYjZlNGEzMjRk`
+Snapshot ID: `MTY1MDE1NzUzMCwwMDAwMDAwMGM4NTM2ODYzMjQwMDVjN2JkNzk2MWZjYjZlNGEzMjRk`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 柏霖PoLin
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,848 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,891 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [來不及的告白 \- 東森電視自製戲劇《額外旅程》片頭曲](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [來不及的告白 \(東森電視自製戲劇《額外旅程》片頭曲\)](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 |
+| 1 | [來不及的告白](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [來不及的告白](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 |
 | 2 | [三天之內暈了你](https://open.spotify.com/track/2sTgpjvhk5NYKtGO6LWogR) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [三天之內暈了你](https://open.spotify.com/album/5DsNlpKAXLgQJUh2M8xcRP) | 3:08 |
 | 3 | [Face it](https://open.spotify.com/track/73g9BMuFvW58YBuHXAqSqf) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Face it](https://open.spotify.com/album/1eYJkeYUil7BCp162Llhbr) | 3:16 |
 | 4 | [Like That](https://open.spotify.com/track/4UqLJ5I3ErvzJVFG0JQ66w) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [Like That](https://open.spotify.com/album/7fsIJdDM2S39JCG2UsruLg) | 2:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [積極太陽 Feat\. 反骨男孩](https://open.spotify.com/track/77FbbfzQ315DZCGlAcIBXM) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [反骨男孩](https://open.spotify.com/artist/7aaZll9P7r7OuplQY2F5zk) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 3:19 |
 | 60 | [已經都壞掉了](https://open.spotify.com/track/63SsfMEls60dFyvkcFIkz9) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:37 |
 
-Snapshot ID: `MTY1MDA3MDYxMywwMDAwMDAwMGY2Yjk1OWRiYjE2ZDE1MTMxYTU2MTNiMThkYzI5MzBm`
+Snapshot ID: `MTY1MDE1NzIwOCwwMDAwMDAwMGY2Yjk1OWRiYjE2ZDE1MTMxYTU2MTNiMThkYzI5MzBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Luke Royalty Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,380 likes - 149 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,428 likes - 149 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

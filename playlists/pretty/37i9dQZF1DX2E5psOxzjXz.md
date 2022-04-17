@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Cover: Wooly and the Uke
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,437 likes - 88 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,451 likes - 88 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

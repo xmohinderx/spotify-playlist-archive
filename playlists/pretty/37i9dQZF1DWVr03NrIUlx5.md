@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > Big music hits in tiny 8\-bit versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,935 likes - 145 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,988 likes - 145 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 144 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/1hxVVPSXOoy2REedjroKPi) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Pink Floyd](https://open.spotify.com/album/2JRn0Jkfl4kRd1UNyr9YQK) | 3:34 |
 | 145 | [Dark Necessities](https://open.spotify.com/track/3FIac6oYC3hHFJdWUGcqfp) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Red Hot Chili Peppers](https://open.spotify.com/album/57UTpB82tkVuFfDi4jK93f) | 4:32 |
 
-Snapshot ID: `MTY1MDA3MDM5OCwwMDAwMDAwMDFiMGFmM2U2MTNhOGJiNjg1NDk3MGJjZDJmMTFiNzZj`
+Snapshot ID: `MTY1MDE1NzAwNiwwMDAwMDAwMDFiMGFmM2U2MTNhOGJiNjg1NDk3MGJjZDJmMTFiNzZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,643 likes - 76 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,642 likes - 76 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 68 | [Apple Tree Blues](https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Apple Tree Blues](https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g) | 3:32 |
 | 69 | [Fatal Distraction](https://open.spotify.com/track/6OgrhVp2c2o9PNLJZ8qdzU) | [IF YOU DARE](https://open.spotify.com/artist/24LhTHlri6WopEv4StByYo) | [Fatal Distraction](https://open.spotify.com/album/5CgY8nIYvKb6O1dcltOucj) | 3:22 |
 | 70 | [No Sad Goodbye](https://open.spotify.com/track/25cwmocOzHo7bYLcmTkPmv) | [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [No Sad Goodbye](https://open.spotify.com/album/6CgcIyA4UmYA6nNz9Nd1jI) | 2:49 |
-| 71 | [Blah Blah Blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Blah Blah Blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
+| 71 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
 | 72 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
 | 73 | [The Dream State](https://open.spotify.com/track/0BY1UMRp2LFzqWZ17jS6nu) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The Dream State](https://open.spotify.com/album/6fcWkvPaizsp4KsW9Vhb6e) | 2:53 |
 | 74 | [Crash My Car](https://open.spotify.com/track/4Rrl4ep3FRVuF2OZ40LQl6) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [Crash My Car/Devil On My Shoulder](https://open.spotify.com/album/0QjEeDfF38YVsbb9Bv92NC) | 2:44 |

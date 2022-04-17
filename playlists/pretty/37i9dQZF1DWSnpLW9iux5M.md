@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,028 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,037 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 74 | [After The Storm \(feat\. Samoht\)](https://open.spotify.com/track/3C5eYTXWmOaT2KIHOdkv12) | [Rhyan LaMarr](https://open.spotify.com/artist/6A3QksApu0ujMIvMN7GMFu), [KC Wavey](https://open.spotify.com/artist/2RN3JaT1xIMrhl7rCoGWzV), [Jack Red](https://open.spotify.com/artist/1HbPqATzBps9D95NuvlA9k), [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [A Red Guerrilla CHRISTmas, Vol\. 2](https://open.spotify.com/album/6a4PIxgqppsT0bgOTMe3ca) | 4:21 |
 | 75 | [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO) | [The Collective](https://open.spotify.com/artist/1MxfqwWO3lgJpvQuTxVTna), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0U8IUFHq5HDnMOTpH5HeVj) | 4:41 |
 
-Snapshot ID: `MTY1MDA3MDMwMSwwMDAwMDAwMGNkYjYyM2YwNTcyNTJjOTRjZDMyMzg4OWIxMGU2NWE5`
+Snapshot ID: `MTY1MDE1NjkxMSwwMDAwMDAwMGNkYjYyM2YwNTcyNTJjOTRjZDMyMzg4OWIxMGU2NWE5`

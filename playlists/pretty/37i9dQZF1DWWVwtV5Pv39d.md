@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,211 likes - 64 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,213 likes - 64 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 7 | [Everybody Wash](https://open.spotify.com/track/6awn1KS0M5mhC4AZEHBdYd) | [Bert & Ernie](https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE) | [Healthy Habits Collection](https://open.spotify.com/album/4SCR1v8MjdIeCnVej0N2QD) | 1:49 |
 | 8 | [Good Morning](https://open.spotify.com/track/7mwyLcoz7a4YwWg2vWrs24) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Good Morning](https://open.spotify.com/album/7qZlj8JaGC91YZb2jklkhG) | 3:37 |
 | 9 | [Rise & Shine \(Good Morning Song\)](https://open.spotify.com/track/6RvXhPFmWba1sJxd4M7jPK) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Rise & Shine \(Good Morning Song\)](https://open.spotify.com/album/7wD7g1SKFWi1aIrWWCPTgo) | 2:11 |
-| 10 | [I Like the Morning](https://open.spotify.com/track/7LkD43kJfWQAeNR83cXTLG) | [Cody](https://open.spotify.com/artist/7rAaRqIDuMiQuG4oy8vygE), [Heart](https://open.spotify.com/artist/6UEVx8BU4FwqzFHO4U72R7), [Mr\. Primm](https://open.spotify.com/artist/1LWRjmEu1mWd95oX6Vqlyb), [Scatter](https://open.spotify.com/artist/6blGivVRxZwdv2d5CVcNmz), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Helpsters: Apple TV+ Original Series Soundtrack, Vol\. 1](https://open.spotify.com/album/1iUfQktugNa5K7QmP5PukO) | 1:37 |
+| 10 | [I Like the Morning](https://open.spotify.com/track/7LkD43kJfWQAeNR83cXTLG) | [Cody](https://open.spotify.com/artist/7rAaRqIDuMiQuG4oy8vygE), [Heart](https://open.spotify.com/artist/6UEVx8BU4FwqzFHO4U72R7), [Mr\. Primm](https://open.spotify.com/artist/1LWRjmEu1mWd95oX6Vqlyb), [Scatter](https://open.spotify.com/artist/745OTOZLsTL84LJrF4szKm), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Helpsters: Apple TV+ Original Series Soundtrack, Vol\. 1](https://open.spotify.com/album/1iUfQktugNa5K7QmP5PukO) | 1:37 |
 | 11 | [I Don't Wanna Brush My Teeth](https://open.spotify.com/track/5XCvvgKzlDEMrAuyMASlDt) | [The Cool Chips](https://open.spotify.com/artist/6tpEDMWC8SoJDtYYNBthcD) | [The Cool Chips](https://open.spotify.com/album/6PvCW7eCqVVOIRwfVW0sMD) | 2:24 |
 | 12 | [Brush Your Teeth](https://open.spotify.com/track/1NtMwloRp8OIVwWGipngkw) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 1:12 |
 | 13 | [Tooth Bruh](https://open.spotify.com/track/5bvaITsHUeVEdPLA2rGple) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG) | [D.A.D](https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,411 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,562 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 49 | [Bussin 2.0 \(with Saweetie\)](https://open.spotify.com/track/6xkbKc532RwCOQzcYlu7y4) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Bussin 2.0 \(with Saweetie\)](https://open.spotify.com/album/5IugVRf3MX2fKszvy4Eyt5) | 2:16 |
 | 50 | [Do It On The Tip \(feat\. City Girls & Hot Girl Meg\)](https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Hot Girl Meg](https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:47 |
 
-Snapshot ID: `MTY1MDA3MDcyNCwwMDAwMDAwMDQwYzZjZjkxYTQyYTFlZGQ1NWY1Y2IzODBmMjkxMzk5`
+Snapshot ID: `MTY1MDE1NzMxOSwwMDAwMDAwMDQwYzZjZjkxYTQyYTFlZGQ1NWY1Y2IzODBmMjkxMzk5`

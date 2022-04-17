@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,688 likes - 102 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,760 likes - 102 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 52 | [ALL FOR NOTHING](https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [ALL FOR NOTHING](https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS) | 3:50 |
 | 53 | [Backwards](https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Backwards](https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt) | 3:33 |
 | 54 | [Ain’t No Fun](https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Ain’t No Fun](https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6) | 2:27 |
-| 55 | [Taco](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:26 |
+| 55 | [Taco \- Prd\. by Kaytranada](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco \(Prd\. by Kaytranada\)](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:26 |
 | 56 | [Lifetime](https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lifetime](https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb) | 2:15 |
 | 57 | [Me & My Weapon](https://open.spotify.com/track/1wlATrcYdFPujJw6xPJsld) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [Me & My Weapon](https://open.spotify.com/album/3VDQqiahFQSOgA0eq6oxjr) | 2:30 |
 | 58 | [Woke up](https://open.spotify.com/track/2hoe9iD2gecT97dkq9QsdU) | [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [Woke up](https://open.spotify.com/album/6theH5DNx3z2nAaPkbwUCG) | 2:00 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 101 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 |
 | 102 | [Caliber](https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Caliber](https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X) | 3:02 |
 
-Snapshot ID: `MTY1MDA3MDM4OSwwMDAwMDAwMGM0YzJjNmQwM2Y0YzUyMTRiYjdhZDhjNzNjY2VmM2Q1`
+Snapshot ID: `MTY1MDE1Njk5OCwwMDAwMDAwMGM0YzJjNmQwM2Y0YzUyMTRiYjdhZDhjNzNjY2VmM2Q1`

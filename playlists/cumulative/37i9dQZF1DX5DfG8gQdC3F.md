@@ -4,7 +4,7 @@
 
 > All the best new tracks this week, all in one place\. Cover: bülow
 
-1,605 songs - 3 day 13 hr 34 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+1,605 songs - 3 day 13 hr 33 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1510,7 +1510,7 @@
 | [Wait](https://open.spotify.com/track/46z6ENU51UUGeRam2fWrQW) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wait](https://open.spotify.com/album/7LvXbhUz6MqZ7RwrDyw4JI) | 2:03 | 2021-12-31 | 2022-01-08 |
 | [Wait \- from ‘Three Months’](https://open.spotify.com/track/70iazIU8mYvhSouvV7LZir) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Wait \(from ‘Three Months’\)](https://open.spotify.com/album/1GnTOysHh33Zw6FqVWcV9q) | 3:29 | 2022-02-25 | 2022-03-05 |
 | [Wait Too Long \(feat\. Blxst\)](https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Wait Too Long \(feat\. Blxst\)](https://open.spotify.com/album/3fBKA3NfQWJ81eBtGardm6) | 3:06 | 2022-02-18 | 2022-02-26 |
-| [Waiting](https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Waiting](https://open.spotify.com/album/4mZ0acYHXQQh9SEyjrDTnr) | 3:36 | 2022-04-15 |  |
+| [Waiting](https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Waiting](https://open.spotify.com/album/4mZ0acYHXQQh9SEyjrDTnr) | 3:01 | 2022-04-15 |  |
 | [Waja](https://open.spotify.com/track/1xrYjUmXmbJRCNuTGqBmS2) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Waja](https://open.spotify.com/album/5Op1WZIYTjQTlqXVYMyZDN) | 3:00 | 2022-02-04 | 2022-02-12 |
 | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG) | 3:36 | 2022-04-08 | 2022-04-16 |
 | [Walangolo](https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Walangolo](https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76) | 3:44 | 2022-04-08 | 2022-04-16 |

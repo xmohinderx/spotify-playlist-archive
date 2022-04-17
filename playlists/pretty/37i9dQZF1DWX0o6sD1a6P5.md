@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Pheelz
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,557 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,050 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 12 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 |
 | 13 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 |
 | 14 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 |
-| 15 | [Va bene \(feat\. 4.4.2 & Jul\)](https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [4.4.2](https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Va bene \(feat\. 4.4.2 & Jul\)](https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k) | 3:37 |
+| 15 | [Va bene \(feat\. Tayc, Soolking, Jul & Naza\)](https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [4.4.2](https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Va bene \(feat\. Tayc, Soolking, Jul & Naza\)](https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k) | 3:37 |
 | 16 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 |
 | 17 | [Encré](https://open.spotify.com/track/2m30nKVYfqHolRkyVLIb8o) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/0VHEZaOVix4WSt0ZHFmgJk) | 3:30 |
 | 18 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |

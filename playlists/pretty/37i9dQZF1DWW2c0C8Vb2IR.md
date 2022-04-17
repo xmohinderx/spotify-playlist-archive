@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Fox Capture Plan
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,960 likes - 59 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,033 likes - 59 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 47 | [Candombá](https://open.spotify.com/track/1FSoeffZQw9s7uNExrwDEs) | [Cleômenes Junior](https://open.spotify.com/artist/3CWJ6rboiZaFMt1pFXdSaI) | [Selva Urbana](https://open.spotify.com/album/0cO7Ov6ePp1Uusn8dsMFER) | 7:27 |
 | 48 | [Dancing Awa \- Radio Edit](https://open.spotify.com/track/6smWKJrW0JNRtVzz3eck8e) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [Dancing Awa \(Radio Edit\)](https://open.spotify.com/album/4X3YtWy1VfsGL1EXAa2pEv) | 3:59 |
 | 49 | [Hidden Island](https://open.spotify.com/track/600RTP3vo0uKAtYu8sutbY) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Janus Templeton](https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm) | [Hidden Island](https://open.spotify.com/album/1EnVCdjr7wRPXUjDWqT2G6) | 6:55 |
-| 50 | [Stainless Steel](https://open.spotify.com/track/59yM1QTkQSsRCz5dbLT8a0) | [J3](https://open.spotify.com/artist/4J63F931K9LAkchG8FuMlh) | [Opus 1](https://open.spotify.com/album/2NoUqXx2Jzp5hoeFcz8D1u) | 4:31 |
+| 50 | [Stainless Steel](https://open.spotify.com/track/59yM1QTkQSsRCz5dbLT8a0) | [J3](https://open.spotify.com/artist/6Siw7J2bDd4TXOvr872obC) | [Opus 1](https://open.spotify.com/album/2NoUqXx2Jzp5hoeFcz8D1u) | 4:31 |
 | 51 | [Kyushu](https://open.spotify.com/track/62asXXMpq9mwVYlP1K2vm4) | [Neil Swainson](https://open.spotify.com/artist/1N4zd0vJcrt52wU0wMwfCn) | [Kyushu](https://open.spotify.com/album/5LGW3XnUddQGjuI75SzVYo) | 5:05 |
 | 52 | [ENTRACTE](https://open.spotify.com/track/0IpxDJ7BDaxPPpKeAi4qSv) | [Adavity](https://open.spotify.com/artist/7Jm9YJi9PVizGnyZefPbnm), [Camille Duboisset](https://open.spotify.com/artist/6Oskmwind5cp2CFslM6iUQ) | [ENTRACTE](https://open.spotify.com/album/0FcdXLZUlCV950vNyREfiQ) | 3:08 |
 | 53 | [El Paso](https://open.spotify.com/track/4H4zOQwrSsiIoHueDSxBHl) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W) | [El Paso](https://open.spotify.com/album/5pCuSTkyOewDzb2FzaeANw) | 5:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del Trap chileno\. Foto: AKRIILA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,250 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,278 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 13 | [Mode On, Marcianeke \#05](https://open.spotify.com/track/6aFtRDWUyybfR3578mB3Bv) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Mode On](https://open.spotify.com/album/79RYVRZr0yVV0B0qid9qoy) | 2:47 |
 | 14 | [VLONE](https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [VLONE](https://open.spotify.com/album/6E3i0fUfZf0QseLtnot3S6) | 3:39 |
 | 15 | [Mi Familia](https://open.spotify.com/track/2PSLe2JZ3UqlOUuhqeGdUB) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Mi Familia](https://open.spotify.com/album/2dAw9EtjsBYHnexfxDRvSe) | 4:16 |
-| 16 | [Entre Envidia Y Muerte](https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q) | [Crucer](https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv), [Drako Mafia](https://open.spotify.com/artist/5nB2thUlhbjVLYOV8rqOsY), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Jairo Vera](https://open.spotify.com/artist/0nMiWJ5m5dbaR9nGdThaW9), [Cris Mj](https://open.spotify.com/artist/20kduoRaehPG5ng6GuahKN) | [Entre Envidia Y Muerte](https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW) | 6:13 |
+| 16 | [Entre Envidia Y Muerte](https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q) | [Crucer](https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Entre Envidia Y Muerte](https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW) | 6:13 |
 | 17 | [No Days Off](https://open.spotify.com/track/2TnfIvH4ywjwcJiS049sdh) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [No Days Off](https://open.spotify.com/album/1v6UyyAbeY4ZdE5wmB3yUm) | 2:04 |
 | 18 | [12](https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [12](https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz) | 2:37 |
 | 19 | [Icy](https://open.spotify.com/track/38RWfnV3ZAkI0nGjWGOeFb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Aunque Estén Todos Mirando](https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa) | 3:27 |

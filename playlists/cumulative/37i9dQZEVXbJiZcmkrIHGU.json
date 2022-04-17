@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 113008,
       "name": "10m\u00b2",
       "url": "https://open.spotify.com/track/4oDrijDovjL10FmormR0S8"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -3449,7 +3449,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 184333,
       "name": "CROBOT (feat. Miksu / Macloud)",
       "url": "https://open.spotify.com/track/31KgM6N0i9WhQgqqvYB9iV"
@@ -3713,7 +3713,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 225882,
       "name": "Dicht im Flieger",
       "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
@@ -4917,7 +4917,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 204304,
       "name": "Ein Song reicht",
       "url": "https://open.spotify.com/track/6kwTAVrensYnx7JqejwgeG"
@@ -5950,6 +5950,24 @@
     },
     {
       "album": {
+        "name": "FREE SPIRIT",
+        "url": "https://open.spotify.com/album/5TrD9lmipsHJD1ZyWhxiIb"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "FREE SPIRIT",
+      "url": "https://open.spotify.com/track/6CQkifO8wGns82gpR9ApFT"
+    },
+    {
+      "album": {
         "name": "Neue Welt",
         "url": "https://open.spotify.com/album/3CmPlhLJxumv7A2iK5788H"
       },
@@ -6065,6 +6083,24 @@
       "duration_ms": 158105,
       "name": "Frisch",
       "url": "https://open.spotify.com/track/7toCqux0Ln42OttYYyds4k"
+    },
+    {
+      "album": {
+        "name": "Fr\u00fchling im Viertel",
+        "url": "https://open.spotify.com/album/2LmBk1TwkIzHxmNnSsudf9"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178330,
+      "name": "Fr\u00fchling im Viertel",
+      "url": "https://open.spotify.com/track/1VR0PWcH2JV4Zt4JaWGB0G"
     },
     {
       "album": {
@@ -6699,7 +6735,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 146541,
       "name": "GMO",
       "url": "https://open.spotify.com/track/1Z1xJmHIAoQMKCTBORITn4"
@@ -12058,6 +12094,28 @@
     },
     {
       "album": {
+        "name": "MUKKE",
+        "url": "https://open.spotify.com/album/06OCzn3UijwiyBMHSiz8Hn"
+      },
+      "artists": [
+        {
+          "name": "Gallo Nero",
+          "url": "https://open.spotify.com/artist/7impXYp8gHr8curMVe60gR"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175942,
+      "name": "MUKKE",
+      "url": "https://open.spotify.com/track/4fsZCyXKCmRdtlzhlPRLHE"
+    },
+    {
+      "album": {
         "name": "MVP",
         "url": "https://open.spotify.com/album/69c6CHPxcKpp1ItJasytWj"
       },
@@ -15809,7 +15867,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 190125,
       "name": "Spaceman (feat. FiNCH)",
       "url": "https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic"
@@ -17892,6 +17950,28 @@
     },
     {
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/00hZzdK6UYu3y6HOBZzj41"
+      },
+      "artists": [
+        {
+          "name": "Mike Singer",
+          "url": "https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Warum bist du so",
+      "url": "https://open.spotify.com/track/0M2cwhA67Dzkortl1VhDLF"
+    },
+    {
+      "album": {
         "name": "Rap \u00fcber Hass",
         "url": "https://open.spotify.com/album/12MOBAZ9tzCaJpJbFYhqiy"
       },
@@ -19083,7 +19163,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-17",
       "duration_ms": 244365,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
