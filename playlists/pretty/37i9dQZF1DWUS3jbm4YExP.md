@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,814 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,853 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [If I Know](https://open.spotify.com/track/7EKgrGZqebKLFiNaLbvb7X) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [If I Know](https://open.spotify.com/album/0gA1VaB4lIGcaf4WZYJg5n) | 6:09 |
 | 100 | [Alas Rotas](https://open.spotify.com/track/3rcIH7Y4SchWddXCMNyLBv) | [Lachinos](https://open.spotify.com/artist/4v8zUs5mBUacLCKyexGeOr) | [Alas Rotas](https://open.spotify.com/album/1A6wr6iQLKkuZYRl10fgop) | 3:40 |
 
-Snapshot ID: `MTY1MDI0MzY1NCwwMDAwMDAwMGVkM2JjZTRkOTYwOGQ3NmE2NTIyNWQ1ZWNkZTBmMGY2`
+Snapshot ID: `MTY1MDI2MzUzNiwwMDAwMDAwMGVkM2JjZTRkOTYwOGQ3NmE2NTIyNWQ1ZWNkZTBmMGY2`

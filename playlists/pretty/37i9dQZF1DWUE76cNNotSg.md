@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,739 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,817 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Tuesday](https://open.spotify.com/track/6bWCYpcxs8nEV9Veixv1RU) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/2zxImbTSvIPzi3lqEX2TQb) | 3:11 |
 | 80 | [Gueto de Gent](https://open.spotify.com/track/0oR9XRneKUIefSfy5y0IJ8) | [Phillipi & Rodrigo](https://open.spotify.com/artist/6XaCe40GiIt7ujxQvfmvsp) | [Mantra / New Beach](https://open.spotify.com/album/4NjCGfP3nJ32GJBi9A5Ng7) | 5:06 |
 
-Snapshot ID: `MTY1MDI0MzY0NiwwMDAwMDAwMDA4YTFlNjg2N2JhYmJjZjQ2NTYxMDdiMjBjMjA4ZjNl`
+Snapshot ID: `MTY1MDI2MzUyOSwwMDAwMDAwMDA4YTFlNjg2N2JhYmJjZjQ2NTYxMDdiMjBjMjA4ZjNl`

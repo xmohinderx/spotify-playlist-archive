@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,830 likes - 150 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800,917 likes - 150 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 150 | [Hero](https://open.spotify.com/track/3Y8WRvVlQHMvtBwaV4TGlJ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/0zktx87Zil6xHw7OWtXwIz) | 4:24 |
 
-Snapshot ID: `MTY1MDI0Mzc2NSwwMDAwMDAwMDM0ZGE2ZjE5ZTc4YTU5ZDZiNzEyMGQwMDVjYTNhM2Jj`
+Snapshot ID: `MTY1MDI2MzY0OSwwMDAwMDAwMDM0ZGE2ZjE5ZTc4YTU5ZDZiNzEyMGQwMDVjYTNhM2Jj`

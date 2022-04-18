@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Jamie XX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,932 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,954 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 99 | [BLEEKER](https://open.spotify.com/track/1kuB4X4oJGsE3GcIwqj4mO) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE), [jacuzzi jefferson](https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw) | [PATTERNS](https://open.spotify.com/album/2RnSdrSqY5eOA4vIapG7YC) | 2:58 |
 | 100 | [Pheromones](https://open.spotify.com/track/7ljXxHRwMD8vxx9cH7XXpn) | [Kyle Kinch](https://open.spotify.com/artist/75BXoaGWmzkzAHQVP69U9U), [Tone Troy](https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31) | [Pheromones](https://open.spotify.com/album/0ooXhtsY4gVkueH3DtPHaD) | 3:24 |
 
-Snapshot ID: `MTY1MDI0NDA5OCwwMDAwMDAwMGE4YzY5NTgzMjcyNWIyY2NjZWFiMzA1MmRiNDI5YzZj`
+Snapshot ID: `MTY1MDI2Mzk5MCwwMDAwMDAwMGE4YzY5NTgzMjcyNWIyY2NjZWFiMzA1MmRiNDI5YzZj`

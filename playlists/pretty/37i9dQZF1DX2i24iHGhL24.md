@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,484 likes - 200 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,508 likes - 200 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 199 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 |
 | 200 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6NSKAs3VYE0hpb13s6RDrp) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/14v8SrlIVSEbVNcDcAylp9) | 3:30 |
 
-Snapshot ID: `MTY1MDI0Mzg4NiwwMDAwMDAwMGJjNDhhYjExYTA3NTRjZWFhMjQyZGFhMzVlMDkxOTE5`
+Snapshot ID: `MTY1MDI2Mzc3NCwwMDAwMDAwMGJjNDhhYjExYTA3NTRjZWFhMjQyZGFhMzVlMDkxOTE5`

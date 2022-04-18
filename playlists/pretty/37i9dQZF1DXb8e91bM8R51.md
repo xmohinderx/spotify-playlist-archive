@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,546 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,563 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [ARE YOU WITH THAT?](https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ARE YOU WITH THAT?](https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd) | 2:18 |
 | 120 | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe) | 2:40 |
 
-Snapshot ID: `MTY1MDI0NDEzMCwwMDAwMDAwMDVmOGUxYjk4ZDBkM2I4YWFmOTFjNWJkZmJhNGMwYTg4`
+Snapshot ID: `MTY1MDI2NDAyMiwwMDAwMDAwMDVmOGUxYjk4ZDBkM2I4YWFmOTFjNWJkZmJhNGMwYTg4`

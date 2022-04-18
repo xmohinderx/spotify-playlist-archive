@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,955 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,976 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 99 | [Sweet Georgia Brown](https://open.spotify.com/track/4zq2Rjnl5GOmVPUvZJwx0j) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Whisper Not](https://open.spotify.com/album/1RoqgK11h7AAQ7PYfkLwIw) | 3:35 |
 | 100 | [How About You? \- Remastered 1998](https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:45 |
 
-Snapshot ID: `MTY1MDI0MzgzNiwwMDAwMDAwMDIyZGY0OTJlNjUwM2FlOTk1NTFkMTkwNzdkZGViZjgz`
+Snapshot ID: `MTY1MDI2MzcyMywwMDAwMDAwMDIyZGY0OTJlNjUwM2FlOTk1NTFkMTkwNzdkZGViZjgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,591 likes - 50 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,596 likes - 50 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Fiasco : In the Moment](https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG) | [Rope](https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO) | [In The Moment \(The Music of Charlie Haden\)](https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs) | 3:34 |
 | 50 | [Dub Ting](https://open.spotify.com/track/3gUPTbCLSLW2kIi5SP6hf4) | [AKU!](https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM) | [Blind Fury](https://open.spotify.com/album/6SPMb5CgJ0vAxS3hUCUcaS) | 6:09 |
 
-Snapshot ID: `MTY1MDI0MzkyMSwwMDAwMDAwMGNlYTIzMDJiZThkNGQ0MTliMjFkMTA5ZjFhM2M2ZWMy`
+Snapshot ID: `MTY1MDI2MzgxMCwwMDAwMDAwMGNlYTIzMDJiZThkNGQ0MTliMjFkMTA5ZjFhM2M2ZWMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Dance yourself back in time with these 80s sampled futuristic rhythms\. Welcome to the future of funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,476 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,540 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [Sax Night](https://open.spotify.com/track/1nmEfuVj5Dz9foWG8x8db1) | [Kazzette](https://open.spotify.com/artist/7kptXxTNT2plIKJqlZZhJA) | [The Archives, Vol\. 7](https://open.spotify.com/album/3XQhanNb5wzy7OsXG750IJ) | 4:01 |
 | 100 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |
 
-Snapshot ID: `MTY1MDI0NDE0NSwwMDAwMDAwMDIwNzg3NGJjZmEyNzNjNzMxZDU5ZTY2OWM1MDI4NDhm`
+Snapshot ID: `MTY1MDI2NDAzNiwwMDAwMDAwMDIwNzg3NGJjZmEyNzNjNzMxZDU5ZTY2OWM1MDI4NDhm`

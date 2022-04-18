@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > pop off legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,027 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,060 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 99 | [Bathroom Bitch](https://open.spotify.com/track/75bLecYzbQpsnFMSWl055x) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [Bathroom Bitch](https://open.spotify.com/album/6it2UEO6XzYwLKZ0uu2U2l) | 2:49 |
 | 100 | [LENG](https://open.spotify.com/track/4wpWZDW50CVGxQUgMmwmGZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:20 |
 
-Snapshot ID: `MTY1MDI0Mzk0MCwwMDAwMDAwMDVlMjllNmM5Mjc2MzFlNjI4MGMyMDJhMTZmMjVkMTU5`
+Snapshot ID: `MTY1MDI2MzgzMCwwMDAwMDAwMDVlMjllNmM5Mjc2MzFlNjI4MGMyMDJhMTZmMjVkMTU5`

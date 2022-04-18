@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Yot Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,497 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,523 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [Far Out Summer](https://open.spotify.com/track/6GYyor9AItFlXhTJQlUvh3) | [Hollow Graves](https://open.spotify.com/artist/4GCC4WJAlcF2fkUXOgY8Uz) | [Far Out Summer](https://open.spotify.com/album/4Kusj62wHAZaf5Kb2mGjNq) | 3:18 |
 | 100 | [yr face](https://open.spotify.com/track/4droTj7wxmaPFhaJ1fI3D4) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [smile when i see you smile](https://open.spotify.com/album/3itgAEBDUiltgKcFabiH52) | 4:35 |
 
-Snapshot ID: `MTY1MDI0MzgxNSwwMDAwMDAwMDYyYTY5M2ZhMGM1NTZiNDZkN2YzNjEwMWY0NzJlMGVl`
+Snapshot ID: `MTY1MDI2MzcwMSwwMDAwMDAwMDYyYTY5M2ZhMGM1NTZiNDZkN2YzNjEwMWY0NzJlMGVl`

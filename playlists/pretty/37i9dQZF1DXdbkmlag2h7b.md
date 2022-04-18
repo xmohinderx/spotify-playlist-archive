@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,222 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,229 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Infinite](https://open.spotify.com/track/391sFoHJYJrb4vjgp5xRxd) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Infinite](https://open.spotify.com/album/6UQJZnUrjQrAICdAqxbiVs) | 3:12 |
 | 100 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 |
 
-Snapshot ID: `MTY1MDI0NDE5MiwwMDAwMDAwMGZiOTdiN2U3NDMxZDE5MWFkYTViOTQxZjk2ZTlkZjBi`
+Snapshot ID: `MTY1MDI2NDA4NSwwMDAwMDAwMGZiOTdiN2U3NDMxZDE5MWFkYTViOTQxZjk2ZTlkZjBi`

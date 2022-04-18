@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Kaitlin Butts
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,633 likes - 178 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,642 likes - 178 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

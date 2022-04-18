@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Helo Cleaver\. Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,868 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,869 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Fugir da Miragem](https://open.spotify.com/track/1pwYWr1LQ1D3l5Y9Xmgy3I) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw), [Magno Brito](https://open.spotify.com/artist/6PBnyjnpLiQIhicjCOV8dX), [Raíssa Leal](https://open.spotify.com/artist/72ig3Ygi4pm50DjZXJm0tY) | [Fugir da Miragem](https://open.spotify.com/album/12V2fGjtCL440oPef3NBDv) | 3:26 |
 | 80 | [Só](https://open.spotify.com/track/5MKIqbqP3yJCxWuuNDDMFk) | [Nimbo](https://open.spotify.com/artist/2nVPE2VTrjr1GjS060i7tI) | [Só](https://open.spotify.com/album/5bI4PD3mQ7LBecBfxP7Qnk) | 3:57 |
 
-Snapshot ID: `MTY1MDI0Mzk2OSwwMDAwMDAwMGE3YTYwNDEzY2I0N2JlNjFmNmY0NDJjYTBiN2NlM2Fj`
+Snapshot ID: `MTY1MDI2Mzg2MCwwMDAwMDAwMGE3YTYwNDEzY2I0N2JlNjFmNmY0NDJjYTBiN2NlM2Fj`

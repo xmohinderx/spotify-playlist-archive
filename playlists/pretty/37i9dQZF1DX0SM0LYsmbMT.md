@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,027,060 likes - 300 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,027,129 likes - 300 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Gouache](https://open.spotify.com/track/0eot6cEtb0xOaQPahTsx4Q) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Gouache](https://open.spotify.com/album/0MX9laVyuprCFhQEDJMPsI) | 2:37 |
 | 300 | [Mai Tai](https://open.spotify.com/track/1TkQoK2d4cjf9sJRh1utaj) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Mai Tai](https://open.spotify.com/album/3kLvE3zsUmQ0QH80Pd1Ceh) | 2:39 |
 
-Snapshot ID: `MTY1MDI0MzgyNCwwMDAwMDAwMDVjMjE0MzU2MmZhYWUwMjZlMTU3OTg4NjJkZGU1N2Jh`
+Snapshot ID: `MTY1MDI2MzcxMSwwMDAwMDAwMDVjMjE0MzU2MmZhYWUwMjZlMTU3OTg4NjJkZGU1N2Jh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,238 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,264 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [The Lighthouse](https://open.spotify.com/track/6y4nWfggb1zUigaIelmrhL) | [Musicboxes](https://open.spotify.com/artist/51WLH938s8ZPIHSnoLjj2d) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 3:41 |
 | 100 | [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 |
 
-Snapshot ID: `MTY1MDI0MzkxMSwwMDAwMDAwMGIzNjI1NmI5OWUxMzQ2YTNiNzEzNzczMmUyYmE4Nzg4`
+Snapshot ID: `MTY1MDI2MzgwMCwwMDAwMDAwMGIzNjI1NmI5OWUxMzQ2YTNiNzEzNzczMmUyYmE4Nzg4`

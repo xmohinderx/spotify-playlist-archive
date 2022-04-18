@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,969 likes - 60 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,015 likes - 60 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 |
 | 60 | [State the Obvious](https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Global Entry 2](https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm) | 7:49 |
 
-Snapshot ID: `MTY1MDI0Mzg5MCwwMDAwMDAwMGRlNzU1ZTE0ZmQ5M2FiN2JlYjA5MTJhZTU2MGUzY2E2`
+Snapshot ID: `MTY1MDI2Mzc3OSwwMDAwMDAwMGRlNzU1ZTE0ZmQ5M2FiN2JlYjA5MTJhZTU2MGUzY2E2`

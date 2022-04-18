@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,974 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,980 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [La Densidad](https://open.spotify.com/track/15HeXTM4Jgg2gzZGaZpYId) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [La Densidad](https://open.spotify.com/album/3jlRmaVXwV7fB8j58sS0tm) | 5:56 |
 | 50 | [Erradicated Life](https://open.spotify.com/track/5puEmpWZmmFARFARyRmFB6) | [Vibrion](https://open.spotify.com/artist/4UujxRGPWT8hiMB1ZGoBLh) | [Diseased](https://open.spotify.com/album/516MHTlJyj2wmPSuWROwpa) | 1:15 |
 
-Snapshot ID: `MTY1MDI0MzkxOCwwMDAwMDAwMGJmNDA3MzYyNWMyZWY0YzY1NzBmMDlkYjIxZmNhNDlj`
+Snapshot ID: `MTY1MDI2MzgwNywwMDAwMDAwMGJmNDA3MzYyNWMyZWY0YzY1NzBmMDlkYjIxZmNhNDlj`

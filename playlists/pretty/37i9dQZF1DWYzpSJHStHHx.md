@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Sunny tracks from Mac DeMarco, The Beach Boys, and everyone in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,715 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,765 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 79 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
 | 80 | [Queen's Parade](https://open.spotify.com/track/6sASGGyFiHJVsoWZCHYOsa) | [Swimming Tapes](https://open.spotify.com/artist/1nQj0M42wlxHPw999Pms69) | [Queen's Parade](https://open.spotify.com/album/6UIJUT0FM2GI9CdSEgVDk5) | 3:45 |
 
-Snapshot ID: `MTY1MDI0Mzc4MSwwMDAwMDAwMDkzNDk4M2VmZmNiNjBlNDFlNjA2NGVlMjMyZDk3YzFm`
+Snapshot ID: `MTY1MDI2MzY2NywwMDAwMDAwMDkzNDk4M2VmZmNiNjBlNDFlNjA2NGVlMjMyZDk3YzFm`

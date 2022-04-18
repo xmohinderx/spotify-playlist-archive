@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,307 likes - 250 songs - 21 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,318 likes - 250 songs - 21 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [False Choice](https://open.spotify.com/track/6oyVjoSodrvB9Vz8iM3H34) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Freedom Exercise](https://open.spotify.com/album/501assmGyiYAl2u9PGUNEL) | 4:54 |
 | 250 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 |
 
-Snapshot ID: `MTY1MDI0MzYyMywwMDAwMDAwMDI0YjgyZWM1MGM4MGE1MzU3NWM4YWI0MDQ4ZmE5M2Fi`
+Snapshot ID: `MTY1MDI2MzUwNiwwMDAwMDAwMDI0YjgyZWM1MGM4MGE1MzU3NWM4YWI0MDQ4ZmE5M2Fi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > Summertime sadness everyday
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,635 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,642 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 59 | [Music Of The Sun](https://open.spotify.com/track/3vPkkIsaQ5NqOqvj7Ht8kR) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:56 |
 | 60 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
 
-Snapshot ID: `MTY1MDI0Mzc2MiwwMDAwMDAwMGZkMmVjZTU2ZDM5MGJkZDk0ZGQxMzdhZDAwMjRiOWEw`
+Snapshot ID: `MTY1MDI2MzY0NiwwMDAwMDAwMGZkMmVjZTU2ZDM5MGJkZDk0ZGQxMzdhZDAwMjRiOWEw`

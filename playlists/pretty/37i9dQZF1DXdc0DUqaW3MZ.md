@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Ibeyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,643 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,656 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [time can wait](https://open.spotify.com/track/0x2O1kXhrVgsZCEpfN2PdV) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [time can wait](https://open.spotify.com/album/6Z0iSflrVgI03Z0tdsgSPV) | 3:05 |
 | 70 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
 
-Snapshot ID: `MTY1MDI0NDE5MywwMDAwMDAwMGNiNmUzZGFkN2NhMGFkYzFiNzYzNmVkNzczM2E2YzBh`
+Snapshot ID: `MTY1MDI2NDA4NSwwMDAwMDAwMGNiNmUzZGFkN2NhMGFkYzFiNzYzNmVkNzczM2E2YzBh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,302 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,327 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Si Tú Quieres](https://open.spotify.com/track/6YWw5TNf5BMe3Twc4mNV9d) | [Modernico](https://open.spotify.com/artist/2Qp0tCZDR3YaiJRzRbO3tV), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Amor Estelar](https://open.spotify.com/album/0I85HmBn8xqOWuZf43JK6T) | 3:25 |
 | 100 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 |
 
-Snapshot ID: `MTY1MDI0Mzk1NCwwMDAwMDAwMGEzODUyYjAzOWY5ZmI0MGViZGE0MzhhZWNjMGJlOTdj`
+Snapshot ID: `MTY1MDI2Mzg0NCwwMDAwMDAwMGEzODUyYjAzOWY5ZmI0MGViZGE0MzhhZWNjMGJlOTdj`

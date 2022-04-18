@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: We Are The Grand
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,849 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,856 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 99 | [Tus Llamas \- En Vivo](https://open.spotify.com/track/6TDhK99NNoN9lUpx1Oibor) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Mar Adentro \(Sesiones\)](https://open.spotify.com/album/1wSPLIHDUR85GJVMPM5JdI) | 3:08 |
 | 100 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 |
 
-Snapshot ID: `MTY1MDI0MzkxMSwwMDAwMDAwMDU1NWQzNmM5NTVjOWMwYWE0NDZjNzA5M2YxNzhhOWNl`
+Snapshot ID: `MTY1MDI2MzgwMCwwMDAwMDAwMDU1NWQzNmM5NTVjOWMwYWE0NDZjNzA5M2YxNzhhOWNl`

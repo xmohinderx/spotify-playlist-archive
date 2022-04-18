@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get in mood for dinner with some cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,487 likes - 100 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,499 likes - 100 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 99 | [Things Are Getting Better](https://open.spotify.com/track/4TYNkEldSdfGuSJ2hv6Exr) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Things Are Getting Better](https://open.spotify.com/album/3w30g2Rp4k57BouWEwDpqI) | 7:10 |
 | 100 | [Rain Check](https://open.spotify.com/track/7q6gIRAkC8hnuMmv3VAHwT) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 5:58 |
 
-Snapshot ID: `MTY1MDI0NDEyNiwwMDAwMDAwMDRkOTcyZmI1YzAzMjc3MjU0Nzg3N2U3MDUwMzI3NmJk`
+Snapshot ID: `MTY1MDI2NDAxOCwwMDAwMDAwMDRkOTcyZmI1YzAzMjc3MjU0Nzg3N2U3MDUwMzI3NmJk`

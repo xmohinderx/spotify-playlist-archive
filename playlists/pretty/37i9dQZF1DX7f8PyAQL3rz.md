@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > 🫀 ryan sp e o coração terra de ninguém
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,278 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,349 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 49 | [Na Onda do Gin](https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ) | [Na Onda do Gin](https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq) | 4:24 |
 | 50 | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [DJ Bel da CDD](https://open.spotify.com/artist/6cBgK7jLKrcynjD5E6mKNu), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4) | 1:55 |
 
-Snapshot ID: `MTY1MDI0NDAzMywwMDAwMDAwMDEyOGU4MmQ4MjY2Y2NhMjk1ZDZmZWE4NTBkNDRhOWUz`
+Snapshot ID: `MTY1MDI2MzkyNCwwMDAwMDAwMDEyOGU4MmQ4MjY2Y2NhMjk1ZDZmZWE4NTBkNDRhOWUz`

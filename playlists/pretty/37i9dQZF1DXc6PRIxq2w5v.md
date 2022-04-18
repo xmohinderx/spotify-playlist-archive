@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Ton Carfi, Israel Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,103 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,115 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [SEM MENTIRAS](https://open.spotify.com/track/1bsCdxcSHy1hqThOUJoEwr) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [SEM MENTIRAS](https://open.spotify.com/album/3FpPTJhEECVWMupYLvNALK) | 2:24 |
 | 65 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 |
 
-Snapshot ID: `MTY1MDI0NDE1MiwwMDAwMDAwMDc4NDc5NjkzZTZhNWRkNzkzYjgxOWMyMjBhNDkxN2Jh`
+Snapshot ID: `MTY1MDI2NDA0NCwwMDAwMDAwMDc4NDc5NjkzZTZhNWRkNzkzYjgxOWMyMjBhNDkxN2Jh`

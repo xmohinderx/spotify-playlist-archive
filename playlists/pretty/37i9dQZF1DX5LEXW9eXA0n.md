@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Lim Sang Hyun\(임상현\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,669 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,740 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 49 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
 | 50 | [I Wouldn’t Look For You](https://open.spotify.com/track/3u9m38kStxTQ6PSrqgwcYM) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Change](https://open.spotify.com/album/1MewoMiSeiaMHYKIZ6PbEf) | 3:06 |
 
-Snapshot ID: `MTY1MDI0Mzk2NSwwMDAwMDAwMDFkZDUwZjViMjdkMjIyMGI3OTY5YjdhOWE3NDYxYjlh`
+Snapshot ID: `MTY1MDI2Mzg1NSwwMDAwMDAwMDFkZDUwZjViMjdkMjIyMGI3OTY5YjdhOWE3NDYxYjlh`

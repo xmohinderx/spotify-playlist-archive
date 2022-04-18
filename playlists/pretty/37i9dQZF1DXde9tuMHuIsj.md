@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > Lo mejor del Trap en Español\. The best of Latin Trap\. Cover: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,650 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,626 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 67 | [PIN PIN](https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:39 |
 | 68 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
 
-Snapshot ID: `MTY1MDI0NDE5NCwwMDAwMDAwMGViMGQxYWMwZDU1OWU5MDlhNjEwZDEyODY0OWE3NTk0`
+Snapshot ID: `MTY1MDI2NDA4NywwMDAwMDAwMGViMGQxYWMwZDU1OWU5MDlhNjEwZDEyODY0OWE3NTk0`

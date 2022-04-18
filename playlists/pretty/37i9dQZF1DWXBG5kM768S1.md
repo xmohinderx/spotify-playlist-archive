@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,980 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,982 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 |
 | 50 | [Jeg elsker dig](https://open.spotify.com/track/3kdqYQxKV7Oz0ct2R2CFzq) | [Lars Lillo\-Stenberg](https://open.spotify.com/artist/0NQ2GtKrBJ7KXkVcMUeZU4), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Jeg elsker dig](https://open.spotify.com/album/6DW9rrtAMtC80akurSJxH4) | 4:19 |
 
-Snapshot ID: `MTY1MDI0MzczMywwMDAwMDAwMDg2ZjA0YTU1OGZjODhhNDQ1OTdmNjg0MDZjOWUyZjc3`
+Snapshot ID: `MTY1MDI2MzYxNywwMDAwMDAwMDg2ZjA0YTU1OGZjODhhNDQ1OTdmNjg0MDZjOWUyZjc3`

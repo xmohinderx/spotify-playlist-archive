@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,095 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,098 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [Elgin Towers](https://open.spotify.com/track/5s46ultSkIt3ruLBKma9ab) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn) | [Stratos Bleu](https://open.spotify.com/album/2KPQAbH2GD5TfneiMx8pOE) | 4:32 |
 | 80 | [Too Late](https://open.spotify.com/track/1bN0y9b42huS3Z5UjXXCYN) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Too Late](https://open.spotify.com/album/1FPWduEdg0n8iu5P43zIG3) | 3:28 |
 
-Snapshot ID: `MTY1MDI0Mzk5OSwwMDAwMDAwMGRjZGEzMzVjYjQ2ZDBkNjI3MjY0ZTBiZTg3N2VlNzVl`
+Snapshot ID: `MTY1MDI2Mzg5MCwwMDAwMDAwMGRjZGEzMzVjYjQ2ZDBkNjI3MjY0ZTBiZTg3N2VlNzVl`

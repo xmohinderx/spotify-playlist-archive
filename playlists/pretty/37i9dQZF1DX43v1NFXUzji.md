@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music to game to! ¡Música latina para jugar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,942 likes - 120 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,945 likes - 120 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 119 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 |
 | 120 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 |
 
-Snapshot ID: `MTY1MDI0MzkyNSwwMDAwMDAwMDViMTM5OTJlYjM5MTRlZGQ0ZThlMTc1YmRmYjAxZjZl`
+Snapshot ID: `MTY1MDI2MzgxNCwwMDAwMDAwMDViMTM5OTJlYjM5MTRlZGQ0ZThlMTc1YmRmYjAxZjZl`

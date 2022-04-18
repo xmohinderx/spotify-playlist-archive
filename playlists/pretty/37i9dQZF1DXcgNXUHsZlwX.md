@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. Photo: Louis\-Jean Cormier
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,956 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,957 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 |
 | 100 | [Transatlantic Flight \- Live at Roy Thomson Hall](https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Waves \(Live Recordings ’19\-’21\)](https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR) | 7:10 |
 
-Snapshot ID: `MTY1MDI0NDE2OSwwMDAwMDAwMGUyY2ExYzk3ODQ2ZDk0NWNlMzEyMGJjMmI3MGZlOTMy`
+Snapshot ID: `MTY1MDI2NDA2MSwwMDAwMDAwMGUyY2ExYzk3ODQ2ZDk0NWNlMzEyMGJjMmI3MGZlOTMy`

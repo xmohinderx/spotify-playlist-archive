@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,960 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,982 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 69 | [Is That Enough](https://open.spotify.com/track/3OFl93huukhhRNAdxI1IWX) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg) | [Vantage Point](https://open.spotify.com/album/65TwKdNku3aWMb0rDyMimf) | 4:02 |
 | 70 | [Otis](https://open.spotify.com/track/6vegnfDS8DAEaCqWaPYGPy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 2:58 |
 
-Snapshot ID: `MTY1MDI0Mzk4MywwMDAwMDAwMGNjYzBhODhjYWI0ODM5YjY2OWVlZjUwMWNiYWMxZTBh`
+Snapshot ID: `MTY1MDI2Mzg3NSwwMDAwMDAwMGNjYzBhODhjYWI0ODM5YjY2OWVlZjUwMWNiYWMxZTBh`

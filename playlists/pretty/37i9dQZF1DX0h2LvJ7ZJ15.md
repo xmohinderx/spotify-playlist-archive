@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,645 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,024 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [I'm Trynna Yeah \- slowed](https://open.spotify.com/track/6Dv0oQL2xrE7OjLga1ALFu) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [I'm Trynna Yeah \(slowed\)](https://open.spotify.com/album/3OaH20YU0AgEc8z9W3xkkH) | 2:42 |
 | 50 | [blame \- slowed + reverbed](https://open.spotify.com/track/1MjHbpocjNG9GwGWFSootd) | [ry flora](https://open.spotify.com/artist/7uRxlnkvyppjdiZbVM9nzh), [LowkeyLuke](https://open.spotify.com/artist/6Oq65ZAlAswqmO3qmKcJe9), [fortune](https://open.spotify.com/artist/3OC5m2vZ5dYbZ4x2lfEfh2) | [blame \(slowed + reverbed\)](https://open.spotify.com/album/78mi7aWznzjaLX5KPAJELo) | 3:26 |
 
-Snapshot ID: `MTY1MDI0MzgzMSwwMDAwMDAwMDg4MGM0YTdlNmQxNjBhYWEyNTUyYmQxZWVmOTVkY2Zk`
+Snapshot ID: `MTY1MDI2MzcxOCwwMDAwMDAwMDg4MGM0YTdlNmQxNjBhYWEyNTUyYmQxZWVmOTVkY2Zk`

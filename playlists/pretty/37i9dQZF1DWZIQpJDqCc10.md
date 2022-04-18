@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > A selection of the greatest alternative love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,846 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,028 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 79 | [When We're Dancing](https://open.spotify.com/track/6oaVjaw6KOd6vXPG1S4K7p) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Forget](https://open.spotify.com/album/6uCdsaOGhUNJwjgGnDFIZ4) | 4:11 |
 | 80 | [One Day Like This](https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 6:34 |
 
-Snapshot ID: `MTY1MDI0Mzc4NiwwMDAwMDAwMDYyNzA4MjYwMjljZGViNmE2NGY2Yzk4YTAzYmJjYWYy`
+Snapshot ID: `MTY1MDI2MzY3MSwwMDAwMDAwMDYyNzA4MjYwMjljZGViNmE2NGY2Yzk4YTAzYmJjYWYy`

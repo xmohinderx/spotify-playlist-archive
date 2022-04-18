@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The sound, the feeling and the mood of Jazz\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,800 likes - 150 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,807 likes - 150 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 149 | [Where Are You? \- Rudy Van Gelder Edition](https://open.spotify.com/track/5OiS6Qse8ZY9jJ5CTwO9Yx) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:21 |
 | 150 | [Waltz For A Lovely Wife](https://open.spotify.com/track/6j6ysNwF1l4FuO07kQFcpr) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 6:49 |
 
-Snapshot ID: `MTY1MDI0Mzg4NiwwMDAwMDAwMGExYWMzZGM2Mzc0YjQ2NmZiMjQwYmIzYjc5YTJmMTQ4`
+Snapshot ID: `MTY1MDI2Mzc3NCwwMDAwMDAwMGExYWMzZGM2Mzc0YjQ2NmZiMjQwYmIzYjc5YTJmMTQ4`

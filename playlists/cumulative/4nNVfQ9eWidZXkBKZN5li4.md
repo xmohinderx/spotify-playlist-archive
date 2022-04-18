@@ -4,7 +4,7 @@
 
 > Get on top of Bollywood's newest and all time hits \- Raataan Lambiyan and Ranjha from Shershaah, Param Sundari, Shayad,  Channa Mereya and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more\. Listen to Bollywood's best only on this playlist!
 
-164 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
+165 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Kandhe Ka Woh Til](https://open.spotify.com/track/2iLm4lsq4WOXwe6ywPmJfQ) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Kandhe Ka Woh Til](https://open.spotify.com/album/7vrv57KUkt1ZPw35LyYSO5) | 3:32 | 2020-10-07 | 2022-01-14 |
 | [Kar Gayi Chull](https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:07 | 2019-02-06 |  |
 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 | 2021-01-25\* | 2021-07-14 |
+| [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT) | 0:44 | 2022-04-18 |  |
 | [Khidki](https://open.spotify.com/track/2WRDVpd7mSK2rL0MwREuNX) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Khidki](https://open.spotify.com/album/0o3iCfVbYLIn6Ase53K2ts) | 4:07 | 2020-10-28 |  |
 | [khoya sa](https://open.spotify.com/track/2yspDGJntwkUjvzjSbeqZg) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [khoya sa](https://open.spotify.com/album/6IiHRcLjSVjw20V5ctMCoU) | 3:14 | 2021-11-29 |  |
 | [Khulke Jeene Ka](https://open.spotify.com/track/1XFZMenJ30FfGOsj8X5sqf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 4:06 | 2020-07-10 |  |

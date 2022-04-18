@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,218 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,291 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 79 | [Até Que Durou \- Ao Vivo](https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Até Que Durou \(Ao Vivo\)](https://open.spotify.com/album/3lOjLjCKmjIBPifXxTiFs6) | 5:13 |
 | 80 | [Razão das Minhas Biritas](https://open.spotify.com/track/3k2QcH88P5lgllbw3SKB87) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Razão das Minhas Biritas](https://open.spotify.com/album/4Ip2TRg5YA9MubkqTu4NGv) | 3:10 |
 
-Snapshot ID: `MTY1MDI0MzY3MCwwMDAwMDAwMGQ2NmE2MzZkNjcwNWJiZTRlNzQyMDcwMDNhYmVkN2Mz`
+Snapshot ID: `MTY1MDI2MzU1MiwwMDAwMDAwMGQ2NmE2MzZkNjcwNWJiZTRlNzQyMDcwMDNhYmVkN2Mz`

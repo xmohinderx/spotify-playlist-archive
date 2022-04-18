@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,487 likes - 74 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,495 likes - 74 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 73 | [Gave You Everything \- Acoustic](https://open.spotify.com/track/0wpK6hqQax9XR6RKFo4mbc) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Gave You Everything \(Acoustic\)](https://open.spotify.com/album/0DtoQijvKnaAHHIYI2B2xZ) | 3:40 |
 | 74 | [Walking Disaster](https://open.spotify.com/track/2qllvKclzdC7rbiow3o6QB) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Walking Disaster](https://open.spotify.com/album/1GNivcazyX6cP93YSHoaYi) | 3:15 |
 
-Snapshot ID: `MTY1MDI0NDE1NiwwMDAwMDAwMDlhYWZiNDE1ZmZiNjY2ODc1MDc3MWIyMTFjNjc4MzBk`
+Snapshot ID: `MTY1MDI2NDA0OCwwMDAwMDAwMDlhYWZiNDE1ZmZiNjY2ODc1MDc3MWIyMTFjNjc4MzBk`

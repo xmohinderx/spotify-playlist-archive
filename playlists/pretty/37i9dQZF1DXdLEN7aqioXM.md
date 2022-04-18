@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,791 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,835 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 99 | [The Getaway](https://open.spotify.com/track/0zHgzptlVUBsgExpIDsrFQ) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1xl2oh7njuwSneP6tLfdvN) | 3:56 |
 | 100 | [Keepin' on](https://open.spotify.com/track/3tNufibuIuaIh60y7tn3KF) | [Myrone](https://open.spotify.com/artist/36pSrxZllYXcKEeyUqnXTX) | [Late Nite Myrone](https://open.spotify.com/album/2uAAmAUkoyLqN1mJYoN84S) | 4:25 |
 
-Snapshot ID: `MTY1MDI0NDE4NCwwMDAwMDAwMGVlNDc1ZTZkMDIwZmVkMzQxNDZjZTdkMmQ3ZDYxMDky`
+Snapshot ID: `MTY1MDI2NDA3NywwMDAwMDAwMGVlNDc1ZTZkMDIwZmVkMzQxNDZjZTdkMmQ3ZDYxMDky`

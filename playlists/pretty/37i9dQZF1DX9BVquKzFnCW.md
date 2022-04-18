@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with jazzy sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,413 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,419 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 99 | [Come, Gone](https://open.spotify.com/track/78oOWCGWb6TYLZu6BTsaN8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(Deluxe Edition\)](https://open.spotify.com/album/1GKRmu9YUhPejRExGANgyS) | 7:53 |
 | 100 | [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 |
 
-Snapshot ID: `MTY1MDI0NDA3NCwwMDAwMDAwMDcyMDU4Nzk3OTEwMzNhMDNhYzEyNWFkMWNhYzM5MjFj`
+Snapshot ID: `MTY1MDI2Mzk2NSwwMDAwMDAwMDcyMDU4Nzk3OTEwMzNhMDNhYzEyNWFkMWNhYzM5MjFj`

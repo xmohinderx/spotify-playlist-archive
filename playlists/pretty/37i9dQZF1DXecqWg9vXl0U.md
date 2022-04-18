@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring raquel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,186 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,218 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Invierno](https://open.spotify.com/track/7DhCa1BLOVHTYwfZfL1TnQ) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Invierno](https://open.spotify.com/album/4l0iug24BEXMXEy4xci7VR) | 4:16 |
 | 75 | [Mr\. Baby](https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mr\. Baby](https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW) | 3:08 |
 
-Snapshot ID: `MTY1MDI0NDIwOCwwMDAwMDAwMGI3NzdlM2Q1MmYxOGU5MzNlZmJiZWJkNWJhNDdmOGUy`
+Snapshot ID: `MTY1MDI2NDEwMCwwMDAwMDAwMGI3NzdlM2Q1MmYxOGU5MzNlZmJiZWJkNWJhNDdmOGUy`

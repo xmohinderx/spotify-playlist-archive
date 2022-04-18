@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,247 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,255 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 59 | [Steal My Clothes \(feat\. Bea Miller\)](https://open.spotify.com/track/5VvUxoP2bKyps8sroie6T1) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Steal My Clothes \(feat\. Bea Miller\)](https://open.spotify.com/album/6Xss8KphZhnWr2bq2tvEr4) | 2:09 |
 | 60 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 |
 
-Snapshot ID: `MTY1MDI0NDA5OSwwMDAwMDAwMDQ0NDYwZTUwMTAxMzQ5NzRlODQzYmQ2YTE3MDVkZmU4`
+Snapshot ID: `MTY1MDI2Mzk5MSwwMDAwMDAwMDQ0NDYwZTUwMTAxMzQ5NzRlODQzYmQ2YTE3MDVkZmU4`

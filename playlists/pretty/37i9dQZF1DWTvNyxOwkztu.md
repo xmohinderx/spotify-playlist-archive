@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,366 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,427 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Vanishing](https://open.spotify.com/track/1XePxhd6DqIDSrMcoYc94X) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh) | [Vanishing](https://open.spotify.com/album/75VTXKhMgwXqBz7fyU8XYJ) | 8:08 |
 | 100 | [Codes In The Clouds](https://open.spotify.com/track/32MJvuJdVdfRItTDljrP9X) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Am épos am érgon](https://open.spotify.com/album/6IWazlFeA8ukoGAZwVrqxw) | 2:26 |
 
-Snapshot ID: `MTY1MDI0MzYzOCwwMDAwMDAwMDFjZTRiYWQ3OGQ3MTFjOTZkNWFjNjAxZGE4OGJhM2Zk`
+Snapshot ID: `MTY1MDI2MzUyMSwwMDAwMDAwMDFjZTRiYWQ3OGQ3MTFjOTZkNWFjNjAxZGE4OGJhM2Zk`

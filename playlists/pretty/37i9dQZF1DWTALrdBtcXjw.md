@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,508 likes - 100 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,515 likes - 100 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 99 | [My One and Only Love](https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO) | [My One and Only Love](https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa) | 4:50 |
 | 100 | [Let's Fall In Love](https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 6:29 |
 
-Snapshot ID: `MTY1MDI0MzYxNSwwMDAwMDAwMDJkMjEwYmUwNGIxMzc4NTA1YWFiODljZWFlOWRmYmU4`
+Snapshot ID: `MTY1MDI2MzQ5NywwMDAwMDAwMDJkMjEwYmUwNGIxMzc4NTA1YWFiODljZWFlOWRmYmU4`

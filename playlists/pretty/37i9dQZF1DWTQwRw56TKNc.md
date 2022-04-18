@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 
 > Relax with these timeless tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,378 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,407 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 69 | [Tiny Dancer](https://open.spotify.com/track/0a93gOQyRFfc2tVtup7JVP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 6:17 |
 | 70 | [Dream A Little Dream Of Me \- Single Version](https://open.spotify.com/track/78aWV07CIrSfI903fIxjR1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Best Of/20th/Eco](https://open.spotify.com/album/654HTArwowo5D1CxyULoxK) | 3:05 |
 
-Snapshot ID: `MTY1MDI0MzYyMywwMDAwMDAwMGIxYTRkOThjY2NjOTQ3ODE0MmQzMDI1ZGU5NmU2ZTQy`
+Snapshot ID: `MTY1MDI2MzUwNiwwMDAwMDAwMGIxYTRkOThjY2NjOTQ3ODE0MmQzMDI1ZGU5NmU2ZTQy`

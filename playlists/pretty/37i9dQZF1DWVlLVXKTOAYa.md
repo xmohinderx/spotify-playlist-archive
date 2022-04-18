@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,088 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,138 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 98 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
 | 99 | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/track/7v27vTy3PP70lBHgfvPnKQ) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/album/5EXnj8f715BdwncOrZQ2H1) | 2:42 |
 
-Snapshot ID: `MTY1MDI0MzY4NywwMDAwMDAwMDU3YmRmOTg4MmZmNmI2NDMyZGQxYmMwNDRiMjRjNTc1`
+Snapshot ID: `MTY1MDI2MzU3MCwwMDAwMDAwMDU3YmRmOTg4MmZmNmI2NDMyZGQxYmMwNDRiMjRjNTc1`

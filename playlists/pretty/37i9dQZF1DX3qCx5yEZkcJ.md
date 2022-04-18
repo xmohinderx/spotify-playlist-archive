@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,665 likes - 80 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,679 likes - 80 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [settle down](https://open.spotify.com/track/6uyitNldOLr44QmicuClak) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [keep going](https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL) | 1:42 |
 | 80 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 |
 
-Snapshot ID: `MTY1MDI0MzkyMCwwMDAwMDAwMGM1N2QzYmZlMDhiMTdmMDkxYmJmMTJkMTZhZGIzMTA1`
+Snapshot ID: `MTY1MDI2MzgxMCwwMDAwMDAwMGM1N2QzYmZlMDhiMTdmMDkxYmJmMTJkMTZhZGIzMTA1`

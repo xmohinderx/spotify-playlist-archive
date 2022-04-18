@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Uplifting jazz to get you in good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,184 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,200 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [I Wish You Love](https://open.spotify.com/track/7moJWeYfMTr7iWgSHvwF7Y) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:00 |
 | 100 | [Blue Moon](https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 |
 
-Snapshot ID: `MTY1MDI0Mzc4NCwwMDAwMDAwMGM3NGY1MDVlYmQ1NTQzYWRmNjA0YTc3NWRkMTcxZWQ4`
+Snapshot ID: `MTY1MDI2MzY2OSwwMDAwMDAwMGM3NGY1MDVlYmQ1NTQzYWRmNjA0YTc3NWRkMTcxZWQ4`

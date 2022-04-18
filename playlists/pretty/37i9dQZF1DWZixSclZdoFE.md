@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,398 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,734 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [Am I a Psycho? \(feat\. B.o.B\. and Hopsin\)](https://open.spotify.com/track/3llSXHFVAnXcGAomKuI7KP) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [All 6's And 7's](https://open.spotify.com/album/2XFw84i6R3GcuxhppaRyQW) | 4:04 |
 | 150 | [After All](https://open.spotify.com/track/6i1iblIPcmaW0oVwXza2l5) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ) | [GOD GIVEN](https://open.spotify.com/album/1bahQv5wJhI8k2S2Z3Ae98) | 3:13 |
 
-Snapshot ID: `MTY1MDI0Mzc5OSwwMDAwMDAwMDYyZDg5YzUyNjg2M2M1ODI1YTM2NmU0OWFkY2ZjYzQ3`
+Snapshot ID: `MTY1MDI2MzY4NSwwMDAwMDAwMDYyZDg5YzUyNjg2M2M1ODI1YTM2NmU0OWFkY2ZjYzQ3`

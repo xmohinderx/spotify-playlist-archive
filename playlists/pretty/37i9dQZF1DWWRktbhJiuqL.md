@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,468,035 likes - 125 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,078 likes - 125 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 124 | [Shakin' Off The Rust](https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Shakin' Off The Rust](https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ) | 3:42 |
 | 125 | [When I'm Gone](https://open.spotify.com/track/3VZjogSj2XePaVubGgFOUo) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/5P1eT6Xpd9DNeSHJkJAzNo) | 3:25 |
 
-Snapshot ID: `MTY1MDI0MzcxMSwwMDAwMDAwMDY5NWFmZmMxZDIxNjA1MTQ3YTgwOWYzYWYwMTk5ZDFi`
+Snapshot ID: `MTY1MDI2MzU5NCwwMDAwMDAwMDY5NWFmZmMxZDIxNjA1MTQ3YTgwOWYzYWYwMTk5ZDFi`

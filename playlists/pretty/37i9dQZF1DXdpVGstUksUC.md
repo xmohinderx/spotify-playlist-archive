@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,265 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,307 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Rattle](https://open.spotify.com/track/5t5NH0Rx2VuJ9UVflTieoT) | [Wailin' Storms](https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2) | [Rattle](https://open.spotify.com/album/2mZfuMXQuGX8ktWQvwq9rO) | 5:32 |
 | 100 | [Homage](https://open.spotify.com/track/7ztFsRXXKrkUjMaLn1siHJ) | [Causa Sui](https://open.spotify.com/artist/1TAcaMoUlvLpTUzh18TzDY) | [Euporie Tide](https://open.spotify.com/album/5Ylo2MVt7UMcv7gPGyC3hu) | 10:08 |
 
-Snapshot ID: `MTY1MDI0NDIwMCwwMDAwMDAwMGViOTlkZWZiMWI0NGU0YjNiNWQ4YzY4ODc5ZjEwMGM3`
+Snapshot ID: `MTY1MDI2NDA5MywwMDAwMDAwMGViOTlkZWZiMWI0NGU0YjNiNWQ4YzY4ODc5ZjEwMGM3`

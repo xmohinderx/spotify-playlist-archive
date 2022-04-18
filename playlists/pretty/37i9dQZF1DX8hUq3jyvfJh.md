@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Karol Conká e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,156 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,151 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Jogadora Rara](https://open.spotify.com/track/3VTFrGgkXfhDeu8pjA1KqN) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Jogadora Rara](https://open.spotify.com/album/1JYQd4vEp7SL6auJXVV5GQ) | 3:50 |
 | 50 | [CHÁ DE MAÇÃ](https://open.spotify.com/track/0G5ivEEvVSHfmu0rdVoRk9) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [FLORA DE CONTROLE](https://open.spotify.com/album/4BGYI7zvyPcAkwG8e0agSz) | 3:09 |
 
-Snapshot ID: `MTY1MDI0NDA2MCwwMDAwMDAwMDBkMTNjYjllYzk1NzBlNTg2OTAyMzkzNjVjZDlkYzkw`
+Snapshot ID: `MTY1MDI2Mzk1MiwwMDAwMDAwMDBkMTNjYjllYzk1NzBlNTg2OTAyMzkzNjVjZDlkYzkw`

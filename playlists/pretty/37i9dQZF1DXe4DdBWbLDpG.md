@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Revive las mejores batallas, y descubre música original de los participantes\. Foto: Aczino
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,653 likes - 64 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,651 likes - 64 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 | 63 | [Jack Adrenalina vs Mc Betho \- Cuartos de Final](https://open.spotify.com/track/25QqfufCwX21FIxNonxwW1) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [Jack Adrenalina](https://open.spotify.com/artist/2UfgTAkzBVMbVUNmzuy0zS), [MC Betho](https://open.spotify.com/artist/2rYKjFmlOtceirzxiYBt3u), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Final Nacional México 2019 \(Live\)](https://open.spotify.com/album/45vZBF94IhsgEY53RwlW4B) | 5:12 |
 | 64 | [KDT RSD vs Shield Master \- Final](https://open.spotify.com/track/50J2xvv4fyOj6WyvN4u94j) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [Kdt Rsd](https://open.spotify.com/artist/6HGDrStYDkamTvqiEpiV7j), [Shield Master](https://open.spotify.com/artist/6XiJt97Qst3SZzsbLh7mAx), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa), [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm), [Gradozero](https://open.spotify.com/artist/5zHAmStqmdKwfL44tmBzUr), [Danny Brasco](https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY), [Baghira](https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY) | [Final Nacional República Dominicana 2019 \(Live\)](https://open.spotify.com/album/3z0a5jGWai20HQwdk2Fv72) | 24:34 |
 
-Snapshot ID: `MTY1MDI0NDIwNSwwMDAwMDAwMGU3YjE4NWJhYWNhY2U0M2Y4ZDMwMGQ4ZmQ4NjEwOWNk`
+Snapshot ID: `MTY1MDI2NDA5NywwMDAwMDAwMGU3YjE4NWJhYWNhY2U0M2Y4ZDMwMGQ4ZmQ4NjEwOWNk`

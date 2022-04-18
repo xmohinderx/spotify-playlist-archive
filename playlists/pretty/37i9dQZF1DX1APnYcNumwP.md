@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1APnYcNumwP.md) - [plain]
 
 > Get immersed by the great depths of ambient and drone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,426 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,427 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1APnYcNumwP.md) - [plain]
 | 74 | [day 3](https://open.spotify.com/track/1GdBDzjKKfWgBHviIdycEa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [four days \(remastered\)](https://open.spotify.com/album/4pWujgUVCEikw6cj0QFHk4) | 7:18 |
 | 75 | [Feet submerged](https://open.spotify.com/track/4HWFE0kz9LDIwJsOg7Fyfl) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 3:40 |
 
-Snapshot ID: `MTY1MDI0Mzg0NCwwMDAwMDAwMDE2Yzc1YzQyNzJhYWUyZmUzNDUxZDQ5MjZlMTBlZGI0`
+Snapshot ID: `MTY1MDI2MzczMiwwMDAwMDAwMDE2Yzc1YzQyNzJhYWUyZmUzNDUxZDQ5MjZlMTBlZGI0`

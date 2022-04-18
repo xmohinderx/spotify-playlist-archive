@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,199 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,198 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [clarity](https://open.spotify.com/track/7smjNSQAciZfQHDyF1Nxp2) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [clarity](https://open.spotify.com/album/08yhzYG1zpG0HxfXX2hjHE) | 2:19 |
 | 50 | [Blonde](https://open.spotify.com/track/3y32oCGBAn9rYHMvcndmNf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:10 |
 
-Snapshot ID: `MTY1MDI0MzU5MiwwMDAwMDAwMGM1Y2Q3NzAwMjE5ODJmNDBlNGM3NjkzZDdhNTkwYzA2`
+Snapshot ID: `MTY1MDI2MzQ3NCwwMDAwMDAwMGM1Y2Q3NzAwMjE5ODJmNDBlNGM3NjkzZDdhNTkwYzA2`

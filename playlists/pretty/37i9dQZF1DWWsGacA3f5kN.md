@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsGacA3f5kN.md) - [plain]
 
 > Songs from the 80s that made you sing and dance all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 244 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsGacA3f5kN.md) - [plain]
 | 79 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 80 | [Express Yourself](https://open.spotify.com/track/3szW87j0gVLQmpulz4P8Rf) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 4:39 |
 
-Snapshot ID: `MTY1MDI0MzcyMywwMDAwMDAwMDRjYzJmMjgzZjFmNTUyODE4MDVhMzI5ZGRjNTczM2Ji`
+Snapshot ID: `MTY1MDI2MzYwNiwwMDAwMDAwMDRjYzJmMjgzZjFmNTUyODE4MDVhMzI5ZGRjNTczM2Ji`

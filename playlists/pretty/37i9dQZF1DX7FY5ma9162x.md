@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 
 > The tracks you can put on repeat all day\. Cover: PARTYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,763 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,780 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 | 99 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 |
 | 100 | [What's On Your Mind \(feat\. Jacquees\)](https://open.spotify.com/track/0te0mYcVMqRLc4vuDjZ0Yg) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Kiss 5](https://open.spotify.com/album/6hwJxTqbEGXROsiAs0qWNV) | 3:51 |
 
-Snapshot ID: `MTY1MDI0NDAyMSwwMDAwMDAwMDRiYWVkOGMzMjJmMTk5OTRlYjkyN2QxMGNjODIyYTY3`
+Snapshot ID: `MTY1MDI2MzkxMiwwMDAwMDAwMDRiYWVkOGMzMjJmMTk5OTRlYjkyN2QxMGNjODIyYTY3`

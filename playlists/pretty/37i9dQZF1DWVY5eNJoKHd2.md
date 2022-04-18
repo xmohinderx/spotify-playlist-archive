@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > those songs that make you feel like you're levitating
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,097 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,655 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 49 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 |
 | 50 | [Deadbeat Summer](https://open.spotify.com/track/0Ff8rF6FX2aoXoz4tG4Ufj) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Mind CTRL: Psychic Chasms Possessed](https://open.spotify.com/album/5U5do5RYmAP2ZRUaFh4Yk9) | 4:02 |
 
-Snapshot ID: `MTY1MDI0MzY4MCwwMDAwMDAwMDZkZjkwYjJjMGUzNmNiYWY4YTUxMGY5YmI1NzM5NzE0`
+Snapshot ID: `MTY1MDI2MzU2MiwwMDAwMDAwMDZkZjkwYjJjMGUzNmNiYWY4YTUxMGY5YmI1NzM5NzE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> — only on Spotify Live\. Cover: bbno$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100,656 likes - 107 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,733 likes - 107 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

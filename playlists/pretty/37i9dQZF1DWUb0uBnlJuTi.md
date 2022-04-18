@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,760 likes - 80 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,790 likes - 80 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 79 | [Ode To Benny Liku](https://open.spotify.com/track/1cQgDYOqOj7wgvUO7tOPHm) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/15anBA9frAP9DxIFbskhFe) | 6:20 |
 | 80 | [Bird Brain](https://open.spotify.com/track/1Sm4vXzi88nMcWE392dd8R) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Pressure](https://open.spotify.com/album/0WKSzJyXImkaywd2c9esMG) | 2:48 |
 
-Snapshot ID: `MTY1MDI0MzY1NywwMDAwMDAwMDhhNWVmOWExYmZkZTFmYTNiYzA1MTRiNWI0MjAwNjIx`
+Snapshot ID: `MTY1MDI2MzUzOSwwMDAwMDAwMDhhNWVmOWExYmZkZTFmYTNiYzA1MTRiNWI0MjAwNjIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29qo6meCGNU.md) - [plain]
 
 > Con muchas rimas y amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,997 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,020 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29qo6meCGNU.md) - [plain]
 | 79 | [La Mujer Traiciona](https://open.spotify.com/track/2YpupWlGIpbkra73hHc8KW) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [La Mujer Traiciona](https://open.spotify.com/album/3nTo01jqoeEu2r4QrvzxlW) | 2:51 |
 | 80 | [Suelo Pensarte](https://open.spotify.com/track/5swq6T052tEljbGGZ5yKqh) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Suelo Pensarte](https://open.spotify.com/album/2oyapOqRKFSxlKGifzhE4G) | 3:12 |
 
-Snapshot ID: `MTY1MDI0Mzg3MiwwMDAwMDAwMGY1MDQxNTFmNDNhNmIxYWE1NDU2NzhjZjlkNGQ4N2Yy`
+Snapshot ID: `MTY1MDI2Mzc2MCwwMDAwMDAwMGY1MDQxNTFmNDNhNmIxYWE1NDU2NzhjZjlkNGQ4N2Yy`

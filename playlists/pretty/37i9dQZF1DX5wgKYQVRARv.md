@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Decapitated & Jinjer
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,974 likes - 130 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,017 likes - 130 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 129 | [Quest](https://open.spotify.com/track/6ExwEqiFa2C9AzqQv9BVXM) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Quest](https://open.spotify.com/album/7oT5DARQPgMcnMBFWBvDXr) | 6:14 |
 | 130 | [Fell Under a Spell](https://open.spotify.com/track/3d5zLWNt4SYOmjj1LMYCWa) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Ways We Haunt](https://open.spotify.com/album/6717xxaclaxGaq30MVzfZ0) | 4:04 |
 
-Snapshot ID: `MTY1MDI0Mzk4MywwMDAwMDAwMDE0NzYzYmI4NWZmNTBiNTlkYmQzNTc2OTk1YWM2ZTBi`
+Snapshot ID: `MTY1MDI2Mzg3NCwwMDAwMDAwMDE0NzYzYmI4NWZmNTBiNTlkYmQzNTc2OTk1YWM2ZTBi`

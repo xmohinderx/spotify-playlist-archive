@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,716 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,741 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Stardust](https://open.spotify.com/track/6tMbxAYrQl0qaORbkNeoTp) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [Stardust](https://open.spotify.com/album/0mG4xDyB6SN5We5RCOVr6e) | 6:18 |
 | 100 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 
-Snapshot ID: `MTY1MDI0MzYzMSwwMDAwMDAwMGIzZDYxYzAzMWVmZjNlNTM5ZjM2M2E0ZjNhZTlmYzg1`
+Snapshot ID: `MTY1MDI2MzUxNCwwMDAwMDAwMGIzZDYxYzAzMWVmZjNlNTM5ZjM2M2E0ZjNhZTlmYzg1`

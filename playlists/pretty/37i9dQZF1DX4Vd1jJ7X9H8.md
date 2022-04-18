@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > it's not just an indie kid with an aux, it's \*chic\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,110 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,154 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 74 | [Sabali](https://open.spotify.com/track/0jHZ5yXOZNKvtwPGSgL0gX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Welcome To Mali](https://open.spotify.com/album/6LJLRmAT69fL7I9Rf8hjcb) | 3:16 |
 | 75 | [Love Tonight](https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 8:13 |
 
-Snapshot ID: `MTY1MDI0MzkzNywwMDAwMDAwMGY2OTE5MmNiMzFiYzI1MWQwNDgxMTc3YmY4YTVmNjZk`
+Snapshot ID: `MTY1MDI2MzgyNywwMDAwMDAwMGY2OTE5MmNiMzFiYzI1MWQwNDgxMTc3YmY4YTVmNjZk`

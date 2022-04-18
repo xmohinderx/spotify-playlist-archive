@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marilina Bertoldi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,495 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,499 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 99 | [Esquizofrenia](https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Esquizofrenia](https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD) | 3:08 |
 | 100 | [Dibujo un Corazón](https://open.spotify.com/track/1VgY592fUbgh7m9FAEmQsy) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Allá en la Tierra](https://open.spotify.com/album/1olQzg5FvSWIAVTBwMsp7T) | 3:59 |
 
-Snapshot ID: `MTY1MDI0NDEzMiwwMDAwMDAwMDVlZDU3YWNjZGIxZGJjMGFjMTMzNmJhNjJkMzY1YmU0`
+Snapshot ID: `MTY1MDI2NDAyNCwwMDAwMDAwMDVlZDU3YWNjZGIxZGJjMGFjMTMzNmJhNjJkMzY1YmU0`

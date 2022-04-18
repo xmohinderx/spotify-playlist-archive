@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz music to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,039 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,060 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Sister Rosa](https://open.spotify.com/track/2ZuGfHsOmBicZnGSMwREbG) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 6:25 |
 | 100 | [Somewhere over the Rainbow](https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw) | [The Velvet Blues](https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l) | 4:36 |
 
-Snapshot ID: `MTY1MDI0NDAxMywwMDAwMDAwMDEyODQ2ZGEwOTZjM2NkODkyYzVmOGYzNmZhZmQ5M2Ix`
+Snapshot ID: `MTY1MDI2MzkwNCwwMDAwMDAwMDEyODQ2ZGEwOTZjM2NkODkyYzVmOGYzNmZhZmQ5M2Ix`

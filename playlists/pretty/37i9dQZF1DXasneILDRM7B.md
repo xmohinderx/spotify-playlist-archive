@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,559 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,749 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [All The Small Things](https://open.spotify.com/track/12qZHAeOyTf93YAWvGDTat) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/1fF8kYX49s5Ufv4XEY5sjW) | 2:48 |
 | 100 | [Above Me](https://open.spotify.com/track/45ZjRrEFgHJhCQ72qKDeem) | [Rufio](https://open.spotify.com/artist/0HjoyITAvSVktTCjXUa40Q) | [Perhaps, I Suppose](https://open.spotify.com/album/0mKXj9hXclmhvassTP0LCw) | 3:11 |
 
-Snapshot ID: `MTY1MDI0NDEyMiwwMDAwMDAwMGVjZDBmNWJmMDZjNTFmNzI4ODYwN2EzNGM2MzhiNjE4`
+Snapshot ID: `MTY1MDI2NDAxNSwwMDAwMDAwMGVjZDBmNWJmMDZjNTFmNzI4ODYwN2EzNGM2MzhiNjE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,987 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,103 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Monitor](https://open.spotify.com/track/5Dq4m4g2jrB3JlYlGGLqwm) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju \(Remastered & Expanded\)](https://open.spotify.com/album/5ShmAjEGEkWROooVfA0Amb) | 5:34 |
 | 80 | [Evermore](https://open.spotify.com/track/6DHIEgsV6r6GQ0djl6mL6k) | [hackedepicciotto](https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s) | [Evermore](https://open.spotify.com/album/7KYGSaSbEZww6PMU8DCVgQ) | 2:55 |
 
-Snapshot ID: `MTY1MDI0MzgyMywwMDAwMDAwMDkzOGFhZTVmMmNhMTM1OGYyNWRmNGVjNGVkZGJmNTY3`
+Snapshot ID: `MTY1MDI2MzcwOSwwMDAwMDAwMDkzOGFhZTVmMmNhMTM1OGYyNWRmNGVjNGVkZGJmNTY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > Ride the vaporwave and lose your soul in the <br/>  a e s t h e t i c .
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,000 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,050 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Waiting for You](https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Miami Virtual](https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7) | 4:13 |
 | 100 | [A Face Without Eyes](https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J) | [Nmesh](https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b) | [Nu.wav Hallucinations](https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv) | 5:59 |
 
-Snapshot ID: `MTY1MDI0MzY0MywwMDAwMDAwMGY2MTk1MDM3NGZkNTQ2ZDE3Y2JiN2UwZTcxMmE2MTIz`
+Snapshot ID: `MTY1MDI2MzUyNSwwMDAwMDAwMGY2MTk1MDM3NGZkNTQ2ZDE3Y2JiN2UwZTcxMmE2MTIz`

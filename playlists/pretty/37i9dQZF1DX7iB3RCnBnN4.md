@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,430 likes - 240 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,447 likes - 240 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 239 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
 | 240 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
 
-Snapshot ID: `MTY1MDI0NDAzNSwwMDAwMDAwMGEzNTBmYjI5NmE1OWMzNTE5YzRlMTdlYjdjYWU0YTVk`
+Snapshot ID: `MTY1MDI2MzkyNiwwMDAwMDAwMGEzNTBmYjI5NmE1OWMzNTE5YzRlMTdlYjdjYWU0YTVk`

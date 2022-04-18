@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,130 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,181 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Arabesque](https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ Ego](https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv) | [Arabesque](https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT) | 6:17 |
 | 100 | [Stories](https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Stories](https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG) | 3:13 |
 
-Snapshot ID: `MTY1MDI0NDE3OSwwMDAwMDAwMDI2ODY5M2Y5MDVlNWM2MmE1NjhhYTM4MjkzNzQzYzRj`
+Snapshot ID: `MTY1MDI2NDA3MSwwMDAwMDAwMDI2ODY5M2Y5MDVlNWM2MmE1NjhhYTM4MjkzNzQzYzRj`

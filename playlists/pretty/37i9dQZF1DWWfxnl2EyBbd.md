@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a jazz trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,102 likes - 150 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,119 likes - 150 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 149 | ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 |
 | 150 | [Blue In Green](https://open.spotify.com/track/4B4B5pOvFvjYYNqulRp5rR) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/2jZzBodrUR86EwaUNSBuqv) | 2:59 |
 
-Snapshot ID: `MTY1MDI0MzcxNywwMDAwMDAwMGUzZjRkYjYwMjZkNDY3YmIxZDk2MzMzYzFlMmM3ZWE0`
+Snapshot ID: `MTY1MDI2MzYwMCwwMDAwMDAwMGUzZjRkYjYwMjZkNDY3YmIxZDk2MzMzYzFlMmM3ZWE0`

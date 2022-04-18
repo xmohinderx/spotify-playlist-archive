@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,935,904 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,936,040 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 49 | [Mazza](https://open.spotify.com/track/4qX69KLy8BvQg9skV6ecsr) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Mazza](https://open.spotify.com/album/6vXyGgsZ8IoLWyIqxZjViA) | 3:30 |
 | 50 | [Go Stupid](https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:45 |
 
-Snapshot ID: `MTY1MDI0MzY1NCwwMDAwMDAwMGRkYTIxZDdjNzU4M2QxZTM1ZmMxODEwYmNkMTJhZmVm`
+Snapshot ID: `MTY1MDI2MzUzNywwMDAwMDAwMGRkYTIxZDdjNzU4M2QxZTM1ZmMxODEwYmNkMTJhZmVm`

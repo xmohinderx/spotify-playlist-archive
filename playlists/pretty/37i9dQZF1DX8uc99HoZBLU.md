@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,177 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,458 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 74 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
 | 75 | [cheated](https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [cheated](https://open.spotify.com/album/2mfDkNurewVsH4q3ieTnIE) | 1:54 |
 
-Snapshot ID: `MTY1MDI0NDA2NSwwMDAwMDAwMDdlOWJkOTQ0MDJhNzRlMzVmY2FhZjdmM2VmNTM5MTFm`
+Snapshot ID: `MTY1MDI2Mzk1NywwMDAwMDAwMDdlOWJkOTQ0MDJhNzRlMzVmY2FhZjdmM2VmNTM5MTFm`

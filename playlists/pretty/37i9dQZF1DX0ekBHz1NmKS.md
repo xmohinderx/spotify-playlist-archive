@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,266 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,263 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 98 | [Quit Your Job](https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Quit Your Job](https://open.spotify.com/album/5WGrr3DlclMWNTwmQOr2oF) | 3:08 |
 | 99 | [Who Am I Without You](https://open.spotify.com/track/4nM6merfZDOz4bb7TCBuiC) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Who Am I Without You](https://open.spotify.com/album/2eYjojXLqN63mf7OFjpxD4) | 2:29 |
 
-Snapshot ID: `MTY1MDI0MzgzMCwwMDAwMDAwMDFiMDFmNmQ4NmI3NjcyZGZkNzMxMTdhNzVlN2IwODJk`
+Snapshot ID: `MTY1MDI2MzcxOCwwMDAwMDAwMDFiMDFmNmQ4NmI3NjcyZGZkNzMxMTdhNzVlN2IwODJk`

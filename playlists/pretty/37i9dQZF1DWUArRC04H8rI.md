@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > A new generation making their own rules\. Cover: Greta Ela
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,615 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,614 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 59 | [Antítesis](https://open.spotify.com/track/2sOE1BdMO5iW9WTG4yWSJU) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Antítesis](https://open.spotify.com/album/05PPWZrJxJGPOYr9vkCDqP) | 3:05 |
 | 60 | [n0 pued0 hacer que me quieras](https://open.spotify.com/track/5iREbRfjnB6kYtDdnhHpk9) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [n0 pued0 hacer que me quieras](https://open.spotify.com/album/677bpUVlOJTxXxHVDTf5Y7) | 3:04 |
 
-Snapshot ID: `MTY1MDI0MzY0NiwwMDAwMDAwMGI3YWJkNDk0MWNlNjczZThkMDQ4ZWMxMDhhNmQxY2I1`
+Snapshot ID: `MTY1MDI2MzUyOCwwMDAwMDAwMGI3YWJkNDk0MWNlNjczZThkMDQ4ZWMxMDhhNmQxY2I1`

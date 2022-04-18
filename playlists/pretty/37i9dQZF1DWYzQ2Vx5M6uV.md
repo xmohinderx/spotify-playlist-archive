@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ir Sais, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,863 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,872 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Posa](https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [Posa](https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n) | 3:26 |
 | 70 | [love nwantiti \- Spanish Remix](https://open.spotify.com/track/7485WPb1khiKbqVZAWq1MG) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [love nwantiti \(Spanish Remix\)](https://open.spotify.com/album/6ptSNAaHiIXZP7CLygd5Xf) | 2:24 |
 
-Snapshot ID: `MTY1MDI0Mzc4MSwwMDAwMDAwMDNmYTNiOTc2MWFhNDAyZGVhZGM2MzM0ZjYwNDQ3Mzcw`
+Snapshot ID: `MTY1MDI2MzY2NiwwMDAwMDAwMDNmYTNiOTc2MWFhNDAyZGVhZGM2MzM0ZjYwNDQ3Mzcw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Top Arabic hits are right here\. Cover: Wegz
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,992 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,039 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 99 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 |
 | 100 | [Baskotaya M2armesha](https://open.spotify.com/track/0ZW94xTUKrsNDXAYMsMXEv) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamada Magdy](https://open.spotify.com/artist/4kYlR8TU22EJ77zl3NfmeM) | [Baskotaya M2armesha](https://open.spotify.com/album/0L5HPsf9TBTQaJESlx8JmC) | 3:43 |
 
-Snapshot ID: `MTY1MDI0Mzk3NCwwMDAwMDAwMGJhZTc5OWE2NzEzODJiYTBiZjI0NGZiOWMwNzQ0ZDM5`
+Snapshot ID: `MTY1MDI2Mzg2NSwwMDAwMDAwMGJhZTc5OWE2NzEzODJiYTBiZjI0NGZiOWMwNzQ0ZDM5`

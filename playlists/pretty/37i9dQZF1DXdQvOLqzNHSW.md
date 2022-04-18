@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > Slow burners for late nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,428 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,526 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 74 | [Candy](https://open.spotify.com/track/1G6LCMsx0HPSrWXgSVzHKB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Candy](https://open.spotify.com/album/5NaAAxoTOC3eTwmVMHrxtK) | 3:51 |
 | 75 | [Baby](https://open.spotify.com/track/2TUdxbIF3rpY887d8m0ZGV) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Mature Themes](https://open.spotify.com/album/2TIa83EYZBDWfmEj6VVoWu) | 4:47 |
 
-Snapshot ID: `MTY1MDI0NDE4NywwMDAwMDAwMDIwNTQ4MzdkY2FmZmM3ZmQzYjQ4NGYzNmM3NmYwNzI1`
+Snapshot ID: `MTY1MDI2NDA4MCwwMDAwMDAwMDIwNTQ4MzdkY2FmZmM3ZmQzYjQ4NGYzNmM3NmYwNzI1`

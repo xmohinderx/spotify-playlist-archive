@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,007 likes - 200 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,985 likes - 200 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 199 | [Let You Go](https://open.spotify.com/track/11HaRxNpnJz2cHjm5WBtFu) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Emina Sonnad](https://open.spotify.com/artist/42x2L7eaYJd1j2nqyVzWmz) | [Let You Go](https://open.spotify.com/album/1SgyTFGZD5uNLugaAnfwSc) | 3:37 |
 | 200 | [By My Side](https://open.spotify.com/track/4D7emHjofR0gcO9VxSoShw) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [ENDORPHINS](https://open.spotify.com/album/0cp9Tdzpu5SR0zKeKtGPBl) | 2:46 |
 
-Snapshot ID: `MTY1MDI0MzU5NCwwMDAwMDAwMGFmZDQ1NmEyYjBmZmEwN2RmZjVlM2VlNjkwYjIzZDkw`
+Snapshot ID: `MTY1MDI2MzQ3NiwwMDAwMDAwMGFmZDQ1NmEyYjBmZmEwN2RmZjVlM2VlNjkwYjIzZDkw`

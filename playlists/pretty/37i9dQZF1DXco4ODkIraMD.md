@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco4ODkIraMD.md) - [plain]
 
 > Esos éxitos que todavía quieres seguir escuchando\. Foto: J Balvin & Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,439 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,498 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco4ODkIraMD.md) - [plain]
 | 124 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 |
 | 125 | [Cuerpo en Venta](https://open.spotify.com/track/2B94bbI1a4LyBpK1439oP7) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Cuerpo en Venta](https://open.spotify.com/album/2JRundp5dldujo6pVchZco) | 4:14 |
 
-Snapshot ID: `MTY1MDI0NDE3MiwwMDAwMDAwMGM5MzNjZDkxYTc1NTZhNjQyZDRkMzg2OWQwN2ZmMDhh`
+Snapshot ID: `MTY1MDI2NDA2NCwwMDAwMDAwMGM5MzNjZDkxYTc1NTZhNjQyZDRkMzg2OWQwN2ZmMDhh`

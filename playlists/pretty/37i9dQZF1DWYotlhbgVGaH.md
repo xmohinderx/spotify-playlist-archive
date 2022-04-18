@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,015 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,013 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [5\-10\-15 Hours](https://open.spotify.com/track/7LadryxoGuqpQwdpV4my4E) | [Blue Harlem](https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90) | [Talk to Me](https://open.spotify.com/album/45tB7rhIUAFKLMbKIkYBPX) | 3:17 |
 | 50 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
 
-Snapshot ID: `MTY1MDI0Mzc3NywwMDAwMDAwMDU3ZjNmM2Y4NTk0MWYxYjE4OTc0MjI3MmQ1OWRiMzY4`
+Snapshot ID: `MTY1MDI2MzY2MiwwMDAwMDAwMDU3ZjNmM2Y4NTk0MWYxYjE4OTc0MjI3MmQ1OWRiMzY4`

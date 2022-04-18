@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYWNM3NfvzJ.md) - [plain]
 
 > All the adrenaline you need is right here\.  Let's GO!
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,434 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,441 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYWNM3NfvzJ.md) - [plain]
 | 49 | [Ce n'est Rien](https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:00 |
 | 50 | [1 More Hit](https://open.spotify.com/track/29s8uc1ZOR3yAWCA2O1mR4) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Van Weezer](https://open.spotify.com/album/4QIZtPbEAQTu1smtYyDHXz) | 3:05 |
 
-Snapshot ID: `MTY1MDI0Mzc5MywwMDAwMDAwMDgzYzY1MzUwOWQzNTE2NDcwOWViMDhiMWMyZDRiZmRj`
+Snapshot ID: `MTY1MDI2MzY3OSwwMDAwMDAwMDgzYzY1MzUwOWQzNTE2NDcwOWViMDhiMWMyZDRiZmRj`

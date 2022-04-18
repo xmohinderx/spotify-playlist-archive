@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,381 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,385 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 29 | [Afro Shingaling](https://open.spotify.com/track/3DkeQ5mpbIPGBuGQ4DAcXg) | [The Latinaires](https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj) | [Camel Walk](https://open.spotify.com/album/3EhyH1sdQKmnNSd3YJzEFG) | 3:57 |
 | 30 | [You're Moving Much Too Fast](https://open.spotify.com/track/0CHCDzy0qWlTClcArjpxhG) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [Back On The Streets Of Spanish Harlem](https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip) | 3:20 |
 
-Snapshot ID: `MTY1MDI0Mzc2OCwwMDAwMDAwMGUwYmRkMzU3OGJlZDc5ZDI5ZTNiN2M5OTM4MjlkMmMz`
+Snapshot ID: `MTY1MDI2MzY1MiwwMDAwMDAwMGUwYmRkMzU3OGJlZDc5ZDI5ZTNiN2M5OTM4MjlkMmMz`

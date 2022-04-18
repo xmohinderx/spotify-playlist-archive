@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,452 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,523 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 |
 | 100 | [seasonal depression](https://open.spotify.com/track/1Y73t3XDuAVNjO3tZiBt1p) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade \(seasonal depression / prom dress / high & dry\)](https://open.spotify.com/album/2THfUbzm3i4P8NNZgylHj3) | 2:36 |
 
-Snapshot ID: `MTY1MDI0NDA2OCwwMDAwMDAwMDQwNGQwZDMyMzVmMDk5YzhjYzMzODk3NGJlYjgyNDQ2`
+Snapshot ID: `MTY1MDI2Mzk2MCwwMDAwMDAwMDQwNGQwZDMyMzVmMDk5YzhjYzMzODk3NGJlYjgyNDQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Top Afro Bashment, Pop, Fusion / X\-Overs from all across the world\.  Cover: <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=H\-Ew\-4PIRuew9036qjyqTQ">Omah Lay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,126 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,158 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 98 | [Fever](https://open.spotify.com/track/1EGgf4k8U5b7GIbFT9q5Rw) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Fever](https://open.spotify.com/album/2TD2tUsP8PpyRB6A0aGJYM) | 3:14 |
 | 99 | [Say It Loud \- Everybody Black Re\-Flip](https://open.spotify.com/track/130NruHGMdNfTG46WYqgS4) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Say It Loud \(Everybody Black Re\-Flip\)](https://open.spotify.com/album/425EDo42dQn8mbhPAOWBTs) | 3:57 |
 
-Snapshot ID: `MTY1MDI0MzYxMywwMDAwMDAwMGVkOGEzMWY2NDI2NTRmMzkxODJkNzRlYzhmMWQ2OGRm`
+Snapshot ID: `MTY1MDI2MzQ5NSwwMDAwMDAwMGVkOGEzMWY2NDI2NTRmMzkxODJkNzRlYzhmMWQ2OGRm`

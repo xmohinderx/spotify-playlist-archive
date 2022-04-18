@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuieNT0Gy18.md) - [plain]
 
 > Una selección de éxitos inolvidables para ponerle ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,991 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,042 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuieNT0Gy18.md) - [plain]
 | 98 | [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 |
 | 99 | [Corazón En La Maleta](https://open.spotify.com/track/3EkYPUUbOVcxim9lEhEgxH) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/29IjcCBllsltvShSWJ40Ol) | 3:41 |
 
-Snapshot ID: `MTY1MDI0MzgwNiwwMDAwMDAwMGU3M2E4ZjE1OTk3M2Q2OGI2OGZmZDQ4OGZhYmQ3MGQ1`
+Snapshot ID: `MTY1MDI2MzY5MiwwMDAwMDAwMGU3M2E4ZjE1OTk3M2Q2OGI2OGZmZDQ4OGZhYmQ3MGQ1`

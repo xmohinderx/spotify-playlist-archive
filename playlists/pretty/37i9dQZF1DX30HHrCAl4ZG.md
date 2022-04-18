@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > the resurgence is real\. Cover: Surf Curse
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,231 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,361 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [boundary issues](https://open.spotify.com/track/67dPtaJRVciLNPYs0FmlmB) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the second ep](https://open.spotify.com/album/4MFtzUINsQ7UaPQLKo3501) | 3:14 |
 | 100 | [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 |
 
-Snapshot ID: `MTY1MDI0Mzg5NiwwMDAwMDAwMDg0ODQxNDg4Y2RkMjAyZTkzZWUwZjFlZjhjNDg0ODk2`
+Snapshot ID: `MTY1MDI2Mzc4NCwwMDAwMDAwMDg0ODQxNDg4Y2RkMjAyZTkzZWUwZjFlZjhjNDg0ODk2`

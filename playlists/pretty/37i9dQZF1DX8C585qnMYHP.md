@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Marina Herlop Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,087 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,093 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Cherenge](https://open.spotify.com/track/3BStM3Sqjmxp4hzbZN0ZDn) | [BinJa](https://open.spotify.com/artist/2D3YmQ1jtP4qk8mV7E1IuZ) | [Atmareka](https://open.spotify.com/album/2XvkrwWYlVw67ZiO2GUKNm) | 5:51 |
 | 100 | [Roots](https://open.spotify.com/track/4mrYVeASpXLLKF1jXpTnhV) | [Malvae](https://open.spotify.com/artist/3xDYZyU0u2UORxJh6BcZe4) | [Roots](https://open.spotify.com/album/0tcqytj09avkRwgKoE12WT) | 4:23 |
 
-Snapshot ID: `MTY1MDI0NDA0NSwwMDAwMDAwMDgyMWMzNjQyYzYyMjcwZjk0ZDI2MjM2YzUzYThlODM2`
+Snapshot ID: `MTY1MDI2MzkzNiwwMDAwMDAwMDgyMWMzNjQyYzYyMjcwZjk0ZDI2MjM2YzUzYThlODM2`

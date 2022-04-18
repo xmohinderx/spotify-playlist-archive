@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft Flume & Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,327 likes - 125 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,361 likes - 125 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [Spill The Milk](https://open.spotify.com/track/7heSEv21iLJsWTyCfIZLJ1) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/0NjpedEWmXVlxHhLl7nTor) | 3:39 |
 | 125 | [Singularity](https://open.spotify.com/track/4oZ2Xkline6CvRDebjbi8Q) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 6:29 |
 
-Snapshot ID: `MTY1MDI0NDEyMCwwMDAwMDAwMGZmYzNkNGJhN2Q3ZmY1YmZmMDg3N2RmZTRkMWQwMzc0`
+Snapshot ID: `MTY1MDI2NDAxMiwwMDAwMDAwMGZmYzNkNGJhN2Q3ZmY1YmZmMDg3N2RmZTRkMWQwMzc0`

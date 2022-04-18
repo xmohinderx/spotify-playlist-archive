@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Indie takes on songs others make\. Cover: mxmtoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,826 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,846 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [Forever Young](https://open.spotify.com/track/25kayNrSANYsXe31x6VdOq) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Forever Young](https://open.spotify.com/album/6uzTTLKNNiMxG2iqQgzRHs) | 3:08 |
 | 75 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
 
-Snapshot ID: `MTY1MDI0NDEyOCwwMDAwMDAwMDY3ZDIzYWU1ODE2Mjg0NDVjNWRiZTg1YzQyMjkwZTI4`
+Snapshot ID: `MTY1MDI2NDAyMCwwMDAwMDAwMDY3ZDIzYWU1ODE2Mjg0NDVjNWRiZTg1YzQyMjkwZTI4`

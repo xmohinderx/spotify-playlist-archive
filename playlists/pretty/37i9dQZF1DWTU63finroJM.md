@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Leith.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,280 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,293 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 99 | [チューインガム](https://open.spotify.com/track/3NsrYvrf8uecZRv8tuJxvD) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk), [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [チューインガム](https://open.spotify.com/album/0A3vfYOYPfQbrGU13s0qpP) | 3:05 |
 | 100 | [bad together](https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [bad together](https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5) | 2:50 |
 
-Snapshot ID: `MTY1MDI0MzYyNiwwMDAwMDAwMDY2YTFhYzM3ZWIzYjEyNzVhMjc4NjUxYWQ5NThlYTZl`
+Snapshot ID: `MTY1MDI2MzUwOSwwMDAwMDAwMDY2YTFhYzM3ZWIzYjEyNzVhMjc4NjUxYWQ5NThlYTZl`

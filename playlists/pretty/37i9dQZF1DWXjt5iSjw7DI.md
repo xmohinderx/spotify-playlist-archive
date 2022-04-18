@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\.   Just like being there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,030 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,041 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [If You're Gonna Play In Texas \(You Gotta Have A Fiddle In The Band\) \- Live](https://open.spotify.com/track/4zXJDOvzLzeX23K5CbWl7C) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Alabama And Friends Live At The Ryman](https://open.spotify.com/album/4cy1OFlYm6e1ak5X3y78sE) | 4:55 |
 | 150 | [The Fireman \- Live](https://open.spotify.com/track/5BhAqOQrB4tyiMVnpYX3jp) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 2:49 |
 
-Snapshot ID: `MTY1MDI0Mzc0NywwMDAwMDAwMGM5OThjYThhNGFkMzY4NDFiNDA4NjQ1ZTkwMDY1YWJj`
+Snapshot ID: `MTY1MDI2MzYzMSwwMDAwMDAwMGM5OThjYThhNGFkMzY4NDFiNDA4NjQ1ZTkwMDY1YWJj`

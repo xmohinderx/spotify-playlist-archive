@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: James Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448,594 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448,610 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 124 | [Hold My Girl](https://open.spotify.com/track/1kjrgWG47wJgVqvQOvyb7C) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl](https://open.spotify.com/album/6cYPeMZiYaFOyHEoXglH7m) | 3:31 |
 | 125 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
 
-Snapshot ID: `MTY1MDI0MzkzNywwMDAwMDAwMGUyMjdiMDI0ZDg5MGYzNTFiNWRjMWEzYmU4NmY1NTM0`
+Snapshot ID: `MTY1MDI2MzgyNywwMDAwMDAwMGUyMjdiMDI0ZDg5MGYzNTFiNWRjMWEzYmU4NmY1NTM0`

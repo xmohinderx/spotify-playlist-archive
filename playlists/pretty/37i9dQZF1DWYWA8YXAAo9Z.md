@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,845 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,853 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Through Circle and Shadow](https://open.spotify.com/track/2OBRaX5PhBAlgo6TvQMVqX) | [Robert Scott Thompson](https://open.spotify.com/artist/3cLV4eGuwG8hXQ8JDS6ZKd) | [Through Circle and Shadow](https://open.spotify.com/album/2pQYZP433rFGCGSA6SWOpF) | 7:35 |
 | 75 | [Cascade Symmetry](https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au) | [r beny](https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG) | [Cascade Symmetry](https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92) | 3:24 |
 
-Snapshot ID: `MTY1MDI0Mzc2OSwwMDAwMDAwMGRlZTc4OWE2YmEyMzc5YWYyNWE4YTNlMDA1ZmNkNWY4`
+Snapshot ID: `MTY1MDI2MzY1NCwwMDAwMDAwMGRlZTc4OWE2YmEyMzc5YWYyNWE4YTNlMDA1ZmNkNWY4`

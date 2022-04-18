@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,558 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,569 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 59 | [Music for Six Rooms](https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 10:06 |
 | 60 | [Oxy](https://open.spotify.com/track/2RJ7GPeSQpQ7aB7hYQRgtY) | [Oli Bayston](https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H) | [Bomani](https://open.spotify.com/album/0nUNrbg1HfP1COqD1AdR84) | 7:55 |
 
-Snapshot ID: `MTY1MDI0MzkyOCwwMDAwMDAwMGNlM2VjOThkYjA5ODc4YjcwM2FkMGRjMjc5Mzc3ZWEx`
+Snapshot ID: `MTY1MDI2MzgxOCwwMDAwMDAwMGNlM2VjOThkYjA5ODc4YjcwM2FkMGRjMjc5Mzc3ZWEx`

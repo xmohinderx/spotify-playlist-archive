@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 
 > These songs rocked the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,241,688 likes - 80 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,241,826 likes - 80 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 79 | [Dr Feelgood](https://open.spotify.com/track/3xGUsy7FZIOibMKrQGFnRH) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/0QWJ1Ja8a8Oxwc3TObJeJr) | 4:42 |
 | 80 | [Stand \- Remastered](https://open.spotify.com/track/5xQS3BaNZDrltmswg7B8YD) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/6QVNm3lwNzeVmnic41sZM3) | 3:12 |
 
-Snapshot ID: `MTY1MDI0Mzg2MiwwMDAwMDAwMDU0NDEwZDU1NGYwYWU4MTdmODNkZjQ5M2YyMDAxOTAz`
+Snapshot ID: `MTY1MDI2Mzc1MSwwMDAwMDAwMDU0NDEwZDU1NGYwYWU4MTdmODNkZjQ5M2YyMDAxOTAz`

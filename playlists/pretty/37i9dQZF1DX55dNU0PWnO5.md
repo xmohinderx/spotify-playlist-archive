@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Where jazz meets electronic music\. Cover: Elusive
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,458 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,459 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Nostalgia for the Light](https://open.spotify.com/track/5tXJRqQ7RgjlYunSzjlkOD) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [Nostalgia for the Light](https://open.spotify.com/album/7abFEjbIV2UgZk67DmsLXQ) | 5:21 |
 | 80 | [Lower Brinstar Vibes](https://open.spotify.com/track/5mbORzorEBD2pxmIzeE1su) | [Joshua Morse](https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Plugged In](https://open.spotify.com/album/1ioWRMKxCjAiYRGpvh0GA1) | 3:06 |
 
-Snapshot ID: `MTY1MDI0Mzk1NiwwMDAwMDAwMDdhNjMxMDA4YzRlOWRmNzMxNjJlYTQyMmY1NThhYjdh`
+Snapshot ID: `MTY1MDI2Mzg0NiwwMDAwMDAwMDdhNjMxMDA4YzRlOWRmNzMxNjJlYTQyMmY1NThhYjdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Omar Apollo, Brandi Carlile, and Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,379 likes - 115 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,377 likes - 115 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 114 | [The Little Things That Give You Away \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/6if1ZC9VUv7G6cQpSTGiST) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/0zWW54V3be9Nv7VvmmmYL2) | 5:07 |
 | 115 | [Fire on the Mountain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 2:49 |
 
-Snapshot ID: `MTY1MDI0Mzk0NywwMDAwMDAwMDFiNDY5NDBjN2E4M2FiNGJlNjAxMjU5ZmNjYTlkNDg5`
+Snapshot ID: `MTY1MDI2MzgzOCwwMDAwMDAwMDFiNDY5NDBjN2E4M2FiNGJlNjAxMjU5ZmNjYTlkNDg5`

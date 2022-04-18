@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411,692 likes - 120 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411,736 likes - 120 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 119 | [Funeral Derangements](https://open.spotify.com/track/66qewt5FwqHERjmwwWH7xw) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Funeral Derangements](https://open.spotify.com/album/2lEb4wBA4McQgzirOKZsey) | 3:44 |
 | 120 | [Uprise](https://open.spotify.com/track/6b9pDaMgmYARNR25XCXbj4) | [Kingdom Collapse](https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4) | [Uprise](https://open.spotify.com/album/6eHPDy2VsYcvOqQVrfKAK9) | 2:46 |
 
-Snapshot ID: `MTY1MDI0NDIwNiwwMDAwMDAwMDM1YTk0Mjg1NWQ1MDc4ZTU2MTc2N2NhOWExYmEwOWFh`
+Snapshot ID: `MTY1MDI2NDA5OCwwMDAwMDAwMDM1YTk0Mjg1NWQ1MDc4ZTU2MTc2N2NhOWExYmEwOWFh`

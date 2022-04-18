@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,670 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,666 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Pra Curar](https://open.spotify.com/track/3ieq2Y10BJCn2RsmzpgUFH) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Chegamos Sozinhos em Casa](https://open.spotify.com/album/3RAsslo5W29pWGYf3lxLO1) | 2:49 |
 | 60 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 
-Snapshot ID: `MTY1MDI0MzcwMSwwMDAwMDAwMGZkMjkzZmQ2OGNiNDllNTNmNDU1MWUyMWZmYTYyYWVl`
+Snapshot ID: `MTY1MDI2MzU4NCwwMDAwMDAwMGZkMjkzZmQ2OGNiNDllNTNmNDU1MWUyMWZmYTYyYWVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,469 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,501 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [LHRHND](https://open.spotify.com/track/5CYuQJYktGHKXqL93J5YIf) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir) | [LHRHND](https://open.spotify.com/album/4xzVZ306XdD686sDH0jC4b) | 4:07 |
 | 60 | [Come Together](https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:40 |
 
-Snapshot ID: `MTY1MDI0NDA0MCwwMDAwMDAwMGZhZTdjYTFmODI3YzA5ZWY3NTkwNWY3YzZhOTY0ZTQz`
+Snapshot ID: `MTY1MDI2MzkzMSwwMDAwMDAwMGZhZTdjYTFmODI3YzA5ZWY3NTkwNWY3YzZhOTY0ZTQz`

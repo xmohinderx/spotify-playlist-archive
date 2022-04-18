@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,753,245 likes - 123 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,753,329 likes - 123 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 122 | [The Best](https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [The Best](https://open.spotify.com/album/2EbGQOhrYnc6oAOIKh4mUl) | 2:38 |
 | 123 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/06RhAj4FSp8YlDyrxulgbt) | 3:37 |
 
-Snapshot ID: `MTY1MDI0MzU5OSwwMDAwMDAwMDkwOTQ0NWI2ZTEwZGZjMmQxODkwYzZhMzI5OTk0NzU4`
+Snapshot ID: `MTY1MDI2MzQ4MSwwMDAwMDAwMDkwOTQ0NWI2ZTEwZGZjMmQxODkwYzZhMzI5OTk0NzU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Seori\(서리\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,448 likes - 64 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,552 likes - 64 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 |
 | 64 | [We'll be alright](https://open.spotify.com/track/28b6eAJ9TMthHN7BWylfnM) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [We'll be alright](https://open.spotify.com/album/6lExoei5xbBYsuFuZFEuSa) | 3:11 |
 
-Snapshot ID: `MTY1MDI0Mzk5MCwwMDAwMDAwMDE3NzllODBiMzA0MzY0NTA5MmMzZWQ4NDA5MTI1Njc1`
+Snapshot ID: `MTY1MDI2Mzg4MSwwMDAwMDAwMDE3NzllODBiMzA0MzY0NTA5MmMzZWQ4NDA5MTI1Njc1`

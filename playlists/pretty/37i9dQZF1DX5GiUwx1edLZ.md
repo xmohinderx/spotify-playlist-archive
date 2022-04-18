@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,589 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,587 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Symphony \(feat\. Zara Larsson\) \- Acoustic Version](https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\) \[Acoustic\]](https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0) | 3:36 |
 | 100 | [Love Me Like You Never Did \(Acoustic\)](https://open.spotify.com/track/1Oy4c5vseF1wbnKle1ZQQp) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Ethan Thompson](https://open.spotify.com/artist/2FPhOFbPxBiUTjdF9ZUYrZ) | [Watch the World \(Acoustic Versions\)](https://open.spotify.com/album/7dWgNVjh2aG5C3l5cvswKy) | 3:11 |
 
-Snapshot ID: `MTY1MDI0Mzk2MywwMDAwMDAwMGYwYjU5YjA3ZTdhNGM3MzA5NzQ2ODkwZjhmY2FkMmYy`
+Snapshot ID: `MTY1MDI2Mzg1MywwMDAwMDAwMGYwYjU5YjA3ZTdhNGM3MzA5NzQ2ODkwZjhmY2FkMmYy`

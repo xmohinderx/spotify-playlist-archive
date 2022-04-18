@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,828 likes - 150 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,955 likes - 150 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 |
 | 150 | [Thank You \- Live](https://open.spotify.com/track/3XSnUum4vTgF0AgPY0ZXri) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 5:25 |
 
-Snapshot ID: `MTY1MDI0MzczMCwwMDAwMDAwMDM0MjhkMWRkZGJhZDE1NDNmMWU1ZjUxMjYwMTA0MmRl`
+Snapshot ID: `MTY1MDI2MzYxNCwwMDAwMDAwMDM0MjhkMWRkZGJhZDE1NDNmMWU1ZjUxMjYwMTA0MmRl`

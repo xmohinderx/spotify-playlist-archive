@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,725 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,729 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Flume](https://open.spotify.com/track/4cJt0STYaj8iH6sVeCFUqw) | [Jesse Daniel Smith](https://open.spotify.com/artist/2ciKXsw2J3JHto2f38qc0W) | [Jesse Daniel Smith Is Playing Other People's Music](https://open.spotify.com/album/3IF4D1sqHjDbQJ4RDRfhb2) | 3:07 |
 | 100 | [Bills, Bills, Bills](https://open.spotify.com/track/3h9soIPxDnm7EqKv6u0cYu) | [Masquer](https://open.spotify.com/artist/4DsqMBB1CcYRrccjTV8rxB) | [Covers](https://open.spotify.com/album/5b1R3TKWbWNWeSwHn2VO5a) | 4:09 |
 
-Snapshot ID: `MTY1MDI0Mzc0OSwwMDAwMDAwMDVlMjA3MTk3NWViZmJlYWZlMmEyZTFmYzU0NmU3YTM5`
+Snapshot ID: `MTY1MDI2MzYzMywwMDAwMDAwMDVlMjA3MTk3NWViZmJlYWZlMmEyZTFmYzU0NmU3YTM5`

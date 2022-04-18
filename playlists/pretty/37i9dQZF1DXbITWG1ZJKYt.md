@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in jazz history\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,508,390 likes - 200 songs - 17 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,508,589 likes - 200 songs - 17 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 199 | [Coffee Cold](https://open.spotify.com/track/6MN6yRVriszuyAVlyF8ndB) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr) | [Shapes of Rhythm/Woman Is Sweeter](https://open.spotify.com/album/6f4b9wVTkKAf096k4XG6x5) | 3:25 |
 | 200 | [What A Little Moonlight Can Do \- Remastered](https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:27 |
 
-Snapshot ID: `MTY1MDI0NDEzNCwwMDAwMDAwMGI3YTg2MDA5NTgwNjQ5NjcxN2I3YjZmM2FmYzE2YmY2`
+Snapshot ID: `MTY1MDI2NDAyNiwwMDAwMDAwMGI3YTg2MDA5NTgwNjQ5NjcxN2I3YjZmM2FmYzE2YmY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,115 likes - 150 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,179 likes - 150 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [Head On](https://open.spotify.com/track/6RZZH2tHv1eGKqwJrPB13f) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [80s Alternative](https://open.spotify.com/album/4ZlAFa3PEC7BBMHtc1eQjl) | 4:11 |
 | 150 | [Regiment \- 2006 Digital Remaster](https://open.spotify.com/track/5NmIlA4EWshYKtL9w9JM15) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [My Life In The Bush Of Ghosts](https://open.spotify.com/album/1m08xZXMNDVCYU7VgUGsme) | 4:11 |
 
-Snapshot ID: `MTY1MDI0NDEzMSwwMDAwMDAwMDVjMmRjYmU3ZDZiNjdmMzBiZWNjZGY5MTk5ODc0OGE2`
+Snapshot ID: `MTY1MDI2NDAyMywwMDAwMDAwMDVjMmRjYmU3ZDZiNjdmMzBiZWNjZGY5MTk5ODc0OGE2`

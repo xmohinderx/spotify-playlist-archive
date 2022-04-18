@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,218 likes - 125 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,241 likes - 125 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 124 | [Bold](https://open.spotify.com/track/35ioSWQeKnwsyYga5tZTBM) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d) | [Auspex EP](https://open.spotify.com/album/6yOb0ocejs7jg4yrQh3FeC) | 4:46 |
 | 125 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 |
 
-Snapshot ID: `MTY1MDI0Mzg4MywwMDAwMDAwMGI1MTI1ZGMxNTBkYWQ2YzM2MzI3MTRmM2E4NzRhNDcz`
+Snapshot ID: `MTY1MDI2Mzc3MSwwMDAwMDAwMGI1MTI1ZGMxNTBkYWQ2YzM2MzI3MTRmM2E4NzRhNDcz`

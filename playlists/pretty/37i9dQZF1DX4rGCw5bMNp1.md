@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,717 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,720 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [That's All Right \- Single Version](https://open.spotify.com/track/59weqOPEUbGf6shNNwiiSW) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/0SGm1i0EgdVzB06XPIuqsH) | 2:50 |
 | 50 | [Madison Blues](https://open.spotify.com/track/7ktdaLy3DGPhmgS5vnHIx3) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [The Chess Blues\-Rock Songbook](https://open.spotify.com/album/7tMbO8A8r1yV4Lf39pLLP6) | 2:26 |
 
-Snapshot ID: `MTY1MDI0Mzk1MCwwMDAwMDAwMDVjYWU2Nzk1NjI0NTI1YzNhNzg2NzNlNWMwZjMzODcz`
+Snapshot ID: `MTY1MDI2Mzg0MCwwMDAwMDAwMDVjYWU2Nzk1NjI0NTI1YzNhNzg2NzNlNWMwZjMzODcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,496 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,517 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [fortitude](https://open.spotify.com/track/5JLAvVe385Xt7i3PIqAqRu) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [fortitude](https://open.spotify.com/album/38LWDsfLVzomKtlOnBBBu5) | 1:32 |
 | 100 | [Don't Cry](https://open.spotify.com/track/3Y753I7WavrP3HQMoAdlXK) | [aMi](https://open.spotify.com/artist/5N8JfzZRD67QcuFn1tBxWm) | [YELLOW BAP](https://open.spotify.com/album/7kPUD4ZjRc3rsDtY6nc3zw) | 2:49 |
 
-Snapshot ID: `MTY1MDI0MzY2OCwwMDAwMDAwMDU0NmU0MDU0YzIyZTczY2EwOWQyYTViZTU1ZTQwMGI5`
+Snapshot ID: `MTY1MDI2MzU1MSwwMDAwMDAwMDU0NmU0MDU0YzIyZTczY2EwOWQyYTViZTU1ZTQwMGI5`

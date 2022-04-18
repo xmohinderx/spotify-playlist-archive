@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,250 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,248 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [Soul Man \- 45 Version](https://open.spotify.com/track/5JNfpFuU4ew1kq1oEc9OaX) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Man / May I Baby](https://open.spotify.com/album/510opTQ5kdnZYF4n5iXeDA) | 2:36 |
 | 80 | [Karma Chameleon](https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 4:02 |
 
-Snapshot ID: `MTY1MDI0MzgzMywwMDAwMDAwMDBiOTZiZTY1MjY4YWMzYzExMmFiZjNhMWVhNGNjNmEy`
+Snapshot ID: `MTY1MDI2MzcyMCwwMDAwMDAwMDBiOTZiZTY1MjY4YWMzYzExMmFiZjNhMWVhNGNjNmEy`

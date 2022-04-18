@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,751 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,749 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 | 49 | [Afgan](https://open.spotify.com/track/3T7Dil6DmABypEgSrKrLnv) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Fingraför](https://open.spotify.com/album/7p8toyIHleb6ZiLRaxE0aB) | 5:24 |
 | 50 | [Ef ástin er hrein \(feat\. GDRN\)](https://open.spotify.com/track/519zAAsZrSxcdIiC2X0MHw) | [Jón Jónsson](https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu), [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb) | [Lengi lifum við](https://open.spotify.com/album/2CMdGmSXOv4k0k35t3u9Z6) | 3:03 |
 
-Snapshot ID: `NzAzNTAzNTAzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzAzMDc4MTcyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

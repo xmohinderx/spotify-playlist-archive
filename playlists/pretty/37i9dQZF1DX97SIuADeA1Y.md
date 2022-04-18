@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,337 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,347 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Out of My Mind](https://open.spotify.com/track/48UFqLwuusRj4H8RPQiYPc) | [TOM SOTO](https://open.spotify.com/artist/4Al2E6xDgBDr3XUZn2t2ti), [Stephanie Schulte](https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3), [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw) | [Out of My Mind \(feat\. TOM SOTO & Stephanie Schulte\)](https://open.spotify.com/album/0eb2Fq6ZBvbhu670fADPF0) | 2:43 |
 | 60 | [Wind Me Up](https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe) | [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu) | [Wind Me Up](https://open.spotify.com/album/5SpRP87LFF2kAtanojTQLG) | 2:10 |
 
-Snapshot ID: `MTY1MDI0NDA3MSwwMDAwMDAwMDczODFhNGQxNDk5NTcxZTYyNzk5NTZlMjIzMjQzY2Zl`
+Snapshot ID: `MTY1MDI2Mzk2NCwwMDAwMDAwMDczODFhNGQxNDk5NTcxZTYyNzk5NTZlMjIzMjQzY2Zl`

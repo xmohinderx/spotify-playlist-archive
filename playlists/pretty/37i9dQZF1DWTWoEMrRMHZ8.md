@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Rodrigo Alarcon
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,724 likes - 90 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,739 likes - 90 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 89 | [Isso Me Fará](https://open.spotify.com/track/4vNyFrftdxHk61euvwUpT1) | [Luis Kiari](https://open.spotify.com/artist/7JsyzZsFjaF86UX1CAAFio) | [Isso Me Fará](https://open.spotify.com/album/7pgfecDRWnyggCX4LZ19AA) | 3:30 |
 | 90 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz) | [Ayrton Montarroyos](https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h), [Cainã Cavalcante](https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg) | [A Música de Tom](https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN) | 3:05 |
 
-Snapshot ID: `MTY1MDI0MzYyOSwwMDAwMDAwMDRjNDAyNDg3YmI0MmUwYjI1M2FjOGJkM2M4OTAwZDI3`
+Snapshot ID: `MTY1MDI2MzUxMiwwMDAwMDAwMDRjNDAyNDg3YmI0MmUwYjI1M2FjOGJkM2M4OTAwZDI3`

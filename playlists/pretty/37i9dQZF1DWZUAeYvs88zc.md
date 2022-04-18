@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,737 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,748 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 79 | [happy for you](https://open.spotify.com/track/4vBefXybmvZ8uWzjxOvZP4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [happy for you](https://open.spotify.com/album/0dcKqcHFGWZvOGMwKmiObl) | 3:00 |
 | 80 | [Call Your Girlfriend](https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:47 |
 
-Snapshot ID: `MTY1MDI0Mzc5MCwwMDAwMDAwMGI2OWIzZDQ2NDU4Y2NmMWUxYzhhMDA5ZGMxNDQyOTQ1`
+Snapshot ID: `MTY1MDI2MzY3NiwwMDAwMDAwMGI2OWIzZDQ2NDU4Y2NmMWUxYzhhMDA5ZGMxNDQyOTQ1`

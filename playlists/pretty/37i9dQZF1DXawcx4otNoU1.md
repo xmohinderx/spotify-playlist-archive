@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > This is the perfect playlist for those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,539 likes - 137 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,621 likes - 137 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 136 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
 | 137 | [Close To You](https://open.spotify.com/track/2SMf3oF07WpSE55fCuEvSG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI](https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc) | 3:43 |
 
-Snapshot ID: `MTY1MDI0NDEyNCwwMDAwMDAwMGQxMGQzYjliNTA1NTQyMGQ2MDBlNjYwNTE0ZTU3ZTNj`
+Snapshot ID: `MTY1MDI2NDAxNiwwMDAwMDAwMGQxMGQzYjliNTA1NTQyMGQ2MDBlNjYwNTE0ZTU3ZTNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Maggie Rogers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,490 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,505 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 124 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 |
 | 125 | [You Deserve an Oscar](https://open.spotify.com/track/1TLnYF9GcPBQipGxZQ5nPF) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [You Deserve an Oscar](https://open.spotify.com/album/5mBw87XE7nAC5ohYHk9i4F) | 3:36 |
 
-Snapshot ID: `MTY1MDI0MzcwMywwMDAwMDAwMDcyZjk4M2I3MDZjZjc0N2U0ZDhmNmZjMjE2ZjhhNTI0`
+Snapshot ID: `MTY1MDI2MzU4NiwwMDAwMDAwMDcyZjk4M2I3MDZjZjc0N2U0ZDhmNmZjMjE2ZjhhNTI0`

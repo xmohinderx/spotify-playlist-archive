@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,289 likes - 163 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,343 likes - 163 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 162 | [I'm In Love](https://open.spotify.com/track/1vpJNsdn5EpK7w3WmzydHD) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Mary \(Limited Edition Bonus Pack\)](https://open.spotify.com/album/39EkrZ4JRTaYSXq9p3ibya) | 4:50 |
 | 163 | [So Fine](https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:32 |
 
-Snapshot ID: `MTY1MDI0Mzg3NCwwMDAwMDAwMGJlZTAwYWE3ZGNmODEwNjE5ZGFkMjI0NDcxZDhiYjM1`
+Snapshot ID: `MTY1MDI2Mzc2MiwwMDAwMDAwMGJlZTAwYWE3ZGNmODEwNjE5ZGFkMjI0NDcxZDhiYjM1`

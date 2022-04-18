@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Jazzy sounds for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,125 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,144 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [Two Chords & the Truth \- Soho Radio Vinyl Sessions](https://open.spotify.com/track/5zNvrpPnAq6vtBs1cr9APR) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd) | [Two Chords & the Truth \(Soho Radio Vinyl Sessions\)](https://open.spotify.com/album/3a9eoXTcYbI6A1uI9lDlNX) | 8:31 |
 | 100 | [Admas](https://open.spotify.com/track/1qiTJroqF1E7E3g86DFzGA) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Admas](https://open.spotify.com/album/1BCQEZMyrDv7N5sXdamtGD) | 3:49 |
 
-Snapshot ID: `MTY1MDI0NDE5OCwwMDAwMDAwMDI0NjQzNmJhZjdjZGZhNTg0YmM1ZjM1MjJkMmRmOGRi`
+Snapshot ID: `MTY1MDI2NDA5MCwwMDAwMDAwMDI0NjQzNmJhZjdjZGZhNTg0YmM1ZjM1MjJkMmRmOGRi`

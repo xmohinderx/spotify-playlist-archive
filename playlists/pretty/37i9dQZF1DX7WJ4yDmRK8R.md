@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,429 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,453 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 98 | [Out All Night](https://open.spotify.com/track/3W9A3mabvpFGbPJD2mQ69q) | [The Pietasters](https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn) | [Willis](https://open.spotify.com/album/0ADeHj23wdZ5PTreD28KJ9) | 3:16 |
 | 99 | [Your Way, Your Time](https://open.spotify.com/track/3BS3XXGm0TJfSbwGzoYzN6) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Your Way, Your Time](https://open.spotify.com/album/0kQ3Y5xmbEoeZKeOYQ1MVy) | 2:45 |
 
-Snapshot ID: `MTY1MDI0NDAyOSwwMDAwMDAwMDE3ZDBjOWZlZDUzNDEwNGQyZjJjZTYzYzgwMzE2MDVh`
+Snapshot ID: `MTY1MDI2MzkxOSwwMDAwMDAwMDE3ZDBjOWZlZDUzNDEwNGQyZjJjZTYzYzgwMzE2MDVh`

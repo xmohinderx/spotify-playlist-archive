@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life in your 250 sq ft micro apartment Cover: Loote & Jordy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,749 likes - 150 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,808 likes - 150 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 |
 | 150 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 |
 
-Snapshot ID: `MTY1MDI0NDE2NSwwMDAwMDAwMDc5Mjk2ZjAxODA0Y2Y3MTQ5OTg0MjA0NWI1ZDM1NDlj`
+Snapshot ID: `MTY1MDI2NDA1NywwMDAwMDAwMDc5Mjk2ZjAxODA0Y2Y3MTQ5OTg0MjA0NWI1ZDM1NDlj`

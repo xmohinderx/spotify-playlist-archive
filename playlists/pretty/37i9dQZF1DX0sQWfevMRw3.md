@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Gå loss till Spotifys fetaste festlåtar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,300 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,299 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 79 | [What You Like](https://open.spotify.com/track/2fkPBzNXh8a8vuJWVqdlxl) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [What You Like](https://open.spotify.com/album/17Abs1JhulRGTWtZpuTxgf) | 2:38 |
 | 80 | [Step\-Grandma](https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Step\-Grandma](https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy) | 2:40 |
 
-Snapshot ID: `MTY1MDI0MzgzNSwwMDAwMDAwMGZkMzFjM2YyMTZlYzcxODc1YzA4NWIyOWYxYjc0ZGI3`
+Snapshot ID: `MTY1MDI2MzcyMywwMDAwMDAwMGZkMzFjM2YyMTZlYzcxODc1YzA4NWIyOWYxYjc0ZGI3`

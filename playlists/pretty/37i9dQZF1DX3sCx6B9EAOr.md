@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > Tap your feet to the K\-Pop beats on your way through the driving moments\. \(시원한 국내음악들과 드라이빙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,815 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,822 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 49 | [Destiny](https://open.spotify.com/track/2TKNqo0RnO90Cfl2IAwDrh) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Light UP](https://open.spotify.com/album/00UNGSfgWWNow3i8cebDdu) | 3:05 |
 | 50 | [Together](https://open.spotify.com/track/66dUJM4UG2GSYD1DBFtMlX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 4:04 |
 
-Snapshot ID: `MTY1MDI0MzkyMiwwMDAwMDAwMDk3M2I5OTAyNTA3ODZmNTkxYjE4NTljNGRhMWUzMzVj`
+Snapshot ID: `MTY1MDI2MzgxMSwwMDAwMDAwMDk3M2I5OTAyNTA3ODZmNTkxYjE4NTljNGRhMWUzMzVj`

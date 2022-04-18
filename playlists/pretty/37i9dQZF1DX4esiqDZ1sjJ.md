@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,826 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,863 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 74 | [All Me](https://open.spotify.com/track/7y911sqgHGHcyU4ivapjwi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:30 |
 | 75 | [Trophies](https://open.spotify.com/track/4DXTwvIbilf8AUncEjgg9W) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire](https://open.spotify.com/album/3FTlw7Neeg4UXOZexmBbGX) | 3:08 |
 
-Snapshot ID: `MTY1MDI0Mzk0MywwMDAwMDAwMGQ0ZDc2ZjQ3ZTg5ZjIwYmM0NDhlZWM1NTk4YmIyYTQz`
+Snapshot ID: `MTY1MDI2MzgzMywwMDAwMDAwMGQ0ZDc2ZjQ3ZTg5ZjIwYmM0NDhlZWM1NTk4YmIyYTQz`

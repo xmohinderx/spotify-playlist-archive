@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,671 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,787 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 92 | [Cúrame \(feat\. Manuel Turizo\)](https://open.spotify.com/track/6rXxAohZzTDsP5KT3IDFIU) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cúrame \(feat\. Manuel Turizo\)](https://open.spotify.com/album/0BqAMr6G5Ag5xUNxxvmwpm) | 3:23 |
 | 93 | [Bellacoso](https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Bellacoso](https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG) | 4:17 |
 | 94 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
-| 95 | [Dame Banda](https://open.spotify.com/track/1ASpvbgcHh1QkWjNwXRpmG) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Dame Banda](https://open.spotify.com/album/2Tfx4vmVe84P1orl8NRbY3) | 4:04 |
+| 95 | [Dame Banda](https://open.spotify.com/track/1ASpvbgcHh1QkWjNwXRpmG) | [Mark B](https://open.spotify.com/artist/05nBA3EYRW7j7vwdMLBezM), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Dame Banda](https://open.spotify.com/album/2Tfx4vmVe84P1orl8NRbY3) | 4:04 |
 | 96 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
 | 97 | [En Cero](https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Cero](https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq) | 3:43 |
 | 98 | [TE SUPERÉ](https://open.spotify.com/track/2y6EbYibgxMVQ0T5YjZYWN) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:32 |
 | 99 | [Tun Tun](https://open.spotify.com/track/5Xhzsn8demSBBaHDSH6cou) | [Marko Silva](https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY), [Sophy Mell](https://open.spotify.com/artist/4IEPhZEgJXHdF23yZQlskd) | [Tun Tun](https://open.spotify.com/album/0LWE7xUu2wdsd9vTPu0nkr) | 3:11 |
 | 100 | [Caliente](https://open.spotify.com/track/0GZxyos431Goi9L1BYaxTU) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Victor Magan](https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO) | [Caliente](https://open.spotify.com/album/2ZAbAzsMjr8DQzKnEzdpav) | 3:00 |
 
-Snapshot ID: `MTY1MDI0Mzc0OCwwMDAwMDAwMDVmMDViMDUxY2Q2MGUwNzUwMjJiYzIwMjhmYjlkMzNk`
+Snapshot ID: `MTY1MDI2MzYzMiwwMDAwMDAwMDVmMDViMDUxY2Q2MGUwNzUwMjJiYzIwMjhmYjlkMzNk`

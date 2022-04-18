@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. NOAHFINNCE
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,206 likes - 57 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,219 likes - 57 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

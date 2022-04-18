@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Kevin Morby
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,876 likes - 150 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,884 likes - 150 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 150 | [Sun Song](https://open.spotify.com/track/70dpUh2T3Hx8JBDUc9Geel) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Warp and Weft](https://open.spotify.com/album/2vtvLFvSihkiqCnKlGIhcm) | 4:12 |
 
-Snapshot ID: `MTY1MDI0Mzg5MywwMDAwMDAwMDllNTBjNzkxOTU1NzdlOWM0Yzg2NTQwYTRhOTI2YzE0`
+Snapshot ID: `MTY1MDI2Mzc4MSwwMDAwMDAwMDllNTBjNzkxOTU1NzdlOWM0Yzg2NTQwYTRhOTI2YzE0`

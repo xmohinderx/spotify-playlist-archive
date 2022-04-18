@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,797,488 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797,479 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Was Magician](https://open.spotify.com/track/20xcvYtUr0U0W6dZTxiRKv) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4) | 4:26 |
 | 100 | [Feel Like Doing Nothing](https://open.spotify.com/track/6guJ3sa5BobA9Dgt3iIzmr) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Feel Like Doing Nothing](https://open.spotify.com/album/6PBqTwv2QRK0QFtBlkDrLo) | 2:32 |
 
-Snapshot ID: `MTY1MDI0NDE3MCwwMDAwMDAwMDZmZTk3OWMzMmQ2MDJlZTFjMmYwMDkzYmQ1NmQxN2Y4`
+Snapshot ID: `MTY1MDI2NDA2MiwwMDAwMDAwMDZmZTk3OWMzMmQ2MDJlZTFjMmYwMDkzYmQ1NmQxN2Y4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover:  JAY\-Z & Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,747 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,813 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 49 | [Down](https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:52 |
 | 50 | [Play Me \(feat\. Nas\)](https://open.spotify.com/track/6ODYbfpkSM3AiZ0Fz4V5Ls) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:21 |
 
-Snapshot ID: `MTY1MDI0NDA0NCwwMDAwMDAwMDhjNzljMmFmOGRlY2M2NWZhY2EzMDVmNjJjYzBlOWRk`
+Snapshot ID: `MTY1MDI2MzkzNiwwMDAwMDAwMDhjNzljMmFmOGRlY2M2NWZhY2EzMDVmNjJjYzBlOWRk`

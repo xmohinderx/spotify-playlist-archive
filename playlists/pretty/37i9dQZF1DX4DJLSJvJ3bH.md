@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 69 | [Christmas In New Orleans](https://open.spotify.com/track/4Jj3HUcLGj0ysrJRmtgN3a) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Best Of / 20th Century \- Christmas](https://open.spotify.com/album/6ZDopFxyk160WEpKuIuhUq) | 2:54 |
 | 70 | [Blue Christmas](https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Jazz Christmas](https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc) | 3:50 |
 
-Snapshot ID: `MTY1MDI0MzkyOSwwMDAwMDAwMDg0YmMyZjg0ZGQwNDJkMDNhN2E1OWEwZTA0NjBiNTRi`
+Snapshot ID: `MTY1MDI2MzgxOSwwMDAwMDAwMDg0YmMyZjg0ZGQwNDJkMDNhN2E1OWEwZTA0NjBiNTRi`

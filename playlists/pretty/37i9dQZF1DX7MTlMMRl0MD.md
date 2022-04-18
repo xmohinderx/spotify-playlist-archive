@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata\. Cover: Prince Royce, Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,572 likes - 130 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800,586 likes - 130 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 129 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
 | 130 | [La Carretera](https://open.spotify.com/track/31q1SLZZJZkdXENljyG1xC) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [La Carretera](https://open.spotify.com/album/3U0yfBQFTl1LsSc1Esgwlt) | 3:58 |
 
-Snapshot ID: `MTY1MDI0NDAyNiwwMDAwMDAwMDI4MzkyNDYwNjI2YWVlZjJiOThmM2NlMWM5NDE3MGVh`
+Snapshot ID: `MTY1MDI2MzkxNiwwMDAwMDAwMDI4MzkyNDYwNjI2YWVlZjJiOThmM2NlMWM5NDE3MGVh`

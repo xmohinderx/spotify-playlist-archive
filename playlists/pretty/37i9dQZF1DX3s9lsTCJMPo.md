@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,825 likes - 80 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,840 likes - 80 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Saltfish](https://open.spotify.com/track/22XLpzseYhfFJwQ2IzV5ju) | [Mighty Sparrow](https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w) | [Dirty Old Man](https://open.spotify.com/album/0OM6w3tEHCJgbCzS5PsBZI) | 6:41 |
 | 80 | [Defense \(The Anthem\) \(feat\. Lil Jon\)](https://open.spotify.com/track/4XfHo2SjVk7c6WeVxPDMYK) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Wining Season](https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW) | 4:21 |
 
-Snapshot ID: `MTY1MDI0MzkyMiwwMDAwMDAwMDcyZjQ2ZGRjN2U4MzI0MTZjOGI0MmFjYzQ2MTUyY2Ri`
+Snapshot ID: `MTY1MDI2MzgxMSwwMDAwMDAwMDcyZjQ2ZGRjN2U4MzI0MTZjOGI0MmFjYzQ2MTUyY2Ri`

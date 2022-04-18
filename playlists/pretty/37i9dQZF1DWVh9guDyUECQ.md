@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Tommy Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,812 likes - 79 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,827 likes - 79 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 78 | [Nunca Falla](https://open.spotify.com/track/4WtMkMrx0TjClTRVq3zbCB) | [Martin Alonso](https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5) | [Nunca Falla](https://open.spotify.com/album/0fJ7GvVt5mAbYmF6zskbNu) | 2:59 |
 | 79 | [Te Amo](https://open.spotify.com/track/4AsMWEUctX6jWcADHOoxR8) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Te Amo](https://open.spotify.com/album/3SeqaHkucZVCWkfyKaOnbt) | 3:52 |
 
-Snapshot ID: `MTY1MDI0MzY4NCwwMDAwMDAwMGVlN2Y0ZGRhY2NhOWU2NWMwOWY4YjI4Mzc0ZWJiNGQy`
+Snapshot ID: `MTY1MDI2MzU2NywwMDAwMDAwMGVlN2Y0ZGRhY2NhOWU2NWMwOWY4YjI4Mzc0ZWJiNGQy`

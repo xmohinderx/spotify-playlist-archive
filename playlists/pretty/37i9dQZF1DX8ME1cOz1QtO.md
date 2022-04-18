@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,149 likes - 100 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,169 likes - 100 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Crystal Petals](https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 3:20 |
 | 100 | [Lake of the Ozarks](https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Cusco 2](https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c) | 3:48 |
 
-Snapshot ID: `MTY1MDI0NDA0OCwwMDAwMDAwMDE0ZjYyY2Q4M2EyNzc0MmMwZjA0MTg4NGYzMTFlM2Qx`
+Snapshot ID: `MTY1MDI2Mzk0MCwwMDAwMDAwMDE0ZjYyY2Q4M2EyNzc0MmMwZjA0MTg4NGYzMTFlM2Qx`

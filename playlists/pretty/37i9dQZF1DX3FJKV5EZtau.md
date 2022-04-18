@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electro tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,897 likes - 124 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,958 likes - 124 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 123 | [にんじゃりばんばん \- Steve Aoki Remix](https://open.spotify.com/track/63zI1T8oiM3bUsXHPvqCrM) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [にんじゃりばんばん \(Steve Aoki Remix\)](https://open.spotify.com/album/4T21ATsOd8A4wYDnCIZ9LR) | 3:36 |
 | 124 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 |
 
-Snapshot ID: `MTY1MDI0MzkwNCwwMDAwMDAwMDUzYmRkZTk5MjY0NmEzM2JjNDQ5YWE2MWNmMWJmNTg2`
+Snapshot ID: `MTY1MDI2Mzc5MywwMDAwMDAwMDUzYmRkZTk5MjY0NmEzM2JjNDQ5YWE2MWNmMWJmNTg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4osfY3zybD2.md) - [plain]
 
 > Up for a nostalgic running session that brings a smile to your face? Press play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,147 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,165 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4osfY3zybD2.md) - [plain]
 | 49 | [Paint It, Black](https://open.spotify.com/track/1Xdhp215nsdETJ17AtC7ve) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Big Hits \(High Tide and Green Grass\)](https://open.spotify.com/album/2tiqjQAPpu7wgGfbskbhaw) | 3:22 |
 | 50 | [Living in America \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/4hgAcBgycjmEbvvwsaOcZr) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Rocky Story](https://open.spotify.com/album/5SPoOMzF5s2ff8LJ2W6oyH) | 4:42 |
 
-Snapshot ID: `MTY1MDI0Mzk0OCwwMDAwMDAwMDc1ZjU4NjJiZTY0M2MyMTQ2ZmNhZWZmY2QxNGNhYjEz`
+Snapshot ID: `MTY1MDI2MzgzOCwwMDAwMDAwMDc1ZjU4NjJiZTY0M2MyMTQ2ZmNhZWZmY2QxNGNhYjEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,144,701 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,144,699 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [Back To You](https://open.spotify.com/track/6ZCPLvXEuf5z9Wgq7EbGS8) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U) | [Back To You](https://open.spotify.com/album/6vSkr0mGh0HScG1rBFgBjj) | 2:56 |
 | 100 | [Over](https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Over](https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh) | 2:38 |
 
-Snapshot ID: `MTY1MDI0Mzg5NywwMDAwMDAwMDg5Y2I3YTM1ODcyYTRlYjM3ZjE4ZDk5OWMzOTE4NmI5`
+Snapshot ID: `MTY1MDI2Mzc4NSwwMDAwMDAwMDg5Y2I3YTM1ODcyYTRlYjM3ZjE4ZDk5OWMzOTE4NmI5`

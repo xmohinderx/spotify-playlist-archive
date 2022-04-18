@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Flor Amargo y Michelle Rodriguez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,643 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,662 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [El Amar Y El Querer](https://open.spotify.com/track/5qRyfjbD4VV4ZXciES4bf5) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mi Historia \- Pepe Aguilar](https://open.spotify.com/album/3ObKsP3cZfzfZ3PqeRqQCn) | 4:22 |
 | 100 | [Perfume de Gardenia \(with Alejandro Fernández\)](https://open.spotify.com/track/29Jjqh0aEF2GG06fl5AKpv) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Nuestro Aniversario](https://open.spotify.com/album/46JRqOqaXFKy27NSbiSx7y) | 3:09 |
 
-Snapshot ID: `MTY1MDI0Mzc2NiwwMDAwMDAwMGQwOGUwZmQyYTg1ZjY5MThlOGYxYjYxYmQ0Yzg3Mzcw`
+Snapshot ID: `MTY1MDI2MzY1MCwwMDAwMDAwMGQwOGUwZmQyYTg1ZjY5MThlOGYxYjYxYmQ0Yzg3Mzcw`

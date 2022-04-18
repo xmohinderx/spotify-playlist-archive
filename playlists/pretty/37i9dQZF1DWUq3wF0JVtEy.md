@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out\. Cover: Öwnboss & Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,684 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,714 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 |
 | 100 | [Wish You Were Here \(feat\. Brandyn Burnette\)](https://open.spotify.com/track/0GevQZGBPYjfPzK8e3jxzl) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [Wish You Were Here \(feat\. Brandyn Burnette\)](https://open.spotify.com/album/56jh1XYw5wQcXmcnR46LRA) | 2:53 |
 
-Snapshot ID: `MTY1MDI0MzY2MiwwMDAwMDAwMDQxMGY2ODMyNjZjNjhiMTMwM2Y4ZTVlNTQwNWM1OWRh`
+Snapshot ID: `MTY1MDI2MzU0NSwwMDAwMDAwMDQxMGY2ODMyNjZjNjhiMTMwM2Y4ZTVlNTQwNWM1OWRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > A celebration of contemporary Ambient music produced by Japanese artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,928 likes - 94 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,932 likes - 94 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

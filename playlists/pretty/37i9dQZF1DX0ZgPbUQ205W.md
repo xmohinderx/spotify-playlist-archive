@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Relaxing sounds of modern jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,564 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,573 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [IX\. waiting](https://open.spotify.com/track/02Yn3VzHXqt7AR05dHbdkY) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Suite: April 2020](https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4) | 3:14 |
 | 100 | [Dust Motes Dancing In The Sunbeams \(Hammershøi\)](https://open.spotify.com/track/1lIXjtM3QvNgF7nmG8rSG4) | [Jakob Davidsen](https://open.spotify.com/artist/2uaSwkD4g1H5BYouNo4BL8), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Jesper Egelund](https://open.spotify.com/artist/3dvSTjrR6LGBW2LSkVpHnD) | [Silence Trio 3](https://open.spotify.com/album/4YJtOu1l3UMvkeXGz7AmSf) | 5:03 |
 
-Snapshot ID: `MTY1MDI0MzgyOCwwMDAwMDAwMGFiNzBkMzhlMmExYjVkYThhZjdhOWRkZDNjNmY4YjEw`
+Snapshot ID: `MTY1MDI2MzcxNSwwMDAwMDAwMGFiNzBkMzhlMmExYjVkYThhZjdhOWRkZDNjNmY4YjEw`

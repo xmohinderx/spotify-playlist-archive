@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,147 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,154 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Drop Dead](https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Night Terrors](https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5) | 3:33 |
 | 100 | [Out Of The Blue](https://open.spotify.com/track/7fVjzWzmE7236Fq7wdmKja) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Primrose Path](https://open.spotify.com/album/6HpwFzL9Ogqu9MEgtEZpry) | 3:37 |
 
-Snapshot ID: `MTY1MDI0MzkxNSwwMDAwMDAwMGFiMTA0ZDM5ZTA0MzIyZjk5MzA2MTg4MDNkNWNiOTUz`
+Snapshot ID: `MTY1MDI2MzgwNCwwMDAwMDAwMGFiMTA0ZDM5ZTA0MzIyZjk5MzA2MTg4MDNkNWNiOTUz`

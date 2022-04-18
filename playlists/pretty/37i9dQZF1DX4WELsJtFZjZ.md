@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,813 likes - 150 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,930 likes - 150 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [China In Your Hand](https://open.spotify.com/track/0ow5yxh0ouMJ0om8EyEt8P) | [T'Pau](https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC) | [Bridge Of Spies](https://open.spotify.com/album/4SPn8H4z20nwhB2Srcal6T) | 5:06 |
 | 150 | [Come Back To Me](https://open.spotify.com/track/5EBWCGlCn65HM8Hglrc5V1) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE) | 5:32 |
 
-Snapshot ID: `MTY1MDI0MzkzOCwwMDAwMDAwMDU4MzNhYmJkOWNjZWM5MWFkYzM4NzU5NzNiODRiMTc2`
+Snapshot ID: `MTY1MDI2MzgyOCwwMDAwMDAwMDU4MzNhYmJkOWNjZWM5MWFkYzM4NzU5NzNiODRiMTc2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb54TOYHv7Df.md) - [plain]
 
 > Songs from the 00s that made you sing and dance all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,888 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb54TOYHv7Df.md) - [plain]
 | 79 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
 | 80 | [Beautiful Liar](https://open.spotify.com/track/2HWWNoWEEEECwZhAiLg7ib) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:19 |
 
-Snapshot ID: `MTY1MDI0NDEyOCwwMDAwMDAwMDZlNmVjNGI2ZGM1NzQ5YTQ3ZGQ1OTc2OGI1NTJjZGZl`
+Snapshot ID: `MTY1MDI2NDAyMCwwMDAwMDAwMDZlNmVjNGI2ZGM1NzQ5YTQ3ZGQ1OTc2OGI1NTJjZGZl`

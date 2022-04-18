@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zoe Wees, YUNGBLUD, and FLETCHER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,852 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,855 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/track/4677jRCDMa05jcA94EQ0hG) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/album/2uAuylgnp2HX5mLl3M5OW1) | 2:53 |
 | 150 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 |
 
-Snapshot ID: `MTY1MDI0MzgwNCwwMDAwMDAwMGEyNzU1OTNiMjVmNjgzNWFiODE0ZjAyOWU4YjhjYmU2`
+Snapshot ID: `MTY1MDI2MzY5MCwwMDAwMDAwMGEyNzU1OTNiMjVmNjgzNWFiODE0ZjAyOWU4YjhjYmU2`

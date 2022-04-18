@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > A "screw this" type beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,269 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,439 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 49 | [Bad Day](https://open.spotify.com/track/3RQV4hjFQ13ygBpxKBetz7) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Bad Day](https://open.spotify.com/album/603KX3A1gnMNs5CVakxZXW) | 2:33 |
 | 50 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 
-Snapshot ID: `MTY1MDI0Mzc1NSwwMDAwMDAwMDQ1ZDM2MGU0MTY3MDk2MTA1M2E3ODI3OTczYzNkYWY0`
+Snapshot ID: `MTY1MDI2MzYzOSwwMDAwMDAwMDQ1ZDM2MGU0MTY3MDk2MTA1M2E3ODI3OTczYzNkYWY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 
 > Enter the Skate Shop for soulful & gritty hip\-hop
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,481 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,635 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 99 | [Nuhood](https://open.spotify.com/track/2GCxPh9kEXAbCfC5AqCRgQ) | [Fresh Daily](https://open.spotify.com/artist/149uYnRRWb0kMLiuCw1FTp), [Dominic Missana](https://open.spotify.com/artist/4ooxQ8qSWrWywnECEtuEvL) | [The Quiet Life 2](https://open.spotify.com/album/4DwCFYp3bOY14Ml36KHni3) | 3:11 |
 | 100 | [Triumph](https://open.spotify.com/track/6RVz7IaTnJ2WlCTwZtLWjV) | [Phro.](https://open.spotify.com/artist/5YXHkRQUQU314daYoZDI9n), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h) | [Guilty by Association](https://open.spotify.com/album/3vp7dQjVqhFJOta2G5LHt8) | 2:49 |
 
-Snapshot ID: `MTY1MDI0Mzg3OSwwMDAwMDAwMDNjYzM0OGU0MDMwMmMxOTcxNmEzNmQ0YzQ5MjBmYjM2`
+Snapshot ID: `MTY1MDI2Mzc2NywwMDAwMDAwMDNjYzM0OGU0MDMwMmMxOTcxNmEzNmQ0YzQ5MjBmYjM2`

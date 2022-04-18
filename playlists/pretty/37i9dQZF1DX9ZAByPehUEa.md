@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,274 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,292 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Oh Yes It Is](https://open.spotify.com/track/0iOCLnMNLEdKF94pk4JBIs) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Oh Yes It Is](https://open.spotify.com/album/4WBrhczoep13We6xg8UPT7) | 3:24 |
 | 50 | [Thank You \- Jax Jones Remix](https://open.spotify.com/track/77PHaOlBrM9krYHIl39LAo) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Thank You \(Jax Jones Remix\)](https://open.spotify.com/album/3ySavJtPwv3onVluixQuIK) | 3:47 |
 
-Snapshot ID: `MTY1MDI0NDA4NCwwMDAwMDAwMGQwODdjNWIzODAxMzg5MjAxZWE5NzU2ZDM1NjExMzcx`
+Snapshot ID: `MTY1MDI2Mzk3NiwwMDAwMDAwMGQwODdjNWIzODAxMzg5MjAxZWE5NzU2ZDM1NjExMzcx`

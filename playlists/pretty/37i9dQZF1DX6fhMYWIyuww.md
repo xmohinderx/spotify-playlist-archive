@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,262 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,284 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Love Is the Answer](https://open.spotify.com/track/2jto2mk883akXynLqkdung) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Dr\. Heckle & Mr\. Jive](https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h) | 4:44 |
 | 80 | [I'm a Camera](https://open.spotify.com/track/6XbA5gVGJlza8v7ebAbUZ1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Blue Desert](https://open.spotify.com/album/6qSJ3fzXH9d3AWfuhbNcf6) | 3:47 |
 
-Snapshot ID: `MTY1MDI0NDAwNSwwMDAwMDAwMGI4N2M0NmIxNzEwYmIyMDI0NzFlNjkwZWI1M2FkNDU3`
+Snapshot ID: `MTY1MDI2Mzg5NiwwMDAwMDAwMGI4N2M0NmIxNzEwYmIyMDI0NzFlNjkwZWI1M2FkNDU3`

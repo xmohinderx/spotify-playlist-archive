@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,748 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,755 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Kittiwakes In Gusts](https://open.spotify.com/track/1MhVC3xbue4U1YOZR7stow) | [Hedvig Mollestad](https://open.spotify.com/artist/7LO6x1uZjAWL1y1kqmadm8) | [Tempest Revisited](https://open.spotify.com/album/19G1RgWBIVSW453nq3wqRR) | 6:39 |
 | 50 | [Whippersnapper](https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf) | [Wayne Krantz](https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig) | [Two Drink Minimum](https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP) | 6:47 |
 
-Snapshot ID: `MTY1MDI0NDA3OSwwMDAwMDAwMDJiMmUwZDRmZTA0MGE2N2RmZjA1M2UyMzM1M2I3MjJj`
+Snapshot ID: `MTY1MDI2Mzk3MSwwMDAwMDAwMDJiMmUwZDRmZTA0MGE2N2RmZjA1M2UyMzM1M2I3MjJj`

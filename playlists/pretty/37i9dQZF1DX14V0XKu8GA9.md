@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: DAISY SIMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,014 likes - 69 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,026 likes - 69 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 68 | [Dead Homies](https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Dead Homies](https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY) | 2:52 |
 | 69 | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc) | 2:26 |
 
-Snapshot ID: `MTY1MDI0Mzg0MSwwMDAwMDAwMDY2ZmE5M2I4ZDFmMjgxNjE2Mjk4MDIwYmMxMjJhZjQx`
+Snapshot ID: `MTY1MDI2MzcyOSwwMDAwMDAwMDY2ZmE5M2I4ZDFmMjgxNjE2Mjk4MDIwYmMxMjJhZjQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > <a href="https://open.spotify.com/show/6J0BSU2FxWt9kndbiLPwXs?si=c697797f48374d00">Peak 2000s</a> throwing it all the way back\. That’s hot.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,244 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,367 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [SOS](https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:58 |
 | 100 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MTY1MDI0Mzk5NiwwMDAwMDAwMDY2ODYyODAzZTE0YmFjNzIyYzk0YmYxMWNlYzI5NzQy`
+Snapshot ID: `MTY1MDI2Mzg4NywwMDAwMDAwMDY2ODYyODAzZTE0YmFjNzIyYzk0YmYxMWNlYzI5NzQy`

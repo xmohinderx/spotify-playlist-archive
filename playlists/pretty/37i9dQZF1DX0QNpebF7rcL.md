@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Walter Trout
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,347 likes - 112 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,349 likes - 112 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

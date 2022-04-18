@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvAMsEfpIPP.md) - [plain]
 
 > Noisy spoken words \- radical and experimental\. Cover: Moor Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,283 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,289 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvAMsEfpIPP.md) - [plain]
 | 49 | [Zulu Warrior](https://open.spotify.com/track/0pP1lYJE7NxRQVM09eB1V3) | [Menzi](https://open.spotify.com/artist/0us3Osmp1y1uKHBsGFlNuw) | [Impazamo](https://open.spotify.com/album/2hTm2DE2jIFU9CVfbG6LNR) | 3:18 |
 | 50 | [Think I Didn't](https://open.spotify.com/track/2VQAVoWm1WWmWwEmWl6NxE) | [DJ Pitch](https://open.spotify.com/artist/6gnPiTUdUPttmm5N8j7Rvy) | [It's Not What You Said, It's Because You Spoke](https://open.spotify.com/album/2nUMv0rGOYvmQGwIrbQQ1u) | 3:09 |
 
-Snapshot ID: `MTY1MDI0MzYzOCwwMDAwMDAwMDU1NDE1MDQwYzI5OTUxNTczNTkyYTc5NTE2N2M1ZGY3`
+Snapshot ID: `MTY1MDI2MzUyMCwwMDAwMDAwMDU1NDE1MDQwYzI5OTUxNTczNTkyYTc5NTE2N2M1ZGY3`

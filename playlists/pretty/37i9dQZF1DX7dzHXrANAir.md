@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,231 likes - 80 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,248 likes - 80 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Familiar](https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt) | [Unfold \(XXIM:EXPO \#2\)](https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu) | 3:38 |
 | 80 | [Super Hexacordum \- Ensemb7e Version](https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ) | [Chapelier Fou](https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd) | [Ensemb7e](https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU) | 5:18 |
 
-Snapshot ID: `MTY1MDI0NDAzMywwMDAwMDAwMDYxYWRkNzgwODZhMjdiZDM0MWJjZGY1ODM4ZDU1Yzcx`
+Snapshot ID: `MTY1MDI2MzkyMywwMDAwMDAwMDYxYWRkNzgwODZhMjdiZDM0MWJjZGY1ODM4ZDU1Yzcx`

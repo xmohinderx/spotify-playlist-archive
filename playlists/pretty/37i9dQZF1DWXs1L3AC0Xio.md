@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > Chill out with these awesome rock ballads\. Cover: <a href="spotify:artist:6Wr3hh341P84m3EI8qdn9O">Rise Against</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,646 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,669 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 99 | [All I Need](https://open.spotify.com/track/2FPHOduj8yJPDOadAOqVm5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/7BVYAnGLAZF7SFYYl4Zh8t) | 4:50 |
 | 100 | [For You](https://open.spotify.com/track/053IpBG54eZGst2seKHB6g) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Order of Things](https://open.spotify.com/album/2FEipsYdFjBLk2XlqkyiLJ) | 4:16 |
 
-Snapshot ID: `MTY1MDI0Mzc1MSwwMDAwMDAwMDFiNmY1NmI3ZmFkOTExMzI5MzljYjhlMWU3ZTZhYjBi`
+Snapshot ID: `MTY1MDI2MzYzNiwwMDAwMDAwMDFiNmY1NmI3ZmFkOTExMzI5MzljYjhlMWU3ZTZhYjBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,595 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,785 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 74 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 75 | [Just Like My \- TAYE//PAL Remix](https://open.spotify.com/track/2AFFsdgv6ma6kkM3pOlvUH) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c), [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01) | [Helium Remixes](https://open.spotify.com/album/2AZXmJyhqaOues0Y53jbgg) | 5:40 |
 
-Snapshot ID: `MTY1MDI0NDA3NCwwMDAwMDAwMGY1ZGQ0NzJjM2Q4ZmZhM2Y4YzY1YzBhMzBhOWVjMGIy`
+Snapshot ID: `MTY1MDI2Mzk2NiwwMDAwMDAwMGY1ZGQ0NzJjM2Q4ZmZhM2Y4YzY1YzBhMzBhOWVjMGIy`

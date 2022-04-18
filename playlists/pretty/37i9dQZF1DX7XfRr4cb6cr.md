@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,773 likes - 80 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,826 likes - 80 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 79 | [Ljusdal](https://open.spotify.com/track/7xr2Gkl3u6gOVa11PPBr1J) | [Marko Nyberg](https://open.spotify.com/artist/5qd3TA4AmPNW90byfRefks) | [Ingrid EP](https://open.spotify.com/album/5795LZIYAuces2kT5rXibb) | 5:08 |
 | 80 | [Långt under noll](https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Radio Mnemosyne](https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y) | 6:22 |
 
-Snapshot ID: `MTY1MDI0NDAyOSwwMDAwMDAwMGI5OWI0Y2M1YWViMzViM2FhODhiYjk2MWEyYzcxMDk1`
+Snapshot ID: `MTY1MDI2MzkyMCwwMDAwMDAwMGI5OWI0Y2M1YWViMzViM2FhODhiYjk2MWEyYzcxMDk1`

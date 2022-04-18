@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Lose My Mind](https://open.spotify.com/track/2LWFPBG7hlEpMy2b2LUu5A) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Lose My Mind](https://open.spotify.com/album/2BrxPQma5BEjt6Vd8usUS9) | 2:31 |
 | 60 | [Your Eyes](https://open.spotify.com/track/2esaWj2n6a6u8lgJTHErlH) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF), [Fake ID](https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3) | [Your Eyes](https://open.spotify.com/album/337NON7xbqCxEQQiSHNyvO) | 2:33 |
 
-Snapshot ID: `MTY1MDI0MzgxMCwwMDAwMDAwMDY1NGViNDQ1YTEwZmI1YjY2MzdlMmU4MzBjNmVjOTc3`
+Snapshot ID: `MTY1MDI2MzY5NiwwMDAwMDAwMDY1NGViNDQ1YTEwZmI1YjY2MzdlMmU4MzBjNmVjOTc3`

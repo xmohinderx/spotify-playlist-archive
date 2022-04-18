@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: Swan\(수안\)\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,087 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,107 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [LONG SLEEP](https://open.spotify.com/track/4ceMxOgJSdfHT2Tehd6L0w) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BUSY DOING NOTHING](https://open.spotify.com/album/04MdUslmkxO6q1SHeqBYx2) | 3:25 |
 | 52 | [What I want to say \(feat\. Kyoung Mi Choi\)](https://open.spotify.com/track/5s4fDRk47TQynFOTS09dJU) | [Hozee](https://open.spotify.com/artist/0UuQPB2dNkEpProkJuixZo), [Kyoung Mi Choi](https://open.spotify.com/artist/1fbb9GhUL4UNeh7x7NApJE) | [What I want to say](https://open.spotify.com/album/6Hf7qNGWOADauTKMPhokdq) | 2:38 |
 
-Snapshot ID: `MTY1MDI0Mzg2NiwwMDAwMDAwMGNmMzFkOGQ0NzdiYmUyZmE3YzU1Yzc2YmM4MTU4OWZi`
+Snapshot ID: `MTY1MDI2Mzc1NSwwMDAwMDAwMGNmMzFkOGQ0NzdiYmUyZmE3YzU1Yzc2YmM4MTU4OWZi`

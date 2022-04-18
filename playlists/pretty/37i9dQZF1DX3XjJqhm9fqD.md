@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Bibi Bourelly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,609 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,614 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Sil Pa Nou Li Pa Bon](https://open.spotify.com/track/2cS5AMXcUxR508fCt47jYP) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Sil Pa Nou Li Pa Bon](https://open.spotify.com/album/0AZTNwOGb4dKzz5ztcIxPq) | 3:50 |
 | 100 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 
-Snapshot ID: `MTY1MDI0MzkxMywwMDAwMDAwMGYzYjhmZTc4MTJiN2M5YzFiMzAyMDlhNzg5OGIzOTQ3`
+Snapshot ID: `MTY1MDI2MzgwMiwwMDAwMDAwMGYzYjhmZTc4MTJiN2M5YzFiMzAyMDlhNzg5OGIzOTQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: Iveth Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,819 likes - 99 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,844 likes - 99 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Favor & Gracia](https://open.spotify.com/track/39ptvPFXNkrNUTMFmxj9ir) | [Kabed](https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g), [Abner Himely Oficial](https://open.spotify.com/artist/2PnCPlb32E8jOabHbri8GM) | [Favor & Gracia](https://open.spotify.com/album/7DftaOdyfraRMyYJlc2c2Q) | 10:39 |
 | 99 | [El Cielo Lloró](https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM) | [Proyecto 67](https://open.spotify.com/artist/5KRzlmC8PZJvfvbM9cCNTW) | [El Cielo Lloró](https://open.spotify.com/album/6Hf4LJ5XHn65JVzpurhhPD) | 4:39 |
 
-Snapshot ID: `MTY1MDI0NDE2OCwwMDAwMDAwMGUyM2Q0MDMxNWVkOWMyNDU1YzkxYzM5N2Y2MTMxMDgx`
+Snapshot ID: `MTY1MDI2NDA2MCwwMDAwMDAwMGUyM2Q0MDMxNWVkOWMyNDU1YzkxYzM5N2Y2MTMxMDgx`

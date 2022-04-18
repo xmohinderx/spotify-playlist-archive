@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,264,614 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264,702 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 99 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
 | 100 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/3i8ZkeKgwu1t4m8SPPzNvv) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/3YAuwXRFAF5SrmVXkooedB) | 3:19 |
 
-Snapshot ID: `MTY1MDI0Mzk2MywwMDAwMDAwMDgxOTQxNzUzN2ZhMTUyMjA1YWNiNDcxN2E3ZTY5NWU1`
+Snapshot ID: `MTY1MDI2Mzg1NCwwMDAwMDAwMDgxOTQxNzUzN2ZhMTUyMjA1YWNiNDcxN2E3ZTY5NWU1`

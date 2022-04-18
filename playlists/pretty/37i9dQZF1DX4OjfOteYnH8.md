@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OjfOteYnH8.md) - [plain]
 
 > Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Farina, Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,213 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,224 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OjfOteYnH8.md) - [plain]
 | 49 | [Loco Por Perrearte](https://open.spotify.com/track/2KNeDbgymVCUJmP6PJQ4Bx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Loco Por Perrearte](https://open.spotify.com/album/5dD5GnMkozTvrcsqD1T97a) | 3:14 |
 | 50 | [Guay](https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Guay](https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR) | 3:17 |
 
-Snapshot ID: `MTY1MDI0MzkzMywwMDAwMDAwMGMwYjZmMDQ5MGJhYTdmYWZkNGE2N2E0NzUxNDBkMjky`
+Snapshot ID: `MTY1MDI2MzgyMywwMDAwMDAwMGMwYjZmMDQ5MGJhYTdmYWZkNGE2N2E0NzUxNDBkMjky`

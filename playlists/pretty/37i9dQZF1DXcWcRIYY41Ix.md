@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Perotá Chingó
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,448 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,466 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Bajo el Sol](https://open.spotify.com/track/1NRdxh5Zl1Az79W9Z9NO5X) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Bajo el Sol](https://open.spotify.com/album/4WWqEiDQgLONs0riUE0jw7) | 4:16 |
 | 100 | [Acepto](https://open.spotify.com/track/0zqNBJ162qCK8oupuvzPt2) | [Paula Grande](https://open.spotify.com/artist/6NRB0LxYAAYKtbSOTB7m8M) | [Acepto](https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK) | 3:19 |
 
-Snapshot ID: `MTY1MDI0NDE2MywwMDAwMDAwMDVhNGFjMThhMDQ4MjM0NzVhMzk0MjE3ZDdiNTI1ZWNm`
+Snapshot ID: `MTY1MDI2NDA1NSwwMDAwMDAwMDVhNGFjMThhMDQ4MjM0NzVhMzk0MjE3ZDdiNTI1ZWNm`

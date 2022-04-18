@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Los Bunkers
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,129 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,172 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 99 | [Metro balderas](https://open.spotify.com/track/6ShfvZJYI3GSdaNaQ1bMVR) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 |
 | 100 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 |
 
-Snapshot ID: `MTY1MDI0Mzc5NywwMDAwMDAwMDcxMDFkYmEwNTg1N2U0NzdmNzllMGE3MjkwZTVhYzc4`
+Snapshot ID: `MTY1MDI2MzY4MywwMDAwMDAwMDcxMDFkYmEwNTg1N2U0NzdmNzllMGE3MjkwZTVhYzc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the sweetest voices in Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,666 likes - 200 songs - 13 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,694 likes - 200 songs - 13 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Nice Work If You Can Get It](https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM) | [Kristina Ray](https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU) | 3:25 |
 | 200 | [Always on my mind](https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Always on my mind](https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL) | 3:31 |
 
-Snapshot ID: `MTY1MDI0MzcwNiwwMDAwMDAwMDYzODc2ZDI0MWFkOTRhODVlMTk2ZjgwZTNmMDIxZGU2`
+Snapshot ID: `MTY1MDI2MzU4OSwwMDAwMDAwMDYzODc2ZDI0MWFkOTRhODVlMTk2ZjgwZTNmMDIxZGU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,313 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,366 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 79 | [How to Fall in Love in a Pandemic \(Music for a Short Film\)](https://open.spotify.com/track/7upguSfQ3tXlymVbMb6784) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [How to Fall in Love in a Pandemic \(Music for a Short Film\)](https://open.spotify.com/album/6Nm5OND1eSWPMJMSUiLeCc) | 3:27 |
 | 80 | [Balcony Hotel \- From 'Miss'](https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Balcony Hotel \(From 'Miss'\)](https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz) | 2:48 |
 
-Snapshot ID: `MTY1MDI0MzYwNywwMDAwMDAwMDY0ZjI4ZjgxMmM3MjYyODNlNWJkMWZlNjgwMjEwZmI1`
+Snapshot ID: `MTY1MDI2MzQ4OSwwMDAwMDAwMDY0ZjI4ZjgxMmM3MjYyODNlNWJkMWZlNjgwMjEwZmI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 
 > ¡Prende tu fiesta con música de Coldplay, y el mejor pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,171 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,182 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 | 99 | [Enloquéceme](https://open.spotify.com/track/1A8xWKu8YBSgaUQw21Ncvx) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 4:08 |
 | 100 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 |
 
-Snapshot ID: `MTY1MDI0NDIwNiwwMDAwMDAwMDMwNDk0Yzc3MTgwMWY3MDFlMDZjYjQ2YWYxYTQwYjJl`
+Snapshot ID: `MTY1MDI2NDA5OSwwMDAwMDAwMDMwNDk0Yzc3MTgwMWY3MDFlMDZjYjQ2YWYxYTQwYjJl`

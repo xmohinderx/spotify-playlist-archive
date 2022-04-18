@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Coast Contra
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,832 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,866 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Hood Blues \(feat\. Westside Gunn, Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/2gFD8UPaAcuNfz7Lrwd0Bp) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Hood Blues](https://open.spotify.com/album/6B7qtytx2HbSpqRWXbgxmR) | 4:36 |
 | 50 | [Attention Span](https://open.spotify.com/track/4E7RVxfUznLcNl6ozaCC4w) | [Gotham](https://open.spotify.com/artist/07mQeuxtChKZWF8tvaIIVr), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Skyzoo](https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc) | [Attention Span](https://open.spotify.com/album/3XSLSXBtncN19a6uP0qfJ4) | 2:37 |
 
-Snapshot ID: `MTY1MDI0MzU5NSwwMDAwMDAwMDhlNWRiYmE2OTgzNTY3YjNlNzVlOThmNGZiYWFkMjBh`
+Snapshot ID: `MTY1MDI2MzQ3NywwMDAwMDAwMDhlNWRiYmE2OTgzNTY3YjNlNzVlOThmNGZiYWFkMjBh`

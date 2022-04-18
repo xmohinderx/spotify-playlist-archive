@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,975 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,976 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 109 | [Say It First](https://open.spotify.com/track/1rIzZXLoXTMXif9IKAoqvc) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Say It First](https://open.spotify.com/album/6icFOHKNtZPLyUimlFFCSA) | 3:20 |
 | 110 | [Rescue Me](https://open.spotify.com/track/0O0wPMmw7d9RMsTkt9YiUq) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Rescue Me](https://open.spotify.com/album/655PY7blK0F99IMqcnmqEU) | 3:18 |
 
-Snapshot ID: `MTY1MDI0NDExNSwwMDAwMDAwMDU2ZDBjOGY1YjczZWJiMmNjOTllMmE4NTMxZjhmNTVm`
+Snapshot ID: `MTY1MDI2NDAwNywwMDAwMDAwMDU2ZDBjOGY1YjczZWJiMmNjOTllMmE4NTMxZjhmNTVm`

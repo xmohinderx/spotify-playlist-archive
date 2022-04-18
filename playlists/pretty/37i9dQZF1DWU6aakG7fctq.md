@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Leo Rizzi, Charlie Rodd
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,784 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,801 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 69 | [Laberinto](https://open.spotify.com/track/2xWTpdIasfP9dRNY4Wi1lK) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Laberinto](https://open.spotify.com/album/6VFBkyvHaA3dYW4wVN7y0R) | 3:42 |
 | 70 | [Porque Existo](https://open.spotify.com/track/2IYYuGhsKNBFiC0cYF01LA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Ciudad De Las Flores](https://open.spotify.com/artist/7qyr14BpISb5V35P2vlsVv) | [Lo Sagrado](https://open.spotify.com/album/2Jp7ChFRLqCuXNx4wT1OnV) | 2:50 |
 
-Snapshot ID: `MTY1MDI0MzY0NCwwMDAwMDAwMGViMGJiYzBlNzczMWNiNjIyZGNjZWFkYmRhYmY2YmZk`
+Snapshot ID: `MTY1MDI2MzUyNiwwMDAwMDAwMGViMGJiYzBlNzczMWNiNjIyZGNjZWFkYmRhYmY2YmZk`

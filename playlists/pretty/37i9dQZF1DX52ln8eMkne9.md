@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental jazz songs\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,310 likes - 150 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,326 likes - 150 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 149 | [The Summer Wind](https://open.spotify.com/track/6T407MUyMd4d0NZrvUNj3q) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/3KniUiE1O3h7CWWJ6eByiY) | 3:54 |
 | 150 | [Some Other Time](https://open.spotify.com/track/04rPaVjf38UJDdOiFA40e0) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/0WKKT12LLXpCZkOR4H9euq) | 5:36 |
 
-Snapshot ID: `MTY1MDI0Mzk1NSwwMDAwMDAwMGRiYWE5ODQ3NTRjMTRiNTZlYzkxOGQzYjQ5YzU5Yjc2`
+Snapshot ID: `MTY1MDI2Mzg0NSwwMDAwMDAwMGRiYWE5ODQ3NTRjMTRiNTZlYzkxOGQzYjQ5YzU5Yjc2`

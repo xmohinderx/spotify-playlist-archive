@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: SURL\(설\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,436 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,478 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [IF](https://open.spotify.com/track/2cFHTpYafyQ6VpiHF80fd2) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Check Out the Event OST Part.2](https://open.spotify.com/album/3xYTqbkLQqCkmiWYPbuwWO) | 4:27 |
 | 50 | [Milan Blue](https://open.spotify.com/track/2B64LQET1AVf85fVJDTOXD) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Milan Blue](https://open.spotify.com/album/48HY4uejjgB10O0dIRcxDB) | 4:50 |
 
-Snapshot ID: `MTY1MDI0NDE4OSwwMDAwMDAwMGUyODg0N2YwYjlkNWVmYTUwODQ0ZjIzMDVlOWI0Njc2`
+Snapshot ID: `MTY1MDI2NDA4MSwwMDAwMDAwMGUyODg0N2YwYjlkNWVmYTUwODQ0ZjIzMDVlOWI0Njc2`

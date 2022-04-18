@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,982 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,026 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 79 | [Holiday](https://open.spotify.com/track/4cUSgvW6wlxqzzxE3P4voV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 4:05 |
 | 80 | [Our House](https://open.spotify.com/track/3rOD3MfHaXawznE0vrjM5B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [A Guided Tour Of Madness](https://open.spotify.com/album/0GWyRaEoYgcJ2sFBMgmrpm) | 3:23 |
 
-Snapshot ID: `MTY1MDI0Mzc2MCwwMDAwMDAwMDVmMDZlNTU2N2UzMzU1YTY2ZTA4YTIwNjEyODQ0NDFi`
+Snapshot ID: `MTY1MDI2MzY0NCwwMDAwMDAwMDVmMDZlNTU2N2UzMzU1YTY2ZTA4YTIwNjEyODQ0NDFi`

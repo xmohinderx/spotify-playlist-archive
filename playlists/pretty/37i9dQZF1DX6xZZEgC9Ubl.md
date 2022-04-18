@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Featuring new music by iamjakehill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,453 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,570 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [Sitting In Fire](https://open.spotify.com/track/6oXgRfFIvzWe83K5la8oI9) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Sitting In Fire](https://open.spotify.com/album/2rOi95NpQYDkhOitIPwm08) | 2:27 |
 | 100 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
 
-Snapshot ID: `MTY1MDI0NDAxMSwwMDAwMDAwMGYyNWZkYTFmNzgzNzk0ZjU4Yjk1ODk3ZGUwOTExMTM3`
+Snapshot ID: `MTY1MDI2MzkwMiwwMDAwMDAwMGYyNWZkYTFmNzgzNzk0ZjU4Yjk1ODk3ZGUwOTExMTM3`

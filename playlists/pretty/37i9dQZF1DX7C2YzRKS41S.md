@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,380 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,389 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [America Latina](https://open.spotify.com/track/0lo72AddH6tm7gkpcNzKcV) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Esperança](https://open.spotify.com/album/2n7oWUeEcKoYDZ6KCWuEaO) | 2:25 |
 | 60 | [Te Vejo em Dezembro: Som das Estradas \- Sudeste](https://open.spotify.com/track/6YcJu5bHLPnu070CIo63MY) | [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Yasmin Olí](https://open.spotify.com/artist/6PsnIJMirKYoLLQSJzXNax), [Iris Fuzaro](https://open.spotify.com/artist/6ZJN1w4UBfLnpOyUeHW9eY), [LULINHA ALENCAR](https://open.spotify.com/artist/0o3A3LysqaBM9WGxtMsbOO), [Kabé Pinheiro](https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF), [Markus Thom](https://open.spotify.com/artist/3OvTzCg2edoY8ZNxWs5TQN) | [Te Vejo em Dezembro: Som das Estradas \- Sudeste](https://open.spotify.com/album/0350zZmnAFeKGP6vOsnKXA) | 2:09 |
 
-Snapshot ID: `MTY1MDI0NDAxNywwMDAwMDAwMDZjMDAwMzMxZTNlNmQ3ODY2Nzc3NjI2ZTEyYjg5YjNl`
+Snapshot ID: `MTY1MDI2MzkwOCwwMDAwMDAwMDZjMDAwMzMxZTNlNmQ3ODY2Nzc3NjI2ZTEyYjg5YjNl`

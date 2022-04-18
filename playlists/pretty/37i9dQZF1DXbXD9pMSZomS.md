@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,576 likes - 60 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,608 likes - 60 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [1759 \(Outro\)](https://open.spotify.com/track/1s2JjSKiQNUwk7tR67ojnw) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn) | [Spaven x Sandunes](https://open.spotify.com/album/43cvYJuidCljY6ZCiXDnwr) | 4:50 |
 | 60 | [All That Remains](https://open.spotify.com/track/6SWbKY7mrtDJnMq3yriudU) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [LTDUBS001](https://open.spotify.com/album/0NqWkCFbmkcU4ZePJogaHO) | 8:56 |
 
-Snapshot ID: `MTY1MDI0NDEzOSwwMDAwMDAwMDQ3YWRjODI0OTFlMDYyMmNkNjc1NWI5YzVmZjBkMTU4`
+Snapshot ID: `MTY1MDI2NDAzMSwwMDAwMDAwMDQ3YWRjODI0OTFlMDYyMmNkNjc1NWI5YzVmZjBkMTU4`

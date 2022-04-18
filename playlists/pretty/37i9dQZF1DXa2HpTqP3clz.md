@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,689 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,714 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 |
 | 100 | [Choices And Changes](https://open.spotify.com/track/4hqJJdwJuWx0y6sNcHIHYF) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Weighted Mind](https://open.spotify.com/album/1Nhg69P4YB6wBXuP6Kmhbe) | 3:19 |
 
-Snapshot ID: `MTY1MDI0NDA5NywwMDAwMDAwMDc2NWE1ZjkwYmEyNTNiMmExYjI3ZTc5YzIxYzk2N2I3`
+Snapshot ID: `MTY1MDI2Mzk4OCwwMDAwMDAwMDc2NWE1ZjkwYmEyNTNiMmExYjI3ZTc5YzIxYzk2N2I3`

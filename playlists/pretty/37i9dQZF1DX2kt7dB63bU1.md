@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Caity Gyorgy
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,007 likes - 116 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,019 likes - 116 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 115 | [Love Tastes Like Strawberries](https://open.spotify.com/track/61jFe9N3u046ORguFBVAQa) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Tastes Like Strawberries](https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m) | 3:38 |
 | 116 | [Marigold](https://open.spotify.com/track/7qPJo6KJN9qrAIYjl2l4y2) | [Mads Mathias](https://open.spotify.com/artist/2ULstknuMUacDoAFmVk9uN) | [I'm All Ears](https://open.spotify.com/album/7Mt3lY98B6HYGcERYEtXa9) | 3:35 |
 
-Snapshot ID: `MTY1MDI0Mzg4NywwMDAwMDAwMDBiYjYwYjE4MTNlYWQ1NTUzZTY1YmU1Y2IwNDU2ZTg1`
+Snapshot ID: `MTY1MDI2Mzc3NSwwMDAwMDAwMDBiYjYwYjE4MTNlYWQ1NTUzZTY1YmU1Y2IwNDU2ZTg1`

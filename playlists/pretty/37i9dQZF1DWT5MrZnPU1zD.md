@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585,118 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585,191 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Paid Off](https://open.spotify.com/track/7Ai70wSpUnJ7n0w6oqENws) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Paid Off](https://open.spotify.com/album/3uBvOWu5ETmofY8C3F9IwU) | 2:35 |
 | 100 | [POCKET ROCKET](https://open.spotify.com/track/1FKG2wgJ75wS9MFNVZFiWd) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [POCKET ROCKET](https://open.spotify.com/album/2wq6cnNKGy6tP5c5ow5Uo8) | 2:11 |
 
-Snapshot ID: `MTY1MDI0MzYxMSwwMDAwMDAwMGM1NTI0ZWQ1OTQzYTcxMTk5OGJiOTM4NmQzNDIyZWEz`
+Snapshot ID: `MTY1MDI2MzQ5NCwwMDAwMDAwMGM1NTI0ZWQ1OTQzYTcxMTk5OGJiOTM4NmQzNDIyZWEz`

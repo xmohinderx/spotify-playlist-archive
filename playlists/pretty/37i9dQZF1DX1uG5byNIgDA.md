@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,707 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,716 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [Wind flower](https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [BLUE;S](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) | 3:56 |
 | 50 | [DREAMER](https://open.spotify.com/track/5S69qVsbHudSKincIUbYSf) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:33 |
 
-Snapshot ID: `MTY1MDI0Mzg2NCwwMDAwMDAwMDIzOWZmMGM3NzJlZDg4NTZkZWM0OGEwZmQ2NTJmZjI5`
+Snapshot ID: `MTY1MDI2Mzc1MiwwMDAwMDAwMDIzOWZmMGM3NzJlZDg4NTZkZWM0OGEwZmQ2NTJmZjI5`

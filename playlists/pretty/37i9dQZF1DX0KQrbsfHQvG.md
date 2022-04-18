@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,667 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,676 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Trigger](https://open.spotify.com/track/4dHNWm43HrElSRtwvRRbtg) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Trigger](https://open.spotify.com/album/1H84oHDW2NjJlZMBAZsjtT) | 2:44 |
 | 75 | [National Anthem](https://open.spotify.com/track/17DPxC2PVZH80od1vFvW2t) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [National Anthem](https://open.spotify.com/album/7pqXY4C7TOgZPfaz9q4Kxt) | 2:28 |
 
-Snapshot ID: `MTY1MDI0MzgyMSwwMDAwMDAwMDJkNGFjYjYyOWIwZDYwMDliMjY3NWI4MWUxNTVjNWVj`
+Snapshot ID: `MTY1MDI2MzcwNywwMDAwMDAwMDJkNGFjYjYyOWIwZDYwMDliMjY3NWI4MWUxNTVjNWVj`

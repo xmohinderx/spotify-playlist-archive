@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Chance The Rapper featuring visual artist Naïla Opiangah
 
-[Spotify](https://open.spotify.com/user/spotify) - 427 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 430 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Fair](https://open.spotify.com/track/6Q1UA2q17PA2I2wZCE2rMc) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Fair](https://open.spotify.com/album/25Nw3dLnevwTMfYUvetRQ1) | 2:37 |
 | 80 | [Shine On](https://open.spotify.com/track/4dFqFcPnrG6JvK9etOgPaG) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Des Monroe](https://open.spotify.com/artist/4ibVa9XbiwphvO1r8TkslV) | [Shine On](https://open.spotify.com/album/3mF8bo5vU8c4HfEvi3TGDl) | 3:48 |
 
-Snapshot ID: `MTY1MDI0NDAxNywwMDAwMDAwMGZmMjFjMDI1M2QwNmFlZjRmNThmZTdkNDE5NjhiMWMz`
+Snapshot ID: `MTY1MDI2MzkwOCwwMDAwMDAwMGZmMjFjMDI1M2QwNmFlZjRmNThmZTdkNDE5NjhiMWMz`

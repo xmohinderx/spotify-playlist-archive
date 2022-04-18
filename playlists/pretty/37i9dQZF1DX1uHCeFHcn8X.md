@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,155 likes - 250 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,392 likes - 250 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Silhouette](https://open.spotify.com/track/0ygOBx60exSPPvnI4sS28r) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 3:50 |
 | 250 | [Everlasting](https://open.spotify.com/track/2kb3LGpIdib7c2npWf4Kp3) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Everlasting](https://open.spotify.com/album/5oQ8I2jtpVbCBcbt5FLTel) | 3:49 |
 
-Snapshot ID: `MTY1MDI0Mzg2NCwwMDAwMDAwMDY1ZjlhMTY5MmEwOTVhMDkzMzA0ZTNjNjY0MGRmM2M3`
+Snapshot ID: `MTY1MDI2Mzc1MiwwMDAwMDAwMDY1ZjlhMTY5MmEwOTVhMDkzMzA0ZTNjNjY0MGRmM2M3`

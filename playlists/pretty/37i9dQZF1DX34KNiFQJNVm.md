@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Hugo & Guilherme com Jorge & Mateus, Anitta, Luan Santana com Henrique & Juliano e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744,089 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,110 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,479 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,495 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 119 | [Forget About Us](https://open.spotify.com/track/432pjoqycFx2gyYDlAoL49) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Forget About Us](https://open.spotify.com/album/1dGlmRtJ98UpBoOPNVCJ2i) | 3:16 |
 | 120 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 |
 
-Snapshot ID: `MTY1MDI0MzY0MCwwMDAwMDAwMDQ1Y2IwYmQ4MDdmZGVkZDA1Y2Q3MjQ1NmRlZTYyM2Yw`
+Snapshot ID: `MTY1MDI2MzUyMiwwMDAwMDAwMDQ1Y2IwYmQ4MDdmZGVkZDA1Y2Q3MjQ1NmRlZTYyM2Yw`

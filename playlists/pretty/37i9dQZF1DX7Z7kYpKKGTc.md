@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,936 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,002 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 49 | [Naughty Naughty](https://open.spotify.com/track/53G4MWFNYRx2R22CHwkTrs) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Danger Danger](https://open.spotify.com/album/3fkdfqYl5Ky1jbpEWqDe5U) | 4:50 |
 | 50 | [Give Me a Reason](https://open.spotify.com/track/0b8U6He9IAKkAyp5Jv2S0T) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Calling the Wild](https://open.spotify.com/album/10Qv2U3rIkdwD5FCs0QYvd) | 4:20 |
 
-Snapshot ID: `MTY1MDI0NDAzMCwwMDAwMDAwMGNiNDU3MDlmODM0N2E2ZGJmOTliMmI1ZTRiMjVlODE5`
+Snapshot ID: `MTY1MDI2MzkyMSwwMDAwMDAwMGNiNDU3MDlmODM0N2E2ZGJmOTliMmI1ZTRiMjVlODE5`

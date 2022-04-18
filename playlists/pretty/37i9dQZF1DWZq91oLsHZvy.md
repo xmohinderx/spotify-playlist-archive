@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Run to indie and alternative hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,633 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,638 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 99 | [Kelowna](https://open.spotify.com/track/0xWuiWTWTJP70RRkJnRVt4) | [Go Hawaii](https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli) | [Kelowna](https://open.spotify.com/album/0NMwOGpgvV8c4C2z68jFZQ) | 3:17 |
 | 100 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 
-Snapshot ID: `MTY1MDI0MzgwMiwwMDAwMDAwMDZlNzJhODA5M2Q0ZGMzNTY5ZmUxYTc2MzNjMDA5Nzlj`
+Snapshot ID: `MTY1MDI2MzY4OCwwMDAwMDAwMDZlNzJhODA5M2Q0ZGMzNTY5ZmUxYTc2MzNjMDA5Nzlj`

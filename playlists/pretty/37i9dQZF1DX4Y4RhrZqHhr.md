@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,417 likes - 226 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,414 likes - 226 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 225 | [There's Nothing Holdin' Me Back \- NOTD Remix](https://open.spotify.com/track/0n7kGBIfea9zdbXvYlqiGM) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [There's Nothing Holdin' Me Back \(NOTD Remix\)](https://open.spotify.com/album/5DqFC6RRbyb7mAvrqVTb8m) | 3:14 |
 | 226 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
 
-Snapshot ID: `MTY1MDI0MzkzOSwwMDAwMDAwMDhjOTdhMjRjYTVjYmM2MWE4NzYyNGU2YzgzMjg3NTc0`
+Snapshot ID: `MTY1MDI2MzgyOSwwMDAwMDAwMDhjOTdhMjRjYTVjYmM2MWE4NzYyNGU2YzgzMjg3NTc0`

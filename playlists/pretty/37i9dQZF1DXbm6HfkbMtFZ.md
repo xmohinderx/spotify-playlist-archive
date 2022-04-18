@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,259 likes - 115 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,304 likes - 115 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Moving On and Getting Over](https://open.spotify.com/track/1CdEcheLJU6SgxnbFEj2WX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything \- Wave One](https://open.spotify.com/album/5GkyQHN2jO9L05VV0gBnGH) | 4:21 |
 | 115 | [Got It Bad](https://open.spotify.com/track/39wHJyoHNlaFEFUKlDzNo3) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisure](https://open.spotify.com/album/1SZzXX9j7MdYNkvWadCr4i) | 3:25 |
 
-Snapshot ID: `MTY1MDI0NDE0NiwwMDAwMDAwMDUzMDU0NzZkOTYyZTQwYjU0NTgxYWY2OWY4OTAzNTU2`
+Snapshot ID: `MTY1MDI2NDAzOCwwMDAwMDAwMDUzMDU0NzZkOTYyZTQwYjU0NTgxYWY2OWY4OTAzNTU2`

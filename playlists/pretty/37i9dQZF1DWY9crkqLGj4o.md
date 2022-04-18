@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,854 likes - 70 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,929 likes - 70 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Ressuscitou \(Resurrecting\) \[Kemuel Nation\]](https://open.spotify.com/track/73rQVihYf9bPXflrJiesqF) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Ressuscitou \(Resurrecting\) \[Kemuel Nation\]](https://open.spotify.com/album/1GAdxnbFcELZvbC00vdjoC) | 8:11 |
 | 70 | [Alfa e Ômega \- Ao Vivo](https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Alfa e Ômega \(Ao Vivo\)](https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri) | 6:57 |
 
-Snapshot ID: `MTY1MDI0Mzc2MCwwMDAwMDAwMGMzMzcxYjc0ZjU3MGIwZjc4YWY4MzNlNWFjY2RjNTI4`
+Snapshot ID: `MTY1MDI2MzY0NCwwMDAwMDAwMGMzMzcxYjc0ZjU3MGIwZjc4YWY4MzNlNWFjY2RjNTI4`

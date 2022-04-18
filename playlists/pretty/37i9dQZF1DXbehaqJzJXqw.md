@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,784 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,906 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 99 | [Le plat pays](https://open.spotify.com/track/2WoGnfG9Za6ouA7tMyvzLa) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 2:40 |
 | 100 | [La valse à mille temps](https://open.spotify.com/track/0Yqvv7EV2VYgC299tA5ZaV) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 3:49 |
 
-Snapshot ID: `MTY1MDI0NDE0NCwwMDAwMDAwMGJmMGM0NjRkMDEzMmI1Mjg5NWI0ODdkYzVhZmY1MjE3`
+Snapshot ID: `MTY1MDI2NDAzNSwwMDAwMDAwMGJmMGM0NjRkMDEzMmI1Mjg5NWI0ODdkYzVhZmY1MjE3`

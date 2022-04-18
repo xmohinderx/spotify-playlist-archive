@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,392 likes - 121 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,406 likes - 121 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 120 | [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 |
 | 121 | [Trensetter](https://open.spotify.com/track/0WhTN2qunw2aYr9nDfqw6e) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Trensetter](https://open.spotify.com/album/0VUgYoQKCWvIE8ptlTTH0R) | 2:17 |
 
-Snapshot ID: `MTY1MDI0Mzk2OCwwMDAwMDAwMDg0ZjhjZDE1ZTZlY2EwNTMwY2NmMDkzZTkyYzRhZDcz`
+Snapshot ID: `MTY1MDI2Mzg1OSwwMDAwMDAwMDg0ZjhjZDE1ZTZlY2EwNTMwY2NmMDkzZTkyYzRhZDcz`

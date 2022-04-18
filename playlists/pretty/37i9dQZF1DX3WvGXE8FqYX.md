@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Kick back with the queens of pop\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,324,868 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,325,079 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 69 | [I Could Get Used To This \(with WEISS\)](https://open.spotify.com/track/6oXjLk6jVeGkJdOuPsarH2) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Get To Know](https://open.spotify.com/album/7nUCMatMkqnE76RE1KClGe) | 3:14 |
 | 70 | [Baby, Baby](https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:56 |
 
-Snapshot ID: `MTY1MDI0MzkxMywwMDAwMDAwMDNhMzRkN2QwYjg4YTQ0ZTU2MjgxY2U1NGZlMGI2ZGJl`
+Snapshot ID: `MTY1MDI2MzgwMiwwMDAwMDAwMDNhMzRkN2QwYjg4YTQ0ZTU2MjgxY2U1NGZlMGI2ZGJl`

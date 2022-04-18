@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,718 likes - 150 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,820 likes - 150 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [I Don't Believe In If Anymore](https://open.spotify.com/track/1fNEjmDv3eg5HSDzndJg8G) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk) | [Roger Whittaker \- The Best Of \(1967 \- 1975\)](https://open.spotify.com/album/4mLl8N7qHbTgTlyjZOav2N) | 3:15 |
 | 150 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 
-Snapshot ID: `MTY1MDI0MzYyNSwwMDAwMDAwMDMxNzVmNmY3OWJkZGM1YWQyMTBjZWE2ODYzYzBmNTVl`
+Snapshot ID: `MTY1MDI2MzUwOCwwMDAwMDAwMDMxNzVmNmY3OWJkZGM1YWQyMTBjZWE2ODYzYzBmNTVl`

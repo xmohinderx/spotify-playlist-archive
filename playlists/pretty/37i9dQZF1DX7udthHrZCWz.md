@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 
 > Unwind to these easy classics from the 2010s...
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,935 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,947 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 79 | [Read All About It, Pt\. III](https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 4:43 |
 | 80 | [Wildest Moments](https://open.spotify.com/track/0nt09YWqPwIdYFzwmSNHSH) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion \- The Gold Edition](https://open.spotify.com/album/7nxjemFXgk7MH9ZeTulRNb) | 3:42 |
 
-Snapshot ID: `MTY1MDI0NDAzOSwwMDAwMDAwMDNjNmVkMTg0OWFhMGE2MzQ3ZTFhNWFmOGUxMmE0MTUw`
+Snapshot ID: `MTY1MDI2MzkyOSwwMDAwMDAwMDNjNmVkMTg0OWFhMGE2MzQ3ZTFhNWFmOGUxMmE0MTUw`

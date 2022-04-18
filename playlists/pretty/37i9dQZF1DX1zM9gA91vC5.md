@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,688 likes - 500 songs - 21 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,690 likes - 500 songs - 21 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 499 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 |
 | 500 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 |
 
-Snapshot ID: `MTY1MDI0Mzg2NywwMDAwMDAwMDViNDMwMzA2ZTFkNzEyZjVlNTM1NjNmZThjY2VjMDdl`
+Snapshot ID: `MTY1MDI2Mzc1NSwwMDAwMDAwMDViNDMwMzA2ZTFkNzEyZjVlNTM1NjNmZThjY2VjMDdl`

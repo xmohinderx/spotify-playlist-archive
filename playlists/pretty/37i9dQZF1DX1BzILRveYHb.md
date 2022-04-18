@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 
 > Easy listening pop for warmer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,049 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,091 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 74 | [Angel](https://open.spotify.com/track/6G8fblD9DbcEmaKOKDy3XL) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/4Z0SuRbaHi6Xiy0FbVvk8V) | 4:26 |
 | 75 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
 
-Snapshot ID: `MTY1MDI0Mzg0NCwwMDAwMDAwMDdmZWJjNmM5MmRiMTJhNjVlYmY3MjU1MWUyYWRlODFi`
+Snapshot ID: `MTY1MDI2MzczMiwwMDAwMDAwMDdmZWJjNmM5MmRiMTJhNjVlYmY3MjU1MWUyYWRlODFi`

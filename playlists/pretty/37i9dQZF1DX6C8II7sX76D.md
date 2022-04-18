@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,861 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,933 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Edge](https://open.spotify.com/track/4pCvnGkf7jveRMKHZosxxB) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [The Silence Is Deafening](https://open.spotify.com/album/52vZKQID1SqrbDnzE0Je5K) | 3:43 |
 | 50 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 
-Snapshot ID: `MTY1MDI0Mzk4OSwwMDAwMDAwMDNmMjY0YmU0NjI2YTVmOTNhYzJlY2IzZmI0YmMwYWQ4`
+Snapshot ID: `MTY1MDI2Mzg4MCwwMDAwMDAwMDNmMjY0YmU0NjI2YTVmOTNhYzJlY2IzZmI0YmMwYWQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,502 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,537 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Anyone Around](https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Anyone Around](https://open.spotify.com/album/7wTbPwcxA5j3wFgu05JFGQ) | 2:49 |
 | 50 | [So High \(feat\. Maths Time Joy\)](https://open.spotify.com/track/6dJjTYKHnGWsoEciR4F2YL) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK) | [So High \(feat\. Maths Time Joy\)](https://open.spotify.com/album/5nel6SmpP1TrXX3Ci9XXPx) | 3:52 |
 
-Snapshot ID: `MTY1MDI0Mzc2NSwwMDAwMDAwMGJiZjY0YjU4MjhiMzc5OTk5MTM3NTEyN2EwN2U0NWVk`
+Snapshot ID: `MTY1MDI2MzY0OSwwMDAwMDAwMGJiZjY0YjU4MjhiMzc5OTk5MTM3NTEyN2EwN2U0NWVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,331 likes - 150 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,480 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Taped Up Heart \(feat\. Clara Mae\)](https://open.spotify.com/track/26hcyzSE154xMZCbFdtInA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Taped Up Heart \(feat\. Clara Mae\)](https://open.spotify.com/album/1C6fjPZ5GvFi1duyokC0WR) | 3:38 |
 | 150 | [Mama \(feat\. Ellie Goulding\) \- Tiësto’s Big Room Remix](https://open.spotify.com/track/6J9v3Jr3G2WWb2VQPXU2gX) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Mama \(feat\. Ellie Goulding\) \[Remixes\]](https://open.spotify.com/album/767N33ltF5zDyw50TX9dAd) | 2:36 |
 
-Snapshot ID: `MTY1MDI0Mzg5OSwwMDAwMDAwMDYxMDk3ZjE1ZTQ2Njg0YTMzYWJmODBkZWQ5YjJmYmE3`
+Snapshot ID: `MTY1MDI2Mzc4OCwwMDAwMDAwMDYxMDk3ZjE1ZTQ2Njg0YTMzYWJmODBkZWQ5YjJmYmE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,169 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,220 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 99 | [When Joanna Loved Me](https://open.spotify.com/track/3NWbVol7ddKadbd1yU0bHI) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Eugene Wright](https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53), [Connie Kay](https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 5:45 |
 | 100 | [Goodbye](https://open.spotify.com/track/4j07BaLQsVp1XhIVhkY1ir) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Makes It Happen](https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr) | 2:42 |
 
-Snapshot ID: `MTY1MDI0MzcxMSwwMDAwMDAwMDEyY2Q4ZGFjNTI3NmM4NDk0M2U0M2MzN2ZkODQ3ZTk4`
+Snapshot ID: `MTY1MDI2MzU5NCwwMDAwMDAwMDEyY2Q4ZGFjNTI3NmM4NDk0M2U0M2MzN2ZkODQ3ZTk4`

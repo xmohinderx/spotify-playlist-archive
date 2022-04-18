@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,119 likes - 80 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,137 likes - 80 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
 | 80 | [Insurgence](https://open.spotify.com/track/2ZIfoWjvGK3ABgIFjrhQBY) | [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm) | [Metamorphosis](https://open.spotify.com/album/4WSLwYXMZIfbDOit8Qisq3) | 7:55 |
 
-Snapshot ID: `MTY1MDI0NDA5NywwMDAwMDAwMGNhODhlOWZkY2Q4MzI3Njg3ZjYxOWU3NjRlOTQ2MzY3`
+Snapshot ID: `MTY1MDI2Mzk4OSwwMDAwMDAwMGNhODhlOWZkY2Q4MzI3Njg3ZjYxOWU3NjRlOTQ2MzY3`

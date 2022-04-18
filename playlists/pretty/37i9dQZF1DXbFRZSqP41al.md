@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,470 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,491 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 49 | [Alarm](https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Alarm](https://open.spotify.com/album/4C1YUIIGfDYulvbNzHNWXJ) | 2:28 |
 | 50 | [Everybody](https://open.spotify.com/track/2TFWiFlB1t8j2ALmzIRZOa) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Everybody](https://open.spotify.com/album/15ZfluTMIxytOUoy1FSaEw) | 3:22 |
 
-Snapshot ID: `MTY1MDI0NDEzMywwMDAwMDAwMGFmZmEyMTljMTE4OTA1ZjhlNjRlZDE0ZmUxNDRkZDU1`
+Snapshot ID: `MTY1MDI2NDAyNSwwMDAwMDAwMGFmZmEyMTljMTE4OTA1ZjhlNjRlZDE0ZmUxNDRkZDU1`

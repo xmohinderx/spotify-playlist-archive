@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,875 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,884 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 99 | [The Origin of Structures](https://open.spotify.com/track/5H8hkaDCze36ScG8mQmTK1) | [Tangent](https://open.spotify.com/artist/1Ad0cOIi5d9YkVsRMLWegv) | [The Origin of Structures](https://open.spotify.com/album/673VIDxT128Ka9pxlMXTrV) | 4:33 |
 | 100 | [The Unlimited](https://open.spotify.com/track/2huhl9EYE79EmWybxXyAIz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [The Unlimited](https://open.spotify.com/album/449GMgTeDVzRKLif5icK1s) | 2:14 |
 
-Snapshot ID: `MTY1MDI0NDA1MiwwMDAwMDAwMGM2NGFjOGE3M2Q1NDhmMzc5ZDE3OTAyOTk3MDU3MDJl`
+Snapshot ID: `MTY1MDI2Mzk0MywwMDAwMDAwMGM2NGFjOGE3M2Q1NDhmMzc5ZDE3OTAyOTk3MDU3MDJl`

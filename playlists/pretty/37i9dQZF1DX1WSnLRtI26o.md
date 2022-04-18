@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,170 likes - 194 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,198 likes - 194 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 | 193 | [Hands To Myself](https://open.spotify.com/track/7jGpa7ynADyaSmcprXgO7I) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival](https://open.spotify.com/album/3qsdWsIePeTOvpsRJV5yQB) | 3:20 |
 | 194 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 
-Snapshot ID: `MTY1MDI0Mzg1MiwwMDAwMDAwMDUxMjYyNGJhNjgzZTE5NWI1MDBjZGFlZmU0NTljOWRl`
+Snapshot ID: `MTY1MDI2Mzc0MCwwMDAwMDAwMDUxMjYyNGJhNjgzZTE5NWI1MDBjZGFlZmU0NTljOWRl`

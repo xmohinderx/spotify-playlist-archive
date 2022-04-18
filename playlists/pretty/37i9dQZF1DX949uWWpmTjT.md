@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > Slow and soft sounds of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,684 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,708 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 99 | [In A Mellow Tone](https://open.spotify.com/track/6PtMY654POS9nizEBvrdPD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:10 |
 | 100 | [Unsentimental](https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Unsentimental](https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d) | 5:00 |
 
-Snapshot ID: `MTY1MDI0NDA3MCwwMDAwMDAwMGE1OWFkMDYxN2E0MTFhOTc2OWJiOGQwZmRlOTMwYzFl`
+Snapshot ID: `MTY1MDI2Mzk2MiwwMDAwMDAwMGE1OWFkMDYxN2E0MTFhOTc2OWJiOGQwZmRlOTMwYzFl`

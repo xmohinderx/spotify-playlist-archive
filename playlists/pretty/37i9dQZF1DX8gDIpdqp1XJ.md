@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: Kurt Vile
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,490 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,566 likes - 150 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Comic Book](https://open.spotify.com/track/27cLpHYeCPf9eUsfytxMCe) | [Spires](https://open.spotify.com/artist/1BoNO7Kj26goTfyMxv7H0i) | [Spires \- Debut Single](https://open.spotify.com/album/1ihA1e9kHdz5V7ykwn0IEH) | 3:24 |
 | 150 | [Honey](https://open.spotify.com/track/01IuTsgAlgKlgrvPhZ2c95) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Honey](https://open.spotify.com/album/0dEEs01PwyL7KQbhJsNJKQ) | 4:33 |
 
-Snapshot ID: `MTY1MDI0NDA1OSwwMDAwMDAwMGJjNmQ1NjA2N2UwNmUxYjA4ZWIxNWM4YzRhNjE5ZmVi`
+Snapshot ID: `MTY1MDI2Mzk1MSwwMDAwMDAwMGJjNmQ1NjA2N2UwNmUxYjA4ZWIxNWM4YzRhNjE5ZmVi`

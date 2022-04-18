@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Niños Del Cerro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,369 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,370 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 |
 | 100 | [Llovizna](https://open.spotify.com/track/1z9gbqGknAXo9eQCdbMETM) | [El Árbol Que Contiene Todos Los Tiempos](https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG) | [Llovizna](https://open.spotify.com/album/7fx6mtCSveKTpn2zMDrIEc) | 4:17 |
 
-Snapshot ID: `MTY1MDI0MzY5NSwwMDAwMDAwMGMwZmNmYTg0NWRkYzk2ODEyMGQ1MzVkZDE5YWYxMTAw`
+Snapshot ID: `MTY1MDI2MzU3OCwwMDAwMDAwMGMwZmNmYTg0NWRkYzk2ODEyMGQ1MzVkZDE5YWYxMTAw`

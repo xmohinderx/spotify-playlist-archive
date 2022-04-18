@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,541 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,540 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [After All](https://open.spotify.com/track/430AnSE09cNCZ42bG27QyU) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [After All](https://open.spotify.com/album/2bd7eQfyCYZWJ5qfwS8Hma) | 4:12 |
 | 60 | [Worth It](https://open.spotify.com/track/41zDCmZRKLYOhCRJyDNzgo) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Foreign Things](https://open.spotify.com/album/4zQOj5cdClQaheWhdajDxp) | 4:18 |
 
-Snapshot ID: `MTY1MDI0MzczMywwMDAwMDAwMDc3NzBhOWU2ZWUwMDFiNDA3YWJmYjhkZDhmYzViNmY2`
+Snapshot ID: `MTY1MDI2MzYxNiwwMDAwMDAwMDc3NzBhOWU2ZWUwMDFiNDA3YWJmYjhkZDhmYzViNmY2`

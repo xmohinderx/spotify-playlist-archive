@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,081 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,162 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [Love and Other Bruises](https://open.spotify.com/track/7jz7FfrYoEwVcBf1BNbcBb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Air Supply](https://open.spotify.com/album/2ebMvsVfclK27T5fcmS6n1) | 3:43 |
 | 50 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 |
 
-Snapshot ID: `MTY1MDI0Mzc1NiwwMDAwMDAwMGQ3ZmUwYWY3NWM0OTA3YmVlNjlkMjZlODA3OGRiZDdh`
+Snapshot ID: `MTY1MDI2MzY0MCwwMDAwMDAwMGQ3ZmUwYWY3NWM0OTA3YmVlNjlkMjZlODA3OGRiZDdh`

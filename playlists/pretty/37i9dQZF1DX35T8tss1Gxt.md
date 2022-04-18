@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: CANDIACE
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,695 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,699 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Your Great Name](https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1) | 6:19 |
 | 100 | [Taste and See](https://open.spotify.com/track/3h4ztvbV4XS2cHNdqlJDLN) | [Morales Smalls](https://open.spotify.com/artist/4BDMaAFdkEAP2ynBiJ8KI3), [Adia](https://open.spotify.com/artist/3YYoAHKafsh98MgGAdE6kH) | [Taste and See](https://open.spotify.com/album/5d7Ib2YVO3Se6e0LAP8bSj) | 3:42 |
 
-Snapshot ID: `MTY1MDI0Mzg5OSwwMDAwMDAwMDBjZTE0ZmM4Nzk2ZGFmMjM3YTU3NGMzMjY5NTgyNDNj`
+Snapshot ID: `MTY1MDI2Mzc4NywwMDAwMDAwMDBjZTE0ZmM4Nzk2ZGFmMjM3YTU3NGMzMjY5NTgyNDNj`

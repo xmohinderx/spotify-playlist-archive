@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,646 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,666 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Big One](https://open.spotify.com/track/6kcL3CIWLQ6RpvfRL5hoqH) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Big One](https://open.spotify.com/album/03uvIKV9Varm3DtF7JUrFD) | 2:50 |
 | 80 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
 
-Snapshot ID: `MTY1MDI0MzY3NiwwMDAwMDAwMGU2YjExYzEzMThmMmIzMTU0MTNhMmVjZmM0ZThmODJl`
+Snapshot ID: `MTY1MDI2MzU1OCwwMDAwMDAwMGU2YjExYzEzMThmMmIzMTU0MTNhMmVjZmM0ZThmODJl`

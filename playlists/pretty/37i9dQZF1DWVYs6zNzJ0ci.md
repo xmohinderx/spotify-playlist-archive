@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,642 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,663 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Algo Mejor](https://open.spotify.com/track/68gpEjXas61xmdZin01DcQ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Algo Mejor](https://open.spotify.com/album/7xyf2OQgFuQnwbvaCi8QwX) | 3:58 |
 | 100 | [Ready](https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ready](https://open.spotify.com/album/6eSOrBQDFoAT27MUPHW5d4) | 2:30 |
 
-Snapshot ID: `MTY1MDI0MzY4MCwwMDAwMDAwMGY0NjAzMzcyZDcwYmZkODIwM2MxYTM3MjhmNDE2MDk3`
+Snapshot ID: `MTY1MDI2MzU2MywwMDAwMDAwMGY0NjAzMzcyZDcwYmZkODIwM2MxYTM3MjhmNDE2MDk3`

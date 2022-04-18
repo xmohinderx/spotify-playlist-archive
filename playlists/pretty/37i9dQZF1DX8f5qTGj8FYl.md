@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,368 likes - 80 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,391 likes - 80 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Montuno Funk](https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl) | [Solsonics](https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj) | [Jazz In The Present Tense](https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK) | 4:09 |
 | 80 | [A Wild Mad Beat \- Edit](https://open.spotify.com/track/44WPomHosQL0gwNyLykOzo) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [A Wild Mad Beat \(Edit\)](https://open.spotify.com/album/33DiXWQxPtC4HM2Pg2XqXn) | 4:07 |
 
-Snapshot ID: `MTY1MDI0NDA1OSwwMDAwMDAwMDFlZGFkOTUwNmQwNDAxZmRiNzkxYzY4ODAwNGQxYTc2`
+Snapshot ID: `MTY1MDI2Mzk1MSwwMDAwMDAwMDFlZGFkOTUwNmQwNDAxZmRiNzkxYzY4ODAwNGQxYTc2`

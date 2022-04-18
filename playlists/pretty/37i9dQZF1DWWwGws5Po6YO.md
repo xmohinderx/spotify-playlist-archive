@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,338 likes - 59 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,342 likes - 59 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 58 | [As We Record the Disappearing Ice](https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [Desert Ballads](https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG) | 2:54 |
 | 59 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 |
 
-Snapshot ID: `MTY1MDI0MzcyNiwwMDAwMDAwMDU2Y2UxNGYyMDBlYmFjYWE4ZTYwY2M0ZTE2MDI3YjBh`
+Snapshot ID: `MTY1MDI2MzYxMCwwMDAwMDAwMDU2Y2UxNGYyMDBlYmFjYWE4ZTYwY2M0ZTE2MDI3YjBh`

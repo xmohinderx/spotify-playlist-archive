@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,307 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,333 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [suffer](https://open.spotify.com/track/46gYDd1STZWpjFi7rKWy1n) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [suffer](https://open.spotify.com/album/4safZcciEZzvvznTt9Sf18) | 4:46 |
 | 100 | [What Are We Fighting For](https://open.spotify.com/track/0QIlomayRGKAibMTvAeY10) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [What Are We Fighting For](https://open.spotify.com/album/1uVxarWbgYOaYjTvtHvsCK) | 4:22 |
 
-Snapshot ID: `MTY1MDI0NDE2MiwwMDAwMDAwMDVjN2IwNWIzNmZjMWRjZTNlMzg0YWUxNmE4YmZhOGYz`
+Snapshot ID: `MTY1MDI2NDA1NCwwMDAwMDAwMDVjN2IwNWIzNmZjMWRjZTNlMzg0YWUxNmE4YmZhOGYz`

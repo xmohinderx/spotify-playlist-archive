@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,440 likes - 131 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,454 likes - 131 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 130 | [Heavenly Thing](https://open.spotify.com/track/1PdLfFSHh43N9jWol9UXzs) | [The Mark\-Keys](https://open.spotify.com/artist/6inrHX6orJylUug2PXqjBr) | [Dave Hamilton's Detroit Dancers](https://open.spotify.com/album/4NTNbbpcpGf4ZWiaBsDZvj) | 3:03 |
 | 131 | [Let's Prove Them Wrong](https://open.spotify.com/track/759eeIMuZ5KxHCOnZdFieK) | [Debbie Taylor](https://open.spotify.com/artist/3AOPsb5oGscweRef0jCI1p) | [Masters of Soul: George Kerr \- Singles & Rarities, Vol\. 2](https://open.spotify.com/album/0VpyygiRwwIUPGczcqWiL2) | 2:56 |
 
-Snapshot ID: `MTY1MDI0NDE1NCwwMDAwMDAwMDNhM2ZkODgwNjdkMGY3Mzc1NjY4MWFhZDYwNTlhMGE2`
+Snapshot ID: `MTY1MDI2NDA0NiwwMDAwMDAwMDNhM2ZkODgwNjdkMGY3Mzc1NjY4MWFhZDYwNTlhMGE2`

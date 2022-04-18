@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Upon A Burning Body
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,785 likes - 120 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,814 likes - 120 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 119 | [Civic Assault](https://open.spotify.com/track/1XHcJ9I73gB6uwKtryfC9B) | [Waking the Cadaver](https://open.spotify.com/artist/0Y7lDsDZc8qYny9MTq8xG2) | [Authority Through Intimidation](https://open.spotify.com/album/4vfoJ5Ixw4Ae8zQrKIPWWW) | 3:19 |
 | 120 | [Remnants in Time](https://open.spotify.com/track/5HlLaivd9yiou56KJFnkHz) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Remnants in Time](https://open.spotify.com/album/6FdfWezc4GtIKEXuEkHM7b) | 4:53 |
 
-Snapshot ID: `MTY1MDI0Mzg1NSwwMDAwMDAwMGJhMTIxZTU5NTcxYjljZjUwZDA1NTI2MGUwNTZhZDVh`
+Snapshot ID: `MTY1MDI2Mzc0MywwMDAwMDAwMGJhMTIxZTU5NTcxYjljZjUwZDA1NTI2MGUwNTZhZDVh`

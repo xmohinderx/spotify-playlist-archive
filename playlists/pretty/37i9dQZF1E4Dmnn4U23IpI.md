@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With At 1980, Dana Jean Phoenix, Siamese Youth and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,923 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,925 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Midnight Run](https://open.spotify.com/track/0f49rlkhrHcAHwGCde5sfi) | [Sebastian Gampl](https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy) | [City Hunter](https://open.spotify.com/album/6E5uRUjPHy4iikqyUDF8d7) | 4:45 |
 | 50 | [Born To Live](https://open.spotify.com/track/1ebNN5d432PvKV5VK0MD06) | [NINA](https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG) | [Sleepwalking](https://open.spotify.com/album/6U2FUoIegrcJidus6hEds8) | 4:11 |
 
-Snapshot ID: `MTY1MDI0NDIxOCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`
+Snapshot ID: `MTY1MDI2NDExMSwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`

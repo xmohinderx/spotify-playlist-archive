@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: Todrick Hall
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,364 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,357 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 74 | [Queer](https://open.spotify.com/track/5urhxXrAA3lyKucdA2Cm5M) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Queer](https://open.spotify.com/album/0EGnKQXRLo0xW5KuxrYwLS) | 3:30 |
 | 75 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
 
-Snapshot ID: `MTY1MDI0MzkwOCwwMDAwMDAwMGFmZjg0ZTg1ZGE2OWE4OTVlMTEwZmM4MDM5NGE5MDIz`
+Snapshot ID: `MTY1MDI2Mzc5NywwMDAwMDAwMGFmZjg0ZTg1ZGE2OWE4OTVlMTEwZmM4MDM5NGE5MDIz`

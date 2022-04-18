@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,161 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,194 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Fuck Up](https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa) | 3:21 |
 | 100 | [When You're Gone](https://open.spotify.com/track/7F5xXhW0lwu3sl95M5dh03) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [My Piece of Land](https://open.spotify.com/album/0L29DnqfhGMnX6UptHQZRz) | 3:06 |
 
-Snapshot ID: `MTY1MDI0NDAwMywwMDAwMDAwMDgzZDNlYmU3MWJlMWVmZjNiN2NlMWE0NWQyNTllMzVi`
+Snapshot ID: `MTY1MDI2Mzg5NCwwMDAwMDAwMDgzZDNlYmU3MWJlMWVmZjNiN2NlMWE0NWQyNTllMzVi`

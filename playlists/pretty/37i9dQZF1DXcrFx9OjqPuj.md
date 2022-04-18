@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrFx9OjqPuj.md) - [plain]
 
 > Get the party started with some uplifting party jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,378 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,388 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrFx9OjqPuj.md) - [plain]
 | 99 | [Carvin' The Rock \- Remastered](https://open.spotify.com/track/0nMCpAhJZRXtVn3CkVjPyE) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 3:56 |
 | 100 | [Sneaky Pete](https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:47 |
 
-Snapshot ID: `MTY1MDI0NDE3MywwMDAwMDAwMDAwZGJhZDc1ZjIzZWEzM2RjYmI4MTRkNGIzMWQ3MTBk`
+Snapshot ID: `MTY1MDI2NDA2NSwwMDAwMDAwMDAwZGJhZDc1ZjIzZWEzM2RjYmI4MTRkNGIzMWQ3MTBk`

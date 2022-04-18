@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,695 likes - 80 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,741 likes - 80 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [St Claire](https://open.spotify.com/track/7qrch7xVClA6bB299puPoz) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [St Claire](https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q) | 3:34 |
 | 80 | [Cycle](https://open.spotify.com/track/1E8VZOqKP9AvlME4DzAWw9) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Cycle](https://open.spotify.com/album/3Ny2xjmiTaLiu56yqdvvho) | 3:28 |
 
-Snapshot ID: `MTY1MDI0Mzk4NCwwMDAwMDAwMDQ5MGYwZDI0M2E1Mjk2ZWQ2NGMyMWM3MTgzZTYxNmNm`
+Snapshot ID: `MTY1MDI2Mzg3NSwwMDAwMDAwMDQ5MGYwZDI0M2E1Mjk2ZWQ2NGMyMWM3MTgzZTYxNmNm`

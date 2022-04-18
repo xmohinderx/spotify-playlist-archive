@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,826 likes - 64 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,835 likes - 64 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Después De Ti](https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 1:21 |
 | 64 | [Me Acostumbré a Ti / Chica Brasilera \- Live Session](https://open.spotify.com/track/6Oi8YNK9aVuQxlrmtF0a3M) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [Me Acostumbré a Ti / Chica Brasilera \(Live Session\)](https://open.spotify.com/album/23xgXJA2MLnOAXHy9JQiBc) | 5:40 |
 
-Snapshot ID: `MTY1MDI0Mzc0NiwwMDAwMDAwMDEzOTc1Yjk4NjFhNWEzYzhmZGQxMjIzN2Y5MmQxMzE1`
+Snapshot ID: `MTY1MDI2MzYzMCwwMDAwMDAwMDEzOTc1Yjk4NjFhNWEzYzhmZGQxMjIzN2Y5MmQxMzE1`

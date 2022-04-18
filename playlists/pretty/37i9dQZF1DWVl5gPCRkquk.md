@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,935 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,960 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 100 | [Shining in the Distance](https://open.spotify.com/track/7zVCsUqv1axiLwZ4YSDksc) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Magic Fire](https://open.spotify.com/album/0X8Ol2szBcUSf3phKT2IBf) | 4:25 |
 
-Snapshot ID: `MTY1MDI0MzY4NywwMDAwMDAwMGQxNWYzM2E3ZmM1NjJmMGVkMmU4NDRkMDA3MmUyOWVm`
+Snapshot ID: `MTY1MDI2MzU3MCwwMDAwMDAwMGQxNWYzM2E3ZmM1NjJmMGVkMmU4NDRkMDA3MmUyOWVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,879 likes - 225 songs - 14 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,908 likes - 225 songs - 14 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 224 | [The Reason](https://open.spotify.com/track/0PIraUtGOhQUagM1sZAZNk) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [High Skool Rocks](https://open.spotify.com/album/35jLWCdqhbw1ThXIUfyXjP) | 3:53 |
 | 225 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 |
 
-Snapshot ID: `MTY1MDI0NDA3NiwwMDAwMDAwMDM5MTEyYzFhNDI1ZGRjNjkwNjAzOTNlOTE3OGM1NzFh`
+Snapshot ID: `MTY1MDI2Mzk2OCwwMDAwMDAwMDM5MTEyYzFhNDI1ZGRjNjkwNjAzOTNlOTE3OGM1NzFh`

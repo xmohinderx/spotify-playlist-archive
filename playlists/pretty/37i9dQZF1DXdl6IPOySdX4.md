@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,592 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,422 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 79 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
 | 80 | [NOT FAIR \(feat\. Corbin\)](https://open.spotify.com/track/10XwT9r62bJtgK07aaitUk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:46 |
 
-Snapshot ID: `MTY1MDI0NDE5OCwwMDAwMDAwMDk4NGM4MWY1MmM0MTQ5YzUxODI1ZTVkOTE1Yjc2Yzli`
+Snapshot ID: `MTY1MDI2NDA5MSwwMDAwMDAwMDk4NGM4MWY1MmM0MTQ5YzUxODI1ZTVkOTE1Yjc2Yzli`

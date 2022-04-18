@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,606 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,619 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 49 | [Gotta Hold On To This Feeling](https://open.spotify.com/track/2dlVeyhP1kM1xdfJGN6gpG) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [20th Century Masters: The Millennium Collection: Best of Jr\. Walker & The All Stars](https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y) | 3:34 |
 | 50 | [Do I Love You \(Indeed I Do\) \- Alternate Mix](https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf) | [Chris Clark](https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm) | [A Cellarful Of Motown!](https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks) | 2:30 |
 
-Snapshot ID: `MTY1MDI0Mzc0MSwwMDAwMDAwMGZkODNiNGFmNGFlNzMxMWYyNDA3YTdhNWFiYzgyNWI2`
+Snapshot ID: `MTY1MDI2MzYyNSwwMDAwMDAwMGZkODNiNGFmNGFlNzMxMWYyNDA3YTdhNWFiYzgyNWI2`

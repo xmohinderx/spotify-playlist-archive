@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,847 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,863 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Brujerías](https://open.spotify.com/track/0RTG5cFeF2mF0BBEkqYruz) | [Jhonny Farfán](https://open.spotify.com/artist/1jkXMtjlfNzgqNkdpOcfB4) | [Serie Majestad: Boleros Cantineros](https://open.spotify.com/album/38l6VrPhkeI4WDDmxzbgAO) | 2:24 |
 | 60 | [Verdad Amarga](https://open.spotify.com/track/3IFP8kVXqDOwh3sMlfpaJ7) | [Elena Romero](https://open.spotify.com/artist/3XJXZS6MuLg9zCVJE4Gp7E) | [Divas Peruanas del Bolero, Vol\. 1](https://open.spotify.com/album/7aU7bwPKjedcZdNNuzNMvd) | 3:38 |
 
-Snapshot ID: `MTY1MDI0MzY2MSwwMDAwMDAwMDJkZmRmMmM1YzIwMWExNzdiZjgzMmUwYTJlNGM3MGIw`
+Snapshot ID: `MTY1MDI2MzU0MywwMDAwMDAwMDJkZmRmMmM1YzIwMWExNzdiZjgzMmUwYTJlNGM3MGIw`

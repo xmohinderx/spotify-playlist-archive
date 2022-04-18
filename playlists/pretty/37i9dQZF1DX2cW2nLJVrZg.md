@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees from the 94th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,009 likes - 15 songs - 44 min 42 sec
+[Spotify](https://open.spotify.com/user/spotify) - 88,007 likes - 15 songs - 44 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 14 | [It's A Strange Glorious World](https://open.spotify.com/track/1SshbVdE2eoozhRWnVDIuL) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 2:34 |
 | 15 | [West](https://open.spotify.com/track/3ypfBm8PmKIn9UPhBsCVQF) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5RLVzdxmFASWZcFoVYKPv8) | 2:32 |
 
-Snapshot ID: `MTY1MDI0Mzg4NSwwMDAwMDAwMDRlMGRjNDNiZmU3ZmFkYmJlZDRmMzg3MGQ2ZGUzZWYw`
+Snapshot ID: `MTY1MDI2Mzc3MiwwMDAwMDAwMDRlMGRjNDNiZmU3ZmFkYmJlZDRmMzg3MGQ2ZGUzZWYw`

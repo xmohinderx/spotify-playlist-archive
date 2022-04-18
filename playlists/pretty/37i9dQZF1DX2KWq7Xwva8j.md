@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,817 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,819 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [FANTASÍA PLACEBO](https://open.spotify.com/track/358iToEIfsdRm5pRiXdVfv) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [KOR KOR LAKE](https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk) | 3:20 |
 | 50 | [cuando anochece](https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH) | 3:05 |
 
-Snapshot ID: `MTY1MDI0Mzg3NiwwMDAwMDAwMGQ2M2YwNjg0MjYwNzc0NTdiZmIwM2U1MzQwNDZjZWYz`
+Snapshot ID: `MTY1MDI2Mzc2NCwwMDAwMDAwMGQ2M2YwNjg0MjYwNzc0NTdiZmIwM2U1MzQwNDZjZWYz`

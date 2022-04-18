@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: ARIETE
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,065 likes - 69 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,051 likes - 69 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [Iparho Gia Sena](https://open.spotify.com/track/5IGLonlYXv0TCsw0gHhqBr) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [Iparho Gia Sena](https://open.spotify.com/album/4lkyzgLGV1SmJv0UW3Pw4h) | 3:36 |
 | 69 | [Qué Tal](https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Qué Tal](https://open.spotify.com/album/4ygfd1lPGeyflD5NtWR8AT) | 2:59 |
 
-Snapshot ID: `MTY1MDI0MzY0NSwwMDAwMDAwMGNjMDIxNGQ0MzNiYWQ4ODNjMTBlNTk5YjFlYWM0YTFi`
+Snapshot ID: `MTY1MDI2MzUyNywwMDAwMDAwMGNjMDIxNGQ0MzNiYWQ4ODNjMTBlNTk5YjFlYWM0YTFi`

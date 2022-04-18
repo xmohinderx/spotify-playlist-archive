@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > bops you can always rely on ◡̈
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,777 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,820 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 99 | [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 |
 | 100 | [Fired Up](https://open.spotify.com/track/030CNJwkkIkLedZhBlLReh) | [Evan Torrente](https://open.spotify.com/artist/4DVUPd8bfkx2b1TvHKFVVF) | [Fired Up](https://open.spotify.com/album/3P4xycP0wCQBxFGHWUVmud) | 3:01 |
 
-Snapshot ID: `MTY1MDI0MzkxMiwwMDAwMDAwMGRhZTU4MzI3YjFhNmFlYmVhZDlkZmJkMDUyMzllZGNj`
+Snapshot ID: `MTY1MDI2MzgwMSwwMDAwMDAwMGRhZTU4MzI3YjFhNmFlYmVhZDlkZmJkMDUyMzllZGNj`

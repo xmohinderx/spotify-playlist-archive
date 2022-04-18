@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > The freshest smooth jazz\. Cover: Nick Colionne
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,193 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,192 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 79 | [Think Critically](https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st) | [Think Critically](https://open.spotify.com/album/3yqlMgLOD7vcIr709YGGt5) | 4:11 |
 | 80 | [Driving All Night](https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [Driving All Night](https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz) | 3:30 |
 
-Snapshot ID: `MTY1MDI0MzYxNywwMDAwMDAwMGUxOTNkMGZkZTkyN2QzODEwMGYzMjI5YzA5NjYyMmNk`
+Snapshot ID: `MTY1MDI2MzQ5OSwwMDAwMDAwMGUxOTNkMGZkZTkyN2QzODEwMGYzMjI5YzA5NjYyMmNk`

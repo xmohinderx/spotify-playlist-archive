@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > ¡Que viva el amor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,508 likes - 130 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,527 likes - 130 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 129 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 |
 | 130 | [Mírame](https://open.spotify.com/track/7iKguNIjaONzqnKTLjfRT1) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mírame](https://open.spotify.com/album/46zXCAod1c2VPBrEqIMYaw) | 3:24 |
 
-Snapshot ID: `MTY1MDI0MzY2MSwwMDAwMDAwMDY5NzI1NTZmYTcxYjY0MGFiYzcwOGZjNGU3ZmY4Mjll`
+Snapshot ID: `MTY1MDI2MzU0NCwwMDAwMDAwMDY5NzI1NTZmYTcxYjY0MGFiYzcwOGZjNGU3ZmY4Mjll`

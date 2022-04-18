@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > No need to stress out\. Stay relaxed with these easy, upbeat songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,334 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,407 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 |
 | 100 | [Sometimes Love Takes So Long](https://open.spotify.com/track/0WH1FwH09z2iJ84dRFODcm) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Sometimes Love Takes So Long](https://open.spotify.com/album/54MM8pLcgnDSIWYtt2ikPK) | 3:40 |
 
-Snapshot ID: `MTY1MDI0MzYxNCwwMDAwMDAwMDFlNDAzOTU1ZGUwOTY4NGQ0ZDhkZmFhZGE5ZTVmZDA4`
+Snapshot ID: `MTY1MDI2MzQ5NiwwMDAwMDAwMDFlNDAzOTU1ZGUwOTY4NGQ0ZDhkZmFhZGE5ZTVmZDA4`

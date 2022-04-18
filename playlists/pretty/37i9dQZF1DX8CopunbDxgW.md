@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring TOKiMONSTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,302 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,323 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Knots](https://open.spotify.com/track/6IeHxwTYKiUlYPuE5G8X3I) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Knots](https://open.spotify.com/album/1tW8OHgYsALKscZLNaL29t) | 3:50 |
 | 100 | [Shady](https://open.spotify.com/track/6MuqVtrSYOc2CQj65jv8JM) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Shady](https://open.spotify.com/album/45Xyp7bEpghpqDHM0fJZe1) | 3:24 |
 
-Snapshot ID: `MTY1MDI0NDA0NSwwMDAwMDAwMDIzMmMxYTQ1MjRiNTljZjVmZjY0ODRkY2JmNzkyYzkw`
+Snapshot ID: `MTY1MDI2MzkzNywwMDAwMDAwMDIzMmMxYTQ1MjRiNTljZjVmZjY0ODRkY2JmNzkyYzkw`

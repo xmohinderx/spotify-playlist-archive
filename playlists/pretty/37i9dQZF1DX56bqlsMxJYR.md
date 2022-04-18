@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,180 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,251 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [Day\-O](https://open.spotify.com/track/3wBEiVtKNaLBRImRtlZRbZ) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [All Time Greatest Hits Volume 1](https://open.spotify.com/album/7fi394FGU8dioWCI02DqXr) | 3:03 |
 | 100 | [Sh\-Boom](https://open.spotify.com/track/3EcdioSeXbtELIdpFGDg5W) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [Doo\-Wop](https://open.spotify.com/album/2W5CiPEbYAW5UTbiPYsnCa) | 2:46 |
 
-Snapshot ID: `MTY1MDI0Mzk1NiwwMDAwMDAwMDM5MWUyZmY1YzI0ODhiMjIzYzU0ZGE4MGQwMjJjNjA0`
+Snapshot ID: `MTY1MDI2Mzg0NywwMDAwMDAwMDM5MWUyZmY1YzI0ODhiMjIzYzU0ZGE4MGQwMjJjNjA0`

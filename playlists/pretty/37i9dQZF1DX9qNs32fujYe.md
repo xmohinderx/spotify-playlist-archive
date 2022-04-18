@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Iron Maiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,970 likes - 140 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,088 likes - 140 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [Rust](https://open.spotify.com/track/4elropktXruOm2D4GtVYFG) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Rust](https://open.spotify.com/album/2huanipy21QuL0Ty1VjykW) | 3:17 |
 | 140 | [Monarch](https://open.spotify.com/track/3qNhMJ4T70gVZPDaj3dCi8) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Monarch](https://open.spotify.com/album/5wd6XULvXyHvuxFq2wO3vY) | 4:52 |
 
-Snapshot ID: `MTY1MDI0NDA5MSwwMDAwMDAwMGEyNTQ3MTUyZWE4N2Q1OWQ4YzAxYzY5YTg0Njc1ODQ1`
+Snapshot ID: `MTY1MDI2Mzk4MiwwMDAwMDAwMGEyNTQ3MTUyZWE4N2Q1OWQ4YzAxYzY5YTg0Njc1ODQ1`

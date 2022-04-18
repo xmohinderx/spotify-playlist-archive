@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > Sweater Weather is officially 10 years old..\. rip\. Cover: The Neighbourhood
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,563 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,570 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 49 | [Bad](https://open.spotify.com/track/3igu6bCzkaIrioZIhK3p2n) | [The Cab](https://open.spotify.com/artist/2C2sVVXanbOpymYBMpsi89) | [Symphony Soldier](https://open.spotify.com/album/27kmprYNLOGnR8roobHW5D) | 3:19 |
 | 50 | [Something Good Can Work](https://open.spotify.com/track/1aGvLFHJ2shKqO9uycaUcW) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0gyRFAfY08NFv7N8RTFg9M) | 2:44 |
 
-Snapshot ID: `MTY1MDI0MzU5MSwwMDAwMDAwMGRkOWMzYTVjNTdjNTBiY2Y1YjQ3MGFkZWUwODBmZWJi`
+Snapshot ID: `MTY1MDI2MzQ3NCwwMDAwMDAwMGRkOWMzYTVjNTdjNTBiY2Y1YjQ3MGFkZWUwODBmZWJi`

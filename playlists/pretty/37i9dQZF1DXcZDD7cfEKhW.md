@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Jennifer Lopez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,294,792 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,294,830 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Cinema \(feat\. Gary Go\) \- Galantis Remix](https://open.spotify.com/track/1wqCgefGSAaJ6bezrlXZvn) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Cinema \(feat\. Gary Go\) \[Galantis Remix\]](https://open.spotify.com/album/2DffJulBDpiCxYeBalf8Hg) | 3:16 |
 | 100 | [Venus Fly Trap \(Kito Remix\) \[feat\. Tove Lo\]](https://open.spotify.com/track/3Zip43ntvkVIZJLCxOcNXl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Venus Fly Trap \(Kito Remix\) \[feat\. Tove Lo\]](https://open.spotify.com/album/5ZiwyDryPVIfqp9otfuX5r) | 2:42 |
 
-Snapshot ID: `MTY1MDI0NDE2NCwwMDAwMDAwMDJjNWZjMTdiMjIxY2Q1NDliMzczZmJlZmNkZGZkNGEy`
+Snapshot ID: `MTY1MDI2NDA1NiwwMDAwMDAwMDJjNWZjMTdiMjIxY2Q1NDliMzczZmJlZmNkZGZkNGEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: oso oso
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,411 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,414 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 100 | [Falling Apart](https://open.spotify.com/track/4pKNzf3s40YdmnSgWhybGc) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Falling Apart](https://open.spotify.com/album/1MfOtAIberEkZF45wGRnoX) | 2:46 |
 
-Snapshot ID: `MTY1MDI0NDA4OCwwMDAwMDAwMDkwYzI5MjllY2UzMTA3MDhjYjAyYjI1MWFiNmQ3MDlj`
+Snapshot ID: `MTY1MDI2Mzk4MCwwMDAwMDAwMDkwYzI5MjllY2UzMTA3MDhjYjAyYjI1MWFiNmQ3MDlj`

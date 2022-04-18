@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > turn up with Duki, De La Ghetto, Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705,741 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,705,745 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 79 | [Sauce Boy Freestyle 5](https://open.spotify.com/track/69L3B6ZuwodK4NL8bAPgJc) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:56 |
 | 80 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
 
-Snapshot ID: `MTY1MDI0NDA2NCwwMDAwMDAwMDUxOGI5M2NmZmMwZmMyM2Q5MTQ5ZGZiYjg3N2NjNzY0`
+Snapshot ID: `MTY1MDI2Mzk1NiwwMDAwMDAwMDUxOGI5M2NmZmMwZmMyM2Q5MTQ5ZGZiYjg3N2NjNzY0`

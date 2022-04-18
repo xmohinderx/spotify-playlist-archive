@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,596 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,612 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Chrome Dreams](https://open.spotify.com/track/6Z4YT5Qz3FAjURIhAlacsF) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/6UV2yKGCSjwpoBHra6IaRc) | 6:16 |
 | 100 | [Magnolia](https://open.spotify.com/track/6JXvHo8tnOEOJPJpFCcDmB) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [Magnolia](https://open.spotify.com/album/5Pe3WSpP2eSJHgy3yNMpRj) | 4:44 |
 
-Snapshot ID: `MTY1MDI0MzY3OSwwMDAwMDAwMDFiYTFlYTUwMzQ0ZDVhZGM5NzQ0MjUxZTUyY2E1YjQ1`
+Snapshot ID: `MTY1MDI2MzU2MSwwMDAwMDAwMDFiYTFlYTUwMzQ0ZDVhZGM5NzQ0MjUxZTUyY2E1YjQ1`

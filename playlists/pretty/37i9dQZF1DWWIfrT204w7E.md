@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Fivio Foreign
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,021 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,052 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Slide](https://open.spotify.com/track/63ZJ1O6WA44R6ifMT9z2Ye) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Slide](https://open.spotify.com/album/0OUMQ70DNqNLCW3UIITM8b) | 3:01 |
 | 50 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/72ozIjVFHpAnKGcuYpCfb7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:23 |
 
-Snapshot ID: `MTY1MDI0MzcwNSwwMDAwMDAwMGMxMTE1ODcwZTE5ZWU2Zjg3ODRiYTdjMjdjNDYzMDQ3`
+Snapshot ID: `MTY1MDI2MzU4OCwwMDAwMDAwMGMxMTE1ODcwZTE5ZWU2Zjg3ODRiYTdjMjdjNDYzMDQ3`

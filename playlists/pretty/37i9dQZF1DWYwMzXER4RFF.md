@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: BODEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,011 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,015 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Invading the World of the Guilty as a Spirit of Vengeance](https://open.spotify.com/track/3AgbLyU5SYYnRuupVUOzVX) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Invading the World of the Guilty as a Spirit of Vengeance](https://open.spotify.com/album/18JdBks3zqAR2ohBFdGym8) | 5:50 |
 | 55 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 |
 
-Snapshot ID: `MTY1MDI0Mzc3OSwwMDAwMDAwMDFhMDhmMzU3OTJkYzczOTE5ZDEyZWU5MmNlYjBmODUz`
+Snapshot ID: `MTY1MDI2MzY2NSwwMDAwMDAwMDFhMDhmMzU3OTJkYzczOTE5ZDEyZWU5MmNlYjBmODUz`

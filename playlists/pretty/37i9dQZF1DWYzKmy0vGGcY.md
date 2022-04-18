@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,192 likes - 122 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,244 likes - 122 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 121 | [The Windmills Of Your Mind](https://open.spotify.com/track/3R8yWUufDclG1sVQgUpwzQ) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 3:47 |
 | 122 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM) | 2:57 |
 
-Snapshot ID: `MTY1MDI0Mzc4MCwwMDAwMDAwMDI3YmQwNjRjN2UyMDQ3MmE4M2U2MWQ1ZTBkYmE1NWZh`
+Snapshot ID: `MTY1MDI2MzY2NiwwMDAwMDAwMDI3YmQwNjRjN2UyMDQ3MmE4M2U2MWQ1ZTBkYmE1NWZh`

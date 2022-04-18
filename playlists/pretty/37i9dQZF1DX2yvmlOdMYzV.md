@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > just chill..\. respectfully
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,830 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,927 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Say It](https://open.spotify.com/track/65Z2lFJMMVdHpBCL0k5Qub) | [Oliv Blu](https://open.spotify.com/artist/68iX9SpJQmbuaDfBjJSOlr) | [Say It](https://open.spotify.com/album/3s7NZeo46K9lNNre5Cvpdw) | 3:33 |
 | 100 | [single \(on the weekend\)](https://open.spotify.com/track/1CjvcxzHY3tbv63jui6y8A) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [single \(on the weekend\)](https://open.spotify.com/album/2NhxhIx40txRsi2CbzWpLz) | 2:35 |
 
-Snapshot ID: `MTY1MDI0Mzg5NSwwMDAwMDAwMGIxYjc5MmQ5MzViMGIwM2YyZjJmMTZhYWNkYjkxOTkz`
+Snapshot ID: `MTY1MDI2Mzc4MywwMDAwMDAwMGIxYjc5MmQ5MzViMGIwM2YyZjJmMTZhYWNkYjkxOTkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,548 likes - 200 songs - 16 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,605 likes - 200 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [Fiction Of A Sea](https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 3:29 |
 | 200 | [Beloved Exile](https://open.spotify.com/track/6GmwkRZj0DlG1j6EDBCwZR) | [Steve Moore](https://open.spotify.com/artist/7kcEevbRjcqtpjVgoYcq05) | [Beloved Exile](https://open.spotify.com/album/4EC7YX68yL7hApqRVeSSEz) | 5:25 |
 
-Snapshot ID: `MTY1MDI0MzcyNCwwMDAwMDAwMGE3ZjViOGZkNDc1MDQ1NWFlY2FjZGQ2ZjIyNmFjMTQw`
+Snapshot ID: `MTY1MDI2MzYwNywwMDAwMDAwMGE3ZjViOGZkNDc1MDQ1NWFlY2FjZGQ2ZjIyNmFjMTQw`

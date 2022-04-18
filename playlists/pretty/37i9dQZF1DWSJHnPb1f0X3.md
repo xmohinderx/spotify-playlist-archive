@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,486,598 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,486,757 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Wanna Be the One](https://open.spotify.com/track/4XOyojJ6qH3kNcPh8ghtWm) | [Alex Byrne](https://open.spotify.com/artist/7FhCOc9LXEP4tAFgqb46Zw), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Wanna Be the One](https://open.spotify.com/album/1Dv4LmLgRG8qCcr1gURaSC) | 3:17 |
 | 100 | [Disappears](https://open.spotify.com/track/4B7wjLlWlczh0TkpxPqYm1) | [Terry McLove](https://open.spotify.com/artist/3FFEbEOgS5QZo0bZ0LnPD9), [Dovie](https://open.spotify.com/artist/6kUxuJhZ7S2VmXmxhq8hYY) | [Disappears](https://open.spotify.com/album/6uGyAZG3112ielKVx9ePoe) | 3:12 |
 
-Snapshot ID: `MTY1MDI0MzU5MCwwMDAwMDAwMDU4MmRhY2RlOTA4NTkwMTE2ZjM3YTFhZTMzYzY1NTZm`
+Snapshot ID: `MTY1MDI2MzQ3MiwwMDAwMDAwMDU4MmRhY2RlOTA4NTkwMTE2ZjM3YTFhZTMzYzY1NTZm`

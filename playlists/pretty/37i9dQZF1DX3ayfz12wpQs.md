@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ayfz12wpQs.md) - [plain]
 
 > Sunny chill songs and that beach vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,202 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,200 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ayfz12wpQs.md) - [plain]
 | 68 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 | 69 | [These Shadows](https://open.spotify.com/track/058ylCuWsj0Q85LWviID7u) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:25 |
 
-Snapshot ID: `MTY1MDI0MzkxNiwwMDAwMDAwMGIzYjNkODQwYzFkMzE4YWQ5NDk0ZmQ3MjA2ODQwNzY1`
+Snapshot ID: `MTY1MDI2MzgwNSwwMDAwMDAwMGIzYjNkODQwYzFkMzE4YWQ5NDk0ZmQ3MjA2ODQwNzY1`

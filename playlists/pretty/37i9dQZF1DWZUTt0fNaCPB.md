@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,291 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,337 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [365](https://open.spotify.com/track/6NgdiN6wiPU7a3bgU85tKV) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [365](https://open.spotify.com/album/5OIeDqGRB3hbUOf7bbubEJ) | 3:28 |
 | 75 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
 
-Snapshot ID: `MTY1MDI0Mzc5MSwwMDAwMDAwMDBlOTc4YzViMjYyNjBmMDFjZTljNTI5OTQ0ODIwODE0`
+Snapshot ID: `MTY1MDI2MzY3NywwMDAwMDAwMDBlOTc4YzViMjYyNjBmMDFjZTljNTI5OTQ0ODIwODE0`

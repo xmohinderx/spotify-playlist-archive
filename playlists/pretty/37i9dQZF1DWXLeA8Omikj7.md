@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,576,654 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,576,678 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Rotterdam Rita](https://open.spotify.com/track/5IR1lBGpLzpwur6hBUXRTI) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Rotterdam Rita](https://open.spotify.com/album/7hJy8dAHvo1L9rt7Fx2lcc) | 2:18 |
 | 100 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 |
 
-Snapshot ID: `MTY1MDI0MzczNywwMDAwMDAwMDMyODI1MTlmNzgyY2U3NzNiNzNkZjViMTliMjVkMTgy`
+Snapshot ID: `MTY1MDI2MzYyMSwwMDAwMDAwMDMyODI1MTlmNzgyY2U3NzNiNzNkZjViMTliMjVkMTgy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > Songs for when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,918 likes - 125 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,040 likes - 125 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 124 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 |
 | 125 | [All the Debts I Owe](https://open.spotify.com/track/6255IIBwKySv6RYrOeHfQh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 3:13 |
 
-Snapshot ID: `MTY1MDI0MzcyMSwwMDAwMDAwMGVhYjE5MjU2ZDNhN2Q3ZWFjMmQ5Yzg0OWJiMDdiMjRl`
+Snapshot ID: `MTY1MDI2MzYwNSwwMDAwMDAwMGVhYjE5MjU2ZDNhN2Q3ZWFjMmQ5Yzg0OWJiMDdiMjRl`
