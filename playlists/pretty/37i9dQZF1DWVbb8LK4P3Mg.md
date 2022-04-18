@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,752 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,743 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [The First Snow 첫눈](https://open.spotify.com/track/6kK5mwDeNf2VjcXVKri2qI) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [Sandara Park](https://open.spotify.com/artist/3LKVw6XQYcot0OZMFmf4IP) | [The First Snow 첫눈](https://open.spotify.com/album/6jq5BOn5PMKvBMA34cDV7t) | 3:52 |
 | 100 | [Lonely Christmas](https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Lonely Christmas](https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a) | 3:37 |
 
-Snapshot ID: `MTY1MDE1Njk5NiwwMDAwMDAwMGFkOGY5NjA1MzkzNmM0OWE4OTBkYzkwZGNhNTBlZGU5`
+Snapshot ID: `MTY1MDI0MzY4MSwwMDAwMDAwMGFkOGY5NjA1MzkzNmM0OWE4OTBkYzkwZGNhNTBlZGU5`

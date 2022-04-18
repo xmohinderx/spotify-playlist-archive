@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Black Polish, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,299 likes - 59 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,490 likes - 59 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 58 | [Periwinkle](https://open.spotify.com/track/6CVHJkSw1VomefpLOOxIUE) | [colleen dow](https://open.spotify.com/artist/1TkYhihp4BiyP0JnhIoyRI) | [Periwinkle](https://open.spotify.com/album/4XKnNKmJotZzQd6Qk3qYLI) | 2:59 |
 | 59 | [Meant 4 u](https://open.spotify.com/track/6WaelsqiK0obqcmaSup3nS) | [Kierra the Goddess](https://open.spotify.com/artist/1Rm4i7p3cZu98ijRCgGDPI) | [Meant 4 u](https://open.spotify.com/album/7jfQ51q2jmIwFFSCXSBU8G) | 3:40 |
 
-Snapshot ID: `MTY1MDE1NzAzNCwwMDAwMDAwMDA2MWY4OTcxOTk0YzU1YWY0NmUwYWFlNDI5ZmFiNmI3`
+Snapshot ID: `MTY1MDI0MzcxOCwwMDAwMDAwMDA2MWY4OTcxOTk0YzU1YWY0NmUwYWFlNDI5ZmFiNmI3`

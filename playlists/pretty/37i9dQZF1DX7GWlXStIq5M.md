@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,481 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,486 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 89 | [Fuuga](https://open.spotify.com/track/27C3ZWAo3xPFR6rXw2sfHI) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw), [Dj Coala](https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI) | [Fuuga](https://open.spotify.com/album/1hMEnHTNEDjElq7I7SGMuT) | 2:15 |
 | 90 | [P2](https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:54 |
 
-Snapshot ID: `MTY1MDE1NzM2NCwwMDAwMDAwMGNkYmVmMDcwNGVkNWI3ZDRmOTJlMzRhZjQ5YTU2ZmE0`
+Snapshot ID: `MTY1MDI0NDAyMSwwMDAwMDAwMGNkYmVmMDcwNGVkNWI3ZDRmOTJlMzRhZjQ5YTU2ZmE0`

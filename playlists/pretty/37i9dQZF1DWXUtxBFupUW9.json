@@ -1,130 +1,50 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 247471,
+  "num_followers": 247606,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE1NzA1OSwwMDAwMDAwMGIyODI3MDZiNzE3NDAwNWJmNzgyYWQ4YWZiZmMxZTcy",
+  "snapshot_id": "MTY1MDI0Mzc0MSwwMDAwMDAwMGZkODNiNGFmNGFlNzMxMWYyNDA3YTdhNWFiYzgyNWI2",
   "tracks": [
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "The Soul Of Ike & Tina Turner/Dynamite",
+        "url": "https://open.spotify.com/album/4RWnp2sE62F8sOMSrLpLD1"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+      "duration_ms": 160626,
+      "name": "A Fool In Love",
+      "url": "https://open.spotify.com/track/0BEAJe98RE0jJepJYlpPMB"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/6pDK4Z6EZy39RSvD4HWhTn"
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
       "artists": [
         {
-          "name": "Jr. Walker & The All Stars",
-          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 240573,
-      "name": "Take Me Girl, I'm Ready",
-      "url": "https://open.spotify.com/track/5LHHNatzxpJ9uxFVv4z9zZ"
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "50 Summer Hits",
-        "url": "https://open.spotify.com/album/4iRt5STyQudfgvq3Gt2ki6"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/2uxrnrPd9LaIs86FNudcjT"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Rhino Hi-Five: Arthur Conley",
-        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "The Very Best Of Eddie Floyd",
-        "url": "https://open.spotify.com/album/7oCLGE1xcu1vCRLPBJ0XTd"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "I've Never Found A Girl (To Love Me Like You Do)",
-      "url": "https://open.spotify.com/track/6qUKvwwXss4ACF4bwXPujP"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "No Matter The Season",
-        "url": "https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL"
-      },
-      "artists": [
-        {
-          "name": "Eamon",
-          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
-        }
-      ],
-      "duration_ms": 138223,
-      "name": "Come On Through",
-      "url": "https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "The Eternal Dance",
-        "url": "https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "September",
-      "url": "https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "Soul Manifesto: 1964-1970",
+        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
       },
       "artists": [
         {
@@ -132,9 +52,41 @@
           "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 161480,
-      "name": "Shake - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6RkyopJ2y0DnoIrq57zrap"
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "The Best of Sister Sledge (1973-1985)",
+        "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "21 of the Best 1971-83",
+        "url": "https://open.spotify.com/album/4j6nnx5GbYTA62VB02S4ym"
+      },
+      "artists": [
+        {
+          "name": "Millie Jackson",
+          "url": "https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "My Man, a Sweet Man",
+      "url": "https://open.spotify.com/track/2SQcpV8DdTbnMOhecspYEl"
     },
     {
       "added_at": "2022-03-24 12:20:35",
@@ -155,8 +107,40 @@
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+        "name": "Rhino Hi-Five: Arthur Conley",
+        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165744,
+      "name": "The Way You Do The Things You Do",
+      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Get On Up - The James Brown Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IRbJUSU6v0dJr8IZvX1IP"
       },
       "artists": [
         {
@@ -164,237 +148,169 @@
           "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 125706,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
+      "duration_ms": 167346,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/3ASrlku9X40moDdtdoPDqb"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "The Wonderful World Of Sam Cooke (Remastered)",
-        "url": "https://open.spotify.com/album/4y3NeFX7yaEzQfxy70NhZ3"
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
         }
       ],
-      "duration_ms": 125506,
-      "name": "(What A) Wonderful World - Remastered",
-      "url": "https://open.spotify.com/track/27K3ZDS5B4fwjhwyihrdzC"
+      "duration_ms": 200066,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "Shotgun - MotownSelect.com",
-        "url": "https://open.spotify.com/album/00w16tADWvPLCdmN9WhQuu"
+        "name": "The Ultimate Collection: Four Tops",
+        "url": "https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v"
       },
       "artists": [
         {
-          "name": "Jr. Walker & The All Stars",
-          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 282333,
-      "name": "Tally Ho!",
-      "url": "https://open.spotify.com/track/4doVTABOiGV6XEytZtV2Dv"
+      "duration_ms": 179666,
+      "name": "Reach Out I'll Be There - Single Version / Mono",
+      "url": "https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+        "name": "The in Crowd",
+        "url": "https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
         }
       ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 178133,
+      "name": "Out on the Floor",
+      "url": "https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "Machine Gun",
-        "url": "https://open.spotify.com/album/5ZH8WLX5Ta8zkTSiWQIpMx"
+        "name": "Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963",
+        "url": "https://open.spotify.com/album/0cM9qP6HmXg0JaAuAFdGeo"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "James Ray",
+          "url": "https://open.spotify.com/artist/5DG3ZUxWmaQySIbGHdq03J"
         }
       ],
-      "duration_ms": 159466,
-      "name": "Machine Gun",
-      "url": "https://open.spotify.com/track/6LU9Z9Sif4Lpu1B4PAwCuj"
+      "duration_ms": 206093,
+      "name": "I've Got My Mind Set On You",
+      "url": "https://open.spotify.com/track/0qPeLt28yVM4wScp8qt8xY"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4zjzKwovnTwVxg4ckO6YGU"
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
       "artists": [
         {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 169893,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/4QNviFJLZ8SrjhkTkDbvyU"
+      "duration_ms": 495400,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "The Soul Of Ike & Tina Turner/Dynamite",
-        "url": "https://open.spotify.com/album/4RWnp2sE62F8sOMSrLpLD1"
+        "name": "The Best Of Barnet Mimms: Cry Baby",
+        "url": "https://open.spotify.com/album/0Kj6PjTGFNnh8EsFPPj3cI"
       },
       "artists": [
         {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+          "name": "Garnet Mimms & The Enchanters",
+          "url": "https://open.spotify.com/artist/1ktvF9yU9iWgY0aGlKfTS4"
         }
       ],
-      "duration_ms": 160626,
-      "name": "A Fool In Love",
-      "url": "https://open.spotify.com/track/0BEAJe98RE0jJepJYlpPMB"
+      "duration_ms": 164040,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/4U3NxdMXeHIGph2gjDyQqK"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "Mixed-Up, Shook-Up Girl",
-        "url": "https://open.spotify.com/album/6THmxCmxzsOf1gbZZrsyrO"
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
       "artists": [
         {
-          "name": "Patty & The Emblems",
-          "url": "https://open.spotify.com/artist/3YNciz35JttEP3tpD392Up"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 126920,
-      "name": "Mixed-Up, Shook-Up Girl",
-      "url": "https://open.spotify.com/track/1pVFchEqnrpIEtuGrB4srT"
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "The Ultimate Peter And Gordon",
-        "url": "https://open.spotify.com/album/2Eabt9Pi7zWreJJxcNkIw6"
+        "name": "The Very Best Of The Velvelettes",
+        "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
       },
       "artists": [
         {
-          "name": "Peter And Gordon",
-          "url": "https://open.spotify.com/artist/6lHC2EQMEMZiEmSfFloarn"
+          "name": "The Velvelettes",
+          "url": "https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi"
         }
       ],
-      "duration_ms": 160880,
-      "name": "A World Without Love",
-      "url": "https://open.spotify.com/track/1A0j6qANKHgk7VZ6uvYO06"
+      "duration_ms": 149866,
+      "name": "Needle In A Haystack",
+      "url": "https://open.spotify.com/track/26fSgIa539TCK3KV76chHU"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+        "name": "True to Myself",
+        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
         }
       ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+      "duration_ms": 240360,
+      "name": "Spiritual Thang",
+      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+        "name": "The Phil-LA of Soul Singles Collection 1968-1972",
+        "url": "https://open.spotify.com/album/1T0rnH4pe84Dh0X2g1F8wW"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Cliff Nobles",
+          "url": "https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz"
         }
       ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Boogie Wonderland: The Best Of Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 288226,
-      "name": "Boogie Wonderland - with The Emotions",
-      "url": "https://open.spotify.com/track/11I3sRmPhmBKwQtz5dAsXF"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Rhino Hi-Five: Wilson Pickett",
-        "url": "https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Six Pack",
-        "url": "https://open.spotify.com/album/0PXUcppvK5YmC5QiWpLdLi"
-      },
-      "artists": [
-        {
-          "name": "The Formations",
-          "url": "https://open.spotify.com/artist/4VSXRIlvdkUtEFAXDS4TfQ"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "At the Top of the Stairs",
-      "url": "https://open.spotify.com/track/0rA9NWth0fNN62CcpCPLvr"
+      "duration_ms": 162213,
+      "name": "Love Is All Right",
+      "url": "https://open.spotify.com/track/5ZCUC4JTYg4JmAXWQotV5T"
     },
     {
       "added_at": "2022-03-24 12:20:35",
@@ -419,22 +335,6 @@
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
         "name": "Choice Cuts",
         "url": "https://open.spotify.com/album/7Ezb6ruoLgHkUnDTPwo39u"
       },
@@ -447,330 +347,6 @@
       "duration_ms": 184466,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/6Ev3WGbBVBiftMGcBV5Bhg"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "The Phil-LA of Soul Singles Collection 1968-1972",
-        "url": "https://open.spotify.com/album/1T0rnH4pe84Dh0X2g1F8wW"
-      },
-      "artists": [
-        {
-          "name": "Cliff Nobles",
-          "url": "https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Love Is All Right",
-      "url": "https://open.spotify.com/track/5ZCUC4JTYg4JmAXWQotV5T"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Top Of The Line (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/4c4tI33EOpCwiI63xeEvJD"
-      },
-      "artists": [
-        {
-          "name": "Prince Phillip Mitchell",
-          "url": "https://open.spotify.com/artist/1mcgoGhFtck2Ro1DLI0Q2Q"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "I'm so Happy - Remastered Album Version",
-      "url": "https://open.spotify.com/track/3fV2tX8NDnDdIp8ZGxKOMU"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "If You Ever Get Your Hands On Love",
-      "url": "https://open.spotify.com/track/1BoUVp2lFv1Dx1TJWNbMut"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Cold Sweat & Other Soul Classics: James Brown",
-        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Get Up Offa That Thing",
-      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "At Last The Very Best Of",
-        "url": "https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "I Just Want To Make Love To You",
-      "url": "https://open.spotify.com/track/7EfLlY6Gen7TCbyZ3f0CM1"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Jr. Walker & The All Stars",
-        "url": "https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y"
-      },
-      "artists": [
-        {
-          "name": "Jr. Walker & The All Stars",
-          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Gotta Hold On To This Feeling",
-      "url": "https://open.spotify.com/track/2dlVeyhP1kM1xdfJGN6gpG"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/2IBl3cBVopZdPobnMBVzBt"
-      },
-      "artists": [
-        {
-          "name": "Mable John",
-          "url": "https://open.spotify.com/artist/2WKCi6dbtPIPiUzqSJWKRn"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Who Wouldn't Love A Man Like That - 1963 Single Version",
-      "url": "https://open.spotify.com/track/5NuayszykW1KOq5Y3cAKeA"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Discoveries",
-        "url": "https://open.spotify.com/album/2IEM1khpLZfgTuurMRrC1o"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 160986,
-      "name": "This Love Starved Heart Of Mine (It's Killing Me) - 1994 Love Starved Heart Version (Mono)",
-      "url": "https://open.spotify.com/track/3eGPEw02kcypTKLtcN1HPZ"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Come On And See Me: The Complete Solo Collection",
-        "url": "https://open.spotify.com/album/5XlcLrkQydIrYx2EFWYLHa"
-      },
-      "artists": [
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "Can't Stop Now (Love Is Calling)",
-      "url": "https://open.spotify.com/track/4tkXRRyXHlJ8RVZbzynnRW"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "The Hits Of Edwin Starr",
-        "url": "https://open.spotify.com/album/5Lj0voE6hpEZ9zTms5i4Z2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "Twenty Five Miles",
-      "url": "https://open.spotify.com/track/6zpOu65vJLr3v6Wl6PbDHo"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Leon Russell And The Shelter People",
-        "url": "https://open.spotify.com/album/3zkbaJQr8tQl8qdwN9v53k"
-      },
-      "artists": [
-        {
-          "name": "Leon Russell",
-          "url": "https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Crystal Closet Queen",
-      "url": "https://open.spotify.com/track/6AJPxUP4NWh1SwXLzHPAXK"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "I Hear A Symphony",
-        "url": "https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "I Hear A Symphony",
-      "url": "https://open.spotify.com/track/5SCB7L1alKg7ZEeSw7Sq9f"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "The Best of Sister Sledge (1973-1985)",
-        "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "The Best Of The 80's",
-        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4FP8dyBjGDBxcVRTTxOeog"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "Who's Making Love... (Remastered)",
-        "url": "https://open.spotify.com/album/2duDbxFUGXT7zSdfRhSaWj"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Taylor",
-          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "Who's Making Love",
-      "url": "https://open.spotify.com/track/0b8IZZlXVv8kSoUb9zIGca"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
-    },
-    {
-      "added_at": "2022-03-24 12:20:35",
-      "album": {
-        "name": "The in Crowd",
-        "url": "https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Out on the Floor",
-      "url": "https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc"
     },
     {
       "added_at": "2022-03-24 12:20:35",
@@ -791,34 +367,450 @@
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of The Isley Brothers-The Motown Years",
-        "url": "https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS"
+        "name": "The Eternal Dance",
+        "url": "https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 175893,
-      "name": "This Old Heart Of Mine (Is Weak For You) - Single Version / Mono",
-      "url": "https://open.spotify.com/track/0CPwNXw5qD9588d86nropo"
+      "duration_ms": 214826,
+      "name": "September",
+      "url": "https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY"
     },
     {
       "added_at": "2022-03-24 12:20:35",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ"
+        "name": "Golden Moments",
+        "url": "https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR"
       },
       "artists": [
         {
-          "name": "Mamas Gun",
-          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
         }
       ],
-      "duration_ms": 200066,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ"
+      "duration_ms": 172640,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5Gird0FlC1rfCDujzz0C4N"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "Wade In The Water",
+      "url": "https://open.spotify.com/track/3cuvHbi1A18vg58oi4CEfV"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "The Complete Motown Singles - Vol. 8: 1968",
+        "url": "https://open.spotify.com/album/3LWLvOI0pVGK62iKePYNAY"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 141146,
+      "name": "The End Of Our Road - Single Version",
+      "url": "https://open.spotify.com/track/6K4d93uSZJPDoCOGKb3teB"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Discoveries",
+        "url": "https://open.spotify.com/album/2IEM1khpLZfgTuurMRrC1o"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 160986,
+      "name": "This Love Starved Heart Of Mine (It's Killing Me) - 1994 Love Starved Heart Version (Mono)",
+      "url": "https://open.spotify.com/track/3eGPEw02kcypTKLtcN1HPZ"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "The Best Of The 80's",
+        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4FP8dyBjGDBxcVRTTxOeog"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "The Very Best of Solomon Burke",
+        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Got to Get You off My Mind",
+      "url": "https://open.spotify.com/track/2aBa2XO23shN0lQjpL0G1K"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "No Matter The Season",
+        "url": "https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL"
+      },
+      "artists": [
+        {
+          "name": "Eamon",
+          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
+        }
+      ],
+      "duration_ms": 138223,
+      "name": "Come On Through",
+      "url": "https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "The Very Best Of Eddie Floyd",
+        "url": "https://open.spotify.com/album/7oCLGE1xcu1vCRLPBJ0XTd"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "I've Never Found A Girl (To Love Me Like You Do)",
+      "url": "https://open.spotify.com/track/6qUKvwwXss4ACF4bwXPujP"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Mixed-Up, Shook-Up Girl",
+        "url": "https://open.spotify.com/album/6THmxCmxzsOf1gbZZrsyrO"
+      },
+      "artists": [
+        {
+          "name": "Patty & The Emblems",
+          "url": "https://open.spotify.com/artist/3YNciz35JttEP3tpD392Up"
+        }
+      ],
+      "duration_ms": 126920,
+      "name": "Mixed-Up, Shook-Up Girl",
+      "url": "https://open.spotify.com/track/1pVFchEqnrpIEtuGrB4srT"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "I Hear A Symphony",
+        "url": "https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "I Hear A Symphony",
+      "url": "https://open.spotify.com/track/5SCB7L1alKg7ZEeSw7Sq9f"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/6pDK4Z6EZy39RSvD4HWhTn"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "duration_ms": 179626,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/72oGEdOAH8TzjReQfv8Don"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Shake - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6RkyopJ2y0DnoIrq57zrap"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Six Pack",
+        "url": "https://open.spotify.com/album/0PXUcppvK5YmC5QiWpLdLi"
+      },
+      "artists": [
+        {
+          "name": "The Formations",
+          "url": "https://open.spotify.com/artist/4VSXRIlvdkUtEFAXDS4TfQ"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "At the Top of the Stairs",
+      "url": "https://open.spotify.com/track/0rA9NWth0fNN62CcpCPLvr"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Turn Back The Hands Of Time",
+        "url": "https://open.spotify.com/album/1Ib7i6dWJatZaCIzABbtZi"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Davis",
+          "url": "https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd"
+        }
+      ],
+      "duration_ms": 178653,
+      "name": "Turn Back The Hands Of Time",
+      "url": "https://open.spotify.com/track/5o3qMny3Ym8O512RKrNoLw"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "The Tears Of A Clown",
+      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "The Wonderful World Of Sam Cooke (Remastered)",
+        "url": "https://open.spotify.com/album/4y3NeFX7yaEzQfxy70NhZ3"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125506,
+      "name": "(What A) Wonderful World - Remastered",
+      "url": "https://open.spotify.com/track/27K3ZDS5B4fwjhwyihrdzC"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "Up-Tight Everything's Alright",
+        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "50 Summer Hits",
+        "url": "https://open.spotify.com/album/4iRt5STyQudfgvq3Gt2ki6"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/2uxrnrPd9LaIs86FNudcjT"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Jr. Walker & The All Stars",
+        "url": "https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Gotta Hold On To This Feeling",
+      "url": "https://open.spotify.com/track/2dlVeyhP1kM1xdfJGN6gpG"
+    },
+    {
+      "added_at": "2022-03-24 12:20:35",
+      "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "Chris Clark",
+          "url": "https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "Do I Love You (Indeed I Do) - Alternate Mix",
+      "url": "https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf"
     }
   ],
   "unique_name": "Body & Soul",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 42 | [Old MacDonald Zulu Style](https://open.spotify.com/track/73gBGz0ByDjEx8ZRhPOIjO) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 3:18 |
 | 43 | [Mining Song](https://open.spotify.com/track/3daDQZZ0pbqL2UBhirffJs) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [World Music](https://open.spotify.com/album/1RZzCdUCiKDMwJFTl3WmSH) | 5:17 |
 | 44 | [Amazing Grace](https://open.spotify.com/track/1uC21NUDWcl11P8jgEaqop) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites](https://open.spotify.com/album/5j95AoT8sEKEPEv3Hv1F4q) | 3:27 |
-| 45 | [Oh Happy Day](https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5VuH0pVmWz1UHUNooKFuND) | 5:42 |
+| 45 | [We Will Sing @30](https://open.spotify.com/track/6kBMl2D1mUdsPATvOD980l) | [Kate Rusby](https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [We Will Sing @30](https://open.spotify.com/album/6jyXTCLGzWtgJssij4UNnY) | 4:07 |
 | 46 | [All Women Are Beautiful](https://open.spotify.com/track/5M6ayqZlReaOFQdnuIa2tQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 2:50 |
-| 47 | [We Will Sing @30](https://open.spotify.com/track/6kBMl2D1mUdsPATvOD980l) | [Kate Rusby](https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [We Will Sing @30](https://open.spotify.com/album/6jyXTCLGzWtgJssij4UNnY) | 4:07 |
+| 47 | [Oh Happy Day](https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5VuH0pVmWz1UHUNooKFuND) | 5:42 |
 | 48 | [Possessed \(feat\. Kerwin Du Bois & Ladysmith Black Mambazo\)](https://open.spotify.com/track/2DrPhYull6fT49DUOdEbyw) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Machelements \(Volume 1\)](https://open.spotify.com/album/5swDuO84IPdgpn4dzAmTIJ) | 3:57 |
 | 49 | [Thula Ungakhlai \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/4mU0YSUlZ0RvXMapVj6kYx) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 0:47 |
 | 50 | [Because I Love You \(Wangithanda\)](https://open.spotify.com/track/2chiUXbH3MdDuX8zJXhLf7) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 4:42 |
 
-Snapshot ID: `Mjc1MDE5MjEsMDAwMDAwMDAwNTBlOGJjMDQ2N2JjZWQ4Njg1NDJiMmNmNDA0NGIxOQ==`
+Snapshot ID: `Mjc1MDMzMDEsMDAwMDAwMDA0Mzk2YzVmNTUxZjIwZDE2YTMwY2Q1MzVlY2NjYTkzNg==`

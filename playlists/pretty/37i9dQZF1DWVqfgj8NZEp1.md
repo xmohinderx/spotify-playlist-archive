@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369,459 likes - 157 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,369,684 likes - 157 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 35 | [I Loves You Porgy](https://open.spotify.com/track/307eam60sGHG8ebiALVbY4) | [Svante Söderqvist](https://open.spotify.com/artist/1dLXnfFWsftCVP7eNMg9bf), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Calle Rasmusson](https://open.spotify.com/artist/542yTnYI4To78OAWEblioM) | [I Loves You Porgy](https://open.spotify.com/album/7vMsFgy8ztSVq7A6eET2L8) | 5:07 |
 | 36 | [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 |
 | 37 | [The Great Belonging](https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [The Great Belonging](https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB) | 6:11 |
-| 38 | [My Ideal](https://open.spotify.com/track/7zzaZggdFuadOs0R7SuJlp) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/7EpU9D0dPKMY6oi93R9iEb) | [My Ideal](https://open.spotify.com/album/2T8WUL1jRlaGIqj36oD5O5) | 3:39 |
+| 38 | [My Ideal](https://open.spotify.com/track/7zzaZggdFuadOs0R7SuJlp) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [My Ideal](https://open.spotify.com/album/2T8WUL1jRlaGIqj36oD5O5) | 3:39 |
 | 39 | [The Peacocks \- Single Edit](https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb) | [John Engels](https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce), [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz) | [The Peacocks](https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd) | 3:09 |
 | 40 | [Through the Rain](https://open.spotify.com/track/44xN13ObvgiPwloLBCiyAd) | [Eyal Lovett](https://open.spotify.com/artist/2nWU6AHzibFay6s15UoWXl) | [Through the Rain](https://open.spotify.com/album/6uBBuyS9vVdrCqor0m8Ft8) | 7:17 |
 | 41 | [Clouds](https://open.spotify.com/track/7LIFp3v3CaTCvcG6fmceIg) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Clouds](https://open.spotify.com/album/3LEyIlY9P6z9Mvp6dpxk9d) | 4:43 |

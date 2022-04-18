@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,409 likes - 105 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,406 likes - 105 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 9 | [Waiting for Life](https://open.spotify.com/track/6rEfYXO50NsvcF6RAgcV3e) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Waiting for Life](https://open.spotify.com/album/34ypqa2Ft40BOIXwQ2dkeX) | 2:59 |
 | 10 | [Let Me Down Easy \(Lie\)](https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Let Me Down Easy \(Lie\)](https://open.spotify.com/album/3jJZCkZWJxe7dbYTOqXuV2) | 2:31 |
 | 11 | [Liked You Better](https://open.spotify.com/track/2ScZ1hahiTjElGjfY5MuxS) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Liked You Better](https://open.spotify.com/album/3EvngWJujfcikh6iN246vx) | 2:55 |
-| 12 | [Body On Me](https://open.spotify.com/track/1qrrxndrKzIa6qImYH30i3) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Nea Eini](https://open.spotify.com/artist/0w3hgNXn1k5VLZAvpt7KmE) | [Body On Me](https://open.spotify.com/album/1CnTyTvOoY2W6PUgQ6pPTf) | 2:59 |
+| 12 | [Body On Me](https://open.spotify.com/track/1qrrxndrKzIa6qImYH30i3) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Body On Me](https://open.spotify.com/album/1CnTyTvOoY2W6PUgQ6pPTf) | 2:59 |
 | 13 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 |
 | 14 | [Is It Love](https://open.spotify.com/track/303r6bmyBvf5lpaR3CbaLm) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [Is It Love](https://open.spotify.com/album/5XhKpjiMt6QCOhhSjaLgSL) | 3:28 |
 | 15 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |

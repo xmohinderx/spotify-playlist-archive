@@ -4,7 +4,7 @@
 
 > Purrrr with beats to chill, relax, study, code, focus, and sleep..\. 🐱
 
-2,650 songs - 4 day 4 hr 48 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+2,651 songs - 4 day 4 hr 50 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Air](https://open.spotify.com/track/1b06eTijUE2IvH9BuaHMbS) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Air](https://open.spotify.com/album/3qCT6GsREzPP0DkCA8kLpE) | 2:47 | 2022-03-19 |  |
 | [Air Mattress](https://open.spotify.com/track/0MZufg3EiJCt9TnQVHiSCk) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Air Mattress](https://open.spotify.com/album/40JAzj5LA81Q5CJ7Q840gR) | 1:36 | 2020-01-03 | 2021-08-22 |
 | [Airport](https://open.spotify.com/track/6dFxxsD6v41RDLEXnrdpFU) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Airport](https://open.spotify.com/album/3LJ5O8OHrNjPABmOmfvFpB) | 1:02 | 2019-11-29 | 2021-07-29 |
-| [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2021-10-20 |  |
+| [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2021-10-20 | 2022-04-18 |
 | [Akira](https://open.spotify.com/track/1psFLvFKepB9ZL0QGFo0xl) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Akira](https://open.spotify.com/album/7igpzcSPg9ZpnemYf5XK40) | 2:11 | 2019-11-08 | 2021-07-11 |
 | [al pasito/timeless](https://open.spotify.com/track/08Ovag8PDrT7VC2ZkZLYmz) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [al pasito timeless](https://open.spotify.com/album/4SmYuNnhuDaBZFzH0AOyai) | 3:10 | 2019-07-13 | 2020-10-21 |
 | [Alarm Clock](https://open.spotify.com/track/6MGrnDawb4Aoo0BBZT81Bb) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Alarm Clock](https://open.spotify.com/album/2BsHKr8DPBPaQ0f7JsvtQa) | 3:06 | 2022-01-14 |  |
@@ -2546,6 +2546,7 @@
 | [What When Why](https://open.spotify.com/track/0i0Q5eFr909SFwCzvoKWLY) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [What When Why](https://open.spotify.com/album/6lbNaHUgHOKA7jytgTfIB4) | 2:17 | 2021-10-20 |  |
 | [What would lofi do](https://open.spotify.com/track/3RpTlqC5OZO3js2ykUNVmk) | [Aykroyd](https://open.spotify.com/artist/6ptJ0me90iIz3OSsho69cm) | [What would lofi do](https://open.spotify.com/album/0pOMiMXx0O8B4pXOqGgLJq) | 1:44 | 2022-03-11 |  |
 | [Whelve](https://open.spotify.com/track/1vjYMAt9cUzr2oMbAR94lT) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Whelve](https://open.spotify.com/album/7MQ7vF6UYsB900kxaSjUPs) | 1:53 | 2022-04-15 |  |
+| [when i ate a persimmon](https://open.spotify.com/track/4esDDhC3v8sXQbrtUdqFsG) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [when i ate a persimmon](https://open.spotify.com/album/1qKHmJsXV5zMhJJURFiNjy) | 2:04 | 2022-04-17 |  |
 | [When I Dream in an Empty Cinema](https://open.spotify.com/track/2CJcBxLPBLRw32WOE5HUDk) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [When I Dream in an Empty Cinema](https://open.spotify.com/album/1D3dmdIu5gfyNCDlhQfJC9) | 2:03 | 2022-02-25 |  |
 | [When I Meet You](https://open.spotify.com/track/3uJlTYNIYUED9ebt1o6lSb) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [When I Meet You](https://open.spotify.com/album/5RzWttjazlHTa6c8OxW4b4) | 1:43 | 2021-04-24 | 2022-01-14 |
 | [When It Rains](https://open.spotify.com/track/1JVdTVsyF4GPjKUYzxT25A) | [Yawn Shop](https://open.spotify.com/artist/3cMtoJc0mZOQLjBZxeIB01) | [When It Rains](https://open.spotify.com/album/2syZhHB0uTjCnUNoK8k5aO) | 2:00 | 2020-04-19 | 2021-09-04 |

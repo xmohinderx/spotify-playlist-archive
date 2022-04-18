@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,262 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,306 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 99 | [El Carrettero](https://open.spotify.com/track/0yzxLJNo9gwKWWk1TJJr15) | [Rubén Fuentes](https://open.spotify.com/artist/6q8g3vOMKyrhhRWLsOUC98), [Silvestre Vargas](https://open.spotify.com/artist/4C09kjudW0ZTpef7cMpjPF), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr) | 2:45 |
 | 100 | [La Adelita](https://open.spotify.com/track/7zjzbXZYUnWbtbs6FEOJjS) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mexico](https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu) | 1:54 |
 
-Snapshot ID: `MTY1MDE1NzI5MiwwMDAwMDAwMGQxM2I4Y2UwODYzMTYwYzNlMTNlM2M2YTE5YmMyY2Ni`
+Snapshot ID: `MTY1MDI0Mzk1NSwwMDAwMDAwMGQxM2I4Y2UwODYzMTYwYzNlMTNlM2M2YTE5YmMyY2Ni`

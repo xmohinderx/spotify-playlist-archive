@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,388 likes - 75 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,413 likes - 75 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Ragam Tanam Pallavi](https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Parjanya](https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM) | 20:22 |
 | 75 | [Maha Ganapathim Nata Chatusraekam \- original](https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr) | [Dikshithar](https://open.spotify.com/artist/0eDZju05yhZaoIYegmAO1j), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Blissful Veena \(original\)](https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG) | 5:44 |
 
-Snapshot ID: `MTY1MDE1NzE3OSwwMDAwMDAwMDk3NDI5ZGFkN2UyZTc2YzA4NTlhNDc2ZDc1YzNlYmYy`
+Snapshot ID: `MTY1MDI0Mzg1MSwwMDAwMDAwMDk3NDI5ZGFkN2UyZTc2YzA4NTlhNDc2ZDc1YzNlYmYy`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-375 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+376 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Mete a Louca](https://open.spotify.com/track/6bvY4L6D3gqBPGE1iSkbOW) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Mete a Louca](https://open.spotify.com/album/0S2FuKFYv82F2UO2V08SP4) | 3:05 | 2021-11-05 | 2021-11-19 |
 | [Mete Um Block Nele](https://open.spotify.com/track/1QiZYlh3oZg3zgn8eS99aB) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ) | 2:57 | 2021-07-17 | 2021-09-15 |
 | [Meu Bem](https://open.spotify.com/track/3QKv1RIrWsLTA63oxscVrZ) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Bem](https://open.spotify.com/album/0mhsDkI1SGicEIzOP6LxTb) | 2:20 | 2021-09-28 | 2021-09-29 |
+| [Meu Número \- Ao Vivo](https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 3:28 | 2022-04-17 |  |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/2kJRlOyrxsy7Ot3c5TZ8Q6) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ) | 2:37 | 2021-07-08 | 2022-02-09 |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/7mz8C0h5Lug50qYq6KH0wp) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Pedaço de Pecado](https://open.spotify.com/album/034Qns87FWFnmOGMj8rvYp) | 2:39 | 2021-06-16 | 2021-07-01 |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/5dApIvFnEdEx0PZvPJF22d) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Pedaço de Pecado](https://open.spotify.com/album/0ayims5WqqbKbfpktZEGe1) | 2:39 | 2021-07-01 | 2021-07-08 |
@@ -332,7 +333,7 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-09-26 |
 | [Tiffany](https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 | 2021-11-05 | 2021-12-13 |
 | [Tipo Gin \- Ao Vivo](https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Todo Mundo Ama O Chris \(Ao Vivo\)](https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX) | 2:39 | 2021-04-29 | 2021-09-05 |
-| [Todo Mundo Menos Você](https://open.spotify.com/track/053zWWZDziDJd3U94x8RuP) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:26 | 2021-10-17 |  |
+| [Todo Mundo Menos Você](https://open.spotify.com/track/053zWWZDziDJd3U94x8RuP) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:26 | 2021-10-17 | 2022-04-18 |
 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 | 2021-10-02 | 2021-10-17 |
 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 | 2021-11-08 | 2021-11-14 |
 | [Toma Toma Vapo Vapo](https://open.spotify.com/track/5VTjBl3ddZEiG2LrH4VzyR) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Toma Toma Vapo Vapo](https://open.spotify.com/album/4rRER0lWzXFbuYFvxQBEen) | 2:36 | 2021-11-14 |  |

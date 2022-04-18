@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 
 > These hits were made to stay! Revive los éxitos de los últimos meses aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,794 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,227 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 99 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 |
 | 100 | [Perfecta](https://open.spotify.com/track/6QM3YNDJWPdfHVfbZ2kHvq) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Perfecta](https://open.spotify.com/album/79q7mPUO3zx0dRv4LtE2YC) | 3:15 |
 
-Snapshot ID: `MTY1MDE1NzQ4OCwwMDAwMDAwMGMxMDY5NTc2N2IzNzU5MTZmOTBjNTU4ODNhODUzMDlm`
+Snapshot ID: `MTY1MDI0NDEzNSwwMDAwMDAwMGMxMDY5NTc2N2IzNzU5MTZmOTBjNTU4ODNhODUzMDlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Nemzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,864 likes - 95 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,944 likes - 95 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

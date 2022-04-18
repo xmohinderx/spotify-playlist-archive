@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-934 songs - 1 day 22 hr 34 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+935 songs - 1 day 22 hr 37 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,7 +558,7 @@
 | [Missed Calls](https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Missed Calls](https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH) | 2:12 | 2022-03-26 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-28 | 2021-12-29 |
 | [Mistletoe and Wine](https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Together With Cliff Richard](https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ) | 4:05 | 2021-12-25 | 2021-12-27 |
-| [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 | 2021-11-21 |  |
+| [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 | 2021-11-21 | 2022-04-18 |
 | [Mit dir schlafen](https://open.spotify.com/track/3xIIocavhIlmekIUgtIhwp) | [Alligatoah](https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Mit dir schlafen](https://open.spotify.com/album/5m3CioQ9csTPMNOOD24yXM) | 3:19 | 2021-06-27 | 2021-06-28 |
 | [Mit Mir](https://open.spotify.com/track/5Qj2s3QcOu3tU2S0TYSS7D) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [No Rich Parents](https://open.spotify.com/album/6Y5gVopEAsiOPwpFuEBRxD) | 2:47 | 2021-09-26 | 2021-10-03 |
 | [Mit Mir](https://open.spotify.com/track/5RWOCS1epJ5Sm6Gu4k8FVo) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [Mit Mir](https://open.spotify.com/album/0iCK580MViAFCiCSsM60rX) | 2:47 | 2021-08-29 | 2021-09-26 |
@@ -919,6 +919,7 @@
 | [WOHIN](https://open.spotify.com/track/2bG7aSMEAdOfBTVqToYBdc) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [WOHIN](https://open.spotify.com/album/3ijyvvXTkjX4y5P0I6hnYD) | 3:03 | 2021-12-05 | 2021-12-12 |
 | [WOLKEN](https://open.spotify.com/track/5BDefL5M893qxIGgGVGD1F) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [WOLKEN](https://open.spotify.com/album/3WY2ZdvKhxOnCSqs5nsXL8) | 2:45 | 2021-11-14 | 2021-11-14 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-12 | 2021-11-14 |
+| [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-04-17 |  |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-11-28 | 2021-12-29 |
 | [Wonderful Dream \(Holidays Are Coming\) \- Radio Version](https://open.spotify.com/track/0SvD6EdetxVtXei2JhkV4B) | [Melanie Thornton](https://open.spotify.com/artist/2apYMRrg5FxN4go0pfsCvf) | [Ready To Fly](https://open.spotify.com/album/2cI7OSBaPrcOm9ppZipeJ3) | 3:51 | 2021-11-27 | 2021-12-29 |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2021-04-13 | 2021-04-14 |

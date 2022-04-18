@@ -2,7 +2,7 @@
 
 ### [00s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX3oM43CtKnRV)
 
-> These songs rocked the 00s\. Cover: Muse
+> These songs rocked the 00s\. Cover: Linkin Park
 
 105 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/2YBiD0YO7GUD6vsbO2o7zT)
 

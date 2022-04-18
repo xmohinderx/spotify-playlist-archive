@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,432 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,450 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 |
 | 52 | [Girra Girra](https://open.spotify.com/track/5GQ5gYGmIXeACMJk5E1RQR) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [F2](https://open.spotify.com/album/0CkMSLqE73UxkDdF2zGMeO) | 4:55 |
 
-Snapshot ID: `MTY1MDE1Njk0OCwwMDAwMDAwMDVlNDJkY2UzMjQ5YThkZDhhNTY4NDI1ODgzODViZTNi`
+Snapshot ID: `MTY1MDI0MzYzNiwwMDAwMDAwMDVlNDJkY2UzMjQ5YThkZDhhNTY4NDI1ODgzODViZTNi`

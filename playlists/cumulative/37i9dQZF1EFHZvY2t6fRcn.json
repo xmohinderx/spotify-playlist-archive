@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/5xONmKddxJymbH5cqMhw1r"
+      },
+      "artists": [
+        {
+          "name": "Gavin Haley",
+          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195300,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/45j8Wn3B8a0XNPXT5MURGQ"
+    },
+    {
+      "album": {
         "name": "COMATOSE",
         "url": "https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K"
       },

@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Swedish House Mafia
 
-1,593 songs - 3 day 11 hr 35 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+1,594 songs - 3 day 11 hr 37 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [BENNY BLANCO](https://open.spotify.com/track/2UTllO6MsJKMqrT16SEc5Z) | [jvstblake](https://open.spotify.com/artist/5SxRN6YmVzqVecObct98Zj) | [Sorry, I've Been Holding Back](https://open.spotify.com/album/5nINj8avbnPBNUWGrFmvKP) | 1:48 | 2021-12-30 | 2022-01-07 |
 | [Bentley Bentayga!](https://open.spotify.com/track/34eGc2hu8Ye6AuRJWvq0ES) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Bentley Bentayga!](https://open.spotify.com/album/2f6729ADgDdc5Sfhu7GMmK) | 1:55 | 2022-02-11 | 2022-02-18 |
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-03-31 | 2022-04-08 |
+| [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-04-14 |  |
 | [Best They Ever Had](https://open.spotify.com/track/5ktOGNBypzC0E6mQ8hHDjk) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Best They Ever Had](https://open.spotify.com/album/70JbZ1zZ3kZJ2oteMXMm5h) | 2:39 | 2022-01-07 | 2022-01-14 |
 | [Bet On Me](https://open.spotify.com/track/2p56oIwLWTo2qh3c3SAZMk) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Bet On Me](https://open.spotify.com/album/7KOzTHjJGfgrsw5DbP2UtY) | 2:52 | 2022-03-18 | 2022-03-25 |
 | [Better](https://open.spotify.com/track/6gl1WVOsI09df2HiCxs5ze) | [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Better](https://open.spotify.com/album/48Ju8v5nzIhWWXwhksMHwj) | 2:52 | 2021-12-24 | 2021-12-31 |

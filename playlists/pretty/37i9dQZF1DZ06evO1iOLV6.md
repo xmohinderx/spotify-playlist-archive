@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,066 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,071 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 40 | [Zéro Problémé \(feat\. Dadju\)](https://open.spotify.com/track/5UA1OrJp2DnBWrCuOS9t53) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:10 |
 | 41 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
 | 42 | [Love Town](https://open.spotify.com/track/0OUWMVacRugPsCYoccZewJ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:22 |
-| 43 | [Black Girl Magic](https://open.spotify.com/track/6CVUbSUCw5SeWk2S7f7vTN) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:21 |
-| 44 | [Emergency](https://open.spotify.com/track/71YmAdIb6DJrNmlglPzUQz) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Wizzypro](https://open.spotify.com/artist/7vSyM7Nq31eUp86VhgvCk3) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 3:52 |
+| 43 | [Emergency](https://open.spotify.com/track/71YmAdIb6DJrNmlglPzUQz) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Wizzypro](https://open.spotify.com/artist/7vSyM7Nq31eUp86VhgvCk3) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 3:52 |
+| 44 | [Odo Bra \(feat\. King Promise\)](https://open.spotify.com/track/5elIVN9RKGhzZjBGeHrDEy) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:33 |
 | 45 | [Go Crazy](https://open.spotify.com/track/5ZEyOWZ3MTkLXyfMmgybID) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:25 |
 | 46 | [Do Better](https://open.spotify.com/track/25VYHFaeWtChxOAxsTuqV3) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Kly](https://open.spotify.com/artist/4eaCG3qI4Qq9aRbKSB3xO6), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Do Better](https://open.spotify.com/album/33Z98rZrWu6F89gCE6uqIl) | 4:19 |
 | 47 | [Girls](https://open.spotify.com/track/509woaokKvDfZIyt5lxCrJ) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Girls](https://open.spotify.com/album/3oqIdStQ3DiR0g3Ne5KJzt) | 3:37 |
 | 48 | [Jama](https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaker](https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo) | [Jama](https://open.spotify.com/album/0jAZGDBm9i8MoD5AENa1xQ) | 3:54 |
-| 49 | [Everyday](https://open.spotify.com/track/4CXcqCKkhtsOoDyWDv2juY) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Everyday](https://open.spotify.com/album/58l6rZ45OBZX9kNLZilIQw) | 2:47 |
+| 49 | [My Woman \- DJ Tizo Remix](https://open.spotify.com/track/1bViJKzkE51jmulIdTCnUS) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Wandy Coal](https://open.spotify.com/artist/6dpA7fYLp2LadwO1bMgeMu) | [My Woman \(DJ Tizo Remix\)](https://open.spotify.com/album/4b4Q5fpQXJtW7dp0f8pDwy) | 2:45 |
 | 50 | [Bami Mujo \(feat\. Yung L & Patoranking\)](https://open.spotify.com/track/7JB8DUFRFWhAPd1bhEZRuo) | [Henry Knight](https://open.spotify.com/artist/4xjNGIY2iJZwaFJnEPQ1r9), [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Dance, Vol\. 1](https://open.spotify.com/album/1TqeVetMJteizoDDEIZDqw) | 4:06 |
 
-Snapshot ID: `Mjc1MDE5MjEsMDAwMDAwMDA4MTVlMzk0MGI4YzM1ZDZiMjIyZmJkZDY1NjYzZWUzNQ==`
+Snapshot ID: `Mjc1MDMzMDEsMDAwMDAwMDBlOTRiN2FiZGIxNjViZTI0ZmE5MzY0YTA3OThhMzE5ZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,934 likes - 80 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,002 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [Slipping Through My Fingers](https://open.spotify.com/track/3TQJ75S8EOINzp0lHUT5MD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Visitors \(Deluxe Edition\)](https://open.spotify.com/album/5sz84Oa5PGE0uSMcHTe6TD) | 3:53 |
 | 80 | [I Believe \(A Soulful Re\-Recording\)](https://open.spotify.com/track/5pRMsjjfCIIpxbg87FujdZ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/4VrPUFRGte445pKszlac10) | 4:42 |
 
-Snapshot ID: `MTY1MDE1NzMzMiwwMDAwMDAwMGI5ZGNlODE2M2Q2M2M1YjNkMjc5ZjQzZDM2NTU0NTZi`
+Snapshot ID: `MTY1MDI0Mzk5MSwwMDAwMDAwMGI5ZGNlODE2M2Q2M2M1YjNkMjc5ZjQzZDM2NTU0NTZi`

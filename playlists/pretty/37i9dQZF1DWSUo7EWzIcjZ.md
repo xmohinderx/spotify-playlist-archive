@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,651 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,753 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Si Tu Me Dices](https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:43 |
 | 150 | [En el Fin de Semana](https://open.spotify.com/track/4djMEKq1oCMjUGrRNLNJt9) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Hits Clásicos de Oro](https://open.spotify.com/album/5m0rT0gH2hJ4tkxRXi2izV) | 4:15 |
 
-Snapshot ID: `MTY1MDE1NjkwMywwMDAwMDAwMDQ2OGQwOTJlZDhkYzk2ZDY4MzUzZGI3MThmNDlkMzM1`
+Snapshot ID: `MTY1MDI0MzU5NiwwMDAwMDAwMDQ2OGQwOTJlZDhkYzk2ZDY4MzUzZGI3MThmNDlkMzM1`

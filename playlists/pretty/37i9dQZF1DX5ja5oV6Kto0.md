@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=QnarUIK5QNWu0In2nJsHvQ"> Ayra Starr </a> and <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=m8dfeDYbSW\-xbWtAIUJejA"> Lojay </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,035 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,070 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

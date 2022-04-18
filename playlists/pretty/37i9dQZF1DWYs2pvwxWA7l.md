@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=pRDL7cfgRH\-EXis\-C9r6TQ" > Yemi Alade </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,906 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,222 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 59 | [Ama Aje](https://open.spotify.com/track/56Pd4rsTqhPVuDP842AmHT) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Ama Aje](https://open.spotify.com/album/4EKOX9c43REwT6r2b71YWc) | 3:09 |
 | 60 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 |
 
-Snapshot ID: `MTY1MDE1NzA5OSwwMDAwMDAwMGRmYjgyODk5YzNiOTZlNjlmYzJkMGE0Y2U3YmE0MzEx`
+Snapshot ID: `MTY1MDI0Mzc3OCwwMDAwMDAwMGRmYjgyODk5YzNiOTZlNjlmYzJkMGE0Y2U3YmE0MzEx`

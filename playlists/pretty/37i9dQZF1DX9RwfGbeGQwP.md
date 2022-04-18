@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > Chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,890 likes - 424 songs - 16 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,010 likes - 424 songs - 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -347,7 +347,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 337 | [console romance](https://open.spotify.com/track/47ET7YyThyhkitaOaKDJVF) | [illflower](https://open.spotify.com/artist/2MYCX5cNHM1sb7FkHh6b4l) | [all is love](https://open.spotify.com/album/4sokaTGrRyetNwS0jFK2mp) | 2:14 |
 | 338 | [Towards The Sun](https://open.spotify.com/track/074yKw7MEel3UfyDKdHkxo) | [Collagen](https://open.spotify.com/artist/7fy7IK0WdPPBtVP1ZmgDju) | [Cloudcatchers](https://open.spotify.com/album/5BiHtfdP7r65xNVVYSRTlh) | 2:48 |
 | 339 | [Forest Life](https://open.spotify.com/track/68ZIOt33K90kdFTRiHNu9W) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Forest Life](https://open.spotify.com/album/39yEiqCwXRptzr1VVRLMo6) | 1:50 |
-| 340 | [Nightcap](https://open.spotify.com/track/4IcvQehCaRync2poO239V4) | [Nostalgique](https://open.spotify.com/artist/0DZpcVQuece2pTNUl38rHJ) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:26 |
+| 340 | [Nightcap](https://open.spotify.com/track/4IcvQehCaRync2poO239V4) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:26 |
 | 341 | [seedlings](https://open.spotify.com/track/4MKfOWEjeRQIkRsx9zpYih) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 2:28 |
 | 342 | [Two Five One](https://open.spotify.com/track/2niptOSHZYwcElHREtt4hZ) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Singularity In Motion](https://open.spotify.com/album/4AytRuRaGA1h2LwZrIlrfu) | 1:51 |
 | 343 | [thyme](https://open.spotify.com/track/01u7mnb7IIIPwzyS2JMLkr) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [thyme](https://open.spotify.com/album/19By3kTebpVXN7WLzpUZx4) | 2:03 |

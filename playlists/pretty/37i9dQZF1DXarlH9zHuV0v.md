@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,017 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,991 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [A Nightmare on My Street](https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG) | 4:58 |
 | 60 | [I Put A Spell On You](https://open.spotify.com/track/1C4xjDGHbociEC1NPOfGIB) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/6V8b6itvyd7N3IRMXkjSi7) | 3:36 |
 
-Snapshot ID: `MTY1MDE1NzQ3NCwwMDAwMDAwMDJlMGI5ZTQwZDY4NjQ5MjA3ZTFmYWFmYWEzY2Y0ODIw`
+Snapshot ID: `MTY1MDI0NDEyMiwwMDAwMDAwMDJlMGI5ZTQwZDY4NjQ5MjA3ZTFmYWFmYWEzY2Y0ODIw`

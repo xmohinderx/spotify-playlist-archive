@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Mitchell Tenpenny
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,851 likes - 168 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,981 likes - 168 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
