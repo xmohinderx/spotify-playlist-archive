@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "[BUMP] Pick Me Up",
+        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "[Admire Her] (with Gunna)",
+      "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
+    },
+    {
+      "album": {
         "name": "Abandoned",
         "url": "https://open.spotify.com/album/6aah8TZjuMfUTwq5dxYuYP"
       },
@@ -767,7 +789,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 130021,
       "name": "DO IT AGAIN",
       "url": "https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa"
@@ -2119,7 +2141,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 195173,
       "name": "Nobody (feat. Dreezy)",
       "url": "https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK"
@@ -2241,6 +2263,28 @@
       "duration_ms": 162504,
       "name": "On A Tee (feat. Icewear Vezzo)",
       "url": "https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2"
+    },
+    {
+      "album": {
+        "name": "On A Tee (with Icewear Vezzo) [Extended Version]",
+        "url": "https://open.spotify.com/album/0Vg6ftTMSD0yb1Uf10O635"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "On A Tee (with Icewear Vezzo) - Extended Version",
+      "url": "https://open.spotify.com/track/3THhDihqhM6tWpPEMZsxkg"
     },
     {
       "album": {

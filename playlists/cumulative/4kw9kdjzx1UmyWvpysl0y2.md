@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-135 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+136 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
 | [All I Need](https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [All I Need](https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb) | 3:57 | 2022-02-02 | 2022-04-13 |
 | [All In](https://open.spotify.com/track/32hXXUEV1w8DaGnklg1NrP) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Yury](https://open.spotify.com/artist/2XlwOcXssC0QnupEF3RLov) | [All In](https://open.spotify.com/album/2xtIgNQmBybaMsglf2gKMz) | 3:25 | 2022-03-24 |  |
-| [Almost 3am](https://open.spotify.com/track/3cmpyH2zavEwZwWIGHcdyh) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [Almost 3am / 4am](https://open.spotify.com/album/7imIuXGdsrD3pXy9pFoIq7) | 5:31 | 2022-02-07 |  |
+| [Almost 3am](https://open.spotify.com/track/3cmpyH2zavEwZwWIGHcdyh) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [Almost 3am / 4am](https://open.spotify.com/album/7imIuXGdsrD3pXy9pFoIq7) | 5:31 | 2022-02-07 | 2022-04-19 |
 | [Arms Race](https://open.spotify.com/track/7eHBCHw9oLRYv2zlSDdY9Q) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Arms Race](https://open.spotify.com/album/08McMk6ovWxi4Ww51wARoZ) | 3:59 | 2022-01-18 | 2022-03-26 |
 | [As I Wander](https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [As I Wander](https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u) | 2:48 | 2022-03-16 |  |
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 |  |
@@ -36,12 +36,13 @@
 | [Chasing Stars](https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY) | [Skyler Madison](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Chasing Stars](https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw) | 4:41 | 2021-11-29 | 2022-03-04 |
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-03-14 |  |
 | [Closer](https://open.spotify.com/track/0dl1KPentnYfyXSQnK1eUD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Closer](https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy) | 3:38 | 2021-11-19 | 2022-02-16 |
+| [Come With Me](https://open.spotify.com/track/6YtkMh0vUE21T6f2P1G5XG) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Sally Jay](https://open.spotify.com/artist/6XkbDOU2h2CIOWzP0BiKQb) | [Come With Me](https://open.spotify.com/album/7xwEXVETqYsp5GBbHGQZaO) | 3:30 | 2022-04-18 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 |  |
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 |  |
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 |  |
 | [Do It All Again](https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Do It All Again](https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V) | 2:17 | 2022-02-11 |  |
-| [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 |  |
+| [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 | 2022-04-19 |
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |
 | [Dream Cycle](https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Dream Cycle](https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK) | 3:47 | 2022-01-26 | 2022-04-06 |
 | [Dream On](https://open.spotify.com/track/1MmgvqDJPNcJf8zKXNdAXy) | [Glaue](https://open.spotify.com/artist/4LLym899uwEUeuVo6KdVom) | [Dream On](https://open.spotify.com/album/0aaBetdnkoTWbFliLbrtnA) | 3:17 | 2022-01-12 | 2022-03-19 |

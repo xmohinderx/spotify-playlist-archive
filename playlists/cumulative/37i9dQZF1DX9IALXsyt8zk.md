@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
 
-85 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
+88 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-06 |  |
 | [DON'T](https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [DON'T](https://open.spotify.com/album/4y7KxLhbH8ca9OOrYoKWZm) | 3:49 | 2021-12-30 |  |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-30 | 2022-04-08 |
-| [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2021-12-30 |  |
+| [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2021-12-30 | 2022-04-19 |
 | [Fix Me](https://open.spotify.com/track/6zRh1dXMxFn2WyeobMagJd) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Fix Me](https://open.spotify.com/album/2jzxhDFOZmjtk6JIi4pKd1) | 2:29 | 2021-12-30 | 2022-01-28 |
 | [FLY UP HIGH](https://open.spotify.com/track/5fMBzRMDEqh4pWmUdmfbi8) | [SKYLE](https://open.spotify.com/artist/6P3aSKZZtsDE8GTMJVeobh) | [FLY UP HIGH](https://open.spotify.com/album/1Ye6LoYpqWLNeEqk1v6BbX) | 3:47 | 2021-12-30 | 2022-01-07 |
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2021-12-30 |  |
@@ -44,6 +44,7 @@
 | [GOT'YA](https://open.spotify.com/track/4aLsggi5JL0YD8AmaSENHU) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [GOT'YA](https://open.spotify.com/album/4phVHu6OqTgmLD9C14NAU3) | 3:18 | 2021-12-30 | 2022-01-07 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-30 |  |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2021-12-30 |  |
+| [I Like That](https://open.spotify.com/track/7yAYYeeXf7ip8bK4GYDo2F) | [YuA](https://open.spotify.com/artist/3maet9vdK6Hbp6ZczQtkS6) | [I Like That](https://open.spotify.com/album/1urAHAMdbuZukBXnUG04Se) | 3:23 | 2022-04-18 |  |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-12-30 |  |
 | [Lemonade](https://open.spotify.com/track/7J2DJVB6R6c13oywavsmMG) | [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [Beautiful Sunshine](https://open.spotify.com/album/2CkaMF14e5e1g02pqXkdts) | 3:13 | 2021-12-30 |  |
 | [Lens \(Feat\. jerd\)](https://open.spotify.com/track/1Av0TO3xaOCXeFLeZvkReq) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [Lens \(Feat\. jerd\)](https://open.spotify.com/album/3ZLCBrW3iLGpdjVOljim5z) | 3:09 | 2022-02-22 |  |
@@ -53,6 +54,7 @@
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-07 |  |
 | [LOVE ME LIKE](https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:54 | 2022-01-06 |  |
 | [Love You More Than Myself](https://open.spotify.com/track/7gzO0kkFEsUaQsfGlKjWBR) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Love You More Than Myself](https://open.spotify.com/album/5Y2s9onBx0bvUarEh8bQeJ) | 3:07 | 2021-12-30 | 2022-01-28 |
+| [Love, Maybe](https://open.spotify.com/track/5btJjUxmhPK1cwdw0mnhRD) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love, Maybe \(A Business Proposal OST Part.5\)](https://open.spotify.com/album/50WHnqFZhIQC88oZr5hlN3) | 3:05 | 2022-04-18 |  |
 | [Lovelylove \(feat\. CHOI NAKTA\)](https://open.spotify.com/track/0tyXMBNyUjV5oSuctNXZaw) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr) | [Lovelylove \(feat\. CHOI NAKTA\)](https://open.spotify.com/album/5r6hXPpgoLzmI9baalPZim) | 3:10 | 2021-12-30 | 2022-01-22 |
 | [MAKE U DANCE](https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep) | 2:37 | 2021-12-30 | 2022-03-11 |
 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 | 2022-01-13 |  |
@@ -65,6 +67,7 @@
 | [Picky Baby](https://open.spotify.com/track/6zvi40kiZkDIiEC3OgKKSq) | [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Picky Baby](https://open.spotify.com/album/7DUxGY2Iu81WYabYFM2tTn) | 3:13 | 2021-12-30 | 2022-01-14 |
 | [PRESENTE](https://open.spotify.com/track/1oaVw7Y6RnvZlneLjAMLic) | [777 \(Triple Seven\)](https://open.spotify.com/artist/1Y5rgGFlx3ws6zMNoqxa4G) | [PRESENTE](https://open.spotify.com/album/4ZLRadM9Wi5L4mCEHGi4Xt) | 3:14 | 2021-12-30 |  |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-12-30 | 2022-03-11 |
+| [RE=LOAD](https://open.spotify.com/track/7xbF0zvvjJ4oT4HvcYi85k) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEGUN](https://open.spotify.com/album/0uF2qZ5B62L4ZlfLkAXhd1) | 3:18 | 2022-04-18 |  |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2021-12-30 | 2022-01-07 |
 | [Ring Ring](https://open.spotify.com/track/1LmAeYKwK2BA2FFUMyTXD2) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Ring Ring](https://open.spotify.com/album/1IFwB37JXLhIh53bSBBMbI) | 3:02 | 2021-12-30 |  |
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2021-12-30 | 2022-02-25 |
@@ -81,7 +84,7 @@
 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 | 2022-02-27 |  |
 | [The Good Days Boys](https://open.spotify.com/track/4pF4jl2H1m5UVlKT8rE7vE) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Playlist 1](https://open.spotify.com/album/5qQ6xIXc6aVePk5GcAV92Z) | 2:42 | 2021-12-30 | 2022-02-11 |
 | [The Little Name](https://open.spotify.com/track/5tdzH8IkV62pyL1BHXrfmv) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [The Little Name](https://open.spotify.com/album/3k9ZdguidOV2AHDiFenjyI) | 3:09 | 2022-03-10 |  |
-| [TICK TOCK](https://open.spotify.com/track/2UtgHEn85322ynZ9j2po4l) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEAT](https://open.spotify.com/album/6u0NFCxacI8efvHKY9xwfz) | 3:10 | 2021-12-30 |  |
+| [TICK TOCK](https://open.spotify.com/track/2UtgHEn85322ynZ9j2po4l) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEAT](https://open.spotify.com/album/6u0NFCxacI8efvHKY9xwfz) | 3:10 | 2021-12-30 | 2022-04-19 |
 | [Too Bad](https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.1 : First Love](https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp) | 3:16 | 2022-03-18 |  |
 | [Universe\_](https://open.spotify.com/track/6zVDBEprS3mo8p0WV9MtLr) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Planet Nine : VOYAGER](https://open.spotify.com/album/2mM97mU3Xh4IvV51Dwq8Ky) | 3:36 | 2022-01-06 |  |
 | [VERTIGO](https://open.spotify.com/track/761N2tK3hPrtgoQttXSu50) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [VERTIGO](https://open.spotify.com/album/40Lrh44oMTvelKzpKmj91M) | 3:22 | 2021-12-30 | 2022-01-22 |

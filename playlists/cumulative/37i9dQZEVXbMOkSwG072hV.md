@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-262 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+263 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Automotivo Toma Sequência De Rock N Roll](https://open.spotify.com/track/0hNUd87zdA3Tv3nA2U7ao1) | [DJ Marcão 019](https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v), [Mc Jl o Unico](https://open.spotify.com/artist/3vLsNyfzPpGWdfWcoKKvDV), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [Automotivo Toma Sequência De Rock N Roll](https://open.spotify.com/album/1mHNOPXrjNLAqqkKE8Drd1) | 3:22 | 2022-01-28 | 2022-03-02 |
 | [Baby 95](https://open.spotify.com/track/6Ry9Jqt3riMhgX46T6XwdL) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 5:18 | 2022-03-17 | 2022-03-22 |
 | [Baby Relaxa Encaixa Na Vibe](https://open.spotify.com/track/1GEs0MIyXWiSfadbDyTmDz) | [uaaiti](https://open.spotify.com/artist/1eFC8dyprsive3jDwGxeQs) | [Baby Relaxa Encaixa Na Vibe](https://open.spotify.com/album/4JVA8MCLqv98rDdkyYWJJE) | 1:40 | 2022-01-17 | 2022-02-09 |
+| [Bagulho Louco](https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Bagulho Louco](https://open.spotify.com/album/7vmDYV51NrlXuzdyyQYDen) | 2:04 | 2022-04-18 |  |
 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 | 2022-03-23 |  |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-29 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 |  |
@@ -50,7 +51,7 @@
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-08 | 2022-04-15 |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:15 | 2022-02-22 | 2022-03-03 |
 | [Cabeleira Do Zezé](https://open.spotify.com/track/7rwXwVOfULqhoa8vdOSLJx) | [Banda Gol](https://open.spotify.com/artist/3wJpJ3peSD0wgw8cttrr8k) | [Baile de Carnaval: As Melhores Marchinhas de Todos os Tempos](https://open.spotify.com/album/2soSNWvOOVLzQutEEkXtIA) | 2:28 | 2022-02-27 | 2022-03-08 |
-| [Cade o Beck](https://open.spotify.com/track/2yoiVPbCx6utwAYVjlkZNQ) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ R7](https://open.spotify.com/artist/6WuTZb8WWZ5xitAQrgAJY2) | [Cade o Beck](https://open.spotify.com/album/1NltpnCdLaUHR8XQFSyjrB) | 2:17 | 2022-03-21 |  |
+| [Cade o Beck](https://open.spotify.com/track/2yoiVPbCx6utwAYVjlkZNQ) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ R7](https://open.spotify.com/artist/6WuTZb8WWZ5xitAQrgAJY2) | [Cade o Beck](https://open.spotify.com/album/1NltpnCdLaUHR8XQFSyjrB) | 2:17 | 2022-03-21 | 2022-04-19 |
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 | 2022-02-10 | 2022-03-30 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-04-12 |  |
 | [Canto da Sereia](https://open.spotify.com/track/5onALPPboSh4z6cO24tOvW) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Canto da Sereia](https://open.spotify.com/album/6oeLs83jPMK8JodH2bpSyO) | 2:31 | 2022-01-28 | 2022-01-30 |

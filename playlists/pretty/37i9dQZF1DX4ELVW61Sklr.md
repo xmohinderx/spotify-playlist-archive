@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,165 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,161 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 49 | [Ghetto Christmas \(with 6LACK & Summer Walker\)](https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:35 |
 | 50 | [The First Noel](https://open.spotify.com/track/2W1H6AfncpHMUYXX5kWYKr) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/2PzjS06Y5MfY34OlhHpCWd) | 4:24 |
 
-Snapshot ID: `MTY1MDI2MzgxOSwwMDAwMDAwMDI3N2ViMDgwMjkwNzRhNzI5NTJiZmMyMjgxYmRkZWQz`
+Snapshot ID: `MTY1MDMzMDQ5OSwwMDAwMDAwMDI3N2ViMDgwMjkwNzRhNzI5NTJiZmMyMjgxYmRkZWQz`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-935 songs - 1 day 22 hr 37 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+936 songs - 1 day 22 hr 40 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Frag mich nicht](https://open.spotify.com/track/46zfTi4Wg6mmkOBPimtg6X) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Frag mich nicht](https://open.spotify.com/album/6UrYYz1NtrHW8GDQz0QccS) | 2:37 | 2021-03-27 | 2021-04-26 |
 | [Frag mich nicht](https://open.spotify.com/track/5ZIFzmhVJRO3tRwtBXrPXh) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [FUTURA](https://open.spotify.com/album/1CGz33gZHGE5fF16d285HJ) | 2:37 | 2021-04-26 | 2021-07-25 |
 | [Free Gzuz \(Intro\)](https://open.spotify.com/track/6evBGLuvKMxuhXzQKFwnVg) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Grosse Freiheit](https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S) | 1:56 | 2022-01-15 | 2022-01-20 |
-| [FREE SPIRIT](https://open.spotify.com/track/6CQkifO8wGns82gpR9ApFT) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [FREE SPIRIT](https://open.spotify.com/album/5TrD9lmipsHJD1ZyWhxiIb) | 3:14 | 2022-04-16 |  |
+| [FREE SPIRIT](https://open.spotify.com/track/6CQkifO8wGns82gpR9ApFT) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [FREE SPIRIT](https://open.spotify.com/album/5TrD9lmipsHJD1ZyWhxiIb) | 3:14 | 2022-04-16 | 2022-04-19 |
 | [Freigang](https://open.spotify.com/track/6xxZTkecUSkZ15I8B92RYA) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Neue Welt](https://open.spotify.com/album/3CmPlhLJxumv7A2iK5788H) | 2:33 | 2021-06-13 | 2021-06-18 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-02-15 |
 | [FRIENDSHIPS](https://open.spotify.com/track/1JkwvWynQN8BqAbKZpmW38) | [Scorpion Gang](https://open.spotify.com/artist/4CD6drviDJ8wccEAZuc9y4), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [FRIENDSHIPS](https://open.spotify.com/album/728q2rTvtwRwwfYbMUK0Oc) | 2:29 | 2021-08-15 | 2021-08-19 |
@@ -794,6 +794,7 @@
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
 | [Strassengeschichten](https://open.spotify.com/track/5wTppCMe8AtTcmYX9K8apU) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Strassengeschichten](https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F) | 2:46 | 2022-01-22 | 2022-01-30 |
 | [Suche nach mehr](https://open.spotify.com/track/2CHoaNtGw6Bkqh5AyxfnPD) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Suche nach mehr](https://open.spotify.com/album/7gLtjaD2I3CDMa9HfUZ3zA) | 2:36 | 2021-07-18 | 2021-07-19 |
+| [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-18 |  |
 | [SUPERWOMAN](https://open.spotify.com/track/39fpM7K4GUnqVkRkk9wgvA) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [trip](https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC) | 2:18 | 2021-05-03 | 2021-05-06 |
 | [SUPERWOMAN](https://open.spotify.com/track/4dal09q6f5ZYP20QefD23D) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [SUPERWOMAN](https://open.spotify.com/album/6dwn7BzD7ghR0os7Ol2PgN) | 2:18 | 2021-04-26 | 2021-04-29 |
 | [SUVs](https://open.spotify.com/track/01I8aPBUJIMzCtHsCVvmq5) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [SUVs](https://open.spotify.com/album/6dYHhV1ES2wfdoxvWXI5Ld) | 2:42 | 2021-12-05 | 2022-01-15 |

@@ -4,11 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-656 songs - 1 day 7 hr 12 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+657 songs - 1 day 7 hr 14 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#ПОШТА](https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#ПОШТА](https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g) | 2:48 | 2022-04-05 |  |
+| [\#ПОШТА](https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#ПОШТА](https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g) | 2:48 | 2022-04-05 | 2022-04-19 |
 | [\(Po\)ciąg dalszy nastąpi](https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Czarno na białym](https://open.spotify.com/album/4uxD1b9je0iDbdY1BMamMZ) | 4:25 | 2022-04-13 |  |
 | [\(Не\)идеальна](https://open.spotify.com/track/4td0GwMmapEdpV2g5C2l9K) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [\(Не\)идеальна](https://open.spotify.com/album/4vm9d1inYJkGY81jfbJEkh) | 2:38 | 2021-04-26 | 2021-05-03 |
 | [+44](https://open.spotify.com/track/1ngGGsWzGONyiOlxdXRDr7) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [+44](https://open.spotify.com/album/5RKI4eixkCmtxfSwhB9RkY) | 2:28 | 2021-03-27\* | 2021-04-04 |
@@ -42,7 +42,8 @@
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2021-11-02 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-16 |
 | [Bandana](https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:31 | 2021-10-23 |  |
-| [bankai](https://open.spotify.com/track/6tlU1yG1HdSrbbbfQN3NH3) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/0OZXlr5uiKMAwFzyHbwXM9) | 1:57 | 2022-04-02 |  |
+| [bankai](https://open.spotify.com/track/1qwAvf8LsXY7H1sD5rRXGO) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/59nx25qYi62hyVrvvNYkEc) | 1:57 | 2022-04-18 |  |
+| [bankai](https://open.spotify.com/track/6tlU1yG1HdSrbbbfQN3NH3) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/0OZXlr5uiKMAwFzyHbwXM9) | 1:57 | 2022-04-02 | 2022-04-19 |
 | [Beauty](https://open.spotify.com/track/0ipVeLBnrx1oYyVLLR80mm) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [Showbiz School](https://open.spotify.com/artist/014QuYvSWcdqx4lhe17MX6) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 3:04 | 2021-04-11 | 2021-04-13 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-05-30 | 2021-10-23 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-02 |
@@ -449,7 +450,7 @@
 | [Карусель](https://open.spotify.com/track/7hTEDmot0y3DilKQZid6Q9) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:28 | 2021-10-17 | 2021-10-23 |
 | [Киллер \(Prod\. by malenkiyyarche x kayyo\)](https://open.spotify.com/track/3d67iioYf1Hvt2b7ncDzZv) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:08 | 2021-03-27 | 2021-03-29 |
 | [кискис](https://open.spotify.com/track/6yUw6FLB1g8DqZUv7S5TKA) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [кискис](https://open.spotify.com/album/6ursd41l2w1YvIgiYIVtDK) | 2:50 | 2021-04-03 | 2021-04-28 |
-| [кладбище](https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [кладбище](https://open.spotify.com/album/4XqaS0ByH0TBCu22mR4KTw) | 1:49 | 2021-09-21 | 2022-04-16 |
+| [кладбище](https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [кладбище](https://open.spotify.com/album/4XqaS0ByH0TBCu22mR4KTw) | 1:49 | 2021-09-21 |  |
 | [КОГДА НАС ОТПУСТИТ](https://open.spotify.com/track/7EhsIpv1vEaclEeP19gbMu) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:49 | 2021-05-30 | 2021-06-05 |
 | [Кожура](https://open.spotify.com/track/1OeGvzNcGC2s6F41lmCdjA) | [ZAPOMNI](https://open.spotify.com/artist/4V8bQXsHrlkgPwjTLSmgYU) | [BACKGROUND](https://open.spotify.com/album/2JoaHoCGIfFErAD74QjsOT) | 2:23 | 2021-12-21 | 2022-04-08 |
 | [Колхозник](https://open.spotify.com/track/19guFw87TvSkoxnC9EBu2Y) | [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [Круг Ветров](https://open.spotify.com/album/4IorcRs4Rk7HXLbfjGpV6a) | 2:38 | 2021-03-30 | 2021-04-02 |
@@ -493,7 +494,7 @@
 | [Мы все умрем](https://open.spotify.com/track/0zBQznV5QeLsqPz5sgU2hq) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:46 | 2021-12-03 | 2021-12-18 |
 | [Мы умрём](https://open.spotify.com/track/12Y7A7iU9azEHgQmBYoF8R) | [Парнишка](https://open.spotify.com/artist/4KWYR8vpnpwnNr5wWicWWo), [ELLA](https://open.spotify.com/artist/3Ppw3oP5nRqYhoGRDvhuUr) | [Мы умрём](https://open.spotify.com/album/2ZSC7Dnp48HeMUCPMu53LY) | 3:14 | 2022-02-26 | 2022-02-28 |
 | [МЯТОЙ \- remix 2010](https://open.spotify.com/track/0ZGHCIFlJWqwB4TpG8LFbe) | [КОСМОНАВТОВ НЕТ](https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ) | [1+1=11](https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI) | 3:04 | 2022-01-11 | 2022-03-05 |
-| [Місто весни](https://open.spotify.com/track/56wSomSllGESHGhcfHrvEw) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS), [Odyn v Kanoe](https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc) | [Місто весни](https://open.spotify.com/album/3EigzySc2HTYL9lIso7Wha) | 4:12 | 2021-09-12 |  |
+| [Місто весни](https://open.spotify.com/track/56wSomSllGESHGhcfHrvEw) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS), [Odyn v Kanoe](https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc) | [Місто весни](https://open.spotify.com/album/3EigzySc2HTYL9lIso7Wha) | 4:12 | 2021-09-12 | 2022-04-19 |
 | [На Грязном \(Диана\)](https://open.spotify.com/track/4KpbZvQGEcSj2Dqxn7zGsA) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:06 | 2021-08-15 | 2021-08-20 |
 | [На дому](https://open.spotify.com/track/4BHht5SRoGo2XQlVCmnicC) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 2:52 | 2021-12-18 | 2021-12-19 |
 | [НА МНЕ HOE](https://open.spotify.com/track/2JQqHaAMs1ywlysjH13mkh) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:09 | 2021-07-18 | 2021-07-21 |
@@ -558,7 +559,7 @@
 | [Птичка](https://open.spotify.com/track/6Abmb1Nh7Bc5U6o4iEgSDH) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Птичка](https://open.spotify.com/album/1jODMZb23tkxLfaDHcgnse) | 3:10 | 2021-05-23 | 2021-10-20 |
 | [Пушка](https://open.spotify.com/track/3UlGli59XnXKdaocUFn0gw) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Пушка](https://open.spotify.com/album/4R38tSYY31xhqOFincgFb0) | 3:23 | 2021-06-28 | 2021-09-30 |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
-| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2022-04-18 |
+| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 |  |
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |
 | [Рашн Роуд Рейдж](https://open.spotify.com/track/0zkmYBCfhQQ4GObqz2HQG3) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:38 | 2021-12-03 | 2021-12-06 |
 | [Ребром](https://open.spotify.com/track/2aQgGle0AyaUEA70sA9Nnf) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO BANG! HOLD ON!](https://open.spotify.com/album/7uLeEgq6ndnivtW6Kwh5ar) | 2:18 | 2022-03-26 | 2022-03-28 |

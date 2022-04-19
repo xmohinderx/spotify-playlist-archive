@@ -2,7 +2,7 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Faouzia.
+> Global crossovers by/with Arab artists\. Cover: Anees.
 
 129 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 

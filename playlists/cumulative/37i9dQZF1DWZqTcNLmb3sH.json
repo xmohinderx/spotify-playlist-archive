@@ -1966,6 +1966,24 @@
     },
     {
       "album": {
+        "name": "RRR",
+        "url": "https://open.spotify.com/album/50jGyPdGvfn0U5icbTIoJc"
+      },
+      "artists": [
+        {
+          "name": "Prakruthi Reddy",
+          "url": "https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284172,
+      "name": "Kombe Uyyale",
+      "url": "https://open.spotify.com/track/2otnBJdnE12fdRdIBpYwsi"
+    },
+    {
+      "album": {
         "name": "Komuram Bheemudho (From \"RRR\")",
         "url": "https://open.spotify.com/album/2iwCk16cdBu0jxy33ifOVa"
       },

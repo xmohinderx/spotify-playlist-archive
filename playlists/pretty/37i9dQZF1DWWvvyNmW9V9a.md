@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > it's prom szn bby Cover: Alec Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,967 likes - 104 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,413 likes - 104 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

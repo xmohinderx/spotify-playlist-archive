@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,922 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,981 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 47 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
 | 48 | [Prisoner in Disguise](https://open.spotify.com/track/5Ms8PC4YEHInOWrhj2QLw0) | [The Souther\-Hillman\-Furay Band](https://open.spotify.com/artist/7hbzXJ5K6AqdPnbUcCL1hL) | [Trouble In Paradise](https://open.spotify.com/album/2B7aFxei2UhSAHbPWLXJRr) | 4:51 |
 
-Snapshot ID: `MTY1MDI2MzgzMiwwMDAwMDAwMDM3NzZlN2I2MTIyYmJkOTA3ZjZmN2ZmZDk5ZjFhZDM0`
+Snapshot ID: `MTY1MDMzMDUxMiwwMDAwMDAwMDM3NzZlN2I2MTIyYmJkOTA3ZjZmN2ZmZDk5ZjFhZDM0`

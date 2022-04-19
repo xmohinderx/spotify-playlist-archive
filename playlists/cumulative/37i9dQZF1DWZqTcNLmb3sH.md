@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-194 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+195 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Kanninda Jaari](https://open.spotify.com/track/55VTMOvoXdOw3GdEGQuLOP) | [Hithan Hassan](https://open.spotify.com/artist/2MZXYynfCx4eRuQB2hh9jn), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Govinda Govinda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6LylQW2rFaRUHwqJe17JNX) | 4:13 | 2021-12-06 |  |
 | [Kannu Hodiyaka](https://open.spotify.com/track/39QcVzIRlj76OqT6l5N8Ra) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Roberrt](https://open.spotify.com/album/2wWJ2mzYpYxcmGkf6ziidG) | 3:46 | 2021-12-06 | 2022-03-14 |
 | [Khali Khali Agide \- From "Puksatte Lifu"](https://open.spotify.com/track/5Ty8cIug6a2wo5RkAKP7vZ) | [Shilpa Mudbi](https://open.spotify.com/artist/6ZlQidX01vhLzUBWZMrLoE), [Vasu Dixit](https://open.spotify.com/artist/5jF2q5B73UBoXNSbyQijPH) | [Khali Khali Agide \(From "Puksatte Lifu"\)](https://open.spotify.com/album/7hkXwKL0OPgUilKIktagFN) | 4:10 | 2021-12-06 |  |
+| [Kombe Uyyale](https://open.spotify.com/track/2otnBJdnE12fdRdIBpYwsi) | [Prakruthi Reddy](https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN) | [RRR](https://open.spotify.com/album/50jGyPdGvfn0U5icbTIoJc) | 4:44 | 2022-04-18 |  |
 | [Komuram Bheemudho \(From "RRR"\)](https://open.spotify.com/track/7tJ90Ejr0RaStewhAcCxeN) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Komuram Bheemudho \(From "RRR"\)](https://open.spotify.com/album/2iwCk16cdBu0jxy33ifOVa) | 4:14 | 2021-12-24 | 2022-02-03 |
 | [Kudi Notada](https://open.spotify.com/track/11i2BpO3ftiPOrHioCAsSp) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [SriKrishna@gmail.com](https://open.spotify.com/album/7FfFqZax9QEBOiDuwxPIRP) | 4:18 | 2021-12-06 | 2022-03-14 |
 | [Kugraamave \- From "Minnal Murali"](https://open.spotify.com/track/1RspDNer9uYrIPKDlIKZux) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Kugraamave \(From "Minnal Murali"\)](https://open.spotify.com/album/0xNFvStG5PYuHE5cBSConG) | 1:37 | 2021-12-06 | 2022-02-03 |

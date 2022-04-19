@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonus tracks\)
 
-1,347 songs - 3 day 6 hr 46 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,348 songs - 3 day 6 hr 50 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -928,6 +928,7 @@
 | [Polaroids](https://open.spotify.com/track/0GHOuQ5U6Cxp40TcE7zEi0) | [Jason Wade](https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE) | [Polaroids](https://open.spotify.com/album/5jRDnBbT03Ah34nQm1iGLR) | 4:35 | 2021-12-04 | 2021-12-20 |
 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 | 2020-07-18 | 2020-08-20 |
 | [Por Si Acaso](https://open.spotify.com/track/29kZOnhPayYFbsUffWjEPG) | [Chiara Scanzerra](https://open.spotify.com/artist/3ycdNHDlAbsOcgoVUTN3ec) | [Por Si Acaso](https://open.spotify.com/album/0WubcHS4MLMoMOR4JlCyDq) | 3:11 | 2021-10-14 | 2021-10-29 |
+| [Portraits](https://open.spotify.com/track/2fqN4HjTE26ynoc3IuXjuO) | [Xaver](https://open.spotify.com/artist/6s4194zdwFnOnyJlzp9oq2) | [Portraits](https://open.spotify.com/album/1Wg4aLSItsl9cxhpNa8XDm) | 3:55 | 2022-04-18 |  |
 | [Potions \- Acoustic](https://open.spotify.com/track/2IKGiOdGUhIJ6JChvmSjob) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Potions \(Acoustic\)](https://open.spotify.com/album/2btxN0BuABBqyzpSGKgptR) | 3:23 | 2020-03-11 | 2020-04-09 |
 | [Pretend Goodbye](https://open.spotify.com/track/7xGpghpnQHIphKwvSUtYTi) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Pretend Goodbye](https://open.spotify.com/album/53BVYFhYGuZdfNsZY0wRHJ) | 3:38 | 2020-02-16 | 2020-02-24 |
 | [Privacy](https://open.spotify.com/track/5Ir2u1IUY2M4JnpJPDKnfx) | [Brex](https://open.spotify.com/artist/2n7X2PbIVqENWflJnW9QQ9), [Yakey](https://open.spotify.com/artist/5u28u1cQhlBokIsqMyjaJ5) | [Privacy](https://open.spotify.com/album/4r5fRXTDZFNZ4L6sSe9MJu) | 3:03 | 2020-05-25 | 2020-06-10 |
@@ -1267,7 +1268,7 @@
 | [Walking On Water](https://open.spotify.com/track/38diyT1cH8ig7nWfz6p7cf) | [Loky](https://open.spotify.com/artist/4gkcwDdiHiLaRJOOOmost2), [TOMA, & SAMMAY](https://open.spotify.com/artist/2lCTjvZOxQ6dj86Mbd1nMW) | [Walking On Water](https://open.spotify.com/album/4XAvgxqwPw6lUjftlHZTdy) | 4:07 | 2019-12-17 | 2019-12-27 |
 | [Walking True](https://open.spotify.com/track/3mdK59MBIoYnQ3VA3SU2Xm) | [Sage of New England](https://open.spotify.com/artist/3NDOUslDAgkXJJHa8sELaJ) | [Walking True](https://open.spotify.com/album/013ocIBiftqcSA7dhobZjf) | 5:02 | 2022-02-11 | 2022-02-27 |
 | [Wanderman](https://open.spotify.com/track/26QO9YeIU63KxMeeQLiIN7) | [Pacemaker](https://open.spotify.com/artist/1urn2Bdf9W0xMGSUTaail0) | [Wanderman](https://open.spotify.com/album/5QRbHPdF7NESuEaxByRR57) | 3:51 | 2021-11-03 | 2021-11-19 |
-| [wanna do](https://open.spotify.com/track/4Nxtdw9HdK5lRbTVnqMg3c) | [Zimri](https://open.spotify.com/artist/2E75OsKarvMnuMwNScEkpW) | [wanna do](https://open.spotify.com/album/6nNUzznrlzPLnxovlqbCLJ) | 3:05 | 2022-03-31 |  |
+| [wanna do](https://open.spotify.com/track/4Nxtdw9HdK5lRbTVnqMg3c) | [Zimri](https://open.spotify.com/artist/2E75OsKarvMnuMwNScEkpW) | [wanna do](https://open.spotify.com/album/6nNUzznrlzPLnxovlqbCLJ) | 3:05 | 2022-03-31 | 2022-04-19 |
 | [Wanna See You](https://open.spotify.com/track/6q5dbremJ7EFbztaZ3TRX5) | [R.J.](https://open.spotify.com/artist/30TSAGQzM4LeNrF0o9nqqU) | [Wanna See You](https://open.spotify.com/album/1F4lamEKvDWe198drDhgaw) | 4:43 | 2020-04-18 | 2020-05-06 |
 | [Wannabe](https://open.spotify.com/track/0y2kRlM9kXcWEVY8BGmfUf) | [Shaina](https://open.spotify.com/artist/4f6Ld2fEYNHv5t0LyBochy) | [Wannabe](https://open.spotify.com/album/5NLmYzYDQK8KUjUooUDhnb) | 3:30 | 2022-04-01 | 2022-04-17 |
 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 | 2021-07-11 |  |

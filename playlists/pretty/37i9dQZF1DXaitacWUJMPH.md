@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 
 > 24 songs dedicated to the Mamba & Mambacita\. R.I.P\. Kobe & Gianna Bryant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,813 likes - 24 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,002 likes - 24 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 | 23 | [Love Yourz](https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL) | 3:31 |
 | 24 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 |
 
-Snapshot ID: `MTY1MDI2NDAxMCwwMDAwMDAwMGI0YmYxN2M5NWEwNWFhYjc4ZjI2ZDY3YmVjNDA0Yzhm`
+Snapshot ID: `MTY1MDMzMDY5OSwwMDAwMDAwMGI0YmYxN2M5NWEwNWFhYjc4ZjI2ZDY3YmVjNDA0Yzhm`

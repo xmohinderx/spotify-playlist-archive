@@ -2148,6 +2148,28 @@
     },
     {
       "album": {
+        "name": "Radio Static",
+        "url": "https://open.spotify.com/album/1TpZPKV0u8KvN6J3ukDnns"
+      },
+      "artists": [
+        {
+          "name": "Morphoice",
+          "url": "https://open.spotify.com/artist/6AXhwWPucCdjUCzlVzoYuv"
+        },
+        {
+          "name": "Patrick Russell",
+          "url": "https://open.spotify.com/artist/5Gi7hkogSkYVew7PXqDn2H"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Radio Static",
+      "url": "https://open.spotify.com/track/7arjveLLgfbdATcCL4I8WT"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/56hQGTuxUk0ca49hzouSp7"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-767 songs - 1 day 14 hr 53 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+768 songs - 1 day 14 hr 57 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2021-05-27 | 2021-05-28 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-16 |
 | [Euforija](https://open.spotify.com/track/179RlsezyrYKDp9vsyTe5L) | [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D) | [Euforija](https://open.spotify.com/album/6XEjoRy2wNZN84yoIAO3oW) | 1:53 | 2021-10-22 | 2021-11-04 |
-| [Expresso & Tschianti](https://open.spotify.com/track/0uQbTk0GFM9PxE0rN1UWZb) | [Josh.](https://open.spotify.com/artist/1nngQyj8LCicyLKclbWTmU) | [Teilzeitromantik](https://open.spotify.com/album/3giZLG5MtJogNCQEd1uXi3) | 2:57 | 2021-06-27 |  |
+| [Expresso & Tschianti](https://open.spotify.com/track/0uQbTk0GFM9PxE0rN1UWZb) | [Josh.](https://open.spotify.com/artist/1nngQyj8LCicyLKclbWTmU) | [Teilzeitromantik](https://open.spotify.com/album/3giZLG5MtJogNCQEd1uXi3) | 2:57 | 2021-06-27 | 2022-04-19 |
 | [Extasy](https://open.spotify.com/track/5OqIKA0ETzvxocl2IS7nV6) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Extasy](https://open.spotify.com/album/17BMEx1PKFdh53eGNPW8D5) | 2:54 | 2021-05-09 | 2021-05-16 |
 | [Extasy](https://open.spotify.com/track/79lc69ZXfL4WmJIzVSDmWT) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 2:54 | 2021-05-16 | 2021-08-08 |
 | [Faded Love](https://open.spotify.com/track/3RcXFW8aiRYHRaDDYBqJ76) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/5DwA2j6RPl3a9CEHROkUK5) | 2:28 | 2021-04-08 | 2021-07-13 |
@@ -307,6 +307,7 @@
 | [Home](https://open.spotify.com/track/1ID9Iour6yMUsUccV9JxyS) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Home](https://open.spotify.com/album/3RyNVyd8yO8amV4GUqoZ2q) | 3:45 | 2021-11-17 | 2022-02-20 |
 | [Hops](https://open.spotify.com/track/3uHLAMO1Ul2C8y7MbS4SVy) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Hops](https://open.spotify.com/album/3aB2VFZgqCBD8kouNlZTyb) | 2:59 | 2021-08-29 | 2021-08-31 |
 | [Hotel](https://open.spotify.com/track/5L7eC2vJO1RpBTG8tPEWuU) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 3:28 | 2021-05-16 | 2021-05-17 |
+| [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-18 |  |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-19 |
 | [Hödn](https://open.spotify.com/track/6K0zn6YFD9HxmriRCKLZZn) | [Seiler und Speer](https://open.spotify.com/artist/4PBCFEjR4a3OGdOZ6jeKKM) | [Hödn](https://open.spotify.com/album/51IMryW8DHbJZGGScwOxEb) | 4:03 | 2021-06-09 | 2021-09-29 |

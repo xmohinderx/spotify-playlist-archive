@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,749 likes - 304 songs - 21 hr 5 min
+[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,748 likes - 305 songs - 21 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,5 +312,6 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 302 | [The Raid](https://open.spotify.com/track/7mhj453d7WWXUPneEuzsHN) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Hardwired](https://open.spotify.com/album/4nagl2ORrwFi8nAmjTrqp3) | 4:41 |
 | 303 | [Colonizer](https://open.spotify.com/track/3re2KHS7X0Am296uF7fZG8) | [Sonic Gap](https://open.spotify.com/artist/6QRr0IwTkKmxqIv5jPAEwq), [Kaarin Zoe Lee](https://open.spotify.com/artist/5uXhkMl3zLC0Wmjuo6QVwE) | [Colonizer](https://open.spotify.com/album/7JG8Z4PRhiUf9u9xseqQEE) | 3:28 |
 | 304 | [Heavy Metal Brothers](https://open.spotify.com/track/10VfLWYzB3HDsy2cURe7Yy) | [Fighter Jets](https://open.spotify.com/artist/6kzcQB6tyfyVIwnwoWV7vH) | [Heavy Metal Brothers](https://open.spotify.com/album/6Dzgh1UH98YZ6nAUgoYRUx) | 4:23 |
+| 305 | [Violence \- Call Me Sleeper Remix](https://open.spotify.com/track/48qtquoS7amT7zu2V65oiS) | [Powernerd](https://open.spotify.com/artist/2vio6wIiVR3XOM1zlgMxXK), [Requiem](https://open.spotify.com/artist/7seQVCjq5nCcLxb6B3TLsR), [Call Me Sleeper](https://open.spotify.com/artist/56R43sgGa6BTTr7xkE5TyE) | [Violence \(Call Me Sleeper Remix\)](https://open.spotify.com/album/0ixgdQdosPVMvD6pkF7dE6) | 3:33 |
 
-Snapshot ID: `NzM5LGY3OGEzMWFmZjZiNDkwODA4ZmIxOGI0NTkwYzRjOTZhYjg5MGE2ZjA=`
+Snapshot ID: `NzQwLDY5YzU1ZjE0NzlhNWIxNzVlMTA2ZjljM2Q4M2ZiZTcxNDRhNDExY2Q=`

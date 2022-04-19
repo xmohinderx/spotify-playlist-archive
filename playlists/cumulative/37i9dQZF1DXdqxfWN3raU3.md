@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Jesse Baez
 
-136 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+137 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2021-12-13 | 2022-03-08 |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2021-12-13 |  |
 | [Desaparecer](https://open.spotify.com/track/5VA5vIIfllzd39yAqBCjC4) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Desaparecer](https://open.spotify.com/album/66JKhnhWqlvJkXD2EMuj4k) | 3:44 | 2021-12-13 |  |
-| [Desilusionándome](https://open.spotify.com/track/2R8w2f2gBJPCI6zYXNYLYz) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Desilusionándome](https://open.spotify.com/album/1uJ1YdzDnJ3ghyv0sltJAJ) | 3:16 | 2021-12-13 |  |
+| [Desilusionándome](https://open.spotify.com/track/2R8w2f2gBJPCI6zYXNYLYz) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Desilusionándome](https://open.spotify.com/album/1uJ1YdzDnJ3ghyv0sltJAJ) | 3:16 | 2021-12-13 | 2022-04-19 |
 | [Destiempo](https://open.spotify.com/track/5Hbb4gAFqJDGIC8LqbSWJl) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Destiempo](https://open.spotify.com/album/6MNJ9Gj5Z4CAjnubeoIfEt) | 3:11 | 2022-01-28 |  |
 | [Destino](https://open.spotify.com/track/1h3O9kqjPGkMYOtNNR7q3z) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO) | [Destino](https://open.spotify.com/album/3aAcprxImeeeOh3QvUyQMm) | 3:18 | 2022-01-28 |  |
 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 | 2021-12-13 |  |
@@ -80,6 +80,7 @@
 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 | 2021-12-13 |  |
 | [Loop](https://open.spotify.com/track/3w3aUB2r1gcAeO8OsBTtjN) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Loop](https://open.spotify.com/album/3yNmliCH10IlyFsMRUk564) | 2:40 | 2021-12-13 |  |
 | [Luz de Luna](https://open.spotify.com/track/0iA0fZPjdfsc7cmlL164Qg) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO) | [Fuego](https://open.spotify.com/album/42myA7rDKd1QWWMATQldju) | 4:39 | 2021-12-13 |  |
+| [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 | 2022-04-18 |  |
 | [Margaritas](https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Margaritas](https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2) | 2:46 | 2021-12-13 | 2022-01-13 |
 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 | 2021-12-13 | 2022-03-09 |
 | [MENTE DE AGUA](https://open.spotify.com/track/1sf7pnykFEJKQdQzjdV7aL) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [MENTE DE AGUA](https://open.spotify.com/album/3RI9UsS8XzaZCMwRIUmFAZ) | 3:39 | 2022-04-15 |  |

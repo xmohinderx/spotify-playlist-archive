@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Reyna",
+        "url": "https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201155,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev"
+    },
+    {
+      "album": {
         "name": "Luz & Sombra",
         "url": "https://open.spotify.com/album/4zfSMksNSvSWuwVWE0QmM8"
       },
@@ -739,6 +757,32 @@
       "duration_ms": 255306,
       "name": "El G.O.A.T.",
       "url": "https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO"
+    },
+    {
+      "album": {
+        "name": "Hecho en Mexico: Traditional Sounds and Modern Latin Grooves",
+        "url": "https://open.spotify.com/album/3VGQQzs6CiziWT37YApV7z"
+      },
+      "artists": [
+        {
+          "name": "Eric Vasquez",
+          "url": "https://open.spotify.com/artist/1VBseZeSCYgK6UYnl9stGS"
+        },
+        {
+          "name": "Jesse Manuel Hernadez",
+          "url": "https://open.spotify.com/artist/5MFzbaXANdyxldpjntKPpA"
+        },
+        {
+          "name": "Julian Mireles Jr.",
+          "url": "https://open.spotify.com/artist/7wsuQexyAJ7MahSbVjXmIe"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147104,
+      "name": "El Puente",
+      "url": "https://open.spotify.com/track/0AEE29MR3wWP5KHo3wIJiu"
     },
     {
       "album": {
@@ -1685,7 +1729,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 217263,
       "name": "No Soy Criminal",
       "url": "https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3"

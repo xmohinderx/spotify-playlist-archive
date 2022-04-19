@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,599 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,639 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Decompose](https://open.spotify.com/track/58QdFjoa1UytClOVUfnWqe) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Decompose](https://open.spotify.com/album/1VbGdZdfljgKp8q9GVkFXG) | 4:25 |
 | 50 | [King of the Waves](https://open.spotify.com/track/56rkUIGHMGCfCFZOdpr57t) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [King of the Waves](https://open.spotify.com/album/5rrSKAMIuu3RpsjWbUEiDo) | 3:35 |
 
-Snapshot ID: `MTY1MDI2NDAxOSwwMDAwMDAwMGJjMmE5MTMxNGM0YjYxMDZmYzJiNDIzYWMxZGRkZmUy`
+Snapshot ID: `MTY1MDMzMDcwOCwwMDAwMDAwMGJjMmE5MTMxNGM0YjYxMDZmYzJiNDIzYWMxZGRkZmUy`

@@ -2,9 +2,9 @@
 
 ### [AMPLIFIKA](https://open.spotify.com/playlist/37i9dQZF1DX95vhptNy3YE)
 
-> Vulgo VK e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
+> Orochi, Borges, Bielzin, Oruam, Chefin e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-70 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1jX5Ne4edsz9wqa3MMSini)
+71 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/1jX5Ne4edsz9wqa3MMSini)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [EU SOU O TREM](https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:45 | 2022-03-18 |  |
 | [Falta Você](https://open.spotify.com/track/14uWxelOuAUajP8fDvc0Ct) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 3:40 | 2022-04-12 |  |
 | [Fatia do Bolo](https://open.spotify.com/track/62MJCu8Ypiwkp2YWKtY1es) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Fatia do Bolo](https://open.spotify.com/album/35AqGcnqtTdNNKAxouEcRd) | 2:32 | 2022-03-18 |  |
+| [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 | 2022-04-18 |  |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:16 | 2022-03-18 | 2022-04-05 |
 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 | 2022-03-18 | 2022-04-12 |
 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 | 2022-03-18 | 2022-04-12 |
@@ -75,7 +76,7 @@
 | [Vejo o bem](https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 2:48 | 2022-04-01 | 2022-04-12 |
 | [Vendaval \- Ao Vivo](https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval \(Ao Vivo\)](https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF) | 3:53 | 2022-03-25 |  |
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-18 |  |
-| [Videozin pra Tiktok](https://open.spotify.com/track/0IU0HtCAk6AXO5BqWW4lwy) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj) | [Videozin pra Tiktok](https://open.spotify.com/album/7eypky4JCgx0P4T2Oka3ce) | 2:21 | 2022-04-12 |  |
+| [Videozin pra Tiktok](https://open.spotify.com/track/0IU0HtCAk6AXO5BqWW4lwy) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj) | [Videozin pra Tiktok](https://open.spotify.com/album/7eypky4JCgx0P4T2Oka3ce) | 2:21 | 2022-04-12 | 2022-04-19 |
 | [Você Me Venceu / Nunca Mais Sofrer \- Ao Vivo](https://open.spotify.com/track/04FyuzQPX9ObQuCHfvxCBo) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Pagode da Tia Gessy \- Que Samba Bom \(Ao Vivo\)](https://open.spotify.com/album/7vhfz9VrbOpvvkgabxFPRD) | 4:28 | 2022-04-12 |  |
 | [Vou de Lala](https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [Vou de Lala](https://open.spotify.com/album/0gHO5D4JdxNHZIpyGtQm1I) | 5:00 | 2022-03-18 | 2022-03-30 |
 

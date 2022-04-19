@@ -4,7 +4,7 @@
 
 > soft songs that go hard\. cover: ROLE MODEL
 
-1,559 songs - 3 day 11 hr 21 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,560 songs - 3 day 11 hr 24 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Castaway](https://open.spotify.com/track/1wkM7sPVAucG10x0McMDPa) | [Jackii Kennedy](https://open.spotify.com/artist/5sprC3BOlpim8l6tyepfg7) | [Castaway](https://open.spotify.com/album/35GyURhzt6S11sEMx4sBkl) | 2:33 | 2021-07-31 | 2021-11-13 |
 | [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 | 2022-04-15 |  |
 | [Cause and Effect](https://open.spotify.com/track/5nrod69NCUKOru6iMfqIyz) | [Tony22](https://open.spotify.com/artist/72WtJOdm9BlSXYm1Xd0Drm), [Brian Austin](https://open.spotify.com/artist/460LpXD2aDD0WHZhwpiymj) | [Earth Boy](https://open.spotify.com/album/0kR7MqklL8vFXV7v3LqCrb) | 3:24 | 2019-08-10 | 2019-10-10 |
+| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-18 |  |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-04-09 |  |
 | [CHA](https://open.spotify.com/track/034IcTy5i48Ck6EEYbrMtX) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/6SHGA5HOlV0pgQNE4EP96t) | 3:24 | 2019-07-30\* | 2019-11-14 |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2019-11-07 | 2020-05-28 |

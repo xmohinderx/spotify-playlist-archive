@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain]
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,891 likes - 105 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,895 likes - 105 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

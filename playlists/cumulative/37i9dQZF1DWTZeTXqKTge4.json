@@ -446,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Benz Coupe",
+        "url": "https://open.spotify.com/album/0XX7Ygea8VjrtwO6RVKJIU"
+      },
+      "artists": [
+        {
+          "name": "Kay Bandz",
+          "url": "https://open.spotify.com/artist/0NhcQOX46LVhK8aUc4vmMd"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151241,
+      "name": "Benz Coupe",
+      "url": "https://open.spotify.com/track/6jjZ66yqu8t3Br1RcFUUOq"
+    },
+    {
+      "album": {
         "name": "Coup De Feu Rue De La Paix",
         "url": "https://open.spotify.com/album/64HldXz7R0KapCaiAiZiYC"
       },
@@ -479,7 +497,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 155997,
       "name": "Bienvenue dans ma vie",
       "url": "https://open.spotify.com/track/6492iA3gQgrh0KsTOwI06S"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 217534,
       "name": "Je sais tu veux quoi",
       "url": "https://open.spotify.com/track/2HXUTvWk5wsYIqnAgXNnOG"
@@ -2271,6 +2289,24 @@
       "duration_ms": 159958,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1va4RVJYJkob1UzawrRciE"
+    },
+    {
+      "album": {
+        "name": "On a Roll",
+        "url": "https://open.spotify.com/album/1Mq1hN89NQCXHxy4rUvvKI"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147069,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/17TrsHFROsZTyJJHt7ZJPU"
     },
     {
       "album": {

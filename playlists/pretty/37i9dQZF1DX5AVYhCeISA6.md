@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Maria Becerra, Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,634 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,756 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 79 | [Pa' Mi Entero](https://open.spotify.com/track/3XYRNTBQLpR8qZMJSptr8V) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Pa' Mi Entero](https://open.spotify.com/album/5TbFBxS1BraUgl9d0pfzyp) | 2:52 |
 | 80 | [Inventas](https://open.spotify.com/track/48eeeHvDzNvtJiQh5XDs2N) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Todas las mujeres que habitan en mí](https://open.spotify.com/album/2McQoPHfRjo0Ol6E3thbEM) | 3:36 |
 
-Snapshot ID: `MTY1MDI2Mzg0OSwwMDAwMDAwMDcwOTllYWQwYWQ3OWMyMTM1NjExNTgxODMwNWI4ZGRi`
+Snapshot ID: `MTY1MDMzMDUzMCwwMDAwMDAwMDcwOTllYWQwYWQ3OWMyMTM1NjExNTgxODMwNWI4ZGRi`

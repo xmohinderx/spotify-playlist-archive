@@ -38,6 +38,24 @@
     },
     {
       "album": {
+        "name": "Czarno na bia\u0142ym",
+        "url": "https://open.spotify.com/album/4uxD1b9je0iDbdY1BMamMZ"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265966,
+      "name": "(Po)ci\u0105g dalszy nast\u0105pi",
+      "url": "https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U"
+    },
+    {
+      "album": {
         "name": "10 PAK",
         "url": "https://open.spotify.com/album/2MvtfvyGItiXoBf0IziZrK"
       },
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 174708,
       "name": "Baczy\u0144ski (Pisz do mnie listy)",
       "url": "https://open.spotify.com/track/4FljepceALLLfG85vNWIRx"
@@ -4551,7 +4569,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 176350,
       "name": "Harna\u015b ice tea",
       "url": "https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35"
@@ -4733,7 +4751,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 209655,
       "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
       "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
@@ -9861,7 +9879,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Powww!",
       "url": "https://open.spotify.com/track/6hhRa7U5jBBXyyudOJMA0C"
@@ -13947,7 +13965,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 195550,
       "name": "\u015awi\u0119ty Graal",
       "url": "https://open.spotify.com/track/6knWzB1eRVwOitRra73R7w"

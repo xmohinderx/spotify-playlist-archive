@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,787 likes - 98 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,841 likes - 98 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 97 | [Flight 19](https://open.spotify.com/track/4Ag0bpdJVnaGU9xOXOSQQ3) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 4:18 |
 | 98 | [The Eye Of The Hurricane \- Remastered](https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 6:01 |
 
-Snapshot ID: `MTY1MDI2MzcyNCwwMDAwMDAwMGIyOGQ5OGZkOWNhNjA4MjQ4ZmU4MWFjOTFkOWI4OTY5`
+Snapshot ID: `MTY1MDMzMDQwMiwwMDAwMDAwMGIyOGQ5OGZkOWNhNjA4MjQ4ZmU4MWFjOTFkOWI4OTY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,343 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,380 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Sólo Le Pido A Dios](https://open.spotify.com/track/6R6xjvqFWRPoSf6fu5Bh6G) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [The Best Of Mercedes Sosa](https://open.spotify.com/album/59GCFh4QKbFRrv4yFeud7A) | 4:39 |
 | 90 | [Chacarera del Olvido](https://open.spotify.com/track/3umAXc7lFcIw9YdfWJjNBH) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/56iNtYlcmkViyQhjah60Kb) | 2:08 |
 
-Snapshot ID: `MTY1MDI2Mzg5NywwMDAwMDAwMDBmMDhmYjQzNzgxNDYyM2QwZmUyYmY4M2Q1YmJhYThi`
+Snapshot ID: `MTY1MDMzMDU4MSwwMDAwMDAwMDBmMDhmYjQzNzgxNDYyM2QwZmUyYmY4M2Q1YmJhYThi`

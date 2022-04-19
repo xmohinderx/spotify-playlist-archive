@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Faouzia.
+> Global crossovers by/with Arab artists\. Cover: Anees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,947 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,975 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 |
-| 2 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 |
-| 3 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
-| 4 | [HELLSTORM](https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [HELLSTORM](https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B) | 3:18 |
-| 5 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 |
+| 1 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 |
+| 2 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 |
+| 3 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 |
+| 4 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
+| 5 | [HELLSTORM](https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [HELLSTORM](https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B) | 3:18 |
 | 6 | [BETTER DAYS](https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BETTER DAYS](https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ) | 2:58 |
 | 7 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 |
 | 8 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 |
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 10 | [Fruitseller](https://open.spotify.com/track/1CV5V40YIAS7d8CxU2bKwQ) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Fruitseller](https://open.spotify.com/album/4mghCfnlgjoqt1WWu1VvLC) | 2:38 |
 | 11 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 |
 | 12 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 |
-| 13 | [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 |
-| 14 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 |
-| 15 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
-| 16 | [hellcats & audis](https://open.spotify.com/track/3KuHRM5HCxlROknbeaNCVw) | [sobhhï](https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef), [NIVO](https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY), [NHYN](https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5) | [hellcats & audis](https://open.spotify.com/album/5xmfn1YnCLipGCWv5CQaIa) | 2:10 |
-| 17 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 |
-| 18 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 |
+| 13 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 |
+| 14 | [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 |
+| 15 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 |
+| 16 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
+| 17 | [hellcats & audis](https://open.spotify.com/track/3KuHRM5HCxlROknbeaNCVw) | [sobhhï](https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef), [NIVO](https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY), [NHYN](https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5) | [hellcats & audis](https://open.spotify.com/album/5xmfn1YnCLipGCWv5CQaIa) | 2:10 |
+| 18 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 |
 | 19 | [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 |
 | 20 | [Lonely People](https://open.spotify.com/track/3fN7EGwo1y6qAQnT1U7IPn) | [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE) | [Lonely People](https://open.spotify.com/album/1j8KSKJtQwcjzdbylsGcAa) | 3:13 |
 | 21 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Si Tu Vuelas \(Hadal Ahbek \[Alok Remix\]\)](https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 99 | [Hold On !](https://open.spotify.com/track/6CxtpFhcKwdsIgX2MwtaiP) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:36 |
 | 100 | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/track/4mCkHTkDfG4GG29cd7nrT5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/album/7gAjCKK7SJMIYLxYGDUEUM) | 3:14 |
 
-Snapshot ID: `MTY0OTkyOTQwOSwwMDAwMDI4NDAwMDAwMTgwMjc3NGQyNDMwMDAwMDE3ZmU2MjY0YTFk`
+Snapshot ID: `MTY1MDI3Njc0MCwwMDAwMDI4NjAwMDAwMTgwM2MyOGFjMjUwMDAwMDE4MDNjMjg4OWE2`

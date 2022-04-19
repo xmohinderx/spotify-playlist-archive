@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,645 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,760 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Manteca Theme](https://open.spotify.com/track/5PMPoFhrdz02jWnUfzoSK7) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Afro](https://open.spotify.com/album/5ox3rUiRPzHdYPsICnq8hh) | 4:10 |
 | 100 | [Aggua](https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [Yesun](https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ) | 2:46 |
 
-Snapshot ID: `MTY1MDI2Mzg3NywwMDAwMDAwMGI3OWM1ZTMyOTc4YWUwZTNiOWIwMDYxYTVjYjYzY2Jk`
+Snapshot ID: `MTY1MDMzMDU2MCwwMDAwMDAwMGI3OWM1ZTMyOTc4YWUwZTNiOWIwMDYxYTVjYjYzY2Jk`

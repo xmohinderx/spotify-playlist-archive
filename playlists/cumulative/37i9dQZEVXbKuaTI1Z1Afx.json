@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 279840,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t"
@@ -3748,6 +3748,24 @@
     },
     {
       "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "album": {
         "name": "Street Poetry",
         "url": "https://open.spotify.com/album/424KidkXx9YRSRIEqJwQzy"
       },
@@ -4769,10 +4787,28 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/1m2PksrrMpIev63uPxT1V0"
+    },
+    {
+      "album": {
+        "name": "Low Expectations",
+        "url": "https://open.spotify.com/album/205UoabL8LIgfrjHi0uvUw"
+      },
+      "artists": [
+        {
+          "name": "Atlus",
+          "url": "https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168846,
+      "name": "OH NO!",
+      "url": "https://open.spotify.com/track/1vPBFWHQnKaDHr5wAT6szU"
     },
     {
       "album": {

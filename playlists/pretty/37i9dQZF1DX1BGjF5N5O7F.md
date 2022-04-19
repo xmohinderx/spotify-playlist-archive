@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,435 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,467 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [Making Love on the Mountain \(Sexy Mix\)](https://open.spotify.com/track/40CqYr0j37FWltcjoEIjJc) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. I](https://open.spotify.com/album/1V4FuW2iS5SP4ckUtRN9U9) | 3:58 |
 | 50 | [By Night](https://open.spotify.com/track/0FFAFXY4GbaTHy4U5pxWT8) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/4yBVmYbEq5PXMa8MSJkUUq) | 3:38 |
 
-Snapshot ID: `MTY1MDI2MzczMiwwMDAwMDAwMDBmMjRjNTBhMGNiOTg3NjdhMDI1YjY4NTY5NmExZWRk`
+Snapshot ID: `MTY1MDMzMDQxMSwwMDAwMDAwMDBmMjRjNTBhMGNiOTg3NjdhMDI1YjY4NTY5NmExZWRk`

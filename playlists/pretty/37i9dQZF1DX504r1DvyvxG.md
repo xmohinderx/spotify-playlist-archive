@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,388,749 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,389,266 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [Cosmic Empire \- Day 2 Demo / Take 1](https://open.spotify.com/track/3dbhRlMVh3tiz1NdBbMlTp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cosmic Empire/Run Of The Mill](https://open.spotify.com/album/47LKl381PkVTCkM3GD6U6w) | 2:09 |
 | 100 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 |
 
-Snapshot ID: `MTY1MDI2Mzg0NCwwMDAwMDAwMGIyMjM4MzllM2I0NjQ5OWY0OTQ4OGY5ZTNlMTk1ODk4`
+Snapshot ID: `MTY1MDMzMDUyNiwwMDAwMDAwMGIyMjM4MzllM2I0NjQ5OWY0OTQ4OGY5ZTNlMTk1ODk4`

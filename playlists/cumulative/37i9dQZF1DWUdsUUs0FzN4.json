@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Acelera",
+        "url": "https://open.spotify.com/album/2yLvsTfL0erLPPohKuzi3O"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Acelera",
+      "url": "https://open.spotify.com/track/7ixpPg981MDTWJEY54pnRw"
+    },
+    {
+      "album": {
         "name": "Adicta Al Perreo",
         "url": "https://open.spotify.com/album/2hErz41P7ParYCOCiDmTZX"
       },
@@ -75,7 +93,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 192586,
       "name": "Anormal",
       "url": "https://open.spotify.com/track/3MroASzMNY2lQtg5eQsS9p"
@@ -101,7 +119,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 171789,
       "name": "Aplaude",
       "url": "https://open.spotify.com/track/0XOzKFrzY8ZLh7m4ldN9q8"
@@ -123,7 +141,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 186509,
       "name": "Ay Ay Ay",
       "url": "https://open.spotify.com/track/79xRCxLwNf0gr4l4lYmTv7"
@@ -175,7 +193,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 173863,
       "name": "Bagdad",
       "url": "https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 229125,
       "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
       "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
@@ -349,7 +367,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 186352,
       "name": "Chakalon",
       "url": "https://open.spotify.com/track/06Uy0GHG2N5CYmw11VSprB"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 220242,
       "name": "Chezinay",
       "url": "https://open.spotify.com/track/2pkq3FmWxjuX968lMImvhn"
@@ -393,7 +411,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 148571,
       "name": "Co$hi",
       "url": "https://open.spotify.com/track/6bE2qmHeddAKGyizPNL62u"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 172500,
       "name": "Como Me Muevo",
       "url": "https://open.spotify.com/track/5LvqbMx39IhZNUBz4YQG3b"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 177506,
       "name": "Contra la Pared",
       "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
@@ -463,7 +481,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 179629,
       "name": "CULO",
       "url": "https://open.spotify.com/track/12DGHYNvwPA5wFtxKQoeNZ"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 195736,
       "name": "Culo Arabe",
       "url": "https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD"
@@ -515,7 +533,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 189645,
       "name": "Dale Agachadita",
       "url": "https://open.spotify.com/track/0D4BSEA5fddnZ0FQEc3n3O"
@@ -537,7 +555,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 168315,
       "name": "Date Date",
       "url": "https://open.spotify.com/track/2ahikqDplQlkRgmr76u3tU"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 215160,
       "name": "Diabla en bellakera",
       "url": "https://open.spotify.com/track/6Tm42ujjFYSmYPG2t0QCbu"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 194680,
       "name": "Goldi Buena",
       "url": "https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 191026,
       "name": "La Gata de la Agricola Oriental",
       "url": "https://open.spotify.com/track/03QlQ3jX2glFnxCj8maCta"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 187580,
       "name": "La Mano (feat. Tavo Rayo)",
       "url": "https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 253987,
       "name": "Le Encanta",
       "url": "https://open.spotify.com/track/58WWCAi0pGb9Kw49BnGTXI"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 222275,
       "name": "Lluvia De Micheladas",
       "url": "https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 105018,
       "name": "Matanga",
       "url": "https://open.spotify.com/track/0ChPyoj8ptMm42naOyByAg"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 174703,
       "name": "Oxxo est\u00e1s ah\u00ed?",
       "url": "https://open.spotify.com/track/12QZtyonVLker8V95gYTGB"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 170400,
       "name": "Perra",
       "url": "https://open.spotify.com/track/53GuGDwZqQUA9kATFaV7sS"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 146666,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 147586,
       "name": "Perreo Chakalon",
       "url": "https://open.spotify.com/track/7z7SALpfsx48bsq8t1oOTB"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 227375,
       "name": "POP (feat. Jae S)",
       "url": "https://open.spotify.com/track/3qkDTmEGzViHrJu39B6W4l"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 169160,
       "name": "P\u00c9GATE",
       "url": "https://open.spotify.com/track/6OwKm3AXpkr6nO8Rid5e75"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 193469,
       "name": "Que Le Den",
       "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 204630,
       "name": "Rebota",
       "url": "https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 181625,
       "name": "Safari",
       "url": "https://open.spotify.com/track/5tb2NwccYRm4HoKXBCrcBT"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 207157,
       "name": "Saludos a mi Ex",
       "url": "https://open.spotify.com/track/3dUOKJwVYnbcrBHDfTsUbL"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 205296,
       "name": "Suena Perreo",
       "url": "https://open.spotify.com/track/5DizCtWxvshIngUI3SqQ86"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 203478,
       "name": "Toketeo",
       "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 146945,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/6fatMybX8VmHUpaxVcXzrz"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 156000,
       "name": "Vasito Rojo (feat. Jose Dolche & Paulina Fuego)",
       "url": "https://open.spotify.com/track/29WGTtAAeQgyFEh95FqqgL"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 169404,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/7Jyk0UOKEfXbcuZPEYqe3S"

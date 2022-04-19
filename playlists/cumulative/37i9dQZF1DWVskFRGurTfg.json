@@ -3724,6 +3724,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/4ygfd1lPGeyflD5NtWR8AT"
+      },
+      "artists": [
+        {
+          "name": "Amara Ignacia",
+          "url": "https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179650,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh"
+    },
+    {
+      "album": {
         "name": "Ran Bim Bam (Remix)",
         "url": "https://open.spotify.com/album/0rXmdlSIeI7xHf6cXVHqWX"
       },
@@ -4079,7 +4097,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 218391,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp"

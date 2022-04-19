@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 
 > The Latin viral tracks you'll wanna listen to\. Cover: FMK, Tiago PZK, Mau y Ricky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,933 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,024 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,445 likes - 114 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,444 likes - 114 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
 | 114 | [Hold Back The River](https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 3:58 |
 
-Snapshot ID: `MTY1MDI2Mzg4NCwwMDAwMDAwMDQ4YjJkY2Q4YzU2YzgyOTU1NTM4NTIyYjA2MDY3NzNm`
+Snapshot ID: `MTY1MDMzMDU2NywwMDAwMDAwMDQ4YjJkY2Q4YzU2YzgyOTU1NTM4NTIyYjA2MDY3NzNm`

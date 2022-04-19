@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,307 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,346 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 79 | [Dreams Tonite](https://open.spotify.com/track/78wvkEG8AhizCo20BeJjRF) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7JL3AEgr0HeSueUzmhq8ms) | 3:16 |
 | 80 | [Peaches](https://open.spotify.com/track/7BNHwtTtO5JiBYhs8FtRqJ) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Peaches](https://open.spotify.com/album/1a6W2sBTKLRYUi3Z7hiNgp) | 3:56 |
 
-Snapshot ID: `MTY1MDI2NDAzMiwwMDAwMDAwMGI0MzkwYThhOWViOGIwNjEwYzE4MDFkNWVmODQ4Njk4`
+Snapshot ID: `MTY1MDMzMDcyMiwwMDAwMDAwMGI0MzkwYThhOWViOGIwNjEwYzE4MDFkNWVmODQ4Njk4`

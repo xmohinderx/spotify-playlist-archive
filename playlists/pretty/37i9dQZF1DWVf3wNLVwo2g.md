@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,151 likes - 195 songs - 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,155 likes - 195 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 194 | [Ride \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:29 |
 | 195 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
 
-Snapshot ID: `MTY1MDI2MzU2NiwwMDAwMDAwMDNkOWRhZmJkZTBiNDNlY2U1Yzg0ZmUwZmExZjY1ZWQ3`
+Snapshot ID: `MTY1MDMzMDI0MSwwMDAwMDAwMDNkOWRhZmJkZTBiNDNlY2U1Yzg0ZmUwZmExZjY1ZWQ3`

@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening .
 
-104 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+105 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 | 2022-04-01 |  |
 | [Godsend](https://open.spotify.com/track/0t0ThciYX80fjAMdSWqLMN) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Godsend \(Deluxe\)](https://open.spotify.com/album/5ohqdo4XbIiFKqa8rBJI2w) | 4:12 | 2022-04-01 |  |
 | [Good God Almighty](https://open.spotify.com/track/2QAJK11pRGn8CvTmogpkxo) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Good God Almighty](https://open.spotify.com/album/7t1A9fY1f3YmcvTCfAlmxt) | 3:11 | 2022-02-17 |  |
+| [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 | 2022-04-18 |  |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2022-02-17 |  |
 | [He Believes In You](https://open.spotify.com/track/4aSEMyeOX4bORHIRToPcy0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [He Believes In You](https://open.spotify.com/album/4WndsUGUWi2hLMYH7xVbSD) | 4:01 | 2022-02-17 |  |
 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 | 2022-02-17 |  |

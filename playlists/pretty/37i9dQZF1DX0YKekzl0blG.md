@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: Bloc Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,892 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,075 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 79 | [The Beginning Of The Twist](https://open.spotify.com/track/5WO4u8XmvXocAsK9rIMTwJ) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [This Is Not The World](https://open.spotify.com/album/5WBxcZbQ2mxSnamfAN3mHa) | 3:36 |
 | 80 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 
-Snapshot ID: `MTY1MDI2MzcxNCwwMDAwMDAwMDE1MDZlYzQ4MGJiNDdmNjVlYTgyZDg3MzI1Y2FkN2U4`
+Snapshot ID: `MTY1MDMzMDM5MiwwMDAwMDAwMDE1MDZlYzQ4MGJiNDdmNjVlYTgyZDg3MzI1Y2FkN2U4`

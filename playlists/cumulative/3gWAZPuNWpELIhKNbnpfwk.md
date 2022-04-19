@@ -4,7 +4,7 @@
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв.
 
-165 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/6Ue29HB0gI4bMizHZxTapf)
+166 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/6Ue29HB0gI4bMizHZxTapf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Prime Operator](https://open.spotify.com/track/2jwc7czRortvzSg9HSKdKB) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [The Real Deal](https://open.spotify.com/album/0sESV8DNdZUnQgMNfiJOrj) | 3:55 | 2021-08-01 |  |
 | [Psychic Lovers](https://open.spotify.com/track/1PAlRaRuzVckCZI6kz7w21) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Mirrors \- EP](https://open.spotify.com/album/4nKbucDfWPdnNpGuEwkMBH) | 3:09 | 2021-03-06 | 2021-04-26 |
 | [Purification](https://open.spotify.com/track/5caIlq2BbPS6aTEVsobSZA) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Purification](https://open.spotify.com/album/6eTo9qN48KrlYlpQ49YjDP) | 3:10 | 2021-10-03 |  |
+| [Radio Static](https://open.spotify.com/track/7arjveLLgfbdATcCL4I8WT) | [Morphoice](https://open.spotify.com/artist/6AXhwWPucCdjUCzlVzoYuv), [Patrick Russell](https://open.spotify.com/artist/5Gi7hkogSkYVew7PXqDn2H) | [Radio Static](https://open.spotify.com/album/1TpZPKV0u8KvN6J3ukDnns) | 4:02 | 2022-04-18 |  |
 | [Reflections](https://open.spotify.com/track/0g13dS6Hg0burRbfXL5dM1) | [Runaway Droid](https://open.spotify.com/artist/3Ek1ULLo4QcO4JKEelaedq) | [Dangerous](https://open.spotify.com/album/56hQGTuxUk0ca49hzouSp7) | 3:44 | 2021-11-19 | 2022-04-07 |
 | [Renegade \- Instrumental](https://open.spotify.com/track/5q8Hpn47dTcpcgzJvZbeuP) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Renegade](https://open.spotify.com/album/0SrEtp8X0AH2gd0WX4Qh8Y) | 3:17 | 2021-11-19 |  |
 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 | 2021-08-01 |  |

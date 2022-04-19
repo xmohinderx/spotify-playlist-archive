@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise & shine with the perfect blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,417 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,415 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 89 | [Colder Heavens](https://open.spotify.com/track/6JOmZY3BQcnM6A5DIxn5xB) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens](https://open.spotify.com/album/6l3rbBz9CUeQzds9tCKXQ2) | 4:33 |
 | 90 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
 
-Snapshot ID: `MTY1MDI2NDA4NiwwMDAwMDAwMGIyNTU0NGZjZTUyNjE0YTE5ODFkY2IyODE1ZjQ5OGZh`
+Snapshot ID: `MTY1MDMzMDc3OSwwMDAwMDAwMGIyNTU0NGZjZTUyNjE0YTE5ODFkY2IyODE1ZjQ5OGZh`

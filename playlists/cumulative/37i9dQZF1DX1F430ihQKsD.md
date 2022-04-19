@@ -4,14 +4,15 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Peter Peter
 
-114 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+117 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-25 |  |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-03-25 | 2022-04-16 |
 | [Alison](https://open.spotify.com/track/13aJkLI6FTqT6CdyqxfTt2) | [Mouth Breather](https://open.spotify.com/artist/7hew569XYqIKGOGTfd5esn) | [The Mouth of Monte Cristo](https://open.spotify.com/album/5Kakth9mCCQob7NRrzSUGg) | 3:10 | 2022-03-25 |  |
-| [All Fucking Weekend](https://open.spotify.com/track/6qfwBFEZnmakt7GGXdsYzb) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [All Fucking Weekend](https://open.spotify.com/album/5DjP8o0NVjn6LrjxtGqUio) | 3:42 | 2022-04-15 |  |
+| [All Fucking Weekend](https://open.spotify.com/track/2S6Vm1e6C5r4yOeLk8sZAt) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 3:42 | 2022-04-18 |  |
+| [All Fucking Weekend](https://open.spotify.com/track/6qfwBFEZnmakt7GGXdsYzb) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [All Fucking Weekend](https://open.spotify.com/album/5DjP8o0NVjn6LrjxtGqUio) | 3:42 | 2022-04-15 | 2022-04-19 |
 | [All These Things](https://open.spotify.com/track/5DWlF5fxVsZarYWbcJfiNt) | [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3), [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ) | [All These Things](https://open.spotify.com/album/6sCG9dfqKRyMNXlX71iPQX) | 4:28 | 2022-03-25 |  |
 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 | 2022-03-25 |  |
 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 | 2022-03-25 |  |
@@ -59,7 +60,8 @@
 | [HERA](https://open.spotify.com/track/71u8qE2VjE98HJwuXmIVYs) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [HERA \(feat\. Evelyne Brochu\)](https://open.spotify.com/album/1c9gQnARueqvPuouIwcELm) | 3:11 | 2022-03-25 | 2022-04-16 |
 | [Hologramme](https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Miroirs](https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX) | 3:45 | 2022-03-25 |  |
 | [Honey](https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Honey](https://open.spotify.com/album/0IGnonvuiQjPSlGKYcYgmk) | 2:51 | 2022-03-25 | 2022-04-02 |
-| [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-25 |  |
+| [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 | 2022-04-18 |  |
+| [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-25 | 2022-04-19 |
 | [I'M NOT CRAZY](https://open.spotify.com/track/6BED5a6RzUKIhLpFtD7421) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [I'M NOT CRAZY](https://open.spotify.com/album/66Yjy6EWGZrpOLk1NWkUSF) | 3:35 | 2022-03-25 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-25 |  |
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-15 |  |
@@ -96,7 +98,8 @@
 | [Patience](https://open.spotify.com/track/4hVUrQ9c3JalPh8f8BoFqW) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Saintclaire](https://open.spotify.com/album/0nvwynLe9yrkfDldt6pJYy) | 3:42 | 2022-03-25 |  |
 | [Pendant que tu dors](https://open.spotify.com/track/6YoHe3OIqQEFcSFJ7sYm22) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Pendant que tu dors](https://open.spotify.com/album/7ELXNkBU4VZCAqsGHJAv8O) | 3:50 | 2022-03-25 |  |
 | [Perfected Steps](https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Perfected Steps](https://open.spotify.com/album/2sdTa1WtzVB56sLxCwetxy) | 6:38 | 2022-04-15 |  |
-| [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 | 2022-03-25 |  |
+| [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 | 2022-03-25 | 2022-04-19 |
+| [Plaster :\)](https://open.spotify.com/track/0zlXuLCs2QJTqF0UQGn6us) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Digital Damage](https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb) | 2:17 | 2022-04-18 |  |
 | [PLS \- sunset version](https://open.spotify.com/track/7Icpr4emncvQ7AbZ7RXlg3) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [PLS](https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS) | 3:28 | 2022-03-25 | 2022-04-09 |
 | [Porcelaine](https://open.spotify.com/track/3qeQtEMW0HsxrN8qbvdr6b) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/5N1sDD5VHZpjs4ViydetqY) | 3:22 | 2022-03-25 | 2022-04-16 |
 | [Pourquoi](https://open.spotify.com/track/7kpXh1DGtvwlKGxxJZawKL) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Pourquoi](https://open.spotify.com/album/7octbaqwUajyIePHuALwAi) | 3:14 | 2022-03-25 |  |

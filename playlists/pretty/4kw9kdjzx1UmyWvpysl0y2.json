@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128406,
+  "num_followers": 128412,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM1NSxkNzQ3YmQzYTRiYzZmYTUzMDk0NGI2Mjg4Y2E5Y2EyNWU5NmI5MjVi",
+  "snapshot_id": "MzM1OCwyMzRjY2MzMzRmYTFiOGJlOTg4MDc3OGY0ZGJlMjhkN2M5ZjE3OTEw",
   "tracks": [
+    {
+      "added_at": "2022-04-18 16:10:46",
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/7xwEXVETqYsp5GBbHGQZaO"
+      },
+      "artists": [
+        {
+          "name": "Dustycloud",
+          "url": "https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d"
+        },
+        {
+          "name": "Sally Jay",
+          "url": "https://open.spotify.com/artist/6XkbDOU2h2CIOWzP0BiKQb"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/6YtkMh0vUE21T6f2P1G5XG"
+    },
     {
       "added_at": "2022-04-15 16:37:07",
       "album": {
@@ -1103,42 +1123,6 @@
       "duration_ms": 217000,
       "name": "Searchlight",
       "url": "https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Don't Need You",
-        "url": "https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz"
-      },
-      "artists": [
-        {
-          "name": "Rameses B",
-          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-        },
-        {
-          "name": "Laura Brehm",
-          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "Don't Need You",
-      "url": "https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Almost 3am / 4am",
-        "url": "https://open.spotify.com/album/7imIuXGdsrD3pXy9pFoIq7"
-      },
-      "artists": [
-        {
-          "name": "Notaker",
-          "url": "https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En"
-        }
-      ],
-      "duration_ms": 331034,
-      "name": "Almost 3am",
-      "url": "https://open.spotify.com/track/3cmpyH2zavEwZwWIGHcdyh"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

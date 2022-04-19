@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > The best recordings from the never ending songbook of Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,669 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,749 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 | 75 | [When Love Comes Your Way](https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:13 |
 
-Snapshot ID: `MTY1MDI2MzkzOSwwMDAwMDAwMGViNDFiZDEyZTVhYmRhZmNlZDg2NTg0MmJmMGE1ZjQ1`
+Snapshot ID: `MTY1MDMzMDYyNiwwMDAwMDAwMGViNDFiZDEyZTVhYmRhZmNlZDg2NTg0MmJmMGE1ZjQ1`

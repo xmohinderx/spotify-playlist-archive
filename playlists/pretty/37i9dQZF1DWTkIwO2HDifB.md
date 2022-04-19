@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Desenrola Bate Joga de Ladin e os funks mais 🔑 do Brasil\. Foto: L7NNON, Os Hawaianos, DJ Biel do Furduncinho, DJ Bel da CDD
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,551,270 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,552,349 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

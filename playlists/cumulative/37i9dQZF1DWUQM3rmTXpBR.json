@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 217629,
       "name": "Lan Ansa - Single Edit",
       "url": "https://open.spotify.com/track/0KwFmu6kZiqKSwIJG1eJQU"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 213084,
       "name": "Mahlaki",
       "url": "https://open.spotify.com/track/6B7zL4ZQzIfNPyNqCmh1Kh"
@@ -1074,6 +1074,24 @@
     },
     {
       "album": {
+        "name": "Sieli",
+        "url": "https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs"
+      },
+      "artists": [
+        {
+          "name": "Maujoud",
+          "url": "https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345450,
+      "name": "Sieli",
+      "url": "https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA"
+    },
+    {
+      "album": {
         "name": "Sint El Ew",
         "url": "https://open.spotify.com/album/6bjdPYlUv6grgJWy5Jbiid"
       },
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 233571,
       "name": "\u0641\u064a \u0627\u0644\u0633\u0645\u0627\u0621 (Fe Samaa)",
       "url": "https://open.spotify.com/track/1dIf1Gc7gIoXSuRzlnOTWC"

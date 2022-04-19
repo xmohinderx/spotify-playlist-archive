@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Jamie xx
 
-1,483 songs - 3 day 11 hr 12 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,484 songs - 3 day 11 hr 15 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1319,6 +1319,7 @@
 | [The Other Lover \- Little Dragon Vocal Celebration Mix](https://open.spotify.com/track/45659OEpkUJgWppTLASMg4) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [New Me, Same Us Remix EP](https://open.spotify.com/album/6k1Dz3KDGr2XsWJ2qArace) | 6:19 | 2021-08-07 | 2021-11-13 |
 | [The People](https://open.spotify.com/track/5ivXYN8XooE2s4vDc6Lg4T) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [The People](https://open.spotify.com/album/0iIpPrEfqiSRfkTFFccE8m) | 5:04 | 2020-05-05 | 2020-08-07 |
 | [The People, the Place](https://open.spotify.com/track/4w9E2o77fVgcLAifVdxjx5) | [Beringei](https://open.spotify.com/artist/24moFDwbCOEwj7TWjGnL44), [Shama Joseph](https://open.spotify.com/artist/4RZv4meD8i7ActyMJaZmUR) | [The People, the Place](https://open.spotify.com/album/5tMIngeq5hpgaKkAgZnWSa) | 5:05 | 2019-07-30\* | 2019-08-29 |
+| [The Question](https://open.spotify.com/track/7dy6iHSh6j2Kd21Tk9s2y7) | [Dirty Bird](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa) | [The Question](https://open.spotify.com/album/4licwPpCxyamwRAW9ZYQeY) | 3:33 | 2022-04-18 |  |
 | [The Revolution \- Edit](https://open.spotify.com/track/6QsjOGKzoPCpOhe6jAnZTd) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Revolution](https://open.spotify.com/album/4Ow2qDlMA9PYLFuqPDFxdY) | 4:11 | 2019-08-09 | 2019-09-20 |
 | [The Rivington](https://open.spotify.com/track/0erHRpul2OsRSuImLHQ3X4) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Conway](https://open.spotify.com/artist/6yfQS4NupLnqK3X2aPnupM), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:36 | 2019-12-13 | 2020-02-21 |
 | [The Road to Love](https://open.spotify.com/track/2umORTX6Xf9Gqhf3kuGLD0) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [The Road to Love](https://open.spotify.com/album/22rslaxtTJQgVG1KhJAoLW) | 4:10 | 2021-05-22 | 2021-07-21 |

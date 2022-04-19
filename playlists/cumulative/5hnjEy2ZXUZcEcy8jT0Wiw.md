@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-332 songs - 23 hr 15 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+333 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Vaporware](https://open.spotify.com/track/7qjyghqI0R2xbR29Re6bh8) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Silicon Valley](https://open.spotify.com/album/7auYUUMi07OjMzaxSooLb7) | 2:12 | 2020-09-18 |  |
 | [Vengeance](https://open.spotify.com/track/0Bp3HwFfDlGzo7N5mePMxf) | [Cloud Battalion](https://open.spotify.com/artist/256QPBkvY5iLmc3mhwzoTO) | [Storm City](https://open.spotify.com/album/6rR86ssesqXKVIIVJMBz3q) | 4:24 | 2019-07-15 |  |
 | [Vice Point](https://open.spotify.com/track/3JNjbqmgCP2AXnTUG9jKid) | [VHS Dreams](https://open.spotify.com/artist/4sHCqGPH8ssoMeOeKrRZ38) | [Trans AM](https://open.spotify.com/album/5tfWfqfwG08F4LbLb2qKFq) | 3:42 | 2020-12-07\* | 2021-09-16 |
+| [Violence \- Call Me Sleeper Remix](https://open.spotify.com/track/48qtquoS7amT7zu2V65oiS) | [Powernerd](https://open.spotify.com/artist/2vio6wIiVR3XOM1zlgMxXK), [Requiem](https://open.spotify.com/artist/7seQVCjq5nCcLxb6B3TLsR), [Call Me Sleeper](https://open.spotify.com/artist/56R43sgGa6BTTr7xkE5TyE) | [Violence \(Call Me Sleeper Remix\)](https://open.spotify.com/album/0ixgdQdosPVMvD6pkF7dE6) | 3:33 | 2022-04-18 |  |
 | [Violence for Justice](https://open.spotify.com/track/6y5pPxjUC6QIXkaVr6ybFI) | [CYBERTHING!](https://open.spotify.com/artist/2MKAQrhUhdP8ww2vMIkmyD) | [Killer Zero](https://open.spotify.com/album/1UnBHmQ2AQjHktDiYe7gNf) | 3:53 | 2019-11-07 |  |
 | [Visitors](https://open.spotify.com/track/2guMETfTeAS9prtImpaV1A) | [Scattle](https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA) | [Visitors](https://open.spotify.com/album/12l4GfDJpO114cNltk4H2v) | 3:17 | 2019-07-15 |  |
 | [Wander Through Me](https://open.spotify.com/track/7azF7S66H5sxBJRtk4owsz) | [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Figments](https://open.spotify.com/album/0LPBRqGk7q7MEs1dzj6nrt) | 4:05 | 2019-07-15 |  |

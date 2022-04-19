@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,760 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,754 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Ça Sert À Rien](https://open.spotify.com/track/1cuNlr8YlMttbisMvngyXW) | [JNT](https://open.spotify.com/artist/33I2wVugjxECZV9cwBiwN9) | [Ça Sert À Rien](https://open.spotify.com/album/4DHBHKQeFWQLcPPhQlKr2B) | 3:36 |
 | 100 | [Freedom](https://open.spotify.com/track/5b6atMd2x3BFNt1PLf44e6) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Irréversible](https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC) | 3:16 |
 
-Snapshot ID: `MTY1MDI2NDA1NywwMDAwMDAwMDJlNjdhOTg1N2YxNDUyNjU4OTExODZjMzlmM2M4ODFh`
+Snapshot ID: `MTY1MDMzMDc0OCwwMDAwMDAwMDJlNjdhOTg1N2YxNDUyNjU4OTExODZjMzlmM2M4ODFh`

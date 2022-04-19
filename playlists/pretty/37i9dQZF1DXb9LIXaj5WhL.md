@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,218,095 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,218,250 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
 | 75 | [32 Flavors](https://open.spotify.com/track/6oipWwDsUB0XCoZfZeRBvW) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Not A Pretty Girl](https://open.spotify.com/album/5HkAhOC4QT6SYmlzuBqFdb) | 6:07 |
 
-Snapshot ID: `MTY1MDI2NDAyMiwwMDAwMDAwMDEyZjJmYTJmYzc4YmIyYzc5OWJjNjI1MWE3MDhiNWZh`
+Snapshot ID: `MTY1MDMzMDcxMiwwMDAwMDAwMDEyZjJmYTJmYzc4YmIyYzc5OWJjNjI1MWE3MDhiNWZh`

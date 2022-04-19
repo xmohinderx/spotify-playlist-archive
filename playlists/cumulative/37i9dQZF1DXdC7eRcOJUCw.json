@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas damas s\u00ed que tienen car\u00e1cter. En portada: Guadalupe Pineda",
+  "description": "Estas damas s\u00ed que tienen car\u00e1cter. Lupita Infante en portada.",
   "name": "Reinas del Mariachi",
   "published_playlist_ids": [
     "28qg7h7VtnPvoLfHcWoH3E"
@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169866,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/3ceovJ34rV8rdAW31Cpavk"
+    },
+    {
+      "album": {
         "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 217582,
       "name": "Anillo de Compromiso",
       "url": "https://open.spotify.com/track/2NwwLQKm5Cd9vP1fl1Tacr"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 150999,
       "name": "Carta Jugada",
       "url": "https://open.spotify.com/track/7pu2f2ul7iRObUquN0lBhI"
@@ -387,10 +405,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 230804,
       "name": "Cuando Abra los Ojos",
       "url": "https://open.spotify.com/track/5rIMzmh2EaiLw7nao6vHol"
+    },
+    {
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
     },
     {
       "album": {
@@ -629,7 +665,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 251680,
       "name": "Es Demasiado Tarde - Remasterizado",
       "url": "https://open.spotify.com/track/0XJmLEViRKNxRxi0ixOJao"
@@ -672,6 +708,24 @@
     },
     {
       "album": {
+        "name": "Fruta Prohibida",
+        "url": "https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY"
+    },
+    {
+      "album": {
         "name": "15 Grandes Exitos-Flor Silvestre",
         "url": "https://open.spotify.com/album/4FNgT1gbX9oHHuikiyZcOv"
       },
@@ -709,6 +763,24 @@
       "duration_ms": 171475,
       "name": "Gracias Por Todo (feat. Juan Gabriel)",
       "url": "https://open.spotify.com/track/3rKCqrq8R8qm4SAAn5GBiV"
+    },
+    {
+      "album": {
+        "name": "Hazme Tuya",
+        "url": "https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144869,
+      "name": "Hazme Tuya",
+      "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
     },
     {
       "album": {
@@ -821,7 +893,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
@@ -954,6 +1026,24 @@
     },
     {
       "album": {
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C"
+    },
+    {
+      "album": {
         "name": "Sus 16 Grandes Exitos",
         "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
@@ -1001,7 +1091,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 122266,
       "name": "Me Sacaron del Tenampa",
       "url": "https://open.spotify.com/track/48CYGzE990ok1yViikWX4e"
@@ -1037,7 +1127,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 216189,
       "name": "Mejor Me Voy",
       "url": "https://open.spotify.com/track/7lmqbcwP3LO9fG5UwiMeLE"
@@ -1059,6 +1149,28 @@
       "duration_ms": 210279,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/23kIUnmZJKFElrg5fXlqSR"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203173,
+      "name": "Mi Ego",
+      "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
     },
     {
       "album": {
@@ -1134,6 +1246,24 @@
     },
     {
       "album": {
+        "name": "No Me Amenaces",
+        "url": "https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174671,
+      "name": "No Me Amenaces",
+      "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
+    },
+    {
+      "album": {
         "name": "Pa' que Sientas Lo Que Siento",
         "url": "https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3"
       },
@@ -1193,10 +1323,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 156400,
       "name": "No Vale la Pena (with Mariachi Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar)",
       "url": "https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH"
+    },
+    {
+      "album": {
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
     },
     {
       "album": {
@@ -1269,6 +1417,24 @@
       "duration_ms": 209702,
       "name": "Para No Pensar en Ti",
       "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+    },
+    {
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "album": {
@@ -1489,6 +1655,28 @@
       "duration_ms": 190956,
       "name": "Te Acordaras de Mi",
       "url": "https://open.spotify.com/track/1L0nNmHgfEJ2BbBAgW0VrN"
+    },
+    {
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
     },
     {
       "album": {
@@ -1719,7 +1907,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 152032,
       "name": "Vuelve Gaviota",
       "url": "https://open.spotify.com/track/0uuC1RO0CwNWNFKEu8LAjM"
@@ -1827,10 +2015,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 213704,
       "name": "Yo",
       "url": "https://open.spotify.com/track/6SssAKKpZslFjoiPneV83G"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Te Vas?",
+        "url": "https://open.spotify.com/album/1Wjp0bh15AzLi7JbersDl5"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/0nDbGRrxLJggLRi5ErHPIK"
     },
     {
       "album": {
@@ -1863,7 +2073,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-19",
       "duration_ms": 173000,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"

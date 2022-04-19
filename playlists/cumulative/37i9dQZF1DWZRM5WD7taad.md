@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Snow Tha Product
 
-87 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+90 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Machete Voy](https://open.spotify.com/track/2wr6BtudgpHlNE6D6cDfVR) | [Machete en Boca](https://open.spotify.com/artist/26ggle1808llWoAdfbKHoi) | [A Machete Voy \(Vol.3\)](https://open.spotify.com/album/7qbK6qcbc1Bddxwb7yvgHp) | 3:22 | 2021-12-13 |  |
 | [A Veces](https://open.spotify.com/track/5Cn1NLa4WThiegxtoaaxFp) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q) | [23](https://open.spotify.com/album/5UZ4idzeoePrLTZf5P2jlj) | 2:08 | 2021-12-13 |  |
 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 | 2021-12-13 |  |
+| [Arrepentío](https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [Arrepentío](https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp) | 3:30 | 2022-04-18 |  |
 | [Ayuda](https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST) | 3:57 | 2021-12-13 |  |
 | [Bienvenidx](https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Siempreviva](https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0) | 3:10 | 2022-03-08 |  |
 | [Bilingue](https://open.spotify.com/track/4eFXaYD2is6c6Y645Qyyy1) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Bilingue](https://open.spotify.com/album/3gpDzwcbJyZ9FwW0DrUWZf) | 2:51 | 2021-12-13 |  |
@@ -25,8 +26,10 @@
 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 | 2021-12-13 |  |
 | [Confleis \(No Soy Santa\)](https://open.spotify.com/track/55SDauaBnxY86XsVfztdCU) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Confleis \(No Soy Santa\)](https://open.spotify.com/album/4yNqZUf4BwhDoDz6yIhkzP) | 2:03 | 2021-12-13 |  |
 | [Cuánto Tienes, Cuánto Vales](https://open.spotify.com/track/6jJFu4CTv2pA9esFRVJXce) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH) | [Rabiografía](https://open.spotify.com/album/2DtGzCXMVIPkKdzbB4h0Gx) | 3:33 | 2021-12-13 |  |
+| [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 |  |
 | [Desértico](https://open.spotify.com/track/6p8qaRzcAGpkaeJ0S2dawv) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/6MECZ5zdS2PN0qEjS7uR6a) | 3:41 | 2021-12-13 |  |
 | [Don't Stop](https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Don't Stop](https://open.spotify.com/album/1zuzyKT3Z063oxlvNcQgLq) | 3:33 | 2021-12-13 |  |
+| [El Amor de Mi Vida](https://open.spotify.com/track/5qJ2xUNWrQiNETr0gS20IU) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y) | [Florecer](https://open.spotify.com/album/4No47iGe2xTVqiLQgRG5GJ) | 4:03 | 2022-04-18 |  |
 | [En el Aire](https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea) | 3:01 | 2021-12-13 |  |
 | [En la Boca del Lobo](https://open.spotify.com/track/5OkeYRvjJXLTlQwDIC12e9) | [IRA](https://open.spotify.com/artist/4SFufo8OG7wyneSSj2F5UY) | [Arte y Terrorismo](https://open.spotify.com/album/7pK4Gd3Rti0OWr82uRJ4IB) | 3:25 | 2021-12-13 |  |
 | [En Lo Mío](https://open.spotify.com/track/3ayUFSz3DEJQIkUUQMckA5) | [Luisa Rincón](https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0) | [En Lo Mío](https://open.spotify.com/album/6aBkNh2qDEzgnJ5FlGgaBi) | 3:27 | 2021-12-13 |  |
