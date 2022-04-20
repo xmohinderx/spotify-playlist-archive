@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rifqi FTR, Unaa, Fanirahmansyah\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,296 likes - 41 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,294 likes - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 4 | [Infeksi](https://open.spotify.com/track/0s43yjMEn0QqebqvypBQ3K) | [Caessaria](https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd) | [Infeksi](https://open.spotify.com/album/6u6VazvWTsc7uVzB7Iij3g) | 4:31 |
 | 5 | [24](https://open.spotify.com/track/1kGdmYglB6zVHnlnDuq9WW) | [Raracellina](https://open.spotify.com/artist/4c35lGsLbwUTvQzGZxb2iI) | [24](https://open.spotify.com/album/34oqgpbFPJtlgJLAEV8nw5) | 3:36 |
 | 6 | [Dance on Fire \(Meanor\)](https://open.spotify.com/track/026Q5fSp1paQUNj6aRCEUJ) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Dance on Fire \(Meanor\)](https://open.spotify.com/album/4Bwkslj7A4STvZob5sR9dD) | 3:13 |
-| 7 | [Sincere Devotion](https://open.spotify.com/track/0Y33quW3FBjkV0wvSTU6Uw) | [Agis Kania](https://open.spotify.com/artist/0nFclwnPdTOxwyI4st6WJh) | [Sincere Devotion](https://open.spotify.com/album/5RLFR5bHKafzLoZKU0gjld) | 4:51 |
+| 7 | [Sincere Devotion \(Chapter 1 & 2\)](https://open.spotify.com/track/0Y33quW3FBjkV0wvSTU6Uw) | [Agis Kania](https://open.spotify.com/artist/0nFclwnPdTOxwyI4st6WJh) | [Sincere Devotion \(Chapter 1 & 2\)](https://open.spotify.com/album/5RLFR5bHKafzLoZKU0gjld) | 4:51 |
 | 8 | [oOoyea](https://open.spotify.com/track/6vwvbXdQJ0cII3VGbW0XKv) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [oOoyea](https://open.spotify.com/album/22os5jvH0IFvF4X5HAWtSC) | 2:42 |
 | 9 | [Andai](https://open.spotify.com/track/4GEyXePiQT2lNBwNj3EE09) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Andai](https://open.spotify.com/album/1CuEuwNQSntumAotbmV0bk) | 3:55 |
 | 10 | [Dimana mana](https://open.spotify.com/track/3W2bLnfNAd36I0MrXVnmRb) | [Ferensa Thitania](https://open.spotify.com/artist/5JQKuqT7h8RJSiH9PXxp0o) | [Dimana mana](https://open.spotify.com/album/0NaFRZJzLaJeCLLafljc30) | 3:37 |

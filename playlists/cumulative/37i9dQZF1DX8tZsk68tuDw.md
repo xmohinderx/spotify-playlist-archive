@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with WHIPPED CREAM.
 
-1,354 songs - 3 day 5 hr 0 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
+1,355 songs - 3 day 5 hr 1 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Awake](https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Awake](https://open.spotify.com/album/4lNOFm7ee2KRebEphh7tRH) | 3:29 | 2021-03-26 | 2021-05-29 |
 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 | 2021-08-28 | 2021-10-16 |
 | [B2B](https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA) | 3:44 | 2020-12-12 | 2021-03-14 |
+| [BABY GIRL](https://open.spotify.com/track/08otCTIDsEFZcVGC4lilKk) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [BABY GIRL](https://open.spotify.com/album/3kov6c0VoEuyQI53JOrtaJ) | 1:51 | 2022-04-19 |  |
 | [Baby It's You \- Kölsch Version](https://open.spotify.com/track/7Mlo2ugKlFrVBzQXAutubV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Baby It's You \(Kölsch Version\)](https://open.spotify.com/album/02QBaGEnIzYXV98GGJDsVs) | 3:56 | 2020-10-13\* | 2020-12-18 |
 | [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 | 2021-01-29 | 2021-04-17 |
 | [Back & Forth \(feat\. Lily McKenzie\)](https://open.spotify.com/track/5SR4zjjTJkE4JrPePimo0S) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Lily Mckenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Back & Forth \(feat\. Lily McKenzie\)](https://open.spotify.com/album/1TaQuOSMld01fVFoaZPukO) | 2:54 | 2021-04-24 | 2021-07-04 |
@@ -697,7 +698,7 @@
 | [Like a Woman](https://open.spotify.com/track/4joBpM6Rabmmpx02sx7gSJ) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Southwest Soul Club](https://open.spotify.com/album/55qp9zdHaOi4P9ULGOPtgZ) | 5:41 | 2022-03-25 |  |
 | [Like I Don't Exist](https://open.spotify.com/track/5GNFWWIDwV1iSn11lErQ0t) | [Nicky Night Time](https://open.spotify.com/artist/7eonsju0gRRDsBvySAYDiY) | [Like I Don't Exist](https://open.spotify.com/album/4IZfWdcY0MSzyyjBkKTI5E) | 3:16 | 2020-10-13\* | 2020-11-14 |
 | [Like That](https://open.spotify.com/track/6PJyds9wetrvAY5ymoY0yJ) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Like That](https://open.spotify.com/album/06MiUrnC08Fr34pSHUSNJN) | 2:44 | 2021-08-14 | 2021-10-09 |
-| [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 | 2022-02-11 |  |
+| [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 | 2022-02-11 | 2022-04-20 |
 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 | 2022-02-11 | 2022-04-09 |
 | [Lit](https://open.spotify.com/track/3N2rPBxWZJ3pXuFKBTDavb) | [Le Duke](https://open.spotify.com/artist/53oblC0pfBM3yTB5yYH6ih) | [Lit](https://open.spotify.com/album/0Rx4scpg9vpIB8BxFFRXyB) | 2:50 | 2020-10-16 | 2020-10-24 |
 | [Live For](https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Live For](https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7) | 2:51 | 2021-10-02 | 2021-11-20 |

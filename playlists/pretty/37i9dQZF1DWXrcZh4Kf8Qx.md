@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 
 > All 70s, all ballads\. Cover: Barry Manilow
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,900 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,994 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 | 49 | [Sentimental Lady](https://open.spotify.com/track/4U4vEbJx5ObAdqyyX0rvJE) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [Love To Love](https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9) | 2:58 |
 | 50 | [Time in a Bottle](https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:26 |
 
-Snapshot ID: `MTY1MDMzMDMxMSwwMDAwMDAwMGJlNDk2OWI3NjBmMDUyZTAxZGYyZGM0MzUzZDg3YjFh`
+Snapshot ID: `MTY1MDQxNjY5NSwwMDAwMDAwMGJlNDk2OWI3NjBmMDUyZTAxZGYyZGM0MzUzZDg3YjFh`

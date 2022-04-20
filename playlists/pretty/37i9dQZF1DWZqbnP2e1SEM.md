@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,244 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,285 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Keep Pushing](https://open.spotify.com/track/2obQ3ll76uZthJa91RAKv4) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Keep Pushing](https://open.spotify.com/album/51Efce1Hjf6TxbU7hAKwik) | 3:36 |
 | 100 | [Deep In Your Heart](https://open.spotify.com/track/3MLG4eqsR2pL1fcxOltH4W) | [Alex Ross](https://open.spotify.com/artist/5pK858DFAWCmE2tM4jZxYC), [FUTURECLUB](https://open.spotify.com/artist/5jNhWWilFBmjyRTLW2dLF8) | [Deep In Your Heart](https://open.spotify.com/album/3QloSDXEQj1hjjLaH48ih3) | 3:19 |
 
-Snapshot ID: `MTY1MDMzMDM2NiwwMDAwMDAwMDQ4ZTQyNTg4YWVjYjgzZGY3MmJhMzFhNjdiMmE3MTM3`
+Snapshot ID: `MTY1MDQxNjc1NSwwMDAwMDAwMDQ4ZTQyNTg4YWVjYjgzZGY3MmJhMzFhNjdiMmE3MTM3`

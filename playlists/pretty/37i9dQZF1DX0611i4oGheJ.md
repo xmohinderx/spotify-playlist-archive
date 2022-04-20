@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,461 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,535 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 149 | [I Wish I Could Write You a Song](https://open.spotify.com/track/3Gda4WI6ZeplS18kwubOfj) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [I Wish I Could Write You a Song](https://open.spotify.com/album/7EMFhBBfG9itHMug9vE02X) | 4:08 |
 | 150 | [When I Found You](https://open.spotify.com/track/0EU95trt0NRr1egprQgxgF) | [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [The Maes](https://open.spotify.com/album/4zYRfxhuRrt2PHXpqle6vc) | 3:17 |
 
-Snapshot ID: `MTY1MDMzMDM3NCwwMDAwMDAwMGFiYjA5OWE1MWYwYmQyYzBjMmZlY2E3OTkwOTk3N2Yx`
+Snapshot ID: `MTY1MDQxNjc2NCwwMDAwMDAwMGFiYjA5OWE1MWYwYmQyYzBjMmZlY2E3OTkwOTk3N2Yx`

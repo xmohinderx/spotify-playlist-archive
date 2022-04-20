@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
+    },
+    {
+      "album": {
         "name": "A Brand New Me",
         "url": "https://open.spotify.com/album/0pm72PHGq5z0yK60jXr36t"
       },
@@ -53,10 +71,82 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 149706,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/0w3AAvT5RNrwFCx9mItvIW"
+    },
+    {
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179106,
+      "name": "C'est Si Bon",
+      "url": "https://open.spotify.com/track/3U69pCQwveSOn5bl9VAime"
+    },
+    {
+      "album": {
+        "name": "Volume 5 1928-29",
+        "url": "https://open.spotify.com/album/6L5NXBjt41mQECqyZVNutk"
+      },
+      "artists": [
+        {
+          "name": "Annette Hanshaw",
+          "url": "https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Carolina Moon",
+      "url": "https://open.spotify.com/track/3xBmDu4resNacrorC8JPtY"
+    },
+    {
+      "album": {
+        "name": "The Essential Johnny Mathis",
+        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Chances Are - Single Version",
+      "url": "https://open.spotify.com/track/2eg3CoqVGI21N8115BgdQA"
+    },
+    {
+      "album": {
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Cheek To Cheek - Remastered",
+      "url": "https://open.spotify.com/track/5GkqTYiXW18QsdkdCggyb7"
     },
     {
       "album": {
@@ -89,10 +179,32 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 155333,
       "name": "Danke Schoen",
       "url": "https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5"
+    },
+    {
+      "album": {
+        "name": "The Anthology: 1931 - 1968",
+        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/2jF5ZkKnxh4pnW4Gv1FQ4B"
     },
     {
       "album": {
@@ -107,7 +219,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 165560,
       "name": "Don't Say You're Sorry Again",
       "url": "https://open.spotify.com/track/6kG4CbCoykpsZRsl4Fh52P"
@@ -201,10 +313,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 183000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/6pY1AWqj42B5pngwtgyTJ4"
+    },
+    {
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
     },
     {
       "album": {
@@ -223,7 +353,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 151600,
       "name": "Gee Baby, Ain't I Good to You",
       "url": "https://open.spotify.com/track/0Hi02nJJfhZcP5HUBbIJ1U"
@@ -241,7 +371,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 217414,
       "name": "Georgia on My Mind - Original Master Recording",
       "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
@@ -263,10 +393,64 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 171106,
       "name": "Good Mornin' Blues",
       "url": "https://open.spotify.com/track/6CVEApDeiBRejczLQlydCu"
+    },
+    {
+      "album": {
+        "name": "Mood Indigo: The Complete Bethlehem Singles",
+        "url": "https://open.spotify.com/album/5TvOSNchafJsaVyopsG1j0"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149330,
+      "name": "He Needs Me - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/4OdUBTbC35rATtTIsCTKuq"
+    },
+    {
+      "album": {
+        "name": "The Essential Frankie Laine",
+        "url": "https://open.spotify.com/album/2iKc2szRNAvEvtfQM5vySt"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127706,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/0t2EcIrd39geNzXYdFwSwE"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Ink Spots",
+        "url": "https://open.spotify.com/album/0T4scY5wgEIk7kg64fni5h"
+      },
+      "artists": [
+        {
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "I Don't Want To Set The World On Fire - Single Version",
+      "url": "https://open.spotify.com/track/7JtXhWbMw1KDjBPDUf1CHa"
     },
     {
       "album": {
@@ -281,10 +465,58 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 169746,
       "name": "I Left My Heart In San Francisco",
       "url": "https://open.spotify.com/track/3nr6QXimwd9K4hpuFdgr6N"
+    },
+    {
+      "album": {
+        "name": "Dick Haymes with Harry James & Benny Goodman: The Complete Columbia Recordings",
+        "url": "https://open.spotify.com/album/4qQ7WZRzZXyCv17tqNEhKr"
+      },
+      "artists": [
+        {
+          "name": "Dick Haymes",
+          "url": "https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su"
+        },
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161866,
+      "name": "I'll Get By (As Long As I Have You) (with Dick Haymes)",
+      "url": "https://open.spotify.com/track/1LrmKW8VZHXjEyIJlYxpVs"
+    },
+    {
+      "album": {
+        "name": "The Seventeen Number Ones",
+        "url": "https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV"
+      },
+      "artists": [
+        {
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "The Pied Pipers",
+          "url": "https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu"
     },
     {
       "album": {
@@ -303,6 +535,24 @@
       "duration_ms": 149826,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
+    },
+    {
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
       "album": {
@@ -342,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Great Ladies Of Song / Spotlight On Peggy Lee",
+        "url": "https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140533,
+      "name": "It's Been A Long, Long Time",
+      "url": "https://open.spotify.com/track/321GAfnZqnoWNI1KxIju3i"
+    },
+    {
+      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -357,6 +625,24 @@
       "duration_ms": 185880,
       "name": "It's Not for Me to Say - From the MGM Film \"Lizzie\"",
       "url": "https://open.spotify.com/track/0LzsNy1SqlM0qkRGL2RJfv"
+    },
+    {
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "Kiss & Run",
+      "url": "https://open.spotify.com/track/7MSklOq44RZ0Zr33FD7rFw"
     },
     {
       "album": {
@@ -407,7 +693,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 118400,
       "name": "Let's Fall in Love",
       "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
@@ -450,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Little Girl Blue (Remastered 2013)",
+        "url": "https://open.spotify.com/album/0jIbJ6WxiAoOb3kpHmU6QD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216688,
+      "name": "My Baby Just Cares For Me",
+      "url": "https://open.spotify.com/track/6bFrlORduDtYQ9BlPenV3o"
+    },
+    {
+      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -479,7 +783,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 160773,
       "name": "My Kind Of Girl",
       "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
@@ -508,6 +812,24 @@
     },
     {
       "album": {
+        "name": "The Voice That Is!",
+        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "My Ship",
+      "url": "https://open.spotify.com/track/69GJjCnImEh94Qp5XYpkh2"
+    },
+    {
+      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -519,7 +841,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 276800,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
@@ -537,7 +859,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 158560,
       "name": "Outside of Heaven",
       "url": "https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k"
@@ -559,10 +881,46 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 169626,
       "name": "Personality",
       "url": "https://open.spotify.com/track/1kPvyhybeg114W9k20032n"
+    },
+    {
+      "album": {
+        "name": "She Was Too Good To Me (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2VtDHqGLNfqQP7mB5pGVgH"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282493,
+      "name": "She Was Too Good to Me",
+      "url": "https://open.spotify.com/track/5ONPeQRp1m4KJ0M57qBj1D"
+    },
+    {
+      "album": {
+        "name": "Singin' In The Rain",
+        "url": "https://open.spotify.com/album/0LL5jytt6mqAFGLm2wUUm4"
+      },
+      "artists": [
+        {
+          "name": "Gene Kelly",
+          "url": "https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175226,
+      "name": "Singin\u2019 In The Rain",
+      "url": "https://open.spotify.com/track/32N9DjXSINSBUhVqZxN6EC"
     },
     {
       "album": {
@@ -577,7 +935,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
@@ -620,6 +978,24 @@
     },
     {
       "album": {
+        "name": "The Stardust Road",
+        "url": "https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx"
+      },
+      "artists": [
+        {
+          "name": "Hoagy Carmichael",
+          "url": "https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146346,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN"
+    },
+    {
+      "album": {
         "name": "Ultimate Sinatra",
         "url": "https://open.spotify.com/album/0Cx7IYEdG2T70z9xFknhDT"
       },
@@ -649,7 +1025,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 151666,
       "name": "Swinging On A Star - Single Version",
       "url": "https://open.spotify.com/track/7m9z87IrsnPCzjaWvNC96F"
@@ -667,7 +1043,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 204133,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
@@ -689,10 +1065,46 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 190400,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
+    },
+    {
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
+    },
+    {
+      "album": {
+        "name": "Hello Young Lovers",
+        "url": "https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Durante",
+          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "The Glory of Love",
+      "url": "https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u"
     },
     {
       "album": {
@@ -707,7 +1119,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 214000,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/18EXhaouAWwXh5SDnxG6bN"
@@ -725,7 +1137,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 133186,
       "name": "The One I Love (Belongs to Somebody Else)",
       "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
@@ -761,7 +1173,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 156266,
       "name": "Till Then",
       "url": "https://open.spotify.com/track/68kLf13C63nbiRlbvJuZgi"
@@ -786,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "The Extraordinary",
+        "url": "https://open.spotify.com/album/02uBH1eZ0GQRYw9GoE9Oiu"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/4dK2eSj5S3wtHtHsEu9V1L"
+    },
+    {
+      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -797,7 +1227,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
@@ -815,7 +1245,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 198466,
       "name": "We Three (My Echo, My Shadow, And Me)",
       "url": "https://open.spotify.com/track/43a4zqUZL1vHH93EKBFkLj"
@@ -851,7 +1281,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 160733,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/3EWPphA4qjPGorb9AegrtG"
@@ -887,7 +1317,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 156733,
       "name": "You Are My Lucky Star - 1990 Remaster",
       "url": "https://open.spotify.com/track/5ZcVWyGfoOzeFKdUnZq3Fz"
@@ -905,7 +1335,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 172933,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
@@ -927,6 +1357,42 @@
       "duration_ms": 177400,
       "name": "You Make Me Feel So Young - Remastered 1998",
       "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
+    },
+    {
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172706,
+      "name": "You Started Something",
+      "url": "https://open.spotify.com/track/1csoAvNNcr7YYKjJbtd6QT"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5jer5YmDswO7lNWHeWwD5x"
+      },
+      "artists": [
+        {
+          "name": "Dick Haymes",
+          "url": "https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165253,
+      "name": "You'll Never Know",
+      "url": "https://open.spotify.com/track/7kQkgdg6nDVEzeJptMVbGT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1cC4JrF1e4o"

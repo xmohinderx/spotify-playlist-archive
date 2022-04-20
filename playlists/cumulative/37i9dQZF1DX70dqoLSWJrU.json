@@ -644,6 +644,24 @@
     },
     {
       "album": {
+        "name": "It's All Over But The Swingin'",
+        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280093,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
+    },
+    {
+      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 191333,
       "name": "I'll Drown In My Tears",
       "url": "https://open.spotify.com/track/3EJ0pqOYSid9bVfyYy0zhm"
@@ -881,6 +899,24 @@
       "duration_ms": 153706,
       "name": "I'll Never Smile Again",
       "url": "https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh"
+    },
+    {
+      "album": {
+        "name": "Lady In Satin",
+        "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG"
     },
     {
       "album": {
@@ -1046,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Smooth Songs",
+        "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216790,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
       },
@@ -1147,7 +1201,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 219000,
       "name": "Maybe You'll Be There",
       "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
@@ -1719,7 +1773,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"

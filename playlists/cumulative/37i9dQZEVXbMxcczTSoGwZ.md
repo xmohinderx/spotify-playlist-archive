@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-759 songs - 1 day 18 hr 28 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+760 songs - 1 day 18 hr 31 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:07 | 2021-09-12 | 2022-02-27 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2021-06-20 | 2021-06-26 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-02 |
+| [Riko mut](https://open.spotify.com/track/4RdTteGKG4HIBoduJXy4a8) | [Miika](https://open.spotify.com/artist/7aY4XP3cJx7pFPYHMaF8pi) | [Riko mut](https://open.spotify.com/album/3bUMZhux4Sr5eGlNQvbBxq) | 3:03 | 2022-04-19 |  |
 | [RING RING \(feat\. william\)](https://open.spotify.com/track/4KIxCx1YugpjTipl6sVcP9) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [KAZAMA](https://open.spotify.com/album/2QGsMWbEnXd1j2ruIaiPka) | 2:30 | 2021-07-04 | 2021-07-25 |
 | [Rivariunelmii \(feat\. Erika Vikman\) \[Vain elämää kausi 12\]](https://open.spotify.com/track/4gYnAHzDApR1qXHXWokUfM) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Rivariunelmii \(feat\. Erika Vikman\) \[Vain elämää kausi 12\]](https://open.spotify.com/album/4cKD6GcON0JrXtrcJGpqys) | 3:14 | 2021-11-22 | 2021-12-03 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-30 | 2021-12-29 |
@@ -689,7 +690,7 @@
 | [Ujo poika](https://open.spotify.com/track/3EPp192QQ528uYFYZ9nrE0) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Ujo poika](https://open.spotify.com/album/5KkvFzvVDXEA7frnICckMP) | 3:16 | 2021-07-05 | 2021-09-14 |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2021-10-17 | 2021-10-18 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-23 | 2021-12-27 |
-| [Unelmii \(feat\. Janna\)](https://open.spotify.com/track/1E0cZMpN8dPCkB9LFI0PkE) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Janna](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Unelmii \(feat\. Janna\)](https://open.spotify.com/album/1JtZUhXw3jG5vWUlxkNmuo) | 3:14 | 2022-04-16 |  |
+| [Unelmii \(feat\. Janna\)](https://open.spotify.com/track/1E0cZMpN8dPCkB9LFI0PkE) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Janna](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Unelmii \(feat\. Janna\)](https://open.spotify.com/album/1JtZUhXw3jG5vWUlxkNmuo) | 3:14 | 2022-04-16 | 2022-04-20 |
 | [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 | 2022-02-23 | 2022-03-13 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-05-03 |
 | [Uptown Baby \(feat\. Ares, Averagekidluke, Xavier Weeks\)](https://open.spotify.com/track/2sUktgwwpgivOkmOideaWt) | [LEWIZKI](https://open.spotify.com/artist/4tjhuszE3yXNuiqxrdXwJ1), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Xavier Weeks](https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Uptown Baby \(feat\. Ares, Averagekidluke, Xavier Weeks\)](https://open.spotify.com/album/0UKnkDYgNxCTUiPAik4ZI2) | 3:20 | 2022-04-02 |  |

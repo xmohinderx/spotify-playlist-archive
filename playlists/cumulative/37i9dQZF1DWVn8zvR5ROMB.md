@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist!
 
-676 songs - 1 day 13 hr 13 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+677 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Mess This Up](https://open.spotify.com/track/7FdTCgQypaNWEbaibxmylA) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Mess This Up](https://open.spotify.com/album/2q7oVBF3JgL4dvw36C51wK) | 3:07 | 2022-01-14 | 2022-01-22 |
 | [Miles on Me](https://open.spotify.com/track/4sQG6r9CUUTdZGDOl6qy3d) | [Bobby McClendon](https://open.spotify.com/artist/24ZSRZ25gSFAx2bCl1aM66) | [Miles on Me](https://open.spotify.com/album/4KHHBiSl4RhHCBwMZU4WP7) | 3:06 | 2021-12-31 | 2022-02-12 |
 | [Miss Me This Time](https://open.spotify.com/track/40vNRUc5ezRUx9yDKG7vDb) | [Bobby McClendon](https://open.spotify.com/artist/24ZSRZ25gSFAx2bCl1aM66) | [Miss Me This Time](https://open.spotify.com/album/4qFvRXvlxv8UH7csaklktX) | 3:29 | 2022-02-18 |  |
+| [Miss Those Memories](https://open.spotify.com/track/4ucljQFauIMM9hYiyYEoKf) | [CreatiVets](https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc), [Casey Beathard](https://open.spotify.com/artist/7vyHBhv9N8NXM00f79kcAA), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Miss Those Memories](https://open.spotify.com/album/7FfUfAuYSrD0eUN1XUbjXf) | 3:25 | 2022-04-15 |  |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-03-18 | 2022-03-26 |
 | [Missing You](https://open.spotify.com/track/3ry2MzHjQaDK2HCJfOI0yj) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Missing You](https://open.spotify.com/album/18Mp4wIhG0WGXkkmsk7hNs) | 2:43 | 2022-03-25 | 2022-04-09 |
 | [Money Well Wasted](https://open.spotify.com/track/3xnlULPXs9W61YBdMZ3Z04) | [Cody Webb](https://open.spotify.com/artist/6vuwhnCHdyyNbMFWWZ1hNs) | [Money Well Wasted](https://open.spotify.com/album/243OrVjt5LS3Unb3BfNC4C) | 3:17 | 2022-01-14 | 2022-03-18 |
@@ -677,7 +678,7 @@
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2021-12-31 | 2022-01-08 |
 | [YA'BOYZ](https://open.spotify.com/track/5msKKhp8QkpbmV6pt91qEN) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6), [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [YA'BOYZ](https://open.spotify.com/album/5WV28G7w51gZiSnjL7EIUF) | 2:47 | 2022-03-25 | 2022-04-02 |
 | [You Always Do](https://open.spotify.com/track/5tWUcgLQs38p5qXhJEdmZF) | [Gable Bradley](https://open.spotify.com/artist/2wHxKvmyVbfpfcynrta2z1) | [You Always Do](https://open.spotify.com/album/5Ez4FzBMit1JlQ8oh2Sw9E) | 2:43 | 2022-04-08 |  |
-| [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0W04i66yWfmc0tUT9WP5tQ) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 | 2022-04-15 |  |
+| [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 | 2022-04-15 |  |
 | [You and the Horse](https://open.spotify.com/track/2gzTOd2be5QpkcZOMv140Q) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [You and the Horse](https://open.spotify.com/album/3vGXNSeMMjWRUyP4aTjfMO) | 2:40 | 2022-01-21 | 2022-03-26 |
 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 | 2022-04-15 |  |
 | [You Go Girl](https://open.spotify.com/track/3A0oLdidHsHmVaZujEOXxK) | [Anderson Daniels](https://open.spotify.com/artist/1DlZ0Ks317okYBBY7wGoBM) | [You Go Girl](https://open.spotify.com/album/35iqc8qgvH0Ld6SFtE2R55) | 3:33 | 2022-03-11 |  |

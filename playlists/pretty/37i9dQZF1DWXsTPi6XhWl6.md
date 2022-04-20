@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Wake up with these indie classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,305 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,303 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 49 | [Burning](https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 5:48 |
 | 50 | [Somebody That I Used to Know](https://open.spotify.com/track/1cnvv6E1MiOtGs5R5i4FJn) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW), [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Somebody That I Used to Know](https://open.spotify.com/album/4oJkTaoIe7wG4cMOsOjzKd) | 2:23 |
 
-Snapshot ID: `MTY1MDMzMDMxMiwwMDAwMDAwMGI3MWFkNWYxN2Q1MmE2Y2EwYzNmMzNlMDFmNTRkMTA3`
+Snapshot ID: `MTY1MDQxNjY5NiwwMDAwMDAwMGI3MWFkNWYxN2Q1MmE2Y2EwYzNmMzNlMDFmNTRkMTA3`

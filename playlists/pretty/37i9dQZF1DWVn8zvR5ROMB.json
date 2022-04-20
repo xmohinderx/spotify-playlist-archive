@@ -1,6 +1,6 @@
 {
   "description": "All of the newest country music releases in one playlist!",
-  "num_followers": 88131,
+  "num_followers": 88175,
   "original_name": "New Music Nashville",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,30 @@
     {
       "added_at": "2022-04-15 15:06:50",
       "album": {
+        "name": "Miss Those Memories",
+        "url": "https://open.spotify.com/album/7FfUfAuYSrD0eUN1XUbjXf"
+      },
+      "artists": [
+        {
+          "name": "CreatiVets",
+          "url": "https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc"
+        },
+        {
+          "name": "Casey Beathard",
+          "url": "https://open.spotify.com/artist/7vyHBhv9N8NXM00f79kcAA"
+        },
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 205828,
+      "name": "Miss Those Memories",
+      "url": "https://open.spotify.com/track/4ucljQFauIMM9hYiyYEoKf"
+    },
+    {
+      "added_at": "2022-04-15 15:06:50",
+      "album": {
         "name": "You and Jesus",
         "url": "https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT"
       },
@@ -445,7 +469,7 @@
         },
         {
           "name": "Greylan James",
-          "url": "https://open.spotify.com/artist/0W04i66yWfmc0tUT9WP5tQ"
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
         }
       ],
       "duration_ms": 170869,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > babe wake up new yung lean just dropped
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,375 likes - 109 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,363 likes - 109 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 108 | [Nevermind It To Hell](https://open.spotify.com/track/60m9qQoMAu3KfPg3YxqyHG) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Softy](https://open.spotify.com/album/3xHMtK8SksnWDUUTrWOlmF) | 2:44 |
 | 109 | [All New Edition](https://open.spotify.com/track/4fCYohh0NH3BxteuxID7cP) | [Reserv](https://open.spotify.com/artist/2TirMwFqYsNDTIOURZb9LS), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [In the Shape Of](https://open.spotify.com/album/6kIa58ldhrlq9znlYbm8xC) | 3:46 |
 
-Snapshot ID: `MTY1MDMzMDI0MCwwMDAwMTgzNjAwMDAwMTgwM2Y1OTA0NDUwMDAwMDE3ZmZmYWQ1ZWYx`
+Snapshot ID: `MTY1MDQxNjU4MCwwMDAwMWRkNTAwMDAwMTgwNDQ3ZTc1ZTAwMDAwMDE3ZmZmYWQ1ZWYx`

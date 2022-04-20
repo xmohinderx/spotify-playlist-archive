@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,695 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,696 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 49 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 |
 | 50 | [Help!](https://open.spotify.com/track/2DnVeVZOghV43sh1cVSf5z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Great Balls Of Fire](https://open.spotify.com/album/4pLrDt2coR74cVQQxPtSQX) | 2:44 |
 
-Snapshot ID: `MTY1MDMzMDY3NSwwMDAwMDAwMGY0NDZlYzQ2YThjMzViMmFlNmZiMTRmNDEwYWJjNjVh`
+Snapshot ID: `MTY1MDQxNzEwMiwwMDAwMDAwMGY0NDZlYzQ2YThjMzViMmFlNmZiMTRmNDEwYWJjNjVh`

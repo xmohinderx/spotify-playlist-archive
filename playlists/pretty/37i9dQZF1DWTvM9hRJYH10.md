@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Alana Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,349 likes - 126 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,353 likes - 126 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

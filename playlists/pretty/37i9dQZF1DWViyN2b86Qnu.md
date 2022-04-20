@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,591 likes - 95 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,615 likes - 95 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 15 | [You Will Be Found \(Sam Smith & Summer Walker Version\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/6i14jVQ6cq2BxYWlYYgzyD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Dear Evan Hansen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yURloAyqmXCjQ1rmX0ltA) | 3:57 |
 | 16 | [Reproductive](https://open.spotify.com/track/2czRLbCuPOP9azgqYS52c9) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Heterosexuality](https://open.spotify.com/album/0DpCo0SXKnfsBx98H2qDVI) | 4:35 |
 | 17 | [Two Hearts](https://open.spotify.com/track/0Eq0AFKaU0Ccpu179DKciG) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [God I'm Such a Mess](https://open.spotify.com/album/7e3GRkv2O4UYloc84l7wLD) | 3:39 |
-| 18 | [Just Fine](https://open.spotify.com/track/0IA5V5X6IQM1xN8YUHM2HG) | [Bennett](https://open.spotify.com/artist/6VwnGrrw0nOts0ll9oOZAc) | [Just Fine](https://open.spotify.com/album/2I9DFNosdERJGCyoIc8bVt) | 3:19 |
+| 18 | [Just Fine](https://open.spotify.com/track/0IA5V5X6IQM1xN8YUHM2HG) | [Bennett.io](https://open.spotify.com/artist/4tXS1RImn0BBhAbLiWzjsy) | [Just Fine](https://open.spotify.com/album/2I9DFNosdERJGCyoIc8bVt) | 3:19 |
 | 19 | [Dichotomy](https://open.spotify.com/track/1kwSJ1010LIEPW7wxswZzF) | [Wolfjay](https://open.spotify.com/artist/0d5q2y5Tl7GhVI8vuqeCxK) | [Dichotomy EP](https://open.spotify.com/album/2VzEAlCPkDTGtfPWg1ynNF) | 2:44 |
 | 20 | [deadname](https://open.spotify.com/track/4GDoSxigoOM1wRsCOXfWar) | [Peach Rings](https://open.spotify.com/artist/5UGmBYowEIxtN1QFckaXPj) | [October Again](https://open.spotify.com/album/7oddffjRwjL82BQ13lZsA6) | 4:04 |
 | 21 | [Benji](https://open.spotify.com/track/0J4ZatE29YjV3G5gw1xnWx) | [Smooth Jas](https://open.spotify.com/artist/5blslrsLBjGu9TQBq1QD5A) | [Benji](https://open.spotify.com/album/5WwQL4T4cC3aOYrrPxbRs9) | 4:29 |

@@ -1932,6 +1932,24 @@
     },
     {
       "album": {
+        "name": "BABY GIRL",
+        "url": "https://open.spotify.com/album/3kov6c0VoEuyQI53JOrtaJ"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111074,
+      "name": "BABY GIRL",
+      "url": "https://open.spotify.com/track/08otCTIDsEFZcVGC4lilKk"
+    },
+    {
+      "album": {
         "name": "Baby It's You (K\u00f6lsch Version)",
         "url": "https://open.spotify.com/album/02QBaGEnIzYXV98GGJDsVs"
       },
@@ -14725,7 +14743,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 180719,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"

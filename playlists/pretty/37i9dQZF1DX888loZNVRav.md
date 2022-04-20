@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,603 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,629 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 69 | [Do You Love Me?](https://open.spotify.com/track/4Dndv8nt0DSxNzKNrh12tZ) | [Alfred Molina](https://open.spotify.com/artist/63TDvoeug4OyhpcQ2vaYVd), [Randy Graff](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) | [Fiddler on the Roof \(New Broadway Cast Recording\)](https://open.spotify.com/album/5Pn1u1H6LpkD2WsInXwfpX) | 3:19 |
 | 70 | [Bewitched, Bothered And Bewildered \- Pal Joey](https://open.spotify.com/track/5h4OU6XDhMvXrlutT95I2A) | [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944) | [Drg Records 25th Anniversary Show Stopping Performances](https://open.spotify.com/album/2wovquZ62v9cv3q5AyMYfN) | 4:48 |
 
-Snapshot ID: `MTY1MDMzMDYyMSwwMDAwMDAwMGE2NGE0MjJiMGE3ZGEwNmI2NjU5MDc0ZTEyYmQxYWFm`
+Snapshot ID: `MTY1MDQxNzA0MCwwMDAwMDAwMGE2NGE0MjJiMGE3ZGEwNmI2NjU5MDc0ZTEyYmQxYWFm`

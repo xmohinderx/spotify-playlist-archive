@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Swedish House Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,008 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,068 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 31 | [Where Did the Day Go](https://open.spotify.com/track/4MohhrpdYb12785ml59cp4) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue \(Reprise\)](https://open.spotify.com/album/6H7lz0YOgbmhafCGl6YLGY) | 2:24 |
 | 32 | [crybaby](https://open.spotify.com/track/6qdy9y84usFsxkfhNoGwik) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [crybaby](https://open.spotify.com/album/6p7i3bIGWalW3GAE1Gxgxe) | 3:24 |
 | 33 | [Freak Like That](https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE) | 2:15 |
-| 34 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
+| 34 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
 | 35 | [Backseat](https://open.spotify.com/track/6PyDmJQd9gT9vBOc5aPAXw) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Backseat](https://open.spotify.com/album/5GJuKaFeTSF8FgES4iv7dM) | 2:41 |
 | 36 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 |
 | 37 | [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 |

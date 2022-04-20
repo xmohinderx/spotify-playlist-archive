@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 280400,
       "name": "(I Just) Died In Your Arms",
       "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 274453,
       "name": "(I Wanna Take) Forever Tonight",
       "url": "https://open.spotify.com/track/1uybEGNH2GIvNdzGB7L2Qj"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 225946,
       "name": "3AM",
       "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 188613,
       "name": "Accidentally In Love",
       "url": "https://open.spotify.com/track/4ccM2xBxicGigjLqt6A0YY"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 308871,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6r4laxAXabuv6pK9Nzoskc"
@@ -398,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Angie",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+    },
+    {
+      "album": {
         "name": "Timeless... The Musical Legacy",
         "url": "https://open.spotify.com/album/3LHsYnmWGhMVNgu2hYKDTG"
       },
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 185386,
       "name": "Apple Of My Eye - Remastered 2010",
       "url": "https://open.spotify.com/track/4RhvsfJ7Q96OG3MXDFwZMM"
@@ -427,7 +445,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 165120,
       "name": "As Tears Go By",
       "url": "https://open.spotify.com/track/55yvGEAuDt82vs9e8DwbAA"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 190760,
       "name": "Boat On The River",
       "url": "https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx"
@@ -683,6 +701,24 @@
       "duration_ms": 211986,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/1vmioa1hsabaxkYnYKROT1"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345840,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
     },
     {
       "album": {
@@ -751,7 +787,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 294333,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/4zC2f6KKjnmscQKLJfI7dF"
@@ -769,7 +805,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 328533,
       "name": "Can't Find My Way",
       "url": "https://open.spotify.com/track/1CZ6ArNjSg9TuStY75kzKr"
@@ -805,7 +841,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 295160,
       "name": "Can\u2019t Find My Way Home",
       "url": "https://open.spotify.com/track/2JQAsJ6rBSwOex7GPnkfSw"
@@ -863,7 +899,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 283133,
       "name": "Close My Eyes Forever",
       "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
@@ -899,7 +935,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 367000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
@@ -917,7 +953,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 296866,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1wVY6mhyV2bCrEmJBFGZCY"
@@ -1029,6 +1065,24 @@
       "duration_ms": 170280,
       "name": "Cupid De Locke - Remastered 2012",
       "url": "https://open.spotify.com/track/7zwwvrJAWGjfc9wFD3bVzZ"
+    },
+    {
+      "album": {
+        "name": "The Best Of Dire Straits & Mark Knopfler - Private Investigations",
+        "url": "https://open.spotify.com/album/5RUE91DSu0BdsiEn4vOrNY"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283866,
+      "name": "Darling Pretty",
+      "url": "https://open.spotify.com/track/7jRMxu5JhxnaQ9iqSHs3hH"
     },
     {
       "album": {
@@ -1241,7 +1295,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 264893,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/7H3RUwypdZREOhV4d8EKMA"
@@ -1385,7 +1439,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 287293,
       "name": "Even Angels Cry",
       "url": "https://open.spotify.com/track/00CKqQSBhAr2gePvyIzk0P"
@@ -1629,7 +1683,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 313840,
       "name": "Feel like Makin' Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
@@ -1777,7 +1831,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
@@ -1795,7 +1849,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 233426,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5QGcPVSJ8FD8eicZvMcNcG"
@@ -2011,7 +2065,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 335872,
       "name": "Goodbye to Romance",
       "url": "https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R"
@@ -2029,7 +2083,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 234653,
       "name": "Got My Mind Set On You - Remastered 2004",
       "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
@@ -2180,6 +2234,24 @@
     },
     {
       "album": {
+        "name": "Dirty Rotten Filthy Stinking Rich",
+        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z"
+    },
+    {
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/7C6SffoGyAgj9sBWgZaaM0"
       },
@@ -2317,7 +2389,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 216773,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
@@ -2335,7 +2407,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 287320,
       "name": "High Enough",
       "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
@@ -2497,7 +2569,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 247600,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/66POKxMki5FryEYtHBZ5GZ"
@@ -2515,7 +2587,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 358426,
       "name": "House Of Broken Love",
       "url": "https://open.spotify.com/track/0tFscEe2fMwsHflVPsyaAD"
@@ -2659,7 +2731,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 288266,
       "name": "I Don't Want to Talk About It - 2008 Remaster",
       "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
@@ -3041,7 +3113,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 242800,
       "name": "I've Been In Love Before - Edit",
       "url": "https://open.spotify.com/track/0rPImSYezi40zBhwvIvTrr"
@@ -3081,6 +3153,24 @@
       "duration_ms": 298266,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0KFizFecN3msFzdCrqFSHv"
+    },
+    {
+      "album": {
+        "name": "Lemon Parade",
+        "url": "https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V"
+      },
+      "artists": [
+        {
+          "name": "Tonic",
+          "url": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261519,
+      "name": "If You Could Only See",
+      "url": "https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6"
     },
     {
       "album": {
@@ -3193,7 +3283,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 161333,
       "name": "In The Heat Of The Morning",
       "url": "https://open.spotify.com/track/2pAm0eho3UtxAK1bsRuOK7"
@@ -3283,7 +3373,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -3409,7 +3499,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 317293,
       "name": "Janie, Don't Take Your Love To Town",
       "url": "https://open.spotify.com/track/6ECxT7phIQLjfrDw9WVRPI"
@@ -3535,7 +3625,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 269626,
       "name": "Lea",
       "url": "https://open.spotify.com/track/0Cs9PU4gX5BZcOtLP2Km5t"
@@ -3805,7 +3895,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 314000,
       "name": "Love in the Right Hands",
       "url": "https://open.spotify.com/track/34KM5HR0HQQ5gVT6LiJsMN"
@@ -3823,7 +3913,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 283306,
       "name": "Love Is A Killer",
       "url": "https://open.spotify.com/track/2ZMO4x1D3aeXP1ISozKOnU"
@@ -3913,7 +4003,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 225100,
       "name": "Love Me Like There's No Tomorrow - Special Edition",
       "url": "https://open.spotify.com/track/0otmxJEwq9JI1CidrcYEq4"
@@ -3931,7 +4021,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 286573,
       "name": "Love of a Lifetime",
       "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
@@ -3949,7 +4039,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 217386,
       "name": "Love Of My Life - Remastered 2011",
       "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
@@ -4003,7 +4093,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 436786,
       "name": "Love to Love - 2008 Remaster",
       "url": "https://open.spotify.com/track/7APUAIXaQEH5EDdyFI3Cd1"
@@ -4039,7 +4129,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 310933,
       "name": "Love Walks In",
       "url": "https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy"
@@ -4075,7 +4165,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 306186,
       "name": "Love's Holding On",
       "url": "https://open.spotify.com/track/6q2KfOFaVfN76kDgZ6rjFb"
@@ -4093,7 +4183,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 334460,
       "name": "Lover Why - 1985",
       "url": "https://open.spotify.com/track/6tyiTnaP55UHHDQrhIgOs6"
@@ -4129,7 +4219,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 253853,
       "name": "Lovers In The Wind",
       "url": "https://open.spotify.com/track/2nOtOd6fcI7MQ9Bw2QgNoH"
@@ -4147,7 +4237,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 230533,
       "name": "Lovin', Touchin', Squeezin'",
       "url": "https://open.spotify.com/track/0VQ0n5gMgJLNixG8BfWBT5"
@@ -4291,7 +4381,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 234196,
       "name": "More Than Words Can Say",
       "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
@@ -4435,7 +4525,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 386560,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/6oHSXBDcwGcDUNDYwmQCTh"
@@ -4799,7 +4889,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 209213,
       "name": "Perdida",
       "url": "https://open.spotify.com/track/37AWxJfFokpKZhn6b0o483"
@@ -4871,7 +4961,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 238666,
       "name": "Push",
       "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
@@ -4889,7 +4979,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 239853,
       "name": "Rain - 2017 Remastered",
       "url": "https://open.spotify.com/track/4HMN4EsI9pRBEgh5WUXFMC"
@@ -4907,7 +4997,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 441560,
       "name": "Rainbow Eyes",
       "url": "https://open.spotify.com/track/7AOwexG6AtkrmI7kdacXvQ"
@@ -4965,7 +5055,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 283373,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/5V0AWCNERrcnKoDixpaTqP"
@@ -5127,7 +5217,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 278439,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/7BA9WB3v5Lkx6WyidzDPU0"
@@ -5199,7 +5289,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 375773,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/5eDmCbmySQNCtINzEfijyG"
@@ -5235,7 +5325,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 278933,
       "name": "Shape Of My Heart",
       "url": "https://open.spotify.com/track/5TrvGxuqaYKsF7C0NfrLrY"
@@ -5253,7 +5343,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 174533,
       "name": "Sharing The Night Together",
       "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
@@ -5343,7 +5433,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 259906,
       "name": "Since I Don't Have You",
       "url": "https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh"
@@ -5415,10 +5505,28 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 326826,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/1vl4jCsTEs8basRO7pKQ7f"
+    },
+    {
+      "album": {
+        "name": "Bark At The Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239320,
+      "name": "So Tired",
+      "url": "https://open.spotify.com/track/3kZUWSoGjfRa3AZ1Kqzjen"
     },
     {
       "album": {
@@ -5473,7 +5581,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "Sometimes Love Just Ain't Enough",
       "url": "https://open.spotify.com/track/2cICfavTHuXtjn7Vz0xMPz"
@@ -5509,7 +5617,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 325800,
       "name": "Soulitude",
       "url": "https://open.spotify.com/track/7oF0ipAluvQNCw6VruGEEN"
@@ -5621,7 +5729,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 211933,
       "name": "Straight From The Heart",
       "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
@@ -5639,7 +5747,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 221693,
       "name": "Superman (It's Not Easy)",
       "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
@@ -5729,7 +5837,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 308933,
       "name": "Thank You For Loving Me",
       "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
@@ -6183,7 +6291,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 177546,
       "name": "Today",
       "url": "https://open.spotify.com/track/0yLfXULLuRtVj2L4DIrwO7"
@@ -6619,7 +6727,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 289440,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25"
@@ -6673,7 +6781,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 339840,
       "name": "When It's Love",
       "url": "https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss"
@@ -6709,7 +6817,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 248560,
       "name": "When Love Comes Close",
       "url": "https://open.spotify.com/track/1AWIrCRUkah9En7yTNGNEm"
@@ -6745,7 +6853,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 209320,
       "name": "When You Came into My Life - Studio Edit",
       "url": "https://open.spotify.com/track/2LqSHOUJECgM5HN1pbXqRy"
@@ -6871,7 +6979,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 258977,
       "name": "While Your Lips Are Still Red - Theme from the \"Lieksa!\"",
       "url": "https://open.spotify.com/track/4RN8sFSjXKckEXanEpuYEN"
@@ -7033,7 +7141,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 230786,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/4LKlwXTUIiuxU9kRbX0MGq"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 210420,
       "name": "100 words",
       "url": "https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 216275,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1mhBPosKQsDnyMtJRCVkDf"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 153472,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/033GYoHqCnmfr1LTqyViIl"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 195421,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 205078,
       "name": "dancing in the bedroom sky",
       "url": "https://open.spotify.com/track/6pszbuiSRAzNOUhKp2X8Fs"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 208746,
       "name": "Desert Island",
       "url": "https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 197007,
       "name": "DFWM",
       "url": "https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 259632,
       "name": "Everything's Fine?",
       "url": "https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr"
@@ -439,6 +439,24 @@
       "duration_ms": 288333,
       "name": "Faces of The Moon",
       "url": "https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB"
+    },
+    {
+      "album": {
+        "name": "Favorite Peeps",
+        "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
     },
     {
       "album": {
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 284000,
       "name": "Find You",
       "url": "https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 243692,
       "name": "Foolish Once Again",
       "url": "https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI"
@@ -655,7 +673,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 182400,
       "name": "I Saw You in a Dream",
       "url": "https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 298173,
       "name": "Impact",
       "url": "https://open.spotify.com/track/4dkUcbDgKJ7f4PQRlpSSOQ"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "Into the Woods",
       "url": "https://open.spotify.com/track/6tS5yFBtVzDEAsbgk4DONu"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 144000,
       "name": "Keep",
       "url": "https://open.spotify.com/track/4eYkUYICxHoejgygQmBZR9"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 229253,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 155860,
       "name": "Mutual",
       "url": "https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 156827,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/12jHntVUvHSFiXiLW1eaVy"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 171149,
       "name": "Pause",
       "url": "https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 154625,
       "name": "Permanent Food",
       "url": "https://open.spotify.com/track/2tt1Q2eYTrMl7fhfPqOGlG"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 136000,
       "name": "Quietly",
       "url": "https://open.spotify.com/track/3aJDhov9eiYdUHCVaikyT9"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 251709,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3cqeFHqx2y05J7skmbc743"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 250274,
       "name": "Run to the Ocean",
       "url": "https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 286566,
       "name": "September Embers",
       "url": "https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 178339,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi"
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 186640,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "sophomore sweetheart",
       "url": "https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 205046,
       "name": "Sucks To Be Human",
       "url": "https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 223071,
       "name": "Through These Years",
       "url": "https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 239595,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 190322,
       "name": "UNO",
       "url": "https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 266393,
       "name": "When We Feel Young",
       "url": "https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4"

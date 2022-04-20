@@ -10478,6 +10478,24 @@
     },
     {
       "album": {
+        "name": "Riko mut",
+        "url": "https://open.spotify.com/album/3bUMZhux4Sr5eGlNQvbBxq"
+      },
+      "artists": [
+        {
+          "name": "Miika",
+          "url": "https://open.spotify.com/artist/7aY4XP3cJx7pFPYHMaF8pi"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183227,
+      "name": "Riko mut",
+      "url": "https://open.spotify.com/track/4RdTteGKG4HIBoduJXy4a8"
+    },
+    {
+      "album": {
         "name": "KAZAMA",
         "url": "https://open.spotify.com/album/2QGsMWbEnXd1j2ruIaiPka"
       },
@@ -13333,7 +13351,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 194999,
       "name": "Unelmii (feat. Janna)",
       "url": "https://open.spotify.com/track/1E0cZMpN8dPCkB9LFI0PkE"

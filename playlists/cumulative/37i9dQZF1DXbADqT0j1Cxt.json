@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "A Little Sun Rises",
+        "url": "https://open.spotify.com/album/52UkXhpFKB4uzKy0NdfbWc"
+      },
+      "artists": [
+        {
+          "name": "Jesse Holderman",
+          "url": "https://open.spotify.com/artist/7oquH151NkXtAdQmXJZuez"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124624,
+      "name": "A Little Sun Rises",
+      "url": "https://open.spotify.com/track/2psD0UIayu6V1oC20BKhKx"
+    },
+    {
+      "album": {
         "name": "A Ram Sam Sam",
         "url": "https://open.spotify.com/album/2DzR3IjWQWUFQxC5o6DJla"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 59250,
       "name": "A Sailor Went To Sea",
       "url": "https://open.spotify.com/track/5YGcV9XH0bsCuqwFH5pYYE"
@@ -509,6 +527,24 @@
       "duration_ms": 100250,
       "name": "Because You're Mine",
       "url": "https://open.spotify.com/track/6kA2HrTnJcs3echAN4XqWb"
+    },
+    {
+      "album": {
+        "name": "Bedtime Blues",
+        "url": "https://open.spotify.com/album/41IcLkOgEahIzJQz40dNFj"
+      },
+      "artists": [
+        {
+          "name": "Esmee Price",
+          "url": "https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135874,
+      "name": "Bedtime Blues",
+      "url": "https://open.spotify.com/track/6ygPQ8DEEUGvZAoTyDhQo7"
     },
     {
       "album": {
@@ -1952,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Heavy Eyelid",
+        "url": "https://open.spotify.com/album/42RGiPLYDYqokQ81QuSeok"
+      },
+      "artists": [
+        {
+          "name": "Natalie Fall",
+          "url": "https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105624,
+      "name": "Heavy Eyelid",
+      "url": "https://open.spotify.com/track/0olsjW9ZIc04WtnRtGLCSV"
+    },
+    {
+      "album": {
         "name": "Here and Now",
         "url": "https://open.spotify.com/album/0DuLIM02jLW7ZbpKNK6MJU"
       },
@@ -2672,6 +2726,42 @@
     },
     {
       "album": {
+        "name": "Let's Call It A Night",
+        "url": "https://open.spotify.com/album/0hRGRBZNsqFonXKYLxEEgJ"
+      },
+      "artists": [
+        {
+          "name": "Lilly-Ann Ottley",
+          "url": "https://open.spotify.com/artist/6UVVSofDYobp2qJM6p35lL"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74500,
+      "name": "Let's Call It A Night",
+      "url": "https://open.spotify.com/track/3Hfc2BB0RAZ13TW1TFliE6"
+    },
+    {
+      "album": {
+        "name": "Lied des Mondes",
+        "url": "https://open.spotify.com/album/3sSOGzSv4jhuTdGRNUHxhZ"
+      },
+      "artists": [
+        {
+          "name": "Jana Bohm",
+          "url": "https://open.spotify.com/artist/6ehqULwx1NwQNyO6fLGMjJ"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97250,
+      "name": "Lied des Mondes",
+      "url": "https://open.spotify.com/track/776OzJITrDMcQ4TdJpo8Iu"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/7iSn3y0F5JUJG9jMBvAofQ"
       },
@@ -3248,6 +3338,24 @@
     },
     {
       "album": {
+        "name": "My Baby Boy",
+        "url": "https://open.spotify.com/album/06pWkRUjbu64kH30GrTn9Z"
+      },
+      "artists": [
+        {
+          "name": "Colleen Kozak",
+          "url": "https://open.spotify.com/artist/19yYfBfYNV2XUJvo8pfKvK"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96500,
+      "name": "My Baby Boy",
+      "url": "https://open.spotify.com/track/5GeUvB5e1LacP65p9EApbV"
+    },
+    {
+      "album": {
         "name": "My Baby Brother",
         "url": "https://open.spotify.com/album/7kS49Ln0lmwL9Ytozwpv67"
       },
@@ -3299,6 +3407,24 @@
       "duration_ms": 90260,
       "name": "My Favorite Pyjamas",
       "url": "https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp"
+    },
+    {
+      "album": {
+        "name": "My Great-Great-Great Grandfather",
+        "url": "https://open.spotify.com/album/7u69zaMN7vtMzebdVxP2QC"
+      },
+      "artists": [
+        {
+          "name": "Mandy Hoyer",
+          "url": "https://open.spotify.com/artist/72hFRyB2FYuPjblJ79UGDw"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "My Great-Great-Great Grandfather",
+      "url": "https://open.spotify.com/track/0s5sRfIRGstws2SF4nEhSL"
     },
     {
       "album": {
@@ -4418,6 +4544,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Land",
+        "url": "https://open.spotify.com/album/3aEQQidga93YN6RBxHmt1W"
+      },
+      "artists": [
+        {
+          "name": "Elias St\u00e5hle",
+          "url": "https://open.spotify.com/artist/5w0kV4jCLLthNvZqe78yCV"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Sleepy Land",
+      "url": "https://open.spotify.com/track/5uLDHN6Lbh7fDbFDxDyCSv"
+    },
+    {
+      "album": {
         "name": "Snart skal du sove",
         "url": "https://open.spotify.com/album/3Gz3JKTXcHNYjopzM5YhKu"
       },
@@ -4652,6 +4796,24 @@
     },
     {
       "album": {
+        "name": "Te Amo, Beb\u00e9",
+        "url": "https://open.spotify.com/album/5t8TmvSXUboXYomJS2tPE5"
+      },
+      "artists": [
+        {
+          "name": "Nannie Villegas",
+          "url": "https://open.spotify.com/artist/5sjdqGVROt3sdrSTPg79yg"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Te Amo, Beb\u00e9",
+      "url": "https://open.spotify.com/track/5e1Y3i8gIWh7SjrEMfpSpA"
+    },
+    {
+      "album": {
         "name": "Always By Your Side",
         "url": "https://open.spotify.com/album/7uaZjvfUWtJblAnpjSqMg3"
       },
@@ -4699,10 +4861,28 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 75000,
       "name": "Ten in the bed",
       "url": "https://open.spotify.com/track/3Y2LAlMBk0PFpexfYNduuE"
+    },
+    {
+      "album": {
+        "name": "The Apple Of My Eye",
+        "url": "https://open.spotify.com/album/4mygNYRtvltYNghngBWx4q"
+      },
+      "artists": [
+        {
+          "name": "Kyrene Hartley",
+          "url": "https://open.spotify.com/artist/7pcp9DUQWx7VFXfH3sq7gZ"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115874,
+      "name": "The Apple Of My Eye",
+      "url": "https://open.spotify.com/track/7AnxXHYrL5oWZLMKnkY8oc"
     },
     {
       "album": {
@@ -4969,7 +5149,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 54000,
       "name": "The wheels on the bus",
       "url": "https://open.spotify.com/track/2ViaQwX9HaThUSHkmbWxg6"

@@ -4,7 +4,7 @@
 
 > A little bit of pop and a little bit of rap\. Cover: anees
 
-236 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+237 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 | 2021-11-16 | 2022-02-26 |
 | [LMK](https://open.spotify.com/track/19YxMrQzETGpRvMmFNbsPW) | [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [LMK](https://open.spotify.com/album/3Xpq6wIvop8j2akHp9fkgp) | 2:07 | 2022-02-04 |  |
 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 | 2022-03-25 |  |
+| [Love Feels](https://open.spotify.com/track/1uhYNxtjZFc99TSUbhmwG6) | [The Grouch & Eligh](https://open.spotify.com/artist/6atrA9ysSgjJXw8NZH0vjZ) | [What Would Love Do](https://open.spotify.com/album/1VV3Zts79NLpNkquyyeO5U) | 3:44 | 2022-04-19 |  |
 | [love sux](https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [love sux](https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s) | 2:24 | 2021-12-17 | 2022-03-05 |
 | [Loved Me Back to Life](https://open.spotify.com/track/3u4QSVHHj9HJ1gjty8QSuS) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Loved Me Back to Life](https://open.spotify.com/album/2JVBPSq27UJhCgPmiY49bH) | 3:12 | 2021-11-16 | 2022-02-19 |
 | [lovers only singalong](https://open.spotify.com/track/59YDPNC3aWgN4shZQ07R4n) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [lovers only singalong](https://open.spotify.com/album/2DzAPIprJTwtxRIYefQsU0) | 2:52 | 2022-02-18 |  |

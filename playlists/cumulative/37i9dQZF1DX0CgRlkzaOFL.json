@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
+        "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u5b87\u6cbb\u9ad8\u6821\u5439\u594f\u697d\u90e8",
+          "url": "https://open.spotify.com/artist/2KcsOu1hIobMNRXYFun6tF"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387370,
+      "name": "\u30ea\u30ba\u3068\u9752\u3044\u9ce5 \u7b2c\u4e09\u697d\u7ae0\u300c\u611b\u3086\u3048\u306e\u6c7a\u65ad\u300d",
+      "url": "https://open.spotify.com/track/04XhdVM3q2qPusWPEmg95c"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF"
       },

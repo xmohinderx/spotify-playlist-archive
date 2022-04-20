@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-558 songs - 1 day 6 hr 10 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+560 songs - 1 day 6 hr 15 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Don't Go Changing](https://open.spotify.com/track/0dNN5wjTkbJnQkOnzh9WUH) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Don't Go Changing](https://open.spotify.com/album/0dJk7K8gB2utiR1cUtWrzF) | 3:09 | 2021-09-17 |  |
 | [Don't Look Back \(feat\. Kotomi & Ryan Elder\) \[From Rick and Morty: Season 4\]](https://open.spotify.com/track/1VbiENVGHwF5Y70Ywotwe1) | [Rick and Morty](https://open.spotify.com/artist/2M0kKcVuBsLFH5d12pW215), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Ryan Elder](https://open.spotify.com/artist/4Pb4bahbtpK9nkdfp4bHgi) | [Don't Look Back \(feat\. Kotomi & Ryan Elder\) \[From Rick and Morty: Season 4\]](https://open.spotify.com/album/36hmo7ODAmoUoLAy2mFa1P) | 3:27 | 2020-06-11 | 2021-05-12 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/5Nq19qQnIBvcYbz7UNJTCW) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Don’t Say You Love Me](https://open.spotify.com/album/42bDaVoeDvdS0yfF34Gqq4) | 2:54 | 2021-09-24 |  |
+| [dose](https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [dose](https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD) | 3:00 | 2022-04-19 |  |
 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 | 2021-01-08 |  |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2020-10-15 |  |
 | [Driveway](https://open.spotify.com/track/31kjORmT1nNkMjqaZp8ATH) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [Driveway](https://open.spotify.com/album/1PQvSiT0XqpDKDJm8yZNUK) | 2:25 | 2021-04-13 |  |
@@ -462,6 +463,7 @@
 | [Sound Of Your Name](https://open.spotify.com/track/6xMRkOAJC6Y7tUvIcqkdwu) | [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Sound Of Your Name](https://open.spotify.com/album/1lC9CRKXwTkpIfyfWSGaDN) | 3:18 | 2020-02-14 | 2021-05-12 |
 | [Sound of Your Voice](https://open.spotify.com/track/79EPrcuYKoky4lG3BvmzCy) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [The Mirror Talk EP](https://open.spotify.com/album/5iVjJgRq6O9s0VguOtHFox) | 3:02 | 2019-11-18 | 2020-05-19 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-02-25 |  |
+| [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 | 2022-04-19 |  |
 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 | 2019-08-27\* | 2020-04-06 |
 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 | 2020-07-01 | 2020-07-09 |
 | [Stay Young](https://open.spotify.com/track/7wjprvfscpUNacftNovfQO) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Stay Young](https://open.spotify.com/album/2DFhsR9VbaeoR1sWlX04lk) | 3:22 | 2019-08-27\* | 2019-11-11 |

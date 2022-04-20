@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 
 > Las divas del pop latino de ayer y hoy\. Foto: Alejandra Guzmán
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,823 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,024 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 | 49 | [Pepe](https://open.spotify.com/track/4TkfJCHscikJlsxzh1ow9h) | [JEANS](https://open.spotify.com/artist/4HncQjB1Qpyke5EJtU3e3Y) | [Jeans](https://open.spotify.com/album/2giyPD5VKcyV8wG9RwSxXG) | 3:17 |
 | 50 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
 
-Snapshot ID: `MTY1MDMzMDMwMiwwMDAwMDAwMDM0NGQxMmJmY2I2MTc5NzVlNGVkMzA5YjJlZjJjN2Mw`
+Snapshot ID: `MTY1MDQxNjY4NCwwMDAwMDAwMDM0NGQxMmJmY2I2MTc5NzVlNGVkMzA5YjJlZjJjN2Mw`

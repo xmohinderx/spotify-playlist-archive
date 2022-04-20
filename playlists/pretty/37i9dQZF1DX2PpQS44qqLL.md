@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,422 likes - 200 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,545 likes - 200 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Hielo](https://open.spotify.com/track/5IrGVeiV2N9yuvJGt5uGB9) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Singles](https://open.spotify.com/album/1yTICkCGrAN8nQO0JGuZoC) | 3:44 |
 | 200 | [Mala Suerte](https://open.spotify.com/track/2W7dARwEvM6Wpzm2iwQqKC) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [10 De Coleccion](https://open.spotify.com/album/2O7jjxB4hcts359JvnybOC) | 4:25 |
 
-Snapshot ID: `MTY1MDMzMDQ0NiwwMDAwMDAwMDg1ZjEyN2M4NDk2MjEzODU3NTQ2ZDUyYWViMmZmNzcw`
+Snapshot ID: `MTY1MDQxNjg0NSwwMDAwMDAwMDg1ZjEyN2M4NDk2MjEzODU3NTQ2ZDUyYWViMmZmNzcw`

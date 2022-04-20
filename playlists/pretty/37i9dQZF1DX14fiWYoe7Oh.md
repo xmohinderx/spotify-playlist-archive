@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,319 likes - 137 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,465 likes - 137 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 102 | [Supa Luv](https://open.spotify.com/track/16rn4UsqU9Gwy4nYOYgJtQ) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TRANSFORM](https://open.spotify.com/album/6BYSBdAoqUgWoipCmIYnP7) | 3:21 |
 | 103 | [MOYA](https://open.spotify.com/track/6glpcXkXExtumL9zGeK2uM) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MOYA](https://open.spotify.com/album/3WA0CxSimy8XevTh46Qh7L) | 3:40 |
 | 104 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
-| 105 | [니가 있어야 할 곳 The Place You Belong](https://open.spotify.com/track/7AYSLiGvyyPlZZ4Kxa44nZ) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 4](https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp) | 3:39 |
+| 105 | [니가 있어야 할 곳 The Place You Belong](https://open.spotify.com/track/7AYSLiGvyyPlZZ4Kxa44nZ) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 4](https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp) | 3:39 |
 | 106 | [태양을 피하는 방법 How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE) | 3:51 |
 | 107 | [Don't move!](https://open.spotify.com/track/0Wjzv69qjjBq4apcPOlOB2) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Do U Wanna B?](https://open.spotify.com/album/2BZ3VizVI04b0slvSMNwA4) | 3:25 |
 | 108 | [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 |

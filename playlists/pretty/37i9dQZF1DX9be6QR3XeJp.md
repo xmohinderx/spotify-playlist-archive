@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: gglum
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,482 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,481 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 102 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 103 | [Think That I Don't Need Your Love](https://open.spotify.com/track/15lQe5EUD55Fkq7HWLnJp5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/75Y9qwXRX8OHrDrYTKuBMg) | 3:43 |
 
-Snapshot ID: `MTY1MDMzMDY2NCwwMDAwMDAwMDhhZTJkZGY4NDcwMTJjNzI1YWFiZGQzYzgxYmI1MzY0`
+Snapshot ID: `MTY1MDQxNzA5MCwwMDAwMDAwMDhhZTJkZGY4NDcwMTJjNzI1YWFiZGQzYzgxYmI1MzY0`

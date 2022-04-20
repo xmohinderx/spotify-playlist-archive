@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,488 likes - 638 songs - 1 day 18 hr 52 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,487 likes - 640 songs - 1 day 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -646,5 +646,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 636 | [Fear Of The Dawn](https://open.spotify.com/track/3FOcAGYwW2lKkqO6ffuJdX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 2:02 |
 | 637 | [Watch Me Bleed](https://open.spotify.com/track/1kChx0uGraDIIyOVtBVawU) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:15 |
 | 638 | [Blunderbuss](https://open.spotify.com/track/2bItWLPlRV0k38WVcNrLUS) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:05 |
+| 639 | [Live Without You](https://open.spotify.com/track/0c7mDfQ7tEV6IK5vGORefK) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 2:50 |
+| 640 | [I Choose Me](https://open.spotify.com/track/064I7lnHPQP68nbVZpS9K7) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 4:30 |
 
-Snapshot ID: `MTY2MCxiMDg5ZTEzNGI2YjBkMTc1ODg4YTMxNjllMTk2ZTA4MTZhYjM0M2E2`
+Snapshot ID: `MTY2MiwzZjgwYmUyY2JkOWI4OWY1N2Y4Mjk2Y2Y4ZjcwMjg5ZDY0Yzg3ODRk`

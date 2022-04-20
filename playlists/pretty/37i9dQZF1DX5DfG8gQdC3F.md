@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: bülow
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,904 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,513 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 74 | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 |
 | 75 | [Chest](https://open.spotify.com/track/2xS5oMXLGlG5DNzhtsURTQ) | [BAINS.](https://open.spotify.com/artist/1k1UhxIjS2zMahE8gK3a0g) | [Chest](https://open.spotify.com/album/4OInqOTyKjCQBXP9QnYkt8) | 2:51 |
 | 76 | [Vestiges](https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Vestiges](https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv) | 4:04 |
-| 77 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
+| 77 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
 | 78 | [Radiate](https://open.spotify.com/track/2g6620bsDen0mF2akn1Nmm) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/7F6T5FVHm85JoyTLeEqoLh) | 3:04 |
 | 79 | [Brain Dead](https://open.spotify.com/track/4T2JpmTXNEZ6SxxXyNaK1q) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Brain Dead](https://open.spotify.com/album/15H3vU49itK3Vfq66FHjRl) | 3:09 |
 | 80 | [Kinda Into You](https://open.spotify.com/track/2HUoHvLUQlh2FO1kaIjkpN) | [Victoria Anthony](https://open.spotify.com/artist/0x0iGXZc5qI9edbL1qNCdx) | [Kinda Into You](https://open.spotify.com/album/0wePYbtbO4tLdbPQPjV4mE) | 2:56 |

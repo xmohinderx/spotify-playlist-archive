@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,332 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,502 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 56 | [Color \(feat\. Moon Sujin\)](https://open.spotify.com/track/1WSHf7y4pqXePprljZxmzb) | [KINDA BLUE](https://open.spotify.com/artist/264XvBSD6pFn1eDvWSWMI8), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Color \(feat\. Moon Sujin\)](https://open.spotify.com/album/5QwhlhWa96ZaZm0Whbe73v) | 2:54 |
 | 57 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 |
 
-Snapshot ID: `MTY1MDMzMDY1NiwwMDAwMDAwMDQ4NzJjOWIxNmI0NGQ0OTliNjcxYjU3YmFkYWI2MmE2`
+Snapshot ID: `MTY1MDQxNzA4MiwwMDAwMDAwMDQ4NzJjOWIxNmI0NGQ0OTliNjcxYjU3YmFkYWI2MmE2`

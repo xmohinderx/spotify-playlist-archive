@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Swedish House Mafia, Lizzo, Conan Gray, Phoebe Bridgers, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,887,909 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,888,026 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 34 | [ur not delilah](https://open.spotify.com/track/2npGF2T4MHbn2YEDlOaPQg) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [of note](https://open.spotify.com/album/3WOdAvguXdCeZE0P1G2UlV) | 2:27 |
 | 35 | [crybaby](https://open.spotify.com/track/6qdy9y84usFsxkfhNoGwik) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [crybaby](https://open.spotify.com/album/6p7i3bIGWalW3GAE1Gxgxe) | 3:24 |
 | 36 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 |
-| 37 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
+| 37 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
 | 38 | [Very Special](https://open.spotify.com/track/3S6DSiBFZuQrkqirp33iSB) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Sampler](https://open.spotify.com/album/3wTBdbTjE7aGH1e7WEs7A3) | 2:17 |
 | 39 | [Main Road](https://open.spotify.com/track/3167uNHlYILMowcArVoLZ3) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Noughty By Nature \(Extended Edition\)](https://open.spotify.com/album/5huZ6CEe0GgSnwC26yjKZ3) | 3:25 |
 | 40 | [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 |

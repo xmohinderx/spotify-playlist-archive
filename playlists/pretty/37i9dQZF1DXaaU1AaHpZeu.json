@@ -1,6 +1,6 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: Benjam\u00edn Walker y Silvana Estrada",
-  "num_followers": 276750,
+  "num_followers": 276765,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
@@ -162,6 +162,10 @@
         {
           "name": "Ellis Miah",
           "url": "https://open.spotify.com/artist/6CI4WVE7EE7BoDuOmToXOK"
+        },
+        {
+          "name": "Marvin Buessau",
+          "url": "https://open.spotify.com/artist/2sUxpmJK1OD1k442gB3C2h"
         }
       ],
       "duration_ms": 225840,
@@ -271,17 +275,13 @@
     {
       "added_at": "2022-04-15 05:06:32",
       "album": {
-        "name": "Catadores",
+        "name": "Santiago Fiuri",
         "url": "https://open.spotify.com/album/3lj1v4qYDyoa6iqpHBDCZp"
       },
       "artists": [
         {
           "name": "Santiago Fiuri",
           "url": "https://open.spotify.com/artist/3zMKXYrsYXL9CIlmQ0PGNt"
-        },
-        {
-          "name": "Tomas Ferrero",
-          "url": "https://open.spotify.com/artist/16OtEqLFEuzr64OXhJr6zN"
         }
       ],
       "duration_ms": 189477,

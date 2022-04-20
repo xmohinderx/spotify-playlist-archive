@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lizzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,947 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,946 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 65 | [Queens](https://open.spotify.com/track/5y7P80dZWvvakgj89Gkekn) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Queens](https://open.spotify.com/album/1AjJDrIkBxVjaVkhSD8wRt) | 2:57 |
 | 66 | [Barbie](https://open.spotify.com/track/2dbla7ci76O2SpS9Nfng8r) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Barbie](https://open.spotify.com/album/7L78Mc4OsbVgOcLiY9OFz7) | 2:29 |
 | 67 | [Dreamer \(feat\. Graham Candy\)](https://open.spotify.com/track/7infpBlZmJv2SIACcj5yvZ) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Frequency](https://open.spotify.com/album/2OMD7KUdoORbFKI1a8kNoN) | 4:04 |
-| 68 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
+| 68 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
 | 69 | [Beim letzten Mal](https://open.spotify.com/track/55e0OGykWkXq6rGeeeWPcz) | [K\-Fly](https://open.spotify.com/artist/4jDdEv3oafVcJfrywVDi4p), [McN](https://open.spotify.com/artist/4Zt20mwx0XIcvxUglIfCDR) | [Beim letzten Mal](https://open.spotify.com/album/3tTuXkZLpcTNlaVz95pCNO) | 2:54 |
 | 70 | [Backseat](https://open.spotify.com/track/6PyDmJQd9gT9vBOc5aPAXw) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Backseat](https://open.spotify.com/album/5GJuKaFeTSF8FgES4iv7dM) | 2:41 |
 | 71 | [Flyin \(like a fast train\)](https://open.spotify.com/track/5ItAruXMNgaAmxP2MmRHI7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 4:46 |

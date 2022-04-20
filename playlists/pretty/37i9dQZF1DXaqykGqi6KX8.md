@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,187 likes - 30 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,200 likes - 30 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 29 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
 | 30 | [12](https://open.spotify.com/track/67Ds7V9onIBlErmkSWFtt6) | [Benevolent](https://open.spotify.com/artist/5wuGLHfb2t7AIIg5AgEMDZ) | [The Wave](https://open.spotify.com/album/3lTr2YYIhsGuvbZI4ZDwGY) | 5:20 |
 
-Snapshot ID: `MTY1MDMzMDcwMiwwMDAwMDAwMDJhMDEzYzRlYTEyYjIzMWFjNzRiY2FlMzEzMWRiNmFj`
+Snapshot ID: `MTY1MDQxNzEzNCwwMDAwMDAwMDJhMDEzYzRlYTEyYjIzMWFjNzRiY2FlMzEzMWRiNmFj`

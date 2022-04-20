@@ -4,7 +4,7 @@
 
 > soft songs that go hard\. cover: ROLE MODEL
 
-1,560 songs - 3 day 11 hr 24 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,561 songs - 3 day 11 hr 27 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -809,6 +809,7 @@
 | [Lightning Of July](https://open.spotify.com/track/1gqhKpica2xrkDE9E3nNTv) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:56 | 2022-04-08 |  |
 | [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 | 2022-02-02 | 2022-04-12 |
 | [Lights Up](https://open.spotify.com/track/2plLJpUcYPFrl1sW2pMG63) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Lights Up](https://open.spotify.com/album/4Aag1alBrdk2TFnATVmn8D) | 2:52 | 2019-10-11 | 2020-04-02 |
+| [Like a Prayer \- Live](https://open.spotify.com/track/1nM9BUwYIkDbLABWUHjNZH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:27 | 2022-04-19 |  |
 | [Like You](https://open.spotify.com/track/4yiMS4JDFR8XgfZqhxtTwg) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Like You](https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval) | 3:04 | 2021-07-04 | 2021-08-14 |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-12-01 | 2022-01-08 |
 | [Limbo](https://open.spotify.com/track/6d66HsFvNfEst2AFR55l3E) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Limbo](https://open.spotify.com/album/4hUDdGdus1plA7usHM3x0Q) | 3:17 | 2020-07-18 | 2020-07-31 |

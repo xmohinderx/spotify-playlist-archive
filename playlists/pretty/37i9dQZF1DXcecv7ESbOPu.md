@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,410 likes - 105 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,412 likes - 104 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,12 +106,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 96 | [My Bonnie](https://open.spotify.com/track/5oCRzH8hlwEy5m6JzXXhD1) | [Lodet](https://open.spotify.com/artist/6VXTzI1WrQP0o0hXqx9BGP) | [My Bonnie](https://open.spotify.com/album/0aFh3Fn91ODUMjsX27pDRY) | 4:59 |
 | 97 | [Clean Slate](https://open.spotify.com/track/1zRmfOPIoPXExSGUqP5QD3) | [Bernhard](https://open.spotify.com/artist/6zq2N1bCKw9BKG9kGdlLF0) | [Stray Dog](https://open.spotify.com/album/1PgPjCootE5kbantcv1GBU) | 2:50 |
 | 98 | [Semoras fortuna \- Radio Edit](https://open.spotify.com/track/2F7FE2TD33i4p9ETy8PI5J) | [Houman Sebghati](https://open.spotify.com/artist/3JfaDuspXfR7F0HGJHAULd) | [Semoras fortuna \(Radio Edit\)](https://open.spotify.com/album/5dvSxG2q2QFcKIGUKX5gIW) | 4:10 |
-| 99 | [SWITCH IT UP](https://open.spotify.com/track/02NGImz0Ovl8XhdkSDLRbr) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [SWITCH IT UP](https://open.spotify.com/album/0nkCylUfFnNWQ3Sfs2C0Xl) | 2:21 |
-| 100 | [Sexuell prestanda](https://open.spotify.com/track/3PzUN7xwvB1NUdZtuuXFnX) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ) | [Sexuell prestanda](https://open.spotify.com/album/1VySs34JJVZ7XUa0Yz8KFF) | 2:53 |
-| 101 | [Aldrig har jag älskat så](https://open.spotify.com/track/75OOEgG8sMIS0MpI8vfth0) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Aldrig har jag älskat så](https://open.spotify.com/album/0o8khVEKKYGI3OeRbOZ8Fe) | 3:10 |
-| 102 | [GÅR DET BRA?](https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GÅR DET BRA?](https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR) | 2:25 |
-| 103 | [På väg igen](https://open.spotify.com/track/72Qwq9IP1U88ogTeXBmLm6) | [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY) | [På väg igen](https://open.spotify.com/album/4tz1X4u1VghgwtwcbIEBrG) | 3:06 |
-| 104 | [Broke My Heart in Two](https://open.spotify.com/track/7qqelvyj7AQXn8uDupbiwu) | [Sture Zetterberg](https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG) | [Broke My Heart in Two](https://open.spotify.com/album/45N5UiwytseVjTc2sqFKb1) | 3:01 |
-| 105 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 |
+| 99 | [Sexuell prestanda](https://open.spotify.com/track/3PzUN7xwvB1NUdZtuuXFnX) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ) | [Sexuell prestanda](https://open.spotify.com/album/1VySs34JJVZ7XUa0Yz8KFF) | 2:53 |
+| 100 | [Aldrig har jag älskat så](https://open.spotify.com/track/75OOEgG8sMIS0MpI8vfth0) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Aldrig har jag älskat så](https://open.spotify.com/album/0o8khVEKKYGI3OeRbOZ8Fe) | 3:10 |
+| 101 | [GÅR DET BRA?](https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GÅR DET BRA?](https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR) | 2:25 |
+| 102 | [På väg igen](https://open.spotify.com/track/72Qwq9IP1U88ogTeXBmLm6) | [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY) | [På väg igen](https://open.spotify.com/album/4tz1X4u1VghgwtwcbIEBrG) | 3:06 |
+| 103 | [Broke My Heart in Two](https://open.spotify.com/track/7qqelvyj7AQXn8uDupbiwu) | [Sture Zetterberg](https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG) | [Broke My Heart in Two](https://open.spotify.com/album/45N5UiwytseVjTc2sqFKb1) | 3:01 |
+| 104 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 |
 
-Snapshot ID: `MTY0OTk3MzcyMCwwMDAwMDM3ZjAwMDAwMTgwMmExOGY0MjUwMDAwMDE4MDFkZDIwOGMz`
+Snapshot ID: `MTY1MDM3ODAxNiwwMDAwMDM4MDAwMDAwMTgwNDIzMjA2MjkwMDAwMDE4MDFkZDIwOGMz`

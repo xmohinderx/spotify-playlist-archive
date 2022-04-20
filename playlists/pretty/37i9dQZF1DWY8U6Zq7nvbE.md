@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,930 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,952 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [Whiplash \- Acoustic](https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kaela Sinclair](https://open.spotify.com/artist/3gWrqVNUebQF7alIH0bzZ8) | [Whiplash \(Acoustic\)](https://open.spotify.com/album/2p9CwOdI1bCw4vZ9TIG1rx) | 2:25 |
 | 100 | [Du är en ängel](https://open.spotify.com/track/7fJ1lkpVv0DaukPoP9uUMq) | [Alex Shield](https://open.spotify.com/artist/0GjycNCtd0KpROrMYfpPjb), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Du är en ängel](https://open.spotify.com/album/6mWZFW1QfOrQxxKaOeGZHX) | 4:20 |
 
-Snapshot ID: `MTY1MDMzMDMyMCwwMDAwMDAwMDBlYTQ3OTdhY2QyNzVmMjNlNGQxZmY1ODBmOTQ1MmMx`
+Snapshot ID: `MTY1MDQxNjcwNSwwMDAwMDAwMDBlYTQ3OTdhY2QyNzVmMjNlNGQxZmY1ODBmOTQ1MmMx`

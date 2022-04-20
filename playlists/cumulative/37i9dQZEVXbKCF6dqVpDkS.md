@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-582 songs - 1 day 6 hr 21 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+583 songs - 1 day 6 hr 25 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-12-01 |
 | [C’est que du bonheur](https://open.spotify.com/track/3QTsEZZ2qeahVOtliAvTHw) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:42 | 2022-03-05 | 2022-03-07 |
 | [Daar Wordt Aan De Deur Geklopt](https://open.spotify.com/track/6FUio67dllSqSEYrGeLe2G) | [Telekids Musicalschool](https://open.spotify.com/artist/1Xnnpe8GdQNEF6Rf1wUFeX), [Sinterklaasliedjes](https://open.spotify.com/artist/2ieZVeLSXjusHvAKJCQ1NC), [Sinterklaasmuziek](https://open.spotify.com/artist/6mTfi6iXyEiuRE6uFnJIXf) | [Sinterklaasliedjes](https://open.spotify.com/album/0JOmAXoNAIpDBHYalZ3TLR) | 1:38 | 2021-12-07 | 2021-12-08 |
+| [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-04-19 |  |
 | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z) | 2:04 | 2021-06-21 | 2021-08-01 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2022-01-01 | 2022-01-04 |
 | [Dankbaar](https://open.spotify.com/track/77iJwLCDyXlCg1PTTgASY2) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Altijd Samen](https://open.spotify.com/album/6BHxEiojDWUxosoajN3adD) | 2:21 | 2021-08-22 | 2021-08-23 |
@@ -262,7 +263,7 @@
 | [Ibiza](https://open.spotify.com/track/0c96n8Km3Y2yudzZPAf16x) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Ibiza](https://open.spotify.com/album/2XsK5aFygRdaKN5RZzcLjP) | 2:40 | 2021-10-03 | 2021-11-28 |
 | [Ibiza](https://open.spotify.com/track/6as3iXGeGUqqkR70U6Ajgr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:40 | 2021-11-28 | 2022-01-15 |
 | [Ibiza Stories](https://open.spotify.com/track/4YU0biJZXmOT2dWLyiTt5O) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 3:41 | 2022-01-29 | 2022-02-13 |
-| [Ik Ga Zwemmen](https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j) | 2:59 | 2021-08-02 |  |
+| [Ik Ga Zwemmen](https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j) | 2:59 | 2021-08-02 | 2022-04-20 |
 | [Ik Heb Je \(met Henkie T & Yssi SB\)](https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Ik Heb Je](https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz) | 3:14 | 2021-10-03 | 2021-10-11 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-06-10 | 2021-09-29 |
 | [In De Nacht](https://open.spotify.com/track/5Epo9KIQxMprDVCaPzfnys) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [In De Nacht](https://open.spotify.com/album/6fyLVAtPIAPNc4twVtiyXo) | 3:26 | 2021-10-23 | 2022-03-13 |

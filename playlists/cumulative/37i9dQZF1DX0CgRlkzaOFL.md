@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-50 songs - 2 hr 46 min - not published yet
+51 songs - 2 hr 53 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [シンシャ](https://open.spotify.com/track/5kdZroq0M2xIeMnZ64DFci) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [TVアニメ『宝石の国』オリジナルサウンドトラック](https://open.spotify.com/album/5yLnFLjrKde0Fih4A9H1X6) | 2:19 | 2022-03-25 |  |
 | [ベートーヴェン:交響曲第7番イ長調作品92より 第1楽章・第4楽章 ドラマエディット](https://open.spotify.com/track/5MZl6mbsB0GRMnxuNJIyfx) | [のだめカンタービレ](https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN) | [のだめカンタービレ スペシャル BEST!](https://open.spotify.com/album/7tHoaRyQsXpbW2b1gi82Fd) | 7:20 | 2022-03-25 |  |
 | [ラクエン](https://open.spotify.com/track/4WFe6qT7bJLMMv2xB84der) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [WOLF'S RAIN](https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9) | 3:03 | 2022-03-25 |  |
+| [リズと青い鳥 第三楽章「愛ゆえの決断」](https://open.spotify.com/track/04XhdVM3q2qPusWPEmg95c) | [北宇治高校吹奏楽部](https://open.spotify.com/artist/2KcsOu1hIobMNRXYFun6tF) | [映画『リズと青い鳥』オリジナルサウンドトラック「girls,dance,staircase」](https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE) | 6:27 | 2022-04-19 |  |
 | [人生のメリーゴーランド\-オープニング\-](https://open.spotify.com/track/6pIirGODmVMu57AlyzXC2R) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 2:33 | 2022-03-25 |  |
 | [栄の活躍](https://open.spotify.com/track/1uPiELzYT6EZSIz6NBIzyX) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 3:09 | 2022-03-25 |  |
 | [流れ星](https://open.spotify.com/track/0W7i2mlLUM3SdVa8urLt8e) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風立ちぬ サウンドトラック](https://open.spotify.com/album/22CabmJSWNFJqzzvgYw3JD) | 1:37 | 2022-03-25 |  |

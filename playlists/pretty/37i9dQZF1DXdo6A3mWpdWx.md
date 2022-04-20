@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Vengaboys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,423 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,727 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 146 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
 | 147 | [Don't Talk Just Kiss](https://open.spotify.com/track/4mrbbOwCgfgxiYy8kaVyAO) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 4:01 |
 | 148 | [Insomnia \- Radio Edit](https://open.spotify.com/track/1nKI0IopPWboMzMYivWi8x) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [100 90'er Hits](https://open.spotify.com/album/5J8Okaw3myp8TnIqI5qqst) | 3:33 |
-| 149 | [Love & Devotion](https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/4SJ6x0Hlml18n0Ur9hnWNU) | 4:34 |
+| 149 | [Love & Devotion \- Club Mix](https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/4SJ6x0Hlml18n0Ur9hnWNU) | 4:34 |
 | 150 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
 
-Snapshot ID: `MTY1MDMzMDc4NiwwMDAwMDAwMDY2NDdjYWU0NzA4MDc1MzA3MTQ3MDBiOWM4N2VhMzY3`
+Snapshot ID: `MTY1MDQxNzIzMiwwMDAwMDAwMDY2NDdjYWU0NzA4MDc1MzA3MTQ3MDBiOWM4N2VhMzY3`

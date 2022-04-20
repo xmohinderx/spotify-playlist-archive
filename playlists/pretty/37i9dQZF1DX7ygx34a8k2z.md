@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,605 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,111 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [Cornflake Girl \- 2015 Remaster](https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink \(Deluxe Edition\)](https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U) | 5:05 |
 | 100 | [We Don't Need Nobody Else](https://open.spotify.com/track/4Rj5aUufrdxpEwoRHc50TM) | [Whipping Boy](https://open.spotify.com/artist/3oadMDBL4Wv7F5lkVwRWy2) | [Heartworm](https://open.spotify.com/album/3vOq1lCyVUrnbqXK2ZYhRJ) | 4:16 |
 
-Snapshot ID: `MTY1MDMzMDYxNywwMDAwMDAwMGZhZDY1MzcyMWQyMzdkMmFlNWNiZTRjOTQyMmU2MTQ5`
+Snapshot ID: `MTY1MDQxNzAzNSwwMDAwMDAwMGZhZDY1MzcyMWQyMzdkMmFlNWNiZTRjOTQyMmU2MTQ5`

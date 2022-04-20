@@ -2,7 +2,7 @@
 
 ### [Video Game Soundtracks](https://open.spotify.com/playlist/37i9dQZF1DXdfOcg1fm0VG)
 
-> Double\-jump into these legendary video game soundtracks, featuring old favourites and new classics.
+> Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
 95 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
@@ -86,7 +86,7 @@
 | [The Drop](https://open.spotify.com/track/6vIL1KWpWZOLhbpJ6xCjGU) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc) | [Death Stranding \(Original Score Volume 2\)](https://open.spotify.com/album/31IhCTqab094HwqAjqGENb) | 1:01 | 2021-12-15 |  |
 | [The Ewer \(Day\)](https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:05 | 2021-12-15 |  |
 | [The Face of Our New Hope](https://open.spotify.com/track/4Er4Eq5De16sKwCV8nx4ej) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc) | [Death Stranding \(Original Score\)](https://open.spotify.com/album/5e4LO7QzLLN6sSs9RlaawU) | 3:25 | 2021-12-15 |  |
-| [The Gapra Whitewood](https://open.spotify.com/track/3b74h1zdaACqenzjNoe87z) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 2:44 | 2021-12-15 |  |
+| [The Gapra Whitewood](https://open.spotify.com/track/3b74h1zdaACqenzjNoe87z) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 2:44 | 2021-12-15 | 2022-04-20 |
 | [The Last of Us](https://open.spotify.com/track/285ieonEuLkll3zknYK2TY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:03 | 2021-12-15 |  |
 | [The Last of Us Part II](https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:52 | 2021-12-15 |  |
 | [The Light We Cast](https://open.spotify.com/track/2pdGvz2IWaw0ST2mAafKno) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 3:10 | 2021-12-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Bravo, Bravissimo",
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Schiuma",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -98,6 +98,28 @@
     },
     {
       "album": {
+        "name": "6 un caxxo di rave",
+        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
+      },
+      "artists": [
+        {
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+        },
+        {
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "6 un caxxo di rave",
+      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
+    },
+    {
+      "album": {
         "name": "Discomoneta",
         "url": "https://open.spotify.com/album/5FzsFijou9m3iNCAxSdYMj"
       },
@@ -121,6 +143,24 @@
       "duration_ms": 199384,
       "name": "A voc ro padron",
       "url": "https://open.spotify.com/track/2qZdZw7wAo6URlj1j0edfJ"
+    },
+    {
+      "album": {
+        "name": "Acne",
+        "url": "https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Acne (apnea)",
+      "url": "https://open.spotify.com/track/0ptiXSFzFDGqD9IkMUzdms"
     },
     {
       "album": {
@@ -219,7 +259,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 113916,
       "name": "America",
       "url": "https://open.spotify.com/track/6IsPJvBNGPeVcYHsecgTb8"
@@ -259,6 +299,24 @@
       "duration_ms": 176672,
       "name": "Amore o veleno",
       "url": "https://open.spotify.com/track/4XGpFE3aFdpMx0RxjrWHNm"
+    },
+    {
+      "album": {
+        "name": "An Interior of Strange Beauty / Incoming Call",
+        "url": "https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394293,
+      "name": "An Interior of Strange Beauty",
+      "url": "https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG"
     },
     {
       "album": {
@@ -589,7 +647,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 205206,
       "name": "Caff\u00e8",
       "url": "https://open.spotify.com/track/5uxfD54NLzsy1AP4ulHEzJ"
@@ -915,7 +973,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 234857,
       "name": "Dopo di te",
       "url": "https://open.spotify.com/track/6f9SqDEOWEVFpXEBEYqdIE"
@@ -933,7 +991,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 171818,
       "name": "Dove Sei",
       "url": "https://open.spotify.com/track/0M9mcBKqWfC1aBIBVmkYLY"
@@ -951,7 +1009,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 144686,
       "name": "DPCM",
       "url": "https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM"
@@ -973,6 +1031,24 @@
       "duration_ms": 162703,
       "name": "Essere Luce",
       "url": "https://open.spotify.com/track/5id3YaYmvIT7hwxei64WST"
+    },
+    {
+      "album": {
+        "name": "FELICIT\u00c0",
+        "url": "https://open.spotify.com/album/20LMfMWno4ZAIRQSunGdCr"
+      },
+      "artists": [
+        {
+          "name": "GIUMO",
+          "url": "https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135789,
+      "name": "FELICIT\u00c0",
+      "url": "https://open.spotify.com/track/7iEEPQoP5KyUrrWl3xKCIf"
     },
     {
       "album": {
@@ -1143,6 +1219,28 @@
       "duration_ms": 199600,
       "name": "Ho perso il conto",
       "url": "https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu"
+    },
+    {
+      "album": {
+        "name": "HOUDINI",
+        "url": "https://open.spotify.com/album/4B9YmfMSiJXlMLeDpoJylM"
+      },
+      "artists": [
+        {
+          "name": "Franek Windy",
+          "url": "https://open.spotify.com/artist/1N0nTSt5dfmWS9kGChRAIL"
+        },
+        {
+          "name": "Arssalendo",
+          "url": "https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152870,
+      "name": "HOUDINI",
+      "url": "https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA"
     },
     {
       "album": {
@@ -1352,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "Nello spazio che resta",
+        "url": "https://open.spotify.com/album/746EqxjUBO8HOB8ckvLDMU"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Ladro",
+      "url": "https://open.spotify.com/track/2K6lcl1cqM1U1WvwTjb1Y3"
+    },
+    {
+      "album": {
         "name": "Non ti scordar di me",
         "url": "https://open.spotify.com/album/7tUCuhD58UCoPcOqFTNzqg"
       },
@@ -1433,7 +1549,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 129250,
       "name": "Luna Park - Extended Version",
       "url": "https://open.spotify.com/track/26bRiFPeWj5FJvuNRjfLjH"
@@ -1535,7 +1651,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 211664,
       "name": "Millemila",
       "url": "https://open.spotify.com/track/4tyoo2wP3HsSPudxdOgEJS"
@@ -1575,6 +1691,24 @@
       "duration_ms": 212000,
       "name": "monet",
       "url": "https://open.spotify.com/track/4eEky5qm6cK5PImsAjxUv8"
+    },
+    {
+      "album": {
+        "name": "Montagnarussa",
+        "url": "https://open.spotify.com/album/7n7Vfn20UUHqmghFTuUTxe"
+      },
+      "artists": [
+        {
+          "name": "Kahlo",
+          "url": "https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "Montagnarussa",
+      "url": "https://open.spotify.com/track/7DqOvcg7JluBWkrj1P8dtR"
     },
     {
       "album": {
@@ -1651,7 +1785,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 142650,
       "name": "Naftalina",
       "url": "https://open.spotify.com/track/3U34wBWXo8copEoDwyrgtz"
@@ -1673,7 +1807,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 139668,
       "name": "NCSP :)",
       "url": "https://open.spotify.com/track/1KQ1ioUw4HefOjCAanvZhY"
@@ -1695,7 +1829,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 159428,
       "name": "Negli Occhi",
       "url": "https://open.spotify.com/track/6yS0Ps5RswhboZFM4vLOsE"
@@ -1931,7 +2065,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 141071,
       "name": "Non ci credo che ti penso ancora",
       "url": "https://open.spotify.com/track/2Kig57HRtfKRcBvCm8So4B"
@@ -2214,6 +2348,24 @@
     },
     {
       "album": {
+        "name": "Piccoli problemi",
+        "url": "https://open.spotify.com/album/4fdrb9tRtt4mfIFCzBGzZ2"
+      },
+      "artists": [
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179629,
+      "name": "Piccoli problemi",
+      "url": "https://open.spotify.com/track/0l4AdVfyK4ZI1aNqomkrqA"
+    },
+    {
+      "album": {
         "name": "Controluce",
         "url": "https://open.spotify.com/album/1zu61ZwipzAOrHSbDXsG1I"
       },
@@ -2333,7 +2485,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 210180,
       "name": "Quindici",
       "url": "https://open.spotify.com/track/6Jy0SI6gu6FTowKwlPeXYN"
@@ -2381,10 +2533,54 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 124644,
       "name": "RESTI",
       "url": "https://open.spotify.com/track/6OrbgLPXxhmjxJ7WPKLxKk"
+    },
+    {
+      "album": {
+        "name": "Resto a casa",
+        "url": "https://open.spotify.com/album/2IiiRQm9S8Iq3Vp5tyMLIH"
+      },
+      "artists": [
+        {
+          "name": "Savior",
+          "url": "https://open.spotify.com/artist/4sj5SWNpj0OmXxEbZ17hg3"
+        },
+        {
+          "name": "Martina Di Nardo",
+          "url": "https://open.spotify.com/artist/2ZK8BeEdf8NpZQXG23iIdx"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Resto a casa",
+      "url": "https://open.spotify.com/track/1FKOEl0vzCzjFtHX8tm17U"
+    },
+    {
+      "album": {
+        "name": "Revolver",
+        "url": "https://open.spotify.com/album/1GkRICQxPixKx5E7eS8iER"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/1LV2dU8v9YafKzmL5Od175"
+        },
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/1jyG2mHUtXwSNdtEh7ldCm"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179882,
+      "name": "Revolver",
+      "url": "https://open.spotify.com/track/5l0X6rFDo4hKZzs7cJTRqA"
     },
     {
       "album": {
@@ -2537,6 +2733,28 @@
       "duration_ms": 190698,
       "name": "Sciura Milanese",
       "url": "https://open.spotify.com/track/5sdqPOejvlS6P9qI7BfqrA"
+    },
+    {
+      "album": {
+        "name": "Scuse",
+        "url": "https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK"
+      },
+      "artists": [
+        {
+          "name": "44Moca",
+          "url": "https://open.spotify.com/artist/5mE5vxk4MlRxhcAHgbPKpQ"
+        },
+        {
+          "name": "Nelson",
+          "url": "https://open.spotify.com/artist/4GvQ2vmzbBgRXhjGlgYeYR"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155996,
+      "name": "Scuse",
+      "url": "https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6"
     },
     {
       "album": {
@@ -2929,7 +3147,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 166312,
       "name": "Trappole",
       "url": "https://open.spotify.com/track/2qq83QNNMoSkhvysXSzk5Z"
@@ -3013,6 +3231,24 @@
       "duration_ms": 168083,
       "name": "Tu Sei (feat. Masamasa)",
       "url": "https://open.spotify.com/track/1TCTy62QZffhcBkImGRs7l"
+    },
+    {
+      "album": {
+        "name": "Tutta Pratica",
+        "url": "https://open.spotify.com/album/6OCyskhIDhJppKGjv75maw"
+      },
+      "artists": [
+        {
+          "name": "Nick Sick",
+          "url": "https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "Tutta Pratica",
+      "url": "https://open.spotify.com/track/67YI8g9GQGZXorJlNKxc7S"
     },
     {
       "album": {
@@ -3226,6 +3462,24 @@
     },
     {
       "album": {
+        "name": "Verso il sole",
+        "url": "https://open.spotify.com/album/1vSSdQIi5vVKoxSP7a6k8S"
+      },
+      "artists": [
+        {
+          "name": "Marteena",
+          "url": "https://open.spotify.com/artist/4WHhaLqlblPAbhMvSXYFFJ"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162765,
+      "name": "Verso il sole",
+      "url": "https://open.spotify.com/track/6vGGKNQnH91ZvSo1rVIAQv"
+    },
+    {
+      "album": {
         "name": "Viole",
         "url": "https://open.spotify.com/album/01rzY7vkCEeq30l2uxe0wt"
       },
@@ -3295,6 +3549,24 @@
       "duration_ms": 154390,
       "name": "X4",
       "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
+    },
+    {
+      "album": {
+        "name": "Yin e Yang",
+        "url": "https://open.spotify.com/album/6DttXcxJhwIcHgMZjeSLvz"
+      },
+      "artists": [
+        {
+          "name": "Hanami",
+          "url": "https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Yin e Yang",
+      "url": "https://open.spotify.com/track/39RLFZQtumst5e826cqMyP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY"

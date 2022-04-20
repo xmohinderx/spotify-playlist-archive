@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Music from Asian and Pacific Islander artists for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 35 | [Tuvaluan Alphabet](https://open.spotify.com/track/3TrmF0Fw1o6qS9sBbLELpr) | [Loopy Tunes Preschool Music](https://open.spotify.com/artist/0nyv9lZZ2dBi8WzcRfyH6y), [Whānau Āwhina Plunket\-Pasifika Beatz](https://open.spotify.com/artist/69gi80HKXW67UHDsNLBTWT) | [Pasifika Beatz \- Tuvalu](https://open.spotify.com/album/07mulX2xrTZPt3GOH1IxMq) | 1:17 |
 | 36 | [Sol Nal](https://open.spotify.com/track/2kQ8rAOOuOc0bU5WdF8ZP0) | [Elena Moon Park](https://open.spotify.com/artist/4Okanr8CZ6f2oGudDIyv77) | [Rabbit Days and Dumplings](https://open.spotify.com/album/4YhjCfn1LfDFEzlu6JFxjy) | 2:54 |
 
-Snapshot ID: `MTY1MDMzMDE5NiwwMDAwMDAwMGNhNzEyNjA1NTU2YTJjNDU0ZWE1NWZiMGFmYzJjZTBj`
+Snapshot ID: `MTY1MDQxNjU2NiwwMDAwMDAwMGNhNzEyNjA1NTU2YTJjNDU0ZWE1NWZiMGFmYzJjZTBj`

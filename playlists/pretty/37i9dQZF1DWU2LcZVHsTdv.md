@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,327 likes - 105 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,376 likes - 105 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 34 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 |
 | 35 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 |
 | 36 | [Show Me Around](https://open.spotify.com/track/1kAjZE74FPpadN5JUgrIcZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:40 |
-| 37 | [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0W04i66yWfmc0tUT9WP5tQ) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 |
+| 37 | [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 |
 | 38 | [A Little Love](https://open.spotify.com/track/6dtFZkJdNJljSlWI9dL1kg) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:08 |
 | 39 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 |
 | 40 | [Long Black Train](https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/1jledek9KEGKEpa9KsuvkT) | 4:10 |

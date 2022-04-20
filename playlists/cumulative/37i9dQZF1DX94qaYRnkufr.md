@@ -4,7 +4,7 @@
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-84 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
+85 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Followers](https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Followers](https://open.spotify.com/album/3YRKOtLYysmk04YlzvpnU3) | 2:57 | 2021-12-09 |  |
 | [Forbidden Voices](https://open.spotify.com/track/2BF1X5nkYYSb0AUTRaGkDm) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/26oYqQO1MNxFLMfPttGRSS) | 3:50 | 2021-12-09 |  |
 | [Forever](https://open.spotify.com/track/5EwwwdsQfKI8ZnFG93j5Zu) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Forever](https://open.spotify.com/album/7zFHC5p1ylePX7dNxln5iJ) | 3:38 | 2021-12-09 |  |
+| [Funk](https://open.spotify.com/track/0IhFTEDMftiEIf1KAJcEOP) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Sentio](https://open.spotify.com/album/4xPCqIczFFq8QuwLRbvmrG) | 3:09 | 2022-04-19 |  |
 | [Game Over](https://open.spotify.com/track/5Zpe48RJ5Vs1YuFRodYdeS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [LOOPERS](https://open.spotify.com/artist/0Aemly9h57T2sLKpkNq409) | [Game Over](https://open.spotify.com/album/28DX5MHDKHdqLJ4UUHmzve) | 2:35 | 2021-12-09 |  |
 | [Girls](https://open.spotify.com/track/3yowm56ant5XMV1X6o71DK) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Girls](https://open.spotify.com/album/2DK2mnpNa61OMZaAWSF3JI) | 2:31 | 2021-12-09 |  |
 | [Glad You Came](https://open.spotify.com/track/7xHfguzndSR2jOpMxzqh3r) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Glad You Came](https://open.spotify.com/album/0ESVw2RSkkBnJrSAnuxMuK) | 2:32 | 2021-12-09 |  |

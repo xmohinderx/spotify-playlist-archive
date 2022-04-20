@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,415 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,453 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 75 | [L'encre de tes yeux](https://open.spotify.com/track/4vYDdtH2Wk9k6xGOe53Ohn) | [Andrea Lindsay](https://open.spotify.com/artist/0arDOG5JwJdBockOxiK3Hc) | [Elles chantent Cabrel](https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0) | 3:10 |
 
-Snapshot ID: `MTY1MDMzMDc1OCwwMDAwMDAwMDE4MDhkOTBiNzA5MmMzYjQwN2I1Y2Q4ZTYxYmRhNjQy`
+Snapshot ID: `MTY1MDQxNzIwMSwwMDAwMDAwMDE4MDhkOTBiNzA5MmMzYjQwN2I1Y2Q4ZTYxYmRhNjQy`

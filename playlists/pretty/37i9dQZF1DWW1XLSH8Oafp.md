@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring DJ\_Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,618 likes - 106 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,138 likes - 106 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 |
-| 2 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [Miss U](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 |
+| 2 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [miss u](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 |
 | 3 | [Bluff](https://open.spotify.com/track/5P5xuOwnMwaTY38yT8laSl) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Bluff](https://open.spotify.com/album/0n7tJPogMxhFS8YNTFlF5l) | 3:07 |
 | 4 | [Save Me](https://open.spotify.com/track/5Ru2NOdxgo0f6mvqfVGZo9) | [GnB Chili](https://open.spotify.com/artist/0BbAouKPCNKRe8uo2k2XGU) | [Basement Popstar](https://open.spotify.com/album/3g6BGhwBDj0uRYIWV35iQ0) | 2:25 |
 | 5 | [heavensleep](https://open.spotify.com/track/7jqiOS9oxnSpCooYGHlNbR) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [heavensleep](https://open.spotify.com/album/3Rn7Lgvtgm3BIUpQBdFn0w) | 2:00 |

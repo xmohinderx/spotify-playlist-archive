@@ -2460,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "What Would Love Do",
+        "url": "https://open.spotify.com/album/1VV3Zts79NLpNkquyyeO5U"
+      },
+      "artists": [
+        {
+          "name": "The Grouch & Eligh",
+          "url": "https://open.spotify.com/artist/6atrA9ysSgjJXw8NZH0vjZ"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Love Feels",
+      "url": "https://open.spotify.com/track/1uhYNxtjZFc99TSUbhmwG6"
+    },
+    {
+      "album": {
         "name": "love sux",
         "url": "https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s"
       },

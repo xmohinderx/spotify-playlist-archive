@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/3wL067SoyL83W04AcNwb8x"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234065,
+      "name": "412",
+      "url": "https://open.spotify.com/track/3RSA0ckB8raJ85FLmzwyBy"
+    },
+    {
+      "album": {
         "name": "If I'm The Devil...",
         "url": "https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg"
       },
@@ -41,6 +59,24 @@
       "duration_ms": 148327,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof"
+    },
+    {
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "album": {
@@ -91,7 +127,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
@@ -243,7 +279,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 184813,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY"
@@ -261,7 +297,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 171665,
       "name": "Burnt (By the Sun)",
       "url": "https://open.spotify.com/track/0LcU62QpwyqPy0kTylVvkQ"
@@ -279,7 +315,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 269000,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
@@ -301,6 +337,24 @@
       "duration_ms": 160946,
       "name": "Caught in the Middle",
       "url": "https://open.spotify.com/track/5sdighSadfa2o9eqtMqGkC"
+    },
+    {
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
     },
     {
       "album": {
@@ -333,7 +387,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 210240,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD"
@@ -369,7 +423,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 223560,
       "name": "Curse the Weather",
       "url": "https://open.spotify.com/track/2o0fZALPlVohLSNrjYN3I5"
@@ -387,7 +441,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
@@ -405,7 +459,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 229640,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/07YAkI4MUIBku8cSJQ2Iz5"
@@ -423,7 +477,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 177614,
       "name": "Death Grip",
       "url": "https://open.spotify.com/track/2fZFQe9qyQx1AX7tZ3Uztl"
@@ -441,7 +495,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 170366,
       "name": "Devil",
       "url": "https://open.spotify.com/track/2C1gcpQDw2sPz5k01gUv5r"
@@ -495,7 +549,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 225840,
       "name": "Don\u2019t Back Down",
       "url": "https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe"
@@ -513,7 +567,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 175577,
       "name": "Earth Is A Black Hole",
       "url": "https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb"
@@ -531,7 +585,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 202800,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/2TFWiFlB1t8j2ALmzIRZOa"
@@ -585,7 +639,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 214075,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0QPqmarimIKooURQb8ZR5Q"
@@ -621,7 +675,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 226106,
       "name": "Freak",
       "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
@@ -639,7 +693,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 279333,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE"
@@ -675,7 +729,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 206200,
       "name": "Guerrilla Radio",
       "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
@@ -718,6 +772,24 @@
     },
     {
       "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5EtgaPthWL43Hjj6kbgknS"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166027,
+      "name": "Hard to Swallow",
+      "url": "https://open.spotify.com/track/0cPnIDYERgi2hguP7bziHn"
+    },
+    {
+      "album": {
         "name": "Weezer (Green Album)",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -729,7 +801,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 186533,
       "name": "Hash Pipe",
       "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
@@ -747,7 +819,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 174592,
       "name": "Heat Seeker",
       "url": "https://open.spotify.com/track/0P9nVsSehdmUwyIQNmtgXM"
@@ -801,7 +873,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 253714,
       "name": "Hey Old Man",
       "url": "https://open.spotify.com/track/2sTmGJzXmVn9B7TleDMOpP"
@@ -819,7 +891,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 201680,
       "name": "Highway",
       "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
@@ -891,7 +963,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 237053,
       "name": "Is Everybody Going Crazy?",
       "url": "https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS"
@@ -927,7 +999,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 287400,
       "name": "Last Day Under The Sun",
       "url": "https://open.spotify.com/track/6QrC8IQV29mwLgLMW1zGmm"
@@ -963,7 +1035,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/5bCDC7qkmxiJc0lPsqiALj"
@@ -981,7 +1053,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
@@ -999,7 +1071,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
@@ -1035,7 +1107,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Lose My Breath Away",
       "url": "https://open.spotify.com/track/3zrljR8s0YB9KyO5Gl8W9s"
@@ -1071,7 +1143,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/6A5M31nKvt6GYaGL7XpX2w"
@@ -1089,7 +1161,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 204225,
       "name": "Missile",
       "url": "https://open.spotify.com/track/4gUteMcpbt8S7PMc5Wy6uS"
@@ -1107,7 +1179,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 260026,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
@@ -1125,7 +1197,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 255093,
       "name": "Name of the Game",
       "url": "https://open.spotify.com/track/0iYk1L7ImsUVsYMhXibhNN"
@@ -1147,7 +1219,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "New England",
       "url": "https://open.spotify.com/track/6Xc7LinCrQ5qwqVihDXrtr"
@@ -1165,7 +1237,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 228639,
       "name": "New Fang",
       "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
@@ -1205,6 +1277,24 @@
       "duration_ms": 216903,
       "name": "North Of No South - Edit",
       "url": "https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU"
+    },
+    {
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/6PLmgYwFKrlLKiZjXK2hXV"
+      },
+      "artists": [
+        {
+          "name": "Twin Atlantic",
+          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207920,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/7KfItMIktIqUP9pZ60xIji"
     },
     {
       "album": {
@@ -1267,7 +1357,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 208106,
       "name": "Paralyzer",
       "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
@@ -1285,7 +1375,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 178795,
       "name": "Reckless Tongue",
       "url": "https://open.spotify.com/track/5Md4gGCtM6HV8eR2lQv8F2"
@@ -1357,7 +1447,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 185013,
       "name": "Shadowboxer",
       "url": "https://open.spotify.com/track/3yNVDeOlaPGu2Ab71gG5nP"
@@ -1375,7 +1465,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 165755,
       "name": "Shake",
       "url": "https://open.spotify.com/track/32PINF4tmKyRHurHQ9l1Hp"
@@ -1429,7 +1519,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 208064,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/1d3bB2IXjNfJRJi2xZVY9t"
@@ -1447,7 +1537,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 246920,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
@@ -1501,7 +1591,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 192951,
       "name": "Teach Me To Fight",
       "url": "https://open.spotify.com/track/73BDFtqyGUgQN35Gw3jzYH"
@@ -1519,7 +1609,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
@@ -1555,7 +1645,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 200502,
       "name": "That Dress",
       "url": "https://open.spotify.com/track/0kL7zJ4HZVBCtux5LK0fro"
@@ -1573,7 +1663,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 266240,
       "name": "The Best Things",
       "url": "https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ"
@@ -1627,10 +1717,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 179600,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig"
+    },
+    {
+      "album": {
+        "name": "The Party's Over",
+        "url": "https://open.spotify.com/album/60fb6eccHG3kPp0azBPJRG"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212091,
+      "name": "The Party\u2019s Over",
+      "url": "https://open.spotify.com/track/1Chj2i5RntvoUi0DUQS50E"
     },
     {
       "album": {
@@ -1753,7 +1861,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 199412,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/5HYonJKY0t9tPAtExyBuvr"
@@ -1771,7 +1879,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-20",
       "duration_ms": 176306,
       "name": "Woman",
       "url": "https://open.spotify.com/track/54ix2V2omFv9UUiMks7Fhf"

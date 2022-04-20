@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 
 > The best metal songs of the 2010s\. Cover: Five Finger Death Punch
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,191 likes - 120 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,433 likes - 120 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 119 | [Sorceress](https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP) | 5:49 |
 | 120 | [Pisces](https://open.spotify.com/track/65NCSimdLk7UIWwOKJPOJB) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [King Of Everything](https://open.spotify.com/album/5tPsMHA3GY2q0HtcjNqf3p) | 5:05 |
 
-Snapshot ID: `MTY1MDMzMDIxNSwwMDAwMDAwMGQwZDNhNWU1Njc4MTRhOTk0ZDIzNGU4NjA1YTczNzNj`
+Snapshot ID: `MTY1MDQxNjU4OCwwMDAwMDAwMGQwZDNhNWU1Njc4MTRhOTk0ZDIzNGU4NjA1YTczNzNj`

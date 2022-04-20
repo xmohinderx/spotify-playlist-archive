@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,842 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,869 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 59 | [Waiting \(PAL Remix\)](https://open.spotify.com/track/0Ncn23ImrJf7J4Wib9Fd8I) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [PAL](https://open.spotify.com/artist/2EW0ELDBawKHcX4lQyAj0M) | [Skisser / Remixed](https://open.spotify.com/album/2rXKPpwLslBMvmtfq1eGWR) | 5:14 |
 | 60 | [Miss You Love](https://open.spotify.com/track/1DH9Jw14TpkKzNIwbCFB6p) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Apparently Unaffected](https://open.spotify.com/album/7BWPKwScT8TShBOh91O4oz) | 3:09 |
 
-Snapshot ID: `MTY1MDMzMDE4NCwwMDAwMDAwMDI2NjRjZDJiMjBiNzg3MjBjMzY1YTA4ZTVhM2I0NzY5`
+Snapshot ID: `MTY1MDQxNjU1NCwwMDAwMDAwMDI2NjRjZDJiMjBiNzg3MjBjMzY1YTA4ZTVhM2I0NzY5`

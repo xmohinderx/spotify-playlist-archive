@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Benjamín Walker y Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,750 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,765 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 6 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 |
 | 7 | [Sin Mi](https://open.spotify.com/track/7HY2lXja4zdEPofUs0nkEl) | [Pønce](https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT) | [Sin Mi](https://open.spotify.com/album/4S84UFstNgyixt9dzzFpdf) | 3:32 |
 | 8 | [Vienen de correr](https://open.spotify.com/track/41HoHAOStZ6XNwulP4vayx) | [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9) | [Radio Cáhuil](https://open.spotify.com/album/0g1XC6oWZEVG47yw0rAIKV) | 2:53 |
-| 9 | [Mi burbuja vital \- Ellis Miah Remix](https://open.spotify.com/track/4vpKF9PsByRbzdzqjhxdQM) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4), [Ellis Miah](https://open.spotify.com/artist/6CI4WVE7EE7BoDuOmToXOK) | [Mi burbuja vital \(Ellis Miah Remix\)](https://open.spotify.com/album/2dqltgE9Uvpfr9QH1KQZ0U) | 3:45 |
+| 9 | [Mi burbuja vital \- Ellis Miah Remix](https://open.spotify.com/track/4vpKF9PsByRbzdzqjhxdQM) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4), [Ellis Miah](https://open.spotify.com/artist/6CI4WVE7EE7BoDuOmToXOK), [Marvin Buessau](https://open.spotify.com/artist/2sUxpmJK1OD1k442gB3C2h) | [Mi burbuja vital \(Ellis Miah Remix\)](https://open.spotify.com/album/2dqltgE9Uvpfr9QH1KQZ0U) | 3:45 |
 | 10 | [Miel](https://open.spotify.com/track/29hzSQxKUcMe4FP8LmIuQd) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Miel](https://open.spotify.com/album/4lbxIXJVhLbaCtMLSoZQDe) | 2:58 |
 | 11 | [Nube](https://open.spotify.com/track/5lXaQ7Rsgai1y5ZSD2qsYg) | [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Nube](https://open.spotify.com/album/4oxO3GPrcimh6dJtj5PJZU) | 3:17 |
 | 12 | [El Gran Final](https://open.spotify.com/track/3yrIF2N1kiZ2EBcEMHHI3v) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [El Gran Final](https://open.spotify.com/album/1ugL4tRJGJJGta01t0ass8) | 3:07 |
 | 13 | [Mar](https://open.spotify.com/track/69BIvwIwVOAQozF7L37Qkv) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [And&e](https://open.spotify.com/artist/3JGDVToEvq61PpsxtsGsTk) | [Mar](https://open.spotify.com/album/70iqylkZ7GfBsivnudTmUO) | 5:00 |
 | 14 | [Escorial](https://open.spotify.com/track/7xkWmXnfzoRLIkWuMyfLlP) | [keezyporta](https://open.spotify.com/artist/59a1bsEPllg9vAM5ZdZtBS) | [BONITO](https://open.spotify.com/album/2IjWDR5WRjIol9gT9CcJ70) | 2:46 |
 | 15 | [Lo Que Siempre Quisiste](https://open.spotify.com/track/4llz9SNmGOfcRUb7W9kGKY) | [Santiago Fiuri](https://open.spotify.com/artist/3zMKXYrsYXL9CIlmQ0PGNt) | [Lo Que Siempre Quisiste](https://open.spotify.com/album/0GEY9lifuXuYFOb8BkouT2) | 3:09 |
-| 16 | [Extasis](https://open.spotify.com/track/5Y1CyGc7UYSjb6ZBVFCKZu) | [Santiago Fiuri](https://open.spotify.com/artist/3zMKXYrsYXL9CIlmQ0PGNt), [Tomas Ferrero](https://open.spotify.com/artist/16OtEqLFEuzr64OXhJr6zN) | [Catadores](https://open.spotify.com/album/3lj1v4qYDyoa6iqpHBDCZp) | 3:09 |
+| 16 | [Extasis](https://open.spotify.com/track/5Y1CyGc7UYSjb6ZBVFCKZu) | [Santiago Fiuri](https://open.spotify.com/artist/3zMKXYrsYXL9CIlmQ0PGNt) | [Santiago Fiuri](https://open.spotify.com/album/3lj1v4qYDyoa6iqpHBDCZp) | 3:09 |
 | 17 | [Nadie me Gustó](https://open.spotify.com/track/68wJXTiDHhlJYN0xDDQHhr) | [Felix Alvarez](https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA) | [Nadie me Gustó](https://open.spotify.com/album/6zgt1qzmOBs8IEqf5Z0O8P) | 4:06 |
 | 18 | [Santiago](https://open.spotify.com/track/2E8RhskkwVLRumcS4Uwezn) | [Blackthony Startano](https://open.spotify.com/artist/1gRAkMQrojXV56TlZY67f7) | [Santiago](https://open.spotify.com/album/3FMdnrV8BBdZxxFKANZiYA) | 4:48 |
 | 19 | [Desapego](https://open.spotify.com/track/51dsXrXqcDQmI91HjDlJ2p) | [Los Lagartos](https://open.spotify.com/artist/68k9j2J7wMZZ7hIxA7Ly9O) | [Desapego](https://open.spotify.com/album/0dpWaxvsLTeN0WzOU7eK4H) | 3:36 |

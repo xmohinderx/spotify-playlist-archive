@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Jack Harlow\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,003 likes - 72 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,062 likes - 72 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 3 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/0UO48o2FQlksTxH1o8m4kS) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Two\-Face Bang 2](https://open.spotify.com/album/5AqfTcATeonwu2i5yLV6Zy) | 3:15 |
 | 4 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
 | 5 | [Serial Killers](https://open.spotify.com/track/5KcZNsrl7PMIxJ2xBbTwH3) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Serial Killers](https://open.spotify.com/album/1Odwcvb4QNe1pCYZnG8K25) | 3:08 |
-| 6 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
+| 6 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
 | 7 | [Street Signs](https://open.spotify.com/track/1tu6h8NPmeS4q2RRpEGjT8) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Street Signs](https://open.spotify.com/album/7e9S1FRNCWxw2UeIQtmFAP) | 1:53 |
 | 8 | [SLIDE](https://open.spotify.com/track/2gef02SzAOGE9QKgxwMW9i) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:57 |
 | 9 | [Wish](https://open.spotify.com/track/7mBQts3iDld4QnHALxd7ZC) | [Mak Sauce](https://open.spotify.com/artist/78GdFYPETzCgutsc5O5COH), [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Wish](https://open.spotify.com/album/5cBjaEn0VHSKrdv7y9v1WM) | 1:12 |

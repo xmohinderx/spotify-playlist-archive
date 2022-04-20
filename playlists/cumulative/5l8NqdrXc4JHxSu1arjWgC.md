@@ -4,7 +4,7 @@
 
 > 
 
-638 songs - 1 day 18 hr 52 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+640 songs - 1 day 18 hr 59 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 | 2019-05-20 |  |
 | [Hurdy Gurdy Man](https://open.spotify.com/track/7AL6qzIDHIX7pEUWrzNiIs) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [The Hurdy Gurdy Man](https://open.spotify.com/album/22fHNsb3nrjDdPoKF7kdPz) | 3:13 | 2021-02-28 |  |
 | [I Bleed](https://open.spotify.com/track/4azCKNOIuNsCB98BSRBR2B) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:34 | 2020-06-20 |  |
+| [I Choose Me](https://open.spotify.com/track/064I7lnHPQP68nbVZpS9K7) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 4:30 | 2022-04-20 |  |
 | [I Don't Know](https://open.spotify.com/track/6mbGky48xfrJuhfsWMJn5B) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 4:36 | 2020-03-06 |  |
 | [I Don't Mind](https://open.spotify.com/track/6gApxKLPWosPjjm2tSpQXF) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Ever Fallen In Love? Buzzcocks Finest](https://open.spotify.com/album/2fEo8f9CUTtyf65VJgMWpb) | 2:20 | 2019-09-30 |  |
 | [I Don't Wanna Grow Up](https://open.spotify.com/track/2fkJwO4xeYkGy0x3VXK70k) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bone Machine](https://open.spotify.com/album/5blxyZRgkA735vO40p56MA) | 2:31 | 2019-10-23 |  |
@@ -297,6 +298,7 @@
 | [Listening Wind \- 2005 Remaster](https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:42 | 2020-10-09 |  |
 | [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 | 2019-09-27 |  |
 | [Little Wonder](https://open.spotify.com/track/3AvPN4L1ORIKZqjyPomkTS) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Earthling](https://open.spotify.com/album/1LCF3So9B9X0xreRtYbYIr) | 6:02 | 2018-12-17 |  |
+| [Live Without You](https://open.spotify.com/track/0c7mDfQ7tEV6IK5vGORefK) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 2:50 | 2022-04-20 |  |
 | [Lone Star Song](https://open.spotify.com/track/6Shkp6ZGv3vWryfjAbfSD6) | [Grant Lee Buffalo](https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw) | [Mighty Joe Moon](https://open.spotify.com/album/61GezzqGI0Eqkp0Y33KX3m) | 4:34 | 2020-08-06 |  |
 | [Lonely Press Play](https://open.spotify.com/track/5lEIBqvpZEGhjMg8rdVKeg) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Everyday Robots](https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) | 3:42 | 2020-05-22 |  |
 | [Long Slow Goodbye](https://open.spotify.com/track/6USIjndxQ77bFLqwZB2iam) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 6:53 | 2020-11-06 |  |
