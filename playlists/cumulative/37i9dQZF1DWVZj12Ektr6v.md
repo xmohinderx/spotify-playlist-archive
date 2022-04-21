@@ -4,7 +4,7 @@
 
 > To the world, this is NCT! This is NCT DREAM! 'Glitch Mode' is here!
 
-55 songs - 3 hr 8 min - not published yet
+55 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/02TGDCuKun9YLzos676Haj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

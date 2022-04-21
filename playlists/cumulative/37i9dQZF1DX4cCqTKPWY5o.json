@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-19",
   "description": "Move it and groove it to these great tunes!",
   "name": "Family Dance Party",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1EldyCKOLc00TgFQ0PLHP4"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,7 +41,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 159481,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/46jJ6aqpwugeYhg0rciBUx"
@@ -57,7 +59,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 176266,
       "name": "Better When I'm Dancin'",
       "url": "https://open.spotify.com/track/3Jui3TOVXgDCYeVa3sS28C"
@@ -97,10 +99,46 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 223273,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/4CNicxGbQWMwCZD3cZIOND"
+    },
+    {
+      "album": {
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/5pj3zCJ1R5HnOsEwePVqN1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/3p1amIF17ryE70SnlK33eH"
+    },
+    {
+      "album": {
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
     },
     {
       "album": {
@@ -115,7 +153,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 180560,
       "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
       "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
@@ -227,7 +265,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 174800,
       "name": "Don't Slack (from Trolls World Tour)",
       "url": "https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw"
@@ -267,7 +305,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 162720,
       "name": "Faith - From \"Sing\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP"
@@ -285,7 +323,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
@@ -339,7 +377,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 219493,
       "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
       "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
@@ -357,7 +395,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 137506,
       "name": "Get Up and Dance",
       "url": "https://open.spotify.com/track/0OSFuTBZjruzU0AYNqhwM3"
@@ -451,7 +489,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA"
@@ -476,6 +514,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Dance (Just Like Everyone)",
+        "url": "https://open.spotify.com/album/2UQDlPctG0uQmVC928flEj"
+      },
+      "artists": [
+        {
+          "name": "Jumpin' jamie",
+          "url": "https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190221,
+      "name": "I Don't Wanna Dance (Just Like Everyone)",
+      "url": "https://open.spotify.com/track/56gGXJjgJPJVtp1B1vWcoU"
+    },
+    {
+      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ"
       },
@@ -487,7 +543,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu"
@@ -541,10 +597,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 193669,
       "name": "It\u2019s Alright - From The Netflix Film My Little Pony: A New Generation",
       "url": "https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV"
+    },
+    {
+      "album": {
+        "name": "Jumping Jack",
+        "url": "https://open.spotify.com/album/4V6rcHJLaaSl6pVpo9cUyf"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143859,
+      "name": "Jumping Jack",
+      "url": "https://open.spotify.com/track/5Ua7nKxK8fbVl8qFmvbHPP"
     },
     {
       "album": {
@@ -579,7 +653,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 221480,
       "name": "Just Sing",
       "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
@@ -597,10 +671,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 202942,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/2KA8r3yxck7wKKF9URwYAW"
+    },
+    {
+      "album": {
+        "name": "Limbo Rock Kids Party",
+        "url": "https://open.spotify.com/album/0OE7ESqvOBNX1MHHkb0JeX"
+      },
+      "artists": [
+        {
+          "name": "Limbo Rock Kids Party",
+          "url": "https://open.spotify.com/artist/5Mtwfzsnnoui0egwH3OsKD"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298466,
+      "name": "Limbo Rock - Party Mix",
+      "url": "https://open.spotify.com/track/42vbEUpcyzVP4vDDdBmQZo"
     },
     {
       "album": {
@@ -615,7 +707,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 249506,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
@@ -633,7 +725,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 136569,
       "name": "Montero (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/6Dpvk8uvQyrpyCiqG46E2d"
@@ -651,10 +743,56 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 181906,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Walt Dohrn",
+          "url": "https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
+      "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
     },
     {
       "album": {
@@ -676,6 +814,24 @@
     },
     {
       "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo"
+    },
+    {
+      "album": {
         "name": "The J Team (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/784cFhESN44WTceqtXcPLN"
       },
@@ -687,7 +843,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 217553,
       "name": "Nobody Can Change Me!",
       "url": "https://open.spotify.com/track/1o7715nSyvmepjU6Q2LU1s"
@@ -705,10 +861,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 213115,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/6tznrNL9mL4Rxblx0RFFfr"
+    },
+    {
+      "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa"
     },
     {
       "album": {
@@ -749,7 +923,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 163846,
       "name": "Shake (with Ne-Yo & Carmen DeLeon)",
       "url": "https://open.spotify.com/track/3fI2VcjM78ZzEDe96SVKfR"
@@ -792,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Supalonely",
+        "url": "https://open.spotify.com/album/0Y1syKjdu4ysX2nGTG7gPw"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221627,
+      "name": "Supalonely",
+      "url": "https://open.spotify.com/track/69OnePtJae8GBBJ884fU86"
+    },
+    {
+      "album": {
         "name": "Take on Me (Kygo Remix)",
         "url": "https://open.spotify.com/album/3R2Movau61LViutgG8JYtV"
       },
@@ -807,10 +999,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 226666,
       "name": "Take on Me - Kygo Remix",
       "url": "https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/23poQuS4E699Zg2FitvU7w"
+      },
+      "artists": [
+        {
+          "name": "Jazzy Ash",
+          "url": "https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171749,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/2H8ohLFj7Q84FmeStZfQoZ"
     },
     {
       "album": {
@@ -843,7 +1053,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 213708,
       "name": "The Fox (What Does the Fox Say?)",
       "url": "https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8"
@@ -861,7 +1071,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 165800,
       "name": "The Loco-Motion - Remastered 2002",
       "url": "https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4"
@@ -941,7 +1151,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
@@ -959,7 +1169,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 177356,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/7xEmet7Q7e1tWhhFz7FtBp"
@@ -995,7 +1205,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 286666,
       "name": "Y.M.C.A.",
       "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"

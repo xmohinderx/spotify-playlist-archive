@@ -4,7 +4,7 @@
 
 > A calm and soothing soundtrack to your reading.
 
-242 songs - 10 hr 43 min - not published yet
+242 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/1CMYDtTchww5I0POME7JqP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

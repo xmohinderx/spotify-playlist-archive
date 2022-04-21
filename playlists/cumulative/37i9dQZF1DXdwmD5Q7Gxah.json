@@ -976,6 +976,24 @@
     },
     {
       "album": {
+        "name": "all i ever wanted (was you)",
+        "url": "https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150452,
+      "name": "all i ever wanted (was you)",
+      "url": "https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV"
+    },
+    {
+      "album": {
         "name": "My Head is a Moshpit",
         "url": "https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6"
       },
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 181800,
       "name": "Beat of Love",
       "url": "https://open.spotify.com/track/4fYeD5iSFUr9HYoksZz5zi"
@@ -5337,7 +5355,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 238439,
       "name": "Complicated - Spotify Singles",
       "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
@@ -5749,7 +5767,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 162013,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3Vxc7fLBmG8vNk6G6Va9Nz"
@@ -8693,7 +8711,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 200000,
       "name": "Field Day",
       "url": "https://open.spotify.com/track/1fWJzUz6vBcNeSw9eiEAXj"
@@ -15199,7 +15217,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 175866,
       "name": "Liz",
       "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
@@ -15911,7 +15929,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 186866,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1fTvkU6kdBi5PIvljWboKt"
@@ -17323,7 +17341,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 157875,
       "name": "Mr Valentine",
       "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
@@ -18957,7 +18975,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 218586,
       "name": "OPEN A WINDOW (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG"
@@ -19581,7 +19599,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
@@ -23499,7 +23517,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 215566,
       "name": "Spell Strike",
       "url": "https://open.spotify.com/track/3qb6cYiJnw9uTLwWrBpT7D"
@@ -24961,7 +24979,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 291640,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1"
@@ -26045,6 +26063,24 @@
       "duration_ms": 199559,
       "name": "Things",
       "url": "https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT"
+    },
+    {
+      "album": {
+        "name": "things will change",
+        "url": "https://open.spotify.com/album/7JQz0llqzQMwa9m3KCmoim"
+      },
+      "artists": [
+        {
+          "name": "sophie meiers",
+          "url": "https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164752,
+      "name": "things will change",
+      "url": "https://open.spotify.com/track/76JkFmxzb61XCondrJZRzL"
     },
     {
       "album": {
@@ -28247,7 +28283,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 173070,
       "name": "With The Band",
       "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
@@ -29045,7 +29081,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 118363,
       "name": "\u200erubber \u200echecks",
       "url": "https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ"

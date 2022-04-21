@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190760,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
+    },
+    {
+      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
@@ -191,7 +209,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 214706,
       "name": "Cape Cod Kwassa Kwassa",
       "url": "https://open.spotify.com/track/7q4MJZSiqPC16dbhQWxugv"
@@ -306,6 +324,24 @@
     },
     {
       "album": {
+        "name": "A Little Deeper",
+        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
+      },
+      "artists": [
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Dy-Na-Mi-Tee",
+      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
+    },
+    {
+      "album": {
         "name": "Tutti Frutti",
         "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
@@ -371,7 +407,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 295666,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
@@ -393,6 +429,24 @@
       "duration_ms": 212906,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy"
+    },
+    {
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "album": {
@@ -443,7 +497,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
@@ -663,10 +717,28 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 214533,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I"
+    },
+    {
+      "album": {
+        "name": "Hello Happiness",
+        "url": "https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239621,
+      "name": "Like Sugar",
+      "url": "https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj"
     },
     {
       "album": {
@@ -699,7 +771,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 168946,
       "name": "Long Shot Kick De Bucket",
       "url": "https://open.spotify.com/track/1fsp1ZvQ6F5nf8Ut5TBtAX"
@@ -973,7 +1045,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 244306,
       "name": "Police & Thieves",
       "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
@@ -1016,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "The Upsetters",
+          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150013,
+      "name": "Return Of Django",
+      "url": "https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs"
+    },
+    {
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
       },
@@ -1052,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Big Beats",
+        "url": "https://open.spotify.com/album/2ktiUPu3gBNYLBnLDonAMt"
+      },
+      "artists": [
+        {
+          "name": "Lionrock",
+          "url": "https://open.spotify.com/artist/7bbNDyqoHKXXk7GYxigXa1"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "Rude Boy Rock - Edit",
+      "url": "https://open.spotify.com/track/3ptiBHmRCJwhfX3ywJKplA"
+    },
+    {
+      "album": {
         "name": "Ska & Reggae Classics",
         "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
@@ -1067,6 +1175,24 @@
       "duration_ms": 154360,
       "name": "Rudy, a Message to You",
       "url": "https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D"
+    },
+    {
+      "album": {
+        "name": "Cool Summer Reggae",
+        "url": "https://open.spotify.com/album/6pQIllBkF56hkziZMSUKji"
+      },
+      "artists": [
+        {
+          "name": "Aswad",
+          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV"
     },
     {
       "album": {
@@ -1117,7 +1243,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 232666,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/5uxBt9ZluGjgdVGj8oXkiX"
@@ -1381,6 +1507,24 @@
       "duration_ms": 159400,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
+    },
+    {
+      "album": {
+        "name": "St. Louis to Liverpool",
+        "url": "https://open.spotify.com/album/4MvciiTDtx2agb74BbdhVw"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/3WBkjGPK5489TmmR0GoU8W"
     },
     {
       "album": {

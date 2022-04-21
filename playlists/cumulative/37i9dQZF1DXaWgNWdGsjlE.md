@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: Meg Myers
 
-95 songs - 5 hr 22 min - not published yet
+95 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

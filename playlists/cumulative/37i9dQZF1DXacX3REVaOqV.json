@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "The best in house music",
   "name": "House Supreme",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1jmDVl99lY2U7kbnO53Sgs"
+  ],
   "tracks": [
     {
       "album": {
@@ -145,7 +147,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 211935,
       "name": "All I See - Radio Edit",
       "url": "https://open.spotify.com/track/5L464b2ggnhpHMB5GbPK7R"
@@ -167,7 +169,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 158434,
       "name": "Amen",
       "url": "https://open.spotify.com/track/0Sn2weTj8FtwkCoTD29LNf"
@@ -189,6 +191,28 @@
       "duration_ms": 373720,
       "name": "Aquarius Swing",
       "url": "https://open.spotify.com/track/5DL059fT2EWGJsurcEGlQE"
+    },
+    {
+      "album": {
+        "name": "Arms (Sidney Samson Remix)",
+        "url": "https://open.spotify.com/album/62RI8A6OScR1CRv2FPxdbK"
+      },
+      "artists": [
+        {
+          "name": "Jack Newsome",
+          "url": "https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj"
+        },
+        {
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Arms - Sidney Samson Remix",
+      "url": "https://open.spotify.com/track/3kgVF7C4wllZ5WzcRiPK0t"
     },
     {
       "album": {
@@ -221,7 +245,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 476200,
       "name": "Back to the Raw - Vocal Rough Mix",
       "url": "https://open.spotify.com/track/6CmLQCBSjUdQRt2uqB0jx6"
@@ -305,7 +329,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 207105,
       "name": "Be Funky",
       "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
@@ -596,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7FwQ2Z46rlZmfvvDEZrk5b"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264320,
+      "name": "Desire - Radio Edit",
+      "url": "https://open.spotify.com/track/631bx8hIT8bVS2vfUzn5GN"
+    },
+    {
+      "album": {
         "name": "Vaggio EP",
         "url": "https://open.spotify.com/album/0iFOrCy8VhUO9B2pX1IrOg"
       },
@@ -607,7 +649,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 374629,
       "name": "Don't You Want Some More",
       "url": "https://open.spotify.com/track/5DDmcUb3wnPXhZwom0wjZq"
@@ -717,7 +759,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 191698,
       "name": "Estafette",
       "url": "https://open.spotify.com/track/0UXSed2eRwzvuxfBRkKhKS"
@@ -859,7 +901,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 315826,
       "name": "Finally",
       "url": "https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9"
@@ -911,6 +953,42 @@
       "duration_ms": 188920,
       "name": "Freedom (You Bring Me)",
       "url": "https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N"
+    },
+    {
+      "album": {
+        "name": "Gently",
+        "url": "https://open.spotify.com/album/0B2JXdbYYbnwQcSCLfceX7"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376721,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/5AvukMTsiC7b12MJW2wXwE"
+    },
+    {
+      "album": {
+        "name": "Get On Out",
+        "url": "https://open.spotify.com/album/7AHZAKEbSfL7HlM8RZwGGU"
+      },
+      "artists": [
+        {
+          "name": "4NEY",
+          "url": "https://open.spotify.com/artist/6DVJ9PbSQ673wgYUvqPRXh"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178911,
+      "name": "Get On Out",
+      "url": "https://open.spotify.com/track/5VCogJESrsrOsX2yejotIb"
     },
     {
       "album": {
@@ -1047,7 +1125,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 361451,
       "name": "Hold on My Heart - Zetbee Extended Remix",
       "url": "https://open.spotify.com/track/6xmiqFdYeWrRVwy4yqcqFm"
@@ -1192,6 +1270,36 @@
     },
     {
       "album": {
+        "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Claptone Remix] [Edit]",
+        "url": "https://open.spotify.com/album/1E1jvUucYk9MeZLpuuMSrL"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        },
+        {
+          "name": "Jazzie B.",
+          "url": "https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192239,
+      "name": "Innadadance (feat. Suli Breaks & Jazzie B) - (Claptone Remix) [Edit]",
+      "url": "https://open.spotify.com/track/5sbwAHGWXe6HHRKFSmHvbT"
+    },
+    {
+      "album": {
         "name": "Insight",
         "url": "https://open.spotify.com/album/54plo17ubysAyjHQbOPPHF"
       },
@@ -1247,7 +1355,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 428254,
       "name": "It's Yours (feat. E-Man) - Distant Music Mix",
       "url": "https://open.spotify.com/track/4XNh03XZOu9CY0VjGGsrrU"
@@ -1295,7 +1403,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 187500,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
@@ -1415,7 +1523,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 325414,
       "name": "Leko - Session Victim Remix",
       "url": "https://open.spotify.com/track/18nGprzEucUO4FF768lLhe"
@@ -1459,6 +1567,50 @@
       "duration_ms": 185844,
       "name": "Let Me Stay",
       "url": "https://open.spotify.com/track/6BJUUSeRzTgzcD0dkfdlJK"
+    },
+    {
+      "album": {
+        "name": "Dam Swindle x Salsoul Reworks Vol. 1",
+        "url": "https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        },
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454873,
+      "name": "Let No Man Put Asunder - Dam Swindle Remix",
+      "url": "https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP"
+    },
+    {
+      "album": {
+        "name": "Let the Sun Shine (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh"
+      },
+      "artists": [
+        {
+          "name": "Milk & Sugar",
+          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "Let the Sun Shine - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED"
     },
     {
       "album": {
@@ -1609,6 +1761,24 @@
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
+    },
+    {
+      "album": {
+        "name": "Lovelee Dae",
+        "url": "https://open.spotify.com/album/2ZxEsmg67xjh02SjNbQuaQ"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456533,
+      "name": "Lovelee Dae - Original",
+      "url": "https://open.spotify.com/track/3CUZhJEreKw7B80VTL9K6e"
     },
     {
       "album": {
@@ -1816,6 +1986,42 @@
     },
     {
       "album": {
+        "name": "90's House & Garage compiled by Joey Negro",
+        "url": "https://open.spotify.com/album/0ummH0sIlaN6nrAmwb4H52"
+      },
+      "artists": [
+        {
+          "name": "Mateo & Matos",
+          "url": "https://open.spotify.com/artist/0YuYHYouQ7YvHKFEZ2mQWf"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595667,
+      "name": "New York Style",
+      "url": "https://open.spotify.com/track/5u8ap37n0VTRbh76ap11HA"
+    },
+    {
+      "album": {
+        "name": "Nice To Arise",
+        "url": "https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241875,
+      "name": "Nice To Arise - Edit",
+      "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
+    },
+    {
+      "album": {
         "name": "Nightjar (feat. SHELLS)",
         "url": "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
       },
@@ -1853,7 +2059,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 237941,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0QrMI79qOhxVmjICelzbyZ"
@@ -2024,6 +2230,24 @@
     },
     {
       "album": {
+        "name": "Organ",
+        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Organ (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
+    },
+    {
+      "album": {
         "name": "Paris City Jazz",
         "url": "https://open.spotify.com/album/0P2zw4WcGuYoL13KVABZuH"
       },
@@ -2035,7 +2259,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 343911,
       "name": "Paris City Jazz",
       "url": "https://open.spotify.com/track/0dbqPssLj7KzNTH81tcsrZ"
@@ -2127,7 +2351,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 194978,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/2yfBO8K26U04vEP8vHrqgE"
@@ -2226,6 +2450,28 @@
     },
     {
       "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/5wnHew8RsixkmPnW7aaicg"
+      },
+      "artists": [
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159571,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/2xNLma1p2hPU1lqLYWEgiG"
+    },
+    {
+      "album": {
         "name": "Right On",
         "url": "https://open.spotify.com/album/1WxhKRgNpICvt7Asa3cxtN"
       },
@@ -2318,6 +2564,24 @@
     },
     {
       "album": {
+        "name": "She Likes To Dance",
+        "url": "https://open.spotify.com/album/3Wf7BuQrd5hzLn6cuczXIN"
+      },
+      "artists": [
+        {
+          "name": "Jizz",
+          "url": "https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336385,
+      "name": "She Likes To Dance",
+      "url": "https://open.spotify.com/track/1Cq3QIdsUlTbRkmrMVqbHv"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/6FLrwXbfRWy300VRhrqygC"
       },
@@ -2333,7 +2597,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 180937,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1u3AbZvelg9GqMrp5jbikq"
@@ -2366,6 +2630,24 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191953,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB"
+    },
+    {
+      "album": {
         "name": "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
         "url": "https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b"
       },
@@ -2393,6 +2675,50 @@
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
+    },
+    {
+      "album": {
+        "name": "So Fine",
+        "url": "https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5"
+      },
+      "artists": [
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr"
+    },
+    {
+      "album": {
+        "name": "Brownswood 10",
+        "url": "https://open.spotify.com/album/3HbyvIxVRcuVMUdjrsNNPT"
+      },
+      "artists": [
+        {
+          "name": "Ben Westbeech",
+          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+        },
+        {
+          "name": "Yoruba Soul",
+          "url": "https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354720,
+      "name": "So Good Today - Yoruba Soul Remix",
+      "url": "https://open.spotify.com/track/7mUYdPpOKMG9xYaks22yiP"
     },
     {
       "album": {
@@ -2499,7 +2825,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 398598,
       "name": "Starry Night - Original Mix",
       "url": "https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A"
@@ -2561,10 +2887,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 229347,
       "name": "Sunny Days (with Dawn Tallman)",
       "url": "https://open.spotify.com/track/12KVUsP4XTG3iDgzD4SjGu"
+    },
+    {
+      "album": {
+        "name": "Sunset Jam",
+        "url": "https://open.spotify.com/album/70laYWlNtjTmkZjdZ4A3uM"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281824,
+      "name": "Sunset Jam",
+      "url": "https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM"
     },
     {
       "album": {
@@ -2759,7 +3103,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 522466,
       "name": "The Way You Love Me (feat. Marc Evans)",
       "url": "https://open.spotify.com/track/1QNjek9Ed5dLJyzEkGgYTE"
@@ -2987,6 +3331,24 @@
       "duration_ms": 160020,
       "name": "Whisper (with James Yuill)",
       "url": "https://open.spotify.com/track/0RwDjtiwRatY6Ai8z5AIna"
+    },
+    {
+      "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/3fAVBC0O0os0YeRGSt4MVZ"
+      },
+      "artists": [
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/5nIL1etglKhsfxRPcVhbjq"
     },
     {
       "album": {

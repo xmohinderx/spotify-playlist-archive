@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,461 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,477 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 20 | [run.](https://open.spotify.com/track/7h0LrbAW3YQf7IIa3Bwzuc) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [run.](https://open.spotify.com/album/6czoxk1n3RVjncUIIP8S9B) | 3:56 |
 | 21 | [勝手な彼女](https://open.spotify.com/track/4AzOzqmDC5sKMmuJXnfc99) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 3:43 |
 | 22 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 |
-| 23 | [はじまる](https://open.spotify.com/track/1CERFGNBkEUq68yxHyvGYs) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [はじまる](https://open.spotify.com/album/68xb9Fj47KT2j6YCerL0QL) | 3:47 |
-| 24 | [Higher](https://open.spotify.com/track/5eid5YldfTvqxsALbiCaAA) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Higher](https://open.spotify.com/album/1QHVggXNuiZmLe15v1BdcY) | 4:29 |
-| 25 | [DINDON](https://open.spotify.com/track/4rYap0Hsov9eM8LxhZDSBQ) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [DINDON](https://open.spotify.com/album/3zZPGpFtwIgcy1ARRD0hVF) | 3:23 |
-| 26 | [ファフロツキーズ](https://open.spotify.com/track/7bHaFtt6yzVixxgfomIdt6) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [ファフロツキーズ](https://open.spotify.com/album/7fqc1N4mtjkcb0N6YwRtLN) | 3:11 |
-| 27 | [Bonnie & Clyde](https://open.spotify.com/track/6SJ6ILaHlY46nhHNigSCtP) | [Young Dalu](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bonnie & Clyde](https://open.spotify.com/album/6MSlBb3UVoJlgp5Dtkvpch) | 2:59 |
-| 28 | [ハローマイフレンド](https://open.spotify.com/track/5MFf7NXYOmlDbY1sd2QBlv) | [Borsch](https://open.spotify.com/artist/6KKXBoP2i6wgxXX8mUbQcc) | [ハローマイフレンド](https://open.spotify.com/album/3FACW0IZZSupatS23DOCsZ) | 2:43 |
-| 29 | [na\-na\-na \(Happy song\)](https://open.spotify.com/track/7pniu0XCr6cfRgRBcLbsHm) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [Soulbabies](https://open.spotify.com/album/3nFaM3ciiIo4VXJ06X2rn9) | 5:27 |
-| 30 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 |
-| 31 | [bloom](https://open.spotify.com/track/4OjPtEtDQ5xqE7m8WuUley) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [bloom](https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug) | 3:52 |
+| 23 | [DESIRE](https://open.spotify.com/track/2ravTxFpwFgqXzDmQru4H3) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [TIME TO SHINE](https://open.spotify.com/album/7wOxANTRpk4rz0M6KSt3wK) | 3:08 |
+| 24 | [はじまる](https://open.spotify.com/track/1CERFGNBkEUq68yxHyvGYs) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [はじまる](https://open.spotify.com/album/68xb9Fj47KT2j6YCerL0QL) | 3:47 |
+| 25 | [Higher](https://open.spotify.com/track/5eid5YldfTvqxsALbiCaAA) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Higher](https://open.spotify.com/album/1QHVggXNuiZmLe15v1BdcY) | 4:29 |
+| 26 | [DINDON](https://open.spotify.com/track/4rYap0Hsov9eM8LxhZDSBQ) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [DINDON](https://open.spotify.com/album/3zZPGpFtwIgcy1ARRD0hVF) | 3:23 |
+| 27 | [ファフロツキーズ](https://open.spotify.com/track/7bHaFtt6yzVixxgfomIdt6) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [ファフロツキーズ](https://open.spotify.com/album/7fqc1N4mtjkcb0N6YwRtLN) | 3:11 |
+| 28 | [Bonnie & Clyde](https://open.spotify.com/track/6SJ6ILaHlY46nhHNigSCtP) | [Young Dalu](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bonnie & Clyde](https://open.spotify.com/album/6MSlBb3UVoJlgp5Dtkvpch) | 2:59 |
+| 29 | [ハローマイフレンド](https://open.spotify.com/track/5MFf7NXYOmlDbY1sd2QBlv) | [Borsch](https://open.spotify.com/artist/6KKXBoP2i6wgxXX8mUbQcc) | [ハローマイフレンド](https://open.spotify.com/album/3FACW0IZZSupatS23DOCsZ) | 2:43 |
+| 30 | [na\-na\-na \(Happy song\)](https://open.spotify.com/track/7pniu0XCr6cfRgRBcLbsHm) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [Soulbabies](https://open.spotify.com/album/3nFaM3ciiIo4VXJ06X2rn9) | 5:27 |
+| 31 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 |
 | 32 | [Dadaism](https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2) | [ARAWA](https://open.spotify.com/artist/3jIaFeZJTaWRt0pSOnK5Gm) | [Dadaism](https://open.spotify.com/album/7szLNdzqs579yj4qZE0iaS) | 3:42 |
 | 33 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 |
 | 34 | [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 49 | [面影](https://open.spotify.com/track/1xxQh8BSsVOcnSSMkLtJ0U) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [面影](https://open.spotify.com/album/4IZaX0XSU8FuSEs0ugX0tQ) | 3:47 |
 | 50 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 |
 
-Snapshot ID: `MTY1MDM4MDQwMCwwMDAwMDQ5YTAwMDAwMTgwNDI1NjY2MjUwMDAwMDE4MDNiOTZkMWMz`
+Snapshot ID: `MTY1MDQzOTU3NSwwMDAwMDQ5YjAwMDAwMTgwNDVkZDU2NWYwMDAwMDE4MDNiOTZkMWMz`

@@ -4,7 +4,7 @@
 
 > Listen to stories from your friends on Sesame Street.
 
-40 songs - 3 hr 27 min - not published yet
+40 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/5JNwir6LpMtMXPc309sYUn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

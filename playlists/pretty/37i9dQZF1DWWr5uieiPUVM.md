@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: MD Chefe
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,058 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,321 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 21 | [Click Click](https://open.spotify.com/track/6alYP3Evm5VVWuvaEQFyln) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Click Click](https://open.spotify.com/album/35Q9zlp8CzLF8HrqPt4Ban) | 3:30 |
 | 22 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
 | 23 | [F\* F\* M\*](https://open.spotify.com/track/2D13ouGidILQGRVnihYuCF) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [F\* F\* M\*](https://open.spotify.com/album/59fbjG96szYgcQ5rXlyujg) | 2:56 |
-| 24 | [Freio da Blazer](https://open.spotify.com/track/6m187iACTSAZDYMaV0klqj) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Freio da Blazer](https://open.spotify.com/album/7kbClkdK7jjoTIDAJmb1Pb) | 3:00 |
+| 24 | [Freio da Blazer](https://open.spotify.com/track/6m187iACTSAZDYMaV0klqj) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [AJAXX](https://open.spotify.com/artist/5fpixKj241AwsrBqPra0Us) | [Freio da Blazer](https://open.spotify.com/album/7kbClkdK7jjoTIDAJmb1Pb) | 3:00 |
 | 25 | [Bandido Não Dança BB](https://open.spotify.com/track/57WYicG97oHBu0uJgd6u38) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/3DF7jgjk6GJP0zrAmp2HGu) | 2:13 |
 | 26 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 |
 | 27 | [Outra Vez](https://open.spotify.com/track/3iGRHR2keH35e9WoxOWmZu) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Outra Vez](https://open.spotify.com/album/3feoSyeCZPVS0SROIuQr8j) | 4:11 |

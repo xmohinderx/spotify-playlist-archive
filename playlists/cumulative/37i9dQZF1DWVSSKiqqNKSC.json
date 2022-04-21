@@ -27,7 +27,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 285733,
       "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
       "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 253360,
       "name": "Arriba De Lo Mal Hecho",
       "url": "https://open.spotify.com/track/0HndPrOb4F9ZdM3HATjueL"
@@ -165,10 +165,32 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 329079,
       "name": "Candela",
       "url": "https://open.spotify.com/track/5FEbJEYluldTJNZOeAahlC"
+    },
+    {
+      "album": {
+        "name": "Caramelo Con Picante",
+        "url": "https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1"
+      },
+      "artists": [
+        {
+          "name": "Lazarito Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s"
+        },
+        {
+          "name": "Bamboleo",
+          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336095,
+      "name": "Caramelo Con Picante",
+      "url": "https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns"
     },
     {
       "album": {
@@ -190,6 +212,68 @@
     },
     {
       "album": {
+        "name": "Tremenda Rumba!",
+        "url": "https://open.spotify.com/album/7g0XzXIwcd8C1De5aNDf39"
+      },
+      "artists": [
+        {
+          "name": "Maraca",
+          "url": "https://open.spotify.com/artist/6oF5lC04WNCwxLzLxbbH0d"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Castigala",
+      "url": "https://open.spotify.com/track/5X2uPHvhiKoR4YNRMdh3N6"
+    },
+    {
+      "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/3rpJ20BsOxNSj8SWa9iQrc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/1G04jUqD6Vmz62WvomSTgK"
+        },
+        {
+          "name": "Los Yakuza",
+          "url": "https://open.spotify.com/artist/5TpLSxUPvubzVZZP2TMvO3"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215882,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/2ROuadDh7V4jTxsx57CwZN"
+    },
+    {
+      "album": {
+        "name": "Made in Habana",
+        "url": "https://open.spotify.com/album/74QZy4tcjEtvSkXnBxZo78"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        },
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264093,
+      "name": "Comentarios",
+      "url": "https://open.spotify.com/track/5DybOfZIp6isaVnUCSmqcB"
+    },
+    {
+      "album": {
         "name": "Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
@@ -201,7 +285,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 176733,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
@@ -259,7 +343,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 302706,
       "name": "Dale Lo Que Lleva",
       "url": "https://open.spotify.com/track/3hvEz1pPkgtJ513tebSHZt"
@@ -342,6 +426,32 @@
     },
     {
       "album": {
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
+      },
+      "artists": [
+        {
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+        },
+        {
+          "name": "Pancho Amat",
+          "url": "https://open.spotify.com/artist/4nNIru8Pttv2VV9lp8eo4r"
+        },
+        {
+          "name": "Yan Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/5xf8b3arxWNcgRQR3pEGQE"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360211,
+      "name": "En la Selva",
+      "url": "https://open.spotify.com/track/76jLXfMGQ7oiNnfnGs4hNR"
+    },
+    {
+      "album": {
         "name": "La Aplanadora de Cuba",
         "url": "https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG"
       },
@@ -371,10 +481,32 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 250853,
       "name": "Esto te pone la Cabeza Mala",
       "url": "https://open.spotify.com/track/3zpPox6fuNguDVxRjSoBaJ"
+    },
+    {
+      "album": {
+        "name": "Flor Palida",
+        "url": "https://open.spotify.com/album/3f1P1w3UT6tpuDSTfMmM9w"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Myco D'Alma",
+          "url": "https://open.spotify.com/artist/07OIzyR9ODQY6NiJXxH6we"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289191,
+      "name": "Flor Palida",
+      "url": "https://open.spotify.com/track/74F8NgemMdwPN358YcREGr"
     },
     {
       "album": {
@@ -397,6 +529,78 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+    },
+    {
+      "album": {
+        "name": "Dime Qu\u00e9?!",
+        "url": "https://open.spotify.com/album/4JXh7CwYOE9nRILsVmefYp"
+      },
+      "artists": [
+        {
+          "name": "Calle Real",
+          "url": "https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444404,
+      "name": "Hoah!",
+      "url": "https://open.spotify.com/track/7zfbgpVyknaQKICr0HWkpQ"
+    },
+    {
+      "album": {
+        "name": "Mi Manana",
+        "url": "https://open.spotify.com/album/44RPF43C1utCGmPBkLO7YO"
+      },
+      "artists": [
+        {
+          "name": "Manana Club y Papucho",
+          "url": "https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Ke Lo Ke",
+      "url": "https://open.spotify.com/track/3raQV7wSnfQJgDR8dQHhuB"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326720,
+      "name": "La Boda de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
+    },
+    {
+      "album": {
+        "name": "De Vuelta al Barrio",
+        "url": "https://open.spotify.com/album/55WRc6XgfYJEmrAnqlMuK4"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346026,
+      "name": "La Cosa Mala",
+      "url": "https://open.spotify.com/track/0NLreGlwATS3wQOtDDtO2H"
     },
     {
       "album": {
@@ -440,6 +644,24 @@
     },
     {
       "album": {
+        "name": "Respeta",
+        "url": "https://open.spotify.com/album/4xTtfBZZN4WKhg2ZImTEgN"
+      },
+      "artists": [
+        {
+          "name": "Manana Club y Papucho",
+          "url": "https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311013,
+      "name": "La Mulata",
+      "url": "https://open.spotify.com/track/6qxdJFgAJm3xJAd1msdNoW"
+    },
+    {
+      "album": {
         "name": "La Negra Tiene Tumbao",
         "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
@@ -451,7 +673,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
@@ -487,7 +709,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 256240,
       "name": "Lo Malo Se Va Bailando",
       "url": "https://open.spotify.com/track/06wy8VY2vCWNSEnEL7BY56"
@@ -505,7 +727,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 284053,
       "name": "Luna Negra",
       "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
@@ -523,7 +745,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 232333,
       "name": "Mala jujer",
       "url": "https://open.spotify.com/track/4ItkEkRhVjPdBDO7lT4hRH"
@@ -563,7 +785,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 298374,
       "name": "Me Dicen Cuba",
       "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
@@ -592,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/16QGmbXuGq7E8lSXkriGdS"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/46vkxSDE2mKEDjRjt48gUj"
+    },
+    {
+      "album": {
         "name": "Amor Bonito",
         "url": "https://open.spotify.com/album/03qKkg0zLrtuOkRJD6MfNI"
       },
@@ -603,7 +843,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 203226,
       "name": "Me Quedo Contigo",
       "url": "https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg"
@@ -639,7 +879,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 292653,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
@@ -657,7 +897,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 289586,
       "name": "No Me Acostumbro",
       "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
@@ -675,7 +915,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 224826,
       "name": "Pa Bravo Yo",
       "url": "https://open.spotify.com/track/13gvFt3Eji2xEuCb0PKkMZ"
@@ -715,10 +955,28 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 196933,
       "name": "Que Bueno Baila Usted",
       "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
+    },
+    {
+      "album": {
+        "name": "Que Pasa Loco?",
+        "url": "https://open.spotify.com/album/6tEW80OuY2USui8d8WXdYS"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378070,
+      "name": "Que Pasa Loco ?",
+      "url": "https://open.spotify.com/track/3oauXpkAKyzYWkAiZAkVUH"
     },
     {
       "album": {
@@ -755,7 +1013,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
@@ -795,7 +1053,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 226800,
       "name": "Represent",
       "url": "https://open.spotify.com/track/1ZYq2RVDEht5fuLUomK03I"
@@ -875,7 +1133,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 239159,
       "name": "Traidora (feat. Marc Anthony) - Salsa Version",
       "url": "https://open.spotify.com/track/3qbUO72lmJkJnX5Fq2rwRQ"
@@ -911,10 +1169,28 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 295543,
       "name": "Usted No Sabe",
       "url": "https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ"
+    },
+    {
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+      },
+      "artists": [
+        {
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330053,
+      "name": "Vanvaneo",
+      "url": "https://open.spotify.com/track/4r4zFb3ZnLUTLh5F3qtzlZ"
     },
     {
       "album": {
@@ -958,6 +1234,28 @@
     },
     {
       "album": {
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
+      },
+      "artists": [
+        {
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+        },
+        {
+          "name": "Mayito Rivera",
+          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306449,
+      "name": "Yo Comprendo",
+      "url": "https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr"
+    },
+    {
+      "album": {
         "name": "Salsa 2018 [18 Salsa Latin Hits (Salsa Rom\u00e1ntica, Urbana, para Bailar)]",
         "url": "https://open.spotify.com/album/3CxYDrbk75cxiTQAb5Itji"
       },
@@ -973,6 +1271,46 @@
       "duration_ms": 238160,
       "name": "Yo Siempre Llamo La Fiesta",
       "url": "https://open.spotify.com/track/0Kx8QEE82QMZ8l5kXZkTot"
+    },
+    {
+      "album": {
+        "name": "Yo traigo mi tumbao",
+        "url": "https://open.spotify.com/album/2u03xK1uViRBoKnac3eCGi"
+      },
+      "artists": [
+        {
+          "name": "Los Conquistadores de la Salsa",
+          "url": "https://open.spotify.com/artist/39oLaa6dK1UDE6SNg5iY6W"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227448,
+      "name": "Yo sigo siendo cubano",
+      "url": "https://open.spotify.com/track/5wV8OYACz23M2UT08lYduq"
+    },
+    {
+      "album": {
+        "name": "Yo Soy Bueno",
+        "url": "https://open.spotify.com/album/6W35l333Bu7qHFtZdRtjBV"
+      },
+      "artists": [
+        {
+          "name": "FredyClan",
+          "url": "https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE"
+        },
+        {
+          "name": "Manolito Simonet",
+          "url": "https://open.spotify.com/artist/6adLsqn55b2gmsz54GG0W9"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246216,
+      "name": "Yo Soy Bueno",
+      "url": "https://open.spotify.com/track/513iDsAlLAUrvGV7vaFfDn"
     },
     {
       "album": {
@@ -1009,7 +1347,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 206992,
       "name": "Yo Voy Pa Encima",
       "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
@@ -1027,10 +1365,28 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 313133,
       "name": "\u00bfD\u00f3nde va Chichi?",
       "url": "https://open.spotify.com/track/5DPfEdyjJpt1PpFOKSAcW3"
+    },
+    {
+      "album": {
+        "name": "Fiestas de Cuba (Remasterizado)",
+        "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alfonso y su Dan Den",
+          "url": "https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282920,
+      "name": "\u00c1mame con Tu Experiencia - Remasterizado",
+      "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVSSKiqqNKSC"

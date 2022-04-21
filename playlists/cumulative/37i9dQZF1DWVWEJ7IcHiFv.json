@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-19",
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
   "name": "80s Latino",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1X3yVGrCiHqjCnSxESTAcM"
+  ],
   "tracks": [
     {
       "album": {
@@ -129,6 +131,28 @@
       "duration_ms": 232080,
       "name": "Cada Vez Que Digo Adi\u00f3s",
       "url": "https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda"
+    },
+    {
+      "album": {
+        "name": "Lisa Lisa And Cult Jam With Full Force",
+        "url": "https://open.spotify.com/album/4b3TPA5xUbwsTiUX3Qqxw3"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410773,
+      "name": "Can You Feel the Beat",
+      "url": "https://open.spotify.com/track/5WwZeusFlxOKmTW25ImmgM"
     },
     {
       "album": {
@@ -453,7 +477,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 260440,
       "name": "Hijo de la Luna",
       "url": "https://open.spotify.com/track/3yxeZZnFJDmw72ID4whKXR"

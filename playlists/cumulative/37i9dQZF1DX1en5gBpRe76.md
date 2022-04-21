@@ -4,7 +4,7 @@
 
 > Family\-friendly Motown classics
 
-52 songs - 2 hr 43 min - not published yet
+52 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/0YLSm4An2Vm2jJU8FKC7AZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

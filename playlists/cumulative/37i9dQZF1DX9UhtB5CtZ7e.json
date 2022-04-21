@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "Let these cozy songs comfort you like a warm blanket.",
   "name": "Sunday Scaries",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3npCGQrlAXuSoCDKULIPAK"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 177413,
       "name": "Alive",
       "url": "https://open.spotify.com/track/12VqHHz4wvVcnEdSivjLeQ"
@@ -147,7 +149,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 233097,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf"
@@ -172,6 +174,46 @@
     },
     {
       "album": {
+        "name": "Moondance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "Crazy Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Gone",
+        "url": "https://open.spotify.com/album/0tgsACxUMuBElueq2YRe1K"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Damselfly",
+      "url": "https://open.spotify.com/track/2QMihQt7YoEPkPNcDsAJf5"
+    },
+    {
+      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
@@ -187,6 +229,24 @@
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "album": {
@@ -226,6 +286,24 @@
     },
     {
       "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130427,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
+    },
+    {
+      "album": {
         "name": "Enjoy The Ride",
         "url": "https://open.spotify.com/album/3MuF13oIKjEQULSJamsR4l"
       },
@@ -245,7 +323,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 219200,
       "name": "Enjoy The Ride",
       "url": "https://open.spotify.com/track/5an5pJ5YGU2AYipxHe2wIL"
@@ -285,6 +363,24 @@
       "duration_ms": 194303,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/2TRnVXGSK4aBtfEOaB460m"
+    },
+    {
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Green Lights",
+      "url": "https://open.spotify.com/track/1y16qMm3FofXQICk50Y7Gc"
     },
     {
       "album": {
@@ -335,7 +431,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 144929,
       "name": "Homesick Remedy",
       "url": "https://open.spotify.com/track/2Sn2XxPVmOgoZbdxckimxP"
@@ -522,6 +618,28 @@
     },
     {
       "album": {
+        "name": "HEAVN",
+        "url": "https://open.spotify.com/album/2ha1TUv0o6VnQddOci7GIb"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205595,
+      "name": "Lonely (feat. Lorine Chia)",
+      "url": "https://open.spotify.com/track/31c86U35gJEV813lIaQzZe"
+    },
+    {
+      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -537,7 +655,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
@@ -591,7 +709,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 219333,
       "name": "Missing Home",
       "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
@@ -634,6 +752,24 @@
     },
     {
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243131,
+      "name": "No. 1 Party Anthem",
+      "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
+    },
+    {
+      "album": {
         "name": "OKAY OKAY",
         "url": "https://open.spotify.com/album/6kQdXSgxiz2zB105BSX6SA"
       },
@@ -645,7 +781,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 158146,
       "name": "OKAY OKAY",
       "url": "https://open.spotify.com/track/1Wds4TjXgP26AW9H8LALtQ"
@@ -681,7 +817,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
@@ -895,6 +1031,24 @@
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/3IBhpCAFOJxynTfrw0t2LN"
+    },
+    {
+      "album": {
+        "name": "Two Punks In Love",
+        "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "Two Punks In Love",
+      "url": "https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK"
     },
     {
       "album": {

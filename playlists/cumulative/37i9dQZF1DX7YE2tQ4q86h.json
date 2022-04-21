@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-19",
   "description": "No sleep, bus, club, another club. Like this? You'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Rina Sawayama & Pabllo Vittar",
   "name": "OBSESSED",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3PlypPTy0dmRQm3XnaWpH4"
+  ],
   "tracks": [
     {
       "album": {
@@ -703,7 +705,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188560,
-      "name": "Hasta Los Dientes (feat. Maria Becerra)",
+      "name": "Hasta Los Dientes",
       "url": "https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ"
     },
     {

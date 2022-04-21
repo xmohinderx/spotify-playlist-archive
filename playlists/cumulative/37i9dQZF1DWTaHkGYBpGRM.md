@@ -4,7 +4,7 @@
 
 > Long distance is hard, but true love knows no boundaries.
 
-60 songs - 3 hr 51 min - not published yet
+60 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/4ITWUe9tguZr37ZcyB09uq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

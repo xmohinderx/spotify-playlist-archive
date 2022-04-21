@@ -4,7 +4,7 @@
 
 > Find your focus with instrumental jazz.
 
-142 songs - 8 hr 50 min - not published yet
+142 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/7gIhFLebpQ44ylgm47ptoC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

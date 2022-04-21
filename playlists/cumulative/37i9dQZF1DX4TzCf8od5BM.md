@@ -4,7 +4,7 @@
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Doc McStuffins in one playlist!
 
-144 songs - 3 hr 39 min - not published yet
+144 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

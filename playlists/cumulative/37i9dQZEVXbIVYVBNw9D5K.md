@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-416 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+417 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 |  |
 | [BİLDİRİMLER KAPALI](https://open.spotify.com/track/3Pyy3y16EesdzWOfVSQesl) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BİLDİRİMLER KAPALI](https://open.spotify.com/album/77j2RhU8nPDGqfOzYxYVzA) | 2:32 | 2022-01-29 | 2022-01-31 |
 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 | 2021-05-20 | 2021-05-21 |
-| [Bonita](https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Bonita](https://open.spotify.com/album/7LODVV9sx3SfkuISMoyQ13) | 2:18 | 2021-06-27 |  |
+| [Bonita](https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Bonita](https://open.spotify.com/album/7LODVV9sx3SfkuISMoyQ13) | 2:18 | 2021-06-27 | 2022-04-21 |
 | [BOZGUN](https://open.spotify.com/track/5OmwljVFUGG5xpbwH0BS7A) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 2:36 | 2021-06-13 | 2021-06-14 |
 | [Bu Aşkta Zararım Var](https://open.spotify.com/track/1MsCY6QzxtZLZ7tsgRCfhX) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşkta Zararım Var](https://open.spotify.com/album/4IcObM2kZAOPyrF1mUa3hw) | 3:17 | 2021-08-22 | 2021-08-27 |
 | [Bu da Geçer mi Sevgilim](https://open.spotify.com/track/4knoybQvMTZkuTI8dWx7ZA) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bu da Geçer mi Sevgilim](https://open.spotify.com/album/1xCT8zKbhD3aur3tPjwuUq) | 3:20 | 2022-01-15 | 2022-01-21 |
@@ -219,6 +219,7 @@
 | [Jalebi Baby](https://open.spotify.com/track/40R5dXDbS3mLG9ng7COXtt) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/6ZVhO5wnf5PfUfREZylP2u) | 3:09 | 2021-03-30 | 2021-04-10 |
 | [Kader](https://open.spotify.com/track/3F0f7Sn5dKdUHJUcyh38mY) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kader](https://open.spotify.com/album/1WqBaT9UT7Q1onJHbplcWt) | 3:09 | 2021-07-18 | 2021-07-30 |
 | [Kafeste](https://open.spotify.com/track/6R4VTadPfb4GaYAMFg9lSl) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Kafeste](https://open.spotify.com/album/7B3NWvte3Yq5SD8ArkT9En) | 2:59 | 2021-04-26 | 2021-05-09 |
+| [Kafile](https://open.spotify.com/track/4PTjzk0gb6st9Lk5kKBnc6) | [Yüksek Sadakat](https://open.spotify.com/artist/3SrFQDUN5DXQDZc3kygriW) | [Yüksek Sadakat](https://open.spotify.com/album/4nPhHTUeOSvZCNztvyfoGA) | 4:18 | 2022-04-20 |  |
 | [Kahrettim](https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kahrettim](https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b) | 3:06 | 2021-03-27\* | 2021-04-01 |
 | [KALA KAL](https://open.spotify.com/track/3NFMLi0FhAkxZNPs1UhYtB) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:39 | 2022-01-22 | 2022-02-25 |
 | [Kalbimi Kırdın](https://open.spotify.com/track/2jLVyqrpgUZEkGnto3tDgC) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD) | 3:32 | 2021-05-23 | 2021-05-30 |

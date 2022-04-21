@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla",
-  "num_followers": 48512,
+  "num_followers": 48510,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTIwNCxiYzdmNGIxY2M5NjhmYmNiYTNmNzFhMWNjZWZjZTUyNmZmZDYyZTkx",
+  "snapshot_id": "MTIwNiwwNGVmYTU3ZTA2ZmJmMDk1ZjRjMTgwZDkzZGU1MzQxZGVkODgyMzg0",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/5951f1prlAlzunehkLCyAo"
     },
     {
+      "added_at": "2022-04-20 15:44:04",
+      "album": {
+        "name": "You Are The One",
+        "url": "https://open.spotify.com/album/4uER0bKKl1LLOrvBl4JvFo"
+      },
+      "artists": [
+        {
+          "name": "SRVVR",
+          "url": "https://open.spotify.com/artist/5Hk8A2EnKfLdPoC2RDve2U"
+        }
+      ],
+      "duration_ms": 148738,
+      "name": "You Are The One",
+      "url": "https://open.spotify.com/track/6gV31POxuW6R1ccxghaScx"
+    },
+    {
       "added_at": "2022-02-18 15:49:02",
       "album": {
         "name": "Light Up",
@@ -409,24 +425,24 @@
       "url": "https://open.spotify.com/track/7IGIhEiepXQ1WlbOTSPeaQ"
     },
     {
-      "added_at": "2022-03-27 15:41:03",
+      "added_at": "2022-03-25 15:47:02",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2021-10-15 15:41:05",
@@ -577,20 +593,20 @@
       "url": "https://open.spotify.com/track/2lKgMEjNbAq3cX93QuSfft"
     },
     {
-      "added_at": "2021-10-15 15:41:05",
+      "added_at": "2021-07-14 08:40:04",
       "album": {
-        "name": "U Don't Know It",
-        "url": "https://open.spotify.com/album/5cytRmqDIxpmM076Ni5bre"
+        "name": "This Is House",
+        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
       },
       "artists": [
         {
-          "name": "Chris Viviano",
-          "url": "https://open.spotify.com/artist/2ikGf53xbNItQFKMrmjNDo"
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
         }
       ],
-      "duration_ms": 161789,
-      "name": "U Don't Know It",
-      "url": "https://open.spotify.com/track/0sHoFGEvX9ANI2ILSeMesi"
+      "duration_ms": 144796,
+      "name": "This Is House",
+      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
     },
     {
       "added_at": "2021-08-06 15:42:05",
@@ -649,20 +665,24 @@
       "url": "https://open.spotify.com/track/3x88VlgaZJLdgdjenPfxXv"
     },
     {
-      "added_at": "2021-07-14 08:40:04",
+      "added_at": "2022-03-27 15:41:03",
       "album": {
-        "name": "This Is House",
-        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
       "artists": [
         {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 144796,
-      "name": "This Is House",
-      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2021-12-10 16:02:04",
@@ -721,26 +741,6 @@
       "url": "https://open.spotify.com/track/26O4gphJQbnUkY8eRLEZiP"
     },
     {
-      "added_at": "2022-03-25 15:47:02",
-      "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
       "added_at": "2021-01-28 23:01:05",
       "album": {
         "name": "Fav Boyz (Steve Aoki's Gold Star Remix)",
@@ -763,30 +763,6 @@
       "duration_ms": 230000,
       "name": "Fav Boyz (feat. Thutmose) - Steve Aoki's Gold Star Remix",
       "url": "https://open.spotify.com/track/0jYtnvT7QIGeAyJ5wbOZsj"
-    },
-    {
-      "added_at": "2021-10-29 15:41:01",
-      "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/56E0i9wACpTE5IsgNPMzaR"
-      },
-      "artists": [
-        {
-          "name": "KEES POP",
-          "url": "https://open.spotify.com/artist/2hyTxsipYZ4IKdiHhTzufD"
-        },
-        {
-          "name": "Vince Johnson",
-          "url": "https://open.spotify.com/artist/3F06nUwhnESrprceJi8TVb"
-        },
-        {
-          "name": "ELSKA",
-          "url": "https://open.spotify.com/artist/19GrDxe2EKSgGiYmztcHha"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/6oEoeX2GIlie9ipHcEXXIO"
     },
     {
       "added_at": "2020-09-21 08:05:04",
@@ -817,24 +793,28 @@
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
-      "added_at": "2021-06-10 23:01:05",
+      "added_at": "2021-10-29 15:41:01",
       "album": {
-        "name": "Roses (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt"
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/56E0i9wACpTE5IsgNPMzaR"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "KEES POP",
+          "url": "https://open.spotify.com/artist/2hyTxsipYZ4IKdiHhTzufD"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Vince Johnson",
+          "url": "https://open.spotify.com/artist/3F06nUwhnESrprceJi8TVb"
+        },
+        {
+          "name": "ELSKA",
+          "url": "https://open.spotify.com/artist/19GrDxe2EKSgGiYmztcHha"
         }
       ],
-      "duration_ms": 176218,
-      "name": "Roses (Imanbek Remix)",
-      "url": "https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v"
+      "duration_ms": 170653,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/6oEoeX2GIlie9ipHcEXXIO"
     },
     {
       "added_at": "2022-04-12 15:41:03",
@@ -853,20 +833,24 @@
       "url": "https://open.spotify.com/track/7e1pVaWqwd2W1KEeTBodCy"
     },
     {
-      "added_at": "2021-08-27 15:43:05",
+      "added_at": "2021-06-10 23:01:05",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6XIesm3I61L982b2nw0nG2"
+        "name": "Roses (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt"
       },
       "artists": [
         {
-          "name": "Jay Dixie",
-          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 144024,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1s47SzQECm3KBVTs70ZuaE"
+      "duration_ms": 176218,
+      "name": "Roses (Imanbek Remix)",
+      "url": "https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v"
     },
     {
       "added_at": "2022-02-16 15:41:02",
@@ -891,6 +875,22 @@
       "duration_ms": 238285,
       "name": "Gassed Up",
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    {
+      "added_at": "2021-08-27 15:43:05",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6XIesm3I61L982b2nw0nG2"
+      },
+      "artists": [
+        {
+          "name": "Jay Dixie",
+          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
+        }
+      ],
+      "duration_ms": 144024,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1s47SzQECm3KBVTs70ZuaE"
     },
     {
       "added_at": "2021-08-16 15:42:05",
@@ -993,6 +993,26 @@
       "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
     },
     {
+      "added_at": "2022-04-20 15:44:04",
+      "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Lights Go Down (with SIDEPIECE)",
+      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
+    },
+    {
       "added_at": "2022-04-18 15:41:03",
       "album": {
         "name": "Funk Accelerator",
@@ -1007,42 +1027,6 @@
       "duration_ms": 232132,
       "name": "Funk Accelerator",
       "url": "https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD"
-    },
-    {
-      "added_at": "2022-04-16 15:42:02",
-      "album": {
-        "name": "Married to Your Melody",
-        "url": "https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Married to Your Melody",
-      "url": "https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h"
-    },
-    {
-      "added_at": "2022-04-16 15:42:02",
-      "album": {
-        "name": "INTO THE UNKNOWN",
-        "url": "https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 238125,
-      "name": "INTO THE UNKNOWN",
-      "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
     },
     {
       "added_at": "2022-04-16 15:42:02",
@@ -1063,22 +1047,6 @@
       "duration_ms": 149722,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/0Q4DIuuJWNTAcm5GAqN1GU"
-    },
-    {
-      "added_at": "2021-05-13 23:01:06",
-      "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
-      },
-      "artists": [
-        {
-          "name": "Allergic",
-          "url": "https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
     },
     {
       "added_at": "2022-04-16 15:42:02",
@@ -1105,6 +1073,162 @@
       "url": "https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM"
     },
     {
+      "added_at": "2022-04-16 15:42:02",
+      "album": {
+        "name": "INTO THE UNKNOWN",
+        "url": "https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 238125,
+      "name": "INTO THE UNKNOWN",
+      "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
+    },
+    {
+      "added_at": "2021-05-13 23:01:06",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
+      },
+      "artists": [
+        {
+          "name": "Allergic",
+          "url": "https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
+    },
+    {
+      "added_at": "2022-04-20 15:44:04",
+      "album": {
+        "name": "Just In Case",
+        "url": "https://open.spotify.com/album/4xiUAuEg25QIRiPrS2A0Bi"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 163832,
+      "name": "Just In Case",
+      "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
+    },
+    {
+      "added_at": "2022-04-20 15:44:04",
+      "album": {
+        "name": "Don\u2019t Forget My Love (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3RcvNQx32vL4sYrA04bj1S"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Don\u2019t Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
+    },
+    {
+      "added_at": "2022-04-20 15:44:04",
+      "album": {
+        "name": "Come Around Again",
+        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
+    },
+    {
+      "added_at": "2022-04-20 15:44:04",
+      "album": {
+        "name": "Feel (feat. MarynCharlie)",
+        "url": "https://open.spotify.com/album/3vSp8TGpjOx30VnzlPNj1w"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "MarynCharlie",
+          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
+        }
+      ],
+      "duration_ms": 168989,
+      "name": "Feel (feat. MarynCharlie)",
+      "url": "https://open.spotify.com/track/27cOULnIkVv1nFDmTZECkE"
+    },
+    {
+      "added_at": "2022-04-16 15:42:02",
+      "album": {
+        "name": "Married to Your Melody",
+        "url": "https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Married to Your Melody",
+      "url": "https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h"
+    },
+    {
+      "added_at": "2022-04-20 15:44:04",
+      "album": {
+        "name": "Can't You See",
+        "url": "https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Can't You See - Radio Edit",
+      "url": "https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF"
+    },
+    {
       "added_at": "2022-03-02 15:42:03",
       "album": {
         "name": "Headlights (feat. KIDDO)",
@@ -1127,6 +1251,30 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": "2021-05-20 23:01:05",
+      "album": {
+        "name": "Music Is My Suicide",
+        "url": "https://open.spotify.com/album/7zT7gs67GfHt4od7vRjAqa"
+      },
+      "artists": [
+        {
+          "name": "GNRM",
+          "url": "https://open.spotify.com/artist/3orP99gKf9BjrFSwlxgR0S"
+        },
+        {
+          "name": "AZVRE",
+          "url": "https://open.spotify.com/artist/6X2OB3TE91YnoJDmIWAROq"
+        },
+        {
+          "name": "TORQ",
+          "url": "https://open.spotify.com/artist/7ynlueboQGl64hxBmjdeeN"
+        }
+      ],
+      "duration_ms": 156647,
+      "name": "Music Is My Suicide",
+      "url": "https://open.spotify.com/track/4ZOmpwhNsdiguAZjptcpBF"
     },
     {
       "added_at": "2022-03-02 15:42:03",
@@ -1169,30 +1317,6 @@
       "url": "https://open.spotify.com/track/1brwdYwjltrJo7WHpIvbYt"
     },
     {
-      "added_at": "2022-04-18 15:41:03",
-      "album": {
-        "name": "Starlight (Keep Me Afloat)",
-        "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
-        }
-      ],
-      "duration_ms": 202670,
-      "name": "Starlight (Keep Me Afloat)",
-      "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
-    },
-    {
       "added_at": "2021-07-25 08:40:06",
       "album": {
         "name": "Sweet Dreams",
@@ -1229,28 +1353,28 @@
       "url": "https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b"
     },
     {
-      "added_at": "2021-05-20 23:01:05",
+      "added_at": "2022-04-18 15:41:03",
       "album": {
-        "name": "Music Is My Suicide",
-        "url": "https://open.spotify.com/album/7zT7gs67GfHt4od7vRjAqa"
+        "name": "Starlight (Keep Me Afloat)",
+        "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
       },
       "artists": [
         {
-          "name": "GNRM",
-          "url": "https://open.spotify.com/artist/3orP99gKf9BjrFSwlxgR0S"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "AZVRE",
-          "url": "https://open.spotify.com/artist/6X2OB3TE91YnoJDmIWAROq"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
         },
         {
-          "name": "TORQ",
-          "url": "https://open.spotify.com/artist/7ynlueboQGl64hxBmjdeeN"
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
         }
       ],
-      "duration_ms": 156647,
-      "name": "Music Is My Suicide",
-      "url": "https://open.spotify.com/track/4ZOmpwhNsdiguAZjptcpBF"
+      "duration_ms": 202670,
+      "name": "Starlight (Keep Me Afloat)",
+      "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
     },
     {
       "added_at": "2022-04-04 15:44:02",
@@ -1325,6 +1449,42 @@
       "url": "https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr"
     },
     {
+      "added_at": "2021-06-10 23:01:05",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5gJZcmgf7nTi6HEkapCnu5"
+      },
+      "artists": [
+        {
+          "name": "Jay Dixie",
+          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
+        },
+        {
+          "name": "The Crushboys",
+          "url": "https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z"
+        }
+      ],
+      "duration_ms": 152245,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/7LV3f8bBaoIHdVoR5cCEFc"
+    },
+    {
+      "added_at": "2022-04-07 18:28:03",
+      "album": {
+        "name": "First Girl On The Moon",
+        "url": "https://open.spotify.com/album/2aMFJdNMo1l20PdOWRhx5h"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "First Girl On The Moon",
+      "url": "https://open.spotify.com/track/7e5mu6P9XOBH3uLCT3JitQ"
+    },
+    {
       "added_at": "2021-08-16 15:42:05",
       "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
@@ -1377,22 +1537,6 @@
       "url": "https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5"
     },
     {
-      "added_at": "2022-04-05 16:02:02",
-      "album": {
-        "name": "Blood In The Snow",
-        "url": "https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 286133,
-      "name": "Blood In The Snow",
-      "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
-    },
-    {
       "added_at": "2022-03-06 15:41:03",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
@@ -1417,6 +1561,22 @@
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
+      "added_at": "2022-04-05 16:02:02",
+      "album": {
+        "name": "Blood In The Snow",
+        "url": "https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 286133,
+      "name": "Blood In The Snow",
+      "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
+    },
+    {
       "added_at": "2022-04-17 15:41:03",
       "album": {
         "name": "Won't Forget You",
@@ -1431,42 +1591,6 @@
       "duration_ms": 230945,
       "name": "Won't Forget You - Edit",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2021-06-10 23:01:05",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/5gJZcmgf7nTi6HEkapCnu5"
-      },
-      "artists": [
-        {
-          "name": "Jay Dixie",
-          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
-        },
-        {
-          "name": "The Crushboys",
-          "url": "https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z"
-        }
-      ],
-      "duration_ms": 152245,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/7LV3f8bBaoIHdVoR5cCEFc"
-    },
-    {
-      "added_at": "2022-04-07 18:28:03",
-      "album": {
-        "name": "First Girl On The Moon",
-        "url": "https://open.spotify.com/album/2aMFJdNMo1l20PdOWRhx5h"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "First Girl On The Moon",
-      "url": "https://open.spotify.com/track/7e5mu6P9XOBH3uLCT3JitQ"
     },
     {
       "added_at": "2022-04-16 15:42:02",
@@ -1489,24 +1613,44 @@
       "url": "https://open.spotify.com/track/20smSGxMZaK8hFvfPSfikC"
     },
     {
-      "added_at": "2022-04-18 15:41:03",
+      "added_at": "2021-04-08 23:01:07",
       "album": {
-        "name": "Aquaman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3QSyYRTsiRM5GORbNrslpc"
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/5T2Gk7ASaM8E7Tkkl3nrUG"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Kharfi",
+          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
         },
         {
-          "name": "Rhea",
-          "url": "https://open.spotify.com/artist/6P8zJCO8L4VooPqttLt0uQ"
+          "name": "DVO",
+          "url": "https://open.spotify.com/artist/5q6Pu8akB2qFgsjIhd5Y5u"
         }
       ],
-      "duration_ms": 145026,
-      "name": "Ocean to Ocean",
-      "url": "https://open.spotify.com/track/3DkpUR4TEV2XCxFsSL9m0r"
+      "duration_ms": 156480,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"
+    },
+    {
+      "added_at": "2022-04-16 15:42:02",
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/0It16o9TunM1CVf22U1Dc5"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Nataliya Nikitenko",
+          "url": "https://open.spotify.com/artist/26PbdWuDsJPMLPA4vTveNE"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/6QGHCildW0p2nnrxE4BHsy"
     },
     {
       "added_at": "2022-04-16 15:42:02",
@@ -1553,24 +1697,24 @@
       "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
     },
     {
-      "added_at": "2022-04-16 15:42:02",
+      "added_at": "2022-04-18 15:41:03",
       "album": {
-        "name": "Unbreakable",
-        "url": "https://open.spotify.com/album/0It16o9TunM1CVf22U1Dc5"
+        "name": "Aquaman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QSyYRTsiRM5GORbNrslpc"
       },
       "artists": [
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Nataliya Nikitenko",
-          "url": "https://open.spotify.com/artist/26PbdWuDsJPMLPA4vTveNE"
+          "name": "Rhea",
+          "url": "https://open.spotify.com/artist/6P8zJCO8L4VooPqttLt0uQ"
         }
       ],
-      "duration_ms": 165245,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/6QGHCildW0p2nnrxE4BHsy"
+      "duration_ms": 145026,
+      "name": "Ocean to Ocean",
+      "url": "https://open.spotify.com/track/3DkpUR4TEV2XCxFsSL9m0r"
     },
     {
       "added_at": "2021-12-28 15:41:02",
@@ -1589,24 +1733,24 @@
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
-      "added_at": "2021-04-08 23:01:07",
+      "added_at": "2021-04-29 23:01:06",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/5T2Gk7ASaM8E7Tkkl3nrUG"
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/22Kmwh0kZhMnnJn2AnSiSF"
       },
       "artists": [
         {
-          "name": "Kharfi",
-          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
+          "name": "Jay Dixie",
+          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
         },
         {
-          "name": "DVO",
-          "url": "https://open.spotify.com/artist/5q6Pu8akB2qFgsjIhd5Y5u"
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
         }
       ],
-      "duration_ms": 156480,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"
+      "duration_ms": 141290,
+      "name": "Decisions",
+      "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
     },
     {
       "added_at": "2022-02-22 15:41:02",
@@ -1627,6 +1771,26 @@
       "duration_ms": 230571,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
+    },
+    {
+      "added_at": "2021-06-25 17:34:07",
+      "album": {
+        "name": "Bandaid",
+        "url": "https://open.spotify.com/album/08NJGYZmFMsW9rK51ehxqH"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Jordan Jay",
+          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
+        }
+      ],
+      "duration_ms": 139639,
+      "name": "Bandaid",
+      "url": "https://open.spotify.com/track/5UrXbEy5JaWwV6COcCA2Nu"
     },
     {
       "added_at": "2022-04-05 16:02:02",
@@ -1673,6 +1837,30 @@
       "url": "https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo"
     },
     {
+      "added_at": "2021-04-22 23:01:06",
+      "album": {
+        "name": "Unconditionally",
+        "url": "https://open.spotify.com/album/07lxlxAb2oHLAGxHst46YZ"
+      },
+      "artists": [
+        {
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        },
+        {
+          "name": "Jona Selle",
+          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
+        },
+        {
+          "name": "Pule",
+          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3"
+    },
+    {
       "added_at": "2022-04-19 15:47:02",
       "album": {
         "name": "Escape",
@@ -1709,24 +1897,20 @@
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
-      "added_at": "2021-04-29 23:01:06",
+      "added_at": "2021-03-05 23:01:05",
       "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/22Kmwh0kZhMnnJn2AnSiSF"
+        "name": "High",
+        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
       },
       "artists": [
         {
-          "name": "Jay Dixie",
-          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
-        },
-        {
-          "name": "Emily Falvey",
-          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+          "name": "Xan Castel",
+          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
         }
       ],
-      "duration_ms": 141290,
-      "name": "Decisions",
-      "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
+      "duration_ms": 160586,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
     },
     {
       "added_at": "2021-09-16 15:42:05",
@@ -1747,26 +1931,6 @@
       "duration_ms": 136563,
       "name": "Running Out Of Roses",
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
-    },
-    {
-      "added_at": "2021-06-25 17:34:07",
-      "album": {
-        "name": "Bandaid",
-        "url": "https://open.spotify.com/album/08NJGYZmFMsW9rK51ehxqH"
-      },
-      "artists": [
-        {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-        },
-        {
-          "name": "Jordan Jay",
-          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
-        }
-      ],
-      "duration_ms": 139639,
-      "name": "Bandaid",
-      "url": "https://open.spotify.com/track/5UrXbEy5JaWwV6COcCA2Nu"
     },
     {
       "added_at": "2022-04-01 15:41:02",
@@ -1813,142 +1977,6 @@
       "url": "https://open.spotify.com/track/7pLGq8QViObSq3rwPIBPRB"
     },
     {
-      "added_at": "2021-04-22 23:01:06",
-      "album": {
-        "name": "Unconditionally",
-        "url": "https://open.spotify.com/album/07lxlxAb2oHLAGxHst46YZ"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "Jona Selle",
-          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
-        },
-        {
-          "name": "Pule",
-          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3"
-    },
-    {
-      "added_at": "2021-11-24 15:41:02",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2022-04-19 15:47:02",
-      "album": {
-        "name": "Dopamine (feat. Eyelar) [John Summit Remix]",
-        "url": "https://open.spotify.com/album/4N2xMoC7BHQpIvH54CKXOO"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Dopamine (feat. Eyelar) - John Summit Remix",
-      "url": "https://open.spotify.com/track/5PZpXuU8cAXC8743d4B1r3"
-    },
-    {
-      "added_at": "2021-03-05 23:01:05",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
-      },
-      "artists": [
-        {
-          "name": "Xan Castel",
-          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
-    },
-    {
-      "added_at": "2022-04-19 15:47:02",
-      "album": {
-        "name": "Spit",
-        "url": "https://open.spotify.com/album/5WiJHK34SXiwH47hk56HGc"
-      },
-      "artists": [
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Spit",
-      "url": "https://open.spotify.com/track/5wPlDch91Wy9O61JdfTun3"
-    },
-    {
-      "added_at": "2022-04-19 15:47:02",
-      "album": {
-        "name": "Beg For You (feat. Rina Sawayama)",
-        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Beg For You (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2022-03-29 15:41:02",
-      "album": {
-        "name": "Trumpet Sound",
-        "url": "https://open.spotify.com/album/00QAjIce0riJs8iFJOgQ8z"
-      },
-      "artists": [
-        {
-          "name": "Nils Van Zandt",
-          "url": "https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Trumpet Sound",
-      "url": "https://open.spotify.com/track/6dhDRJ66EfkUC6gCeedW5B"
-    },
-    {
       "added_at": "2021-04-29 23:01:06",
       "album": {
         "name": "Nothing But Love",
@@ -1975,26 +2003,26 @@
     {
       "added_at": "2022-04-19 15:47:02",
       "album": {
-        "name": "When We're Awake",
-        "url": "https://open.spotify.com/album/6e7Q8kV3GjaxJoMhMZIyrT"
+        "name": "Dopamine (feat. Eyelar) [John Summit Remix]",
+        "url": "https://open.spotify.com/album/4N2xMoC7BHQpIvH54CKXOO"
       },
       "artists": [
         {
-          "name": "SNBRN",
-          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
         },
         {
-          "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 182250,
-      "name": "When We're Awake",
-      "url": "https://open.spotify.com/track/2d3fA0TfGGFBJJHGXWnV5s"
+      "duration_ms": 174193,
+      "name": "Dopamine (feat. Eyelar) - John Summit Remix",
+      "url": "https://open.spotify.com/track/5PZpXuU8cAXC8743d4B1r3"
     },
     {
       "added_at": "2021-05-06 23:01:06",
@@ -2019,22 +2047,6 @@
       "duration_ms": 200975,
       "name": "Head Up In The Clouds",
       "url": "https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR"
-    },
-    {
-      "added_at": "2022-03-24 15:42:03",
-      "album": {
-        "name": "Say Yeah",
-        "url": "https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 225218,
-      "name": "Say Yeah",
-      "url": "https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut"
     }
   ],
   "unique_name": "EDM Top 100",

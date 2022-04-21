@@ -4,7 +4,7 @@
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-90 songs - 4 hr 1 min - not published yet
+90 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/16XV8sBUmIP0qhqGG0aA1n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

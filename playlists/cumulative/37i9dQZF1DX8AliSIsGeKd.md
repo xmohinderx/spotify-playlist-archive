@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Philipp Wolf
 
-75 songs - 6 hr 55 min - not published yet
+75 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

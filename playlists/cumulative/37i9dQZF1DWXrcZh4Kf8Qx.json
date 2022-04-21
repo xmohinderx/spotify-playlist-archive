@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-19",
   "description": "All 70s, all ballads. Cover: Barry Manilow",
   "name": "70s Ballads",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2LPu7i88GAkMRqtjMyDmDJ"
+  ],
   "tracks": [
     {
       "album": {
@@ -572,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Today (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244426,
+      "name": "Pieces of My Life",
+      "url": "https://open.spotify.com/track/0RwaHSvTcRSAwoiFXPtErz"
+    },
+    {
+      "album": {
         "name": "Mythology",
         "url": "https://open.spotify.com/album/1ePV6K6qtvsn7kUPMwqaWJ"
       },
@@ -817,7 +837,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 218000,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/4QGcS9KL4M9zOAy8JQ2cy0"

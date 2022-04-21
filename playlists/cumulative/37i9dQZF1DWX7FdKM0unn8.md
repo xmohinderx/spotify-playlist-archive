@@ -4,7 +4,7 @@
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-59 songs - 4 hr 14 min - not published yet
+59 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/7vtCT9EARyoqRQSxtdctBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

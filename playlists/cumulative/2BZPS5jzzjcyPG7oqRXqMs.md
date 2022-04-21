@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening .
 
-105 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+106 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2022-02-17 |  |
 | [Immigrant's Song](https://open.spotify.com/track/3lI4991HkNIdynqUFvxqOx) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Confessio \- Irish American Roots](https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS) | 4:08 | 2022-03-11 |  |
 | [In The House](https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 2:59 | 2022-02-17 |  |
+| [In Your Eyes](https://open.spotify.com/track/1mDuP7qIDNlE4CKJhotWyl) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [In Your Eyes](https://open.spotify.com/album/7woBjeGePAa8gugsNrDCqQ) | 4:44 | 2022-04-20 |  |
 | [It's About Time](https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [It's About Time](https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy) | 2:54 | 2022-02-17 |  |
 | [Jump \- Neon Feather Remix](https://open.spotify.com/track/0jRoOmTvENHLkXQ1Ycm1OT) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [JUMP \(Neon Feather Remix\)](https://open.spotify.com/album/5fn3S9SYdWym1nn3Y77vvC) | 3:36 | 2022-03-18 |  |
 | [Keep On Hoping](https://open.spotify.com/track/67Ggy7CFJGAaeFVXoZkVAE) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/7xSiollUHf1V98ulBd5Zzn) | 3:27 | 2022-02-17 |  |

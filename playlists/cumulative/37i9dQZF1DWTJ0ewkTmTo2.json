@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-04-19",
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
   "name": "Family Road Trip",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4fDWxJj9KLC6huuZSur4Fn"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6dNfuaaTMb3A3hMBfk9zQF"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1e6kD8AXQ152lFZLr7kKPN"
+    },
     {
       "album": {
         "name": "The Reminder",
@@ -132,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
+    },
+    {
+      "album": {
         "name": "Greatest Hits - We Will Rock You Edition",
         "url": "https://open.spotify.com/album/4Qcy60knPmSHjWmOsVVwhL"
       },
@@ -143,7 +181,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 354600,
       "name": "Bohemian Rhapsody - Remastered",
       "url": "https://open.spotify.com/track/6vLaKD0HUJ5UtIADG61Fa9"
@@ -273,6 +311,24 @@
       "duration_ms": 230693,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56"
+    },
+    {
+      "album": {
+        "name": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "url": "https://open.spotify.com/album/2gWdZgWwc5oFrupvoo8pSJ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169146,
+      "name": "Day Tripper - Remastered",
+      "url": "https://open.spotify.com/track/6hZblsaUs6Y9zUXg6C8oc5"
     },
     {
       "album": {
@@ -417,6 +473,24 @@
       "duration_ms": 256000,
       "name": "Everyday Is A Winding Road",
       "url": "https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2"
+    },
+    {
+      "album": {
+        "name": "Rhino Hi-Five: Sugar Ray",
+        "url": "https://open.spotify.com/album/05s2UfuwvhwVzGkpydPDK0"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244560,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/5fuGP7Dze9tkadS9WoPbar"
     },
     {
       "album": {
@@ -741,7 +815,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 241600,
       "name": "Karma Chameleon",
       "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
@@ -777,7 +851,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 146973,
       "name": "Land of 1000 Dances",
       "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
@@ -817,6 +891,28 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
     },
     {
       "album": {
@@ -903,7 +999,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 208466,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm"
@@ -982,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Road Less Traveled",
+        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Road Less Traveled",
+      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
+    },
+    {
+      "album": {
         "name": "The Best of Talking Heads",
         "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
@@ -1033,6 +1147,24 @@
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
+    },
+    {
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/1PULmKbHeOqlkIwcDMNwD4"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79066,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered",
+      "url": "https://open.spotify.com/track/68zCBdA54X87mH90ZdyOCP"
     },
     {
       "album": {
@@ -1191,7 +1323,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 162093,
       "name": "The Lion Sleeps Tonight (Wimoweh)",
       "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
@@ -1245,7 +1377,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 256946,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
@@ -1469,7 +1601,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 169840,
       "name": "You're The One That I Want",
       "url": "https://open.spotify.com/track/1pViOt8zA2rl2NfHeDGnyD"

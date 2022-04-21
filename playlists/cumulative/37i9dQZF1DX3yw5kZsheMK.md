@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-81 songs - 3 hr 45 min - not published yet
+81 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

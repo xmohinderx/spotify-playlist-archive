@@ -1810,6 +1810,28 @@
     },
     {
       "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/79LkKVfRwrMiAdxMDnQMLr"
+      },
+      "artists": [
+        {
+          "name": "Prabh Gill",
+          "url": "https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4"
+        },
+        {
+          "name": "Desi Routz",
+          "url": "https://open.spotify.com/artist/1PPuO6mkbUFNCEh6uU0i71"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/715KJ6GgLQgOl1fQG0DsKF"
+    },
+    {
+      "album": {
         "name": "Judge",
         "url": "https://open.spotify.com/album/6T3L3QXrlWDJiL1JJhOHsH"
       },
@@ -2337,6 +2359,24 @@
       "duration_ms": 179444,
       "name": "Kya Baat Ay",
       "url": "https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk"
+    },
+    {
+      "album": {
+        "name": "LA",
+        "url": "https://open.spotify.com/album/4YDpYD0bKAcFD8t6BQS0rA"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179440,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/27G0kb3K0M6wTcRFEtAp8H"
     },
     {
       "album": {
@@ -4655,6 +4695,24 @@
       "duration_ms": 134053,
       "name": "Sohna (From \"Main Te Bapu\")",
       "url": "https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH"
+    },
+    {
+      "album": {
+        "name": "Sohniyan Shaklan",
+        "url": "https://open.spotify.com/album/2DrEVLz6eKa5b83A4N56oW"
+      },
+      "artists": [
+        {
+          "name": "Khan Saab",
+          "url": "https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312439,
+      "name": "Sohniyan Shaklan",
+      "url": "https://open.spotify.com/track/6jxlrho78w0b4ldZ7J7rA8"
     },
     {
       "album": {

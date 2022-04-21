@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 198204,
       "name": "11:11 - Radio Edit",
       "url": "https://open.spotify.com/track/3hTpoe9foSCDu6NS0vlHQS"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 204198,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3QSVzVODWkWzGeDOGHZW0F"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 228977,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 219706,
       "name": "An Honest Mistake - CD Album Version",
       "url": "https://open.spotify.com/track/3C1TyhKaxnkjQ9A4zswIpW"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 213680,
       "name": "B12",
       "url": "https://open.spotify.com/track/2NVrALq8HUj3Y0NKC4AjGw"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 185906,
       "name": "Bad Vibes",
       "url": "https://open.spotify.com/track/0POuQCMT4zyRzB2MjbzVaI"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 185585,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/5vxDVqt3HpvYUshrY21Y2O"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 235613,
       "name": "Bored To Death",
       "url": "https://open.spotify.com/track/34hoCwSsssai61QCqzGYtX"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 298253,
       "name": "Cherub Rock - Remastered 2011",
       "url": "https://open.spotify.com/track/0fIC59ZyS8ThtUF0Um6zuD"
@@ -675,6 +675,24 @@
       "duration_ms": 152389,
       "name": "Children of The Dark",
       "url": "https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp"
+    },
+    {
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223065,
+      "name": "Choker",
+      "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
     },
     {
       "album": {
@@ -725,7 +743,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 250093,
       "name": "Color - Remastered",
       "url": "https://open.spotify.com/track/2HNnYRJIlsM1JHn1Nq8qU7"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 302000,
       "name": "Dark Necessities",
       "url": "https://open.spotify.com/track/1cjiLJacTKtJbdCtMk1XeV"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 234476,
       "name": "Death By Rock And Roll",
       "url": "https://open.spotify.com/track/0ThYrwnekhJLSJBiGPD1L7"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 232453,
       "name": "Drive",
       "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 191986,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/21qKs2K0O9MCK9qVeHpEO0"
@@ -1097,6 +1115,36 @@
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ"
+    },
+    {
+      "album": {
+        "name": "Mercury - Act 1",
+        "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
       "album": {
@@ -1183,7 +1231,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 270920,
       "name": "Falling Away from Me",
       "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
@@ -1259,7 +1307,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 151989,
       "name": "Flames (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC"
@@ -1349,7 +1397,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 219762,
       "name": "Go Down in History",
       "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
@@ -1421,7 +1469,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 206433,
       "name": "Good F**King Music",
       "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
@@ -1475,7 +1523,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/5N0ToFp1DWQnG3EX24TNPs"
@@ -1511,7 +1559,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
@@ -1551,7 +1599,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 224533,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/0c9buzCUcKXCH7Aa4gpTAu"
@@ -1605,7 +1653,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 204941,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/6Gb61K7iGe3GbHH4Q86A7I"
@@ -1659,7 +1707,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 130588,
       "name": "Hills Have Eyes",
       "url": "https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4"
@@ -1677,7 +1725,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 237066,
       "name": "Hollow Life",
       "url": "https://open.spotify.com/track/6Uaz0UV4y7EPdviYUDWwlu"
@@ -2005,7 +2053,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 193613,
       "name": "Interstate Love Song",
       "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
@@ -2023,7 +2071,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Into The Dark (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/2b0ki4EJ3WhObwx30dyIdf"
@@ -2095,7 +2143,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
@@ -2189,7 +2237,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
@@ -2250,6 +2298,24 @@
     },
     {
       "album": {
+        "name": "Scaled And Icy (Livestream Version)",
+        "url": "https://open.spotify.com/album/1B61NzknoGqafMfKLY7QtZ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/1OpJNP2QNZ78TnewxSVybt"
+    },
+    {
+      "album": {
         "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
         "url": "https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq"
       },
@@ -2305,7 +2371,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 169655,
       "name": "Life's Coming in Slow - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
@@ -2341,7 +2407,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/6ZrlXT6mUMEgomN128iekU"
@@ -2359,7 +2425,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
@@ -2377,7 +2443,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 249520,
       "name": "Loud(y)",
       "url": "https://open.spotify.com/track/2Df8M8sO1zhC71p2XQRwpj"
@@ -2435,7 +2501,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 242560,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
@@ -2561,7 +2627,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 244293,
       "name": "Mountain at My Gates",
       "url": "https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E"
@@ -2579,7 +2645,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 238880,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
@@ -2705,7 +2771,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 388733,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
@@ -2785,7 +2851,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 240572,
       "name": "Out of the Black",
       "url": "https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX"
@@ -2825,7 +2891,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 214693,
       "name": "Outta My Mind",
       "url": "https://open.spotify.com/track/4cgDk0IjwdG8w1ArIaqdpq"
@@ -3012,6 +3078,28 @@
     },
     {
       "album": {
+        "name": "Rain (from The Suicide Squad)",
+        "url": "https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "Rain (from The Suicide Squad)",
+      "url": "https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm"
+    },
+    {
+      "album": {
         "name": "You Deserve Love",
         "url": "https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR"
       },
@@ -3041,7 +3129,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 238924,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/2VsLaBtuqVC3HlJ97A0LLO"
@@ -3077,7 +3165,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 195200,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
@@ -3175,7 +3263,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 195173,
       "name": "S.O.S. (Sawed Off Shotgun)",
       "url": "https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs"
@@ -3193,7 +3281,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 234600,
       "name": "Safari Song",
       "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
@@ -3211,7 +3299,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 221666,
       "name": "Saint Cecilia",
       "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
@@ -3247,7 +3335,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 224423,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/6XA12laU5GUhas6GcWDLuU"
@@ -3373,7 +3461,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 257120,
       "name": "Shock Me",
       "url": "https://open.spotify.com/track/77Q7xG7LhuhKUqP3LbEQnc"
@@ -3431,7 +3519,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 189920,
       "name": "Sing To Me",
       "url": "https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS"
@@ -3497,7 +3585,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 228466,
       "name": "Something to Believe In",
       "url": "https://open.spotify.com/track/4EYvEheGn4usgCp0sxYJhD"
@@ -3515,7 +3603,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
@@ -3577,7 +3665,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 215293,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio"
@@ -3657,7 +3745,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 291440,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
@@ -3675,7 +3763,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 220026,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/18IqyOGs1pRNZfbMo93r57"
@@ -3711,7 +3799,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 190771,
       "name": "Take It From Me",
       "url": "https://open.spotify.com/track/5cCQm5tTTwUqMRrA39nNs2"
@@ -3801,7 +3889,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 267333,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/772AiQoYHA7lDckryjGyVj"
@@ -3841,7 +3929,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 174240,
       "name": "The Ceiling",
       "url": "https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2"
@@ -3931,7 +4019,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 243253,
       "name": "The Ghosts of Beverly Drive",
       "url": "https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ"
@@ -4101,7 +4189,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 252002,
       "name": "The Vengeful One",
       "url": "https://open.spotify.com/track/5tz5QsHPkv69T1scq2utZZ"
@@ -4119,7 +4207,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 274281,
       "name": "The Way You Used to Do",
       "url": "https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM"
@@ -4137,7 +4225,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 221240,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/4PgJ0NUYaDDh659TW5mWBK"
@@ -4155,7 +4243,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 195390,
       "name": "They Don't Want What We Want (And They Don't Care)",
       "url": "https://open.spotify.com/track/4mRjkI6oIwbSCACGICcZKr"
@@ -4191,7 +4279,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 282946,
       "name": "Through Glass",
       "url": "https://open.spotify.com/track/76aadnUFFANRNDs6L3aqxw"
@@ -4227,7 +4315,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 258506,
       "name": "TRIALS",
       "url": "https://open.spotify.com/track/23wrmyJ1S2sjeh2dFN5P9k"
@@ -4263,7 +4351,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 217386,
       "name": "Trojans",
       "url": "https://open.spotify.com/track/4AyoAGuhE8gydBPrczuhbl"
@@ -4299,7 +4387,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 215225,
       "name": "Ugly Friends",
       "url": "https://open.spotify.com/track/6oEvSyE1h0ts0Nyg0cOIMU"
@@ -4375,7 +4463,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
@@ -4469,7 +4557,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 219560,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/7aUuoq4oMfLxaLa5GVUDHi"
@@ -4577,7 +4665,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 248517,
       "name": "Wolves of Winter",
       "url": "https://open.spotify.com/track/276BiOUCz2cMLxAY8ERvEU"
@@ -4631,7 +4719,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 291776,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt"
@@ -4733,7 +4821,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
@@ -4751,7 +4839,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 220538,
       "name": "Young Lady, You're Scaring Me",
       "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
@@ -4773,6 +4861,24 @@
       "duration_ms": 256240,
       "name": "Youth of the Nation",
       "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"
+    },
+    {
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321708,
+      "name": "Zeit",
+      "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
     },
     {
       "album": {
@@ -4805,7 +4911,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 218520,
       "name": "ZOMBIFIED",
       "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
   "name": "#SpotifyTBT: Song of the Year",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5sviYI5JD7rztpjP8iZrzW"
+  ],
   "tracks": [
     {
       "album": {
@@ -169,6 +171,24 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits - The Best of Henry Mancini",
+        "url": "https://open.spotify.com/album/1qUmcNnG6GBGXw9tLCTJ3V"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126933,
+      "name": "Days Of Wine And Roses - REMASTERED",
+      "url": "https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v"
     },
     {
       "album": {
@@ -945,7 +965,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 225773,
       "name": "This Is America",
       "url": "https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9"

@@ -2,8 +2,32 @@
   "date_first_scraped": "2022-04-20",
   "description": "The best Piano House tracks out now.  ",
   "name": "Piano House",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6IrxcoOBzoeJKFAs7ICWhb"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "15 Seconds (feat. Mila Falls)",
+        "url": "https://open.spotify.com/album/6WOo1d8FZAXFI9XVom9rYN"
+      },
+      "artists": [
+        {
+          "name": "Simon Hardy",
+          "url": "https://open.spotify.com/artist/1lSRP1orvUsa8Uykpy6mcn"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175531,
+      "name": "15 Seconds (feat. Mila Falls)",
+      "url": "https://open.spotify.com/track/3QZn3SzGOcDLaWsuYSJGgf"
+    },
     {
       "album": {
         "name": "2AM (feat. Carla Monroe)",
@@ -21,10 +45,32 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 182400,
       "name": "2AM (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n"
+    },
+    {
+      "album": {
+        "name": "All I See (Remixes)",
+        "url": "https://open.spotify.com/album/0kEPgrArOSYiAvB40qmnNG"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        },
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271520,
+      "name": "All I See - TCTS Remix",
+      "url": "https://open.spotify.com/track/495HKvRcFC84gFBG1KTpA2"
     },
     {
       "album": {
@@ -87,7 +133,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 166829,
       "name": "Be Happy - VIP",
       "url": "https://open.spotify.com/track/0uGziBDjeWrT42RK29cz73"
@@ -109,7 +155,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 194761,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF"
@@ -142,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353568,
+      "name": "Both Of Us",
+      "url": "https://open.spotify.com/track/7q584VOAZLMPaIQ9pedKFl"
+    },
+    {
+      "album": {
         "name": "Bring Me Back",
         "url": "https://open.spotify.com/album/0wKLCrKalMa9CbeSlyYG3N"
       },
@@ -161,6 +225,28 @@
       "duration_ms": 185806,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/4fzxNsK0wKUkLr6V0uYoEq"
+    },
+    {
+      "album": {
+        "name": "Catching Eyes (Tom Ferry Remix)",
+        "url": "https://open.spotify.com/album/5WfEbMMzVMSjFFqlNfdaVH"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "Tom Ferry",
+          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Catching Eyes - Tom Ferry Remix",
+      "url": "https://open.spotify.com/track/7qwOXjCKlZi6sfUVV6EeTX"
     },
     {
       "album": {
@@ -223,7 +309,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 205161,
       "name": "Don't Give Up - Radio Edit",
       "url": "https://open.spotify.com/track/1YNlViGi3aLIPtABK0kzEd"
@@ -275,7 +361,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 205959,
       "name": "Drink About - Kokiri Remix",
       "url": "https://open.spotify.com/track/0QLtiqoZRvzQvNoxBhQcdn"
@@ -305,6 +391,24 @@
       "duration_ms": 189428,
       "name": "Easier (feat. LOWES) - MK Remix",
       "url": "https://open.spotify.com/track/2pHQfBhfZs1ZolOv3U73MT"
+    },
+    {
+      "album": {
+        "name": "Feel My Needs",
+        "url": "https://open.spotify.com/album/1DhXzsPrJjFpwOKRPV2Hpu"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        }
+      ],
+      "date_added": "2021-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Feel My Needs",
+      "url": "https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc"
     },
     {
       "album": {
@@ -345,6 +449,28 @@
       "duration_ms": 212877,
       "name": "Float",
       "url": "https://open.spotify.com/track/1LKo1pAertanzWdCwjykFB"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/77CIdEbawQljy95XLgKJWO"
+      },
+      "artists": [
+        {
+          "name": "N:Fostell",
+          "url": "https://open.spotify.com/artist/4ligbK5FWMxDPjFrC6x47g"
+        },
+        {
+          "name": "Morgan Munroe",
+          "url": "https://open.spotify.com/artist/41K03x2QpJG4rJJ84LceST"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192396,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/5PzbSp4Q7DZ463vmUExRvz"
     },
     {
       "album": {
@@ -418,6 +544,28 @@
     },
     {
       "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/2up8F1d6qw1c0vLaEex2dD"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189875,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/6DetvocRqx9ELX2aKmwj3g"
+    },
+    {
+      "album": {
         "name": "If It's Love",
         "url": "https://open.spotify.com/album/6WPhb4GPtZDdWYcpczgmJU"
       },
@@ -437,7 +585,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 165250,
       "name": "If It's Love",
       "url": "https://open.spotify.com/track/2yoIHte6f0YMT4Ezl4prjO"
@@ -467,10 +615,36 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 164723,
       "name": "In My Feelings [Wankelmut Remix]",
       "url": "https://open.spotify.com/track/15L1itBZRZvYv4qT90ooSE"
+    },
+    {
+      "album": {
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/0GKwnojdsWbvHSzDd1JsJX"
+      },
+      "artists": [
+        {
+          "name": "Anto",
+          "url": "https://open.spotify.com/artist/1GE165o9hlsv2zQETzQix7"
+        },
+        {
+          "name": "Lyle M",
+          "url": "https://open.spotify.com/artist/5J0iPuLDGWBQYuhwiTJ4LL"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        }
+      ],
+      "date_added": "2021-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180487,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/3vBcSrmipiMkWaDvkhh2HJ"
     },
     {
       "album": {
@@ -489,7 +663,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 170258,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
@@ -511,7 +685,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 342580,
       "name": "Lay Our Love - Original Mix",
       "url": "https://open.spotify.com/track/2K1LOy48dppX10UB3d4vkc"
@@ -591,7 +765,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 189677,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/28VwKroAuwwmGlrYYqIPnB"
@@ -672,6 +846,28 @@
     },
     {
       "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
+      },
+      "artists": [
+        {
+          "name": "Anton Powers",
+          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
+        },
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168991,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
+    },
+    {
+      "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/56eKM6903EkxbREb38WPcU"
       },
@@ -687,7 +883,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 197419,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/2MeuHyZvctH7HuZJmpvuSu"
@@ -713,6 +909,28 @@
       "duration_ms": 188351,
       "name": "Mirrors (feat. Stee Downes)",
       "url": "https://open.spotify.com/track/3PmclnSYRASSXiZrLLfnYy"
+    },
+    {
+      "album": {
+        "name": "My Time",
+        "url": "https://open.spotify.com/album/6FsFygiXP5VbiaoSS10f7K"
+      },
+      "artists": [
+        {
+          "name": "Tyler Young",
+          "url": "https://open.spotify.com/artist/2Git4vZtZYxPTLeXbXQrNk"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205292,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/20AxPRguXfSIunBkDoY8Dc"
     },
     {
       "album": {
@@ -742,6 +960,50 @@
     },
     {
       "album": {
+        "name": "Never Let You Go (MK Remix)",
+        "url": "https://open.spotify.com/album/1QJ5BA88IdWmaeUP6PAjCe"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2021-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203555,
+      "name": "Never Let You Go - MK Remix (Edit)",
+      "url": "https://open.spotify.com/track/6RxvD8AJMIDNuhxvE30Pen"
+    },
+    {
+      "album": {
+        "name": "Off My Mind",
+        "url": "https://open.spotify.com/album/4gDxUlVYnHGsypP9stXWbI"
+      },
+      "artists": [
+        {
+          "name": "ManyFew",
+          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
+        },
+        {
+          "name": "Voost",
+          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190110,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/3IzYy3AdSWMX4uojNyS596"
+    },
+    {
+      "album": {
         "name": "On Top Of Mine (feat. Kelli-Leigh)",
         "url": "https://open.spotify.com/album/2mNHYkd1vO5w9sbAvHRDWE"
       },
@@ -757,7 +1019,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 143242,
       "name": "On Top Of Mine (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/4YwOxXdhqzvgglya1LBExq"
@@ -808,6 +1070,46 @@
     },
     {
       "album": {
+        "name": "Set You Free (Secondcity Terrace 91 Remix)",
+        "url": "https://open.spotify.com/album/3WHsUtkTJTqI3GekLLdESG"
+      },
+      "artists": [
+        {
+          "name": "Matt Wills",
+          "url": "https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT"
+        },
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218152,
+      "name": "Set You Free - Secondcity Terrace 91 Remix",
+      "url": "https://open.spotify.com/track/105u0Fvp88RztRoMU6ljrH"
+    },
+    {
+      "album": {
+        "name": "Simple Hit",
+        "url": "https://open.spotify.com/album/4cNRNpj5a81e2iF5cIb1n5"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219715,
+      "name": "Simple Hit",
+      "url": "https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex"
+    },
+    {
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH"
       },
@@ -837,7 +1139,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 205161,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7AV1g7h1KJlAvi8JoXBQ0p"
@@ -877,7 +1179,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 149280,
       "name": "Summer 91",
       "url": "https://open.spotify.com/track/7pARbCUoO1CTzU5ucMEaVF"
@@ -961,10 +1263,36 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 176190,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/0ZPowohOc41cvQQ29ibOSU"
+    },
+    {
+      "album": {
+        "name": "The Power (Leftwing : Kody Remix)",
+        "url": "https://open.spotify.com/album/6CfB4vWdE82EwPo7VKvHuJ"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221705,
+      "name": "The Power - Leftwing : Kody Remix",
+      "url": "https://open.spotify.com/track/1CmKNKnbsvStGoo0rkW0cz"
     },
     {
       "album": {
@@ -990,6 +1318,28 @@
     },
     {
       "album": {
+        "name": "This Groove",
+        "url": "https://open.spotify.com/album/6V2cksv4xWiubhZdh2Kb1H"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188174,
+      "name": "This Groove",
+      "url": "https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7"
+    },
+    {
+      "album": {
         "name": "Wasting Time",
         "url": "https://open.spotify.com/album/5UrRDAW47RZLiltgKaheTX"
       },
@@ -1005,7 +1355,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 174193,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/1EFpoL0SkgjioIvPnEyh2R"
@@ -1027,7 +1377,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 192480,
       "name": "Weekend Vibe - Kokiri remix",
       "url": "https://open.spotify.com/track/3m4Mp5cF3BVijXkXEYrm57"
@@ -1086,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "Won't Give Up",
+        "url": "https://open.spotify.com/album/2cGOlO3sNIIma2ylDUmvQH"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136451,
+      "name": "Won't Give Up",
+      "url": "https://open.spotify.com/track/3G0vs3WVwcd46XuyQpVbBs"
+    },
+    {
+      "album": {
         "name": "Woods",
         "url": "https://open.spotify.com/album/0ZvZOmYWbDRyTpg6AboCGP"
       },
@@ -1101,7 +1469,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 260000,
       "name": "Woods",
       "url": "https://open.spotify.com/track/0QBi1ckSMbFBjuMPYovaut"
@@ -1127,6 +1495,24 @@
       "duration_ms": 228749,
       "name": "You",
       "url": "https://open.spotify.com/track/4vrnHICJfoguGfzLkQeyy5"
+    },
+    {
+      "album": {
+        "name": "You're Sunshine",
+        "url": "https://open.spotify.com/album/5ASahiUQrJOala4neqHSd5"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        }
+      ],
+      "date_added": "2021-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176097,
+      "name": "You're Sunshine",
+      "url": "https://open.spotify.com/track/4gdjZS54vHNBk467zeAqkq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8yrIP4lAga8"

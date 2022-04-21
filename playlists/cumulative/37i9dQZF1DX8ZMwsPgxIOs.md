@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Effy
 
-77 songs - 6 hr 47 min - not published yet
+78 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Metaphysical](https://open.spotify.com/track/308mW3tmRmWG5K3g6HVyl3) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Metaphysical](https://open.spotify.com/album/14yXH9auX3hfPGt2l7b7rS) | 5:03 | 2022-04-15 |  |
 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 | 2022-04-15 |  |
 | [Mouth of God](https://open.spotify.com/track/5Mk7cg93h8RcUV9Rj1FaWT) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Mouth of God](https://open.spotify.com/album/7tktXuwqzDqb4KoB2jets5) | 4:52 | 2022-04-15 |  |
+| [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2022-04-20 |  |
 | [Mystic Voices](https://open.spotify.com/track/5MIpIX9VjzPCJNOgpYsFwf) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Mystic Voices](https://open.spotify.com/album/66fchoaJYtBH274HIUP6Bl) | 8:19 | 2022-04-15 |  |
 | [New Generation](https://open.spotify.com/track/7jpj8wOz4fQ9GZCJ4prdhF) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [New Generation](https://open.spotify.com/album/1p5FZDd1nk6CqiL6Cpc26P) | 2:44 | 2022-04-15 |  |
 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 | 2022-04-15 |  |

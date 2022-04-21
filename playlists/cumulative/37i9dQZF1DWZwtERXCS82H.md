@@ -4,7 +4,7 @@
 
 > Books and piano, the perfect combination
 
-478 songs - 20 hr 58 min - not published yet
+478 songs - 20 hr 58 min - [published](https://open.spotify.com/playlist/7Bls3S4IjzzI4A2ncl4Q9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

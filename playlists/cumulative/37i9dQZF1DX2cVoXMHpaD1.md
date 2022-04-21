@@ -4,7 +4,7 @@
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-121 songs - 7 hr 14 min - not published yet
+121 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/6edEqnO5xOL4KxcMgXoKZO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > NCTzens! Sticker is here!
 
-64 songs - 3 hr 46 min - not published yet
+64 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/4sV5zpts2Ks9RxeBvmHERq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

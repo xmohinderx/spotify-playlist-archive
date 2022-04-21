@@ -4,7 +4,7 @@
 
 > Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
 
-136 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+137 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 | 2022-04-05 | 2022-04-09 |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2022-04-05 |  |
 | [In The Name](https://open.spotify.com/track/5plvPxGyn4ZQpCdaMloPSi) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Whatever May Come \(Deluxe\)](https://open.spotify.com/album/1ub4VbbnapiajjUCskwGLe) | 3:39 | 2022-02-17 |  |
+| [In Your Eyes](https://open.spotify.com/track/1mDuP7qIDNlE4CKJhotWyl) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [In Your Eyes](https://open.spotify.com/album/7woBjeGePAa8gugsNrDCqQ) | 4:44 | 2022-04-20 |  |
 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 | 2022-03-18 | 2022-04-09 |
 | [Is He Worthy? \- Live](https://open.spotify.com/track/0QXpQkyuEdNqJLOkzua7vf) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! In Christ Alone \- Live At The Getty Music Worship Conference](https://open.spotify.com/album/7LieYsVEC7GO1SoImXO4rr) | 4:48 | 2022-04-08 |  |
 | [It's Time To Worship](https://open.spotify.com/track/5sxApl9TQHzRtBQEMdn9Qw) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Speak To The Mountains](https://open.spotify.com/album/3qOxAclcKVsOHKLCiqEutQ) | 4:19 | 2022-02-17 | 2022-03-16 |

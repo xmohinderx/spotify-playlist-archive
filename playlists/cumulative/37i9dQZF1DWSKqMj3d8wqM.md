@@ -4,7 +4,7 @@
 
 > Your favorite tunes from classic family movies.
 
-56 songs - 3 hr 7 min - not published yet
+56 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/6RF2Jrfma0n8CnImt9lmPz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

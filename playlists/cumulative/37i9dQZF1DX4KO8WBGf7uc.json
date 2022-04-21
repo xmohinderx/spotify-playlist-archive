@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 179936,
       "name": "Amor Genuino",
       "url": "https://open.spotify.com/track/6pK5edDoyrn4mWwRSVc2a5"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 217129,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 155060,
       "name": "BENDICIONES",
       "url": "https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 299586,
       "name": "Caile (feat. Zion & De La Ghetto)",
       "url": "https://open.spotify.com/track/626rYyBfeAeleh1F5t4B70"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 228960,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 249733,
       "name": "Dembow y Reggaeton",
       "url": "https://open.spotify.com/track/1U3CZqgtekCchvUXV6o9l1"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 224697,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/4NLcgBskZkUYgpAVQF0sNI"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "D\u00f3nde Est\u00e1s (with Piso 21) - Remix",
       "url": "https://open.spotify.com/track/7z0cli6eF13Ew8ARrDgGHJ"
@@ -1016,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Espinas",
+        "url": "https://open.spotify.com/album/2SIJuWO8fCX2ZWcAEzsGvw"
+      },
+      "artists": [
+        {
+          "name": "Ben Carrillo",
+          "url": "https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169533,
+      "name": "Espinas",
+      "url": "https://open.spotify.com/track/1U3kkB4QWymRdeFfJFX59c"
+    },
+    {
+      "album": {
         "name": "Realidad",
         "url": "https://open.spotify.com/album/1OOSq9FkFZ7GcIpaJr9dYL"
       },
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 171040,
       "name": "Estilo De Vida",
       "url": "https://open.spotify.com/track/5SLTjTDz1kKyszPTnoWzSX"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 165646,
       "name": "Fresa",
       "url": "https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 210606,
       "name": "Ignorantes",
       "url": "https://open.spotify.com/track/38RIEav39FGi86jppxO0du"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 197306,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/1N3rf6ZFzb8NPYeLCmgzj7"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 229955,
       "name": "Mi Favorita",
       "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 183398,
       "name": "No Te Enamores",
       "url": "https://open.spotify.com/track/0EJu1RBtxzldMG2peczuPv"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 189826,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/464uJVLmr0fDJGXOnciaDe"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 188863,
       "name": "Sabanas Mojadas",
       "url": "https://open.spotify.com/track/5lfKeSM4k3GT4ZYWcD2Pzf"
@@ -2875,7 +2893,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Te Quemaste",
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
@@ -2997,7 +3015,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 273321,
       "name": "T\u00fa No Amas",
       "url": "https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq"
@@ -3113,7 +3131,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 267109,
       "name": "Vuelva A Ver - Remix",
       "url": "https://open.spotify.com/track/0GrGfs8ldZRWOrksG5uraH"
@@ -3135,7 +3153,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 215459,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/7JabxjX6a5GvDDw6zRFscj"

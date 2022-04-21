@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 273293,
       "name": "A gritos de esperanza",
       "url": "https://open.spotify.com/track/2vDI2MyElkeFjfc4S0DuSw"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 254053,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/2mKS9ECgxNSRQgmQO7CY8x"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 226026,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1HCPjfa02m5JwcO37LHfYb"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 189586,
       "name": "Me Cans\u00e9 De Ti",
       "url": "https://open.spotify.com/track/1E8m5iVqlagmy0B8yWwMGf"
@@ -1445,6 +1445,28 @@
       "duration_ms": 266493,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+    },
+    {
+      "album": {
+        "name": "The Boatlift",
+        "url": "https://open.spotify.com/album/7m9AYxqeFPagkaqlg6WE0J"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245054,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/2cZ5ACJfBj2uAXARdHpjAW"
     },
     {
       "album": {

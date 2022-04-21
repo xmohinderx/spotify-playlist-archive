@@ -4,7 +4,7 @@
 
 > All your favorite tracks from Bridgerton.
 
-63 songs - 3 hr 12 min - not published yet
+63 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/0mJUowbTdX1XFAErFSfgqQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

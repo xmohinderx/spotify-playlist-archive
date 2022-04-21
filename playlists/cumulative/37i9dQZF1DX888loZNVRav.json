@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-19",
   "description": "Love at its most dramatic. Cover: Moulin Rouge",
   "name": "Broadway in Love!",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2qmmfC30ZHMujmfzim09nF"
+  ],
   "tracks": [
     {
       "album": {
@@ -147,7 +149,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 282906,
       "name": "All The Wasted Time",
       "url": "https://open.spotify.com/track/0ZBRs1C3g6nZykR7jPFPBi"
@@ -227,6 +229,28 @@
       "duration_ms": 288746,
       "name": "Bewitched, Bothered And Bewildered - Pal Joey",
       "url": "https://open.spotify.com/track/5h4OU6XDhMvXrlutT95I2A"
+    },
+    {
+      "album": {
+        "name": "Show Boat (A London Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/6YKXxZuLUMI9TRPAHVbJpx"
+      },
+      "artists": [
+        {
+          "name": "Jerome Kern",
+          "url": "https://open.spotify.com/artist/09E7wcrEyqU2n1rnhzVT0h"
+        },
+        {
+          "name": "Oscar Hammerstein II",
+          "url": "https://open.spotify.com/artist/1DsYsmAtNbrMkoyrIXP6HU"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204853,
+      "name": "Bill",
+      "url": "https://open.spotify.com/track/0BKNA4OFye3cS0JPzZ9BOv"
     },
     {
       "album": {
@@ -395,6 +419,24 @@
       "duration_ms": 199826,
       "name": "Do You Love Me?",
       "url": "https://open.spotify.com/track/4Dndv8nt0DSxNzKNrh12tZ"
+    },
+    {
+      "album": {
+        "name": "Anything Goes (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL"
+      },
+      "artists": [
+        {
+          "name": "Colin Donnell",
+          "url": "https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214106,
+      "name": "Easy to Love",
+      "url": "https://open.spotify.com/track/3hNRNKpFhsKRWRqPt2Lex3"
     },
     {
       "album": {
@@ -578,6 +620,24 @@
     },
     {
       "album": {
+        "name": "The Bodyguard: The Musical (World Premiere Cast Recording)",
+        "url": "https://open.spotify.com/album/4WFaeEbGR2FPRzxgdsGBBF"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Burke",
+          "url": "https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/7Ejb4x73Wlp8Qn9vwA0fD1"
+    },
+    {
+      "album": {
         "name": "A New Brain (2015 New York Cast Recording)",
         "url": "https://open.spotify.com/album/6vsRhoxMNFQBUhRIZ3Ocr9"
       },
@@ -644,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Bernadette Peters Loves Rodgers And Hammerstein",
+        "url": "https://open.spotify.com/album/4kECsyOIrvR2kemjIFtoBU"
+      },
+      "artists": [
+        {
+          "name": "Bernadette Peters",
+          "url": "https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "If I Loved You",
+      "url": "https://open.spotify.com/track/0r0rra7aKtWU5w6VFIxrhY"
+    },
+    {
+      "album": {
         "name": "Guys and Dolls (New Broadway Cast Recording (1992))",
         "url": "https://open.spotify.com/album/7aVLz778h7j4o82KcAD2Ic"
       },
@@ -659,7 +737,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 151573,
       "name": "If I Were a Bell",
       "url": "https://open.spotify.com/track/72eXptAG5hDKvS59VDLHNU"
@@ -871,7 +949,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 145906,
       "name": "My Junk - Original Broadway Cast Recording/2006",
       "url": "https://open.spotify.com/track/1ObqIFmNsmION2gjrvYycO"
@@ -937,7 +1015,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 236773,
       "name": "Not While I'm Around",
       "url": "https://open.spotify.com/track/67RQrv20bjrWI2cAWSjJXC"
@@ -955,7 +1033,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 239466,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0whLBafLYqsuFouLM2ZT9O"
@@ -1145,6 +1223,54 @@
       "duration_ms": 211704,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/1AD6IcfzMTyQGrNsH37SMV"
+    },
+    {
+      "album": {
+        "name": "La Cage Aux Folles (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4iQ4C2Wtz3pXSXJs9KyxdV"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Grammer",
+          "url": "https://open.spotify.com/artist/3GKxKd2D1EybXwKgXb0iPp"
+        },
+        {
+          "name": "Douglas Hodge",
+          "url": "https://open.spotify.com/artist/41TGcX4Gl8saiG0wUI4Rkq"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281226,
+      "name": "Song on the Sand",
+      "url": "https://open.spotify.com/track/3LX9Tcu3b3gQGYYUmHvzqQ"
+    },
+    {
+      "album": {
+        "name": "Jerry Herman's Broadway",
+        "url": "https://open.spotify.com/album/0MTt6BHGvldR0UFpajEqYC"
+      },
+      "artists": [
+        {
+          "name": "Jerry Herman",
+          "url": "https://open.spotify.com/artist/4GBe6ctpZMwMbaRb9KZrNU"
+        },
+        {
+          "name": "RCA Victor Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1JDbACEgV5erBN0YAOkrg4"
+        },
+        {
+          "name": "Donald Pippin",
+          "url": "https://open.spotify.com/artist/5pEkdccqPR5hRfHupCs6Kz"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Song on the Sand (From La Cage Aux Folles)",
+      "url": "https://open.spotify.com/track/2JoZG7zw425X4FU9rbs4MI"
     },
     {
       "album": {
@@ -1395,7 +1521,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 293293,
       "name": "Too Many Mornings",
       "url": "https://open.spotify.com/track/4PpsqdC0Qh1dnjMDD1bkKd"
@@ -1417,7 +1543,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 300266,
       "name": "Unusual Way",
       "url": "https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF"
@@ -1539,6 +1665,24 @@
       "duration_ms": 214520,
       "name": "What You Mean To Me - Original Broadway Cast Recording",
       "url": "https://open.spotify.com/track/0M9CNqwzeyijhwOsL7ZXF7"
+    },
+    {
+      "album": {
+        "name": "Sondheim, Etc., Etc. Bernadette Peters Live At Carnegie Hall (The Rest Of It)",
+        "url": "https://open.spotify.com/album/1BrJyLlsU77KMsU3nbwtt3"
+      },
+      "artists": [
+        {
+          "name": "Bernadette Peters",
+          "url": "https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133813,
+      "name": "With So Little to Be Sure Of - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/3pR4MnIhXfqefEkqsR4zoY"
     },
     {
       "album": {

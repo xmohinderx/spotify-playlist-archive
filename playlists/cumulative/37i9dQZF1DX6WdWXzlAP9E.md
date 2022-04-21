@@ -4,7 +4,7 @@
 
 > Celebrating 50 years of the original artists, songs, and recordings from the iconic 1969 Woodstock Music Festival
 
-100 songs - 8 hr 0 min - not published yet
+100 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/79hWuis0D7vMO7G2HTY3qC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

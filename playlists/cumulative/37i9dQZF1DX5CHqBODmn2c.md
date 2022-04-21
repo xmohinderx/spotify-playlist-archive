@@ -4,7 +4,7 @@
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-100 songs - 5 hr 51 min - not published yet
+100 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/7vrBYk8g13xhxuK6Oiw2h4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

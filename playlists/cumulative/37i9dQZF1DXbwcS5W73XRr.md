@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-48 songs - 4 hr 36 min - not published yet
+48 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

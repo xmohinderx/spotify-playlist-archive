@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-66 songs - 4 hr 45 min - not published yet
+66 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6Mrcb5TgcGmbpW1GW9qeTX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

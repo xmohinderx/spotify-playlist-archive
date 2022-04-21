@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-112 songs - 6 hr 11 min - not published yet
+112 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1b0fcaaDfDUE8YINvG3jb0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

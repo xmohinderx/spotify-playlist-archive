@@ -4,7 +4,7 @@
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-45 songs - 2 hr 5 min - not published yet
+45 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/4VNtJxCUbu1xvFUfPr4tsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

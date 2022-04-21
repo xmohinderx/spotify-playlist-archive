@@ -4,7 +4,7 @@
 
 > Our favorite electronic tracks of 2021\. Cover: Fred again..
 
-100 songs - 7 hr 20 min - not published yet
+100 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

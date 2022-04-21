@@ -4,7 +4,7 @@
 
 > Whether it's by bus, subway, bike, or your own two feet, here are songs about all the ways to get around your neighborhood.
 
-46 songs - 1 hr 33 min - not published yet
+46 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

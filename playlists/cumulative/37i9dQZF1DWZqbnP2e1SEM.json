@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 194000,
       "name": "Belter",
       "url": "https://open.spotify.com/track/4fDbMAFdycT0hhb3WlaDPs"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 150039,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/13eU3d6Xx9dv8VyUQawPKj"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 199073,
       "name": "Deep In Your Heart",
       "url": "https://open.spotify.com/track/3MLG4eqsR2pL1fcxOltH4W"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS"
@@ -664,6 +664,58 @@
     },
     {
       "album": {
+        "name": "Freak (Joe Stone 2K18 Edit)",
+        "url": "https://open.spotify.com/album/2gDbE9WrayhjpbI1gEhe0t"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Joe Stone",
+          "url": "https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Freak - Joe Stone 2K18 Edit",
+      "url": "https://open.spotify.com/track/2xbRwcylUnX881qaqf5ZZJ"
+    },
+    {
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/322kzWcMpjbggVApH8CHzK"
+      },
+      "artists": [
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/3RMK5x4l1muv7NXrSBCAUE"
+    },
+    {
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -734,6 +786,28 @@
     },
     {
       "album": {
+        "name": "Girl With The Bat (feat. Shadow Boxxer)",
+        "url": "https://open.spotify.com/album/5GQunirDzEmn6GoUemGpsb"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Shadow Boxxer",
+          "url": "https://open.spotify.com/artist/1V6ZXpsxkb3B5pyilT9kJn"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200357,
+      "name": "Girl With The Bat (feat. Shadow Boxxer) - Edit",
+      "url": "https://open.spotify.com/track/4aJ3ys72vKkJXokem7ju7H"
+    },
+    {
+      "album": {
         "name": "Gold Dust (Shy FX Re-Edit)",
         "url": "https://open.spotify.com/album/2y7ahWV2mpl2le5QboUG2k"
       },
@@ -793,10 +867,54 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 224651,
       "name": "Good Times - Radio Edit",
       "url": "https://open.spotify.com/track/6MmcXmpXBeqY640DLNHPKW"
+    },
+    {
+      "album": {
+        "name": "Gotta Get Thru This",
+        "url": "https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bedingfield",
+          "url": "https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX"
+        },
+        {
+          "name": "D'N'D Productions",
+          "url": "https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Gotta Get Thru This - D'N'D Radio Edit",
+      "url": "https://open.spotify.com/track/023lag1AgeOf7YChojecRu"
+    },
+    {
+      "album": {
+        "name": "Hands Free",
+        "url": "https://open.spotify.com/album/7DA9N7yyg0v7erXnFTliAd"
+      },
+      "artists": [
+        {
+          "name": "The.wav",
+          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
+        },
+        {
+          "name": "Screama",
+          "url": "https://open.spotify.com/artist/1e3xhbR7Jo9vB5rvtMQv9c"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243515,
+      "name": "Hands Free",
+      "url": "https://open.spotify.com/track/4ULgU2dA3wrnmYwpW6uvMA"
     },
     {
       "album": {
@@ -880,6 +998,28 @@
     },
     {
       "album": {
+        "name": "Here To Party (Shaun Dean Remix)",
+        "url": "https://open.spotify.com/album/33REBrf4zWzcTBuCfZX0Tt"
+      },
+      "artists": [
+        {
+          "name": "S Dog",
+          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+        },
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "Here To Party - Shaun Dean Remix",
+      "url": "https://open.spotify.com/track/7aUSQFp0twv9wpborjXV0V"
+    },
+    {
+      "album": {
         "name": "Hideout",
         "url": "https://open.spotify.com/album/2VCF6Pjwg0KAiCO5OlPP5N"
       },
@@ -953,7 +1093,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 206250,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/3VSxz7unMI9GsJOaie9R2w"
@@ -983,7 +1123,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 262588,
       "name": "I Got You (feat. Tyler Daley)",
       "url": "https://open.spotify.com/track/5IFNp4DueyGpUwaXs6JrK1"
@@ -1245,7 +1385,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 186200,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/33VrQvOZ7dyytQV3xCMolM"
@@ -1522,6 +1662,28 @@
     },
     {
       "album": {
+        "name": "Pony (Jump On It) [Radio Mix]",
+        "url": "https://open.spotify.com/album/0hKfTAsyJpeNalnMqBhdp7"
+      },
+      "artists": [
+        {
+          "name": "Tough Love",
+          "url": "https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183753,
+      "name": "Pony (Jump On It) - Radio Mix",
+      "url": "https://open.spotify.com/track/6SDi6HUaibLqc85XjIxZFN"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0PX69mVcjK2diUjMw6S3fW"
       },
@@ -1584,6 +1746,28 @@
     },
     {
       "album": {
+        "name": "Repeat After Me (feat. Melissa Steel)",
+        "url": "https://open.spotify.com/album/6xP8h3MXi0cfTo2qx3ut0g"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Melissa Steel",
+          "url": "https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172940,
+      "name": "Repeat After Me (feat. Melissa Steel)",
+      "url": "https://open.spotify.com/track/3t2Cyq3GntNxnffzRRlCLp"
+    },
+    {
+      "album": {
         "name": "Rover (feat. DTG) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/7BEaaAN03KbsnTslrWVFXm"
       },
@@ -1621,7 +1805,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 220645,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/1UohCjO8pinVHaIYsLRY82"
@@ -1647,6 +1831,28 @@
       "duration_ms": 204133,
       "name": "Sambuca - Original Mix (Radio Edit) [feat. Dennis G]",
       "url": "https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5gz0manw16JDHq1wwJDZl7"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH"
     },
     {
       "album": {
@@ -1719,7 +1925,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 214203,
       "name": "Strike a Pose (feat. Aitch)",
       "url": "https://open.spotify.com/track/23GvTfcGK454ppLsts3W44"
@@ -1741,6 +1947,28 @@
       "duration_ms": 180000,
       "name": "Summer 91 (Looking Back)",
       "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2R6V1HDBBgRxfu469y6V6R"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        },
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Sunshine - Wookie Main Mix",
+      "url": "https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB"
     },
     {
       "album": {
@@ -1828,6 +2056,28 @@
     },
     {
       "album": {
+        "name": "Thiago Silva",
+        "url": "https://open.spotify.com/album/6JYMpRz7M9T2JlkjKHmsdc"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201963,
+      "name": "Thiago Silva",
+      "url": "https://open.spotify.com/track/3DKCTIiJ97bS9TGiqcABjo"
+    },
+    {
+      "album": {
         "name": "Thinkin' of You",
         "url": "https://open.spotify.com/album/7qd147QCMllSuR2e3FVhyu"
       },
@@ -1905,7 +2155,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 208483,
       "name": "Vibranium",
       "url": "https://open.spotify.com/track/3i3zj8jTAHkr3b1dSR6SOU"
@@ -1974,6 +2224,28 @@
     },
     {
       "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/0K0GkPXv2KUpMIT6ugMkAs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340268,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/7mMaJKkvMKUB4KPtWjMQ8D"
+    },
+    {
+      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
       },
@@ -1993,6 +2265,28 @@
       "duration_ms": 205653,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/1WAa8GJB9nzUWjT0H5ZXCl"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156630,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/7CN6ZYIX338ekn7pb2CpQp"
     },
     {
       "album": {
@@ -2055,7 +2349,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 188346,
       "name": "You Want Me (feat. Sadie Ama)",
       "url": "https://open.spotify.com/track/4xX7OsX8XTGWJgRxNNIaFT"
@@ -2103,7 +2397,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"

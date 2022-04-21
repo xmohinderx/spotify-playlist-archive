@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,594 likes - 101 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,590 likes - 101 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

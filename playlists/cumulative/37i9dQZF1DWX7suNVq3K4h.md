@@ -4,7 +4,7 @@
 
 > Whether it's playtime, bath time..\. or you just need a little me\-time, this selection of soothing Mozart favourites is guaranteed to help the whole family relax and unwind.
 
-46 songs - 5 hr 0 min - not published yet
+46 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/6cVCYStqyCjuHOr8xl7111)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

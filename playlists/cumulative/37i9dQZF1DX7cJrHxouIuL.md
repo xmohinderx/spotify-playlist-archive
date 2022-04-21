@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-147 songs - 6 hr 55 min - not published yet
+147 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

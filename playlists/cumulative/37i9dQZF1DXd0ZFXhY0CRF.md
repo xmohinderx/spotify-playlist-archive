@@ -4,7 +4,7 @@
 
 > These women rock our worlds with their music and influence\. Cover: Alanis Morissette
 
-135 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/4puxHH16U8QMCFkFLBLCLa)
+136 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/4puxHH16U8QMCFkFLBLCLa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cherry Bomb](https://open.spotify.com/track/2Ef92XBBEGsnP35iTX2E0Z) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fetish](https://open.spotify.com/album/4Cem7QWAoT6h5SfCeQpmSK) | 2:33 | 2020-03-11 | 2022-03-09 |
 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 | 2020-03-11 |  |
 | [City Of Angels](https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:29 | 2022-03-08 |  |
+| [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-04-20 |  |
 | [Closer to Fine](https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Indigo Girls \(Expanded Edition\)](https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x) | 4:01 | 2020-03-11 |  |
 | [Comeback Kid](https://open.spotify.com/track/1sSvW3qRh5Om9Bzn6ohWE1) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS) | 3:02 | 2020-03-11 |  |
 | [Coming Up Short](https://open.spotify.com/track/3YrT4nWBMF1eEHYc2fNOht) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Coming Up Short](https://open.spotify.com/album/5M2Z9oYLzg6BzpefliunfX) | 3:15 | 2020-03-11 | 2022-03-09 |
@@ -81,7 +82,7 @@
 | [Lavender Bones](https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:24 | 2022-03-08 |  |
 | [Like The Way I Do](https://open.spotify.com/track/5CaLWvy4YzGt2ql0RyiS9R) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Greatest Hits \- The Road Less Traveled](https://open.spotify.com/album/3OHO5zTEbUyczJop9lCgAM) | 5:24 | 2020-03-11 | 2022-03-09 |
 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 | 2021-03-01 |  |
-| [Lost on You](https://open.spotify.com/track/2kz40rIHjfGYxurLiuCBp9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Death Valley](https://open.spotify.com/album/5thv3RCZIDkWQVGDicoLkF) | 4:28 | 2020-03-11 |  |
+| [Lost on You](https://open.spotify.com/track/2kz40rIHjfGYxurLiuCBp9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Death Valley](https://open.spotify.com/album/5thv3RCZIDkWQVGDicoLkF) | 4:28 | 2020-03-11 | 2022-04-21 |
 | [Love's Not Enough](https://open.spotify.com/track/05oQoV4EScN9MYyCAE4llX) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Love's Not Enough](https://open.spotify.com/album/7b1FC4bu18T9cHNiNsnYcU) | 3:48 | 2020-03-11 |  |
 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 | 2020-03-11 | 2022-03-09 |
 | [Make Me Wanna Die](https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:55 | 2022-03-08 |  |

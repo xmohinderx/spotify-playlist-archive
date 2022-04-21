@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-137 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+138 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Través del Tiempo Naranja](https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91) | [Airdraw](https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K), [Jo.E](https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax) | [Océano Naranja](https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4) | 3:11 | 2021-11-19 | 2022-02-10 |
 | [Addiction](https://open.spotify.com/track/0XM2m2WD4G0mpQqf3LpBGK) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Addiction](https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL) | 3:03 | 2022-03-25 |  |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-20 | 2022-03-30 |
-| [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 |  |
+| [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
 | [All I Need](https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [All I Need](https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb) | 3:57 | 2022-02-02 | 2022-04-13 |
 | [All In](https://open.spotify.com/track/32hXXUEV1w8DaGnklg1NrP) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Yury](https://open.spotify.com/artist/2XlwOcXssC0QnupEF3RLov) | [All In](https://open.spotify.com/album/2xtIgNQmBybaMsglf2gKMz) | 3:25 | 2022-03-24 |  |
@@ -57,6 +57,7 @@
 | [Find You](https://open.spotify.com/track/7bl50TyWM1apVF684jNU2e) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Find You](https://open.spotify.com/album/5haJvW7CtOB7823T9ByvCe) | 4:15 | 2021-11-24 | 2022-03-01 |
 | [Fire](https://open.spotify.com/track/4mqPjnIz3jSsDY7SaNIISD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Elevate](https://open.spotify.com/album/11FB4HqkYVcitO6sD6MjlV) | 3:06 | 2021-12-07 | 2022-03-12 |
 | [Fly](https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Dream Theory](https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg) | 3:35 | 2021-11-19 | 2022-02-12 |
+| [Focus](https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Focus](https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks) | 3:58 | 2022-04-20 |  |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 |  |
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-14 |  |

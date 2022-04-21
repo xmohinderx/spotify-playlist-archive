@@ -4,7 +4,7 @@
 
 > A gaming playlist for the whole family.
 
-80 songs - 4 hr 35 min - not published yet
+80 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/0UtZrGsgzeG2WCvz7kuWpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

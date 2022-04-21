@@ -4,7 +4,7 @@
 
 > Nothing but the best modern country music\. Cover: Little Big Town
 
-184 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+185 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2021-12-31 | 2022-02-19 |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-04 |  |
 | [Date a Friend](https://open.spotify.com/track/4E5SAE7v1HwDFUVC9Jf5Ly) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [Date a Friend](https://open.spotify.com/album/53xmPUICYWyBcNibRkqZ7c) | 2:58 | 2021-12-31 | 2022-04-09 |
+| [Dear Alcohol](https://open.spotify.com/track/1BbUq9wc4N2q53fR9S6NsZ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Dear Alcohol](https://open.spotify.com/album/4mn4We0lZSZam33G1UQP0d) | 3:56 | 2022-04-20 |  |
 | [Devil in a Bottle](https://open.spotify.com/track/0QpglYZa7QDKmEyDfbcVlY) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Devil in a Bottle](https://open.spotify.com/album/0IqW21i1QETM8Sh6JJIxtc) | 3:47 | 2022-02-18 |  |
 | [Diamonds](https://open.spotify.com/track/5BVWqZTIjIFy0irWUPoV0d) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Been a Minute](https://open.spotify.com/album/41VERoGVrLga61lidsTgZj) | 2:48 | 2021-12-31 | 2022-02-05 |
 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 | 2021-12-31 |  |

@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-65 songs - 3 hr 13 min - not published yet
+65 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

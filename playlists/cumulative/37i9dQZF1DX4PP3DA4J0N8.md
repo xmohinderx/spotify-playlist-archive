@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and jungle ambience.
 
-130 songs - 6 hr 24 min - not published yet
+130 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3l15CqJzr2gc74aGCbMkFu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

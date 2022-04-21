@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-352 songs - 13 hr 57 min - not published yet
+352 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

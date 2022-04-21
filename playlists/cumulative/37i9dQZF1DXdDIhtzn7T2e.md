@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-63 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+64 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [My Medicine](https://open.spotify.com/track/5BL4FPMaF1vmw65OV7yPnE) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/7HnpPsuzBgpkbZJm0GOMgC) | 2:39 | 2021-04-20 |  |
 | [No Stone Unturned](https://open.spotify.com/track/6iFZZn1BcsHzSP13598ujN) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 4:21 | 2021-04-20 |  |
 | [One Toke Over the Line](https://open.spotify.com/track/5NU6nNizcd38J1xJi1tGXE) | [Brewer & Shipley](https://open.spotify.com/artist/4bx9rfUR9C0H26TEiVCwdi) | [Tarkio Road](https://open.spotify.com/album/5lHnXRX9sgB9aGo6r3lcdG) | 3:19 | 2021-04-20 |  |
+| [Our Grass Is Legal](https://open.spotify.com/track/5WREsIXrQ8pleixunsClED) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 4:12 | 2022-04-20 |  |
 | [Paid My Dues \(feat\. Jack Ingram\)](https://open.spotify.com/track/6zEdC244iXLmU9JfQzidAU) | [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Jack Ingram](https://open.spotify.com/artist/6VQGYwqcmPDtqfVTSDqBgp) | [Bruce Robison & the Back Porch Band](https://open.spotify.com/album/63OvteRfdrITCzn2km5Yln) | 3:22 | 2021-11-26 |  |
 | [Pass It On](https://open.spotify.com/track/4NPQb5305qkdRARfAEaOle) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 2:59 | 2021-11-26 |  |
 | [Ready to Roll](https://open.spotify.com/track/5nw7N4ipO6Y75DXMdBpS5p) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:34 | 2021-04-20 |  |

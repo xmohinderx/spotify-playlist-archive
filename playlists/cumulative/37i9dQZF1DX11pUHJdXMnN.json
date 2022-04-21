@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "House and disco jams with an 80s-infused retro flavour.",
   "name": "Laser Disco",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0zvb0POlvbyMbG9Tppieti"
+  ],
   "tracks": [
     {
       "album": {
@@ -24,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Rose Between Two Thorns (VERONICA)",
+        "url": "https://open.spotify.com/album/6ZYlLI0F0LJJbrgM8hEML1"
+      },
+      "artists": [
+        {
+          "name": "BluePrint",
+          "url": "https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221418,
+      "name": "A Rose Between Two Thorns (VERONICA)",
+      "url": "https://open.spotify.com/track/2qo8npLusT0JtbIHvkd1zO"
+    },
+    {
+      "album": {
         "name": "Nothing Stays in One Place for Long",
         "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
       },
@@ -35,7 +55,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 318426,
       "name": "Accidentally We Rushed",
       "url": "https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1"
@@ -250,6 +270,24 @@
     },
     {
       "album": {
+        "name": "Faded/Pyro",
+        "url": "https://open.spotify.com/album/5aUAYUnJtBGYJx3pi8wzeC"
+      },
+      "artists": [
+        {
+          "name": "Port Manteau",
+          "url": "https://open.spotify.com/artist/4ojaRUOBuNIGMobiA8wezo"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207512,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/1mXf4qYj0F6TQjC68HgVpB"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq"
       },
@@ -428,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm"
+    },
+    {
+      "album": {
         "name": "Koko Schanel",
         "url": "https://open.spotify.com/album/52ns9J4p8u9stmBAEu3kJk"
       },
@@ -533,10 +589,28 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 390504,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/1ipzEtURu9dGtQNAd8FD8l"
+    },
+    {
+      "album": {
+        "name": "CARE4LIFE",
+        "url": "https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c"
+      },
+      "artists": [
+        {
+          "name": "Big Miz",
+          "url": "https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339248,
+      "name": "Merek",
+      "url": "https://open.spotify.com/track/4bMsnSgIQmtvFXQcq7jG8e"
     },
     {
       "album": {
@@ -621,7 +695,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 515087,
       "name": "My Computer",
       "url": "https://open.spotify.com/track/0EFONrcgPNCnkQSJ7Y3PnI"
@@ -709,7 +783,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 400259,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/60tZGOC6o3nqJa98se64Wi"
@@ -734,6 +808,42 @@
     },
     {
       "album": {
+        "name": "Italo Disco",
+        "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
+      },
+      "artists": [
+        {
+          "name": "Lifelike",
+          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205078,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
+    },
+    {
+      "album": {
+        "name": "Sorry to Greta",
+        "url": "https://open.spotify.com/album/30cijGXwjWrVccw47OFR0G"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208362,
+      "name": "Sorry to Greta",
+      "url": "https://open.spotify.com/track/7yG1xzSxry4KD8iqQBb5Hf"
+    },
+    {
+      "album": {
         "name": "Street Rave EP",
         "url": "https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon"
       },
@@ -745,7 +855,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 241889,
       "name": "Street Rave - Edit",
       "url": "https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf"
@@ -891,7 +1001,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 405453,
       "name": "Wing House - Shan Remix",
       "url": "https://open.spotify.com/track/1Wc83tGRNW59knQUV26bFp"

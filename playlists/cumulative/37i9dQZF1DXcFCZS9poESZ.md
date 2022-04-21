@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-50 songs - 3 hr 6 min - not published yet
+50 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

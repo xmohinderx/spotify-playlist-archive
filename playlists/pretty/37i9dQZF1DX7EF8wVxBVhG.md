@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,989 likes - 140 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,407 likes - 140 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 25 | [Alpha Concentration 107Hz \- 115Hz](https://open.spotify.com/track/5IEoPKlhlxwjnekvHRXXJW) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:30 |
 | 26 | [Morgenstille \- Alpha Sinus 86Hz \- 93Hz](https://open.spotify.com/track/2NkwIK3b3tqTcjqmWbUM5M) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 4:12 |
 | 27 | [Mirrorlake \- Alpha Sinus 100Hz \- 107Hz](https://open.spotify.com/track/4f2GInNlgh8zlg2KDVyYii) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Binaural Mirror](https://open.spotify.com/album/5Sup9jYgyPcub2p6LXGgmw) | 4:23 |
-| 28 | [Alpha Sinus](https://open.spotify.com/track/5dMfTDcIPnebZk9Opm9GQw) | [Neon Pearl](https://open.spotify.com/artist/2nlnp3ilBaLQqoXychc2cm) | [Binauraal](https://open.spotify.com/album/4Hcb1I7ezgiZu5XJo8ssVU) | 3:12 |
-| 29 | [Binaural Alpha Sinus 300 Hz \- L 308 Hz \- R](https://open.spotify.com/track/2UhpilHNO7eleMYswgCNUP) | [Electonic Arts](https://open.spotify.com/artist/4eUGeFDwIOaHPNz6Sh2liB) | [Binaural Beta Sinus 200 Hz \- L 230 Hz \- R](https://open.spotify.com/album/65mXuLi5O8iLkLO9qkmTSX) | 1:52 |
-| 30 | [Sternschnuppen \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/2EkF4GWkfGmZpoQRI4qgi2) | [Jovian Tides](https://open.spotify.com/artist/4uLQlhaWlgG45om0nfCN5u) | [Mind States](https://open.spotify.com/album/2vHTWqcUcGUs9vxzlFXc7c) | 4:29 |
-| 31 | [In The Zone Alpha Sinus 73Hz \- 81Hz](https://open.spotify.com/track/3FZYjhe4gkudKW3IWmsCtm) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:11 |
-| 32 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/5vnI5x0SucmBVIVGHq8fjn) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 |
-| 33 | [Basic \- Alpha Sinus 85,2hz \- 89,4 hz](https://open.spotify.com/track/0OHNBGd4rLVAyBO3SufMzM) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:47 |
-| 34 | [Alpha Circles 90Hz \- 101Hz](https://open.spotify.com/track/1yJPgthQTuA2AnuzAykO8Z) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 3:33 |
-| 35 | [Strings Drone Alpha 257Hz \- 265Hz](https://open.spotify.com/track/00p7AIp2Y5iNg3QrMYpGDW) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Drones](https://open.spotify.com/album/61U6duTreheP36EenAHyVx) | 2:25 |
-| 36 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 |
-| 37 | [focus \- Alpha Sinus 82Hz \- 90Hz](https://open.spotify.com/track/5cT3Zcnx3DKezVFAYUPpqg) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:40 |
-| 38 | [Binaural Alpha Sinus 150 Hz \- 164 Hz](https://open.spotify.com/track/01cD9hUducONp5qxGREEpc) | [ÅÄÖ123](https://open.spotify.com/artist/6EbQQGEGOAk7F4d4xPambE) | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/album/6KFPda28PBDkfLwTU6iUE5) | 2:34 |
+| 28 | [Ocean Waves Alpha 273Hz \- 281Hz](https://open.spotify.com/track/0DLfZb1MJjSBzrcVM9F4WT) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Waves](https://open.spotify.com/album/1tpXT6M6mhFD7LwPu2WQkC) | 2:06 |
+| 29 | [Alpha Sinus](https://open.spotify.com/track/5dMfTDcIPnebZk9Opm9GQw) | [Neon Pearl](https://open.spotify.com/artist/2nlnp3ilBaLQqoXychc2cm) | [Binauraal](https://open.spotify.com/album/4Hcb1I7ezgiZu5XJo8ssVU) | 3:12 |
+| 30 | [Binaural Alpha Sinus 300 Hz \- L 308 Hz \- R](https://open.spotify.com/track/2UhpilHNO7eleMYswgCNUP) | [Electonic Arts](https://open.spotify.com/artist/4eUGeFDwIOaHPNz6Sh2liB) | [Binaural Beta Sinus 200 Hz \- L 230 Hz \- R](https://open.spotify.com/album/65mXuLi5O8iLkLO9qkmTSX) | 1:52 |
+| 31 | [Sternschnuppen \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/2EkF4GWkfGmZpoQRI4qgi2) | [Jovian Tides](https://open.spotify.com/artist/4uLQlhaWlgG45om0nfCN5u) | [Mind States](https://open.spotify.com/album/2vHTWqcUcGUs9vxzlFXc7c) | 4:29 |
+| 32 | [In The Zone Alpha Sinus 73Hz \- 81Hz](https://open.spotify.com/track/3FZYjhe4gkudKW3IWmsCtm) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:11 |
+| 33 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/5vnI5x0SucmBVIVGHq8fjn) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 |
+| 34 | [Basic \- Alpha Sinus 85,2hz \- 89,4 hz](https://open.spotify.com/track/0OHNBGd4rLVAyBO3SufMzM) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:47 |
+| 35 | [Alpha Circles 90Hz \- 101Hz](https://open.spotify.com/track/1yJPgthQTuA2AnuzAykO8Z) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 3:33 |
+| 36 | [Strings Drone Alpha 257Hz \- 265Hz](https://open.spotify.com/track/00p7AIp2Y5iNg3QrMYpGDW) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Drones](https://open.spotify.com/album/61U6duTreheP36EenAHyVx) | 2:25 |
+| 37 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 |
+| 38 | [focus \- Alpha Sinus 82Hz \- 90Hz](https://open.spotify.com/track/5cT3Zcnx3DKezVFAYUPpqg) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:40 |
 | 39 | [80 Hz Gamma Waves \- Binaural Beats](https://open.spotify.com/track/6Nnz45KtRko0iE00zLKSf3) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Binaural Beats MT](https://open.spotify.com/artist/6JQBjYzGitZexdaxngUCH7) | [Binaural Beats \- Peak Awareness \(Gamma Waves\)](https://open.spotify.com/album/1QsPrWeubge8WfX20IFDql) | 2:03 |
 | 40 | [Binaural Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/7aYJz2VkCYykD2VnRM83A9) | [Light Vibrations](https://open.spotify.com/artist/7HGnugtCkahzbqB9tTOUZP) | [Focused Mind](https://open.spotify.com/album/3f1LpLV6ybqLYGNvwwEowt) | 3:43 |
 | 41 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 139 | [Binaural Gamma Sinus \- Fountain of youth](https://open.spotify.com/track/5AHgXRruc0s1h1avTEomFP) | [Wind Down](https://open.spotify.com/artist/3jSG5CX5rtcwoC7FNWRznb) | [Yoga Science \- 70 Hz \- L 170 Hz](https://open.spotify.com/album/3JQprSzPG9CjHtXjNVgKvA) | 1:48 |
 | 140 | [Binaural Gamma Sinus Smooth](https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:48 |
 
-Snapshot ID: `MTY0NzYwMjg0NSwwMDAwMDAzZjAwMDAwMTdmOWNjODQ3ODgwMDAwMDE3MGFmNDlhNmRh`
+Snapshot ID: `MTY1MDQ1NTgxNCwwMDAwMDA0MDAwMDAwMTgwNDZkNTIwN2MwMDAwMDE3MGFmNDlhNmRh`

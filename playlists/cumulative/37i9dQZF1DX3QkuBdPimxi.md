@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-82 songs - 3 hr 47 min - not published yet
+82 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

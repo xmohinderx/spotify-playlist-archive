@@ -4,7 +4,7 @@
 
 > shaketh thy bottom to these medieval bops.
 
-55 songs - 3 hr 2 min - not published yet
+55 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5zqZQ0RHU2SaSCukHbFI9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

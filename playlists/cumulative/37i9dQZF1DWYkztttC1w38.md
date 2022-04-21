@@ -4,7 +4,7 @@
 
 > Soothing classical music to help you relax while you read.
 
-68 songs - 4 hr 35 min - not published yet
+68 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/3BIIb2BDqbfLz9ZduhMPtX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

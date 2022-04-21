@@ -4,7 +4,7 @@
 
 > The best dance songs of 2021\. Cover: Becky Hill.
 
-110 songs - 5 hr 41 min - not published yet
+110 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4NC9GP1oyZmO0sV37Tctze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

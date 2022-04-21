@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-04-20",
   "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: TREASURE",
   "name": "KimBops!",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2ZS5sBUg2D7ThTAofFyjhj"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "2 O' CLOCK",
+        "url": "https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "2 O' CLOCK",
+      "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
+    },
     {
       "album": {
         "name": "A little more (From \"soundtrack#1\" [Original Soundtrack])",
@@ -129,6 +149,24 @@
       "duration_ms": 219933,
       "name": "BOP BOP!",
       "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
+    },
+    {
+      "album": {
+        "name": "BORN TO LOVE YOU",
+        "url": "https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174452,
+      "name": "BORN TO LOVE YOU",
+      "url": "https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP"
     },
     {
       "album": {
@@ -475,7 +513,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 186186,
       "name": "Eye On You",
       "url": "https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7"
@@ -554,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Glitch Mode",
+      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
+    },
+    {
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -605,6 +661,24 @@
       "duration_ms": 222893,
       "name": "Grey Suit",
       "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
+    },
+    {
+      "album": {
+        "name": "I Am The Best",
+        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208730,
+      "name": "I Am The Best",
+      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
     },
     {
       "album": {
@@ -713,7 +787,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
@@ -735,6 +809,42 @@
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV"
+    },
+    {
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Part.5)",
+        "url": "https://open.spotify.com/album/50WHnqFZhIQC88oZr5hlN3"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/5btJjUxmhPK1cwdw0mnhRD"
     },
     {
       "album": {
@@ -785,7 +895,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 182853,
       "name": "Lxxk 2 U",
       "url": "https://open.spotify.com/track/5U7emXCoCl8EOEJUVNbguC"
@@ -803,7 +913,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 249388,
       "name": "Make A Smile For Me",
       "url": "https://open.spotify.com/track/2WMiel6QbKFxk4BOLNlV6D"
@@ -839,7 +949,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 209600,
       "name": "Maybe if",
       "url": "https://open.spotify.com/track/6MxIazgQENgaa6StpFxGpu"
@@ -954,6 +1064,28 @@
     },
     {
       "album": {
+        "name": "Descendants Of The Sun Pt.5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/17TnRTTqr5EkE1omGCTXQg"
+      },
+      "artists": [
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        },
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235727,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/1qsjEmjRzXVsmC0oLitHzN"
+    },
+    {
+      "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
       },
@@ -1001,7 +1133,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 201680,
       "name": "Play",
       "url": "https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu"
@@ -1113,7 +1245,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 224284,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/7iD5HEWfQuOS9iC6IaNwu7"
@@ -1521,10 +1653,44 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 239173,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 7",
+        "url": "https://open.spotify.com/album/17DDjzS1wvt4zixJVxF9wX"
+      },
+      "artists": [
+        {
+          "name": "Kim Taeri",
+          "url": "https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X"
+        },
+        {
+          "name": "Nam Joohyuk",
+          "url": "https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv"
+        },
+        {
+          "name": "Bona(WJSN)",
+          "url": "https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL"
+        },
+        {
+          "name": "Choi Hyunwook",
+          "url": "https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ"
+        },
+        {
+          "name": "Lee Joomyung",
+          "url": "https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269678,
+      "name": "With",
+      "url": "https://open.spotify.com/track/0Rzx0irygv7gZd8YlvK5aO"
     },
     {
       "album": {

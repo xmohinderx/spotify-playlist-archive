@@ -90,6 +90,24 @@
     },
     {
       "album": {
+        "name": "7 De Mayo",
+        "url": "https://open.spotify.com/album/1nKovORSFiC5BVIhuZAHBP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "7 De Mayo",
+      "url": "https://open.spotify.com/track/48wkz2E0apRJr6E4zQyDpx"
+    },
+    {
+      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/6YSzIBEEAWmJurZyf0XcVi"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 291456,
       "name": "Bajen Pa' Aca",
       "url": "https://open.spotify.com/track/06jBPN4e0o1flRVWjHO6fX"
@@ -241,7 +259,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 155060,
       "name": "BENDICIONES",
       "url": "https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn"
@@ -288,6 +306,24 @@
     },
     {
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229455,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM"
+    },
+    {
+      "album": {
         "name": "Chambea",
         "url": "https://open.spotify.com/album/1M3WE183lRAy3NY3JDOsts"
       },
@@ -299,7 +335,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 191999,
       "name": "Chambea",
       "url": "https://open.spotify.com/track/6ElmxV9B2mSNscEjP27M7i"
@@ -526,6 +562,42 @@
     },
     {
       "album": {
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179078,
+      "name": "Es Mejor",
+      "url": "https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4"
+    },
+    {
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "album": {
         "name": "Estamos Bien",
         "url": "https://open.spotify.com/album/4BTzqI5BYJZscSgm1TUncT"
       },
@@ -585,7 +657,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 194700,
       "name": "Gan-Ga",
       "url": "https://open.spotify.com/track/2J3jxgfp6GWoBsMPIa20oC"
@@ -721,10 +793,60 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 342066,
       "name": "La Groupie",
       "url": "https://open.spotify.com/track/254VGWS3FCXAlw572PMYAP"
+    },
+    {
+      "album": {
+        "name": "La Mia (Remix)",
+        "url": "https://open.spotify.com/album/5KFoHD3Tby2JyPRZSCVZiC"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422211,
+      "name": "La Mia - Remix",
+      "url": "https://open.spotify.com/track/59GJkQNSKKA7km23fYj7dW"
     },
     {
       "album": {
@@ -915,7 +1037,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM"
@@ -959,7 +1081,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 184500,
       "name": "Moon Talk",
       "url": "https://open.spotify.com/track/6pgUgIgbzovuuUYqpfnVNz"
@@ -1113,7 +1235,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 258280,
       "name": "P FKN R",
       "url": "https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi"
@@ -1174,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179304,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC"
+    },
+    {
+      "album": {
         "name": "Si Tu Novio Te Deja Sola",
         "url": "https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU"
       },
@@ -1189,10 +1329,44 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 243560,
       "name": "Si Tu Novio Te Deja Sola",
       "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
+    },
+    {
+      "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/2on1X8alGExhlXBObA3omC"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302601,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/1ACsCGBGkadCUnmTTxKXHC"
     },
     {
       "album": {
@@ -1367,6 +1541,28 @@
     {
       "album": {
         "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
+    },
+    {
+      "album": {
+        "name": "La Oscuridad",
         "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
       },
       "artists": [
@@ -1429,7 +1625,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Tu No Metes Cabra - Remix",
       "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
@@ -1503,7 +1699,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 154991,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
@@ -1559,7 +1755,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 206943,
       "name": "\u00bfC\u00d3MO TE VA, QUERIDA?",
       "url": "https://open.spotify.com/track/1uiX0bdc2sPHcL1k02bC2G"

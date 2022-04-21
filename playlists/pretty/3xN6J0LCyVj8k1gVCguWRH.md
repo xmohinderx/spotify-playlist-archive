@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain](/playlists/plain/3xN6J0LCyVj8k1gVCguWRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3xN6J0LCyVj8k1gVCguWRH)
 
-### [Barack Obama's 2021 Summer Playlist](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
+### [Barack Obama's 2022 Summer Playlist](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonus tracks\)
+> With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,123 likes - 121 songs - 7 hr 42 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,135 likes - 121 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 120 | [You Know It's Right](https://open.spotify.com/track/3nIYAdueLM2QCaftvDfDYw) | [Steve Yanek](https://open.spotify.com/artist/0zoMMFw2wdVKjJxVDoui5e) | [You Know It's Right](https://open.spotify.com/album/6WpW2lCm2RMUuFT2DRHFOl) | 3:48 |
 | 121 | [Buy Yourself a Dream](https://open.spotify.com/track/5lmkwCsjIAqlgbPn8RJ3aG) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Buy Yourself a Dream](https://open.spotify.com/album/4VTvz0ONIdFCdnYpw81SVk) | 4:08 |
 
-Snapshot ID: `Mjc0NCwxYWYzNTU3MDA3OTI2NDFmMTBlYzczMTA4ZmU3OTg3NDhmN2FmZTkx`
+Snapshot ID: `Mjc0Nyw2ZmU2ZDI1OWY4NDNjYWYwNDNjZWQyNjIwYmQ3YjljNmZlNjU1NjI3`

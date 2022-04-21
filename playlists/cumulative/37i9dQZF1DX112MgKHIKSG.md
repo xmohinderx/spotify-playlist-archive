@@ -4,7 +4,7 @@
 
 > Stories from the world of Peppa Pig!
 
-29 songs - 2 hr 20 min - not published yet
+29 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/2ipshZDU9na0eERMIoB8NL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-35 songs - 2 hr 11 min - not published yet
+35 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/0ClG1AQzAPgAIoQvOIkI6A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

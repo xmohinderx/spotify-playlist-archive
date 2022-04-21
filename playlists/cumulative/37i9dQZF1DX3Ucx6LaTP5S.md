@@ -4,7 +4,7 @@
 
 > It's a good day to be a My Day!
 
-68 songs - 4 hr 4 min - not published yet
+68 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/1i2xcTcnHNGcPNvIE1dhSf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

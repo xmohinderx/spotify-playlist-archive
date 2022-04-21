@@ -2,9 +2,9 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> babe wake up new yung lean just dropped
+> Not not not pop\. Cover: Yung Lean
 
-843 songs - 1 day 17 hr 3 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+844 songs - 1 day 17 hr 6 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 | 2022-02-04 |  |
 | [It'sNotOver](https://open.spotify.com/track/46IYlGAbGcgllTPV7I7wOO) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [It'sNotOver](https://open.spotify.com/album/7nKjwNymR0nZtWjYw2gdiz) | 2:36 | 2020-12-04 | 2021-03-26 |
 | [Jacknife](https://open.spotify.com/track/6qZIy961yxJZpFkgsq8Vm2) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Smile More](https://open.spotify.com/album/3kybax0X96QAkAWWeoGO54) | 2:43 | 2021-03-14 | 2021-10-14 |
+| [Jade](https://open.spotify.com/track/6x2UXxRdaIBW7a9UOzSqAj) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [Jade](https://open.spotify.com/album/3dg7bQGeuIG6SZTdTxnqTs) | 3:01 | 2022-04-20 |  |
 | [jaunty](https://open.spotify.com/track/4vccrYJ6QoWGOn25QEhZVu) | [KOAD](https://open.spotify.com/artist/5QQtovQzgOb1s1UQDnQfN0) | [jaunty](https://open.spotify.com/album/3LnNhe2yuPlD0ovEvPD51b) | 2:56 | 2021-05-14 | 2021-06-16 |
 | [JEREMIAH \- ORIGINAL](https://open.spotify.com/track/5oK0M0jRNHDVMdsMQeKQaI) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK](https://open.spotify.com/album/5iwHnTMSgzypmxdmQOr7if) | 3:03 | 2021-06-05 | 2021-09-04 |
 | [Jimmy Jimmy \(feat\. AJ Tracey\)](https://open.spotify.com/track/4Iv2jOCKQakC3YWhijrRKK) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Meanwhile EP](https://open.spotify.com/album/0q19TmDISPRbmRIZJyrEz6) | 3:03 | 2021-08-27 | 2022-03-01 |

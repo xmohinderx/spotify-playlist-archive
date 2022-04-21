@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: bülow
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,100 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,181 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 48 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
 | 49 | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/track/2tyh6kMjnlUsAfyvrYwIDE) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6), [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/album/09X44dWv4yXjDk7c0EvoPS) | 2:15 |
 | 50 | [American Dream](https://open.spotify.com/track/5fnYDXLhFOioudAeiQGOPD) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [American Dream](https://open.spotify.com/album/0ySQ4Viqi1pDRZEC3Wwx1z) | 2:40 |
-| 51 | [Crash My Car](https://open.spotify.com/track/4Rrl4ep3FRVuF2OZ40LQl6) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [Crash My Car/Devil On My Shoulder](https://open.spotify.com/album/0QjEeDfF38YVsbb9Bv92NC) | 2:44 |
+| 51 | [crash my car](https://open.spotify.com/track/4Rrl4ep3FRVuF2OZ40LQl6) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [crash my car/devil on my shoulder](https://open.spotify.com/album/0QjEeDfF38YVsbb9Bv92NC) | 2:44 |
 | 52 | [lifeline](https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [lifeline](https://open.spotify.com/album/5brif3YJdrv7Ypu552Rb8x) | 2:45 |
 | 53 | [Chewed Up](https://open.spotify.com/track/28kCHXifnUCx34nH64klax) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Chewed Up](https://open.spotify.com/album/4FfzZbmcXKpO9zMauEZlTl) | 2:38 |
 | 54 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 |

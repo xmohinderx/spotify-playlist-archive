@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-228 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+230 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 | 2021-09-06 |  |
 | [Echo](https://open.spotify.com/track/63xMceq88HYzM98ZruGHMf) | [Zoeli](https://open.spotify.com/artist/3AujDNtDjZiC9J72r13E3t) | [Echo](https://open.spotify.com/album/5XwBY6nxfN4u6xHujd8jvS) | 2:55 | 2021-09-06 |  |
 | [Echoes](https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 4:20 | 2021-09-06 |  |
+| [Edio](https://open.spotify.com/track/0QdOnce1FwtfhjHGyYWcJ5) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Edio](https://open.spotify.com/album/1XgPv3oY99SZ2ZQ2XPROkb) | 2:57 | 2022-04-20 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-09-06 |  |
 | [einschlafen pt III](https://open.spotify.com/track/6kQAWkavVJEqKUmA84N8rE) | [Bernd Mehler](https://open.spotify.com/artist/0009LMJQT62wdZVgnM4vBy) | [einschlafen](https://open.spotify.com/album/6ukmmK7R5xhUJaB4AT7sCY) | 3:04 | 2021-09-06 |  |
 | [Elevated](https://open.spotify.com/track/26xvTIdSaCeec4ZBzFBs3z) | [NK\-67](https://open.spotify.com/artist/11TxJf8mz0gmLUK050PyGU) | [Elevated](https://open.spotify.com/album/4Qy1lUfLOUghYw1jbT6Mmc) | 3:33 | 2021-09-06 |  |
@@ -218,6 +219,7 @@
 | [Underwater](https://open.spotify.com/track/33VnwqwErqFX9tKW3M2jzO) | [Enis Hartmann](https://open.spotify.com/artist/1L7wIuEyeJaUv8ZPilJEPa) | [Steps & Leaps](https://open.spotify.com/album/5WVe8BBSIMvv4w2mqG7RZP) | 2:57 | 2021-09-06 |  |
 | [Unity](https://open.spotify.com/track/0gcxkJ3YAK9xp7tPZaNVAJ) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 3:21 | 2021-09-06 |  |
 | [Uplifting](https://open.spotify.com/track/65nKrnZS2M6OaGiZaMOM0S) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Uplifting](https://open.spotify.com/album/6WHIs2pQ0qQrSfea85Atwd) | 4:54 | 2021-09-06 |  |
+| [Uspavan](https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO) | [Sasja Lekko](https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF) | [Uspavan](https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg) | 2:33 | 2022-04-20 |  |
 | [Venus](https://open.spotify.com/track/79V6rvv3mmDzaRUXvuQG8Q) | [Lucy Miya](https://open.spotify.com/artist/0B7K3GQpeWwIi0UGg2HNZj) | [Venus](https://open.spotify.com/album/6IYkBCBY5WnP5xLB4HaBFI) | 2:37 | 2021-09-06 |  |
 | [View from above](https://open.spotify.com/track/6g27Rgmh70pRtObHez98FU) | [Crosswood](https://open.spotify.com/artist/0f9ikBIWz9YiVZ3ut8sGYR) | [View from above](https://open.spotify.com/album/42r3FDP6ja38BMV15Y2a1F) | 2:19 | 2021-09-06 |  |
 | [Wait Until Spring](https://open.spotify.com/track/4FQ1Wm24y1jm4iKbrfRQfW) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Wait Until Spring](https://open.spotify.com/album/6HrenLgTHjgBKCVzRkvEe7) | 3:09 | 2021-09-06 |  |

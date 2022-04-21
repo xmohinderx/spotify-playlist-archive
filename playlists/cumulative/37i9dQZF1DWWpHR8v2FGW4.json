@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "Always come in 1st.",
   "name": "Nitroboost",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7pJ5T0fVYty4hK4BC2wxPr"
+  ],
   "tracks": [
     {
       "album": {
@@ -50,6 +52,24 @@
     },
     {
       "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159569,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
+    },
+    {
+      "album": {
         "name": "Ballin'",
         "url": "https://open.spotify.com/album/1pyWnUDhbIlDt5WQMvje3R"
       },
@@ -61,7 +81,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 207360,
       "name": "Ballin'",
       "url": "https://open.spotify.com/track/22Nu3XaaJMV2uNRRt7VFbT"
@@ -79,7 +99,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 200013,
       "name": "BARRICADE",
       "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
@@ -104,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248965,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx"
       },
@@ -123,6 +161,28 @@
       "duration_ms": 199768,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn"
+    },
+    {
+      "album": {
+        "name": "Change Us",
+        "url": "https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Jack Dawson",
+          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Change Us",
+      "url": "https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5"
     },
     {
       "album": {
@@ -155,7 +215,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 269882,
       "name": "Climax",
       "url": "https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik"
@@ -195,7 +255,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 285393,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/3GG6X47vnwgtMxejiMjOFK"
@@ -228,6 +288,28 @@
     },
     {
       "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/7fE0SknwuDfgzXdiO2JaTB"
       },
@@ -243,6 +325,24 @@
       "duration_ms": 188965,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6Q6PUsRgFVjKNEw9Q9NoK6"
+    },
+    {
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh"
+      },
+      "artists": [
+        {
+          "name": "Ephixa",
+          "url": "https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198576,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8"
     },
     {
       "album": {
@@ -264,6 +364,24 @@
     },
     {
       "album": {
+        "name": "Empty Bed",
+        "url": "https://open.spotify.com/album/0rZHZsyJnQb0K0KV6vCdhi"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214634,
+      "name": "Empty Bed",
+      "url": "https://open.spotify.com/track/4CHDcWhqTsz53Ur9zmvHs8"
+    },
+    {
+      "album": {
         "name": "Eyes Low",
         "url": "https://open.spotify.com/album/47LNCjzVsiaoCBq1YEwcnc"
       },
@@ -275,7 +393,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 196173,
       "name": "Eyes Low",
       "url": "https://open.spotify.com/track/4urIo6uuV3Dio7S0mEOjDn"
@@ -380,6 +498,60 @@
     },
     {
       "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/3v9LVVmDsD3PtrCthrQdnT"
+      },
+      "artists": [
+        {
+          "name": "Arlow",
+          "url": "https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195987,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/00ITGLHw7Kx5mCr6lEfj03"
+    },
+    {
+      "album": {
+        "name": "Monstercat - Best of 2020",
+        "url": "https://open.spotify.com/album/3juG6u5kmrIdzbPEBu75xk"
+      },
+      "artists": [
+        {
+          "name": "Protostar",
+          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245113,
+      "name": "Galaxies",
+      "url": "https://open.spotify.com/track/2wJwCrie7euxtBIl1uZGXi"
+    },
+    {
+      "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf"
+      },
+      "artists": [
+        {
+          "name": "Phil Gonzo",
+          "url": "https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271081,
+      "name": "Gang",
+      "url": "https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule"
+    },
+    {
+      "album": {
         "name": "Getaway (Remixes)",
         "url": "https://open.spotify.com/album/1pCddf4xbF2oOYFXTOZzDS"
       },
@@ -439,7 +611,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 217142,
       "name": "Higher Purpose",
       "url": "https://open.spotify.com/track/67WV5EiiBY9zWPFnwK3yER"
@@ -497,7 +669,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 137977,
       "name": "I don't give a Fuck",
       "url": "https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY"
@@ -595,7 +767,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 229144,
       "name": "Let's Roll",
       "url": "https://open.spotify.com/track/35lF14PODtapsReNYnN6D9"
@@ -631,10 +803,36 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 222857,
       "name": "Misdemeanor",
       "url": "https://open.spotify.com/track/1Bg8eYRESsgf64VK9GvbsO"
+    },
+    {
+      "album": {
+        "name": "Move To The Beat Like",
+        "url": "https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip"
+      },
+      "artists": [
+        {
+          "name": "401 WST",
+          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        },
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106875,
+      "name": "Move To The Beat Like",
+      "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
     },
     {
       "album": {
@@ -653,7 +851,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 245717,
       "name": "Open Your Eyes - NCT Remix",
       "url": "https://open.spotify.com/track/67PViHewN1bqGK5pzMR0T9"
@@ -693,10 +891,46 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 200826,
       "name": "Phantom Pt. II",
       "url": "https://open.spotify.com/track/2A3emhzbZo7eSvEUtAm3ZS"
+    },
+    {
+      "album": {
+        "name": "This Is Cyberpunk",
+        "url": "https://open.spotify.com/album/4B8LYWnbktN24lEi7q1TwC"
+      },
+      "artists": [
+        {
+          "name": "Killabyte",
+          "url": "https://open.spotify.com/artist/5iKe6CPH9TWj5ybijbv0NY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Racing Light",
+      "url": "https://open.spotify.com/track/0hIq1t9WEjjhm54r22DnGu"
+    },
+    {
+      "album": {
+        "name": "Rain God",
+        "url": "https://open.spotify.com/album/6CGIHV6jxxjPisNA3WvhlY"
+      },
+      "artists": [
+        {
+          "name": "Dawn Wall",
+          "url": "https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267108,
+      "name": "Rain God",
+      "url": "https://open.spotify.com/track/4XC8wCNrIneWEL0ihVZDwS"
     },
     {
       "album": {
@@ -729,7 +963,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 274977,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov"
@@ -838,6 +1072,24 @@
     },
     {
       "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH"
+      },
+      "artists": [
+        {
+          "name": "Noisestorm",
+          "url": "https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG"
+    },
+    {
+      "album": {
         "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
       },
@@ -940,6 +1192,62 @@
     },
     {
       "album": {
+        "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
+      },
+      "artists": [
+        {
+          "name": "The FaNaTiX",
+          "url": "https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237983,
+      "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
+    },
+    {
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f"
+      },
+      "artists": [
+        {
+          "name": "NEUNOSIEM",
+          "url": "https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179238,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA"
+    },
+    {
+      "album": {
         "name": "Immersion",
         "url": "https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS"
       },
@@ -951,7 +1259,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 304106,
       "name": "Watercolour - Full Version; Single",
       "url": "https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5"
@@ -969,7 +1277,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 194579,
       "name": "where r u",
       "url": "https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn"
@@ -987,7 +1295,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 236973,
       "name": "You'll Be Under My Wheels",
       "url": "https://open.spotify.com/track/0O0ZTzfty1pRwJj6Tvej0Y"

@@ -4,7 +4,7 @@
 
 > Listen BAEKHYUN's all solo tracks here.
 
-38 songs - 2 hr 15 min - not published yet
+38 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/5iO0HQRIaGTet3jq2WjD07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

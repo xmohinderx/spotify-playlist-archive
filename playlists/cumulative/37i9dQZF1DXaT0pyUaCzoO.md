@@ -4,7 +4,7 @@
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-71 songs - 4 hr 14 min - not published yet
+71 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3JwO20WCBpROR5efKEjH1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

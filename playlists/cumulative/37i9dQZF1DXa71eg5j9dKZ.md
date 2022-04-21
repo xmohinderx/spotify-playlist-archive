@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Jamie xx
 
-230 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+231 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 | 2021-11-24\* | 2022-03-26 |
 | [My Love is True](https://open.spotify.com/track/6b6QfZ7xsZ6sYc6OpoHfTo) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z), [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [My Love is True](https://open.spotify.com/album/4CmrtDXXIGt1q2B91lLyx0) | 3:28 | 2022-04-15 |  |
 | [My Purple iPod Nano](https://open.spotify.com/track/0Zp9bIm1BeIyFiYNAof3Sm) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/3GSIeTBRBAxSji76YI1uHn) | 6:52 | 2021-11-24\* | 2021-12-03 |
+| [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2022-04-20 |  |
 | [Natural \(feat\. Big Ever\)](https://open.spotify.com/track/0Coblp9s0SdXoU5XoILgt9) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Natural \(feat\. Big Ever\)](https://open.spotify.com/album/04iCbI7QFhcTtzRAvNBBQM) | 3:59 | 2021-11-24\* | 2022-02-05 |
 | [need to feel your LOVE](https://open.spotify.com/track/7c7Tw6X844nX0F3JoQIFod) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [CHAMELEON](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [rodeo doors \(COVID TAPES\)](https://open.spotify.com/album/1EWEXX44LsEEb5Zv2xMDGE) | 3:22 | 2022-01-14 |  |
 | [Never Die](https://open.spotify.com/track/30naPafQOsJArYGIQudRBd) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Before I Die](https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ) | 3:32 | 2021-11-24\* | 2022-01-08 |

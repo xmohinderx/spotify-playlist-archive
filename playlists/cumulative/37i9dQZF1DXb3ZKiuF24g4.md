@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-50 songs - 2 hr 25 min - not published yet
+50 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/3LCmoDT9YdMiDU2JUfP0Gb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

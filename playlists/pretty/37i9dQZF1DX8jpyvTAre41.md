@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Anyway Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,990 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,018 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 41 | [Warning Signs](https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 4:20 |
 | 42 | [Survivor](https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/4gZGUfedFjMS22PzjDzscJ) | 4:02 |
 | 43 | [I Heard You’re Worried About Me](https://open.spotify.com/track/2gihuFVSZS2ZpuWS4AuUzt) | [The Honest Heart Collective](https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X) | [More Harm](https://open.spotify.com/album/2bqQRD60T4BCo1MNkpOPRD) | 4:09 |
-| 44 | [Running For The Hills](https://open.spotify.com/track/47jE6cHrtaLp3KIiPXQ3eP) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Running For The Hills](https://open.spotify.com/album/12iUAdUunxdy80zdZduc9u) | 2:57 |
+| 44 | [Washed Away](https://open.spotify.com/track/4F5tbFtORseJ6Vbemsn4vG) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Washed Away](https://open.spotify.com/album/6MI2S0SLN6rKzdYr8uBVTB) | 3:20 |
 | 45 | [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 |
 | 46 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 |
 | 47 | [Family](https://open.spotify.com/track/3z67pAKSP7DQkRpWOD28T1) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [This Is How The World Ends](https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Love To Give](https://open.spotify.com/track/66U2MeioMcHRoSrajBi8L1) | [jackie](https://open.spotify.com/artist/3NzCozHmvMqMMLDeTnCYwA) | [Hey Angel](https://open.spotify.com/album/7il0R5WCzVPge8gNmulRW6) | 3:23 |
 | 100 | [Rock n Roll](https://open.spotify.com/track/0a3HBsPWPOHOFwRx75dUtJ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [In Good Time](https://open.spotify.com/album/46JOax9Ae2TFpLQQbofUVz) | 3:40 |
 
-Snapshot ID: `MTY1MDAwMjA3MiwwMDAwMDMyMDAwMDAwMTgwMmJjOTkzZDcwMDAwMDE4MDJiNDkzZjZi`
+Snapshot ID: `MTY1MDQ4NTE5OSwwMDAwMDMyMTAwMDAwMTgwNDg5NTg0MDcwMDAwMDE4MDJiNDkzZjZi`

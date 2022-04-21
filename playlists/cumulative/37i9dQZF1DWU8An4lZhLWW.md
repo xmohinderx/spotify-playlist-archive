@@ -4,7 +4,7 @@
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-51 songs - 2 hr 21 min - not published yet
+51 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/6Eg56fPi95mF2NORpXv3Iq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 225384,
       "name": "Chance",
       "url": "https://open.spotify.com/track/6RdojpAhP5ch1SznHxVyjC"
@@ -863,13 +863,13 @@
           "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
         },
         {
-          "name": "Buju",
+          "name": "BNXN fka Buju",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 193024,
       "name": "Dey For Me",
       "url": "https://open.spotify.com/track/1eEkjFWORg5NBhFuEPnPNa"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 234026,
       "name": "Dimension (feat. Skepta & Rema)",
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 495746,
       "name": "Dinaledi",
       "url": "https://open.spotify.com/track/0kNOuZYnpu1RiQTWXUUzE8"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 135555,
       "name": "Fool for You",
       "url": "https://open.spotify.com/track/4NgVqQZ9T6Vby01CGoEiuw"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "FYE",
       "url": "https://open.spotify.com/track/0nO4zZnJfxDXwTIwqLy5iL"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 136826,
       "name": "Gal Policy",
       "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
@@ -1487,6 +1487,24 @@
       "duration_ms": 196146,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/46StIVZbevF3UTmzYPTQFT"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/2KW7heSrlvY2bLnZaHygw4"
     },
     {
       "album": {
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 199322,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
@@ -1605,13 +1623,13 @@
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "DaVido",
+          "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 192660,
       "name": "Homecoming Freestyle",
       "url": "https://open.spotify.com/track/6MGro2R6Bx8zFsl8axO4nM"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 229112,
       "name": "Incognito (feat. Alkaline)",
       "url": "https://open.spotify.com/track/3Ue5HM7d1LekGq69Sto52S"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 136624,
       "name": "J'en Vaux La Peine",
       "url": "https://open.spotify.com/track/1V3hXFZ5oNw91TtCsXhm4T"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 153786,
       "name": "Kilometre",
       "url": "https://open.spotify.com/track/15NVnnLI5oXQSw10lKrR51"
@@ -2060,6 +2078,32 @@
     },
     {
       "album": {
+        "name": "ANXIETY+",
+        "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
+      },
+      "artists": [
+        {
+          "name": "Zoocci Coke Dope",
+          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332500,
+      "name": "LiFT ME UP",
+      "url": "https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR"
+    },
+    {
+      "album": {
         "name": "The Experience",
         "url": "https://open.spotify.com/album/1MAl3W6uBBwnhB09tLIYfG"
       },
@@ -2137,7 +2181,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 217733,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT"
@@ -2677,7 +2721,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 202706,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/56l5nazZw2rwYmu3dqbWjo"
@@ -2805,7 +2849,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 168044,
       "name": "Only One (Anywhere, Pt. 2)",
       "url": "https://open.spotify.com/track/7tbDPQIpIt8tGKpSJXQAw7"
@@ -2975,13 +3019,13 @@
           "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         },
         {
-          "name": "DaVido",
+          "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 176727,
       "name": "PEPE",
       "url": "https://open.spotify.com/track/6mmMPohNC25kZu0WT7Qa8X"
@@ -3177,7 +3221,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 198545,
       "name": "Ready",
       "url": "https://open.spotify.com/track/7waNtRQ6G0eRpP1IoZw5gA"
@@ -3221,7 +3265,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 191174,
       "name": "Ruger",
       "url": "https://open.spotify.com/track/39RFbhX6RVTnXn2ml9yVbK"
@@ -3293,7 +3337,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 137250,
       "name": "Ryde",
       "url": "https://open.spotify.com/track/2uzwY7BBbeU9sGCp8Nhl9i"
@@ -3431,7 +3475,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 189029,
       "name": "See Through",
       "url": "https://open.spotify.com/track/4G3MjZTnwVDxmemf4I9vWb"
@@ -3571,7 +3615,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 154067,
       "name": "She Belongs to the Night",
       "url": "https://open.spotify.com/track/4m7YLWbSYXKNUQEnIS6F4K"
@@ -3593,7 +3637,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Sidepiece (feat. Ruger)",
       "url": "https://open.spotify.com/track/5YHjORRRTB0vXlFp8XaCaN"
@@ -3655,7 +3699,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 170000,
       "name": "So Crazy (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/5SSYzmp4B9GnT3xYswsUh7"
@@ -3761,7 +3805,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 204755,
       "name": "Soundgasm",
       "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
@@ -3901,7 +3945,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 215412,
       "name": "Suzanna (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5yftPkWxksVGPSi21pFuJQ"
@@ -3963,7 +4007,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
@@ -3981,7 +4025,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 168896,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD"
@@ -3999,7 +4043,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 162500,
       "name": "The Man",
       "url": "https://open.spotify.com/track/2VmRH4w492xzfD5vOscY4J"
@@ -4039,7 +4083,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 178252,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/6ubV4nUOhIvSs9mHf1lKU4"
@@ -4149,7 +4193,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
@@ -4167,7 +4211,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 147471,
       "name": "Wayward Girl",
       "url": "https://open.spotify.com/track/6QmZxAPBNA8v2Jj2Yk7Z8D"

@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 223163,
       "name": "AGONIZE",
       "url": "https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH"
@@ -1003,6 +1003,24 @@
       "duration_ms": 215520,
       "name": "Fly",
       "url": "https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl"
     },
     {
       "album": {

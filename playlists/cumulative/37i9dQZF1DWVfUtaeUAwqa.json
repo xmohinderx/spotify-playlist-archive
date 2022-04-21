@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
   "name": "Hot-Jazz Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7mDWtjnoYGtiNOTOKCesxv"
+  ],
   "tracks": [
     {
       "album": {
@@ -402,6 +404,24 @@
     },
     {
       "album": {
+        "name": "50 Classics: The Best Of Dixieland Jazz",
+        "url": "https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO"
+      },
+      "artists": [
+        {
+          "name": "The Muscrat Ramblers",
+          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "In The Good Old Summertime",
+      "url": "https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz"
+    },
+    {
+      "album": {
         "name": "Ken Burns Jazz-Benny Goodman",
         "url": "https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS"
       },
@@ -793,7 +813,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 189074,
       "name": "Semper Fidelis",
       "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"

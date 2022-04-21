@@ -4,7 +4,7 @@
 
 > Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-60 songs - 3 hr 28 min - not published yet
+60 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

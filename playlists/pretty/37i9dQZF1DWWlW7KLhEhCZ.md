@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: biggie diehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,716 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,739 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 14 | [FENDER](https://open.spotify.com/track/4pHIhcENDNyf9gThecGMYk) | [Guzz Oliveira](https://open.spotify.com/artist/466UpoPW1TvZFHLP9KDjtN), [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [FENDER](https://open.spotify.com/album/0VkYr5Suniyl9CWt3g3v86) | 3:45 |
 | 15 | [Carro Forte](https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 4:00 |
 | 16 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
-| 17 | [Debochado GR](https://open.spotify.com/track/7fNZClKkZxjWr5NEOAOjrN) | [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm) | [Deboche GR](https://open.spotify.com/album/0j4gRJQhT5ONxa2sMs5Myz) | 2:33 |
+| 17 | [Deboche GR](https://open.spotify.com/track/7fNZClKkZxjWr5NEOAOjrN) | [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm) | [Deboche GR](https://open.spotify.com/album/0j4gRJQhT5ONxa2sMs5Myz) | 2:33 |
 | 18 | [20k](https://open.spotify.com/track/5jQrHKl7ehUznLOjbqQMOl) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Baby Chief Records](https://open.spotify.com/artist/1kytZpbYcSINavzrDrfpDd) | [20k](https://open.spotify.com/album/5Mg7iSImJ358j645v2jTKx) | 2:41 |
 | 19 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 |
 | 20 | [Pitbull](https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Pitbull](https://open.spotify.com/album/6EwvwqxByg8Ll9VJmeqBcc) | 2:50 |

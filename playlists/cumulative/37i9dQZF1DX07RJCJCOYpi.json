@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The leading wave of Latin Electronic music. Cover: Feid\n",
+  "description": "The leading wave of Latin Electronic music. Cover: Becky G\n",
   "name": "mint Latin",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0igTR570qf1Xr3v0XaTHRR"
+  ],
   "tracks": [
     {
       "album": {
@@ -170,6 +172,32 @@
     },
     {
       "album": {
+        "name": "Cheke (The Remixes)",
+        "url": "https://open.spotify.com/album/1hzfAaCFTgoE5K8ohwvAHZ"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        },
+        {
+          "name": "J Rythm",
+          "url": "https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173472,
+      "name": "Cheke (Spanish Version)",
+      "url": "https://open.spotify.com/track/4DDzgjfANSHudWS56LQJkU"
+    },
+    {
+      "album": {
         "name": "Como Es Posible Que a Mi Lado",
         "url": "https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP"
       },
@@ -211,7 +239,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 184403,
       "name": "Could You Say",
       "url": "https://open.spotify.com/track/5X5KASB8HOR8ichhjgau7x"
@@ -273,7 +301,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 225853,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh"
@@ -461,10 +489,28 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 171864,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/2sNKnmpgjKJgyPDAfqxL80"
+    },
+    {
+      "album": {
+        "name": "Fenix (Radio Edit)",
+        "url": "https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ"
+      },
+      "artists": [
+        {
+          "name": "Leeb",
+          "url": "https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155238,
+      "name": "Fenix - Radio Edit",
+      "url": "https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0"
     },
     {
       "album": {
@@ -483,7 +529,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 152166,
       "name": "Fiesta Forever",
       "url": "https://open.spotify.com/track/2RGUFATsyrVxWYhCNUfU9R"
@@ -610,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Hace Calor - Remix",
+        "url": "https://open.spotify.com/album/3xqKPEu68JbqshG5UXdEcP"
+      },
+      "artists": [
+        {
+          "name": "Eme Sarav",
+          "url": "https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197103,
+      "name": "Hace Calor - Remix",
+      "url": "https://open.spotify.com/track/0Wb0G3YcE4hY7LbF3ppEEQ"
+    },
+    {
+      "album": {
         "name": "Hanging Tree",
         "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
       },
@@ -687,6 +751,28 @@
       "duration_ms": 154285,
       "name": "Horny",
       "url": "https://open.spotify.com/track/0nhV0dOGi7JzYxU47GZSpc"
+    },
+    {
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t"
     },
     {
       "album": {
@@ -878,6 +964,24 @@
     },
     {
       "album": {
+        "name": "Loco Toditos",
+        "url": "https://open.spotify.com/album/3fLplolZzEdJ0BCg6gx7jL"
+      },
+      "artists": [
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259074,
+      "name": "Loco Toditos",
+      "url": "https://open.spotify.com/track/3PCnoYjmTmOEZvTOopA8nJ"
+    },
+    {
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/3rmcFbXbPdvCD8GCL72uZ3"
       },
@@ -975,7 +1079,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 140952,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/4iUYVTGD3Qck4eDXrCtVNg"
@@ -1041,7 +1145,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 199153,
       "name": "My Head (Can\u2019t Get You Out)",
       "url": "https://open.spotify.com/track/2FVv9vxJT2NOxKWFzZnvDI"
@@ -1085,10 +1189,32 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 172500,
       "name": "Napoleona",
       "url": "https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb"
+    },
+    {
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "album": {
@@ -1110,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "NO MIENTEN",
+        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147395,
+      "name": "NO MIENTEN",
+      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
+    },
+    {
+      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
       },
@@ -1125,7 +1269,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 181726,
       "name": "No Vas A Volver",
       "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
@@ -1162,6 +1306,32 @@
     },
     {
       "album": {
+        "name": "N\u00f3mada (Viic Remix)",
+        "url": "https://open.spotify.com/album/3L19MWTcbsLDK5SZzrlFiP"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa",
+          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145995,
+      "name": "N\u00f3mada (Viic Remix)",
+      "url": "https://open.spotify.com/track/4D3XtP9njTq47nrc0VXs08"
+    },
+    {
+      "album": {
         "name": "O Sea, S\u00ed te Quiero",
         "url": "https://open.spotify.com/album/38skAP01EKMWYGldAMYJdC"
       },
@@ -1181,6 +1351,28 @@
       "duration_ms": 208767,
       "name": "O Sea, S\u00ed te Quiero",
       "url": "https://open.spotify.com/track/6K2lcxfSvBzig47QhRi6JC"
+    },
+    {
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152796,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
     },
     {
       "album": {
@@ -1221,7 +1413,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 190005,
       "name": "Papi Chulo",
       "url": "https://open.spotify.com/track/7BDeacseVr0vdqL0ofjm5Y"
@@ -1477,7 +1669,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 181312,
       "name": "Shake the World",
       "url": "https://open.spotify.com/track/5xEFtueqprfNXQMsJ3oyle"
@@ -1521,7 +1713,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 180954,
       "name": "Snow Tha Product: Bzrp Music Session , Vol. 39 (Omar Varela Remix)",
       "url": "https://open.spotify.com/track/7EfA4nkCg7uBdwFzIgHa6U"
@@ -1665,7 +1857,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 158095,
       "name": "This Love",
       "url": "https://open.spotify.com/track/5V5SqWpb8zRftX3UXATeyS"

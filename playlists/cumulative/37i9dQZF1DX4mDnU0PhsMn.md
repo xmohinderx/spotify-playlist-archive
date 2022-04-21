@@ -4,7 +4,7 @@
 
 > Add these kid\-friendly stories to your family's bedtime routine!
 
-21 songs - 2 hr 49 min - not published yet
+21 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/3KNIbm1pruvOAr2PRYpsiZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

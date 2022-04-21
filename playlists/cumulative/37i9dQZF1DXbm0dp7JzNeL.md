@@ -4,7 +4,7 @@
 
 > Take comfort in these melancholy masterpieces.
 
-49 songs - 3 hr 54 min - not published yet
+49 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/5fJZ0wGeGkD6csCFT1wCtH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

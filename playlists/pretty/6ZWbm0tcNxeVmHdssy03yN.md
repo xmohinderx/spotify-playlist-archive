@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,698 likes - 100 songs - 5 hr 23 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,710 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 33 | [141414 / Let Go](https://open.spotify.com/track/1NEVpIK4J2tt9qlm8UZo17) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [141414 / Let Go](https://open.spotify.com/album/2q8l1SNTwycgWg8AKvcWKT) | 2:49 |
 | 34 | [Pa' Mi](https://open.spotify.com/track/3dzp29iTQ8hHaplDlU5m6U) | [Big Yamo](https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw) | [Pa' Mi](https://open.spotify.com/album/13BelOLxDcsPcRF21PsFni) | 2:52 |
 | 35 | [Heroes](https://open.spotify.com/track/3KqJzagmBudChavtK8T104) | [Dr Joos](https://open.spotify.com/artist/6rPPz09MzKmQ0FqDyEXoCb) | [Heroes](https://open.spotify.com/album/4Sx9Ku1GHKzbZkwAaMEnNn) | 3:12 |
-| 36 | [Hello Tomorrow](https://open.spotify.com/track/1Ps1N8S7U5zzB0XyAsqVRq) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [ALLISTER X](https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Hello Tomorrow](https://open.spotify.com/album/0WID83aO7mH6ZtxHpFPMaK) | 3:32 |
+| 36 | [Hello Tomorrow](https://open.spotify.com/track/1Ps1N8S7U5zzB0XyAsqVRq) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [ALLISTER X](https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g) | [Hello Tomorrow](https://open.spotify.com/album/0WID83aO7mH6ZtxHpFPMaK) | 3:32 |
 | 37 | [Forever Happy](https://open.spotify.com/track/1quzBJO2Dt1DsPW4IPYyyA) | [Niko Rosé](https://open.spotify.com/artist/3KHtbeQsPzZNZ7KNwneHYF), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Forever Happy](https://open.spotify.com/album/0VVkpWsafKoQZi1o5pCAAd) | 2:46 |
 | 38 | [La Tormenta](https://open.spotify.com/track/3EjAh9ZdGCUKvmki4gwqH5) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U), [Santa Mónica](https://open.spotify.com/artist/5WDnK1T9c6tvjJTh0S1ejm) | [La Tormenta](https://open.spotify.com/album/2gQWsInId3kSvUwY3jYZaZ) | 3:58 |
 | 39 | [TEK](https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [TEK](https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA) | 2:43 |

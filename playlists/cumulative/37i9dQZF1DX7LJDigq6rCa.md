@@ -4,7 +4,7 @@
 
 > This playlist will sing your little ones to sleep.
 
-78 songs - 3 hr 46 min - not published yet
+78 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/02w0VB2lrFWIf9k97cl9CY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

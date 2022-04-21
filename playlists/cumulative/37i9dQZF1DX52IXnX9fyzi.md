@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-175 songs - 7 hr 40 min - not published yet
+175 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/5A2o18vGcWOns5VqpjBlMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

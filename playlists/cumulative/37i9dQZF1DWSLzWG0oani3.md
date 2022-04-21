@@ -2,9 +2,9 @@
 
 ### [Cumbia 420](https://open.spotify.com/playlist/37i9dQZF1DWSLzWG0oani3)
 
-> Suena en el barrio, suena acá.
+> Suena en el barrio, suena acá\. Foto: L\-Gante & Aleman.
 
-65 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
+66 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Pistola Remix](https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [El Mas Ladron](https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Pistola Remix](https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T) | 2:16 | 2021-12-24 |  |
 | [Pompa Pa Tra \- Remix](https://open.spotify.com/track/3pA0i34h7omJIrI12jfVGu) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR) | [Pompa Pa Tra \(Remix\)](https://open.spotify.com/album/0GPVOTBi0f9Bxd5u08s8xl) | 2:46 | 2021-12-24 |  |
 | [Remake](https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Remake](https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U) | 5:32 | 2021-12-24 |  |
+| [Requisito 420](https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Requisito 420](https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG) | 3:22 | 2022-04-20 |  |
 | [Rin Tin Tin](https://open.spotify.com/track/5yJsDz8c16INrVtoN9hdyW) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Rin Tin Tin](https://open.spotify.com/album/2xbjaXObO74HQU530db1bX) | 2:49 | 2021-12-24 |  |
 | [Salvaje](https://open.spotify.com/track/6S6UIA5csiXlsC5AwZOCaG) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Angel Nicolas](https://open.spotify.com/artist/42EQEa8vAXsAUReQy9lDRe), [Dakos](https://open.spotify.com/artist/50ANJWENmNgir7MSDmx3Fn), [Zato DJ](https://open.spotify.com/artist/75VwO8amb6eCuE9gYagNZZ) | [Salvaje](https://open.spotify.com/album/2dZ4eF2u4JD4G3NHZfHEAd) | 2:38 | 2021-12-24 | 2022-03-26 |
 | [Saveiro](https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Saveiro](https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR) | 3:32 | 2021-12-24 |  |

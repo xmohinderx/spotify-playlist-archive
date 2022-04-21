@@ -4,7 +4,7 @@
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-65 songs - 2 hr 34 min - not published yet
+65 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/1jY7LJwYF6jzt4YuqIk0Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-657 songs - 1 day 7 hr 14 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+658 songs - 1 day 7 hr 16 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Капли](https://open.spotify.com/track/0LwPFTgtNaQrfyWHM42Z83) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [Капли](https://open.spotify.com/album/2G5WhV5vAbitKizDrCX8ry) | 2:40 | 2022-04-16 |  |
 | [Карманы](https://open.spotify.com/track/4VMD5B8Om6Oo7fFhMOcyGg) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 5:12 | 2021-12-18 | 2021-12-19 |
 | [Карусель](https://open.spotify.com/track/7hTEDmot0y3DilKQZid6Q9) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:28 | 2021-10-17 | 2021-10-23 |
+| [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2022-04-20 |  |
 | [Киллер \(Prod\. by malenkiyyarche x kayyo\)](https://open.spotify.com/track/3d67iioYf1Hvt2b7ncDzZv) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:08 | 2021-03-27 | 2021-03-29 |
 | [кискис](https://open.spotify.com/track/6yUw6FLB1g8DqZUv7S5TKA) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [кискис](https://open.spotify.com/album/6ursd41l2w1YvIgiYIVtDK) | 2:50 | 2021-04-03 | 2021-04-28 |
 | [кладбище](https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [кладбище](https://open.spotify.com/album/4XqaS0ByH0TBCu22mR4KTw) | 1:49 | 2021-09-21 | 2022-04-20 |
@@ -559,7 +560,7 @@
 | [Птичка](https://open.spotify.com/track/6Abmb1Nh7Bc5U6o4iEgSDH) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Птичка](https://open.spotify.com/album/1jODMZb23tkxLfaDHcgnse) | 3:10 | 2021-05-23 | 2021-10-20 |
 | [Пушка](https://open.spotify.com/track/3UlGli59XnXKdaocUFn0gw) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Пушка](https://open.spotify.com/album/4R38tSYY31xhqOFincgFb0) | 3:23 | 2021-06-28 | 2021-09-30 |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
-| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 |  |
+| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2022-04-21 |
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |
 | [Рашн Роуд Рейдж](https://open.spotify.com/track/0zkmYBCfhQQ4GObqz2HQG3) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:38 | 2021-12-03 | 2021-12-06 |
 | [Ребром](https://open.spotify.com/track/2aQgGle0AyaUEA70sA9Nnf) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO BANG! HOLD ON!](https://open.spotify.com/album/7uLeEgq6ndnivtW6Kwh5ar) | 2:18 | 2022-03-26 | 2022-03-28 |

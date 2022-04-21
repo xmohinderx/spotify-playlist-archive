@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-59 songs - 2 hr 8 min - not published yet
+59 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/3xQc98EzemNzLKHcZqjikd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

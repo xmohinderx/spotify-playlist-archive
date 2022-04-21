@@ -4,7 +4,7 @@
 
 > A collection of family\-friendly stories in five minutes or less.
 
-35 songs - 2 hr 17 min - not published yet
+35 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/1UkpRaz1Z9qBskWPbWGwYy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

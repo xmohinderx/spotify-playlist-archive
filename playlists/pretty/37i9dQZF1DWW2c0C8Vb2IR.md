@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Fox Capture Plan
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,172 likes - 59 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,218 likes - 59 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

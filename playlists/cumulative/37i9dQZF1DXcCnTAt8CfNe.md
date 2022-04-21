@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-211 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+212 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Believer](https://open.spotify.com/track/6wsmXduFN4XMJ7ZwfEX52T) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:11 | 2021-12-09 |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-12-09 |  |
 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 | 2021-12-09 |  |
+| [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-20 |  |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-12-09 |  |
 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 | 2021-12-09 |  |
 | [Calm](https://open.spotify.com/track/7x8dZcTysEL2ugS7Gj7eMJ) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Calm](https://open.spotify.com/album/4lPUDTcfykVSSj7YFmC8yw) | 3:37 | 2021-12-09 |  |
@@ -187,7 +188,7 @@
 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 | 2021-12-09 |  |
 | [Sweet Gesture](https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ) | [Bruno Joel](https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy) | [By Your Side](https://open.spotify.com/album/1IHOhvP4jBMk7dgRw8k2JI) | 2:34 | 2021-12-09 |  |
 | [Tales From The Loom](https://open.spotify.com/track/3oIenHRy1prChmyWFiCnG2) | [Lewgong](https://open.spotify.com/artist/5kJ8rsyTvg2m7RjSHhbMTs) | [Tales From The Loom](https://open.spotify.com/album/5aCsWcoseMFMCrOWB9qA15) | 2:53 | 2021-12-09 |  |
-| [Tender](https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Tender](https://open.spotify.com/album/3NfGrGowW0H58RO8ZBDcP6) | 2:45 | 2021-12-09 |  |
+| [Tender](https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Tender](https://open.spotify.com/album/3NfGrGowW0H58RO8ZBDcP6) | 2:45 | 2021-12-09 | 2022-04-21 |
 | [Terai\-Duar](https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS) | [Taj Mendel](https://open.spotify.com/artist/0xWF2XH0Nmxm0ZFL55ylfp) | [Terai\-Duar](https://open.spotify.com/album/4BROYeb4u3YNEcwlknFhlC) | 4:11 | 2021-12-09 |  |
 | [Thaka](https://open.spotify.com/track/6pJ0Pp4wUKqtxU1E5Ssf5j) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Thaka](https://open.spotify.com/album/3szjMZXhGRW2MS4jVZ0ORx) | 3:20 | 2021-12-09 |  |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2021-12-09 |  |

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-19",
   "description": "All 80s, all ballads. Cover: Whitney Houston",
   "name": "80s Ballads",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5MJ9psTUoa9dYMF8ULHTj9"
+  ],
   "tracks": [
     {
       "album": {
@@ -61,6 +63,24 @@
       "duration_ms": 244360,
       "name": "After All (Love Theme From Chances Are)",
       "url": "https://open.spotify.com/track/0ACu78PvVsOFYIKgRkKbGZ"
+    },
+    {
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "album": {
@@ -245,7 +265,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 328600,
       "name": "Baby, Be Mine",
       "url": "https://open.spotify.com/track/0qvCuc6fifzBd1wwsXedeC"
@@ -281,7 +301,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
@@ -299,7 +319,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
@@ -451,7 +471,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 262293,
       "name": "Every Now and Then",
       "url": "https://open.spotify.com/track/2q4CJqgmkZmnUlgcvjsWFo"
@@ -505,7 +525,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
@@ -523,7 +543,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
@@ -545,7 +565,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 247493,
       "name": "From Now On (with Suzi Benson)",
       "url": "https://open.spotify.com/track/19sRqnSUi3JmXNiDTxRVnc"
@@ -617,7 +637,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 260385,
       "name": "Have I Told You Lately",
       "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
@@ -671,7 +691,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 243226,
       "name": "Heaven in Your Eyes",
       "url": "https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe"
@@ -725,7 +745,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 255666,
       "name": "How Am I Supposed to Live Without You",
       "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
@@ -747,7 +767,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 254880,
       "name": "How Do You Keep The Music Playing",
       "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
@@ -765,7 +785,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 253506,
       "name": "I Don't Have the Heart",
       "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
@@ -801,7 +821,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 293306,
       "name": "I Won't Hold You Back",
       "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
@@ -819,7 +839,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 270600,
       "name": "I'll Always Love You",
       "url": "https://open.spotify.com/track/3Zzb3YPzYL1vRtLF0IlDWp"
@@ -877,6 +897,24 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+    },
+    {
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     },
     {
       "album": {
@@ -963,7 +1001,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 308400,
       "name": "Make It Like It Was",
       "url": "https://open.spotify.com/track/78G3uIAYlzHdGnRHoDEHau"
@@ -999,7 +1037,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 219533,
       "name": "Meet Me Half Way - From \"Over The Top\" Soundtrack",
       "url": "https://open.spotify.com/track/5CdX4HXMRxyldTVxXDrzSA"
@@ -1125,7 +1163,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 184586,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
@@ -1161,7 +1199,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 241760,
       "name": "On The Wings Of Love",
       "url": "https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc"
@@ -1215,7 +1253,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 195213,
       "name": "Only You",
       "url": "https://open.spotify.com/track/25hyF3ftxiwVEpbKCYnxsh"
@@ -1233,10 +1271,28 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+    },
+    {
+      "album": {
+        "name": "Get Here",
+        "url": "https://open.spotify.com/album/1f162UdEj2yUttqV8iJUtX"
+      },
+      "artists": [
+        {
+          "name": "Brenda Russell",
+          "url": "https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320800,
+      "name": "Piano In The Dark",
+      "url": "https://open.spotify.com/track/70RPjUR5l0jmBQndfNXP0z"
     },
     {
       "album": {
@@ -1287,7 +1343,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 305760,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0yhDca7Z4TOiEejtAx6R3g"
@@ -1345,7 +1401,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 230866,
       "name": "She's Like the Wind (feat. Wendy Fraser)",
       "url": "https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV"
@@ -1381,7 +1437,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 221773,
       "name": "So Amazing",
       "url": "https://open.spotify.com/track/0HrrWZIJ7hR7C0JmDZ2uvN"
@@ -1399,7 +1455,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 234706,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
@@ -1417,7 +1473,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/50jEs9EZZgXJ1oDZVAv7Wp"
@@ -1435,7 +1491,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 282440,
       "name": "Tender Years",
       "url": "https://open.spotify.com/track/2cL360CDEVWtavnqLu32sI"
@@ -1465,7 +1521,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 255933,
       "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
       "url": "https://open.spotify.com/track/1OzrlK57iLTIjmbZC1ppWM"
@@ -1501,7 +1557,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 274106,
       "name": "The Ballad Of Jayne",
       "url": "https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw"
@@ -1631,7 +1687,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 206640,
       "name": "Think of Laura",
       "url": "https://open.spotify.com/track/5jLq63jMFWg0dKHnht6YI0"
@@ -1707,7 +1763,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 208813,
       "name": "Tonight I Give In",
       "url": "https://open.spotify.com/track/4XxccUv1t8O32QAzek06No"
@@ -1761,7 +1817,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
@@ -1819,7 +1875,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 251840,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp"
@@ -1913,7 +1969,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 277600,
       "name": "Where Do Broken Hearts Go",
       "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
@@ -1949,7 +2005,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 294750,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/587X1Bf5wDJJF1kMNuB88n"
@@ -1989,7 +2045,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 340626,
       "name": "You're The Best Thing",
       "url": "https://open.spotify.com/track/0Njh4xmjFcX3f8TO1ocdlb"

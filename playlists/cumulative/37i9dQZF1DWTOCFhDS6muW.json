@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 396303,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 199288,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/7Fz5tD8bvsohPYBRwTFv54"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 158062,
       "name": "Balabaa",
       "url": "https://open.spotify.com/track/6DYHFCm0nVsH5td5hYAXFe"
@@ -73,10 +73,28 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 395363,
       "name": "Banana",
       "url": "https://open.spotify.com/track/7rScvdOFYinD8HiBZuvr1L"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401600,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
     },
     {
       "album": {
@@ -163,7 +181,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 249933,
       "name": "Catalina La Coja",
       "url": "https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 222432,
       "name": "Dona Amidi",
       "url": "https://open.spotify.com/track/6I9E346OLKTAu8bG2ZA6cs"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 219173,
       "name": "En Mi Pais",
       "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 230870,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 338364,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 240536,
       "name": "Pedazo De Mujer",
       "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 248826,
       "name": "Punta Raton - Remix",
       "url": "https://open.spotify.com/track/7oWeHjwwEdPyZZVSV6koR2"

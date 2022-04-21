@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-276 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+279 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Jhalleya Dila](https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jhalleya Dila](https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa) | 3:21 | 2022-01-12 |  |
 | [Jind Tere Naam](https://open.spotify.com/track/1FhvIkgpQ7XV57psmV1Doq) | [Raj Brar](https://open.spotify.com/artist/6ZBd1hRd7fSEEn7UM1UDCv) | [Jind Tere Naam](https://open.spotify.com/album/0gVTIRWykkCsotRRbtOBs0) | 3:01 | 2022-01-21 | 2022-02-05 |
 | [Jinna Jinna \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/4qjrUAcl6Wn7BdEVBLk33y) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Jinna Jinna \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/1NtyJGZS5HMYEjF8TQHdGU) | 3:14 | 2022-02-17 |  |
+| [Jogiya](https://open.spotify.com/track/715KJ6GgLQgOl1fQG0DsKF) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Desi Routz](https://open.spotify.com/artist/1PPuO6mkbUFNCEh6uU0i71) | [Jogiya](https://open.spotify.com/album/79LkKVfRwrMiAdxMDnQMLr) | 3:17 | 2022-04-20 |  |
 | [Judge](https://open.spotify.com/track/6Ffl1BBRfr8I2ASR6iiRTe) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Judge](https://open.spotify.com/album/6T3L3QXrlWDJiL1JJhOHsH) | 3:01 | 2022-02-03 |  |
 | [Junoon](https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs) | 3:11 | 2022-01-31 |  |
 | [Kaali Shirt Waleyaa](https://open.spotify.com/track/0Obgbyn28ZQ81tr8STLl3U) | [Simran Raj](https://open.spotify.com/artist/0Kq6kRoZ7plicvFNdCjc3P) | [Kaali Shirt Waleyaa](https://open.spotify.com/album/23RHXIGwU5ZhJghyN0p4Te) | 3:29 | 2022-02-09 | 2022-02-12 |
@@ -122,6 +123,7 @@
 | [Koi Hor](https://open.spotify.com/track/2hN1rqSmyACedLtyZP7TvO) | [Dilnoor](https://open.spotify.com/artist/50tXZuZyML8SQweztignbv), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Koi Hor](https://open.spotify.com/album/0O4yf1FCBxwNw2XpFHbMiA) | 4:42 | 2021-12-02 | 2022-02-01 |
 | [Kudiyan Lahore Diyan](https://open.spotify.com/track/0NlIythdHcM4zFDP5dGLta) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kudiyan Lahore Diyan](https://open.spotify.com/album/4STyPN6DqIbBkkDlczowCn) | 3:42 | 2022-03-30 |  |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2021-12-02 | 2022-02-01 |
+| [LA](https://open.spotify.com/track/27G0kb3K0M6wTcRFEtAp8H) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [LA](https://open.spotify.com/album/4YDpYD0bKAcFD8t6BQS0rA) | 2:59 | 2022-04-20 |  |
 | [Laid Back](https://open.spotify.com/track/3x7tOQG4O3xc71ojvukQOk) | [Noor Tung](https://open.spotify.com/artist/44SO7hG8JnPeibqOefhgMY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Laid Back](https://open.spotify.com/album/7rsMotcs26SBQNVytHaUwU) | 2:52 | 2022-04-04 |  |
 | [Lakh Lakh Vadhaiyaan](https://open.spotify.com/track/2a8NpQ2XWPzfTR1JH5Zw7j) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b) | [Lakh Lakh Vadhaiyaan](https://open.spotify.com/album/2Xdgv8cnKsvblGmv1h4mv5) | 4:16 | 2022-01-21 | 2022-01-28 |
 | [Lambo \(Version Snappy\)](https://open.spotify.com/track/3nQZULgmcDRUFTLrY7yw03) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:18 | 2022-01-17 | 2022-02-01 |
@@ -233,6 +235,7 @@
 | [Slow\-Mo](https://open.spotify.com/track/5HtPFkvtYUq2ToujMrfFLo) | [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T) | [Slow\-Mo](https://open.spotify.com/album/6Uv5G5GMcHdmAaWMNtZldN) | 3:20 | 2022-03-21 | 2022-04-06 |
 | [Sohna](https://open.spotify.com/track/56MH70mJQMUzmMACys5ePe) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 4:15 | 2022-02-02 | 2022-04-06 |
 | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/album/7iIY4LG4qMEeCRkGfWsk9K) | 2:14 | 2022-04-18 |  |
+| [Sohniyan Shaklan](https://open.spotify.com/track/6jxlrho78w0b4ldZ7J7rA8) | [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN) | [Sohniyan Shaklan](https://open.spotify.com/album/2DrEVLz6eKa5b83A4N56oW) | 5:12 | 2022-04-20 |  |
 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 | 2022-03-18 |  |
 | [Starlight](https://open.spotify.com/track/582UWRGnIOVDggh2y8GAjc) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Starlight](https://open.spotify.com/album/6iQPuXW239eSe42INuWF8z) | 2:52 | 2022-01-17 | 2022-02-12 |
 | [Stella](https://open.spotify.com/track/4uVMeiBR4lPTfl7NM1QNAX) | [Kamal Dua](https://open.spotify.com/artist/2JcFAugRuL87wpOT1haKrD) | [Stella](https://open.spotify.com/album/5TsgrpZN6Shq52EkbbS39q) | 3:28 | 2022-01-22 | 2022-03-11 |

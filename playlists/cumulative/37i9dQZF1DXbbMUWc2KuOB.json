@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "Enjoy your favourite K-drama's OST instrumentals. (Cover: Forecasting Love and Weather(\uae30\uc0c1\uccad \uc0ac\ub78c\ub4e4) (\ud55c\uad6d OST \ubc18\uc8fc\uace1\uacfc \ud568\uaed8 \uc5ec\uc720\ub85c\uc6b4 \uc2dc\uac04\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "Korean OST Instrumentals",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0Dry2UAG41jFfF5O4KGZxO"
+  ],
   "tracks": [
     {
       "album": {
@@ -24,6 +26,42 @@
     },
     {
       "album": {
+        "name": "Hotel Del Luna OST Part.3",
+        "url": "https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "All about you (Instrumental)",
+      "url": "https://open.spotify.com/track/2ioU3k9BVdnCMncnl9zEhQ"
+    },
+    {
+      "album": {
+        "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
+        "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "All Night Long (She is My Type\u2661 X Car, the garden) (Inst.)",
+      "url": "https://open.spotify.com/track/1PPsrKwN648zNLcDyVHZVG"
+    },
+    {
+      "album": {
         "name": "Jirisan (Original Television Soundtrack) Pt. 9",
         "url": "https://open.spotify.com/album/5LHSj2l8CyQ5x3zRlIXUkF"
       },
@@ -35,7 +73,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 206680,
       "name": "Always With You - Instrumental",
       "url": "https://open.spotify.com/track/1dtEO7HYMaQFQm8m2eIE5Y"
@@ -53,7 +91,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 274836,
       "name": "An Ordinary Day - Instrumental",
       "url": "https://open.spotify.com/track/6mj5IfwylItDYOTtat9goJ"
@@ -89,10 +127,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 227583,
       "name": "Beautiful - Instrumental",
       "url": "https://open.spotify.com/track/4M7c95EghrwaFixpbGDoRn"
+    },
+    {
+      "album": {
+        "name": "Borrow your night (Romance 101 X 10CM)",
+        "url": "https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "Borrow your night (Romance 101 X 10CM) (Inst.)",
+      "url": "https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv"
     },
     {
       "album": {
@@ -107,10 +163,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 253186,
       "name": "Breath - instrumental",
       "url": "https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231870,
+      "name": "But it's Destiny - Instrumental",
+      "url": "https://open.spotify.com/track/05XGxWMNwMNRfrMJkFQbjV"
     },
     {
       "album": {
@@ -125,7 +199,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 271540,
       "name": "Can you hear me? (Instrumental)",
       "url": "https://open.spotify.com/track/26qhxnhGhhYtsxB6NtBKqV"
@@ -161,10 +235,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 278245,
       "name": "Cliche (Inst.)",
       "url": "https://open.spotify.com/track/1RSbpkdYqXKqUQTWNlAK8t"
+    },
+    {
+      "album": {
+        "name": "The Beauty Inside Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4XZOS3rxwwrG4EVDJ3LdLf"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183786,
+      "name": "Cloud - Instrumental",
+      "url": "https://open.spotify.com/track/4fInoTsJPZR6gU0H3OpJf5"
     },
     {
       "album": {
@@ -179,10 +271,46 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 250847,
       "name": "Comfort Instrumental",
       "url": "https://open.spotify.com/track/6XbCdImvNM7ZrofMKe3WE1"
+    },
+    {
+      "album": {
+        "name": "Do You Like Brahms? OST Part.2",
+        "url": "https://open.spotify.com/album/1KvZT5kQowPVKSZVWMrd3Y"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254363,
+      "name": "Confession (Inst.)",
+      "url": "https://open.spotify.com/track/7A63UiHZvFru4yuzcZ9OW9"
+    },
+    {
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/7eSGKfvLc1bGVXK5Z1TFk9"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260613,
+      "name": "Day & Night - Instrumental",
+      "url": "https://open.spotify.com/track/2ia14UMC3j4gXP2DT5dD5S"
     },
     {
       "album": {
@@ -197,7 +325,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 247909,
       "name": "Daydream - Instrumental",
       "url": "https://open.spotify.com/track/6Zc3PiXQTCxOh4qIxbr6rf"
@@ -215,7 +343,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 225853,
       "name": "Dear My Nights (Inst.)",
       "url": "https://open.spotify.com/track/52kT4TjdtSFPU4SAaZxxjA"
@@ -233,7 +361,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 280301,
       "name": "Dear my spring (Inst.)",
       "url": "https://open.spotify.com/track/0O9GOYd53UWSxrE6oVaxAt"
@@ -269,7 +397,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 206718,
       "name": "Dream (Inst.)",
       "url": "https://open.spotify.com/track/2uEh9Bvs3wPQTTSf9nuofh"
@@ -287,10 +415,82 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 212200,
       "name": "Every second - Instrumental",
       "url": "https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA"
+    },
+    {
+      "album": {
+        "name": "The World of the Married, Pt.5 (Original Television SoundTrack)",
+        "url": "https://open.spotify.com/album/4Oi5IpgCPeyMdyuXAIssyJ"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256680,
+      "name": "Farewell In Tears - Instrumental",
+      "url": "https://open.spotify.com/track/02DOkO4lh65UO51sCcgXaT"
+    },
+    {
+      "album": {
+        "name": "Was It Love? Pt.3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0dMGLcRWc15OR7CNYcgqtv"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "First Day - Instrumental",
+      "url": "https://open.spotify.com/track/7FFVQLU89PG620qJPfsimK"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/23CJ3PKYKeljAzr1glLmAh"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252120,
+      "name": "Flower - Instrumental",
+      "url": "https://open.spotify.com/track/0s0NmdeBTHKQMN0d0fYEQ9"
+    },
+    {
+      "album": {
+        "name": "Snowdrop (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1"
+      },
+      "artists": [
+        {
+          "name": "Kim Heewon",
+          "url": "https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256436,
+      "name": "Friend - Instrumental",
+      "url": "https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI"
     },
     {
       "album": {
@@ -323,10 +523,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 280000,
       "name": "Good Person (2022) - Instrumental",
       "url": "https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R"
+    },
+    {
+      "album": {
+        "name": "Oh My Baby (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/0cWcD7Sm8y6lLxJgMTDieG"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236306,
+      "name": "Goodbye - Instrumental",
+      "url": "https://open.spotify.com/track/64BinSX8pzqvkfJqDpodOY"
     },
     {
       "album": {
@@ -359,7 +577,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 214373,
       "name": "Heavy Heart - Instrumental",
       "url": "https://open.spotify.com/track/2QOC5grYqt8ZFEwzcg7RwU"
@@ -377,10 +595,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 279779,
       "name": "Home Instrumental",
       "url": "https://open.spotify.com/track/5HHEhGBLhP6NAHNqXCkJeA"
+    },
+    {
+      "album": {
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji) (Inst.)",
+      "url": "https://open.spotify.com/track/6CbwZ5URWKzQqxIMkOIf1H"
     },
     {
       "album": {
@@ -395,10 +631,82 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 266378,
       "name": "I miss You (Inst.)",
       "url": "https://open.spotify.com/track/2SVfBP9o7D68OoeYxCmaGh"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167974,
+      "name": "I Miss You - Instrumental",
+      "url": "https://open.spotify.com/track/6XAUinB9a1zkkFw8TlhlPI"
+    },
+    {
+      "album": {
+        "name": "Romance is a Bonus Book OST Part.4",
+        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227936,
+      "name": "I pray - Instrumental",
+      "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
+    },
+    {
+      "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.10",
+        "url": "https://open.spotify.com/album/38evbF1rf3tenVNgOi6Sb9"
+      },
+      "artists": [
+        {
+          "name": "Chamsom",
+          "url": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228606,
+      "name": "I think I like you - Instrumental",
+      "url": "https://open.spotify.com/track/2jG9RJE8nqUGBAociaCTT6"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow - Instrumental",
+      "url": "https://open.spotify.com/track/4144BMAcJrcegjHuCOdEh0"
     },
     {
       "album": {
@@ -420,6 +728,42 @@
     },
     {
       "album": {
+        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/412YGS6bMI9kN9g8YHyqTy"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229080,
+      "name": "I'm Here - Instrumental",
+      "url": "https://open.spotify.com/track/6sCsfUfQtLpYIs5wj06sp1"
+    },
+    {
+      "album": {
+        "name": "Homemade Love Story (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/32GncUmsWV0ZO2JpxSXhbf"
+      },
+      "artists": [
+        {
+          "name": "Bada",
+          "url": "https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245633,
+      "name": "I'm in love - Instrumental",
+      "url": "https://open.spotify.com/track/6jYfbkPQKXmsLDfv0dQ6T4"
+    },
+    {
+      "album": {
         "name": "Snowdrop (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS"
       },
@@ -431,10 +775,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 231693,
       "name": "If you're with me - Instrumental",
       "url": "https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv"
+    },
+    {
+      "album": {
+        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/5x3yCvxKV0pX5d5PL3T4FM"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263779,
+      "name": "Is You - Instrumental",
+      "url": "https://open.spotify.com/track/1BMKKRFPC7C3pbjoYswcjk"
     },
     {
       "album": {
@@ -449,10 +811,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 246280,
       "name": "I\u2032m Coming Home - Instrumental",
       "url": "https://open.spotify.com/track/6hVJd4WmOoBx5xVMSME4x5"
+    },
+    {
+      "album": {
+        "name": "Hotel Del Luna OST Part.2",
+        "url": "https://open.spotify.com/album/4Jn5TCkhLl7mVwRSi4Dxto"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210813,
+      "name": "Lean on me (Instrumental)",
+      "url": "https://open.spotify.com/track/77rZIqlUvWvnEkuxtw0jqR"
     },
     {
       "album": {
@@ -467,7 +847,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 221909,
       "name": "Let Us Go - Instrumental",
       "url": "https://open.spotify.com/track/01ot8f99IzD9i8iG0vOev5"
@@ -485,7 +865,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 182849,
       "name": "Looks like a real thing - Instrumental",
       "url": "https://open.spotify.com/track/3o1od0SpRtQI628cYNubg1"
@@ -521,7 +901,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 227413,
       "name": "Love Resembles Memories - Instrumental",
       "url": "https://open.spotify.com/track/1LHy7DISaJgNZTRFGSsKFI"
@@ -539,7 +919,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 232640,
       "name": "Love Your Everything (Inst.)",
       "url": "https://open.spotify.com/track/6DiSVWQ1xdIZocmeK1yM47"
@@ -557,10 +937,64 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 186106,
       "name": "Melting - Inst.",
       "url": "https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY"
+    },
+    {
+      "album": {
+        "name": "Snowdrop (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285280,
+      "name": "Memories More than love - Instrumental",
+      "url": "https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8"
+    },
+    {
+      "album": {
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1sO4Z6uq4I2rxojS8p4Ser"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Mind Warning - Inst.",
+      "url": "https://open.spotify.com/track/1lGY49YyBOMsSvML2gKImA"
+    },
+    {
+      "album": {
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/08CiaMsdsokkeJ3lhJ15sB"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262720,
+      "name": "Moonchild Ballad - Instrumental",
+      "url": "https://open.spotify.com/track/3CVmxY7u7woQmibPrMy8Nw"
     },
     {
       "album": {
@@ -575,7 +1009,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 193951,
       "name": "My Love (Inst.)",
       "url": "https://open.spotify.com/track/3D7Cax8QFP43yWtw2ndinS"
@@ -611,10 +1045,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 212453,
       "name": "Nevertheless - Instrumental",
       "url": "https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 10)",
+        "url": "https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Nevertheless - Instrumental",
+      "url": "https://open.spotify.com/track/4vFZTRGFmUF0uCO3QnirOB"
     },
     {
       "album": {
@@ -629,10 +1081,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 256306,
       "name": "Not Clumsy Anymore - Inst.",
       "url": "https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272720,
+      "name": "Photo of My Mind - Instrumental",
+      "url": "https://open.spotify.com/track/6DVJfMK2L8gIP9YLu8HisW"
     },
     {
       "album": {
@@ -654,6 +1124,60 @@
     },
     {
       "album": {
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3z0YzaZubMqAeIuJkkgdcl"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251346,
+      "name": "Promise You - Inst.",
+      "url": "https://open.spotify.com/track/4TCnuYiwp3j8A9LmWtIgpN"
+    },
+    {
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
+      },
+      "artists": [
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "Puzzle - Instrumental",
+      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
+    },
+    {
+      "album": {
+        "name": "The Great Shaman Ga Doo Shim OST Part.1",
+        "url": "https://open.spotify.com/album/5cvOQB1vP7IGW4ZnEIMAIR"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225293,
+      "name": "Run to You (Inst.)",
+      "url": "https://open.spotify.com/track/2rhO7zfmrgOOAQYeKTsaJr"
+    },
+    {
+      "album": {
         "name": "Mr. Sunshine (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2GgtfisvhpNIhRmmusMcwC"
       },
@@ -669,7 +1193,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 290078,
       "name": "Sad Ending - Instrumental",
       "url": "https://open.spotify.com/track/6lKCbZjUIubGi17voBICoT"
@@ -687,7 +1211,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 186344,
       "name": "Say Goodbye (Inst.) (Instrumental)",
       "url": "https://open.spotify.com/track/7v8cfWM8Xunnm5aViLRjk1"
@@ -712,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2PsmLUt0LAcT2c9xzDmxI0"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/6oR7m22sIO1t7o8h7bnwNW"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287800,
+      "name": "Someday, The Boy Instrumental",
+      "url": "https://open.spotify.com/track/1cVvH5rZ4IYYhJfKed7K2R"
+    },
+    {
+      "album": {
         "name": "Spring Breeze (A Business Proposal OST Part.9)",
         "url": "https://open.spotify.com/album/25MSSup5Ol8rYaJbdjEqPq"
       },
@@ -727,6 +1269,60 @@
       "duration_ms": 224040,
       "name": "Spring Breeze (Inst.)",
       "url": "https://open.spotify.com/track/4aLBB9gRonaWlD41mGdv47"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 6",
+        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251517,
+      "name": "Stardust love song (Inst.)",
+      "url": "https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ"
+    },
+    {
+      "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.7",
+        "url": "https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2"
+      },
+      "artists": [
+        {
+          "name": "Monogram",
+          "url": "https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212828,
+      "name": "That Person - Instrumental",
+      "url": "https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy"
+    },
+    {
+      "album": {
+        "name": "Dr. Romantic 2 OST Part.4",
+        "url": "https://open.spotify.com/album/0MzR0Ktgr2IvqgXKn8pZIq"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189229,
+      "name": "That's all (inst.)",
+      "url": "https://open.spotify.com/track/3Jm82wyBDXJ8oT35p5VWYb"
     },
     {
       "album": {
@@ -759,7 +1355,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 296134,
       "name": "The First Snow - Instrumental",
       "url": "https://open.spotify.com/track/3HeXYGErUXeEDiTBF2zoJP"
@@ -777,7 +1373,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 225171,
       "name": "This Love - Instrumental",
       "url": "https://open.spotify.com/track/0VF0fV86TBgc6PcOaPOZIs"
@@ -795,7 +1391,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 199800,
       "name": "TIME - Instrumental",
       "url": "https://open.spotify.com/track/0p8E3rv3M4Dl73GiWmFwiP"
@@ -813,7 +1409,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 223986,
       "name": "What A Wonderful Day - Instrumental",
       "url": "https://open.spotify.com/track/70LlESa3N6MDu6GZ5eKqAj"
@@ -831,7 +1427,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 260493,
       "name": "Windflower (The Forbidden Marriage X Shin Ye-Young) - Instrumental",
       "url": "https://open.spotify.com/track/3V9Rkto8cH0pMPQbJ4ADN2"
@@ -856,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/1rpqtEF714fQm37SHwmDIr"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224366,
+      "name": "Would Be Better - Instrumental",
+      "url": "https://open.spotify.com/track/2rOXWx58B0Lr200p6dbcB9"
+    },
+    {
+      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
       },
@@ -874,6 +1488,28 @@
     },
     {
       "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/2VGi9QEiqVmr1b9DP6BkHo"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        },
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "You're My End and My Beginning - Instrumental",
+      "url": "https://open.spotify.com/track/5bgKxXjkqq4cWymNXGZEcY"
+    },
+    {
+      "album": {
         "name": "Twenty-Five Twenty-One OST Part 9",
         "url": "https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9"
       },
@@ -885,7 +1521,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 207313,
       "name": "Your world (Inst.)",
       "url": "https://open.spotify.com/track/1DElktBD30P1aiIQXErMLG"
@@ -903,7 +1539,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 226574,
       "name": "\uc774 \uc0ac\ub791 (Instrumental)",
       "url": "https://open.spotify.com/track/2tQUuH4PcJRnqZk2LTKlTK"

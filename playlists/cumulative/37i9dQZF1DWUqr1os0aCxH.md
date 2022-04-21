@@ -4,7 +4,7 @@
 
 > POV: sipping tea in the parlour with your BFF.
 
-34 songs - 2 hr 38 min - not published yet
+34 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/5DJYnYg7561mcPqgGsjcwT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rifqi FTR, Unaa, Fanirahmansyah\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,294 likes - 41 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,296 likes - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 7 | [Sincere Devotion \(Chapter 1 & 2\)](https://open.spotify.com/track/0Y33quW3FBjkV0wvSTU6Uw) | [Agis Kania](https://open.spotify.com/artist/0nFclwnPdTOxwyI4st6WJh) | [Sincere Devotion \(Chapter 1 & 2\)](https://open.spotify.com/album/5RLFR5bHKafzLoZKU0gjld) | 4:51 |
 | 8 | [oOoyea](https://open.spotify.com/track/6vwvbXdQJ0cII3VGbW0XKv) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [oOoyea](https://open.spotify.com/album/22os5jvH0IFvF4X5HAWtSC) | 2:42 |
 | 9 | [Andai](https://open.spotify.com/track/4GEyXePiQT2lNBwNj3EE09) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Andai](https://open.spotify.com/album/1CuEuwNQSntumAotbmV0bk) | 3:55 |
-| 10 | [Dimana mana](https://open.spotify.com/track/3W2bLnfNAd36I0MrXVnmRb) | [Ferensa Thitania](https://open.spotify.com/artist/5JQKuqT7h8RJSiH9PXxp0o) | [Dimana mana](https://open.spotify.com/album/0NaFRZJzLaJeCLLafljc30) | 3:37 |
+| 10 | [Dimana mana \(by LALEILMANINO\)](https://open.spotify.com/track/3W2bLnfNAd36I0MrXVnmRb) | [Ferensa Thitania](https://open.spotify.com/artist/5JQKuqT7h8RJSiH9PXxp0o) | [Dimana mana \(by LALEILMANINO\)](https://open.spotify.com/album/0NaFRZJzLaJeCLLafljc30) | 3:37 |
 | 11 | [Underwater](https://open.spotify.com/track/1h9uHljOrqLZnOdIYoVMv2) | [Chūsha](https://open.spotify.com/artist/14qvOZ9N420mYXnkGfR2Ly) | [Underwater](https://open.spotify.com/album/5PuAi1mVFzHQo91LMhQxaB) | 1:43 |
 | 12 | [remember when](https://open.spotify.com/track/4oKbGERlZPPbgUj7eeEefT) | [Luccas Wooden](https://open.spotify.com/artist/7iVibpALRKwTt5R97hFDKi) | [remember when](https://open.spotify.com/album/3gYTQ45u6GAA4jUP7xGtT2) | 3:45 |
 | 13 | [Cold Summer](https://open.spotify.com/track/139kM9LWx2iLbOfs1lxJKu) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI) | [Cold Summer](https://open.spotify.com/album/0J2RsiZIEycjT1BmxzFWxi) | 2:46 |

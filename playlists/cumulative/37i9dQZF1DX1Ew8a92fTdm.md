@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-121 songs - 3 hr 0 min - not published yet
+121 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

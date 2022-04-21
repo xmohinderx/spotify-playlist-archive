@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-102 songs - 4 hr 56 min - not published yet
+102 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

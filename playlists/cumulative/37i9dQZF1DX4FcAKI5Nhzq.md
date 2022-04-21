@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: DKZ
+> Future K\-Pop hits! Cover: BOL4
 
-547 songs - 1 day 6 hr 40 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+548 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Second \(feat\. BIBI\)](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Second](https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ) | 3:38 | 2021-08-11 | 2021-10-30 |
 | [SECRET LOVE REMIX \(Feat\. Chancellor, Damo, Brwn, Knave, Jhnovr\) \[Prod\. Doomsday\]](https://open.spotify.com/track/0pwBbccjxSv1RcyGL1HIAR) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [DAMO](https://open.spotify.com/artist/3NsU8hHRfNmuAHERfQLS1e), [BRWN](https://open.spotify.com/artist/6pH5e4QpMdXPvvEGCVaHPn), [Knave](https://open.spotify.com/artist/1bf9ZQrjTNV4yITb8KK9aB), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [SECRET LOVE REMIX \(Feat\. Chancellor, Damo, Brwn, Knave, Jhnovr\) \[Prod\. Doomsday\]](https://open.spotify.com/album/1HNQS0tGkP1YaYA4LFKX8R) | 6:05 | 2021-06-09 | 2021-06-25 |
 | [See you again](https://open.spotify.com/track/5Ekrh9NPmLMPJaAewqkauN) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [Fade](https://open.spotify.com/album/2g8uiZCLtbI2FYgW1OfoiA) | 3:33 | 2021-07-01 | 2021-08-11 |
+| [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 | 2022-04-20 |  |
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-24 | 2022-01-20 |
 | [Shine Together](https://open.spotify.com/track/6Bj8o5vulKzrYmmaeCcBEe) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SPECIAL HISTORY BOOK](https://open.spotify.com/album/3XByrdCCU42SI5I9nxoA10) | 3:30 | 2020-10-13\* | 2020-11-16 |
 | [Shut Up 받고 Crazy Hot!](https://open.spotify.com/track/1z7QyEi7KWDgqKr4MtnmAm) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Shut Up 받고 Crazy Hot!](https://open.spotify.com/album/0UXupM1TaPLQSTMkKwYEqQ) | 3:45 | 2021-08-11 | 2021-09-18 |

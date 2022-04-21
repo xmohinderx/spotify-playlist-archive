@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-248 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+249 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/track/3zmRndl0TkZRDhdWcYEf7x) | [Mind Mining](https://open.spotify.com/artist/0JM9LBHZ5S6qQMz33Y6NvK) | [Binaural Alpha Sinus 120 Hz \- 128 Hz](https://open.spotify.com/album/4ocuIleKlk4CzPGrzWVqPd) | 2:09 | 2021-06-18 |  |
 | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/track/5jBVAlyZXeFBa2J5Jhjqe1) | [ÅÄÖ123](https://open.spotify.com/artist/6EbQQGEGOAk7F4d4xPambE) | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/album/6KFPda28PBDkfLwTU6iUE5) | 2:21 | 2021-06-04 |  |
 | [Binaural Alpha Sinus 150 Hz \- 164 Hz](https://open.spotify.com/track/2AQfTSiLTzh0p3anUtKjsp) | [Team Study](https://open.spotify.com/artist/409cKKmkGHiSR8RxmjW6kO) | [Binaural Alpha Sinus 150 Hz \- 164 Hz](https://open.spotify.com/album/0mMOgpKZHApkhVwZ9IID5I) | 2:21 | 2021-06-18 | 2022-03-19 |
-| [Binaural Alpha Sinus 150 Hz \- 164 Hz](https://open.spotify.com/track/01cD9hUducONp5qxGREEpc) | [ÅÄÖ123](https://open.spotify.com/artist/6EbQQGEGOAk7F4d4xPambE) | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/album/6KFPda28PBDkfLwTU6iUE5) | 2:34 | 2021-06-04 |  |
+| [Binaural Alpha Sinus 150 Hz \- 164 Hz](https://open.spotify.com/track/01cD9hUducONp5qxGREEpc) | [ÅÄÖ123](https://open.spotify.com/artist/6EbQQGEGOAk7F4d4xPambE) | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/album/6KFPda28PBDkfLwTU6iUE5) | 2:34 | 2021-06-04 | 2022-04-21 |
 | [Binaural Alpha Sinus 160 Hz \- 164 Hz](https://open.spotify.com/track/01TnSX1dD8ycyW2WKlt3PU) | [Goodness Gr8ness](https://open.spotify.com/artist/55rbsxmvnIOixAbVNg0LlA) | [Binaural Alpha Sinus 160 Hz \- 164 Hz](https://open.spotify.com/album/6EVolwCnTo3kSr3IE4Xupp) | 2:21 | 2021-06-04 |  |
 | [Binaural Alpha Sinus 200 Hz \- 208 Hz](https://open.spotify.com/track/5h7DAfGthRE8WMRi0SoBCL) | [Axpro Oum](https://open.spotify.com/artist/4XX60hMPnPt7Y90qRP9XgZ) | [Binaural Beta Sinus 190 Hz \- 220 Hz](https://open.spotify.com/album/7FJMyOqqB8lJD4kbUxTlRJ) | 2:14 | 2021-06-04 |  |
 | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/track/5k86m3IafRdsA80nc5rYjQ) | [Dips And Daps](https://open.spotify.com/artist/4ITSqe85nK0SIoUzO9IRQK) | [Binaural Alpha Sinus 432 Hz \- L 442 Hz \- R](https://open.spotify.com/album/0ngfr2jQNRhHR959MCtCVC) | 2:25 | 2021-06-18 |  |
@@ -221,6 +221,7 @@
 | [Namaste \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/6sdB0fMk2Kcu1mgJ5gQ47Z) | [0neplus0ne](https://open.spotify.com/artist/29iJCpziaRGTqEC7GqLLBI) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:16 | 2021-02-24 |  |
 | [Natarajasana \- Alpha Sinus](https://open.spotify.com/track/1phOmHd9mYpXut6FsUXo60) | [Gervais Boudon](https://open.spotify.com/artist/1Omr9uhscWkt8hmlA7pgiy) | [Natarajasana \- Alpha Sinus](https://open.spotify.com/album/3hToHqtwnUlcs2dDVnjAS7) | 1:45 | 2021-02-03 | 2021-11-25 |
 | [Nordic Sunrise \(Alpha Drone 8Hz\)](https://open.spotify.com/track/1R2FDZO0waMqGNbVWAvLcr) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Nordic Sunrise](https://open.spotify.com/album/6yPPA0BdM6JoopM8e4Wwn8) | 2:38 | 2022-02-16 |  |
+| [Ocean Waves Alpha 273Hz \- 281Hz](https://open.spotify.com/track/0DLfZb1MJjSBzrcVM9F4WT) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Waves](https://open.spotify.com/album/1tpXT6M6mhFD7LwPu2WQkC) | 2:06 | 2022-04-20 |  |
 | [Oceanfloor \- Alpha 107Hz \- 116Hz](https://open.spotify.com/track/7seRq8qoJ9azBAwuQ6ugP3) | [One Zero 8](https://open.spotify.com/artist/0EFJcvdIgISyRJsVSx0ZGw) | [Oceanfloor](https://open.spotify.com/album/5ZWrbw1RN3yg48mQ2O7nL8) | 2:56 | 2021-03-10 |  |
 | [Open Spaces \- Alpha Sinus 117Hz \- 124Hz](https://open.spotify.com/track/2dThqaC8wrCy5iFEaJ2iyM) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Binaural Mirror](https://open.spotify.com/album/5Sup9jYgyPcub2p6LXGgmw) | 3:35 | 2021-04-10 | 2021-09-02 |
 | [Peace \(95.8 Hz \- 90 Hz\)](https://open.spotify.com/track/3GjeiRan0niF5qIOUlDnAC) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Binaural Peace](https://open.spotify.com/album/3QXYTzLcCdQHR8jY581eOw) | 3:32 | 2022-02-18 |  |

@@ -4,7 +4,7 @@
 
 > The perfect study beats, twenty four seven.
 
-487 songs - 18 hr 44 min - not published yet
+487 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

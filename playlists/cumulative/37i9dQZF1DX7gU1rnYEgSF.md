@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-91 songs - 2 hr 59 min - not published yet
+91 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

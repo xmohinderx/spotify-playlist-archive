@@ -4,7 +4,7 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-137 songs - 8 hr 28 min - not published yet
+137 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/7G6kgkeeKc0MSS1Yr6hAro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

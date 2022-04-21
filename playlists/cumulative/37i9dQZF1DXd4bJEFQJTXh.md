@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-138 songs - 7 hr 17 min - not published yet
+138 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

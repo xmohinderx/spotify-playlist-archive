@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "Relax to vocal and instrumental jazz.",
   "name": "Jazz Relax",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "29i7snURyHbowNmRmTZEnp"
+  ],
   "tracks": [
     {
       "album": {
@@ -1529,7 +1531,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 342373,
       "name": "Goodbye Pork Pie Hat",
       "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
@@ -3189,6 +3191,28 @@
       "duration_ms": 300125,
       "name": "Orange Was the Color of Her Dress, Then Blue Silk - Edit",
       "url": "https://open.spotify.com/track/01Udds3MCkViVJmdJoYLEA"
+    },
+    {
+      "album": {
+        "name": "Ruler Rebel",
+        "url": "https://open.spotify.com/album/7qGH2vWOTR8E7u3spMPdOh"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        },
+        {
+          "name": "Sarah Elizabeth Charles",
+          "url": "https://open.spotify.com/artist/5LqWmZQlNt5EqbjJsOMjtn"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255179,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/77jWYo4bR2WuhCwCMIKkpw"
     },
     {
       "album": {

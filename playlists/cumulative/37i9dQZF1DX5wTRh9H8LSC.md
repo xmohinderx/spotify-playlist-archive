@@ -4,7 +4,7 @@
 
 > Listen Heroine's music 24 Hours.
 
-32 songs - 1 hr 44 min - not published yet
+32 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/1CWoaNOmmbx6GCiB2khSlT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

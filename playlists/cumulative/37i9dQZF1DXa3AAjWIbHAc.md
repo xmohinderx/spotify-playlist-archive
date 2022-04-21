@@ -4,7 +4,7 @@
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-60 songs - 2 hr 45 min - not published yet
+60 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/1OgpPyML5myLe45yi0Ja1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

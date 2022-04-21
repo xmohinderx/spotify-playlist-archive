@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Tia Gordon",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Tomike",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 193818,
       "name": "5683",
       "url": "https://open.spotify.com/track/3oCbklzJ146n6GIEA4QPKq"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 107808,
       "name": "All You've Missed",
       "url": "https://open.spotify.com/track/2pGYcjLWY2nJpGPD5aYCVA"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 202800,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/3Lk7oSDf9zpPR3JfZJ2wPU"
@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/4jeyvMABoKv55qkpczN80F"
+      },
+      "artists": [
+        {
+          "name": "Jaish",
+          "url": "https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/0Os4EP2gnCtMA9AYiAmSyZ"
+    },
+    {
+      "album": {
         "name": "Blooming",
         "url": "https://open.spotify.com/album/161LWOFteLoBDzzNqq03AI"
       },
@@ -715,6 +733,28 @@
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "album": {
+        "name": "Bossfight (Radio Edit)",
+        "url": "https://open.spotify.com/album/2SFH3JK7MDqWnYkTF2I7mG"
+      },
+      "artists": [
+        {
+          "name": "TC & the Groove Family",
+          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
+        },
+        {
+          "name": "Pariss Elektra",
+          "url": "https://open.spotify.com/artist/3He52zYjFhdsoNua35KzxE"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Bossfight",
+      "url": "https://open.spotify.com/track/6jQqrQmqPKcMyZA5pbgn7x"
     },
     {
       "album": {
@@ -862,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/4rqRIEmsDFgu8eKKg4aEi6"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/3w2C7ISKBH9yhjHK4VjyFb"
+    },
+    {
+      "album": {
         "name": "Dead is Dead",
         "url": "https://open.spotify.com/album/0CvyVXlQD57SNM64sOqzyP"
       },
@@ -877,6 +935,24 @@
       "duration_ms": 196956,
       "name": "Dead is Dead",
       "url": "https://open.spotify.com/track/6KPYGDQrVt9maBqlwKSH7N"
+    },
+    {
+      "album": {
+        "name": "Deadline",
+        "url": "https://open.spotify.com/album/2GXy6fA1LluprCqFFiH63k"
+      },
+      "artists": [
+        {
+          "name": "Jacklyn",
+          "url": "https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192484,
+      "name": "Deadline",
+      "url": "https://open.spotify.com/track/71ky529sDZjRnGFQNbG2Bx"
     },
     {
       "album": {
@@ -989,7 +1065,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 229993,
       "name": "Delusion Spree",
       "url": "https://open.spotify.com/track/0d4YnSZpQZQszNHz3hfx3a"
@@ -1047,6 +1123,24 @@
       "duration_ms": 169600,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/1l3h5oR4lsKiGsjWUJrZmu"
+    },
+    {
+      "album": {
+        "name": "Disposable Love",
+        "url": "https://open.spotify.com/album/4AMr4YGtOoyTAwYZQSxlfb"
+      },
+      "artists": [
+        {
+          "name": "Plastic Mermaids",
+          "url": "https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326737,
+      "name": "Disposable Love",
+      "url": "https://open.spotify.com/track/65tvsAoLRlbyKmNpe65Du1"
     },
     {
       "album": {
@@ -1155,6 +1249,24 @@
       "duration_ms": 193781,
       "name": "Eating",
       "url": "https://open.spotify.com/track/4t3D7cnJSd0geNiVxDgEWa"
+    },
+    {
+      "album": {
+        "name": "Eilish",
+        "url": "https://open.spotify.com/album/1Pug0PfviX7BmT4FFB6ZBT"
+      },
+      "artists": [
+        {
+          "name": "cush",
+          "url": "https://open.spotify.com/artist/1ihvfIsrtoLR9Ol2Vk8Rrs"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Eilish",
+      "url": "https://open.spotify.com/track/3AxUJc68Veg6poFJouF4Jl"
     },
     {
       "album": {
@@ -1497,7 +1609,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 264000,
       "name": "F\u00fcr Immer",
       "url": "https://open.spotify.com/track/5cvDc9SpzpQ9mYqJrMoeQW"
@@ -1613,7 +1725,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 177961,
       "name": "GMT",
       "url": "https://open.spotify.com/track/4lQEzIqGYZVftxR9VZVgPv"
@@ -2010,6 +2122,24 @@
     },
     {
       "album": {
+        "name": "Hunter Schafer",
+        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Hunter Schafer",
+      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
+    },
+    {
+      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/5nxNSzL9SrsCgJ5Qy3SlIg"
       },
@@ -2187,6 +2317,24 @@
       "duration_ms": 199356,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/7d5CdPCDQdFgG580YM2yhU"
+    },
+    {
+      "album": {
+        "name": "Bucanon.",
+        "url": "https://open.spotify.com/album/6zgezgMdEq77NkPdEsIisF"
+      },
+      "artists": [
+        {
+          "name": "Jamal Bucanon",
+          "url": "https://open.spotify.com/artist/2YOZtBq1eCYh3FWJgmYKvQ"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177774,
+      "name": "If.",
+      "url": "https://open.spotify.com/track/23SpHlyJvp6NBTXg5G8zWo"
     },
     {
       "album": {
@@ -2553,6 +2701,24 @@
       "duration_ms": 176500,
       "name": "lose yourself.",
       "url": "https://open.spotify.com/track/6Y02Lvx6q0vqxMZ6qJMOJo"
+    },
+    {
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/2IKRFqLBrC7crvx4eDjIrY"
+      },
+      "artists": [
+        {
+          "name": "Pud",
+          "url": "https://open.spotify.com/artist/19OjCSpqozFnPepvZGtXz0"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179043,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/7JMAwZ5zhRJVXoX5gzdEs2"
     },
     {
       "album": {
@@ -2969,7 +3135,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 206883,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/0HTi9cUX5UO11fZbyu5KO9"
@@ -3095,7 +3261,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 208000,
       "name": "NEW DREAM",
       "url": "https://open.spotify.com/track/78qp11wxzbx1rHB0sNavVu"
@@ -3359,7 +3525,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 171750,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0qb25uVEa1Eo1JbJUYuK7a"
@@ -3853,7 +4019,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 324545,
       "name": "Retinues",
       "url": "https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT"
@@ -3907,7 +4073,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 169070,
       "name": "Run the Lights",
       "url": "https://open.spotify.com/track/3MOYF2MjXf2sk9l4AINpsE"
@@ -4045,6 +4211,24 @@
       "duration_ms": 295000,
       "name": "Shinkansen",
       "url": "https://open.spotify.com/track/54nqHR9rw3LbwqsI0YkSwn"
+    },
+    {
+      "album": {
+        "name": "SHLIME",
+        "url": "https://open.spotify.com/album/2jOJktR71m1OsWRUwllMtl"
+      },
+      "artists": [
+        {
+          "name": "DeBe",
+          "url": "https://open.spotify.com/artist/6J201lq97N7KuVw9xhdFpg"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "SHLIME",
+      "url": "https://open.spotify.com/track/41IEJWMnkNHVbsvOb7edPl"
     },
     {
       "album": {
@@ -4760,6 +4944,24 @@
     },
     {
       "album": {
+        "name": "us.",
+        "url": "https://open.spotify.com/album/6PYRkkCVXW4l1hJpQwjvPA"
+      },
+      "artists": [
+        {
+          "name": "miss kiki foster",
+          "url": "https://open.spotify.com/artist/0i3zQvPkvrax1RVNoVNFsU"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "us.",
+      "url": "https://open.spotify.com/track/7grSE0NgndCxWifBpeMe0N"
+    },
+    {
+      "album": {
         "name": "Vegas",
         "url": "https://open.spotify.com/album/0c6bbJ2dKB8ojrBjOX4h6e"
       },
@@ -4999,10 +5201,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 128888,
       "name": "Wondering What I Did To Lose You",
       "url": "https://open.spotify.com/track/5f75XPGWRZqKp6IDWdtzkS"
+    },
+    {
+      "album": {
+        "name": "wyd, clogging arteries",
+        "url": "https://open.spotify.com/album/0c7zvtS6LNUmehb8veYzpK"
+      },
+      "artists": [
+        {
+          "name": "Voidie",
+          "url": "https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122535,
+      "name": "wyd, clogging arteries",
+      "url": "https://open.spotify.com/track/7Ee986PBJuqiChqWZqljef"
     },
     {
       "album": {

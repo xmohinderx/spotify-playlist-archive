@@ -4,7 +4,7 @@
 
 > Two\-steppin' tunes for the whole family.
 
-81 songs - 4 hr 37 min - not published yet
+81 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/3YJHbYJN04hCSzclwh7kDe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

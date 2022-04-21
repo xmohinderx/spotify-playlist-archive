@@ -4,7 +4,7 @@
 
 > Celebrate all of the biggest Spotify Kids' hits in 2021 with your family!
 
-52 songs - 2 hr 49 min - not published yet
+52 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/54602UAXito5umhVmcq7kw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

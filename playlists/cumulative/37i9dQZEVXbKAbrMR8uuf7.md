@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-440 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+441 songs - 1 day 1 hr 11 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Machu Picchu](https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:59 | 2021-03-27\* | 2021-07-04 |
 | [Mami Dijo](https://open.spotify.com/track/6miAVDdheid0YA8WTmzNQ6) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:13 | 2021-12-05 | 2021-12-06 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-12 |  |
-| [Mango Piña](https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Mango Piña](https://open.spotify.com/album/4NJB2jW7tHkuK48W048NrZ) | 2:43 | 2021-12-19 |  |
+| [Mango Piña](https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Mango Piña](https://open.spotify.com/album/4NJB2jW7tHkuK48W048NrZ) | 2:43 | 2021-12-19 | 2022-04-21 |
 | [Manos De Tijera](https://open.spotify.com/track/6TVQTC1FRnhet6HHfu7BYP) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [El Comienzo](https://open.spotify.com/album/0YArFUZ2pNCmfZWw3Hnp2S) | 3:47 | 2022-01-20 | 2022-03-22 |
 | [Manos de Tijera](https://open.spotify.com/track/6CABgsWNWBu7xz0mGJwI69) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6LIwfdUtUwamoJjdy9zpFe) | 3:50 | 2021-12-19 |  |
 | [Maquina de Dinero](https://open.spotify.com/track/2YuH8NjmAjlOAjanTcdk2y) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Maquina de Dinero](https://open.spotify.com/album/0TcPPqc42chEiZpLb1318d) | 4:25 | 2022-04-07 | 2022-04-10 |
@@ -399,6 +399,7 @@
 | [Tamo en Hoja](https://open.spotify.com/track/3N2lSc9JXDFiE0rqKOiGIs) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Tamo en Hoja](https://open.spotify.com/album/5y0riJ489uBOTqX6aauDW0) | 3:43 | 2021-10-22 | 2022-02-10 |
 | [TATA \- Remix](https://open.spotify.com/track/1hfufCKTZ0wIQwoW9tXoDR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Tata \(Remix\)](https://open.spotify.com/album/51rCNG1thqxYgMkhGnhqWA) | 4:24 | 2021-07-31 | 2021-08-02 |
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:42 | 2021-03-27\* | 2021-04-22 |
+| [Te Doblaste](https://open.spotify.com/track/0BXnkc24SFCZQ1XsAJkYIZ) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Llegó el Domi](https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC) | 3:07 | 2022-04-20 |  |
 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 | 2021-03-27\* | 2022-03-21 |
 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2022-01-02 | 2022-01-04 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-06-07 |

@@ -4,7 +4,7 @@
 
 > Relax to vocal and instrumental jazz.
 
-250 songs - 22 hr 19 min - not published yet
+251 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Georgia on My Mind](https://open.spotify.com/track/4CzHuCHtOZAO5Azv0N4GEi) | [Charles Cook Jr.](https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y) | [I'm Old Fashioned](https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3) | 3:41 | 2022-04-14 |  |
 | [God Bless the Child](https://open.spotify.com/track/7DUGRxCf9NFJffb5Eei8Ar) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:27 | 2022-04-14 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 | 2022-04-14 |  |
-| [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2022-04-14 |  |
+| [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2022-04-14 | 2022-04-21 |
 | [Got That Feeling](https://open.spotify.com/track/2VY6cGSr6iDouF55iOS6Ok) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:59 | 2022-04-14 |  |
 | [Gramercy Sunset](https://open.spotify.com/track/3dtrI8OOHWxMyg6EHNecdt) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 4:15 | 2022-04-14 |  |
 | [Ham Hocks and Cabbage](https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:24 | 2022-04-14 |  |
@@ -171,6 +171,7 @@
 | [One For Daddy\-O \- Remastered](https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:25 | 2022-04-14 |  |
 | [One For Majid \- Live](https://open.spotify.com/track/5vze3yFdib2nLOqpmzl5wO) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [One For Majid \(Live\)](https://open.spotify.com/album/4TqPGl9Qxy0KM3JuYMLhvi) | 6:47 | 2022-04-14 |  |
 | [Orange Was the Color of Her Dress, Then Blue Silk \- Edit](https://open.spotify.com/track/01Udds3MCkViVJmdJoYLEA) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Jazz in Detroit / Strata Concert Gallery / 46 Selden \(Edits\)](https://open.spotify.com/album/6WzjrLkSQAbdbzC81fK5Ep) | 5:00 | 2022-04-14 |  |
+| [Phases](https://open.spotify.com/track/77jWYo4bR2WuhCwCMIKkpw) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Sarah Elizabeth Charles](https://open.spotify.com/artist/5LqWmZQlNt5EqbjJsOMjtn) | [Ruler Rebel](https://open.spotify.com/album/7qGH2vWOTR8E7u3spMPdOh) | 4:15 | 2022-04-14 |  |
 | [Pineapple](https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Pineapple](https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF) | 3:16 | 2022-04-14 |  |
 | [Plain Gold Ring](https://open.spotify.com/track/4AxT7oW02TqO772n6SGrfh) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Plain Gold Ring](https://open.spotify.com/album/2ODjvtrRFwJ2WCl7fL4uzQ) | 4:24 | 2022-04-14 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/5FXIXX9FniNJfHd9DJrOop) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [John Horler](https://open.spotify.com/artist/6Ha15AYMJf1Uqs1XW9UZCc), [Jim Richardson](https://open.spotify.com/artist/0QK2QcHnt4N9vdSdzX33om), [Tony Mann](https://open.spotify.com/artist/5qIWMD9r0RT8wanM7Nguty) | [Polka Dots and Moonbeams](https://open.spotify.com/album/6m9h1IEQtcfqVq4hZp06Xd) | 9:48 | 2022-04-14 |  |

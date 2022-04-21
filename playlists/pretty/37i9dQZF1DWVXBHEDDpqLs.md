@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > The biggest club songs from regions around the world\. Cover: Black Rave Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,291 likes - 111 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,316 likes - 111 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

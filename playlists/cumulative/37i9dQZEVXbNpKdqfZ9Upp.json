@@ -92,6 +92,24 @@
     },
     {
       "album": {
+        "name": "A Casa Pete",
+        "url": "https://open.spotify.com/album/42Xz6SNoG4eaGbko9JFgpd"
+      },
+      "artists": [
+        {
+          "name": "Spreen",
+          "url": "https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75433,
+      "name": "A Casa Pete",
+      "url": "https://open.spotify.com/track/3oVBLwtACAPgpmzqEC1ztX"
+    },
+    {
+      "album": {
         "name": "Live In Concert / All of Me",
         "url": "https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG"
       },
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 149275,
       "name": "Ahora Y Siempre",
       "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
@@ -479,7 +497,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 222048,
       "name": "Beautiful to Me",
       "url": "https://open.spotify.com/track/2lCneV7R3a8H37ocXm9PUd"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 177000,
       "name": "Hala Madrid ...y nada m\u00e1s",
       "url": "https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC"
@@ -2184,6 +2202,44 @@
     },
     {
       "album": {
+        "name": "Klonk (Remix)",
+        "url": "https://open.spotify.com/album/1ZjdhHTgtEQawzQgCYxlRT"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Galindo Again",
+          "url": "https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Felo Blonck",
+          "url": "https://open.spotify.com/artist/7kJEoJXXCcAcziKADYgS0c"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305823,
+      "name": "Klonk - Remix",
+      "url": "https://open.spotify.com/track/4RG1T9AqbSmOBQlUpbY50s"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -2229,6 +2285,24 @@
       "duration_ms": 257213,
       "name": "La familia Madrigal",
       "url": "https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8"
+    },
+    {
+      "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144767,
+      "name": "La Jaula Perfecta",
+      "url": "https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD"
     },
     {
       "album": {
@@ -2323,7 +2397,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 212205,
       "name": "Los Santos",
       "url": "https://open.spotify.com/track/5VZUk1ryO5RjKEd2txFNhU"
@@ -2581,7 +2655,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
@@ -3151,7 +3225,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
@@ -3279,7 +3353,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 248768,
       "name": "RUMBAT\u00d3N",
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
@@ -3297,7 +3371,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
@@ -3973,7 +4047,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"

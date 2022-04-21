@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-71 songs - 3 hr 19 min - not published yet
+72 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/45Y4ADhIS41wJfzyX9AM1P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Llegó Borracho el Borracho](https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:06 | 2022-01-01 |  |
 | [Locamente Te Amaré](https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Versiones Originales Vol.2](https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK) | 2:39 | 2022-01-01 |  |
 | [Maria Elena](https://open.spotify.com/track/1vve0rYomwnvFct5ptRQrf) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Latin Hits of the '60s \(Cha Cha Cha Gold\)](https://open.spotify.com/album/2jfpsUB1V2hw5jt5cRX8uz) | 3:05 | 2022-01-01 |  |
-| [Me Siento Loco](https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:12 | 2022-01-01 |  |
+| [Me Siento Loco](https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:12 | 2022-01-01 | 2022-04-21 |
 | [Mi Pueblo](https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj) | 2:32 | 2022-01-01 |  |
 | [Monólogo](https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 2:56 | 2022-01-01 |  |
 | [Muchacha Bonita](https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:21 | 2022-01-01 |  |
@@ -67,6 +67,7 @@
 | [Patricia](https://open.spotify.com/track/0ObN1coFGRMtvi5IofBiAu) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Latin Hits of the '60s \(Cha Cha Cha Gold\)](https://open.spotify.com/album/2jfpsUB1V2hw5jt5cRX8uz) | 2:04 | 2022-01-01 |  |
 | [Pepito](https://open.spotify.com/track/1tg7WgO0AA6LLcqGgzJEY1) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Mambo n\. 5](https://open.spotify.com/album/2adit01KSpqheHndAbFhZx) | 3:04 | 2022-01-01 |  |
 | [Popotitos](https://open.spotify.com/track/0qgGL8GDXoB4vsCCGen6dS) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/3xVJmRZLs8xEkh2aTQrIZf) | 3:03 | 2022-01-01 |  |
+| [Que Hiciste](https://open.spotify.com/track/17I3gCPyVokFnm6cOjQQm5) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 2:44 | 2022-01-01 |  |
 | [Renunciación](https://open.spotify.com/track/1XuxOXjBmJcctCZCI91Bpm) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:57 | 2022-01-01 |  |
 | [Revolucionando](https://open.spotify.com/track/1U8ZiOh5FGOliIEUnQ0rjn) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:04 | 2022-01-01 |  |
 | [Sacudiendo Y Barriendo](https://open.spotify.com/track/5iNYQrQp1BHEsEDySyfkDw) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 2:19 | 2022-01-01 |  |

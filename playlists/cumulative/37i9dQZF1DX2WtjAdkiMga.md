@@ -4,7 +4,7 @@
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-67 songs - 3 hr 42 min - not published yet
+67 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

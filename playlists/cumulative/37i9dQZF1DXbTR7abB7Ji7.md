@@ -4,7 +4,7 @@
 
 > The perfect classical accompaniment to your wedding day.
 
-30 songs - 1 hr 55 min - not published yet
+30 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/5Y8mV1kkK7RVGOGyZCwVZy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

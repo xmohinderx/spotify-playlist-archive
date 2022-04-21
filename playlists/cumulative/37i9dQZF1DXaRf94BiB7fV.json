@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Dikshant, Artwork: Isu Kim.\n\n\n\n",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: The Colour Compound, Artwork: Isu Kim.\n\n\n\n",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Aaina",
+        "url": "https://open.spotify.com/album/3bk9LnUlyejSQTEbGTkfqc"
+      },
+      "artists": [
+        {
+          "name": "Shriyash Sahu",
+          "url": "https://open.spotify.com/artist/7C8q7GkDrPUPCHdAzpP8sQ"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261062,
+      "name": "Aaina",
+      "url": "https://open.spotify.com/track/6Nw3fPyruYsRwtJk41OpDQ"
+    },
+    {
+      "album": {
         "name": "Aankhon Se Batana",
         "url": "https://open.spotify.com/album/19H1bwuvijYTRr5urWUFTI"
       },
@@ -175,7 +193,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 265984,
       "name": "Aasaan Nahin Hota",
       "url": "https://open.spotify.com/track/6JSJnZpxa9Dw2vTovINcIA"
@@ -568,6 +586,24 @@
     },
     {
       "album": {
+        "name": "Bayaan",
+        "url": "https://open.spotify.com/album/4huiPb234tyL63uILut8MH"
+      },
+      "artists": [
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "Bayaan",
+      "url": "https://open.spotify.com/track/0kxKlb7W9rI38uLV3wvpKR"
+    },
+    {
+      "album": {
         "name": "Be Myself",
         "url": "https://open.spotify.com/album/3cixpZdlZ5Jwdfe4Sve0rB"
       },
@@ -737,7 +773,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 353750,
       "name": "Bihag",
       "url": "https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g"
@@ -1538,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "Forever With You",
+        "url": "https://open.spotify.com/album/6YAjrGEaIoSf8CeJA0pbet"
+      },
+      "artists": [
+        {
+          "name": "Joshua Brunfire",
+          "url": "https://open.spotify.com/artist/2vYuT26uDOkqAgNej7kpXG"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Forever With You",
+      "url": "https://open.spotify.com/track/2TvhGtELhp5DXm83ZJZFXr"
+    },
+    {
+      "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/7BUQFChLJv6kARWAl73nVx"
       },
@@ -1767,6 +1821,24 @@
       "duration_ms": 152470,
       "name": "Hold Your Hand",
       "url": "https://open.spotify.com/track/6KXX2I2E1y30DVvmtvpSCs"
+    },
+    {
+      "album": {
+        "name": "Holding On To The Hope",
+        "url": "https://open.spotify.com/album/4J7eyBtkz33Em3qI5FD1g9"
+      },
+      "artists": [
+        {
+          "name": "The Colour Compound",
+          "url": "https://open.spotify.com/artist/4KtxCWu3CoqSSHtdmdiwpu"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202586,
+      "name": "Holding On To The Hope",
+      "url": "https://open.spotify.com/track/24IgBHkgObOvSD4A2IgW0y"
     },
     {
       "album": {
@@ -2255,6 +2327,32 @@
       "duration_ms": 272000,
       "name": "Jaana Kaha Hai",
       "url": "https://open.spotify.com/track/6aHl7WFS38wYezyWHTdghb"
+    },
+    {
+      "album": {
+        "name": "Jab Tak Zinda Hain",
+        "url": "https://open.spotify.com/album/3GI8brqP2qbHzgF2DoXcax"
+      },
+      "artists": [
+        {
+          "name": "Naveen Koomar",
+          "url": "https://open.spotify.com/artist/3GWiuTUJcfcRGl20ujK6dh"
+        },
+        {
+          "name": "Agney",
+          "url": "https://open.spotify.com/artist/4WWmt1KQ1lpnehQ5VrCuub"
+        },
+        {
+          "name": "Vedang",
+          "url": "https://open.spotify.com/artist/6dip5H4Q9s5YCe85f8YI1M"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Jab Tak Zinda Hain",
+      "url": "https://open.spotify.com/track/7bW7RA29gea2orgmueoROS"
     },
     {
       "album": {
@@ -2921,7 +3019,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 252000,
       "name": "Kyu Jana Hai",
       "url": "https://open.spotify.com/track/1L4cmwxRjW8jiIy1yiFINz"
@@ -2939,7 +3037,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 199384,
       "name": "Lapadva",
       "url": "https://open.spotify.com/track/39xh38Je8dutb4nt1yD53O"
@@ -2979,6 +3077,24 @@
       "duration_ms": 230142,
       "name": "Lat Ulajhi",
       "url": "https://open.spotify.com/track/77477vF5I3QnC4lgpwYKS2"
+    },
+    {
+      "album": {
+        "name": "Lat Uljhi",
+        "url": "https://open.spotify.com/album/69n5C4zWG1zR2WnXEqCM32"
+      },
+      "artists": [
+        {
+          "name": "Neha Karode",
+          "url": "https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275599,
+      "name": "Lat Uljhi",
+      "url": "https://open.spotify.com/track/2JFVLdhDjoGi1Ys3UI2LsR"
     },
     {
       "album": {
@@ -4235,7 +4351,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 208775,
       "name": "Parindey",
       "url": "https://open.spotify.com/track/4LHuTmHGpuIDwCbN4eFpob"
@@ -4583,7 +4699,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 255449,
       "name": "Rang Daaroongi",
       "url": "https://open.spotify.com/track/6u2LwHmzVlHjaKkLJACLc3"
@@ -4915,6 +5031,32 @@
       "duration_ms": 246496,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/5IcVqCATeKoeIzwO59x2rQ"
+    },
+    {
+      "album": {
+        "name": "Saajan More (Secret Sessions X Collab Stories)",
+        "url": "https://open.spotify.com/album/3JjXXx7QML49r6T0WOUToC"
+      },
+      "artists": [
+        {
+          "name": "Kushal Chokshi",
+          "url": "https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa"
+        },
+        {
+          "name": "Air Devi",
+          "url": "https://open.spotify.com/artist/49HEYP8DQrHDQmdBCU4MSD"
+        },
+        {
+          "name": "Purani",
+          "url": "https://open.spotify.com/artist/0bnKXCAkZoRV3qmPrFMN30"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114890,
+      "name": "Saajan More (Secret Sessions X Collab Stories)",
+      "url": "https://open.spotify.com/track/2mOZsknA6l7qTGDy8wELeU"
     },
     {
       "album": {
@@ -6225,7 +6367,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 248470,
       "name": "Tum Nahi Ho",
       "url": "https://open.spotify.com/track/4hDPhgn39DpUVGe5qZe7Im"

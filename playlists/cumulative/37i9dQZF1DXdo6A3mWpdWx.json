@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 232411,
       "name": "3AM Eternal - Live at the S.S.L.",
       "url": "https://open.spotify.com/track/0ldLTYuqnHU92weLtw6W9m"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 233960,
       "name": "Ain't No Man",
       "url": "https://open.spotify.com/track/4edZn0QE6eeo7yYYpuPvU6"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 209803,
       "name": "Back in My Life",
       "url": "https://open.spotify.com/track/2es5efbIHrLOLcdmBmpoiR"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 221186,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 243666,
       "name": "Brimful of Asha (Norman Cook Remix) (Single Version)",
       "url": "https://open.spotify.com/track/29capylmokCeuNAWqGitij"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 183013,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/11N8hE0QfJwI6sewxTdrJu"
@@ -894,6 +894,24 @@
     },
     {
       "album": {
+        "name": "1 Polish 2 Biscuits & a Fish Sandwich",
+        "url": "https://open.spotify.com/album/3w2YJTPFOXO793xcjPhBWJ"
+      },
+      "artists": [
+        {
+          "name": "The Outhere Brothers",
+          "url": "https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Don't Stop (Wiggle Wiggle) - OHB Radio Edit",
+      "url": "https://open.spotify.com/track/59iinItceTkO05vu2Yf6kX"
+    },
+    {
+      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36"
       },
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 241866,
       "name": "Don't Talk Just Kiss",
       "url": "https://open.spotify.com/track/4mrbbOwCgfgxiYy8kaVyAO"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 210933,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/4jP1ex7l0wwogPtcvmGoIe"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 223535,
       "name": "Dreamer - Janice Robinson Vocal",
       "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 293105,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "Freestyler",
       "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 208506,
       "name": "God Is a DJ",
       "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
@@ -1505,10 +1523,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 211093,
       "name": "Happening All Over Again",
       "url": "https://open.spotify.com/track/3Ex3IhyrNTO9z9iIsAMfSx"
+    },
+    {
+      "album": {
+        "name": "On Your 90's Radio",
+        "url": "https://open.spotify.com/album/3mc83JE8jhpDb9Jd0eNm7M"
+      },
+      "artists": [
+        {
+          "name": "Ini Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244813,
+      "name": "Here Comes the Hotstepper",
+      "url": "https://open.spotify.com/track/4vfzROmNsxedKICcHod5Rh"
     },
     {
       "album": {
@@ -1563,7 +1599,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 269626,
       "name": "House of Love",
       "url": "https://open.spotify.com/track/0HgDGw5QDBIfDCTIrdV1Tx"
@@ -1719,7 +1755,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 285106,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
@@ -1791,7 +1827,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 210426,
       "name": "If I Can't Have You - 7\" Edit",
       "url": "https://open.spotify.com/track/7CQwrwJSd2XBYUiGkyQyWC"
@@ -2074,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "Let Me Be Your Fantasy EP",
+        "url": "https://open.spotify.com/album/5S1yKRsVfyrVIQLcR37nWT"
+      },
+      "artists": [
+        {
+          "name": "Baby D",
+          "url": "https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231493,
+      "name": "Let Me Be Your Fantasy - Radio Edit",
+      "url": "https://open.spotify.com/track/7DSEeWvqViVIZ8ht5PC0uO"
+    },
+    {
+      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -2157,7 +2211,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 238573,
       "name": "Lets Get Ready to Rhumble",
       "url": "https://open.spotify.com/track/5yIDhiIA3rjYBaApHcwlDV"
@@ -2193,7 +2247,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 274880,
       "name": "Love & Devotion - Club Mix",
       "url": "https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy"
@@ -2211,7 +2265,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 236026,
       "name": "Love to Hate You - 2019 - Remaster",
       "url": "https://open.spotify.com/track/4A6pPKVWcIWIBooH6nwa48"
@@ -2265,7 +2319,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 223426,
       "name": "Mamma Mia - Radio Version",
       "url": "https://open.spotify.com/track/0i2UIuXKAoDrK1LzI5qUcd"
@@ -2291,7 +2345,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 271266,
       "name": "Mar\u00eda - Pablo Flores Spanglish Radio Edit",
       "url": "https://open.spotify.com/track/4bNqBlJkoueiFla9YsyNg9"
@@ -2363,7 +2417,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 253573,
       "name": "More And More - Single Version",
       "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
@@ -2421,7 +2475,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 238093,
       "name": "Moving Too Fast - Radio Edit",
       "url": "https://open.spotify.com/track/4FLFm76nwepkcxzqS8PzH4"
@@ -2573,7 +2627,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 252071,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
@@ -2627,7 +2681,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 224220,
       "name": "No limit - RAP VERSION",
       "url": "https://open.spotify.com/track/5sqf1N65NUzVXVAwjgOVJg"
@@ -2703,7 +2757,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 236226,
       "name": "One and One - Radio",
       "url": "https://open.spotify.com/track/5cXTJiry5czVBiN2YjffKo"
@@ -2775,7 +2829,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 283426,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
@@ -3057,7 +3111,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 226466,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV"
@@ -3169,7 +3223,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 358226,
       "name": "Stay",
       "url": "https://open.spotify.com/track/17PIimsvVwdgFlo7SqpflK"
@@ -3227,7 +3281,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 267293,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
@@ -3325,7 +3379,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 204440,
       "name": "Sweets For My Sweet",
       "url": "https://open.spotify.com/track/1JtVKX2qjcgMHrCSkwi12i"
@@ -3541,7 +3595,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 270333,
       "name": "There's Nothing I Won't Do - Original Edit",
       "url": "https://open.spotify.com/track/22RGeL5eCVCCXeTDZLzYdC"
@@ -3595,7 +3649,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 292040,
       "name": "Thinking About Your Love",
       "url": "https://open.spotify.com/track/1UFU3B9vwxqVitwSnS5wg0"
@@ -3613,7 +3667,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 235293,
       "name": "This Is The Way - Radio Edit",
       "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo"
@@ -3649,7 +3703,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 224933,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
@@ -3739,7 +3793,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 278778,
       "name": "Tubthumping",
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"

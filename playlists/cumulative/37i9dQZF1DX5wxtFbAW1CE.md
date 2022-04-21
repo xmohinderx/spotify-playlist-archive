@@ -4,7 +4,7 @@
 
 > Soothing songs for family yoga time.
 
-202 songs - 10 hr 30 min - not published yet
+202 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6vVBPBjLNPSY1UgPYvJnVN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

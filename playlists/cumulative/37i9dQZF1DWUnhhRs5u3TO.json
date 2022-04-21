@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-19",
   "description": "The best metal songs of the 2010s. Cover: Five Finger Death Punch",
   "name": "10s Metal Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1bgDijw9RuxPGobkylisrP"
+  ],
   "tracks": [
     {
       "album": {
@@ -107,7 +109,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 194868,
       "name": "Anti-Everything",
       "url": "https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB"
@@ -215,7 +217,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 233964,
       "name": "Black Flame - Single Edit",
       "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
@@ -237,6 +239,24 @@
       "duration_ms": 302666,
       "name": "Blind and Frozen",
       "url": "https://open.spotify.com/track/6UZIV2FSS4sbj1rl3yYlcV"
+    },
+    {
+      "album": {
+        "name": "The Satanist",
+        "url": "https://open.spotify.com/album/3FZIWoY6wHn2q2zn5FmJgP"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265440,
+      "name": "Blow Your Trumpets Gabriel",
+      "url": "https://open.spotify.com/track/2oFfAGg9VCnZT1MVSBqw5R"
     },
     {
       "album": {
@@ -467,7 +487,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 188266,
       "name": "Diamond Eyes",
       "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ"
@@ -539,7 +559,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 222101,
       "name": "Earthbound",
       "url": "https://open.spotify.com/track/2TgqTZF3NMFQtQlBHStXnF"
@@ -701,7 +721,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 226786,
       "name": "Hate by Design",
       "url": "https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD"
@@ -939,6 +959,24 @@
       "duration_ms": 205800,
       "name": "Let Me Hear You Scream",
       "url": "https://open.spotify.com/track/36WNQJFVjYhDRZ6vJhYXEh"
+    },
+    {
+      "album": {
+        "name": "Phronesis",
+        "url": "https://open.spotify.com/album/3TolVtFlrVEwzIwpOXEW75"
+      },
+      "artists": [
+        {
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274528,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/6dfiHpYb2ciw2urKenpdyC"
     },
     {
       "album": {
@@ -1256,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "Strength in Numbers",
+        "url": "https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN"
+      },
+      "artists": [
+        {
+          "name": "The Haunted",
+          "url": "https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295560,
+      "name": "Preachers of Death",
+      "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
+    },
+    {
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -1393,10 +1449,28 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 278200,
       "name": "Satan Is Real",
       "url": "https://open.spotify.com/track/5Mp3MFneLLCVGW3O5kYMvm"
+    },
+    {
+      "album": {
+        "name": "Lifelines",
+        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6WaYiQUPel70HUaCZj5eND"
     },
     {
       "album": {
@@ -1436,6 +1510,46 @@
     },
     {
       "album": {
+        "name": "Shadows Inside",
+        "url": "https://open.spotify.com/album/5hjlMSENMKPc21HuK3mINd"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236549,
+      "name": "Shadows Inside",
+      "url": "https://open.spotify.com/track/0dGJAoX4Gj4hWL8ipTtumN"
+    },
+    {
+      "album": {
+        "name": "You Are We",
+        "url": "https://open.spotify.com/album/26wFh7VUA3ykYy2IMVdHpI"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295762,
+      "name": "Silence Speaks (feat. Oli Sykes)",
+      "url": "https://open.spotify.com/track/3CwvzIEwwh0NR2QIpDvGVU"
+    },
+    {
+      "album": {
         "name": "Magma",
         "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
@@ -1465,7 +1579,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 349093,
       "name": "Sorceress",
       "url": "https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg"
@@ -1519,7 +1633,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 205986,
       "name": "Stitch",
       "url": "https://open.spotify.com/track/0Pl5XX0MbdQ5E702GBhnUn"
@@ -1577,6 +1691,60 @@
       "duration_ms": 265823,
       "name": "St\u00e5lf\u00e5gel",
       "url": "https://open.spotify.com/track/5yekYQ8dIMx7sZi8hjSzbv"
+    },
+    {
+      "album": {
+        "name": "Sol Invictus",
+        "url": "https://open.spotify.com/album/5qp9HbqfqVZNRa0ZCApASw"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315986,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2yTQLaObN0aYAVq133eS09"
+    },
+    {
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "Swerve City",
+      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+    },
+    {
+      "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/399w1uaOvKhnkczdMMZYoy"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281332,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/4ORXSxr4tV5H6gH5KHAiAh"
     },
     {
       "album": {
@@ -2049,7 +2217,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 245533,
       "name": "Whore",
       "url": "https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93"
@@ -2071,6 +2239,24 @@
       "duration_ms": 258586,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
+    },
+    {
+      "album": {
+        "name": "Walk The Sky",
+        "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229940,
+      "name": "Wouldn't You Rather",
+      "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
     },
     {
       "album": {
@@ -2139,7 +2325,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 192560,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"

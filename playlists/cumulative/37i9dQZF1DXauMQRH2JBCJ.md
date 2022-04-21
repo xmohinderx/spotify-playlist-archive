@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-63 songs - 3 hr 16 min - not published yet
+63 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/5sKVVJySgFONogn0anMM3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

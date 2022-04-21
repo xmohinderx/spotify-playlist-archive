@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 181422,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/4TU5I4gmEwDjcOuEAMCBQB"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 208204,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 182800,
       "name": "Alright (Remix)",
       "url": "https://open.spotify.com/track/4L5xjNPFX2243oxglUUUvH"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 160775,
       "name": "Amazing Grace - HGHTS Remix",
       "url": "https://open.spotify.com/track/51fJSFDs5Lnu7n7HfFR4qk"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 201880,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/0LBzNdxVmIuQ6ooIHSYEud"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "Bigger Story",
       "url": "https://open.spotify.com/track/012DUuLdefLSpuOvf3StFg"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 210128,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2WpZBx0ajYCNnv2EXwNnOA"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Chasing Quiet",
       "url": "https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 214793,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2dXntxjimv1oK2BejjEj10"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 149052,
       "name": "Clear View (Remix)",
       "url": "https://open.spotify.com/track/1OdEnDiOeNLQIqM8uKV5tu"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 168000,
       "name": "Close (feat. Steven Furtick)",
       "url": "https://open.spotify.com/track/5cdVjOTp2QPOmYlFuCtkAP"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 235034,
       "name": "Conqueror",
       "url": "https://open.spotify.com/track/089vf2r4s5obkgONgWd1FB"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "Dancing at Dusk",
       "url": "https://open.spotify.com/track/1Lj6LnLMSFZv8ik24ssMpO"
@@ -748,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+    },
+    {
+      "album": {
         "name": "Every Move I Make",
         "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
       },
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 160500,
       "name": "Fear Of Heights",
       "url": "https://open.spotify.com/track/1Uz9zIn7s9jrUIIWPXiZkA"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 254026,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 201506,
       "name": "Feel so Alive",
       "url": "https://open.spotify.com/track/1XmVcaQPI9yWpKVbIiL14L"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 206496,
       "name": "For The Good",
       "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 202158,
       "name": "Friend Of Sinners",
       "url": "https://open.spotify.com/track/6kTSXLgIQDmupPqwV84OHQ"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 257946,
       "name": "Glorious Day - Remix",
       "url": "https://open.spotify.com/track/3LEiqJm0Q2iwUNZ8t5PDqe"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 165080,
       "name": "Good Day (feat. Social Club Misfits)",
       "url": "https://open.spotify.com/track/382CUuS56h9lajPb215LuP"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 171546,
       "name": "Good Friend",
       "url": "https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 202710,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 258337,
       "name": "Hallelujah\u2019s Song (Psalm 103) - FRANKLIN Remix",
       "url": "https://open.spotify.com/track/6CyjgYf2MXZwKdSKkCAmaK"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 188244,
       "name": "Headspace - GOLDHOUSE Remix",
       "url": "https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 220200,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2sCLhumJK6miHTPJvl3IHE"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 199757,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/62sxM2Uha39CysCoVcoGKT"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 210510,
       "name": "I'm Still Breathing",
       "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
@@ -1683,7 +1701,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 216093,
       "name": "It's Gonna Get Better",
       "url": "https://open.spotify.com/track/4xq5lrkKBwpT8QB0iiBjSp"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 204927,
       "name": "King on the Inside",
       "url": "https://open.spotify.com/track/2NtGEO4J6TpOpXxhxpjQv5"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 222159,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/3tPJHHygrSqPgZPoAxON8B"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 205746,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/4yw6kmacxlzs42Lg3zvRkJ"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 175292,
       "name": "Millionaire (Good Like That)",
       "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 260331,
       "name": "Miracle (Live)",
       "url": "https://open.spotify.com/track/0lEqGUzVc5hPbtItKYaVrb"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 174438,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/6CVCNhM3dOfPL6Ud4JLNr7"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 213410,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/511Q7DOLFifvVhCfPO1tgp"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 185217,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 202691,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/62EtLxtWiFrC8H5FlE9LJZ"
@@ -2245,7 +2263,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 200506,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/3W5r3xgezRS536m6Iw6tZu"
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 174573,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/16HcQdDA5srhtubE1iahCF"
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 179400,
       "name": "NOW!",
       "url": "https://open.spotify.com/track/3zQTibEtR6c4c0MaOjnrNb"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 196400,
       "name": "On The Way Up 2.0",
       "url": "https://open.spotify.com/track/3u8YEAVRbJEozzWp9WZLVR"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 227080,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0EJlpO8Z5Vqy4phgcqU84V"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 194526,
       "name": "Sanctuary - Neon Feather Remix",
       "url": "https://open.spotify.com/track/22VXDtneDqNVmNxt9FGFaB"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 243240,
       "name": "Scars (Come With Livin') - Neon Feather Remix",
       "url": "https://open.spotify.com/track/0shptsB4Efvi4T5zNKjeuO"
@@ -2631,7 +2649,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 152769,
       "name": "SIMPLE (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
@@ -2689,7 +2707,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 221693,
       "name": "State Of Mind - Live",
       "url": "https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl"
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 210355,
       "name": "Take up My Cross",
       "url": "https://open.spotify.com/track/7CPaUzk8cgVb4u122bchT6"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 172598,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW"
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
@@ -2889,7 +2907,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 207600,
       "name": "Through People Like Me - Chris Howland Remix",
       "url": "https://open.spotify.com/track/5q6iykOAJ0N2fe7wvj0r3A"
@@ -3005,7 +3023,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 237179,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
@@ -3067,7 +3085,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 218965,
       "name": "Where the Light Dances",
       "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"
@@ -3173,7 +3191,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 281005,
       "name": "Wind + Waves (Remix)",
       "url": "https://open.spotify.com/track/1WC5JP6agemSOQIfQcElzz"
@@ -3217,7 +3235,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 227379,
       "name": "Without You - Abe Parker Remix",
       "url": "https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0"
@@ -3275,7 +3293,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 180872,
       "name": "WTSOTLI - LAEL Remix",
       "url": "https://open.spotify.com/track/2SWYkkjug4DxuMlO8ozWku"
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 254717,
       "name": "You Are",
       "url": "https://open.spotify.com/track/31FbRIjh7s2pf3As8SSM9F"
@@ -3329,7 +3347,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 276006,
       "name": "You Are Here (Studio)",
       "url": "https://open.spotify.com/track/567dVhDLaA5Opwh557ZSAo"
@@ -3354,6 +3372,28 @@
     },
     {
       "album": {
+        "name": "Feared By Hell",
+        "url": "https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Davies",
+          "url": "https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180987,
+      "name": "Young Gunz",
+      "url": "https://open.spotify.com/track/02eIb7l42v7pc4V432NIQP"
+    },
+    {
+      "album": {
         "name": "Your Love Is",
         "url": "https://open.spotify.com/album/7IQvFw3QmkF2dO4dJcxFqL"
       },
@@ -3365,7 +3405,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 246228,
       "name": "Your Love Is",
       "url": "https://open.spotify.com/track/4fF8W36n4q1M81QzR9Qmkw"

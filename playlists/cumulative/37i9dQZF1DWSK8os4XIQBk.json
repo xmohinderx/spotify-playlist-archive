@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Dear Alcohol",
+        "url": "https://open.spotify.com/album/4mn4We0lZSZam33G1UQP0d"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "Dear Alcohol",
+      "url": "https://open.spotify.com/track/1BbUq9wc4N2q53fR9S6NsZ"
+    },
+    {
+      "album": {
         "name": "Devil in a Bottle",
         "url": "https://open.spotify.com/album/0IqW21i1QETM8Sh6JJIxtc"
       },

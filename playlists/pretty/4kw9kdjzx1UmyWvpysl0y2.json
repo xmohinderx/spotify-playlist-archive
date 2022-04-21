@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM2MCwxZTJkNzZmOWUyMWIyOGMxMjc2ZjNkN2QyMTU0OGZiOWRiYWU0Njkx",
+  "snapshot_id": "MzM2MiwyNGQ3NjBmODhhOWM1NTE0OGM4NzI1MjFlZGMxNzhiOGUyYmFjZGEz",
   "tracks": [
+    {
+      "added_at": "2022-04-20 16:39:47",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl"
+    },
     {
       "added_at": "2022-04-19 15:28:10",
       "album": {
@@ -1099,26 +1115,6 @@
       "duration_ms": 255000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "AGONIZE",
-        "url": "https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        },
-        {
-          "name": "Extra Terra",
-          "url": "https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU"
-        }
-      ],
-      "duration_ms": 223163,
-      "name": "AGONIZE",
-      "url": "https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

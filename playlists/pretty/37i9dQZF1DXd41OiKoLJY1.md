@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: PLAN B, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,262 likes - 72 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,270 likes - 72 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

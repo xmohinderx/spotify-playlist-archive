@@ -1146,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Edio",
+        "url": "https://open.spotify.com/album/1XgPv3oY99SZ2ZQ2XPROkb"
+      },
+      "artists": [
+        {
+          "name": "Gordo Napalma",
+          "url": "https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Edio",
+      "url": "https://open.spotify.com/track/0QdOnce1FwtfhjHGyYWcJ5"
+    },
+    {
+      "album": {
         "name": "Ein neuer Tag",
         "url": "https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD"
       },
@@ -3789,6 +3807,24 @@
       "duration_ms": 294857,
       "name": "Uplifting",
       "url": "https://open.spotify.com/track/65nKrnZS2M6OaGiZaMOM0S"
+    },
+    {
+      "album": {
+        "name": "Uspavan",
+        "url": "https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg"
+      },
+      "artists": [
+        {
+          "name": "Sasja Lekko",
+          "url": "https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Uspavan",
+      "url": "https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO"
     },
     {
       "album": {

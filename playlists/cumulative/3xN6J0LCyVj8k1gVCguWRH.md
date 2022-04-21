@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/3xN6J0LCyVj8k1gVCguWRH.md) - cumulative - [plain](/playlists/plain/3xN6J0LCyVj8k1gVCguWRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3xN6J0LCyVj8k1gVCguWRH)
 
-### [Barack Obama's 2021 Summer Playlist](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
+### [Barack Obama's 2022 Summer Playlist](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonus tracks\)
+> With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
 1,348 songs - 3 day 6 hr 50 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 

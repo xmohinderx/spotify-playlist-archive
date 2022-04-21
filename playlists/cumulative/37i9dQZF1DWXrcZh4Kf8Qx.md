@@ -4,7 +4,7 @@
 
 > All 70s, all ballads\. Cover: Barry Manilow
 
-50 songs - 3 hr 18 min - not published yet
+51 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/2LPu7i88GAkMRqtjMyDmDJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [My Eyes Adored You](https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Closeup](https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX) | 3:32 | 2021-02-10 |  |
 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 | 2021-02-10 |  |
 | [Nobody Does It Better](https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [The Spy Who Loved Me](https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ) | 3:32 | 2021-02-10 |  |
+| [Pieces of My Life](https://open.spotify.com/track/0RwaHSvTcRSAwoiFXPtErz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Today \(Legacy Edition\)](https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x) | 4:04 | 2021-02-10 |  |
 | [Run To Me](https://open.spotify.com/track/5cDZAaBAZk6PcPwyME40is) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Mythology](https://open.spotify.com/album/1ePV6K6qtvsn7kUPMwqaWJ) | 3:11 | 2021-02-10 |  |
 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 | 2021-02-10 |  |
 | [Sentimental Lady](https://open.spotify.com/track/4U4vEbJx5ObAdqyyX0rvJE) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [Love To Love](https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9) | 2:58 | 2021-02-10 |  |
@@ -52,7 +53,7 @@
 | [Time in a Bottle](https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:26 | 2021-02-10 |  |
 | [Too Much Heaven](https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 4:56 | 2021-02-10 |  |
 | [Vincent](https://open.spotify.com/track/1QOjPpGoGfzUUjD87ltJzs) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 4:00 | 2021-02-10 |  |
-| [We're All Alone](https://open.spotify.com/track/4QGcS9KL4M9zOAy8JQ2cy0) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Love Rocks \- After Midnight, Vol\. 5](https://open.spotify.com/album/5HvOcH2mki1HLeMxgcmjnt) | 3:38 | 2021-02-10 |  |
+| [We're All Alone](https://open.spotify.com/track/4QGcS9KL4M9zOAy8JQ2cy0) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Love Rocks \- After Midnight, Vol\. 5](https://open.spotify.com/album/5HvOcH2mki1HLeMxgcmjnt) | 3:38 | 2021-02-10 | 2022-04-21 |
 | [Without You](https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 3:21 | 2021-02-10 |  |
 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 | 2021-02-10 |  |
 | [You Were Always On My Mind](https://open.spotify.com/track/4zPhsJgq9JpZBKxyeyIqJ1) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Lay It On Me: The Columbia Years](https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV) | 3:44 | 2021-02-10 |  |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,405 likes - 40 songs - 2 hr 25 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,401 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 |
 | 2 | [Stay](https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Stay](https://open.spotify.com/album/0BPbKYczJqVdAVZUltYFic) | 3:30 |
-| 3 | [Feel Flows \- Vindata Remix](https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT) | [Feel Flow \(Vindata Remix\)](https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh) | 4:22 |
+| 3 | [Feel Flows \- Vindata Remix](https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT) | [Feel Flows \(Vindata Remix\)](https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh) | 4:22 |
 | 4 | [Dark Places](https://open.spotify.com/track/3EPyTBUgWMA2Ib2vT6XHIt) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Dark Places](https://open.spotify.com/album/28DuCb1V8dZDjQ8x18qczf) | 3:55 |
 | 5 | [Snowfall](https://open.spotify.com/track/4bo2EJlAoJMnIKKGCI6RXf) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Snowfall EP](https://open.spotify.com/album/3wMUrMNl2EjvQx78YEuW7Z) | 5:27 |
 | 6 | [My Heart](https://open.spotify.com/track/2tinYknqBborA5kYv07aKX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart](https://open.spotify.com/album/0ntarsVywCQ1WDApCRJJMK) | 3:20 |

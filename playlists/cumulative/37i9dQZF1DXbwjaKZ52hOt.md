@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-182 songs - 5 hr 3 min - not published yet
+182 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/1cI5PTnsfQOn37ZEyt5QpI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

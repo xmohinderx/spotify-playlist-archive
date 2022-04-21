@@ -4,7 +4,7 @@
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-50 songs - 5 hr 2 min - not published yet
+51 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/13en7Orf0L2LROM0phnA8F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,13 @@
 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 | 2021-10-22 |  |
 | [Himmel & Hoelle](https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew) | [Thomas P\. Heckmann](https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m) | [Electronic Body Music](https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec) | 7:24 | 2021-10-22 |  |
 | [I Love Acid](https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:19 | 2021-10-22 |  |
+| [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 | 2021-10-22 |  |
 | [Land Of Confusion](https://open.spotify.com/track/45WAqLonACPBfTZd6ye5tn) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1XQXorGVNfyRxDqVzKgAjx) | 2:58 | 2021-10-22 |  |
 | [LFO \(Leeds Warehouse Mix\)](https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 3:27 | 2021-10-22 |  |
 | [Miserablism](https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Alternative](https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw) | 4:10 | 2021-10-22 |  |
 | [Music and Lights](https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 5:22 | 2021-10-22 |  |
 | [Next to You](https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4) | 4:22 | 2021-10-22 |  |
-| [No Way Back \- Vocal Mix](https://open.spotify.com/track/6bvsbo7BBOiRNzpsN8Pmcz) | [Adonis](https://open.spotify.com/artist/5ce2qxZgDutrfzBTF1w7ZX) | [No Way Back](https://open.spotify.com/album/3KbCMnKbqT2E7iesr9BsXR) | 4:56 | 2021-10-22 |  |
+| [No Way Back \- Vocal Mix](https://open.spotify.com/track/6bvsbo7BBOiRNzpsN8Pmcz) | [Adonis](https://open.spotify.com/artist/5ce2qxZgDutrfzBTF1w7ZX) | [No Way Back](https://open.spotify.com/album/3KbCMnKbqT2E7iesr9BsXR) | 4:56 | 2021-10-22 | 2022-04-21 |
 | [Patchwork Jazz](https://open.spotify.com/track/6VOhURr2cJv80aFBeLaoWy) | [Cro\-Magnon](https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy) | [V](https://open.spotify.com/album/4elJ2d798hGdIyxxaIpwdD) | 7:12 | 2021-10-22 |  |
 | [Problèmes d'Amour \- Original](https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq) | [Problèmes D'amour \(All Versions\)](https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB) | 7:00 | 2021-10-22 |  |
 | [Ready My Black Asz](https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 5:24 | 2021-10-22 |  |

@@ -4,7 +4,7 @@
 
 > Songs that will make you and your kids laugh.
 
-51 songs - 1 hr 56 min - not published yet
+51 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/6oqlMpPWfZSiIArFsJgjYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

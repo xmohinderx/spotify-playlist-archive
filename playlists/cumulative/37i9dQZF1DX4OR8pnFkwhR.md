@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks
 
-137 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+138 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [alien](https://open.spotify.com/track/6BOQ3AuQwtXgNkbt3p8jIA) | [aryy](https://open.spotify.com/artist/4Zk5qOGzxR0iPsKTO63VRK) | [alien](https://open.spotify.com/album/0sB4m0wrniL7HCXgmnmr7F) | 2:56 | 2022-02-22 | 2022-03-09 |
 | [alone](https://open.spotify.com/track/3MT2cvsBjP3SahkanbWfsD) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [alone](https://open.spotify.com/album/5mQT5TJ3q9hfYh2UQtPo9i) | 4:20 | 2022-04-07 |  |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-04-12 |  |
-| [bloom](https://open.spotify.com/track/4OjPtEtDQ5xqE7m8WuUley) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [bloom](https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug) | 3:52 | 2022-02-22 |  |
+| [bloom](https://open.spotify.com/track/4OjPtEtDQ5xqE7m8WuUley) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [bloom](https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug) | 3:52 | 2022-02-22 | 2022-04-21 |
 | [Bonnie & Clyde](https://open.spotify.com/track/6SJ6ILaHlY46nhHNigSCtP) | [Young Dalu](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bonnie & Clyde](https://open.spotify.com/album/6MSlBb3UVoJlgp5Dtkvpch) | 2:59 | 2022-03-29 |  |
 | [Burning Fuel](https://open.spotify.com/track/6g9fyqAjF8zk4QhNYkjdYL) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [SEVEN THIRTY ONE](https://open.spotify.com/album/1t40QHVlS8MF8ReiAz67xV) | 2:50 | 2022-03-29 |  |
 | [Bジャンプ](https://open.spotify.com/track/4srFT0JT4zcoPv7YFfd53J) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Bジャンプ](https://open.spotify.com/album/4gx6cVuTGWieuv6KlyucEj) | 3:32 | 2022-04-05 |  |
@@ -22,6 +22,7 @@
 | [Change the world](https://open.spotify.com/track/7vDP2DuhXm3n3JKxkxc5mm) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Change the world](https://open.spotify.com/album/3t37vMsrMBeVUrdoqSyCib) | 2:57 | 2022-02-17 | 2022-03-09 |
 | [d.s.m \- Studio Live Session](https://open.spotify.com/track/1383Xfuq08qSbx4zMJPFRd) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun Studio Live Session](https://open.spotify.com/album/5LlCwmuxbZODLBZqviAlOM) | 3:11 | 2022-04-05 |  |
 | [Dadaism](https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2) | [ARAWA](https://open.spotify.com/artist/3jIaFeZJTaWRt0pSOnK5Gm) | [Dadaism](https://open.spotify.com/album/7szLNdzqs579yj4qZE0iaS) | 3:42 | 2022-03-22 |  |
+| [DESIRE](https://open.spotify.com/track/2ravTxFpwFgqXzDmQru4H3) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [TIME TO SHINE](https://open.spotify.com/album/7wOxANTRpk4rz0M6KSt3wK) | 3:08 | 2022-04-20 |  |
 | [DINDON](https://open.spotify.com/track/4rYap0Hsov9eM8LxhZDSBQ) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [DINDON](https://open.spotify.com/album/3zZPGpFtwIgcy1ARRD0hVF) | 3:23 | 2022-03-29 |  |
 | [DOORS](https://open.spotify.com/track/3dAJ5JPLdIt8YQ8bsPCs14) | [NEI](https://open.spotify.com/artist/1TxxPD6FTYXeDfzdGDG5my) | [DOORS](https://open.spotify.com/album/4RDIiNWS6zv8upiy7KkUIE) | 4:11 | 2022-03-29 | 2022-04-13 |
 | [drivin'](https://open.spotify.com/track/2arT5zAY4wphTwipc07SeS) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [drivin'](https://open.spotify.com/album/0k6uJOhFGvSW7n5iqrJr3A) | 3:47 | 2022-03-15 | 2022-04-13 |

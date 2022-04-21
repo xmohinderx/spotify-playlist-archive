@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-62 songs - 4 hr 25 min - not published yet
+62 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/39JhdRXejkPBSUicsoFlpo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

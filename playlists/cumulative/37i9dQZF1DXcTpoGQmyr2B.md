@@ -4,7 +4,7 @@
 
 > Let your stress melt away while you work up a sweat.
 
-100 songs - 5 hr 42 min - not published yet
+100 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/0gAp2fhS8FFQOA7HtJ1tbD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

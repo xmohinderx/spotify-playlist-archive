@@ -4,7 +4,7 @@
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-96 songs - 5 hr 21 min - not published yet
+96 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5XFqsyLYlOB2spadiOeuPU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

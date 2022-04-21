@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-59 songs - 2 hr 50 min - not published yet
+59 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/2JLVudCCZX4xzcl0Sm4jlC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Focus to the sound of soft electronic music.
 
-164 songs - 8 hr 35 min - not published yet
+164 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

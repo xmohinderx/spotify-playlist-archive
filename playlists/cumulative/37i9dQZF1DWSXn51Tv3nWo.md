@@ -4,7 +4,7 @@
 
 > Let your hair down and dance along to music from the Trolls movies!
 
-76 songs - 3 hr 54 min - not published yet
+76 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/3wIAsG6N3ChrJRezDLehb6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

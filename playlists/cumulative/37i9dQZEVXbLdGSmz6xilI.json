@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -1868,6 +1868,28 @@
     },
     {
       "album": {
+        "name": "Du H\u00e0nh V\u00e0o T\u00e2m Tr\u00ed",
+        "url": "https://open.spotify.com/album/4UyNjD0EjTY4kfOPNPS0AL"
+      },
+      "artists": [
+        {
+          "name": "GiGi H\u01b0\u01a1ng Giang",
+          "url": "https://open.spotify.com/artist/2NYFphd3cUQ5pLEVLaBP9L"
+        },
+        {
+          "name": "K-ICM",
+          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218029,
+      "name": "Du H\u00e0nh V\u00e0o T\u00e2m Tr\u00ed (feat. K-ICM)",
+      "url": "https://open.spotify.com/track/3KOr9UVnymiq3EoS2J9EKS"
+    },
+    {
+      "album": {
         "name": "DUMB DUMB",
         "url": "https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b"
       },
@@ -3047,7 +3069,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 297600,
       "name": "Hoa Ng\u0169 S\u1eafc",
       "url": "https://open.spotify.com/track/7sPYGMt8D7FVdIdXmekdPt"
@@ -3163,7 +3185,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 279750,
       "name": "H\u1eb9n Ki\u1ebfp T\u01b0\u01a1ng Ph\u00f9ng",
       "url": "https://open.spotify.com/track/0X5tCYwiVldeDynbhBshTl"
@@ -3185,6 +3207,28 @@
       "duration_ms": 247553,
       "name": "H\u1eb9n \u01af\u1edbc T\u1eeb H\u01b0 V\u00f4 - Live",
       "url": "https://open.spotify.com/track/2tg8L2ls1k19B2SvRKBnJh"
+    },
+    {
+      "album": {
+        "name": "H\u1ed3 \u0110i\u1ec7p Hoa Ni\u00ean",
+        "url": "https://open.spotify.com/album/5H1HpTTzAdfiiCgcR59otX"
+      },
+      "artists": [
+        {
+          "name": "K-ICM",
+          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
+        },
+        {
+          "name": "Long N\u00f3n L\u00e1",
+          "url": "https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221418,
+      "name": "H\u1ed3 \u0110i\u1ec7p Hoa Ni\u00ean",
+      "url": "https://open.spotify.com/track/7wxxk3WQhBERNIhkYg5adk"
     },
     {
       "album": {
@@ -3833,7 +3877,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -4169,7 +4213,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 218887,
       "name": "Look Here",
       "url": "https://open.spotify.com/track/0x4cMbCLC6L7aJQs3EiPaZ"
@@ -5237,7 +5281,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"

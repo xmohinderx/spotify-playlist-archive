@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-19",
   "description": "Some of the most beautiful French love songs. ",
   "name": "Je t'aime",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7bHpNw5RhYKen90eNPVY3R"
+  ],
   "tracks": [
     {
       "album": {
@@ -122,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Mieux qu'ici bas",
+        "url": "https://open.spotify.com/album/0osUqg4ztFn7057auEPEF9"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Boulay",
+          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+        }
+      ],
+      "date_added": "2021-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252600,
+      "name": "Coeur combat",
+      "url": "https://open.spotify.com/track/2Tb2K3kHZTMmY5WxJ3IEQ6"
+    },
+    {
+      "album": {
         "name": "Reprises Vol.1",
         "url": "https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0"
       },
@@ -205,7 +225,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 190426,
       "name": "Ecoute mon coeur",
       "url": "https://open.spotify.com/track/2bpUzToJJlq6TJ1NH1VD32"
@@ -288,6 +308,24 @@
     },
     {
       "album": {
+        "name": "Grand Amour",
+        "url": "https://open.spotify.com/album/7EoqJ8qHetcN3wPzmG5k2I"
+      },
+      "artists": [
+        {
+          "name": "Maissiat",
+          "url": "https://open.spotify.com/artist/2ZUpe06uC011TqhQjBhB0n"
+        }
+      ],
+      "date_added": "2021-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238293,
+      "name": "Grand Amour",
+      "url": "https://open.spotify.com/track/1d2it6glA0gGa9to0YpuZH"
+    },
+    {
+      "album": {
         "name": "Equilibre",
         "url": "https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t"
       },
@@ -299,7 +337,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
@@ -451,7 +489,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 245733,
       "name": "Je marche \u00e0 toi",
       "url": "https://open.spotify.com/track/1H9zpgRsY37kP5P0bucIX8"
@@ -469,7 +507,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 244986,
       "name": "Je n' t'aime plus",
       "url": "https://open.spotify.com/track/6FEAhmKbZpURgokUIHZFk7"
@@ -657,7 +695,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 190413,
       "name": "L'encre de tes yeux",
       "url": "https://open.spotify.com/track/4vYDdtH2Wk9k6xGOe53Ohn"
@@ -682,6 +720,46 @@
     },
     {
       "album": {
+        "name": "Adieu Tristesse",
+        "url": "https://open.spotify.com/album/77sQzvVezgqNvAPbwjdqOn"
+      },
+      "artists": [
+        {
+          "name": "Arthur H",
+          "url": "https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2021-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "La chanson de Satie",
+      "url": "https://open.spotify.com/track/0zNXeSDXbVXofJ8hNpsORu"
+    },
+    {
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "date_added": "2021-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
+    },
+    {
+      "album": {
         "name": "WALL-E",
         "url": "https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB"
       },
@@ -693,7 +771,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 204013,
       "name": "La vie en rose - Single Version",
       "url": "https://open.spotify.com/track/3e8bQYmhna1rnrVIEBuIg2"
@@ -715,6 +793,42 @@
       "duration_ms": 170950,
       "name": "Le monarque des Indes",
       "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
+    },
+    {
+      "album": {
+        "name": "Mara Tremblay",
+        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182973,
+      "name": "Le Printemps Des Amants",
+      "url": "https://open.spotify.com/track/11n0e4D69xaGiZn3oKAlmJ"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
     },
     {
       "album": {
@@ -808,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Les m\u00e9t\u00e9ores",
+        "url": "https://open.spotify.com/album/6Zt55Ky8ka3Ja26UaVCZdQ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Pelletier",
+          "url": "https://open.spotify.com/artist/5uXoTuYyWyAPGj93tZzZH8"
+        }
+      ],
+      "date_added": "2021-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242213,
+      "name": "Les \u00e2mes s\u0153urs",
+      "url": "https://open.spotify.com/track/6Ro4XmtCNzzRR8S9KWDbS1"
+    },
+    {
+      "album": {
         "name": "Petite plage",
         "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
       },
@@ -898,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Brol",
+        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192546,
+      "name": "Nombreux",
+      "url": "https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF"
+    },
+    {
+      "album": {
         "name": "Paris Tristesse",
         "url": "https://open.spotify.com/album/56YDneI8SOsYZBgfd0oSeb"
       },
@@ -967,7 +1117,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 186373,
       "name": "Oublie Pas",
       "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
@@ -1010,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "Elles & Barbara",
+        "url": "https://open.spotify.com/album/1CQ1QD6Cy7By7adVChyHHd"
+      },
+      "artists": [
+        {
+          "name": "\u00c9lodie Fr\u00e9g\u00e9",
+          "url": "https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii"
+        }
+      ],
+      "date_added": "2021-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334786,
+      "name": "Parce que je t\u2019aime",
+      "url": "https://open.spotify.com/track/0xVpFwIqVjlcx9QQfl9WvJ"
+    },
+    {
+      "album": {
         "name": "Tous Les Sens",
         "url": "https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE"
       },
@@ -1021,7 +1189,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 321426,
       "name": "Pers\u00e9ides",
       "url": "https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo"
@@ -1043,6 +1211,24 @@
       "duration_ms": 288373,
       "name": "Pour que tu m'aimes encore",
       "url": "https://open.spotify.com/track/5iUdu5DddFwvqmnwL0nOBI"
+    },
+    {
+      "album": {
+        "name": "Le go\u00fbt du bonheur",
+        "url": "https://open.spotify.com/album/0JoQpcCKN69DxAYHfNEbSj"
+      },
+      "artists": [
+        {
+          "name": "\u00c9milie L\u00e9vesque",
+          "url": "https://open.spotify.com/artist/1kALRjp6dDWtSUrugrTrHD"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "Pourquoi m'aimes-tu d\u00e9j\u00e0",
+      "url": "https://open.spotify.com/track/6JyjgVix8qm24JEhHdyGn7"
     },
     {
       "album": {
@@ -1169,7 +1355,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
@@ -1295,7 +1481,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 227706,
       "name": "Toujours l'amour",
       "url": "https://open.spotify.com/track/64IBkbhvsyis3W8aYCk0Hq"

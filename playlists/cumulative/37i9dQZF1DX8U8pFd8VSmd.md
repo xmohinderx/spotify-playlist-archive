@@ -4,7 +4,7 @@
 
 > Fire up the grill and enjoy this playlist with the whole family.
 
-50 songs - 2 hr 31 min - not published yet
+50 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/3oUCrpB9ntTb9UkqHlgytt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

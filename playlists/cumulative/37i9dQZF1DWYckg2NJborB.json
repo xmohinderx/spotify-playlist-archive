@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-20",
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
   "name": "The Writer's Playlist",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "64uVzxAuR4KY2bjkr5Sgtk"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,24 @@
       "duration_ms": 225840,
       "name": "1984",
       "url": "https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB"
+    },
+    {
+      "album": {
+        "name": "Hail to the Thief (Collector's Edition)",
+        "url": "https://open.spotify.com/album/5GcgkRjhWDxrOTDk0TJQK8"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "2 + 2 = 5",
+      "url": "https://open.spotify.com/track/6EIVp9Arb1aAkFgro6UTlt"
     },
     {
       "album": {
@@ -251,7 +271,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 252026,
       "name": "Harold Bloom",
       "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
@@ -269,7 +289,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 211626,
       "name": "Harper Lee",
       "url": "https://open.spotify.com/track/4MfmlkRKhlREunOHnasUhm"
@@ -341,7 +361,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 263801,
       "name": "Jack Kerouac",
       "url": "https://open.spotify.com/track/5PNtTv39XP3MZsUwxzSv4S"
@@ -399,6 +419,24 @@
       "duration_ms": 220040,
       "name": "Lolita",
       "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
+    },
+    {
+      "album": {
+        "name": "Milton At Midnight",
+        "url": "https://open.spotify.com/album/1t4MIGZFUAF7HofsaSWIpk"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346386,
+      "name": "Milton At Midnight",
+      "url": "https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC"
     },
     {
       "album": {
@@ -492,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Postdoc Blues",
+        "url": "https://open.spotify.com/album/6gohVbR0EIu7cQ4joT4ELg"
+      },
+      "artists": [
+        {
+          "name": "John K. Samson",
+          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203091,
+      "name": "Postdoc Blues",
+      "url": "https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD"
+    },
+    {
+      "album": {
         "name": "Thought for Food (Remastered)",
         "url": "https://open.spotify.com/album/48a3f6QKcnP6Wuo4P96Uvj"
       },
@@ -543,6 +599,24 @@
       "duration_ms": 327866,
       "name": "Romeo And Juliet",
       "url": "https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg"
+    },
+    {
+      "album": {
+        "name": "Actually Not",
+        "url": "https://open.spotify.com/album/1JzoeSNKgijDPegyr1gvuV"
+      },
+      "artists": [
+        {
+          "name": "Eddie From Ohio",
+          "url": "https://open.spotify.com/artist/2DVqRDtPOOCl9gbzlhJkZg"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/6BxZ0Pio6d1OOaFATHVj7J"
     },
     {
       "album": {
@@ -611,10 +685,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 169706,
       "name": "Sirens of Titan",
       "url": "https://open.spotify.com/track/395ZYCrLELWM3MtMzGskaF"
+    },
+    {
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
     },
     {
       "album": {
@@ -665,7 +757,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 250053,
       "name": "The Book I Read - 2005 Remaster",
       "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
@@ -708,6 +800,42 @@
     },
     {
       "album": {
+        "name": "Kning Disk 2005-2012 Box Set",
+        "url": "https://open.spotify.com/album/2ArS0SJEyL8GAuV8lACeUu"
+      },
+      "artists": [
+        {
+          "name": "Erik Enocksson",
+          "url": "https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244312,
+      "name": "The Joy of D.H. Lawrence",
+      "url": "https://open.spotify.com/track/32NuTwiZpdX9ZrC7TNvn3w"
+    },
+    {
+      "album": {
+        "name": "The Way We Are",
+        "url": "https://open.spotify.com/album/2K7H7PhclTb5jzUUd3vJ84"
+      },
+      "artists": [
+        {
+          "name": "Fleming & John",
+          "url": "https://open.spotify.com/artist/5hpLRSi6V5nzmk8YRKKqLC"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "The Pearl",
+      "url": "https://open.spotify.com/track/1zBCwvQhBJ8apOFRnR9xss"
+    },
+    {
+      "album": {
         "name": "Is This Desire?",
         "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
       },
@@ -719,7 +847,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 292933,
       "name": "The River",
       "url": "https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw"
@@ -755,7 +883,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"

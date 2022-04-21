@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 164877,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/1DPth0VduH2nAlWKdy3kSI"
@@ -2597,7 +2597,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 172577,
       "name": "Codeina",
       "url": "https://open.spotify.com/track/7gBVqQYFQIkAFKmygUk0p2"
@@ -4085,7 +4085,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 216901,
       "name": "Filakes",
       "url": "https://open.spotify.com/track/0omM3mkVfjt8MhDKinkhcn"
@@ -11967,6 +11967,24 @@
       "duration_ms": 188348,
       "name": "Ti Zitas",
       "url": "https://open.spotify.com/track/357Ces27QaK6BQ3W6cZUeE"
+    },
+    {
+      "album": {
+        "name": "Tilefono",
+        "url": "https://open.spotify.com/album/33YsXsjLwzvwNhBoniCTyC"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191477,
+      "name": "Tilefono",
+      "url": "https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST"
     },
     {
       "album": {

@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244706,
+      "name": "Every Word",
+      "url": "https://open.spotify.com/track/2044AELKGaOBQJ5ZqTbJMO"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-21",
       "duration_ms": 233533,
       "name": "It's Only Love That Gets You Through",
       "url": "https://open.spotify.com/track/1jgce88ygplFg5g2AS2WEB"

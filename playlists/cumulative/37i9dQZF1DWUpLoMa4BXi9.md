@@ -4,7 +4,7 @@
 
 > Listen to narrated stories from your family's favorite Disney movies like The Lion King, Toy Story, and The Little Mermaid.
 
-30 songs - 6 hr 19 min - not published yet
+30 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/1nKz5ZRJY1LWTupsfqOrkH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

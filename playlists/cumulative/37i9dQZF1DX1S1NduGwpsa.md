@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Photo : <br/>Michael Bublé
 
-50 songs - 3 hr 46 min - not published yet
+50 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

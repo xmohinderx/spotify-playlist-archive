@@ -4,7 +4,7 @@
 
 > Relax and enjoy the best of British classical music.
 
-40 songs - 3 hr 32 min - not published yet
+40 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/5gFeA3R0Zi28X3oB6XhYIn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

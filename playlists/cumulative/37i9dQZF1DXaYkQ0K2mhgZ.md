@@ -4,7 +4,7 @@
 
 > Move your feet and shake your hips to these family\-friendly tunes.
 
-62 songs - 3 hr 59 min - not published yet
+62 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/17lFfumF7P2Y3r6EiqvJyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

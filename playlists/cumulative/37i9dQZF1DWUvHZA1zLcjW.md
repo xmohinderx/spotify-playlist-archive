@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-87 songs - 6 hr 46 min - not published yet
+87 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/4Num9648PBh0tHBNi9kTl7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
