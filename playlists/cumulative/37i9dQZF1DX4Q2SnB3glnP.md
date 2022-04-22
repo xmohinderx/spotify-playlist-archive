@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-206 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+207 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [La Lune](https://open.spotify.com/track/2CaJTDQRm5mss61P0dm6OE) | [Cécile Theroux](https://open.spotify.com/artist/2t2cTHZOCw0iz30wBxeTyh) | [La Lune](https://open.spotify.com/album/5P9kFLcgUPazvp1sBXWCqs) | 2:52 | 2022-02-03 |  |
 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 3:56 | 2021-12-08 |  |
 | [Light Wings](https://open.spotify.com/track/35InIo8y15nRhxFhXlE9KG) | [Darlan Vado](https://open.spotify.com/artist/5V2NXfQ1354qTgxy8r00kl) | [Light Wings](https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2) | 2:24 | 2021-12-08 |  |
-| [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Lightning Free](https://open.spotify.com/artist/5gKstbAvksymwjaGWknRH9) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 | 2021-12-08 |  |
+| [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Lightning Free](https://open.spotify.com/artist/5gKstbAvksymwjaGWknRH9) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 | 2021-12-08 | 2022-04-22 |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2021-12-08 |  |
 | [Liven](https://open.spotify.com/track/1C5muG3s6lQuIExxm1jItV) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:42 | 2021-12-08 |  |
 | [Lonesome By The Creek](https://open.spotify.com/track/5e3AJCNGfSqbuHiG96xLln) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Beautiful As You Are](https://open.spotify.com/album/4D8S8sIpWEgZX56W9Pzjvu) | 3:48 | 2021-12-08 |  |
@@ -210,6 +210,7 @@
 | [Watercolor](https://open.spotify.com/track/4WTmQdOSpj9rfBqYY2hryC) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 4:07 | 2021-12-08 |  |
 | [Winds of Haryana](https://open.spotify.com/track/5M2vSYhLSDww1n3x2zB1qN) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 | 2021-12-08 |  |
 | [Within Us](https://open.spotify.com/track/0KJ0xOx8ZhVlsRlta6MftC) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Colors & Shapes](https://open.spotify.com/album/3cunIVFjTiFdhYW9OZPcvw) | 3:09 | 2021-12-08 |  |
+| [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-04-21 |  |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2021-12-08 |  |
 | [Yellow](https://open.spotify.com/track/5aadCHkKtIIAwkUAQRiiv9) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Beach Waves](https://open.spotify.com/album/51VYJwvNDONE60PEjNZYQC) | 2:50 | 2021-12-08 |  |
 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 | 2021-12-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados con Anitta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,057 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,080 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 35 | [Acelero](https://open.spotify.com/track/0npqu43nUgLf8HJQxUHQtD) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Acelero](https://open.spotify.com/album/6mB9ZT3Wj1CbCrXcE9Eoj7) | 4:03 |
 | 36 | [Infraganti](https://open.spotify.com/track/25h54oPQAB19qacffSp5wG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Infraganti](https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo) | 2:44 |
 | 37 | [Mi Fucking Vida Loca](https://open.spotify.com/track/5TaEqPEcVumcFj6BIJUUUc) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Mi Fucking Vida Loca](https://open.spotify.com/album/5FYjXEhiF2tJ3mNXGoe079) | 3:26 |
-| 38 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 |
+| 38 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [M A R L K U](https://open.spotify.com/artist/0nUJZ0KwKaJVlxV77jsPwY) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 |
 | 39 | [¿qué nos pasó?](https://open.spotify.com/track/7oktOhGjQMindseF27l0OT) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [relaciones tóxicas](https://open.spotify.com/album/6n24N0gjwRDi9Nz4hr6CWc) | 3:03 |
 | 40 | [Dice Que Me Olvidó](https://open.spotify.com/track/4rDkKZBdeQBGw0lWjZCls2) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Dice Que Me Olvidó](https://open.spotify.com/album/4hjJHBBUkZLsDA2EzuyAwj) | 2:51 |
 | 41 | [Triple H](https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [They Love Us](https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb) | 2:54 |

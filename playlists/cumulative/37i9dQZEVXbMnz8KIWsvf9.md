@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-328 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+329 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/track/7DLdnWK7OYDsRf7I15Ze0L) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/album/6G2oqaD3wdiXVAgubTcDzP) | 3:48 | 2021-11-14 | 2022-02-19 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2021-10-26 | 2022-02-17 |
 | [I ไม่ O \(IXO\)](https://open.spotify.com/track/3VSMRXCmLmcgb4p5irSJmf) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I ไม่ O \(IXO\)](https://open.spotify.com/album/6Zl21EDgJdMwQougq7bt9J) | 3:55 | 2021-09-11 | 2022-01-25 |
-| [I'll Do It How You Like It](https://open.spotify.com/track/0GEfa5zT6C6ryDExkiJ2Zh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [I'll Do It How You Like It](https://open.spotify.com/album/5jJ39vXfSuJl5x13eh1Ne6) | 3:07 | 2022-02-04 |  |
+| [I'll Do It How You Like It](https://open.spotify.com/track/0GEfa5zT6C6ryDExkiJ2Zh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [I'll Do It How You Like It](https://open.spotify.com/album/5jJ39vXfSuJl5x13eh1Ne6) | 3:07 | 2022-02-04 | 2022-04-22 |
 | [I'll Make You Cry](https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:34 | 2021-10-07 | 2021-10-08 |
 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 | 2021-07-28 | 2021-07-29 |
 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 | 2021-07-28 | 2021-07-30 |
@@ -267,6 +267,7 @@
 | [ทะเลสีดำ \- เพลงประกอบละคร แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/4d3ZN68omv7xoexu5wglUD) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เพลงประกอบละคร แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/album/0eNu0duhI8p2QRiDLTbiXq) | 3:45 | 2021-06-21 | 2021-06-23 |
 | [ที่สุดของฉัน](https://open.spotify.com/track/1icYoiOpJDRqYdSvTSK7v4) | [2021 ราตรี \(2021 Ratri\)](https://open.spotify.com/artist/0bc8YINhSnzAEHTbhK8hGR) | [ที่สุดของฉัน](https://open.spotify.com/album/0QZpUpgDgcumPb5i5a3bAN) | 4:05 | 2021-03-27\* | 2021-04-26 |
 | [ท้องฟ้า](https://open.spotify.com/track/4KRH5emKl7a7Qo1nqmWFKb) | [PAPER](https://open.spotify.com/artist/7pEWOWPLD9S2HcpWEMDfOH) | [ท้องฟ้า](https://open.spotify.com/album/17jlfqzBUc0lLYoJHwS2CT) | 4:56 | 2022-02-06 | 2022-04-09 |
+| [นอนไม่หลับ \(Melatonin\)](https://open.spotify.com/track/7bHqlO1utHAs2yknWvVt1C) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [นอนไม่หลับ \(Melatonin\)](https://open.spotify.com/album/2kiDXg6Q09gxC3dXGJdC58) | 3:39 | 2022-04-21 |  |
 | [นิโคติน](https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [นิโคติน \- Single](https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34) | 3:36 | 2021-03-27\* | 2021-10-17 |
 | [น้ำลาย](https://open.spotify.com/track/6oBGKAEqVgvljmFMwMUAXX) | [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg), [แพรวา](https://open.spotify.com/artist/0Qqu1es91949kEHLpLXLoR) | [น้ำลาย](https://open.spotify.com/album/5smaS69FZBgWSrzqzba6z7) | 4:21 | 2021-03-27 | 2021-10-01 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/17UUTchNWTLOFsLUJnpIv8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/1EMY6N5Ciaa5xHQPsyIJ8P) | 3:36 | 2021-03-27\* | 2021-04-14 |

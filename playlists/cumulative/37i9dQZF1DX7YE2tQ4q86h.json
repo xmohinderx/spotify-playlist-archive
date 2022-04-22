@@ -1878,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "You Don't Really Wanna",
+        "url": "https://open.spotify.com/album/4PjKjGtm0lTEHrbQpRmXER"
+      },
+      "artists": [
+        {
+          "name": "CuteBad",
+          "url": "https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127653,
+      "name": "You Don't Really Wanna",
+      "url": "https://open.spotify.com/track/0QtR4FagFVAyZaTATVmwE5"
+    },
+    {
+      "album": {
         "name": "You for Me",
         "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
       },

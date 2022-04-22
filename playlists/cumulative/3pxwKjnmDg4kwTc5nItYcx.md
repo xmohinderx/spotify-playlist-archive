@@ -4,11 +4,12 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-560 songs - 1 day 6 hr 15 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+561 songs - 1 day 6 hr 18 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 | 2020-10-02 |  |
+| [10,000 Hours \(feat\. Mason Dane\)](https://open.spotify.com/track/6Aj8TG8jFUan8u3465iWh8) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [10,000 Hours \(feat\. Mason Dane\)](https://open.spotify.com/album/6wQrsLW7ccSKjvTCPFSxk7) | 2:16 | 2022-04-22 |  |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2019-10-04 | 2020-02-12 |
 | [100 Degrees](https://open.spotify.com/track/2ZDpSQfBdgkooeXw6oj3Uz) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d) | 2:46 | 2019-08-27\* | 2020-02-12 |
 | [17](https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17](https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq) | 2:40 | 2020-02-28 | 2021-05-12 |

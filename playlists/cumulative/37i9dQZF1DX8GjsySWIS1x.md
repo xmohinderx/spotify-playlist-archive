@@ -2,7 +2,7 @@
 
 ### [Now Loading](https://open.spotify.com/playlist/37i9dQZF1DX8GjsySWIS1x)
 
-> The latest in gaming music.
+> The latest in gamer music.
 
 695 songs - 1 day 15 hr 6 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 

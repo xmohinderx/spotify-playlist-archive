@@ -4,7 +4,7 @@
 
 > Drift off to sleep with acoustic guitar.
 
-90 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+92 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,15 +22,16 @@
 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 | 2021-12-23 |  |
 | [Draumurinn](https://open.spotify.com/track/7cMQbAS4eqmHT1I8cnYplu) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Draumurinn](https://open.spotify.com/album/5CG1s3VqpxBjcZqN1lwieV) | 2:08 | 2021-12-09 |  |
 | [Dulces alegrías](https://open.spotify.com/track/5PSOuj6VsXy6eXhBkBHqEr) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Dulces alegrías](https://open.spotify.com/album/0mA6A0yYI516pR5G08rCNf) | 2:20 | 2021-12-09 |  |
-| [Dunes](https://open.spotify.com/track/5IFtrRzuEqTCyw1spoN5qs) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Something Good](https://open.spotify.com/album/2HNNOqcuGOPt05kFzwPZIR) | 2:40 | 2021-12-09 |  |
+| [Dunes](https://open.spotify.com/track/5IFtrRzuEqTCyw1spoN5qs) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Something Good](https://open.spotify.com/album/2HNNOqcuGOPt05kFzwPZIR) | 2:40 | 2021-12-09 | 2022-04-22 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2021-12-09 |  |
+| [Empire \(Delta Binaural Beat\)](https://open.spotify.com/track/0GawhkkBNAhPTyiITkqyFR) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Empire \(Delta Binaural Beat\)](https://open.spotify.com/album/6LFbkAVLD2Reo2NcESuSit) | 2:14 | 2022-04-22 |  |
 | [End Of Us](https://open.spotify.com/track/0HzYFF9wRz7CiVfag6yvi2) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:52 | 2021-12-09 |  |
 | [Ephemeral](https://open.spotify.com/track/3K6gdJlyZHsaYktMMHZo95) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Ephemeral](https://open.spotify.com/album/2nrjemHCDyyVFdL054h0km) | 2:56 | 2021-12-09 |  |
 | [Españoleta](https://open.spotify.com/track/49TT0zKYwZerufoxgYiohS) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Sleep and Relaxation](https://open.spotify.com/album/6GHknBEoAGG3UmypRtRLRy) | 2:05 | 2021-12-09 |  |
 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 | 2021-12-09 |  |
 | [Foggy Morning](https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Foggy Morning](https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj) | 3:05 | 2021-12-09 |  |
 | [Goin Ahead](https://open.spotify.com/track/3sRQp2AmxkGCbd8wlhMVRM) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Goin Ahead](https://open.spotify.com/album/6Vj7wsGsLmBB87cP0jhBkZ) | 2:32 | 2021-12-09 |  |
-| [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:40 | 2021-12-09 |  |
+| [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:40 | 2021-12-09 | 2022-04-22 |
 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 | 2021-12-09 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2021-12-09 | 2022-04-06 |
 | [Green Quartz](https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Green Quartz](https://open.spotify.com/album/3yrB2eBphHCE475j4v8GWC) | 2:36 | 2021-12-09 |  |
@@ -63,6 +64,7 @@
 | [Northern](https://open.spotify.com/track/5orWjiWXDD8C4a0hBmhNDC) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:51 | 2021-12-09 |  |
 | [Nylon Lullaby](https://open.spotify.com/track/6l6E9EUXTzNXj71BgxD8WV) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Nylon Lullaby](https://open.spotify.com/album/1M4By8kZZNGw3KTsN0FHJq) | 2:16 | 2021-12-09 |  |
 | [Ode Au Chagrin](https://open.spotify.com/track/6AQ6EficiiIlDgIutcH60i) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Ode Au Chagrin](https://open.spotify.com/album/7d8e1ke0qGHlRqTLa7PAYN) | 2:11 | 2021-12-09 |  |
+| [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2022-04-22 |  |
 | [Over the hill is Leighan](https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Over the hill is Leighan](https://open.spotify.com/album/62YlNkM4p58NlHPjyUuexA) | 1:59 | 2021-12-09 |  |
 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2021-12-09 |  |
 | [Phineas](https://open.spotify.com/track/6gchsDdOQFrkGBWQoel7Jh) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Phineas](https://open.spotify.com/album/3UzIbQNfxZb5ttHxR28d50) | 1:40 | 2021-12-09 |  |
@@ -82,7 +84,7 @@
 | [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 |  |
 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 | 2021-12-09 |  |
 | [The Crossing](https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Crossing](https://open.spotify.com/album/5RVA2zv3ramQfUrXPd8FpX) | 3:15 | 2021-12-09 |  |
-| [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2021-12-09 |  |
+| [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2021-12-09 | 2022-04-22 |
 | [Tomorrow's Song \- Solo Guitar Version](https://open.spotify.com/track/7hR0O2SKyTl1Y6F244Miz7) | [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Miniatures](https://open.spotify.com/album/5yS0hPvv2i4bVS5H6x0eNR) | 2:32 | 2021-12-09 |  |
 | [Toutes Les Couleurs](https://open.spotify.com/track/3ELOuPzdNVstZgLwX3yxPN) | [Paris Pompey](https://open.spotify.com/artist/2Kt6borByO4ARxCSf9hOfq) | [Toutes Les Couleurs](https://open.spotify.com/album/1k8SOrB5BaoQbOrEh8xzvb) | 2:19 | 2021-12-09 |  |
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2021-12-09 |  |
@@ -90,7 +92,7 @@
 | [Unelaul Mina Ei Taha Veel Magama Jääda](https://open.spotify.com/track/76L57RAbQpGIva8HavRLwn) | [Boris Björn Bagger](https://open.spotify.com/artist/7p2K7MlnXg0k9v9yxxuf06), [Valdo Preema](https://open.spotify.com/artist/5dEsSEyudgCCppMdKmMyh5) | [German And Estonian Lullaby With Guitar](https://open.spotify.com/album/5UqSD5ONEAZTBdRoQhefJo) | 2:00 | 2021-12-09 |  |
 | [Unsung Heroes](https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:29 | 2022-01-06 |  |
 | [Verlust und Gewinn](https://open.spotify.com/track/5yH9OVYpFnHoMrSWJEdFUP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Verlust und Gewinn](https://open.spotify.com/album/6piwS957ZAnONyTajWSPdB) | 2:25 | 2021-12-09 |  |
-| [Vibrations](https://open.spotify.com/track/1u4kezJPmcBmdUeiJ14joT) | [Mae Ji\-Yoon](https://open.spotify.com/artist/7xt9s2tSwZnZrgwQh3kL1M) | [Vibrations](https://open.spotify.com/album/7J86BlOWt2zLh8sL4UN819) | 2:43 | 2021-12-09 |  |
+| [Vibrations](https://open.spotify.com/track/1u4kezJPmcBmdUeiJ14joT) | [Mae Ji\-Yoon](https://open.spotify.com/artist/7xt9s2tSwZnZrgwQh3kL1M) | [Vibrations](https://open.spotify.com/album/7J86BlOWt2zLh8sL4UN819) | 2:43 | 2021-12-09 | 2022-04-22 |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2021-12-09 |  |
 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-09 |  |
 | [Walz for Marion](https://open.spotify.com/track/4TU6HO0q8qHMkItZwP9pom) | [Ruben Wagner](https://open.spotify.com/artist/5nlrY0oxCjsGrwJECLQEMq) | [Walz for Marion](https://open.spotify.com/album/4ZIpalRJnVdcSzMOUwz299) | 3:13 | 2021-12-09 | 2022-04-06 |

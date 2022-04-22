@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Astor Piazzolla en el Col\u00f3n",
+        "url": "https://open.spotify.com/album/0UIKbjYqLwBMZL08aPtmZr"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 655196,
+      "name": "Adi\u00f3s Nonino",
+      "url": "https://open.spotify.com/track/5vpv1rlqDVfhC5A65XraAN"
+    },
+    {
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 191346,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W"
@@ -157,7 +175,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 190438,
       "name": "Barrio de Tango",
       "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 167200,
       "name": "Barrio de Tango - En Vivo",
       "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
@@ -259,7 +277,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 124146,
       "name": "Chorra",
       "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
@@ -317,7 +335,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 208384,
       "name": "Confidencias",
       "url": "https://open.spotify.com/track/0Vu4EpjrI7g8m6r7DSlhcj"
@@ -343,6 +361,24 @@
       "duration_ms": 234666,
       "name": "Danzarin",
       "url": "https://open.spotify.com/track/1ps4vwMDiCGYS5EazbtgJl"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Alfredo Belusi",
+        "url": "https://open.spotify.com/album/20REqo3uTm8pSvAqvUIsmH"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Belusi",
+          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124240,
+      "name": "De Puro Curda",
+      "url": "https://open.spotify.com/track/3pO7tabfegqefBPsFHpysR"
     },
     {
       "album": {
@@ -527,7 +563,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 176893,
       "name": "El Marne",
       "url": "https://open.spotify.com/track/3SpKh81GiJ4FMo01fsUx3x"
@@ -567,7 +603,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 242826,
       "name": "En Ese Ayer/Ventarr\u00f3n",
       "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
@@ -585,7 +621,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 203311,
       "name": "Escualo - Remastered",
       "url": "https://open.spotify.com/track/0UuOfhMNXEtTRckg7SltxU"
@@ -625,7 +661,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
@@ -785,7 +821,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 314546,
       "name": "La Casita de Mis Viejos",
       "url": "https://open.spotify.com/track/5Howbx5skirZgOf5KI8z3Z"
@@ -865,7 +901,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "La \u00daltima Curda",
       "url": "https://open.spotify.com/track/0sGwLqFBrk2PvQsOaRTRm2"
@@ -887,7 +923,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 276093,
       "name": "Las Ciudades",
       "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
@@ -909,7 +945,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 339213,
       "name": "Loca bohemia",
       "url": "https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq"
@@ -1051,7 +1087,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6WJkFnnV2nMIUqA6gbsQHN"
@@ -1305,7 +1341,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 176880,
       "name": "Pompas De Jab\u00f3n",
       "url": "https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx"
@@ -1330,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "Pucherito de gallina",
+        "url": "https://open.spotify.com/album/0EuwLaxUs28LSj8ehh3MTq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo de la Serna y El Yotivenco",
+          "url": "https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147173,
+      "name": "Pucherito de gallina",
+      "url": "https://open.spotify.com/track/6YP05KGYm7oCQYyxhM7PMt"
+    },
+    {
+      "album": {
         "name": "70 A\u00f1os de Tango",
         "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
       },
@@ -1341,7 +1395,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 228066,
       "name": "Quiero Verte una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
@@ -1453,7 +1507,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 161061,
       "name": "Se Tiran Conmigo",
       "url": "https://open.spotify.com/track/5KYdddAIgq8X5sgUByxQEs"
@@ -1511,7 +1565,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 198426,
       "name": "Siempre Se Vuelve a Buenos Aires",
       "url": "https://open.spotify.com/track/0sQnE6X5h5do9tFzQu13vu"
@@ -1602,6 +1656,24 @@
     },
     {
       "album": {
+        "name": "Taller de Dibujo y Pintura",
+        "url": "https://open.spotify.com/album/2USsP36W62jZctEBMzkZn3"
+      },
+      "artists": [
+        {
+          "name": "Miguel L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1EACpzKh8PIklpFGsoQOV9"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130395,
+      "name": "Taller de Dibujo y Pintura",
+      "url": "https://open.spotify.com/track/1TIEQHGw4LqojU10bWujB4"
+    },
+    {
+      "album": {
         "name": "Todo Piazzolla",
         "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
       },
@@ -1613,7 +1685,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 196773,
       "name": "Tango Del Angel",
       "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
@@ -1701,7 +1773,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 253573,
       "name": "Todo Es Amor",
       "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
@@ -1791,7 +1863,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 387709,
       "name": "Verano Porte\u00f1o - Remastered",
       "url": "https://open.spotify.com/track/2t2R4taRPMuz4HpYrb1Tep"
@@ -1835,7 +1907,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 177446,
       "name": "Volvio Una Noche",
       "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"

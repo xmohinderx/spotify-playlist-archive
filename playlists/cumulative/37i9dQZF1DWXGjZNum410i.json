@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 85517,
       "name": "Catorce",
       "url": "https://open.spotify.com/track/5b6nbxQDT4AX5xDDkE0Y7A"
@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "album": {
         "name": "El Primer D\u00eda de Escuela",
         "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
       },
@@ -431,10 +449,28 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 220833,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/7Jafrholm3CJ8AIfWKi77X"
+    },
+    {
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140200,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/7M20QDVhMCwbQvWdmEt5ap"
     },
     {
       "album": {
@@ -567,7 +603,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 156453,
       "name": "Osito Carpintero",
       "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
@@ -665,7 +701,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
@@ -763,7 +799,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 190799,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
@@ -857,7 +893,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 157773,
       "name": "Ten Cuidado - Pok\u00e9mon 25 Version",
       "url": "https://open.spotify.com/track/7F7WgxCXMIjjMS32HX94sb"

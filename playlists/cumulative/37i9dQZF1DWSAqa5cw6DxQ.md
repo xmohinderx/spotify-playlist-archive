@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-82 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+84 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Mind Over Matter](https://open.spotify.com/track/1qOGVdNpsQi00r2IffF9tU) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Mind Over Matter](https://open.spotify.com/album/2b1EFX3Oll9ioHZcJ2Sqj8) | 3:28 | 2022-02-28 |  |
 | [Mystery of Life](https://open.spotify.com/track/683DWdGZBYaRVjQwO7v7X5) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 3:03 | 2022-02-28 |  |
 | [Night Mist](https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0) | [Chloe Wasserberg](https://open.spotify.com/artist/5yn2bigX2NEYuStz4JfS06) | [Night Mist](https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d) | 2:04 | 2022-02-28 |  |
+| [Nightsky](https://open.spotify.com/track/6zmG3oMYGljGbfCNxrYBSZ) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Nightsky](https://open.spotify.com/album/4u9zBt4isiVIeJfVXYsxAn) | 2:32 | 2022-04-21 |  |
 | [Northern Light](https://open.spotify.com/track/0Ph9pISD17s2DLfboy0rZI) | [Kee Marcello Nylon Nation](https://open.spotify.com/artist/6nr71zoxIIzQndEmpvyuiN) | [Skies](https://open.spotify.com/album/7nWdcWGFSk37JKHLTh9G7W) | 2:46 | 2022-02-28 |  |
 | [On A Bed Of Peace](https://open.spotify.com/track/2xAU6r6GSaapYwAyR9hiqB) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [On A Bed Of Peace](https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02) | 4:41 | 2022-03-29 |  |
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2022-02-28 |  |
@@ -64,6 +65,7 @@
 | [Pendulum Crystal](https://open.spotify.com/track/0GlFrFaJrqGJn8P6tGoqv9) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Pendulum Crystal](https://open.spotify.com/album/7LKUmnVZa95yXRuoX3slla) | 4:25 | 2022-02-28 |  |
 | [Please Help Me With My Pain](https://open.spotify.com/track/0Y3PEZTNJiLJ5wTCPiVGnZ) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Please Help Me With My Pain](https://open.spotify.com/album/15uLD1bQCzzMsXNtAFlwH4) | 3:53 | 2022-02-28 |  |
 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 | 2022-02-28 |  |
+| [Quietude](https://open.spotify.com/track/7yZriELlBqpqDlZ5xdwLB0) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Quietude](https://open.spotify.com/album/0qWiybxUycLapKx1JhTGAV) | 2:23 | 2022-04-21 |  |
 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 | 2022-02-28 |  |
 | [Reflections](https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:13 | 2022-02-28 |  |
 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 | 2022-02-28 |  |
@@ -76,7 +78,7 @@
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-03-29 |  |
 | [State of Existence](https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:56 | 2022-02-28 |  |
 | [Stills](https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Stills](https://open.spotify.com/album/0dcqSIGN8na4KTTDlNYm3O) | 2:20 | 2022-02-28 |  |
-| [Story Untold](https://open.spotify.com/track/2Sd1qxVjFXFXeyIUSqDRwd) | [Vanja Thownsend](https://open.spotify.com/artist/0Bb4ZHmEDQeAKem2FyVXxT) | [Story Untold](https://open.spotify.com/album/6ug5e5SDgcyj7mqr2Pe6EN) | 3:39 | 2022-02-28 |  |
+| [Story Untold](https://open.spotify.com/track/2Sd1qxVjFXFXeyIUSqDRwd) | [Vanja Thownsend](https://open.spotify.com/artist/0Bb4ZHmEDQeAKem2FyVXxT) | [Story Untold](https://open.spotify.com/album/6ug5e5SDgcyj7mqr2Pe6EN) | 3:39 | 2022-02-28 | 2022-04-22 |
 | [Sunset at the Veranda](https://open.spotify.com/track/1DSFdhs58XvcJs6OFFR6B2) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Sunset at the Veranda](https://open.spotify.com/album/0mnIZBUOqZjxG0Gn8Asp2o) | 2:38 | 2022-02-28 |  |
 | [The Book Of Yoga](https://open.spotify.com/track/4tPIBR9sLZtovsTWNmXOWb) | [Demar Brisak](https://open.spotify.com/artist/7xkbL3vqclYAKnO7s7VBxh) | [The Book Of Yoga](https://open.spotify.com/album/3TVqinoDcLyLjqoZHhmoiJ) | 3:05 | 2022-02-28 |  |
 | [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 | 2022-02-28 |  |

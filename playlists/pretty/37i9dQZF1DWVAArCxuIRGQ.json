@@ -1,12 +1,12 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 532035,
+  "num_followers": 532158,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDUwMjc5NiwwMDAwMDAwMGNkNjI5MDM3MGM5MWIyYTZjZWE0MGVkY2I5NWM4OTI1",
+  "snapshot_id": "MTY1MDU4OTI1NSwwMDAwMDAwMGM3YjI1Y2NiNDQ1OTA4NGUwZTRiNjEwZTMxMjViNjM1",
   "tracks": [
     {
       "added_at": "2020-07-03 14:20:01",
@@ -23,6 +23,38 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "December, 1963 (Oh, What a Night) / Slip Away",
+        "url": "https://open.spotify.com/album/1cpPUXM8H8059n6B9Nm46c"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "December, 1963 (Oh, What a Night)",
+      "url": "https://open.spotify.com/track/4nuPrKithHbRJXuA9spwu4"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -59,34 +91,18 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "December, 1963 (Oh, What a Night) / Slip Away",
-        "url": "https://open.spotify.com/album/1cpPUXM8H8059n6B9Nm46c"
+        "name": "Tango In The Night",
+        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 201093,
-      "name": "December, 1963 (Oh, What a Night)",
-      "url": "https://open.spotify.com/track/4nuPrKithHbRJXuA9spwu4"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+      "duration_ms": 218040,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/5uw9UIOXj6R8pOwXte8F5h"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -103,22 +119,6 @@
       "duration_ms": 165789,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Tango In The Night",
-        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/5uw9UIOXj6R8pOwXte8F5h"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -171,38 +171,6 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
         "name": "Tease Me",
         "url": "https://open.spotify.com/album/3MvOWcHQP67OGTJvr9TPFi"
       },
@@ -227,66 +195,18 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
       "artists": [
         {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
         }
       ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -311,18 +231,82 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
         }
       ],
-      "duration_ms": 222600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -343,24 +327,8 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "Mr. Big Stuff (Remastered)",
-        "url": "https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Reggae Greats",
-        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
+        "name": "The Universal Masters Collection",
+        "url": "https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n"
       },
       "artists": [
         {
@@ -368,121 +336,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 159400,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Universal Masters Collection",
-        "url": "https://open.spotify.com/album/2ZZKrFhmXawjmYEgreRQMD"
-      },
-      "artists": [
-        {
-          "name": "Aswad",
-          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Turn Around",
-      "url": "https://open.spotify.com/track/6OJq6oyCcsJUg4fENeNJk4"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "The Specials (2002 Remaster)",
-        "url": "https://open.spotify.com/album/7kHtInr7Es2tPk5QJO6y6c"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "A Message to You Rudy - 2002 Remaster",
-      "url": "https://open.spotify.com/track/5dRfBz5ZXJc5gZJsNM04nn"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "Dandy",
-          "url": "https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "Rudy, a Message to You",
-      "url": "https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+      "duration_ms": 194866,
+      "name": "Wonderful World, Beautiful People - Single Version",
+      "url": "https://open.spotify.com/track/0iH2q2PiyKpSvgOCSUZq5X"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -503,18 +359,98 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+        "name": "Universal Masters Collection",
+        "url": "https://open.spotify.com/album/2ZZKrFhmXawjmYEgreRQMD"
       },
       "artists": [
         {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+          "name": "Aswad",
+          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
         }
       ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+      "duration_ms": 217733,
+      "name": "Don't Turn Around",
+      "url": "https://open.spotify.com/track/6OJq6oyCcsJUg4fENeNJk4"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "The Specials (2002 Remaster)",
+        "url": "https://open.spotify.com/album/7kHtInr7Es2tPk5QJO6y6c"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "A Message to You Rudy - 2002 Remaster",
+      "url": "https://open.spotify.com/track/5dRfBz5ZXJc5gZJsNM04nn"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Mr. Big Stuff (Remastered)",
+        "url": "https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Monkey Man",
+        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -535,18 +471,50 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5HSrkpKs0kEhEMuM3ZkG8W"
+        "name": "Reggae Greats",
+        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
       },
       "artists": [
         {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/1puEUilaw5RSbi3AYnkF8K"
+      "duration_ms": 159400,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -563,6 +531,38 @@
       "duration_ms": 271920,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6fMEVICO96WV6yd1zA2hiS"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "Dandy",
+          "url": "https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "Rudy, a Message to You",
+      "url": "https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "The Universal Masters Collection",
-        "url": "https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wonderful World, Beautiful People - Single Version",
-      "url": "https://open.spotify.com/track/0iH2q2PiyKpSvgOCSUZq5X"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
         "name": "Motown 50",
         "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
       },
@@ -615,22 +599,6 @@
       "duration_ms": 177453,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/0smv5rs2TfdAaqg3V81iNm"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Extended Revolution",
-        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -651,6 +619,22 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5HSrkpKs0kEhEMuM3ZkG8W"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/1puEUilaw5RSbi3AYnkF8K"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -663,70 +647,6 @@
       "duration_ms": 279506,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Monkey Man",
-        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "The Harder They Come",
-        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
-      "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/4osg3vT6sXv6wNxm9Z6ucQ"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "J 5 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Ajq0fVuPxZ8igxZfvad7f"
-      },
-      "artists": [
-        {
-          "name": "Jurassic 5",
-          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "Concrete Schoolyard",
-      "url": "https://open.spotify.com/track/0dtVSZDRv6PorrnX0cbFT7"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -775,50 +695,18 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "Rap Story, Vol. 1",
-        "url": "https://open.spotify.com/album/5Sjktw73fCXEisILugMuVM"
+        "name": "Extended Revolution",
+        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
       },
       "artists": [
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Me Myself And I",
-      "url": "https://open.spotify.com/track/1o7pq0fvaVfQSKOKwQAHSo"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/7wop1zYIUtT0T9auF2s1jz"
-      },
-      "artists": [
-        {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/4OT4AvPAq1o0rscVNdC20X"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Drive-Thru Booty",
-        "url": "https://open.spotify.com/album/1PePHpjhEWUZJx79CZM31j"
-      },
-      "artists": [
-        {
-          "name": "Freak Power",
-          "url": "https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Turn On, Tune In, Cop Out - Radio Mix",
-      "url": "https://open.spotify.com/track/7rEhkWEwm8IU9POxlmEQuu"
+      "duration_ms": 298773,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -859,6 +747,54 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
+      "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/4osg3vT6sXv6wNxm9Z6ucQ"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
         "name": "Atomic/Atomix",
         "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
@@ -875,18 +811,50 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "Cool Summer Reggae",
-        "url": "https://open.spotify.com/album/6pQIllBkF56hkziZMSUKji"
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/7wop1zYIUtT0T9auF2s1jz"
       },
       "artists": [
         {
-          "name": "Aswad",
-          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV"
+      "duration_ms": 211880,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/4OT4AvPAq1o0rscVNdC20X"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "J 5 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Ajq0fVuPxZ8igxZfvad7f"
+      },
+      "artists": [
+        {
+          "name": "Jurassic 5",
+          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
+        }
+      ],
+      "duration_ms": 321293,
+      "name": "Concrete Schoolyard",
+      "url": "https://open.spotify.com/track/0dtVSZDRv6PorrnX0cbFT7"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Drive-Thru Booty",
+        "url": "https://open.spotify.com/album/1PePHpjhEWUZJx79CZM31j"
+      },
+      "artists": [
+        {
+          "name": "Freak Power",
+          "url": "https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Turn On, Tune In, Cop Out - Radio Mix",
+      "url": "https://open.spotify.com/track/7rEhkWEwm8IU9POxlmEQuu"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -907,18 +875,18 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+        "name": "Rap Story, Vol. 1",
+        "url": "https://open.spotify.com/album/5Sjktw73fCXEisILugMuVM"
       },
       "artists": [
         {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
+      "duration_ms": 224693,
+      "name": "Me Myself And I",
+      "url": "https://open.spotify.com/track/1o7pq0fvaVfQSKOKwQAHSo"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -939,38 +907,34 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "The Very Best Of Kool & The Gang",
-        "url": "https://open.spotify.com/album/52ZOtET6twyVA0ZBlDG2RP"
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
         }
       ],
-      "duration_ms": 212906,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy"
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "The Israelites",
-        "url": "https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Barrett Strong",
+        "url": "https://open.spotify.com/album/6dTXSc78HM0ZsQptU0Nl2V"
       },
       "artists": [
         {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        },
-        {
-          "name": "ACES",
-          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+          "name": "Barrett Strong",
+          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
         }
       ],
-      "duration_ms": 152360,
-      "name": "It Mek",
-      "url": "https://open.spotify.com/track/1tKAI8igKXPqovihv4Px57"
+      "duration_ms": 157880,
+      "name": "Money (That's What I Want) - Single Version / Mono",
+      "url": "https://open.spotify.com/track/0QMFMQF3HoSk5WvMyx8aMT"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -991,18 +955,70 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "VA - Brazilian All Stars",
-        "url": "https://open.spotify.com/album/2lJd6kiR2KZD8RD2YouakD"
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
       },
       "artists": [
         {
-          "name": "Tamba Trio",
-          "url": "https://open.spotify.com/artist/3NHFpmBuWOdkNalXJgdOqc"
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
         }
       ],
-      "duration_ms": 157384,
-      "name": "Mas, Que Nada!",
-      "url": "https://open.spotify.com/track/7rOdaBwNtT6E4f2kxeiZKj"
+      "duration_ms": 182066,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/1DLe77IuTY32Lj3Kh50Uzi"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Cool Summer Reggae",
+        "url": "https://open.spotify.com/album/6pQIllBkF56hkziZMSUKji"
+      },
+      "artists": [
+        {
+          "name": "Aswad",
+          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "The Best of Big Mountain",
+        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
+      },
+      "artists": [
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        },
+        {
+          "name": "Tom Lord-Alge",
+          "url": "https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "The Very Best Of Kool & The Gang",
+        "url": "https://open.spotify.com/album/52ZOtET6twyVA0ZBlDG2RP"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -1023,18 +1039,118 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Barrett Strong",
-        "url": "https://open.spotify.com/album/6dTXSc78HM0ZsQptU0Nl2V"
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
       "artists": [
         {
-          "name": "Barrett Strong",
-          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+          "name": "The Melodians",
+          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
         }
       ],
-      "duration_ms": 157880,
-      "name": "Money (That's What I Want) - Single Version / Mono",
-      "url": "https://open.spotify.com/track/0QMFMQF3HoSk5WvMyx8aMT"
+      "duration_ms": 232666,
+      "name": "Sweet Sensation",
+      "url": "https://open.spotify.com/track/5uxBt9ZluGjgdVGj8oXkiX"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "The Upsetters",
+          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+        }
+      ],
+      "duration_ms": 150013,
+      "name": "Return Of Django",
+      "url": "https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Hello Happiness",
+        "url": "https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 239621,
+      "name": "Like Sugar",
+      "url": "https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "St. Louis to Liverpool",
+        "url": "https://open.spotify.com/album/4MvciiTDtx2agb74BbdhVw"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/3WBkjGPK5489TmmR0GoU8W"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "Funky Kingston",
+        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
+    },
+    {
+      "added_at": "2020-07-03 14:20:01",
+      "album": {
+        "name": "The Israelites",
+        "url": "https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        },
+        {
+          "name": "ACES",
+          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+        }
+      ],
+      "duration_ms": 152360,
+      "name": "It Mek",
+      "url": "https://open.spotify.com/track/1tKAI8igKXPqovihv4Px57"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -1071,38 +1187,34 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "The Best of Big Mountain",
-        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
       },
       "artists": [
         {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        },
-        {
-          "name": "Tom Lord-Alge",
-          "url": "https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
+      "duration_ms": 214706,
+      "name": "Cape Cod Kwassa Kwassa",
+      "url": "https://open.spotify.com/track/7q4MJZSiqPC16dbhQWxugv"
     },
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+        "name": "A Little Deeper",
+        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
       },
       "artists": [
         {
-          "name": "The Upsetters",
-          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
         }
       ],
-      "duration_ms": 150013,
-      "name": "Return Of Django",
-      "url": "https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs"
+      "duration_ms": 217466,
+      "name": "Dy-Na-Mi-Tee",
+      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
     },
     {
       "added_at": "2020-07-03 14:20:01",
@@ -1127,130 +1239,18 @@
     {
       "added_at": "2020-07-03 14:20:01",
       "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+        "name": "VA - Brazilian All Stars",
+        "url": "https://open.spotify.com/album/2lJd6kiR2KZD8RD2YouakD"
       },
       "artists": [
         {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+          "name": "Tamba Trio",
+          "url": "https://open.spotify.com/artist/3NHFpmBuWOdkNalXJgdOqc"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/1DLe77IuTY32Lj3Kh50Uzi"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "The Tide Is High - Stereo Version",
-      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "St. Louis to Liverpool",
-        "url": "https://open.spotify.com/album/4MvciiTDtx2agb74BbdhVw"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/3WBkjGPK5489TmmR0GoU8W"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/1BbtfepZFGgd58Ln2Rir8f"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/2vEUFrRByOKob8yqOd6LuA"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "A Little Deeper",
-        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
-      },
-      "artists": [
-        {
-          "name": "Ms. Dynamite",
-          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Dy-Na-Mi-Tee",
-      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Hello Happiness",
-        "url": "https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 239621,
-      "name": "Like Sugar",
-      "url": "https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj"
-    },
-    {
-      "added_at": "2020-07-03 14:20:01",
-      "album": {
-        "name": "Exodus (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready",
-      "url": "https://open.spotify.com/track/4OsZ1vrenrtSbqLJxOceKl"
+      "duration_ms": 157384,
+      "name": "Mas, Que Nada!",
+      "url": "https://open.spotify.com/track/7rOdaBwNtT6E4f2kxeiZKj"
     }
   ],
   "unique_name": "Summer BBQ",

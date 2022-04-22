@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to your morning yoga session.
 
-204 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/1rfhIUFdckYYeCWXG6g5Oq)
+206 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/1rfhIUFdckYYeCWXG6g5Oq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [After The Rain](https://open.spotify.com/track/4AyYtj639eTCj84hyaee28) | [Giovanna Gallo](https://open.spotify.com/artist/2vmNQKFEBJ85NupICrIMUT) | [After The Rain](https://open.spotify.com/album/2DrKbf1pApesHoTExO3hLP) | 2:40 | 2022-03-18 |  |
 | [Again](https://open.spotify.com/track/3IALa7JyFUltHFC5bm50dC) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Again](https://open.spotify.com/album/1ClboazY0I9ItCLTM00DRg) | 2:58 | 2022-03-18 |  |
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2022-03-18 |  |
+| [Alterations](https://open.spotify.com/track/4IHpo5zDsNoT33clCtL24b) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Alterations](https://open.spotify.com/album/6CBggUkHr6HPMDMYvp0Xqm) | 2:31 | 2022-04-21 |  |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2022-03-18 |  |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2022-03-18 |  |
 | [At Peace](https://open.spotify.com/track/2oC48TZ0X9mZvWrDULiU8e) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [At Peace](https://open.spotify.com/album/6T8GQaam618kI3vbP74FXP) | 2:47 | 2022-03-18 |  |
@@ -119,6 +120,7 @@
 | [Masikota](https://open.spotify.com/track/5uYBs6Jdb7WD1hy2sKqZnO) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Masikota](https://open.spotify.com/album/0SIzQRtFJuJC9WYqg8v4g9) | 3:44 | 2022-03-18 |  |
 | [Meditations pt 1](https://open.spotify.com/track/6vOgKvTHr4NO9YPsZQfiDX) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations pt 1](https://open.spotify.com/album/4VNV5Z6ESAqrAjbe7nwIq9) | 2:30 | 2022-03-18 |  |
 | [Meilleurs Amis](https://open.spotify.com/track/0uZpndHoHwLccEfNpcarwK) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Meilleurs Amis](https://open.spotify.com/album/6Xc0YfUafPLNvmL896EvHj) | 2:53 | 2022-03-18 |  |
+| [Memory Lane](https://open.spotify.com/track/4DkUON8VTU8TB8UYd8r7Yq) | [María Mojca](https://open.spotify.com/artist/39ZWSqegQ0BRppztA35wXU) | [Memory Lane](https://open.spotify.com/album/3hjgn5kSTYgNsmaNHaaft4) | 2:32 | 2022-04-21 |  |
 | [Mind Horizon](https://open.spotify.com/track/651cqlMeG8OetPQVfXWcdv) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [Gravity](https://open.spotify.com/album/7Fl2yx1Ln9Ui7ysY5MgmXv) | 3:06 | 2022-03-18 |  |
 | [Minds Traversed](https://open.spotify.com/track/5OxLsoveEfCtK2M3CuqCd7) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Minds Traversed](https://open.spotify.com/album/0JjWwmu88zY7cXRFNmAr2v) | 4:10 | 2022-03-18 |  |
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2022-03-18 |  |

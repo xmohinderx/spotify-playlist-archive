@@ -4,7 +4,7 @@
 
 > Grunge is still alive and kicking!
 
-98 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
+99 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-12-17 | 2022-04-15 |
 | [Budd Dwyer](https://open.spotify.com/track/3gHYnjMwFgCQ5Xb7iUkn1j) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Budd Dwyer](https://open.spotify.com/album/1JIVqdJwKrH9aQla7vIYwj) | 3:29 | 2022-02-03 |  |
 | [Caught](https://open.spotify.com/track/46nccm1ZvlvHspOQHcPskS) | [Poly](https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS) | [Caught](https://open.spotify.com/album/1DKTP2s9fuYxUxiw84DYRI) | 4:29 | 2022-02-24 | 2022-04-15 |
+| [Crimson Ocean](https://open.spotify.com/track/5fnRAEcr5w4WLgLcv0lcFN) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Crimson Ocean](https://open.spotify.com/album/61Jxkak5VZdnMtKhTznVdi) | 2:08 | 2022-04-21 |  |
 | [Dangerous](https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Dangerous](https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH) | 3:31 | 2022-01-13 |  |
 | [Dark Comedy](https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Dark Comedy](https://open.spotify.com/album/2SPx4csg5z4aDb5vdHmYZn) | 3:12 | 2022-02-24 |  |
 | [Demons](https://open.spotify.com/track/5fh9jzxClibVuXUqKTTpR7) | [Calm Attack](https://open.spotify.com/artist/1ViIytqQaJwmMneD4YvFJg) | [Demons](https://open.spotify.com/album/7cxJkNduZUo9HIhuKxC2pj) | 3:37 | 2021-12-17 |  |
@@ -67,7 +68,7 @@
 | [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-07 |  |
 | [Nothing to Believe](https://open.spotify.com/track/7ccBf9nZsND5ORMTf3EVDp) | [Rockford](https://open.spotify.com/artist/2pAfcd9rbqt6XxUCWEZ8SN) | [Nothing to Believe](https://open.spotify.com/album/0k7q2N2bD1WBio7SCvod2f) | 3:52 | 2022-04-14 |  |
 | [Oh I See](https://open.spotify.com/track/4m5N73K5oGcN2GD5W26qjU) | [Grandad](https://open.spotify.com/artist/3yj8XByDLr3A1ZxWQCHM7y) | [Walk Around Me](https://open.spotify.com/album/45XDQvwcmV6mQxTs4few7H) | 3:06 | 2022-03-03 |  |
-| [Opiate](https://open.spotify.com/track/4VfYnUUV9FBxWYUCYHgrjA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Now, Life is Living You](https://open.spotify.com/album/3ZTMgdRwjtAQMEEXaY8cod) | 4:04 | 2021-12-17 |  |
+| [Opiate](https://open.spotify.com/track/4VfYnUUV9FBxWYUCYHgrjA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Now, Life is Living You](https://open.spotify.com/album/3ZTMgdRwjtAQMEEXaY8cod) | 4:04 | 2021-12-17 | 2022-04-22 |
 | [Other Eye](https://open.spotify.com/track/3L6354jieQZTOGqMy20Mu1) | [Eyesite](https://open.spotify.com/artist/3aKb7BtHW38DN2D30DoCx8) | [Eyesite](https://open.spotify.com/album/3gRRmxfqsRyOOqdfTmq7lz) | 4:04 | 2021-12-17 | 2022-01-28 |
 | [Other Way Out](https://open.spotify.com/track/0F21zezaMdTwSIHgHitZg1) | [Clovis](https://open.spotify.com/artist/4Ib08aHTnGt7f4BOwk3LCU) | [Other Way Out](https://open.spotify.com/album/07o6ZGjuJtjpsgy9DOS7if) | 3:20 | 2022-02-17 |  |
 | [Paterson](https://open.spotify.com/track/42clH2n6TI170HiE56M8b8) | [Whatever, Forever](https://open.spotify.com/artist/7cSHROK79syPPup9vExJrJ) | [Slowly Dying With You](https://open.spotify.com/album/5rxOUzA9zvq8h1OAGbQA2S) | 3:54 | 2021-12-17 |  |

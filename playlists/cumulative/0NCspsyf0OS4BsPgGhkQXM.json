@@ -450,6 +450,28 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/7t3hqNLxx8TFqxUuCUM3eP"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "Carbin",
+          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169241,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/66T8oiDaaIF9xXjpMgJBzr"
+    },
+    {
+      "album": {
         "name": "Baby Loop",
         "url": "https://open.spotify.com/album/1Dxffwj3FKX17EkZVoEwmg"
       },
@@ -2018,6 +2040,32 @@
     },
     {
       "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/4YdooPYFoutH5LanHDFS3I"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "VARI",
+          "url": "https://open.spotify.com/artist/3cWBRCln1EAqNqI7E0wMlA"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281250,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1ZxXGPR6WgTuUzvvExUomd"
+    },
+    {
+      "album": {
         "name": "Hall Of Fame",
         "url": "https://open.spotify.com/album/3o4lZPeJvIYm8TdyNZPB8l"
       },
@@ -2221,6 +2269,32 @@
       "duration_ms": 150588,
       "name": "Human",
       "url": "https://open.spotify.com/track/3Y01ciVMNWp7hNCjP9J4Gc"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/3eFW35qg9tx6zCPxAcmeaq"
+      },
+      "artists": [
+        {
+          "name": "S\u00d8R",
+          "url": "https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi"
+        },
+        {
+          "name": "Kaphy",
+          "url": "https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5"
+        },
+        {
+          "name": "Like Lions",
+          "url": "https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196542,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/4JzTQFJ4kFG1Tqol1DkFoZ"
     },
     {
       "album": {
@@ -3732,6 +3806,24 @@
     },
     {
       "album": {
+        "name": "R U READY!",
+        "url": "https://open.spotify.com/album/2l8chbtGJ3adSqwYauGWrT"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "R U READY!",
+      "url": "https://open.spotify.com/track/6jXbYeTwVGfL6BxI3aQAXE"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB"
       },
@@ -4984,6 +5076,36 @@
     },
     {
       "album": {
+        "name": "Walk Me Home (Blanke Remix)",
+        "url": "https://open.spotify.com/album/0K9MqMhOoHMe6iddB29nNN"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303882,
+      "name": "Walk Me Home - Blanke Remix",
+      "url": "https://open.spotify.com/track/3DWH2ElS137GfWMzGcXVp2"
+    },
+    {
+      "album": {
         "name": "Want to Know",
         "url": "https://open.spotify.com/album/1lBWKizQH5gBD4ZLTyVtE6"
       },
@@ -5043,6 +5165,28 @@
       "duration_ms": 205049,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/0zfIq0JObVjH33aSAHVpaq"
+    },
+    {
+      "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/31BSHQIikqLF0xql9YP8h3"
+      },
+      "artists": [
+        {
+          "name": "Fancy Monster",
+          "url": "https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY"
+        },
+        {
+          "name": "TINYKVT",
+          "url": "https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217767,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/76BB2WqsnN5Vq0u1qbbKKh"
     },
     {
       "album": {

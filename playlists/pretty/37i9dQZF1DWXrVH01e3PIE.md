@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > La casa del Trap de Argentino\. Foto: John C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,786 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,788 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 4 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 |
 | 5 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 |
 | 6 | [Mormón](https://open.spotify.com/track/2jj7yjwj3fAHfErv5CCshj) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [TAILS](https://open.spotify.com/artist/0LCbbe7pXn19Ecz0jLJkl2) | [MTPMJ](https://open.spotify.com/album/0H52PXoDvuOz8EbI88hTXE) | 1:48 |
-| 7 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 |
+| 7 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [M A R L K U](https://open.spotify.com/artist/0nUJZ0KwKaJVlxV77jsPwY) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 |
 | 8 | [Maldad](https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Maldad](https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf) | 2:20 |
 | 9 | [Pintao](https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:47 |
 | 10 | [Si Supieras](https://open.spotify.com/track/3bb2XfPK0AvSuztY9kJzW9) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:45 |

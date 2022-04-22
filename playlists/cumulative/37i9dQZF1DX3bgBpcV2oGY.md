@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-133 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+134 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2021-12-23 |  |
 | [Floral Hymn](https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Echo Ark](https://open.spotify.com/album/4PUBYJiKEdJKdMwqHSeilt) | 3:35 | 2021-12-23 | 2022-03-02 |
 | [Fortevik](https://open.spotify.com/track/5a6M9QcEU7oZiBDCT9Y2bn) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:24 | 2021-12-23 | 2022-04-06 |
+| [Fortuity](https://open.spotify.com/track/5o3XuFWlUW1h76SFvAmkDJ) | [Kel Giamo](https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW) | [Fortuity](https://open.spotify.com/album/5Di3Qkun1rinXSCqMFieqs) | 2:32 | 2022-04-22 |  |
 | [Giardino del respiro](https://open.spotify.com/track/0vN8hsuQ8yOldDKnVMuzEU) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Giardino del respiro](https://open.spotify.com/album/10a1HPIygy93hpQc3r5pgZ) | 2:17 | 2021-12-23 |  |
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2021-12-23 |  |
 | [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:40 | 2021-12-23 |  |

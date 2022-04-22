@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de La Banda Baston.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,390 likes - 86 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,602 likes - 86 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

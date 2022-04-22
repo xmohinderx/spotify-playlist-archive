@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-390 songs - 20 hr 52 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+391 songs - 20 hr 55 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 | 2021-03-27\* | 2021-04-04 |
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2021-04-08 | 2021-05-25 |
 | [Gyere be velem \(DUBAI GANG\)](https://open.spotify.com/track/4gcs66ZUuad1jhSQMB16w9) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Gyere be velem \(DUBAI GANG\)](https://open.spotify.com/album/6WPM7u53B56c8v8bTeEoc6) | 3:38 | 2021-10-18 | 2021-11-23 |
-| [Gyere Velem](https://open.spotify.com/track/10wMZu2Y9o55ylw6mRSiKB) | [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz), [AKC Misi](https://open.spotify.com/artist/6PZxcNw0oSU4bp1kIbM6mZ) | [Gyere Velem](https://open.spotify.com/album/7lVPjtejDmQ4y7hm006ULK) | 3:20 | 2021-09-29 |  |
+| [Gyere Velem](https://open.spotify.com/track/10wMZu2Y9o55ylw6mRSiKB) | [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz), [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv) | [Gyere Velem](https://open.spotify.com/album/7lVPjtejDmQ4y7hm006ULK) | 3:20 | 2021-09-29 |  |
 | [Ha Elmegyek](https://open.spotify.com/track/2cHRseVmn2cfCChNmizemK) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Ha Elmegyek](https://open.spotify.com/album/0sOK2IcTaW8a5BctjWughl) | 3:27 | 2022-01-02 | 2022-03-04 |
 | [Ha meghalok](https://open.spotify.com/track/5o5F8K2f2J258y3ZpfU5Ii) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Ha meghalok](https://open.spotify.com/album/1xtToPt8kaJzsQFApViuJx) | 3:21 | 2022-04-20 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-11-14 |
@@ -317,6 +317,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-30 | 2021-12-31 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-17 | 2022-04-10 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-14 |
+| [Spanom](https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Fotofóbia](https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i) | 3:31 | 2022-04-21 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 |  |
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-22 | 2021-12-27 |
@@ -334,7 +335,7 @@
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-01-11 | 2022-01-13 |
 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 | 2021-03-27\* | 2021-06-12 |
-| [Talán](https://open.spotify.com/track/5uWUKvPNekWal505BdKgfD) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Talán](https://open.spotify.com/album/7ux5EroIZ9CNUsszpPcBiw) | 3:10 | 2021-03-27\* |  |
+| [Talán](https://open.spotify.com/track/5uWUKvPNekWal505BdKgfD) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Talán](https://open.spotify.com/album/7ux5EroIZ9CNUsszpPcBiw) | 3:10 | 2021-03-27\* | 2022-04-22 |
 | [Tavasz](https://open.spotify.com/track/5PHgY9VKDWLk5YNA1bKw9f) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Tavasz](https://open.spotify.com/album/0b0iPWgL2wWpXMIVTIh3me) | 3:16 | 2021-03-27\* | 2021-08-31 |
 | [Tavasz](https://open.spotify.com/track/5V8I1Hb3ISzuPtQpLQCqWz) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Ég és föld](https://open.spotify.com/album/16zN1LWmqj30qVgHQ59egQ) | 3:16 | 2021-09-17 | 2021-09-21 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-04-10 |

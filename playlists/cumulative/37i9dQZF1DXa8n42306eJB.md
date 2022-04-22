@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-71 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+72 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Fire](https://open.spotify.com/track/2DyRPkBu8gHPdhxnUjQ86D) | [Soul Brown](https://open.spotify.com/artist/4gRJyO5LOBVHkbJz4W4tTU), [Kabin Bread Boyz](https://open.spotify.com/artist/4bo1Rnjq7uRSYVxTfa1XXO) | [Fire](https://open.spotify.com/album/6s5VEE4s07qFTF3zdezGI7) | 4:04 | 2021-08-24 |  |
 | [Girl Let Me Love You](https://open.spotify.com/track/6kc0DPZtfLf5283diEIOwi) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW) | [Girl Let Me Love You](https://open.spotify.com/album/5BPG6zlS7nyG8ULbWbrBmm) | 3:17 | 2021-08-24 |  |
 | [Good Time](https://open.spotify.com/track/68HBUpt1FVAmQD49hWJqnM) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Good Time](https://open.spotify.com/album/7gL5nwGBxLpqwtUQSQtVzx) | 3:24 | 2021-08-24 |  |
-| [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-08-24 |  |
+| [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-08-24 | 2022-04-22 |
 | [Hello](https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Get Soca 2018](https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc) | 3:19 | 2022-04-14 |  |
 | [Here to Stay](https://open.spotify.com/track/0qxTym0LJ6HMV4g87FYIdR) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4) | 4:17 | 2021-08-24 |  |
 | [Holiday](https://open.spotify.com/track/3zqbvsFfpYLBhtcVIw42Sz) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/3wTqGvbAcURFH1ALVckuhg) | 3:15 | 2021-08-24 |  |
@@ -78,6 +78,7 @@
 | [The Road](https://open.spotify.com/track/6VvCnZsQtRWf32g5kLgtqt) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [The Road](https://open.spotify.com/album/701laqNcQfUCDvGB9ayy30) | 3:35 | 2021-08-24 |  |
 | [There I Go](https://open.spotify.com/track/3CuCZo5XcwYTmoGio7GvD1) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2020](https://open.spotify.com/album/6x5l8Cjzh0GaKQLVsLBOk7) | 3:22 | 2021-08-24 |  |
 | [Vibes \(feat\. KDM on the Track\) \- DJ Noiz Remix](https://open.spotify.com/track/0it8gyCvD9hIgokj6AzlR4) | [Creed Tha Kid](https://open.spotify.com/artist/0Gzx0kLgEZkaNJYGJCbdYR), [KDM on the Track](https://open.spotify.com/artist/5LFz0KKbclucY3br4TShZG), [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK) | [Vibes \(feat\. KDM on the Track\) \[DJ Noiz Remix\]](https://open.spotify.com/album/7GpPnJ92CkwSPFVKOwFGgl) | 3:01 | 2021-08-24 |  |
+| [We Smoke](https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ) | [Bodega Collective](https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [RenzoMck.](https://open.spotify.com/artist/7h6GkKpa1H12PiOQ6RiRh4), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [We Smoke](https://open.spotify.com/album/2Za3qO1esJmOgd77kqakkz) | 3:01 | 2022-04-21 |  |
 | [Your Body](https://open.spotify.com/track/3HRpldxycaV9vJpNjSgoUb) | [Bibao](https://open.spotify.com/artist/3qbfPofRrhxm6jnbacynct) | [Your Body](https://open.spotify.com/album/3J0HiVk2mH6MzgfjePiQey) | 3:13 | 2021-08-24 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

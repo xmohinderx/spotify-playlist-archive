@@ -37,7 +37,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 199360,
       "name": "2 + 2 = 5",
       "url": "https://open.spotify.com/track/6EIVp9Arb1aAkFgro6UTlt"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 237400,
       "name": "42",
       "url": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "We All Raise Our Voices to the Air",
+        "url": "https://open.spotify.com/album/6r2xiR4Cbu6y22VEKIIITH"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401101,
+      "name": "Billy Liar - Live",
+      "url": "https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs"
+    },
+    {
+      "album": {
         "name": "Underachievers Please Try Harder",
         "url": "https://open.spotify.com/album/1eF3PP2snssRgdHetawOMu"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 213973,
       "name": "Disturbance At The Heron House - Remastered",
       "url": "https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 252026,
       "name": "Harold Bloom",
       "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 263801,
       "name": "Jack Kerouac",
       "url": "https://open.spotify.com/track/5PNtTv39XP3MZsUwxzSv4S"
@@ -415,10 +433,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 220040,
       "name": "Lolita",
       "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
+    },
+    {
+      "album": {
+        "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174453,
+      "name": "Love and Destroy - Live",
+      "url": "https://open.spotify.com/track/3ml0GdsJ9DvDESGbzXoAO3"
     },
     {
       "album": {
@@ -433,7 +469,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 346386,
       "name": "Milton At Midnight",
       "url": "https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC"
@@ -530,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Good Evening New York City",
+        "url": "https://open.spotify.com/album/6k1uheGE4dRXkcRcpbfRg2"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208828,
+      "name": "Paperback Writer - Live At Citi Field, NYC, 2009",
+      "url": "https://open.spotify.com/track/66JNz0BxRKrno33Jha7i7R"
+    },
+    {
+      "album": {
         "name": "Postdoc Blues",
         "url": "https://open.spotify.com/album/6gohVbR0EIu7cQ4joT4ELg"
       },
@@ -541,10 +595,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 203091,
       "name": "Postdoc Blues",
       "url": "https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD"
+    },
+    {
+      "album": {
+        "name": "Billy Breathes",
+        "url": "https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319293,
+      "name": "Prince Caspian",
+      "url": "https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs"
     },
     {
       "album": {
@@ -584,6 +656,24 @@
     },
     {
       "album": {
+        "name": "After Bathing At Baxters",
+        "url": "https://open.spotify.com/album/4YYeywv0sLkLAGbJuKJIdi"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Rejoyce",
+      "url": "https://open.spotify.com/track/2XClue0OiR8tBFuObNCvZ0"
+    },
+    {
+      "album": {
         "name": "Sawdust",
         "url": "https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz"
       },
@@ -613,7 +703,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 242000,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6BxZ0Pio6d1OOaFATHVj7J"
@@ -667,7 +757,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 244373,
       "name": "Shalott",
       "url": "https://open.spotify.com/track/3zqqk1rqSOX5P30blEoShn"
@@ -685,7 +775,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 169706,
       "name": "Sirens of Titan",
       "url": "https://open.spotify.com/track/395ZYCrLELWM3MtMzGskaF"
@@ -703,7 +793,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 153840,
       "name": "Soma",
       "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
@@ -757,7 +847,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 250053,
       "name": "The Book I Read - 2005 Remaster",
       "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
@@ -829,7 +919,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 269000,
       "name": "The Pearl",
       "url": "https://open.spotify.com/track/1zBCwvQhBJ8apOFRnR9xss"
@@ -883,7 +973,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
@@ -962,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Images Rolling",
+        "url": "https://open.spotify.com/album/39mitxj59GRwL91UbwJCux"
+      },
+      "artists": [
+        {
+          "name": "Magic Arm",
+          "url": "https://open.spotify.com/artist/7e04hmo8LPOPgJalkPO2dY"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64825,
+      "name": "Type Endlessly",
+      "url": "https://open.spotify.com/track/1YnkKuOyXYQYIRg2YRZRfZ"
+    },
+    {
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4EnpeGmIkEf8nAaBLLTBZn"
       },
@@ -991,7 +1099,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"

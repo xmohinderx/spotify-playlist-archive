@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-65 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+67 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 | 2022-03-09 |  |
 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 | 2022-03-09 |  |
 | [Inner Sanctum / The Nesting Grounds](https://open.spotify.com/track/1QuqujcrL6Iy0FDokChqHF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur Original Soundtrack](https://open.spotify.com/album/19sIkTpeU6sUjZfafi1aCZ) | 2:57 | 2022-03-09 |  |
+| [Intangible](https://open.spotify.com/track/1z7xRcXHpfq4Isb1JufoRP) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 2:19 | 2022-04-22 |  |
 | [Kluge: Dreams and Echoes](https://open.spotify.com/track/2nyGaEELxbD0aRBF6dBrQo) | [Kathryn Kluge, Kim Allen Kluge](https://open.spotify.com/artist/0hTauniKYwz6CBz1s4NLWd) | [Silence \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29BBeUE3KRGalBtLf53IGw) | 2:41 | 2022-03-09 |  |
 | [Lands of Despair](https://open.spotify.com/track/7AXO9X1BOHNA19vGB8K876) | [Two Worlds II](https://open.spotify.com/artist/1qdPs3IrhTTOZm4Sm1KrR7) | [Two Worlds II](https://open.spotify.com/album/4HRx4rr8XaAYwNWYJzRdky) | 2:16 | 2022-03-09 |  |
 | [Largo Opus I](https://open.spotify.com/track/6h4HnPGVsXzY5ni48Mc2fa) | [Chamber Orchestra of Miemo](https://open.spotify.com/artist/7I4SytVVBoXQLU1IrG2pDp) | [Adagio in G Minor](https://open.spotify.com/album/71LQkDLQm2RozTdCKAFBpt) | 2:43 | 2022-03-09 |  |
@@ -66,6 +67,7 @@
 | [The Slopes of Sorrow](https://open.spotify.com/track/3lusMRSzKdKAhiCeBDRRXO) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:39 | 2022-03-09 |  |
 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 | 2022-03-09 |  |
 | [The Sun Might Rise in the West](https://open.spotify.com/track/1ERSamFEh8ulOyCTjy9wLA) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Elision](https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p) | 3:23 | 2022-03-09 |  |
+| [Three Days in Venice](https://open.spotify.com/track/6bkDyYr6SKesu884osJG0g) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 3:07 | 2022-04-22 |  |
 | [To Breathe Again](https://open.spotify.com/track/2hMdmMDaLa6e7evidcrDmK) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Breathe Again](https://open.spotify.com/album/1JsHM0So4bhf9XsCFYj4Lc) | 2:14 | 2022-03-09 |  |
 | [Touchless](https://open.spotify.com/track/71D7iylmSl5mbsJUIrtqYV) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Touchless](https://open.spotify.com/album/6wridSsSkC6PXi9MZRj0Yk) | 2:53 | 2022-03-09 |  |
 | [Tsimtsum](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 | 2022-03-09 |  |

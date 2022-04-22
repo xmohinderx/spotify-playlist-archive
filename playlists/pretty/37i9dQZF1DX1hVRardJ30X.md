@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Ricky Martin, Reik
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,919 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,933 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 22 | [Acaramelao / Endúlzame los Oídos \- Headphone Mix](https://open.spotify.com/track/4nbDc7f97uUIno916znqQM) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Endúlzame los Oídos / Acaramelao \(Headphone Mix\)](https://open.spotify.com/album/7C6WY8UbWT2ny3Oogkpu8E) | 2:47 |
 | 23 | [De Lao A Lao: Turreo Sessions \#5 \- Remix](https://open.spotify.com/track/2fVn0b7nps990m37u0RUPd) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Dime Ecua](https://open.spotify.com/artist/0hDiY6kqZJ4SuVHC6yLkdp) | [De Lao A Lao: Turreo Sessions \#5 \(Remix\)](https://open.spotify.com/album/5v7MgXYl5jLctXVCRTj6ir) | 4:16 |
 | 24 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 |
-| 25 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 |
+| 25 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [M A R L K U](https://open.spotify.com/artist/0nUJZ0KwKaJVlxV77jsPwY) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 |
 | 26 | [Infraganti](https://open.spotify.com/track/25h54oPQAB19qacffSp5wG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Infraganti](https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo) | 2:44 |
 | 27 | [CULPABLE](https://open.spotify.com/track/1PthnMYJo6ooj4FyDwofrF) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [CULPABLE](https://open.spotify.com/album/3vFR5IdFWGSV03IJL9ypzV) | 2:06 |
 | 28 | [Soñando Despierto](https://open.spotify.com/track/0da7T2uLjmDd2hIYSlK958) | [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED) | [Soñando Despierto](https://open.spotify.com/album/3HvniZfhdbJZ6o4xdrOE5N) | 3:34 |

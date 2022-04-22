@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: bülow
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,435 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,439 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 70 | [On the Edge](https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/2LEAHem1o9t6AzAxVbMRja) | 2:40 |
 | 71 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 |
 | 72 | [A Veces Bien Y A Veces Mal](https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [A Veces Bien Y A Veces Mal](https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci) | 2:25 |
-| 73 | [Way2big](https://open.spotify.com/track/3heKATN7dHhrlbpkTrPyhg) | [Busy Nasa](https://open.spotify.com/artist/29m2WwSOMzE2MoFPARm4bi), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Gaudz](https://open.spotify.com/artist/0xj1LxM0gHYGUc0m9c2rkk) | [222](https://open.spotify.com/album/2GSZpusoPHknNkbE4Ye011) | 2:52 |
+| 73 | [Way2big](https://open.spotify.com/track/3heKATN7dHhrlbpkTrPyhg) | [Busy Nasa](https://open.spotify.com/artist/29m2WwSOMzE2MoFPARm4bi), [Gaudz](https://open.spotify.com/artist/0xj1LxM0gHYGUc0m9c2rkk), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [222](https://open.spotify.com/album/2GSZpusoPHknNkbE4Ye011) | 2:52 |
 | 74 | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 |
 | 75 | [Chest](https://open.spotify.com/track/2xS5oMXLGlG5DNzhtsURTQ) | [BAINS.](https://open.spotify.com/artist/1k1UhxIjS2zMahE8gK3a0g) | [Chest](https://open.spotify.com/album/4OInqOTyKjCQBXP9QnYkt8) | 2:51 |
 | 76 | [Vestiges](https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Vestiges](https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv) | 4:04 |

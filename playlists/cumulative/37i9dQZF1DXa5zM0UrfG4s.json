@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Halva Priset",
+  "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
   "name": "Livet p\u00e5 B\u00f8gda!",
   "published_playlist_ids": [
     "3zMqShr44pcg3CK0Psc64W"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 211800,
       "name": "Bare s\u00e5 du vett det",
       "url": "https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 164127,
       "name": "B\u00f8gda",
       "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 160604,
       "name": "B\u00f8gdegutt",
       "url": "https://open.spotify.com/track/71HOGcm7rG4ytLgaeorFuc"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 193714,
       "name": "CHUGGE (Wine Not)",
       "url": "https://open.spotify.com/track/2kJUjgNRaum4cuJgAQu51a"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 134123,
       "name": "Dunk",
       "url": "https://open.spotify.com/track/3fE2HPDr6upYq4xW16k8BP"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 188483,
       "name": "En liten plass",
       "url": "https://open.spotify.com/track/2vuqZNKtukufFAxw7ur0vv"
@@ -1007,10 +1007,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 170135,
       "name": "Evig Vandring",
       "url": "https://open.spotify.com/track/7IeBamArdqkA6YnqBaMHFj"
+    },
+    {
+      "album": {
+        "name": "Felleskj\u00f8pet-dress",
+        "url": "https://open.spotify.com/album/76O4WYc2C9IpIKepQCHhzj"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192965,
+      "name": "Felleskj\u00f8pet-dress",
+      "url": "https://open.spotify.com/track/1yHGoNVtlz20xq2ny8QpxP"
     },
     {
       "album": {
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 160002,
       "name": "Ga\u030ardsgutt",
       "url": "https://open.spotify.com/track/4PZt3HFcJnC4QZQhBgEiQC"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 132064,
       "name": "Hej Alla Raggare",
       "url": "https://open.spotify.com/track/294hfH0VbX7jwv4PcyOlgb"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 145666,
       "name": "H\u00e6ljetur",
       "url": "https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 169466,
       "name": "N\u00e5 Koser Vi Oss",
       "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 207659,
       "name": "Rompa mi",
       "url": "https://open.spotify.com/track/4xh1HYiuwF8B200hbKW5Ic"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 169786,
       "name": "Ronny & Ragge",
       "url": "https://open.spotify.com/track/0u64RPrwUD8k2R8tdy8wwI"
@@ -2691,7 +2709,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 154280,
       "name": "Sj\u00f8mann Per",
       "url": "https://open.spotify.com/track/5TkkyRI7euRu4S0BUSuCw6"
@@ -2716,6 +2734,24 @@
     },
     {
       "album": {
+        "name": "SKIPET",
+        "url": "https://open.spotify.com/album/7mWe2qgLah9gxLlDXHYEVb"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151846,
+      "name": "SKIPET",
+      "url": "https://open.spotify.com/track/2FoaNJ0TLBYI3YbEYF377u"
+    },
+    {
+      "album": {
         "name": "Skjenkestopp",
         "url": "https://open.spotify.com/album/7LgYrxQA5yqoUp21iiOXZR"
       },
@@ -2727,7 +2763,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 159170,
       "name": "Skjenkestopp",
       "url": "https://open.spotify.com/track/2GiiOh2U8EQwWkORJd8FNI"
@@ -2745,7 +2781,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 163212,
       "name": "Snakkes",
       "url": "https://open.spotify.com/track/3gApFQhR9CEqjkCFG1WlKM"
@@ -2803,7 +2839,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 205588,
       "name": "Sova n\u00e4r vi d\u00f6r",
       "url": "https://open.spotify.com/track/6Z0Hi1lWsMHFUbIYqzt4Zl"
@@ -3231,7 +3267,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "VI SKA BLI FULLA",
       "url": "https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792"
@@ -3367,7 +3403,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 146268,
       "name": "V\u00c4RMLAND",
       "url": "https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6"
@@ -3457,7 +3493,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 136243,
       "name": "\u00c6rmen i k\u00e6rmen",
       "url": "https://open.spotify.com/track/6KYDEP132TspYEaEvobbuQ"

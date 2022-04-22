@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 198857,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
@@ -1401,6 +1401,40 @@
       "duration_ms": 181942,
       "name": "Vibes (feat. KDM on the Track) - DJ Noiz Remix",
       "url": "https://open.spotify.com/track/0it8gyCvD9hIgokj6AzlR4"
+    },
+    {
+      "album": {
+        "name": "We Smoke",
+        "url": "https://open.spotify.com/album/2Za3qO1esJmOgd77kqakkz"
+      },
+      "artists": [
+        {
+          "name": "Bodega Collective",
+          "url": "https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW"
+        },
+        {
+          "name": "Big Skeez",
+          "url": "https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu"
+        },
+        {
+          "name": "Elijah Yo",
+          "url": "https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL"
+        },
+        {
+          "name": "RenzoMck.",
+          "url": "https://open.spotify.com/artist/7h6GkKpa1H12PiOQ6RiRh4"
+        },
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "We Smoke",
+      "url": "https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ"
     },
     {
       "album": {

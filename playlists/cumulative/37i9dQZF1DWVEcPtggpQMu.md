@@ -4,7 +4,7 @@
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=wAQc0DAxSMulOXdmZWl4dA">Shane Eagle</a>
 
-215 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+216 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [High](https://open.spotify.com/track/3fP36uvgbJ4FkT7JbhzAU1) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [High](https://open.spotify.com/album/15hnm7O3NQyCoYKTVIsxwA) | 3:14 | 2022-03-03 | 2022-04-15 |
 | [Hip Hop is Back](https://open.spotify.com/track/0MjSuaqf50EzjWn3zKPFM9) | [MAN\-TUTU](https://open.spotify.com/artist/1kZaXKhs4S4qgKSQcWf1cd), [Naes, The Great](https://open.spotify.com/artist/7fkMWyniN6MSJz3NkFSX1A) | [April](https://open.spotify.com/album/1s9r1JmdL1RA64EdRYZA3i) | 2:11 | 2022-03-31 | 2022-04-15 |
 | [Home](https://open.spotify.com/track/6SJAhLQL42EaoJgVCekiv9) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV), [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [Home](https://open.spotify.com/album/7aBigaxjgOPDnFlIID5pFl) | 3:13 | 2022-02-10 | 2022-03-18 |
+| [Homecoming](https://open.spotify.com/track/66n2tahfrtTvxiquQ2QOOw) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Homecoming](https://open.spotify.com/album/4nK2bNAlz7CPAhWlRs1dok) | 4:03 | 2022-04-14 |  |
 | [How Do You Do It?](https://open.spotify.com/track/4OwTUayjpFJmHtWNBEDpj7) | [SadBoySantana](https://open.spotify.com/artist/3nb1rmahl4LbN6Jm4eVssM) | [B4 BISS](https://open.spotify.com/album/6ksSRQyRNoP5pTEjp1fGos) | 1:48 | 2022-03-10 | 2022-03-18 |
 | [Hype or Clout](https://open.spotify.com/track/6nxRV06sUV510PEJSs5HDo) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [YAH SHE](https://open.spotify.com/album/1rg9sNwqnuJOMhANopgz48) | 2:45 | 2022-03-24 |  |
 | [I Don't](https://open.spotify.com/track/0pR0SKKJ8hitTYDUbuitqk) | [DeWun Music](https://open.spotify.com/artist/0oOX6CGH3wjifuSV7yQlQy), [Dani Bagel](https://open.spotify.com/artist/4aLOEVCgpLbgjSKO6lzdf8) | [I Don't](https://open.spotify.com/album/6BvCOcrTMTA2PTAhFoYks1) | 2:42 | 2022-02-10 | 2022-03-18 |

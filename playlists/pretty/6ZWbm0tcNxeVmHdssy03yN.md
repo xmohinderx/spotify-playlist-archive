@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,710 likes - 100 songs - 5 hr 23 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,722 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 35 | [Heroes](https://open.spotify.com/track/3KqJzagmBudChavtK8T104) | [Dr Joos](https://open.spotify.com/artist/6rPPz09MzKmQ0FqDyEXoCb) | [Heroes](https://open.spotify.com/album/4Sx9Ku1GHKzbZkwAaMEnNn) | 3:12 |
 | 36 | [Hello Tomorrow](https://open.spotify.com/track/1Ps1N8S7U5zzB0XyAsqVRq) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [ALLISTER X](https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g) | [Hello Tomorrow](https://open.spotify.com/album/0WID83aO7mH6ZtxHpFPMaK) | 3:32 |
 | 37 | [Forever Happy](https://open.spotify.com/track/1quzBJO2Dt1DsPW4IPYyyA) | [Niko Rosé](https://open.spotify.com/artist/3KHtbeQsPzZNZ7KNwneHYF), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Forever Happy](https://open.spotify.com/album/0VVkpWsafKoQZi1o5pCAAd) | 2:46 |
-| 38 | [La Tormenta](https://open.spotify.com/track/3EjAh9ZdGCUKvmki4gwqH5) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U), [Santa Mónica](https://open.spotify.com/artist/5WDnK1T9c6tvjJTh0S1ejm) | [La Tormenta](https://open.spotify.com/album/2gQWsInId3kSvUwY3jYZaZ) | 3:58 |
+| 38 | [La Tormenta](https://open.spotify.com/track/3EjAh9ZdGCUKvmki4gwqH5) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U), [Santa Monica](https://open.spotify.com/artist/4rWK1xtrXdOOwty4BvKp5r) | [La Tormenta](https://open.spotify.com/album/2gQWsInId3kSvUwY3jYZaZ) | 3:58 |
 | 39 | [TEK](https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [TEK](https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA) | 2:43 |
 | 40 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 |
 | 41 | [2 Al Azar](https://open.spotify.com/track/5abLpDZzQFMXHCyGzH4au4) | [Tipa Tipo](https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24) | [2 Al Azar](https://open.spotify.com/album/38kFWMuONHiysmBgHbjktR) | 3:39 |

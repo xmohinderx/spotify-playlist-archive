@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-102 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+104 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 | 2021-11-11 |  |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2021-11-11 |  |
 | [Flunked](https://open.spotify.com/track/1zKF974S6JmaaqX6SwUdnH) | [Pathos](https://open.spotify.com/artist/000A3Oa2wuuR3oJ5vjXkns) | [Flunked](https://open.spotify.com/album/18Xuryl7R77FH98TD2tuLL) | 1:41 | 2021-11-11 |  |
+| [For U](https://open.spotify.com/track/2ytZZ2S64YvE9G5SgYEPkB) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [For U](https://open.spotify.com/album/1wAMBFJ7WkhMNlTiZpcfEa) | 1:46 | 2022-04-22 |  |
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-02-17 |  |
 | [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 | 2022-04-15 |  |
 | [Goodies](https://open.spotify.com/track/034s5MPRbS4Ii8lpZoWNY2) | [Psychedelicatessen](https://open.spotify.com/artist/1Aqsr5edFoWGrBBjdKvUk9) | [Goodies](https://open.spotify.com/album/1tRfhMX6FsiPaBgKoAndBt) | 1:24 | 2021-11-11 |  |
@@ -94,6 +95,7 @@
 | [Smeegoll](https://open.spotify.com/track/34G1g2Xo9Q9xbZMvsi2bBJ) | [Clush](https://open.spotify.com/artist/5tk5PQwf3VDXOuW2bDbbKj) | [Midnites](https://open.spotify.com/album/6Wg7fYktXfJoY87bwFBEn3) | 1:56 | 2021-11-11 |  |
 | [Spin Cycle](https://open.spotify.com/track/7IRafpsoM8i4OirXU4olje) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:25 | 2021-11-11 |  |
 | [Square Pusher](https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:51 | 2021-11-11 |  |
+| [Stay](https://open.spotify.com/track/1n1WtbBkXFJNhskphoV05W) | [Dellasollounge](https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3) | [Stay](https://open.spotify.com/album/1fpKnA9khgdrwdOQCFfKbG) | 2:16 | 2022-04-22 |  |
 | [Streuende Hunde](https://open.spotify.com/track/1XDqCTvcNdBlTInzddQ568) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Streuende Hunde](https://open.spotify.com/album/4jnXu57WLZneXtBmdtRtUv) | 4:09 | 2021-11-11 |  |
 | [Sunshine](https://open.spotify.com/track/5flCtFDMbtxnbc33pekd92) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/5UWKVYrWjt1MrnUrQehaZ4) | 2:12 | 2022-04-08 |  |
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2022-02-17 |  |

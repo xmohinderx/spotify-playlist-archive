@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 158783,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/4bj8WRDUFsguMFAxG22e8c"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 153716,
       "name": "Bananas",
       "url": "https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 151210,
       "name": "Bergs slussar",
       "url": "https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "Blicka",
       "url": "https://open.spotify.com/track/2xg7Baa5xTntOAhtbEfI0v"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 188986,
       "name": "Bra vibbar Del 2 (Bra vibrationer)",
       "url": "https://open.spotify.com/track/43XDyDwka658kl7tE31LcB"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 216024,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/5KImNJ1eFcH1J7sbRcwnWS"
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 134006,
       "name": "Friends, Right?",
       "url": "https://open.spotify.com/track/7Hxdp3Pdo8EgE7Qq1sCsHE"
@@ -2249,7 +2249,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 194880,
       "name": "Grand Hotel",
       "url": "https://open.spotify.com/track/4AFWZcUaYfYIU3EAoTK0Dz"
@@ -2705,7 +2705,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 143212,
       "name": "H\u00f6ghusdr\u00f6mmar",
       "url": "https://open.spotify.com/track/1LOeNFopjoNVYVpbKWjH2m"
@@ -2851,7 +2851,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 166231,
       "name": "I Will Be Better Than You At Letting Go",
       "url": "https://open.spotify.com/track/7Hjo1HHU4AEnYc509tRhjK"
@@ -3089,7 +3089,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 140470,
       "name": "Jag t\u00e4nker p\u00e5 dig",
       "url": "https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X"
@@ -3233,7 +3233,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 213026,
       "name": "King of a Tragedy",
       "url": "https://open.spotify.com/track/1K1oSJaGtIgK28y7bmfspg"
@@ -3453,7 +3453,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 194800,
       "name": "Live and Let Live",
       "url": "https://open.spotify.com/track/4GN2qtuJ4a4EbO325Lpf4y"
@@ -3797,7 +3797,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 168798,
       "name": "MANO",
       "url": "https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh"
@@ -3988,6 +3988,24 @@
     },
     {
       "album": {
+        "name": "My Friends",
+        "url": "https://open.spotify.com/album/0sgJCD4bUVQi7cbTb0jWUQ"
+      },
+      "artists": [
+        {
+          "name": "Nadja Kasanesh",
+          "url": "https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177530,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/5G4xG632nZ9b3l9L4eI1hK"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/3BntMcd0jqbsXgRfseNuAy"
       },
@@ -4071,7 +4089,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 152736,
       "name": "Nightwalker",
       "url": "https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH"
@@ -4201,7 +4219,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 219253,
       "name": "Nu gr\u00f6nskar det",
       "url": "https://open.spotify.com/track/5ZZGRLU47Gkp8q5ERLTLP5"
@@ -4277,7 +4295,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 165060,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM"
@@ -4617,7 +4635,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "P\u00e5 L\u00e5tsas",
       "url": "https://open.spotify.com/track/6tmYCYP4Pszgn8gn03jMTj"
@@ -4635,7 +4653,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 188093,
       "name": "Quit Your Job",
       "url": "https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry"
@@ -4707,7 +4725,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 185876,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq"
@@ -4747,7 +4765,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 199648,
       "name": "Rosa nejlikor",
       "url": "https://open.spotify.com/track/0czj9HxnkaotIbcXazZ6PG"
@@ -5147,7 +5165,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 185173,
       "name": "Skies",
       "url": "https://open.spotify.com/track/5UfHl6LcGtkUAe7UItl3KH"
@@ -5703,7 +5721,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 159966,
       "name": "Superhero ideal (Pantamera)",
       "url": "https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c"
@@ -5797,7 +5815,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 178223,
       "name": "Synd om dig",
       "url": "https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5"
@@ -5815,7 +5833,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 140973,
       "name": "S\u00e4g det som du menar det",
       "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
@@ -6455,7 +6473,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 201480,
       "name": "Vart Jag Varit (Je Viens De Rien) [feat. Maxida M\u00e4rak]",
       "url": "https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA"
@@ -6509,7 +6527,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 160762,
       "name": "Vi har iallafall inte tr\u00e5kigt",
       "url": "https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI"
@@ -6881,7 +6899,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 149944,
       "name": "Who Am I Without You",
       "url": "https://open.spotify.com/track/4nM6merfZDOz4bb7TCBuiC"
@@ -6921,7 +6939,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 243203,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1"

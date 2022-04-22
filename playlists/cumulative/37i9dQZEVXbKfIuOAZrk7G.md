@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-377 songs - 20 hr 31 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
+378 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Rien ne sert de courir](https://open.spotify.com/track/6Bio5mtatpNWTnQCPUiJy7) | [Karim Ouellet](https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit) | [Rien ne sert de courir](https://open.spotify.com/album/3JeC0ECxHeJprWxUCUPHS0) | 3:24 | 2022-01-19 | 2022-01-27 |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2022-01-27 | 2022-02-09 |
 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 | 2022-02-22 | 2022-04-20 |
-| [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 | 2022-04-19 |  |
+| [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 | 2022-04-19 | 2022-04-22 |
 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 | 2022-02-22 | 2022-02-27 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-03-15 | 2022-04-01 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2022-01-07 | 2022-02-11 |
@@ -299,6 +299,7 @@
 | [Shake](https://open.spotify.com/track/3jD2vnVTRoqqsAmLRxTPxk) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Aura The Scientist](https://open.spotify.com/artist/4gTlq0DUpq2DYYgTEQeD9O) | [Shake](https://open.spotify.com/album/3iwjI7ycWWlC5avYcOTc46) | 2:36 | 2022-01-16 | 2022-01-26 |
 | [Shake](https://open.spotify.com/track/3dMPfZLIVv662b5xJkKJdX) | [yossiking](https://open.spotify.com/artist/6RPkG8RHhd5cAXOnNArGsj) | [Shake](https://open.spotify.com/album/1TxI07Pdiw3FxZJjFPAUNg) | 2:36 | 2022-01-09 | 2022-01-15 |
 | [Shakey x off these drugs](https://open.spotify.com/track/5hbjWmsPxsoUf8xupri1g7) | [ShakeyFunnyAzz](https://open.spotify.com/artist/4CWLmkNh01ZxgBM5gDXlIx) | [Shakey x off these drugs](https://open.spotify.com/album/5B3bW5H5XiW9AyDBLw9xeI) | 2:19 | 2022-01-01 | 2022-02-01 |
+| [She's a Country Music Fan](https://open.spotify.com/track/0p2xtffpsh4syNCVZQFgAR) | [Wheeler Walker Jr.](https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia) | [Sex, Drugs & Country Music](https://open.spotify.com/album/2JUX45vZyur4da4WYk7Ojc) | 3:06 | 2022-04-21 |  |
 | [Si fragile](https://open.spotify.com/track/6ZqtULH2P1q3kGZfOCwyYa) | [Karim Ouellet](https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit) | [Popdejam](https://open.spotify.com/album/25iuKRBE2Firj4RwPkg8Q9) | 4:57 | 2022-01-20 | 2022-01-28 |
 | [Sign of the Times \- Stripped](https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0) | [Steve Horner](https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:39 | 2022-04-19 |  |
 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 | 2022-04-06 |  |

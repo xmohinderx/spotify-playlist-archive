@@ -1646,6 +1646,24 @@
     },
     {
       "album": {
+        "name": "Edio",
+        "url": "https://open.spotify.com/album/1XgPv3oY99SZ2ZQ2XPROkb"
+      },
+      "artists": [
+        {
+          "name": "Gordo Napalma",
+          "url": "https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Edio",
+      "url": "https://open.spotify.com/track/0QdOnce1FwtfhjHGyYWcJ5"
+    },
+    {
+      "album": {
         "name": "Een mooie droom",
         "url": "https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw"
       },
@@ -3573,6 +3591,24 @@
       "duration_ms": 156000,
       "name": "Peak Calm",
       "url": "https://open.spotify.com/track/5lXpowQ714d5VWxjdFLfi7"
+    },
+    {
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/4gQPGoNxTX0gJDGpaWL2iq"
+      },
+      "artists": [
+        {
+          "name": "Saige Kasey",
+          "url": "https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/1bDlImMOyf1J7II5dTyECe"
     },
     {
       "album": {

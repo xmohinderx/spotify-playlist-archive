@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2229,7 +2229,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 132469,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD"
@@ -2605,7 +2605,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
@@ -8275,7 +8275,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
@@ -8561,6 +8561,24 @@
       "duration_ms": 60000,
       "name": "Ocean Sounds, Pt. 01",
       "url": "https://open.spotify.com/track/10yQZgnjXK4b96Y3FDJEgl"
+    },
+    {
+      "album": {
+        "name": "oda tusam",
+        "url": "https://open.spotify.com/album/6rI1CqU0ipDHOcAuyEI8As"
+      },
+      "artists": [
+        {
+          "name": "rolands \u010de",
+          "url": "https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189896,
+      "name": "oda tusam",
+      "url": "https://open.spotify.com/track/1TfmEat0dhCiJP8qwstt3Z"
     },
     {
       "album": {
@@ -11849,7 +11867,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"

@@ -4,7 +4,7 @@
 
 > The hottest new pop with the all the drops\. Cover: Anitta
 
-198 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
+199 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Wouldn’t Change A Thing](https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Wouldn’t Change A Thing](https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb) | 3:07 | 2021-11-05 | 2022-01-15 |
 | [You & I](https://open.spotify.com/track/4naueqYpTPhMq2Ed5ZclZU) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [You & I](https://open.spotify.com/album/16AC6NOZKvlPxDVbOph1c3) | 2:38 | 2022-03-18 |  |
 | [You Are For Me](https://open.spotify.com/track/3yJoI2Jcg5YAQd6ajWwTbi) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l), [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [You Are For Me](https://open.spotify.com/album/7yDgjZm6KcWL7VBtq6sIrk) | 3:26 | 2021-11-12 | 2022-01-08 |
+| [You Don't Really Wanna](https://open.spotify.com/track/0QtR4FagFVAyZaTATVmwE5) | [CuteBad](https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP) | [You Don't Really Wanna](https://open.spotify.com/album/4PjKjGtm0lTEHrbQpRmXER) | 2:07 | 2022-04-15 |  |
 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 | 2022-04-01 |  |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2021-11-12 | 2022-02-05 |
 | [Younger](https://open.spotify.com/track/7xIHOrZhIOwqF4byN4kq4Q) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [Younger](https://open.spotify.com/album/7r43fMg1w7Q8thasT0ZjEk) | 3:12 | 2021-12-31 | 2022-02-05 |

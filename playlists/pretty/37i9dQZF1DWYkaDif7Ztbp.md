@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60?si=drdMUeX6Q72CfdY\_nw8Y6A" > Tayc </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,137 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,169 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

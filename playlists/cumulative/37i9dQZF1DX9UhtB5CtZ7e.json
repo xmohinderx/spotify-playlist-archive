@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
+    },
+    {
+      "album": {
         "name": "The Singer & The Song",
         "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
       },
@@ -156,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/1cFZZLFmIDl8wmCXAmcYTW"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305776,
+      "name": "Cheer up, My Brother",
+      "url": "https://open.spotify.com/track/31zYh8oGKMrGbQV3nnoes3"
+    },
+    {
+      "album": {
         "name": "The Soul Album",
         "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
@@ -171,6 +207,24 @@
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "album": {
@@ -207,7 +261,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 172653,
       "name": "Damselfly",
       "url": "https://open.spotify.com/track/2QMihQt7YoEPkPNcDsAJf5"
@@ -225,7 +279,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
@@ -243,10 +297,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 214893,
       "name": "Do What You Gotta Do",
       "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "album": {
+        "name": "The Papas & The Mamas",
+        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
     },
     {
       "album": {
@@ -297,7 +369,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 130427,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
@@ -323,7 +395,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 219200,
       "name": "Enjoy The Ride",
       "url": "https://open.spotify.com/track/5an5pJ5YGU2AYipxHe2wIL"
@@ -345,6 +417,24 @@
       "duration_ms": 207026,
       "name": "Factor In",
       "url": "https://open.spotify.com/track/1jSsZv7ln3hhPhSoFTkV2R"
+    },
+    {
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "First Day Of My Life",
+      "url": "https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G"
     },
     {
       "album": {
@@ -377,7 +467,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 214853,
       "name": "Green Lights",
       "url": "https://open.spotify.com/track/1y16qMm3FofXQICk50Y7Gc"
@@ -431,7 +521,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 144929,
       "name": "Homesick Remedy",
       "url": "https://open.spotify.com/track/2Sn2XxPVmOgoZbdxckimxP"
@@ -449,7 +539,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 191000,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/5Bsyin9f7eK4aLH59jGwGy"
@@ -467,7 +557,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 201440,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
@@ -489,6 +579,24 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
     },
     {
       "album": {
@@ -633,7 +741,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 205595,
       "name": "Lonely (feat. Lorine Chia)",
       "url": "https://open.spotify.com/track/31c86U35gJEV813lIaQzZe"
@@ -781,7 +889,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 158146,
       "name": "OKAY OKAY",
       "url": "https://open.spotify.com/track/1Wds4TjXgP26AW9H8LALtQ"
@@ -817,7 +925,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
@@ -865,7 +973,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 311000,
       "name": "Shadow Man (feat. Phoelix, Smino & Saba)",
       "url": "https://open.spotify.com/track/1h2LHhmyAXi8tPNLi806JA"
@@ -919,7 +1027,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 185076,
       "name": "Small Town Girl",
       "url": "https://open.spotify.com/track/7tbpHQMGcySPP07HlhWcBQ"
@@ -941,6 +1049,24 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo"
+    },
+    {
+      "album": {
+        "name": "Como Te Llama?",
+        "url": "https://open.spotify.com/album/5VdOzZmXRZtDbzIW2wg8XK"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438906,
+      "name": "Spooky Couch",
+      "url": "https://open.spotify.com/track/1wRCg1JyRmbJEg9ESOMlVp"
     },
     {
       "album": {
@@ -980,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -991,7 +1135,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 257959,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/25YvGDl2zSE0pH8jrMZ6aY"
@@ -1045,7 +1189,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 195346,
       "name": "Two Punks In Love",
       "url": "https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK"

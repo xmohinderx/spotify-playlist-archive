@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=wAQc0DAxSMulOXdmZWl4dA">Shane Eagle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,912 likes - 74 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,934 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 65 | [I got it](https://open.spotify.com/track/0S6Rc7SwlyX1vv18cMNaji) | [tylerwrldwide](https://open.spotify.com/artist/5dnCOehLIFKY10S6MbtXKU), [Elizée](https://open.spotify.com/artist/66F2XoLQPsKPCquiQIlI6x), [Jordan Baker](https://open.spotify.com/artist/2VLgYF7w5rxBReeF8G1URc) | [I got it](https://open.spotify.com/album/4HkSHQpQ9RueGKRgpkhCee) | 2:55 |
 | 66 | [Tlaala Di Traata](https://open.spotify.com/track/4QZgfpj5zXW5RAktrbUzLJ) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [Death Row Africa](https://open.spotify.com/album/1mpqILNXy1y0njIE0OdVkB) | 2:23 |
 | 67 | [MA](https://open.spotify.com/track/3NdV37jzx6noMQoQlxGuDx) | [Elliot Smalls](https://open.spotify.com/artist/6ee6gOLet09Kv10DhYzCQ2) | [The Archives](https://open.spotify.com/album/5cPJVSLbWrl1Y9CPWZ20V4) | 3:33 |
-| 68 | [Numerology](https://open.spotify.com/track/62wHVgPyLqfcDkKEtt0tiH) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [Numerology](https://open.spotify.com/album/6fVV2EkJXhXgr7jWnNKcdZ) | 6:29 |
-| 69 | [If Found, Bring Home](https://open.spotify.com/track/4KWEslYcPrdxG48W8zcJSw) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [If Found, Bring Home](https://open.spotify.com/album/16vMh0reHuFopzuACaLls2) | 3:43 |
-| 70 | [ridiculouS](https://open.spotify.com/track/6UPZoLHQJpM5GfuCWG1VRV) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [ridiculouS](https://open.spotify.com/album/2mCKxB9NhM3Kn2oz7IT9ZD) | 3:08 |
-| 71 | [Walk](https://open.spotify.com/track/6xo4YaG98lzfvomfpsOPEv) | [Byron Gindra](https://open.spotify.com/artist/4rjcUFfQIV6zLV3qcgoiar), [Lucas Raps](https://open.spotify.com/artist/6iHuEbZozDD13IBb4YyCzR) | [Walk](https://open.spotify.com/album/0mzKiY57YpIKmShaHrqhsy) | 2:19 |
-| 72 | [Fallen Angel](https://open.spotify.com/track/1T6m8bY04csDL3rvRlUlk1) | [THEBOYNAMEDSIMBA](https://open.spotify.com/artist/08l9goiuSlE8E5NVuhZPv1) | [Fallen Angel](https://open.spotify.com/album/1fitDUEXQQCVDg6IxwS30g) | 2:13 |
-| 73 | [Koko](https://open.spotify.com/track/58Tnb3VVqcXsAqiYzf4QgZ) | [Dali Danger](https://open.spotify.com/artist/5uS7Vl0LAEz2Rj7oDeeM4Y), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [Koko](https://open.spotify.com/album/4JCZikiBZGUuSlddU5z2jX) | 3:28 |
-| 74 | [Sweet Pull Up](https://open.spotify.com/track/1MaR92nBnvIPYyRUBFRyG2) | [Benlay](https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Sweet Pull Up](https://open.spotify.com/album/6NGOV4uOnG6AIA4dq2EFaD) | 3:58 |
+| 68 | [Homecoming](https://open.spotify.com/track/66n2tahfrtTvxiquQ2QOOw) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Homecoming](https://open.spotify.com/album/4nK2bNAlz7CPAhWlRs1dok) | 4:03 |
+| 69 | [Numerology](https://open.spotify.com/track/62wHVgPyLqfcDkKEtt0tiH) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [Numerology](https://open.spotify.com/album/6fVV2EkJXhXgr7jWnNKcdZ) | 6:29 |
+| 70 | [If Found, Bring Home](https://open.spotify.com/track/4KWEslYcPrdxG48W8zcJSw) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [If Found, Bring Home](https://open.spotify.com/album/16vMh0reHuFopzuACaLls2) | 3:43 |
+| 71 | [ridiculouS](https://open.spotify.com/track/6UPZoLHQJpM5GfuCWG1VRV) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [ridiculouS](https://open.spotify.com/album/2mCKxB9NhM3Kn2oz7IT9ZD) | 3:08 |
+| 72 | [Walk](https://open.spotify.com/track/6xo4YaG98lzfvomfpsOPEv) | [Byron Gindra](https://open.spotify.com/artist/4rjcUFfQIV6zLV3qcgoiar), [Lucas Raps](https://open.spotify.com/artist/6iHuEbZozDD13IBb4YyCzR) | [Walk](https://open.spotify.com/album/0mzKiY57YpIKmShaHrqhsy) | 2:19 |
+| 73 | [Fallen Angel](https://open.spotify.com/track/1T6m8bY04csDL3rvRlUlk1) | [THEBOYNAMEDSIMBA](https://open.spotify.com/artist/08l9goiuSlE8E5NVuhZPv1) | [Fallen Angel](https://open.spotify.com/album/1fitDUEXQQCVDg6IxwS30g) | 2:13 |
+| 74 | [Koko](https://open.spotify.com/track/58Tnb3VVqcXsAqiYzf4QgZ) | [Dali Danger](https://open.spotify.com/artist/5uS7Vl0LAEz2Rj7oDeeM4Y), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [Koko](https://open.spotify.com/album/4JCZikiBZGUuSlddU5z2jX) | 3:28 |
+| 75 | [Sweet Pull Up](https://open.spotify.com/track/1MaR92nBnvIPYyRUBFRyG2) | [Benlay](https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Sweet Pull Up](https://open.spotify.com/album/6NGOV4uOnG6AIA4dq2EFaD) | 3:58 |
 
 Snapshot ID: `MTY0OTk3MzU0MCwwMDAwMDRkMTAwMDAwMTgwMmExNjM1MWIwMDAwMDE3Zjk4NmRmOTA2`

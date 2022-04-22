@@ -4,7 +4,7 @@
 
 > Slow down with some calming keys.
 
-445 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
+449 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2021-12-13 |  |
 | [Dedication](https://open.spotify.com/track/5UKTmSINIygGZJR4MFx9Mu) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Dedication](https://open.spotify.com/album/0mHFXI7cpZez6t913U6MWB) | 3:07 | 2021-12-13 |  |
 | [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2021-12-13 |  |
+| [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2022-04-21 |  |
 | [die kleine Raupe](https://open.spotify.com/track/4x0UFoPofsiqTndmsZpG2h) | [Tristen Longfellow](https://open.spotify.com/artist/7peSX5RUOIXrawTG5Ax3Lv) | [die kleine Raupe](https://open.spotify.com/album/627NSKjlFXyOS3AX801vp3) | 2:37 | 2021-12-13 |  |
 | [Dinant](https://open.spotify.com/track/6OMDq58l1Aj0NfutF14Kcq) | [Willa Jacobs](https://open.spotify.com/artist/3kC9ly7aDuSfEPXmPIemvc) | [Dinant](https://open.spotify.com/album/2KaWMPt1cekOlzNy3H47fG) | 2:11 | 2021-12-13 | 2022-02-16 |
 | [Domande](https://open.spotify.com/track/3PCrufS6uFrm7Q6ArBW1nf) | [Flavio Nisi](https://open.spotify.com/artist/2CXAIegHBPc71Wr9GTIAz5) | [Domande](https://open.spotify.com/album/7c7ES2lzWaTQQJZ8nBIozl) | 2:31 | 2021-12-13 |  |
@@ -121,6 +122,7 @@
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2021-12-13 |  |
 | [Expecting](https://open.spotify.com/track/5IZkV8mhcxxFyLduTPtnw0) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Expecting](https://open.spotify.com/album/7cEaMylwXOO3NopOoGlzvJ) | 2:38 | 2021-12-13 |  |
 | [Fall In Grace](https://open.spotify.com/track/7vMeKpR5hUoPo8nylUFO5x) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [Resting Grounds](https://open.spotify.com/album/6a1blpOosJ5ta9nG9eZSX5) | 2:24 | 2021-12-13 |  |
+| [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2022-04-21 |  |
 | [Feathers](https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ) | [Tanisha Hickman](https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus) | [Feathers](https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB) | 2:05 | 2022-04-06 |  |
 | [Felt Improv No\. 7](https://open.spotify.com/track/0Opima0tmKX1e9RhLMawGW) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 7](https://open.spotify.com/album/54yeHy6gMLbnNej2UcxljW) | 2:26 | 2021-12-13 |  |
 | [Feuilles Tombantes](https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Feuilles Tombantes](https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J) | 2:07 | 2021-12-13 |  |
@@ -290,6 +292,7 @@
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-12-13 |  |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-03-02 |  |
 | [Pensive](https://open.spotify.com/track/6bYu9TU2rm2rYvlalCReDa) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Pensive](https://open.spotify.com/album/4Ug4sq5SSNzBxx9wgNY2yF) | 2:35 | 2021-12-13 |  |
+| [Pianola](https://open.spotify.com/track/48SGMBtW11z4g8ymVdpI4B) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [Pianola](https://open.spotify.com/album/3qpHIXKiaEB8Z6M2otPc6U) | 1:49 | 2022-04-21 |  |
 | [Pioggia Eterna](https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Pioggia Eterna](https://open.spotify.com/album/03XIBRIbVxPRGYqzaoHwsT) | 2:50 | 2021-12-13 |  |
 | [Potomac](https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq) | [Fiona Astier](https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4) | [Potomac](https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE) | 2:10 | 2021-12-13 |  |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2021-12-13 |  |
@@ -396,6 +399,7 @@
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2021-12-13 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-18 |  |
 | [The Winds](https://open.spotify.com/track/29nz4Q61vwzYqgHrLDqPuz) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [The Winds](https://open.spotify.com/album/55K9a0Lmj1kPAtvnnK1cml) | 2:51 | 2021-12-13 |  |
+| [The Woman Who Sat On A Shelf](https://open.spotify.com/track/7A13EdjItdR8H8stkIwJ77) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Roar: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/56T17eSb3ZEPT39FaxRKkQ) | 3:57 | 2022-04-21 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2021-12-13 |  |
 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 | 2021-12-13 |  |
 | [Time Of Loneliness](https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Time Of Loneliness](https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g) | 2:50 | 2021-12-13 | 2022-03-18 |

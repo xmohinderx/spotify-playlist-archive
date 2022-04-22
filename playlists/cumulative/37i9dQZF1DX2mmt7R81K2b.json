@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "The Chopin Project",
+        "url": "https://open.spotify.com/album/5TcI5s6eZiAaR2f9nBsU1o"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Jean-Paul Brodbeck",
+          "url": "https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326773,
+      "name": "'Raindrop' Pr\u00e9lude in D-flat major (Op. 28, No. 15)",
+      "url": "https://open.spotify.com/track/3KwwWYRDpF5kSwm5sFrjWa"
+    },
+    {
+      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/4AKtbb5wCrL31mptOegyqu"
       },

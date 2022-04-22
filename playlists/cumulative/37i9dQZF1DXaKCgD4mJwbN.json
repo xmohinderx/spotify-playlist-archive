@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV"
+    },
+    {
+      "album": {
         "name": "Mas Alla Del Sol",
         "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
       },
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 133200,
       "name": "Me Siento A Todo Dar",
       "url": "https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ"

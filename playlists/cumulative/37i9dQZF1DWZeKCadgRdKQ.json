@@ -2508,6 +2508,24 @@
     },
     {
       "album": {
+        "name": "Gather My Thoughts",
+        "url": "https://open.spotify.com/album/6Dgak5TmZJbTfz3REBTCJG"
+      },
+      "artists": [
+        {
+          "name": "Josef Briem",
+          "url": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Gather My Thoughts",
+      "url": "https://open.spotify.com/track/11nkLTEsCUzxXLWpyuz65G"
+    },
+    {
+      "album": {
         "name": "Gentle Whisper",
         "url": "https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2"
       },
@@ -4511,6 +4529,24 @@
       "duration_ms": 208400,
       "name": "Near Light",
       "url": "https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG"
+    },
+    {
+      "album": {
+        "name": "Needless to Say",
+        "url": "https://open.spotify.com/album/0vVDu2K6hAuu0VuJwkvSIn"
+      },
+      "artists": [
+        {
+          "name": "Elkoo",
+          "url": "https://open.spotify.com/artist/0IBTVnAY3xjxeJagPZxVCk"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Needless to Say",
+      "url": "https://open.spotify.com/track/3JPbOyccVz2HJDNaXfehiX"
     },
     {
       "album": {

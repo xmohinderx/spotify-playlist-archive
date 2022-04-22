@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 170356,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/6KgZeNR9fab84NbLXa81cY"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 175952,
       "name": "elephant in the room",
       "url": "https://open.spotify.com/track/61jjgVlNSJtLQ06Gy28mtA"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 135750,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/3HkcVrjmfw0TWMC01FjxbO"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 217246,
       "name": "Feels Like Forever",
       "url": "https://open.spotify.com/track/4B6xQy8i7cVzKT8kPIhBY5"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 188428,
       "name": "Gets Me the Most",
       "url": "https://open.spotify.com/track/0Sv6fcUL2mpuXxxq0s10bd"
@@ -1562,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Jr. Walker & The All Stars",
+        "url": "https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179640,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
       },
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 217760,
       "name": "Hurts To Be Hurt",
       "url": "https://open.spotify.com/track/7FW5m5TX7Z0ql49YNgWiqk"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 169353,
       "name": "Love To Go",
       "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 197893,
       "name": "My Blood",
       "url": "https://open.spotify.com/track/0QfK2sctatsomM50LGI8Os"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 219806,
       "name": "Oheja",
       "url": "https://open.spotify.com/track/5ACfk4NnDfQjcJ9fl3baZD"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 202486,
       "name": "Oops (I'm Sorry)",
       "url": "https://open.spotify.com/track/485KVYPmRISdLpKbaSJ81u"
@@ -2691,7 +2709,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 179340,
       "name": "Play Human",
       "url": "https://open.spotify.com/track/4gDoMkkh8Ky770Y05Hc3Ts"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 230226,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/0prNGof3XqfTvNDxHonvdK"
@@ -3011,7 +3029,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 182553,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2CBReP4Ox7OnBzhJsb2VNk"
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 224720,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/5Zb6THrh1D6xUXkrrCYan4"
@@ -3137,7 +3155,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
@@ -3185,7 +3203,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 238666,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/6iMoJ3UdrO2ZjzzcaN8Eom"
@@ -3243,7 +3261,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 167800,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/63HPS15Kvde81RVcgTe8aR"
@@ -3279,7 +3297,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 205320,
       "name": "spark",
       "url": "https://open.spotify.com/track/3S8ltNG88j9u6JHGa0b7um"
@@ -3475,7 +3493,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 227781,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/0kSkoCQscbi53ehDY17PlA"

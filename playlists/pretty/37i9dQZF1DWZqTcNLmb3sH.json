@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 25765,
+  "num_followers": 25943,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDM0ODY5MCwwMDAwMDE2YjAwMDAwMTgwNDA3MjhjNWIwMDAwMDE3ZmFkNDkzNmEz",
+  "snapshot_id": "MTY1MDU0NDU5NywwMDAwMDE2YzAwMDAwMTgwNGMxZmRhYzcwMDAwMDE3ZmFkNDkzNmEz",
   "tracks": [
     {
       "added_at": "2022-04-14 12:13:28",
@@ -169,6 +169,30 @@
       "url": "https://open.spotify.com/track/4OtsWdxJzYyd8OfmRwqRTA"
     },
     {
+      "added_at": "2022-04-21 12:36:37",
+      "album": {
+        "name": "Kanasallu Kaanada (From \"Cutting Shop\")",
+        "url": "https://open.spotify.com/album/5JJFkTePwGBXutF5Xt3uwn"
+      },
+      "artists": [
+        {
+          "name": "K.B. Praveen",
+          "url": "https://open.spotify.com/artist/7JzhPOqfKNLO1rM9ENlCCx"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Kanasallu Kaanada (From \"Cutting Shop\")",
+      "url": "https://open.spotify.com/track/5KhcvcsFZrXe8BISwD36XH"
+    },
+    {
       "added_at": "2022-04-06 10:31:59",
       "album": {
         "name": "Gagana Nee (From \"Kgf Chapter 2\")",
@@ -299,6 +323,30 @@
       "duration_ms": 202500,
       "name": "Neene Beku (From \"Kaalachakra\")",
       "url": "https://open.spotify.com/track/3rY598gRsiZBJgoFFuPDDs"
+    },
+    {
+      "added_at": "2022-04-21 12:36:37",
+      "album": {
+        "name": "Jeevana Onethara Cocktail (From \"Shokiwala - Kannada\")",
+        "url": "https://open.spotify.com/album/72JS98xH7nucrCPI4GqXkB"
+      },
+      "artists": [
+        {
+          "name": "V Sridhar Sambhram",
+          "url": "https://open.spotify.com/artist/4gWwXX46KPq97oov9NfYMC"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Shashank Sheshagiri",
+          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Jeevana Onethara Cocktail (From \"Shokiwala - Kannada\")",
+      "url": "https://open.spotify.com/track/2A2OGaSag0ZRcYnwzRHavE"
     },
     {
       "added_at": "2022-03-14 15:28:24",

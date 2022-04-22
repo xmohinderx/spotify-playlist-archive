@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-103 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+105 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Diamantina](https://open.spotify.com/track/6ujvWZ35tR3lb31DQklXJa) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Diamantina](https://open.spotify.com/album/54GjXkixJVmEd5EeND2W5B) | 2:40 | 2021-12-23 |  |
 | [Distant](https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Distant and Spirals](https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R) | 6:44 | 2021-12-23 |  |
 | [Distant Mind](https://open.spotify.com/track/1wzgKMu74sj8DT1X8GjYLi) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Beyond Imagination](https://open.spotify.com/album/6F55IABDkakEQqcQAXeAq5) | 3:24 | 2021-12-23 |  |
+| [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-04-21 |  |
 | [Dreamtime Initiation](https://open.spotify.com/track/1AqY82ComtEXXIiOmX9inE) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Ambient Realms](https://open.spotify.com/album/2l4EeIsUCfawmUISCxh3WO) | 5:46 | 2021-12-23 |  |
 | [Enlightened Soul](https://open.spotify.com/track/6jUsf401hTcC0wRbzehzb6) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Positivity](https://open.spotify.com/album/716VE9ewUzN8m0TzuypI4W) | 3:43 | 2021-12-23 |  |
 | [Eternity and Beyond](https://open.spotify.com/track/0D8bO0kfpOsdxZ8fLLp38A) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Eternity and Beyond](https://open.spotify.com/album/5eyxjz1D0sA4KPH7wrOa05) | 4:11 | 2021-12-23 |  |
@@ -55,6 +56,7 @@
 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2021-12-23 |  |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2021-12-23 |  |
 | [Last Night](https://open.spotify.com/track/2Vym0Tv6thUuR2a3TP3d1N) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Last Night](https://open.spotify.com/album/4sYHodiEVNoJljEE7mVfFt) | 3:30 | 2021-12-23 |  |
+| [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-04-21 |  |
 | [Liquid Air](https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:33 | 2021-12-23 |  |
 | [Many Worlds](https://open.spotify.com/track/3ZLa3mv9jM0CzuhKMqsOgE) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Many Worlds](https://open.spotify.com/album/21AI4N5IBr34kmDihjEiGh) | 4:58 | 2021-12-23 |  |
 | [Matterhorn Mountain](https://open.spotify.com/track/60jmPhNn2QVUPRfpjZZUB4) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:34 | 2021-12-23 |  |

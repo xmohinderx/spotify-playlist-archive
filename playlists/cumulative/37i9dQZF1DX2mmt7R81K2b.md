@@ -4,10 +4,11 @@
 
 > Where jazz meets classical, and classical meets jazz\. Cover: Chick Corea
 
-58 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
+59 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Raindrop' Prélude in D\-flat major \(Op\. 28, No\. 15\)](https://open.spotify.com/track/3KwwWYRDpF5kSwm5sFrjWa) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Jean\-Paul Brodbeck](https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02) | [The Chopin Project](https://open.spotify.com/album/5TcI5s6eZiAaR2f9nBsU1o) | 5:26 | 2022-04-21 |  |
 | ['Round Midnight](https://open.spotify.com/track/0fZ6bKJwwEdb0zsexcqANR) | [London Concertante](https://open.spotify.com/artist/1j6wk2ZG8qhm7XUhAf8HsF), [Chris Grist](https://open.spotify.com/artist/5hl00HUGil2IMTUmePFN3E) | ['Round Midnight](https://open.spotify.com/album/4AKtbb5wCrL31mptOegyqu) | 6:50 | 2021-12-02 |  |
 | [931](https://open.spotify.com/track/3mxdQvIIltmVakO8btAP6P) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dieter Ilg](https://open.spotify.com/artist/40isU54XsylSrbSXaFI5cl), [Rainer Böhm](https://open.spotify.com/artist/1BR0aqoHeE8tKmeXPCxx9C), [Patrice Heral](https://open.spotify.com/artist/3gSwRrdppBFWGY6NzLDmd1) | [B\-A\-C\-H](https://open.spotify.com/album/00Y9P5wIDLWoIA7rhTUqTP) | 4:28 | 2021-12-02 |  |
 | [After Bach: Pastorale](https://open.spotify.com/track/5vCNv1uY5VXhKbXNHfCncf) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [After Bach](https://open.spotify.com/album/6CY0Fzh5JsMPCjA1E1Rn7P) | 3:46 | 2021-12-02 |  |

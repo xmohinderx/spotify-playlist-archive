@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 301714,
       "name": "Art & Melody",
       "url": "https://open.spotify.com/track/0jIvbSHnTGlXbryMYaxohh"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 450206,
       "name": "Bansuri",
       "url": "https://open.spotify.com/track/7CRMavjrfUFzj4ijaMQMDN"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 326000,
       "name": "Control Machine",
       "url": "https://open.spotify.com/track/71c8wiCCTK63JzK8pLDXGJ"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 450206,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 257500,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/3ZgDqrgYjTGSTqb0AZtcc0"
@@ -690,6 +690,32 @@
     },
     {
       "album": {
+        "name": "Frequency (Aura Vortex Remix)",
+        "url": "https://open.spotify.com/album/0YCowgi0iH0oCjtfFtuWUS"
+      },
+      "artists": [
+        {
+          "name": "Day Din",
+          "url": "https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9"
+        },
+        {
+          "name": "Coming Soon!!!",
+          "url": "https://open.spotify.com/artist/4Iht6hiRR5kov66LO7fcOu"
+        },
+        {
+          "name": "Aura Vortex",
+          "url": "https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435428,
+      "name": "Frequency - Aura Vortex Remix",
+      "url": "https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I"
+    },
+    {
+      "album": {
         "name": "Go And Get It",
         "url": "https://open.spotify.com/album/6WIs16nxUeAOQLmbFaqpeW"
       },
@@ -763,7 +789,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 439190,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR"
@@ -803,7 +829,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -851,7 +877,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 304394,
       "name": "Hero - Infected Mushroom Remix",
       "url": "https://open.spotify.com/track/5e447qV9VjEOQfGM682o3W"
@@ -869,7 +895,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 351549,
       "name": "Hi-Psy",
       "url": "https://open.spotify.com/track/4P37PI8hE5xCrhXOx00OzY"
@@ -887,7 +913,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
@@ -989,7 +1015,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 150400,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/7sxlEIm4inpLw6m63kGk6W"
@@ -1007,7 +1033,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 402253,
       "name": "Joyful Life",
       "url": "https://open.spotify.com/track/0VkvOzCGSlyKsFjewlAJ8T"
@@ -1077,7 +1103,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 254896,
       "name": "look into the mirror",
       "url": "https://open.spotify.com/track/1CN9SDbF4slNTJPVAcWzJa"
@@ -1235,7 +1261,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 373943,
       "name": "Novo Mundo",
       "url": "https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq"
@@ -1319,7 +1345,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 407382,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/6C9HiTTS0fNatgaxoDlS9X"
@@ -1461,7 +1487,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 448000,
       "name": "San Pedro",
       "url": "https://open.spotify.com/track/04x4RHqb7UQMG978AlxkrD"
@@ -1581,7 +1607,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 418285,
       "name": "Summer Never Ends",
       "url": "https://open.spotify.com/track/2TIPueGSHKcRuvsKf7VJmI"
@@ -1599,7 +1625,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 260571,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/5wtUmDnAhBZ79Po5eaQUW3"
@@ -1774,6 +1800,24 @@
     },
     {
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/0pXfYT6I1KDwC3gMqzlktK"
+      },
+      "artists": [
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/0mYB0z3lSNiaMqBpSFoUPd"
+    },
+    {
+      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/6tgzstTEXkKkDkyJpMYeAt"
       },
@@ -1825,7 +1869,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "War of the Gods",
       "url": "https://open.spotify.com/track/2fSuULcE8VMeOHxBsXIy0d"
@@ -1953,6 +1997,24 @@
       "duration_ms": 159642,
       "name": "You Make Me Feel - Radio Version",
       "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
+    },
+    {
+      "album": {
+        "name": "Shroomeez",
+        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390011,
+      "name": "You Wanna Stay",
+      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
     },
     {
       "album": {

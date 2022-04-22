@@ -1,15 +1,35 @@
 {
-  "description": "Felipe Amorim e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
-  "num_followers": 6547666,
+  "description": "Matheus Fernandes, Xand Avi\u00e3o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "num_followers": 6550804,
   "original_name": "Top Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQ3NjIwMywwMDAwMDRlYzAwMDAwMTgwNDgwYzNmMmQwMDAwMDE4MDI1NzNmZTE1",
+  "snapshot_id": "MTY1MDU1MzIwMCwwMDAwMDRlZDAwMDAwMTgwNGNhMzFlMGMwMDAwMDE4MDQ4YTQyODRj",
   "tracks": [
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Balan\u00e7o da Rede",
+        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 166435,
+      "name": "Balan\u00e7o da Rede",
+      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "No Ouvidinho",
         "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
@@ -25,31 +45,59 @@
       "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
-        "name": "Vampiro",
-        "url": "https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy"
+        "name": "Mal Feito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I"
       },
       "artists": [
         {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
         },
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 250434,
-      "name": "Vampiro",
-      "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
+      "duration_ms": 177934,
+      "name": "Mal Feito - Ao Vivo",
+      "url": "https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Termina Comigo Antes",
+        "url": "https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 187381,
+      "name": "Termina Comigo Antes",
+      "url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "sentaDONA (Remix) s2",
         "url": "https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0"
@@ -77,23 +125,7 @@
       "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Fim de Semana no Rio",
-        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Fim de Semana no Rio",
-      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -109,7 +141,63 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Fim de Semana no Rio",
+        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Fim de Semana no Rio",
+      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Vampiro",
+        "url": "https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Vampiro",
+      "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "LUAN CITY AVENIDA AMARILDO SANTANA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 153225,
+      "name": "ABALO EMOCIONAL - Ao Vivo",
+      "url": "https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
@@ -129,63 +217,7 @@
       "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Mal Feito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I"
-      },
-      "artists": [
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 177934,
-      "name": "Mal Feito - Ao Vivo",
-      "url": "https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "LUAN CITY AVENIDA AMARILDO SANTANA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 153225,
-      "name": "ABALO EMOCIONAL - Ao Vivo",
-      "url": "https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Balan\u00e7o da Rede",
-        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 166435,
-      "name": "Balan\u00e7o da Rede",
-      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
         "url": "https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4"
@@ -213,39 +245,59 @@
       "url": "https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
-        "name": "Termina Comigo Antes",
-        "url": "https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq"
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         }
       ],
-      "duration_ms": 187381,
-      "name": "Termina Comigo Antes",
-      "url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP"
+      "duration_ms": 145853,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+        "name": "Vai L\u00e1 Em Casa Hoje",
+        "url": "https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz"
       },
       "artists": [
         {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+      "duration_ms": 191523,
+      "name": "Vai L\u00e1 Em Casa Hoje",
+      "url": "https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Tarja Preta, Ep. 1",
+        "url": "https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 158716,
+      "name": "Melhor Ser uma Saudade",
+      "url": "https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Malvad\u00e3o 3",
         "url": "https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl"
@@ -269,23 +321,115 @@
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
+        "name": "212",
+        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 145853,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
+      "duration_ms": 150610,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "ERRO PLANEJADO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jetp5tmpbqH3gqlGYJvUL"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 154868,
+      "name": "ERRO PLANEJADO - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sjhY8nPIm6cPOQfyUPmJe"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Molhando o Volante",
+        "url": "https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 162538,
+      "name": "Molhando o Volante",
+      "url": "https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Vagabundo Chora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 161845,
+      "name": "Vagabundo Chora - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "A Maior Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 190161,
+      "name": "A Maior Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Oi, Como Ce T\u00e1?",
         "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
@@ -313,7 +457,7 @@
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -329,123 +473,7 @@
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Vai L\u00e1 Em Casa Hoje",
-        "url": "https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 191523,
-      "name": "Vai L\u00e1 Em Casa Hoje",
-      "url": "https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Tarja Preta, Ep. 1",
-        "url": "https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 158716,
-      "name": "Melhor Ser uma Saudade",
-      "url": "https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 150610,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Depende",
-        "url": "https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li"
-      },
-      "artists": [
-        {
-          "name": "Dj Guuga",
-          "url": "https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 156922,
-      "name": "Depende",
-      "url": "https://open.spotify.com/track/1M5OUvKG03C0QtzvxRS4Zk"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Molhando o Volante",
-        "url": "https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 162538,
-      "name": "Molhando o Volante",
-      "url": "https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Simplesmente Ela",
         "url": "https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ"
@@ -461,7 +489,7 @@
       "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
         "url": "https://open.spotify.com/album/34N8rLUMtF7t2uDA4sHtKr"
@@ -513,7 +541,51 @@
       "url": "https://open.spotify.com/track/4can6ssapSsRCEbZZfYL8K"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li"
+      },
+      "artists": [
+        {
+          "name": "Dj Guuga",
+          "url": "https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 156922,
+      "name": "Depende",
+      "url": "https://open.spotify.com/track/1M5OUvKG03C0QtzvxRS4Zk"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Pr\u00f3ximo Passo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 208007,
+      "name": "Meu N\u00famero - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Buteco in Boston, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK"
@@ -529,7 +601,23 @@
       "url": "https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
+      "album": {
+        "name": "Pr\u00f3ximo Passo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "Felicidade Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd"
+    },
+    {
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
@@ -557,7 +645,7 @@
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Parada Louca",
         "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
@@ -577,43 +665,43 @@
       "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
-        "name": "Vagabundo Chora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk"
+        "name": "Arranh\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 161845,
-      "name": "Vagabundo Chora - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ"
+      "duration_ms": 153409,
+      "name": "Arranh\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+        "name": "Ao Vivo Em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6NM4daMHIA3uWxf2YjITpC"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 206277,
-      "name": "Gata (feat. Chencho Corleone)",
-      "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
+      "duration_ms": 173375,
+      "name": "Tes\u00e3o Da Madrugada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
@@ -633,39 +721,27 @@
       "url": "https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
-        "name": "Pr\u00f3ximo Passo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ"
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
       "artists": [
         {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 165558,
-      "name": "Felicidade Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "A Maior Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW"
-      },
-      "artists": [
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 190161,
-      "name": "A Maior Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun"
+      "duration_ms": 206277,
+      "name": "Gata (feat. Chencho Corleone)",
+      "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Toma Toma Vapo Vapo",
         "url": "https://open.spotify.com/album/4rRER0lWzXFbuYFvxQBEen"
@@ -685,7 +761,7 @@
       "url": "https://open.spotify.com/track/5VTjBl3ddZEiG2LrH4VzyR"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Imagina A Sentada (Ao Vivo)",
         "url": "https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq"
@@ -701,7 +777,7 @@
       "url": "https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Black Lan\u00e7a (Catucando Gostosinho)",
         "url": "https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv"
@@ -721,7 +797,7 @@
       "url": "https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Eu J\u00e1 Tava Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/2m81ZDyTcPZ2OvxtsWC0bw"
@@ -737,7 +813,7 @@
       "url": "https://open.spotify.com/track/5emL18Je5WuruMhWr0gj4w"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Acordo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm"
@@ -753,7 +829,7 @@
       "url": "https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Se Melhorar Estraga (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
@@ -769,7 +845,7 @@
       "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
@@ -789,23 +865,7 @@
       "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Arranh\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 153409,
-      "name": "Arranh\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "GALOPA",
         "url": "https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV"
@@ -821,23 +881,7 @@
       "url": "https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "PIRATA",
-        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Amea\u00e7a",
         "url": "https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w"
@@ -861,7 +905,7 @@
       "url": "https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Set dos Casados",
         "url": "https://open.spotify.com/album/4CNrRgC3wHmIRIWABYaiZP"
@@ -917,7 +961,7 @@
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Summer (EP 1) [Ao vivo]",
         "url": "https://open.spotify.com/album/1ZQq76qlDn4sTfz8dZvxUs"
@@ -941,23 +985,7 @@
       "url": "https://open.spotify.com/track/5yRgMxdDhdYlbUQNCOlW3o"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Buteco in Boston, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "N\u00e3o Me Arranha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "C\u00ea T\u00e1 Preparada (Ao Vivo)",
         "url": "https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy"
@@ -977,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1tYJnXtKLoWVIL4lZOouQG"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Socadona (feat. Mr. Vegas)",
         "url": "https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi"
@@ -1005,7 +1033,7 @@
       "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
     },
     {
-      "added_at": "2022-04-20 17:36:43",
+      "added_at": "2022-04-21 15:00:00",
       "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
@@ -1031,26 +1059,6 @@
       "duration_ms": 214235,
       "name": "Me Sinto Aben\u00e7oado",
       "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
-    },
-    {
-      "added_at": "2022-04-20 17:36:43",
-      "album": {
-        "name": "Patroas 35%",
-        "url": "https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 206171,
-      "name": "Todo Mundo Menos Voc\u00ea",
-      "url": "https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b"
     }
   ],
   "unique_name": "Top Brasil",

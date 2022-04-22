@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle
 
-195 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+197 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-31 | 2022-03-10 |
 | [Don't Kick Me](https://open.spotify.com/track/2zJFeCI8KtP0Olwf3W3w8R) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Don't Kick Me](https://open.spotify.com/album/6XrzH0s8ghY4hwIwmsunAx) | 3:27 | 2021-12-07 | 2022-01-08 |
 | [Don’t Go Mad \(feat\. Seinabo Sey\)](https://open.spotify.com/track/3Cl8IGVb7E63EDIXTn5Pk7) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:24 | 2022-04-18 |  |
+| [Don’t Leave Me Alone](https://open.spotify.com/track/0sts2lyM27TXVhRUo5uTEx) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Don't Leave Me Alone](https://open.spotify.com/album/4ehmsm1IQXNEF0Va8RHc5z) | 3:02 | 2022-04-21 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-18 |  |
 | [Dream About You](https://open.spotify.com/track/7ImKTptfTfSsr6YzLSUdPi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Dream About You](https://open.spotify.com/album/49nqo2DQsN0uLSsrDF7D24) | 3:33 | 2021-11-12 | 2022-01-08 |
 | [Dreams \- Bleu Clair Remix](https://open.spotify.com/track/4xtD1wi5TDqcOKf1dowtIp) | [Smokin Beats](https://open.spotify.com/artist/25KE5ZwChQizbTmJzg3Lob), [Lyn Eden](https://open.spotify.com/artist/0pt4O98Bo1vxjqZnjttafk), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Dreams \(Bleu Clair Remix\)](https://open.spotify.com/album/2IRiDJ0P6xZcEpXZUpIvTL) | 3:04 | 2022-01-14 | 2022-02-01 |
@@ -72,6 +73,7 @@
 | [Feel Flows \- Vindata Remix](https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT) | [Feel Flows \(Vindata Remix\)](https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh) | 4:22 | 2022-04-15 |  |
 | [Feel Like That](https://open.spotify.com/track/6OnoVlTab0GXCPqnu19Z9S) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [Feel Like That](https://open.spotify.com/album/2JRR9tOzrH6mczJQDiFfP7) | 2:57 | 2021-11-19 | 2022-01-08 |
 | [Fill Up My Soul](https://open.spotify.com/track/60GQWonONfgADHxYL6zudO) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Fill Up My Soul](https://open.spotify.com/album/1umGjanxEtYyHRmC0QStND) | 3:00 | 2021-12-07 | 2022-01-08 |
+| [find your way \- Elohim Remix](https://open.spotify.com/track/2UYeqwRXXMeYY1qrnBz036) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [find your way \(Elohim Remix\)](https://open.spotify.com/album/4yMauO3cvYQq33kg41pxZI) | 2:54 | 2022-04-21 |  |
 | [Fire](https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Ethereal](https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ) | 3:41 | 2022-02-28 |  |
 | [For Goodness Sake](https://open.spotify.com/track/1ZzAja0kcAqJEXLZzVbPms) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [For Goodness Sake](https://open.spotify.com/album/5Jzk8JkbvxrTu6r5T6kKAu) | 3:07 | 2022-02-28 | 2022-03-31 |
 | [Forever](https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Forever](https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae) | 3:14 | 2022-04-18 |  |

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 274453,
       "name": "(I Wanna Take) Forever Tonight",
       "url": "https://open.spotify.com/track/1uybEGNH2GIvNdzGB7L2Qj"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 312306,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/20EpQjfV7B4ZQJkIdHO1Tw"
@@ -406,6 +406,28 @@
     },
     {
       "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296266,
+      "name": "Every Time I Close My Eyes (with Kenny G)",
+      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
+    },
+    {
+      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -435,7 +457,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 340666,
       "name": "Foolish Games",
       "url": "https://open.spotify.com/track/3pPyv196sOJrbZdNiVNYCA"
@@ -731,7 +753,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 263800,
       "name": "I Wanna Love You Forever",
       "url": "https://open.spotify.com/track/5gZEhPrN1VLqTG1nIAXeNK"
@@ -1023,10 +1045,28 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 353466,
       "name": "Please Forgive Me",
       "url": "https://open.spotify.com/track/7fpBtc7p3hFrEbDVc32ltY"
+    },
+    {
+      "album": {
+        "name": "Jordan Hill",
+        "url": "https://open.spotify.com/album/34GdH6pGKhxP1jQw01R6ot"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hill",
+          "url": "https://open.spotify.com/artist/0OOhKEKPDRy8UrlykRWG2i"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266906,
+      "name": "Remember Me This Way",
+      "url": "https://open.spotify.com/track/2FXORuBJ8gBDTOVjckYXdF"
     },
     {
       "album": {
@@ -1261,7 +1301,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 213666,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS"
@@ -1279,7 +1319,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 345600,
       "name": "You Are Not Alone",
       "url": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
@@ -1297,7 +1337,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 254480,
       "name": "You Were Meant For Me",
       "url": "https://open.spotify.com/track/14sVnTYvfzo9sQM4RkQTaq"

@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "High-teen",
+        "url": "https://open.spotify.com/album/7btdv5NiqdVwA2CJm4vYZk"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187128,
+      "name": "19 (Feat. nobody likes you pat)",
+      "url": "https://open.spotify.com/track/6UQ4rhZ84ONsLoav2OizQO"
+    },
+    {
+      "album": {
         "name": "2 Years",
         "url": "https://open.spotify.com/album/0PP2qffCyioagNGq9w1uhM"
       },
@@ -67,7 +89,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 155794,
       "name": "2oclock",
       "url": "https://open.spotify.com/track/7LZ2OBh8jEE2k2yn5dpcp9"
@@ -201,10 +223,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu"
+    },
+    {
+      "album": {
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
     },
     {
       "album": {
@@ -223,6 +263,24 @@
       "duration_ms": 142200,
       "name": "Anniversary",
       "url": "https://open.spotify.com/track/2m0SbQ7CHTGNIsL3XUHyOh"
+    },
+    {
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
       "album": {
@@ -259,10 +317,50 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 220413,
       "name": "Ashtray",
       "url": "https://open.spotify.com/track/0PU3efcpu4rp0dTbt28sgS"
+    },
+    {
+      "album": {
+        "name": "Autumn Breeze (re;code Episode \u2166)",
+        "url": "https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC"
+    },
+    {
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192585,
+      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
     },
     {
       "album": {
@@ -321,7 +419,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 192640,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/2395WKvJwfuqPBgsyC5k9C"
@@ -365,7 +463,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 147080,
       "name": "Butterfly Effect (Feat. nobody likes you pat, Emily Brophy)",
       "url": "https://open.spotify.com/track/5pYfDCKYjiWHJcIZIiCcDP"
@@ -401,7 +499,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 203409,
       "name": "Bye bye my blue",
       "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
@@ -423,6 +521,24 @@
       "duration_ms": 151211,
       "name": "camellia",
       "url": "https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU"
+    },
+    {
+      "album": {
+        "name": "CIRCLE",
+        "url": "https://open.spotify.com/album/4xZt6955M6FDWQtFWqzMNv"
+      },
+      "artists": [
+        {
+          "name": "Mind Combined",
+          "url": "https://open.spotify.com/artist/2gtnYkPVIYBehTHQPJa8QD"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210086,
+      "name": "Can You Understand",
+      "url": "https://open.spotify.com/track/79TRgOuTN7HkVSPQniV7Sb"
     },
     {
       "album": {
@@ -663,7 +779,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 183000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2jVUq760yHNIYtYoVFLbK1"
@@ -1169,7 +1285,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 211346,
       "name": "Let Me Go (with TAEYEON)",
       "url": "https://open.spotify.com/track/23y3tFEhkTzBT46gRU6tjv"
@@ -1319,7 +1435,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 173333,
       "name": "Love song",
       "url": "https://open.spotify.com/track/1jzrBDpLgKPx3eZDzmixai"
@@ -1417,7 +1533,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 177346,
       "name": "Make the Move",
       "url": "https://open.spotify.com/track/3JxRNkoNmAcPgnA5HSnKiz"
@@ -1792,6 +1908,24 @@
     },
     {
       "album": {
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "album": {
         "name": "how long can we go?",
         "url": "https://open.spotify.com/album/0bdyjxlFmfRR5SEmgK4dsm"
       },
@@ -1847,7 +1981,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 177600,
       "name": "Perfect day (Feat. Ashley Alisha, nobody likes you pat)",
       "url": "https://open.spotify.com/track/4VIvga2PV99JWUPg8bJ0Do"
@@ -2013,7 +2147,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
@@ -2251,10 +2385,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 162365,
       "name": "The Moon (Feat. TAEIL of NCT)",
       "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
+    },
+    {
+      "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199999,
+      "name": "The Museum",
+      "url": "https://open.spotify.com/track/7rJCvHKPS1ASSu8noeUsfN"
     },
     {
       "album": {
@@ -2306,6 +2458,28 @@
     },
     {
       "album": {
+        "name": "Thunders",
+        "url": "https://open.spotify.com/album/46X48Jx8fmhMKMVJHEnn9z"
+      },
+      "artists": [
+        {
+          "name": "nynas",
+          "url": "https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6"
+        },
+        {
+          "name": "The Beach Voice",
+          "url": "https://open.spotify.com/artist/21YPOJui47iYLDL7WyYuWh"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Thunders (feat. The Beach Voice)",
+      "url": "https://open.spotify.com/track/2QnqVvQfyuDtPjejTwKKt4"
+    },
+    {
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3xA110ttA5PDmnDIBoyb7b"
       },
@@ -2346,6 +2520,24 @@
     },
     {
       "album": {
+        "name": "Wake U Up",
+        "url": "https://open.spotify.com/album/2JmE3euARU0CYYRtNva4Ul"
+      },
+      "artists": [
+        {
+          "name": "JOE CHO",
+          "url": "https://open.spotify.com/artist/7cvx4BWUCi18EeMxvwc9aA"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Wake U Up",
+      "url": "https://open.spotify.com/track/5tSaQTCZJdAl90my21JXFO"
+    },
+    {
+      "album": {
         "name": "Walking In The Rain",
         "url": "https://open.spotify.com/album/4PzHDoJiH4w7LZDOFxyD2n"
       },
@@ -2368,6 +2560,24 @@
     },
     {
       "album": {
+        "name": "warm",
+        "url": "https://open.spotify.com/album/6RO3Te1The0GjTqyx8h7uU"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "warm",
+      "url": "https://open.spotify.com/track/21OMYOgV2wHuZTJCMVnNW0"
+    },
+    {
+      "album": {
         "name": "Moodswings in This Order",
         "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
@@ -2379,10 +2589,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 205213,
       "name": "Welcome To The Show",
       "url": "https://open.spotify.com/track/3Gh9maavHOFRoRkzVw0a6Q"
+    },
+    {
+      "album": {
+        "name": "What Do I Call You - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "What Do I Call You",
+      "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"
     },
     {
       "album": {
@@ -2449,7 +2677,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 213913,
       "name": "White Lies (feat. Kvsh)",
       "url": "https://open.spotify.com/track/6Y91iJavfXfioUk4uTtuC0"
@@ -2467,7 +2695,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 196986,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"

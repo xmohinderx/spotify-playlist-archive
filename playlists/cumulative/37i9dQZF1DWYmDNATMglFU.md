@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> \\m/ ft\. NOAHFINNCE
+> \\m/ ft\. KennyHoopla
 
-208 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+210 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-03-08 | 2022-03-09 |
 | [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 | 2022-03-04 |  |
 | [Happier in Hell](https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happier in Hell](https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn) | 2:53 | 2022-04-07 |  |
+| [Happy Ending](https://open.spotify.com/track/0LUTSrKd5JmBPVv9M16CWg) | [Marigolds+Monsters](https://open.spotify.com/artist/0Zzqjs8EyDL2ReYnkch8mZ), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Happy Ending](https://open.spotify.com/album/5btsp25DzGsnA0GI8jmsD3) | 2:48 | 2022-04-21 |  |
 | [Hash Pipe](https://open.spotify.com/track/3GcVQCRSaPNupmf65YKyQI) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/5gtctTykBQ0ozI7KsUCYMe) | 3:05 | 2021-12-31 | 2022-01-08 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-02-11 | 2022-04-01 |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2021-12-31 | 2022-01-08 |
@@ -215,6 +216,7 @@
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2022-03-08 | 2022-03-09 |
 | [WW3](https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [GRANDMA](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [WW3](https://open.spotify.com/album/27Q8KrXPXir8nSlqZfMB7h) | 2:32 | 2022-02-11 |  |
 | [You](https://open.spotify.com/track/66oW04yMlOStt2Pag2ImVV) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [You](https://open.spotify.com/album/3vBTP8eXrLpj4zUzCghnnB) | 2:38 | 2022-03-18 | 2022-04-01 |
+| [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-21 |  |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2CQy2zQj9Cs7mRvPnxtHN4) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [You're So Fucking Pretty](https://open.spotify.com/album/3AP7UCAzrXif4SQQhxNUti) | 3:49 | 2022-01-07 | 2022-03-25 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

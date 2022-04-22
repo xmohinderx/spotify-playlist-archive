@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-644 songs - 1 day 10 hr 15 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+645 songs - 1 day 10 hr 18 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [White Noise](https://open.spotify.com/track/4bRFA518eVXt6aXvf4YLVU) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [Highs and Lows](https://open.spotify.com/album/44b7dcLecGIDWRNzfMUQ3x) | 2:51 | 2020-01-03 | 2021-09-14 |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-05-26\* | 2020-05-18 |
 | [Wild Soul](https://open.spotify.com/track/0PSoQovKUDaVl7TBVGAmt4) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Dream Catcher](https://open.spotify.com/album/3JTj8NXeqCzU8DzEbEgp1S) | 3:29 | 2019-05-26\* | 2020-05-18 |
+| [Winds Of The Night](https://open.spotify.com/track/05IatHk1cfPpJ4ZQBc4O11) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Winds Of The Night](https://open.spotify.com/album/4Xr8mHp6ZIPsH7vuehshNq) | 2:34 | 2022-04-21 |  |
 | [With the Moon Behind](https://open.spotify.com/track/3kMB3ipBBWNUODlAEcV7K7) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [White Clouds](https://open.spotify.com/album/0WO028YYYmCsBtM6Jl8t0P) | 3:33 | 2021-01-29 |  |
 | [Worlds Apart](https://open.spotify.com/track/3Og5QFccQsUOzLbh56XYls) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Worlds Apart](https://open.spotify.com/album/1Vwl7AuOBpF7zVEsiIRHlS) | 2:50 | 2020-08-08 | 2021-09-14 |
 | [Wrapped in Warmth](https://open.spotify.com/track/6vUO4F4h0Fg01FyiWFa8hb) | [Multicolored Dreams](https://open.spotify.com/artist/6sIcU8P0T1TcAjOHEkAt3Q) | [Wrapped in Warmth](https://open.spotify.com/album/6gX6pglJXaKDnCdC6x2Ls6) | 3:32 | 2020-08-08 | 2021-09-14 |

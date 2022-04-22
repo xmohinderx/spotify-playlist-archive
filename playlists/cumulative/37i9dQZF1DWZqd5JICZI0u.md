@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-366 songs - 19 hr 19 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+368 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Glowing Aura](https://open.spotify.com/track/54JHkuhxp9S1DRxPpsmzfc) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Glowing Aura](https://open.spotify.com/album/0hxddVL6RtkujMPjGvegn0) | 2:15 | 2021-08-26 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-10-27 |  |
 | [Going Home](https://open.spotify.com/track/2ogguaH3LQ2H8gsKKVypYU) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [Home](https://open.spotify.com/album/3RGbrLzxBiwOQFhYUERgO6) | 3:36 | 2020-09-30\* | 2021-09-14 |
+| [Goya](https://open.spotify.com/track/6JT4jBA76LMSNAOSHvP7aJ) | [Miha Marjorie](https://open.spotify.com/artist/2Ypqg4WAsRa1nOi2hCZ9Jw) | [Goya](https://open.spotify.com/album/2OVbtmQaW3CNugiltAiZGY) | 2:31 | 2022-04-21 |  |
 | [Grateful](https://open.spotify.com/track/7lCWa3w5ZfuaL1vF1HyJ2J) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Grateful](https://open.spotify.com/album/3OUTNb2D5vBitZSIKK8h0C) | 4:24 | 2022-01-28 |  |
 | [Green Leaves](https://open.spotify.com/track/6BVWlugjV9uuDGA0SvD0R5) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [Rest](https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq) | 3:21 | 2020-09-30\* |  |
 | [Halvmåne](https://open.spotify.com/track/5YXN6JEpHIGcskwqrDzi9g) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Halvmåne](https://open.spotify.com/album/6de7hTffUyFdSa8fNoZEGQ) | 2:37 | 2020-09-30\* | 2021-11-19 |
@@ -343,6 +344,7 @@
 | [Underwater](https://open.spotify.com/track/0u0KxbP1xdr7HKOtq3LkTp) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [The Ocean](https://open.spotify.com/album/2aP1WUG4SeoldDgHxRaAMF) | 3:33 | 2020-09-30\* | 2021-10-21 |
 | [Underwater Manifestations](https://open.spotify.com/track/7oZCirsU9Gx3ipUMWpkQKb) | [Heartbeat Sirens](https://open.spotify.com/artist/2QGCx78xpOiCXoKRvJMEYY) | [Underwater Manifestations](https://open.spotify.com/album/0w2dPe2XbCV3kRSc3devvf) | 3:12 | 2021-09-14 | 2022-01-06 |
 | [Universal Spirals](https://open.spotify.com/track/7kVH0SJTcByMlSCBe4SQyh) | [T C Long](https://open.spotify.com/artist/3KV8Fz5YKoE7EZnGCPtkyR) | [Universal Spirals](https://open.spotify.com/album/2xy5I9FMJPzPcMWQCvXJzT) | 3:55 | 2020-09-30\* | 2021-10-21 |
+| [Uspavan](https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO) | [Sasja Lekko](https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF) | [Uspavan](https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg) | 2:33 | 2022-04-21 |  |
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2021-03-02 |  |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-06-16 |  |
 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 | 2020-12-03 |  |

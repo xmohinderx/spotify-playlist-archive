@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,755 likes - 272 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,826 likes - 272 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,29 +29,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 19 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 |
 | 20 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 |
 | 21 | [Nelle tue braccia](https://open.spotify.com/track/2X92IuhmBnbF8Wg05rKJLY) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Nelle tue braccia](https://open.spotify.com/album/31YkjvN7Hyq9TZYf16tcxL) | 3:24 |
-| 22 | [Eloquence](https://open.spotify.com/track/0ORCs88ABmuctkBdkAWRwF) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Eloquence](https://open.spotify.com/album/7nhKY56BddXIBgih1EJrfy) | 2:21 |
-| 23 | [Four Months](https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Four Months](https://open.spotify.com/album/3xsuA6xUgUzUWoZ88GBoG6) | 2:37 |
-| 24 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 |
-| 25 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
-| 26 | [Drifting](https://open.spotify.com/track/3d7ANjpM6qpxLdp2v1BFkI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Drifting](https://open.spotify.com/album/4y5HjVDtqHT41t9ST85f5c) | 2:59 |
-| 27 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
-| 28 | [Daydream](https://open.spotify.com/track/0RAubp6u1ePTYC6SgXoWcY) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Daydream](https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE) | 2:31 |
-| 29 | [Sugarcane Dreams](https://open.spotify.com/track/3RMUFE3e72UAPzdEN7HoSc) | [Lilly Emeralda](https://open.spotify.com/artist/72XN9POMTdHyg1CdCnb2ox) | [Sugarcane Dreams](https://open.spotify.com/album/3mtJb7zt4qXzYpyO0RVl2C) | 2:37 |
-| 30 | [Lugnet](https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Lugnet](https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ) | 2:39 |
-| 31 | [Tra alti e bassi](https://open.spotify.com/track/31lSDs7abxvJVjHkBCL9Ho) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Tra alti e bassi](https://open.spotify.com/album/56Kz97UlH6JMMT7syktK6F) | 3:03 |
-| 32 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 |
-| 33 | [KSM66](https://open.spotify.com/track/0j4HJOZqgW0hyAQ2nrKLaI) | [Ted Flounders Jr](https://open.spotify.com/artist/1LpZGSGo6JevJrAAc1VnkV) | [Weighted Blanket](https://open.spotify.com/album/3e9a0xxbZwUJO7yXbYG4F6) | 2:17 |
-| 34 | [Flowing Leaves](https://open.spotify.com/track/2dxQ8RJA85bwrG6QFkYaRc) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Flowing Leaves](https://open.spotify.com/album/0Yts01Uu54GMSpIc7YOK68) | 2:59 |
-| 35 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 |
-| 36 | [Mi Manchi Tu](https://open.spotify.com/track/6LQcnAe3uf9lfQ4YhPSHQW) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Mi Manchi Tu](https://open.spotify.com/album/5AC5P5XRqLMLfoxdWeG9Dg) | 3:25 |
-| 37 | [Enlightenment](https://open.spotify.com/track/5Msu8YDbMCzgcubZ70SmAQ) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/0I4xfg7IicQQb9KQF3Y9p4) | 2:51 |
-| 38 | [Looking Back](https://open.spotify.com/track/6zDnGUDRPfzvQNcHAhdJ3T) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Looking Back](https://open.spotify.com/album/5ZmWkoX1e5QYjW4L2K7F32) | 2:50 |
-| 39 | [A Way to Heaven](https://open.spotify.com/track/53P3pDWN0hGSLypCMWCech) | [Maurice Windham](https://open.spotify.com/artist/1BqkyvviBNHzqXWxfCOYtL) | [A Way to Heaven](https://open.spotify.com/album/0zpY104xA55q6yTnvfrZt1) | 1:02 |
-| 40 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 |
-| 41 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 |
-| 42 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 |
-| 43 | [Ganymede](https://open.spotify.com/track/6gW7wl7Dbzvv4Az3RbolkD) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Ganymede](https://open.spotify.com/album/29sGh5uT3kHsrjPF7ASy89) | 2:32 |
-| 44 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 |
+| 22 | [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 |
+| 23 | [Eloquence](https://open.spotify.com/track/0ORCs88ABmuctkBdkAWRwF) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Eloquence](https://open.spotify.com/album/7nhKY56BddXIBgih1EJrfy) | 2:21 |
+| 24 | [Four Months](https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Four Months](https://open.spotify.com/album/3xsuA6xUgUzUWoZ88GBoG6) | 2:37 |
+| 25 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 |
+| 26 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
+| 27 | [Drifting](https://open.spotify.com/track/3d7ANjpM6qpxLdp2v1BFkI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Drifting](https://open.spotify.com/album/4y5HjVDtqHT41t9ST85f5c) | 2:59 |
+| 28 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
+| 29 | [Daydream](https://open.spotify.com/track/0RAubp6u1ePTYC6SgXoWcY) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Daydream](https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE) | 2:31 |
+| 30 | [Sugarcane Dreams](https://open.spotify.com/track/3RMUFE3e72UAPzdEN7HoSc) | [Lilly Emeralda](https://open.spotify.com/artist/72XN9POMTdHyg1CdCnb2ox) | [Sugarcane Dreams](https://open.spotify.com/album/3mtJb7zt4qXzYpyO0RVl2C) | 2:37 |
+| 31 | [Lugnet](https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Lugnet](https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ) | 2:39 |
+| 32 | [Tra alti e bassi](https://open.spotify.com/track/31lSDs7abxvJVjHkBCL9Ho) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Tra alti e bassi](https://open.spotify.com/album/56Kz97UlH6JMMT7syktK6F) | 3:03 |
+| 33 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 |
+| 34 | [KSM66](https://open.spotify.com/track/0j4HJOZqgW0hyAQ2nrKLaI) | [Ted Flounders Jr](https://open.spotify.com/artist/1LpZGSGo6JevJrAAc1VnkV) | [Weighted Blanket](https://open.spotify.com/album/3e9a0xxbZwUJO7yXbYG4F6) | 2:17 |
+| 35 | [Flowing Leaves](https://open.spotify.com/track/2dxQ8RJA85bwrG6QFkYaRc) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Flowing Leaves](https://open.spotify.com/album/0Yts01Uu54GMSpIc7YOK68) | 2:59 |
+| 36 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 |
+| 37 | [Mi Manchi Tu](https://open.spotify.com/track/6LQcnAe3uf9lfQ4YhPSHQW) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Mi Manchi Tu](https://open.spotify.com/album/5AC5P5XRqLMLfoxdWeG9Dg) | 3:25 |
+| 38 | [Enlightenment](https://open.spotify.com/track/5Msu8YDbMCzgcubZ70SmAQ) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/0I4xfg7IicQQb9KQF3Y9p4) | 2:51 |
+| 39 | [Looking Back](https://open.spotify.com/track/6zDnGUDRPfzvQNcHAhdJ3T) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Looking Back](https://open.spotify.com/album/5ZmWkoX1e5QYjW4L2K7F32) | 2:50 |
+| 40 | [A Way to Heaven](https://open.spotify.com/track/53P3pDWN0hGSLypCMWCech) | [Maurice Windham](https://open.spotify.com/artist/1BqkyvviBNHzqXWxfCOYtL) | [A Way to Heaven](https://open.spotify.com/album/0zpY104xA55q6yTnvfrZt1) | 1:02 |
+| 41 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 |
+| 42 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 |
+| 43 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 |
+| 44 | [Ganymede](https://open.spotify.com/track/6gW7wl7Dbzvv4Az3RbolkD) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Ganymede](https://open.spotify.com/album/29sGh5uT3kHsrjPF7ASy89) | 2:32 |
 | 45 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 |
 | 46 | [Circles](https://open.spotify.com/track/7g1G4ZwhXwaet50TftCAd9) | [Hannah Ziem](https://open.spotify.com/artist/1bdRW1L4YCIpq5BHPuIN6o) | [Circles](https://open.spotify.com/album/52SA4H2aQcljM4NOqE5aSr) | 2:45 |
 | 47 | [Alone and Together](https://open.spotify.com/track/1rdFI1lGwGZucoxDRqHW9U) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 2:44 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 271 | [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 |
 | 272 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 |
 
-Snapshot ID: `MTY0Nzg3NDYzMCwwMDAwMDBiODAwMDAwMTdmYWNmYjYyMTMwMDAwMDE2ZDE1NGQ3Mjhm`
+Snapshot ID: `MTY1MDU1NDY3MywwMDAwMDBiOTAwMDAwMTgwNGNiOTlhNjkwMDAwMDE2ZDE1NGQ3Mjhm`

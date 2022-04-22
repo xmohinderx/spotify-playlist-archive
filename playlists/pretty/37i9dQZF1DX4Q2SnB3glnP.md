@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,319 likes - 202 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,361 likes - 202 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 23 | [apoapsis](https://open.spotify.com/track/4HeGTGqUfgIA98HEkIWTp2) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [apoapsis](https://open.spotify.com/album/7Bova6yWsJlQV3Zms6wm1M) | 3:58 |
 | 24 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 |
 | 25 | [Tranquil](https://open.spotify.com/track/5Vnav7uF10Y1lj7Rc8ZSPs) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Still](https://open.spotify.com/album/2swUDwU2w9c0As92jzfREY) | 3:12 |
-| 26 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 |
-| 27 | [Northern Poems](https://open.spotify.com/track/5vd7V52BDSD4atSxgGG8ME) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Northern Poems](https://open.spotify.com/album/4igLaGY7BmQDB3v055Zwyp) | 4:07 |
-| 28 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 |
-| 29 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 |
-| 30 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 |
-| 31 | [Geologic Time Scale](https://open.spotify.com/track/1TCsfrVx9SZkpevWO1U0sg) | [Hyperion Towers](https://open.spotify.com/artist/5baGEdkemC63ShOCaIoALm) | [Rovaniemi](https://open.spotify.com/album/3XsWkarPPP5cgVEDStABsJ) | 3:20 |
-| 32 | [Nuit Paisible](https://open.spotify.com/track/3YdxtdF8xoDObT8184XS8V) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Nuit Paisible](https://open.spotify.com/album/0v6cSM8pbDlOJZoLp9waiR) | 3:36 |
-| 33 | [Descent](https://open.spotify.com/track/6kXLNIC0AHVfal6viWKsjn) | [Cloud Phases](https://open.spotify.com/artist/6vhhMlmBRk4UJ1We37tUP1) | [Descent](https://open.spotify.com/album/2yLL0vZElvlke6jWMVCfFV) | 3:16 |
-| 34 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 |
-| 35 | [Resident](https://open.spotify.com/track/1Y38ppiNHGNSO9r4UrbkL0) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Resident](https://open.spotify.com/album/2CZtvsvYeZHY6djlNQw6dw) | 3:48 |
-| 36 | [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Lightning Free](https://open.spotify.com/artist/5gKstbAvksymwjaGWknRH9) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 |
+| 26 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 |
+| 27 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 |
+| 28 | [Northern Poems](https://open.spotify.com/track/5vd7V52BDSD4atSxgGG8ME) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Northern Poems](https://open.spotify.com/album/4igLaGY7BmQDB3v055Zwyp) | 4:07 |
+| 29 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 |
+| 30 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 |
+| 31 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 |
+| 32 | [Geologic Time Scale](https://open.spotify.com/track/1TCsfrVx9SZkpevWO1U0sg) | [Hyperion Towers](https://open.spotify.com/artist/5baGEdkemC63ShOCaIoALm) | [Rovaniemi](https://open.spotify.com/album/3XsWkarPPP5cgVEDStABsJ) | 3:20 |
+| 33 | [Nuit Paisible](https://open.spotify.com/track/3YdxtdF8xoDObT8184XS8V) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Nuit Paisible](https://open.spotify.com/album/0v6cSM8pbDlOJZoLp9waiR) | 3:36 |
+| 34 | [Descent](https://open.spotify.com/track/6kXLNIC0AHVfal6viWKsjn) | [Cloud Phases](https://open.spotify.com/artist/6vhhMlmBRk4UJ1We37tUP1) | [Descent](https://open.spotify.com/album/2yLL0vZElvlke6jWMVCfFV) | 3:16 |
+| 35 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 |
+| 36 | [Resident](https://open.spotify.com/track/1Y38ppiNHGNSO9r4UrbkL0) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Resident](https://open.spotify.com/album/2CZtvsvYeZHY6djlNQw6dw) | 3:48 |
 | 37 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 |
 | 38 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 |
 | 39 | [Passing Through](https://open.spotify.com/track/3clWNXDjKPbqvGviyo1Asg) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Millons of Trees](https://open.spotify.com/album/4RPxiQwUYBFwoXjLrpkNwl) | 2:33 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 201 | [The Tower of Embellion](https://open.spotify.com/track/1JT0EGMCr3SCUumDC4JIlx) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:56 |
 | 202 | [Next To Me \- And The Stars](https://open.spotify.com/track/1uDuGxGnwMiFYiId1CdlYs) | [Silent Waves](https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU) | [Sky Full Of Stars](https://open.spotify.com/album/12y1n8NzSBGNfBuUpzXCDR) | 4:28 |
 
-Snapshot ID: `MTY0Nzg3NjI2NywwMDAwMDA3ZTAwMDAwMTdmYWQxNDVmMTAwMDAwMDE2Y2Y2ODZiMTNj`
+Snapshot ID: `MTY1MDU1NDYwNCwwMDAwMDA3ZjAwMDAwMTgwNGNiODhiYWYwMDAwMDE2Y2Y2ODZiMTNj`

@@ -11504,6 +11504,24 @@
     },
     {
       "album": {
+        "name": "Winds Of The Night",
+        "url": "https://open.spotify.com/album/4Xr8mHp6ZIPsH7vuehshNq"
+      },
+      "artists": [
+        {
+          "name": "Julian Nema",
+          "url": "https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154137,
+      "name": "Winds Of The Night",
+      "url": "https://open.spotify.com/track/05IatHk1cfPpJ4ZQBc4O11"
+    },
+    {
+      "album": {
         "name": "White Clouds",
         "url": "https://open.spotify.com/album/0WO028YYYmCsBtM6Jl8t0P"
       },

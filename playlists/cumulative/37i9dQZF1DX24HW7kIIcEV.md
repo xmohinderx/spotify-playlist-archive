@@ -4,7 +4,7 @@
 
 > T as in Troy? No Gabriella, T as in Time to relive your greatest childhood memories.
 
-85 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
+87 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,10 +32,12 @@
 | [Don't Forget](https://open.spotify.com/track/4He7bzKBaiu7CRz4wGkZzx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Don't Forget](https://open.spotify.com/album/0X4XyC6gwsBtEO2iJlSJgw) | 3:43 | 2022-03-25 |  |
 | [Everything Is Not As It Seems \- Series Theme Song](https://open.spotify.com/track/5U4wYRHrCRxRP6iQfM824C) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Wizards of Waverly Place](https://open.spotify.com/album/2aXmfPpn8Hq7B5gxOTxxi4) | 0:50 | 2022-03-25 |  |
 | [Fabulous](https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo) | [Sharpay Evans](https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt), [Ryan](https://open.spotify.com/artist/1fe7Tefs9PHQdILRR6gKoa), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:00 | 2022-03-25 |  |
+| [Falling for Ya](https://open.spotify.com/track/5hK2Ks25jW6aMmUAHpAN3F) | [Grace Phipps](https://open.spotify.com/artist/2k8LSCieAnywX4Ku6k3X4m) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:12 | 2022-04-21 |  |
 | [Fly On The Wall](https://open.spotify.com/track/2f6s0AcBRBE0vIOU0NMdXw) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Breakout](https://open.spotify.com/album/0Yu3czJNOQ68fZgkvpjuHL) | 2:31 | 2022-03-25 |  |
 | [Fuego](https://open.spotify.com/track/7MpTAgJdkjCNPUWK3PkYpf) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [TCG](https://open.spotify.com/album/0Lur2jUoYNUYEwCdzW6ACb) | 3:28 | 2022-03-25 |  |
+| [Gonna Get This](https://open.spotify.com/track/1y6Y28gA3mNHSs7RDLrDKs) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 3:16 | 2022-04-21 |  |
 | [Gotta Go My Own Way](https://open.spotify.com/track/5rWIO1uP0GwAoU45RTBJ2F) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:42 | 2022-03-25 |  |
-| [Gotta Go My Own Way \- Original Version](https://open.spotify.com/track/5fl8861IEfVELUoc5NFsyH) | [Troy](https://open.spotify.com/artist/3csbLu0Bw0GtcB8w8mZDkl), [Gabriella](https://open.spotify.com/artist/0o5KCcAS38WAD1uSjuLmwW) | [High School Musical 2](https://open.spotify.com/album/4EqBweuKsDW4wd0CNZYSrG) | 3:42 | 2022-03-25 |  |
+| [Gotta Go My Own Way \- Original Version](https://open.spotify.com/track/5fl8861IEfVELUoc5NFsyH) | [Troy](https://open.spotify.com/artist/3csbLu0Bw0GtcB8w8mZDkl), [Gabriella](https://open.spotify.com/artist/0o5KCcAS38WAD1uSjuLmwW) | [High School Musical 2](https://open.spotify.com/album/4EqBweuKsDW4wd0CNZYSrG) | 3:42 | 2022-03-25 | 2022-04-22 |
 | [He Could Be the One](https://open.spotify.com/track/07HPV6hzecJmMJwsIX8YVU) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:00 | 2022-03-25 |  |
 | [He Said She Said](https://open.spotify.com/track/0jTTjg6q4jsd2RhuHwTvLj) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Headstrong](https://open.spotify.com/album/18Cdeub4WBPKku92zlsfWp) | 3:08 | 2022-03-25 |  |
 | [Here We Go Again](https://open.spotify.com/track/5aCXn0FoBsHBXUZgqEqYo8) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here We Go Again \(European Version\)](https://open.spotify.com/album/5fzvtchv8dF1zEsrDZ0nRj) | 3:46 | 2022-03-25 |  |
@@ -66,7 +68,7 @@
 | [Pop Princess](https://open.spotify.com/track/7DG7PKJu8yzV3mUuFwHBB7) | [The Click Five](https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 4:24 | 2022-03-25 |  |
 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 | 2022-03-25 |  |
 | [Push It to the Limit](https://open.spotify.com/track/1KNu5fqNZvVpWN0vSxB1UN) | [Corbin Bleu](https://open.spotify.com/artist/5GuEFqVXxQsqJtjGqoFWvf) | [Jump In \(Soundtrack\)](https://open.spotify.com/album/1TFWwjt5FYOe8aizIwph0h) | 3:14 | 2022-03-25 |  |
-| [Reach \- Original Version](https://open.spotify.com/track/0kblBacvX0GNlnEs64vEW7) | [Caleigh Peters](https://open.spotify.com/artist/4q90j5LLa8ZamYiqCjTJCf) | [Ice Princess](https://open.spotify.com/album/6NfXy1XXbd5GsU3BVLlB6e) | 3:43 | 2022-03-25 |  |
+| [Reach \- Original Version](https://open.spotify.com/track/0kblBacvX0GNlnEs64vEW7) | [Caleigh Peters](https://open.spotify.com/artist/4q90j5LLa8ZamYiqCjTJCf) | [Ice Princess](https://open.spotify.com/album/6NfXy1XXbd5GsU3BVLlB6e) | 3:43 | 2022-03-25 | 2022-04-22 |
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2022-03-25 |  |
 | [S.O.S.](https://open.spotify.com/track/5hbytEkl5hUB5iRb0cCtZi) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/6V6xjV5e4VYUqvQFBCx1rb) | 2:33 | 2022-03-25 |  |
 | [See You Again](https://open.spotify.com/track/3AjyOYxBv8bByfBtG5o9dP) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Meet Miley Cyrus](https://open.spotify.com/album/0lB2NEOuH7WRqaWotxmIDH) | 3:10 | 2022-03-25 |  |

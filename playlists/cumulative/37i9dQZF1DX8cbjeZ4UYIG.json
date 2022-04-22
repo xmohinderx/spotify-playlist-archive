@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 542939,
       "name": "Acperience 1",
       "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 340986,
       "name": "Breaking Free",
       "url": "https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 385493,
       "name": "Carmargue",
       "url": "https://open.spotify.com/track/0QPIixOXVmZI1KeMhIzHxv"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
@@ -257,6 +257,24 @@
       "duration_ms": 311293,
       "name": "DJs Take Control",
       "url": "https://open.spotify.com/track/29Ek0vWQgsswdXfWrkt1Mz"
+    },
+    {
+      "album": {
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+      },
+      "artists": [
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "Don't You Want Me - Edit",
+      "url": "https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0"
     },
     {
       "album": {
@@ -379,10 +397,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 295720,
       "name": "Far Out",
       "url": "https://open.spotify.com/track/4C4J0hCMtaXvwb5qbg05GE"
+    },
+    {
+      "album": {
+        "name": "Future Sound",
+        "url": "https://open.spotify.com/album/1OjCcRMq2aAG6VAgo8et8N"
+      },
+      "artists": [
+        {
+          "name": "Phuture Assassins",
+          "url": "https://open.spotify.com/artist/5nq9cT7aNEbgXnbHBSmXL7"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305082,
+      "name": "Future Sound",
+      "url": "https://open.spotify.com/track/4XGtrrre6mcmeciRhH2ClM"
     },
     {
       "album": {
@@ -498,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Techno Party",
+        "url": "https://open.spotify.com/album/2DSwIAQeu4bwSSgSplcFCW"
+      },
+      "artists": [
+        {
+          "name": "The House Crew",
+          "url": "https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391106,
+      "name": "Keep The Fire Burning - Original 12-Inch Versions",
+      "url": "https://open.spotify.com/track/0nOqKydHOJHPGm3zd2SAej"
+    },
+    {
+      "album": {
         "name": "The Sound Of Belgium",
         "url": "https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN"
       },
@@ -563,7 +617,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 274893,
       "name": "Mentasm",
       "url": "https://open.spotify.com/track/4PkOr5eGNoTCDXxKHhNyMF"
@@ -718,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Sweet Harmony",
+        "url": "https://open.spotify.com/album/3J4qnl8v2t2WtI3PwTBBzb"
+      },
+      "artists": [
+        {
+          "name": "Liquid",
+          "url": "https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286973,
+      "name": "Phog (Original Mix)",
+      "url": "https://open.spotify.com/track/6TW9QNuBnRiJjJnEqaAtZI"
+    },
+    {
+      "album": {
         "name": "Playing With Knives [Quadrant Mix]",
         "url": "https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM"
       },
@@ -747,7 +819,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 370973,
       "name": "Pulp Fiction",
       "url": "https://open.spotify.com/track/6rdX0la76j3RGwtZ3id80o"
@@ -913,7 +985,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 364000,
       "name": "The Bouncer - Housequake Mix",
       "url": "https://open.spotify.com/track/6OlygUNPF9IhPo7Zhri6sU"
@@ -938,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Suburban Base Records (The History of Hardcore, Jungle, Drum & Bass: 1991-1997)",
+        "url": "https://open.spotify.com/album/3ezKKW3YNljLv3f62Z6mjr"
+      },
+      "artists": [
+        {
+          "name": "Krome and Time",
+          "url": "https://open.spotify.com/artist/34BsYkwksRwsEikxJWx106"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370574,
+      "name": "The Slammer",
+      "url": "https://open.spotify.com/track/60dIWuXNawICpr6PnvXJXQ"
+    },
+    {
+      "album": {
         "name": "The Ha\u00e7ienda - Acid House Classics",
         "url": "https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW"
       },
@@ -949,7 +1039,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 277733,
       "name": "This is Acid",
       "url": "https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl"
@@ -985,10 +1075,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 313373,
       "name": "Track 4",
       "url": "https://open.spotify.com/track/50wNQxYly7jIbZjws56KHl"
+    },
+    {
+      "album": {
+        "name": "Trip To The Moon Pt.3 - Single",
+        "url": "https://open.spotify.com/album/5vflpGOcuE4ATd1YhXEO2o"
+      },
+      "artists": [
+        {
+          "name": "Acen",
+          "url": "https://open.spotify.com/artist/2vTylPga7qiTFjmDFBxofA"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396000,
+      "name": "Trip To The Moon Pt.3",
+      "url": "https://open.spotify.com/track/1PsIlH7004JzBcpxqY9ONx"
     },
     {
       "album": {
@@ -1021,7 +1129,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 232173,
       "name": "Virtual Reality",
       "url": "https://open.spotify.com/track/0CL3dgB2zxfXp4bikncXmk"
@@ -1057,7 +1165,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 298004,
       "name": "We Are I.E. - Original Extended Edit",
       "url": "https://open.spotify.com/track/5updfQssZ3S5hmPSyPhHdV"

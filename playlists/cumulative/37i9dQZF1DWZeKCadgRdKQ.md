@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-439 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+441 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Foveaux Strait](https://open.spotify.com/track/3mvvnHeinX9SuYf3tfkoBF) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP) | [Foveaux Strait](https://open.spotify.com/album/3VJPYPP1PFGyTbzn2kTCBF) | 3:44 | 2019-06-27 | 2021-09-03 |
 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 6:23 | 2019-05-26\* | 2019-06-19 |
 | [Fusion](https://open.spotify.com/track/7GiFqdQP8AdVRl1rCK7Zev) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Fusion](https://open.spotify.com/album/0AkiaKCMeeZJg4Q7AxYv7Y) | 3:47 | 2019-06-19\* | 2020-08-07 |
+| [Gather My Thoughts](https://open.spotify.com/track/11nkLTEsCUzxXLWpyuz65G) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gather My Thoughts](https://open.spotify.com/album/6Dgak5TmZJbTfz3REBTCJG) | 3:03 | 2022-04-21 |  |
 | [Gentle Whisper](https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gentle Whisper](https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2) | 2:58 | 2022-02-18 |  |
 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 | 2019-06-19\* |  |
 | [Gloaming](https://open.spotify.com/track/6oMUXEiKVDyaXdcJ2YVnuj) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Gloaming](https://open.spotify.com/album/6pSLgjMOClX8LgNDnAdK5J) | 2:15 | 2019-06-27 |  |
@@ -257,6 +258,7 @@
 | [Mývatn](https://open.spotify.com/track/4BLroGG5pTJwGui3vurqql) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Hvítserkur](https://open.spotify.com/album/5yEeoWMXD3Z1GNC6ADnhO6) | 2:39 | 2022-03-24 |  |
 | [Narrowed Eyes](https://open.spotify.com/track/6PQ5MG7nZpZRpSi19qb02l) | [Mattia Cupelli](https://open.spotify.com/artist/7aMMDRtoKETQscQlRZ7IFp) | [Narrowed Eyes](https://open.spotify.com/album/1O6kizJdIQbKb0TIqn4lUz) | 2:33 | 2019-06-19\* | 2019-08-13 |
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2019-05-26\* | 2020-08-07 |
+| [Needless to Say](https://open.spotify.com/track/3JPbOyccVz2HJDNaXfehiX) | [Elkoo](https://open.spotify.com/artist/0IBTVnAY3xjxeJagPZxVCk) | [Needless to Say](https://open.spotify.com/album/0vVDu2K6hAuu0VuJwkvSIn) | 2:13 | 2022-04-21 |  |
 | [Never Let Go](https://open.spotify.com/track/4pPQehDJIPMstBLVCzouTs) | [Galvic](https://open.spotify.com/artist/3uJ54ctF087JwTAxL783il) | [Never Let Go](https://open.spotify.com/album/6qUkti8iaY5YyPnrazmB7b) | 2:39 | 2019-07-31 | 2021-09-14 |
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2019-05-26\* | 2019-08-13 |
 | [Noche Tranquila](https://open.spotify.com/track/6X0KLA9Xh59pHIL5GcDd15) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Noche Tranquila](https://open.spotify.com/album/4voco7fHuTX5hmizXE6xWY) | 2:52 | 2020-08-30 | 2021-09-04 |

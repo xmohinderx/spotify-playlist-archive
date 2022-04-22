@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-234 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+239 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Flavors of Oro](https://open.spotify.com/track/4O7Tbtvbf1U25lMhkBa2wd) | [Aphid Friend](https://open.spotify.com/artist/6gQZaq3bhFr819MDPbmEso) | [Floaty Boi](https://open.spotify.com/album/6rxXyvP6xKjQJjBw27m3XB) | 2:48 | 2022-02-04 |  |
 | [Flor de Maga](https://open.spotify.com/track/6YUl5cWPcgEdKl4qtCNlsg) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Flora Vida](https://open.spotify.com/album/5XanZuVir9LIv3lsFAtlAG) | 2:32 | 2021-11-11 |  |
 | [Flower Shop](https://open.spotify.com/track/0OSJchsd1chO0jAjgpfzvk) | [Trigober](https://open.spotify.com/artist/3lTDKq3jjunxMlB1ZIbscR) | [Flower Shop](https://open.spotify.com/album/6cu3w1o5GBBQPs9BOH5DZW) | 3:06 | 2021-11-11 |  |
+| [Frontside Smokeflip](https://open.spotify.com/track/4RHR237B71Bwl8ldOa2Jyi) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Frontside Smokeflip](https://open.spotify.com/album/2BllATRPs1aOaaMsdKg8Ei) | 2:10 | 2022-04-22 |  |
 | [frozen grapes](https://open.spotify.com/track/5vMkAdCEgGVbPqmyFR9fB8) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:35 | 2021-11-11 |  |
 | [Funkophomatic](https://open.spotify.com/track/3llezaxf0tOO3n0S81ZgDI) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Funkophomatic](https://open.spotify.com/album/795wf2HDzo17vytmfBRcuo) | 2:40 | 2021-11-11 |  |
 | [G&T!](https://open.spotify.com/track/6tgghxEXGuAeQWn3NYIsKT) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [G&T!](https://open.spotify.com/album/0E9J985TjgZozA7pUrwcCF) | 2:44 | 2021-11-11 |  |
@@ -108,9 +109,11 @@
 | [Late Hour](https://open.spotify.com/track/5ueBL4PSEp7B7TInLXxhFA) | [kahlooa station](https://open.spotify.com/artist/7IltJzcGeHqTULdYFB0GwT) | [Late Hour](https://open.spotify.com/album/2XmEWdLXAmLF6pY3mht9wi) | 2:18 | 2021-11-11 |  |
 | [Late Night Cruisin'](https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Late Night Cruisin'](https://open.spotify.com/album/1MF15bUjDTGL2ojqnJKldU) | 1:37 | 2021-11-11 |  |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2021-11-11 |  |
+| [laurel](https://open.spotify.com/track/5RsnAdf6p3yu5hhCWrEdY4) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [laurel](https://open.spotify.com/album/2HO8CFuIsqCGYjbbzgX2AP) | 3:55 | 2022-04-22 |  |
 | [Lazily](https://open.spotify.com/track/31O9nHEGRZGcAVDxHL1g56) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Lazily](https://open.spotify.com/album/1F5fZmVZ7Id86HWpjZJNj1) | 2:18 | 2021-11-11 |  |
 | [Lazy Sundays At The Blue Coral](https://open.spotify.com/track/6QhBDlJF7pSy8gicZv0YJA) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [A Lazy Sunday At The Blue Coral](https://open.spotify.com/album/2ZneOkqwLnRGGeANe0YtgQ) | 2:22 | 2021-11-11 |  |
 | [Lemon Ginger](https://open.spotify.com/track/5YWNeJW5s40JgHGFiNhFh2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lemon Ginger](https://open.spotify.com/album/6TtmdWWZP4o3gJgUb2Q83f) | 2:33 | 2021-11-11 |  |
+| [Lights](https://open.spotify.com/track/2Mhuiai4G6F55u2ABlgTfx) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Journey](https://open.spotify.com/album/45d85cjZ1WpzNanWJXE23f) | 2:09 | 2022-04-22 |  |
 | [Lint](https://open.spotify.com/track/7JtmJQRQOIrI3yfNyoqfw1) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Lint](https://open.spotify.com/album/2uPymhchLS7jEbOJgqJdrF) | 2:42 | 2021-11-11 |  |
 | [Little Bee](https://open.spotify.com/track/3FInpBbpMTFvx5P4zxJY8B) | [Aborre](https://open.spotify.com/artist/12nFi1kyqz3Tb3KByPPjpv) | [nilson](https://open.spotify.com/album/5rnlaVpE86lSfW0BFRdb60) | 1:46 | 2022-04-08 |  |
 | [Llama Drama](https://open.spotify.com/track/3BIigRWvCUldxIeQkzSEMa) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:07 | 2021-11-11 |  |
@@ -192,6 +195,7 @@
 | [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2021-11-11 |  |
 | [sunday am](https://open.spotify.com/track/1gr9Risxpt6BfHdu5VxtAx) | [SLKBTS](https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR) | [sunday am](https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8) | 1:58 | 2021-11-11 |  |
 | [Sundown Avenue](https://open.spotify.com/track/0eb3ipy85WFgCcV0JZFL7y) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Train of Liberation](https://open.spotify.com/album/48FgL60ydhm7ScPE1Zkao9) | 2:55 | 2021-11-11 |  |
+| [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-04-22 |  |
 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 | 2021-11-11 |  |
 | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/track/4F5mLxbhGHhwQpYeJCZKAf) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/album/0Upp6SD0SMlItdoMasbOuD) | 3:38 | 2021-11-11 |  |
 | [Surf Boogie](https://open.spotify.com/track/04aD25LiPRSZfT2lz1mGw8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Summer Loves You](https://open.spotify.com/album/63qpWQd44kLnmFhMZ1mkRm) | 2:10 | 2021-11-11 |  |
@@ -199,6 +203,7 @@
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2021-11-11 |  |
 | [Talk About It](https://open.spotify.com/track/4y3r110Eb6leMBaoz83S4s) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [Talk About It](https://open.spotify.com/album/3Fcz7rRbQEKo8X3r4MMuvO) | 2:22 | 2021-11-11 |  |
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2021-11-11 |  |
+| [That Strange Reminder](https://open.spotify.com/track/6a5zV8gf5eSgLaajCTP4cN) | [Emilioats](https://open.spotify.com/artist/0eQrkyv90qExbZcrazhnH4) | [That Strange Reminder](https://open.spotify.com/album/2N3NpgI7nvY4mq92opKPoj) | 2:32 | 2022-04-22 |  |
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2021-11-11 |  |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2021-11-11 |  |
 | [The Package Deal](https://open.spotify.com/track/4pNLT2LaDsj5jnW4DuPHlf) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Humidity](https://open.spotify.com/album/1VYKpdugWpXoVVMoGRMW83) | 2:42 | 2021-11-11 |  |

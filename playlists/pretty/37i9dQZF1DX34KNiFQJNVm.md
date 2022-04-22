@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Hugo & Guilherme com Jorge & Mateus, Anitta, Luan Santana com Henrique & Juliano e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744,889 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,745,245 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 65 | [Pele Com Pele](https://open.spotify.com/track/2CdDMXjvRZpAHYnOa10J2f) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa) | [Pele Com Pele](https://open.spotify.com/album/4gCKXX3UmSHrzSrcDBKNZJ) | 2:29 |
 | 66 | [Flyin \(like a fast train\)](https://open.spotify.com/track/5ItAruXMNgaAmxP2MmRHI7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 4:46 |
 | 67 | [O Santo](https://open.spotify.com/track/1zxm61HerdbLuLS0vYC1rB) | [Tuia](https://open.spotify.com/artist/615dqZYNvr6ZImSbS7e1wk), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Semente Que o Amor Dará](https://open.spotify.com/album/36zbE3XAgAy3nocVJ2CUJb) | 4:17 |
-| 68 | [Me Deixa Sambar](https://open.spotify.com/track/54ufMcXs6fyw07yhu8BOsL) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw) | [Me Deixa Sambar](https://open.spotify.com/album/10x3AhUtT8cYxjyD3456Dn) | 2:31 |
+| 68 | [Me Deixa Sambar](https://open.spotify.com/track/54ufMcXs6fyw07yhu8BOsL) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Me Deixa Sambar](https://open.spotify.com/album/10x3AhUtT8cYxjyD3456Dn) | 2:31 |
 | 69 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 |
 | 70 | [Como Eu Vejo Você](https://open.spotify.com/track/00Rs8EJ9Ew6BFHDBFWheW1) | [Isa Guerra](https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC), [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Como Eu Vejo Você](https://open.spotify.com/album/23NGVlZU0IqzXb79CJE1p4) | 2:53 |
 | 71 | [Demarcação](https://open.spotify.com/track/4q4sym3uzlzcXEYteLCYx9) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Brô MC's](https://open.spotify.com/artist/5nwwplsLg8wQ93qamvX4Pq) | [Demarcação](https://open.spotify.com/album/00CMNY6DtRvl6mHD3OydcG) | 4:17 |

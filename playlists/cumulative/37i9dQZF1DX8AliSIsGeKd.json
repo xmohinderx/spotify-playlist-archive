@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best new electronic music from Electronica to Techno. Cover: Philipp Wolf",
+  "description": "The best new electronic music from Electronica to Techno. Cover: Carbon",
   "name": "Electronic Rising",
   "published_playlist_ids": [
     "1PJKlmQboCNGXvNYEgYkxk"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 445449,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/7uqextLPPYXw6RtlV8fHeE"
@@ -59,10 +59,36 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 370278,
       "name": "Acid Sgnal",
       "url": "https://open.spotify.com/track/3fsd0qqt7VaieHf6xSHe9t"
+    },
+    {
+      "album": {
+        "name": "Affection (Solomun Remix)",
+        "url": "https://open.spotify.com/album/4HbRxDTWxS2qLTQNFSmc5O"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "ABRA",
+          "url": "https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312338,
+      "name": "Affection - Solomun Remix",
+      "url": "https://open.spotify.com/track/7BjtNwZyZjMhEnDkyDbYUY"
     },
     {
       "album": {
@@ -81,7 +107,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 340960,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4h5lIgv0ieD33nIC48OJU1"
@@ -143,7 +169,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 430819,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/22NxNUatnoZa9Xoxl4l19p"
@@ -165,6 +191,64 @@
       "duration_ms": 278000,
       "name": "Am Kanal",
       "url": "https://open.spotify.com/track/2aMCCgr3oZWHnKbNBOPas0"
+    },
+    {
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/6upiYrO59qPQGyHgHqMkdZ"
+      },
+      "artists": [
+        {
+          "name": "Den Maar",
+          "url": "https://open.spotify.com/artist/1AXeLwBPyiLoOXRLCHa4ic"
+        },
+        {
+          "name": "Off Night",
+          "url": "https://open.spotify.com/artist/5qDJioeKV9r17pP8MybZoe"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447384,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/3N0Bk8zkKxuGHQslbFMmEk"
+    },
+    {
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/1XAmPzzpxTCnowBOyiNf5X"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324858,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2ZqYiWW6yqG1vjjOyR6LE6"
+    },
+    {
+      "album": {
+        "name": "B.o.y",
+        "url": "https://open.spotify.com/album/6wtqudX80xIX6fJEa1GnzR"
+      },
+      "artists": [
+        {
+          "name": "NNHMN",
+          "url": "https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326077,
+      "name": "B.o.y",
+      "url": "https://open.spotify.com/track/01qeyXGFwHabAXHkzVGQs2"
     },
     {
       "album": {
@@ -219,10 +303,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 214382,
       "name": "Bone Mics",
       "url": "https://open.spotify.com/track/5hi29SeDshZlOu96sWB76q"
+    },
+    {
+      "album": {
+        "name": "Bouzouki",
+        "url": "https://open.spotify.com/album/3JxpdWTn1j7CSYeXv66VX2"
+      },
+      "artists": [
+        {
+          "name": "Hanne & Lore",
+          "url": "https://open.spotify.com/artist/70MKGwjypyzdbuY4t9BqPD"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363934,
+      "name": "Bouzouki",
+      "url": "https://open.spotify.com/track/4S5Qk3Q2u3H6f47bWexu7D"
     },
     {
       "album": {
@@ -244,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Changing Lanes",
+        "url": "https://open.spotify.com/album/7tQ7dbGEJxV5dLcZY5JpIT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378658,
+      "name": "Changing Lanes - Edit",
+      "url": "https://open.spotify.com/track/5i2lSzyNHNCeqpqtg6oiIQ"
+    },
+    {
+      "album": {
         "name": "Choir Song",
         "url": "https://open.spotify.com/album/2awZQRNIJc7kKdvxwCatmw"
       },
@@ -255,7 +375,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 384199,
       "name": "Choir Song",
       "url": "https://open.spotify.com/track/6dIHOrCZ8Lprk0lNSX2wsg"
@@ -277,7 +397,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 411954,
       "name": "Clamato",
       "url": "https://open.spotify.com/track/1jNPV5NpnuC2dtgI7lzQX4"
@@ -299,10 +419,32 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 270769,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/6xjNHQIUKsFufyfeBz48GK"
+    },
+    {
+      "album": {
+        "name": "Didschn (Monkey Safari Remix)",
+        "url": "https://open.spotify.com/album/1dJccnUZwwf6ftdtqObRIS"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493605,
+      "name": "Didschn - Monkey Safari Remix",
+      "url": "https://open.spotify.com/track/0p9Yv1BVn7RLjXpD7ybyNG"
     },
     {
       "album": {
@@ -324,6 +466,46 @@
     },
     {
       "album": {
+        "name": "Don't Loose Control",
+        "url": "https://open.spotify.com/album/0ixjnm169P206ttxMsZgAQ"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boys",
+          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267906,
+      "name": "Don't Loose Control",
+      "url": "https://open.spotify.com/track/0Nf1XaD56CzEymLL4MSkHa"
+    },
+    {
+      "album": {
+        "name": "Drago (Anja Schneider Remix)",
+        "url": "https://open.spotify.com/album/5ILrQRKvoVwGvuLxLVWIE0"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382903,
+      "name": "Drago - Anja Schneider Remix",
+      "url": "https://open.spotify.com/track/1Y0pKRDpyETJzoNEcl2i0v"
+    },
+    {
+      "album": {
         "name": "Sound Of Mind Remixes",
         "url": "https://open.spotify.com/album/0UtD0Kcy0L5HWHBXwmJmL0"
       },
@@ -339,7 +521,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 290034,
       "name": "Droid Solo - Extrawelt Remix",
       "url": "https://open.spotify.com/track/5O4A7KYSKAPB4LLcwhhH2y"
@@ -355,12 +537,12 @@
           "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         },
         {
-          "name": "Sophia Kennedy",
-          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
-        },
-        {
           "name": "&ME",
           "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
         }
       ],
       "date_added": "2022-04-14",
@@ -390,6 +572,60 @@
     },
     {
       "album": {
+        "name": "Fire Hell and Holy Water",
+        "url": "https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208444,
+      "name": "Fire Hell and Holy Water",
+      "url": "https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk"
+    },
+    {
+      "album": {
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/3e6l2JxKXx4a2X3ncb8clz"
+      },
+      "artists": [
+        {
+          "name": "Johannes Klingebiel",
+          "url": "https://open.spotify.com/artist/08k6Cr6tJL0XpXALvDKHz3"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/0ujDyMKa4yquONPNdPfZgU"
+    },
+    {
+      "album": {
+        "name": "Free Your Head",
+        "url": "https://open.spotify.com/album/4BafggqRyOxu7DFw2izzt8"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413372,
+      "name": "Free Your Head",
+      "url": "https://open.spotify.com/track/2RkfSExu38UToiG5RYnd9B"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9"
       },
@@ -405,6 +641,28 @@
       "duration_ms": 240000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
+    },
+    {
+      "album": {
+        "name": "Get Down To Work",
+        "url": "https://open.spotify.com/album/0FgvJnn2qlTjxud4DMu4mO"
+      },
+      "artists": [
+        {
+          "name": "Javi Bora",
+          "url": "https://open.spotify.com/artist/55KbYy2WOB2To9rnNkSGZ2"
+        },
+        {
+          "name": "Richard Ulh",
+          "url": "https://open.spotify.com/artist/13YK5jhfOHLpzZbsxY1Aa2"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Get Down To Work",
+      "url": "https://open.spotify.com/track/2YHB3ybypVQQrbaVsKV2jO"
     },
     {
       "album": {
@@ -503,7 +761,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 329996,
       "name": "I Go - DJ Koze Remix",
       "url": "https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT"
@@ -525,7 +783,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 423933,
       "name": "In Harm's Way - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3ahIce2jInkJlLzFvZmYVG"
@@ -561,10 +819,32 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 396781,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/7aseE2DrxujDONymJBgsM4"
+    },
+    {
+      "album": {
+        "name": "Intuici\u00f3n (feat. Sil Romero)",
+        "url": "https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Sil Romero",
+          "url": "https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252790,
+      "name": "Intuici\u00f3n (feat. Sil Romero)",
+      "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
     },
     {
       "album": {
@@ -583,7 +863,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 374634,
       "name": "Jama",
       "url": "https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2"
@@ -623,7 +903,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 348602,
       "name": "Kid Anthem",
       "url": "https://open.spotify.com/track/4QjfN2pf9Eo1wFXLvd0vir"
@@ -689,10 +969,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 427500,
       "name": "Lost Soul",
       "url": "https://open.spotify.com/track/4zwCdIhg6S7cGwjiteIV4K"
+    },
+    {
+      "album": {
+        "name": "In the Middle (Extended)",
+        "url": "https://open.spotify.com/album/22bjnH6d8ku8lipQ43ti75"
+      },
+      "artists": [
+        {
+          "name": "Bawrut",
+          "url": "https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498893,
+      "name": "Mas Profundo",
+      "url": "https://open.spotify.com/track/2o09QAjkmeZolqCLDN9WBO"
     },
     {
       "album": {
@@ -715,7 +1013,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 224240,
       "name": "Mas Y Mas",
       "url": "https://open.spotify.com/track/0QPvegBnoWAmHru2fPmFZX"
@@ -777,7 +1075,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 276689,
       "name": "MORE LOVE",
       "url": "https://open.spotify.com/track/3KJGNYQuE80AZ63x1QWlE7"
@@ -810,6 +1108,42 @@
     },
     {
       "album": {
+        "name": "Nevataz",
+        "url": "https://open.spotify.com/album/4HJ3isH0ELpiU7b6WcjeJa"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434392,
+      "name": "Nevataz",
+      "url": "https://open.spotify.com/track/4Yofh7ZYnSiksTSicrwEid"
+    },
+    {
+      "album": {
+        "name": "Noja",
+        "url": "https://open.spotify.com/album/20QqDAGnURgT7t8ZVbWYmx"
+      },
+      "artists": [
+        {
+          "name": "Rey&Kjavik",
+          "url": "https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371705,
+      "name": "Noja",
+      "url": "https://open.spotify.com/track/7yRGxtFHvLoY4zux9m1wKg"
+    },
+    {
+      "album": {
         "name": "Storia Infinita - Chapter One",
         "url": "https://open.spotify.com/album/5bDAC71wvcAwzgW48A3izC"
       },
@@ -821,7 +1155,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 359093,
       "name": "Notte Infinita",
       "url": "https://open.spotify.com/track/4FWTzk2pkhU76QFytISkmf"
@@ -861,7 +1195,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 348077,
       "name": "Okay - Ante Perry Remix",
       "url": "https://open.spotify.com/track/6H6Ee17nZ1PSyOqBmC5DEo"
@@ -883,7 +1217,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 285730,
       "name": "Oliver's Silly Jam",
       "url": "https://open.spotify.com/track/7fOZaRpgNPnSVwfKonFarr"
@@ -974,6 +1308,28 @@
     },
     {
       "album": {
+        "name": "Rejection (Martin Waslewski Remix)",
+        "url": "https://open.spotify.com/album/0UpE1oBCZDFIJ4AsAysr4s"
+      },
+      "artists": [
+        {
+          "name": "MARIA Die RUHE",
+          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
+        },
+        {
+          "name": "Martin Waslewski",
+          "url": "https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345273,
+      "name": "Rejection - Martin Waslewski Remix",
+      "url": "https://open.spotify.com/track/5zF2LhMNz7TpEk2CPZXNsl"
+    },
+    {
+      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/0CuxBmp55XXHt3aBW3ev8M"
       },
@@ -985,7 +1341,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 242229,
       "name": "Return",
       "url": "https://open.spotify.com/track/1BjyxxTVlVnVGAwAIiBqXZ"
@@ -1003,10 +1359,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 420923,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1"
+    },
+    {
+      "album": {
+        "name": "Sabotage EP",
+        "url": "https://open.spotify.com/album/48Zh6P4xu8LPMTdcqvbB9o"
+      },
+      "artists": [
+        {
+          "name": "Uncertain",
+          "url": "https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323321,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/6Jq60qpC6EeD0tUeRbPM2m"
     },
     {
       "album": {
@@ -1068,6 +1442,32 @@
     },
     {
       "album": {
+        "name": "Slow Wave (The Blaze Remix)",
+        "url": "https://open.spotify.com/album/15pQiWNh4DUvZ0NzRLolxu"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        },
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330393,
+      "name": "Slow Wave - The Blaze Remix",
+      "url": "https://open.spotify.com/track/5QSApYuBclglDXd5QVx5cA"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
       },
@@ -1097,7 +1497,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 379004,
       "name": "Sora",
       "url": "https://open.spotify.com/track/36RtAq9ZTTmlOfJnn5dN9j"
@@ -1126,6 +1526,32 @@
     },
     {
       "album": {
+        "name": "Soul Guardian",
+        "url": "https://open.spotify.com/album/6TMqFXwQXmgk4uxEioAVbd"
+      },
+      "artists": [
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        },
+        {
+          "name": "Armen Miran",
+          "url": "https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378688,
+      "name": "Soul Guardian",
+      "url": "https://open.spotify.com/track/5GEVyJwVIYd8gjPkQ6HO8f"
+    },
+    {
+      "album": {
         "name": "Speed Trials On Acid (feat. Dan Diamond)",
         "url": "https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR"
       },
@@ -1145,7 +1571,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 203371,
       "name": "Speed Trials On Acid (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk"
@@ -1218,6 +1644,42 @@
     },
     {
       "album": {
+        "name": "Super Stroke",
+        "url": "https://open.spotify.com/album/3OfVB7RLHXguZftMIszpt8"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381278,
+      "name": "Super Stroke",
+      "url": "https://open.spotify.com/track/7mWNjVmAZt7UWZbFJEFFgc"
+    },
+    {
+      "album": {
+        "name": "The Brain / The Rhythm",
+        "url": "https://open.spotify.com/album/5k9sPeS9pQ3QWFNvsx6t5l"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286933,
+      "name": "The Brain",
+      "url": "https://open.spotify.com/track/4I74YwKvYBy2xMBrxWfDXZ"
+    },
+    {
+      "album": {
         "name": "I YOU SHE (Remixes)",
         "url": "https://open.spotify.com/album/4Q5GWCi3s7c9ei0au3ewMA"
       },
@@ -1247,10 +1709,50 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 423188,
       "name": "The Hand Of God",
       "url": "https://open.spotify.com/track/7HWtOaejxHJhaArdpzN36o"
+    },
+    {
+      "album": {
+        "name": "The Last Dance",
+        "url": "https://open.spotify.com/album/4kwKCHAtqxN9rcEXarfBzo"
+      },
+      "artists": [
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395000,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/7gpBSW6yukzBkdrpjeAB5E"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Serenity",
+        "url": "https://open.spotify.com/album/2tEDPZhVLjiTngOBarMDRQ"
+      },
+      "artists": [
+        {
+          "name": "Nhii",
+          "url": "https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X"
+        },
+        {
+          "name": "Shrii",
+          "url": "https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394104,
+      "name": "The Light Inside",
+      "url": "https://open.spotify.com/track/3m7B6VD9igAgNSeCtBmsFE"
     },
     {
       "album": {
@@ -1269,10 +1771,36 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 459137,
       "name": "This Is The Time - Adana Twins Remix",
       "url": "https://open.spotify.com/track/0emZl55VGZ3321C6AdfUxK"
+    },
+    {
+      "album": {
+        "name": "To Be Written",
+        "url": "https://open.spotify.com/album/7hHemDS9ZPcgTdfkr35Yxt"
+      },
+      "artists": [
+        {
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Sasha Carassi",
+          "url": "https://open.spotify.com/artist/6UFFThDuFiQixrwog0FecB"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440655,
+      "name": "To Be Written - Sasha Carassi Remix",
+      "url": "https://open.spotify.com/track/5IrmAVJqbwIT0K4R47cH1S"
     },
     {
       "album": {
@@ -1309,7 +1837,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
@@ -1327,10 +1855,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 432976,
       "name": "Tommu",
       "url": "https://open.spotify.com/track/5vcdi0SudVDj9mDM1G86ip"
+    },
+    {
+      "album": {
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/0KJm887EizqQ4eeG6rSVgz"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425742,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/3dFtiuqgY0sYuP5ZEj7KqP"
     },
     {
       "album": {
@@ -1385,7 +1931,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 421906,
       "name": "U",
       "url": "https://open.spotify.com/track/6I8BMYuORUElQftZVaiNEC"
@@ -1425,6 +1971,24 @@
       "duration_ms": 412970,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/77PfbIcVaRwTea1MBiN1BS"
+    },
+    {
+      "album": {
+        "name": "Lost in Berlin",
+        "url": "https://open.spotify.com/album/6qYoN5DH2P3KCKi98ixAm6"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Upwards into Freedom",
+      "url": "https://open.spotify.com/track/1Dcu2S6Tl8sFReSepXha81"
     },
     {
       "album": {
@@ -1487,7 +2051,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 400470,
       "name": "Voices of Salvation",
       "url": "https://open.spotify.com/track/4GY2MQG6X5ueZWB9IVqWXB"
@@ -1509,6 +2073,24 @@
       "duration_ms": 437953,
       "name": "Wormhole",
       "url": "https://open.spotify.com/track/1ZE6ebWHUSp2v6JAPpp8eS"
+    },
+    {
+      "album": {
+        "name": "You're Toxic",
+        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371555,
+      "name": "You're Toxic",
+      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
     },
     {
       "album": {

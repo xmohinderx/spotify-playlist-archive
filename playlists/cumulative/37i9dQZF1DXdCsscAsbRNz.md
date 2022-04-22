@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-291 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+292 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-07-04 |  |
 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 | 2021-12-22 |  |
 | [Boötes](https://open.spotify.com/track/1nIVZg8EmaIZD5FuJ5nOuw) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Boötes](https://open.spotify.com/album/6lllSwLLJB19hH6jYb3e8i) | 3:12 | 2020-10-20\* |  |
+| [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-21 |  |
 | [Breathhold](https://open.spotify.com/track/3NM51TRi6mY2S60vbMq1X6) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Breathhold](https://open.spotify.com/album/3somiBkLvnnEkPPzjSIlE2) | 3:08 | 2020-10-20\* |  |
 | [Broken and Beautiful](https://open.spotify.com/track/4JBJiBA9gjVrWhHHf8lhgE) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [A Gentle Invitation](https://open.spotify.com/album/3u9VcEAHRGzXiejoaybCOw) | 3:29 | 2020-10-20\* |  |
 | [Buoyant](https://open.spotify.com/track/6Wq0t1A5sxrYNxKtfXuXHB) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Lucid Air](https://open.spotify.com/album/2sAUWgPdApJIaescPesSPq) | 1:30 | 2021-01-30 |  |
@@ -52,7 +53,7 @@
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-06-16 |  |
 | [Come Sunday](https://open.spotify.com/track/2nWmbl1imOUXgBDK7vJFzR) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Come Sunday](https://open.spotify.com/album/0NyDkJAiDVbSRRCNi7aPFq) | 3:01 | 2020-10-20\* |  |
 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 | 2020-10-20\* |  |
-| [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2020-10-20\* |  |
+| [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2020-10-20\* | 2022-04-22 |
 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 | 2022-03-08 |  |
 | [Cosa Succede Se](https://open.spotify.com/track/00Z7iLsR10x9y00gAZ2Nx3) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Pensieri](https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP) | 3:03 | 2020-10-20\* |  |
 | [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2020-10-20\* |  |

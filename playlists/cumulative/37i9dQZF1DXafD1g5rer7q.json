@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1999 (I Wanna Go Back)",
+        "url": "https://open.spotify.com/album/6O8JEMmARS2zvMTkzl2v8K"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "1999 (I Wanna Go Back)",
+      "url": "https://open.spotify.com/track/4LXXrqp6zXLI7JyZpdY1wF"
+    },
+    {
+      "album": {
         "name": "Air Balloon",
         "url": "https://open.spotify.com/album/0FgZvChXeLV0dPLoAPXGvZ"
       },
@@ -41,7 +59,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 139523,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 161280,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/37DVyKUzBMXu6HvMoGoYDk"
@@ -571,6 +589,24 @@
       "duration_ms": 151680,
       "name": "Faded",
       "url": "https://open.spotify.com/track/6ioF5JQREw0LPPTW9czakA"
+    },
+    {
+      "album": {
+        "name": "Faded Love",
+        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148345,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
     },
     {
       "album": {
@@ -1073,7 +1109,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 199764,
       "name": "In & Out",
       "url": "https://open.spotify.com/track/7HCXtYPQka5aa8DflAUZI2"
@@ -1205,7 +1241,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 180233,
       "name": "Makes Me Feel This Way",
       "url": "https://open.spotify.com/track/0d3aYLE4tPWtCDdM3ibmRY"
@@ -1267,7 +1303,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -1289,6 +1325,28 @@
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+    },
+    {
+      "album": {
+        "name": "Nineteen (with Jennifer Cooke)",
+        "url": "https://open.spotify.com/album/7a4ybp2EkfJB0suWthNri9"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Jennifer Cooke",
+          "url": "https://open.spotify.com/artist/5qKx3JeAQMuihJbouWKolh"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Nineteen (with Jennifer Cooke)",
+      "url": "https://open.spotify.com/track/44nd9y8mjntpDB7fndhSex"
     },
     {
       "album": {
@@ -1315,7 +1373,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 158000,
       "name": "Not So Bad (feat. Emie) - Robert Falcon Remix",
       "url": "https://open.spotify.com/track/3UHN9ypRxt4SJ3HQHQFoz5"
@@ -1363,7 +1421,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 167822,
       "name": "Poppin Bottles",
       "url": "https://open.spotify.com/track/2FIa0Zmilui8GpApF3vF1a"
@@ -1389,6 +1447,28 @@
       "duration_ms": 165958,
       "name": "Push It Right",
       "url": "https://open.spotify.com/track/4M61DpNzoLws32l7tvAbYL"
+    },
+    {
+      "album": {
+        "name": "Push the Feeling On",
+        "url": "https://open.spotify.com/album/0zjQWhdoeYdumFJMGCL596"
+      },
+      "artists": [
+        {
+          "name": "Josh Le Tissier",
+          "url": "https://open.spotify.com/artist/69pPboQes8it3uCuKTF3l9"
+        },
+        {
+          "name": "Kazden",
+          "url": "https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192656,
+      "name": "Push the Feeling On",
+      "url": "https://open.spotify.com/track/3LNlD2TAUQTq2CBOrOdQ7z"
     },
     {
       "album": {
@@ -1535,7 +1615,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 130909,
       "name": "Sailor's Melody",
       "url": "https://open.spotify.com/track/22yqJ337zbB2u9mB7igNWm"
@@ -1621,6 +1701,24 @@
       "duration_ms": 152941,
       "name": "Show Me Love - Dimitri Vegas Edit",
       "url": "https://open.spotify.com/track/0W7RIKVUEj307xe1zYIgqx"
+    },
+    {
+      "album": {
+        "name": "Simple Song",
+        "url": "https://open.spotify.com/album/2epjULRX9RiFSHRpOmgUrP"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148440,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/2AumjiYj8GMHy5wsL3UY3Z"
     },
     {
       "album": {
@@ -1967,7 +2065,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 137460,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/0WFiohDUm3wbv1SRWlPFR3"

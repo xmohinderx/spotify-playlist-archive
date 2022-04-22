@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-279 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+282 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,10 @@
 | [Chabbi](https://open.spotify.com/track/5LMWRn5OfcH7F02Wu3oBaN) | [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG), [Hiba Nawab](https://open.spotify.com/artist/3wLLlwlj3xeFBHnGG8QV2k) | [Chabbi](https://open.spotify.com/album/2dkekukYqNwp0OM1UjVcjt) | 4:31 | 2022-01-18 | 2022-01-19 |
 | [Chadar](https://open.spotify.com/track/3c96nmp3dLpmQP8quR9LgU) | [Harman Boparai](https://open.spotify.com/artist/4nV5WpZFCR1MXNOf5iX0bE), [E=mc](https://open.spotify.com/artist/6lrJ6jOOCqG43PcINfATTw) | [Chadar](https://open.spotify.com/album/0CdwopWbPv1EwLQ3Mihfxa) | 4:17 | 2022-02-25 | 2022-04-06 |
 | [Chahat](https://open.spotify.com/track/71drxG2r37vAin3subT9ry) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [Chahat](https://open.spotify.com/album/0GLu2qhwJbgRIsAh2RzCAG) | 3:48 | 2022-01-28 | 2022-04-06 |
+| [Chal Mere Naal](https://open.spotify.com/track/0ZFRNQH89jplIbSyeLb221) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Chal Mere Naal](https://open.spotify.com/album/0BTBJbD3vbPcOGzVaU8yVn) | 3:39 | 2022-04-21 |  |
 | [Challa](https://open.spotify.com/track/4vJ2p3DlOrxcnXv9e8rwLA) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Diamond Jatti](https://open.spotify.com/album/0U2GowEyLxUrHMuan0S4nG) | 2:31 | 2022-02-03 | 2022-02-12 |
 | [Challa](https://open.spotify.com/track/148aTrqgZEQg90n61CaAnH) | [Samar Veer](https://open.spotify.com/artist/349nyiVdtB4mKn6BhjfkY3) | [Challa](https://open.spotify.com/album/0NEs1XpHKrUBPwbiCgi6xF) | 3:38 | 2022-03-29 | 2022-04-06 |
+| [Chalo Mannya](https://open.spotify.com/track/3JAHmBtj0tynb50kziPAlG) | [Romaana](https://open.spotify.com/artist/424s65ZBz4Alruua67iFmO) | [Chalo Mannya](https://open.spotify.com/album/6rMF3sY9ue7xNwKUBgaP4c) | 2:44 | 2022-04-21 |  |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2021-12-02 |  |
 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2022-02-07 | 2022-04-06 |
 | [Cheen Meen](https://open.spotify.com/track/4KoJEd1038csBExw6n39UH) | [Mani Singh](https://open.spotify.com/artist/1qAmt00nD6coJWljU0je1n), [Isha Sharma](https://open.spotify.com/artist/1rRlivUi0R6P0eoXr1UquS) | [Cheen Meen](https://open.spotify.com/album/6ALlXv8l0vHVkHKkmWJNwO) | 2:37 | 2022-02-04 | 2022-03-11 |
@@ -84,6 +86,7 @@
 | [Hometown](https://open.spotify.com/track/4LvIeOXZ4b9duvPEDUogot) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:16 | 2022-01-17 | 2022-02-01 |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |
+| [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/4TsopDP9uBKf0oBN01CKoC) | [Mehtab Virk](https://open.spotify.com/artist/6npKsb0CeJMFX3FwjKybfD) | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/7Amx2o2pSvJHgoddju9d0p) | 3:33 | 2022-04-21 |  |
 | [Impress](https://open.spotify.com/track/1kvnU2nJj0MFzCfvu0guvD) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 2:21 | 2022-01-11 | 2022-02-01 |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2021-12-02 |  |
 | [ISHQ E PREET](https://open.spotify.com/track/7LHDuxNAVFt7bzxFV5DsUN) | [Muskaan](https://open.spotify.com/artist/26we5UYR3hTABksEFyPg3D), [PARAKH JEET](https://open.spotify.com/artist/3kpI1PU37q14n0ZV7Zhxmq) | [ISHQ E PREET](https://open.spotify.com/album/1eHzzukafLjkNmeQbTyrMp) | 4:07 | 2022-04-15 |  |

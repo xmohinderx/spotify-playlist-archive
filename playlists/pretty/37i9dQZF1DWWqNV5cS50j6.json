@@ -1,13 +1,65 @@
 {
   "description": "Not not not pop. Cover: Yung Lean",
-  "num_followers": 639363,
+  "num_followers": 639384,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQ4ODEzMiwwMDAwMjBkYTAwMDAwMTgwNDhjMjQ1MGMwMDAwMDE3ZmZmYWQ1ZWYx",
+  "snapshot_id": "MTY1MDU1NTM5NCwwMDAwMjBkYjAwMDAwMTgwNGNjNDk5MDUwMDAwMDE3ZmZmYWQ1ZWYx",
   "tracks": [
+    {
+      "added_at": "2022-04-21 15:36:34",
+      "album": {
+        "name": "dog days",
+        "url": "https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 176833,
+      "name": "dog days",
+      "url": "https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1"
+    },
+    {
+      "added_at": "2022-04-21 15:36:34",
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6"
+    },
+    {
+      "added_at": "2022-04-21 15:36:34",
+      "album": {
+        "name": "ignorance is bliss",
+        "url": "https://open.spotify.com/album/2l2OLcnXmhvxmQG9MWksXI"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 174692,
+      "name": "ignorance is bliss",
+      "url": "https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B"
+    },
     {
       "added_at": "2022-04-15 04:44:00",
       "album": {

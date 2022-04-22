@@ -612,6 +612,28 @@
     },
     {
       "album": {
+        "name": "Cam Bay",
+        "url": "https://open.spotify.com/album/3QipyHVUimESzSK7IAMQxD"
+      },
+      "artists": [
+        {
+          "name": "16 Rehtona",
+          "url": "https://open.spotify.com/artist/6yZuJmKsA5bGl5z1UKsnyq"
+        },
+        {
+          "name": "16 BrT",
+          "url": "https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206151,
+      "name": "Cam Bay",
+      "url": "https://open.spotify.com/track/7MCJAFwyYvECyR4eJ73lH0"
+    },
+    {
+      "album": {
         "name": "Cho \u0110\u1ebfn M\u00e3i V\u1ec1 Sau",
         "url": "https://open.spotify.com/album/1OpCdTvLMHQNSMOVoYDZm2"
       },
@@ -2155,7 +2177,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 271633,
       "name": "H\u00e0ng Gh\u1ebf \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/0OnBxawP1ziLfMG0bANZgF"
@@ -2191,7 +2213,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 264221,
       "name": "H\u00e3y Gi\u1eef Cho Em",
       "url": "https://open.spotify.com/track/5IHrb6qgKucVHPTNUlHKWh"
@@ -4554,7 +4576,7 @@
       "artists": [
         {
           "name": "kis",
-          "url": "https://open.spotify.com/artist/1oo6xk0t7VOSZ7PJUW1rBj"
+          "url": "https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9"
         }
       ],
       "date_added": "2022-03-10",
@@ -4563,6 +4585,24 @@
       "duration_ms": 175255,
       "name": "T\u00ecnh Ca T\u00ecnh Ta",
       "url": "https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh M\u1ed9t \u0110\u00eam",
+        "url": "https://open.spotify.com/album/6RB9bvTCs8WMTxqtX5mfFl"
+      },
+      "artists": [
+        {
+          "name": "Codim",
+          "url": "https://open.spotify.com/artist/4m7JvGIrPyoe0N9pjjGQr9"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213191,
+      "name": "T\u00ecnh M\u1ed9t \u0110\u00eam",
+      "url": "https://open.spotify.com/track/0uJC7CyZqsekSHxNVD2VVm"
     },
     {
       "album": {
@@ -5039,7 +5079,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 193854,
       "name": "\u00cdt Nh\u01b0ng D\u00e0i L\u00e2u (Nam Con)",
       "url": "https://open.spotify.com/track/1KtjlfQVRvkkFYnIaYVi1A"
@@ -5057,7 +5097,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 258005,
       "name": "\u00cdt Nh\u01b0ng D\u00e0i L\u00e2u - Remix",
       "url": "https://open.spotify.com/track/5mwCw07zw0XTFHM6g0mvw2"

@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-184 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+187 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Gravity](https://open.spotify.com/track/3ysGZCVWac500Tp1WtPfSF) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Love Heals](https://open.spotify.com/album/3GyG7YjDG7pp7X5VmulZCh) | 3:48 | 2021-12-17 |  |
 | [Greater](https://open.spotify.com/track/1aF9Um0aHpzysJw1tKJB1S) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Greater](https://open.spotify.com/album/21C8zODk6vFYHTiijWp8Jw) | 3:24 | 2021-12-17 |  |
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2021-12-17 |  |
+| [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2022-04-21 |  |
 | [Hourglass](https://open.spotify.com/track/65MkFWA6FFrNfc33xuMy2N) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Hourglass](https://open.spotify.com/album/12LBbLeQwB7FHwGSqiWr03) | 3:27 | 2021-12-17 |  |
 | [Impulser](https://open.spotify.com/track/6gdtCejkpEErLHR45XmaGj) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Impulser](https://open.spotify.com/album/1Xg3GRD8PQLbxO6d5BjIjm) | 3:28 | 2021-12-17 |  |
 | [In the Ocean](https://open.spotify.com/track/0kGK2sxMjCE5QO3trAAiiV) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [In the Ocean](https://open.spotify.com/album/74Q6lC88iLKTQb5jblUMjs) | 2:23 | 2021-12-17 |  |
@@ -99,6 +100,7 @@
 | [Magnetic Dream](https://open.spotify.com/track/3c3p7n6aV4hHIV4L01dU9c) | [Ripple Tone](https://open.spotify.com/artist/5mE7YYrMNSHnSSXv8BEqOW) | [Night Sky](https://open.spotify.com/album/7ICgkdDIk75pUuu8dK0xLq) | 4:14 | 2021-12-17 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2022-02-01 |  |
 | [Marigold Chain](https://open.spotify.com/track/6DGIQf8liKwdwrPISYOqpH) | [Rose Schwartz](https://open.spotify.com/artist/0qVKo0IM22oSsFlWSHKgmZ) | [Marigold Chain](https://open.spotify.com/album/3WQnhPBzeoPFZnMidaKMEA) | 3:24 | 2021-12-17 |  |
+| [Meas](https://open.spotify.com/track/6KoQyTkDaxANLiB1K7a8Jw) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Meas](https://open.spotify.com/album/7F5cog28FZOo0gz0fIuNhz) | 3:24 | 2022-04-21 |  |
 | [Meditation Rain](https://open.spotify.com/track/5KAkvgPSUrEObeFbPuVT5G) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm), [Rain Sounds](https://open.spotify.com/artist/5nSGBmlgUdqWNExnOX8VtV), [Nature Sounds Nature Music](https://open.spotify.com/artist/2w5q7SKsUmpdUuyf5HOA2c) | [Rain and Ambient Sounds, Relaxation, Meditation, Yoga](https://open.spotify.com/album/4HWmwcJIZ0U5GJMVcvuU4D) | 3:08 | 2021-12-17 |  |
 | [Meditation Rain](https://open.spotify.com/track/05ZOl73J8mzcUcW4JNKYy5) | [Pär Canze](https://open.spotify.com/artist/7b0idtdDzwzvjrPB5JY7TF) | [Meditation Rain](https://open.spotify.com/album/1qvax3EeGaSZFMsYKzqkOu) | 2:51 | 2021-12-17 |  |
 | [Meditation: By The Stream](https://open.spotify.com/track/1XQ0gGJiVhKqdLf9uhO571) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Meditation Relaxation](https://open.spotify.com/album/0DC493rP2yoV43EMGaxnux) | 2:57 | 2021-12-17 |  |
@@ -169,6 +171,7 @@
 | [Temples of Qufu](https://open.spotify.com/track/33Pu5YVliAyFlf7aB7e8Q9) | [Zhu Lin](https://open.spotify.com/artist/5kVqstdlRUQK3cIHbOsyF0) | [Temples of Qufu](https://open.spotify.com/album/1MlXDeOHaH3Xb5uNUW6vBL) | 2:51 | 2021-12-17 |  |
 | [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2021-12-17 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2021-12-17 |  |
+| [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-04-21 |  |
 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2021-12-17 |  |
 | [The Outcast](https://open.spotify.com/track/56URZGF8ntwKhgSt1fphPs) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Edge of Dimensions](https://open.spotify.com/album/1PUrSd7GrmaOcBdO3diz11) | 3:08 | 2021-12-17 |  |
 | [The Spirit](https://open.spotify.com/track/2HtDHyZuRJYPnKLar3dMBZ) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [The Spirit](https://open.spotify.com/album/639d267k0gorMiPC2zbTlH) | 3:05 | 2021-12-17 |  |

@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: gglum
+> Discover your new favourite artists\. Cover: Bambi Bains
 
-104 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+105 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Loud](https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/0RKB3f9wQH7cRlTyiQZdha) | 4:00 | 2022-02-18 |  |
 | [Mademoiselle](https://open.spotify.com/track/6MGLQRKop0hKfWkeyln5p7) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle), [Chris Kabs](https://open.spotify.com/artist/1cFEPWsvZm4bwiBcoqELG9) | [Mademoiselle](https://open.spotify.com/album/000JMiqsaAikfjgWrBUJ1a) | 3:25 | 2022-02-18 |  |
 | [Magpie](https://open.spotify.com/track/2Mf5TqpbjwS5lPAjKBA4yJ) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Butter\-Fly](https://open.spotify.com/album/4JffvJGAbqTkmnDRfkq2hf) | 3:34 | 2022-02-18 |  |
+| [Mistake](https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Mistake](https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf) | 3:33 | 2022-04-21 |  |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2022-02-18 |  |
 | [Monday](https://open.spotify.com/track/5NuoHlFplMTA8jmr4nHjH9) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Monday](https://open.spotify.com/album/04B6OoFDc5mIhlx6W8fJUo) | 3:32 | 2022-02-18 |  |
 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 | 2022-02-18 |  |

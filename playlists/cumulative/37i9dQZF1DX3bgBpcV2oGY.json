@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "Fortuity",
+        "url": "https://open.spotify.com/album/5Di3Qkun1rinXSCqMFieqs"
+      },
+      "artists": [
+        {
+          "name": "Kel Giamo",
+          "url": "https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152938,
+      "name": "Fortuity",
+      "url": "https://open.spotify.com/track/5o3XuFWlUW1h76SFvAmkDJ"
+    },
+    {
+      "album": {
         "name": "Giardino del respiro",
         "url": "https://open.spotify.com/album/10a1HPIygy93hpQc3r5pgZ"
       },

@@ -4,7 +4,7 @@
 
 > Chill instrumental ambient for slow, focused movement.
 
-86 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/6R2Y2tMEHANXWuPQwUT6Pc)
+88 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/6R2Y2tMEHANXWuPQwUT6Pc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Evenfall](https://open.spotify.com/track/1hU9z6EpQLMP1OGu1iGZHL) | [Sadie Hume](https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C) | [Evenfall](https://open.spotify.com/album/2iHU1KoSwYN0ibwjy4PhKX) | 2:06 | 2022-02-23 |  |
 | [Everything Must Go \(Frank Collage\)](https://open.spotify.com/track/2BY40RfMfBavzsjiTfbow3) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Hearts Beat Loud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1IDULQwFEIbHUGFWSpjByu) | 3:34 | 2021-12-22 | 2022-04-12 |
 | [First Breath](https://open.spotify.com/track/1JOwulZA39X5su0EiBb6J6) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Newborn](https://open.spotify.com/album/6hSiNwlyOFDSpS3Xl28zU8) | 2:40 | 2021-12-22 |  |
+| [Fliessend](https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Fliessend](https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9) | 2:44 | 2022-04-21 |  |
 | [Giant Steps Tomorrow](https://open.spotify.com/track/2KiBZ6xU6dnj47aT71G28P) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Giant Steps Tomorrow](https://open.spotify.com/album/31cxoMZtA7p665UG7sEhew) | 3:15 | 2021-12-22 |  |
 | [glass house](https://open.spotify.com/track/5SP4NANOzKAzWDStzliHFk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glass house](https://open.spotify.com/album/3dBYsUNY4YBYC07LFSAGjn) | 2:49 | 2021-12-22 |  |
 | [Grateful](https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:11 | 2021-12-22 |  |
@@ -64,6 +65,7 @@
 | [My Paradise](https://open.spotify.com/track/4FqRXEGuyM0YfpdtvecUgv) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [My Paradise](https://open.spotify.com/album/0SBQ7Y3C7ifv590L0K6AQT) | 3:27 | 2021-12-22 |  |
 | [Mångata](https://open.spotify.com/track/1dpvthn5aYPgBmk7LiKOsl) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [Mångata](https://open.spotify.com/album/1qzSfgjTCYGysekMKLqxdi) | 2:57 | 2022-02-23 |  |
 | [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 | 2021-12-22 |  |
+| [Neblina](https://open.spotify.com/track/36JZbTsvp44NkViBfn5o0o) | [Valentinah Garcia](https://open.spotify.com/artist/2H7P5YeImYP9Z6RdOSPyQN) | [Neblina](https://open.spotify.com/album/5MHWq6pCwzDE3niX3dCZ4b) | 2:23 | 2022-04-21 |  |
 | [Nelle tue braccia](https://open.spotify.com/track/2X92IuhmBnbF8Wg05rKJLY) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Nelle tue braccia](https://open.spotify.com/album/31YkjvN7Hyq9TZYf16tcxL) | 3:24 | 2022-01-06 |  |
 | [Nourish](https://open.spotify.com/track/0t4SxD4RI2sZYu7ehNF0Dt) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Delicate](https://open.spotify.com/album/14NlEEottXO4wgKV8dHLkT) | 3:40 | 2021-12-22 |  |
 | [Persistent](https://open.spotify.com/track/1YRE1YKj2UIRdq2zT8PLNY) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Freestone](https://open.spotify.com/album/2lHrgdlTaEKof6m5rKoNmC) | 3:30 | 2021-12-22 |  |

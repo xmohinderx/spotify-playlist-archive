@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,644 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,772 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Because](https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Because](https://open.spotify.com/album/5uwBi26yP09mvt51AAQtY9) | 3:16 |
 | 50 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 |
 
-Snapshot ID: `MTY1MDUwMzM2MCwwMDAwMDAwMGYxYWFhNTRmMzZmMzkwOWEyZmJmZDk1NzcwOWE3ZTdi`
+Snapshot ID: `MTY1MDU4OTg0OSwwMDAwMDAwMGYxYWFhNTRmMzZmMzkwOWEyZmJmZDk1NzcwOWE3ZTdi`

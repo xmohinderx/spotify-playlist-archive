@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 ### [Now Loading](https://open.spotify.com/playlist/37i9dQZF1DX8GjsySWIS1x)
 
-> The latest in gaming music.
+> The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,112 likes - 95 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,372 likes - 95 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 94 | [CLOUDS](https://open.spotify.com/track/1mvI5pGoh84IiFSbWxEkGH) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [CLOUDS \(THE MIXTAPE\)](https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t) | 4:03 |
 | 95 | [Fair Chance](https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:57 |
 
-Snapshot ID: `MTY1MDQ2NTExNCwwMDAwMDA2ZTAwMDAwMTgwNDc2MzBiNWIwMDAwMDE4MDQ3NjA1MWU0`
+Snapshot ID: `MTY1MDU1OTkzNiwwMDAwMDA2ZjAwMDAwMTgwNGQwOWU2OGUwMDAwMDE4MDQ3NjA1MWU0`

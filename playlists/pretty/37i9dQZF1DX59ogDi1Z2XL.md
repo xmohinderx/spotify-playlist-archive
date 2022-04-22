@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Da Crook
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,286 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,334 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 42 | [Red Sky at Night \- Remix](https://open.spotify.com/track/0ZlZixN3jgIiqoMrVuxpM1) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Taabu](https://open.spotify.com/artist/0RXaY77Aco3OGTxAi4ZKWC), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Red Sky at Night \(Remix\)](https://open.spotify.com/album/3kfl7H5Jw38bCBQBfdzfLl) | 3:56 |
 | 43 | [Sway the Billow](https://open.spotify.com/track/2TdBSAQRmZoEPUjSYa2gXV) | [Mally Swayzz](https://open.spotify.com/artist/1pWrmfc18H91ApDFs8wJpF) | [Sway the Billow](https://open.spotify.com/album/2xi7BFItQU5vNXcGaFPYvz) | 1:55 |
 | 44 | [Bloodclarrt Business](https://open.spotify.com/track/0x3VmItOxAzDKLOT94FQSv) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Bloodclarrt Business](https://open.spotify.com/album/1FDLloitdAEUB1LP27EroI) | 2:27 |
-| 45 | [Way2big](https://open.spotify.com/track/3heKATN7dHhrlbpkTrPyhg) | [Busy Nasa](https://open.spotify.com/artist/29m2WwSOMzE2MoFPARm4bi), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Gaudz](https://open.spotify.com/artist/0xj1LxM0gHYGUc0m9c2rkk) | [222](https://open.spotify.com/album/2GSZpusoPHknNkbE4Ye011) | 2:52 |
+| 45 | [Way2big](https://open.spotify.com/track/3heKATN7dHhrlbpkTrPyhg) | [Busy Nasa](https://open.spotify.com/artist/29m2WwSOMzE2MoFPARm4bi), [Gaudz](https://open.spotify.com/artist/0xj1LxM0gHYGUc0m9c2rkk), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [222](https://open.spotify.com/album/2GSZpusoPHknNkbE4Ye011) | 2:52 |
 | 46 | [WINNING](https://open.spotify.com/track/6bvnHnYqRJPHJ4gGegTGQm) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI) | [WINNING](https://open.spotify.com/album/3vIF0PTXPI4yucAnvwS1l3) | 2:59 |
 | 47 | [Blood Bath](https://open.spotify.com/track/5ha1smmGfz7sttHdxFcrbY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Sewaside II](https://open.spotify.com/album/79qFRdOPllZ9t0uhJsqHwi) | 2:46 |
 | 48 | [Ketchup Chips](https://open.spotify.com/track/0utr8H2QchZPLDdQkTRDD7) | [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig), [Essex Boys](https://open.spotify.com/artist/3LVjqBF6OlWuuCEaLiaYPP), [Tim North](https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Ketchup Chips](https://open.spotify.com/album/6YCn4Ru41igscYJnOwhkRu) | 3:31 |

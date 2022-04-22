@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 288213,
       "name": "Black Bart",
       "url": "https://open.spotify.com/track/2jsLezAzl2v7TnrfYzghI5"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 155720,
       "name": "Blasteroid",
       "url": "https://open.spotify.com/track/1jJ2pE8M6yLac4VzyEMKaZ"
@@ -800,6 +800,24 @@
     },
     {
       "album": {
+        "name": "X (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6VR91jzeyEvl6UkEqQkswo"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173840,
+      "name": "Crashing",
+      "url": "https://open.spotify.com/track/2JtP0fE6ADP0N9terqAfev"
+    },
+    {
+      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2beLSssJ0YzmRbExW9IreE"
       },
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 389597,
       "name": "Dream No More",
       "url": "https://open.spotify.com/track/1dzmb0UZZatm5VCD8fI8UF"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 228480,
       "name": "Electroheart",
       "url": "https://open.spotify.com/track/36KH2r0JLzix1WKHURR2MY"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 263040,
       "name": "Evil Never Dies",
       "url": "https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 213875,
       "name": "Farther From Home",
       "url": "https://open.spotify.com/track/5BdKP9AL3bxVgQcK7iDfVg"
@@ -1502,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "Fight The Silence",
+        "url": "https://open.spotify.com/album/5d6fqpdsCxOx02S4BMiqkv"
+      },
+      "artists": [
+        {
+          "name": "For Today",
+          "url": "https://open.spotify.com/artist/3xvHWAD1Bz6vvVmVMPpZJs"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218893,
+      "name": "Fight The Silence",
+      "url": "https://open.spotify.com/track/1tdBiY9eVxJF1OFWieLjfm"
+    },
+    {
+      "album": {
         "name": "Different Animals",
         "url": "https://open.spotify.com/album/0NIiSIJLgWjYiRtKWfTm4J"
       },
@@ -1531,7 +1567,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 215099,
       "name": "Fire Storm Hotel",
       "url": "https://open.spotify.com/track/1G2RgfdIIAeyyRjUO5maoA"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 240520,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7rA1nOMJ0mqcoJTR83AxPT"
@@ -1999,7 +2035,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 437625,
       "name": "Here Comes Revenge",
       "url": "https://open.spotify.com/track/4Ixe61Sv0WlxBhDjRtEgH3"
@@ -2197,7 +2233,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 234866,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3RU3ptFhXXTBZveJYC8Ecb"
@@ -2287,7 +2323,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 224506,
       "name": "It\u2019s All About Me (Rain)",
       "url": "https://open.spotify.com/track/2dkGT85oN4G3J0OAcNsACW"
@@ -2341,7 +2377,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 183706,
       "name": "Just Let Go",
       "url": "https://open.spotify.com/track/4zHrTVYP3jXooTbN9bsqkj"
@@ -2384,6 +2420,24 @@
     },
     {
       "album": {
+        "name": "Day One (Deluxe)",
+        "url": "https://open.spotify.com/album/1RiSdYoSP9FX5CKG7JYYbr"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2021-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191910,
+      "name": "Land Of Make Believe",
+      "url": "https://open.spotify.com/track/1WcWPZsclEIjU4w9y2nO4w"
+    },
+    {
+      "album": {
         "name": "Golgotha",
         "url": "https://open.spotify.com/album/6yzU8QYj6od609Pu17e7kP"
       },
@@ -2395,7 +2449,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 320173,
       "name": "Last Runaway",
       "url": "https://open.spotify.com/track/5iQGxkhgb62fQv9EYm7rE8"
@@ -2449,7 +2503,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 183933,
       "name": "Light Me Up",
       "url": "https://open.spotify.com/track/3hoImMP49O21VbiDaZaTkJ"
@@ -2593,7 +2647,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 467013,
       "name": "Lune",
       "url": "https://open.spotify.com/track/2uD8ezTUaLTtoqaXUiWPIR"
@@ -2611,7 +2665,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 327680,
       "name": "Magic Dragon",
       "url": "https://open.spotify.com/track/354CirLRQgzZtgov5onAT3"
@@ -2863,7 +2917,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 245666,
       "name": "No More Regrets",
       "url": "https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo"
@@ -2917,7 +2971,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 199613,
       "name": "O.C.D",
       "url": "https://open.spotify.com/track/5UYfxKe8a751zMWr6yOTVN"
@@ -3151,7 +3205,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 232160,
       "name": "Playing God",
       "url": "https://open.spotify.com/track/6NkgMrJjmi9Is0Gqv99VAU"
@@ -3829,7 +3883,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 193626,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/32ycd4AOeqMGXmuLA8FSxc"
@@ -3955,7 +4009,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 397655,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/4l2vvgosC9Fjd7S6Ofwl3B"
@@ -4031,6 +4085,24 @@
       "duration_ms": 202933,
       "name": "The Legacy Of Shi",
       "url": "https://open.spotify.com/track/7BMn3JOYFEnOjUsR5BzdcR"
+    },
+    {
+      "album": {
+        "name": "Seal The Deal & Let's Boogie (Deluxe)",
+        "url": "https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261839,
+      "name": "The Loa's Crossroad",
+      "url": "https://open.spotify.com/track/6ykbS8AzhZ4XDO7ZimQ6FL"
     },
     {
       "album": {
@@ -4171,7 +4243,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 288186,
       "name": "The Waiting One",
       "url": "https://open.spotify.com/track/4hfVIGsNiEskkK77AfC2lG"
@@ -4261,7 +4333,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 272626,
       "name": "To Believe",
       "url": "https://open.spotify.com/track/4ubQK72hsI508VYciIbJ8i"
@@ -4297,7 +4369,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 265210,
       "name": "Tooth, Beak & Claw",
       "url": "https://open.spotify.com/track/0GHcQXVTOkDDDh6gz0d2Gi"
@@ -4459,7 +4531,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 234631,
       "name": "Unforgiven",
       "url": "https://open.spotify.com/track/7cLSWmXRyITsZQkYr19pW5"
@@ -4837,7 +4909,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 201299,
       "name": "You're Not My Kind",
       "url": "https://open.spotify.com/track/1BiZpYGIWkZTSq6AOPST1q"

@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-140 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+142 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Moving through mist](https://open.spotify.com/track/32VQGpraYnbWBBR46vAppG) | [Esther Saunders](https://open.spotify.com/artist/2AmTNUzax2gngw3CseeDPK) | [Moving through mist](https://open.spotify.com/album/0ScW79cTIcqvIRfOhCugOc) | 2:17 | 2022-03-21 |  |
 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 | 2022-03-21 |  |
 | [Nihon](https://open.spotify.com/track/4twsOUZcA2G5ruaOuMmVNk) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 3:17 | 2022-03-21 |  |
+| [Not Profound, Simply True](https://open.spotify.com/track/7rUocCJ8NZl62rSfQDZARM) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Not Profound, Simply True](https://open.spotify.com/album/3DI3mtNvXXTGD6VN8e0lID) | 3:43 | 2022-04-21 |  |
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2022-03-21 |  |
 | [One Path](https://open.spotify.com/track/3ciI0W5tW7zBPWEglpc3fR) | [Aster](https://open.spotify.com/artist/1ie4JpANX38QqUcnNRht7e) | [One Path](https://open.spotify.com/album/0LcPF7MaRplUP7N37LrEUo) | 2:09 | 2022-03-21 |  |
 | [Peace](https://open.spotify.com/track/55RlcgW6hojT3G1wMIovfA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:02 | 2022-03-21 |  |
@@ -96,6 +97,7 @@
 | [Saga Of Me](https://open.spotify.com/track/3gc5hmuRFBI2Vnd3Owjsok) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Saga Of Me](https://open.spotify.com/album/4NkpuGYcUFAb1QZulZlUcL) | 2:34 | 2022-03-21 |  |
 | [Sanctuary](https://open.spotify.com/track/07faNDmHpfee71OHyar3F4) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Sanctuary](https://open.spotify.com/album/3s7wjADNC8XLgZSedXwozE) | 2:53 | 2022-03-21 |  |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2022-03-21 |  |
+| [See You Another Day](https://open.spotify.com/track/5r3qJnZp1tMU4Snad9kUhb) | [D Orbea](https://open.spotify.com/artist/5zIA2WFT6BBxHqtA8tmi8K) | [See You Another Day](https://open.spotify.com/album/19DJwKFtHn4Qmt8g4AR52S) | 2:00 | 2022-04-21 |  |
 | [Sequioas](https://open.spotify.com/track/0xJfNmsjXXnpF0gkFAISPy) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:37 | 2022-03-21 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2022-03-21 |  |
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2022-03-21 |  |

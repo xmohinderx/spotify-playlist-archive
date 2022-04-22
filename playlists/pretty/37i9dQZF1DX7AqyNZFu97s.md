@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Tomike
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,999 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,017 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 15 | [Friendly Sex](https://open.spotify.com/track/0UIaM3C7aw2ao6ZDatzEir) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Friendly Sex](https://open.spotify.com/album/3KgVXRJUmbAS28XfHrJOs2) | 2:39 |
 | 16 | [amethyst](https://open.spotify.com/track/4krGuYcWC40BPg24FhmqTd) | [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv) | [amethyst](https://open.spotify.com/album/6zx8OSmZ9PWqOcEVVok99W) | 2:35 |
 | 17 | [alright?](https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S) | [Luke Royalty](https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR) | [my blue room](https://open.spotify.com/album/7l5jkO8Mhaglz4rz5AoRdW) | 2:29 |
-| 18 | [Bossfight](https://open.spotify.com/track/6jQqrQmqPKcMyZA5pbgn7x) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Pariss Elektra](https://open.spotify.com/artist/3He52zYjFhdsoNua35KzxE) | [Bossfight \(Radio Edit\)](https://open.spotify.com/album/2SFH3JK7MDqWnYkTF2I7mG) | 4:24 |
+| 18 | [Bossfight](https://open.spotify.com/track/6jQqrQmqPKcMyZA5pbgn7x) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Pariss Elektra](https://open.spotify.com/artist/3He52zYjFhdsoNua35KzxE) | [Bossfight](https://open.spotify.com/album/2SFH3JK7MDqWnYkTF2I7mG) | 4:24 |
 | 19 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 |
 | 20 | [Not a Vibe](https://open.spotify.com/track/5shCS2mZchvAFWYBKNgi4D) | [it's just Cat](https://open.spotify.com/artist/7vq7I1JhmEPWA6Lr9pU6d9) | [Not a Vibe](https://open.spotify.com/album/4aY3IeMsbi1J2Q349VRHBE) | 2:37 |
 | 21 | [House of Cards](https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [House of Cards](https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4) | 3:07 |

@@ -4,7 +4,7 @@
 
 > Not not not pop\. Cover: Yung Lean
 
-844 songs - 1 day 17 hr 6 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+847 songs - 1 day 17 hr 14 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-17 |  |
 | [Do What I Want](https://open.spotify.com/track/2imS7G1SXpPSDFk9em8jHd) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Do What I Want](https://open.spotify.com/album/2L8FClI8KceYrNozhlxozr) | 2:09 | 2020-10-13\* | 2021-01-23 |
 | [Doctor](https://open.spotify.com/track/5UenHnGCK9aY3VdHuwm1FZ) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Doctor](https://open.spotify.com/album/6z2IbCqkj2layBN9GRgyfK) | 3:10 | 2022-01-21 | 2022-02-23 |
+| [dog days](https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [dog days](https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn) | 2:56 | 2022-04-21 |  |
 | [don't leave](https://open.spotify.com/track/7rVJxAAj8zEHOOGg3t4T0Q) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [don't leave](https://open.spotify.com/album/3JUkRAqaZemIi1SE3dF1xy) | 2:24 | 2021-08-12 | 2021-10-12 |
 | [Don't Like U](https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Don't Like U](https://open.spotify.com/album/50n8xyx0eXZskyFyv9syTa) | 2:32 | 2022-03-11 |  |
 | [DON'T NEED](https://open.spotify.com/track/1ycPZuv3ksWCzHHZYwSxk3) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK) | [DON'T \(DELUXE\)](https://open.spotify.com/album/7xIgjmcmcjiJH3YXpfQeqb) | 3:09 | 2021-10-13 | 2021-10-16 |
@@ -381,6 +382,7 @@
 | [IDK](https://open.spotify.com/track/7n0Cmx3OxHPv1nJkGnk4CH) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [IDK](https://open.spotify.com/album/2Z3QtmTxOQZHtieshSHJAL) | 3:13 | 2021-01-09 | 2021-05-15 |
 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 | 2021-01-27 | 2022-04-15 |
 | [ifhy](https://open.spotify.com/track/01yiSZ6GzLj5YxGv02IrNd) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [ifhy](https://open.spotify.com/album/3LQvpJQg1IyRqKQGkVYlM7) | 2:49 | 2020-11-13 | 2021-10-12 |
+| [ignorance is bliss](https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [ignorance is bliss](https://open.spotify.com/album/2l2OLcnXmhvxmQG9MWksXI) | 2:54 | 2022-04-21 |  |
 | [IM NOT IN THE MOOD](https://open.spotify.com/track/2bgJYesakxwKgSnBGqj5aC) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [IM NOT IN THE MOOD](https://open.spotify.com/album/7ovhGKFKoPgSGwSNX8HOiJ) | 3:24 | 2020-10-13\* | 2021-02-13 |
 | [In Da Club](https://open.spotify.com/track/3JHEK6yKjxuqMtGMV3zyM4) | [KAMI](https://open.spotify.com/artist/3BhngrEjaGAD0a8OzzFWlC), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Season](https://open.spotify.com/album/4sVSsVCgLh9mLyxiBzNDY2) | 3:40 | 2021-12-04 | 2021-12-11 |
 | [INBETWEEN](https://open.spotify.com/track/2Bx7iFM88NmuTKnvaiMH3i) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [INBETWEEN](https://open.spotify.com/album/6hR6RmrvpAdAJjA2LJmDLz) | 1:54 | 2021-12-10 |  |
@@ -639,6 +641,7 @@
 | [sangria](https://open.spotify.com/track/79tTcoeAq2Dt2qlH3CHm3m) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [sangria](https://open.spotify.com/album/471tZhJ4qENGSLxm3QCO3G) | 3:10 | 2020-10-13\* | 2020-11-03 |
 | [SARF](https://open.spotify.com/track/36fedtyOsdZlmvX4UQO18K) | [Tahj Keeton](https://open.spotify.com/artist/0VlzkyVl1VwpMFTG8sRPhj) | [SARF](https://open.spotify.com/album/6J9z5qhCvYh9nl92LA4ADx) | 3:40 | 2020-12-22 | 2021-10-16 |
 | [Saturn](https://open.spotify.com/track/6WY88gYhRrnqS4wGtO45TH) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Saturn](https://open.spotify.com/album/6YWUNw1FYlbjBwLEeqqt8Y) | 3:27 | 2020-10-13\* | 2020-11-03 |
+| [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 | 2022-04-21 |  |
 | [say it twice](https://open.spotify.com/track/6oq3j9MoTRXrphekijMsuw) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [say it twice](https://open.spotify.com/album/29veTNwE4muoyJbL8npEho) | 2:28 | 2022-03-25 |  |
 | [Say Something](https://open.spotify.com/track/6NduQjYR9ElRhgSOAqdoOV) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Say Something](https://open.spotify.com/album/29got4zSooc6xgknMODGii) | 2:27 | 2022-02-11 |  |
 | [seaside\_demo](https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs) | 2:12 | 2021-05-19 | 2021-10-13 |

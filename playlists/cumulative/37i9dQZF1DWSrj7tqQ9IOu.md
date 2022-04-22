@@ -2,14 +2,14 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now 🐸\. Cover: Izïa
+> The best French indie tracks right now 🐸\. Cover: Polo & Pan
 
-100 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+102 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 | 2022-04-07 |  |
-| [Allo réseau \- Edit](https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Allo réseau \(Edit\)](https://open.spotify.com/album/5QwhFSw4107w2onum379QT) | 3:05 | 2021-12-16 |  |
+| [Allo réseau \- Edit](https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Allo réseau \(Edit\)](https://open.spotify.com/album/5QwhFSw4107w2onum379QT) | 3:05 | 2021-12-16 | 2022-04-22 |
 | [Alma](https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Alma](https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he) | 3:40 | 2022-04-07 |  |
 | [Arrivera](https://open.spotify.com/track/29htxu76IzvAi8n4HY0fMG) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Arrivera](https://open.spotify.com/album/2mJxHIrImmrJOi9tYvTuku) | 3:03 | 2022-01-20 | 2022-01-28 |
 | [Avec toi](https://open.spotify.com/track/7Id3qONAw6sXE92FlfZEWI) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Avec toi](https://open.spotify.com/album/3prGiOjw38nyiOKV12uO4N) | 3:43 | 2021-12-16 | 2022-01-28 |
@@ -40,6 +40,7 @@
 | [Holidays](https://open.spotify.com/track/2R0tA1s4ZzSqrgBDMMCXZl) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [Pirogue](https://open.spotify.com/album/41akXmvvyrc6hd7P3zfnfn) | 3:41 | 2022-04-14 |  |
 | [Hommage](https://open.spotify.com/track/6vYU6WUEReNiuQ8zoy7dMT) | [Perez](https://open.spotify.com/artist/0IBv6kVhrcKaUDgSMWka5T) | [SADOS](https://open.spotify.com/album/7dF1KlRv4vzCLyfE8sfDRG) | 3:53 | 2022-01-13 | 2022-02-18 |
 | [Honey](https://open.spotify.com/track/1BOv46ISdg4Xuv5Ou7M1cG) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Honey Please Be Soft & Tender](https://open.spotify.com/album/4QT6KOT5bn4560EwVH55hi) | 4:07 | 2021-12-16 | 2022-01-21 |
+| [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-04-21 |  |
 | [Ilya](https://open.spotify.com/track/5mIf7UP0FEsGaGWBVjrNKP) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Ilya](https://open.spotify.com/album/5QZQhk6woOLUvKbHBxwkgQ) | 2:26 | 2021-12-16 | 2022-02-18 |
 | [Insomnie](https://open.spotify.com/track/0T9wtwG6ZJNgeqBBiGrwGK) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Insomnie](https://open.spotify.com/album/7qDXuKVsxawV8fLe9xl8N2) | 2:37 | 2021-12-16 | 2022-02-25 |
 | [It Might Be Something](https://open.spotify.com/track/3MkCJcOcLK0PaYy4QgKpWk) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [It Might Be Something](https://open.spotify.com/album/5gszZPFIhqR8HUiqH4nyMx) | 3:33 | 2021-12-16 | 2022-01-21 |
@@ -81,11 +82,12 @@
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-16 | 2022-01-28 |
 | [Orange Mountains](https://open.spotify.com/track/45UT1NY9lpbJfdYp5Kdd1U) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Orange Mountains](https://open.spotify.com/album/1QrJuxwQWh0NDz28apqavn) | 4:26 | 2021-12-16 | 2022-03-25 |
 | [Ouais tu t'es pris pour Shakespeare ?](https://open.spotify.com/track/2CYMaXOmO0cIRIrlXT9Sxw) | [Toboggan](https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG) | [Ouais tu t'es pris pour Shakespeare ?](https://open.spotify.com/album/7JLZh7KEsZnvd090HkJ2Ig) | 3:24 | 2021-12-16 | 2022-02-04 |
+| [Pampa](https://open.spotify.com/track/2JHWd0U5QENovcGYjwsE1g) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Pampa](https://open.spotify.com/album/3fhGVkv2gwWWqibMwPcDHN) | 3:22 | 2022-04-21 |  |
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 |  |
 | [Pesanteur](https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Pesanteur](https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ) | 2:36 | 2021-12-16 | 2022-04-15 |
 | [Petit Poucet](https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [Petit Poucet](https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap) | 4:12 | 2022-01-27 |  |
-| [Plus loin](https://open.spotify.com/track/2RizyXfCW91VVmgZDWi0oY) | [Kooking](https://open.spotify.com/artist/7rLc4atM9xcjhBpACb0aIS), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Plus loin](https://open.spotify.com/album/3OUe4BCFUFo2CCTi0w0RhW) | 2:55 | 2022-04-07 |  |
+| [Plus loin](https://open.spotify.com/track/2RizyXfCW91VVmgZDWi0oY) | [Kooking](https://open.spotify.com/artist/7rLc4atM9xcjhBpACb0aIS), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Plus loin](https://open.spotify.com/album/3OUe4BCFUFo2CCTi0w0RhW) | 2:55 | 2022-04-07 | 2022-04-22 |
 | [Postcards & Letters](https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp) | [Postcards & Letters](https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv) | 4:03 | 2021-12-16 | 2022-04-15 |
 | [Premier Incendie \- Edit](https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Premier Incendie \(Edit\)](https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv) | 3:01 | 2022-02-17 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 | 2022-03-11 |

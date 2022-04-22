@@ -360,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/4IoopovDIZ7z0VNusDNCmy"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214634,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/2ovrPkARvWZVJ2NJeS2AUc"
+    },
+    {
+      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/3oRroUuznKXrAn0WU12Lh3"
       },
@@ -371,7 +389,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 216960,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2CwIVyyRYa65Q0VKfgpRMy"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 472258,
       "name": "Enter the Storm",
       "url": "https://open.spotify.com/track/3v96fHvufikij2zsqANLos"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 380487,
       "name": "High Priestess - Original Mix",
       "url": "https://open.spotify.com/track/0fzsMh6uGsW3k8hZCOPidw"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
@@ -1108,6 +1126,32 @@
     },
     {
       "album": {
+        "name": "Poison (feat. Darla Jade)",
+        "url": "https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Poison (feat. Darla Jade)",
+      "url": "https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF"
+    },
+    {
+      "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
       },
@@ -1349,7 +1393,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 398139,
       "name": "Subjection",
       "url": "https://open.spotify.com/track/4AyAH1LveAELiQcNinLjWq"
@@ -1473,7 +1517,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 219250,
       "name": "Under Your Spell (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV"
@@ -1535,7 +1579,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 372906,
       "name": "Vanishing",
       "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
@@ -1629,7 +1673,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 503414,
       "name": "Yahyel",
       "url": "https://open.spotify.com/track/1s3NSenCMyJLNmveE2TGpI"

@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-90 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+93 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-03-03 |  |
 | [As Long As You Are By My Side](https://open.spotify.com/track/2UrLjcS494QMLJbzYgOXht) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [As Long As You Are By My Side](https://open.spotify.com/album/6V5508TydVNEnHXsgUeW0q) | 2:22 | 2021-12-10 |  |
 | [Bagatelle Valley](https://open.spotify.com/track/1JaFCtOHjdzp0X5ReBZj4g) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Lluvia Bienvenida](https://open.spotify.com/album/4TItwlcBMFW12yGES5lBCA) | 3:07 | 2021-12-10 |  |
-| [Ballerine de Cirque](https://open.spotify.com/track/47lZktZxd7KahwX8Xt5fYT) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Ballerine de Cirque](https://open.spotify.com/album/4V3T2e9DkFCXJgmFftUmYG) | 2:47 | 2021-12-10 |  |
+| [Ballerine de Cirque](https://open.spotify.com/track/47lZktZxd7KahwX8Xt5fYT) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Ballerine de Cirque](https://open.spotify.com/album/4V3T2e9DkFCXJgmFftUmYG) | 2:47 | 2021-12-10 | 2022-04-22 |
 | [Barre des Écrins](https://open.spotify.com/track/72hU3FPZi4aiqzt5paPu7x) | [Rex Lopes](https://open.spotify.com/artist/45X82ZBJp4VUU6UkCXNm54) | [Saludo](https://open.spotify.com/album/6ZWaw4NPpuBF57v0ap05Ug) | 3:09 | 2021-12-10 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2021-12-10 |  |
 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 | 2021-12-10 |  |
@@ -42,14 +42,14 @@
 | [Full Bloom](https://open.spotify.com/track/6WiykMhEcWvMzL5SQhtdrY) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Soul Odyssey](https://open.spotify.com/album/655DVNIphpZShWuF9Ejmfc) | 2:42 | 2021-12-10 |  |
 | [Glasstein](https://open.spotify.com/track/07q8iSWZqva1YDK65LjDms) | [Hans Gomm](https://open.spotify.com/artist/07e4xZ71yEbqm5YGBae1gs) | [Glasstein](https://open.spotify.com/album/6xDVBjvLuvkM7mn99k79hz) | 2:56 | 2021-12-10 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-10 |  |
-| [Her Smoke Rose Up Forever](https://open.spotify.com/track/7Ko4so8MIU5HBwrCMcOI1c) | [James Blackshaw](https://open.spotify.com/artist/0v3A74qYtkL8Wjj1rzLe9Z) | [Love Is the Plan, The Plan Is Death](https://open.spotify.com/album/0Hs9ZPAGmekggdUCj4g6e9) | 7:06 | 2021-12-10 |  |
+| [Her Smoke Rose Up Forever](https://open.spotify.com/track/7Ko4so8MIU5HBwrCMcOI1c) | [James Blackshaw](https://open.spotify.com/artist/0v3A74qYtkL8Wjj1rzLe9Z) | [Love Is the Plan, The Plan Is Death](https://open.spotify.com/album/0Hs9ZPAGmekggdUCj4g6e9) | 7:06 | 2021-12-10 | 2022-04-22 |
 | [Hesitation Theme and Variation Blues](https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 2:22 | 2021-12-10 |  |
 | [Hidden Treasures](https://open.spotify.com/track/5QMPnfATvvolBDWSvM2hjm) | [Carsten Meyer](https://open.spotify.com/artist/6je5sFIVVOMLNUeTVnx3v6) | [A Town on a Hill](https://open.spotify.com/album/6IpmlOnnDB4ilaK8mMZtuV) | 3:17 | 2021-12-10 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-03 |  |
 | [I Found The Right Bottle Of Wine](https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [I Found The Right Bottle Of Wine](https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB) | 3:20 | 2022-03-03 |  |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2022-03-03 |  |
 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 | 2021-12-10 |  |
-| [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-10 |  |
+| [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-10 | 2022-04-22 |
 | [Kind & Generous](https://open.spotify.com/track/5OM5dE5QyrXSAHDiNELsta) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Kind & Generous](https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R) | 3:21 | 2021-12-10 |  |
 | [La Vida Toma Su Tiempo](https://open.spotify.com/track/504WEMo59nRahLl5NShft9) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 4:02 | 2021-12-10 |  |
 | [La Vigie](https://open.spotify.com/track/0rZm326H0WhDCntVeZkoWa) | [Duo Torrnatorés](https://open.spotify.com/artist/42LtbhP12SfMhVRjtJIW5z) | [La Vigie](https://open.spotify.com/album/2LZMJpmMgVUSdp9mK6nHlG) | 2:43 | 2021-12-10 | 2022-04-06 |
@@ -61,6 +61,7 @@
 | [Lute](https://open.spotify.com/track/2NdSxdafeYHyE0UT2tu2CR) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Odoacer](https://open.spotify.com/album/6Zgfn2b9hQTXgN4tOVuau3) | 2:57 | 2022-03-03 |  |
 | [Mar en Calma](https://open.spotify.com/track/3ixw6dc0jP30Vw8WmV36tT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Mar en Calma](https://open.spotify.com/album/2w5M7NjPdfKtcNjknLwHuV) | 2:15 | 2021-12-10 |  |
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2021-12-10 |  |
+| [Of Late](https://open.spotify.com/track/4evlwCXiSNsnuaFwWuHXge) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Of Late](https://open.spotify.com/album/3zSOTg5EL4xTzLjYJf3ETP) | 2:04 | 2022-04-22 |  |
 | [Old Harbor Road](https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:05 | 2021-12-10 |  |
 | [Olden Spirit](https://open.spotify.com/track/47bcgrek5JN64aJcLfPhX6) | [Aleena Pearson](https://open.spotify.com/artist/3RHvJYGOCSevN0zecANjhh) | [Olden Spirit](https://open.spotify.com/album/6nFuuKj4bGj7Ufj6ufFcfj) | 2:29 | 2022-03-03 |  |
 | [Paradise Cove](https://open.spotify.com/track/3lCez1NMvH5SXtWDYT6pSR) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Paradise Cove](https://open.spotify.com/album/7w6OR7HvoGdQqDAoG271fw) | 4:16 | 2021-12-10 |  |
@@ -79,6 +80,7 @@
 | [Sonnensterne](https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L) | [Arno Pohl](https://open.spotify.com/artist/711DDi0p3SKq9UI82cvuhT) | [Waldschlaf](https://open.spotify.com/album/7dE6eIR5CifPhi9u2EuZtq) | 3:26 | 2021-12-10 |  |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-03 |  |
 | [Southern](https://open.spotify.com/track/1MZDSZNmYSWR5IIRmmPCXm) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Southern](https://open.spotify.com/album/0s2CFBb8tEHleuDk01vwfz) | 2:38 | 2021-12-10 |  |
+| [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 |  |
 | [The Autumn Travel](https://open.spotify.com/track/7LP1t5oBkzHKN7382egeou) | [Claude Amek](https://open.spotify.com/artist/4M0jA8df8J36E5xsqNGaAT) | [October Roads](https://open.spotify.com/album/3Ms99VQwBTFGwgxroh8Cpr) | 1:48 | 2021-12-10 |  |
 | [The End of All Rivers](https://open.spotify.com/track/6nS9crd0L3jh2zbGCPGkiC) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Speechless](https://open.spotify.com/album/4YDbl2wUdoTpyErcBzIS74) | 5:55 | 2021-12-10 | 2022-04-06 |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-04-05 |  |
@@ -94,6 +96,7 @@
 | [Valentine](https://open.spotify.com/track/2iRhWAN9jmQSb43ucKRiJJ) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Valentine](https://open.spotify.com/album/4gHQh1PpIXkBOd4VHtPG3i) | 2:18 | 2021-12-10 |  |
 | [Valsa Sem Fim](https://open.spotify.com/track/309fOMTlQ4uqIq85Uj1EDw) | [Vincente Kayur](https://open.spotify.com/artist/25vzXhzKXpVJmDPidt6xYE) | [Promessas](https://open.spotify.com/album/5fBRfmRUoA5E8D8PxwAqpE) | 3:13 | 2021-12-10 |  |
 | [Voluntad](https://open.spotify.com/track/5XHgDP6VEOqMbhFLqh78Xx) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Voluntad](https://open.spotify.com/album/2rV6cBlzGCjPaQZDTSbbWJ) | 2:51 | 2021-12-10 |  |
+| [Wait A Minute](https://open.spotify.com/track/1JXcIdNOsdZepUrvsfXOEo) | [Mary\-Anne Petersen](https://open.spotify.com/artist/10jkdLoGCp06EB8vIRKAWO) | [Wait A Minute](https://open.spotify.com/album/1RG0woIFkj9cbmuMRVl7fV) | 2:42 | 2022-04-22 |  |
 | [Walking Around Santiago](https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Walking Around Santiago](https://open.spotify.com/album/0ZIPPkIC1LFYM3W5HyPewJ) | 4:46 | 2021-12-10 |  |
 | [When Sarah Returned](https://open.spotify.com/track/2OJk9I2pmnYKB9zQzrodK6) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [A Letter from the Caspian Sea](https://open.spotify.com/album/7mfyhobbOqeqqtf9JH3ssk) | 2:36 | 2021-12-10 |  |
 | [When She Was There](https://open.spotify.com/track/5rOfd0ZqNPDzFWEgROvIdz) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:20 | 2021-12-10 |  |

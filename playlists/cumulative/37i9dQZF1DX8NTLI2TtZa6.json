@@ -134,6 +134,28 @@
     },
     {
       "album": {
+        "name": "Adrift",
+        "url": "https://open.spotify.com/album/0gd9OapwkT78fIHQ1zbZFa"
+      },
+      "artists": [
+        {
+          "name": "Arthur Baptista Galvao",
+          "url": "https://open.spotify.com/artist/1XHR4oMd5ze0D08zeQztF6"
+        },
+        {
+          "name": "How It All Ends",
+          "url": "https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138465,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/6E5Ze5UAUfjKP9G5ZivpuD"
+    },
+    {
+      "album": {
         "name": "After The Rain",
         "url": "https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k"
       },
@@ -567,6 +589,24 @@
       "duration_ms": 145188,
       "name": "Because I Miss You",
       "url": "https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL"
+    },
+    {
+      "album": {
+        "name": "Beneath the Waves",
+        "url": "https://open.spotify.com/album/6bCloCt5prFJNtHzfYWOQ1"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190605,
+      "name": "Beneath the Waves",
+      "url": "https://open.spotify.com/track/16HrDFed6T82sUdFy0S14W"
     },
     {
       "album": {
@@ -1395,7 +1435,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 153103,
       "name": "Fragment",
       "url": "https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ"
@@ -1960,6 +2000,24 @@
     },
     {
       "album": {
+        "name": "Khalil\u2019s Dream - We Were Kids (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KsyuIlt0USaOw5wsNXahJ"
+      },
+      "artists": [
+        {
+          "name": "Vincent Bahar",
+          "url": "https://open.spotify.com/artist/4bZYFEVwmWuiySymc3qU6G"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154885,
+      "name": "Khalil\u2019s Dream - We Were Kids (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/78SdPJNpbYKFckGlN9742N"
+    },
+    {
+      "album": {
         "name": "Knowing",
         "url": "https://open.spotify.com/album/3BMt2E5mIp4jXuPrv6AH9w"
       },
@@ -2173,6 +2231,36 @@
       "duration_ms": 209693,
       "name": "Lionheart",
       "url": "https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH"
+    },
+    {
+      "album": {
+        "name": "Quiet Majesty",
+        "url": "https://open.spotify.com/album/1C1LgtlRCmeZE3Cgfzgu3b"
+      },
+      "artists": [
+        {
+          "name": "Jacob Hauge Mateo",
+          "url": "https://open.spotify.com/artist/39hGFMaRFCtJtkkErae03o"
+        },
+        {
+          "name": "Ben Bushill",
+          "url": "https://open.spotify.com/artist/6Uo4QLFNLa2sWmanIlxx4k"
+        },
+        {
+          "name": "Lilo Aurora",
+          "url": "https://open.spotify.com/artist/540u6AWvYiHrbzA69FcVhC"
+        },
+        {
+          "name": "Vildmor",
+          "url": "https://open.spotify.com/artist/3UwWncL6a50ABuZJDiqcOR"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418681,
+      "name": "Little Sparks",
+      "url": "https://open.spotify.com/track/0Ui4lAbf70ljScF9bR5z8w"
     },
     {
       "album": {
@@ -4077,7 +4165,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 121951,
       "name": "Traces",
       "url": "https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05"

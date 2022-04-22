@@ -636,6 +636,24 @@
     },
     {
       "album": {
+        "name": "For U",
+        "url": "https://open.spotify.com/album/1wAMBFJ7WkhMNlTiZpcfEa"
+      },
+      "artists": [
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106742,
+      "name": "For U",
+      "url": "https://open.spotify.com/track/2ytZZ2S64YvE9G5SgYEPkB"
+    },
+    {
+      "album": {
         "name": "Fresh Pour Over Jam",
         "url": "https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW"
       },
@@ -1589,6 +1607,24 @@
       "duration_ms": 111686,
       "name": "Square Pusher",
       "url": "https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1fpKnA9khgdrwdOQCFfKbG"
+      },
+      "artists": [
+        {
+          "name": "Dellasollounge",
+          "url": "https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136992,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1n1WtbBkXFJNhskphoV05W"
     },
     {
       "album": {

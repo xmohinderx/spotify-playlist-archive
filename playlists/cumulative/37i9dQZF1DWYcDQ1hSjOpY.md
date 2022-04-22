@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-279 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+281 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Dromen](https://open.spotify.com/track/7vIew2ZVzo2XVNXHxLHWkV) | [Bedtijd](https://open.spotify.com/artist/3zgXwIxfRrDAWL8QYsZcih) | [Dromen](https://open.spotify.com/album/04XQLv9HUY1KtLVLuMD06c) | 1:46 | 2021-11-10 |  |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2022-01-21 |  |
 | [Dusk Sermons](https://open.spotify.com/track/4eoA6gqXBqpCuCemOineDh) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [Dusk Sermons](https://open.spotify.com/album/6jTsueHPtmp2svmRED9FOk) | 3:21 | 2022-02-25 |  |
+| [Edio](https://open.spotify.com/track/0QdOnce1FwtfhjHGyYWcJ5) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Edio](https://open.spotify.com/album/1XgPv3oY99SZ2ZQ2XPROkb) | 2:57 | 2022-04-21 |  |
 | [Een mooie droom](https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N) | [Zeb Maessen](https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu) | [Een mooie droom](https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw) | 3:10 | 2022-02-25 |  |
 | [Eleven Degrees North](https://open.spotify.com/track/1ytBTJUCVq3ljXsEri2Bel) | [Simeon Oliver](https://open.spotify.com/artist/0JeUJ2ivX8X1GyI4p02swQ) | [If You Please](https://open.spotify.com/album/12aULoazclVKrdDnYSESym) | 3:44 | 2021-11-10 |  |
 | [Ellips](https://open.spotify.com/track/1BElZwQK3VhQ8iHRMolo1i) | [Nightweaver](https://open.spotify.com/artist/6tfQKH57x0m7yECik90Rd9) | [Ellips](https://open.spotify.com/album/19CV6Lr9VbryVgNcoyPMm4) | 2:56 | 2021-11-10 |  |
@@ -206,6 +207,7 @@
 | [Peace and Quiet](https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [Peace and Quiet](https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0) | 3:30 | 2021-11-10 |  |
 | [Peaceful Journey](https://open.spotify.com/track/2w2TNG4SXWwRAPiHZoRgnw) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Peaceful Journey](https://open.spotify.com/album/7lxqmEkwnv3BkHhFj9Yqx7) | 2:11 | 2021-11-10 |  |
 | [Peak Calm](https://open.spotify.com/track/5lXpowQ714d5VWxjdFLfi7) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Peak Calm](https://open.spotify.com/album/4Xfiq1H2pq5VtknmKXkUm8) | 2:36 | 2021-11-10 |  |
+| [Perfect Night](https://open.spotify.com/track/1bDlImMOyf1J7II5dTyECe) | [Saige Kasey](https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV) | [Perfect Night](https://open.spotify.com/album/4gQPGoNxTX0gJDGpaWL2iq) | 2:33 | 2022-04-21 |  |
 | [Perspective](https://open.spotify.com/track/3DlKVRc8O2XjaFV5vQ5j0S) | [Jorin Williams](https://open.spotify.com/artist/5sKdm7FEijRv1JQfPHwrc7) | [Perspective](https://open.spotify.com/album/2KydKrhYkvgy0CEURNQvjg) | 2:56 | 2021-11-10 |  |
 | [Perspectives](https://open.spotify.com/track/3chCZBYrCCjcUmT4mX5x8E) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Perspectives](https://open.spotify.com/album/6SKpBhqxzknHdxfGsEQMkw) | 4:09 | 2021-11-10 |  |
 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/2s6Fglo2Tu3BBUFr5Ihcq9) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 | 2021-11-10 |  |

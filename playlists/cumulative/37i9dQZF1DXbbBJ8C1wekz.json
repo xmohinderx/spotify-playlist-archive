@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 164211,
       "name": "A 1 Passo",
       "url": "https://open.spotify.com/track/7N3Sd5mbHpk6KGPRAV5fAC"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 167937,
       "name": "A Cunhada",
       "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
@@ -163,10 +163,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 173357,
       "name": "A Tropa",
       "url": "https://open.spotify.com/track/5OzyeKdNeDudpPr1ym3uDL"
+    },
+    {
+      "album": {
+        "name": "Abra Kadabra",
+        "url": "https://open.spotify.com/album/606EMzGvkSo130uQQzfj7f"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219196,
+      "name": "Abra Kadabra",
+      "url": "https://open.spotify.com/track/5QUh3eYVWW3iI3DQl8rCX5"
     },
     {
       "album": {
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 121288,
       "name": "Aquela",
       "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
@@ -260,6 +278,32 @@
     },
     {
       "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/2H2JJoNsEeWawyiXwiXhHI"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Felipe Artioli",
+          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180609,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/0rCmmcIwLKtlEyymTFpqcM"
+    },
+    {
+      "album": {
         "name": "Bendito",
         "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
       },
@@ -271,7 +315,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 177869,
       "name": "Bendito",
       "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
@@ -293,7 +337,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 225334,
       "name": "Bloco de 100",
       "url": "https://open.spotify.com/track/02PfxLNAiAoWOLMR49wAk8"
@@ -319,7 +363,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Campo Minado",
       "url": "https://open.spotify.com/track/19ZHABf7sgrzyfsHjjLALd"
@@ -385,7 +429,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 161293,
       "name": "Colapso",
       "url": "https://open.spotify.com/track/6lo0uwnL3pYXoLVROPWQFp"
@@ -457,7 +501,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 145617,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/3xra5OMlRc4MQgD8V0aIxq"
@@ -493,7 +537,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 206506,
       "name": "Digimon",
       "url": "https://open.spotify.com/track/72WZS9ljLLEWDdGzGmppPK"
@@ -523,6 +567,24 @@
       "duration_ms": 134634,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
+    },
+    {
+      "album": {
+        "name": "Disfarce",
+        "url": "https://open.spotify.com/album/2AWsgoxFjLB27lahfqvP5Y"
+      },
+      "artists": [
+        {
+          "name": "Thiago",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Disfarce",
+      "url": "https://open.spotify.com/track/0trI4oy0dayuYLeZioJHQg"
     },
     {
       "album": {
@@ -557,10 +619,44 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 245085,
       "name": "Disparar",
       "url": "https://open.spotify.com/track/5Rm5tzLlpbBpUorSDETbjg"
+    },
+    {
+      "album": {
+        "name": "Drink Azul",
+        "url": "https://open.spotify.com/album/5t4q2IxXCgVUcFhb8IUg9l"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        },
+        {
+          "name": "Jonis",
+          "url": "https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn"
+        },
+        {
+          "name": "Daja",
+          "url": "https://open.spotify.com/artist/1oNNEMmzYREXntCGm4kHy9"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Drink Azul",
+      "url": "https://open.spotify.com/track/6Bfk5Zu1FvwmCVx9QiTUOh"
     },
     {
       "album": {
@@ -594,6 +690,28 @@
     },
     {
       "album": {
+        "name": "Eu Sei",
+        "url": "https://open.spotify.com/album/19CoivK6bPGL0SC1RZEKfa"
+      },
+      "artists": [
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        },
+        {
+          "name": "Chief",
+          "url": "https://open.spotify.com/artist/6ACyNjY4S7gBFxB4fcmJEQ"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209747,
+      "name": "Eu Sei",
+      "url": "https://open.spotify.com/track/4SMzisVrGggLbPc5TII5pa"
+    },
+    {
+      "album": {
         "name": "Eu Sou Cachorro",
         "url": "https://open.spotify.com/album/6d7uc5mRoPLM8UvjC8n2DW"
       },
@@ -605,7 +723,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 133607,
       "name": "Eu Sou Cachorro",
       "url": "https://open.spotify.com/track/6kjkBd9FlpJgu6MWOoA7o9"
@@ -665,7 +783,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 207000,
       "name": "Faz um Tempo",
       "url": "https://open.spotify.com/track/0rS5iv1lBqFZq3sK9fjfOM"
@@ -800,6 +918,32 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3FtBvabT1CxQ4k3a5z5G7Z"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "4tune",
+          "url": "https://open.spotify.com/artist/3KTK9c2Q8W63gxLmBHROjN"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114428,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3rfMEEW6MlYnqraG0q2pYQ"
+    },
+    {
+      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC"
       },
@@ -863,7 +1007,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 168820,
       "name": "Hype",
       "url": "https://open.spotify.com/track/7gdOLRjA7RnEZwG51lYMJi"
@@ -881,7 +1025,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Kallidade",
       "url": "https://open.spotify.com/track/2G7vVF2QPQtlnQ7EQntij8"
@@ -899,10 +1043,44 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 160015,
       "name": "Ligo Pra Nada",
       "url": "https://open.spotify.com/track/6VQVdzPpxtQPstExyqLMJX"
+    },
+    {
+      "album": {
+        "name": "Lobo-Guar\u00e1",
+        "url": "https://open.spotify.com/album/28mf805fbXJs5B8rCRMjch"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262199,
+      "name": "Lobo-Guar\u00e1",
+      "url": "https://open.spotify.com/track/6pPPjzQCW3TauculUPjKDs"
     },
     {
       "album": {
@@ -969,10 +1147,40 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 129836,
       "name": "Macetando Firme",
       "url": "https://open.spotify.com/track/69z4ODjyssEmX2GPsiXRBL"
+    },
+    {
+      "album": {
+        "name": "Magia Preta",
+        "url": "https://open.spotify.com/album/4fDzkAooHGg7TWrDugQbBY"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Young Mascka",
+          "url": "https://open.spotify.com/artist/5p1071Vgc8NglO8E3JAv4Q"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Magia Preta",
+      "url": "https://open.spotify.com/track/4doXTozijOz9ZnZIL6skvW"
     },
     {
       "album": {
@@ -1017,7 +1225,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 189565,
       "name": "Mandel\u00e3o",
       "url": "https://open.spotify.com/track/2MXhH3LCIxife3lj34GZGc"
@@ -1053,7 +1261,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 160124,
       "name": "Marlboro",
       "url": "https://open.spotify.com/track/05Vt6sSQyEjhnihRdVojqc"
@@ -1079,7 +1287,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 125142,
       "name": "Mds",
       "url": "https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF"
@@ -1109,7 +1317,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 162449,
       "name": "Melhor",
       "url": "https://open.spotify.com/track/7G2DDAvcZHi0GIS7AopShi"
@@ -1131,7 +1339,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 185000,
       "name": "Mesmo Que N\u00e3o Queira Me Ouvir",
       "url": "https://open.spotify.com/track/7efuXjvCtdYqwWFsUGkSvF"
@@ -1157,7 +1365,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 170181,
       "name": "Meu Corre",
       "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
@@ -1252,6 +1460,28 @@
     },
     {
       "album": {
+        "name": "Futuruz",
+        "url": "https://open.spotify.com/album/7v3QqNKdhBQ6n3IrjZO5mq"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Intactoz Corp.",
+          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195596,
+      "name": "N\u00e3o conversamos, mas",
+      "url": "https://open.spotify.com/track/6IiO96wuVwJhvXZVUwjGeX"
+    },
+    {
+      "album": {
         "name": "Oclin e Evoque",
         "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
       },
@@ -1301,7 +1531,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 232311,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/58RYmMg7AdRMJIGkLZQEx9"
@@ -1319,7 +1549,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 170322,
       "name": "Oi N\u00e9",
       "url": "https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I"
@@ -1363,7 +1593,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 137622,
       "name": "Onda do Lan\u00e7a",
       "url": "https://open.spotify.com/track/3Kw0g1a281cdzUhcP24ot6"
@@ -1389,7 +1619,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 204000,
       "name": "Os Menor da Quebrada",
       "url": "https://open.spotify.com/track/3qpdS7XRwt7bysssjJwYbL"
@@ -1427,7 +1657,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Ouro Ros\u00e9",
       "url": "https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv"
@@ -1493,7 +1723,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 190113,
       "name": "Perfil #84 - Eu Vim de L\u00e1",
       "url": "https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9"
@@ -1515,7 +1745,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 124646,
       "name": "Pique Matrix",
       "url": "https://open.spotify.com/track/4vA1eZaH9Dlf7ZcdOL3eXK"
@@ -1549,7 +1779,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 281637,
       "name": "Pistoleiro",
       "url": "https://open.spotify.com/track/3VgaGYl4FXuI4wosflc2Gg"
@@ -1589,10 +1819,76 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 151417,
       "name": "PPTN TRAP SESSIONS #1: Compras",
       "url": "https://open.spotify.com/track/4ZQm3AECFQPafkearXM2MF"
+    },
+    {
+      "album": {
+        "name": "Espelho Infinito '^",
+        "url": "https://open.spotify.com/album/5Iwd35z1FCXrEhma6Vh2fb"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Intactoz Corp.",
+          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160392,
+      "name": "Preparado pro Futuro? '^",
+      "url": "https://open.spotify.com/track/1nhugNHqGTtQ8VAtTBwZn2"
+    },
+    {
+      "album": {
+        "name": "Preto de Gueto",
+        "url": "https://open.spotify.com/album/6a6sdZoRyv0oTG7EwWFJn9"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155355,
+      "name": "Preto de Gueto",
+      "url": "https://open.spotify.com/track/3tQNUzUTGK0i8IBFQZ30Nv"
+    },
+    {
+      "album": {
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/2yEZ6mGSNw7tFlUsgXMV22"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176884,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/21Rg67D99oWSBJytQGOGw9"
     },
     {
       "album": {
@@ -1629,7 +1925,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 139014,
       "name": "Rambo",
       "url": "https://open.spotify.com/track/6JkK0IESabjjofDS2Lot4O"
@@ -1691,6 +1987,28 @@
       "duration_ms": 449408,
       "name": "Refer\u00eancias",
       "url": "https://open.spotify.com/track/3LRCKDlZ4DwoXcfK8XVqeV"
+    },
+    {
+      "album": {
+        "name": "Rem\u00e9dio e Soda",
+        "url": "https://open.spotify.com/album/6WEisN2xpg9aVpYkOXzYuI"
+      },
+      "artists": [
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "Rem\u00e9dio e Soda",
+      "url": "https://open.spotify.com/track/47ecSPAKNzGrQpjjmycHb6"
     },
     {
       "album": {
@@ -1761,6 +2079,24 @@
       "duration_ms": 228012,
       "name": "S\u00f3 Quando Ela Me Quer",
       "url": "https://open.spotify.com/track/70D4ZYmLC8Kxxw4rGthU0Q"
+    },
+    {
+      "album": {
+        "name": "Tamo Bem",
+        "url": "https://open.spotify.com/album/1Y1KdEbIiuRgCpgjK55foh"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Tamo Bem",
+      "url": "https://open.spotify.com/track/7BoTsNo2vs6q6bYX9DzdKY"
     },
     {
       "album": {
@@ -1853,7 +2189,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 201951,
       "name": "Tralha Rico",
       "url": "https://open.spotify.com/track/7ulrRl0TdGP2FMHRqGebpC"

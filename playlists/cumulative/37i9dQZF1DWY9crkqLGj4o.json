@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 364878,
       "name": "Alfa e \u00d4mega",
       "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 259181,
       "name": "Deixar a L\u00e1grima Rolar",
       "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 733283,
       "name": "Em Teus Bra\u00e7os",
       "url": "https://open.spotify.com/track/1lymSqz42DeEn03NMn9BiT"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 317013,
       "name": "Fica Tranquilo",
       "url": "https://open.spotify.com/track/7aJjISDMmcRYcAtA2oJTYe"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 337896,
       "name": "Inexplic\u00e1vel Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 274840,
       "name": "Me Deixe Aqui (feat. Priscilla Alcantara)",
       "url": "https://open.spotify.com/track/1IJ7mFrvgw24F3rRS9NAHl"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 411000,
       "name": "Minha Morada - Ao Vivo",
       "url": "https://open.spotify.com/track/4GYiqBaJo092aEBqBirtzE"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 374986,
       "name": "Nada Al\u00e9m de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 310311,
       "name": "O Mapa do Tesouro",
       "url": "https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx"
@@ -2049,7 +2049,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 368346,
       "name": "Os Sonhos de Deus (feat. Luk\u00e3o Carvalho & Eli Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM"
@@ -2183,7 +2183,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 334878,
       "name": "Posso Clamar",
       "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
@@ -2223,7 +2223,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 919733,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
@@ -2241,7 +2241,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 208608,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
@@ -2285,7 +2285,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 239211,
       "name": "Prioridade",
       "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
@@ -2372,6 +2372,24 @@
     },
     {
       "album": {
+        "name": "O Fogo Nunca Dorme",
+        "url": "https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360187,
+      "name": "Quero Conhecer Jesus",
+      "url": "https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ"
+    },
+    {
+      "album": {
         "name": "Quero Descer (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w69vdoNpyTRJDRInk3X30"
       },
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 297726,
       "name": "Raridade",
       "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 266193,
       "name": "Soldado Ferido",
       "url": "https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX"
@@ -2677,7 +2695,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 275110,
       "name": "Sou Casa (Ao Vivo)",
       "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 324853,
       "name": "Te Louvarei - Ao Vivo",
       "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
@@ -2815,7 +2833,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 385063,
       "name": "Tudo a Ver Com Ele",
       "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 370520,
       "name": "Um novo Vencedor",
       "url": "https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G"

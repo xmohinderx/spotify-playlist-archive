@@ -31,7 +31,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 215160,
       "name": "21",
       "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 361026,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 160063,
       "name": "Ak do Jap\u00e3o",
       "url": "https://open.spotify.com/track/3iH7cbeDjFBBvQpKejFlJz"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 131300,
       "name": "Alma de Cigana",
       "url": "https://open.spotify.com/track/5bm3eNPRGw03HdazdZOiMK"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 139200,
       "name": "Avi\u00e3o",
       "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 254734,
       "name": "Banco",
       "url": "https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 301546,
       "name": "Berenice (Papasessions #6) [feat. CALIFFA]",
       "url": "https://open.spotify.com/track/58TLpLev8A4GFCUizxpF7T"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 162546,
       "name": "Blueberry Faygo",
       "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 159714,
       "name": "BOP",
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
@@ -421,10 +421,40 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 215307,
       "name": "Brilho",
       "url": "https://open.spotify.com/track/19Jjfmq5r74zSjuJPx9r5P"
+    },
+    {
+      "album": {
+        "name": "Ca\u00e7ando Tesouro",
+        "url": "https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Ca\u00e7ando Tesouro",
+      "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
     },
     {
       "album": {
@@ -455,7 +485,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 265753,
       "name": "Cigana",
       "url": "https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a"
@@ -477,7 +507,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 213284,
       "name": "Com a Mala",
       "url": "https://open.spotify.com/track/3IoMFT989cZDnmv8ubiUY2"
@@ -503,7 +533,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 216160,
       "name": "C\u00f3digo",
       "url": "https://open.spotify.com/track/5YFmDJxIcKRVhK0VTnECnZ"
@@ -529,7 +559,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 254402,
       "name": "Desce Novinha",
       "url": "https://open.spotify.com/track/6okkGGKcOTfSkqeAsmjGQv"
@@ -573,7 +603,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 221818,
       "name": "Ela Adora Veneno",
       "url": "https://open.spotify.com/track/0pZUtEL4oKQEeI3omlt9dg"
@@ -636,6 +666,24 @@
     },
     {
       "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/4tyQW6fElOfEGSeRGqrkIJ"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155937,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3UEm2avDtIIaT3UvuvsxES"
+    },
+    {
+      "album": {
         "name": "\u00cdcone",
         "url": "https://open.spotify.com/album/4AQFmyYck7Rf10CHW2w2Pr"
       },
@@ -647,7 +695,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 121770,
       "name": "For Real",
       "url": "https://open.spotify.com/track/5JbwgOUmX9GKWgk3wSrSpn"
@@ -673,7 +721,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
@@ -699,7 +747,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 135813,
       "name": "Fuuga",
       "url": "https://open.spotify.com/track/27C3ZWAo3xPFR6rXw2sfHI"
@@ -717,7 +765,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 227222,
       "name": "Gangorra",
       "url": "https://open.spotify.com/track/32z2XMNAqSNOB9lAxctyce"
@@ -834,6 +882,24 @@
     },
     {
       "album": {
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123802,
+      "name": "Hip Hop Rare",
+      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
+    },
+    {
+      "album": {
         "name": "Homenagem aos Rel\u00edquias (feat. Menor MC, MC Vinny, MC Julio D.E R., MC Leozinho ZS & Makalo)",
         "url": "https://open.spotify.com/album/6nK66CStnTn8QcSfvoYPAU"
       },
@@ -939,7 +1005,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 310125,
       "name": "Incomunic\u00e1vel",
       "url": "https://open.spotify.com/track/5gFABjU0f5xTgDraQz9EtT"
@@ -961,7 +1027,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 360559,
       "name": "Irm\u00e3o DQbrada!",
       "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
@@ -1114,6 +1180,28 @@
     },
     {
       "album": {
+        "name": "Lei \u00c1urea",
+        "url": "https://open.spotify.com/album/0HcDwQJNumU2B85yGm0ZAT"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151100,
+      "name": "Lei \u00c1urea",
+      "url": "https://open.spotify.com/track/1BGHVKmt3Z2FArfkAvujcI"
+    },
+    {
+      "album": {
         "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
         "url": "https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN"
       },
@@ -1159,7 +1247,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
@@ -1195,7 +1283,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 140855,
       "name": "Love And Choppa",
       "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
@@ -1247,7 +1335,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 149112,
       "name": "Malvad\u00e3o 2",
       "url": "https://open.spotify.com/track/1f9lD5VdRIGdSihiIwOFSx"
@@ -1269,7 +1357,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 146951,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/25AJGUhaTSaWntIZgbQgxL"
@@ -1291,10 +1379,44 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 195692,
       "name": "Mant\u00e9m",
       "url": "https://open.spotify.com/track/17rF54WvGGqPVxDheq8PP8"
+    },
+    {
+      "album": {
+        "name": "Marginais Boombap 2",
+        "url": "https://open.spotify.com/album/4Gq7mk1ckq6HHdWUxZvuPP"
+      },
+      "artists": [
+        {
+          "name": "Marginal Supply",
+          "url": "https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Dk 47",
+          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+        },
+        {
+          "name": "NaBrisa",
+          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
+        },
+        {
+          "name": "Spinardi",
+          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363050,
+      "name": "Marginais Boombap 2",
+      "url": "https://open.spotify.com/track/5VDcqDsZKMqvabDW5wLuxf"
     },
     {
       "album": {
@@ -1339,7 +1461,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 152673,
       "name": "Me Equivoquei",
       "url": "https://open.spotify.com/track/4NxJEdrNSowGCiBu7PaZlr"
@@ -1357,7 +1479,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 213593,
       "name": "MIDDLE CHILD",
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
@@ -1413,7 +1535,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 195795,
       "name": "Mlks de Sp",
       "url": "https://open.spotify.com/track/2cWCwWJTozhsGxmvrJJaXn"
@@ -1461,7 +1583,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 139050,
       "name": "Money",
       "url": "https://open.spotify.com/track/1PuQBTDZ6WntifoXDrUXRg"
@@ -1483,7 +1605,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 215151,
       "name": "Movimento",
       "url": "https://open.spotify.com/track/1ZjeSBSlwwddWUTa982kBA"
@@ -1509,7 +1631,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 190843,
       "name": "Multiplica",
       "url": "https://open.spotify.com/track/7sTOV05i0Qtyn4sLOUvlc4"
@@ -1597,7 +1719,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 190720,
       "name": "Nosso Jeito",
       "url": "https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf"
@@ -1648,6 +1770,50 @@
     },
     {
       "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Bia Nogueira",
+          "url": "https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250016,
+      "name": "O Cara de \u00d3culos (prod. Coyote Beatz)",
+      "url": "https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG"
+    },
+    {
+      "album": {
+        "name": "Obrigado, M\u00e3e.",
+        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Obrigado, M\u00e3e.",
+      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
+    },
+    {
+      "album": {
         "name": "Oh Shit",
         "url": "https://open.spotify.com/album/36iSgsN8rz5MpQSXOvBlyU"
       },
@@ -1667,7 +1833,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 232311,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/58RYmMg7AdRMJIGkLZQEx9"
@@ -1689,7 +1855,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 194000,
       "name": "on god",
       "url": "https://open.spotify.com/track/7a7wbihbtKPnMCq17iECek"
@@ -1707,7 +1873,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 98449,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4PlwZcXyJwoYPgafhglDgq"
@@ -1725,7 +1891,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 234626,
       "name": "P2",
       "url": "https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5"
@@ -1953,7 +2119,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 614615,
       "name": "Poesia Ac\u00fastica #8: Amor e Samba",
       "url": "https://open.spotify.com/track/2RoWhAVtQrPU53BERYlmYZ"
@@ -2014,6 +2180,52 @@
     },
     {
       "album": {
+        "name": "Poesia Ac\u00fastica - Paris",
+        "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Dk 47",
+          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Poesia Ac\u00fastica - Paris",
+      "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
+    },
+    {
+      "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
@@ -2033,6 +2245,28 @@
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "album": {
+        "name": "Porsche",
+        "url": "https://open.spotify.com/album/78GkqDrHMgb9Fl1ovYfBuP"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159359,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/7fO8Ok3rByqDqGc0MmBsj9"
     },
     {
       "album": {
@@ -2085,7 +2319,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 178000,
       "name": "Psicose",
       "url": "https://open.spotify.com/track/3Hi829to1jWWtcUxMdbJng"
@@ -2107,7 +2341,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 176200,
       "name": "Qq c\u00ea t\u00e1 insinuando",
       "url": "https://open.spotify.com/track/7ICkpwQdejZF5uo71TuYSP"
@@ -2166,6 +2400,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153413,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
+    },
+    {
+      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -2177,7 +2429,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 131240,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
@@ -2195,7 +2447,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 131248,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1xbtojAZsQjOgiGdGX6ChU"
@@ -2233,7 +2485,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
@@ -2281,7 +2533,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
@@ -2303,7 +2555,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 145222,
       "name": "Rodeo - feat. Nas",
       "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
@@ -2339,7 +2591,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 150866,
       "name": "Saint-Tropez",
       "url": "https://open.spotify.com/track/7C39RtGhnEw7cyf0Pyw7PV"
@@ -2357,7 +2609,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 293269,
       "name": "Salmo 23",
       "url": "https://open.spotify.com/track/3ZNt77s1KL5tjXhI2fVWEi"
@@ -2375,7 +2627,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
@@ -2419,7 +2671,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 196180,
       "name": "Smile (with The Weeknd)",
       "url": "https://open.spotify.com/track/09NtNfFG4vpHsAUbdUug0M"
@@ -2489,7 +2741,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 244739,
       "name": "Tango",
       "url": "https://open.spotify.com/track/2jSusUF3coQykgybOU7sqy"
@@ -2589,7 +2841,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 165977,
       "name": "THE SCOTTS",
       "url": "https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk"
@@ -2659,7 +2911,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 125156,
       "name": "Tipo uma Glock",
       "url": "https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu"
@@ -2706,6 +2958,28 @@
     },
     {
       "album": {
+        "name": "Hora do Rush, Vol. 2",
+        "url": "https://open.spotify.com/album/6ldH8PfX3GnXJ3AMOTZ1T4"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162617,
+      "name": "Tt",
+      "url": "https://open.spotify.com/track/4t2UZTxjMqQSGJ5s2qQQzd"
+    },
+    {
+      "album": {
         "name": "Um Pedido",
         "url": "https://open.spotify.com/album/3ejtSTboPzQFofxityuoGf"
       },
@@ -2717,7 +2991,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 211985,
       "name": "Um Pedido",
       "url": "https://open.spotify.com/track/3CgZi8DMUftJHK6WL2gKc1"
@@ -2755,6 +3029,28 @@
       "duration_ms": 385357,
       "name": "Vergonha pra Midia",
       "url": "https://open.spotify.com/track/5JsxHA8NttHWThpTCToK1J"
+    },
+    {
+      "album": {
+        "name": "Viv\u00eancia",
+        "url": "https://open.spotify.com/album/2klsPVX6aIZhAwHuevOiSB"
+      },
+      "artists": [
+        {
+          "name": "Ramonzin",
+          "url": "https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Viv\u00eancia",
+      "url": "https://open.spotify.com/track/7cMulHRah8jqosQED5JV6Z"
     },
     {
       "album": {
@@ -2811,7 +3107,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 173288,
       "name": "Walk Em Down (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg"
@@ -2841,7 +3137,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
@@ -2867,7 +3163,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 141913,
       "name": "Zerando a Vida",
       "url": "https://open.spotify.com/track/1rr3B3UAKOz3vzjuNfhLu3"
@@ -2889,7 +3185,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 137155,
       "name": "\u00cdm\u00e3 de Dinheiro",
       "url": "https://open.spotify.com/track/7EXTQ2gqX19CmMY0CBDeOH"

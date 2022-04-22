@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 109275,
       "name": "Aesthetics",
       "url": "https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 116285,
       "name": "BeatStop",
       "url": "https://open.spotify.com/track/6wC0qvBQ705DXdclZTWaec"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 154666,
       "name": "Bulls",
       "url": "https://open.spotify.com/track/3hzGguJ3xIzOWoSFZBOV4x"
@@ -655,6 +655,24 @@
       "duration_ms": 146000,
       "name": "Buzzer Beater",
       "url": "https://open.spotify.com/track/2yuBW2Empy4JejMW4UCkdG"
+    },
+    {
+      "album": {
+        "name": "Cali Sunshine",
+        "url": "https://open.spotify.com/album/6AyEYNLT0JWgsjhUUqbC2i"
+      },
+      "artists": [
+        {
+          "name": "SP-Mato",
+          "url": "https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105957,
+      "name": "Cali Sunshine",
+      "url": "https://open.spotify.com/track/5YwI4vVk3SHkwIVVoSwp5n"
     },
     {
       "album": {
@@ -727,6 +745,24 @@
       "duration_ms": 132413,
       "name": "Cathartic",
       "url": "https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei"
+    },
+    {
+      "album": {
+        "name": "Cavern",
+        "url": "https://open.spotify.com/album/2KQOOidJ1pYuui2rnhBio1"
+      },
+      "artists": [
+        {
+          "name": "Lil Joke",
+          "url": "https://open.spotify.com/artist/5OjXKVQtwCAwQ3EGw3ZzBQ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117039,
+      "name": "Cavern",
+      "url": "https://open.spotify.com/track/3m4iAUrVsW0BFkyOmdeNrr"
     },
     {
       "album": {
@@ -857,6 +893,24 @@
       "duration_ms": 225326,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36"
+    },
+    {
+      "album": {
+        "name": "City Glow",
+        "url": "https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d"
+      },
+      "artists": [
+        {
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "City Glow",
+      "url": "https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a"
     },
     {
       "album": {
@@ -1139,6 +1193,24 @@
       "duration_ms": 185783,
       "name": "Delicious Deeds",
       "url": "https://open.spotify.com/track/6Ck6Tv3EopH6L33sH2I47y"
+    },
+    {
+      "album": {
+        "name": "Depth",
+        "url": "https://open.spotify.com/album/6Z6b5y4UNXTz2F43xuci7v"
+      },
+      "artists": [
+        {
+          "name": "skyswimming",
+          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92307,
+      "name": "Depth",
+      "url": "https://open.spotify.com/track/0noomsnSCFwt92eZuGRBUY"
     },
     {
       "album": {
@@ -1952,6 +2024,28 @@
     },
     {
       "album": {
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P"
+      },
+      "artists": [
+        {
+          "name": "Melatone",
+          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
+        },
+        {
+          "name": "Howden",
+          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149991,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr"
+    },
+    {
+      "album": {
         "name": "Kawhi",
         "url": "https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY"
       },
@@ -2133,6 +2227,46 @@
       "duration_ms": 122926,
       "name": "I'm Out",
       "url": "https://open.spotify.com/track/50oE6KjOO1CrikNQ7DTlS1"
+    },
+    {
+      "album": {
+        "name": "I.",
+        "url": "https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI"
+      },
+      "artists": [
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        },
+        {
+          "name": "A N T I T H E S I S",
+          "url": "https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127663,
+      "name": "I.",
+      "url": "https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf"
+    },
+    {
+      "album": {
+        "name": "If You Want Me To Stay",
+        "url": "https://open.spotify.com/album/2axBvm9VWTwYhCGXa7Iq3J"
+      },
+      "artists": [
+        {
+          "name": "Lofitic",
+          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "If You Want Me To Stay",
+      "url": "https://open.spotify.com/track/6ppxI6qxTQnyJlpoBoDdBA"
     },
     {
       "album": {
@@ -2670,6 +2804,24 @@
     },
     {
       "album": {
+        "name": "Livin' Easy",
+        "url": "https://open.spotify.com/album/6wFa61RPANe0dB2IgjDU5x"
+      },
+      "artists": [
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132374,
+      "name": "Livin' Easy",
+      "url": "https://open.spotify.com/track/1mFgHisS18u9xDvpv4n2Iz"
+    },
+    {
+      "album": {
         "name": "Living Quarters",
         "url": "https://open.spotify.com/album/2rFeIx7pisAIFKwdy1rTYI"
       },
@@ -2845,6 +2997,24 @@
       "duration_ms": 155090,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/4oKcLLpaDDPMVKCaj6LLtn"
+    },
+    {
+      "album": {
+        "name": "low wave",
+        "url": "https://open.spotify.com/album/7nYHKRzvaKeJ4XOzIC8bXw"
+      },
+      "artists": [
+        {
+          "name": "Angry Apple",
+          "url": "https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97340,
+      "name": "low wave",
+      "url": "https://open.spotify.com/track/0uJzNH4kMiF3k8JotEVf4h"
     },
     {
       "album": {
@@ -3097,7 +3267,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 159000,
       "name": "Morning Bop",
       "url": "https://open.spotify.com/track/7zK6zgXTPYVpWa2W0mRghL"
@@ -3213,7 +3383,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 177817,
       "name": "Murri",
       "url": "https://open.spotify.com/track/0Y9bvmeCQVgpPmzLEgV4nj"
@@ -3311,6 +3481,24 @@
       "duration_ms": 104433,
       "name": "neomatter",
       "url": "https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ"
+    },
+    {
+      "album": {
+        "name": "Neon Tapestries",
+        "url": "https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156037,
+      "name": "Neon Tapestries",
+      "url": "https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl"
     },
     {
       "album": {
@@ -3776,6 +3964,24 @@
     },
     {
       "album": {
+        "name": "L0vesick / Pepper & Salt",
+        "url": "https://open.spotify.com/album/7aUkxRDRbuwhLi6GCTqIIR"
+      },
+      "artists": [
+        {
+          "name": "Blac Bamboo",
+          "url": "https://open.spotify.com/artist/4ypPDohUBzURhyETVv552h"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250302,
+      "name": "Pepper & Salt",
+      "url": "https://open.spotify.com/track/36IEz2n1LIpsJF40eNYsz2"
+    },
+    {
+      "album": {
         "name": "aloe vera chill",
         "url": "https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw"
       },
@@ -4051,6 +4257,24 @@
       "duration_ms": 176006,
       "name": "Punch Tropical",
       "url": "https://open.spotify.com/track/2oS6CVKvmSq7W3w1csy6jn"
+    },
+    {
+      "album": {
+        "name": "Purple Dye",
+        "url": "https://open.spotify.com/album/3AQVZ5POGGPq6mZfPu8qD6"
+      },
+      "artists": [
+        {
+          "name": "calle de phnk",
+          "url": "https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Purple Dye",
+      "url": "https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ"
     },
     {
       "album": {
@@ -5025,7 +5249,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 120267,
       "name": "Step",
       "url": "https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ"
@@ -5231,7 +5455,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 106666,
       "name": "Sun Burst",
       "url": "https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2"
@@ -5427,6 +5651,28 @@
       "duration_ms": 215446,
       "name": "Tainted Tuesday",
       "url": "https://open.spotify.com/track/697kvLFUMf4eK85X1i1vTG"
+    },
+    {
+      "album": {
+        "name": "Taking Off",
+        "url": "https://open.spotify.com/album/7hKLtGjs3Dw2u1mMAJ4Bci"
+      },
+      "artists": [
+        {
+          "name": "Roses",
+          "url": "https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp"
+        },
+        {
+          "name": "Crispy Beats",
+          "url": "https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144552,
+      "name": "Taking Off",
+      "url": "https://open.spotify.com/track/6ujUiKIc7IEMZa6gBSpvbG"
     },
     {
       "album": {
@@ -5758,6 +6004,24 @@
     },
     {
       "album": {
+        "name": "Tidelows",
+        "url": "https://open.spotify.com/album/2qOdD3EsnVwFmvjrus5J7h"
+      },
+      "artists": [
+        {
+          "name": "Mellow.",
+          "url": "https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147004,
+      "name": "Tidelows",
+      "url": "https://open.spotify.com/track/3gR2wcPvXK6nYMAFIwqWNV"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/40YBnTjCEaPksmkjQpNdmR"
       },
@@ -5823,7 +6087,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 177622,
       "name": "Trading Bikes",
       "url": "https://open.spotify.com/track/58eukN93h5b7rBlbcR6owz"
@@ -6101,7 +6365,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-22",
       "duration_ms": 58850,
       "name": "veneza",
       "url": "https://open.spotify.com/track/1dF75yIxsJDjdvungUWfVc"

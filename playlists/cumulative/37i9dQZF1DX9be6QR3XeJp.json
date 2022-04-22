@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: gglum",
+  "description": "Discover your new favourite artists. Cover: Bambi Bains",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -1021,6 +1021,24 @@
       "duration_ms": 214822,
       "name": "Magpie",
       "url": "https://open.spotify.com/track/2Mf5TqpbjwS5lPAjKBA4yJ"
+    },
+    {
+      "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf"
+      },
+      "artists": [
+        {
+          "name": "Bambi Bains",
+          "url": "https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213151,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq"
     },
     {
       "album": {

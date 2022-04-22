@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,496,971 likes - 510 songs - 22 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,497,848 likes - 510 songs - 22 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -519,4 +519,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 509 | [Trees](https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Reflection Of Light](https://open.spotify.com/album/2AjKlK9aWlC2DAZydHWfHO) | 2:33 |
 | 510 | [Surface Waves](https://open.spotify.com/track/4NZdu1A7BaLDXFmoAvazPS) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [The Turn](https://open.spotify.com/album/1HBOLQ0QoDkGDGnjhfdzPy) | 2:18 |
 
-Snapshot ID: `MTY1MDQ3Nzc4NSwwMDAwMDEyNTAwMDAwMTgwNDgyNDYxMWEwMDAwMDE2ZDE1NTk1OTFk`
+Snapshot ID: `MTY1MDU0NDM5NSwwMDAwMDEyNjAwMDAwMTgwNGMxY2M0OWQwMDAwMDE2ZDE1NTk1OTFk`

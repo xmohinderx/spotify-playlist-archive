@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,789 likes - 103 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,951 likes - 103 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 102 | [Teach Me](https://open.spotify.com/track/6x51Lq4KaHqB6rHfCpaI5H) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:11 |
 | 103 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 |
 
-Snapshot ID: `MTY0OTg1Njk5MywwMDAwMDBhMTAwMDAwMTgwMjMyM2RhNzkwMDAwMDE4MDE4YTFmMTY5`
+Snapshot ID: `MTY1MDU3ODQ2MCwwMDAwMDBhMjAwMDAwMTgwNGUyNDhlNTcwMDAwMDE4MDE4YTFmMTY5`
