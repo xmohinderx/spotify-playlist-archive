@@ -1,6 +1,6 @@
 {
   "description": "A blend of new songs and new artists in the neo-soul space. Cover: Syd",
-  "num_followers": 430951,
+  "num_followers": 431116,
   "original_name": "Next Wave Neo-Soul",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "MTY1MDU3ODQ2MCwwMDAwMDBhMjAwMDAwMTgwNGUyNDhlNTcwMDAwMDE4MDE4YTFmMTY5",
   "tracks": [
+    {
+      "added_at": "2022-04-21 22:01:00",
+      "album": {
+        "name": "Please Do Not Lean",
+        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
     {
       "added_at": "2022-04-21 22:01:00",
       "album": {
@@ -952,8 +972,8 @@
       },
       "artists": [
         {
-          "name": "Adeline",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5HRipwJUmN7TG2MLs7IjVT"
         },
         {
           "name": "KAMAUU",

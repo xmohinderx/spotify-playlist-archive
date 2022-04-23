@@ -4722,6 +4722,24 @@
     },
     {
       "album": {
+        "name": "fuK u lol",
+        "url": "https://open.spotify.com/album/5VqcwoAxEBcc3o7WKNyTw3"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60256,
+      "name": "fuK u lol",
+      "url": "https://open.spotify.com/track/7uSekeuXG3G2wH6D1q3ACK"
+    },
+    {
+      "album": {
         "name": "Small Mercies",
         "url": "https://open.spotify.com/album/0HNp72SC5RqSRM8eKjiQsu"
       },

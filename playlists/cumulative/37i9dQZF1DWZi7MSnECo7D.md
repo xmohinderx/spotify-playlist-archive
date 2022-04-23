@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Gorduratrans
+> Novidades e destaques do indie nacional\. Foto: Gab Ferreira
 
-157 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+159 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Maquiada](https://open.spotify.com/track/6r4ow3Hjow2Tx07b12ejlP) | [João Cortez](https://open.spotify.com/artist/53RdXNH4yHV9BGrbMPkmc3), [Olivier](https://open.spotify.com/artist/4UAqN2U4TLaw2XiSwkcm9y), [Erraudo](https://open.spotify.com/artist/3WMrwahbAyOHX1BN54smJ0) | [Maquiada](https://open.spotify.com/album/7ELgVDiXijxfvkv4zdlII0) | 2:56 | 2022-01-14 |  |
 | [Maria Paula](https://open.spotify.com/track/0po0yH3y2QlPVbmooVIGRd) | [Marchioretto](https://open.spotify.com/artist/6Pofo6Xaht29sV8Vkiitv3) | [Sussurros Que Não Cessam](https://open.spotify.com/album/2n9kV3pOP118yJ7J1LsfJC) | 2:47 | 2022-01-21 |  |
 | [Maya](https://open.spotify.com/track/2mW0xozZwF3JFpgYEUivRv) | [Tagore](https://open.spotify.com/artist/6jesZl7rJFJZ8d5i9pX5q8) | [Maya](https://open.spotify.com/album/4AdLRxbgubWzeTQZVz8ed6) | 3:24 | 2022-01-14 | 2022-03-18 |
+| [me encontra lá :\)](https://open.spotify.com/track/5XuiOzDconwEtJcBUfNHXf) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [visions](https://open.spotify.com/album/244lG8X2MPejtq1lKFBqa9) | 2:04 | 2022-04-22 |  |
 | [MENINA LINDA](https://open.spotify.com/track/5MAO8iHLDVnfmWPDyPzU4a) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Dois Quartos](https://open.spotify.com/artist/3JsaihYkRDSTkIgQbxSUto) | [MENINA LINDA](https://open.spotify.com/album/0OmfyYuXhDFZkdiqaNGkrA) | 2:37 | 2022-02-11 | 2022-03-12 |
 | [Meu Caminho](https://open.spotify.com/track/5t1ivpNTSgYRFjZfBSyGzA) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Luana Nogueira](https://open.spotify.com/artist/14yE0zCPijGLzggeKOMawo), [Segunduu](https://open.spotify.com/artist/7GPdPvfdlZeMcMzPQCD5ii) | [Meu Caminho](https://open.spotify.com/album/5k6O0wqkmJIpjI7kX096hY) | 2:10 | 2022-01-14 |  |
 | [MIRO](https://open.spotify.com/track/1bv5RhJDGTjjM2qKN0HaKl) | [TAXIDERMIA](https://open.spotify.com/artist/11hsug3DEsL71KzApTmWcj), [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj), [João Milet Meirelles](https://open.spotify.com/artist/7aAQOBQqV4EPE7pmyCMjKo) | [OUTRO VOLUME](https://open.spotify.com/album/3j9Dw9lvea8ZfdinhW1s0C) | 2:47 | 2022-01-14 | 2022-03-18 |
@@ -112,7 +113,7 @@
 | [Peraí Seu Moço](https://open.spotify.com/track/1YIwJ4Gy15mVKkygMXvC4e) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Peraí Seu Moço](https://open.spotify.com/album/0tBkigcdD7rA849O2MEiRK) | 2:41 | 2022-03-04 | 2022-04-02 |
 | [pieces](https://open.spotify.com/track/4iYclxeZPwL1tVgXkLSb1j) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [pieces](https://open.spotify.com/album/66GR0d6Gi5IgzjzrnhwKej) | 3:13 | 2022-01-28 | 2022-03-12 |
 | [piLLOW dREAMs](https://open.spotify.com/track/3N6YmolwkUHj6Keo82hAYo) | [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [piLLOW dREAMs](https://open.spotify.com/album/1aN7xp1dgvMyAft5llyoox) | 3:14 | 2022-01-14 | 2022-02-12 |
-| [Plano Certo](https://open.spotify.com/track/1yNGWZprvQ6mAGxEWg3u9H) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Plano Certo](https://open.spotify.com/album/16DJ6WF6ULJMuMaxEm7W2R) | 2:21 | 2022-03-11 |  |
+| [Plano Certo](https://open.spotify.com/track/1yNGWZprvQ6mAGxEWg3u9H) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Plano Certo](https://open.spotify.com/album/16DJ6WF6ULJMuMaxEm7W2R) | 2:21 | 2022-03-11 | 2022-04-23 |
 | [Por Enquanto](https://open.spotify.com/track/7Jqb8ZKO0cqj8fewm1A5e3) | [Joana Bentes](https://open.spotify.com/artist/0kRYwayXJKJRNHMJSRnmJm) | [De Volta Pra Cássia](https://open.spotify.com/album/1bA4ihMlX3gCtliW150HdR) | 3:26 | 2022-01-14 | 2022-01-29 |
 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 | 2022-01-28 |  |
 | [Primeira Pessoa](https://open.spotify.com/track/0a3M6e6nChwzrex3W6H4EU) | [Titcho Looper](https://open.spotify.com/artist/37pi9jWX60WC51BeByvvcJ), [Rodrigo Samsara](https://open.spotify.com/artist/16mPOeAPUyjIP11rtquMRC) | [Primeira Pessoa](https://open.spotify.com/album/3oAyKdq4UMS094SH61ky5V) | 3:36 | 2022-01-14 | 2022-03-18 |
@@ -129,6 +130,7 @@
 | [Sambatango](https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL) | [Dan Stump](https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Transe Tropical](https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95) | 2:35 | 2022-03-25 |  |
 | [Se Entrega!](https://open.spotify.com/track/1p4W2Ib2xZm04ouaIrDcWn) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Se Entrega!](https://open.spotify.com/album/2vmEOJsGTnyymrl1pZ2oup) | 3:09 | 2022-01-14 | 2022-02-12 |
 | [sei la](https://open.spotify.com/track/4O3ZXXU6CDddfXwXvsbRiL) | [brvnks](https://open.spotify.com/artist/3aiMnxQVc0OvFr5vv8g5VW), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [sei la](https://open.spotify.com/album/0BfYdVbmaQnSu3AM2LwZQS) | 2:37 | 2022-01-14 |  |
+| [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 | 2022-04-22 |  |
 | [Selvagem](https://open.spotify.com/track/5XN0BlnsNTaqIAytr4QNAe) | [Josimar](https://open.spotify.com/artist/1IDz5mUOxjEjhOwoNVIj8X) | [Selva](https://open.spotify.com/album/4gw0LRAcrZTcCJJb2FsRSS) | 3:32 | 2022-01-14 | 2022-01-29 |
 | [sem rumo](https://open.spotify.com/track/5dK4KjIqd60Y0W3rivvSgP) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sem rumo](https://open.spotify.com/album/4Y9ZIUWf8hnvsMi5GAyUVf) | 4:27 | 2022-01-14 |  |
 | [Seu Ex](https://open.spotify.com/track/2eY3y3Rf2mhE9ZV8haXKK4) | [Banda Tereza](https://open.spotify.com/artist/2jIkaAwhzf31RMBCmOxD3T), [Léo Soma](https://open.spotify.com/artist/6zAnNubrVXt74QU2WqAGsO), [Nixon Silva](https://open.spotify.com/artist/7ExQN8npW8unboofPLTMMC) | [Seu Ex](https://open.spotify.com/album/52x09F005pv9ahvlmheXs9) | 2:44 | 2022-01-14 |  |
@@ -141,7 +143,7 @@
 | [Surfar Um Processo](https://open.spotify.com/track/6CEzUKsbAyPhQr95yCn2Qi) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Surfar Um Processo](https://open.spotify.com/album/4YbnkkdSyyKM0ogMjFkR7V) | 2:15 | 2022-03-18 | 2022-04-02 |
 | [Séries](https://open.spotify.com/track/1kzQwfTgAVLs1LVRNXXQQ5) | [Porfírio](https://open.spotify.com/artist/2qYaT54xotxq8bRuytCzWz) | [Existem Coisas Que Não Podem Esperar](https://open.spotify.com/album/5nqodwTgN5uf7U5ysArl5J) | 3:02 | 2022-03-25 |  |
 | [Só](https://open.spotify.com/track/0b80V1R6f0RM80kdbVnnv4) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Só](https://open.spotify.com/album/5AuoJdycZF6eb4pxTDnb13) | 3:48 | 2022-01-14 |  |
-| [Tempos Sombrios](https://open.spotify.com/track/2hdqKJGZ8k3FZaAKnxgXHi) | [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj), [Uirá dos Reis](https://open.spotify.com/artist/5L1UfYjJzi1H5bXjSpDrhv) | [Fernando Catatau](https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi) | 4:20 | 2022-02-04 |  |
+| [Tempos Sombrios](https://open.spotify.com/track/2hdqKJGZ8k3FZaAKnxgXHi) | [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj), [Uirá dos Reis](https://open.spotify.com/artist/5L1UfYjJzi1H5bXjSpDrhv) | [Fernando Catatau](https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi) | 4:20 | 2022-02-04 | 2022-04-23 |
 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 | 2022-01-21 |  |
 | [Teu Corre](https://open.spotify.com/track/7xxgsPQZJEha6c588wZSAi) | [Igor B.](https://open.spotify.com/artist/7CYcOnoNkoI4LXpEQqnfUP) | [Teu Corre](https://open.spotify.com/album/3nb2i3XcXxcHEPQFtekLVW) | 4:27 | 2022-01-14 | 2022-01-27 |
 | [Tierra del Fuego](https://open.spotify.com/track/2xWVXSEwJcqSRUrnvRK32F) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [A Tentação do Fracasso](https://open.spotify.com/album/02t2XPkozQeUgfEYesclF0) | 6:21 | 2022-03-11 |  |

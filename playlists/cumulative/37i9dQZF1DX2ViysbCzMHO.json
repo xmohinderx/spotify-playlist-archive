@@ -1562,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Nashville Or Nothing (Stripped)",
+        "url": "https://open.spotify.com/album/7HIwS7l4C8LpiOg4ekFKrV"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185616,
+      "name": "Nashville Or Nothing - Stripped",
+      "url": "https://open.spotify.com/track/2SujI6xuygJQ2fjJIwqjyS"
+    },
+    {
+      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },

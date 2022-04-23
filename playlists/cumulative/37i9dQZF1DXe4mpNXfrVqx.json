@@ -268,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Campo Minado",
+        "url": "https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27"
+      },
+      "artists": [
+        {
+          "name": "Luacih",
+          "url": "https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI"
+        },
+        {
+          "name": "kvns",
+          "url": "https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Campo Minado",
+      "url": "https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM"
+    },
+    {
+      "album": {
         "name": "Cor de Sangue",
         "url": "https://open.spotify.com/album/3Axmf4ThFpdE4Jz7KQwjdo"
       },
@@ -538,6 +560,28 @@
     },
     {
       "album": {
+        "name": "Hist\u00f3rias Primas",
+        "url": "https://open.spotify.com/album/5ymgayaqTQxiUOJ7kOHlSC"
+      },
+      "artists": [
+        {
+          "name": "DeaaZ",
+          "url": "https://open.spotify.com/artist/6qwsKQVKf0xfhUYBObyfQc"
+        },
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184874,
+      "name": "For\u00e7a Feminina",
+      "url": "https://open.spotify.com/track/5YAeh6eIl9MoTOvLF2k2WZ"
+    },
+    {
+      "album": {
         "name": "Poder",
         "url": "https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd"
       },
@@ -708,6 +752,32 @@
     },
     {
       "album": {
+        "name": "Malas Prontas",
+        "url": "https://open.spotify.com/album/3NoLX9JnxmOaC0EfwKezAD"
+      },
+      "artists": [
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        },
+        {
+          "name": "Kary",
+          "url": "https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN"
+        },
+        {
+          "name": "Luka G",
+          "url": "https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Malas Prontas",
+      "url": "https://open.spotify.com/track/5tHCD2TzqXr91NqUCBnTpO"
+    },
+    {
+      "album": {
         "name": "Malvadeza",
         "url": "https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy"
       },
@@ -723,7 +793,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 120000,
       "name": "Malvadeza",
       "url": "https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB"
@@ -1059,7 +1129,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 152109,
       "name": "Perigosa",
       "url": "https://open.spotify.com/track/6A7LrLiFhsji2cHwxCldXt"
@@ -1199,7 +1269,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 246004,
       "name": "Respeita as Minas",
       "url": "https://open.spotify.com/track/12eokSUVGbuNJpYZE07W8b"
@@ -1265,10 +1335,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 164538,
       "name": "Sem Tempo",
       "url": "https://open.spotify.com/track/09ziftydXrtCwTqIQl5PFj"
+    },
+    {
+      "album": {
+        "name": "Sinto Te Dizer",
+        "url": "https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202245,
+      "name": "Sinto Te Dizer",
+      "url": "https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u"
     },
     {
       "album": {

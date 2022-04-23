@@ -1280,6 +1280,28 @@
     },
     {
       "album": {
+        "name": "Putaria 2000",
+        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
+      },
+      "artists": [
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107204,
+      "name": "Putaria 2000",
+      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
+    },
+    {
+      "album": {
         "name": "Quest\u00e3o de Moda",
         "url": "https://open.spotify.com/album/0VYqi2kj5ZVRJlpuGebb0v"
       },
@@ -1556,6 +1578,28 @@
     },
     {
       "album": {
+        "name": "Temporada De Ca\u00e7a",
+        "url": "https://open.spotify.com/album/57gdtXezVDMVQhLAtpnrbh"
+      },
+      "artists": [
+        {
+          "name": "brTT",
+          "url": "https://open.spotify.com/artist/7y2EOgsPqCKSxH9MJ2Tk6z"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Temporada De Ca\u00e7a",
+      "url": "https://open.spotify.com/track/7oWXd23WF7vD6FROEHk063"
+    },
+    {
+      "album": {
         "name": "tincan azul",
         "url": "https://open.spotify.com/album/2k9aWQcb4b2Hxzw7v94Y2d"
       },
@@ -1645,7 +1689,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 145000,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5fJhvMvMNbfaLPcwbpDr0w"
@@ -1763,7 +1807,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 112270,
       "name": "Voz da Rua #13: Flow Hannah Montana",
       "url": "https://open.spotify.com/track/1xsg3IoN5ifO5Nrv6PdpXk"

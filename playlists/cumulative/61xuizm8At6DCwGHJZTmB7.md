@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/61xuizm8At6DCwGHJZTmB7.md) - cumulative - [plain](/playlists/plain/61xuizm8At6DCwGHJZTmB7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61xuizm8At6DCwGHJZTmB7)
 
-### [Easter Worship 2022](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
+### [Worship 2022](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
+> Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-137 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+138 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Because He Lives](https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reunited](https://open.spotify.com/album/7ygK4tK0qSpdlMau3sBnO5) | 3:36 | 2022-04-05 |  |
 | [Because Of Christ \- Live](https://open.spotify.com/track/7r7cqJyvYepirmrIWZESjz) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [Because Of Christ \(Live\)](https://open.spotify.com/album/1HGXYg4KxoXD1gpUjCKP2I) | 9:19 | 2022-02-17 |  |
 | [Bigger Than Impossible \- Live](https://open.spotify.com/track/5kc5L0PpCJRbEoPUves8F1) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Bigger Than Impossible \(Live\)](https://open.spotify.com/album/507PuVlEp6f9nbGBXuEjwc) | 5:22 | 2022-04-08 |  |
+| [Break Every Chain](https://open.spotify.com/track/1kSQjzusL5j9Vvy67krOjy) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Break Every Chain](https://open.spotify.com/album/0S8VvN9QY0Ivbpm3ZHRLmr) | 8:20 | 2022-04-22 |  |
 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 | 2022-03-15 |  |
 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 | 2022-02-17 |  |
 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/1ftdZF48D8Ig3zAtQUMYi7) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Christ And Christ Crucified \(Live\)](https://open.spotify.com/album/4r1B2UdNtZaIRtT3R6zziN) | 6:34 | 2022-04-01 |  |

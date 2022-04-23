@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. KennyHoopla
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,594 likes - 59 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,575 likes - 59 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

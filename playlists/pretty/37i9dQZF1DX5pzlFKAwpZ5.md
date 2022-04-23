@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain](/playlists/plain/37i9dQZF1DX5pzlFKAwpZ5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5pzlFKAwpZ5)
 
-### [Postcards From Japan](https://open.spotify.com/playlist/37i9dQZF1DX5pzlFKAwpZ5)
+### [Ambient Japan](https://open.spotify.com/playlist/37i9dQZF1DX5pzlFKAwpZ5)
 
-> A celebration of contemporary Ambient music produced by Japanese artists.
+> Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,990 likes - 94 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,029 likes - 94 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 93 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
 | 94 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 |
 
-Snapshot ID: `MTY0OTQzNjYzNiwwMDAwMDAxMzAwMDAwMTgwMGExNWI1MzcwMDAwMDE3OWE4MzczMjY1`
+Snapshot ID: `MTY1MDYyNjg2NCwwMDAwMDAxNDAwMDAwMTgwNTEwNzI1MTQwMDAwMDE4MDUxMDYwYzBh`

@@ -4,7 +4,7 @@
 
 > Drink up these tunes and all the feels\. Good vibes only.
 
-130 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+131 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-09-17 |  |
 | [Bad Habit](https://open.spotify.com/track/1MbOMquGRXUEUALDcTLuoA) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Bad Habit](https://open.spotify.com/album/5ZIp3Oc2mWHY8KJgbHnWSW) | 3:41 | 2021-03-24 |  |
 | [Bad News](https://open.spotify.com/track/4jsaqIdJ3P6lJ68jRdDVyZ) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Bad News](https://open.spotify.com/album/5wxhUV7piF05Hga0kqbTda) | 3:25 | 2021-03-24 |  |
+| [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-04-22 |  |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Blackout](https://open.spotify.com/track/2ZocFU8AgL3NYeG8vFMWbm) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blackout](https://open.spotify.com/album/45d3TzOxeMA1bWgCD4RkYs) | 3:42 | 2021-03-24 |  |
 | [Blow It Up](https://open.spotify.com/track/0K93XuM3E3idV9CHp3HS5n) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Blow It Up](https://open.spotify.com/album/1ynjoX602qZk7aaeqDFQ7W) | 3:25 | 2021-03-24 |  |

@@ -2,9 +2,9 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Alok, Bastille
+> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-68 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
+69 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [In My Mind](https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/0ns8wB6mJDe5AZbYDnlPSG) | 2:55 | 2021-12-24 |  |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-12-24 |  |
 | [Lo Que Soy](https://open.spotify.com/track/7oNvcR6y6AIxbY2aWukM9p) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Lo Que Soy](https://open.spotify.com/album/6KCqenIwnDx20ku4jx5gVl) | 3:09 | 2021-12-24 |  |
-| [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/track/6Md3dxN47Rrg7ZrIEZ5198) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Ghosts!](https://open.spotify.com/artist/7n6zkjRcVcm27g5HJWKU58) | [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/album/7v0M7q5dtXfvlD2HYaOstf) | 2:58 | 2021-12-24 |  |
+| [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/track/6Md3dxN47Rrg7ZrIEZ5198) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Ghosts!](https://open.spotify.com/artist/7n6zkjRcVcm27g5HJWKU58) | [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/album/7v0M7q5dtXfvlD2HYaOstf) | 2:58 | 2021-12-24 | 2022-04-23 |
 | [Lost For Days \- Remix](https://open.spotify.com/track/7eUv5Miiq8xSbEKpzI2zJd) | [DJ Valle](https://open.spotify.com/artist/5cYXpZE0nMP9yKot4mb32e) | [Lost For Days \(Remix\)](https://open.spotify.com/album/03kcd2pUOAq7BFD6l54akK) | 2:35 | 2021-12-24 | 2022-03-05 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2021-12-24 |  |
 | [Never](https://open.spotify.com/track/7koAfgOQuAnfqDoTdpWMYe) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Never](https://open.spotify.com/album/7IAYlv5CQlfuU9dhETcshh) | 3:25 | 2021-12-24 |  |
@@ -73,6 +73,7 @@
 | [Take Over](https://open.spotify.com/track/4Q3iraOig7nyrRoNz1mNKc) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH) | [Take Over](https://open.spotify.com/album/6Xd8V1pQiniYTlwldeYTr2) | 2:57 | 2021-12-24 |  |
 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 | 2021-12-24 | 2022-04-09 |
 | [The Way](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [The Way](https://open.spotify.com/album/25cyAsBHAUIIME98kp0wXY) | 4:31 | 2021-12-24 |  |
+| [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 | 2022-04-22 |  |
 | [With You](https://open.spotify.com/track/3hx2GGk4lwbOislq85AE0q) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [With You](https://open.spotify.com/album/68josQsaxs9CCBsoEpmOo4) | 4:13 | 2021-12-24 |  |
 | [Worst Enemy](https://open.spotify.com/track/3N3H2fNepRQVf71lnWqJ8I) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Worst Enemy](https://open.spotify.com/album/4rhbowsSXfV2wH3vRau1RQ) | 2:44 | 2021-12-24 |  |
 | [Would You Blame Me](https://open.spotify.com/track/7hCIfAq7QL06nKnoeugoxl) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Would You Blame Me](https://open.spotify.com/album/7MsdbOGBxd8Lahj0oh6yvS) | 3:44 | 2022-03-18 |  |

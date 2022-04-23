@@ -1,13 +1,53 @@
 {
-  "description": "New jazz for open minds. Cover: Joel Ross",
-  "num_followers": 808705,
+  "description": "New jazz for open minds. Cover: Katalyst",
+  "num_followers": 809036,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5NTMyMCwwMDAwMDFjOTAwMDAwMTgwMmI2MjhiMWIwMDAwMDE4MDFlMDkwNTU3",
+  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDFjYTAwMDAwMTgwNGY2ZTI1MGYwMDAwMDE4MDQ3YWZkZTQ4",
   "tracks": [
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "The Avenues",
+        "url": "https://open.spotify.com/album/2UFYbuQl5FSYae42onHWde"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Katalyst",
+          "url": "https://open.spotify.com/artist/5yAyZa2e9KTHLsxSOMDmrC"
+        }
+      ],
+      "duration_ms": 257682,
+      "name": "The Avenues",
+      "url": "https://open.spotify.com/track/4OWFijqelfGi2ooBcDl88K"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Winter Blues",
+        "url": "https://open.spotify.com/album/2XpEElni16wHDpusrS4TZZ"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 433403,
+      "name": "Winter Blues",
+      "url": "https://open.spotify.com/track/6mfwtqsfJHIMZl22Yf16Hq"
+    },
     {
       "added_at": "2022-04-15 04:02:00",
       "album": {
@@ -23,6 +63,54 @@
       "duration_ms": 562400,
       "name": "GUILT",
       "url": "https://open.spotify.com/track/2qteg5TQZlkMpNZ46DQ99w"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "For Fun, You Scroll",
+        "url": "https://open.spotify.com/album/2n9ltvpPY0s77s08gzDuJF"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "duration_ms": 39515,
+      "name": "For Fun, You Scroll",
+      "url": "https://open.spotify.com/track/7zABidxslxZcJyOZF9pEuy"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Amathongo",
+        "url": "https://open.spotify.com/album/26o5fNnGz2qfoCuhWrAvW8"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "duration_ms": 386209,
+      "name": "Amathongo",
+      "url": "https://open.spotify.com/track/2jUqVDtYIJWd3baszNjZkF"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Trance De Jour",
+        "url": "https://open.spotify.com/album/4eyUBeYGwrJvvTHaBrq6t7"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "Trance De Jour",
+      "url": "https://open.spotify.com/track/2bK6NBZeG9WG2BmZZAXFYS"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -47,6 +135,78 @@
       "duration_ms": 274403,
       "name": "The Window",
       "url": "https://open.spotify.com/track/2lJzX1Vn1bEuCRrNUotnup"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Strata Records - the Sound of Detroit - Reimagined by Jazzanova",
+        "url": "https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Joy Road",
+      "url": "https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 380631,
+      "name": "Beep Durple",
+      "url": "https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Lazy Song",
+        "url": "https://open.spotify.com/album/5uu3QNPRpcWwgO7Bn6BU3D"
+      },
+      "artists": [
+        {
+          "name": "Artur Tu\u017anik",
+          "url": "https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Simon Olderskog Albertsen",
+          "url": "https://open.spotify.com/artist/15tLpbaGjjsoUj9tzaPPZK"
+        }
+      ],
+      "duration_ms": 341893,
+      "name": "Lazy Song",
+      "url": "https://open.spotify.com/track/510RuuRoJH0LrB3HiY6qpH"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Sammy Jammy (Bunker Sesh)",
+        "url": "https://open.spotify.com/album/7rXS5qI7AOQRNEMSmIrqgy"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "duration_ms": 259027,
+      "name": "Sammy Jammy - Bunker Sesh",
+      "url": "https://open.spotify.com/track/1HjVuVZSIG27OWanHGLUhj"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -107,22 +267,6 @@
       "duration_ms": 397066,
       "name": "Noam",
       "url": "https://open.spotify.com/track/3HYHagZGinnjSfdDPOTgAg"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 380631,
-      "name": "Beep Durple",
-      "url": "https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -477,22 +621,6 @@
       "url": "https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Promise of Spring",
-        "url": "https://open.spotify.com/album/3P2ayHfny4467NGE1KMw2F"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 269856,
-      "name": "Promise of Spring",
-      "url": "https://open.spotify.com/track/6fA1NF7cmp9nrVdihdOXE4"
-    },
-    {
       "added_at": "2022-04-12 13:32:30",
       "album": {
         "name": "Quiet Corner",
@@ -507,26 +635,6 @@
       "duration_ms": 442000,
       "name": "Quiet Corner",
       "url": "https://open.spotify.com/track/6V8Ugj0fS2wG9DGASNLSGK"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Homeroom Crush (Furndware Session)",
-        "url": "https://open.spotify.com/album/5iUHyRmgLaYsnVdsIUYp7X"
-      },
-      "artists": [
-        {
-          "name": "Sam Greenfield",
-          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
-        },
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        }
-      ],
-      "duration_ms": 308728,
-      "name": "Homeroom Crush - Furndware Session",
-      "url": "https://open.spotify.com/track/7BAMZ3TnZ19gHmncQkUljP"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -743,22 +851,6 @@
       "duration_ms": 220853,
       "name": "We Give Thanks",
       "url": "https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Click Bait",
-        "url": "https://open.spotify.com/album/4UgwpuRs5pd5bxoGJU06WZ"
-      },
-      "artists": [
-        {
-          "name": "Mike Casey",
-          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Click Bait",
-      "url": "https://open.spotify.com/track/1chzmz9zF3az7txF92lEfd"
     },
     {
       "added_at": "2022-02-10 23:00:00",

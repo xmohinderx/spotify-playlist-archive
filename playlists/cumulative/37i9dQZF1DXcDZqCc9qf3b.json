@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Battle Kitty (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/5d6p6H0Y7R0VOAyZr2pwEA"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/069n4k5Ultxa6j838AJtGJ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99586,
+      "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
+      "url": "https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy"
+    },
+    {
+      "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
       },

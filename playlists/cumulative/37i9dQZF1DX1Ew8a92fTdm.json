@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Dog Named Doug",
+        "url": "https://open.spotify.com/album/1li4sJRjRLTEKK5Gp4kMUr"
+      },
+      "artists": [
+        {
+          "name": "Eli Demir",
+          "url": "https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98500,
+      "name": "A Dog Named Doug",
+      "url": "https://open.spotify.com/track/0ixMSZlYaSg7npBIxgPrt2"
+    },
+    {
+      "album": {
         "name": "A Dream Come True",
         "url": "https://open.spotify.com/album/5By1GSkEIbL1POMXxmDUju"
       },
@@ -224,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Auntie Elsie",
+        "url": "https://open.spotify.com/album/5GeRufrHnQSPQQ4SdBhss5"
+      },
+      "artists": [
+        {
+          "name": "Annie Carr",
+          "url": "https://open.spotify.com/artist/6EBgGvgb0VVGC7rOlBziTR"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60500,
+      "name": "Auntie Elsie",
+      "url": "https://open.spotify.com/track/4ALRNmKLlBtWR3estJPqYB"
+    },
+    {
+      "album": {
         "name": "Baby Bear",
         "url": "https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok"
       },
@@ -253,7 +289,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 58624,
       "name": "Baby Dreams",
       "url": "https://open.spotify.com/track/2OCSQoa1w5dp3Qx14pD7VQ"
@@ -289,7 +325,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 56610,
       "name": "Babysteps",
       "url": "https://open.spotify.com/track/2zqHqxPQhECCWTwuCNzNHK"
@@ -311,6 +347,24 @@
       "duration_ms": 131385,
       "name": "Backyard Daydream",
       "url": "https://open.spotify.com/track/0S2aU6wJL4OMjtjA4WnSMP"
+    },
+    {
+      "album": {
+        "name": "Ballet Shoes",
+        "url": "https://open.spotify.com/album/4cRhTmroqLADRlhKHGCZvv"
+      },
+      "artists": [
+        {
+          "name": "LouLou Patterson",
+          "url": "https://open.spotify.com/artist/0d6qCJGBHwIkP37kRebgfs"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64250,
+      "name": "Ballet Shoes",
+      "url": "https://open.spotify.com/track/7evERsGGS33NCpbuyZeGxs"
     },
     {
       "album": {
@@ -422,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Blow Me A Kiss",
+        "url": "https://open.spotify.com/album/0kll38lENG3yiWNG88geKR"
+      },
+      "artists": [
+        {
+          "name": "Yasu Carter",
+          "url": "https://open.spotify.com/artist/1a5lbgjd8frJ8UirtYdtpQ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Blow Me A Kiss",
+      "url": "https://open.spotify.com/track/3hGa4W9QcfGEjmSjSyXDgN"
+    },
+    {
+      "album": {
         "name": "Brahms Lullaby",
         "url": "https://open.spotify.com/album/78CVjmcZf59p7ouiZVEfhQ"
       },
@@ -451,10 +523,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 56500,
       "name": "Brother John",
       "url": "https://open.spotify.com/track/7cSlfPE7Wnpqoqqo0vW4cF"
+    },
+    {
+      "album": {
+        "name": "Bath Time Lullabies",
+        "url": "https://open.spotify.com/album/7aH1XxefhIjFAKWMcdU4ID"
+      },
+      "artists": [
+        {
+          "name": "Bubbles & Soap",
+          "url": "https://open.spotify.com/artist/6hxN0gH6z5uckTX4FxCOB6"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105382,
+      "name": "Bubble Bath",
+      "url": "https://open.spotify.com/track/1628ekWldpzuKjr94qB1F0"
     },
     {
       "album": {
@@ -584,6 +674,42 @@
     },
     {
       "album": {
+        "name": "Dans notre jardin",
+        "url": "https://open.spotify.com/album/7Lz4tikU1XQxOis3UNLPWl"
+      },
+      "artists": [
+        {
+          "name": "Chante Abbott",
+          "url": "https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Dans notre jardin",
+      "url": "https://open.spotify.com/track/0Q3wPSFh2tmOTeMe1yAFQM"
+    },
+    {
+      "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5fqjLiDafcWE7steZN3cES"
+      },
+      "artists": [
+        {
+          "name": "Don't Worry Baby Lullabies",
+          "url": "https://open.spotify.com/artist/2rB8ZbwgwJStg2vvSrTwUp"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133025,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/4lma9ZO9Xux8SxU7lbR6X5"
+    },
+    {
+      "album": {
         "name": "Doux re\u0302ves",
         "url": "https://open.spotify.com/album/1ZZBI7d3OfZBIvFe1vKDuD"
       },
@@ -703,7 +829,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 82434,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/4owbjiVRN3BbtDueur0vFW"
@@ -883,7 +1009,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 90795,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/4jv8JL4cIFlrhnUdZVThBA"
@@ -955,7 +1081,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 40374,
       "name": "H\u00e4nschen klein",
       "url": "https://open.spotify.com/track/7CLSv8Jzp0aG04JSaAclTR"
@@ -1358,6 +1484,24 @@
     },
     {
       "album": {
+        "name": "Pillowland",
+        "url": "https://open.spotify.com/album/5hWMnvXPEDjXOgIcvJX8bB"
+      },
+      "artists": [
+        {
+          "name": "Selby Petersen",
+          "url": "https://open.spotify.com/artist/5p2vvsASYdfPaCQ8ewBBJp"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96500,
+      "name": "Pillowland",
+      "url": "https://open.spotify.com/track/0WlhOzbdApycx5FARxvg6K"
+    },
+    {
+      "album": {
         "name": "Polly the Pirate",
         "url": "https://open.spotify.com/album/1kDPZB9RBEEfhR0T5vHzvA"
       },
@@ -1369,7 +1513,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 58000,
       "name": "Polly the Pirate",
       "url": "https://open.spotify.com/track/3GiUwGr55Kx5rkoxFy2GN8"
@@ -1477,7 +1621,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 52750,
       "name": "Shine Bright Little Star",
       "url": "https://open.spotify.com/track/67FfMaZW9QJ8Wl02hhemAt"
@@ -1693,7 +1837,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 46250,
       "name": "Ten Green Bottles",
       "url": "https://open.spotify.com/track/253pJVE3sYCzpEWZqteYZh"
@@ -1909,7 +2053,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 50250,
       "name": "This old man",
       "url": "https://open.spotify.com/track/11lS3t1xqRF8l1zkf23kUn"
@@ -2017,7 +2161,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 54250,
       "name": "Twinkle twinkle little star",
       "url": "https://open.spotify.com/track/0GpjHdTg8HUBqqjjbuyRZx"
@@ -2179,7 +2323,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 48500,
       "name": "Zoe the Zebra",
       "url": "https://open.spotify.com/track/26B0F7D6IuonLfBep3KScC"

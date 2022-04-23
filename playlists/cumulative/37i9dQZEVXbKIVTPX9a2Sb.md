@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-651 songs - 1 day 9 hr 0 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
+652 songs - 1 day 9 hr 2 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [FOYER](https://open.spotify.com/track/7GT9Y7tOMfzEDn6a7he8Fj) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG) | [ODSÚDENÍ NA ÚSPECH](https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2) | 2:32 | 2021-12-16 | 2022-01-15 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-06-08 | 2021-07-14 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-04-18 |
+| [Front 2 Back](https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [BACK 2 RAVE](https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc) | 2:20 | 2022-04-22 |  |
 | [Fu](https://open.spotify.com/track/2O5oR2Qs2NAfIsEZSF8UvX) | [DMS](https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D) | [HUHU](https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO) | 3:46 | 2021-12-12 | 2021-12-30 |
 | [FUEGO MÁ ICE](https://open.spotify.com/track/3LUoRqFHM5nvKTvWpQ7F5D) | [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ) | [EP02](https://open.spotify.com/album/4qHPcgkis6814KM8okBTrn) | 2:07 | 2021-11-24 | 2021-11-25 |
 | [Fukk stress](https://open.spotify.com/track/2CwuGWDM4RwBRAx3MfbDeG) | [Radikal Chef](https://open.spotify.com/artist/5Bdw1DlKOvAJkLbZ7Xb7Zq) | [Slovenský Hollywood](https://open.spotify.com/album/2OdkcYq1vixt804yGMTGYm) | 2:39 | 2021-05-25 | 2021-05-26 |
@@ -348,7 +349,7 @@
 | [Moon](https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:36 | 2021-08-31 | 2021-09-03 |
 | [moondance](https://open.spotify.com/track/4i8X8rz8Pzs6EtjL8OYOWH) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt), [Ego](https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 3:21 | 2021-09-03 | 2021-09-19 |
 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 | 2021-07-18 | 2021-07-19 |
-| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-04-16 |  |
+| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-04-16 | 2022-04-23 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2022-04-01 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-09-03 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-02-16 | 2022-03-27 |

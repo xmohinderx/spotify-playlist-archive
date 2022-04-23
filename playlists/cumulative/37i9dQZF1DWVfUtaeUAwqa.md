@@ -4,7 +4,7 @@
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-56 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/7mDWtjnoYGtiNOTOKCesxv)
+57 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/7mDWtjnoYGtiNOTOKCesxv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,13 +14,14 @@
 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 | 2020-08-19 |  |
 | [Bill Bailey, Won't You Please Come Home?](https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [The Al Hirt Collection](https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp) | 3:30 | 2020-08-19 |  |
 | [Black Bottom Stomp \- 2002 Remastered](https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Jazz King Of New Orleans](https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do) | 3:12 | 2020-08-19 |  |
-| [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 | 2020-08-19 |  |
+| [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 | 2020-08-19 | 2022-04-23 |
 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 | 2020-08-19 |  |
 | [Bugle Call Blues](https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr) | [New Orleans Rhythm Kings](https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA) | [All Time Jazz: New Orleans Rhythm Kings](https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl) | 2:22 | 2020-08-19 |  |
 | [By and By](https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 3:00 | 2020-08-19 |  |
 | [Carry Me Back to Old Virginia](https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [30 Classics: Dixieland Jazz for Mardi Gras](https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE) | 3:52 | 2020-08-19 |  |
 | [Clarinete Marmelade](https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh) | [Black Bottom Stompers](https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe) | [30 Jahre Black Bottom Stompers](https://open.spotify.com/album/622kT8j41pEKEflwXna9lF) | 4:02 | 2020-08-19 |  |
 | [Dippermouth Blues](https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans, Vol\. 2](https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm) | 2:38 | 2020-08-19 |  |
+| [Dixie](https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP) | [Billy Randolph](https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF), [The High Hatters](https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u) | [Roaring' 20's](https://open.spotify.com/album/6yGyFKhtYmeatToldl421e) | 3:02 | 2020-08-19 |  |
 | [Doctor Jazz](https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:28 | 2020-08-19 |  |
 | [Down By the Riverside](https://open.spotify.com/track/75SK3djaJssHR9TTHTv7wI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [50th Anniversary Collection](https://open.spotify.com/album/1rPqLl1oKzFbHAfweVzcGs) | 2:54 | 2020-08-19 |  |
 | [Frankie & Johnny](https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [That's A Plenty](https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx) | 3:47 | 2020-08-19 |  |

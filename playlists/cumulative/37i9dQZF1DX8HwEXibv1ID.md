@@ -2,7 +2,7 @@
 
 ### [The Cole Porter Songbook](https://open.spotify.com/playlist/37i9dQZF1DX8HwEXibv1ID)
 
-> The best recordings from the never ending songbook of Cole Porter\. Cover: Cole Porter
+> Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
 75 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/07HhJQQxCFAjy4pqibACp7)
 

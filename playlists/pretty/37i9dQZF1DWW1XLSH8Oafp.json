@@ -1,48 +1,52 @@
 {
-  "description": "ur on the list bb \ud83e\ude90 featuring DJ_Dave",
-  "num_followers": 156084,
+  "description": "ur on the list bb \ud83e\ude90 featuring PinkPantheress & WILLOW",
+  "num_followers": 157608,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5NTI2MCwwMDAwMDA2NTAwMDAwMTgwMmI2MWEwZTUwMDAwMDE4MDI4ZTgwOTI3",
+  "snapshot_id": "MTY1MDY0NzAyNywwMDAwMDA2NzAwMDAwMTgwNTIzYWQwNWMwMDAwMDE4MDRjY2M4OGRl",
   "tracks": [
     {
-      "added_at": "2022-04-14 01:43:03",
+      "added_at": "2022-04-22 04:14:56",
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53"
+        "name": "Where you are (feat. WILLOW)",
+        "url": "https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN"
       },
       "artists": [
         {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 183865,
-      "name": "Castles",
-      "url": "https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "miss u",
-        "url": "https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC"
-      },
-      "artists": [
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Lolo the Great",
-          "url": "https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 246240,
-      "name": "miss u",
-      "url": "https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh"
+      "duration_ms": 153706,
+      "name": "Where you are (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
+    },
+    {
+      "added_at": "2022-04-22 04:14:56",
+      "album": {
+        "name": "words",
+        "url": "https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "words",
+      "url": "https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO"
     },
     {
       "added_at": "2022-04-01 17:18:52",
@@ -77,6 +81,54 @@
       "url": "https://open.spotify.com/track/5Ru2NOdxgo0f6mvqfVGZo9"
     },
     {
+      "added_at": "2022-04-22 04:14:56",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/1Agh9HDns2chodEFH14mh8"
+      },
+      "artists": [
+        {
+          "name": "Sharda",
+          "url": "https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/4Bmk7CoGZWB4baz6Zqo3fK"
+    },
+    {
+      "added_at": "2022-04-14 01:43:03",
+      "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 183865,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu"
+    },
+    {
+      "added_at": "2022-04-22 04:14:56",
+      "album": {
+        "name": "Heartbreak Engineering",
+        "url": "https://open.spotify.com/album/5BsySWCUfLgRERQweADjn3"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "duration_ms": 139261,
+      "name": "Heartbreak Engineering",
+      "url": "https://open.spotify.com/track/5Fg8x715LGYUz1qkOMUq9n"
+    },
+    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "heavensleep",
@@ -91,6 +143,42 @@
       "duration_ms": 120147,
       "name": "heavensleep",
       "url": "https://open.spotify.com/track/7jqiOS9oxnSpCooYGHlNbR"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "miss u",
+        "url": "https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        },
+        {
+          "name": "Lolo the Great",
+          "url": "https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh"
+    },
+    {
+      "added_at": "2022-04-22 04:14:56",
+      "album": {
+        "name": "b4 (TOKYOPILL REMIX)",
+        "url": "https://open.spotify.com/album/0wXE56ShI3wYMTqztiVmtl"
+      },
+      "artists": [
+        {
+          "name": "Heatace",
+          "url": "https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "b4 - TOKYOPILL REMIX",
+      "url": "https://open.spotify.com/track/4NUhP03UEsCp2L76QwZqjp"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -125,6 +213,22 @@
       "url": "https://open.spotify.com/track/0w4azd2nPbcRe3JN11MDPI"
     },
     {
+      "added_at": "2022-04-22 04:14:56",
+      "album": {
+        "name": "sunken",
+        "url": "https://open.spotify.com/album/3iQuGVN1VKsiTE8wmv8L0k"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuroneko",
+          "url": "https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl"
+        }
+      ],
+      "duration_ms": 227003,
+      "name": "sunken",
+      "url": "https://open.spotify.com/track/5e7FFc9rvDTBzxLb1IsnIl"
+    },
+    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "get to u",
@@ -155,6 +259,22 @@
       "duration_ms": 148021,
       "name": "crush",
       "url": "https://open.spotify.com/track/6kLhilDX44nCibecCJldjP"
+    },
+    {
+      "added_at": "2022-04-22 04:14:56",
+      "album": {
+        "name": "Audio",
+        "url": "https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd"
+      },
+      "artists": [
+        {
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        }
+      ],
+      "duration_ms": 211410,
+      "name": "Audio",
+      "url": "https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -203,6 +323,26 @@
       "duration_ms": 302906,
       "name": "Rash Devices",
       "url": "https://open.spotify.com/track/2mubBWUJIr8yYo3NlNs9g8"
+    },
+    {
+      "added_at": "2022-04-22 04:14:56",
+      "album": {
+        "name": "in my closet",
+        "url": "https://open.spotify.com/album/5l7VNatAUY3dVj3kIoJ9kI"
+      },
+      "artists": [
+        {
+          "name": "Catnapp",
+          "url": "https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU"
+        },
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 212156,
+      "name": "in my closet",
+      "url": "https://open.spotify.com/track/48GvmXwI4c36lzW21byz3H"
     },
     {
       "added_at": "2022-04-13 20:49:33",

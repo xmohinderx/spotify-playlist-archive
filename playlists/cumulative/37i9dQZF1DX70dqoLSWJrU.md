@@ -2,7 +2,7 @@
 
 ### [Heartbreak Jazz](https://open.spotify.com/playlist/37i9dQZF1DX70dqoLSWJrU)
 
-> You don't know what love is, until you've learned the meaning of the blues.
+> Heartbreaking and sad jazz songs.
 
 103 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
 

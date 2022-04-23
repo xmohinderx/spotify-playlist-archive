@@ -560,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Big Biznezz",
+        "url": "https://open.spotify.com/album/4hukvvTtxPGBNqFZBopIP0"
+      },
+      "artists": [
+        {
+          "name": "Slimelife Shawty",
+          "url": "https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184661,
+      "name": "Big Biznezz",
+      "url": "https://open.spotify.com/track/7wDBHljtDnxAaxVITpCKgB"
+    },
+    {
+      "album": {
         "name": "La Pharmacia",
         "url": "https://open.spotify.com/album/2bq2AWRXRUHeMxyNBrmDK7"
       },
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 122064,
       "name": "Black Wall Street",
       "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
@@ -764,6 +782,28 @@
     },
     {
       "album": {
+        "name": "Brazy",
+        "url": "https://open.spotify.com/album/5NPJChyQgOZaESCjr2EgVg"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169245,
+      "name": "Brazy (with YNW Melly)",
+      "url": "https://open.spotify.com/track/6wVUIV8RvwlLJlK1DsgVdj"
+    },
+    {
+      "album": {
         "name": "Breakdown",
         "url": "https://open.spotify.com/album/2B3yBLf93OntMUTKRzI2Mh"
       },
@@ -837,6 +877,24 @@
       "duration_ms": 161816,
       "name": "BSU (Shut Up)",
       "url": "https://open.spotify.com/track/1Copp20ewBPoetwaP3XVDr"
+    },
+    {
+      "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/6Q3RWVPWVd2m1ljjyQO4Mc"
+      },
+      "artists": [
+        {
+          "name": "Hd4president",
+          "url": "https://open.spotify.com/artist/1IRUBjX6bQWnwupD48ZRgc"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124012,
+      "name": "Bussin",
+      "url": "https://open.spotify.com/track/6RBzypSp0OMn2X85uUyb2P"
     },
     {
       "album": {
@@ -1543,7 +1601,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 244968,
       "name": "Do It Up",
       "url": "https://open.spotify.com/track/1frjEBA90WqoheDVw9XRI7"
@@ -2398,6 +2456,28 @@
     },
     {
       "album": {
+        "name": "H Spot (with Yo Gotti)",
+        "url": "https://open.spotify.com/album/54l2xBRFjR3A3xFeWJhrej"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216504,
+      "name": "H Spot (with Yo Gotti)",
+      "url": "https://open.spotify.com/track/5Fo6k4jpGzg9540H26Ihjx"
+    },
+    {
+      "album": {
         "name": "Ha Ha Ha Ha",
         "url": "https://open.spotify.com/album/2nI2NLgIRedSw5UnPPKiKF"
       },
@@ -2867,7 +2947,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 170218,
       "name": "Join Em",
       "url": "https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd"
@@ -3081,6 +3161,24 @@
       "duration_ms": 150075,
       "name": "Lately",
       "url": "https://open.spotify.com/track/77OMY86vNpNk304RSucxNr"
+    },
+    {
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/36c3JDQ0EC1HCi14Z0H9ZG"
+      },
+      "artists": [
+        {
+          "name": "BRS Kash",
+          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171033,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/4iYlas8ppT52QQE30MNXnk"
     },
     {
       "album": {
@@ -4646,6 +4744,24 @@
     },
     {
       "album": {
+        "name": "2 Effortless",
+        "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
+      },
+      "artists": [
+        {
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130134,
+      "name": "R.T.T.B",
+      "url": "https://open.spotify.com/track/40NuHUtRB6oedbFV1O2Rph"
+    },
+    {
+      "album": {
         "name": "2 Aliv\u00eb",
         "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
       },
@@ -4857,7 +4973,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 145485,
       "name": "Regardless (feat. Lil Gotit)",
       "url": "https://open.spotify.com/track/3KZHXF7Vh6F3qRlzdqde0P"
@@ -4955,6 +5071,24 @@
       "duration_ms": 165485,
       "name": "Rock Wit Proph",
       "url": "https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M"
+    },
+    {
+      "album": {
+        "name": "ROKU",
+        "url": "https://open.spotify.com/album/5LQ2K1eNWz1zkdl0KVSofQ"
+      },
+      "artists": [
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131142,
+      "name": "ROKU",
+      "url": "https://open.spotify.com/track/06LXe97w96150WPik2gRZ4"
     },
     {
       "album": {
@@ -5187,7 +5321,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 178671,
       "name": "See The Difference",
       "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
@@ -5391,7 +5525,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 126240,
       "name": "Situation",
       "url": "https://open.spotify.com/track/5yRFUb6uJF6VD4uxiBMWL2"
@@ -5575,7 +5709,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 175819,
       "name": "Standards",
       "url": "https://open.spotify.com/track/54llkrIQrEyNyHx7PcrtSc"
@@ -5945,7 +6079,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 194751,
       "name": "The One",
       "url": "https://open.spotify.com/track/42p3DhJW9tC9YRvMsSd8VT"
@@ -6211,7 +6345,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 134562,
       "name": "Told Us Not To Do It (feat. Peezy)",
       "url": "https://open.spotify.com/track/6ogwWDtAChjxGHURQLTK6e"
@@ -6363,7 +6497,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 135374,
       "name": "Turnt Shit",
       "url": "https://open.spotify.com/track/5ud1mtFvYKAKhV1aAegFum"
@@ -6618,6 +6752,28 @@
     },
     {
       "album": {
+        "name": "We Not Humping (Remix)",
+        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143325,
+      "name": "We Not Humping - Remix",
+      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+    },
+    {
+      "album": {
         "name": "UNTAMED",
         "url": "https://open.spotify.com/album/1LM4qNXzxeL4ptfUOeUQwV"
       },
@@ -6823,6 +6979,24 @@
       "duration_ms": 154291,
       "name": "WOKEUPTHINKINBOUT",
       "url": "https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9"
+    },
+    {
+      "album": {
+        "name": "Wop",
+        "url": "https://open.spotify.com/album/0niYaRUVW1Kp1Dq2qcThbo"
+      },
+      "artists": [
+        {
+          "name": "No Savage",
+          "url": "https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Wop",
+      "url": "https://open.spotify.com/track/1RDyaS05lKnreDIPY9ByVN"
     },
     {
       "album": {

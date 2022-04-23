@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Liam Gallagher
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,951 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,172 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [The Bleeding Whole](https://open.spotify.com/track/528tUqYOou5qdZEya1RuJx) | [Alista](https://open.spotify.com/artist/61hCos6hISn5le08kOOkIc) | [The Bleeding Whole](https://open.spotify.com/album/2Jx7VegM2ciTC6YLegfTBh) | 3:42 |
 | 50 | [Free In The Knowledge](https://open.spotify.com/track/0Jb9xtnDpX4BOCal2mXBUn) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Free in the Knowledge](https://open.spotify.com/album/1nFKBsdnVslLyoNGoQ44uc) | 4:12 |
 
-Snapshot ID: `MTY1MDU4ODE3MSwwMDAwMDMxMzAwMDAwMTgwNGViOGJlZDgwMDAwMDE4MDQyM2EyMDBj`
+Snapshot ID: `MTY1MDYxMjg2NSwwMDAwMDMxNDAwMDAwMTgwNTAzMTg4ZGIwMDAwMDE4MDQyM2EyMDBj`

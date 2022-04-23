@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Yahoo 25",
+        "url": "https://open.spotify.com/album/04BxROcYindfxOFgdBTHik"
+      },
+      "artists": [
+        {
+          "name": "Yahoo",
+          "url": "https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295320,
+      "name": "A \u00c1guia e o Falc\u00e3o",
+      "url": "https://open.spotify.com/track/0N7a4B63UjubmKOBCAyj08"
+    },
+    {
+      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/4slCnOvaFhfeo0Qy3AZEMt"
       },
@@ -171,6 +189,24 @@
       "duration_ms": 296597,
       "name": "Abuso de Poder",
       "url": "https://open.spotify.com/track/3D36cD2XCe20jJgUb7NgH6"
+    },
+    {
+      "album": {
+        "name": "Acaso",
+        "url": "https://open.spotify.com/album/4bjYx9mngwSOXVRNXpZzT9"
+      },
+      "artists": [
+        {
+          "name": "Taigo",
+          "url": "https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238416,
+      "name": "Acaso",
+      "url": "https://open.spotify.com/track/2wSLrkw84GBlAzyEGjnTih"
     },
     {
       "album": {
@@ -412,6 +448,42 @@
     },
     {
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/6wNhe6Elxu9ln8639pGb20"
+      },
+      "artists": [
+        {
+          "name": "Sea Smile",
+          "url": "https://open.spotify.com/artist/3ct3zDqakyuMxobcowQhQv"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/4FrSJW2JJsojY7rHn3d122"
+    },
+    {
+      "album": {
+        "name": "Caminha (Que Aqui \u00e9 da Osvaldo)",
+        "url": "https://open.spotify.com/album/0rXumMZpub1Mff5xYaTsJr"
+      },
+      "artists": [
+        {
+          "name": "Edu K",
+          "url": "https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Caminha (Que Aqui \u00e9 da Osvaldo)",
+      "url": "https://open.spotify.com/track/67jEIIt6rLIqUpgmeUZ35P"
+    },
+    {
+      "album": {
         "name": "Ch\u00e1",
         "url": "https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg"
       },
@@ -493,7 +565,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 178073,
       "name": "Comigo",
       "url": "https://open.spotify.com/track/7vK7TTDN4gQ4aQchzvqEPg"
@@ -1019,7 +1091,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 125250,
       "name": "Fogo no Rancho",
       "url": "https://open.spotify.com/track/48DWFQPut6tB0z0p3l0GJN"
@@ -1301,7 +1373,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 230209,
       "name": "Loop Desenfreado",
       "url": "https://open.spotify.com/track/2grJWrsh54IvdPYGqWx2dR"
@@ -1478,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "Mente Blindada",
+        "url": "https://open.spotify.com/album/2OpV6iAAIBcwDrLh8bAGlf"
+      },
+      "artists": [
+        {
+          "name": "SONGZ",
+          "url": "https://open.spotify.com/artist/4IEdb4XbOL3tYsrkqjwfhI"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173779,
+      "name": "Mente Blindada",
+      "url": "https://open.spotify.com/track/1V0bLFzFT6s3UYcx5buRAd"
+    },
+    {
+      "album": {
         "name": "Metade Verdade",
         "url": "https://open.spotify.com/album/2HrP56DCGpb1KvI0EksF0k"
       },
@@ -1619,7 +1709,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 236521,
       "name": "n\u00e3o sei se eu t\u00f4 legal",
       "url": "https://open.spotify.com/track/0XqbOyc2hkSmrrrgo2SHsF"
@@ -1749,7 +1839,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 220430,
       "name": "O Ritmo do Algoritmo",
       "url": "https://open.spotify.com/track/3S4bzlWq0v0opO2kqw5Z1D"
@@ -2014,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "Babil\u00f4nia",
+        "url": "https://open.spotify.com/album/5wwCWwHPueo7qgbVZMF8Ri"
+      },
+      "artists": [
+        {
+          "name": "Deb and The Mentals",
+          "url": "https://open.spotify.com/artist/3adFOhZcvNnHWUSe7YwYvf"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232831,
+      "name": "Rouca",
+      "url": "https://open.spotify.com/track/59Fp36OwfUVP7y2iqhUIHV"
+    },
+    {
+      "album": {
         "name": "Saliva",
         "url": "https://open.spotify.com/album/5vEkuDru6v0kBVQXtDWRYu"
       },
@@ -2253,7 +2361,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 310062,
       "name": "Trem",
       "url": "https://open.spotify.com/track/1nRjROWexBREzWAMz0KgEu"

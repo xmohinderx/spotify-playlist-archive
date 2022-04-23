@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 151764,
       "name": "Novo Dia",
       "url": "https://open.spotify.com/track/6MJjas9JNfEZdezIR9m5ox"
@@ -1932,6 +1932,24 @@
     },
     {
       "album": {
+        "name": "Problem\u00e1tico",
+        "url": "https://open.spotify.com/album/057zWGa01U5v8gIhdSA1Gh"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171106,
+      "name": "Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/1wKX8tZRsnI4QPOSkjDIkr"
+    },
+    {
+      "album": {
         "name": "Pura Ilus\u00e3o",
         "url": "https://open.spotify.com/album/3X9sTASPhchWD2ThIvdyph"
       },
@@ -2124,6 +2142,28 @@
     },
     {
       "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/4duVRF0JacONXtcMJd7SQr"
+      },
+      "artists": [
+        {
+          "name": "Mokados Crew",
+          "url": "https://open.spotify.com/artist/2Et1HAlGYmJ1DvMR9yYrb5"
+        },
+        {
+          "name": "Baldin",
+          "url": "https://open.spotify.com/artist/6yBlviWFRycsUBsDGfuM6o"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/7sDiNSnnLq7aIVhmC3oy2t"
+    },
+    {
+      "album": {
         "name": "Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
       },
@@ -2217,6 +2257,32 @@
       "duration_ms": 529597,
       "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
+    },
+    {
+      "album": {
+        "name": "Vegana",
+        "url": "https://open.spotify.com/album/1Br74KqHvzBhj2d7U6n4c2"
+      },
+      "artists": [
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        },
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196721,
+      "name": "Vegana",
+      "url": "https://open.spotify.com/track/2NBbXo3pw1ZIqBmtZ5S964"
     },
     {
       "album": {
@@ -2385,7 +2451,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 489000,
       "name": "Versos no Beat 2 - S\u00f3 pra Mim",
       "url": "https://open.spotify.com/track/3IGPJTfCSdtaxrJDfc5sVD"

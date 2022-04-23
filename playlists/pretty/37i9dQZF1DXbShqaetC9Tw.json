@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 51557,
+  "num_followers": 51633,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU4OTk0MCwwMDAwMDAwMDQ5YzU3YzYzZTA5YjFlODMxMzY2YWY0ZThlMDRkMDAx",
+  "snapshot_id": "MTY1MDY3NTkxNSwwMDAwMDAwMDM0ZjVmZGZiNjViNTc2ODEyZTRlMTFjZDFhMGRmYzI1",
   "tracks": [
     {
       "added_at": "2022-04-21 02:12:16",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "D-day",
-        "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 181653,
-      "name": "When The Rain Stops",
-      "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
         "name": "you won't be there for me",
         "url": "https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5"
       },
@@ -59,18 +43,18 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+        "name": "D-day",
+        "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
       },
       "artists": [
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
         }
       ],
-      "duration_ms": 227320,
-      "name": "Free (I'm Gonna Be)",
-      "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
+      "duration_ms": 181653,
+      "name": "When The Rain Stops",
+      "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -95,6 +79,22 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "Free (I'm Gonna Be)",
+      "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
         "name": "idealism",
         "url": "https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi"
       },
@@ -107,22 +107,6 @@
       "duration_ms": 289000,
       "name": "A Song Nobody Knows",
       "url": "https://open.spotify.com/track/4t2ykHVO5uuUhQLKk55TDx"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "CR\u00c8ME",
-        "url": "https://open.spotify.com/album/2rwFQMzjIl55c4uTnxuJ6D"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 116086,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -143,22 +127,38 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "One Snowy Day",
-        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
+        "name": "CR\u00c8ME",
+        "url": "https://open.spotify.com/album/2rwFQMzjIl55c4uTnxuJ6D"
       },
       "artists": [
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 240800,
-      "name": "One Snowy Day (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
+      "duration_ms": 116086,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "duration_ms": 254198,
+      "name": "DRUNK TALK (feat. sogumm)",
+      "url": "https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -199,42 +199,22 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "THINKING Part.2",
-        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
+        "name": "One Snowy Day",
+        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         },
         {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 218813,
-      "name": "Being left (Feat. Dvwn)",
-      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "\"TO INFINITY.\"",
-        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        }
-      ],
-      "duration_ms": 254198,
-      "name": "DRUNK TALK (feat. sogumm)",
-      "url": "https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9"
+      "duration_ms": 240800,
+      "name": "One Snowy Day (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -259,18 +239,38 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/36KT5I1t1z9Jcsog7V7mpa"
+        "name": "Fly me away",
+        "url": "https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ"
       },
       "artists": [
         {
-          "name": "\uae40\uc608\uc900",
-          "url": "https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3"
+          "name": "OA",
+          "url": "https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A"
         }
       ],
-      "duration_ms": 161029,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy"
+      "duration_ms": 198653,
+      "name": "24",
+      "url": "https://open.spotify.com/track/1LndCu88RsOgzZXnZXxnUj"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Frank Ocean",
+        "url": "https://open.spotify.com/album/60HTg0VEeH0VYSkMWLKRfz"
+      },
+      "artists": [
+        {
+          "name": "Jiho Givenchy",
+          "url": "https://open.spotify.com/artist/7FmUBvEV5FBVdF021jN5r2"
+        },
+        {
+          "name": "Javan",
+          "url": "https://open.spotify.com/artist/2Ov5VPtihyYirhoUVqvb8g"
+        }
+      ],
+      "duration_ms": 188630,
+      "name": "Frank Ocean",
+      "url": "https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -287,6 +287,22 @@
       "duration_ms": 217200,
       "name": "Love Scene",
       "url": "https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 145613,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/3Xm3i2teDnfh3L99wAPqcb"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -323,34 +339,18 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Sorry That I Love You Still",
+        "url": "https://open.spotify.com/album/2dd1k75R0SlWlEGJgBw07G"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 211997,
-      "name": "PIZZA",
-      "url": "https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u"
+      "duration_ms": 147607,
+      "name": "Sorry That I Love You Still",
+      "url": "https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -371,18 +371,50 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "Sorry That I Love You Still",
-        "url": "https://open.spotify.com/album/2dd1k75R0SlWlEGJgBw07G"
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
       "artists": [
         {
-          "name": "KURO",
-          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 147607,
-      "name": "Sorry That I Love You Still",
-      "url": "https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL"
+      "duration_ms": 124913,
+      "name": "the day we first met",
+      "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/36KT5I1t1z9Jcsog7V7mpa"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc608\uc900",
+          "url": "https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3"
+        }
+      ],
+      "duration_ms": 161029,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -407,6 +439,190 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
+        "name": "THINKING Part.2",
+        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Being left (Feat. Dvwn)",
+      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "DOT 1",
+        "url": "https://open.spotify.com/album/2pyUjceJRcxmJsf0UAZvOI"
+      },
+      "artists": [
+        {
+          "name": "Holmsted",
+          "url": "https://open.spotify.com/artist/4AETbFj8tCGWWDWLXIldTB"
+        },
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Night after night (Feat. Hauzee)",
+      "url": "https://open.spotify.com/track/4ix7WeS3DYGa9wfexshzJ7"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "m o v i e",
+        "url": "https://open.spotify.com/album/24XoIBgE7XS2nTdxD9F6T0"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh"
+        }
+      ],
+      "duration_ms": 197550,
+      "name": "m o v i e (feat. Jade)",
+      "url": "https://open.spotify.com/track/4uEtsUadZyyeVwvRpyp8WI"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "Girl in New York (jazz)",
+      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Far From the Madding City",
+        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 211997,
+      "name": "PIZZA",
+      "url": "https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Fisherman's knot",
+        "url": "https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7"
+      },
+      "artists": [
+        {
+          "name": "sewoong",
+          "url": "https://open.spotify.com/artist/7lZCDg75pkeQd4VYLgNPTf"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
+      },
+      "artists": [
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "sad love song",
+        "url": "https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 181211,
+      "name": "sad love song",
+      "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/2qYpdRrP5fvMfX4CvrVPx8"
+      },
+      "artists": [
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/0HaxQubRJkcX3oQvy6u1px"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
         "name": "Room Stuff",
         "url": "https://open.spotify.com/album/7Mw6HPaPoDNDRjiTzxEIjL"
       },
@@ -423,18 +639,18 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "Dry Flower",
-        "url": "https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/68DMCodGLgBv2W0EHbTFAr"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 145613,
-      "name": "Rain Drop",
-      "url": "https://open.spotify.com/track/3Xm3i2teDnfh3L99wAPqcb"
+      "duration_ms": 259000,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/2Tp9N1PSuCsv6uqj7IgFWJ"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -467,274 +683,6 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "SINK",
-        "url": "https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN"
-      },
-      "artists": [
-        {
-          "name": "Rad Museum",
-          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "This Night",
-      "url": "https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Fly me away",
-        "url": "https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ"
-      },
-      "artists": [
-        {
-          "name": "OA",
-          "url": "https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "24",
-      "url": "https://open.spotify.com/track/1LndCu88RsOgzZXnZXxnUj"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "m o v i e",
-        "url": "https://open.spotify.com/album/24XoIBgE7XS2nTdxD9F6T0"
-      },
-      "artists": [
-        {
-          "name": "lofi",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh"
-        }
-      ],
-      "duration_ms": 197550,
-      "name": "m o v i e (feat. Jade)",
-      "url": "https://open.spotify.com/track/4uEtsUadZyyeVwvRpyp8WI"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Frank Ocean",
-        "url": "https://open.spotify.com/album/60HTg0VEeH0VYSkMWLKRfz"
-      },
-      "artists": [
-        {
-          "name": "Jiho Givenchy",
-          "url": "https://open.spotify.com/artist/7FmUBvEV5FBVdF021jN5r2"
-        },
-        {
-          "name": "Javan",
-          "url": "https://open.spotify.com/artist/2Ov5VPtihyYirhoUVqvb8g"
-        }
-      ],
-      "duration_ms": 188630,
-      "name": "Frank Ocean",
-      "url": "https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 240094,
-      "name": "Girl in New York (jazz)",
-      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "DOT 1",
-        "url": "https://open.spotify.com/album/2pyUjceJRcxmJsf0UAZvOI"
-      },
-      "artists": [
-        {
-          "name": "Holmsted",
-          "url": "https://open.spotify.com/artist/4AETbFj8tCGWWDWLXIldTB"
-        },
-        {
-          "name": "Claire Hau",
-          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Night after night (Feat. Hauzee)",
-      "url": "https://open.spotify.com/track/4ix7WeS3DYGa9wfexshzJ7"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Fisherman's knot",
-        "url": "https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7"
-      },
-      "artists": [
-        {
-          "name": "sewoong",
-          "url": "https://open.spotify.com/artist/7lZCDg75pkeQd4VYLgNPTf"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "sad love song",
-        "url": "https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 181211,
-      "name": "sad love song",
-      "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
-      },
-      "artists": [
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/68DMCodGLgBv2W0EHbTFAr"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/2Tp9N1PSuCsv6uqj7IgFWJ"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 124913,
-      "name": "the day we first met",
-      "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov"
-      },
-      "artists": [
-        {
-          "name": "Wildberry",
-          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
-        },
-        {
-          "name": "EunBii",
-          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Sunrise (Feat. EunBii)",
-      "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/2qYpdRrP5fvMfX4CvrVPx8"
-      },
-      "artists": [
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        },
-        {
-          "name": "ROMderful",
-          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
-        },
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/0HaxQubRJkcX3oQvy6u1px"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/4KnyT34T9Oj013VwWnhRcj"
-      },
-      "artists": [
-        {
-          "name": "Nieah",
-          "url": "https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw"
-        }
-      ],
-      "duration_ms": 194308,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/1itk8LxTTvJidBjwbMkeie"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -759,22 +707,38 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "If You Didn\u2019t Know (With. Peej)",
-        "url": "https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ"
+        "name": "SINK",
+        "url": "https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN"
       },
       "artists": [
         {
-          "name": "Jflow",
-          "url": "https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1"
-        },
-        {
-          "name": "Peej",
-          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
         }
       ],
-      "duration_ms": 296000,
-      "name": "If You Didn\u2019t Know (With. Peej)",
-      "url": "https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW"
+      "duration_ms": 190588,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov"
+      },
+      "artists": [
+        {
+          "name": "Wildberry",
+          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
+        },
+        {
+          "name": "EunBii",
+          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Sunrise (Feat. EunBii)",
+      "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -791,6 +755,42 @@
       "duration_ms": 183296,
       "name": "Don't Be Blue",
       "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4KnyT34T9Oj013VwWnhRcj"
+      },
+      "artists": [
+        {
+          "name": "Nieah",
+          "url": "https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw"
+        }
+      ],
+      "duration_ms": 194308,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1itk8LxTTvJidBjwbMkeie"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "GOOD BOYS GONE BVD",
+        "url": "https://open.spotify.com/album/46yXA9eD43ql1b5BqYlzMw"
+      },
+      "artists": [
+        {
+          "name": "BADROOM",
+          "url": "https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48"
+        },
+        {
+          "name": "SAYMA",
+          "url": "https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE"
+        }
+      ],
+      "duration_ms": 192628,
+      "name": "I Said",
+      "url": "https://open.spotify.com/track/0wV4K0cM78MbIk0B6b6Y4t"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -815,18 +815,38 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "Do Not Want To Do It",
-        "url": "https://open.spotify.com/album/2pMUYU2JxYvFIhLirHp7AK"
+        "name": "D - \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/0VAzE9GG4ifqL05VtRhsDQ"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "DAB19",
+          "url": "https://open.spotify.com/artist/5UdyE3s0FtqyDMWNGkQvOu"
         }
       ],
-      "duration_ms": 232318,
-      "name": "Do Not Want To Do It",
-      "url": "https://open.spotify.com/track/7zUG4VBAF5hF4x3bUHXDp7"
+      "duration_ms": 244000,
+      "name": "D - \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/3rWvseGXGmmOsg4hRm7jUl"
+    },
+    {
+      "added_at": "2022-04-21 02:12:16",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Don't cry (Feat. george) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/3pEGkFxAMIsz0qNadCveuX"
     },
     {
       "added_at": "2022-04-21 02:12:16",
@@ -847,54 +867,38 @@
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "D - \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/0VAzE9GG4ifqL05VtRhsDQ"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "DAB19",
-          "url": "https://open.spotify.com/artist/5UdyE3s0FtqyDMWNGkQvOu"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 244000,
-      "name": "D - \uc774\uc57c\uae30",
-      "url": "https://open.spotify.com/track/3rWvseGXGmmOsg4hRm7jUl"
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2022-04-21 02:12:16",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3fcyxmVS8xyWcqJwifUsad"
+        "name": "If You Didn\u2019t Know (With. Peej)",
+        "url": "https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ"
       },
       "artists": [
         {
-          "name": "Rosy",
-          "url": "https://open.spotify.com/artist/2wMzCCeiXSV9NFSzGzwVyv"
+          "name": "Jflow",
+          "url": "https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1"
         },
         {
-          "name": "Lynden Rook",
-          "url": "https://open.spotify.com/artist/2wPR2w4YUpJNHRSdwx8OHr"
+          "name": "Peej",
+          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
         }
       ],
-      "duration_ms": 217984,
-      "name": "Pink Slip",
-      "url": "https://open.spotify.com/track/17IFPGDfnC3kFZ0QGBjSi2"
-    },
-    {
-      "added_at": "2022-04-21 02:12:16",
-      "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
+      "duration_ms": 296000,
+      "name": "If You Didn\u2019t Know (With. Peej)",
+      "url": "https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

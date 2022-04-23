@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 184000,
       "name": "Afterparty (feat. Rich The Kid) - GATT\u00dcSO Remix",
       "url": "https://open.spotify.com/track/2BvVO6Fpo3Iza5rNXuP7PO"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 269508,
       "name": "Alive - Solomun Remix Edit",
       "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 129814,
       "name": "All We Got (feat. KIDDO) - Ofenbach Remix",
       "url": "https://open.spotify.com/track/2rUsJXt4NeeDiIU6sBvrxo"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 218234,
       "name": "Impact - Soulwax Remix \u2013 Edit",
       "url": "https://open.spotify.com/track/1bHrUhSO0HYL1bM8QeYJww"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 220194,
       "name": "Let's Love (feat. Sia) - Vintage Culture, Fancy Inc Remix",
       "url": "https://open.spotify.com/track/2UxQYmVl8d5OczJnIUWxwH"
@@ -1398,6 +1398,32 @@
     },
     {
       "album": {
+        "name": "Life Goes On (Yves V Remix) (feat. Alex Hosking)",
+        "url": "https://open.spotify.com/album/7d7jSIO6l9L1ZcsX2AQxnZ"
+      },
+      "artists": [
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Life Goes On (feat. Alex Hosking) - Yves V Remix",
+      "url": "https://open.spotify.com/track/4LjvF9Xc7Nv55QLhXDLxlk"
+    },
+    {
+      "album": {
         "name": "Lifetime Remixes",
         "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
       },
@@ -1413,7 +1439,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 194755,
       "name": "Lifetime - Jayda G Baleen Mix",
       "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
@@ -1609,7 +1635,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 226889,
       "name": "Moving Blind - Cloonee Remix",
       "url": "https://open.spotify.com/track/7GMTmF4AKRJ7xHf020K785"
@@ -1735,7 +1761,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 245760,
       "name": "Never Look Back (feat. Syd Silvair) - Wh0 Remix",
       "url": "https://open.spotify.com/track/2NVRLCl902Nk5U3jikruyW"
@@ -1821,7 +1847,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 188640,
       "name": "No Time For Tears - HUGEL Remix",
       "url": "https://open.spotify.com/track/5GlvVK12PYsREtS9ZuOh9l"
@@ -2063,7 +2089,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 269032,
       "name": "Praise (feat. Gunna) - Malaa Remix",
       "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
@@ -2427,7 +2453,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 194645,
       "name": "Silver Lining - DubVision Remix",
       "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
@@ -2501,7 +2527,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 174759,
       "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
       "url": "https://open.spotify.com/track/7CJnqHgBNYXSUPrfDigbny"
@@ -2627,7 +2653,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 189965,
       "name": "Strut - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
@@ -2875,7 +2901,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 282796,
       "name": "The Light Is Always On - Le Youth Remix",
       "url": "https://open.spotify.com/track/4xYoV5JrvbAXdloTA0Dn1g"
@@ -3042,6 +3068,36 @@
     },
     {
       "album": {
+        "name": "Wasted Love (feat. Lagique) [Dubdogz & J\u00d8RD Remix]",
+        "url": "https://open.spotify.com/album/25Ghrm8VHgT1U78LbgXtAt"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
+      "url": "https://open.spotify.com/track/7ahUOwJgqduTiCtRatttpq"
+    },
+    {
+      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -3199,7 +3255,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 185652,
       "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
       "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"

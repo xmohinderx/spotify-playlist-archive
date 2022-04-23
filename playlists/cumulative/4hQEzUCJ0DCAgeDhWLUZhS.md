@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Red Hot Chilli Peppers
 
-287 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+289 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Behave](https://open.spotify.com/track/6nzyBGYk6Env11uSGAlY5e) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Behave](https://open.spotify.com/album/4zZd900I8mnvrDouSXk8GH) | 3:24 | 2021-07-31 |  |
 | [Berrara](https://open.spotify.com/track/30N0hxlLlqc7DR6lqbcXUC) | [TOTTY](https://open.spotify.com/artist/5tOshqnaM41LBDj4eqANGf) | [Berrara](https://open.spotify.com/album/4FxznnLU3L7sjFH2K4eqOX) | 3:04 | 2020-11-03 | 2022-03-18 |
 | [Better](https://open.spotify.com/track/4JUMmZMufX0kLRMzRPi4Qv) | [Pandamic](https://open.spotify.com/artist/6Pz9ks8oUASukNF4ZzMWKX) | [How To Be Happy](https://open.spotify.com/album/0BuV0XxIG1VOQQYkc7ksZz) | 4:15 | 2021-10-29 |  |
+| [Better Days](https://open.spotify.com/track/5tarIM9VB3BpdIkNrZ3rt1) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Better Days](https://open.spotify.com/album/69pEA76PQuoWNb3GQyixD9) | 4:19 | 2022-04-22 |  |
 | [Big Legged Woman](https://open.spotify.com/track/6Z56jgvXSif8xOjqsSdlaR) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black to Blues, Vol\. 2](https://open.spotify.com/album/20b2c8edlkYwXezzTl96Vn) | 4:39 | 2020-10-10\* | 2021-02-25 |
 | [Black Bull](https://open.spotify.com/track/14PVSmvbws1BrJynbTCJB7) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Black Bull](https://open.spotify.com/album/5jnW68gaF2SWL27bRIkq0I) | 3:07 | 2020-10-10\* | 2021-02-25 |
 | [Black Chandelier](https://open.spotify.com/track/1Lilehka5GXo4nt7LrH0Ae) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites](https://open.spotify.com/album/3oGG66OOobRoldGzZjI31P) | 4:04 | 2020-10-10\* | 2021-02-25 |
@@ -63,6 +64,7 @@
 | [Cyanide](https://open.spotify.com/track/4kutzanEPtsdPPO8kjxjgu) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Cyanide](https://open.spotify.com/album/2Ig6DAdtEvDo6YVTgIOmNH) | 3:27 | 2020-10-10\* | 2021-05-13 |
 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 | 2021-10-01 |  |
 | [Dancing On My Own](https://open.spotify.com/track/23WqyY1EGAKBG8Wms2bFp2) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Dancing On My Own](https://open.spotify.com/album/7gEOv7G4cnqH0FJ0iucRoN) | 3:17 | 2020-10-10\* | 2021-05-13 |
+| [Dancing Shoes](https://open.spotify.com/track/7BKOfKtv10zEygWd1WABrh) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Dancing Shoes](https://open.spotify.com/album/6L9DCSXBlSRG63bmPUnJkj) | 3:57 | 2022-04-22 |  |
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2021-09-04 |  |
 | [DEADALIVE](https://open.spotify.com/track/5dPr6Q3SDvS4R1tVcwnlpA) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [DEADALIVE](https://open.spotify.com/album/3vpcguFzIwFSJQMZ4LKbDT) | 3:27 | 2020-10-23 | 2022-03-18 |
 | [Deadline](https://open.spotify.com/track/76pUPMbmu0ENmuAiaTPvIq) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [This Is This](https://open.spotify.com/album/4VhsCxjH2URMz5tmiFB4oz) | 3:38 | 2021-03-16 | 2022-03-18 |

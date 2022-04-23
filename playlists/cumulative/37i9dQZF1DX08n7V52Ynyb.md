@@ -2,9 +2,9 @@
 
 ### [Relaxing Vocal Jazz](https://open.spotify.com/playlist/37i9dQZF1DX08n7V52Ynyb)
 
-> Smooth and relaxing vocal jazz.
+> Soft and smooth vocal jazz to help you relax and unwind.
 
-111 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
+112 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Castles in the Air](https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [Castles in the Air](https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S) | 3:53 | 2022-04-13 |  |
 | [City Garden](https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr) | 6:34 | 2022-04-13 |  |
 | [Confession / The Other Woman](https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 6:43 | 2022-04-13 |  |
-| [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 | 2022-04-13 |  |
+| [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 | 2022-04-13 | 2022-04-23 |
 | [Don't Explain](https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:24 | 2022-04-13 | 2022-04-22 |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2022-04-13 |  |
 | [Easy Come, Easy Go Blues](https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Easy Come, Easy Go Blues](https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp) | 2:32 | 2022-04-13 |  |
@@ -55,7 +55,7 @@
 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 | 2022-04-13 |  |
 | [I'm a Fool to Want You](https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq) | [Laverne Butler](https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi) | [Blues in the City](https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw) | 5:03 | 2022-04-13 |  |
 | [If I Had You](https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:20 | 2022-04-13 |  |
-| [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 | 2022-04-13 |  |
+| [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 | 2022-04-13 | 2022-04-23 |
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2022-04-13 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [London/Paris](https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW) | 6:50 | 2022-04-13 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m) | 5:15 | 2022-04-13 |  |
@@ -95,6 +95,7 @@
 | [Spring Waltz](https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Spring Waltz](https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO) | 3:26 | 2022-04-13 |  |
 | [Stardust](https://open.spotify.com/track/1SC7yyif78lqVKvfhyRQV8) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Stardust](https://open.spotify.com/album/7kMzUihLu60fHLRIUCuw60) | 3:53 | 2022-04-13 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 | 2022-04-13 |  |
+| [That Old Feeling](https://open.spotify.com/track/3RCu8rcZm5xpEiH4Iach2o) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:10 | 2022-04-22 |  |
 | [The Good Life](https://open.spotify.com/track/17orrFjtkGMIlJuf1atirL) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | ['Round Midnight](https://open.spotify.com/album/6jlhrQp4yRd0CBcFqwrCdf) | 2:34 | 2022-04-13 | 2022-04-21 |
 | [The Long and Winding Road](https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 4:14 | 2022-04-13 |  |
 | [The Man I Love](https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:50 | 2022-04-13 |  |
@@ -116,7 +117,7 @@
 | [Why Should I Care](https://open.spotify.com/track/2tn72FK3r3Ky0j9oQpwcvK) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 3:56 | 2022-04-13 |  |
 | [Why Should I Care?](https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK), [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 3:47 | 2022-04-13 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo) | [Olivia Van Goor](https://open.spotify.com/artist/2FWAbctEyBW7vxsl2UMvpy) | [Willow Weep For Me](https://open.spotify.com/album/46rIGsBH4cGh39xDCSD13x) | 4:43 | 2022-04-13 |  |
-| [Willow Weep For Me](https://open.spotify.com/track/0KiIVvicncLbgf0Gl3OXAI) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 5:33 | 2022-04-13 | 2022-04-22 |
+| [Willow Weep For Me](https://open.spotify.com/track/0KiIVvicncLbgf0Gl3OXAI) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 5:33 | 2022-04-13 |  |
 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 | 2022-04-13 |  |
 | [You've Changed](https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:30 | 2022-04-13 |  |
 

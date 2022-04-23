@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain](/playlists/plain/37i9dQZF1DX8Uebhn9wzrS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Uebhn9wzrS)
 
-### [Chill Lofi Study Beats](https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wzrS)
+### [chill lofi study beats](https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wzrS)
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,421 likes - 492 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,427 likes - 492 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -501,4 +501,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 491 | [/tikkin/](https://open.spotify.com/track/5yV2F4TMAqRITvd7CmtP05) | [fluff](https://open.spotify.com/artist/3InMJFM9aMItFyFwHDeAhz) | [/tikkin/](https://open.spotify.com/album/3fMui8hdIl0A9A2sJsIjco) | 1:29 |
 | 492 | [Alter Time](https://open.spotify.com/track/2uqowBnUT4KrCszpKiOLCH) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Alter Time](https://open.spotify.com/album/6vKh9udH7E3c4tqSJN9YUn) | 1:37 |
 
-Snapshot ID: `MTY1MDU4NTYwMCwwMDAwMDA2ODAwMDAwMTgwNGU5MTgwY2EwMDAwMDE3MGE0ZjU2OWYx`
+Snapshot ID: `MTY1MDYwMzQ1MywwMDAwMDA2OTAwMDAwMTgwNGZhMWVhZjMwMDAwMDE4MDRmYTE2Nzg5`

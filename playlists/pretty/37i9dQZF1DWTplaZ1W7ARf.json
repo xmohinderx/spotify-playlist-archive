@@ -1,33 +1,13 @@
 {
   "description": "Neighborhood Storytellers. Cover: Yo Gotti",
-  "num_followers": 46698,
+  "num_followers": 46727,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDAwMzc0MCwwMDAwMDA0NTAwMDAwMTgwMmJlMzA3MGMwMDAwMDE3Zjc2MzlkZDVh",
+  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDA0NjAwMDAwMTgwNGY2ZDNiMDgwMDAwMDE3Zjc2MzlkZDVh",
   "tracks": [
-    {
-      "added_at": "2022-04-15 06:22:20",
-      "album": {
-        "name": "Last One Left",
-        "url": "https://open.spotify.com/album/136JKS8joUGUiReq11D03P"
-      },
-      "artists": [
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 195590,
-      "name": "Last One Left (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun"
-    },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Static Rain (feat. Birdy)",
+        "url": "https://open.spotify.com/album/21j9EyGoFPhmq5sYrajjLT"
+      },
+      "artists": [
+        {
+          "name": "GANG51E JUNE",
+          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "Static Rain (feat. Birdy)",
+      "url": "https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -135,6 +135,26 @@
       "duration_ms": 237854,
       "name": "4REIGN GANGSTA (feat. Kevin Gates)",
       "url": "https://open.spotify.com/track/5SbtfQsckw0gUxsEYIOPI3"
+    },
+    {
+      "added_at": "2022-04-15 06:22:20",
+      "album": {
+        "name": "Last One Left",
+        "url": "https://open.spotify.com/album/136JKS8joUGUiReq11D03P"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 195590,
+      "name": "Last One Left (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun"
     },
     {
       "added_at": "2022-04-10 00:28:46",
@@ -895,22 +915,6 @@
       "duration_ms": 182311,
       "name": "Private Phones",
       "url": "https://open.spotify.com/track/5ub5nP1gGGVgt0J14Gqpf2"
-    },
-    {
-      "added_at": "2021-10-15 07:04:43",
-      "album": {
-        "name": "Pallbearers",
-        "url": "https://open.spotify.com/album/6calbwoH5iMDX9DhLWyqFY"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 234661,
-      "name": "Pallbearers",
-      "url": "https://open.spotify.com/track/1yqpw4a5IBE7VrjDFWrS41"
     },
     {
       "added_at": "2021-10-15 07:04:43",

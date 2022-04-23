@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-110 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
+111 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-02-18 |  |
 | [Coyote Ugly \(Dave Audé MegaMix\)](https://open.spotify.com/track/6eEAcjkSy4fQ2HXAPJChP1) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Coyote Ugly \(Dave Audé MegaMix\)](https://open.spotify.com/album/0Kp8UdAga05TcR9uXQEtBR) | 4:18 | 2021-12-10 |  |
 | [Cruise \- Remix](https://open.spotify.com/track/2IQIp6AvSm7OJ3y2yp8use) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Big Machine Dance Party](https://open.spotify.com/album/7gGlDoGV5Oc1PGT92fu7cM) | 3:27 | 2021-12-10 |  |
+| [Cut Me Loose \- Harris & Hurr Remix](https://open.spotify.com/track/4eE1ZdBoLpgYFhqDzUw71Y) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3), [Harris & Hurr](https://open.spotify.com/artist/2aNn60ycgLbQIyhyxMQrNb) | [Cut Me Loose \(Harris & Hurr Remix\)](https://open.spotify.com/album/0nci4XAlOufPc6FpJv4wLa) | 3:11 | 2022-04-22 |  |
 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6AoHQqGnuwFk9ygWhzLRws) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:50 | 2021-12-10 |  |
 | [Dark Horse \- Attom Remix](https://open.spotify.com/track/1NZAaaimzWonDpqcK0Ls88) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu), [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Dark Horse \(Attom Remix\)](https://open.spotify.com/album/5USn3Wjh3KsfuTlomPQnNg) | 3:39 | 2021-12-10 |  |
 | [Diamonds \- Cash Cash Remix](https://open.spotify.com/track/2ByP6u4dKJSTmHziCVDteF) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Diamonds \(Cash Cash Remix\)](https://open.spotify.com/album/3iyYMP6fNOHsYpVKDr026R) | 2:59 | 2021-12-10 |  |

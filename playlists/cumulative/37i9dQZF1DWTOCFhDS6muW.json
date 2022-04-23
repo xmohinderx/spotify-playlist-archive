@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 232724,
       "name": "Biamaangui",
       "url": "https://open.spotify.com/track/1VzspFOoNXhEEzMqgCNQf9"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 373386,
       "name": "Cartel Mix",
       "url": "https://open.spotify.com/track/6Nz76UrhYm9Pr2JTpkKDGP"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 222432,
       "name": "Dona Amidi",
       "url": "https://open.spotify.com/track/6I9E346OLKTAu8bG2ZA6cs"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 219173,
       "name": "En Mi Pais",
       "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 213178,
       "name": "Laluda Belly",
       "url": "https://open.spotify.com/track/2cqDTVnHeHN3DTIVdzwOex"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 338364,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 306573,
       "name": "Oye Este Canto",
       "url": "https://open.spotify.com/track/0jhgnwataSYhdxHF332pZH"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 282723,
       "name": "Punta Silver",
       "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 443520,
       "name": "Puntas Garifunas Criollas",
       "url": "https://open.spotify.com/track/1dIQDYKOOoE4GuUXO5ReV9"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 255190,
       "name": "Si Pudiera Yo",
       "url": "https://open.spotify.com/track/7C0qwetoetcHa3Q4mCBCWz"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 289724,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/53FCiG3Gvt6a3ZYExLeOtK"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
@@ -907,10 +907,28 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 220380,
       "name": "Suenos",
       "url": "https://open.spotify.com/track/7C28Z8QbcrEmLRCg1sBW8f"
+    },
+    {
+      "album": {
+        "name": "Saben Quien Llego",
+        "url": "https://open.spotify.com/album/78w7svKazglFlKTtHOYht7"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Swing Latino",
+      "url": "https://open.spotify.com/track/2kVZfr5MW8w7wc7v6ULwWK"
     },
     {
       "album": {

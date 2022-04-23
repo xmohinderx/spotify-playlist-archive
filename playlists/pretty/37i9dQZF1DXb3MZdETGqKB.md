@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Fantastic Negrito
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,606 likes - 78 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,653 likes - 78 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 77 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 |
 | 78 | [Morning Light](https://open.spotify.com/track/1vC2eGIjumzgYknFrKl3Vg) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Morning Light](https://open.spotify.com/album/2eaEQlPaIwx7QI3MgGORbf) | 3:23 |
 
-Snapshot ID: `MTY0OTM5MDQ2MCwwMDAwMDBiYjAwMDAwMTgwMDc1NTFjZWMwMDAwMDE3ZmZiNDEwYTc4`
+Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDBiYzAwMDAwMTgwNGY2ZTI0ZjUwMDAwMDE3ZmZiNDEwYTc4`

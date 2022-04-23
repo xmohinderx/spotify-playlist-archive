@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-156 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+157 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-02-04 |  |
 | [Get Up](https://open.spotify.com/track/5bW5xB2hInPhcLHhwJXbYR) | [SoDown](https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Get Up](https://open.spotify.com/album/1VxLRJpczwSafsznDhCUtU) | 3:04 | 2022-04-01 |  |
 | [GIGACHAD](https://open.spotify.com/track/2VXSei3puBk9C8EW5v1MmF) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [GIGACHAD](https://open.spotify.com/album/4ZsbsF13Yc5hSQ4y6XZlnV) | 3:32 | 2022-02-25 |  |
-| [Go Off](https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u) | [Louder Space](https://open.spotify.com/artist/5qbZKHWNHuVAOwZPQtneCV), [DMN](https://open.spotify.com/artist/6sntDbmjDwLQBqaFhcDT7n) | [Go Off](https://open.spotify.com/album/4PQyYCE5lrvbrke8cyTVPM) | 4:14 | 2021-12-17 |  |
+| [Go Off](https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u) | [Louder Space](https://open.spotify.com/artist/5qbZKHWNHuVAOwZPQtneCV), [DMN](https://open.spotify.com/artist/6sntDbmjDwLQBqaFhcDT7n) | [Go Off](https://open.spotify.com/album/4PQyYCE5lrvbrke8cyTVPM) | 4:14 | 2021-12-17 | 2022-04-23 |
 | [Gravity](https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Gravity](https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD) | 6:04 | 2021-12-17 |  |
 | [Gunshots](https://open.spotify.com/track/3JQMhnfjxYKU9NG8vzjU9s) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Gunshots](https://open.spotify.com/album/7JXv1qLx9ocfaxpERZ0SI9) | 3:34 | 2022-02-11 |  |
 | [Habitat](https://open.spotify.com/track/16fy74yXmGeSMk2yqbPlLV) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Habitat](https://open.spotify.com/album/30NTJsLIcuDltdil45Tpnt) | 2:41 | 2021-12-17 |  |
@@ -108,6 +108,7 @@
 | [NOSEBLEED](https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [NOSEBLEED](https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz) | 3:46 | 2021-12-17 |  |
 | [Oldskool](https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Mechanized Mayhem Vol\. 2](https://open.spotify.com/album/5JZXWPiy5bwrkJng3gYJcr) | 3:39 | 2022-01-21 |  |
 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 | 2022-01-14 |  |
+| [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-04-22 |  |
 | [Pling Plong](https://open.spotify.com/track/1sMhsd4r7NkgGzAR3Ug87q) | [Plsma](https://open.spotify.com/artist/5d1nm4nMdbbwYMg3NHvJkc), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW) | [Pling Plong](https://open.spotify.com/album/0rEB0YX6lXpcEbQzne8uaV) | 2:55 | 2021-12-17 |  |
 | [POP DAT](https://open.spotify.com/track/0QlBuSVxXyYw7HGNC2PAtd) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [MATT DOE](https://open.spotify.com/artist/5p2AgyBv3S7CkWelQWBZ0R) | [POP DAT](https://open.spotify.com/album/1rPYKy7MvAeEPOmNc2OZvF) | 2:14 | 2021-12-17 | 2022-03-12 |
 | [Power Alliance](https://open.spotify.com/track/7jbpjSAkXw829j8zGcTL2M) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Power Alliance](https://open.spotify.com/album/4VMxvlL7OhoHeXxH15887h) | 3:06 | 2022-03-11 |  |

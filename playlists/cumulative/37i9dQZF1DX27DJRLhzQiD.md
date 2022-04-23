@@ -4,7 +4,7 @@
 
 > Itzza Primera y más mujeres, a todo volumen.
 
-93 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+95 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Mala Sombra](https://open.spotify.com/track/23y2ZM0Zp4f1uOt0grl9KU) | [Carmencita Lara](https://open.spotify.com/artist/66w4fQLV82B4bqFzeNAhde) | [Viva el Norte](https://open.spotify.com/album/2Opqxeq1Y9Gm7MLVO4XyUc) | 2:52 | 2022-01-05 |  |
 | [Maldito](https://open.spotify.com/track/5JeuAHIghPJs6XSNIW8JCQ) | [Mayra Goñi](https://open.spotify.com/artist/1JKrt7a4sLz6t0cYXBaTxB) | [Maldito](https://open.spotify.com/album/2yUoJY37l0YyovqQ1h6yRy) | 3:30 | 2022-01-05 |  |
 | [Malo tu corazon](https://open.spotify.com/track/0duUu4jrUUzJzS0XyB9ri2) | [Amaranta](https://open.spotify.com/artist/18MbBAbtk2Knvmk75JXFqd) | [Gneraciones I](https://open.spotify.com/album/1yXLurSOgiWPywuZRSgk7R) | 4:18 | 2022-01-05 |  |
+| [MARGARITA](https://open.spotify.com/track/308riuOIFK07a1PV34B0rt) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [MARGARITA](https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S) | 2:08 | 2022-04-22 |  |
 | [Mi Puerto](https://open.spotify.com/track/2wh6HyExhr98sPSheAujlZ) | [Mirella Cesa](https://open.spotify.com/artist/72c8wfi2kFbRPRLuzT4rVj) | [Mi Puerto](https://open.spotify.com/album/3scDuyV2APpWofquaEGNTP) | 3:08 | 2022-02-02 |  |
 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 | 2022-02-02 |  |
 | [Mientras Tanto](https://open.spotify.com/track/50Ve3fq8jlArT2uzM8nJ71) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Mientras Tanto](https://open.spotify.com/album/1bKscSfVTBCX6uutg7DakL) | 2:16 | 2022-01-05 | 2022-02-03 |
@@ -83,10 +84,11 @@
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-02-18 |  |
 | [Rompo y Tumbo](https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Rompo y Tumbo](https://open.spotify.com/album/17DDV6cMYnnz26zyF2szBE) | 3:17 | 2022-04-08 |  |
 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-02-02 |  |
-| [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-08 |  |
+| [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-08 | 2022-04-23 |
 | [Ser eternos](https://open.spotify.com/track/3fXdB2mUhgxd2sBGSfYL1r) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Reencarnaciones](https://open.spotify.com/album/0PTSztSXIoufnzZWQB4L73) | 3:40 | 2022-02-02 | 2022-03-09 |
 | [Señor Mentira](https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 4:29 | 2022-01-05 |  |
-| [Soñé Que Te Perdía](https://open.spotify.com/track/1lRdfGNjaSbz1ZobwU5Gig) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Soñé Que Te Perdía](https://open.spotify.com/album/45zhh8r9YUGApMnt6c6Yco) | 2:47 | 2022-02-02 |  |
+| [Si Quieres Tenerme](https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/4b9k435jzvtWVZ9OSM3QGA) | 3:27 | 2022-04-22 |  |
+| [Soñé Que Te Perdía](https://open.spotify.com/track/1lRdfGNjaSbz1ZobwU5Gig) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Soñé Que Te Perdía](https://open.spotify.com/album/45zhh8r9YUGApMnt6c6Yco) | 2:47 | 2022-02-02 | 2022-04-23 |
 | [Sé Como Duele](https://open.spotify.com/track/7a8ShNCakt6bJj1GhNEdYF) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:13 | 2022-02-02 | 2022-02-19 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/3EEH5ZZ74BJ5TV3rQAPbLi) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Vas a Arrepentir](https://open.spotify.com/album/3Mn6khCVmpcSk7g5991JmR) | 4:12 | 2022-01-05 |  |
 | [Tears at Bae](https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/0nVGuICcGzCEm3A3psO84B) | 3:22 | 2022-03-08 | 2022-04-09 |

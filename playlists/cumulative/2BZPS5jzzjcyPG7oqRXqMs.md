@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening .
 
-106 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+108 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [As For Me](https://open.spotify.com/track/5mMVPP6zg6YSUtZUEfYwW6) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As For Me](https://open.spotify.com/album/6T2J8HV6B1apeN6dpMtJBL) | 3:42 | 2022-02-18 |  |
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2022-02-17 |  |
 | [Be Alright \- Radio Edit](https://open.spotify.com/track/0lXsUvrpYlljSMxop1Qjzy) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Be Alright \(Radio Edit\)](https://open.spotify.com/album/2TrG5EO5B2yPDvonKVc9Uy) | 3:01 | 2022-02-17 |  |
+| [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 | 2022-04-22 |  |
 | [Better Way \- Worship Version](https://open.spotify.com/track/7MlbR1ZnWVJAth70F3UcAg) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Better Way](https://open.spotify.com/album/3QNdshOw44scd7yYfU1dTM) | 4:32 | 2022-02-17 |  |
 | [Break Up Song](https://open.spotify.com/track/1uZPDMRddtTcjgfXGwL6Vl) | [Gabriel Conte](https://open.spotify.com/artist/6xutNVv1t39GdpK8eImxPU) | [Break Up Song](https://open.spotify.com/album/2CLuqNWHvcetdH8xWZtpQD) | 2:48 | 2022-02-17 |  |
 | [Break Your Promises](https://open.spotify.com/track/1gHS6nbgR8g2gkIdS8xRfA) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Break Your Promises](https://open.spotify.com/album/2D2KTjkgUrSuV5feyOwBh8) | 3:16 | 2022-02-17 |  |
@@ -71,6 +72,7 @@
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 |  |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-03-18 |  |
 | [Make The Most Of It](https://open.spotify.com/track/1w9CbJwkgRjhPibilArQAR) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Louder Than The Lies](https://open.spotify.com/album/1O4FlHsnYbsNM9Ct7VZfoH) | 3:11 | 2022-02-17 |  |
+| [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-04-22 |  |
 | [Mercy Of Jesus](https://open.spotify.com/track/4DUYGD9qBMUJEOYPisadF2) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Mercy Of Jesus](https://open.spotify.com/album/34v3tdnUyhImBD23XlyeJx) | 4:31 | 2022-03-18 |  |
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2022-02-17 |  |
 | [Never Let You Go](https://open.spotify.com/track/4ibXvko2WeZPDemlRNOyZl) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Clarity](https://open.spotify.com/album/64fVuTbjAULFsImYYYXByp) | 3:22 | 2022-02-17 |  |

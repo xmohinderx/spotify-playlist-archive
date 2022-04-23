@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.
 
-66 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
+67 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bartleby Finnegan](https://open.spotify.com/track/05iojOqYgGy4SU89O5paby) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [True Tunes](https://open.spotify.com/album/1PNn0XkjppVpSmZSkbXfnQ) | 2:26 | 2022-04-08 |  |
 | [Beautiful Ugly \(feat\. Evie Irie\) \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/5SIqvVcGc16MsnsVIw83aD) | [Tim Minchin](https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2), [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Beautiful Ugly \(feat\. Evie Irie\) \[from "Back to the Outback" soundtrack\]](https://open.spotify.com/album/6MWqVsBTfAcJ0WvzhPSvPw) | 2:44 | 2022-04-08 |  |
 | [Best Day Ever](https://open.spotify.com/track/4yYrFMKjLBVEXF7Psy36LB) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg) | [DreamWorks Trolls \- The Beat Goes On! \(Music From Season 1\)](https://open.spotify.com/album/74G7ktttrog53aefGFcf41) | 2:29 | 2022-04-08 |  |
+| [Breakout \(Theme From The Netflix Series "Battle Kitty"\)](https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy) | [Maxo](https://open.spotify.com/artist/069n4k5Ultxa6j838AJtGJ) | [Battle Kitty \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/5d6p6H0Y7R0VOAyZr2pwEA) | 1:39 | 2022-04-22 |  |
 | [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 | 2022-04-08 |  |
 | [Danger, Danger](https://open.spotify.com/track/090pfisth9XR8YT4I9XYYM) | [Alan Schmuckler](https://open.spotify.com/artist/4gQjvlYHRKVoeR9rb8iCJ5), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 2:11 | 2022-04-08 |  |
 | [Finger Family](https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:16 | 2022-04-08 |  |

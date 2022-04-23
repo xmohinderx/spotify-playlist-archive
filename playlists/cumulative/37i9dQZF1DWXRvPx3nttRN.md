@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-232 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+233 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Back To You](https://open.spotify.com/track/3y3nLykfrbL6zCLmfMNQVg) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Back To You](https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7) | 3:35 | 2021-03-12 |  |
 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 | 2021-03-12 |  |
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2021-03-12 |  |
+| [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-04-22 |  |
 | [Beyond Words](https://open.spotify.com/track/6wxW1rAaVFpK5296S7rp2b) | [Many Moons Ago](https://open.spotify.com/artist/4x55vBj7XKFcOyBsLZzHpD) | [When We Were](https://open.spotify.com/album/2fsU31YDKt6eHN7oF8ZOjJ) | 2:04 | 2021-03-12 |  |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-03-12 |  |
 | [Blame vs\. Love Me Again \- Acoustic Mashup](https://open.spotify.com/track/41GUeSG7j1UIm8cCPEDp6S) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Blame vs\. Love Me Again \(Acoustic Mashup\)](https://open.spotify.com/album/23gUjYnTi2ru84D4P9CqQa) | 3:01 | 2021-03-12 |  |
@@ -33,7 +34,7 @@
 | [Brown Eyed Girl](https://open.spotify.com/track/7Gs9vEfo69lSwsTz4MRuBG) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Brown Eyed Girl](https://open.spotify.com/album/2MkkFur4IEa1DKWqVS3bI2) | 3:34 | 2021-03-12 |  |
 | [Bruises](https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm) | 3:38 | 2021-03-12 |  |
 | [Budapest \- Acoustic Live Lounge](https://open.spotify.com/track/4D1Ua4Opv3fF9WJ0n9UYHd) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Hits, Vol\. 2](https://open.spotify.com/album/2Q7QsUT0dp6uar6MXIbIzG) | 3:07 | 2021-03-12 |  |
-| [Can't Hold Us](https://open.spotify.com/track/3KuFdioD7L4pxD7OoOLThV) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [The Covers, Vol\. 5](https://open.spotify.com/album/7kgFmENUoUxSXj3DDhgdtJ) | 3:39 | 2021-03-12 |  |
+| [Can't Hold Us](https://open.spotify.com/track/3KuFdioD7L4pxD7OoOLThV) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [The Covers, Vol\. 5](https://open.spotify.com/album/7kgFmENUoUxSXj3DDhgdtJ) | 3:39 | 2021-03-12 | 2022-04-23 |
 | [Can't Hold Us \- Acoustic](https://open.spotify.com/track/1wq1UtonmZYKJxFjPa6SlX) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Can't Hold Us \(Acoustic\)](https://open.spotify.com/album/3fY2zDDnGQF0iuN8jBOb9L) | 3:19 | 2021-03-12 |  |
 | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/5xcsnZOeoLJkgFz3uVNc7h) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/album/2UBUdGZKPM7ZEuKi1uMkNC) | 2:28 | 2021-03-12 |  |
 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 | 2021-03-12 |  |

@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 189004,
       "name": "Founding Fathers",
       "url": "https://open.spotify.com/track/0XvtB7JNbIvWaQGVAy8amP"
@@ -1262,6 +1262,28 @@
     },
     {
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159406,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
+    },
+    {
+      "album": {
         "name": "Leave A Little Love (Club Mix)",
         "url": "https://open.spotify.com/album/5nV1iCvWWEWgJwwwn6jtHH"
       },
@@ -1353,7 +1375,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 200292,
       "name": "MAKI",
       "url": "https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A"
@@ -1555,7 +1577,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 183433,
       "name": "Old School",
       "url": "https://open.spotify.com/track/71Sz7c0myBEu1h0pxy9xHU"
@@ -1767,7 +1789,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 160888,
       "name": "Raptor",
       "url": "https://open.spotify.com/track/4rQWeoQSHpBFP4Qk6mlw0T"
@@ -1789,7 +1811,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 169332,
       "name": "Rave Is Our Religion",
       "url": "https://open.spotify.com/track/3O2pzENAozkiSYveNxAz3z"
@@ -1859,7 +1881,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 200888,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/16ML9NPj4zpFnYDSWU5qwv"
@@ -2389,7 +2411,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 200624,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/5QqNNMcenjKs6Lt12oxZqJ"

@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 297709,
       "name": "Africa",
       "url": "https://open.spotify.com/track/3VGK75g0ZC5Gg2hx9QCQVn"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 150927,
       "name": "Aguanc\u00f3",
       "url": "https://open.spotify.com/track/4yQao18rUx4vdhzenobQGN"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 216640,
       "name": "Bia Bia",
       "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
@@ -965,6 +965,36 @@
       "duration_ms": 209653,
       "name": "Boom!",
       "url": "https://open.spotify.com/track/2gsD0Bf0Bb0UCaSlWenzMD"
+    },
+    {
+      "album": {
+        "name": "C'est Vrai",
+        "url": "https://open.spotify.com/album/6OiJQ75UZXmMjltmTNIHXb"
+      },
+      "artists": [
+        {
+          "name": "Prosper",
+          "url": "https://open.spotify.com/artist/46Vmd1YA5zUO017xsfAAIa"
+        },
+        {
+          "name": "Le Marabout",
+          "url": "https://open.spotify.com/artist/4YXND3dd55ervyH4b8G1hS"
+        },
+        {
+          "name": "Fou Malade",
+          "url": "https://open.spotify.com/artist/6c96fgZXjavQnU9WxH1P2D"
+        },
+        {
+          "name": "Niagass",
+          "url": "https://open.spotify.com/artist/0EQjerybhkqKvlfnVIvAOW"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267800,
+      "name": "C'est Vrai",
+      "url": "https://open.spotify.com/track/2o727Omitml7Jvj7AVEa4f"
     },
     {
       "album": {
@@ -1911,7 +1941,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 269292,
       "name": "El Benson",
       "url": "https://open.spotify.com/track/6kccUvdoGBKRtVb4PRhQgf"
@@ -1955,7 +1985,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 279874,
       "name": "El Fen",
       "url": "https://open.spotify.com/track/2XWm5Dzs7pt1qr57gUrZ5U"
@@ -2038,6 +2068,28 @@
     },
     {
       "album": {
+        "name": "Mistakes on Purpose (Ethiopiques 30)",
+        "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
+      },
+      "artists": [
+        {
+          "name": "Girma B\u00e8y\u00e8n\u00e8",
+          "url": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
+        },
+        {
+          "name": "Akal\u00e9 Wub\u00e9",
+          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238440,
+      "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
+      "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
+    },
+    {
+      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -2071,7 +2123,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 326986,
       "name": "Entardecer",
       "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
@@ -2413,7 +2465,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 141834,
       "name": "Flexi with the Disco-tech",
       "url": "https://open.spotify.com/track/3ICCWHzcZcP8fwEBW5Kj9J"
@@ -2847,7 +2899,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 251319,
       "name": "Hana Mash Hu Al Yaman",
       "url": "https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65"
@@ -2923,7 +2975,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 314280,
       "name": "Hermetico",
       "url": "https://open.spotify.com/track/6MutCpt7eKil6FSvvStCjD"
@@ -3191,7 +3243,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 213254,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/438vUZj0qwC0zM4HMF3trH"
@@ -4555,7 +4607,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 290448,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
@@ -4767,6 +4819,28 @@
       "duration_ms": 116782,
       "name": "M\u00fasica Huanca",
       "url": "https://open.spotify.com/track/70nmT1ABxMP4K82VbTivGM"
+    },
+    {
+      "album": {
+        "name": "Nadie",
+        "url": "https://open.spotify.com/album/5K0CcRXYR7rntpAsxIEMZ8"
+      },
+      "artists": [
+        {
+          "name": "Jimena Angel",
+          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
+        },
+        {
+          "name": "JO BISSA",
+          "url": "https://open.spotify.com/artist/1NU9e1MfhFQWRZIuvpoMSj"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254748,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/2XoNKg4B4K3dt04S6fnZc6"
     },
     {
       "album": {
@@ -5189,7 +5263,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 250813,
       "name": "One Woman Man",
       "url": "https://open.spotify.com/track/24WvIL9vk5fI5GmacZbtf4"
@@ -5225,7 +5299,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 381040,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04"
@@ -5731,7 +5805,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 230998,
       "name": "Remotely Close: Silkyway",
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
@@ -6621,7 +6695,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 348148,
       "name": "The Rabbit That Hunts Tigers",
       "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
@@ -6871,7 +6945,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 213749,
       "name": "Unathi",
       "url": "https://open.spotify.com/track/4ZPv3a0aoAmDty8IKFXB3e"
@@ -7255,7 +7329,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 310446,
       "name": "Yaykatekar Dub (Love Dub)",
       "url": "https://open.spotify.com/track/1nkKYuTCHJAczQSpbgigO9"

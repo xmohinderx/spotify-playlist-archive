@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 218675,
       "name": "Afrikan Children",
       "url": "https://open.spotify.com/track/4c8z56rvgeuTfJ7Pm9XGeE"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 216285,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/0fNOmlu1YroQQYrBVtLDpb"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 247973,
       "name": "Bush Doctor - 2002 Remaster",
       "url": "https://open.spotify.com/track/3UPPGZeSjNwxyJslnSTm1c"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 245080,
       "name": "Conscious King",
       "url": "https://open.spotify.com/track/0AlWEJM2EBayILjNGX5gbg"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 267400,
       "name": "Cool and Calm",
       "url": "https://open.spotify.com/track/1vl5jVbo2INarbfx43KHjH"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 267306,
       "name": "Could You Be Loved - Acoustic",
       "url": "https://open.spotify.com/track/5ONmWYosIGBFjAKPgozdO2"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 229640,
       "name": "Cry Cry Blood",
       "url": "https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 224498,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/6JHsbNGafvvwjN7uwSCLUH"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 232025,
       "name": "Helping Hand",
       "url": "https://open.spotify.com/track/0buhlFr2Fg6SHQy4jxA0E6"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 234586,
       "name": "Here Comes Trouble",
       "url": "https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk"
@@ -1139,10 +1139,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 294786,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/5mWaxl8KzwAop3kfNNyNZX"
+    },
+    {
+      "album": {
+        "name": "HILLS",
+        "url": "https://open.spotify.com/album/5y8XkW7DjmN36m23H9BWKc"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210274,
+      "name": "HILLS",
+      "url": "https://open.spotify.com/track/5iwfMGkEVWUM9l8xOPL6x0"
     },
     {
       "album": {
@@ -1600,6 +1618,28 @@
     },
     {
       "album": {
+        "name": "Love Alone",
+        "url": "https://open.spotify.com/album/0MlJXgZuqRWqCXyY2qRDqM"
+      },
+      "artists": [
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209620,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/4ieXbToMBt4Cy0MU6Lf3av"
+    },
+    {
+      "album": {
         "name": "Reggae Gold 2007",
         "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
       },
@@ -1611,7 +1651,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 258653,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
@@ -1863,7 +1903,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 208146,
       "name": "Mr. Global (with Kabaka Pyramid)",
       "url": "https://open.spotify.com/track/45wzZ9CfGX8dDw1qbJTvEp"
@@ -1903,7 +1943,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 254965,
       "name": "My Kinda Girl",
       "url": "https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG"
@@ -2013,6 +2053,24 @@
       "duration_ms": 259519,
       "name": "Never B4 (feat. Mr. Williamz) - Gentleman's Dub Club Remix",
       "url": "https://open.spotify.com/track/2RVDc70wlyLx8iGO5vBgdR"
+    },
+    {
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw"
     },
     {
       "album": {
@@ -2183,7 +2241,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 243565,
       "name": "N\u00e3o Pare a M\u00fasica",
       "url": "https://open.spotify.com/track/29qSz6giXs9rk3bKEjfK0a"
@@ -2219,7 +2277,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 231773,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/0lzOFW7ELjXom0Jua03stq"
@@ -2255,7 +2313,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 234000,
       "name": "One Good Spliff",
       "url": "https://open.spotify.com/track/0URS9f6Ck8mzhou6AMNCr5"
@@ -2465,7 +2523,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 164680,
       "name": "Philosophy Of Life (feat. Paul Anthony)",
       "url": "https://open.spotify.com/track/6egmTyy0Ulde5vkMlAZexO"
@@ -2505,7 +2563,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 142307,
       "name": "Planters Paradise (with Collie Buddz)",
       "url": "https://open.spotify.com/track/1LzeNuAVEpwx6vjHu5pedN"
@@ -2575,7 +2633,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 212304,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3b2IVvQUr7cIBGReeV9MYW"
@@ -2841,7 +2899,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 338379,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/7Gx5mMJZR7r5GqmR1XbqHz"
@@ -2859,7 +2917,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 238253,
       "name": "See Dem Fake Leaders",
       "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
@@ -2979,7 +3037,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 222068,
       "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
       "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
@@ -3331,7 +3389,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 159173,
       "name": "Tenement Yard",
       "url": "https://open.spotify.com/track/2zH0Z7CEPVnpDbI1sqC8dw"
@@ -3393,7 +3451,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 219906,
       "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
       "url": "https://open.spotify.com/track/6XitzIBDSAbU9gU9lhouQa"
@@ -3546,6 +3604,24 @@
     },
     {
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/6cFEBbV5uWZXhLAzBLRQpT"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206879,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH"
       },
@@ -3695,7 +3771,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 192295,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4sCpwo7HL96gN54haNWGvv"

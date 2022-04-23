@@ -828,6 +828,24 @@
     },
     {
       "album": {
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/2M6pgY4xaIQcjpcMx8cFjP"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159201,
+      "name": "Swayfer Sandles",
+      "url": "https://open.spotify.com/track/0g2Sexo4C8cIS5tmDUakjP"
+    },
+    {
+      "album": {
         "name": "Modern Yesterdays",
         "url": "https://open.spotify.com/album/4pgnnkCEHdnCMzx2WS9tAI"
       },

@@ -2,7 +2,7 @@
 
 ### [Lazy Jazz Cat](https://open.spotify.com/playlist/37i9dQZF1DWTcEjayzrZ4x)
 
-> Instrumental  jazz with a cool sound.
+> Instrumental  jazz with a cool and soft sound.
 
 173 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/5tUS7ssEEn2bRVblKg2kpU)
 

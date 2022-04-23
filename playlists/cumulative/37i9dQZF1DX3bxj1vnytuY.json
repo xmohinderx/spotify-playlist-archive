@@ -874,6 +874,32 @@
     },
     {
       "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/0Hc205wUJI8fIBXNku5BEQ"
+      },
+      "artists": [
+        {
+          "name": "Djamou Sangare",
+          "url": "https://open.spotify.com/artist/7MIDaIHvsSEayCv0pw3okp"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Pippi Ciez",
+          "url": "https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467000,
+      "name": "Lua - Pippi Ciez Retake",
+      "url": "https://open.spotify.com/track/4ufLhIy7LcTO1gD0aoM7pU"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4QQPki89hRKCSI1S36biu1"
       },

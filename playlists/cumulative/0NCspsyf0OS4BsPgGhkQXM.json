@@ -158,6 +158,32 @@
     },
     {
       "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/3MTkS7BtDde8gJkAKnUe0l"
+      },
+      "artists": [
+        {
+          "name": "2nd Life",
+          "url": "https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab"
+        },
+        {
+          "name": "Lery",
+          "url": "https://open.spotify.com/artist/5VkvZ93YhrRr340jnFoTxy"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149591,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/1DYkx7Ih4W0tM3g8YqEIRx"
+    },
+    {
+      "album": {
         "name": "Alive With You",
         "url": "https://open.spotify.com/album/2zhNMOvsfGIG06KxyfYCyt"
       },
@@ -203,6 +229,32 @@
       "duration_ms": 148874,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4jS5uR6agOCvl2q2CYRmF7"
+    },
+    {
+      "album": {
+        "name": "All Gas",
+        "url": "https://open.spotify.com/album/3nuu85kXShuaQmgiQJ3Fyd"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "NBLM",
+          "url": "https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc"
+        },
+        {
+          "name": "Godmode",
+          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "All Gas",
+      "url": "https://open.spotify.com/track/1xkiDuGoETfVPuSmeSbVeZ"
     },
     {
       "album": {
@@ -636,6 +688,28 @@
     },
     {
       "album": {
+        "name": "Fragments EP",
+        "url": "https://open.spotify.com/album/28gU1VbzdzjgET7fpwgbtv"
+      },
+      "artists": [
+        {
+          "name": "NOMIS.K",
+          "url": "https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc"
+        },
+        {
+          "name": "Donkong",
+          "url": "https://open.spotify.com/artist/2iSzx6yX8XC77IGgRlRZgX"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149419,
+      "name": "Bounce (feat. DONKONG)",
+      "url": "https://open.spotify.com/track/4vV6ydOvY1Tqb31rqWZ8ZE"
+    },
+    {
+      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/3385Rob47pOYT9lIlXx6fy"
       },
@@ -1058,6 +1132,28 @@
     },
     {
       "album": {
+        "name": "Cravin'",
+        "url": "https://open.spotify.com/album/5hpAWKkdnHBbNK3VB9ucJm"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        },
+        {
+          "name": "Kendyle Paige",
+          "url": "https://open.spotify.com/artist/61i5hkPM85ZcIxRsg61Hkl"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172834,
+      "name": "Cravin'",
+      "url": "https://open.spotify.com/track/41qoLqCcn0X07B6XW9b28v"
+    },
+    {
+      "album": {
         "name": "Apogee",
         "url": "https://open.spotify.com/album/2FxL8igcB5IhOs8wsauSnH"
       },
@@ -1073,6 +1169,32 @@
       "duration_ms": 237324,
       "name": "Crimson",
       "url": "https://open.spotify.com/track/3aH9JG92iWKwng1LhmAMIV"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
+      },
+      "artists": [
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
     },
     {
       "album": {
@@ -2826,6 +2948,24 @@
     },
     {
       "album": {
+        "name": "Fragments EP",
+        "url": "https://open.spotify.com/album/28gU1VbzdzjgET7fpwgbtv"
+      },
+      "artists": [
+        {
+          "name": "NOMIS.K",
+          "url": "https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Little Devil",
+      "url": "https://open.spotify.com/track/0c0gBQ0de5Nz7DEfPs1Pfp"
+    },
+    {
+      "album": {
         "name": "Looking for Gold",
         "url": "https://open.spotify.com/album/0S8OhiTIgdSPbI54hPOpP2"
       },
@@ -3957,6 +4097,24 @@
       "duration_ms": 231100,
       "name": "Rip My Heart Out",
       "url": "https://open.spotify.com/track/12EYzHLOtNpbKP0rqEtscZ"
+    },
+    {
+      "album": {
+        "name": "Fragments EP",
+        "url": "https://open.spotify.com/album/28gU1VbzdzjgET7fpwgbtv"
+      },
+      "artists": [
+        {
+          "name": "NOMIS.K",
+          "url": "https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Roof Down",
+      "url": "https://open.spotify.com/track/2hRm3384vOFLfMnX06WxYC"
     },
     {
       "album": {

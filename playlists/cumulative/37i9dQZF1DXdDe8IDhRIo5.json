@@ -796,6 +796,36 @@
     },
     {
       "album": {
+        "name": "Minor Swing",
+        "url": "https://open.spotify.com/album/3QSDADTCiVpjnAZ8okKBHM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "French Connection",
+          "url": "https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze"
+        },
+        {
+          "name": "R\u00e9mi Oswald",
+          "url": "https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v"
+        },
+        {
+          "name": "\u00c9douard Pennes",
+          "url": "https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Minor Swing",
+      "url": "https://open.spotify.com/track/2aMelYeJahQsjd6SmUOwQv"
+    },
+    {
+      "album": {
         "name": "Muza",
         "url": "https://open.spotify.com/album/3I5beJRHfjzwUQgXksUT0L"
       },

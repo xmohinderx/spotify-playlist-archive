@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "DEMON RAP. Cover: CORPSE",
+  "description": "DEMON RAP. Cover: $uicideboys$",
   "name": "Tirade",
   "published_playlist_ids": [
     "3WXmsauxjmiMQXOcPd40BY"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 117394,
       "name": "a mosh pit love story",
       "url": "https://open.spotify.com/track/5Q7JUXXghzKqPPS2IrJK8O"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 151143,
       "name": "Big Spenders",
       "url": "https://open.spotify.com/track/3ICBNoMJAznVpzlNhEdMvG"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 152370,
       "name": "Crooked Smile",
       "url": "https://open.spotify.com/track/0yaQ7Erx1XT0U6miw6zpK8"
@@ -1191,6 +1191,28 @@
       "duration_ms": 143220,
       "name": "Dead Batteries",
       "url": "https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i"
+    },
+    {
+      "album": {
+        "name": "DEAD ONE",
+        "url": "https://open.spotify.com/album/00T1P0wR8YKI8UaesBziwg"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        },
+        {
+          "name": "Heartsnow",
+          "url": "https://open.spotify.com/artist/7999NGEoCSbZ9UirHPDlql"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126563,
+      "name": "DEAD ONE",
+      "url": "https://open.spotify.com/track/3BNVFDqzVpziMeRZMLBY7F"
     },
     {
       "album": {
@@ -1493,7 +1515,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 115931,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/7pmn83nmJSBTWg3IXW48yB"
@@ -1821,6 +1843,24 @@
       "duration_ms": 117394,
       "name": "HIT THE FLOOR",
       "url": "https://open.spotify.com/track/7MUW9VPYDM00UdwF1csfCq"
+    },
+    {
+      "album": {
+        "name": "HOBGOBLIN",
+        "url": "https://open.spotify.com/album/3BlOHRQuFEG7sOUQtT6EBp"
+      },
+      "artists": [
+        {
+          "name": "Witchouse 40k",
+          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206355,
+      "name": "HOBGOBLIN",
+      "url": "https://open.spotify.com/track/7I7sdHRJhSqQnwPPZbrsmv"
     },
     {
       "album": {
@@ -2257,7 +2297,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 106695,
       "name": "JUST DANCE",
       "url": "https://open.spotify.com/track/2GSUNdq88OmOQnWTO8yhe1"
@@ -2293,7 +2333,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 210651,
       "name": "KUMBAYA",
       "url": "https://open.spotify.com/track/1e8wIuf2ZB9UnTPDDojiO6"
@@ -3179,7 +3219,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "Sangria (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2fG0gdRKdTjyxYkTydQEv9"
@@ -3263,7 +3303,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 121503,
       "name": "Shogun of Sorrow",
       "url": "https://open.spotify.com/track/4NOmB5C88WVlkjdfK3lQZV"
@@ -3511,7 +3551,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 162909,
       "name": "SUFFER WELL",
       "url": "https://open.spotify.com/track/27a0M1XQ4T1wjeRd0p7pof"
@@ -3537,7 +3577,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 160576,
       "name": "Superstitious",
       "url": "https://open.spotify.com/track/2TK4veXba4R8Qc5750IMYO"
@@ -3747,10 +3787,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 178604,
       "name": "The Wages of Sin Is Death",
       "url": "https://open.spotify.com/track/4XKYt8SOqBUJopjpgE36Kc"
+    },
+    {
+      "album": {
+        "name": "THE_EVIL_THAT_MEN_DO",
+        "url": "https://open.spotify.com/album/7rOfgB0eZeRCPOSu00cuzN"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173372,
+      "name": "THE_EVIL_THAT_MEN_DO",
+      "url": "https://open.spotify.com/track/6s9qov2o5dUVUVut2jB45K"
     },
     {
       "album": {
@@ -3787,7 +3845,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 133186,
       "name": "THERAPY!",
       "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
@@ -3831,7 +3889,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 146428,
       "name": "Torches",
       "url": "https://open.spotify.com/track/4OcOqImlsHL73c8Zn1VUu2"
@@ -3921,7 +3979,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 114305,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/48TYKdjkiIN6brcIilEVWB"
@@ -4005,7 +4063,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 121899,
       "name": "walk it off",
       "url": "https://open.spotify.com/track/3t6mxuFd2pCLP1IMXS7q9E"
@@ -4081,7 +4139,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 115200,
       "name": "Who Am I to Blame?",
       "url": "https://open.spotify.com/track/5j8WzS1Ep4wUxRbFX3mztq"
@@ -4103,7 +4161,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 159414,
       "name": "WHOTFISSATAN!",
       "url": "https://open.spotify.com/track/4lycLzckejuXWnaPEnJvgj"

@@ -728,6 +728,28 @@
     },
     {
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/7IgiAU0pK6VagZW4SRPe4A"
+      },
+      "artists": [
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        },
+        {
+          "name": "Kim Van Loo",
+          "url": "https://open.spotify.com/artist/7hNkG8n1xZ8BEpGu51udR1"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299533,
+      "name": "Hiraeth (feat. Kim Van Loo)",
+      "url": "https://open.spotify.com/track/71TdE7ggzJGo0kmdS8eJhC"
+    },
+    {
+      "album": {
         "name": "LUZ",
         "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
       },
@@ -826,7 +848,7 @@
     },
     {
       "album": {
-        "name": "Intuici\u00f3n (feat. Sil Romero)",
+        "name": "Intuici\u00f3n",
         "url": "https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE"
       },
       "artists": [
@@ -843,7 +865,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252790,
-      "name": "Intuici\u00f3n (feat. Sil Romero)",
+      "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
     },
     {

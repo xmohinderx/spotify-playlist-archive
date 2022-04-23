@@ -4,7 +4,7 @@
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Kaitlin Butts
 
-248 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+251 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Better Love Next Time](https://open.spotify.com/track/5I3oTFeQmclQmhAzOqRpTF) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Better Love Next Time](https://open.spotify.com/album/52VIbzshUC3cGliz3IZxOp) | 3:16 | 2022-01-28 | 2022-03-26 |
 | [Better Place](https://open.spotify.com/track/5oEbkvRhazRD6CECsSX5HZ) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [Better Place](https://open.spotify.com/album/7nMPH8McpekcJNysllR8ep) | 3:11 | 2021-12-17 | 2022-02-12 |
 | [Better Than Your Memory](https://open.spotify.com/track/7cwFLQokUMwJUQUD9hbRxd) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Better Than Your Memory](https://open.spotify.com/album/1K3iUoIoymF8cmm1hrpsga) | 3:05 | 2022-02-04 |  |
+| [Between You and Me](https://open.spotify.com/track/4BmyAiwMBMBrT8wMHcy6Ru) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Between You and Me](https://open.spotify.com/album/0OthJUlWhQIcq1Dj9qKAIG) | 3:47 | 2022-04-22 |  |
 | [Big Show](https://open.spotify.com/track/56Poamxoy82xKJmBdqDWkd) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Lane Smith \- Volume One](https://open.spotify.com/album/2SKCew9A9YSio2hUFjadW1) | 3:21 | 2021-12-17 | 2022-03-19 |
 | [Bigger Than Texas \(Acoustic\)](https://open.spotify.com/track/5Dl4entYlkGPbKJFL3yrva) | [Taylor Tumlinson](https://open.spotify.com/artist/2qY2krsaIOF7H8SUEVYiBn) | [Bigger Than Texas \(Acoustic\)](https://open.spotify.com/album/4ENCMX5nehWshFu23EkNvJ) | 4:26 | 2021-12-17 |  |
 | [Bless Her Heart](https://open.spotify.com/track/6QIwqG7Alb9todpZfh5Zep) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Bless Her Heart](https://open.spotify.com/album/1l1wBvJ9aDaCKssXNDxMWF) | 2:59 | 2021-12-17 |  |
@@ -58,6 +59,7 @@
 | [Burnout](https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41), [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Burnout](https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE) | 4:02 | 2022-03-25 |  |
 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 4:26 | 2021-12-17 |  |
 | [Change Your Mind](https://open.spotify.com/track/0pGMmBw3aXGWGR32ydIZMU) | [Nathan Perry](https://open.spotify.com/artist/0GNySaIRzLXcOfWpKlRv3w) | [Change Your Mind](https://open.spotify.com/album/3SavsOcLJAxYDGWUvgo4e1) | 4:10 | 2022-03-25 |  |
+| [Cheap Seats](https://open.spotify.com/track/2iMyXbr0uNggwmJMobab0s) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/7uyT7ndhraNB58aoPyFhU0) | 3:53 | 2022-04-22 |  |
 | [Cheater](https://open.spotify.com/track/6EPaIJavBPjo5aXlnEFfBU) | [Taylor Tumlinson](https://open.spotify.com/artist/2qY2krsaIOF7H8SUEVYiBn) | [Cheater](https://open.spotify.com/album/3cIDyXsKBDgSSVZmedqwTn) | 3:09 | 2022-03-11 |  |
 | [Chisholm Trail](https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK) | [Dalton Torres](https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL) | [Chisholm Trail](https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B) | 3:07 | 2021-12-17 |  |
 | [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 4:37 | 2021-12-17 | 2022-03-19 |
@@ -133,6 +135,7 @@
 | [It's Gonna Take Neon](https://open.spotify.com/track/6PjQ5PfjRv72JkclFeN4t4) | [Carter Lybrand](https://open.spotify.com/artist/0ophv4tU6QFbsUQ0DwotdM) | [It's Gonna Take Neon](https://open.spotify.com/album/5PlGkJkgN7H4A9oGWk4TiX) | 3:27 | 2022-01-28 |  |
 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 | 2021-12-17 |  |
 | [January](https://open.spotify.com/track/4l7frKzWhjH6jPtBm99hcy) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [January](https://open.spotify.com/album/0Dxsw5DUGrP4qb1cQE0bV2) | 4:13 | 2022-02-04 |  |
+| [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 | 2022-04-22 |  |
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2021-12-17 | 2022-03-19 |
 | [Let Him In](https://open.spotify.com/track/1Ksas5Umdnh7rLfBhK4wNi) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Let Him In](https://open.spotify.com/album/10Am8PcY3Z0DokMgDBmldJ) | 3:59 | 2021-12-17 | 2022-03-19 |
 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 | 2021-12-17 | 2022-03-19 |

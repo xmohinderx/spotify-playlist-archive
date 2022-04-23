@@ -60,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
+    },
+    {
+      "album": {
         "name": "Video Rola",
         "url": "https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew"
       },
@@ -71,7 +89,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 229800,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx"
@@ -151,6 +169,24 @@
       "duration_ms": 223146,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
+    },
+    {
+      "album": {
+        "name": "Better Times Are Coming",
+        "url": "https://open.spotify.com/album/0YbGmlwz42fGa6Dk86bf7x"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197788,
+      "name": "Better Times Are Coming",
+      "url": "https://open.spotify.com/track/0lOTlOKnmUEDphNpmpj4LQ"
     },
     {
       "album": {
@@ -374,8 +410,48 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/1RSFqw2Te37UhUaXeUSxtm"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279849,
+      "name": "C\u00f3mo Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6nQE34XyP1UwtvaNoqBsyR"
+    },
+    {
+      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-23",
+      "duration_ms": 221640,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/6kuC8istEXp5B3n9cmiAlP"
       },
       "artists": [
         {
@@ -388,7 +464,7 @@
       "date_removed": null,
       "duration_ms": 221640,
       "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
+      "url": "https://open.spotify.com/track/6r73gMODmuQgBgYon2Suuo"
     },
     {
       "album": {
@@ -725,6 +801,24 @@
     {
       "album": {
         "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc"
       },
       "artists": [
@@ -771,10 +865,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+    },
+    {
+      "album": {
+        "name": "Frente a Frente - Pante\u00f3n Rococ\u00f3 & SKA-P",
+        "url": "https://open.spotify.com/album/44diTb5U8zqa1yokVLOWyQ"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/7qKtcEDbth6kOM5s4uJzw3"
     },
     {
       "album": {
@@ -807,7 +919,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 239693,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/2b8OrrQmDScF3TtbDvwWfy"
@@ -1237,7 +1349,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 246100,
       "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
       "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"
@@ -1533,7 +1645,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 133080,
       "name": "Si Tu Boquito Fuera",
       "url": "https://open.spotify.com/track/662E0RMa6XGHqctB0F4SpW"
@@ -1897,7 +2009,7 @@
     {
       "album": {
         "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/6kuC8istEXp5B3n9cmiAlP"
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
       "artists": [
         {
@@ -1908,6 +2020,24 @@
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213813,
+      "name": "Toloache Pa Mi Negra",
+      "url": "https://open.spotify.com/track/1WMD4z3lsY6RDRDpXR9A47"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/6kuC8istEXp5B3n9cmiAlP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-23",
       "duration_ms": 213813,
       "name": "Toloache Pa' Mi Negra",
       "url": "https://open.spotify.com/track/1lXaFoSpPIaqXVRSRc6OOk"

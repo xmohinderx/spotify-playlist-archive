@@ -1,12 +1,12 @@
 {
   "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. \nFoto: Sael.",
-  "num_followers": 50129,
+  "num_followers": 50123,
   "original_name": "Radar Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU4OTc0MywwMDAwMDAwMDdhMDNiNzVhYWEwMWFlZjg2Yjc4YzM1MGU1NTI4ODE0",
+  "snapshot_id": "MTY1MDY3NTczNCwwMDAwMDAwMGE3MDc1MzExZDY2YjZmZmY1NjExMmI4MWY3NGM1OGI1",
   "tracks": [
     {
       "added_at": "2021-11-11 23:56:41",
@@ -159,22 +159,50 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Ni Verte",
-        "url": "https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS"
+        "name": "H\u00e1zmelo",
+        "url": "https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky"
       },
       "artists": [
         {
-          "name": "MATAHONEY",
-          "url": "https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt"
-        },
-        {
-          "name": "Luqo",
-          "url": "https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 183592,
-      "name": "Ni Verte",
-      "url": "https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg"
+      "duration_ms": 174952,
+      "name": "H\u00e1zmelo",
+      "url": "https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "En Todas Partes",
+        "url": "https://open.spotify.com/album/30oK2FaiGSLDuRO2T9foTR"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "duration_ms": 162485,
+      "name": "En Todas Partes",
+      "url": "https://open.spotify.com/track/1fBiySiu1fTmiFyPc4R8DD"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0YPuDIug1i3522246t1BVO"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 257431,
+      "name": "Nadir",
+      "url": "https://open.spotify.com/track/7hE9Q5k72F6b5qu2jrinpl"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -195,18 +223,22 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "En Todas Partes",
-        "url": "https://open.spotify.com/album/30oK2FaiGSLDuRO2T9foTR"
+        "name": "Ni Verte",
+        "url": "https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS"
       },
       "artists": [
         {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+          "name": "MATAHONEY",
+          "url": "https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt"
+        },
+        {
+          "name": "Luqo",
+          "url": "https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN"
         }
       ],
-      "duration_ms": 162485,
-      "name": "En Todas Partes",
-      "url": "https://open.spotify.com/track/1fBiySiu1fTmiFyPc4R8DD"
+      "duration_ms": 183592,
+      "name": "Ni Verte",
+      "url": "https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -231,42 +263,6 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "H\u00e1zmelo",
-        "url": "https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 174952,
-      "name": "H\u00e1zmelo",
-      "url": "https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Me Equivoqu\u00e9",
-        "url": "https://open.spotify.com/album/2gKytyP2six2Y2r0oaUsuB"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 166661,
-      "name": "Me Equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/7kVD4QYvh1ZnSQX8qs6Fpi"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
         "name": "Embriago",
         "url": "https://open.spotify.com/album/5WR3I7h22Dt5cYgU6VV0jX"
       },
@@ -283,18 +279,50 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Te Mentiria",
-        "url": "https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K"
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Te Mentiria",
-      "url": "https://open.spotify.com/track/5MOF8J0yJVHdKE3gRgpM6r"
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Lavandina",
+        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 299192,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "M\u00e1gica",
+        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "M\u00e1gica",
+      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -323,34 +351,66 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi"
       },
       "artists": [
         {
-          "name": "Anto Bosman",
-          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
         }
       ],
-      "duration_ms": 188076,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
+      "duration_ms": 185699,
+      "name": "Buen Rato",
+      "url": "https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3"
     },
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+        "name": "Cada Cual",
+        "url": "https://open.spotify.com/album/4MOVqgplUzLC1IC8VAlCn4"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Matorral",
+          "url": "https://open.spotify.com/artist/2a8POhVZ2iN9PK21YPygmd"
         }
       ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+      "duration_ms": 171648,
+      "name": "Cada Cual",
+      "url": "https://open.spotify.com/track/1rWhvXwbKuTC6FAvsARbef"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Te Mentiria",
+        "url": "https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Te Mentiria",
+      "url": "https://open.spotify.com/track/5MOF8J0yJVHdKE3gRgpM6r"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 209463,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -375,22 +435,6 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Por Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0YPuDIug1i3522246t1BVO"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 257431,
-      "name": "Nadir",
-      "url": "https://open.spotify.com/track/7hE9Q5k72F6b5qu2jrinpl"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
         "name": "Nat Geo",
         "url": "https://open.spotify.com/album/0QFUj09uZnwDnhVhlVUHNN"
       },
@@ -407,18 +451,22 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Under",
-        "url": "https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n"
+        "name": "Pa Brillar",
+        "url": "https://open.spotify.com/album/2YevHM1xhh11dwoZqiQ6kQ"
       },
       "artists": [
         {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+          "name": "APHELIA",
+          "url": "https://open.spotify.com/artist/0wi4BjYbEeecnYvhQtvwi3"
+        },
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
         }
       ],
-      "duration_ms": 218172,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B"
+      "duration_ms": 182488,
+      "name": "Pa Brillar",
+      "url": "https://open.spotify.com/track/2hLYw0CXY5uTXk5jwFOdYI"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -439,34 +487,106 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Cada Cual",
-        "url": "https://open.spotify.com/album/4MOVqgplUzLC1IC8VAlCn4"
+        "name": "La Casualidad",
+        "url": "https://open.spotify.com/album/0uj09wSpaUp58kWvYnZ7tw"
       },
       "artists": [
         {
-          "name": "Matorral",
-          "url": "https://open.spotify.com/artist/2a8POhVZ2iN9PK21YPygmd"
+          "name": "Metaling\u00fc\u00edstica",
+          "url": "https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
         }
       ],
-      "duration_ms": 171648,
-      "name": "Cada Cual",
-      "url": "https://open.spotify.com/track/1rWhvXwbKuTC6FAvsARbef"
+      "duration_ms": 219306,
+      "name": "La Casualidad",
+      "url": "https://open.spotify.com/track/3rqoDD2GJTpde3VO83T0LY"
     },
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "No Me Conocen",
-        "url": "https://open.spotify.com/album/74hjTdZ6VJuKBGKcSQbinu"
+        "name": "Ayuda",
+        "url": "https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST"
       },
       "artists": [
         {
-          "name": "BANDIDO",
-          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+          "name": "Eli Almic",
+          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
         }
       ],
-      "duration_ms": 144006,
-      "name": "No Me Conocen",
-      "url": "https://open.spotify.com/track/2wiAf96qTYdqPpXouFLWFs"
+      "duration_ms": 237473,
+      "name": "Ayuda",
+      "url": "https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Me Equivoqu\u00e9",
+        "url": "https://open.spotify.com/album/2gKytyP2six2Y2r0oaUsuB"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 166661,
+      "name": "Me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/7kVD4QYvh1ZnSQX8qs6Fpi"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Bailarina",
+        "url": "https://open.spotify.com/album/1VmIOFc1vgoU4lbZoIApQJ"
+      },
+      "artists": [
+        {
+          "name": "ELDANI",
+          "url": "https://open.spotify.com/artist/4XIAIb1ugOy9JfmpeSoUAu"
+        }
+      ],
+      "duration_ms": 244090,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/6aKDevkHNVtAXRUVC5aiu3"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "La Luna Y Las Melod\u00edas",
+        "url": "https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ"
+      },
+      "artists": [
+        {
+          "name": "Christiane",
+          "url": "https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "La Luna Y Las Melod\u00edas",
+      "url": "https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Lo Que No Te Cont\u00e9",
+        "url": "https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7"
+      },
+      "artists": [
+        {
+          "name": "KMC",
+          "url": "https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4"
+        }
+      ],
+      "duration_ms": 222682,
+      "name": "Lo Que No Te Cont\u00e9",
+      "url": "https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -487,18 +607,34 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "M\u00e1gica",
-        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
+        "name": "New Age",
+        "url": "https://open.spotify.com/album/0f1wH2V8gb38qm0Dk9katp"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
         }
       ],
-      "duration_ms": 136132,
-      "name": "M\u00e1gica",
-      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
+      "duration_ms": 165069,
+      "name": "New Age",
+      "url": "https://open.spotify.com/track/22MeiZd6B4T96dvZ3e5bcc"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Papi No Me Hagas Llorar",
+        "url": "https://open.spotify.com/album/7nphArTieJ9uRNuQiH1sIL"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 229289,
+      "name": "Papi No Me Hagas Llorar",
+      "url": "https://open.spotify.com/track/04S43sYjrLmZXjxqcU8BxJ"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -523,182 +659,6 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Piel",
-        "url": "https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 209463,
-      "name": "Piel",
-      "url": "https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Papi No Me Hagas Llorar",
-        "url": "https://open.spotify.com/album/7nphArTieJ9uRNuQiH1sIL"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 229289,
-      "name": "Papi No Me Hagas Llorar",
-      "url": "https://open.spotify.com/track/04S43sYjrLmZXjxqcU8BxJ"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "La Luna Y Las Melod\u00edas",
-        "url": "https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ"
-      },
-      "artists": [
-        {
-          "name": "Christiane",
-          "url": "https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "La Luna Y Las Melod\u00edas",
-      "url": "https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Casi Nunca Entiendo Nada",
-        "url": "https://open.spotify.com/album/7dAANS4Pwlb9OkkkmadzsV"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        },
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        },
-        {
-          "name": "Esmeralda Escalante",
-          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
-        }
-      ],
-      "duration_ms": 193092,
-      "name": "Casi Nunca Entiendo Nada",
-      "url": "https://open.spotify.com/track/5DCMmMGHptS0nOmN97kIAV"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 228828,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Buska",
-        "url": "https://open.spotify.com/album/5mlk2pOB2lzcUvOOHa2RDm"
-      },
-      "artists": [
-        {
-          "name": "Urbanse",
-          "url": "https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g"
-        },
-        {
-          "name": "Veeyam",
-          "url": "https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf"
-        }
-      ],
-      "duration_ms": 181233,
-      "name": "Buska",
-      "url": "https://open.spotify.com/track/4zlFO8LSYmzttjwm8K5TOi"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 151839,
-      "name": "No Es As\u00ed",
-      "url": "https://open.spotify.com/track/6SryqFcrWrgjgKrUeZQ6NE"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Lavandina",
-        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 299192,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Gira (El Mundo Gira)",
-        "url": "https://open.spotify.com/album/5pqwiGyCURr9bzYQyC6JfQ"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 159945,
-      "name": "Gira (El Mundo Gira)",
-      "url": "https://open.spotify.com/track/4Z6CKsJqAKsRi8UFQYaXM7"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/2JepnySF2k8h15YQ9wPA3h"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Nojutsu",
-          "url": "https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92"
-        },
-        {
-          "name": "Charlie Guns",
-          "url": "https://open.spotify.com/artist/1svCFZxt0Qei4VMSkelVBa"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/54TITTIjdmIbHH0eZM0uRi"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
         "name": "Big Cut",
         "url": "https://open.spotify.com/album/2bHX5Y6PPg1cdgA0JTVZ5j"
       },
@@ -719,6 +679,38 @@
       "duration_ms": 194482,
       "name": "Big Cut",
       "url": "https://open.spotify.com/track/7pin8wDLL57efEYLvOpAAS"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Metralleta",
+        "url": "https://open.spotify.com/album/5nY5psozTUXskeoczm947N"
+      },
+      "artists": [
+        {
+          "name": "Acuario Cosmico",
+          "url": "https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY"
+        }
+      ],
+      "duration_ms": 155578,
+      "name": "Metralleta",
+      "url": "https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Liberarme",
+        "url": "https://open.spotify.com/album/2RXzMbdC6uYKV4oTMXdbw3"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 203700,
+      "name": "Liberarme",
+      "url": "https://open.spotify.com/track/6Zjcuz6NxB4DLt9b02ZV4B"
     }
   ],
   "unique_name": "Radar Al Sur",

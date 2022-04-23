@@ -2,9 +2,9 @@
 
 ### [The Other List](https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E)
 
-> The home of the best new alternative music\. Cover: Oliver Sim
+> The home of the best new alternative music\. Cover: Poppy Ajudha
 
-854 songs - 2 day 3 hr 2 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+859 songs - 2 day 3 hr 19 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Beautiful Life \- Edit](https://open.spotify.com/track/5j5RHCFkS5TFLbQRUJ65HH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Beautiful Life](https://open.spotify.com/album/0QJHIPjOnmwYuduAcNaQ5m) | 4:02 | 2021-10-16 | 2022-01-21 |
 | [Beautiful Superstar](https://open.spotify.com/track/7y31z2opHEoqxEiHK0RTRn) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful Superstar](https://open.spotify.com/album/77giFPNzAxcHfkmagyRC1E) | 4:42 | 2020-09-29\* | 2020-10-23 |
 | [Bees & Honey \- Bonus Track](https://open.spotify.com/track/5td3aQXu6mpU2HDSzt1i5z) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 1:46 | 2020-12-04 | 2021-01-15 |
+| [BEESWAX](https://open.spotify.com/track/6pmOqyfbbFL1lTn9fo9SiS) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [BEESWAX](https://open.spotify.com/album/7cr8GvQOO9l7SnlnD3GKQ1) | 3:08 | 2022-04-22 |  |
 | [Belong Together](https://open.spotify.com/track/4upp8vxVnw35RhuZTZKMgT) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Belong Together](https://open.spotify.com/album/1D5ri0WdyU1nNOBvftkXfP) | 4:17 | 2021-10-01 | 2022-01-08 |
 | [Ben Franklin](https://open.spotify.com/track/5epwtR5dDDRzxdD7AGorzX) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Ben Franklin](https://open.spotify.com/album/2VfCI8EO1rfuGF0VmcM57O) | 3:01 | 2021-10-16 | 2022-01-21 |
 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 | 2021-10-29 | 2022-03-09 |
@@ -286,6 +287,7 @@
 | [Genesis](https://open.spotify.com/track/2whpmafYrsKIIeqwdSCjj1) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Genesis](https://open.spotify.com/album/2okSmN83SWjZXl1Fgqwt4S) | 4:29 | 2021-03-19 | 2021-06-11 |
 | [Get Better](https://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Get Better](https://open.spotify.com/album/7LKvzKPsswrEApW8rFi1xq) | 5:51 | 2021-11-05 | 2022-02-04 |
 | [Get High](https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn) | 3:42 | 2021-02-06 | 2021-03-14 |
+| [Ghost of a Chance](https://open.spotify.com/track/40FOwfnjkdck34yQwEgN22) | [Child Of The Parish](https://open.spotify.com/artist/0Ts7cCLH53aCD2WE3PHdMn) | [Quiet Life \- EP](https://open.spotify.com/album/3Iy2mIpWuwaNVMLoRPBku3) | 3:27 | 2022-04-22 |  |
 | [Gibson Girl](https://open.spotify.com/track/2C5C6grASn2TzfsrGu54tZ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Gibson Girl](https://open.spotify.com/album/5iQkSBngJVrm7mbhQ6iFaT) | 5:42 | 2022-03-18 | 2022-04-08 |
 | [Girl Crush](https://open.spotify.com/track/6T3QToHkDxXdIQGLjkgK9t) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 4:04 | 2021-03-08 | 2021-03-09 |
 | [GIRLKIND \- Edit](https://open.spotify.com/track/3mYLbezTCZ781LFUlV6Cx5) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [GIRLKIND](https://open.spotify.com/album/3Fh6q5ZT9H5s60fVTgFptB) | 4:00 | 2021-11-05 | 2022-03-09 |
@@ -337,6 +339,7 @@
 | [Here Comes The Weekend](https://open.spotify.com/track/3APsDh4lerQIyAVYDTJ0fo) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Here Comes The Weekend](https://open.spotify.com/album/43xu86SObsn5u1pRPzPGcd) | 3:13 | 2021-08-13 | 2021-10-08 |
 | [Hey You Hop Up](https://open.spotify.com/track/7oGEIPdLIXCeHNHPjU2v2f) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Hop Up](https://open.spotify.com/album/2aPLSAu2Eujekx57UtM2qx) | 3:11 | 2022-01-14 | 2022-03-11 |
 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-01-21 | 2022-02-25 |
+| [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 |  |
 | [Hive Mind](https://open.spotify.com/track/11qlJNC5vSmd0KMeeaRO3D) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Hive Mind](https://open.spotify.com/album/0zkvB981BoEJdo526JVfe8) | 4:05 | 2021-09-10 | 2021-10-29 |
 | [Hold No Grudge \- Bonus Track](https://open.spotify.com/track/188rKyWMsC4WsKKZ85lnUO) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 4:28 | 2021-11-05 | 2022-03-09 |
 | [Holy Moley](https://open.spotify.com/track/6DSICrL9LNe0M6C7wnyGdr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Cordi Elba](https://open.spotify.com/album/74iCYddbdRJrwHKCAapVmc) | 3:51 | 2022-01-14 | 2022-03-11 |
@@ -579,7 +582,7 @@
 | [Plain Jane](https://open.spotify.com/track/214m1dk34aVRO7No2qpVxh) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Four° In Winter](https://open.spotify.com/album/1CCZQvQ4cSUY9mXOlJYHC3) | 3:33 | 2021-04-23 | 2021-06-18 |
 | [Planes in the Sky](https://open.spotify.com/track/21kXIileKEb0146bpavcVS) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:59 | 2021-09-17 | 2021-11-19 |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-03 | 2022-02-04 |
-| [PLAYGOD](https://open.spotify.com/track/5H9NsCxxAnLQhT2usGd35N) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [PLAYGOD](https://open.spotify.com/album/0ie2yzXuB8Uu2TIefJfzao) | 4:03 | 2022-03-18 |  |
+| [PLAYGOD](https://open.spotify.com/track/5H9NsCxxAnLQhT2usGd35N) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [PLAYGOD](https://open.spotify.com/album/0ie2yzXuB8Uu2TIefJfzao) | 4:03 | 2022-03-18 | 2022-04-23 |
 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 | 2020-09-29\* | 2020-10-16 |
 | [PNE](https://open.spotify.com/track/583BT5xWjMlnyJm6MuzK8h) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PNE](https://open.spotify.com/album/5Pukj80wQycC1be8WTuLl4) | 3:11 | 2020-10-02 | 2021-01-23 |
 | [Point and Kill](https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Point and Kill](https://open.spotify.com/album/4X0qkXpSENN8uzENjrxY0b) | 3:05 | 2021-09-03 | 2021-10-16 |
@@ -762,6 +765,7 @@
 | [There for You](https://open.spotify.com/track/2Xk53t3TnNSqeSm2pXD6jv) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:48 | 2021-10-01 | 2022-01-08 |
 | [there for you](https://open.spotify.com/track/0TJJup71B23lvjHbrK4yz4) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [there for you](https://open.spotify.com/album/1TvvBHVRmuhlQVxg6569Pi) | 2:52 | 2021-09-17 | 2021-10-29 |
 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 | 2022-04-15 |
+| [There’s So Many People That Want To Be Loved](https://open.spotify.com/track/5cnhqpGnv5h4dH3H71qjQb) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [There’s So Many People That Want To Be Loved](https://open.spotify.com/album/0MRNDWL2uM2KYAd4JOagcl) | 4:05 | 2022-04-22 |  |
 | [Theworstthing](https://open.spotify.com/track/2zcqL8jheETC85OYOgaBl8) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Theworstthing](https://open.spotify.com/album/3W88I4fwX6EqtR7qJ6I5fU) | 3:03 | 2021-10-22 | 2022-01-28 |
 | [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 | 2022-04-14 |  |
 | [Think About It](https://open.spotify.com/track/04PqRy6LB15hDRMwufHddJ) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [Think About It](https://open.spotify.com/album/6s5rzRh5UwP370vK1CFMLE) | 4:08 | 2021-01-08 | 2021-03-06 |
@@ -831,6 +835,7 @@
 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 | 2020-12-11 | 2021-01-15 |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2021-03-14 | 2022-03-09 |
 | [Where the Bodies are Buried](https://open.spotify.com/track/0xG35t62RlS74P1ReAgew9) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Where The Bodies Are Buried](https://open.spotify.com/album/3nVtNC85YkvrxYWmaJJ22M) | 3:06 | 2021-04-23 | 2021-07-15 |
+| [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 |  |
 | [White Dress](https://open.spotify.com/track/4Hl9rOqYomojCmxYfr25im) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:33 | 2021-03-19 | 2021-04-16 |
 | [Whoosh](https://open.spotify.com/track/5le8Gs9XT4As7UAs084mIg) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Whoosh](https://open.spotify.com/album/0z4w9hOCgHQDL20sLXWMuS) | 2:44 | 2020-10-02 | 2021-03-09 |
 | [Widow](https://open.spotify.com/track/3rp4zud6BsKASB1RsVXM3m) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Widow](https://open.spotify.com/album/2hToqbk4QAfI4fhUKFlr7F) | 3:54 | 2022-03-25 |  |

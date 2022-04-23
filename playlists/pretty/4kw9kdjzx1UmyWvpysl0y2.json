@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128412,
+  "num_followers": 128405,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM2NCwzZjNjNmY0Y2RkMGFmOTM5N2JlMjBhMjhlYmUyZGM2NWExZTExZmNm",
+  "snapshot_id": "MzM2OCxiZmJlMDMxMzgwMWI5ZjZkYmExNWU2NWFhODk2OTExNDg0NjNiY2Fm",
   "tracks": [
+    {
+      "added_at": "2022-04-22 16:34:59",
+      "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Caslow",
+          "url": "https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq"
+        },
+        {
+          "name": "Lexi Scatena",
+          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "First Place",
+      "url": "https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl"
+    },
+    {
+      "added_at": "2022-04-22 16:33:42",
+      "album": {
+        "name": "All Around Me",
+        "url": "https://open.spotify.com/album/7x03vOspUDZdFRmpJNwubO"
+      },
+      "artists": [
+        {
+          "name": "Elypsis",
+          "url": "https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "All Around Me",
+      "url": "https://open.spotify.com/track/0upnL2PcB8zLkZf1q83TUg"
+    },
     {
       "added_at": "2022-04-21 16:58:10",
       "album": {
@@ -1075,42 +1115,6 @@
       "duration_ms": 171023,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/6jAPzxblYZrD1XpGAhIswt"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Never Cared",
-        "url": "https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 219522,
-      "name": "Never Cared",
-      "url": "https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

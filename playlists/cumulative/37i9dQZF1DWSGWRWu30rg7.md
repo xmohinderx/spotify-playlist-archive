@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Avia Athalia, Fatya Biya\. Artwork: Isu Kim.
 
-556 songs - 1 day 10 hr 17 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+557 songs - 1 day 10 hr 20 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Good Enough](https://open.spotify.com/track/7EOte4A1LgBtUaN4tnR2Zb) | [Batara](https://open.spotify.com/artist/03nRVx8gYfikA1yjpRmtx6) | [Good Enough](https://open.spotify.com/album/75RH514XsoSR5YnpljNNPu) | 3:23 | 2022-03-24 | 2022-04-08 |
 | [Good Time](https://open.spotify.com/track/1UWvEesIu1T5tY3ZU8SHw4) | [Elang Nuraga](https://open.spotify.com/artist/08Zt8dHeSURvwEfUxxbrpH), [Sebastianus Ferdy](https://open.spotify.com/artist/64SgEzYOTKCqRmKBbzaTwE) | [Good Time](https://open.spotify.com/album/20NjfJ6ueBN77jmiEsOPUR) | 4:00 | 2022-01-06 | 2022-01-14 |
 | [Goodbye](https://open.spotify.com/track/0R2uysxK8MZKaKBqxbVaYl) | [Cema](https://open.spotify.com/artist/0Nx9jILrekBzJl0JIGplED) | [Being Okay](https://open.spotify.com/album/2eaW1Gy5alBlxeUR0bBiHL) | 5:36 | 2022-01-06 | 2022-01-14 |
+| [Gotta Move](https://open.spotify.com/track/5jfAoIIo5gJbyeCyhApv5M) | [Steph'A](https://open.spotify.com/artist/7dgEQy7vwItrsdTSd32GTh) | [Gotta Move](https://open.spotify.com/album/10mnRcQJWvu5mSjJiDO14E) | 2:21 | 2022-04-22 |  |
 | [Groote postweg](https://open.spotify.com/track/5SQ1ODQFkFdLsXbsklyprd) | [Aftertones](https://open.spotify.com/artist/48ltWo8j0jJsy7Ly2XDgqc) | [Groote postweg](https://open.spotify.com/album/3cCQ7DX6FZc1oinicljTou) | 4:03 | 2022-02-24 | 2022-03-11 |
 | [Grow](https://open.spotify.com/track/0yFKaLmBWTcq53XfD6XyAy) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI) | [Grow](https://open.spotify.com/album/1IVdFo9HZlXSYri1F0Bz41) | 3:54 | 2022-01-27 | 2022-02-11 |
 | [Hai Kamu](https://open.spotify.com/track/42JEJUFot1Y1mRRU5wtoah) | [Gusti Irwan Wibowo](https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3) | [Hai Kamu](https://open.spotify.com/album/4ohmZJEzoH7rLy6pkVH0aD) | 3:01 | 2022-03-04 | 2022-03-18 |

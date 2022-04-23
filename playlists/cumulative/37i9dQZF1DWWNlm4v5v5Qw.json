@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "DMV music breaking waves. Cover: Yung Manny",
+  "description": "DMV music breaking waves. Cover: Pusha T",
   "name": "Ripple Effect: DMV",
   "published_playlist_ids": [
     "6nQJck6sZVUzsd3csrIbig"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 132734,
       "name": "Backend",
       "url": "https://open.spotify.com/track/2qiD58x7lUlDHxiJY6Nmyx"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 253013,
       "name": "Before It Hurts",
       "url": "https://open.spotify.com/track/7iP6bz6tvVKzy1rZOvJ4Pz"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 220408,
       "name": "Easier Said",
       "url": "https://open.spotify.com/track/4xtovOO8zN3TYmC8kcLcN1"
@@ -1788,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Marvin",
+        "url": "https://open.spotify.com/album/6N7BbixouvGZuD4VmjpIY7"
+      },
+      "artists": [
+        {
+          "name": "Malik Moses",
+          "url": "https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164182,
+      "name": "Marvin",
+      "url": "https://open.spotify.com/track/4B9pkP1vAVHU35xHFekMTo"
+    },
+    {
+      "album": {
         "name": "Marvin - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6Ellw4Bij0X79QNjWoX8dM"
       },
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 175530,
       "name": "Mob Psycho",
       "url": "https://open.spotify.com/track/1ESNeSg3oOZbDDSuQfzFUF"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 156708,
       "name": "MURDAMAN!",
       "url": "https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ"
@@ -2090,6 +2108,28 @@
     },
     {
       "album": {
+        "name": "One Two (feat. YungManny)",
+        "url": "https://open.spotify.com/album/5wRaQ7AhuwZhIwXOm1znT9"
+      },
+      "artists": [
+        {
+          "name": "FNF Chop",
+          "url": "https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3"
+        },
+        {
+          "name": "YungManny",
+          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225122,
+      "name": "One Two (feat. YungManny)",
+      "url": "https://open.spotify.com/track/0YLKjMNe2YtC5pzCyRoypZ"
+    },
+    {
+      "album": {
         "name": "Out My Body",
         "url": "https://open.spotify.com/album/1KhsHDhhRRlXFJUNWTrEpN"
       },
@@ -2210,6 +2250,24 @@
     },
     {
       "album": {
+        "name": "Pressure. (Live)",
+        "url": "https://open.spotify.com/album/0S4WiHEFxuVa011cE4PjT7"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276579,
+      "name": "Pressure. - Live",
+      "url": "https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD"
+    },
+    {
+      "album": {
         "name": "Project Heroes",
         "url": "https://open.spotify.com/album/0DNmnHTylXD9WiER7R1Kk0"
       },
@@ -2275,7 +2333,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 226026,
       "name": "Reaper",
       "url": "https://open.spotify.com/track/7B69MrgWj5tPKeS6oERRoW"
@@ -2377,6 +2435,32 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152612,
+      "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+      "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
     },
     {
       "album": {
@@ -2634,6 +2718,24 @@
     },
     {
       "album": {
+        "name": "90 Day Run",
+        "url": "https://open.spotify.com/album/3jdfQtijIFP1gcFxxzNSga"
+      },
+      "artists": [
+        {
+          "name": "Yg Teck",
+          "url": "https://open.spotify.com/artist/26hDmlgTbg7wseM7YmoyO6"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172512,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/6IdMLrLa7boTApnJ4JMM3h"
+    },
+    {
+      "album": {
         "name": "Gatoraide Two",
         "url": "https://open.spotify.com/album/0G1ADeW8z6W2neZDeo2V2E"
       },
@@ -2754,6 +2856,24 @@
     },
     {
       "album": {
+        "name": "Whose Side Are You On?",
+        "url": "https://open.spotify.com/album/4YxtRfqcQYKZWdVluf7Pmn"
+      },
+      "artists": [
+        {
+          "name": "Naimah",
+          "url": "https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196209,
+      "name": "Whose Side Are You On?",
+      "url": "https://open.spotify.com/track/1YClEnwTRU2mPWZy4cR3bV"
+    },
+    {
+      "album": {
         "name": "WILL SMYTH",
         "url": "https://open.spotify.com/album/7AHUIzn7ozUNrJfjPbA0ds"
       },
@@ -2769,6 +2889,24 @@
       "duration_ms": 124605,
       "name": "WILL SMYTH",
       "url": "https://open.spotify.com/track/2ufWvohzuNuIzg3IFPMhnL"
+    },
+    {
+      "album": {
+        "name": "Wop",
+        "url": "https://open.spotify.com/album/0niYaRUVW1Kp1Dq2qcThbo"
+      },
+      "artists": [
+        {
+          "name": "No Savage",
+          "url": "https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Wop",
+      "url": "https://open.spotify.com/track/1RDyaS05lKnreDIPY9ByVN"
     },
     {
       "album": {
@@ -2805,7 +2943,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 245071,
       "name": "Yamz",
       "url": "https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF"
@@ -2823,7 +2961,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 224391,
       "name": "Yeehaw",
       "url": "https://open.spotify.com/track/230oiozJW2kSwu4eFQxq4D"
@@ -2885,7 +3023,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 159058,
       "name": "ZAZA (REAL RUNTZ)",
       "url": "https://open.spotify.com/track/2sA28obzPDiw12ifbr0etE"

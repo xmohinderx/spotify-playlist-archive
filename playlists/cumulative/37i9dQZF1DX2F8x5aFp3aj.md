@@ -4,11 +4,11 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-75 songs - 5 hr 52 min - not published yet
+77 songs - 6 hr 1 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Just\) Died In Your Arms](https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [The Best Of Cutting Crew](https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH) | 4:38 | 2021-09-28 |  |
+| [\(I Just\) Died In Your Arms](https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [The Best Of Cutting Crew](https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH) | 4:38 | 2021-09-28 | 2022-04-23 |
 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 | 2021-09-28 |  |
 | [Adonde](https://open.spotify.com/track/73FRmu7UZtKt8C7RSZ2gNT) | [Cetu Javu](https://open.spotify.com/artist/0Ii29zDQKo0MN9ULmVgJoI) | [Situations \- The Very Best Of](https://open.spotify.com/album/4roca6jwMPzmTvlsbq3YK5) | 3:58 | 2021-09-28 |  |
 | [Alive And Kicking \- Remastered 2002](https://open.spotify.com/track/2gqpf4zPnByCcqxqGseqes) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time](https://open.spotify.com/album/5Q74XTJr0l3sVQXprBeoT1) | 5:26 | 2021-09-28 |  |
@@ -48,6 +48,7 @@
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2021-09-28 |  |
 | [Just Around The Corner \- European Edit](https://open.spotify.com/track/7IDM8csQeBILlNI2W1KAHb) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Best Ballads](https://open.spotify.com/album/4INsnThgbvAV5IvGQ3R9Jz) | 4:13 | 2021-09-28 |  |
 | [King Of Pain](https://open.spotify.com/track/5o4ueR3CNK3diNRp1UUyL3) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Message In A Box](https://open.spotify.com/album/34mwCckm6X3AigkTgxGead) | 4:59 | 2021-09-28 |  |
+| [Lips Like Sugar](https://open.spotify.com/track/6yjkduAGhMd0zGwDRr5kVL) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [The Best of Echo & The Bunnymen](https://open.spotify.com/album/0KJWnz3i4TZXzWQMSnKzSv) | 4:51 | 2021-09-28 |  |
 | [Living in Another World \- 1997 Remaster](https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:58 | 2021-09-28 |  |
 | [Living In Oblivion](https://open.spotify.com/track/3YvWI3uLVvPjnWNgfgXht0) | [Anything Box](https://open.spotify.com/artist/0AEDwJyvLfojF4iKEmJDMT) | [Peace](https://open.spotify.com/album/5tnQAZJ6CgFPJ8mSgsNjHX) | 5:06 | 2021-09-28 |  |
 | [Love Is a Shield](https://open.spotify.com/track/1OoFnLri3YXLnA2ip6rojP) | [Camouflage](https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN) | [Methods of Silence](https://open.spotify.com/album/6DgP8Nwrx0EJwAr3cBde4U) | 4:47 | 2021-09-28 |  |
@@ -61,7 +62,7 @@
 | [Pictures Of You \- Remastered](https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 7:28 | 2021-09-28 |  |
 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 | 2021-09-28 |  |
 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/4Jdr7BkpqkkUwl2pFR0yVj) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire](https://open.spotify.com/album/4JfQDfKe4N5NCEyMP1mYT6) | 3:47 | 2021-09-28 |  |
-| [Rebel Yell \- Remastered](https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:46 | 2021-09-28 |  |
+| [Rebel Yell \- Remastered](https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:46 | 2021-09-28 | 2022-04-23 |
 | [Repetition](https://open.spotify.com/track/2Dq6BAHRXcoTxg9azES5xW) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society \(CD+G\)](https://open.spotify.com/album/1DkvggCdd36Kr3ZtXqLk8l) | 4:34 | 2021-09-28 |  |
 | [Rock the Casbah](https://open.spotify.com/track/5vzW6FDzBtnGGnf4uLwLe5) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Essential Clash](https://open.spotify.com/album/6B2e7yG3Www5reNM6WfGdS) | 3:40 | 2021-09-28 |  |
 | [Sara](https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 6:22 | 2021-09-28 |  |
@@ -69,6 +70,7 @@
 | [She Sells Sanctuary](https://open.spotify.com/track/66glXjjFvlS5r1gDUK4ugq) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Pure Cult](https://open.spotify.com/album/34rzRePuHmHNXxYEAge4E9) | 4:12 | 2021-09-28 |  |
 | [Shout](https://open.spotify.com/track/07GAZyvHT8GzBnjyqsI7JE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Deluxe\)](https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs) | 6:32 | 2021-09-28 |  |
 | [Slave To Love](https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 4:19 | 2021-09-28 |  |
+| [So Alive](https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/7ySBlv1N2wbYcaIwHBcBuy) | 4:17 | 2021-09-28 |  |
 | [Sowing The Seeds Of Love](https://open.spotify.com/track/5bEr0tYW6xvT73OiKVcEgq) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love](https://open.spotify.com/album/4XJCUjUPGqsbGCYZJ0EAEj) | 6:16 | 2021-09-28 |  |
 | [Tears Run Rings](https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki) | [Marc Almond](https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7) | [The Stars We Are](https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR) | 4:21 | 2021-09-28 |  |
 | [The Dead Heart](https://open.spotify.com/track/2O2n8eF4e7qfeUGcFwWQFp) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/4tSyLb9l1xuqGBxjv1jiLn) | 5:10 | 2021-09-28 |  |

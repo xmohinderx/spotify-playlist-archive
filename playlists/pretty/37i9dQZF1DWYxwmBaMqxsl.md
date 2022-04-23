@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 ### [Rainy Day Jazz](https://open.spotify.com/playlist/37i9dQZF1DWYxwmBaMqxsl)
 
-> Blue jazz when you're feeling blue.
+> Soft and moody jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,952 likes - 105 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,085 likes - 105 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 104 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 |
 | 105 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6XZCXx5dOgq7pOJxjVdYAr) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 3:33 |
 
-Snapshot ID: `MTY0OTY5MTIzOCwwMDAwMDA2ZDAwMDAwMTgwMTk0MjlmYzcwMDAwMDE3OWY2MGRjYjE4`
+Snapshot ID: `MTY1MDYzNDA4MiwwMDAwMDA2ZTAwMDAwMTgwNTE3NTQ3NzgwMDAwMDE3OWY2MGRjYjE4`

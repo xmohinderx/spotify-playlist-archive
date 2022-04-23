@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-62 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+63 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Manéa](https://open.spotify.com/track/0eH6ScCAEPzUS080uH5OHW) | [Florin Niculescu](https://open.spotify.com/artist/2HdcSFjH7Q29VYf89WIHLs), [Corneliu Niculescu](https://open.spotify.com/artist/3P09Y4zaLlwrNCmVWRHbII) | [Florilège \(L'Esprit Roumain\)](https://open.spotify.com/album/56QU1JJKq21GSapXj5MeLG) | 8:03 | 2021-02-04 |  |
 | [Minor Swing](https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 3:16 | 2021-02-04 |  |
 | [Minor Swing](https://open.spotify.com/track/2STxETUMvTtf1B0wx5xLkf) | [Francis Tétu](https://open.spotify.com/artist/7Dwzl1IUNSLf86kE01iHXw) | [Mes Standards Vol.1](https://open.spotify.com/album/5WfkevFSXg99FCY5dkmNH3) | 3:31 | 2021-05-28 |  |
+| [Minor Swing](https://open.spotify.com/track/2aMelYeJahQsjd6SmUOwQv) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [French Connection](https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze), [Rémi Oswald](https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v), [Édouard Pennes](https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2) | [Minor Swing](https://open.spotify.com/album/3QSDADTCiVpjnAZ8okKBHM) | 2:23 | 2022-04-22 |  |
 | [Montagne Sainte Genevieve](https://open.spotify.com/track/2WCjtNsuAGngE2d54sAC6O) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1) | [Muza](https://open.spotify.com/album/3I5beJRHfjzwUQgXksUT0L) | 4:36 | 2021-02-04 |  |
 | [Mumbo Jumbo](https://open.spotify.com/track/0iPqQ1s88PgRFNbxoj6E3V) | [Les doigts de l'homme](https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5) | [Mumbo Jumbo](https://open.spotify.com/album/13YA3p0hUrnvlf7eyIRkj4) | 3:41 | 2021-02-04 |  |
 | [Noto Swing](https://open.spotify.com/track/0V41BiC0l8yvfYNG7uca3k) | [Angelo DeBarre](https://open.spotify.com/artist/64oD1nmr26PzBAecbxdBzt), [Moreno](https://open.spotify.com/artist/2degWnXduSuO2G7PcQi6vO), [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8) | [Moreno](https://open.spotify.com/album/2D6NyWEwm04uWDLK6iYqhH) | 3:16 | 2021-02-04 |  |

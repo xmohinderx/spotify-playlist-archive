@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 152924,
+  "num_followers": 153032,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU4OTk4OSwwMDAwMDAwMDc1M2ZmYTZlOThjYjlkMjg2Y2U1MjBlMjBlY2NkYTU5",
+  "snapshot_id": "MTY1MDY3NTk2MCwwMDAwMDAwMDg5MzcxMmYyZjRlM2M0MDE0NGIzNzUzNjA5NzkzNGY2",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -59,6 +59,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Bar\u00e3o Vermelho 2",
+        "url": "https://open.spotify.com/album/3tPQA9m5HhUPxFi14K9YRr"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/44BxEH341a9zeJq2z1UDdc"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "A Revolta Dos Dandis",
         "url": "https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 372093,
       "name": "Infinita Highway",
       "url": "https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "V\u00f4o de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt"
-      },
-      "artists": [
-        {
-          "name": "Ritchie",
-          "url": "https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV"
-        }
-      ],
-      "duration_ms": 281293,
-      "name": "Menina Veneno",
-      "url": "https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -107,34 +107,38 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "S\u00f3 Se For A Dois",
-        "url": "https://open.spotify.com/album/3oDvGnTi4xDQujcc8v8mrs"
+        "name": "V\u00f4o de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt"
       },
       "artists": [
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Ritchie",
+          "url": "https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV"
         }
       ],
-      "duration_ms": 212586,
-      "name": "O Nosso Amor A Gente Inventa (Est\u00f3ria Rom\u00e2ntica)",
-      "url": "https://open.spotify.com/track/4OQCnf6Jx0cZzzTh7fU0TF"
+      "duration_ms": 281293,
+      "name": "Menina Veneno",
+      "url": "https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP"
     },
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Bar\u00e3o Vermelho 2",
-        "url": "https://open.spotify.com/album/3tPQA9m5HhUPxFi14K9YRr"
+        "name": "Virgem",
+        "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
       },
       "artists": [
         {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        },
+        {
+          "name": "Renato Rocketh",
+          "url": "https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63"
         }
       ],
-      "duration_ms": 267133,
-      "name": "Pro Dia Nascer Feliz",
-      "url": "https://open.spotify.com/track/44BxEH341a9zeJq2z1UDdc"
+      "duration_ms": 284040,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -171,18 +175,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Tit\u00e3s",
-        "url": "https://open.spotify.com/album/43lQwQI0K0tnOb1noQa3qm"
+        "name": "S\u00f3 Se For A Dois",
+        "url": "https://open.spotify.com/album/3oDvGnTi4xDQujcc8v8mrs"
       },
       "artists": [
         {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Son\u00edfera ilha",
-      "url": "https://open.spotify.com/track/6uUORbJHSVvBoX6qp9cDda"
+      "duration_ms": 212586,
+      "name": "O Nosso Amor A Gente Inventa (Est\u00f3ria Rom\u00e2ntica)",
+      "url": "https://open.spotify.com/track/4OQCnf6Jx0cZzzTh7fU0TF"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -203,22 +207,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Pr\u00f3xima Parada",
-        "url": "https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP"
-      },
-      "artists": [
-        {
-          "name": "Marina",
-          "url": "https://open.spotify.com/artist/6mjJJG5KpgfyY1HfNvK54S"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "\u00c0 Francesa",
-      "url": "https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Sa\u00fade",
         "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
       },
@@ -231,6 +219,22 @@
       "duration_ms": 301693,
       "name": "Sa\u00fade",
       "url": "https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Pr\u00f3xima Parada",
+        "url": "https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP"
+      },
+      "artists": [
+        {
+          "name": "Marina",
+          "url": "https://open.spotify.com/artist/6mjJJG5KpgfyY1HfNvK54S"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "\u00c0 Francesa",
+      "url": "https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -251,18 +255,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Maior Abandonado",
-        "url": "https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR"
+        "name": "Tit\u00e3s",
+        "url": "https://open.spotify.com/album/43lQwQI0K0tnOb1noQa3qm"
       },
       "artists": [
         {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
         }
       ],
-      "duration_ms": 213933,
-      "name": "Bete Balan\u00e7o",
-      "url": "https://open.spotify.com/track/0SrDqCmn2ClzEzNkAZYc2Y"
+      "duration_ms": 176560,
+      "name": "Son\u00edfera ilha",
+      "url": "https://open.spotify.com/track/6uUORbJHSVvBoX6qp9cDda"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -283,26 +287,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Virgem",
-        "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        },
-        {
-          "name": "Renato Rocketh",
-          "url": "https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Com Voc\u00ea",
         "url": "https://open.spotify.com/album/3hBm8EufbPG0VvvrL6i7M8"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 201200,
       "name": "Voc\u00ea N\u00e3o Soube Me Amar",
       "url": "https://open.spotify.com/track/3bQmU3UGvZMsYZ13ffNyVf"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Maior Abandonado",
+        "url": "https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Bete Balan\u00e7o",
+      "url": "https://open.spotify.com/track/0SrDqCmn2ClzEzNkAZYc2Y"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -335,54 +335,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Exagerado",
-        "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Exagerado",
-      "url": "https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "\u00d5 Blesq Blom",
-        "url": "https://open.spotify.com/album/29EF7CaTbAf6Jvi7ycG9ya"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/2oAkehvjylOAggGLPeVXYa"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Longe Demais Das Capitais",
-        "url": "https://open.spotify.com/album/2uOcxJtzGlnsM7iLn4kxTL"
-      },
-      "artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Toda Forma De Poder",
-      "url": "https://open.spotify.com/track/0FcYoRbrZ9eR2bc5nw6feN"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "O Passo Do Lui",
         "url": "https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ"
       },
@@ -395,38 +347,6 @@
       "duration_ms": 219600,
       "name": "\u00d3culos",
       "url": "https://open.spotify.com/track/1LphXGnd5o9F0hOE61Zf9T"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 332133,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Tempos modernos (2001 Remasterizado)",
-        "url": "https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Tempos modernos - Remasterizado em 2001",
-      "url": "https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -447,6 +367,38 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 332133,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Exagerado",
+        "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "Go Back (Ao vivo)",
         "url": "https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm"
       },
@@ -459,6 +411,22 @@
       "duration_ms": 261398,
       "name": "Marvin - Ao vivo",
       "url": "https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Tempos modernos (2001 Remasterizado)",
+        "url": "https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Tempos modernos - Remasterizado em 2001",
+      "url": "https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -483,34 +451,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7AMgXBVw9ViHswkQ71wyju"
+        "name": "Cinema Mudo",
+        "url": "https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV"
       },
       "artists": [
         {
-          "name": "Legi\u00e3o Urbana",
-          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Meninos E Meninas",
-      "url": "https://open.spotify.com/track/22LN0RwHqTUJcIN4dzzB6N"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Abre-Te S\u00e9samo",
-        "url": "https://open.spotify.com/album/3DVhmHZZUO3WvLSt7vLX1F"
-      },
-      "artists": [
-        {
-          "name": "Raul Seixas",
-          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Aluga-Se",
-      "url": "https://open.spotify.com/track/60SVKic93qC7WC7cdm3y4U"
+      "duration_ms": 191216,
+      "name": "Vital E Sua Moto",
+      "url": "https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -531,50 +483,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+        "name": "O Descobridor Dos Sete Mares",
+        "url": "https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 262079,
-      "name": "Esot\u00e9rico",
-      "url": "https://open.spotify.com/track/0tVxzsIpzTIj41DTHAvFxs"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Uns",
-        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Eclipse Oculto - Remixed Original Album",
-      "url": "https://open.spotify.com/track/3n5wWhXZKyowsRQ4QiSCVD"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Capital Inicial",
-        "url": "https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "F\u00e1tima",
-      "url": "https://open.spotify.com/track/7e4lwINwaHLGaQRsLR9mWR"
+      "duration_ms": 265297,
+      "name": "O Descobridor Dos Sete Mares",
+      "url": "https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -595,18 +515,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Ideologia",
-        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
+        "name": "\u00d5 Blesq Blom",
+        "url": "https://open.spotify.com/album/29EF7CaTbAf6Jvi7ycG9ya"
       },
       "artists": [
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Ideologia",
-      "url": "https://open.spotify.com/track/4s6qyTWg5r4EyOi2QIwM9g"
+      "duration_ms": 207600,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/2oAkehvjylOAggGLPeVXYa"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -627,24 +547,24 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Cinema Mudo",
-        "url": "https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV"
+        "name": "Longe Demais Das Capitais",
+        "url": "https://open.spotify.com/album/2uOcxJtzGlnsM7iLn4kxTL"
       },
       "artists": [
         {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+          "name": "Engenheiros Do Hawaii",
+          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
         }
       ],
-      "duration_ms": 191216,
-      "name": "Vital E Sua Moto",
-      "url": "https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB"
+      "duration_ms": 195066,
+      "name": "Toda Forma De Poder",
+      "url": "https://open.spotify.com/track/0FcYoRbrZ9eR2bc5nw6feN"
     },
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Legi\u00e3o Urbana",
-        "url": "https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k"
+        "name": "As Quatro Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7AMgXBVw9ViHswkQ71wyju"
       },
       "artists": [
         {
@@ -652,9 +572,57 @@
           "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
         }
       ],
-      "duration_ms": 237733,
-      "name": "Ainda \u00c9 Cedo",
-      "url": "https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t"
+      "duration_ms": 203600,
+      "name": "Meninos E Meninas",
+      "url": "https://open.spotify.com/track/22LN0RwHqTUJcIN4dzzB6N"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Abre-Te S\u00e9samo",
+        "url": "https://open.spotify.com/album/3DVhmHZZUO3WvLSt7vLX1F"
+      },
+      "artists": [
+        {
+          "name": "Raul Seixas",
+          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Aluga-Se",
+      "url": "https://open.spotify.com/track/60SVKic93qC7WC7cdm3y4U"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Esot\u00e9rico",
+      "url": "https://open.spotify.com/track/0tVxzsIpzTIj41DTHAvFxs"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -679,6 +647,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Out Of Time",
+        "url": "https://open.spotify.com/album/2vPM8y0gBZTnEO48rGnCzs"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6bCPryuQjsts5cEybA3Nb5"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "Maior Abandonado",
         "url": "https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "O Descobridor Dos Sete Mares",
-        "url": "https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId"
+        "name": "Uns",
+        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 265297,
-      "name": "O Descobridor Dos Sete Mares",
-      "url": "https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ"
+      "duration_ms": 225373,
+      "name": "Eclipse Oculto - Remixed Original Album",
+      "url": "https://open.spotify.com/track/3n5wWhXZKyowsRQ4QiSCVD"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -727,118 +711,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Seu Espi\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/4NLVOcRYthD3SL6gm7fyVN"
-      },
-      "artists": [
-        {
-          "name": "Kid Abelha e os Ab\u00f3boras Selvagens",
-          "url": "https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl"
-        }
-      ],
-      "duration_ms": 381440,
-      "name": "Fixa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/63Ugh7fCzAtsn09ESEKQBh"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Sa\u00fade",
-        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Banho De Espuma",
-      "url": "https://open.spotify.com/track/4ySIlRhVHfoH4uK3BL74Ql"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Out Of Time",
-        "url": "https://open.spotify.com/album/2vPM8y0gBZTnEO48rGnCzs"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/6bCPryuQjsts5cEybA3Nb5"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Capital Inicial",
-        "url": "https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "M\u00fasica Urbana - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/37i2AqYonqyW5MoGXCY0pG"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Circulado",
-        "url": "https://open.spotify.com/album/6jclg8GUlvPIiFWBhphdnw"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 353493,
-      "name": "Fora Da Ordem",
-      "url": "https://open.spotify.com/track/1Sd8ttUlcuF8FXEDc625mt"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/3hBm8EufbPG0VvvrL6i7M8"
-      },
-      "artists": [
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 223306,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/4rHbutI3cCzyEnIYzkPP1p"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
-      "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Que Pais E Este",
         "url": "https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe"
       },
@@ -855,34 +727,50 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
+        "name": "Seu Espi\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/4NLVOcRYthD3SL6gm7fyVN"
       },
       "artists": [
         {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+          "name": "Kid Abelha e os Ab\u00f3boras Selvagens",
+          "url": "https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl"
         }
       ],
-      "duration_ms": 247533,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
+      "duration_ms": 381440,
+      "name": "Fixa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/63Ugh7fCzAtsn09ESEKQBh"
     },
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Hanoi-Hanoi",
-        "url": "https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi"
+        "name": "Ideologia",
+        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
       },
       "artists": [
         {
-          "name": "Hanoi Hanoi",
-          "url": "https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh"
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Totalmente Demais",
-      "url": "https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9"
+      "duration_ms": 245200,
+      "name": "Ideologia",
+      "url": "https://open.spotify.com/track/4s6qyTWg5r4EyOi2QIwM9g"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Tim Maia 1980",
+        "url": "https://open.spotify.com/album/6Wsh96wuXlhbQYFUgn6ar1"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 292670,
+      "name": "Voc\u00ea E Eu, Eu E Voc\u00ea (Juntinhos)",
+      "url": "https://open.spotify.com/track/2TI0STKG1kgevz10OxF3Pm"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -903,18 +791,162 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+        "name": "Sa\u00fade",
+        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
       },
       "artists": [
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
         }
       ],
-      "duration_ms": 196626,
-      "name": "The Boy with the Thorn in His Side - 2011 Remaster",
-      "url": "https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp"
+      "duration_ms": 222666,
+      "name": "Banho De Espuma",
+      "url": "https://open.spotify.com/track/4ySIlRhVHfoH4uK3BL74Ql"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Capital Inicial",
+        "url": "https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "F\u00e1tima",
+      "url": "https://open.spotify.com/track/7e4lwINwaHLGaQRsLR9mWR"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "\"Todas\"",
+        "url": "https://open.spotify.com/album/73K3NqKElr5xju7BY9PDl5"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 188733,
+      "name": "Nada Por Mim",
+      "url": "https://open.spotify.com/track/3GVhJmZMI2fATq2ArxvgKz"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/3hBm8EufbPG0VvvrL6i7M8"
+      },
+      "artists": [
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 223306,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4rHbutI3cCzyEnIYzkPP1p"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Legi\u00e3o Urbana",
+        "url": "https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k"
+      },
+      "artists": [
+        {
+          "name": "Legi\u00e3o Urbana",
+          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Ainda \u00c9 Cedo",
+      "url": "https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Circulado",
+        "url": "https://open.spotify.com/album/6jclg8GUlvPIiFWBhphdnw"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 353493,
+      "name": "Fora Da Ordem",
+      "url": "https://open.spotify.com/track/1Sd8ttUlcuF8FXEDc625mt"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Hanoi-Hanoi",
+        "url": "https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi"
+      },
+      "artists": [
+        {
+          "name": "Hanoi Hanoi",
+          "url": "https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Totalmente Demais",
+      "url": "https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Capital Inicial",
+        "url": "https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "M\u00fasica Urbana - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/37i2AqYonqyW5MoGXCY0pG"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Seu Espi\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/4NLVOcRYthD3SL6gm7fyVN"
+      },
+      "artists": [
+        {
+          "name": "Kid Abelha e os Ab\u00f3boras Selvagens",
+          "url": "https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "Alice (N\u00e3o escreva aquela carta de amor)",
+      "url": "https://open.spotify.com/track/1YjmdYvNMgSnXwENY2zErk"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -939,18 +971,34 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Seu Espi\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/4NLVOcRYthD3SL6gm7fyVN"
+        "name": "Velo",
+        "url": "https://open.spotify.com/album/3wmPcvE8sH6hB3IYKt3SIM"
       },
       "artists": [
         {
-          "name": "Kid Abelha e os Ab\u00f3boras Selvagens",
-          "url": "https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 188506,
-      "name": "Alice (N\u00e3o escreva aquela carta de amor)",
-      "url": "https://open.spotify.com/track/1YjmdYvNMgSnXwENY2zErk"
+      "duration_ms": 178240,
+      "name": "O Quereres",
+      "url": "https://open.spotify.com/track/7Ep4Z555YhwaG9m4zDgRyx"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "The Boy with the Thorn in His Side - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -971,66 +1019,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Tim Maia 1980",
-        "url": "https://open.spotify.com/album/6Wsh96wuXlhbQYFUgn6ar1"
+        "name": "Marisa Monte MM",
+        "url": "https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 292670,
-      "name": "Voc\u00ea E Eu, Eu E Voc\u00ea (Juntinhos)",
-      "url": "https://open.spotify.com/track/2TI0STKG1kgevz10OxF3Pm"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Back To New Wave - Vol. 1",
-        "url": "https://open.spotify.com/album/3d7wnKbeuuGbXxueOBueq1"
-      },
-      "artists": [
-        {
-          "name": "Metr\u00f4",
-          "url": "https://open.spotify.com/artist/6Z3jpHZzLLidOPRoHQ5wix"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Beat Acelerado",
-      "url": "https://open.spotify.com/track/0mE5lyov5sTZ1n71sasMDh"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "\"Todas\"",
-        "url": "https://open.spotify.com/album/73K3NqKElr5xju7BY9PDl5"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 188733,
-      "name": "Nada Por Mim",
-      "url": "https://open.spotify.com/track/3GVhJmZMI2fATq2ArxvgKz"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Velo",
-        "url": "https://open.spotify.com/album/3wmPcvE8sH6hB3IYKt3SIM"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "O Quereres",
-      "url": "https://open.spotify.com/track/7Ep4Z555YhwaG9m4zDgRyx"
+      "duration_ms": 197466,
+      "name": "Chocolate - Ao Vivo",
+      "url": "https://open.spotify.com/track/0bUo6WM2bQP3Xc4MnW5lYn"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1071,6 +1071,38 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Back To New Wave - Vol. 1",
+        "url": "https://open.spotify.com/album/3d7wnKbeuuGbXxueOBueq1"
+      },
+      "artists": [
+        {
+          "name": "Metr\u00f4",
+          "url": "https://open.spotify.com/artist/6Z3jpHZzLLidOPRoHQ5wix"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Beat Acelerado",
+      "url": "https://open.spotify.com/track/0mE5lyov5sTZ1n71sasMDh"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Staring At The Sea - The Singles",
+        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1YQCRXscu8xE74BVVMUCRr"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
       },
@@ -1091,18 +1123,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Marisa Monte MM",
-        "url": "https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5"
+        "name": "Discography - Complete Singles Collection",
+        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 197466,
-      "name": "Chocolate - Ao Vivo",
-      "url": "https://open.spotify.com/track/0bUo6WM2bQP3Xc4MnW5lYn"
+      "duration_ms": 234906,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1123,24 +1155,8 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Discography - Complete Singles Collection",
-        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/39MMaY4ampwjkSOFahHnKi"
       },
       "artists": [
         {
@@ -1148,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 201000,
+      "name": "I Want To Break Free",
+      "url": "https://open.spotify.com/track/3mvoMBK8QDtnhz8U2L2XK2"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Document (R.E.M. No. 5)",
-        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/7707eDBpR4qtNFoQ6nQyeR"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Brothers In Arms (Remastered)",
         "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 249960,
       "name": "Walk Of Life",
       "url": "https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1235,50 +1251,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Best Of The 80's",
-        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
+        "name": "Document (R.E.M. No. 5)",
+        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 228120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Staring At The Sea - The Singles",
-        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1YQCRXscu8xE74BVVMUCRr"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
+      "duration_ms": 198000,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/7707eDBpR4qtNFoQ6nQyeR"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1299,50 +1283,34 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "The Best Of The 80's",
+        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Livin' On A Prayer",
-      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+      "duration_ms": 228120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
     },
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "War (Remastered)",
-        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 335613,
-      "name": "New Year's Day - Remastered 2008",
-      "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1379,34 +1347,34 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Colour By Numbers",
-        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
       },
       "artists": [
         {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
         }
       ],
-      "duration_ms": 252773,
-      "name": "Karma Chameleon - Remastered 2002",
-      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+      "duration_ms": 225280,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
     },
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/39MMaY4ampwjkSOFahHnKi"
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 201000,
-      "name": "I Want To Break Free",
-      "url": "https://open.spotify.com/track/3mvoMBK8QDtnhz8U2L2XK2"
+      "duration_ms": 256519,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1427,38 +1395,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Look Sharp! (2009 Version)",
-        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Kick (Remastered 2011)",
         "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
       },
@@ -1471,38 +1407,6 @@
       "duration_ms": 220160,
       "name": "New Sensation",
       "url": "https://open.spotify.com/track/2xcrseImDFEf8Urommws03"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 299240,
-      "name": "Eyes Without A Face",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "The Very Best Of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/1CuFf5IslmlCno7DAFjrt9"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 269786,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1523,34 +1427,50 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Let's Dance (1999 Remaster)",
-        "url": "https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 288466,
-      "name": "Modern Love - 1999 Remaster",
-      "url": "https://open.spotify.com/track/7LyIoUsiMtelB1I0I4drEF"
+      "duration_ms": 241333,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
     },
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
         }
       ],
-      "duration_ms": 266173,
-      "name": "Palco",
-      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
+      "duration_ms": 299240,
+      "name": "Eyes Without A Face",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1571,34 +1491,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+        "name": "Diesel And Dust",
+        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "Midnight Oil",
+          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
         }
       ],
-      "duration_ms": 263213,
-      "name": "Bizarre Love Triangle",
-      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+      "duration_ms": 255680,
+      "name": "Beds Are Burning - Remastered",
+      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1619,18 +1523,114 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
         }
       ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Colour By Numbers",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "War (Remastered)",
+        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 335613,
+      "name": "New Year's Day - Remastered 2008",
+      "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Very Best Of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/1CuFf5IslmlCno7DAFjrt9"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 269786,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Head On The Door (Remastered)",
+        "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
     }
   ],
   "unique_name": "Faxina Nostalgia",

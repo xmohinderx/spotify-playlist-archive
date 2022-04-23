@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 ### [Date Night Jazz](https://open.spotify.com/playlist/37i9dQZF1DX6ZiG5Dz8cUM)
 
-> Set the tone for your dinner with cozy jazz.
+> Set the tone for your date night with cozy jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,972 likes - 104 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,070 likes - 104 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 103 | [Toys In The Attic](https://open.spotify.com/track/3M0FjXzPd3fhxinI1SGgaG) | [Shirley Scott Trio](https://open.spotify.com/artist/66K4gRPXBnUincPVW35oUs) | [For Members Only](https://open.spotify.com/album/2opVsysbZxgeubko0KVpBZ) | 2:50 |
 | 104 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 |
 
-Snapshot ID: `MTY0OTc1MDY4MywwMDAwMDA2NTAwMDAwMTgwMWNjZGFmZTgwMDAwMDE3MjRjMzdlZjEw`
+Snapshot ID: `MTY1MDYzMTEzMywwMDAwMDA2NjAwMDAwMTgwNTE0ODQ5NDYwMDAwMDE3MjRjMzdlZjEw`

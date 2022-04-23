@@ -510,6 +510,32 @@
     },
     {
       "album": {
+        "name": "Di\u00f3ne",
+        "url": "https://open.spotify.com/album/1S3TwRRwWYohy9wwH2EsQ4"
+      },
+      "artists": [
+        {
+          "name": "Dore\u00e1n",
+          "url": "https://open.spotify.com/artist/5jvgFY84QwazP4ljpQqcvg"
+        },
+        {
+          "name": "Djow",
+          "url": "https://open.spotify.com/artist/4dfW6aGgqWwU6juV63C0ZR"
+        },
+        {
+          "name": "DaSeca",
+          "url": "https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Di\u00f3ne",
+      "url": "https://open.spotify.com/track/3btFitgDyAmqRpsnTVW8sR"
+    },
+    {
+      "album": {
         "name": "Duro Igual Concreto",
         "url": "https://open.spotify.com/album/0E7M1yBHV0BBBHKuQXrArp"
       },

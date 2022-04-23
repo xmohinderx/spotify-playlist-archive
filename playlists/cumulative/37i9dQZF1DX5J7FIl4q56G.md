@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: We Came As Romans
 
-663 songs - 1 day 20 hr 40 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+664 songs - 1 day 20 hr 44 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [I Am That Thirst](https://open.spotify.com/track/6haPL5fAuRJ25u2E9PQyQx) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [I Am That Thirst](https://open.spotify.com/album/7hw65PGHpBFnDcZRdT3VBr) | 4:40 | 2022-03-24 | 2022-04-01 |
 | [I Close My Eyes so I Can See](https://open.spotify.com/track/1ncl5OvSGPeQvbI4uNF6iV) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/3Bx01WCfpuiY5OfHskn5Kz) | 5:14 | 2022-03-03 | 2022-03-11 |
 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 | 2021-12-17 | 2022-01-14 |
+| [I'm the Water](https://open.spotify.com/track/19LZ0uat4YWx0EE9ezlOE9) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [I'm the Water](https://open.spotify.com/album/6IQJUqVhJX9Bb30tjCu4L7) | 3:47 | 2022-04-22 |  |
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-18 | 2022-03-25 |
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-01-28 | 2022-02-25 |
 | [Immovable Stone](https://open.spotify.com/track/6yGCKMLGznWxAIRRfwv3Ew) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Immovable Stone](https://open.spotify.com/album/4R9OjWhHTz8eleYOrJ3KXK) | 3:32 | 2021-12-17 | 2022-01-14 |

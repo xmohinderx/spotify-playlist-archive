@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-83 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+84 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Kshama](https://open.spotify.com/track/41DoALg5bbmd2wNXNNyWsB) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Kshama](https://open.spotify.com/album/6uZ3d8tWQJQgmaTgoxdHy5) | 5:20 | 2022-04-13 |  |
 | [Lima](https://open.spotify.com/track/2ilC4aW81hmv8S1xd3DNcm) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Lima](https://open.spotify.com/album/794vccfp05jLVlOB3Pw7pI) | 3:32 | 2022-04-13 |  |
 | [Love Song](https://open.spotify.com/track/1wrQkDDLad13DQpWO1zKay) | [VICTHOR](https://open.spotify.com/artist/1w1sHYCtY7hh3pw9R1C9g9), [Christian Lepah](https://open.spotify.com/artist/0EUxPMFdUknfd9UjSpOJGz) | [Love Song](https://open.spotify.com/album/6BZ9PYniIE1kG9dpauKyYo) | 8:39 | 2022-04-13 |  |
+| [Lua \- Pippi Ciez Retake](https://open.spotify.com/track/4ufLhIy7LcTO1gD0aoM7pU) | [Djamou Sangare](https://open.spotify.com/artist/7MIDaIHvsSEayCv0pw3okp), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Pippi Ciez](https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v) | [Lua](https://open.spotify.com/album/0Hc205wUJI8fIBXNku5BEQ) | 7:47 | 2022-04-22 |  |
 | [Luna](https://open.spotify.com/track/1tioHY3xfRwny9nFEjpKA9) | [Espinoza](https://open.spotify.com/artist/57DFN6UryjVpBcJrgmOg6n), [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Luna](https://open.spotify.com/album/4QQPki89hRKCSI1S36biu1) | 6:04 | 2022-04-13 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-04-13 |  |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-04-13 |  |

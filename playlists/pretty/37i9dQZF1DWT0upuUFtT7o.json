@@ -1,13 +1,29 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Luke Royalty Artwork: Robin Clifford Ellis ",
-  "num_followers": 141610,
+  "num_followers": 141681,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk3MzIzMCwwMDAwMDBkYTAwMDAwMTgwMmExMTdhZWMwMDAwMDE3ZmI2ZWQyMDRh",
+  "snapshot_id": "MTY1MDY0MzQ5MCwwMDAwMDBkYjAwMDAwMTgwNTIwNGQ2ZTgwMDAwMDE3ZmI2ZWQyMDRh",
   "tracks": [
+    {
+      "added_at": "2022-04-22 16:04:50",
+      "album": {
+        "name": "Brave & Afraid",
+        "url": "https://open.spotify.com/album/6VvjYRRkfx5rqSqnrBI5K5"
+      },
+      "artists": [
+        {
+          "name": "Marques Martin",
+          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Belles",
+      "url": "https://open.spotify.com/track/6TGKtEN5WQ4Fz5C5wL88ff"
+    },
     {
       "added_at": "2022-04-12 22:22:51",
       "album": {

@@ -142,6 +142,28 @@
     },
     {
       "album": {
+        "name": "Amame / Mariposas",
+        "url": "https://open.spotify.com/album/3ZLT6diCZWFbh91wTSIo6w"
+      },
+      "artists": [
+        {
+          "name": "Claudio Toledo",
+          "url": "https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh"
+        },
+        {
+          "name": "Dani Guardia",
+          "url": "https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283192,
+      "name": "Amame / Mariposas",
+      "url": "https://open.spotify.com/track/5e9DYoQBJu60GE063WqDKD"
+    },
+    {
+      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -313,7 +335,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 256560,
       "name": "Atrevida - En Vivo",
       "url": "https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP"
@@ -513,7 +535,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 235920,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
@@ -693,7 +715,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 246533,
       "name": "Cuentale",
       "url": "https://open.spotify.com/track/5rwkGQ7koZIMFtHhOMEepL"
@@ -801,7 +823,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 204601,
       "name": "Desordenada",
       "url": "https://open.spotify.com/track/4xpDz9jAnK1YNtokl15AxJ"
@@ -917,7 +939,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 302186,
       "name": "El bohemio",
       "url": "https://open.spotify.com/track/6SbDsZ7cv06KYxSHkBWmkS"
@@ -1348,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Hoy Te Vas",
+        "url": "https://open.spotify.com/album/6YFtUyBR2HfdjR5HqxDrXB"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208396,
+      "name": "Hoy Te Vas",
+      "url": "https://open.spotify.com/track/5fDX6H3NBKVRMHiA60PjtC"
+    },
+    {
+      "album": {
         "name": "Creo",
         "url": "https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi"
       },
@@ -1413,7 +1453,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 209903,
       "name": "La Balada",
       "url": "https://open.spotify.com/track/3GtohcmJ8rbaHNfk8yPQAL"
@@ -1471,7 +1511,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 224453,
       "name": "La Caba\u00f1a",
       "url": "https://open.spotify.com/track/2cTKuxpHcPzDFRbbhE2WxP"
@@ -1579,7 +1619,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 301740,
       "name": "La Langosta - En Vivo",
       "url": "https://open.spotify.com/track/3hLGtxS0zLnQrdbCibycFI"
@@ -1829,7 +1869,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 238576,
       "name": "Los Gatos No Ladran",
       "url": "https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF"
@@ -1901,7 +1941,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 236920,
       "name": "Maldito Coche Negro",
       "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
@@ -2021,7 +2061,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 196588,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
@@ -2161,7 +2201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 254941,
       "name": "Mientes / Un Dia Sin Ti",
       "url": "https://open.spotify.com/track/3dPreolNY6PUrSrOiWPhpg"
@@ -2399,7 +2439,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 230546,
       "name": "Noche De Travesura",
       "url": "https://open.spotify.com/track/47YL75nTX9rVZ4gJT9Q8W7"
@@ -2479,7 +2519,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 275958,
       "name": "Olvidala",
       "url": "https://open.spotify.com/track/4Qgl3aQu4sHlt6HFsIsKlr"
@@ -2555,7 +2595,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 193160,
       "name": "Paloma loca",
       "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
@@ -3011,10 +3051,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 230681,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/6UfZkwIlrw4FouM2AY3kFR"
+    },
+    {
+      "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/2Clt4dcl5LZHj5TONVoH7m"
+      },
+      "artists": [
+        {
+          "name": "La Zurda Cuartetera",
+          "url": "https://open.spotify.com/artist/6EXCBQQwljseAZdJOoW54H"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/58rDl2cedtMrEYzPqyJXes"
     },
     {
       "album": {
@@ -3029,7 +3087,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
@@ -3257,7 +3315,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 177254,
       "name": "Tengo que calmarme",
       "url": "https://open.spotify.com/track/6WAwZasg23YWWloNJ24e2S"
@@ -3435,7 +3493,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 204000,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/1pDXVj8a0oeGI787QMOc2l"
@@ -3493,7 +3551,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 242950,
       "name": "Un Perfecto Idiota",
       "url": "https://open.spotify.com/track/0VaT0YEN3tFeEGqleYLpsq"
@@ -3663,7 +3721,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 246360,
       "name": "Ya No Quiero",
       "url": "https://open.spotify.com/track/5ZRjSlIgKzTtjaLgyVZ1jY"

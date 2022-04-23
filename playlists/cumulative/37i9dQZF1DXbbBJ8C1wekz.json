@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 121288,
       "name": "Aquela",
       "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 180609,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/0rCmmcIwLKtlEyymTFpqcM"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 140000,
       "name": "Campo Minado",
       "url": "https://open.spotify.com/track/19ZHABf7sgrzyfsHjjLALd"
@@ -436,6 +436,28 @@
     },
     {
       "album": {
+        "name": "Como a chuva cai",
+        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152086,
+      "name": "Como a chuva cai",
+      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
+    },
+    {
+      "album": {
         "name": "Cypher Hit: Choppa",
         "url": "https://open.spotify.com/album/0r2pa4oth6pO9kmlsWvrQJ"
       },
@@ -483,6 +505,24 @@
       "duration_ms": 334285,
       "name": "Cypher Hit: Choppa",
       "url": "https://open.spotify.com/track/0eUQ2xIffDrENzfoSgwz4o"
+    },
+    {
+      "album": {
+        "name": "De Hist\u00f3ria em Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/1Vm0D09UYFdBsrD9q087i7"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "De Hist\u00f3ria em Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/08Bi0KpTp0sBu0Oj2CQcSW"
     },
     {
       "album": {
@@ -581,7 +621,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 176000,
       "name": "Disfarce",
       "url": "https://open.spotify.com/track/0trI4oy0dayuYLeZioJHQg"
@@ -888,6 +928,24 @@
     },
     {
       "album": {
+        "name": "F\u00e9 Pros Real",
+        "url": "https://open.spotify.com/album/1KvuKaQIl8Ob1s4QHqIsp0"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "F\u00e9 Pros Real",
+      "url": "https://open.spotify.com/track/5ujyPj2JacvOyTunOQZbiW"
+    },
+    {
+      "album": {
         "name": "Gatinha",
         "url": "https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW"
       },
@@ -981,7 +1039,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 96624,
       "name": "Hylander",
       "url": "https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi"
@@ -1043,7 +1101,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 160015,
       "name": "Ligo Pra Nada",
       "url": "https://open.spotify.com/track/6VQVdzPpxtQPstExyqLMJX"
@@ -1841,7 +1899,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 160392,
       "name": "Preparado pro Futuro? '^",
       "url": "https://open.spotify.com/track/1nhugNHqGTtQ8VAtTBwZn2"
@@ -1885,7 +1943,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 176884,
       "name": "Probleminha",
       "url": "https://open.spotify.com/track/21Rg67D99oWSBJytQGOGw9"
@@ -1911,6 +1969,28 @@
       "duration_ms": 167384,
       "name": "Quadro",
       "url": "https://open.spotify.com/track/55tDrclRHCHXIoPwyPHlVn"
+    },
+    {
+      "album": {
+        "name": "Quer Ir no Meu Show ?",
+        "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280946,
+      "name": "Quer Ir no Meu Show ?",
+      "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
     },
     {
       "album": {
@@ -1983,7 +2063,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 449408,
       "name": "Refer\u00eancias",
       "url": "https://open.spotify.com/track/3LRCKDlZ4DwoXcfK8XVqeV"
@@ -2012,6 +2092,36 @@
     },
     {
       "album": {
+        "name": "DMC By Costa Gold",
+        "url": "https://open.spotify.com/album/020LfuQxjofppsXDewK6Mt"
+      },
+      "artists": [
+        {
+          "name": "Chayco",
+          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287509,
+      "name": "Resenha",
+      "url": "https://open.spotify.com/track/6gPD7dvz6WyWpeTZysQcSZ"
+    },
+    {
+      "album": {
         "name": "RJ Mais Que Atlanta",
         "url": "https://open.spotify.com/album/3fkbibWGlHrHzaaoJ6MXq1"
       },
@@ -2027,6 +2137,28 @@
       "duration_ms": 184000,
       "name": "RJ Mais Que Atlanta",
       "url": "https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ"
+    },
+    {
+      "album": {
+        "name": "Sikatrizes",
+        "url": "https://open.spotify.com/album/4Aul6VilD9IqNuM93mc8ZR"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Intactoz Corp.",
+          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195009,
+      "name": "Sikatrizes",
+      "url": "https://open.spotify.com/track/637kGZJZhh7MQ37lXkgJgi"
     },
     {
       "album": {
@@ -2093,7 +2225,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 158000,
       "name": "Tamo Bem",
       "url": "https://open.spotify.com/track/7BoTsNo2vs6q6bYX9DzdKY"
@@ -2145,6 +2277,32 @@
       "duration_ms": 114143,
       "name": "Tipo Gringa",
       "url": "https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D"
+    },
+    {
+      "album": {
+        "name": "Tipo Kamikaze",
+        "url": "https://open.spotify.com/album/5AeNeKbaqwoIZUhIE6Tm8y"
+      },
+      "artists": [
+        {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/17BnNVBaduDqLQeJDFNuc6"
+        },
+        {
+          "name": "Bl4ck",
+          "url": "https://open.spotify.com/artist/1mhIYbi7ArqDX2h6FPdB1G"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187627,
+      "name": "Tipo Kamikaze",
+      "url": "https://open.spotify.com/track/4pMd2nVBxgEIwfQLDPSXyg"
     },
     {
       "album": {
@@ -2215,7 +2373,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 239999,
       "name": "Tudo ou Nada",
       "url": "https://open.spotify.com/track/5xBoF2Xo3is3KwbOmFMdOi"

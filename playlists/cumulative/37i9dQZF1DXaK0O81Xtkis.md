@@ -4,7 +4,7 @@
 
 > shake it up and let it pop! cover: peach tree rascals
 
-234 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+239 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [body goes](https://open.spotify.com/track/5UiYm9CRlk2h4IHX1112nF) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [body goes](https://open.spotify.com/album/3BfU5W65mj2eQAR2JjHrVU) | 2:20 | 2022-02-11 | 2022-02-26 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-10-29 | 2021-12-25 |
 | [Brad Pitt](https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Brad Pitt](https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D) | 3:36 | 2022-03-11 | 2022-03-26 |
+| [Brand New Morning](https://open.spotify.com/track/6thkkefXGo4swLl5eN60W7) | [Sun Heat](https://open.spotify.com/artist/7bvsCuLF2FR79zNzUbv18f) | [Brand New Morning](https://open.spotify.com/album/2Vc8eJZC4zLgIOLMOSRtWS) | 2:36 | 2022-04-22 |  |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 | 2022-03-18 |
 | [Buy American](https://open.spotify.com/track/7FWgmusJFhVVa41hMBcnsX) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Buy American](https://open.spotify.com/album/6ACtTKubJIs8oJjwHPkjfr) | 3:22 | 2022-01-14 | 2022-02-26 |
 | [Call It Like I See It](https://open.spotify.com/track/5zpR9iel4xXiZ3HP9owOiL) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Call It Like I See It](https://open.spotify.com/album/2Wamb4m82wexz3C88JFlmy) | 3:04 | 2021-12-17 | 2022-02-26 |
@@ -139,8 +140,10 @@
 | [Loserz](https://open.spotify.com/track/5RQiw6eBSeARgg9tSdW3Qb) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [Let Me Die Inside You](https://open.spotify.com/album/6tBjeKusAd1fYNxZsjojmb) | 4:08 | 2022-02-25 | 2022-03-12 |
 | [Lost Boy](https://open.spotify.com/track/0VzHwYlPuWHjyaq6HLB9UV) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:37 | 2022-04-01 | 2022-04-09 |
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-18 |  |
+| [maybe money](https://open.spotify.com/track/7LslekRtdFPRxkRlyC8vkC) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [maybe money](https://open.spotify.com/album/0lWMNJDiYO0EcjYO7O2cAC) | 2:23 | 2022-04-22 |  |
 | [MIA](https://open.spotify.com/track/31qUvtwOcX1OW4rTblwOcy) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [MIA](https://open.spotify.com/album/5OaiKNTvYpTMJIAj4mgATt) | 2:44 | 2021-10-29 | 2022-01-08 |
 | [Milk](https://open.spotify.com/track/0fzqnqxwSh5Bmq8sY9tFb9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Milk](https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8) | 2:12 | 2022-04-01 | 2022-04-09 |
+| [Million Dollar Bills](https://open.spotify.com/track/0AAApVAymzFlQtHJdyw676) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Million Dollar Bills](https://open.spotify.com/album/28hOjrWUi7zMpjPweimK06) | 3:11 | 2022-04-22 |  |
 | [Million Dollar Smoothies \(From “American Song Contest”\)](https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 2](https://open.spotify.com/album/6xtyV2AEW6TyiueK8wCmXq) | 2:43 | 2022-03-28 |  |
 | [Mine](https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Mine](https://open.spotify.com/album/19VC3wBEzuvT9K73l0Jkan) | 3:29 | 2022-01-07 | 2022-02-26 |
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-02-11 | 2022-04-16 |
@@ -159,6 +162,7 @@
 | [only human](https://open.spotify.com/track/1XLZcAceP6w4b7f6IdhYZ8) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [only human.](https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ) | 2:30 | 2021-10-29 | 2022-01-22 |
 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 | 2022-02-18 |  |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 |  |
+| [Palm Springs for the Weekend](https://open.spotify.com/track/3fgXmDeOKrwEqnocqvQMdZ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Palm Springs for the Weekend](https://open.spotify.com/album/136BiEvn24KBjdb2mEPRP0) | 2:00 | 2022-04-22 |  |
 | [Party With You](https://open.spotify.com/track/1s7Mm2bEKLmcjAS4AzGf8E) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Tracks to the Future](https://open.spotify.com/album/3peeS7BEzRQMlnye583xWn) | 2:11 | 2021-12-10 | 2022-02-26 |
 | [Peachy](https://open.spotify.com/track/5VN19XwyKuWp3lfQFFB4ov) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Peachy](https://open.spotify.com/album/5BJSRhuPzpf9acCJ3eWOR7) | 3:22 | 2021-12-10 | 2022-02-05 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-10-29 | 2022-02-19 |
@@ -176,6 +180,7 @@
 | [Riptide](https://open.spotify.com/track/7dDQ7tGCVaqOfng9dwSCM2) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Riptide](https://open.spotify.com/album/1FjvRCNvO3ZFJp6OlTY7d0) | 3:00 | 2022-01-07 | 2022-02-26 |
 | [rock music](https://open.spotify.com/track/0QU3VTMzBkx6Jyv9cgUaVh) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [luca](https://open.spotify.com/album/5sHVvoJi5rV8L5rgEVc18o) | 3:42 | 2022-02-25 | 2022-03-18 |
 | [rocket science](https://open.spotify.com/track/55cwGtYrExG7slEAor5jeR) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [rocket science](https://open.spotify.com/album/2AnbP606iCAadKQyqfxq32) | 2:32 | 2021-11-12 | 2022-03-18 |
+| [Room 421](https://open.spotify.com/track/4R4Ha6DCyGFP30FjWwrkZl) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Room 421](https://open.spotify.com/album/1ezYtPUMHwEnlcgGbkN7v1) | 2:40 | 2022-04-22 |  |
 | [Run For Your Money](https://open.spotify.com/track/0pn8aJZkNWO9kOfQRnCQmc) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [Run For Your Money](https://open.spotify.com/album/0uAuIL6x1xZLWGnuyg4Hbq) | 2:39 | 2021-10-29 | 2021-12-25 |
 | [Rush](https://open.spotify.com/track/6DwesuBTzYmdAjTynjuKEd) | [Seb Torgus](https://open.spotify.com/artist/39fzQ0Vv8BJ3J8bkf1VFUz) | [Rush](https://open.spotify.com/album/1Td33W13Kvh7xAam42b2pK) | 3:38 | 2022-03-25 |  |
 | [Sad Tonight](https://open.spotify.com/track/2NPQbiRn9f5JWlCgNLNZJn) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 2:58 | 2022-04-01 | 2022-04-09 |

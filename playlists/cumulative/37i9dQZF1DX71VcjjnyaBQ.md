@@ -2,7 +2,7 @@
 
 ### [Good Morning Jazz](https://open.spotify.com/playlist/37i9dQZF1DX71VcjjnyaBQ)
 
-> Jazz music to start your day right.
+> Jazz for breakfast to start your day right.
 
 108 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
@@ -84,7 +84,7 @@
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 | 2021-12-21 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 8:02 | 2022-02-10 |  |
 | [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 | 2022-02-10 |  |
-| [Sometimes I Cry](https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:22 | 2021-12-21 | 2022-04-21 |
+| [Sometimes I Cry](https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:22 | 2021-12-21 |  |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw) | [The Velvet Blues](https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l) | 4:36 | 2021-12-21 |  |
 | [Son binocle](https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 4:04 | 2021-12-21 |  |
 | [Soulsides](https://open.spotify.com/track/2sHWX0OKbabU5Nz5pDUc0D) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Feeling Good \- The Supreme Sound Of Producer Bob Shad](https://open.spotify.com/album/6sR9DBCXgOZo9oZ9zGkRkr) | 4:28 | 2021-12-21 |  |
@@ -97,7 +97,7 @@
 | [The Dreamer](https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Omega](https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0) | 3:37 | 2021-12-21 |  |
 | [The Great Belonging](https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [The Great Belonging](https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB) | 6:11 | 2021-12-21 |  |
 | [The Lion Turtle](https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [The Lion Turtle](https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td) | 8:35 | 2022-03-31 |  |
-| [The Nearness of You](https://open.spotify.com/track/02yr2hzYzjn1SNQhZbOfuB) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [Longing](https://open.spotify.com/album/7kHNwW20hSNlYZgvLnJwrO) | 5:23 | 2021-12-21 |  |
+| [The Nearness of You](https://open.spotify.com/track/02yr2hzYzjn1SNQhZbOfuB) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [Longing](https://open.spotify.com/album/7kHNwW20hSNlYZgvLnJwrO) | 5:23 | 2021-12-21 | 2022-04-23 |
 | [The Rumor](https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [The Rumor](https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G) | 4:30 | 2021-12-21 |  |
 | [The Starter](https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2) | 6:15 | 2021-12-21 |  |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-04-21 |

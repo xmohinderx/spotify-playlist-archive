@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3?si=T0YjMr2MRDOyNLuww1wYuA">Mzukulu</a>
 
-121 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
+126 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,8 @@
 | [Forever Yours](https://open.spotify.com/track/1JhdsJnSPVmzjilbLympm7) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [Forever Yours](https://open.spotify.com/album/5LlImAZTpN0uC56a2pI5jt) | 4:00 | 2022-03-10 |  |
 | [Get over U](https://open.spotify.com/track/0lFbOOZNpNi8TewfBei8qp) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw) | [Rose Garden](https://open.spotify.com/album/4rAar6jaEScMXlVOdhP820) | 3:15 | 2022-02-24 |  |
 | [Ghanama](https://open.spotify.com/track/2Rt9pvRDZ2ms4BKb0mNDbG) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Ghanama](https://open.spotify.com/album/3Xn8XHYzwQVWn3ALmiT3xp) | 4:53 | 2021-07-12 |  |
+| [Give Me Love](https://open.spotify.com/track/2ufp3FcGJ4qYpO4sfBZsA7) | [Tanaka Siziba](https://open.spotify.com/artist/0GXxyRP8kAhgERFJUDwUV2) | [Give Me Love](https://open.spotify.com/album/515EjVPbPb6nUiEF3qdM1Q) | 2:56 | 2022-04-22 |  |
+| [Gomora](https://open.spotify.com/track/3PurQ26uEqE10OXpGUM6Al) | [Blendor](https://open.spotify.com/artist/39o9oJa1NUK3WKgFn2mc4P) | [Umacashelana](https://open.spotify.com/album/5FhZB8gNSc6HxGVz6Fo7kg) | 4:05 | 2022-04-22 |  |
 | [Hold Me Down \(feat\. Msaki\)](https://open.spotify.com/track/6J1TVC5SoFzRdrW0qLXeMA) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Motion](https://open.spotify.com/album/1jm8BNnsdpEjCKRmgS7gZh) | 3:41 | 2021-10-14 | 2022-01-21 |
 | [Holding On](https://open.spotify.com/track/2RjU4DPIgrXZWc97pGsMuO) | [Romo](https://open.spotify.com/artist/1gBaZj95aDyGNuHFj20qU0), [Zanda Zakuza](https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe), [Mkoma Saan](https://open.spotify.com/artist/6YXIqgdPcfeDcxxY1WxNdM) | [Start Over](https://open.spotify.com/album/74iDavaRV7ZBYxOurJGGhw) | 4:50 | 2022-03-04 |  |
 | [I'm gonna be alright](https://open.spotify.com/track/6ZxZCtgXbgMhlnOA6zbHIX) | [Harrison Mkhize](https://open.spotify.com/artist/5h8373IjaJ4LHlcOGdky8w) | [A Stranger's Love](https://open.spotify.com/album/4s7pUkiKwtwSshDa2rKAqf) | 3:58 | 2022-02-03 | 2022-02-18 |
@@ -81,8 +83,11 @@
 | [Ndiyabulela](https://open.spotify.com/track/7cLykVjTfbOV15BGxqwMwO) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Ndiyabulela](https://open.spotify.com/album/25FBkG39Bx4mFityjOIWNB) | 4:12 | 2022-04-14 |  |
 | [Ndizobizwa](https://open.spotify.com/track/0XywBbE7wpNksX5U0DLvLv) | [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [In The Beginning](https://open.spotify.com/album/78IL241FqGBtHbtXBIQ2ET) | 3:56 | 2021-12-07 |  |
 | [next2me](https://open.spotify.com/track/1kPxq5oUjWrPiAnHqjq38H) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [hold me when it's cold: a mixtape](https://open.spotify.com/album/5NLrPmYQnh3IAJBsfzVmOj) | 3:47 | 2021-09-02 | 2022-02-25 |
+| [Ngakhala \(Sthandwa Sami\)](https://open.spotify.com/track/5IRMv1x0RN7R4O3jEWA1jV) | [Sthera Zingelwayo](https://open.spotify.com/artist/5J3uy6m9wX7VnwUWJ3A5CC) | [Ngakhala \(Sthandwa Sami\)](https://open.spotify.com/album/0OoVqNZyzdnzrwzObxptWX) | 3:16 | 2022-04-22 |  |
+| [Ngeke Ngikhale](https://open.spotify.com/track/7F9iK7SJgaxZ4zAj4Ri428) | [Blendor](https://open.spotify.com/artist/39o9oJa1NUK3WKgFn2mc4P) | [Ngeke Ngikhale](https://open.spotify.com/album/12W55iflIbIFK6NQz2nvtU) | 3:41 | 2022-04-22 |  |
 | [Ngimtholile](https://open.spotify.com/track/767RWorzGOLj084gbi4fs9) | [Brandon Dhludhlu](https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV), [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [Ngimtholile](https://open.spotify.com/album/0Aqwt3quGqHhm5nQYZeUDD) | 3:44 | 2021-08-19 | 2022-01-21 |
 | [Nginjena](https://open.spotify.com/track/5SuyPgnvNqJJz6v8NDreBq) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Nginjena](https://open.spotify.com/album/2DbsYObKNlNtVBjhTEg9HW) | 4:36 | 2021-11-25 |  |
+| [Ngiyathandaza](https://open.spotify.com/track/0MuZgvvbykSdfKPMgtLUx3) | [Mr\. Music](https://open.spotify.com/artist/1tl67Z3qyJYT9NilPduEgF) | [Ngiyathandaza](https://open.spotify.com/album/6u8xAVCZgRCcqEltfNl6id) | 5:17 | 2022-04-22 |  |
 | [Ngwago](https://open.spotify.com/track/34m91Dl71iUdtLVr3qmIFE) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Ngwago](https://open.spotify.com/album/0m3FhD85feoCHUHPVPbfn2) | 5:40 | 2021-07-06 |  |
 | [Nhliziyo](https://open.spotify.com/track/2CHQBA2ixca7vFzq4gwsJH) | [Coolkiid](https://open.spotify.com/artist/7l20uhlKo17O2ZrBUrIxsw) | [Nhliziyo](https://open.spotify.com/album/0g87VdtZ8LO9Vxd1vqPBTA) | 4:33 | 2021-02-24 |  |
 | [Nobody](https://open.spotify.com/track/6UK501alfX7lkqdcgpfbtA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Nobody](https://open.spotify.com/album/2cKQHqidrsJc6xo3ukVJrp) | 3:35 | 2021-03-01 |  |

@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 228196,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 257490,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 284404,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/1TWff8ZiKIf6cD52hxTwM7"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 272173,
       "name": "Failed Star",
       "url": "https://open.spotify.com/track/39wuQ4m4GBzrGfivIjjL22"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 345473,
       "name": "Golden Taurus",
       "url": "https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 173333,
       "name": "Hello Again",
       "url": "https://open.spotify.com/track/5KtSImKBV61SOdlPW74tC0"
@@ -2211,7 +2211,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 256842,
       "name": "Light Curve",
       "url": "https://open.spotify.com/track/6lwUcTSQzaxO0MeIINxlo9"
@@ -2975,7 +2975,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 276000,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/1b9aCUB4EhpcW5BesCkJsU"
@@ -3015,6 +3015,32 @@
       "duration_ms": 251500,
       "name": "Orbit Love",
       "url": "https://open.spotify.com/track/5xhWjK9OOzPyzBlAEQm3yn"
+    },
+    {
+      "album": {
+        "name": "Out of Luck",
+        "url": "https://open.spotify.com/album/6Ml0baIxoldVxxhRHILocv"
+      },
+      "artists": [
+        {
+          "name": "TOKYO ROSE",
+          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
+        },
+        {
+          "name": "PYLOT",
+          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
+        },
+        {
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "Out of Luck - Instrumental",
+      "url": "https://open.spotify.com/track/6SjnM6fA2ZEVlaQzK04Tll"
     },
     {
       "album": {
@@ -3552,6 +3578,28 @@
     },
     {
       "album": {
+        "name": "Shout (The Forgotten Remix)",
+        "url": "https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w"
+      },
+      "artists": [
+        {
+          "name": "Scandroid",
+          "url": "https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ"
+        },
+        {
+          "name": "The Forgotten",
+          "url": "https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221928,
+      "name": "Shout - The Forgotten Remix",
+      "url": "https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu"
+    },
+    {
+      "album": {
         "name": "Sideways in Dreams",
         "url": "https://open.spotify.com/album/1T9LIBX20FwLtO0DA3Mu7T"
       },
@@ -3993,7 +4041,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 406704,
       "name": "Tan Lines And Fizzy Wine",
       "url": "https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G"
@@ -4033,7 +4081,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 202494,
       "name": "Territory",
       "url": "https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU"
@@ -4055,7 +4103,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 244500,
       "name": "Test Pilot",
       "url": "https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N"
@@ -4163,7 +4211,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 134666,
       "name": "The Mansion",
       "url": "https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD"
@@ -4307,7 +4355,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 186723,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/10n7xcB7chcHmHBvEyMqjB"
@@ -4517,7 +4565,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 270720,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4QnTtQJnAxK61zOibTJpYT"
@@ -4597,7 +4645,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 363000,
       "name": "Why?",
       "url": "https://open.spotify.com/track/7oGJe42CJT5sqQOKfilqmW"
@@ -4615,7 +4663,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"

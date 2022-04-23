@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Izzy-S",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Loud",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 167868,
       "name": "300",
       "url": "https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU"
@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Authentique",
+        "url": "https://open.spotify.com/album/2lhDUA7WSmUneg4TOX2vBS"
+      },
+      "artists": [
+        {
+          "name": "DVinyle",
+          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Authentique",
+      "url": "https://open.spotify.com/track/1w2OMNBVtRDQ86hFcrfHy4"
+    },
+    {
+      "album": {
         "name": "STILL 24",
         "url": "https://open.spotify.com/album/7JjSXuEKJREw2zDwI3iOb7"
       },
@@ -387,7 +405,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 192253,
       "name": "Balboa",
       "url": "https://open.spotify.com/track/6Db5GnfErREpT4uVfCscDE"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 123000,
       "name": "Br\u00fbler des condos",
       "url": "https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 139075,
       "name": "B\u00eata",
       "url": "https://open.spotify.com/track/5JvaeXciDAaUiLXPtU3lP4"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 246000,
       "name": "Ce n'\u00e9tait pas voulu",
       "url": "https://open.spotify.com/track/27TaTa6MW6qf4Tsm85z4m3"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 195990,
       "name": "Contrefa\u00e7on",
       "url": "https://open.spotify.com/track/6SAP8kowPEdLavECBflmVp"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 169248,
       "name": "De l'autre c\u00f4t\u00e9",
       "url": "https://open.spotify.com/track/2Z0ObzjhgPxZ3UwNgCCCxb"
@@ -1244,6 +1262,32 @@
     },
     {
       "album": {
+        "name": "Du Pain & des Jeux",
+        "url": "https://open.spotify.com/album/75sRAzblfEbQ3Ku31ftSQy"
+      },
+      "artists": [
+        {
+          "name": "Monk.E",
+          "url": "https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        },
+        {
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228690,
+      "name": "Du Pain & des Jeux",
+      "url": "https://open.spotify.com/track/5AbazAZJGusnPpnEVFu50g"
+    },
+    {
+      "album": {
         "name": "D\u00e9cibel (Remix)",
         "url": "https://open.spotify.com/album/50tdOR1rhzIeiuK2T2A1cC"
       },
@@ -1393,6 +1437,28 @@
       "duration_ms": 120400,
       "name": "FNG",
       "url": "https://open.spotify.com/track/6s3Ix4ircsRi8D9vH9cRMe"
+    },
+    {
+      "album": {
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/2at8w1O9MMsF2kj6ZH9BAi"
+      },
+      "artists": [
+        {
+          "name": "Bouldat",
+          "url": "https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb"
+        },
+        {
+          "name": "JuicemanSF",
+          "url": "https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199668,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/51ZvLOJkx0SAlcRsMriSnJ"
     },
     {
       "album": {
@@ -1568,6 +1634,24 @@
     },
     {
       "album": {
+        "name": "Grind",
+        "url": "https://open.spotify.com/album/1Pp1NzqkXEFVm8kdIIAotZ"
+      },
+      "artists": [
+        {
+          "name": "Jeune Rebeu",
+          "url": "https://open.spotify.com/artist/1Eqk1dyp15e8W7meILuhgD"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204813,
+      "name": "Grind",
+      "url": "https://open.spotify.com/track/6CuXSXrJ6KCvQk0CZcI9GY"
+    },
+    {
+      "album": {
         "name": "Nikamo",
         "url": "https://open.spotify.com/album/0fX3Mn5XHkCnQwNxhe6I8w"
       },
@@ -1601,7 +1685,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 163199,
       "name": "Haine & Peine",
       "url": "https://open.spotify.com/track/4z6LzCA9czBUaLsYtzuZwA"
@@ -1871,6 +1955,24 @@
       "duration_ms": 185653,
       "name": "Kesta ?!",
       "url": "https://open.spotify.com/track/1lYjt83B05waZfNDLmV51F"
+    },
+    {
+      "album": {
+        "name": "King-V",
+        "url": "https://open.spotify.com/album/11XbARlvVaV8ujs9BsGnhY"
+      },
+      "artists": [
+        {
+          "name": "Boutot",
+          "url": "https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143046,
+      "name": "King-V",
+      "url": "https://open.spotify.com/track/1QgzTqitUmu9j6mnSS2C0t"
     },
     {
       "album": {
@@ -2456,6 +2558,24 @@
     },
     {
       "album": {
+        "name": "Peurple",
+        "url": "https://open.spotify.com/album/6aVhBM0CjXfUeVpf7erNqA"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Peurple",
+      "url": "https://open.spotify.com/track/6Ninewf6AmuyOstLCftPu0"
+    },
+    {
+      "album": {
         "name": "Post mortem",
         "url": "https://open.spotify.com/album/0oT0z4MkqXDQlGsmK7fh6a"
       },
@@ -2514,6 +2634,24 @@
     },
     {
       "album": {
+        "name": "PROHIBITION",
+        "url": "https://open.spotify.com/album/6KWu3KBIbaewiWvT88bTIP"
+      },
+      "artists": [
+        {
+          "name": "David Campana",
+          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178934,
+      "name": "PROHIBITION",
+      "url": "https://open.spotify.com/track/0RW5IgPSaevPbZzIYOHYo0"
+    },
+    {
+      "album": {
         "name": "PROTAGONISTE (Main Theme)",
         "url": "https://open.spotify.com/album/0xwQCELClDF0riMaYp8aiy"
       },
@@ -2565,7 +2703,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 122985,
       "name": "Quiconque meurt, meurt \u00e0 douleur",
       "url": "https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN"
@@ -2880,6 +3018,24 @@
     },
     {
       "album": {
+        "name": "Scout",
+        "url": "https://open.spotify.com/album/294DgEqv0UOefB0s2pVkay"
+      },
+      "artists": [
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128522,
+      "name": "Scout",
+      "url": "https://open.spotify.com/track/3LfMWm0K7eM2Fu5KrqOGyA"
+    },
+    {
+      "album": {
         "name": "Semelles Rouges",
         "url": "https://open.spotify.com/album/67RgrQJcw4cjWoSPy2g15C"
       },
@@ -3116,6 +3272,42 @@
     },
     {
       "album": {
+        "name": "Uber Eats Freestyle",
+        "url": "https://open.spotify.com/album/0OOPR6c1oSw0FMS3CVhwl0"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183937,
+      "name": "Uber Eats Freestyle",
+      "url": "https://open.spotify.com/track/0Of0wSZPDgQcYccKuQtptU"
+    },
+    {
+      "album": {
+        "name": "V12",
+        "url": "https://open.spotify.com/album/7z7ix2ykbpxubSPqBBg0sM"
+      },
+      "artists": [
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134068,
+      "name": "V12",
+      "url": "https://open.spotify.com/track/634JCPeIeQqZk33b87A7Wf"
+    },
+    {
+      "album": {
         "name": "Whoopty",
         "url": "https://open.spotify.com/album/1JOZu5P4aQ1NLcqtiDVYFp"
       },
@@ -3127,7 +3319,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 163448,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/2sQSWHkBKN4cuEx9RkAEGB"

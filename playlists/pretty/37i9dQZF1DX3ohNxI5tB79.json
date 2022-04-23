@@ -1,6 +1,6 @@
 {
   "description": "Start your morning right with this collection of funky, soulful, jazzy tunes!",
-  "num_followers": 313023,
+  "num_followers": 313284,
   "original_name": "Morning Rhythm",
   "owner": {
     "name": "Spotify",
@@ -964,12 +964,12 @@
       },
       "artists": [
         {
-          "name": "Lee Brave",
-          "url": "https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp"
-        },
-        {
           "name": "GaryOAKland",
           "url": "https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07"
+        },
+        {
+          "name": "Lee Brave",
+          "url": "https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp"
         }
       ],
       "duration_ms": 192000,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "As novidades dos artistas independentes que voc\u00ea precisa conhecer. Foto: Helo Cleaver. Arte: Isu Kim",
+  "description": "As novidades dos artistas independentes que voc\u00ea precisa conhecer. Foto: Chico e o Mar. Arte: Isu Kim",
   "name": "Fresh Finds Brasil",
   "published_playlist_ids": [
     "67GFnJVXnyWY0MjhTSXEEJ"
@@ -1566,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "CHICO E O MAR",
+        "url": "https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM"
+      },
+      "artists": [
+        {
+          "name": "Chico e o Mar",
+          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2"
+    },
+    {
+      "album": {
         "name": "Giovanna",
         "url": "https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ"
       },
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 176489,
       "name": "Sinto Estrelas Em Voc\u00ea",
       "url": "https://open.spotify.com/track/7Mo2CbjQf10IbKABBtwo4f"

@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 378549,
       "name": "Chains",
       "url": "https://open.spotify.com/track/2z89w2POOafemX8yVmaA21"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 355200,
       "name": "Choom",
       "url": "https://open.spotify.com/track/3K1if03hKhYVnArWaoHAxi"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 333813,
       "name": "Done My Best",
       "url": "https://open.spotify.com/track/3KKK9GmxkqURfxSrxxYIJh"
@@ -518,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293960,
+      "name": "Groovin' You",
+      "url": "https://open.spotify.com/track/2I3SyLikESUH36WyEr1FZW"
+    },
+    {
+      "album": {
         "name": "Tears",
         "url": "https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv"
       },
@@ -529,7 +547,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 290152,
       "name": "Gymnastics - Original Mix",
       "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
@@ -547,7 +565,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 405293,
       "name": "Haven't You Heard",
       "url": "https://open.spotify.com/track/0rgGwEybYIQvqHf5qEkFOB"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 344069,
       "name": "Minnoch",
       "url": "https://open.spotify.com/track/6GdyEMYwaCWCPFKTUCsBjF"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 323012,
       "name": "No Wait",
       "url": "https://open.spotify.com/track/0drw6GcjPatpfpWSEouVVq"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 306906,
       "name": "Peaches & Prunes",
       "url": "https://open.spotify.com/track/3pn3x8rAgZlxmZf3bgsOc7"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 266806,
       "name": "Pose",
       "url": "https://open.spotify.com/track/2b06hoCTKogMazNvtbCjQC"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 248704,
       "name": "Soul Shoes - Edit",
       "url": "https://open.spotify.com/track/58cSF5Hp2cib67QVwExSbu"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 203126,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/69zeFafjEhalju3xDjXTrm"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 311496,
       "name": "The Look of Accessibility",
       "url": "https://open.spotify.com/track/3mg8dRdGN5jg0KqWqKh9pj"
@@ -1576,6 +1594,24 @@
     },
     {
       "album": {
+        "name": "Time for a Change",
+        "url": "https://open.spotify.com/album/4reo75rXpm9ZpIrw5wK1y2"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/49R1WTcCcbyOpl3g8YDJU6"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205663,
+      "name": "Time for a Change",
+      "url": "https://open.spotify.com/track/2aNOkWge7L1IubHjS9dkgL"
+    },
+    {
+      "album": {
         "name": "Watchin Out",
         "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
       },
@@ -1623,7 +1659,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 475608,
       "name": "Tout va bien",
       "url": "https://open.spotify.com/track/1FdxaYM9hVePlWVGbtsdjD"
@@ -1663,7 +1699,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 332837,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/2Ny9IkHyAJzSaJBEYweXyp"
@@ -1751,7 +1787,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 519224,
       "name": "What Am I Here For? (NDATL Vocal) - Danny Krivit Edit",
       "url": "https://open.spotify.com/track/6uzaR1z9FDKRPY8lF24RB7"

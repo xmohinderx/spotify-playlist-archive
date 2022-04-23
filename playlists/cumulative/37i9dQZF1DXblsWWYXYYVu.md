@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-116 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+118 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Innkeepers](https://open.spotify.com/track/1uFWx7FlhhgmBoTTqGAq8Y) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS) | 4:08 | 2022-01-21 |  |
 | [Jealous Of Birds](https://open.spotify.com/track/6nuoNN62XI74sF1MehARgZ) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Jealous Of Birds](https://open.spotify.com/album/1wvJvb2k412nebCXAsNuMW) | 3:12 | 2021-04-19 |  |
 | [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 | 2021-07-09 |  |
+| [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 | 2022-04-22 |  |
 | [Landslide](https://open.spotify.com/track/4PxDI6s8o1oXyGxaOO7AHO) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Landslide](https://open.spotify.com/album/0eSZDWoQtDYJqkZb0MDJIR) | 2:50 | 2021-04-19 |  |
 | [Leave the Pieces \- The Campfire Sessions](https://open.spotify.com/track/5ba3IQJQV5WI4SwtC0ePvD) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Leave the Pieces \(The Campfire Sessions\)](https://open.spotify.com/album/5Umb24lg8mJWCLBTUjfo2d) | 3:43 | 2021-04-19 |  |
 | [Little Things](https://open.spotify.com/track/6e9LfLjJyQvJdIAkNPPU8u) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Little Things](https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL) | 3:36 | 2021-04-19 |  |
@@ -116,6 +117,7 @@
 | [Waiting on a Ring](https://open.spotify.com/track/4U1pG0MZYc9OlPdpBx9Y3U) | [Roxan](https://open.spotify.com/artist/1oF4o7vpha3pVOrkH8KAT8) | [Waiting on a Ring](https://open.spotify.com/album/7p6FLb35eS8doM6Ndia7TN) | 2:33 | 2021-04-19 |  |
 | [Walk Away](https://open.spotify.com/track/6B7zz2H6qdYcQWQg2SLX5y) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Sunshine City EP](https://open.spotify.com/album/6nsYelfToPxfGvms4pAjDH) | 3:15 | 2021-11-19 |  |
 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 | 2021-04-19 |  |
+| [When Scars Become Art II](https://open.spotify.com/track/1cASy7TwuNBB0e6KXydoFr) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [When Scars Become Art II](https://open.spotify.com/album/4rhFfl7HLvinrnl8u7eVVD) | 4:12 | 2022-04-22 |  |
 | [Where It's Blue](https://open.spotify.com/track/7lRu8gSOYHTtJLQLC33cBX) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Where It's Blue](https://open.spotify.com/album/6T6SSf92sAyoir4a3e5dzD) | 3:49 | 2021-04-19 |  |
 | [Who You Thought I Was](https://open.spotify.com/track/133KAxvet0NOf3QNfdtJ7v) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Who You Thought I Was](https://open.spotify.com/album/0u304dS5xSEUfnoGfn28DJ) | 3:09 | 2021-04-19 |  |
 | [Won't Let Go](https://open.spotify.com/track/7J2PKevNeTneR2gPdc5EBg) | [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Won't Let Go](https://open.spotify.com/album/4s2LOOskqLO04nW8j4FLW4) | 2:22 | 2022-01-28 |  |

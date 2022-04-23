@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Mollie Collins & Katy Alex",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 211162,
       "name": "Bourgeois Imagery",
       "url": "https://open.spotify.com/track/553ZWdi7tRpCWTk1LQ57R7"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/24abahS4tYAxt7lgSBk7Vc"
@@ -408,6 +408,36 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0BLrz7WuXQF3U3FvXkdwXE"
+      },
+      "artists": [
+        {
+          "name": "Linguistics",
+          "url": "https://open.spotify.com/artist/5ez11adLi95kAPuxh0RefJ"
+        },
+        {
+          "name": "Dogger",
+          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
+        },
+        {
+          "name": "Mindstate",
+          "url": "https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ"
+        },
+        {
+          "name": "Blind Mic",
+          "url": "https://open.spotify.com/artist/7yCdWDEm9XhixEPUKPnB75"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226046,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/71VtkrwSJ5cCz3vlTpnYza"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/07kLcqgd4EzFgsXkgFo2lR"
       },
@@ -467,7 +497,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 242250,
       "name": "Dance Together",
       "url": "https://open.spotify.com/track/3phgzhjfJnUOydU9NK8d0Y"
@@ -763,7 +793,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 202114,
       "name": "Faded",
       "url": "https://open.spotify.com/track/13Pt5hX34nfHnsL5MtUHJb"
@@ -825,7 +855,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 248375,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX"
@@ -927,7 +957,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 209655,
       "name": "Freefalling",
       "url": "https://open.spotify.com/track/7uBuBwDQJzcSVfR3rSvsSF"
@@ -1153,7 +1183,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 249384,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/3ZVanYYFDyY8odbBNUbhOM"
@@ -1595,7 +1625,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 251134,
       "name": "Love Drunk",
       "url": "https://open.spotify.com/track/0fpSLtAZyzwz8e57jjZme6"
@@ -1870,6 +1900,28 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7"
+    },
+    {
+      "album": {
         "name": "Phukalupe / Under the Stars",
         "url": "https://open.spotify.com/album/1W4jcpJTWcPOIJEjJgxtBK"
       },
@@ -1933,7 +1985,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 257980,
       "name": "Reaction",
       "url": "https://open.spotify.com/track/4OMtMXbSSN90pL8X33efqs"
@@ -2163,7 +2215,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 240344,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/6ea7W4icINIl04UyRG2YLk"
@@ -2181,7 +2233,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 260689,
       "name": "See It Thru",
       "url": "https://open.spotify.com/track/7EFrOOnUKLolvsMKlfv3zc"
@@ -2203,10 +2255,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "album": {
+        "name": "Self Made",
+        "url": "https://open.spotify.com/album/6ZG7kjrq3oI6gn945SUJrD"
+      },
+      "artists": [
+        {
+          "name": "MYKOOL",
+          "url": "https://open.spotify.com/artist/00pAfh3nHhvVkWf8dl7dCt"
+        },
+        {
+          "name": "Lost Child",
+          "url": "https://open.spotify.com/artist/7kDG6Q7Z3fPsrSEZYQyP8D"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246617,
+      "name": "Self Made",
+      "url": "https://open.spotify.com/track/0YMxtPDNnm6HB38mzwlyWJ"
     },
     {
       "album": {
@@ -2286,6 +2360,28 @@
     },
     {
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250276,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
+    },
+    {
+      "album": {
         "name": "Slang",
         "url": "https://open.spotify.com/album/3gBKzEowrJG71FsOZFQOx7"
       },
@@ -2319,7 +2415,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 290842,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/5wN3p3JA3LadVYxbcqfiLo"
@@ -2363,7 +2459,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 340114,
       "name": "Space Station - My Nu Leng Remix",
       "url": "https://open.spotify.com/track/1RvmCoxXbBAKMahU4oKEQN"
@@ -2415,6 +2511,28 @@
       "duration_ms": 183942,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/66dfyicjQ7N29fQHwNEjQO"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2zFpGhJg2BIAAlhVQADs2X"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228837,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/25JAtCYGruGELrX5cokhsA"
     },
     {
       "album": {
@@ -2527,7 +2645,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 207964,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0ADQTVFIq9hOdfpWbCCEJM"

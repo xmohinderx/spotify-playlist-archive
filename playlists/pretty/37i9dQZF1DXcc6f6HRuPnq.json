@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 33285,
+  "num_followers": 33402,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU4OTk4NywwMDAwMDAwMGY4ZDQxZWI4ZDdmZWQ0ZTkwMmUyMDVlMDQ2NWRiZjdi",
+  "snapshot_id": "MTY1MDY3NTk1OCwwMDAwMDAwMDUzYjQwZDJkNDU5ZWM3OWViYzNjYmEwNjNkZTA2MGQ3",
   "tracks": [
     {
       "added_at": "2022-04-20 11:25:06",
@@ -31,22 +31,6 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "Chronicle",
-        "url": "https://open.spotify.com/album/00sLzZmVoQHr9MZZjspGgt"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "I'll Play The Blues For You - Edit",
-      "url": "https://open.spotify.com/track/6e5jcPUhUNTUeOBRHcGirg"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 464040,
       "name": "As The Years Go Passing By",
       "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Chronicle",
+        "url": "https://open.spotify.com/album/00sLzZmVoQHr9MZZjspGgt"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "I'll Play The Blues For You - Edit",
+      "url": "https://open.spotify.com/track/6e5jcPUhUNTUeOBRHcGirg"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -79,18 +79,18 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "Tommy Castro Presents A Bluesman Came To Town",
-        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+        "name": "Still Frame Replay",
+        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
         }
       ],
-      "duration_ms": 316006,
-      "name": "Blues Prisoner",
-      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+      "duration_ms": 464453,
+      "name": "The Memory of Our Love",
+      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -111,54 +111,6 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "Still Frame Replay",
-        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 464453,
-      "name": "The Memory of Our Love",
-      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 297160,
-      "name": "Lenny",
-      "url": "https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -171,6 +123,38 @@
       "duration_ms": 418880,
       "name": "Rememberin' Stevie",
       "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Tommy Castro Presents A Bluesman Came To Town",
+        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 316006,
+      "name": "Blues Prisoner",
+      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 408480,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -207,102 +191,6 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "King Of The Blues",
-        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Help Me Through The Day",
-      "url": "https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 336333,
-      "name": "Ain\u2019t No Love In The Heart Of The City",
-      "url": "https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 408480,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "As Good As It Gets",
-        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 338373,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN"
       },
@@ -319,18 +207,18 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
         }
       ],
-      "duration_ms": 319333,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -351,6 +239,38 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 297160,
+      "name": "Lenny",
+      "url": "https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 336333,
+      "name": "Ain\u2019t No Love In The Heart Of The City",
+      "url": "https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
         "name": "The Original Fleetwood Mac",
         "url": "https://open.spotify.com/album/6tbQdb3SyIPzwOZDvsETk5"
       },
@@ -367,18 +287,98 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "King Of The Blues",
+        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+      "duration_ms": 268866,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 338373,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/4L3dfISPZOJx5O24Y6Qxr1"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "duration_ms": 293851,
+      "name": "Blues for Lonnie Johnson",
+      "url": "https://open.spotify.com/track/7g1PbjHp6Ezwqt9ygfqR3J"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 319333,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -447,34 +447,18 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "I Hear Some Blues Downstairs",
-        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 288426,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/4L3dfISPZOJx5O24Y6Qxr1"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        }
-      ],
-      "duration_ms": 293851,
-      "name": "Blues for Lonnie Johnson",
-      "url": "https://open.spotify.com/track/7g1PbjHp6Ezwqt9ygfqR3J"
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -495,18 +479,18 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+        "name": "I Hear Some Blues Downstairs",
+        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
         }
       ],
-      "duration_ms": 144040,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
+      "duration_ms": 288426,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -531,82 +515,18 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },
       "artists": [
         {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 332560,
-      "name": "Let Me Be",
-      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Me and Mr. Johnson",
-        "url": "https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Kind Hearted Woman Blues",
-      "url": "https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Roll Away",
-        "url": "https://open.spotify.com/album/71UC2xt4eqLqntVo9LsP1v"
-      },
-      "artists": [
-        {
-          "name": "Back Door Slam",
-          "url": "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
-        }
-      ],
-      "duration_ms": 349893,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Personal Manager",
-      "url": "https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Midnight Blue",
-        "url": "https://open.spotify.com/album/3eE5mAeyPFKkOfqmvMY3UL"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 425786,
-      "name": "Kiss Of Death",
-      "url": "https://open.spotify.com/track/7cOzgDiU8MLB8IkK1RsWn1"
+      "duration_ms": 144040,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -631,6 +551,70 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
+        "name": "Roll Away",
+        "url": "https://open.spotify.com/album/71UC2xt4eqLqntVo9LsP1v"
+      },
+      "artists": [
+        {
+          "name": "Back Door Slam",
+          "url": "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
+        }
+      ],
+      "duration_ms": 349893,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Let Me Be",
+      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/3eE5mAeyPFKkOfqmvMY3UL"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 425786,
+      "name": "Kiss Of Death",
+      "url": "https://open.spotify.com/track/7cOzgDiU8MLB8IkK1RsWn1"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Me and Mr. Johnson",
+        "url": "https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Kind Hearted Woman Blues",
+      "url": "https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
         "name": "Good Luck Man",
         "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 428266,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Personal Manager",
+      "url": "https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
+        "name": "Soul Of The Blues",
+        "url": "https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Along About Midnight",
+      "url": "https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV"
+    },
+    {
+      "added_at": "2022-04-20 11:25:06",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2022-04-20 11:25:06",
       "album": {
-        "name": "Soul Of The Blues",
-        "url": "https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O"
+        "name": "Big Fun",
+        "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
       },
       "artists": [
         {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
         }
       ],
-      "duration_ms": 245653,
-      "name": "Along About Midnight",
-      "url": "https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV"
+      "duration_ms": 214600,
+      "name": "She Puts Me In The Mood",
+      "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
     },
     {
       "added_at": "2022-04-20 11:25:06",
@@ -787,22 +803,6 @@
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/0vUyPyd5cuIZIxTrvrtbR1"
-    },
-    {
-      "added_at": "2022-04-20 11:25:06",
-      "album": {
-        "name": "Big Fun",
-        "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "She Puts Me In The Mood",
-      "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
     },
     {
       "added_at": "2022-04-20 11:25:06",

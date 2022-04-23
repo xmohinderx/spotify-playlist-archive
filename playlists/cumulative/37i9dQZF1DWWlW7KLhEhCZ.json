@@ -130,6 +130,32 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/6Gx63T9Zq4K6XqsuWZVRJu"
+      },
+      "artists": [
+        {
+          "name": "DON N",
+          "url": "https://open.spotify.com/artist/7nXebEUW7acI1RixBIKEA1"
+        },
+        {
+          "name": "Delleon",
+          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
+        },
+        {
+          "name": "BRANCO",
+          "url": "https://open.spotify.com/artist/3gBGVgIX66bvkH5nEil5Lz"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/7LrazjKDQBrzDkm0yqaNNl"
+    },
+    {
+      "album": {
         "name": "Amor Bandido",
         "url": "https://open.spotify.com/album/6UtCwXAhI7W7d008mPbbrI"
       },
@@ -201,6 +227,28 @@
       "duration_ms": 171428,
       "name": "Aquela Mesma Hist\u00f3ria",
       "url": "https://open.spotify.com/track/3t9M9qMmvugR5lmc2j1p50"
+    },
+    {
+      "album": {
+        "name": "Baby Chanel",
+        "url": "https://open.spotify.com/album/02QW04fOuRwHm41NWdYzuc"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207530,
+      "name": "Baby Chanel",
+      "url": "https://open.spotify.com/track/67REt5dJAxe4CpiwGtQtSg"
     },
     {
       "album": {
@@ -495,7 +543,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 180000,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/72QgZLYDf9FQZTpXy4yDuq"
@@ -639,7 +687,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 240318,
       "name": "De Frente pro Mar",
       "url": "https://open.spotify.com/track/67in9OGwcpvItiQ3tccXFR"
@@ -831,10 +879,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 160695,
       "name": "Ela Gosta Demais",
       "url": "https://open.spotify.com/track/7EBy9MF1bfqU17nw7IaBqQ"
+    },
+    {
+      "album": {
+        "name": "Ela Prefere",
+        "url": "https://open.spotify.com/album/5ssmX17KaFCnjYIPlGzNZH"
+      },
+      "artists": [
+        {
+          "name": "Haitam",
+          "url": "https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "Ela Prefere",
+      "url": "https://open.spotify.com/track/0EqGh9MPhGIl9YpDtISXzs"
     },
     {
       "album": {
@@ -1079,6 +1149,32 @@
       "duration_ms": 237111,
       "name": "Frevo na Mans\u00e3o",
       "url": "https://open.spotify.com/track/7A9zHZ4rn2lv0EIfpZ99hj"
+    },
+    {
+      "album": {
+        "name": "F\u00e1brica de Notas",
+        "url": "https://open.spotify.com/album/2Dy5vNT1vc5HHaqAevpPSC"
+      },
+      "artists": [
+        {
+          "name": "Nick Gomes",
+          "url": "https://open.spotify.com/artist/3d52XAFoEyraIeu5qDSosa"
+        },
+        {
+          "name": "Gold Trap",
+          "url": "https://open.spotify.com/artist/1ZBuX2PCFjGXvgODJDuXkU"
+        },
+        {
+          "name": "Hamadi",
+          "url": "https://open.spotify.com/artist/0GNVXhyrk0aYAG2O9rRt04"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168701,
+      "name": "F\u00e1brica de Notas",
+      "url": "https://open.spotify.com/track/3ZondRd3t9BzoWvpERYuoF"
     },
     {
       "album": {
@@ -1459,7 +1555,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 170958,
       "name": "Matotodozz",
       "url": "https://open.spotify.com/track/7MLSFER4mpArJGDCQGPVBK"
@@ -1489,7 +1585,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 146484,
       "name": "Menino do Gueto",
       "url": "https://open.spotify.com/track/5Gjnq8N7kPi7QRay4Eswmd"
@@ -1570,6 +1666,32 @@
     },
     {
       "album": {
+        "name": "Mira Laser",
+        "url": "https://open.spotify.com/album/6G7llM9QAMg8qbMTzmNcJ9"
+      },
+      "artists": [
+        {
+          "name": "Meno Will",
+          "url": "https://open.spotify.com/artist/2WSCexbkl1P97BKo4FU2QE"
+        },
+        {
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+        },
+        {
+          "name": "Ruanzinho",
+          "url": "https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150870,
+      "name": "Mira Laser",
+      "url": "https://open.spotify.com/track/12WxZikyM1bOt0WZmI98aQ"
+    },
+    {
+      "album": {
         "name": "n\u00e3o mais",
         "url": "https://open.spotify.com/album/5LXYNQNliYB8Ijp4ZRBgUi"
       },
@@ -1619,7 +1741,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 246875,
       "name": "Oi, Sumido",
       "url": "https://open.spotify.com/track/4LDBpSuwAw8jLP6s6GI45I"
@@ -2441,10 +2563,36 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 183272,
       "name": "Trem Mais Caro do Rio",
       "url": "https://open.spotify.com/track/7fnwoABxtVCW1ECX41gfU4"
+    },
+    {
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/5WLG7MNwrRUbRhYJpC6tlA"
+      },
+      "artists": [
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Zvnt",
+          "url": "https://open.spotify.com/artist/7IAvWOym99EaN5yJShXCDZ"
+        },
+        {
+          "name": "Slinker",
+          "url": "https://open.spotify.com/artist/11flj5oByHLQ99jY86CMnG"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244052,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/7H37PKMcPFhKOL1Lrw55lC"
     },
     {
       "album": {
@@ -2489,6 +2637,28 @@
       "duration_ms": 230869,
       "name": "Vibe Giyu Tomioka",
       "url": "https://open.spotify.com/track/0cGO5hWc20Fl5kdBkl2i6J"
+    },
+    {
+      "album": {
+        "name": "Vida de Monstr\u00e3o",
+        "url": "https://open.spotify.com/album/26BZ117xBz1JYcK6q1HXLy"
+      },
+      "artists": [
+        {
+          "name": "Kuririn",
+          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Vida de Monstr\u00e3o",
+      "url": "https://open.spotify.com/track/2RsjzV7yDdEsDSLoa1QZIP"
     },
     {
       "album": {

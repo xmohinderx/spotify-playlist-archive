@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 
 > Soothing sounds of rain, birds, and waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,664 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,675 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soaking Rain](https://open.spotify.com/track/6Ftt2yOvJyJ7nwQ4TMd5A6) | [Saman](https://open.spotify.com/artist/1cRTBK63mr22rRV5NRc6Hs) | [Soaking Rain](https://open.spotify.com/album/6a7qgZHFKI7H3tv9EglEqo) | 3:28 |
 | 2 | [Forest Rain](https://open.spotify.com/track/6RLIjFY6g8RHe55zE8Vk2v) | [Nordic Rain](https://open.spotify.com/artist/6c2zaxb47VSieJR0wLDLAg) | [Forest Rain](https://open.spotify.com/album/4XXNS5QBVcwtbuyqk3shJh) | 1:58 |
-| 3 | [Rain Loving Birds](https://open.spotify.com/track/0aPoggXHTkHgFhqXwJ2lCh) | [Mother Earth HD](https://open.spotify.com/artist/2mtvi4kXa2uiaj5Tk5ePYT) | [Rain Lullaby](https://open.spotify.com/album/2qL8ejBgwDkD4GiunVrUgY) | 1:56 |
+| 3 | [Oceans Outside](https://open.spotify.com/track/4ndb9Sv5pTIolY8Lt5jmSn) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 2:02 |
 | 4 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
-| 5 | [Oceans Outside](https://open.spotify.com/track/4ndb9Sv5pTIolY8Lt5jmSn) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 2:02 |
-| 6 | [Sleeping Sounds: Waves](https://open.spotify.com/track/3eB2jBzlvebMri9jLXHx69) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:30 |
-| 7 | [Spring Birds In The Forest](https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw) | [Birds 3AM](https://open.spotify.com/artist/3zLSiXVBvq7O77m2aarmYq) | [Calming Bird Sounds](https://open.spotify.com/album/5ac2sp1AcWHGzhwrqHpZzJ) | 3:00 |
-| 8 | [Slow Waves](https://open.spotify.com/track/1wpF4qBNZQxIJ2sUe1P96b) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [The Beautiful Sounds Of The Ocean](https://open.spotify.com/album/1SSDVDGzMhv9t6SBbS3GMQ) | 3:56 |
-| 9 | [Rain with Distant Birds](https://open.spotify.com/track/4Mx3Zc9sXgZVGpdGwnkqWT) | [Summer Showers](https://open.spotify.com/artist/5WaXjTT6fmL7qkGEIHPNAX) | [Rain is Beautiful](https://open.spotify.com/album/1y3pf7GrykIehQ2oIUy0Aq) | 1:32 |
+| 5 | [Sleeping Sounds: Waves](https://open.spotify.com/track/3eB2jBzlvebMri9jLXHx69) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:30 |
+| 6 | [Spring Birds In The Forest](https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw) | [Birds 3AM](https://open.spotify.com/artist/3zLSiXVBvq7O77m2aarmYq) | [Calming Bird Sounds](https://open.spotify.com/album/5ac2sp1AcWHGzhwrqHpZzJ) | 3:00 |
+| 7 | [Slow Waves](https://open.spotify.com/track/1wpF4qBNZQxIJ2sUe1P96b) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [The Beautiful Sounds Of The Ocean](https://open.spotify.com/album/1SSDVDGzMhv9t6SBbS3GMQ) | 3:56 |
+| 8 | [Rain with Distant Birds](https://open.spotify.com/track/4Mx3Zc9sXgZVGpdGwnkqWT) | [Summer Showers](https://open.spotify.com/artist/5WaXjTT6fmL7qkGEIHPNAX) | [Rain is Beautiful](https://open.spotify.com/album/1y3pf7GrykIehQ2oIUy0Aq) | 1:32 |
+| 9 | [Rain Loving Birds](https://open.spotify.com/track/0aPoggXHTkHgFhqXwJ2lCh) | [Mother Earth HD](https://open.spotify.com/artist/2mtvi4kXa2uiaj5Tk5ePYT) | [Rain Lullaby](https://open.spotify.com/album/2qL8ejBgwDkD4GiunVrUgY) | 1:56 |
 | 10 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 |
 | 11 | [Miraculous Rain](https://open.spotify.com/track/6RB2N1cpwiZaZ9UpqzRYfv) | [Mirai](https://open.spotify.com/artist/6oEZ7IsYCH7xwmb83A6eQx) | [Miraculous Rain](https://open.spotify.com/album/5JhOCiNKkFrXxBPr1skMZn) | 1:48 |
 | 12 | [Spring Birds In The Forest](https://open.spotify.com/track/7a1XGxwYRr3YUW3NpKrBDX) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Spring Birds](https://open.spotify.com/album/0pkEvYY6HzXUaEveXWYOnE) | 2:24 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 | 89 | [Calm Rain & Thunder](https://open.spotify.com/track/5fkUSLLclp3LdXiMw3zTgR) | [Weather Factory](https://open.spotify.com/artist/1hzMcARZTayoVUZwkkiBUb) | [Rain & Thunder](https://open.spotify.com/album/06gtdmD7olwgoeFyiGjTeI) | 3:20 |
 | 90 | [Morning Waves](https://open.spotify.com/track/4f139MAcdsT4VoLzkjeGe0) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 3](https://open.spotify.com/album/2A8JvegkrBaRgYeCJbNk6k) | 3:32 |
 
-Snapshot ID: `MTY0NTc5ODQ5NiwwMDAwMDAyYjAwMDAwMTdmMzEzYzE4MWYwMDAwMDE3YTE0YTdmMTRm`
+Snapshot ID: `MTY1MDYzNzc0OSwwMDAwMDAyYzAwMDAwMTgwNTFhZDNiMjcwMDAwMDE3YTE0YTdmMTRm`

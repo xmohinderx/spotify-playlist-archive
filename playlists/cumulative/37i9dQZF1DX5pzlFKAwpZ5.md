@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5pzlFKAwpZ5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5pzlFKAwpZ5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5pzlFKAwpZ5)
 
-### [Postcards From Japan](https://open.spotify.com/playlist/37i9dQZF1DX5pzlFKAwpZ5)
+### [Ambient Japan](https://open.spotify.com/playlist/37i9dQZF1DX5pzlFKAwpZ5)
 
-> A celebration of contemporary Ambient music produced by Japanese artists.
+> Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
 97 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 

@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-68 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+69 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Cê tá bem \(Remix\)](https://open.spotify.com/track/5WZ5MJyJTUgPC0oSVRzxHX) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Cê tá bem \(Remix\)](https://open.spotify.com/album/59XmINGEHdizIVZLyz5NVD) | 3:11 | 2022-03-07 |  |
 | [Deixa](https://open.spotify.com/track/4zZ2rPOa8itw3VuusVSicv) | [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Pep Starling](https://open.spotify.com/artist/2OKT3UlyCvDefb14iq4E71) | [Deixa](https://open.spotify.com/album/3D9D1yVykWFsUZI1JzRwqM) | 2:41 | 2022-03-07 |  |
 | [Dimensões](https://open.spotify.com/track/30OtthOkDQ2osucPu5lk0U) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Dimensões](https://open.spotify.com/album/0Yf5OjolSMBx5b0Sx6Ro30) | 2:54 | 2022-03-07 |  |
+| [Dióne](https://open.spotify.com/track/3btFitgDyAmqRpsnTVW8sR) | [Doreán](https://open.spotify.com/artist/5jvgFY84QwazP4ljpQqcvg), [Djow](https://open.spotify.com/artist/4dfW6aGgqWwU6juV63C0ZR), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Dióne](https://open.spotify.com/album/1S3TwRRwWYohy9wwH2EsQ4) | 3:51 | 2022-04-22 |  |
 | [Duro Igual Concreto](https://open.spotify.com/track/1BuSbqff6EcL8gkdkjaB63) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [Duro Igual Concreto](https://open.spotify.com/album/0E7M1yBHV0BBBHKuQXrArp) | 5:05 | 2022-03-07 |  |
 | [Encrenqueira](https://open.spotify.com/track/1cvaCi2boc8TNXbSKIFmWy) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Encrenqueira](https://open.spotify.com/album/3ZGFB9XjUMvlqWTPhFRhLU) | 2:51 | 2022-03-07 |  |
 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 | 2022-03-07 |  |

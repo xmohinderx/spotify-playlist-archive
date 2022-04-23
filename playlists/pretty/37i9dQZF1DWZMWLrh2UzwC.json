@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Dato' Sri Siti Nurhaliza",
-  "num_followers": 58636,
+  "num_followers": 58641,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU1NjgwMCwwMDAwMDQ2ODAwMDAwMTgwNGNkYTBjYTUwMDAwMDE4MDRiZGI2YjI1",
+  "snapshot_id": "MTY1MDYwNDk4NiwwMDAwMDQ2YzAwMDAwMTgwNGZiOTUyNjkwMDAwMDE4MDRiZGI2YjI1",
   "tracks": [
     {
       "added_at": "2022-04-21 16:00:00",
@@ -63,6 +63,26 @@
     {
       "added_at": "2022-04-21 16:00:00",
       "album": {
+        "name": "Please Do Not Lean",
+        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "added_at": "2022-04-21 16:00:00",
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/2iwWXnXWMxBKOT9248uBAG"
       },
@@ -95,6 +115,26 @@
       "duration_ms": 153706,
       "name": "Where you are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
+    },
+    {
+      "added_at": "2022-04-21 16:00:00",
+      "album": {
+        "name": "2step (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 163449,
+      "name": "2step (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt"
     },
     {
       "added_at": "2022-04-21 16:00:00",
@@ -309,6 +349,78 @@
       "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
     },
     {
+      "added_at": "2022-04-22 03:13:48",
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2022-04-22 04:07:53",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
+    },
+    {
+      "added_at": "2022-04-22 03:13:48",
+      "album": {
+        "name": "Wheels Up (feat. Mayzin)",
+        "url": "https://open.spotify.com/album/7fN1n8ytw8i6sxJ1i5lzMI"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/6uTQowWLedczyP5LnS1iwZ"
+        },
+        {
+          "name": "Mayzin",
+          "url": "https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd"
+        }
+      ],
+      "duration_ms": 200393,
+      "name": "Wheels Up (feat. Mayzin)",
+      "url": "https://open.spotify.com/track/5rnqEo666hoD4r0CajmrJm"
+    },
+    {
+      "added_at": "2022-04-22 05:23:06",
+      "album": {
+        "name": "BEESWAX",
+        "url": "https://open.spotify.com/album/7cr8GvQOO9l7SnlnD3GKQ1"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 188804,
+      "name": "BEESWAX",
+      "url": "https://open.spotify.com/track/6pmOqyfbbFL1lTn9fo9SiS"
+    },
+    {
       "added_at": "2022-04-21 16:00:00",
       "album": {
         "name": "I want you to be happy",
@@ -323,6 +435,22 @@
       "duration_ms": 227293,
       "name": "I want you to be happy",
       "url": "https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy"
+    },
+    {
+      "added_at": "2022-04-22 04:25:11",
+      "album": {
+        "name": "<Queendom2> Part.2-2",
+        "url": "https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 244320,
+      "name": "UNNATURAL",
+      "url": "https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh"
     },
     {
       "added_at": "2022-04-21 16:00:00",
@@ -515,6 +643,22 @@
     {
       "added_at": "2022-04-21 16:00:00",
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
+    },
+    {
+      "added_at": "2022-04-21 16:00:00",
+      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -647,6 +791,30 @@
     {
       "added_at": "2022-04-21 16:00:00",
       "album": {
+        "name": "Hold That Heat (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Hold That Heat (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
+    },
+    {
+      "added_at": "2022-04-21 16:00:00",
+      "album": {
         "name": "Head In The Clouds Forever",
         "url": "https://open.spotify.com/album/0UwAIpD7li3hhPDVxPrQxD"
       },
@@ -667,6 +835,22 @@
       "duration_ms": 249033,
       "name": "T",
       "url": "https://open.spotify.com/track/3FWKUDsmw76R8vkZudTbte"
+    },
+    {
+      "added_at": "2022-04-21 16:00:00",
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G"
     },
     {
       "added_at": "2022-04-21 16:00:00",

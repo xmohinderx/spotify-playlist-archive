@@ -2,7 +2,7 @@
 
 ### [Party Jazz](https://open.spotify.com/playlist/37i9dQZF1DXcrFx9OjqPuj)
 
-> Get the party started with some uplifting party jazz.
+> Get the party started with some upbeat party jazz.
 
 100 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/0URm84MB7MMlfi2eP9YKgm)
 

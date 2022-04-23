@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 ### [Lazy Jazz Cat](https://open.spotify.com/playlist/37i9dQZF1DWTcEjayzrZ4x)
 
-> Instrumental  jazz with a cool sound.
+> Instrumental  jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,223 likes - 160 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,263 likes - 160 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 159 | [Galaxy](https://open.spotify.com/track/51g4wZxI5yS88Aj0VTCsXM) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Galaxy](https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29) | 3:51 |
 | 160 | [Neighbours](https://open.spotify.com/track/0eo6CVRixQy70hPIUHh36m) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [In The Days Of Our Love](https://open.spotify.com/album/2QBCdxvkPxKABMrvkDd8aL) | 3:06 |
 
-Snapshot ID: `MTY0OTY5MTkwNCwwMDAwMDA3NzAwMDAwMTgwMTk0Y2NiMzgwMDAwMDE3MjgzNTQ3ZTll`
+Snapshot ID: `MTY1MDYzMjcxNCwwMDAwMDA3ODAwMDAwMTgwNTE2MDY4NjgwMDAwMDE3MjgzNTQ3ZTll`

@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist.
 
-202 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+203 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Milk](https://open.spotify.com/track/7qbQiDc6OZgw8p91UTy2fE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Milk](https://open.spotify.com/album/4RgHhQQ1Q0UPrDyqsJCMfE) | 3:54 | 2019-09-29\* |  |
 | [Miss Misanthrope](https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:55 | 2019-09-29\* | 2022-04-10 |
 | [My Blood Will Call out to You from the Ground](https://open.spotify.com/track/3Ha5BnM3hnMom3B7wPSBYU) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6), [The Musicians of the Apocalypse](https://open.spotify.com/artist/3daEbPQTOefptx00Snvn7K) | [When I Shoot at You with Arrows, I Will Shoot to Destroy You](https://open.spotify.com/album/7k0VVDoF8jwZ1joYO7SBJp) | 3:26 | 2019-09-29\* | 2022-04-10 |
+| [My Mind is a Mess in the Morning](https://open.spotify.com/track/0gsFYbnx6GAQ3YOQlMsR5u) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Morning / Midnight // My Mind is a Mess in the Morning](https://open.spotify.com/album/0dnf61lE4vYKAivDQwUaTk) | 4:24 | 2022-04-22 |  |
 | [My Wandering Days Are Over](https://open.spotify.com/track/56tvIKcMb2C5Zyuk7eQSr9) | [Belle & Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/5OHv40uxVjNFuilXYmuAo5) | 5:24 | 2020-08-30 | 2020-09-11 |
 | [Mystery of Love](https://open.spotify.com/track/4HbeGjbt7u3pvwDk1vN7P0) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me By Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM) | 4:08 | 2020-05-29 |  |
 | [Negative Vibes](https://open.spotify.com/track/0B0lt6ie2Q9Vv0BJayFbKN) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [Babelsberg](https://open.spotify.com/album/0v6Lagogc0mVWvcyiDizXS) | 5:15 | 2020-08-30 | 2020-09-11 |

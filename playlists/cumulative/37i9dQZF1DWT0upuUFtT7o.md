@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Luke Royalty Artwork: Robin Clifford Ellis
 
-465 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+466 songs - 1 day 1 hr 32 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Be My Lover](https://open.spotify.com/track/7eTJ6c57T5iwwveTuz8ds8) | [Gavin Leatherwood](https://open.spotify.com/artist/3qyVQdobesI4y3OgRQCdwO) | [Be My Lover](https://open.spotify.com/album/6YpZ2pfrfQbcsBb5Hin1Sj) | 3:31 | 2022-04-12 |  |
 | [Beabadoobee](https://open.spotify.com/track/7pC2Lj7slyihjXZABlvZKV) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Delete My Feelings](https://open.spotify.com/album/4Yc3MMtwaMHLQZPbXBtzAz) | 3:36 | 2022-03-30 |  |
 | [Before It Hurts](https://open.spotify.com/track/7iP6bz6tvVKzy1rZOvJ4Pz) | [Naimah](https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf) | [Before It Hurts](https://open.spotify.com/album/5RXvlBiL2CgJR6eRdiGdvg) | 4:13 | 2022-02-09 | 2022-03-03 |
+| [Belles](https://open.spotify.com/track/6TGKtEN5WQ4Fz5C5wL88ff) | [Marques Martin](https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq) | [Brave & Afraid](https://open.spotify.com/album/6VvjYRRkfx5rqSqnrBI5K5) | 3:40 | 2022-04-22 |  |
 | [Big Tex](https://open.spotify.com/track/2mDv8WCXIg5JD1J7TyIOQt) | [Blue Wilson](https://open.spotify.com/artist/2sw2UaTtDQzgWd7CPWKDsW) | [Future Street](https://open.spotify.com/album/6HwDO9qabmM2QgkXrwLeXW) | 3:39 | 2022-04-06 |  |
 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 | 2022-01-12 | 2022-02-17 |
 | [Billy](https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Billy](https://open.spotify.com/album/17d1NM1uI3Bg9fhijXz7jZ) | 3:48 | 2022-01-12 | 2022-02-17 |

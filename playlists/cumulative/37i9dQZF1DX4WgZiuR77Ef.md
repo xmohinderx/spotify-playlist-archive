@@ -2,9 +2,9 @@
 
 ### [All Funked Up](https://open.spotify.com/playlist/37i9dQZF1DX4WgZiuR77Ef)
 
-> New funky songs with a classic funky sound.
+> New funky songs with a classic funky sound\. Cover: Lettuce
 
-128 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+129 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Don't Bother Me](https://open.spotify.com/track/0qXhEpz1OnQzxovxnYCG9l) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Don't Bother Me](https://open.spotify.com/album/3XZIH8fWJIWug0oiVjGVWE) | 3:29 | 2022-04-08 |  |
 | [Don't Give a Damn \(feat\. John McCallum\)](https://open.spotify.com/track/48d8lgSahjvXsfPc3dVXCo) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [John McCallum](https://open.spotify.com/artist/7j7wBKS8M29EIYXsAPIoP4) | [Stand Up For Love](https://open.spotify.com/album/0B95klwEoReHDRfMYqQEi1) | 3:44 | 2020-10-30 |  |
 | [Don't Let Him Fool Ya](https://open.spotify.com/track/6tkrORqB1r56TV43CuejIR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Don't Let Him Fool Ya](https://open.spotify.com/album/5DgoY2wxI35yD9EChvkNPZ) | 4:34 | 2020-10-30 | 2022-04-09 |
+| [Everything's Gonna Be Alright](https://open.spotify.com/track/1USqDSnSZ2RYsZIflEJNWP) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Everything's Gonna Be Alright](https://open.spotify.com/album/2teo9fYVUAJ3qBRi3FIjJm) | 3:33 | 2022-04-22 |  |
 | [Flow with It \(You Got Me Feeling Like\)](https://open.spotify.com/track/33qbRR8yZt50GKrYVsz9tm) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Flow with It \(You Got Me Feeling Like\)](https://open.spotify.com/album/53aHMhWpvW5VNPVHSYwC73) | 3:16 | 2020-10-30 | 2022-04-09 |
 | [Flyers Direct](https://open.spotify.com/track/2nYYsMqbbuybDaDoiFkUWH) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers II](https://open.spotify.com/album/2zMa2FJ6WyyAgyzEO42pPc) | 2:44 | 2020-10-30 | 2022-04-09 |
 | [Funk Is My Religion](https://open.spotify.com/track/5JfPmqLsOHBFqiMbjVcH5X) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Funk Is My Religion](https://open.spotify.com/album/1ebG6V1lQvLgRhJ2sCwzgN) | 4:50 | 2021-04-30 |  |

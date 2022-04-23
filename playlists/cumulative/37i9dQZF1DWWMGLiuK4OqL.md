@@ -2,7 +2,7 @@
 
 ### [Sweet Jazz](https://open.spotify.com/playlist/37i9dQZF1DWWMGLiuK4OqL)
 
-> The soft sound of some of the sweetest voices in Jazz.
+> The soft sound of some of the smoothest and sweetest vocal jazz.
 
 209 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 

@@ -2,9 +2,9 @@
 
 ### [Brunch Jazz](https://open.spotify.com/playlist/37i9dQZF1DX9BVquKzFnCW)
 
-> Set the perfect brunch mood with jazzy sounds.
+> Set the perfect brunch mood with instrumental and vocal jazz.
 
-116 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+117 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Moonlight In Vermont \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/68oYY9hUduyqbKZpOUi4Iq) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 3:10 | 2022-04-13 |  |
 | [Moten Swing](https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:52 | 2022-04-13 |  |
 | [My Ideal](https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [John Webber](https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Inspiration Suite](https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D) | 6:33 | 2022-02-23 |  |
-| [Nearness of You](https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 6:42 | 2022-02-23 |  |
+| [Nearness of You](https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 6:42 | 2022-02-23 | 2022-04-23 |
 | [Nice Work If You Can Get It](https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Buddy And Sweets](https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc) | 4:04 | 2022-02-23 |  |
 | [Night Dreamer \- Remastered 2004](https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX), [Reginald Workman](https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ), [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:15 | 2022-02-23 |  |
 | [Ode To A Cowboy](https://open.spotify.com/track/6Oci0KLr1huChKVkO5MUVP) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Legacy Of A Legend](https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN) | 5:01 | 2022-04-08 |  |
@@ -123,6 +123,7 @@
 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 | 2022-02-23 |  |
 | [Wrapped Tight](https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:28 | 2022-02-23 |  |
 | [Yardbird Suite](https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:44 | 2022-02-23 |  |
+| [You're My Everything](https://open.spotify.com/track/2if6fg81tcHazUisCKkXbU) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [You're My Everything](https://open.spotify.com/album/3CEpJdAUBq5tj9sgeMVWMq) | 6:01 | 2022-04-22 |  |
 | [You’re Driving Me Crazy](https://open.spotify.com/track/1iBs0OyTuRQG2ZLkYEbxLT) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 2:56 | 2022-04-08 |  |
 
 \*This playlist was first scraped on 2022-03-12. Prior content cannot be recovered.

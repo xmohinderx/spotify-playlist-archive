@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 243333,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Better Times Are Coming",
+        "url": "https://open.spotify.com/album/0YbGmlwz42fGa6Dk86bf7x"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197788,
+      "name": "Better Times Are Coming",
+      "url": "https://open.spotify.com/track/0lOTlOKnmUEDphNpmpj4LQ"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os de Carpa",
         "url": "https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x"
       },
@@ -645,7 +663,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 213011,
       "name": "Como Saber",
       "url": "https://open.spotify.com/track/71hT1OeAaKSxObmDVKnfh7"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 277933,
       "name": "El Vals del Obrero",
       "url": "https://open.spotify.com/track/4UjqoyfmarLo3Ub3LE19eC"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 181866,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/6MXl7W1mWO7hVDMoDfsibq"
@@ -2169,7 +2187,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 195083,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ"
@@ -2303,6 +2321,28 @@
       "duration_ms": 156655,
       "name": "Morocha",
       "url": "https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q"
+    },
+    {
+      "album": {
+        "name": "Mount Zion",
+        "url": "https://open.spotify.com/album/42AWslKJIydPhSUaxpScVH"
+      },
+      "artists": [
+        {
+          "name": "Ska Beat City",
+          "url": "https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o"
+        },
+        {
+          "name": "Chris Murray",
+          "url": "https://open.spotify.com/artist/5lHb57DpHI6R6pp81EyvPP"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166836,
+      "name": "Mount Zion",
+      "url": "https://open.spotify.com/track/3dRQPqMedGjXD2uc4N1f09"
     },
     {
       "album": {
@@ -2429,7 +2469,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 233917,
       "name": "No Me Haces Falta (Delante de Ti)",
       "url": "https://open.spotify.com/track/4bK7KN7WMdNKpcEjmtM6G3"
@@ -3095,7 +3135,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 196777,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo"
@@ -3373,7 +3413,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 176626,
       "name": "Ser Fuertes",
       "url": "https://open.spotify.com/track/6W62ieUxxt94f4XAlA3GFI"
@@ -3833,7 +3873,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 219733,
       "name": "Su Majestad",
       "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
@@ -3977,7 +4017,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"

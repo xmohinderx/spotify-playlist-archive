@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-82 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+83 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Life In A Northern Town \- Live](https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Love On The Inside](https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl) | 4:14 | 2021-07-22 |  |
 | [Maybe It Was Memphis \- Live](https://open.spotify.com/track/7ygoOcZoGWWXddt5P1RTL0) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Pam Tillis \- Live in Nashville](https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL) | 4:59 | 2021-07-22 |  |
 | [Mine \- Live/2011](https://open.spotify.com/track/7yndkPYP6YQQLBpPsizDfh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 4:19 | 2021-07-22 |  |
+| [Missing One \- Live](https://open.spotify.com/track/3b5ByZjvI4Gn3tgRIdGU7x) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Missing One \(Live\)](https://open.spotify.com/album/1v9VWVgc15IWVb0a7RUs1Q) | 3:23 | 2022-04-22 |  |
 | [My Church \- Live from the Bluebird Café](https://open.spotify.com/track/1atcxTKmyUASYKQVNpBBQp) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [My Church \(Live from the Bluebird Café\)](https://open.spotify.com/album/24AOlassgS5YceHoqgwfAT) | 3:20 | 2021-07-22 |  |
 | [Need You Now \- Live](https://open.spotify.com/track/0B6xuiHFvxkiAtmGbbuSKB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 5:42 | 2021-07-22 |  |
 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 | 2021-07-22 |  |

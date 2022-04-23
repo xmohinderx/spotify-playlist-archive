@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
@@ -981,10 +981,28 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 148106,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+    },
+    {
+      "album": {
+        "name": "Country Superstars Biggest Hits (3 Pak)",
+        "url": "https://open.spotify.com/album/7g5YHMsKSHWcuUkQYI2KfT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "On the Road Again - Live",
+      "url": "https://open.spotify.com/track/35OXQrwxmcS6OfGtsuFsyg"
     },
     {
       "album": {
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 165506,
       "name": "Safety Dance",
       "url": "https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk"

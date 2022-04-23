@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Elza Soares
 
-94 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
+95 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Exagerado 3.0](https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado 3.0 \- Single](https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3) | 3:46 | 2021-12-31 |  |
 | [Fado do Ultramar](https://open.spotify.com/track/6hIwZzQCIbu7DRymTbp7aX) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF), [Thais Nicodemo](https://open.spotify.com/artist/5AZTwsZvQ1X5fTz2c3APov) | [Fado do Ultramar](https://open.spotify.com/album/1fezN2gBwdCi7tqMby5H03) | 4:08 | 2021-12-31 | 2022-04-16 |
 | [Façamos \(Vamos Amar\)](https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Do Cóccix Até o Pescoço](https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR) | 5:53 | 2022-01-20 |  |
-| [Feito nós](https://open.spotify.com/track/00nCJkH4vKNohhcxDnif24) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Miltons](https://open.spotify.com/album/7qrmWwDm6WEBdJH9rtCIeV) | 3:51 | 2021-12-31 |  |
+| [Feito nós](https://open.spotify.com/track/00nCJkH4vKNohhcxDnif24) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Miltons](https://open.spotify.com/album/7qrmWwDm6WEBdJH9rtCIeV) | 3:51 | 2021-12-31 | 2022-04-23 |
 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz e o Violão](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 | 2021-12-31 |  |
 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 | 2021-12-31 |  |
 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 | 2021-12-31 |  |
@@ -64,6 +64,7 @@
 | [Mama África / Brilho de Beleza / Pra Não Dizer Que Não Falei das Flores \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/56QI0cHMqOQRBw4jbNFGZD) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Lazzo Matumbi](https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV), [Seu Pereira](https://open.spotify.com/artist/28pAHiB6AXRv8xAFi6y2cw), [Luizinho Calixto](https://open.spotify.com/artist/5RVxzbhV0agb2TSjCD3Kmk), [Escurinho](https://open.spotify.com/artist/4JPtZ1t3FJ7SjLPEAHQswo), [Michi Ruzitschika](https://open.spotify.com/artist/030OnLWDWctqB2Rx6bBOx1) | [Estado de Poesia \(Ao Vivo\) \(Deluxe Edition\)](https://open.spotify.com/album/3mDS3K8Eg7eCJ3Ny8uJG3J) | 9:30 | 2021-12-31 |  |
 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 | 2021-12-31 |  |
 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 | 2021-12-31 |  |
+| [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-04-22 |  |
 | [Nem um Dia](https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Malásia](https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa) | 5:46 | 2021-12-31 |  |
 | [Nu Com a Minha Música](https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Nu Com a Minha Música \(EP\)](https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw) | 4:43 | 2021-12-31 |  |
 | [Não é um Bolero](https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw) | 4:21 | 2021-12-31 |  |

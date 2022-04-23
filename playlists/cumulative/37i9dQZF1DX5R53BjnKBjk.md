@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Brasil](https://open.spotify.com/playlist/37i9dQZF1DX5R53BjnKBjk)
 
-> As novidades dos artistas independentes que você precisa conhecer\. Foto: Helo Cleaver\. Arte: Isu Kim
+> As novidades dos artistas independentes que você precisa conhecer\. Foto: Chico e o Mar\. Arte: Isu Kim
 
-109 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+110 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,10 +89,11 @@
 | [Samba do Delírio](https://open.spotify.com/track/5H81SifZB6ypcyjIh7L3Uj) | [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Samba do Delírio](https://open.spotify.com/album/2TmbxV3EgXJXqB4T5XDUOS) | 4:11 | 2022-01-07 |  |
 | [Sambatango](https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL) | [Dan Stump](https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Transe Tropical](https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95) | 2:35 | 2022-03-25 |  |
 | [Sedução Vegetal](https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO) | [Matheus Souto](https://open.spotify.com/artist/0FW6guSeedXBXOd8AK63Xp) | [Sedução Vegetal](https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh) | 5:35 | 2022-01-07 |  |
+| [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 | 2022-04-22 |  |
 | [Sem Noção](https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA) | [Giovanna](https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA) | [Giovanna](https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ) | 2:28 | 2022-02-04 |  |
 | [Sensus Plenior](https://open.spotify.com/track/0cdftpxtbBkaMSJdAOY3TL) | [Arthur Alva](https://open.spotify.com/artist/1bWoWooojWavWI4Hh1JC32) | [Consciência Elementar I](https://open.spotify.com/album/6ZENBuXFtK81xuE4Y4q9O3) | 3:04 | 2022-04-15 |  |
 | [Sinais, Pt\. 2](https://open.spotify.com/track/4KvOzCwHSLdzyl9MxlFiVv) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [Sinais, Pt\. 2](https://open.spotify.com/album/0kqkt2wT6FHCZqs3nZ8Lol) | 4:05 | 2022-01-07 |  |
-| [Sinto Estrelas Em Você](https://open.spotify.com/track/7Mo2CbjQf10IbKABBtwo4f) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm), [Luana Nogueira](https://open.spotify.com/artist/14yE0zCPijGLzggeKOMawo) | [Sinto Estrelas Em Você](https://open.spotify.com/album/1R4ooaw0K2tErUROdmmSVS) | 2:56 | 2022-01-07 |  |
+| [Sinto Estrelas Em Você](https://open.spotify.com/track/7Mo2CbjQf10IbKABBtwo4f) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm), [Luana Nogueira](https://open.spotify.com/artist/14yE0zCPijGLzggeKOMawo) | [Sinto Estrelas Em Você](https://open.spotify.com/album/1R4ooaw0K2tErUROdmmSVS) | 2:56 | 2022-01-07 | 2022-04-23 |
 | [Sofá 7 \- Demo](https://open.spotify.com/track/5jaRGv0vkI2lgfsHVhW4eM) | [A VIRGO](https://open.spotify.com/artist/70ZpXCpXVlf7XIbNJc3xBI) | [Sofá 7 Demos](https://open.spotify.com/album/0T4a8723JiAA5rTpUaSQxq) | 4:51 | 2022-01-07 |  |
 | [Somos um Fim](https://open.spotify.com/track/11oS5QyBFJT4u8QhEslrR3) | [Gaboardi](https://open.spotify.com/artist/6Gz6rPxHpaoaRdSgQvbj1r), [Kyssla](https://open.spotify.com/artist/21PfuPwFo3Qud4Eyg6nCoX) | [Somos um Fim](https://open.spotify.com/album/4rAKpsk1oiubQdtYZzGAE9) | 3:10 | 2022-01-07 |  |
 | [Sorte](https://open.spotify.com/track/6sOJ72MO2hRuARLUugRB8W) | [Carol Porto](https://open.spotify.com/artist/7k2Nsq0KcaursuxcNcZis1) | [Voos](https://open.spotify.com/album/0XajQuoQwXpMCIS0u0ugPb) | 2:58 | 2022-01-07 | 2022-01-15 |

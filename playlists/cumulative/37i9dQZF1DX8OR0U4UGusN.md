@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-130 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+131 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Amnesia](https://open.spotify.com/track/5UBCzEjj6I6nQt6nKzbpcw) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Amnesia](https://open.spotify.com/album/6RIvXxoFJ3qgQSJolPobav) | 3:17 | 2021-08-05 |  |
 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 | 2021-08-05 |  |
 | [Arcoíris](https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Arcoíris](https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs) | 3:37 | 2021-12-16 |  |
-| [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 | 2022-03-11 |  |
+| [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 | 2022-03-11 | 2022-04-23 |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-16 |  |
 | [Body](https://open.spotify.com/track/0BZip62uEjvHL7jdDyC21p) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Body](https://open.spotify.com/album/6MDU6gvwSr3fEOX9R7jccf) | 3:15 | 2022-02-25 |  |
 | [Buggin](https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Buggin](https://open.spotify.com/album/3Vd2F2hoxhMSsEW0MlUZIP) | 2:11 | 2021-11-12 |  |
@@ -26,7 +26,7 @@
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-02-04 |  |
 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 | 2021-08-05 |  |
 | [Clorox Wipe](https://open.spotify.com/track/3SkDCAsph6e4ExoUQ1dVW0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Quarantine Casanova](https://open.spotify.com/album/5mdkqTHEmp4RvBVU8hZZCy) | 4:31 | 2021-08-05 | 2022-04-21 |
-| [CLOSER](https://open.spotify.com/track/7JYK47yZqheR1DeJCeygWX) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [HIDDEN TAPE](https://open.spotify.com/album/5DQfDBKfuL4l8f46X4AGbO) | 3:17 | 2022-04-14 | 2022-04-22 |
+| [CLOSER](https://open.spotify.com/track/7JYK47yZqheR1DeJCeygWX) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [HIDDEN TAPE](https://open.spotify.com/album/5DQfDBKfuL4l8f46X4AGbO) | 3:17 | 2022-04-14 |  |
 | [Closer](https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Closer](https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn) | 3:28 | 2021-08-05 | 2022-04-21 |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2021-08-05 |  |
 | [Comb My Hair](https://open.spotify.com/track/6bAjvvI6Oo1MARyB2zDHPo) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Bruhnice](https://open.spotify.com/artist/2QW8NaVjm8HVF86S2rMrXL), [Tesia](https://open.spotify.com/artist/5X1yJG15xC3PkAid9lt1sP) | [Comb My Hair](https://open.spotify.com/album/3ErfwLMu1oq718Jn1us5TQ) | 3:35 | 2021-08-05 |  |
@@ -56,7 +56,7 @@
 | [For A Minute](https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [For A Minute](https://open.spotify.com/album/2751qfhddwsCitLsJwhbvS) | 1:48 | 2021-08-05 |  |
 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 | 2021-08-05 |  |
 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2021-08-05 |  |
-| [fukced up.](https://open.spotify.com/track/3CPWUWSmbkKoV48apYPi5d) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [fukced up.](https://open.spotify.com/album/7yQRIySYJmZwqpMPbWGVTC) | 2:52 | 2021-10-13 |  |
+| [fukced up.](https://open.spotify.com/track/3CPWUWSmbkKoV48apYPi5d) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [fukced up.](https://open.spotify.com/album/7yQRIySYJmZwqpMPbWGVTC) | 2:52 | 2021-10-13 | 2022-04-23 |
 | [funny lil thing](https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [funny lil thing](https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D) | 2:17 | 2022-02-11 |  |
 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 | 2021-08-05 |  |
 | [Grey Luh](https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 4:21 | 2021-08-05 | 2022-04-21 |
@@ -77,7 +77,7 @@
 | [Janet](https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 3:24 | 2021-08-05 | 2022-04-21 |
 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2021-08-05 |  |
 | [Last Laugh](https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj) | [Angelnumber 8](https://open.spotify.com/artist/1JQUgMIvUyaBVfCv4FOn4i) | [Digital Tribal](https://open.spotify.com/album/04l7BttBEXWOLVGRNv16zg) | 2:36 | 2022-03-11 |  |
-| [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2021-08-05 | 2022-04-22 |
+| [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2021-08-05 |  |
 | [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 | 2021-12-14 |  |
 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 | 2021-12-14 | 2022-04-21 |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-08-05 |  |
@@ -89,6 +89,7 @@
 | [Mushrooms](https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Aries](https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF) | 2:43 | 2021-08-05 |  |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2022-03-31 |  |
 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 | 2021-12-14 | 2022-04-21 |
+| [NEVER CRY AGAIN](https://open.spotify.com/track/4oHUV9PR1jCJNqZ35xuSZ1) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [NEVER CRY AGAIN](https://open.spotify.com/album/1uYX907pgQI6YblNc087rK) | 2:44 | 2022-03-11 |  |
 | [New Romance](https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg) | 4:12 | 2021-12-14 |  |
 | [Nightshift](https://open.spotify.com/track/7y6CCgj3BK8zgqK0mG6R2X) | [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Full Moon](https://open.spotify.com/album/2RGlc4VhcmNh3iMMi4pcwJ) | 3:25 | 2021-08-05 | 2022-04-21 |
 | [no me falta nada](https://open.spotify.com/track/6yiH4fLImaQ6LTm4uQx3ok) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [las horas](https://open.spotify.com/album/5b6bKtGLb4uC2Q9ANT53Yu) | 3:35 | 2021-12-16 | 2022-04-21 |
@@ -124,7 +125,7 @@
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2021-12-14 |  |
 | [Too Sensitive](https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Too Sensitive](https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM) | 2:41 | 2021-08-05 |  |
 | [Trust](https://open.spotify.com/track/1B6lyzIgsBvdGEoJ6xV0xC) | [Prince Fox](https://open.spotify.com/artist/1nf5yEVCfMbqm1OCYpntBT) | [ALL THIS MUSIC, Vol\. 1](https://open.spotify.com/album/072NiWj2csEY7y9Z7Q8Nbc) | 3:23 | 2021-08-05 | 2022-04-21 |
-| [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2021-11-12 |  |
+| [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2021-11-12 | 2022-04-23 |
 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/6gigGFhKguOzObNC5QZbeW) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/0u1kufnf2KBAb7dlKgD2XJ) | 2:49 | 2021-12-14 | 2022-04-21 |
 | [Up All Night \- Oliver Remix](https://open.spotify.com/track/12aQRcFFIh1zAoPOGTVY2y) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Up All Night \(Oliver Remix\)](https://open.spotify.com/album/3loMThbNeSWIuwZHG2SsDa) | 4:26 | 2021-08-05 | 2022-04-21 |
 | [VOCES](https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ) | 3:22 | 2021-08-05 | 2022-04-22 |

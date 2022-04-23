@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 234240,
       "name": "24",
       "url": "https://open.spotify.com/track/53Vm51F3MnhnWAhwX7n78s"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 228394,
       "name": "4hours",
       "url": "https://open.spotify.com/track/6VqTWy8VqZhYVrUz0foEl2"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 174644,
       "name": "Beautiful (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 237175,
       "name": "CHAMELEON (Feat. SUMIN, Dbo) (Prod. SUMIN)",
       "url": "https://open.spotify.com/track/7CP1u7vb5Yyj9qz2e6Ulnk"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 184186,
       "name": "CTRL+Z (Feat. GIST, Inmo Yang)",
       "url": "https://open.spotify.com/track/6GOeHzr2n11XBa3zt7HUBt"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 194111,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 190212,
       "name": "Drama (Feat. Skinny Brown, SINCE, Ahn Byeong Woong)",
       "url": "https://open.spotify.com/track/4t4fQSspr66XPjriR6ggOG"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 198326,
       "name": "Earphone",
       "url": "https://open.spotify.com/track/3Z32X2KetQtfp40lMU90CN"
@@ -1118,6 +1118,28 @@
     },
     {
       "album": {
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191496,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/7cMz3tfL98drx8glCCVhok"
+    },
+    {
+      "album": {
         "name": "500000",
         "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
@@ -1151,7 +1173,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Family (Feat. THAMA)",
       "url": "https://open.spotify.com/track/36PJlu7LbBOfbN3nIVsQPE"
@@ -1227,7 +1249,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 164480,
       "name": "Fragile (Prod. Dayrick)",
       "url": "https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF"
@@ -1267,7 +1289,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 152001,
       "name": "Freaky (Feat. Chillin Homie)",
       "url": "https://open.spotify.com/track/298Gzc1eaI6hRDLFmOqkB7"
@@ -1387,7 +1409,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 207949,
       "name": "God Be My Witness",
       "url": "https://open.spotify.com/track/2mAAkW6RI7iQrT3OJRV4uP"
@@ -1439,6 +1461,58 @@
       "duration_ms": 165239,
       "name": "GOOD LIFE (Feat. CAMO)",
       "url": "https://open.spotify.com/track/2oJ9QoIEUOmJ3SiYoQmAle"
+    },
+    {
+      "album": {
+        "name": "Parents (Feat. Kid Milli)",
+        "url": "https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj"
+      },
+      "artists": [
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        },
+        {
+          "name": "Meego",
+          "url": "https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy"
+        },
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231626,
+      "name": "Gossip (Feat. Kid Milli, Han Yo Han)",
+      "url": "https://open.spotify.com/track/7cv7ZK2JgGi135mxeOJATM"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/63vnTWO0PfP3FGy7YND2cB"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135346,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5pgkM00lDqxQBTYgcsprbX"
     },
     {
       "album": {
@@ -1531,7 +1605,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 195379,
       "name": "hanadoo",
       "url": "https://open.spotify.com/track/0qznBR5BgQVc7Eg0k6Aedy"
@@ -1593,7 +1667,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 184400,
       "name": "home dance",
       "url": "https://open.spotify.com/track/4Qa5wyZdRc6rFy4nrg89i3"
@@ -1684,6 +1758,28 @@
     },
     {
       "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Jung Yup",
+          "url": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175160,
+      "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
+    },
+    {
+      "album": {
         "name": "I Am Yours",
         "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
       },
@@ -1721,6 +1817,28 @@
       "duration_ms": 197500,
       "name": "I Don't Love You (Feat. Coogie)",
       "url": "https://open.spotify.com/track/3U7bYD9n4QP0P3LITLgLkc"
+    },
+    {
+      "album": {
+        "name": "Drawing",
+        "url": "https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF"
+      },
+      "artists": [
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166295,
+      "name": "I had a dream",
+      "url": "https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua"
     },
     {
       "album": {
@@ -1775,7 +1893,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 205003,
       "name": "illa illa",
       "url": "https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb"
@@ -2045,7 +2163,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 221909,
       "name": "Kitty (Feat. MIYEON ((G)I-DLE)",
       "url": "https://open.spotify.com/track/4Jpsou7XWCNG2cgeFZBSvL"
@@ -2245,7 +2363,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 220489,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/3XfMV15NHPjohX0KwkjKID"
@@ -2303,7 +2421,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 155986,
       "name": "Loop",
       "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
@@ -2325,7 +2443,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 200000,
       "name": "LOSE CONTROL (Feat. GRAY)",
       "url": "https://open.spotify.com/track/5iYBMcdOn06gRCcVLTksRc"
@@ -2347,7 +2465,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 160786,
       "name": "LOST",
       "url": "https://open.spotify.com/track/5a0SuGMEWcQiTHeh8Q8Too"
@@ -2835,7 +2953,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 162000,
       "name": "Oh G Ma (Feat. nugu ?)",
       "url": "https://open.spotify.com/track/7HR77XLHr5OoPrWKUwrSqp"
@@ -2901,7 +3019,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 155075,
       "name": "Open sesame (feat. sokodomo)",
       "url": "https://open.spotify.com/track/4jobe1ZAB1fAaTHDkPXQA8"
@@ -2963,7 +3081,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 159545,
       "name": "Party (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/7ztQVBCyaQiZktf8tTZpPl"
@@ -3011,10 +3129,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 172419,
       "name": "Party For The Night (Feat. Loco & LeeHi)",
       "url": "https://open.spotify.com/track/2UsZC5QgWeHj8jlhEoXplf"
+    },
+    {
+      "album": {
+        "name": "Party Forever",
+        "url": "https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202083,
+      "name": "Party Forever",
+      "url": "https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H"
     },
     {
       "album": {
@@ -3106,6 +3242,24 @@
     },
     {
       "album": {
+        "name": "Pollutants / The Pull",
+        "url": "https://open.spotify.com/album/7nJB5v6QFIjW09vpnhfrT1"
+      },
+      "artists": [
+        {
+          "name": "Hwaji",
+          "url": "https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165214,
+      "name": "Pollutants",
+      "url": "https://open.spotify.com/track/1Wd9jE8jVCrx9KakClE0Z2"
+    },
+    {
+      "album": {
         "name": "Porsche",
         "url": "https://open.spotify.com/album/1js77EUM2hyIE0lcPhWgxB"
       },
@@ -3161,6 +3315,28 @@
       "duration_ms": 187201,
       "name": "PYE LIFE",
       "url": "https://open.spotify.com/track/575UVLiKt2Cpv4Nx5sLs9Q"
+    },
+    {
+      "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195693,
+      "name": "Remember Me (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/5DutNA6AjO6aX5m1P7INIk"
     },
     {
       "album": {
@@ -3318,6 +3494,28 @@
     },
     {
       "album": {
+        "name": "Save you",
+        "url": "https://open.spotify.com/album/6op3qvd2MQEcfRMIASwN7C"
+      },
+      "artists": [
+        {
+          "name": "J.Yung",
+          "url": "https://open.spotify.com/artist/5vYYWbIoATxAIrCoLoVIkC"
+        },
+        {
+          "name": "Minshik",
+          "url": "https://open.spotify.com/artist/2x6LaIxVmV4aNLNd849SG9"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162023,
+      "name": "Save you (Feat. Minshik)",
+      "url": "https://open.spotify.com/track/4gi7BFm1iLxSgEWKKETCik"
+    },
+    {
+      "album": {
         "name": "go back to XXXX",
         "url": "https://open.spotify.com/album/0v63SpXUJL8p8bIV9xGOU6"
       },
@@ -3329,7 +3527,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 185311,
       "name": "Shall we dance",
       "url": "https://open.spotify.com/track/59Fo1bjiro6deRs96L7s40"
@@ -3351,7 +3549,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 168640,
       "name": "Shawty (feat. Coogie)",
       "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
@@ -3617,7 +3815,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 293754,
       "name": "Thread(1.11)",
       "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
@@ -3761,6 +3959,32 @@
       "duration_ms": 260131,
       "name": "True Romance",
       "url": "https://open.spotify.com/track/5NhxZZMjdxMGsHyQWctT0i"
+    },
+    {
+      "album": {
+        "name": "twirl",
+        "url": "https://open.spotify.com/album/0IG1lnpBr7rWreXxqLaJe5"
+      },
+      "artists": [
+        {
+          "name": "JINBO",
+          "url": "https://open.spotify.com/artist/4SJSnnKMzPXeQ8Mtj3TViL"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "twirl (Feat. Swings, Kid Milli)",
+      "url": "https://open.spotify.com/track/7bNpSxl26shA9xriEWvZan"
     },
     {
       "album": {
@@ -3989,7 +4213,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 186533,
       "name": "WHY Y (Feat. Tiger JK)",
       "url": "https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi"

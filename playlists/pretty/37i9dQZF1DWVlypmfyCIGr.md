@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: レトロリロン
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,618 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,632 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 39 | [パリロンドン](https://open.spotify.com/track/5lOrHbQsNUi8W0hvZ0mLqA) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [パリロンドン](https://open.spotify.com/album/1hluUlEChQcbgXBTkzXHMo) | 3:48 |
 | 40 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 |
 | 41 | [ツマラナイ](https://open.spotify.com/track/7y9L9Gts5rFdWWCVUNVpLC) | [WONDER ∞ WANDER](https://open.spotify.com/artist/3VzO43yJtUlTxgpIlNYaFL) | [ツマラナイ](https://open.spotify.com/album/4d57t2lzgdIeJJBL7uFFrF) | 3:12 |
-| 42 | [bless](https://open.spotify.com/track/4tuKszwFS3hIpyIgT9VGGZ) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [bless](https://open.spotify.com/album/6eLPYk7eQgfJdOVePEgVIT) | 4:40 |
+| 42 | [bless](https://open.spotify.com/track/4tuKszwFS3hIpyIgT9VGGZ) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Yuta Hashimoto](https://open.spotify.com/artist/2agdXEyDwXcPYUklzmGV0l) | [bless](https://open.spotify.com/album/6eLPYk7eQgfJdOVePEgVIT) | 4:40 |
 | 43 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
 | 44 | [OOPARTS](https://open.spotify.com/track/3HcJcQMiELuw62Y8bigYC8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [OOPARTS](https://open.spotify.com/album/0JVNFe0D5yp5QP28yoCCxb) | 5:06 |
 | 45 | [SPACESHIP](https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\) / SPACESHIP](https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q) | 4:02 |

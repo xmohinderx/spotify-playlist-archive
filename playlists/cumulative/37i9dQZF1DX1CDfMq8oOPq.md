@@ -4,13 +4,14 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Juju Rude
 
-57 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
+58 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 | 2022-03-11 |  |
 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 | 2022-03-11 |  |
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-11 |  |
+| [Batom](https://open.spotify.com/track/6xCLJ9J2tD3MfC7YW6gOPF) | [THANE C](https://open.spotify.com/artist/3vgitNqM0i1ZK1ivLtcGKM), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Batom](https://open.spotify.com/album/5W7BkRHgHbo263lL1HFoJK) | 3:25 | 2022-04-22 |  |
 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 | 2022-04-15 |  |
 | [Codinome](https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Codinome](https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM) | 3:29 | 2022-03-11 |  |
 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 | 2022-03-11 |  |
@@ -33,7 +34,7 @@
 | [Lambe Lá](https://open.spotify.com/track/2tgTqKVSIgg1Jhgv8d6iYg) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Lambe Lá](https://open.spotify.com/album/4BcKnUFja6cU4GsCTyW9GQ) | 2:43 | 2022-03-11 |  |
 | [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 | 2022-03-11 |  |
 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 | 2022-04-15 |  |
-| [Linda, Chique, Sexy & Braba](https://open.spotify.com/track/1JwSUCeNoLgqb5rTUIbA3W) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Linda, Chique, Sexy & Braba](https://open.spotify.com/album/3MFToXYZ3DfGpJqUEp5maK) | 2:44 | 2022-03-11 |  |
+| [Linda, Chique, Sexy & Braba](https://open.spotify.com/track/1JwSUCeNoLgqb5rTUIbA3W) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Linda, Chique, Sexy & Braba](https://open.spotify.com/album/3MFToXYZ3DfGpJqUEp5maK) | 2:44 | 2022-03-11 | 2022-04-23 |
 | [Louca e Sagaz \(feat\. WC no Beat\)](https://open.spotify.com/track/5EpPmsMyOYId0GzjXdr5bX) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Louca e Sagaz \(feat\. WC no Beat\)](https://open.spotify.com/album/0iCw4A5XxTUq6T3wc8tHlj) | 3:13 | 2022-03-11 |  |
 | [MACETAH! \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/track/6uFXQbkmMG0rI7D03tktCV) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [MACETAH! \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/album/3VuOEKHPWAlU5MJvimXx0A) | 3:40 | 2022-03-11 |  |
 | [Malandrona](https://open.spotify.com/track/5CNE1OG4dUufkO8NrKlfxF) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Malandrona](https://open.spotify.com/album/2zMrmtd5uzAjLO83Fr2pVc) | 3:24 | 2022-03-11 |  |

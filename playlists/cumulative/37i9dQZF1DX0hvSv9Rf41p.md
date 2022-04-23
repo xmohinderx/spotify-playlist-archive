@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Kill The Noise.
 
-236 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+237 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2021-12-17 | 2022-03-12 |
 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 | 2022-01-07 |  |
 | [Ghost](https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Ghost](https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM) | 2:52 | 2022-01-21 |  |
-| [Go \- goddard\. Remix](https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Go \(goddard\. Remix\)](https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv) | 3:12 | 2022-04-15 |  |
+| [Go \- goddard\. Remix](https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Go \(goddard\. Remix\)](https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv) | 3:12 | 2022-04-15 | 2022-04-23 |
 | [Going Insane](https://open.spotify.com/track/3kqfov5qf3VfQMsnq35su1) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Going Insane](https://open.spotify.com/album/57ucHWJmOjrC7PgBzHMiUP) | 3:46 | 2021-12-17 | 2022-02-26 |
 | [golden youth](https://open.spotify.com/track/0EEBpebb9zvFIaPc3g6mmR) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [golden youth](https://open.spotify.com/album/6c3sJYQyG60sv54IhQZk0o) | 3:32 | 2021-12-17 | 2022-02-19 |
 | [Goliath](https://open.spotify.com/track/5hfk43a7ccsr1ItYUjIsHU) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Goliath](https://open.spotify.com/album/0NeTUl4u7yfjQPvgjlwutG) | 3:44 | 2022-04-01 |  |
@@ -211,6 +211,7 @@
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-12-17 | 2022-02-19 |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-12-17 | 2022-03-12 |
 | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O) | 3:52 | 2022-03-11 |  |
+| [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2022-04-22 |  |
 | [This Could Be Us](https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz) | [This Could Be Us](https://open.spotify.com/album/3LDO3EsSED9KNkt8ycUAHH) | 5:08 | 2021-12-17 | 2022-03-12 |
 | [Tides](https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Tides](https://open.spotify.com/album/6F39Vxaf4xtK02FL8DQ2Vj) | 4:27 | 2022-02-04 |  |
 | [Tie\-Dye Sky](https://open.spotify.com/track/2YZSTgWXEyDPUeKop4eiWo) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Tie\-Dye Sky](https://open.spotify.com/album/5veIMv6CqzYckH7bILgDJ6) | 3:08 | 2021-12-17 | 2022-02-19 |

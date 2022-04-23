@@ -1,13 +1,121 @@
 {
-  "description": "DMV music breaking waves. Cover: Yung Manny",
-  "num_followers": 10004,
+  "description": "DMV music breaking waves. Cover: Pusha T",
+  "num_followers": 10010,
   "original_name": "Ripple Effect: DMV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDAwOTg4OCwwMDAwMDAzNjAwMDAwMTgwMmM0MGQ1ZDQwMDAwMDE4MDA2Y2QzNzNl",
+  "snapshot_id": "MTY1MDYwNDQyMiwwMDAwMDAzNzAwMDAwMTgwNGZiMGI3MzgwMDAwMDE4MDRmYTkwMThj",
   "tracks": [
+    {
+      "added_at": "2022-04-22 05:13:42",
+      "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 152612,
+      "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+      "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
+    },
+    {
+      "added_at": "2022-04-22 05:13:42",
+      "album": {
+        "name": "One Two (feat. YungManny)",
+        "url": "https://open.spotify.com/album/5wRaQ7AhuwZhIwXOm1znT9"
+      },
+      "artists": [
+        {
+          "name": "FNF Chop",
+          "url": "https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3"
+        },
+        {
+          "name": "YungManny",
+          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
+        }
+      ],
+      "duration_ms": 225122,
+      "name": "One Two (feat. YungManny)",
+      "url": "https://open.spotify.com/track/0YLKjMNe2YtC5pzCyRoypZ"
+    },
+    {
+      "added_at": "2022-04-22 05:13:42",
+      "album": {
+        "name": "Wop",
+        "url": "https://open.spotify.com/album/0niYaRUVW1Kp1Dq2qcThbo"
+      },
+      "artists": [
+        {
+          "name": "No Savage",
+          "url": "https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Wop",
+      "url": "https://open.spotify.com/track/1RDyaS05lKnreDIPY9ByVN"
+    },
+    {
+      "added_at": "2022-04-22 05:13:42",
+      "album": {
+        "name": "90 Day Run",
+        "url": "https://open.spotify.com/album/3jdfQtijIFP1gcFxxzNSga"
+      },
+      "artists": [
+        {
+          "name": "Yg Teck",
+          "url": "https://open.spotify.com/artist/26hDmlgTbg7wseM7YmoyO6"
+        }
+      ],
+      "duration_ms": 172512,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/6IdMLrLa7boTApnJ4JMM3h"
+    },
+    {
+      "added_at": "2022-04-22 05:13:42",
+      "album": {
+        "name": "Marvin",
+        "url": "https://open.spotify.com/album/6N7BbixouvGZuD4VmjpIY7"
+      },
+      "artists": [
+        {
+          "name": "Malik Moses",
+          "url": "https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB"
+        }
+      ],
+      "duration_ms": 164182,
+      "name": "Marvin",
+      "url": "https://open.spotify.com/track/4B9pkP1vAVHU35xHFekMTo"
+    },
+    {
+      "added_at": "2022-04-22 05:13:42",
+      "album": {
+        "name": "Pressure. (Live)",
+        "url": "https://open.spotify.com/album/0S4WiHEFxuVa011cE4PjT7"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "duration_ms": 276579,
+      "name": "Pressure. - Live",
+      "url": "https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD"
+    },
     {
       "added_at": "2022-04-08 04:00:00",
       "album": {
@@ -137,22 +245,6 @@
       "url": "https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz"
     },
     {
-      "added_at": "2022-04-15 08:04:48",
-      "album": {
-        "name": "RESIDE",
-        "url": "https://open.spotify.com/album/47l42xLfI3eMlscIKSloxg"
-      },
-      "artists": [
-        {
-          "name": "Iphe",
-          "url": "https://open.spotify.com/artist/2J058qhuIv7tcZtzpWT7Hx"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "RESIDE",
-      "url": "https://open.spotify.com/track/06cs7lFYMcqowleyJPquAC"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "Love Song",
@@ -167,6 +259,22 @@
       "duration_ms": 164682,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3bT4hHXBasKx8ZUUZFwknt"
+    },
+    {
+      "added_at": "2022-04-15 08:04:48",
+      "album": {
+        "name": "RESIDE",
+        "url": "https://open.spotify.com/album/47l42xLfI3eMlscIKSloxg"
+      },
+      "artists": [
+        {
+          "name": "Iphe",
+          "url": "https://open.spotify.com/artist/2J058qhuIv7tcZtzpWT7Hx"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "RESIDE",
+      "url": "https://open.spotify.com/track/06cs7lFYMcqowleyJPquAC"
     },
     {
       "added_at": "2022-04-15 08:04:48",
@@ -253,6 +361,22 @@
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
     },
     {
+      "added_at": "2021-09-10 15:31:27",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 193279,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
+    },
+    {
       "added_at": "2022-04-15 08:04:48",
       "album": {
         "name": "Sailors' Superstition (Bmore Club Remix)",
@@ -271,6 +395,22 @@
       "duration_ms": 168004,
       "name": "Sailors' Superstition - Bmore Club Remix",
       "url": "https://open.spotify.com/track/2HkFQRcNbymYFNrhEIOJW8"
+    },
+    {
+      "added_at": "2022-04-22 05:13:42",
+      "album": {
+        "name": "Whose Side Are You On?",
+        "url": "https://open.spotify.com/album/4YxtRfqcQYKZWdVluf7Pmn"
+      },
+      "artists": [
+        {
+          "name": "Naimah",
+          "url": "https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf"
+        }
+      ],
+      "duration_ms": 196209,
+      "name": "Whose Side Are You On?",
+      "url": "https://open.spotify.com/track/1YClEnwTRU2mPWZy4cR3bV"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -405,22 +545,6 @@
       "url": "https://open.spotify.com/track/6SrwuTWyNdze4UzJFXkZtA"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Sorry 4 the OSSH",
-        "url": "https://open.spotify.com/album/68V6uSmb9geaYvjuSzdqQp"
-      },
-      "artists": [
-        {
-          "name": "Black Fortune",
-          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
-        }
-      ],
-      "duration_ms": 224391,
-      "name": "Yeehaw",
-      "url": "https://open.spotify.com/track/230oiozJW2kSwu4eFQxq4D"
-    },
-    {
       "added_at": "2022-02-08 05:51:17",
       "album": {
         "name": "Diet Coke",
@@ -435,22 +559,6 @@
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/25vP1c6ZkWsR4ejonbGFDF"
-    },
-    {
-      "added_at": "2021-09-10 15:31:27",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 193279,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -531,22 +639,6 @@
       "duration_ms": 115584,
       "name": "Back Inna Mix",
       "url": "https://open.spotify.com/track/7itUbY9hD4reXuYWUapzyD"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "I'M TRYING, TO BE",
-        "url": "https://open.spotify.com/album/40PMP2pdNfkq5FlomyOFhx"
-      },
-      "artists": [
-        {
-          "name": "YTK",
-          "url": "https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b"
-        }
-      ],
-      "duration_ms": 159058,
-      "name": "ZAZA (REAL RUNTZ)",
-      "url": "https://open.spotify.com/track/2sA28obzPDiw12ifbr0etE"
     },
     {
       "added_at": "2021-08-11 00:14:32",
@@ -793,30 +885,6 @@
       "url": "https://open.spotify.com/track/3GIm4XaOUihH5x09drlcKd"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Backend",
-        "url": "https://open.spotify.com/album/2W6U4eIfUiPlfZCO7ApcuA"
-      },
-      "artists": [
-        {
-          "name": "Bighead",
-          "url": "https://open.spotify.com/artist/47rYP3OnFecFuino5DXte1"
-        },
-        {
-          "name": "KILLKODY",
-          "url": "https://open.spotify.com/artist/3T6rAcRqVrrhMdk1LGIfpq"
-        },
-        {
-          "name": "Lil Tracy",
-          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
-        }
-      ],
-      "duration_ms": 132734,
-      "name": "Backend",
-      "url": "https://open.spotify.com/track/2qiD58x7lUlDHxiJY6Nmyx"
-    },
-    {
       "added_at": "2022-03-18 06:49:35",
       "album": {
         "name": "Better Answer",
@@ -1005,22 +1073,6 @@
       "url": "https://open.spotify.com/track/2H5Slikey6qZAeXW5DHrIR"
     },
     {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "MURDAMAN!",
-        "url": "https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u"
-      },
-      "artists": [
-        {
-          "name": "YungManny",
-          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
-        }
-      ],
-      "duration_ms": 156708,
-      "name": "MURDAMAN!",
-      "url": "https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Tits & Grits",
@@ -1035,22 +1087,6 @@
       "duration_ms": 197304,
       "name": "Tits & Grits",
       "url": "https://open.spotify.com/track/6oJ3ps7hZPibXhDJMHs7dK"
-    },
-    {
-      "added_at": "2021-12-17 05:19:20",
-      "album": {
-        "name": "Life of a Savage 2",
-        "url": "https://open.spotify.com/album/6r3kyA8HungIaSRs7CVtqW"
-      },
-      "artists": [
-        {
-          "name": "No Savage",
-          "url": "https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "Reaper",
-      "url": "https://open.spotify.com/track/7B69MrgWj5tPKeS6oERRoW"
     },
     {
       "added_at": "2021-10-29 04:57:16",
@@ -1077,22 +1113,6 @@
       "url": "https://open.spotify.com/track/0wi5NYT0upjIHOG4FWSqdH"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Easier Said",
-        "url": "https://open.spotify.com/album/4hKZOqBRw4EhTIQRvbwCd8"
-      },
-      "artists": [
-        {
-          "name": "Aint Afraid",
-          "url": "https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5"
-        }
-      ],
-      "duration_ms": 220408,
-      "name": "Easier Said",
-      "url": "https://open.spotify.com/track/4xtovOO8zN3TYmC8kcLcN1"
-    },
-    {
       "added_at": "2022-02-18 21:52:06",
       "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e [Deluxe Version]",
@@ -1113,30 +1133,6 @@
       "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Mob Psycho",
-        "url": "https://open.spotify.com/album/4T0cgiBQaNraaZXntSeb8D"
-      },
-      "artists": [
-        {
-          "name": "Ryan Celsius Sounds",
-          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
-        },
-        {
-          "name": "Shaolinn",
-          "url": "https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q"
-        },
-        {
-          "name": "FULMETALPARKA$",
-          "url": "https://open.spotify.com/artist/2bmYau9D9oa1VDIiW5pBQk"
-        }
-      ],
-      "duration_ms": 175530,
-      "name": "Mob Psycho",
-      "url": "https://open.spotify.com/track/1ESNeSg3oOZbDDSuQfzFUF"
-    },
-    {
       "added_at": "2022-02-18 21:52:06",
       "album": {
         "name": "Mirage",
@@ -1151,42 +1147,6 @@
       "duration_ms": 231616,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/5YDvCBMjwGYbWLyjsa2GoM"
-    },
-    {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "Yamz",
-        "url": "https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        }
-      ],
-      "duration_ms": 245071,
-      "name": "Yamz",
-      "url": "https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF"
-    },
-    {
-      "added_at": "2022-02-04 04:59:07",
-      "album": {
-        "name": "Before It Hurts",
-        "url": "https://open.spotify.com/album/5RXvlBiL2CgJR6eRdiGdvg"
-      },
-      "artists": [
-        {
-          "name": "Naimah",
-          "url": "https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Before It Hurts",
-      "url": "https://open.spotify.com/track/7iP6bz6tvVKzy1rZOvJ4Pz"
     },
     {
       "added_at": "2022-02-18 21:52:06",

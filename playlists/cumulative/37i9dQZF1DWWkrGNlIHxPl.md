@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Anees.
 
-129 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+130 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Dw About Me](https://open.spotify.com/track/0YegRkJ8GuJHMsyY0KOpKw) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [Dw About Me](https://open.spotify.com/album/5dg7kVLoiLciidyIkrT2yD) | 2:57 | 2021-12-16 |  |
 | [Effects Of Thoughts](https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Effects Of Thoughts](https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa) | 2:51 | 2021-12-16 | 2022-03-30 |
 | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/track/21A4JaxvfhCINfSV7opcUv) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO), [Amal Maghrabi](https://open.spotify.com/artist/5QzA0opnA9ZIGWF5ZFFnNI) | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/album/23h8qFcArj3keLTY0jmyJl) | 3:28 | 2021-12-16 |  |
+| [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 | 2022-04-22 |  |
 | [Exist With You](https://open.spotify.com/track/2Ql5hqShctiwksSLN3XRiM) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Exist With You](https://open.spotify.com/album/3RNA3HxO5AskgF6QxPqqiA) | 2:35 | 2021-12-16 |  |
 | [Family \(feat\. Imen Siar, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5lRh2i8mOWZs1yg25QII1y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Imen Siar, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/42pqXWrfRgdJ4EILEpmR9r) | 2:38 | 2021-12-16 | 2022-01-25 |
 | [Fayadan](https://open.spotify.com/track/30Avn44lyZjowxu2pBggcJ) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Fayadan](https://open.spotify.com/album/3ZQ8wMsn57IDRjcfd6DRDO) | 2:34 | 2021-12-16 |  |
@@ -68,7 +69,7 @@
 | [Hero](https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Hero](https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM) | 2:54 | 2021-12-16 |  |
 | [High No More](https://open.spotify.com/track/71p2ub5QJhJTzfvXbXaUXd) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [High No More](https://open.spotify.com/album/2NEmopTAPp4ZmqRRJ6wTdB) | 3:18 | 2021-12-16 |  |
 | [High Tech Low Life](https://open.spotify.com/track/2nu8abrs7QJ1n40VTmkWQx) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Rey Khan](https://open.spotify.com/artist/6hWkOdX0jU4HLoPeYRGBRS) | [High Tech Low Life](https://open.spotify.com/album/4adNHlP6IbOahAKPgcTGtq) | 2:38 | 2021-12-16 |  |
-| [Hold On !](https://open.spotify.com/track/6CxtpFhcKwdsIgX2MwtaiP) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:36 | 2021-12-16 |  |
+| [Hold On !](https://open.spotify.com/track/6CxtpFhcKwdsIgX2MwtaiP) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:36 | 2021-12-16 | 2022-04-23 |
 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 | 2022-03-07 |  |
 | [Is It On](https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Is It On](https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW) | 3:44 | 2021-12-16 |  |
 | [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 | 2021-12-16 |  |

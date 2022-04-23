@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 144375,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7CBMoWo53HYA5yhEpUiF9W"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 200910,
       "name": "CALLAO",
       "url": "https://open.spotify.com/track/61lhyMgfikV7h2NC4bcTCS"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 182586,
       "name": "lo peor",
       "url": "https://open.spotify.com/track/0w6rYYEf5FrT6plPg6UhxW"
@@ -1040,6 +1040,28 @@
     },
     {
       "album": {
+        "name": "me elegiste a m\u00ed <3",
+        "url": "https://open.spotify.com/album/5BFyJckUm8cZwto6BozwFo"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "me elegiste a m\u00ed <3",
+      "url": "https://open.spotify.com/track/6AsXVvuBCO21Q5bVVGEmsD"
+    },
+    {
+      "album": {
         "name": "Me Jodiste",
         "url": "https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ"
       },
@@ -1055,6 +1077,24 @@
       "duration_ms": 166113,
       "name": "Me Jodiste",
       "url": "https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD"
+    },
+    {
+      "album": {
+        "name": "me piensas ;)",
+        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172421,
+      "name": "me piensas ;)",
+      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
     },
     {
       "album": {
@@ -1389,7 +1429,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 171305,
       "name": "Olvidarme",
       "url": "https://open.spotify.com/track/52XioIzucenybSvvimJ1hk"
@@ -2136,6 +2176,24 @@
     },
     {
       "album": {
+        "name": "Fosis Met Amor",
+        "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192150,
+      "name": "un sue\u00f1o raro",
+      "url": "https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR"
+    },
+    {
+      "album": {
         "name": "Una Chica Como T\u00fa",
         "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
       },
@@ -2325,6 +2383,24 @@
       "duration_ms": 166586,
       "name": "\u00bfQu\u00e9 M\u00e1s Quieres De M\u00ed?",
       "url": "https://open.spotify.com/track/4PWIY4NKlOU618loEsD41O"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
     },
     {
       "album": {

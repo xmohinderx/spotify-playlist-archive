@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 ### [Peaceful Jazz Piano](https://open.spotify.com/playlist/37i9dQZF1DWY3X53lmPYk9)
 
-> Soft interpretations of jazz classics.
+> Soft piano interpretations of jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,872 likes - 102 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,899 likes - 102 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 101 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 | 102 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 |
 
-Snapshot ID: `MTY0OTc2OTYwOCwwMDAwMDA3NTAwMDAwMTgwMWRlZTc0YzIwMDAwMDE4MDFkZWMyNWZj`
+Snapshot ID: `MTY1MDYzMjk4OCwwMDAwMDA3NjAwMDAwMTgwNTE2NDk2MDIwMDAwMDE4MDFkZWMyNWZj`

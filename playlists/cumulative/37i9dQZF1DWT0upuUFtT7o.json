@@ -916,6 +916,24 @@
     },
     {
       "album": {
+        "name": "Brave & Afraid",
+        "url": "https://open.spotify.com/album/6VvjYRRkfx5rqSqnrBI5K5"
+      },
+      "artists": [
+        {
+          "name": "Marques Martin",
+          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220147,
+      "name": "Belles",
+      "url": "https://open.spotify.com/track/6TGKtEN5WQ4Fz5C5wL88ff"
+    },
+    {
+      "album": {
         "name": "Future Street",
         "url": "https://open.spotify.com/album/6HwDO9qabmM2QgkXrwLeXW"
       },

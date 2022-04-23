@@ -1,13 +1,57 @@
 {
-  "description": "The newest, freshest R&B tunes.  Cover: Marzz",
-  "num_followers": 871666,
+  "description": "The newest, freshest R&B tunes.  Cover: Blxst",
+  "num_followers": 871902,
   "original_name": "New Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5NTIwMCwwMDAwMDU1OTAwMDAwMTgwMmI2MGI2YjkwMDAwMDE4MDA2NzE5ZDJk",
+  "snapshot_id": "MTY1MDYwMjMxNiwwMDAwMDU1YTAwMDAwMTgwNGY5MDkzODUwMDAwMDE4MDRmOGMwNzhj",
   "tracks": [
+    {
+      "added_at": "2022-04-22 04:38:36",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 170702,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
+    },
+    {
+      "added_at": "2022-04-22 04:38:36",
+      "album": {
+        "name": "Truly Yours (Remix) [feat. Phabo, The Game & DOM KENNEDY]",
+        "url": "https://open.spotify.com/album/3AXVfL2BccgTmgwpORfoNs"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Phabo",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Truly Yours (feat. Phabo, The Game & DOM KENNEDY) - Remix",
+      "url": "https://open.spotify.com/track/3P12TuXblmoguQGSukKvQm"
+    },
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
@@ -43,6 +87,26 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2022-04-22 04:38:36",
+      "album": {
+        "name": "Please Do Not Lean",
+        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -113,6 +177,22 @@
       "url": "https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q"
     },
     {
+      "added_at": "2022-04-22 04:38:36",
+      "album": {
+        "name": "Vices",
+        "url": "https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Vices",
+      "url": "https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ"
+    },
+    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "Bonjour (feat. Summer Walker)",
@@ -131,6 +211,22 @@
       "duration_ms": 225856,
       "name": "Bonjour (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/5uuZhQMRejxWHF0CCkDLsi"
+    },
+    {
+      "added_at": "2022-04-22 04:38:36",
+      "album": {
+        "name": "M.I.A.",
+        "url": "https://open.spotify.com/album/5EMVxC5yzZD8o3JnGWaDNx"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 207961,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/2rFQ1Bgm8w6nqKVANQVhMz"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -473,30 +569,6 @@
       "url": "https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO"
     },
     {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "No Love (with SZA & Cardi B) [Extended Version]",
-        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 276214,
-      "name": "No Love (with SZA & Cardi B) - Extended Version",
-      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "Marigold",
@@ -563,30 +635,6 @@
       "duration_ms": 234966,
       "name": "WE (Warm Embrace)",
       "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Ego (Extended Mix)",
-        "url": "https://open.spotify.com/album/456U2WVAieUGqyrptZM4Yf"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "vbrtns",
-          "url": "https://open.spotify.com/artist/6i0T2zzBRe2OXtPLR8BOvb"
-        }
-      ],
-      "duration_ms": 393846,
-      "name": "Ego - Extended Mix",
-      "url": "https://open.spotify.com/track/5GhhWK3Ge4JBCJa7S4NTyV"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -723,26 +771,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Forbidden Fruit",
-        "url": "https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD"
-      },
-      "artists": [
-        {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "Forbidden Fruit",
-      "url": "https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Before I Let Her Go",
         "url": "https://open.spotify.com/album/2WkkSctajm6zU1Op4KuFCY"
       },
@@ -843,26 +871,6 @@
     {
       "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "MF (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/5EXnj8f715BdwncOrZQ2H1"
-      },
-      "artists": [
-        {
-          "name": "Bailey Bryan",
-          "url": "https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 162848,
-      "name": "MF (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/7v27vTy3PP70lBHgfvPnKQ"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
         "name": "Spring Cleaning",
         "url": "https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ"
       },
@@ -891,26 +899,6 @@
       "duration_ms": 134626,
       "name": "Letter To Ur Ex",
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Pieces ft Duckwrth",
-        "url": "https://open.spotify.com/album/7g7HsmUkK7pm94sqy9INrh"
-      },
-      "artists": [
-        {
-          "name": "Arlissa",
-          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "Pieces ft Duckwrth",
-      "url": "https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s"
     }
   ],
   "unique_name": "New Jams",

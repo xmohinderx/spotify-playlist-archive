@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-383 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
+388 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [La la la la long](https://open.spotify.com/track/4X54gmTGFsjKESVJqthgHk) | [Rod Parsons](https://open.spotify.com/artist/0t294nMoDXNQcR1vvnMgdh) | [La la la la long](https://open.spotify.com/album/0gwGEOaICIvX0rbCtNDGq5) | 1:06 | 2021-11-08 |  |
 | [Lady Nightcap](https://open.spotify.com/track/1ZxUn7d7IIsljIuZvpY2pH) | [Brennan Fox](https://open.spotify.com/artist/6nOTCcgGl9VMnfXqzVAh3K) | [Lady Nightcap](https://open.spotify.com/album/7rsLEzrAlsc770FAGiPRT8) | 1:38 | 2021-11-08 |  |
 | [Ladybird](https://open.spotify.com/track/29m9bqkYtMvxDEO6QQYLJ3) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Ladybird](https://open.spotify.com/album/4LTG85GVjf5C17cdMaWGsh) | 1:35 | 2022-02-10 |  |
+| [Let's Call It A Night](https://open.spotify.com/track/3Hfc2BB0RAZ13TW1TFliE6) | [Lilly\-Ann Ottley](https://open.spotify.com/artist/6UVVSofDYobp2qJM6p35lL) | [Let's Call It A Night](https://open.spotify.com/album/0hRGRBZNsqFonXKYLxEEgJ) | 1:14 | 2022-04-22 |  |
 | [Let's Count the Stars](https://open.spotify.com/track/7s9CZ7mFhH64seDrWTeUp3) | [Sophie Sara](https://open.spotify.com/artist/3CLgb4DSxdCYMbi2SKb17N) | [Let's Count the Stars](https://open.spotify.com/album/76YFaEATqkoHyOKuSCteC2) | 2:10 | 2021-11-08 |  |
 | [Let's Go On A Treasure Hunt](https://open.spotify.com/track/6sWBGUMOeH7kJpC7Zo6h7p) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [Let's Go On A Treasure Hunt](https://open.spotify.com/album/022hQEvWHvxHXd5JWuWLpu) | 1:03 | 2021-11-08 |  |
 | [Let's Play Football](https://open.spotify.com/track/2jV3cUmwBoPnwMicISuQGn) | [Madlyn Chadwick](https://open.spotify.com/artist/0iANAXIKzdC3b8UGpp9Pub) | [Let's Play Football](https://open.spotify.com/album/3CKcm5xrL4mH0DfRG3BLS9) | 1:08 | 2021-11-08 |  |
@@ -289,6 +290,7 @@
 | [Singing for You](https://open.spotify.com/track/3rQgsHrtcKW3rf9Cnx9dBn) | [Kayden Roydon](https://open.spotify.com/artist/33lopRkxhpLfc268jbtTxS) | [Singing for You](https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG) | 1:43 | 2021-11-08 |  |
 | [Singing for You](https://open.spotify.com/track/0B3k2ftvKnPEwK6F0Wc0Pa) | [Willy Cotterill](https://open.spotify.com/artist/3nGSuqJpKUO7hQA0DFXJ5i) | [Singing for You](https://open.spotify.com/album/7s4mt8kbI8rNKnPasfOvca) | 1:43 | 2021-11-08 |  |
 | [Sisters](https://open.spotify.com/track/327ydynonFKIBVoW9e5wXO) | [Cosy Pillows](https://open.spotify.com/artist/08x9OqSYuvqdN6K60DHIj7) | [Sisters](https://open.spotify.com/album/0nvdJRcQBlwoMwiOmLXEqU) | 1:04 | 2021-11-08 |  |
+| [Skogen Sover](https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci) | [Sofia Andersson](https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM) | [Skogen Sover](https://open.spotify.com/album/1Ng8bNMcVMR77m0yWd91kI) | 2:41 | 2022-04-22 |  |
 | [Skymningsvisan](https://open.spotify.com/track/4guXLGmN7Xp0UnnGiXgfkg) | [Rigmor Ljungman](https://open.spotify.com/artist/7sIlNeR6xW9xfJ65yOKH8Z) | [Skymningsvisan](https://open.spotify.com/album/1s8qEltYoiq8U80SzLuEoi) | 1:47 | 2021-11-08 |  |
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2021-11-08 |  |
 | [Sleep like a log](https://open.spotify.com/track/5JlKQR0lZzcY5QoehmKzes) | [Cameron Vigano](https://open.spotify.com/artist/4SIF6IBEyjMq1JBkUJjAYq) | [Sleep like a log](https://open.spotify.com/album/2Qsvm1TWogb06NgR1vyYuE) | 1:40 | 2021-11-08 |  |
@@ -304,7 +306,10 @@
 | [Sleepwalking](https://open.spotify.com/track/1KzTlr4xfHOdZkmiW6beCs) | [Filipa Manson](https://open.spotify.com/artist/5o43MqiGYUuAkfRKo2OBwv) | [Sleepwalking](https://open.spotify.com/album/6WOxbkgZ0Lt0oODgG1nCqI) | 1:16 | 2021-11-08 |  |
 | [Sleepy cows](https://open.spotify.com/track/1Ayg2LFVOzrsG1BskhRfty) | [Carlisle Eliott](https://open.spotify.com/artist/4LJ3GJslG2uuKOSgg922ab) | [Sleepy cows](https://open.spotify.com/album/4gsP9iIu8sHERU5GRq75aJ) | 1:23 | 2021-11-08 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/2WPQXLUNLV0MpnLsXq216q) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleepy Eyes](https://open.spotify.com/album/4ORkajLhJ0JkLFom7hSBkf) | 2:21 | 2022-01-21 |  |
+| [Sleepy Eyes](https://open.spotify.com/track/0lypTQtxMiZL8HdvOLpkZl) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [Sleepy Eyes](https://open.spotify.com/album/5kKBEyXJ7wX8lzUZpZv35O) | 1:55 | 2022-04-22 |  |
+| [Sleepy Land](https://open.spotify.com/track/5uLDHN6Lbh7fDbFDxDyCSv) | [Elias Ståhle](https://open.spotify.com/artist/5w0kV4jCLLthNvZqe78yCV) | [Sleepy Land](https://open.spotify.com/album/3aEQQidga93YN6RBxHmt1W) | 1:56 | 2022-04-22 |  |
 | [Snug as a bug in a rug](https://open.spotify.com/track/327FOgqQklPgWon7iAFLKL) | [Kaylea Roberts](https://open.spotify.com/artist/0CMgXqgPnzh09v9OG7VXLN) | [Snug as a bug in a rug](https://open.spotify.com/album/2VRg6S2Byb5bxx5Gy0opl1) | 1:33 | 2021-11-08 |  |
+| [Snuggle Tight](https://open.spotify.com/track/0HsSm3PpAGKuCMM86XK2Ft) | [Quinn Palmer](https://open.spotify.com/artist/6sCg5kvvJZOVhzRawPZpmF) | [Snuggle Tight](https://open.spotify.com/album/2qulT9EMnJ35sBOWKtWCuG) | 1:34 | 2022-04-22 |  |
 | [Softly We Sleep](https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ) | [Ginny Love](https://open.spotify.com/artist/3M01IyD333mOOvDW4dA0eJ) | [Sleep Lullabies](https://open.spotify.com/album/3ThrtKNQFGuxyJbaxu5O4C) | 1:48 | 2021-11-08 |  |
 | [Somewhere over the rainbow](https://open.spotify.com/track/5NoSvkAWZakc4pWrd3sJHC) | [Michael Andersen](https://open.spotify.com/artist/5gmOxTV1V68gGvOXDTopig) | [Lullaby](https://open.spotify.com/album/4b3Jt78QPsMfN2caOxo1i8) | 2:16 | 2021-11-08 |  |
 | [Sommeil de bébé](https://open.spotify.com/track/0iCLUNgMsi5Nc52xB6kvtv) | [Patrice Bijon](https://open.spotify.com/artist/3hmpAsI5NAjUWg42KjSXJS) | [Sommeil de bébé](https://open.spotify.com/album/3r6xu5uMB5xrbvknBuLjlv) | 1:31 | 2021-11-08 |  |
@@ -369,7 +374,7 @@
 | [Walking in her sleep](https://open.spotify.com/track/2M6kPfglOgGjNJUW6BEd0r) | [April Pascarella](https://open.spotify.com/artist/2mmALxXVjePgMEhi1rDZTG) | [Walking in her sleep](https://open.spotify.com/album/4t6nTy9ahfU0EKcqdfUsfj) | 1:40 | 2021-11-08 |  |
 | [Walt the Windmill](https://open.spotify.com/track/4l8NnW6grz6GYE7HNLzTFV) | [Lilly Bear](https://open.spotify.com/artist/3JlR3VCnC7Ma0pICaXZKLT) | [Penny Piano](https://open.spotify.com/album/4JOdx95C6tLgaC4iJs68N5) | 2:46 | 2021-11-08 |  |
 | [What a Wonderful World](https://open.spotify.com/track/5UVzIlTT74VXzhQFzeyiVw) | [Jarvis Jones](https://open.spotify.com/artist/6Xaavc7P6S9vPVR4WQ8EQw) | [Classics on Music Box](https://open.spotify.com/album/58bmcL0R1A0b0MTY34sZS2) | 2:33 | 2021-11-08 |  |
-| [Wheels On The Bus](https://open.spotify.com/track/09inREgdiCICBK1z9gbPsw) | [Toola Hoot](https://open.spotify.com/artist/4MJ1e4BtHcv048OI92a4i9) | [Wheels On The Bus](https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb) | 1:33 | 2021-11-08 |  |
+| [Wheels On The Bus](https://open.spotify.com/track/09inREgdiCICBK1z9gbPsw) | [Toola Hoot](https://open.spotify.com/artist/4MJ1e4BtHcv048OI92a4i9) | [Wheels On The Bus](https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb) | 1:33 | 2021-11-08 | 2022-04-23 |
 | [When I Close My Eyes](https://open.spotify.com/track/7luR1726Cf9Wgt4Q3yljOF) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:33 | 2021-11-08 |  |
 | [When I See a Smiling Face](https://open.spotify.com/track/2TFM4euog31cKxuFN9jCdT) | [Tianna Dorsey](https://open.spotify.com/artist/2VsEJa7uhigAMojVKojMeg) | [When I See a Smiling Face](https://open.spotify.com/album/5UNbYlNn7GSqjYeHr5HEeZ) | 1:24 | 2021-11-08 |  |
 | [When It's Time for Bed](https://open.spotify.com/track/31pf9R0pj0HrwGRUDkMDiu) | [Holly Holiday](https://open.spotify.com/artist/7zuuBpzz0Y0GmcgCGP4UJe) | [When It's Time for Bed](https://open.spotify.com/album/6g7TcCuNLvGwACGaYWqdzF) | 1:46 | 2021-11-08 |  |

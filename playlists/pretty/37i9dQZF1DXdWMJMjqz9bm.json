@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: anees",
-  "num_followers": 146013,
+  "num_followers": 146310,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDM3ODA4OSwwMDAwMDExNTAwMDAwMTgwNDIzMzI1NzcwMDAwMDE4MDFhNWZhZTNi",
+  "snapshot_id": "MTY1MDY1MjkyMCwwMDAwMDExNjAwMDAwMTgwNTI5NGI5MzAwMDAwMDE4MDFhNWZhZTNi",
   "tracks": [
+    {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
     {
       "added_at": "2022-04-11 20:55:09",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
+    },
+    {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "GROOVE",
+        "url": "https://open.spotify.com/album/6iR3IxmXooYa8v37mi3XHz"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 140623,
+      "name": "GROOVE",
+      "url": "https://open.spotify.com/track/2N1N5vdaOmPmVnr23s7z1U"
     },
     {
       "added_at": "2022-04-04 22:47:16",
@@ -73,22 +105,6 @@
       "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
     },
     {
-      "added_at": "2022-04-19 14:21:29",
-      "album": {
-        "name": "What Would Love Do",
-        "url": "https://open.spotify.com/album/1VV3Zts79NLpNkquyyeO5U"
-      },
-      "artists": [
-        {
-          "name": "The Grouch & Eligh",
-          "url": "https://open.spotify.com/artist/6atrA9ysSgjJXw8NZH0vjZ"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Love Feels",
-      "url": "https://open.spotify.com/track/1uhYNxtjZFc99TSUbhmwG6"
-    },
-    {
       "added_at": "2022-04-04 22:47:16",
       "album": {
         "name": "summer&cigarettes",
@@ -105,6 +121,26 @@
       "url": "https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp"
     },
     {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bennett",
+          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
+        },
+        {
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Kick Back (feat. Matt and Kim)",
+      "url": "https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA"
+    },
+    {
       "added_at": "2022-04-14 14:04:46",
       "album": {
         "name": "The Bright Side",
@@ -119,6 +155,22 @@
       "duration_ms": 206160,
       "name": "Floats My Boat",
       "url": "https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL"
+    },
+    {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "Tetris",
+        "url": "https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 124973,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -157,6 +209,22 @@
       "url": "https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn"
     },
     {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "Girl U My Plug",
+        "url": "https://open.spotify.com/album/7MnuSCvU2bmLIzkOfxI302"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 199670,
+      "name": "Girl U My Plug",
+      "url": "https://open.spotify.com/track/5bYphpTtDCeVgzoYP6KFSu"
+    },
+    {
       "added_at": "2022-04-08 19:00:34",
       "album": {
         "name": "First Class",
@@ -189,20 +257,20 @@
       "url": "https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq"
     },
     {
-      "added_at": "2022-04-04 15:24:43",
+      "added_at": "2022-04-22 18:42:00",
       "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/7KEEFdCQYw9RZFfd0fxn6R"
+        "name": "eighty-five",
+        "url": "https://open.spotify.com/album/3gb0W6DnHhwkJq0ZSFqnAe"
       },
       "artists": [
         {
-          "name": "Nate Good",
-          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+          "name": "PmBata",
+          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
         }
       ],
-      "duration_ms": 135540,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao"
+      "duration_ms": 195525,
+      "name": "eighty-five",
+      "url": "https://open.spotify.com/track/6f8J5ZqWB5E8oKosn4h7c5"
     },
     {
       "added_at": "2022-04-08 13:25:03",
@@ -219,6 +287,22 @@
       "duration_ms": 130560,
       "name": "Til The Morning",
       "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
+    },
+    {
+      "added_at": "2022-04-04 15:24:43",
+      "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/7KEEFdCQYw9RZFfd0fxn6R"
+      },
+      "artists": [
+        {
+          "name": "Nate Good",
+          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+        }
+      ],
+      "duration_ms": 135540,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -313,6 +397,26 @@
       "url": "https://open.spotify.com/track/4NJaaIIhzLlzGj4dHMb4FO"
     },
     {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "dimples",
+        "url": "https://open.spotify.com/album/3QBCwMQRAUXQ87OJB9rSlS"
+      },
+      "artists": [
+        {
+          "name": "Shy High",
+          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
+        },
+        {
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+        }
+      ],
+      "duration_ms": 160971,
+      "name": "dimples",
+      "url": "https://open.spotify.com/track/33A3P7DydxJYHkKfbglWwO"
+    },
+    {
       "added_at": "2022-04-08 13:25:03",
       "album": {
         "name": "Nice to Meet Me (feat. Au/Ra)",
@@ -397,6 +501,22 @@
       "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
     },
     {
+      "added_at": "2022-04-19 14:21:29",
+      "album": {
+        "name": "What Would Love Do",
+        "url": "https://open.spotify.com/album/1VV3Zts79NLpNkquyyeO5U"
+      },
+      "artists": [
+        {
+          "name": "The Grouch & Eligh",
+          "url": "https://open.spotify.com/artist/6atrA9ysSgjJXw8NZH0vjZ"
+        }
+      ],
+      "duration_ms": 224013,
+      "name": "Love Feels",
+      "url": "https://open.spotify.com/track/1uhYNxtjZFc99TSUbhmwG6"
+    },
+    {
       "added_at": "2022-04-15 04:39:00",
       "album": {
         "name": "Tidal Wave",
@@ -411,6 +531,26 @@
       "duration_ms": 162711,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/6aNgALkspvsIlNvzdwG02z"
+    },
+    {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/3GWHaNyeflGNqohoxQqxFo"
+      },
+      "artists": [
+        {
+          "name": "Olmos",
+          "url": "https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV"
+        },
+        {
+          "name": "Young Saab",
+          "url": "https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5"
+        }
+      ],
+      "duration_ms": 136153,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/2QKte1nUSkLiPkNN8EPudu"
     },
     {
       "added_at": "2022-04-08 13:25:03",
@@ -465,22 +605,6 @@
       "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
     },
     {
-      "added_at": "2022-04-15 04:39:00",
-      "album": {
-        "name": "I Miss the Homies",
-        "url": "https://open.spotify.com/album/7nitS66V1Z7HdHowBJ0Ksu"
-      },
-      "artists": [
-        {
-          "name": "Decorator",
-          "url": "https://open.spotify.com/artist/1CplTPi43L6iFj0gLg2LDa"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "I Miss the Homies",
-      "url": "https://open.spotify.com/track/0XclwfhIIsS6ZQLqve6jLQ"
-    },
-    {
       "added_at": "2022-04-04 22:47:16",
       "album": {
         "name": "For A Minute",
@@ -513,28 +637,20 @@
       "url": "https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh"
     },
     {
-      "added_at": "2022-04-04 15:24:43",
+      "added_at": "2022-04-22 18:42:00",
       "album": {
-        "name": "I Know NIGO!",
-        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+        "name": "Freak Like That",
+        "url": "https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
         }
       ],
-      "duration_ms": 174862,
-      "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
-      "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
+      "duration_ms": 135843,
+      "name": "Freak Like That",
+      "url": "https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8"
     },
     {
       "added_at": "2022-04-08 14:46:43",
@@ -587,6 +703,30 @@
       "duration_ms": 226758,
       "name": "Ye Not Crazy",
       "url": "https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE"
+    },
+    {
+      "added_at": "2022-04-04 15:24:43",
+      "album": {
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "duration_ms": 174862,
+      "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
+      "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -769,22 +909,6 @@
       "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
     },
     {
-      "added_at": "2022-04-15 04:39:00",
-      "album": {
-        "name": "Runnin' the Road",
-        "url": "https://open.spotify.com/album/3dzOG2QNNV9MOY1l2eqHMT"
-      },
-      "artists": [
-        {
-          "name": "Loud City",
-          "url": "https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Runnin' the Road",
-      "url": "https://open.spotify.com/track/1vK0W3jWBR44lEh2dDWvSF"
-    },
-    {
       "added_at": "2022-04-06 22:43:48",
       "album": {
         "name": "Sunroof",
@@ -803,6 +927,22 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "I Miss the Homies",
+        "url": "https://open.spotify.com/album/7nitS66V1Z7HdHowBJ0Ksu"
+      },
+      "artists": [
+        {
+          "name": "Decorator",
+          "url": "https://open.spotify.com/artist/1CplTPi43L6iFj0gLg2LDa"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "I Miss the Homies",
+      "url": "https://open.spotify.com/track/0XclwfhIIsS6ZQLqve6jLQ"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -1147,22 +1287,6 @@
     {
       "added_at": "2022-04-04 15:24:43",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 138293,
-      "name": "Get Into It (Yuh)",
-      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
         "name": "Colorado Boulder",
         "url": "https://open.spotify.com/album/5hF6qsppuOKFRmgeCKwj2T"
       },
@@ -1403,22 +1527,6 @@
       "duration_ms": 192029,
       "name": "Free Lunch",
       "url": "https://open.spotify.com/track/5FX89IUKm9QJT9ymrmyK4k"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
-        "name": "Stars In The Sky (From Sonic The Hedgehog 2)",
-        "url": "https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 185668,
-      "name": "Stars In The Sky - From Sonic The Hedgehog 2",
-      "url": "https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ"
     },
     {
       "added_at": "2022-04-04 15:24:43",

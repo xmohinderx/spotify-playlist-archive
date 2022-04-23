@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Joel Ross",
+  "description": "New jazz for open minds. Cover: Katalyst",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -205,6 +205,24 @@
       "duration_ms": 315276,
       "name": "Altitude feat. Joel Ross & Michael Mayo",
       "url": "https://open.spotify.com/track/4rxgrQw3vfKGI3oVihrULg"
+    },
+    {
+      "album": {
+        "name": "Amathongo",
+        "url": "https://open.spotify.com/album/26o5fNnGz2qfoCuhWrAvW8"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386209,
+      "name": "Amathongo",
+      "url": "https://open.spotify.com/track/2jUqVDtYIJWd3baszNjZkF"
     },
     {
       "album": {
@@ -755,7 +773,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 276000,
       "name": "Click Bait",
       "url": "https://open.spotify.com/track/1chzmz9zF3az7txF92lEfd"
@@ -1422,6 +1440,24 @@
     },
     {
       "album": {
+        "name": "For Fun, You Scroll",
+        "url": "https://open.spotify.com/album/2n9ltvpPY0s77s08gzDuJF"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39515,
+      "name": "For Fun, You Scroll",
+      "url": "https://open.spotify.com/track/7zABidxslxZcJyOZF9pEuy"
+    },
+    {
+      "album": {
         "name": "For Some Time",
         "url": "https://open.spotify.com/album/64fUfACCDGOOHA8OcPDL01"
       },
@@ -1801,7 +1837,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 308728,
       "name": "Homeroom Crush - Furndware Session",
       "url": "https://open.spotify.com/track/7BAMZ3TnZ19gHmncQkUljP"
@@ -2138,6 +2174,24 @@
     },
     {
       "album": {
+        "name": "Strata Records - the Sound of Detroit - Reimagined by Jazzanova",
+        "url": "https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233066,
+      "name": "Joy Road",
+      "url": "https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6"
+    },
+    {
+      "album": {
         "name": "Just Coolin\u2019",
         "url": "https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa"
       },
@@ -2239,6 +2293,32 @@
       "duration_ms": 210258,
       "name": "Koma Kaprifol",
       "url": "https://open.spotify.com/track/0hDZkmYKe6JJHnXPeAkEmM"
+    },
+    {
+      "album": {
+        "name": "Lazy Song",
+        "url": "https://open.spotify.com/album/5uu3QNPRpcWwgO7Bn6BU3D"
+      },
+      "artists": [
+        {
+          "name": "Artur Tu\u017anik",
+          "url": "https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Simon Olderskog Albertsen",
+          "url": "https://open.spotify.com/artist/15tLpbaGjjsoUj9tzaPPZK"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341893,
+      "name": "Lazy Song",
+      "url": "https://open.spotify.com/track/510RuuRoJH0LrB3HiY6qpH"
     },
     {
       "album": {
@@ -3237,7 +3317,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 269856,
       "name": "Promise of Spring",
       "url": "https://open.spotify.com/track/6fA1NF7cmp9nrVdihdOXE4"
@@ -3471,6 +3551,24 @@
       "duration_ms": 586613,
       "name": "Salute to the Sun - Live at Hall\u00e9 St Peter's",
       "url": "https://open.spotify.com/track/5yy0soxXHkFO9Xd4UZyMkL"
+    },
+    {
+      "album": {
+        "name": "Sammy Jammy (Bunker Sesh)",
+        "url": "https://open.spotify.com/album/7rXS5qI7AOQRNEMSmIrqgy"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259027,
+      "name": "Sammy Jammy - Bunker Sesh",
+      "url": "https://open.spotify.com/track/1HjVuVZSIG27OWanHGLUhj"
     },
     {
       "album": {
@@ -3810,6 +3908,32 @@
     },
     {
       "album": {
+        "name": "The Avenues",
+        "url": "https://open.spotify.com/album/2UFYbuQl5FSYae42onHWde"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Katalyst",
+          "url": "https://open.spotify.com/artist/5yAyZa2e9KTHLsxSOMDmrC"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257682,
+      "name": "The Avenues",
+      "url": "https://open.spotify.com/track/4OWFijqelfGi2ooBcDl88K"
+    },
+    {
+      "album": {
         "name": "The Chant",
         "url": "https://open.spotify.com/album/6pdfgUTHW2zhJHNEPjEVtj"
       },
@@ -4065,6 +4189,24 @@
       "duration_ms": 464143,
       "name": "Tom Sawyer",
       "url": "https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd"
+    },
+    {
+      "album": {
+        "name": "Trance De Jour",
+        "url": "https://open.spotify.com/album/4eyUBeYGwrJvvTHaBrq6t7"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263746,
+      "name": "Trance De Jour",
+      "url": "https://open.spotify.com/track/2bK6NBZeG9WG2BmZZAXFYS"
     },
     {
       "album": {
@@ -4379,6 +4521,24 @@
       "duration_ms": 277000,
       "name": "What Happens Next?",
       "url": "https://open.spotify.com/track/55sg7XJ6nyfOv1VM1OHdHD"
+    },
+    {
+      "album": {
+        "name": "Winter Blues",
+        "url": "https://open.spotify.com/album/2XpEElni16wHDpusrS4TZZ"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433403,
+      "name": "Winter Blues",
+      "url": "https://open.spotify.com/track/6mfwtqsfJHIMZl22Yf16Hq"
     },
     {
       "album": {

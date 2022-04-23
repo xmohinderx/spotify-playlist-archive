@@ -2,7 +2,7 @@
 
 ### [Calming Jazz](https://open.spotify.com/playlist/37i9dQZF1DX0ZgPbUQ205W)
 
-> Relaxing sounds of modern jazz.
+> Calm and relaxing sounds of modern jazz.
 
 116 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 
@@ -27,7 +27,7 @@
 | [Dans mon pays](https://open.spotify.com/track/5ej5LGbMYLgfpNYY85bYv9) | [Matthieu Bordenave](https://open.spotify.com/artist/2r30D3PYG5DxMxwwsxE8FE), [Patrice Moret](https://open.spotify.com/artist/0MTZfu5gIOffmUnu7hmrg1), [Florian Weber](https://open.spotify.com/artist/191rzpMqossqKurYORFe8F) | [Dans mon pays](https://open.spotify.com/album/3spAWJ1FOjGIJSM1CJyCOT) | 4:35 | 2021-12-17 |  |
 | [Doubt Thou the Stars](https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jonas Simonson](https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG), [Karin Nelson](https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV) | [Tantum](https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u) | 3:11 | 2021-12-17 |  |
 | [Dust Motes Dancing In The Sunbeams \(Hammershøi\)](https://open.spotify.com/track/1lIXjtM3QvNgF7nmG8rSG4) | [Jakob Davidsen](https://open.spotify.com/artist/2uaSwkD4g1H5BYouNo4BL8), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Jesper Egelund](https://open.spotify.com/artist/3dvSTjrR6LGBW2LSkVpHnD) | [Silence Trio 3](https://open.spotify.com/album/4YJtOu1l3UMvkeXGz7AmSf) | 5:03 | 2021-12-17 |  |
-| [Déjà La Nuit](https://open.spotify.com/track/4W1Qhn3czQYAwZk9Um6KBd) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Pas Du Chat Noir](https://open.spotify.com/album/4RrIRfJf0HqzlkmMDfBmME) | 5:10 | 2021-12-17 |  |
+| [Déjà La Nuit](https://open.spotify.com/track/4W1Qhn3czQYAwZk9Um6KBd) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Pas Du Chat Noir](https://open.spotify.com/album/4RrIRfJf0HqzlkmMDfBmME) | 5:10 | 2021-12-17 | 2022-04-23 |
 | [E Major](https://open.spotify.com/track/29r9wYypw9RMXhapUNJsN5) | [Trio Ramberget](https://open.spotify.com/artist/6OvGm5sTZ04mRQu9eZ3yOJ) | [E Major](https://open.spotify.com/album/7luqhnYe3D7R544KbvOjaX) | 5:40 | 2022-02-17 |  |
 | [El Suelo Mio](https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t) | [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x) | [El Suelo Mio](https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4) | 3:29 | 2021-12-17 |  |
 | [Eliasong](https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:24 | 2021-12-17 |  |
@@ -95,7 +95,7 @@
 | [Space Wales](https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG) | [Petter Rylén](https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c) | [Space Wales](https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB) | 4:24 | 2021-12-17 |  |
 | [Strong](https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF) | [Marco Locurcio](https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4) | [Strong](https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s) | 4:23 | 2022-02-24 |  |
 | [Surrender](https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Dream Logic](https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr) | 4:21 | 2021-12-17 |  |
-| [The Admiral](https://open.spotify.com/track/7zKpgrCY4a2SBQscjvODaP) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 5:15 | 2021-12-17 | 2022-04-21 |
+| [The Admiral](https://open.spotify.com/track/7zKpgrCY4a2SBQscjvODaP) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 5:15 | 2021-12-17 |  |
 | [The Circle](https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:56 | 2022-04-07 |  |
 | [The Clearing](https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Blikan](https://open.spotify.com/album/1cETGSgLtspW3asgEuwvew) | 4:19 | 2021-12-17 |  |
 | [The Door](https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Audun Erlien](https://open.spotify.com/artist/3PqrFVZBgt9aojin43n6eN) | [The Door](https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB) | 7:52 | 2021-12-17 | 2022-04-22 |

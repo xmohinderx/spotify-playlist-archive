@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-695 songs - 1 day 15 hr 6 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+696 songs - 1 day 15 hr 7 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-02-11 | 2022-04-03 |
 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 | 2022-04-02 |  |
 | [fuego \(feat\. GABIFUEGO\) \- Spotify Studio 100 Recording](https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [fuego \(feat\. GABIFUEGO\) \[Spotify Studio 100 Recording\]](https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5) | 2:44 | 2021-10-09 | 2021-10-12 |
+| [fuK u lol](https://open.spotify.com/track/7uSekeuXG3G2wH6D1q3ACK) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [fuK u lol](https://open.spotify.com/album/5VqcwoAxEBcc3o7WKNyTw3) | 1:00 | 2022-04-22 |  |
 | [Funsize](https://open.spotify.com/track/1b2QhXphgrdJFLGRWp3Ooo) | [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo) | [Small Mercies](https://open.spotify.com/album/0HNp72SC5RqSRM8eKjiQsu) | 3:54 | 2021-05-25 | 2021-12-11 |
 | [Galaxies](https://open.spotify.com/track/2xO3tUdbE42rjV81NrQJ0S) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH) | [Galaxies](https://open.spotify.com/album/3SwsN42cDKkdepUclsJMEz) | 4:05 | 2021-03-14 |  |
 | [Game Of Thrones \- From The "Game Of Thrones" Soundtrack](https://open.spotify.com/track/2kgJYQKyQ1CK5GWcCUGwwh) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:18 | 2019-09-29\* | 2021-03-14 |

@@ -4,7 +4,7 @@
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-65 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/7bHL0spTsLvzRLJlpib6rN)
+66 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/7bHL0spTsLvzRLJlpib6rN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Pca Man Poppin'](https://open.spotify.com/track/4MX7sHMv7uwOOJYyM4TzEn) | [TCB Bounce Beat Kings](https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3) | [King Shit Vol \#1 Live from Aqua Washingtion DC](https://open.spotify.com/album/4mE0aD0zYPHO1I5z5lwLFI) | 1:24 | 2022-01-29 |  |
 | [Phatty](https://open.spotify.com/track/2OQNCinNyjZXcsBQq2R3TR) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Diversity!](https://open.spotify.com/album/4EjHp2MA2Os0SVpYcDXhei) | 4:08 | 2022-01-29 |  |
 | [Pieces of Me](https://open.spotify.com/track/43aFHVa5hwEGf7yAoFapMv) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh), [Ms\. Kim](https://open.spotify.com/artist/6WVEaZJxVkTRD0KV5wLEX5) | [Pieces of Me](https://open.spotify.com/album/0aOVlHaenoEEjKYE1wyC3A) | 3:58 | 2022-01-29 |  |
+| [Pressure\. \- Live](https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Pressure\. \(Live\)](https://open.spotify.com/album/0S4WiHEFxuVa011cE4PjT7) | 4:36 | 2022-04-22 |  |
 | [Pretty Girls](https://open.spotify.com/track/5IIu5JtVdXYaqvpCAz9Dis) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Weensey Of Backyard Band](https://open.spotify.com/artist/48d8y1vS0Ly0R93ReZuDf3) | [Attention Deficit](https://open.spotify.com/album/05hgYBx67XFjqWL8on4ugu) | 4:11 | 2022-01-29 |  |
 | [Roll Call](https://open.spotify.com/track/1N6tzEqcWfHCmUyBzkhGYo) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK), [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 4:00 | 2022-01-29 |  |
 | [Roxanne](https://open.spotify.com/track/2BtSxVVjTmmuAMwuCy3U1Z) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 4:34 | 2022-01-29 |  |

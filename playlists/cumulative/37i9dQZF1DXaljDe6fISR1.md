@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
 
-66 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
+67 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Mantenha o Respeito](https://open.spotify.com/track/5scK80Nrz12oGUnQGcPgg1) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [Usuário](https://open.spotify.com/album/6IprXLAWCQtujK6LHFt9bn) | 3:16 | 2022-03-11 |  |
 | [Mulher Elétrica](https://open.spotify.com/track/7FuwhCYus3htyXClROmiFZ) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [William Magalhães](https://open.spotify.com/artist/4MJN4aIU640fw6oayplA0n) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 3:33 | 2022-03-11 |  |
 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 | 2022-03-11 |  |
-| [Nunca Foi Fácil](https://open.spotify.com/track/5XGM1g11ltC9TTiR7uDLUm) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe) | [Nunca Foi Fácil](https://open.spotify.com/album/5Q3s6Jkihallz8BmVh30TP) | 3:49 | 2022-03-11 |  |
+| [Nunca Foi Fácil](https://open.spotify.com/track/5XGM1g11ltC9TTiR7uDLUm) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe) | [Nunca Foi Fácil](https://open.spotify.com/album/5Q3s6Jkihallz8BmVh30TP) | 3:49 | 2022-03-11 | 2022-04-23 |
 | [O 5° Vigia](https://open.spotify.com/track/3ZhYU1cx9sSF8pO0pNZVb7) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/7eoDHbH4OqDqRGZFBjgOzf) | 6:17 | 2022-03-11 |  |
 | [O Amor Venceu a Guerra](https://open.spotify.com/track/7LhExbpqQCLy2tFPK8N5P9) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Tarja Preta](https://open.spotify.com/album/0g4bxmzveUHyfxYIcH93Fi) | 8:44 | 2022-03-11 |  |
 | [O Mundo É Nosso](https://open.spotify.com/track/3jfH0Mz8XEsX1ZTOGejeCY) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/4cbDIpDFIvBBIK28iEObur) | 3:43 | 2022-03-11 |  |
@@ -63,6 +63,7 @@
 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 | 2022-03-11 |  |
 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 | 2022-03-11 |  |
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/1J4tWt31G0Klu7R6pMb3Nl) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Hip Hop \- Rap](https://open.spotify.com/album/0J4Q8MK2zce9EFgMdIgulZ) | 6:23 | 2022-03-11 |  |
+| [Sem Nós](https://open.spotify.com/track/2xU3GOp34ZDeRyDZhdrQX0) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Sem Nós](https://open.spotify.com/album/71HBf8oixyQWZdYvUyaBPy) | 3:59 | 2022-04-22 |  |
 | [Sr\. Tempo Bom](https://open.spotify.com/track/5QHmlQiT4VUz0w5jjMQwGy) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima & Ieda Hills](https://open.spotify.com/artist/3K8B64cKUgTjV7Q7QPA7ZS) | [Preste Atenção](https://open.spotify.com/album/3cwZOIV5bkTrWG8Huzj1MV) | 4:42 | 2022-03-11 |  |
 | [Só](https://open.spotify.com/track/4JzVXnE9e7qExrT1NKgVT6) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 3:21 | 2022-03-11 |  |
 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 | 2022-03-11 |  |

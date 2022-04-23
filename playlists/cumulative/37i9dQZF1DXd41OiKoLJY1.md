@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: PLAN B, Artwork: Isu Kim
 
-291 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+293 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [MERONG THRILL](https://open.spotify.com/track/20hyAt1Lf6a9iSM6EkiZPz) | [Marco BMG](https://open.spotify.com/artist/46wFQ13fQTY41FSRJS2m1u), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [MERONG THRILL](https://open.spotify.com/album/4BUO482UxmsV9gyI69483s) | 5:02 | 2022-03-17 | 2022-04-01 |
 | [Mestiza](https://open.spotify.com/track/40y1kq5Q1FlpKzx4ThbRxh) | [mindofaddy](https://open.spotify.com/artist/6HkQwYaX8YVhnfufJDvXfw), [Drae Tutor](https://open.spotify.com/artist/3ZsOt9KwtGeRzXdatiJQjR) | [Mestiza](https://open.spotify.com/album/5eH5GEIjTgzEjU4FT0mdqW) | 2:40 | 2022-02-10 | 2022-04-01 |
 | [MIRACLE](https://open.spotify.com/track/2Z1OVvsQZFbBuVdd5bvDQB) | [killseph](https://open.spotify.com/artist/6RMBuNtyBYW5cTokyc8pXx) | [FEELING ZONE](https://open.spotify.com/album/6PtmctwWGFBOHfXkIA2emK) | 2:10 | 2022-04-07 |  |
+| [Miss Me, Kiss Me](https://open.spotify.com/track/6KF09UUFt8LYC97Ez8LnC8) | [MILLIE](https://open.spotify.com/artist/6dk1yWis6L5iAwxlCTTPPO) | [Miss Me, Kiss Me](https://open.spotify.com/album/7aVqKvD5sIdWQASF31uy92) | 3:05 | 2022-04-21 |  |
 | [Moments](https://open.spotify.com/track/1yPJQTblcMJsbgkS94VnPe) | [Social Climb](https://open.spotify.com/artist/0qJyDXaczsO0G4qsssWXxL) | [Moments](https://open.spotify.com/album/0kAWEAnlFjphpTls7rPrON) | 3:47 | 2022-01-20 | 2022-02-11 |
 | [Mon Amour](https://open.spotify.com/track/60npTP91s65FauHJQojAs1) | [franki](https://open.spotify.com/artist/02yti3oQP7nggaUs2Wqoa9) | [Mon Amour](https://open.spotify.com/album/7IR9jaKXplsIn9BDk0B5Hs) | 3:02 | 2022-01-20 | 2022-02-11 |
 | [MONEY CHASE 2.0](https://open.spotify.com/track/0c1cn4zAETDPdd6LXLWv60) | [OjifvcknBert](https://open.spotify.com/artist/06us9eiJFKQ9Fn7QEyCrCj) | [MONEY CHASE 2.0](https://open.spotify.com/album/2uMgloAXVgtxy22dSFMYr6) | 2:44 | 2022-04-21 |  |
@@ -287,6 +288,7 @@
 | [Wala ng ikaw](https://open.spotify.com/track/5xOKZqB5i7mJDCrjWv0bWu) | [Karl Alegno](https://open.spotify.com/artist/1AcFiabUgchHZOQbg3Hauo) | [Wala ng ikaw](https://open.spotify.com/album/21GgQFjl9dZefrnNYYKaDU) | 2:39 | 2022-03-10 | 2022-04-01 |
 | [Walang Gana](https://open.spotify.com/track/3q55zTn6l70JOZ5dDAh2jk) | [Zone 24Seven](https://open.spotify.com/artist/3Y6Hv4el40evxRTUglk8uK), [Cisco](https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq), [El Rios](https://open.spotify.com/artist/3LDA3FS14KsKU5gv05sgE8), [CBAKE$](https://open.spotify.com/artist/4gb1sxw9cTOxLcVrdshd3q), [Nik Makino](https://open.spotify.com/artist/2GyDGQ5U2bb2NcHaUXykkT), [Shao Lin](https://open.spotify.com/artist/7mdiFBTvpw94abBvqa9xhW) | [Walang Gana](https://open.spotify.com/album/4ZChP6fEK6ulsuUjbSUhsF) | 5:39 | 2022-01-27 | 2022-02-11 |
 | [Walkthrough](https://open.spotify.com/track/45ALi2EsHBUUOhwoSpTGox) | [she.](https://open.spotify.com/artist/6RThzZ1bjAa1gMO3yo5PP7), [Pugfish](https://open.spotify.com/artist/5Oe2pf7eYs838rwusZKz2b) | [Walkthrough](https://open.spotify.com/album/5EQDU8xoirK6KEAyeWxVCT) | 3:03 | 2022-03-31 |  |
+| [Wanted](https://open.spotify.com/track/011Fj2ioGJkZ280BNQq4S4) | [Renzo Sy](https://open.spotify.com/artist/4rfbCfMiXIqYNOII8JJFbB) | [Wanted](https://open.spotify.com/album/4SPEcXujsguQ4NymFAoMSL) | 4:14 | 2022-04-21 |  |
 | [Waste My Time](https://open.spotify.com/track/4IwBSWqSZyykdR33ZvRFr2) | [seos](https://open.spotify.com/artist/3ARcA6vRUflFo0cG4qgrKW) | [Waste My Time](https://open.spotify.com/album/6rFa3Il7FjcfJHFSpuK7sj) | 3:10 | 2022-02-10 | 2022-03-18 |
 | [Waste No Time](https://open.spotify.com/track/5sPXkyzV6D3KSE1OFgpiGV) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY), [Lance A](https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq) | [Waste No Time](https://open.spotify.com/album/7fX2rMy6DfR5QsXoGsRqQP) | 3:50 | 2022-01-20 | 2022-04-01 |
 | [What Happened Yesterday?](https://open.spotify.com/track/52wD58jYmY4nzhTRTH6lzB) | [HTTM](https://open.spotify.com/artist/236B9UfvqdK09GmJyuzJaF) | [What Happened Yesterday?](https://open.spotify.com/album/7woOXyiKavmRKN6KKS7VC0) | 3:42 | 2022-03-31 | 2022-04-08 |

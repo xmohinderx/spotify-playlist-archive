@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "#doyalike",
+        "url": "https://open.spotify.com/album/2lB1L11fAMtcOyo3xnZGQ6"
+      },
+      "artists": [
+        {
+          "name": "kazeWIW",
+          "url": "https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "#doyalike",
+      "url": "https://open.spotify.com/track/2HfZIE33sAibTpHibfdEDs"
+    },
+    {
+      "album": {
+        "name": "#doyalike",
         "url": "https://open.spotify.com/album/3rS3wTkFe8pRefM2j51gdP"
       },
       "artists": [
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 218653,
       "name": "Hep Mi Ben",
       "url": "https://open.spotify.com/track/4eDT9NP6B0OJnd5nKuBseL"
@@ -5334,6 +5352,24 @@
     },
     {
       "album": {
+        "name": "Richest Killers",
+        "url": "https://open.spotify.com/album/0C7H5k4DVMZZyGAI2OmuWu"
+      },
+      "artists": [
+        {
+          "name": "Mtsg",
+          "url": "https://open.spotify.com/artist/2wIrIh3ZQvZ6r2CJBtghI4"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Richest Killers",
+      "url": "https://open.spotify.com/track/1Tcx4BMphr7XayLP3tgFzG"
+    },
+    {
+      "album": {
         "name": "Rocking A Cardigan in Atlanta",
         "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
       },
@@ -7091,7 +7127,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 183080,
       "name": "untitled",
       "url": "https://open.spotify.com/track/5qxHtOVLh3aR5kGUErwwt4"

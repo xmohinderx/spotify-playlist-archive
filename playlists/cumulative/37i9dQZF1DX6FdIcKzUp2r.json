@@ -319,7 +319,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 237600,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1s4Mvh3jgFCJJijR53JIEx"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 289906,
       "name": "English Landscape Tradition",
       "url": "https://open.spotify.com/track/61lWbBQqGoM9daRCuEGBtJ"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 186146,
       "name": "In Mysterious Ways",
       "url": "https://open.spotify.com/track/6dXyaoYXDfynHxVZiUDsZB"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 342973,
       "name": "Nostalgia - Remastered 2003",
       "url": "https://open.spotify.com/track/3vjaDEadbVnlyplWKOg1hR"
@@ -1065,6 +1065,24 @@
       "duration_ms": 172560,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/3PxtlY1d9VbTMkveVdbMYI"
+    },
+    {
+      "album": {
+        "name": "Private Collection",
+        "url": "https://open.spotify.com/album/1qi65TrtdSDtJMi2qR4yyX"
+      },
+      "artists": [
+        {
+          "name": "Jon & Vangelis",
+          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326533,
+      "name": "Polonaise",
+      "url": "https://open.spotify.com/track/00g0LMstYkA0WyzDYmseXj"
     },
     {
       "album": {
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Slipping Through My Fingers",
       "url": "https://open.spotify.com/track/3TQJ75S8EOINzp0lHUT5MD"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 287973,
       "name": "Soul Mining",
       "url": "https://open.spotify.com/track/7MgbqtibSRfBaK0CZQrqWF"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 239720,
       "name": "The Things You Said",
       "url": "https://open.spotify.com/track/5tb8T4WJ5SULuf8lNkVfEp"

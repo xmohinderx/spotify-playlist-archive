@@ -658,6 +658,32 @@
     },
     {
       "album": {
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/3dHC0pJemlvt8A2zysZ4Qm"
+      },
+      "artists": [
+        {
+          "name": "Profeta Oficial",
+          "url": "https://open.spotify.com/artist/3L6J8Aw7YspoLNjoQU8m8j"
+        },
+        {
+          "name": "Cinquenta",
+          "url": "https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb"
+        },
+        {
+          "name": "Tovi",
+          "url": "https://open.spotify.com/artist/33wIWBCG6ouZqCHAtUxq7I"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/3WHwjHxGnPwTE1LHtnOIVq"
+    },
+    {
+      "album": {
         "name": "Jovens Pretos Milion\u00e1rios",
         "url": "https://open.spotify.com/album/2T2zVAghqrLY9mC7e2YKTw"
       },
@@ -1169,7 +1195,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 166153,
       "name": "Paypal",
       "url": "https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH"

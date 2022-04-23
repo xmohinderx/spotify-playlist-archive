@@ -2,7 +2,7 @@
 
 ### [Rainy Day Jazz](https://open.spotify.com/playlist/37i9dQZF1DWYxwmBaMqxsl)
 
-> Blue jazz when you're feeling blue.
+> Soft and moody jazz for a rainy day.
 
 109 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 

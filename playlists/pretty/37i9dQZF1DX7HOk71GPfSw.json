@@ -1,12 +1,12 @@
 {
   "description": "spotify hyperpop playlist Cover: 100 gecs",
-  "num_followers": 314181,
+  "num_followers": 314507,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDI5MTg2NywwMDAwMDE1OTAwMDAwMTgwM2QwZjgwZWMwMDAwMDE4MDI5MWMzZmRl",
+  "snapshot_id": "MTY1MDYwOTcyMCwwMDAwMDE1YTAwMDAwMTgwNTAwMThiMzEwMDAwMDE4MDI5MWMzZmRl",
   "tracks": [
     {
       "added_at": "2022-04-12 15:33:30",
@@ -85,6 +85,42 @@
       "url": "https://open.spotify.com/track/4bDK6GxLWO8b6cBUsscXZp"
     },
     {
+      "added_at": "2022-04-22 06:42:00",
+      "album": {
+        "name": "SLIDE SLIDE SLIDE",
+        "url": "https://open.spotify.com/album/4dMkxCx9XxsFCGNb29eeqo"
+      },
+      "artists": [
+        {
+          "name": "iris day",
+          "url": "https://open.spotify.com/artist/76aEuFvHvQUH4BKVPRUSWn"
+        }
+      ],
+      "duration_ms": 113620,
+      "name": "SLIDE SLIDE SLIDE",
+      "url": "https://open.spotify.com/track/7EhsP2yDjxskVJrEAUp4aY"
+    },
+    {
+      "added_at": "2022-04-22 06:42:00",
+      "album": {
+        "name": "knowitall",
+        "url": "https://open.spotify.com/album/0hYt4hMh5BlioUcbLLluiK"
+      },
+      "artists": [
+        {
+          "name": "dashie",
+          "url": "https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl"
+        },
+        {
+          "name": "angelicxmei",
+          "url": "https://open.spotify.com/artist/25lA56RftdPBfoioFvkjgw"
+        }
+      ],
+      "duration_ms": 126991,
+      "name": "knowitall",
+      "url": "https://open.spotify.com/track/07u33h8ZMJ8BtCcQNbSKzV"
+    },
+    {
       "added_at": "2022-04-08 15:04:07",
       "album": {
         "name": "lifeline",
@@ -101,6 +137,22 @@
       "url": "https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd"
     },
     {
+      "added_at": "2022-04-22 06:42:00",
+      "album": {
+        "name": "stop it",
+        "url": "https://open.spotify.com/album/0xDZFVldDdMlINBECI2kp0"
+      },
+      "artists": [
+        {
+          "name": "swazy*",
+          "url": "https://open.spotify.com/artist/2GJ6PPwgGBtFS6RX0WFzFV"
+        }
+      ],
+      "duration_ms": 167855,
+      "name": "stop it",
+      "url": "https://open.spotify.com/track/2STFyPNS8Tdsckhpcfxtnl"
+    },
+    {
       "added_at": "2022-04-01 13:22:34",
       "album": {
         "name": "cabin fever",
@@ -115,6 +167,78 @@
       "duration_ms": 73962,
       "name": "cabin fever",
       "url": "https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C"
+    },
+    {
+      "added_at": "2022-04-22 06:42:00",
+      "album": {
+        "name": "stitches",
+        "url": "https://open.spotify.com/album/5g1q99GkseMOwBiyCJKe0j"
+      },
+      "artists": [
+        {
+          "name": "Button Maker",
+          "url": "https://open.spotify.com/artist/4MAagcKJAflUPllm4L7SOQ"
+        },
+        {
+          "name": "5hiro",
+          "url": "https://open.spotify.com/artist/4I4gomVBlgbh0bC0KBDZpQ"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "stitches",
+      "url": "https://open.spotify.com/track/2idsdeof2AgAHw0v85xCxT"
+    },
+    {
+      "added_at": "2022-04-22 06:42:00",
+      "album": {
+        "name": "donatachi.com",
+        "url": "https://open.spotify.com/album/6el22aECvoCeHsv4oTDk9B"
+      },
+      "artists": [
+        {
+          "name": "Donatachi",
+          "url": "https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY"
+        },
+        {
+          "name": "Hearteyes",
+          "url": "https://open.spotify.com/artist/1YCiY4ncBoIUPTpeKTCuzu"
+        }
+      ],
+      "duration_ms": 182631,
+      "name": "bad 4 me",
+      "url": "https://open.spotify.com/track/1xWgYu1fzEWa377Drhfc8X"
+    },
+    {
+      "added_at": "2022-04-22 06:42:00",
+      "album": {
+        "name": "fuK u lol",
+        "url": "https://open.spotify.com/album/5VqcwoAxEBcc3o7WKNyTw3"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 60256,
+      "name": "fuK u lol",
+      "url": "https://open.spotify.com/track/7uSekeuXG3G2wH6D1q3ACK"
+    },
+    {
+      "added_at": "2022-01-14 18:09:29",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -177,22 +301,6 @@
       "url": "https://open.spotify.com/track/3fPnvjoIrcyW6CILe5yT9Z"
     },
     {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "#IAmDelusional",
@@ -249,20 +357,12 @@
       "url": "https://open.spotify.com/track/6XQavp1Qj1pFZkkHH079m1"
     },
     {
-      "added_at": "2022-04-12 15:33:30",
+      "added_at": "2022-03-18 13:45:32",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
+        "name": "Crest",
+        "url": "https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4"
       },
       "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
         {
           "name": "Bladee",
           "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
@@ -272,9 +372,9 @@
           "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
         }
       ],
-      "duration_ms": 182375,
-      "name": "SummerTime Blood",
-      "url": "https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO"
+      "duration_ms": 179430,
+      "name": "The Flag is Raised",
+      "url": "https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC"
     },
     {
       "added_at": "2022-04-08 04:05:00",
@@ -327,6 +427,34 @@
       "duration_ms": 255191,
       "name": "stuck with you",
       "url": "https://open.spotify.com/track/6h3RiwExHhQG4Ief6Mti9F"
+    },
+    {
+      "added_at": "2022-04-12 15:33:30",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        }
+      ],
+      "duration_ms": 182375,
+      "name": "SummerTime Blood",
+      "url": "https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -399,26 +527,6 @@
       "duration_ms": 150234,
       "name": "party girl",
       "url": "https://open.spotify.com/track/3q42AfqZP6dvTQBmTZWg1G"
-    },
-    {
-      "added_at": "2022-03-18 13:45:32",
-      "album": {
-        "name": "Crest",
-        "url": "https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        },
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        }
-      ],
-      "duration_ms": 179430,
-      "name": "The Flag is Raised",
-      "url": "https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC"
     },
     {
       "added_at": "2022-04-08 14:52:39",
@@ -2599,94 +2707,6 @@
       "duration_ms": 112728,
       "name": "running back",
       "url": "https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX"
-    },
-    {
-      "added_at": "2022-01-21 05:05:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7FlxoRFvZavjONp6SKqKuv"
-      },
-      "artists": [
-        {
-          "name": "Clonethekid",
-          "url": "https://open.spotify.com/artist/4PEDT3kx00oQFvezHOng8V"
-        }
-      ],
-      "duration_ms": 111500,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/5FDBgeJawQYrnnpkBa5aI6"
-    },
-    {
-      "added_at": "2022-02-25 05:09:00",
-      "album": {
-        "name": "Soul Spa",
-        "url": "https://open.spotify.com/album/0PEyufMZRPisvEJcGdKzuM"
-      },
-      "artists": [
-        {
-          "name": "Aj simons",
-          "url": "https://open.spotify.com/artist/2Hg3jEqEsp1jThhvybP0HX"
-        },
-        {
-          "name": "emotegi",
-          "url": "https://open.spotify.com/artist/0EZi1A6N8QYNTuA3D9KwB5"
-        }
-      ],
-      "duration_ms": 160324,
-      "name": "No Rest",
-      "url": "https://open.spotify.com/track/63VaZkQwtaFCQ48pEBZrke"
-    },
-    {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "Hope That You Know",
-        "url": "https://open.spotify.com/album/7spvHspcAR3gji9Yf54zdD"
-      },
-      "artists": [
-        {
-          "name": "Rosesleeves",
-          "url": "https://open.spotify.com/artist/6C5SxIdYMB0Yw8eLjlVtX4"
-        }
-      ],
-      "duration_ms": 176223,
-      "name": "Hope That You Know",
-      "url": "https://open.spotify.com/track/2M2b0V0CvV8KtwI9kEqaYk"
-    },
-    {
-      "added_at": "2022-01-21 05:05:00",
-      "album": {
-        "name": "Party By Myself",
-        "url": "https://open.spotify.com/album/2qsmn7KtsiGXSyaD9N7dCF"
-      },
-      "artists": [
-        {
-          "name": "she loves boon",
-          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
-        },
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Party By Myself",
-      "url": "https://open.spotify.com/track/46EvxBNc7C13UsWJ9Nidx6"
-    },
-    {
-      "added_at": "2022-02-18 15:20:49",
-      "album": {
-        "name": "BIG KILL FUTURE",
-        "url": "https://open.spotify.com/album/49RtLwYTyBKciCUDUfUI45"
-      },
-      "artists": [
-        {
-          "name": "Big Kill",
-          "url": "https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Rose Coloured Ear Drums",
-      "url": "https://open.spotify.com/track/69xuSR3BFb7aAN7HUJ2MiS"
     }
   ],
   "unique_name": "hyperpop",

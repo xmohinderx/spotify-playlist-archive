@@ -1,13 +1,65 @@
 {
-  "description": "The best in blues right now. Cover: Walter Trout",
-  "num_followers": 36447,
+  "description": "The best in blues right now. Cover: Bonnie Raitt",
+  "num_followers": 36463,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5NTMyMCwwMDAwMDA0NjAwMDAwMTgwMmI2MjhiMTIwMDAwMDE4MDFlMzdkZTll",
+  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDA0NzAwMDAwMTgwNGY2ZTI0ZjUwMDAwMDE4MDRkMDQzODhi",
   "tracks": [
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Livin' for the Ones",
+        "url": "https://open.spotify.com/album/3Flcwo2dVHmmmLc4NUdxR7"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Livin' for the Ones",
+      "url": "https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Great Minds Drink Alike (With Horns)",
+        "url": "https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt"
+      },
+      "artists": [
+        {
+          "name": "Altered Five Blues Band",
+          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
+        }
+      ],
+      "duration_ms": 237513,
+      "name": "Great Minds Drink Alike - With Horns",
+      "url": "https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "GET ON BOARD",
+        "url": "https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Cornbread, Peas, Black Molasses",
+      "url": "https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn"
+    },
     {
       "added_at": "2022-04-15 04:02:00",
       "album": {
@@ -23,6 +75,22 @@
       "duration_ms": 309175,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/0Abu2kVKUQrTNSqfowYWEp"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Stagger Lee",
+        "url": "https://open.spotify.com/album/66JuQbdaWi0wnFJtayoIW0"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 155336,
+      "name": "Stagger Lee",
+      "url": "https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -151,26 +219,6 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Pick a Bale of Cotton",
-        "url": "https://open.spotify.com/album/1mZYq4U5sZgmdpjLup46FC"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Pick a Bale of Cotton",
-      "url": "https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
         "name": "Bad Man",
         "url": "https://open.spotify.com/album/0PshEpATig6xpoqCOnQ8fg"
       },
@@ -293,22 +341,6 @@
       "url": "https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Too Old To Grow Up",
-        "url": "https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 201237,
-      "name": "Too Old To Grow Up",
-      "url": "https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Emotional Gangster",
@@ -405,26 +437,6 @@
       "url": "https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "I Shall Not Be Moved",
-        "url": "https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "I Shall Not Be Moved",
-      "url": "https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "The Future Ain't What It Used to Be",
@@ -457,38 +469,6 @@
       "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "No More Worlds to Conquer",
-        "url": "https://open.spotify.com/album/3kMKDFdC0FV6s8rwPmRRrR"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "No More Worlds to Conquer",
-      "url": "https://open.spotify.com/track/2AHYMvycHP8KlxZjv11Hnm"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Need Somebody",
-        "url": "https://open.spotify.com/album/6C4AxHzymaKYTXER51I7xG"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 179539,
-      "name": "Need Somebody",
-      "url": "https://open.spotify.com/track/3PidRjCoEGt8sDKicC0GhX"
-    },
-    {
       "added_at": "2021-12-10 05:01:00",
       "album": {
         "name": "You Don't Know The Blues",
@@ -503,22 +483,6 @@
       "duration_ms": 274066,
       "name": "You Don't Know The Blues",
       "url": "https://open.spotify.com/track/3uYWtoQd5lPBrE8OhBP2Wg"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Someday Soon",
-        "url": "https://open.spotify.com/album/59OdbKQn7rlmeFIxO9OEpG"
-      },
-      "artists": [
-        {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
-        }
-      ],
-      "duration_ms": 144906,
-      "name": "Someday Soon",
-      "url": "https://open.spotify.com/track/08mEB4ByPXw2GFJfPfqvAl"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -539,22 +503,6 @@
       "duration_ms": 223334,
       "name": "Judicator Blues",
       "url": "https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Ain't That Lovin' You",
-        "url": "https://open.spotify.com/album/6hRhku9LbgLHLrQPa4Uv6A"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 139343,
-      "name": "Ain't That Lovin' You",
-      "url": "https://open.spotify.com/track/1x2Xc6lGnIouQyclbttjC6"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -741,26 +689,6 @@
       "url": "https://open.spotify.com/track/2J1fKycjwpQvxJHQMcyOoL"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "I Want My Crown (feat. Joe Bonamassa)",
-        "url": "https://open.spotify.com/album/40W7GqrM3klsP4bHSxGrBT"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 259226,
-      "name": "I Want My Crown (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn"
-    },
-    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "If Only We Could",
@@ -793,70 +721,6 @@
       "url": "https://open.spotify.com/track/0o9xEUuJ5dd0zLT4n2PLTM"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Good To Be (Home Again)",
-        "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Good To Be (Home Again)",
-      "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 193095,
-      "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/6YCW1g7XwaDZX7sUSM8LWq"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 278634,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/7kPJfg95ExObovzfkh2moX"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "Black Horizon",
-      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
-    },
-    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Love Transcends",
@@ -871,22 +735,6 @@
       "duration_ms": 177178,
       "name": "Always Free",
       "url": "https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Beat The Devil",
-        "url": "https://open.spotify.com/album/6ahYjYXiTuofCvgdATnrMv"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Beat The Devil",
-      "url": "https://open.spotify.com/track/3XYMYGSPtFvczwyKpYmtXk"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -971,22 +819,6 @@
       "duration_ms": 351253,
       "name": "The Heart That Never Waits",
       "url": "https://open.spotify.com/track/3h6b6VFjiJUM2jeG7tGjrH"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Tell Mamala",
-        "url": "https://open.spotify.com/album/2GuHcm724OD7ANh9ZAKLdW"
-      },
-      "artists": [
-        {
-          "name": "Gaye Adegbalola",
-          "url": "https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM"
-        }
-      ],
-      "duration_ms": 185593,
-      "name": "Tell Mamala",
-      "url": "https://open.spotify.com/track/3jq1QrrDci8STyApQBHLft"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1197,22 +1029,6 @@
       "url": "https://open.spotify.com/track/6P9dpTcBhEWHkEQyvo5CGc"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Holler If You Hear Me",
-        "url": "https://open.spotify.com/album/13Bf7tzevJNc8iqYysngFy"
-      },
-      "artists": [
-        {
-          "name": "Altered Five Blues Band",
-          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
-        }
-      ],
-      "duration_ms": 236038,
-      "name": "Holding on with One Hand",
-      "url": "https://open.spotify.com/track/6Zi5U36NiSzt0xp5OoXPzu"
-    },
-    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Under Your Spell",
@@ -1347,22 +1163,6 @@
       "duration_ms": 207320,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/3hK0Qi59tuXjInHFnEIC0r"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1513,26 +1313,6 @@
       "url": "https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin"
     },
     {
-      "added_at": "2021-03-19 05:01:00",
-      "album": {
-        "name": "The Medicine Man",
-        "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
-      "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Hangover Blues",
@@ -1607,314 +1387,6 @@
       "duration_ms": 166946,
       "name": "She\u2019s On Fire",
       "url": "https://open.spotify.com/track/3ExuTGplbf3o6ilyu4JhY4"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Black Mountain Blues",
-        "url": "https://open.spotify.com/album/2gKdg1viykgX8jVJrvR71l"
-      },
-      "artists": [
-        {
-          "name": "Paula Cole",
-          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
-        }
-      ],
-      "duration_ms": 308814,
-      "name": "Black Mountain Blues",
-      "url": "https://open.spotify.com/track/1D2tVcQFbPmJP9FAjGkvJV"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Book of My Blues",
-        "url": "https://open.spotify.com/album/3voqYXLVkXBjUZFReufQWA"
-      },
-      "artists": [
-        {
-          "name": "Mark Collie",
-          "url": "https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU"
-        }
-      ],
-      "duration_ms": 208970,
-      "name": "Book of My Blues",
-      "url": "https://open.spotify.com/track/5K2s01sTtbulyPO92xh0O7"
-    },
-    {
-      "added_at": "2021-03-19 05:01:00",
-      "album": {
-        "name": "Whole World's Got The Blues (feat. Eric Gales)",
-        "url": "https://open.spotify.com/album/4WliYc7MYceRk1zwJMUNNE"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        },
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 333989,
-      "name": "Whole World's Got The Blues (feat. Eric Gales)",
-      "url": "https://open.spotify.com/track/36K7AYc1UyMyjPoV4c3ozR"
-    },
-    {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/2TTXWDSbuk0LDVDEUNnsCh"
-      },
-      "artists": [
-        {
-          "name": "Scott McKeon",
-          "url": "https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S"
-        }
-      ],
-      "duration_ms": 336920,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/5Ft33jkZFk4vtCURt4BaHX"
-    },
-    {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "I'm Tore Down",
-        "url": "https://open.spotify.com/album/6nKz5WRlab96MD927id1gF"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 368640,
-      "name": "I'm Tore Down",
-      "url": "https://open.spotify.com/track/1Rh166Dr7vSbpCV2bUoBSW"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Raisin' Cain",
-        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
-      },
-      "artists": [
-        {
-          "name": "Chris Cain",
-          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Hush Money",
-      "url": "https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra"
-    },
-    {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Phoning It In",
-        "url": "https://open.spotify.com/album/5pGCCCUVVmfUGAZ2tz60Rd"
-      },
-      "artists": [
-        {
-          "name": "The Blue Quarantinos",
-          "url": "https://open.spotify.com/artist/74IHkbIwZfF1D0bH6Usfyd"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Vince Fossett Jr.",
-          "url": "https://open.spotify.com/artist/1jV1E6qOXs9NJLH5CPk3mM"
-        }
-      ],
-      "duration_ms": 204741,
-      "name": "I\u2019m Yours And I\u2019m Hers",
-      "url": "https://open.spotify.com/track/1CvB0rh0CgCi4ixnbVE6Zh"
-    },
-    {
-      "added_at": "2021-03-12 05:01:00",
-      "album": {
-        "name": "Fire It Up",
-        "url": "https://open.spotify.com/album/3C44xpr836MfZSVu7cwpel"
-      },
-      "artists": [
-        {
-          "name": "Steve Cropper",
-          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
-        }
-      ],
-      "duration_ms": 182620,
-      "name": "Fire It Up",
-      "url": "https://open.spotify.com/track/5OK7CvtAqKcJoYXFmqUDvB"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "The Longer That I Live",
-        "url": "https://open.spotify.com/album/50d66oouWFXRbLmrxDonVF"
-      },
-      "artists": [
-        {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        }
-      ],
-      "duration_ms": 231244,
-      "name": "The Longer That I Live",
-      "url": "https://open.spotify.com/track/4j5JuvF1nFJ0tvD3KdJfNr"
-    },
-    {
-      "added_at": "2021-03-26 04:01:00",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/3fdrd58psynyIu5px6Cw1I"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 211455,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/0uCmTNcj7GeDa1APYV4j3o"
-    },
-    {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "Living In A Burning House",
-        "url": "https://open.spotify.com/album/1eBYbklgOrUS8hYho7rPXj"
-      },
-      "artists": [
-        {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
-        }
-      ],
-      "duration_ms": 210053,
-      "name": "I'd Climb Mountains",
-      "url": "https://open.spotify.com/track/3Viv0Zuw0FT4EuxdVGfrDo"
-    },
-    {
-      "added_at": "2021-04-13 15:26:57",
-      "album": {
-        "name": "In A Roomful Of Blues",
-        "url": "https://open.spotify.com/album/035KBtKfNPmzg4nR6Ab13w"
-      },
-      "artists": [
-        {
-          "name": "Roomful Of Blues",
-          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "What Can I Do?",
-      "url": "https://open.spotify.com/track/6KPBLaWLqk5CJjRprggRaP"
-    },
-    {
-      "added_at": "2021-03-26 04:01:00",
-      "album": {
-        "name": "Blues For Yesterday",
-        "url": "https://open.spotify.com/album/68rzkssnJO0oFdwvVAfFO0"
-      },
-      "artists": [
-        {
-          "name": "New Moon Jelly Roll Freedom Rockers",
-          "url": "https://open.spotify.com/artist/4x6x20x5537T3IiZoRl8DO"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Blues For Yesterday",
-      "url": "https://open.spotify.com/track/42s2qNbcElKqt29lcWXapw"
-    },
-    {
-      "added_at": "2021-03-19 05:01:00",
-      "album": {
-        "name": "I've Got to Use My Imagination",
-        "url": "https://open.spotify.com/album/64ekAE6otxRFXCez5e5IeK"
-      },
-      "artists": [
-        {
-          "name": "David Starr",
-          "url": "https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1"
-        }
-      ],
-      "duration_ms": 234496,
-      "name": "I've Got to Use My Imagination",
-      "url": "https://open.spotify.com/track/3xLigydauGKn4eJWYziPuN"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "I Feel So Good",
-        "url": "https://open.spotify.com/album/3eae0rBXR5q244uoqnbhVd"
-      },
-      "artists": [
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        }
-      ],
-      "duration_ms": 216853,
-      "name": "I Feel So Good",
-      "url": "https://open.spotify.com/track/6cC947WJ1IZrBmR36VVaVw"
-    },
-    {
-      "added_at": "2021-04-13 15:26:57",
-      "album": {
-        "name": "The Big Sound of Lil' Ed & The Blues Imperials",
-        "url": "https://open.spotify.com/album/0bgCN0pFtQMEfoaiNRaoCR"
-      },
-      "artists": [
-        {
-          "name": "Lil Ed & The Blues Imperials",
-          "url": "https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Giving Up On Your Love",
-      "url": "https://open.spotify.com/track/1b4iMXi38xiZM6emdMlU0O"
-    },
-    {
-      "added_at": "2021-04-13 15:26:57",
-      "album": {
-        "name": "Lucky Guy!",
-        "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
-      },
-      "artists": [
-        {
-          "name": "Nick Moss Band",
-          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
-        },
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Lucky Guy",
-      "url": "https://open.spotify.com/track/6MBT2rtlyXmTcZqYEAvmjL"
     }
   ],
   "unique_name": "Got Blues",

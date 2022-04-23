@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 367272,
       "name": "Acid Drill - Original Mix",
       "url": "https://open.spotify.com/track/2AXQbPlmEThRLh2dmZpYs3"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 321666,
       "name": "Deine Angst",
       "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 328129,
       "name": "East Row",
       "url": "https://open.spotify.com/track/0BuEo26rxQTB7R4S6EoCak"
@@ -2545,7 +2545,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 439846,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/20JLDgHPtnS1HNl9kpNazp"
@@ -4166,6 +4166,24 @@
     },
     {
       "album": {
+        "name": "Umbilicis Universalis",
+        "url": "https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420923,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1"
+    },
+    {
+      "album": {
         "name": "Rock With Me",
         "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
       },
@@ -4217,6 +4235,24 @@
       "duration_ms": 396992,
       "name": "Rush",
       "url": "https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7"
+    },
+    {
+      "album": {
+        "name": "Sabotage EP",
+        "url": "https://open.spotify.com/album/48Zh6P4xu8LPMTdcqvbB9o"
+      },
+      "artists": [
+        {
+          "name": "Uncertain",
+          "url": "https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323321,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/6Jq60qpC6EeD0tUeRbPM2m"
     },
     {
       "album": {
@@ -4391,6 +4427,28 @@
       "duration_ms": 415077,
       "name": "Sense",
       "url": "https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk"
+    },
+    {
+      "album": {
+        "name": "Sentinel",
+        "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388500,
+      "name": "Sentinel - Original Mix",
+      "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
     },
     {
       "album": {
@@ -5266,6 +5324,24 @@
     },
     {
       "album": {
+        "name": "Together One Time",
+        "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
+      },
+      "artists": [
+        {
+          "name": "Kaiserdisco",
+          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288671,
+      "name": "Together One Time",
+      "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "album": {
         "name": "Club Quarant\u00e4ne I",
         "url": "https://open.spotify.com/album/2ZXpPaoDHmkruzEeSNMscv"
       },
@@ -5821,7 +5897,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 317200,
       "name": "Wise Saying",
       "url": "https://open.spotify.com/track/12w5BTUsdBNPQtDQr0xe8w"
@@ -5922,6 +5998,24 @@
     },
     {
       "album": {
+        "name": "You're Toxic",
+        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371555,
+      "name": "You're Toxic",
+      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
+    },
+    {
+      "album": {
         "name": "Your Lovin'",
         "url": "https://open.spotify.com/album/6JqnPZwouMmP5HW8v9CeT8"
       },
@@ -5951,7 +6045,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 295682,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/4EnsqgcfZCY8ADE530NaNZ"
@@ -5973,6 +6067,24 @@
       "duration_ms": 370909,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/3IMTEfVAOJZAD5xE6kDct3"
+    },
+    {
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298181,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6J5NfMJS675"

@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-147 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+149 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Junkyard](https://open.spotify.com/track/0e6DNQUhI8lQKxmpY3sgA3) | [Madd3e](https://open.spotify.com/artist/6QnSsfZW8okVlHBenG0Nu2) | [Junkyard](https://open.spotify.com/album/1kcSDURv7MX0D939GVGbNE) | 3:33 | 2021-10-15 | 2022-01-13 |
 | [Kabeljau](https://open.spotify.com/track/5yKlkKJ1gtIHuzSSP4TdLt) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu) | 4:21 | 2021-10-15 | 2022-02-26 |
 | [Kagen Sound](https://open.spotify.com/track/4jfmpxZgW0ci3DcL7mzfsr) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Kagen Sound](https://open.spotify.com/album/4RcCF7AZ8Al5ymICWmx2GI) | 3:07 | 2021-10-15 | 2022-03-12 |
-| [Krautzig](https://open.spotify.com/track/5wHwkOh0OSD1jTuCU0vbON) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/0o3CLwPVmejxqUgpkuJ4AK) | 4:07 | 2021-10-15 |  |
+| [Krautzig](https://open.spotify.com/track/5wHwkOh0OSD1jTuCU0vbON) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/0o3CLwPVmejxqUgpkuJ4AK) | 4:07 | 2021-10-15 | 2022-04-23 |
 | [Kreuzung](https://open.spotify.com/track/7zJe81f6l3pHwpUGSQj3HY) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Tour EP](https://open.spotify.com/album/32huL0HZ3oloBP8UHs5H4X) | 5:56 | 2021-10-15 | 2022-02-10 |
 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 | 2022-02-16 |  |
 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-01-21 |  |
@@ -100,7 +100,7 @@
 | [Parallel 43](https://open.spotify.com/track/4rsZhH6Sw8s5mlGta3TvdP) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Parallel 43](https://open.spotify.com/album/701KrVPJbe3YxHsyFcacga) | 4:17 | 2022-01-20 |  |
 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 | 2021-10-15 |  |
 | [Patient Zero](https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG) | [Cosmo Vitelli](https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3) | [Patient Zero](https://open.spotify.com/album/39ih18n5FRp601HKnLJLCU) | 8:26 | 2022-02-09 |  |
-| [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2021-10-15 |  |
+| [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2021-10-15 | 2022-04-23 |
 | [Persuasion System](https://open.spotify.com/track/12RJmMBPv5onWiQosLJ6ZI) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Persuasion System](https://open.spotify.com/album/2Takb3WbmLXRVvXiFfnjnk) | 3:49 | 2021-10-15 | 2022-03-31 |
 | [Prometheus](https://open.spotify.com/track/2qNqhFlOdwEA5OMheOrome) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Prometheus](https://open.spotify.com/album/5yiLeekDCLQVR5cx53snW2) | 4:47 | 2021-10-15 | 2022-02-10 |
 | [Promise You'll Haunt Me](https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 6:33 | 2021-10-15 | 2022-01-20 |
@@ -127,6 +127,7 @@
 | [Stories](https://open.spotify.com/track/5BnLFmaAm7DqeXrZy1n8Jp) | [Herzeloyde](https://open.spotify.com/artist/2AmAO3IlqP2zaCoh98msPC) | [Stories](https://open.spotify.com/album/2flgQXTTijtmFYYNM6FsSm) | 3:17 | 2021-10-15 | 2022-01-20 |
 | [Subscribe](https://open.spotify.com/track/2iUIHIZabSIdYFj8A17cuQ) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [Subscribe](https://open.spotify.com/album/42p5J7pRDkQeW7lScyubyU) | 4:37 | 2022-02-14 |  |
 | [Sweat Sonic](https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Sweat Sonic](https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY) | 6:22 | 2022-01-13 |  |
+| [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 | 2022-04-22 |  |
 | [Talaria](https://open.spotify.com/track/2OAPybo0X5gpwyMAEnkJFA) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Talaria](https://open.spotify.com/album/6kZQMVK65YS2g3UuKZF1N2) | 5:15 | 2022-01-13 |  |
 | [Talk to Me](https://open.spotify.com/track/2bfLkpwxog2kK4QeJf6I3T) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 3:42 | 2021-10-15 | 2022-01-20 |
 | [Taurus](https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G) | 4:42 | 2022-01-14 |  |
@@ -135,6 +136,7 @@
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-10-15 | 2022-01-06 |
 | [The Sequences](https://open.spotify.com/track/3JT33da3jtbOdtvsl62vo5) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Sequences](https://open.spotify.com/album/3K4iHalnCDvOoPOrpelvNI) | 3:44 | 2021-10-15 | 2022-01-15 |
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3A5cWp5eGUjg993YKyVbgK) | 4:30 | 2021-10-15 | 2022-01-22 |
+| [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 | 2022-04-22 |  |
 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 | 2022-03-30 |  |
 | [Trains & Airports](https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sofia Kourtesis](https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY) | 6:38 | 2021-10-15 |  |
 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 | 2021-10-15 |  |

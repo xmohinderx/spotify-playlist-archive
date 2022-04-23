@@ -1,13 +1,29 @@
 {
-  "description": "New funky songs with a classic funky sound.",
-  "num_followers": 386499,
+  "description": "New funky songs with a classic funky sound. Cover: Lettuce",
+  "num_followers": 386607,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5NTI2MCwwMDAwMDA4YzAwMDAwMTgwMmI2MWExMWQwMDAwMDE2ZDE1MjkwMTY0",
+  "snapshot_id": "MTY1MDY0NTAwNSwwMDAwMDA5MDAwMDAwMTgwNTIxYmY2NjAwMDAwMDE4MDUyMWJjM2Mw",
   "tracks": [
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Everything's Gonna Be Alright",
+        "url": "https://open.spotify.com/album/2teo9fYVUAJ3qBRi3FIjJm"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/1USqDSnSZ2RYsZIflEJNWP"
+    },
     {
       "added_at": "2022-04-15 04:01:00",
       "album": {

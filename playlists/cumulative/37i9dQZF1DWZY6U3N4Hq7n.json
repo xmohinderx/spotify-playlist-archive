@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 280864,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/3XdKW1f4nItZqqXpQwEcaO"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 298866,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 272626,
       "name": "Heart Of Glass - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/2fUGPx3pB9uMu5oow2Sr1C"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
@@ -884,6 +884,24 @@
     },
     {
       "album": {
+        "name": "Hits Of The 80s",
+        "url": "https://open.spotify.com/album/0zPUfMqIUwToTHyUzK7GUx"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/1MTB6kf3yIYj5C4gL5ey2N"
+    },
+    {
+      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/5PVuX09frPq7AMYkkdcDfR"
       },
@@ -1029,6 +1047,24 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233440,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/0e1VL3FZmkgjKQ7wNmIHNc"
     },
     {
       "album": {
@@ -1581,7 +1617,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 245360,
       "name": "West End Girls - 2001 Remaster",
       "url": "https://open.spotify.com/track/00AdHZ94Jb7oVdHVJmJsIU"
@@ -1617,7 +1653,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-23",
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
@@ -1657,6 +1693,24 @@
       "duration_ms": 214573,
       "name": "White Wedding, Pt. 1 - Edit",
       "url": "https://open.spotify.com/track/5g5mL6j77KPniAoUUSEo7D"
+    },
+    {
+      "album": {
+        "name": "Slippery When Wet (Remastered)",
+        "url": "https://open.spotify.com/album/7pMFJnQzOnQXviU4FPpQAn"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/5VVwwfK6Cp9IydkhKfJUEq"
     },
     {
       "album": {

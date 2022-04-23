@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-54 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
+55 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Soft Night](https://open.spotify.com/track/4KO9s8B7n9ks2lgS7cqsPG) | [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ) | [CARM](https://open.spotify.com/album/4YRae7DKDb8FQ291vQ2CRY) | 3:59 | 2022-02-10 |  |
 | [Sun At 5 In 4161](https://open.spotify.com/track/28X5wrV8PXG4PpbEv7pjUt) | [Andrew Tuttle](https://open.spotify.com/artist/7oyH6DSD42pak09Jzqj9i7) | [Alexandra](https://open.spotify.com/album/79IqAxOyFTR78bqjoVLEB4) | 5:07 | 2022-02-10 |  |
 | [Sunshowers](https://open.spotify.com/track/4SEVKw96zpkG3TOAcNq8Zn) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 4:14 | 2022-02-10 |  |
+| [Swayfer Sandles](https://open.spotify.com/track/0g2Sexo4C8cIS5tmDUakjP) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [The Good Times](https://open.spotify.com/album/2M6pgY4xaIQcjpcMx8cFjP) | 2:39 | 2022-04-22 |  |
 | [Teek](https://open.spotify.com/track/5pbRRA6wZm1OtBDXQl464D) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV), [Ralph Farris](https://open.spotify.com/artist/7MqERo1Nx2kIaJJF9xjrUN) | [Modern Yesterdays](https://open.spotify.com/album/4pgnnkCEHdnCMzx2WS9tAI) | 4:31 | 2022-02-10 |  |
 | [The Forgotten Edge](https://open.spotify.com/track/5ErCjGniLLcIWPXw2v9zFV) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [The Forgotten Edge](https://open.spotify.com/album/6KmxT68b5ApWxOHWKOwfeu) | 2:18 | 2022-02-10 |  |
 | [The Going Through](https://open.spotify.com/track/4zAdKEsF0LHCSVeWaAm0I1) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py), [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Understand](https://open.spotify.com/album/7kPbydEQtj9F6TW6NEwSdI) | 4:37 | 2022-02-10 |  |
