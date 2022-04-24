@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: Milky Chance
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,350 likes - 121 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,385 likes - 121 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

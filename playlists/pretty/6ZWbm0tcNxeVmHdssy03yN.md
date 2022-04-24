@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,733 likes - 100 songs - 5 hr 22 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,741 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 12 | [CAP](https://open.spotify.com/track/3a1HcF4HuxICocwxOinRmG) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [CAP](https://open.spotify.com/album/4Quv2pJfaLNE36O6BSzbmk) | 2:55 |
 | 13 | [La calle está vacía](https://open.spotify.com/track/7CuWzJK2HSlGC6jkrpbRiN) | [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [La calle está vacía](https://open.spotify.com/album/69LcOJRkb54fML5i0P2vhl) | 4:13 |
 | 14 | [NEVER MISS](https://open.spotify.com/track/71rHz8juofgmlxseGijwkq) | [Yeo](https://open.spotify.com/artist/5TcPijsr7sstBFVAMNfdIm) | [NEVER MISS](https://open.spotify.com/album/1fve9ZOSrqJIeu692tXT3k) | 3:34 |
-| 15 | [Wonderful](https://open.spotify.com/track/4sUIeGfrG5NpXlzA0VUROF) | [Sundowners](https://open.spotify.com/artist/0vawNmvVL1rjYLltPFVoDO), [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Pulling Back The Night](https://open.spotify.com/album/4cYXac9wS40uExXP3NeNKA) | 3:46 |
+| 15 | [Wonderful \(feat\. Clean Cut Kid\)](https://open.spotify.com/track/4sUIeGfrG5NpXlzA0VUROF) | [Sundowners](https://open.spotify.com/artist/0vawNmvVL1rjYLltPFVoDO), [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Pulling Back The Night](https://open.spotify.com/album/4cYXac9wS40uExXP3NeNKA) | 3:46 |
 | 16 | [Same Day](https://open.spotify.com/track/2cZYt0sBrV0ueBWewLBtqR) | [k.fine](https://open.spotify.com/artist/399wsP5nh7tQ1VkaVSN4Zr) | [Same Day](https://open.spotify.com/album/2mxnROwK19JtU01xLVnQhe) | 7:02 |
 | 17 | [Paradise](https://open.spotify.com/track/6xr9DaH1Gib8jmyIcrUOU1) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Before You Exit](https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw) | [Paradise](https://open.spotify.com/album/3xf14rtHYQvl91hQ2pUORd) | 2:56 |
 | 18 | [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 |

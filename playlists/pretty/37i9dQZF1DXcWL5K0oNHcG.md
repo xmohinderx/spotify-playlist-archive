@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Footprint Project\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,043 likes - 123 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,106 likes - 123 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [High with Me](https://open.spotify.com/track/4npQ5B7PrxGtxoWHqQ1wbe) | [hard.times](https://open.spotify.com/artist/4YPWm7B3v1LMxmkPTc5kkc), [Lady Phyl](https://open.spotify.com/artist/2Sj10auNFpo3YkxpxFp5yI) | [High with Me](https://open.spotify.com/album/3u9oXr7VWoLd9eTllucHHd) | 5:44 |
-| 2 | [PROJECTION](https://open.spotify.com/track/1vTn0QTElNXNRVF94V3Seq) | [Ryo Kishimoto](https://open.spotify.com/artist/5ikEBMRSVGSFtUBSpnQwYy) | [PROJECTION](https://open.spotify.com/album/6fY80sz2qkqRuWb4oVaWPh) | 5:12 |
+| 2 | [PROJECTION](https://open.spotify.com/track/1vTn0QTElNXNRVF94V3Seq) | [岸本亮](https://open.spotify.com/artist/56vqmr9No2odAdjmfeTMY3) | [PROJECTION](https://open.spotify.com/album/6fY80sz2qkqRuWb4oVaWPh) | 5:12 |
 | 3 | [Meva Festa](https://open.spotify.com/track/0ojt0cv7WeGO49b4Xg23Bb) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [Meva Festa](https://open.spotify.com/album/51a9GxQmKgfDPElbExhjdC) | 4:55 |
 | 4 | [Bossfight](https://open.spotify.com/track/6jQqrQmqPKcMyZA5pbgn7x) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Pariss Elektra](https://open.spotify.com/artist/3He52zYjFhdsoNua35KzxE) | [Bossfight](https://open.spotify.com/album/2SFH3JK7MDqWnYkTF2I7mG) | 4:24 |
 | 5 | [Dancing Awa \- Radio Edit](https://open.spotify.com/track/6smWKJrW0JNRtVzz3eck8e) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [Dancing Awa \(Radio Edit\)](https://open.spotify.com/album/4X3YtWy1VfsGL1EXAa2pEv) | 3:59 |

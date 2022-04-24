@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: SEMAJE
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,326 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,429 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 11 | [PROBLEMATIC \(feat\. Travis Hobson\) \- Remix](https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Travis Hobson](https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR) | [PROBLEMATIC \(Remix\) \[feat\. Travis Hobson\]](https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86) | 2:23 |
 | 12 | [Caught Up](https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Caught Up](https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl) | 2:20 |
 | 13 | [Never Leave Me](https://open.spotify.com/track/750IEpoifcy2HeUbZdBtuM) | [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [Ray Yung](https://open.spotify.com/artist/0zZb8rW9zsevcZi72WM9RJ) | [Keep It Kingdom](https://open.spotify.com/album/3MlxrwLeigcp0s9GMBwEAH) | 4:45 |
-| 14 | [His Own](https://open.spotify.com/track/6t3of7F7zx2SwmDgRD5meQ) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [His Own](https://open.spotify.com/album/2EJzFXvdGBLUaTrcILHbJw) | 2:51 |
+| 14 | [His Own \(Leave Me Alone\)](https://open.spotify.com/track/6t3of7F7zx2SwmDgRD5meQ) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [His Own \(Leave Me Alone\)](https://open.spotify.com/album/2EJzFXvdGBLUaTrcILHbJw) | 2:51 |
 | 15 | [Won't Let Me Go](https://open.spotify.com/track/4FNan8GUauT5ZdZONLCzdq) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Won't Let Me Go](https://open.spotify.com/album/1XIHJlUQDa7CFghiCQw1Nt) | 3:35 |
 | 16 | [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 |
 | 17 | [That's Enough](https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:36 |

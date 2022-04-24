@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-22",
   "description": "Sangre fresca en las escenas del indie y el rock. Zo\u00e9 en portada.",
   "name": "EL ROCK NO HA MUERTO",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1V1OHh2gBqHE70WTxIG68y"
+  ],
   "tracks": [
     {
       "album": {
@@ -24,6 +26,42 @@
     },
     {
       "album": {
+        "name": "4 del 20",
+        "url": "https://open.spotify.com/album/0iugtNNvaIcTPzV7C7ASqK"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300821,
+      "name": "4 del 20",
+      "url": "https://open.spotify.com/track/6mVKbQnY3peMr8PovVEtF3"
+    },
+    {
+      "album": {
+        "name": "Agua Bendita",
+        "url": "https://open.spotify.com/album/1uoSSfoTMTOr3TrsrPQXZV"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263366,
+      "name": "Agua Bendita",
+      "url": "https://open.spotify.com/track/1ypw0w1I3jJNlQfcg6CP0y"
+    },
+    {
+      "album": {
         "name": "Agua Santa",
         "url": "https://open.spotify.com/album/0ZPPC5qJzigZ6X7k3dyZ4d"
       },
@@ -35,7 +73,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 247431,
       "name": "Agua Santa",
       "url": "https://open.spotify.com/track/0arH8qrtmayVDnxuySM798"
@@ -519,7 +557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 328040,
       "name": "Hasta Que el Tiempo No Nos Separe",
       "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
@@ -573,7 +611,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 153065,
       "name": "Huracanes",
       "url": "https://open.spotify.com/track/1yZgpMuX3epcV1U6hjDAI1"
@@ -699,7 +737,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 232605,
       "name": "La Tregua",
       "url": "https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx"
@@ -836,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Melod\u00edas Nublados",
+        "url": "https://open.spotify.com/album/5P10qJonXLknLPrtXbK5qB"
+      },
+      "artists": [
+        {
+          "name": "Build a Vista",
+          "url": "https://open.spotify.com/artist/5Rd2pJnoEa82vN30QvIqvX"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182320,
+      "name": "Melod\u00edas Nublados",
+      "url": "https://open.spotify.com/track/5ASuoktRXvWLWOjS9YHs6b"
+    },
+    {
+      "album": {
         "name": "Mentiroso",
         "url": "https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ"
       },
@@ -865,7 +921,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 188181,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
@@ -887,7 +943,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 230519,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/6CXqrDkEPNtWpl0MmBODAN"
@@ -1049,7 +1105,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 184533,
       "name": "Nunca te am\u00e9",
       "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
@@ -1114,6 +1170,24 @@
     },
     {
       "album": {
+        "name": "Polvo C\u00f3smico",
+        "url": "https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY"
+      },
+      "artists": [
+        {
+          "name": "Leonardo de Lozanne",
+          "url": "https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241160,
+      "name": "Polvo C\u00f3smico",
+      "url": "https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC"
+    },
+    {
+      "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
         "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
@@ -1165,7 +1239,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 193239,
       "name": "Punk",
       "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
@@ -1213,6 +1287,28 @@
       "duration_ms": 221390,
       "name": "Respiro (Cap. 8)",
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
+    },
+    {
+      "album": {
+        "name": "Sin Condiciones",
+        "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
+      },
+      "artists": [
+        {
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        },
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230725,
+      "name": "Sin Condiciones",
+      "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
     },
     {
       "album": {
@@ -1411,7 +1507,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 338680,
       "name": "Tomar el Sol",
       "url": "https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9"

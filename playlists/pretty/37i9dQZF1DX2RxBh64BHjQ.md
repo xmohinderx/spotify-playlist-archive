@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: Hunxho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,623,480 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,623,754 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 57 | [Ridin](https://open.spotify.com/track/4yyc6fQflpJKQuUgAGn3U4) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Ridin](https://open.spotify.com/album/30eonPnNXrSWy4BLnPZktk) | 2:53 |
 | 58 | [Nothing Left](https://open.spotify.com/track/7CRwGeKhIQTsbtcvHp2eRE) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Nothing Left](https://open.spotify.com/album/2mEfZJ6sqQqbUh62eu1DJt) | 2:26 |
 | 59 | [Grammy \(feat\. 42 Dugg\)](https://open.spotify.com/track/4LVdnDH6weCqY7UlapHCqn) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Buy or Bye 2 \(Deluxe\)](https://open.spotify.com/album/4YgTJRqW6VxqA3CgBNsuZE) | 2:40 |
-| 60 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 |
+| 60 | [Vulture Island V2](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 |
 | 61 | [Steppers](https://open.spotify.com/track/0Cof04dNGqSQPNc2NpQg8J) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2 \(Deluxe\)](https://open.spotify.com/album/5AeTBSf9ogUyItM9wLQK9u) | 2:30 |
 | 62 | [Ha Ha Ha Ha](https://open.spotify.com/track/1w4rNrGx0wma36pUiZGJyr) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [Ha Ha Ha Ha](https://open.spotify.com/album/2nI2NLgIRedSw5UnPPKiKF) | 3:34 |
 | 63 | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/track/0Btz9n7eympYOWBp6ICg1P) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb) | 2:59 |

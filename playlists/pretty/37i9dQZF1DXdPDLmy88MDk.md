@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,163 likes - 93 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,243 likes - 93 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 69 | [Saving Daylight](https://open.spotify.com/track/7HxNsdmd735QOTD6tXKbBm) | [The Barton Brothers](https://open.spotify.com/artist/1ykYvVE2DgKGuYNLn3Oe1U), [Dan Barton](https://open.spotify.com/artist/1m0j0McjgAhDXmJOEfcroM) | [Oak & Ivory](https://open.spotify.com/album/0PZufFA3JVC9jwwNR0JFTk) | 2:50 |
 | 70 | [Hiraeth](https://open.spotify.com/track/5ufCopwrQuarKWJv1joxmb) | [Scott Buckley](https://open.spotify.com/artist/5yD73qOOW6Eb5bc8OZ5vZn) | [Hiraeth](https://open.spotify.com/album/1qLmLJmIbqiWwMjvjm4ECD) | 5:46 |
 | 71 | [Lament in Tremelo Form](https://open.spotify.com/track/4VMQ52kwhOECEsDGstxyBj) | [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk), [William Chapman Nyaho](https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo) | [Kete \- Piano Music of Africa and the African Diaspora](https://open.spotify.com/album/2p9Sb0tIEgL88LCXT7FMB2) | 4:27 |
-| 72 | [Nocturne in D\-Flat Major, Op\. 27, No\. 2](https://open.spotify.com/track/6yJWLGvhydE9b9Lpk68HYN) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Brigitte Engerer](https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn) | 5:53 |
+| 72 | [Nocturnes, Op\. 27: II\. Lento sotenuto](https://open.spotify.com/track/6yJWLGvhydE9b9Lpk68HYN) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Brigitte Engerer](https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn) | 5:53 |
 | 73 | [Silence](https://open.spotify.com/track/4BZoYzYti7JySxL3yxZGfi) | [Silvan Rupp](https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt), [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Silence](https://open.spotify.com/album/1q3F9PLbSvXiYvgwS6QoM7) | 2:29 |
 | 74 | [Aria variata in A Minor, BWV 989: Var\. 10, —](https://open.spotify.com/track/4U9G8GTbNsResg1stwT3BK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tamara Stefanovich](https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC) | [Influences](https://open.spotify.com/album/4Ue2myfhYRmIcbowoQCAnY) | 2:32 |
 | 75 | [All This Will Happen Again](https://open.spotify.com/track/6u9kkqfjdZPxAxEtHmGl68) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [If It Were You, We'd Never Leave \(Bonus Track Version\)](https://open.spotify.com/album/5lR2OH2Mw2L1dwIBpM16GD) | 4:21 |

@@ -194,6 +194,50 @@
     },
     {
       "album": {
+        "name": "J. S. Bach: Brandenburg Concertos",
+        "url": "https://open.spotify.com/album/7oGJFBRDBmwXfQXcJD6X15"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Freiburger Barockorchester",
+          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402226,
+      "name": "Brandenburg Concerto No. 4 in G Major, BWV 1049: I. Allegro",
+      "url": "https://open.spotify.com/track/24UDkOLbWHqmjPgD1UJmyC"
+    },
+    {
+      "album": {
+        "name": "J. S. Bach: Brandenburg Concertos",
+        "url": "https://open.spotify.com/album/7oGJFBRDBmwXfQXcJD6X15"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Freiburger Barockorchester",
+          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Brandenburg Concerto No. 4 in G Major, BWV 1049: II. Andante",
+      "url": "https://open.spotify.com/track/6gi9UGQqI7ff5ABqz9fBEb"
+    },
+    {
+      "album": {
         "name": "Bach, J.S.: Brandenburg Concertos etc.",
         "url": "https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV"
       },
@@ -288,7 +332,7 @@
     },
     {
       "album": {
-        "name": "J.S. Bach: Solo & Double Violin Concertos",
+        "name": "Bach: Solo & Double Violin Concertos",
         "url": "https://open.spotify.com/album/0M1DxKzMIxUk8XME68Mgeq"
       },
       "artists": [
@@ -301,6 +345,10 @@
           "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
         },
         {
+          "name": "Rachel Podger",
+          "url": "https://open.spotify.com/artist/15Z3Bkemf6mvB3IkOBvJOn"
+        },
+        {
           "name": "Academy of Ancient Music",
           "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
         }
@@ -308,13 +356,13 @@
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 208493,
-      "name": "Concerto in D Minor for Two Violins, BWV 1043: Concerto in D Minor for Two Violins, BWV 1043: I. Vivace",
+      "duration_ms": 208400,
+      "name": "Concerto for Two Violins in D Minor, BWV 1043: I. Vivace",
       "url": "https://open.spotify.com/track/3p6MzX67qzgzgHlGaq62HM"
     },
     {
       "album": {
-        "name": "J.S. Bach: Solo & Double Violin Concertos",
+        "name": "Bach: Solo & Double Violin Concertos",
         "url": "https://open.spotify.com/album/0M1DxKzMIxUk8XME68Mgeq"
       },
       "artists": [
@@ -327,6 +375,10 @@
           "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
         },
         {
+          "name": "Rachel Podger",
+          "url": "https://open.spotify.com/artist/15Z3Bkemf6mvB3IkOBvJOn"
+        },
+        {
           "name": "Academy of Ancient Music",
           "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
         }
@@ -334,8 +386,8 @@
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 387400,
-      "name": "Concerto in D Minor for Two Violins, BWV 1043: Concerto in D Minor for Two Violins, BWV 1043: II. Largo ma non tanto",
+      "duration_ms": 387333,
+      "name": "Concerto for Two Violins in D Minor, BWV 1043: II. Largo ma non tanto",
       "url": "https://open.spotify.com/track/0hIr784kGfRf5EVFGP1dFi"
     },
     {
@@ -381,50 +433,6 @@
       "duration_ms": 228266,
       "name": "Concerto in the Italian Style in F Major, BWV 971: I. Allegro",
       "url": "https://open.spotify.com/track/5vaj19JrnNJfkdKgMRXUiV"
-    },
-    {
-      "album": {
-        "name": "J. S. Bach: Brandenburg Concertos",
-        "url": "https://open.spotify.com/album/7oGJFBRDBmwXfQXcJD6X15"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Freiburger Barockorchester",
-          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 402226,
-      "name": "Concerto No. 4 in G major, BWV 1049: I. Allegro",
-      "url": "https://open.spotify.com/track/24UDkOLbWHqmjPgD1UJmyC"
-    },
-    {
-      "album": {
-        "name": "J. S. Bach: Brandenburg Concertos",
-        "url": "https://open.spotify.com/album/7oGJFBRDBmwXfQXcJD6X15"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Freiburger Barockorchester",
-          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219946,
-      "name": "Concerto No. 4 in G major, BWV 1049: II. Andante",
-      "url": "https://open.spotify.com/track/6gi9UGQqI7ff5ABqz9fBEb"
     },
     {
       "album": {
@@ -871,40 +879,6 @@
       "duration_ms": 300306,
       "name": "Mass in B Minor, BWV 232: Aria. Agnus Dei",
       "url": "https://open.spotify.com/track/5oohF2w8qKqeCnLjyaZulb"
-    },
-    {
-      "album": {
-        "name": "J.S. Bach: St Matthew Passion, BWV 244 (Matth\u00e4us-Passion)",
-        "url": "https://open.spotify.com/album/2rA6ZfJR23Bg7oX9sWzTUf"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "RIAS Kammerchor",
-          "url": "https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx"
-        },
-        {
-          "name": "Staats- und Domchor Berlin",
-          "url": "https://open.spotify.com/artist/13K5o1jqGYUEOTR4fEwC93"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        },
-        {
-          "name": "Ren\u00e9 Jacobs",
-          "url": "https://open.spotify.com/artist/3hwPQDlJr99FzncxqZD2SU"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 511320,
-      "name": "Matth\u00e4us-Passion: Erster Teil, 1. Chorus I & II Kommt, ihr T\u00f6chter, helft mir klagen",
-      "url": "https://open.spotify.com/track/7nVJBlD3jmbaq3w6iv6Ygm"
     },
     {
       "album": {
@@ -1407,6 +1381,40 @@
       "duration_ms": 480093,
       "name": "St. Matthew Passion, BWV 244 - Part One: 1. Kommt, ihr T\u00f6chter, helft mir klagen",
       "url": "https://open.spotify.com/track/3KEWaqqdnB05DTOjgdQFwD"
+    },
+    {
+      "album": {
+        "name": "Bach: Matth\u00e4us-Passion (St Matthew Passion)",
+        "url": "https://open.spotify.com/album/2rA6ZfJR23Bg7oX9sWzTUf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "RIAS Kammerchor",
+          "url": "https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx"
+        },
+        {
+          "name": "Staats- und Domchor Berlin",
+          "url": "https://open.spotify.com/artist/13K5o1jqGYUEOTR4fEwC93"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        },
+        {
+          "name": "Ren\u00e9 Jacobs",
+          "url": "https://open.spotify.com/artist/3hwPQDlJr99FzncxqZD2SU"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511320,
+      "name": "St. Matthew Passion, BWV 244, Part I: No. 1, \"Kommt, ihr T\u00f6chter, helft mir klagen\" (Chorus I & II)",
+      "url": "https://open.spotify.com/track/7nVJBlD3jmbaq3w6iv6Ygm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Jason Aldean
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,377 likes - 103 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,500 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 102 | [Pretty Good Tonight](https://open.spotify.com/track/67mNH9pQCPMXhoqGAqwnoh) | [Bobby Wills](https://open.spotify.com/artist/32vz5yfClDLomeIAH6LF5Q) | [Pretty Good Tonight](https://open.spotify.com/album/77giuIWxvVxYULhmowofqa) | 2:41 |
 | 103 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 |
 
-Snapshot ID: `MTY1MDY3NTE3NywwMDAwMDAwMGQxMjA5N2QzMjRlZjgwMzcwNmM1NTI2M2QxMzAwZDky`
+Snapshot ID: `MTY1MDc2MTUzMSwwMDAwMDAwMGQxMjA5N2QzMjRlZjgwMzcwNmM1NTI2M2QxMzAwZDky`

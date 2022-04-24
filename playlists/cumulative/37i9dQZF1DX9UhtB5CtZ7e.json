@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Loving on the Flipside",
+        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
+      },
+      "artists": [
+        {
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208533,
+      "name": "At the Hotel",
+      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
+    },
+    {
+      "album": {
         "name": "Dreamin' Wild",
         "url": "https://open.spotify.com/album/1HcQIMkGuDQOCOubskC3MK"
       },
@@ -95,7 +113,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 251133,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3DoMSMhFxZex9Wk8aLcZUt"
@@ -185,7 +203,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 305776,
       "name": "Cheer up, My Brother",
       "url": "https://open.spotify.com/track/31zYh8oGKMrGbQV3nnoes3"
@@ -261,7 +279,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 172653,
       "name": "Damselfly",
       "url": "https://open.spotify.com/track/2QMihQt7YoEPkPNcDsAJf5"
@@ -297,7 +315,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 214893,
       "name": "Do What You Gotta Do",
       "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 130427,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 214853,
       "name": "Green Lights",
       "url": "https://open.spotify.com/track/1y16qMm3FofXQICk50Y7Gc"
@@ -521,10 +539,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 144929,
       "name": "Homesick Remedy",
       "url": "https://open.spotify.com/track/2Sn2XxPVmOgoZbdxckimxP"
+    },
+    {
+      "album": {
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/6hH6bJSrrYLhkxNMyjMMQg"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/48adozpGXvUuNFFLur3Mq6"
     },
     {
       "album": {
@@ -593,7 +629,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 189186,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
@@ -611,7 +647,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 214733,
       "name": "I Wish I Was the Moon",
       "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
@@ -741,7 +777,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 205595,
       "name": "Lonely (feat. Lorine Chia)",
       "url": "https://open.spotify.com/track/31c86U35gJEV813lIaQzZe"
@@ -763,7 +799,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
@@ -799,7 +835,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 213136,
       "name": "Mad About You",
       "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
@@ -860,6 +896,24 @@
     },
     {
       "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197182,
+      "name": "Naked - Bonus Track",
+      "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"
+    },
+    {
+      "album": {
         "name": "Nico's Red Truck",
         "url": "https://open.spotify.com/album/78GSLFGpqG8ra9QXiRsqpd"
       },
@@ -889,7 +943,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 243131,
       "name": "No. 1 Party Anthem",
       "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
@@ -907,7 +961,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 158146,
       "name": "OKAY OKAY",
       "url": "https://open.spotify.com/track/1Wds4TjXgP26AW9H8LALtQ"
@@ -943,7 +997,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
@@ -1045,7 +1099,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 185076,
       "name": "Small Town Girl",
       "url": "https://open.spotify.com/track/7tbpHQMGcySPP07HlhWcBQ"
@@ -1117,7 +1171,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 249666,
       "name": "Strawberry Swing",
       "url": "https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3"

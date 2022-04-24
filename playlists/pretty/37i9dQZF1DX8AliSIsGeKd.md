@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Carbon
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,016 likes - 75 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,192 likes - 75 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 63 | [Keep Running \- Ivory's Euphoria Mix](https://open.spotify.com/track/7si8Bm1ZjGpClkgQeoHChP) | [Yeah But No](https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J), [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [The Shadow Self III](https://open.spotify.com/album/2TKIT3Rm73wqe5cEyjWKF6) | 5:50 |
 | 64 | [Sosiego \- Lauer Remix, Radio Edit](https://open.spotify.com/track/6dry4EgqZBelR0oOVF1RoU) | [Lucefora](https://open.spotify.com/artist/6GKpX2YtbMOIQVpv3DpFBv), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Sosiego \- Lauer Remix](https://open.spotify.com/album/4a3AhQiYhJezetk5859wIw) | 4:33 |
 | 65 | [Midnight Ride \(feat\. Robert Owens\) \- Edit](https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Midnight Ride](https://open.spotify.com/album/709wOwF53N1Z55OsZZJDAa) | 4:07 |
-| 66 | [Noja](https://open.spotify.com/track/7yRGxtFHvLoY4zux9m1wKg) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Noja](https://open.spotify.com/album/20QqDAGnURgT7t8ZVbWYmx) | 6:11 |
+| 66 | [Noja](https://open.spotify.com/track/7yRGxtFHvLoY4zux9m1wKg) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Noja](https://open.spotify.com/album/20QqDAGnURgT7t8ZVbWYmx) | 8:35 |
 | 67 | [Tuwani](https://open.spotify.com/track/2QLaiqcNKvZxe3dx3Ns5GZ) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Tuwani](https://open.spotify.com/album/1pNjrHigALUxRSPU4L5Ez6) | 7:38 |
 | 68 | [Melancholia \- Daniel Avery Remix](https://open.spotify.com/track/11DxYsqMcwpZCNCUCH2nBb) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Melancholia \(Daniel Avery Remix\)](https://open.spotify.com/album/4BUimGd4lxPbJe1h6AtO8d) | 5:12 |
 | 69 | [Together \- Original Mix](https://open.spotify.com/track/1zTeCxRDO5MNhnbfYwMniB) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Greenjack](https://open.spotify.com/artist/5UNb9MJcBSlRnsFYQpsQWI) | [Together](https://open.spotify.com/album/4pgYLuSrG7jYIYncpAJ0CX) | 4:49 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 72 | [Mas Profundo](https://open.spotify.com/track/2o09QAjkmeZolqCLDN9WBO) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [In the Middle \(Extended\)](https://open.spotify.com/album/22bjnH6d8ku8lipQ43ti75) | 8:18 |
 | 73 | [Say More](https://open.spotify.com/track/1RtDOgXYOrME0SIl4vjUi6) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Say More / U\-Haul](https://open.spotify.com/album/7hXJj8x1CT5WZHb5uVhuKa) | 5:41 |
 | 74 | [Yungas Road](https://open.spotify.com/track/1tp9IOe6CH4EePwBPXJQfe) | [Aiwaska](https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN), [Teologen](https://open.spotify.com/artist/4M1LcFlXnn95AquXVUfHx8) | [Yungas Road](https://open.spotify.com/album/0X4FQU9dd5HVGCXUYT7NQM) | 5:58 |
-| 75 | [Struktur Eins \- Alec Troniq Remix](https://open.spotify.com/track/10SevbGVJwO3NRQK1Zuw5Q) | [Michael Schreiber](https://open.spotify.com/artist/1huGc82SRVDPSQPAtXRNL9), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx) | [Struktur Eins \(Alec Troniq Remix\)](https://open.spotify.com/album/3STD7mWR8S45KPhuKvSvuH) | 7:20 |
+| 75 | [Struktur Eins \- Alec Troniq Remix](https://open.spotify.com/track/10SevbGVJwO3NRQK1Zuw5Q) | [Michael Schreiber](https://open.spotify.com/artist/3dobxJR3wYBGn4SOdsu1l6), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx) | [Struktur Eins \(Alec Troniq Remix\)](https://open.spotify.com/album/3STD7mWR8S45KPhuKvSvuH) | 7:20 |
 
 Snapshot ID: `MTY1MDYyMTI3MCwwMDAwMDE4OTAwMDAwMTgwNTBiMWM4MTQwMDAwMDE4MDRjMTk1NGMy`

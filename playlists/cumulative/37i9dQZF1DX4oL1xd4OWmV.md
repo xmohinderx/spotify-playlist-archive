@@ -4,7 +4,7 @@
 
 > Nadie puede quedarse callado cuando estos clásicos suenan en la tribuna.
 
-60 songs - 3 hr 57 min - not published yet
+60 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/7JLQMvMjmUT8OSs9Wjf0X9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -688,6 +688,28 @@
     },
     {
       "album": {
+        "name": "Brazy",
+        "url": "https://open.spotify.com/album/5NPJChyQgOZaESCjr2EgVg"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169245,
+      "name": "Brazy (with YNW Melly)",
+      "url": "https://open.spotify.com/track/6wVUIV8RvwlLJlK1DsgVdj"
+    },
+    {
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/3bu2hCBDxrV8w7ja7xA0KT"
       },
@@ -1173,6 +1195,24 @@
       "duration_ms": 205758,
       "name": "Elon Musk (feat. Gunna)",
       "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
+    },
+    {
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176850,
+      "name": "Every Good Girl",
+      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
     },
     {
       "album": {
@@ -2579,7 +2619,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 164571,
       "name": "No Love (feat. Sleepy Hallow)",
       "url": "https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov"
@@ -3505,7 +3545,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 166678,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"

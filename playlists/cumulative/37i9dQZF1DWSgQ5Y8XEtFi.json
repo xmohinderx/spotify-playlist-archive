@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 195030,
       "name": "Basilisk",
       "url": "https://open.spotify.com/track/4YOE7li8bD3CDbhzByFKcJ"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 127103,
       "name": "D ROD",
       "url": "https://open.spotify.com/track/3DsDTlZXGzJ7qIZ7Bs0UIX"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 145624,
       "name": "Flash Bang",
       "url": "https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO"
@@ -675,6 +675,24 @@
       "duration_ms": 177048,
       "name": "For Real",
       "url": "https://open.spotify.com/track/3tcoEYOZUHKB3RKNByIN13"
+    },
+    {
+      "album": {
+        "name": "drive-by lullabies",
+        "url": "https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182389,
+      "name": "from paris, with love",
+      "url": "https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux"
     },
     {
       "album": {
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 160879,
       "name": "Hoover",
       "url": "https://open.spotify.com/track/2Xk50QBg06pdvGPbvzA4ON"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 169600,
       "name": "S.Y.K.",
       "url": "https://open.spotify.com/track/4ffuUoQxkBpobAfuS5NEKL"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 192815,
       "name": "SHOOTOUT",
       "url": "https://open.spotify.com/track/5eAXCjiH7Xa6in6wc4JCJB"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 202621,
       "name": "Subatomic",
       "url": "https://open.spotify.com/track/6WYCFNz19DmDYGxk5wqLiz"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 126062,
       "name": "Team",
       "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 172125,
       "name": "Zuccenberg",
       "url": "https://open.spotify.com/track/4m311PrEtKHZzy1JAsDCq1"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> New music from Pusha T, Megan Thee Stallion, Future, and Travis Scott  is here!
+> New music from Pusha T, Megan Thee Stallion, Future, and Travis Scott is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,631 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,692 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 75 | [Today \(feat\. Gunna\)](https://open.spotify.com/track/7z3rc7SCgjbAztt1cbXkVj) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:02 |
 | 76 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 |
 
-Snapshot ID: `MTY1MDYwMDAwMCwwMDAwMDQ1NDAwMDAwMTgwNGY2ZDNhZWMwMDAwMDE4MDRlMDY5NGE2`
+Snapshot ID: `MTY1MDcyOTk4OSwwMDAwMDQ1NTAwMDAwMTgwNTcyY2I0N2EwMDAwMDE4MDRlMDY5NGE2`

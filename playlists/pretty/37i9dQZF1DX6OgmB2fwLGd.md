@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: JELEEL!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,905 likes - 108 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,550 likes - 108 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 48 | [WTF](https://open.spotify.com/track/4aPn8qfGNZW7UmyJ7iwEwR) | [Xlovclo](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si) | [WTF](https://open.spotify.com/album/4Nvbq6zC8Yflyd1cAQETU1) | 1:29 |
 | 49 | [ASMR](https://open.spotify.com/track/7pHNksVEon80wFuuWrboLO) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [ZaeHD vs ZAEYAN, Vol\. 2](https://open.spotify.com/album/0gSgXddMRXf1h4TLbYuSNf) | 2:07 |
 | 50 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 |
-| 51 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 |
+| 51 | [Vulture Island V2](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 |
 | 52 | [fafo](https://open.spotify.com/track/2R711v6UpsgYvDuzCJ1iSl) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [fafo](https://open.spotify.com/album/0Q7DWii4IDrNrz9l4F6GPl) | 2:39 |
 | 53 | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP) | 3:19 |
 | 54 | [Watermelon Hero](https://open.spotify.com/track/59MvKs8OuZkO0KJ15Vq7zx) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [mr.siLLyfLow](https://open.spotify.com/album/5SRaTXbCU1nlFS6BEZIs8e) | 1:40 |

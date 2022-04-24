@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : <br/>Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,162 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,192 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thunderclouds](https://open.spotify.com/track/2OCV5Cn5DgesacD7ZLL10o) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Thunderclouds](https://open.spotify.com/album/0oTY2QwL9n2OHFEjk4SbSh) | 3:36 |
 | 2 | [Wave of Interest](https://open.spotify.com/track/2gYsdI8oB5mHdtXuB0Sh3u) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K) | [Wave of Interest](https://open.spotify.com/album/67R0QsEML7HjIug0FRaNPm) | 3:44 |
 | 3 | [M.A\. Style](https://open.spotify.com/track/4EIycv4Q7CUgghZZ0LXlHd) | [Clélya Abraham](https://open.spotify.com/artist/0GNZOSq7xhVU54hOIM4pKK), [Samuel F'hima](https://open.spotify.com/artist/29JEKS2tDqr2Bf5DW36QVx), [Tilo Bertholo](https://open.spotify.com/artist/735eCpUlcIWxcBweE02vjL), [Antonin Fresson](https://open.spotify.com/artist/4f40Q1SD28CRe1sXIKRyEn) | [La source](https://open.spotify.com/album/0019HzLbrGXubxmtWZvrx0) | 6:46 |
-| 4 | [Family](https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Family](https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR) | 3:08 |
+| 4 | [Family](https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Family](https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR) | 2:53 |
 | 5 | [Oh Yeah](https://open.spotify.com/track/3HKwb6ONXlvLwBEolbJGpG) | [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Tigre d'Eau Douce](https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k) | [Hymne au soleil](https://open.spotify.com/album/0mPyzBDNSZqBwiDYD8YAkH) | 3:40 |
 | 6 | [The Window](https://open.spotify.com/track/2lJzX1Vn1bEuCRrNUotnup) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [The Window](https://open.spotify.com/album/7CCjUNt1yUBYj87AE4Pzzw) | 4:34 |
 | 7 | [Plus Fort Que Nous](https://open.spotify.com/track/2nhWlpHs20wCiti78c52dI) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Plus Fort Que Nous](https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf) | 4:48 |

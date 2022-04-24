@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Alb Akhok",
+        "url": "https://open.spotify.com/album/67k3Nzh6LtOIlGBME6nEzK"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Sheba",
+          "url": "https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229200,
+      "name": "Alb Akhok",
+      "url": "https://open.spotify.com/track/4koneNxLYSL43LF9n5ua4k"
+    },
+    {
+      "album": {
         "name": "Aleky Eyoun",
         "url": "https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh"
       },
@@ -969,7 +987,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 282430,
       "name": "Kan Mawdo3",
       "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"

@@ -4,7 +4,7 @@
 
 > entering my reputation era 🐍
 
-188 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
+190 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Crucified](https://open.spotify.com/track/6fXzdWgyZhDeLmlzC7Mvco) | [Army Of Lovers](https://open.spotify.com/artist/3JXnjuv4hBqQKOVzJg74Lt) | [Massive Luxury Overdose](https://open.spotify.com/album/5glF3lGmuuYIHVeEVNUyyq) | 3:34 | 2022-01-27 | 2022-04-19 |
 | [Crush](https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Crush](https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ) | 4:02 | 2022-01-29 | 2022-04-21 |
 | [Cult Leader](https://open.spotify.com/track/1STwouYZSMXAaJ0nCrCsun) | [Cute Whore](https://open.spotify.com/artist/1N91cyUEOTgbI7s90LzhiE) | [Cult Leader](https://open.spotify.com/album/4huVKlLQxEzWjftYB6aRjp) | 5:43 | 2022-03-28 |  |
+| [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-22 |  |
 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2022-01-27 |  |
 | [Dangerous Woman](https://open.spotify.com/track/2h1IPjP471JJRSShTHRUhi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW) | 3:55 | 2022-01-27 | 2022-04-21 |
 | [Dark Lady](https://open.spotify.com/track/7ckF0HeHGMOEjNqW5GoTqq) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Universal Masters Collection](https://open.spotify.com/album/6SlRWiNTV4uuona6bAUWId) | 3:25 | 2022-04-18 | 2022-04-21 |
@@ -77,7 +78,7 @@
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-01-27 |  |
 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2022-01-27 |  |
 | [Funeral](https://open.spotify.com/track/3MNlGZIqeH2HEcMUItoxes) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Funeral](https://open.spotify.com/album/3NBOzOdKxI7HZZCkfgzEeT) | 3:22 | 2022-01-27 |  |
-| [Gangsta](https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 2:57 | 2022-01-27 |  |
+| [Gangsta](https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 2:57 | 2022-01-27 | 2022-04-24 |
 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 | 2022-01-27 |  |
 | [Girl With One Eye](https://open.spotify.com/track/0UdBCetwMDQO7JIhi7Waik) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:37 | 2022-01-27 | 2022-04-21 |
 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 | 2022-01-27 | 2022-04-21 |
@@ -104,7 +105,7 @@
 | [I See Red](https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh) | [Everybody Loves an Outlaw](https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW) | [I See Red](https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY) | 3:50 | 2022-01-27 | 2022-04-21 |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 | 2022-01-27 | 2022-04-21 |
 | [I'm Coming For It](https://open.spotify.com/track/1QIqFCNyeUhRMeXXC1zkGV) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [GREYLEE](https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5) | [I'm Coming For It](https://open.spotify.com/album/0VVnR9NcCSZWOS5YLXty60) | 3:07 | 2022-03-09 |  |
-| [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 | 2022-01-27 |  |
+| [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 | 2022-01-27 | 2022-04-24 |
 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 | 2022-03-18 |  |
 | [IM NOT SORRY](https://open.spotify.com/track/1p7CC1v247IBsIGplONX2c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IM NOT SORRY](https://open.spotify.com/album/1fzAlBGccCu9IWM8eCM4DC) | 2:41 | 2022-01-27 |  |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2022-01-27 | 2022-04-18 |
@@ -184,6 +185,7 @@
 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 | 2022-01-27 | 2022-04-21 |
 | [Tia Tamera \(feat\. Rico Nasty\)](https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:31 | 2022-01-27 |  |
 | [Twisted Nerve](https://open.spotify.com/track/3Y9wdXMh6sNt9fUwUqTqb7) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 1:27 | 2022-01-27 | 2022-04-20 |
+| [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN) | 2:13 | 2022-04-22 |  |
 | [Venom](https://open.spotify.com/track/3A0ITFj6kbb9CggwtPe55f) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:34 | 2022-01-27 |  |
 | [VILLAIN](https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:19 | 2022-01-27 |  |
 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 | 2022-01-27 | 2022-04-19 |

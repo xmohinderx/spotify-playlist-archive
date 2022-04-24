@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop and a little bit of rap\. Cover: anees
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,310 likes - 123 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,635 likes - 123 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 5 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 |
 | 6 | [24 48](https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [24 48](https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l) | 2:33 |
 | 7 | [summer&cigarettes](https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [summer&cigarettes](https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6) | 1:54 |
-| 8 | [Kick Back \(feat\. Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 |
+| 8 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 |
 | 9 | [Floats My Boat](https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [The Bright Side](https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ) | 3:26 |
 | 10 | [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 |
 | 11 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 |

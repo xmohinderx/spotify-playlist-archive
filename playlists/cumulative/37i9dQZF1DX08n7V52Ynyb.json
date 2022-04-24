@@ -8,6 +8,36 @@
   "tracks": [
     {
       "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/1EQmKx9SFKyMyFhTLchdEZ"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346352,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/6wpE2kIiFQUdJiKDlSywdf"
+    },
+    {
+      "album": {
         "name": "12th Avenue",
         "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
       },
@@ -89,7 +119,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 353568,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/6xFz7mIXZNx0BymD3RzCba"
@@ -495,7 +525,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Every Time I See You - 2007 Remaster",
       "url": "https://open.spotify.com/track/6HOXlpC38ANCHssiqnEcz7"
@@ -961,7 +991,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 430081,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
@@ -997,7 +1027,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 410773,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N"
@@ -1091,7 +1121,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 221112,
       "name": "Julian",
       "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
@@ -1279,7 +1309,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 264751,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA"
@@ -1785,7 +1815,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 190506,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/3RCu8rcZm5xpEiH4Iach2o"
@@ -2165,7 +2195,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 200000,
       "name": "When I Fall in Love",
       "url": "https://open.spotify.com/track/3vL4OOMwluNhVEdmfkgw1n"
@@ -2241,7 +2271,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 333666,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/0KiIVvicncLbgf0Gl3OXAI"

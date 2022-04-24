@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,173 likes - 123 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,239 likes - 123 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

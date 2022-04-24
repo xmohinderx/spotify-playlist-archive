@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from The Kid LAROI, Megan Thee Stallion, Pusha T, KAROL G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,889,817 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,890,338 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 33 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 |
 | 34 | [Mama Said](https://open.spotify.com/track/4ZwB14yES6W9CvmnCtV437) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Mama Said](https://open.spotify.com/album/3f1baSN725q4v2aDdJZtoh) | 3:45 |
 | 35 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
-| 36 | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3) | 2:37 |
+| 36 | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3) | 2:36 |
 | 37 | [H Spot \(with Yo Gotti\)](https://open.spotify.com/track/5Fo6k4jpGzg9540H26Ihjx) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [H Spot \(with Yo Gotti\)](https://open.spotify.com/album/54l2xBRFjR3A3xFeWJhrej) | 3:36 |
 | 38 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 |
 | 39 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 63 | [This Happiness](https://open.spotify.com/track/4PQsjg2Bfm7b7OhwLsbtio) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [This Happiness](https://open.spotify.com/album/4IyxEZYcdlaGjd34JZN9tK) | 3:52 |
 | 64 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 |
 | 65 | [Roman Holiday](https://open.spotify.com/track/2n5rr23SVV4csieBxpGDvT) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Roman Holiday](https://open.spotify.com/album/4RS2DASQKdADMLDPSB6rX3) | 4:28 |
-| 66 | [Kick Back \(feat\. Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 |
+| 66 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 |
 | 67 | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/album/5DYcaafg3wKwL7jAvRRPzC) | 2:44 |
 | 68 | [BBB \(Bad Bitch Behavior\)](https://open.spotify.com/track/0zKlED6S6ytAHPo9sIm1vX) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Girls Gone Duh](https://open.spotify.com/album/2gsuokG689yNjGsqfygA9E) | 2:36 |
 | 69 | [New 50's](https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [New 50's](https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr) | 1:54 |

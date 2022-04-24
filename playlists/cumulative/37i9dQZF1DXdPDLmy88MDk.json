@@ -1148,28 +1148,6 @@
     },
     {
       "album": {
-        "name": "Chopin: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Brigitte Engerer",
-          "url": "https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2"
-        }
-      ],
-      "date_added": "2021-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 353840,
-      "name": "Nocturne in D-Flat Major, Op. 27, No. 2",
-      "url": "https://open.spotify.com/track/6yJWLGvhydE9b9Lpk68HYN"
-    },
-    {
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7k5UzofOULX7bkeCfgR5lK"
       },
@@ -1211,6 +1189,28 @@
       "duration_ms": 251573,
       "name": "Nocturne Op.9 No.2",
       "url": "https://open.spotify.com/track/4ONQLG9voahaGGrKWWbKic"
+    },
+    {
+      "album": {
+        "name": "Chopin: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Brigitte Engerer",
+          "url": "https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353840,
+      "name": "Nocturnes, Op. 27: II. Lento sotenuto",
+      "url": "https://open.spotify.com/track/6yJWLGvhydE9b9Lpk68HYN"
     },
     {
       "album": {

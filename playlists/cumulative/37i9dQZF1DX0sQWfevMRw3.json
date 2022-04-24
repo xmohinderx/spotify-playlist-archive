@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Back to the Oldskool",
       "url": "https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP"
@@ -255,10 +255,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 151200,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
+    },
+    {
+      "album": {
+        "name": "BAKLAVA",
+        "url": "https://open.spotify.com/album/6kEYs5zu89cZNjtcc7qdLc"
+      },
+      "artists": [
+        {
+          "name": "Slum",
+          "url": "https://open.spotify.com/artist/0mYhKOXwW3Iny2BeFHaEq8"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "BAKLAVA",
+      "url": "https://open.spotify.com/track/082LmCXfmRjRuxxYAvoHgY"
     },
     {
       "album": {
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 189453,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1ENLs7fAW0Aij4DoABmWKm"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 201290,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/3UNoQdTjtrzJ55elzUKKXT"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 186080,
       "name": "Gaz",
       "url": "https://open.spotify.com/track/0Lg5AjgoXg3HchcYypa86h"
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/4il7cillEo8yKHdlBOP0Qy"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 161760,
       "name": "Hypnotize (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/3AznR0jUusYPFmgERW8mwd"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 121846,
       "name": "IN I DIMMAN",
       "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 179092,
       "name": "Leave The World Behind (feat. Alida)",
       "url": "https://open.spotify.com/track/7iVcAvK53hv3l2lHFzCyhW"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 164516,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6PJyds9wetrvAY5ymoY0yJ"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 143911,
       "name": "Mera Eva",
       "url": "https://open.spotify.com/track/5KNNHlJw4DOKjxrs8LxHtL"
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 214501,
       "name": "Midnight Runners",
       "url": "https://open.spotify.com/track/6SOzKLfNIPUFCbhYQ5vCF3"
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 166545,
       "name": "My Bed (feat. RBVLN)",
       "url": "https://open.spotify.com/track/75VwTAbn9byz537HEMlFvR"
@@ -2921,7 +2939,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 135252,
       "name": "One Time",
       "url": "https://open.spotify.com/track/4RAfngNknMly9wKqXtUA5h"
@@ -3013,7 +3031,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 220082,
       "name": "Patience (feat. Kayla Rose)",
       "url": "https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox"
@@ -3133,7 +3151,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 188346,
       "name": "Pull Me Closer - Armin van Buuren Remix",
       "url": "https://open.spotify.com/track/7Bkm11YEID3T4NSrUJjNPD"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 154761,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5vD09qPYPhATeEF4GvGHVw"
@@ -3599,7 +3617,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 144280,
       "name": "Selskabet 2021",
       "url": "https://open.spotify.com/track/400NglZCQ1v3zANvpTXS5K"
@@ -3853,7 +3871,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
@@ -3967,7 +3985,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 168853,
       "name": "Stad i ljus (feat. Oscar Zia)",
       "url": "https://open.spotify.com/track/1k5qjbZeQXh2BSkvnQs44q"
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 160685,
       "name": "Step-Grandma",
       "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
@@ -4175,7 +4193,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 136774,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4gdp8cuXyhkr0bgtL9kCkZ"
@@ -4211,7 +4229,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 220653,
       "name": "Svensson Style",
       "url": "https://open.spotify.com/track/6u68dQ1oJYFCX4KOUkrZt0"
@@ -4255,7 +4273,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F"
@@ -4397,7 +4415,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 137261,
       "name": "THAT HOUSE - Original Mix",
       "url": "https://open.spotify.com/track/0haeOcgwFEkna0GORMC5Oh"
@@ -4643,7 +4661,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 189850,
       "name": "Timeshift",
       "url": "https://open.spotify.com/track/4ZlDeQReZkKrXrwaBOs8oX"
@@ -4679,7 +4697,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 228395,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/0hvOu1yvUgbjNrzXfWVLYS"
@@ -4925,7 +4943,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 147258,
       "name": "Voltage",
       "url": "https://open.spotify.com/track/7z3kQQICDz1iLkfo7j1lOV"
@@ -5101,7 +5119,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 183588,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/2QuQkdLLzgktXwruPAz6f4"
@@ -5145,7 +5163,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"

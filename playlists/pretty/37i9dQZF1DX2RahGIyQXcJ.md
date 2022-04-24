@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Featuring today's dopest Desi MCs from across the globe\. Cover: Emiway Bantai
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,759 likes - 66 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,791 likes - 66 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

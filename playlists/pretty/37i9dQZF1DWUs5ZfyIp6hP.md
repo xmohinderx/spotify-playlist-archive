@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 
 > Light of your 4th with these family\-friendly tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 883 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

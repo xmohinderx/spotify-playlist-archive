@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > ¡Celebrando con los 14 Cañonazos! Foto: Los Corraleros de Majagual
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,363 likes - 96 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,364 likes - 96 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 2 | [Tu Propia Muerte](https://open.spotify.com/track/5Y3rLJPond4Mpls4sfYPWK) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:08 |
 | 3 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/5f6RxRulaBQGyZZ3daBlbS) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:19 |
 | 4 | [Hasta Morir](https://open.spotify.com/track/7A27JkRytzdJdmlskVDwVz) | [Jhon Onofre](https://open.spotify.com/artist/1yjJmB9Ac38jnMuvTxWn4c) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:07 |
-| 5 | [Juan Mecánico](https://open.spotify.com/track/1ubDGW9FhowKbpMpMvlXH6) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 2:40 |
+| 5 | [Juan Mecánico \(Visión Dinamita\)](https://open.spotify.com/track/1ubDGW9FhowKbpMpMvlXH6) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 2:40 |
 | 6 | [La Paloma](https://open.spotify.com/track/5gtATfNv0ZcjAcdhzOabpp) | [Sara Acosta](https://open.spotify.com/artist/0eeDIOHmWdnzreYkSWLC61) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 4:03 |
 | 7 | [Bonita](https://open.spotify.com/track/6KWA9NLJsgasu3dwXE9zDs) | [Lukas Bloom](https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 2:56 |
 | 8 | [Joselito Cubano \(Huérfano Soy / No, No, No, Que Va\)](https://open.spotify.com/track/3sYHbO4Te5O7evOTkHwlPl) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 4:05 |

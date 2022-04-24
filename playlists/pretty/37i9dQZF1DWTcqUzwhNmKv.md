@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Architects on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,117 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,486 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 7 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/album/6EhTaVPe67FETk9tIbi8nq) | 4:06 |
 | 8 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 |
 | 9 | [Stockholm Syndrome](https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Stockholm Syndrome](https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x) | 5:21 |
-| 10 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 |
-| 11 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
-| 12 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 |
-| 13 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 |
-| 14 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 |
-| 15 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 |
-| 16 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 |
-| 17 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 |
-| 18 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 |
-| 19 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 |
+| 10 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 |
+| 11 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 |
+| 12 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
+| 13 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 |
+| 14 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 |
+| 15 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 |
+| 16 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 |
+| 17 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 |
+| 18 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 |
+| 19 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 |
 | 20 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 |
 | 21 | [MONSTER](https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [MONSTER](https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9) | 3:24 |
 | 22 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 |
 | 60 | [Dystopia \(feat\. Christoph Wieczorek of Annisokay\)](https://open.spotify.com/track/2WaaniEgnI8pUMjvpfUCBJ) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Dystopia \(feat\. Christoph Wieczorek of Annisokay\)](https://open.spotify.com/album/1xiPawOviJPuyqAhBWXYej) | 4:23 |
 
-Snapshot ID: `MTY1MDU4NTYwMCwwMDAwMDRkNjAwMDAwMTgwNGU5MTgwYTcwMDAwMDE4MDRjMDI2Mjcy`
+Snapshot ID: `MTY1MDczNjk0NCwwMDAwMDRkNzAwMDAwMTgwNTc5NmQ1NTMwMDAwMDE4MDRjMDI2Mjcy`

@@ -4,7 +4,7 @@
 
 > New releases, driving the current\. Cover: Pusha T
 
-384 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+384 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Ruthless](https://open.spotify.com/track/10amUOwfsKo2HTa1SPXetH) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Ruthless](https://open.spotify.com/album/2sXZcFiXa2vTF5xRxUvZvq) | 2:38 | 2022-02-18 | 2022-03-12 |
 | [SABABISHA](https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 4:00 | 2022-02-25 | 2022-03-26 |
 | [Same Page](https://open.spotify.com/track/7DhYIiTV7OEPBxX7Qt6q9k) | [Shann](https://open.spotify.com/artist/0rfFF5vQ2Jq3Kv8HCxjRGk) | [Same Page](https://open.spotify.com/album/3kUhPaLfor5BkIYYK50s2r) | 1:36 | 2022-04-15 |  |
-| [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3) | 2:37 | 2022-04-22 |  |
+| [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3) | 2:36 | 2022-04-22 |  |
 | [Say None](https://open.spotify.com/track/0NHzD3Jv5cm7jeyxGdxz9Z) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [dualberretass](https://open.spotify.com/artist/0cNc6R3CKigN6Bk7hY1YLx) | [Say None](https://open.spotify.com/album/3d7LJsb07w8lMUbyZDmibr) | 2:12 | 2022-03-25 | 2022-04-09 |
 | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1) | 2:38 | 2022-04-01 | 2022-04-23 |
 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 | 2022-02-04 | 2022-03-05 |

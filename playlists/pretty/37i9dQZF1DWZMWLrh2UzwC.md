@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Dato' Sri Siti Nurhaliza
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,641 likes - 91 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,644 likes - 91 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 19 | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ) | 3:18 |
 | 20 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 |
 | 21 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
-| 22 | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/track/5rnqEo666hoD4r0CajmrJm) | [BamBam](https://open.spotify.com/artist/6uTQowWLedczyP5LnS1iwZ), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/album/7fN1n8ytw8i6sxJ1i5lzMI) | 3:20 |
+| 22 | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/track/5rnqEo666hoD4r0CajmrJm) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/album/7fN1n8ytw8i6sxJ1i5lzMI) | 3:20 |
 | 23 | [BEESWAX](https://open.spotify.com/track/6pmOqyfbbFL1lTn9fo9SiS) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [BEESWAX](https://open.spotify.com/album/7cr8GvQOO9l7SnlnD3GKQ1) | 3:08 |
 | 24 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 |
 | 25 | [UNNATURAL](https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:04 |

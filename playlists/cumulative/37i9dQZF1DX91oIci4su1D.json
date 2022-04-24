@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 225671,
       "name": "Creation",
       "url": "https://open.spotify.com/track/4Bg422IWEien7C2nyn5eys"
@@ -1965,7 +1965,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 271304,
       "name": "Focus",
       "url": "https://open.spotify.com/track/7ClSlr5TX7brKfEJ51WhFz"
@@ -2595,7 +2595,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 184218,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/7xzDdyz0ImsSGN0W3G03Vr"
@@ -2936,6 +2936,28 @@
     },
     {
       "album": {
+        "name": "Just A Call Away",
+        "url": "https://open.spotify.com/album/6EYqGqkkWzNGsaqFCoV4Dx"
+      },
+      "artists": [
+        {
+          "name": "Boris Foong",
+          "url": "https://open.spotify.com/artist/1i6AoFDNioBwwiPaqTGtcv"
+        },
+        {
+          "name": "Cari",
+          "url": "https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245454,
+      "name": "Just A Call Away",
+      "url": "https://open.spotify.com/track/5wShe6vblBfKhQCb1sCfrb"
+    },
+    {
+      "album": {
         "name": "Just as You Are",
         "url": "https://open.spotify.com/album/6NfXruQMzn3uXTj0EEmKel"
       },
@@ -3238,7 +3260,7 @@
       "artists": [
         {
           "name": "AK",
-          "url": "https://open.spotify.com/artist/6RSUMXJUxAxm9S9n6TrYuq"
+          "url": "https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH"
         },
         {
           "name": "Audrey Gallagher",
@@ -3631,6 +3653,24 @@
       "duration_ms": 186750,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6UMGvMLgcqpB9TxSKYvf2j"
+    },
+    {
+      "album": {
+        "name": "Magnum Opus",
+        "url": "https://open.spotify.com/album/64feelf7IFO2CXezZabhHd"
+      },
+      "artists": [
+        {
+          "name": "Maarten de Jong",
+          "url": "https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213361,
+      "name": "Magnum Opus",
+      "url": "https://open.spotify.com/track/3g2Pv24yQKfRCZ2UFKhmXe"
     },
     {
       "album": {
@@ -5954,6 +5994,28 @@
     },
     {
       "album": {
+        "name": "This Is Not The End",
+        "url": "https://open.spotify.com/album/43UWsAliOiQaroBO1H0aNl"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Roddy Woomble",
+          "url": "https://open.spotify.com/artist/313Xqjb7z7JBYcHgWiLvUv"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198547,
+      "name": "This Is Not The End",
+      "url": "https://open.spotify.com/track/4nM12eRb7k6pylJGGivAQp"
+    },
+    {
+      "album": {
         "name": "This Is Real",
         "url": "https://open.spotify.com/album/6JuzlHWoTILkAyLobUSG9H"
       },
@@ -6026,7 +6088,7 @@
         },
         {
           "name": "MALENE",
-          "url": "https://open.spotify.com/artist/1tXDSpfSVSQQel12A8h8GL"
+          "url": "https://open.spotify.com/artist/4C65Z3y8cZMzGj3XHRi3E1"
         }
       ],
       "date_added": "2022-04-22",
@@ -6243,7 +6305,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 202587,
       "name": "Visions",
       "url": "https://open.spotify.com/track/1dDUV0wX5nnxiqz4MCrnRr"
@@ -6295,7 +6357,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 224091,
       "name": "Way To You",
       "url": "https://open.spotify.com/track/6oOWzHuMNBZSopa3zvvuoQ"

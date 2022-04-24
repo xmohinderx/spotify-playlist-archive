@@ -1648,6 +1648,24 @@
     },
     {
       "album": {
+        "name": "Lloro",
+        "url": "https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj"
+    },
+    {
+      "album": {
         "name": "Lo que me falta",
         "url": "https://open.spotify.com/album/0b6SRNRXLp7igWrgcjjyFi"
       },

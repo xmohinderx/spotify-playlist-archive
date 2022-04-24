@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Say Sue Me \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,067 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,089 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 16 | [Leave Me Dry](https://open.spotify.com/track/1zuV9XT0lGUCT2Og3xls8J) | [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi) | [Leave Me Dry](https://open.spotify.com/album/0qHwWCpT5Yp9Wqnpm5oBmD) | 3:15 |
 | 17 | [i\-](https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [i\-](https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy) | 2:56 |
 | 18 | [YES \- vanguard mix](https://open.spotify.com/track/0RNmlHZm28K6l9yKAqhGS3) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [YES \(vanguard mix\)](https://open.spotify.com/album/1ro49FQ5xgl9pIINxlRozK) | 4:29 |
-| 19 | [Rimba](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 |
+| 19 | [Nuggets](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 |
 | 20 | [We Just Chase The Light](https://open.spotify.com/track/464ZEz02BK62dKMeEkktNW) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Today From Past Days](https://open.spotify.com/album/5pfb32JF2tPT5HTpcX63gu) | 4:45 |
 | 21 | [phonecase](https://open.spotify.com/track/4Onk8ZymFGVPE5c9nXIdBv) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [phonecase](https://open.spotify.com/album/6Y08ATR8X7ZTZNai1hCn0X) | 2:48 |
 | 22 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 |

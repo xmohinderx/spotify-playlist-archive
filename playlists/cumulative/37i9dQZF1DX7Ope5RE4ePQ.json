@@ -8,28 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "Chopin: Pr\u00e9ludes, Op.28",
-        "url": "https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "date_added": "2022-04-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131200,
-      "name": "24 Pr\u00e9ludes, Op. 28: No.4 in E minor - Largo",
-      "url": "https://open.spotify.com/track/5XfmcJMAaifjRrIdLaXVLm"
-    },
-    {
-      "album": {
         "name": "Dvo\u0159\u00e1k: Cello Concerto",
         "url": "https://open.spotify.com/album/2DkUvnxlZmEMBmPOmzC4lE"
       },
@@ -878,6 +856,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Preludes, Op. 28: No. 4, Largo",
+      "url": "https://open.spotify.com/track/5XfmcJMAaifjRrIdLaXVLm"
+    },
+    {
+      "album": {
         "name": "In A Time Lapse",
         "url": "https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG"
       },
@@ -1288,7 +1288,7 @@
     },
     {
       "album": {
-        "name": "Elgar: Cello Concerto, Op. 85 - Tchaikovsky: Variations on a Rococo Theme Op. 33",
+        "name": "Elgar: Cello Concerto / Tchaikovsky: Rococo Variations / Dvo\u0159\u00e1k: Silent Woods; Rondo",
         "url": "https://open.spotify.com/album/1CTMjqapaLGF4Qi0fMtfuf"
       },
       "artists": [
@@ -1301,19 +1301,19 @@
           "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
         },
         {
-          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
-          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
-        },
-        {
           "name": "BBC Symphony Orchestra",
           "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
         }
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156573,
-      "name": "Variations on a Rococo Theme, Op. 33 for cello and orchestra: Var. VI: Andante",
+      "name": "Variations on a Rococo Theme, Op. 33, TH 57: Var: VI. Andante",
       "url": "https://open.spotify.com/track/123zFAGx0F5ScgrLrCWGDX"
     },
     {

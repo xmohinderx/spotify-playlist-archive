@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 174894,
       "name": "Biding Time",
       "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Three Days in Venice",
+        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211697,
+      "name": "Eaux",
+      "url": "https://open.spotify.com/track/3o0bY0fJyynYhTwOH4yVci"
+    },
+    {
+      "album": {
         "name": "Efterskalv",
         "url": "https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS"
       },
@@ -417,7 +435,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 229350,
       "name": "Efterskalv",
       "url": "https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 161981,
       "name": "EGUZKIA GALDU",
       "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
@@ -461,7 +479,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 204786,
       "name": "Eliza Aria (Arr. for Violin and String Ensemble by Fran\u00e7ois Valli\u00e8res and Ang\u00e8le Dubeau)",
       "url": "https://open.spotify.com/track/6k9ZEBArSDe0BOnYA6wP8X"
@@ -763,7 +781,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 127218,
       "name": "I FELT",
       "url": "https://open.spotify.com/track/26uagwLcGRaOIcTsBcxP2J"
@@ -861,6 +879,24 @@
       "duration_ms": 408791,
       "name": "Inside Me",
       "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
+    },
+    {
+      "album": {
+        "name": "Three Days in Venice",
+        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139392,
+      "name": "Intangible",
+      "url": "https://open.spotify.com/track/1z7xRcXHpfq4Isb1JufoRP"
     },
     {
       "album": {
@@ -1203,7 +1239,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 198240,
       "name": "No Letters Have Come",
       "url": "https://open.spotify.com/track/7E7w3cVm9t07hpCWWGzaTE"
@@ -1261,7 +1297,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 146016,
       "name": "November Sea",
       "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
@@ -1373,7 +1409,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 248613,
       "name": "Piano Trio No. 2 in E Minor, Op. 92: III. Andante con moto",
       "url": "https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG"
@@ -1413,7 +1449,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2"
@@ -1497,7 +1533,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 232105,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
@@ -1663,7 +1699,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 119906,
       "name": "The Bell Calls Us to Vespers",
       "url": "https://open.spotify.com/track/1BxMBPVCgKjbWH2Pt53HRt"
@@ -1721,7 +1757,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 407327,
       "name": "The Nude and the Quiet",
       "url": "https://open.spotify.com/track/2CN8IJevYAqjFUHknsdC8E"
@@ -1761,7 +1797,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 197600,
       "name": "The Sleeping Warrior",
       "url": "https://open.spotify.com/track/6rDXmkM4ceZjDNzUItBaxB"
@@ -1779,7 +1815,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 269311,
       "name": "The Sound of Water",
       "url": "https://open.spotify.com/track/56XCoZUExSJLXLtzp2CDy4"
@@ -1805,6 +1841,24 @@
       "duration_ms": 100875,
       "name": "Things of the World - Piano and Strings",
       "url": "https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj"
+    },
+    {
+      "album": {
+        "name": "Three Days in Venice",
+        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187456,
+      "name": "Three Days in Venice",
+      "url": "https://open.spotify.com/track/6bkDyYr6SKesu884osJG0g"
     },
     {
       "album": {
@@ -1931,7 +1985,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 185215,
       "name": "Warm Embrace",
       "url": "https://open.spotify.com/track/0mkSNpmLh8KPX6dTy9QY6X"

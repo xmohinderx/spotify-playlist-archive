@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-22",
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
   "name": "Rock & Roll en Espa\u00f1ol",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6NSbCsk7MC2tfdc3H3iht8"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,6 +41,24 @@
       "duration_ms": 116626,
       "name": "Acapulco Rock",
       "url": "https://open.spotify.com/track/6ERUMOAhYiLUj2eAl2rtah"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos Vol.2",
+        "url": "https://open.spotify.com/album/7FvfEhgjh8EFawGTIbjQ7n"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145466,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/4Qq9RI55HtotsoIc7uo3NT"
     },
     {
       "album": {
@@ -161,7 +181,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 135506,
       "name": "Amorcito",
       "url": "https://open.spotify.com/track/1BZwhR8R3vgFQqqIV0h2qE"
@@ -222,6 +242,24 @@
     },
     {
       "album": {
+        "name": "100 A\u00f1os de Musica",
+        "url": "https://open.spotify.com/album/0yk0LbkAcV5SaOJMOsDWJO"
+      },
+      "artists": [
+        {
+          "name": "Los Belmonts",
+          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125432,
+      "name": "Arriba, Abajo y a los Lados",
+      "url": "https://open.spotify.com/track/2LuaBHr9EDhwAazPSf5dO9"
+    },
+    {
+      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos Vol. 1",
         "url": "https://open.spotify.com/album/4OfBy9NPNwl1pYoIjNLBhU"
       },
@@ -276,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 2",
+        "url": "https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152878,
+      "name": "Bikini Amarillo",
+      "url": "https://open.spotify.com/track/1iy0k2Bv1n1kgxr107m8IC"
+    },
+    {
+      "album": {
         "name": "Los Grandes Idolos - Teen Tops",
         "url": "https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5"
       },
@@ -287,7 +343,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 145693,
       "name": "Buen Rock Esta Noche",
       "url": "https://open.spotify.com/track/2Wg5G6SN48t9DSW6ifquvb"
@@ -353,6 +409,24 @@
       },
       "artists": [
         {
+          "name": "Reo",
+          "url": "https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "B\u00e1jate De Mi Nube",
+      "url": "https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI"
+    },
+    {
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
           "name": "Queta Garay",
           "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
         }
@@ -377,7 +451,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 154506,
       "name": "Colina azul - Bluberry Hill",
       "url": "https://open.spotify.com/track/4UoVBuPJlaKNyspCITsiA8"
@@ -413,7 +487,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 130440,
       "name": "Confidente de Secundaria",
       "url": "https://open.spotify.com/track/07OQkEjGeVdEoOhaQNHI4B"
@@ -449,7 +523,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 155533,
       "name": "Corina, Corina",
       "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
@@ -485,7 +559,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 142306,
       "name": "Creo Estar Son\u0303ando",
       "url": "https://open.spotify.com/track/7e4atXDsoF97pSEcjrINYz"
@@ -582,6 +656,24 @@
     },
     {
       "album": {
+        "name": "RCA 100 Anos De Musica - Segunda Parte (Exitos Inolvidables Del Rock & Roll En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK"
+      },
+      "artists": [
+        {
+          "name": "Los Jokers",
+          "url": "https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "Dulces a Mi Amor",
+      "url": "https://open.spotify.com/track/3s6xa3WDlEZ3QdPuyhftSh"
+    },
+    {
+      "album": {
         "name": "Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/7J3zAnHYs4XSpR3e9hh4fN"
       },
@@ -611,7 +703,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 183866,
       "name": "El Boogie De La Guitarra",
       "url": "https://open.spotify.com/track/48cEguH7oiubCgVL6T3YK3"
@@ -633,6 +725,24 @@
       "duration_ms": 144914,
       "name": "El Juego de Simon",
       "url": "https://open.spotify.com/track/2U02m7NXtYdD4WVMGD6U9i"
+    },
+    {
+      "album": {
+        "name": "Idolos del Rock",
+        "url": "https://open.spotify.com/album/3noLqOqUNBHAklGVJBfivo"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134800,
+      "name": "El Martillito",
+      "url": "https://open.spotify.com/track/02VHQTO2yHdTvO0USliMky"
     },
     {
       "album": {
@@ -665,7 +775,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 152120,
       "name": "Ella No Est\u00e1 Ah\u00ed",
       "url": "https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR"
@@ -773,7 +883,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 119586,
       "name": "Haciendote el Amor",
       "url": "https://open.spotify.com/track/2YJLNtaV9ELglBVHymlKHk"
@@ -870,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Idolos del Rock & Roll - Alberto Vazquez",
+        "url": "https://open.spotify.com/album/1k4042gbahCtD4v3viiQ8L"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "La chica mas linda del mundo",
+      "url": "https://open.spotify.com/track/7lm5yagrIuD36ObAdATdNa"
+    },
+    {
+      "album": {
         "name": "La Hiedra Venenosa",
         "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
       },
@@ -917,10 +1045,28 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 138000,
       "name": "La Llorona Loca",
       "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
+    },
+    {
+      "album": {
+        "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
+        "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
+      },
+      "artists": [
+        {
+          "name": "Los Johnny Jets",
+          "url": "https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "La Minifalda de Reynalda",
+      "url": "https://open.spotify.com/track/1qGkNxU5sGO4D3g6dX3Hvj"
     },
     {
       "album": {
@@ -1019,6 +1165,24 @@
       },
       "artists": [
         {
+          "name": "Vianey Valdez",
+          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196480,
+      "name": "La Respuesta Est\u00e1 En El Viento",
+      "url": "https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS"
+    },
+    {
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
           "name": "Los Ovnis",
           "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
         }
@@ -1029,6 +1193,24 @@
       "duration_ms": 164440,
       "name": "La \u00daltima Vez",
       "url": "https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC"
+    },
+    {
+      "album": {
+        "name": "Hermanos Carri\u00f3n Vol 1",
+        "url": "https://open.spotify.com/album/0fk66YEv4fDJXhJ2UHdy1n"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "Lagrimas de Cristal",
+      "url": "https://open.spotify.com/track/1yBSWdmQqj9c6wG8s9UmRw"
     },
     {
       "album": {
@@ -1043,7 +1225,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 147469,
       "name": "Lanza Tus Penas Al Viento",
       "url": "https://open.spotify.com/track/13mqmYz0oB4cWUv4TFo9XO"
@@ -1249,7 +1431,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 130560,
       "name": "Muevanse Todos",
       "url": "https://open.spotify.com/track/0WTKcG7QpGn7JxK0sk4w0z"
@@ -1375,7 +1557,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 116253,
       "name": "Polvora",
       "url": "https://open.spotify.com/track/1Vy1yzb5ktmDwPO5TYiqPW"
@@ -1465,10 +1647,28 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 147666,
       "name": "Quien Puso El Bomp",
       "url": "https://open.spotify.com/track/0jmeC39S6LeQRLmns6jXA3"
+    },
+    {
+      "album": {
+        "name": "Los Grandes Idolos - Teen Tops",
+        "url": "https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150546,
+      "name": "Quiero Ser Libre",
+      "url": "https://open.spotify.com/track/5GpqFKIvqrPjjoSqj7YVWE"
     },
     {
       "album": {
@@ -1631,7 +1831,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 149813,
       "name": "Sospecha",
       "url": "https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq"
@@ -1653,6 +1853,24 @@
       "duration_ms": 140525,
       "name": "Speedy Gonzalez",
       "url": "https://open.spotify.com/track/7ePdV6t9L6VfK6K4CI95TD"
+    },
+    {
+      "album": {
+        "name": "Hermanos Carrion 50 A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6lGHIIo3y2GVywS4d37bqL"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299280,
+      "name": "Susi Q",
+      "url": "https://open.spotify.com/track/2CRhY7kYBHxPXemmFwqwac"
     },
     {
       "album": {
@@ -1685,7 +1903,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 157400,
       "name": "Tequila Con Lim\u00f3n",
       "url": "https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn"
@@ -1793,7 +2011,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 185013,
       "name": "Venus",
       "url": "https://open.spotify.com/track/5ALgEAPt5pQrtF4GtEykLc"
@@ -1811,7 +2029,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 188786,
       "name": "Venus",
       "url": "https://open.spotify.com/track/4wFZUjSstRkymNqGjhEbZL"
@@ -1901,10 +2119,28 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 190466,
       "name": "Yo No Que No Vivo Sin Ti",
       "url": "https://open.spotify.com/track/7tG1AKK1vlsFINBasEhmis"
+    },
+    {
+      "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80764,
+      "name": "Yo No Soy Rebelde",
+      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-893 songs - 2 day 5 hr 15 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+894 songs - 2 day 5 hr 20 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [King Without A Throne \- Bout Remix](https://open.spotify.com/track/325KyMzTe1OgXYwupRAKfC) | [HEART FX](https://open.spotify.com/artist/28ciLdA1pW36nPFzGZm9qq), [Bout](https://open.spotify.com/artist/42S813yjkZhqSnKoSKqQ3e) | [King Without A Throne \(Bout Remix\)](https://open.spotify.com/album/7m7A3X8v3853BJOVwTbs4l) | 3:14 | 2019-08-10 | 2020-03-29 |
 | [Kingdom United](https://open.spotify.com/track/2ELaQFAmWLMabhUTqNv64G) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG) | [Kingdom United](https://open.spotify.com/album/1HrRHFWAsxnXJzlvA1r2gE) | 5:26 | 2019-08-09\* | 2020-03-29 |
 | [Kiss Me](https://open.spotify.com/track/4RG63cZOJT5njECPKYMhUU) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Kiss Me](https://open.spotify.com/album/2JjNir4llRSfPKJRKxOaZ9) | 2:29 | 2021-01-16 |  |
+| [Know](https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [Know](https://open.spotify.com/album/1nxBOq1s4IrC4W0eqiwrpV) | 4:11 | 2022-04-22 |  |
 | [KNOW ME \(feat\. Gallant\) \- Cassian Remix](https://open.spotify.com/track/5o7J8jj5tlxVDSo6VJtpyA) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [KNOW ME \(feat\. Gallant\) \[Cassian Remix\]](https://open.spotify.com/album/3UzGm4c9CDCZ2sg7fGzT8l) | 5:13 | 2020-12-12 | 2021-09-25 |
 | [Know You Better](https://open.spotify.com/track/5VrSVEkPSHpWOn3stPrGWE) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Metrush](https://open.spotify.com/artist/1vj2R6AWl8rj1na7VCkQK4) | [Know You Better](https://open.spotify.com/album/7eJxrkuDWiel2lPQgU33nt) | 3:36 | 2020-03-29 | 2021-09-11 |
 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 | 2022-01-28 |  |

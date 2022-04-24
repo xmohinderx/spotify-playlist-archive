@@ -6244,6 +6244,24 @@
     },
     {
       "album": {
+        "name": "Nuggets",
+        "url": "https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1"
+      },
+      "artists": [
+        {
+          "name": "Rimba",
+          "url": "https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Nuggets",
+      "url": "https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc"
+    },
+    {
+      "album": {
         "name": "Obat Hati",
         "url": "https://open.spotify.com/album/48l6V4TEyiQigcRRdtDUHL"
       },
@@ -7217,24 +7235,6 @@
       "duration_ms": 189721,
       "name": "Ridin' Through",
       "url": "https://open.spotify.com/track/5DJ7r8OraufYegz1dMzkPx"
-    },
-    {
-      "album": {
-        "name": "Nuggets",
-        "url": "https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1"
-      },
-      "artists": [
-        {
-          "name": "Rimba",
-          "url": "https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ"
-        }
-      ],
-      "date_added": "2022-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 250600,
-      "name": "Rimba",
-      "url": "https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc"
     },
     {
       "album": {

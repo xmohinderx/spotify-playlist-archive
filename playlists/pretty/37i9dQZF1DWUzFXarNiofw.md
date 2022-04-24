@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Blxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,902 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,191 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 42 | [Time N Affection](https://open.spotify.com/track/1KapwhqF90mrl8aIlagtQR) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th) | 3:50 |
 | 43 | [Before I Let Her Go](https://open.spotify.com/track/3XwEDN3xAQdrk7zMSMtSVD) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go](https://open.spotify.com/album/2WkkSctajm6zU1Op4KuFCY) | 2:29 |
 | 44 | [Crazy Down](https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Crazy Down](https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU) | 3:04 |
-| 45 | [LOVE IN THE CLUB](https://open.spotify.com/track/3K2bs6kP3WzqUCf6Lh6X5h) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [LOVE IN THE CLUB](https://open.spotify.com/album/7L3qNwBMwrin23myxRUJFT) | 3:27 |
+| 45 | [Love In The Club](https://open.spotify.com/track/3K2bs6kP3WzqUCf6Lh6X5h) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Love In The Club](https://open.spotify.com/album/7L3qNwBMwrin23myxRUJFT) | 3:27 |
 | 46 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 |
 | 47 | [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 |
 | 48 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |

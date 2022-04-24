@@ -4,7 +4,7 @@
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Anitta
 
-145 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
+146 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Cocoloco](https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Cocoloco](https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga) | 2:55 | 2022-03-11 | 2022-04-16 |
 | [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2021-12-17 |  |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-21 |  |
+| [Deja el misterio](https://open.spotify.com/track/6gb9OSdJZRb2vWjj9zjqPW) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Deja el misterio](https://open.spotify.com/album/7GDawqAEcqk6qReNf6y4uB) | 3:22 | 2022-04-23 |  |
 | [Delincuente](https://open.spotify.com/track/5ltjit47pp6nXwhYpkilYd) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Delincuente](https://open.spotify.com/album/0SPp5ifUfZIYoHbVzrCOWX) | 3:22 | 2021-12-17 | 2022-03-08 |
 | [DELITO\_V13.wav](https://open.spotify.com/track/7Cdk27Tv9qnUTbk2cQwEnn) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [DELITO\_V13.wav](https://open.spotify.com/album/2VQUkiRY3bBImrgN7x4szm) | 2:21 | 2022-02-25 |  |
 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 | 2022-02-18 |  |

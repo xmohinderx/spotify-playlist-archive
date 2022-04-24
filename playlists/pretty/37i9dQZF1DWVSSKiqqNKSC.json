@@ -1,13 +1,49 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
-  "num_followers": 167069,
+  "num_followers": 167264,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDY3NTI5NiwwMDAwMDAwMDc5YzFhYzViNWQ5NDFkZjgxMmJlZjM4ZTljYTViNGQ4",
+  "snapshot_id": "MTY1MDc2MTYzNiwwMDAwMDAwMDdkMDk2YTA2YjRmNzE0OTI5MTk2YjlmNDBhMDI5MDdm",
   "tracks": [
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Llego... Van Van",
+        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
+      },
+      "artists": [
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+        }
+      ],
+      "duration_ms": 328253,
+      "name": "El Negro Esta Cocinando",
+      "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
+    },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
@@ -27,18 +63,42 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Amor Bonito",
-        "url": "https://open.spotify.com/album/03qKkg0zLrtuOkRJD6MfNI"
+        "name": "Latin Hits 2014 Club Edition (Kuduro, Salsa, Bachata, Merengue, Reggaeton, Fitness, Mambo, Timba, Cubaton, Dembow, Cumbia)",
+        "url": "https://open.spotify.com/album/4lUQIgfbBLoxgC5Uax0CYV"
       },
       "artists": [
         {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+        },
+        {
+          "name": "Maykel Fonts",
+          "url": "https://open.spotify.com/artist/25XlE014uP57NwPYobN64T"
         }
       ],
-      "duration_ms": 203226,
-      "name": "Me Quedo Contigo",
-      "url": "https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg"
+      "duration_ms": 302706,
+      "name": "Dale Lo Que Lleva",
+      "url": "https://open.spotify.com/track/3hvEz1pPkgtJ513tebSHZt"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/7I9d2fIkGK7r4Wjv4p2EJW"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -55,6 +115,42 @@
       "duration_ms": 309054,
       "name": "Soy Cubana",
       "url": "https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Chapeando",
+        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 368720,
+      "name": "Despu\u00e9s de todo",
+      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Suma y Resta",
+        "url": "https://open.spotify.com/album/3pilj0ltyAyR0ZAs6a4M0f"
+      },
+      "artists": [
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 188364,
+      "name": "Suma y Resta",
+      "url": "https://open.spotify.com/track/6vj4z8xXfG2qKpfT5je3uk"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -79,22 +175,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Que Pasa Loco?",
-        "url": "https://open.spotify.com/album/6tEW80OuY2USui8d8WXdYS"
-      },
-      "artists": [
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
-        }
-      ],
-      "duration_ms": 378070,
-      "name": "Que Pasa Loco ?",
-      "url": "https://open.spotify.com/track/3oauXpkAKyzYWkAiZAkVUH"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Llego... Van Van",
         "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
       },
@@ -104,25 +184,109 @@
           "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
         }
       ],
-      "duration_ms": 328253,
-      "name": "El Negro Esta Cocinando",
-      "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
+      "duration_ms": 288506,
+      "name": "Temba, Tumba, Timba",
+      "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/0rRl0T3bOxEI72TSRfeFmq"
+        "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/16QGmbXuGq7E8lSXkriGdS"
       },
       "artists": [
         {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 398893,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/2qudLQVpY4JV1eq7ned5v1"
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/46vkxSDE2mKEDjRjt48gUj"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Pa Bravo Yo",
+        "url": "https://open.spotify.com/album/7Hi3Xst5cdbaaAqpNm5vgC"
+      },
+      "artists": [
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Pa Bravo Yo",
+      "url": "https://open.spotify.com/track/13gvFt3Eji2xEuCb0PKkMZ"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Salsa 2018 [18 Salsa Latin Hits (Salsa Rom\u00e1ntica, Urbana, para Bailar)]",
+        "url": "https://open.spotify.com/album/3CxYDrbk75cxiTQAb5Itji"
+      },
+      "artists": [
+        {
+          "name": "Marquetti & Habana Swing",
+          "url": "https://open.spotify.com/artist/11LSiCXg3ebj6QFUZ2tMN6"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "Yo Siempre Llamo La Fiesta",
+      "url": "https://open.spotify.com/track/0Kx8QEE82QMZ8l5kXZkTot"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Tremenda Rumba!",
+        "url": "https://open.spotify.com/album/7g0XzXIwcd8C1De5aNDf39"
+      },
+      "artists": [
+        {
+          "name": "Maraca",
+          "url": "https://open.spotify.com/artist/6oF5lC04WNCwxLzLxbbH0d"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Castigala",
+      "url": "https://open.spotify.com/track/5X2uPHvhiKoR4YNRMdh3N6"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 342373,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Consumelo",
+        "url": "https://open.spotify.com/album/6XOseemDLPmUA7LwM6XSb1"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "duration_ms": 281893,
+      "name": "Consumelo",
+      "url": "https://open.spotify.com/track/5ZHl4CqFicHJWkUrt8nQST"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -143,58 +307,70 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Caramelo Con Picante",
-        "url": "https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1"
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/0rRl0T3bOxEI72TSRfeFmq"
       },
       "artists": [
         {
-          "name": "Lazarito Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s"
-        },
-        {
-          "name": "Bamboleo",
-          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
         }
       ],
-      "duration_ms": 336095,
-      "name": "Caramelo Con Picante",
-      "url": "https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns"
+      "duration_ms": 398893,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/2qudLQVpY4JV1eq7ned5v1"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Chapeando",
-        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
+        "name": "Palabras y Palabras",
+        "url": "https://open.spotify.com/album/7BlD9VgQD5CB5dFpAKeHGa"
       },
       "artists": [
         {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+          "name": "Manolito Simonet y su Trabuco",
+          "url": "https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR"
         }
       ],
-      "duration_ms": 368720,
-      "name": "Despu\u00e9s de todo",
-      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
+      "duration_ms": 219350,
+      "name": "72 Hacheros Pa' Un Palo",
+      "url": "https://open.spotify.com/track/0TrY3m2S9hlj0FnUa3WhOw"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g"
+        "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
+        "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "FredyClan",
+          "url": "https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE"
         },
         {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/7I9d2fIkGK7r4Wjv4p2EJW"
+      "duration_ms": 288012,
+      "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
+      "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Tibiri Tabara",
+        "url": "https://open.spotify.com/album/7zmnzispQ0hGww56bg7kMX"
+      },
+      "artists": [
+        {
+          "name": "Sierra Maestra",
+          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "\u00bfD\u00f3nde va Chichi?",
+      "url": "https://open.spotify.com/track/5DPfEdyjJpt1PpFOKSAcW3"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -235,6 +411,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "De Vuelta al Barrio",
+        "url": "https://open.spotify.com/album/55WRc6XgfYJEmrAnqlMuK4"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "duration_ms": 346026,
+      "name": "La Cosa Mala",
+      "url": "https://open.spotify.com/track/0NLreGlwATS3wQOtDDtO2H"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "La Gozadera",
         "url": "https://open.spotify.com/album/5m3zgE6dD2EESuUGcpJINF"
       },
@@ -255,126 +447,122 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Que No Me Quiten La Fe",
-        "url": "https://open.spotify.com/album/2sEl8IoAugga3uLHqitoW2"
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
       "artists": [
         {
           "name": "Maykel Blanco Y Su Salsa Mayor",
           "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "Siempre Que Llueve Escampa",
-      "url": "https://open.spotify.com/track/3fONdtONtbQa2hSzO3IPy1"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Celia y Johnny",
-        "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         },
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+          "name": "Pancho Amat",
+          "url": "https://open.spotify.com/artist/4nNIru8Pttv2VV9lp8eo4r"
         },
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Yan Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/5xf8b3arxWNcgRQR3pEGQE"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+      "duration_ms": 360211,
+      "name": "En la Selva",
+      "url": "https://open.spotify.com/track/76jLXfMGQ7oiNnfnGs4hNR"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Dime Qu\u00e9?!",
-        "url": "https://open.spotify.com/album/4JXh7CwYOE9nRILsVmefYp"
+        "name": "\u00bfDe Qu\u00e9 Estamos Hablando?",
+        "url": "https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy"
       },
       "artists": [
         {
-          "name": "Calle Real",
-          "url": "https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU"
+          "name": "Elio Rev\u00e9 Y Su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf"
         }
       ],
-      "duration_ms": 444404,
-      "name": "Hoah!",
-      "url": "https://open.spotify.com/track/7zfbgpVyknaQKICr0HWkpQ"
+      "duration_ms": 323453,
+      "name": "Agua Pa'yemay\u00e1",
+      "url": "https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "Latino! Greatest Hits - 56 Latin Top Hits (Original Versions!)",
+        "url": "https://open.spotify.com/album/0VSYBKZgle28fILiupe1Bv"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Manolito Simonet y su Trabuco",
+          "url": "https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR"
         }
       ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+      "duration_ms": 341133,
+      "name": "Marcando La Distancia",
+      "url": "https://open.spotify.com/track/0txizV883uXWqJEyxxJHrp"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6WuhBG8F4Izrfmzsb3Fs2y"
+        "name": "Latin Hits 2015 Club Edition - 60 Latin Music Hits (Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton, Kuduro, Latin Fitness)",
+        "url": "https://open.spotify.com/album/2tZODaQXwYxHJYVc9MfbFf"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Mala jujer",
-      "url": "https://open.spotify.com/track/4ItkEkRhVjPdBDO7lT4hRH"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Suma y Resta",
-        "url": "https://open.spotify.com/album/3pilj0ltyAyR0ZAs6a4M0f"
-      },
-      "artists": [
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
         },
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
         }
       ],
-      "duration_ms": 188364,
-      "name": "Suma y Resta",
-      "url": "https://open.spotify.com/track/6vj4z8xXfG2qKpfT5je3uk"
+      "duration_ms": 273160,
+      "name": "Bailando - Official Salsa Version",
+      "url": "https://open.spotify.com/track/6YsbuvDVJYp5z8Azn9D9Us"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "M\u00e1s Duro",
+        "url": "https://open.spotify.com/album/3zR9fk3CXln9qMLVMrJyK6"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "duration_ms": 292942,
+      "name": "Vuelve a la Habana",
+      "url": "https://open.spotify.com/track/7wG9JSSlEv2fs4D2OkGVYw"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "La Salsa Tiene mi Son",
+        "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
+      },
+      "artists": [
+        {
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
+        },
+        {
+          "name": "Alexander Delgado (Gente D' Zona)",
+          "url": "https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh"
+        },
+        {
+          "name": "Serguei Yera Madera",
+          "url": "https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
+      "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -399,6 +587,62 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
+      },
+      "artists": [
+        {
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Con La Musica Cubana No!",
+        "url": "https://open.spotify.com/album/64vi5EfQ0TYLVbcRYSmUFl"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "duration_ms": 316339,
+      "name": "Conmigo No",
+      "url": "https://open.spotify.com/track/6kkjqIw1fPYS5XbyJwrrn4"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Latin Hits 2015 Summer Edition - 34 Latin Music Hits (Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton, Kuduro, Latin Fitness)",
+        "url": "https://open.spotify.com/album/2D2ymh4Ugd4l9MQRCOWKVB"
+      },
+      "artists": [
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        }
+      ],
+      "duration_ms": 247573,
+      "name": "La Vida Es Buena",
+      "url": "https://open.spotify.com/track/5gnGvvDGNXYZyzGSt6uEdD"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Que Tiene Que Te Mueve",
         "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
@@ -415,186 +659,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Consumelo",
-        "url": "https://open.spotify.com/album/6XOseemDLPmUA7LwM6XSb1"
+        "name": "Quiero Verte Otra Vez",
+        "url": "https://open.spotify.com/album/4862dwA64dtiFt42ezMima"
       },
       "artists": [
         {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+          "name": "Havana D'primera",
+          "url": "https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO"
         }
       ],
-      "duration_ms": 281893,
-      "name": "Consumelo",
-      "url": "https://open.spotify.com/track/5ZHl4CqFicHJWkUrt8nQST"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "The Most From Beny More",
-        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Yo Voy Pa Encima - Single",
-        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 206992,
-      "name": "Yo Voy Pa Encima",
-      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Qu\u00e9 Sorpresa",
-        "url": "https://open.spotify.com/album/5R00tENfLRFZWUJIjs65sn"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 360992,
-      "name": "Qu\u00e9 Sorpresa",
-      "url": "https://open.spotify.com/track/5D2iEMBHykpE1BE7V6cDFX"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Tremenda Rumba!",
-        "url": "https://open.spotify.com/album/7g0XzXIwcd8C1De5aNDf39"
-      },
-      "artists": [
-        {
-          "name": "Maraca",
-          "url": "https://open.spotify.com/artist/6oF5lC04WNCwxLzLxbbH0d"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Castigala",
-      "url": "https://open.spotify.com/track/5X2uPHvhiKoR4YNRMdh3N6"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "M\u00e1s Duro",
-        "url": "https://open.spotify.com/album/3zR9fk3CXln9qMLVMrJyK6"
-      },
-      "artists": [
-        {
-          "name": "El Ni\u00f1o y la Verdad",
-          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
-        }
-      ],
-      "duration_ms": 292942,
-      "name": "Vuelve a la Habana",
-      "url": "https://open.spotify.com/track/7wG9JSSlEv2fs4D2OkGVYw"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Yo traigo mi tumbao",
-        "url": "https://open.spotify.com/album/2u03xK1uViRBoKnac3eCGi"
-      },
-      "artists": [
-        {
-          "name": "Los Conquistadores de la Salsa",
-          "url": "https://open.spotify.com/artist/39oLaa6dK1UDE6SNg5iY6W"
-        }
-      ],
-      "duration_ms": 227448,
-      "name": "Yo sigo siendo cubano",
-      "url": "https://open.spotify.com/track/5wV8OYACz23M2UT08lYduq"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Latin Hits 2014 Club Edition (Kuduro, Salsa, Bachata, Merengue, Reggaeton, Fitness, Mambo, Timba, Cubaton, Dembow, Cumbia)",
-        "url": "https://open.spotify.com/album/4lUQIgfbBLoxgC5Uax0CYV"
-      },
-      "artists": [
-        {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        },
-        {
-          "name": "Maykel Fonts",
-          "url": "https://open.spotify.com/artist/25XlE014uP57NwPYobN64T"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "Dale Lo Que Lleva",
-      "url": "https://open.spotify.com/track/3hvEz1pPkgtJ513tebSHZt"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 292653,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Latino! Greatest Hits - 56 Latin Top Hits (Original Versions!)",
-        "url": "https://open.spotify.com/album/0VSYBKZgle28fILiupe1Bv"
-      },
-      "artists": [
-        {
-          "name": "Manolito Simonet y su Trabuco",
-          "url": "https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR"
-        }
-      ],
-      "duration_ms": 341133,
-      "name": "Marcando La Distancia",
-      "url": "https://open.spotify.com/track/0txizV883uXWqJEyxxJHrp"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Llego... Van Van",
-        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
-      },
-      "artists": [
-        {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "Temba, Tumba, Timba",
-      "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
+      "duration_ms": 288445,
+      "name": "Quiero Verte Otra Vez",
+      "url": "https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -619,8 +695,40 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+        "name": "Yo traigo mi tumbao",
+        "url": "https://open.spotify.com/album/2u03xK1uViRBoKnac3eCGi"
+      },
+      "artists": [
+        {
+          "name": "Los Conquistadores de la Salsa",
+          "url": "https://open.spotify.com/artist/39oLaa6dK1UDE6SNg5iY6W"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "Yo sigo siendo cubano",
+      "url": "https://open.spotify.com/track/5wV8OYACz23M2UT08lYduq"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Camino al Cielo",
+        "url": "https://open.spotify.com/album/72Tes06RKTTqOuImJivudD"
+      },
+      "artists": [
+        {
+          "name": "Havana NRG",
+          "url": "https://open.spotify.com/artist/0NQisvahSHRFSfnUN0DYmp"
+        }
+      ],
+      "duration_ms": 330666,
+      "name": "Havana City",
+      "url": "https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Qu\u00e9 Sorpresa",
+        "url": "https://open.spotify.com/album/5R00tENfLRFZWUJIjs65sn"
       },
       "artists": [
         {
@@ -632,77 +740,61 @@
           "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 358480,
-      "name": "Rosa la Peligrosa",
-      "url": "https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE"
+      "duration_ms": 360992,
+      "name": "Qu\u00e9 Sorpresa",
+      "url": "https://open.spotify.com/track/5D2iEMBHykpE1BE7V6cDFX"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "\u00bfDe Qu\u00e9 Estamos Hablando?",
-        "url": "https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy"
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
       "artists": [
         {
-          "name": "Elio Rev\u00e9 Y Su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf"
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
         }
       ],
-      "duration_ms": 323453,
-      "name": "Agua Pa'yemay\u00e1",
-      "url": "https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu"
+      "duration_ms": 332706,
+      "name": "Que Tiene Que Te Mueve",
+      "url": "https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Me Lo Gan\u00e9",
-        "url": "https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb"
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
       },
       "artists": [
         {
-          "name": "Calle Real",
-          "url": "https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU"
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
         }
       ],
-      "duration_ms": 394653,
-      "name": "Abreme la puerta",
-      "url": "https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo"
+      "duration_ms": 380484,
+      "name": "Amiga Mia",
+      "url": "https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Salsa 2018 [18 Salsa Latin Hits (Salsa Rom\u00e1ntica, Urbana, para Bailar)]",
-        "url": "https://open.spotify.com/album/3CxYDrbk75cxiTQAb5Itji"
+        "name": "Best of Cuba",
+        "url": "https://open.spotify.com/album/7jT6GMmUSudbIvCIMXom02"
       },
       "artists": [
         {
-          "name": "Marquetti & Habana Swing",
-          "url": "https://open.spotify.com/artist/11LSiCXg3ebj6QFUZ2tMN6"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "Yo Siempre Llamo La Fiesta",
-      "url": "https://open.spotify.com/track/0Kx8QEE82QMZ8l5kXZkTot"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
-        "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
-      },
-      "artists": [
-        {
-          "name": "FredyClan",
-          "url": "https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE"
+          "name": "Mayito Rivera",
+          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
         },
         {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
         }
       ],
-      "duration_ms": 288012,
-      "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
-      "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
+      "duration_ms": 412000,
+      "name": "Temba, tumba y timba",
+      "url": "https://open.spotify.com/track/7Cukyed54aN3Cdz0KbI90f"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -723,86 +815,38 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
+        "name": "Respeta",
+        "url": "https://open.spotify.com/album/4xTtfBZZN4WKhg2ZImTEgN"
       },
       "artists": [
+        {
+          "name": "Manana Club y Papucho",
+          "url": "https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD"
+        }
+      ],
+      "duration_ms": 311013,
+      "name": "La Mulata",
+      "url": "https://open.spotify.com/track/6qxdJFgAJm3xJAd1msdNoW"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Made in Habana",
+        "url": "https://open.spotify.com/album/74QZy4tcjEtvSkXnBxZo78"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        },
         {
           "name": "Alexander Abreu",
           "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 342373,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "La Negra Tiene Tumbao",
-        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Privilegio 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ZHOSr8oTScyC7vk199jXg"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 307336,
-      "name": "Mi Historia Entre Tus",
-      "url": "https://open.spotify.com/track/2hl7R0VVe4OphNXZ50XEtZ"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Tranquilo Que Yo Controlo (Remasterizado)",
-        "url": "https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy"
-      },
-      "artists": [
-        {
-          "name": "Pupy y Los Que Son Son",
-          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "Vecina Pr\u00e9steme el Cubo - Remasterizado",
-      "url": "https://open.spotify.com/track/5E6Ry2vPmsreAo5ae7ZIsi"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Mi M\u00fasica",
-        "url": "https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Danson",
-          "url": "https://open.spotify.com/artist/3jDjCkIGthiTkbp7uWMe8R"
-        }
-      ],
-      "duration_ms": 368850,
-      "name": "Mi M\u00fasica",
-      "url": "https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD"
+      "duration_ms": 264093,
+      "name": "Comentarios",
+      "url": "https://open.spotify.com/track/5DybOfZIp6isaVnUCSmqcB"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -816,25 +860,9 @@
           "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Quiero Verte Otra Vez",
-        "url": "https://open.spotify.com/album/4862dwA64dtiFt42ezMima"
-      },
-      "artists": [
-        {
-          "name": "Havana D'primera",
-          "url": "https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO"
-        }
-      ],
-      "duration_ms": 288445,
-      "name": "Quiero Verte Otra Vez",
-      "url": "https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx"
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
     }
   ],
   "unique_name": "Salsa Cubana",

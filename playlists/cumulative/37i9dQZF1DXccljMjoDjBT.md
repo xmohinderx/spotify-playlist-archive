@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1980s.
 
-101 songs - 8 hr 7 min - not published yet
+101 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/3kc3bqHwUD9C5VMlAQVigN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 187013,
       "name": "Daft Pretty Boys",
       "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 180413,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 201786,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR"
@@ -2189,7 +2189,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 225360,
       "name": "Fire & Fury",
       "url": "https://open.spotify.com/track/24KWPOD5dHhOfyAfgZTJMr"
@@ -2513,7 +2513,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 246200,
       "name": "Funky Galileo",
       "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
@@ -2693,7 +2693,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 276764,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4WsIARXwddxyLdL0kEnSvm"
@@ -2909,7 +2909,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 147893,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/0oHivrvqAyEBDgjFF9JPXa"
@@ -4537,7 +4537,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 154841,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7xCsVk37Uom1L0v1YEjso0"
@@ -5976,6 +5976,24 @@
     },
     {
       "album": {
+        "name": "Chip Chrome & The Mono-Tones (Deluxe)",
+        "url": "https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/36sMKgpinvePfSWHoxaeqZ"
       },
@@ -6683,7 +6701,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
@@ -6907,7 +6925,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 181707,
       "name": "Uptight",
       "url": "https://open.spotify.com/track/222lvkVmQn5YrgGgykcrOk"
@@ -7213,7 +7231,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 205921,
       "name": "Yeah Yeah Yeah",
       "url": "https://open.spotify.com/track/32giR6EjJXyPBPS83p3o48"

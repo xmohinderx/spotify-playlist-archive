@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-22",
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Leonardo de Lozanne en portada.",
   "name": "Iconos del Rock Mexicano",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2UMRgZlvzwOWUgThpBtpYG"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,24 @@
       "duration_ms": 294586,
       "name": "A.D.O.",
       "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+    },
+    {
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "album": {
@@ -57,6 +77,28 @@
       "duration_ms": 241600,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/7fcK4YURteFjgPMslwGDpY"
+    },
+    {
+      "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/3CF7yIyzFIW9Z3S0yjRuP9"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        },
+        {
+          "name": "Dr. Shenka",
+          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213405,
+      "name": "Amor Enfermo",
+      "url": "https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR"
     },
     {
       "album": {
@@ -233,7 +275,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 212893,
       "name": "Contrabando y Traici\u00f3n - Resmasterizado",
       "url": "https://open.spotify.com/track/0ZZM4pHDubnhLsEiBVZtq4"
@@ -251,7 +293,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 277800,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
@@ -348,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Zoe Hits 01 - 06",
+        "url": "https://open.spotify.com/album/7egBAbeRyeOv35IfqrFqTY"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329600,
+      "name": "Deja Te Conecto",
+      "url": "https://open.spotify.com/track/5JrRhBIp1lMDN8dNOloTfC"
+    },
+    {
+      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC"
       },
@@ -377,7 +437,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 238360,
       "name": "Detras De Los Cerros",
       "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
@@ -770,6 +830,24 @@
     },
     {
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
+      },
+      "artists": [
+        {
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181866,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
+    },
+    {
+      "album": {
         "name": "Infiernos",
         "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
       },
@@ -781,7 +859,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 293247,
       "name": "Infiernos",
       "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
@@ -929,6 +1007,24 @@
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "album": {
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/560jtpKSOE6SAcEdiK60En"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "La Locomotora - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0cbHsNNZ1Cne4G4U9Bhwyc"
     },
     {
       "album": {
@@ -1123,7 +1219,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
@@ -1303,7 +1399,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 249506,
       "name": "Nos Tragamos",
       "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
@@ -1325,6 +1421,24 @@
       "duration_ms": 274000,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
+    },
+    {
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "album": {
@@ -1375,7 +1489,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
@@ -1393,7 +1507,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 167226,
       "name": "Paquita Disco",
       "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
@@ -1555,7 +1669,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 218920,
       "name": "Qui\u00e9reme Mucho",
       "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
@@ -1573,10 +1687,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "Santo y Lunave",
       "url": "https://open.spotify.com/track/2vgEo9N4GLVpFBHkTHFA2I"
+    },
+    {
+      "album": {
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "Si Senor",
+      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
     },
     {
       "album": {
@@ -1645,7 +1777,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 191066,
       "name": "Sol\u00edn",
       "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
@@ -1688,6 +1820,24 @@
     },
     {
       "album": {
+        "name": "Rock En Espanol - Lo Mejor De La Lupita",
+        "url": "https://open.spotify.com/album/1I2gSnf1ZGrYKL7QBbNVqq"
+      },
+      "artists": [
+        {
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "Supers\u00f3nico",
+      "url": "https://open.spotify.com/track/6r72uX74pqDlniQJ4uBmS0"
+    },
+    {
+      "album": {
         "name": "Acapulco Golden",
         "url": "https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua"
       },
@@ -1699,7 +1849,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 88253,
       "name": "Tangatutanga",
       "url": "https://open.spotify.com/track/4OxWepIRN3GXUxF7g4Kwvq"
@@ -1778,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Tex Tex",
+        "url": "https://open.spotify.com/album/6JNJgzHxB0tA8g4fdj5Rln"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254640,
+      "name": "Un Toque M\u00e1gico",
+      "url": "https://open.spotify.com/track/2NN4GADDA9F8D8JYfiHIZb"
+    },
+    {
+      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -1847,6 +2015,24 @@
       "duration_ms": 224085,
       "name": "Visita",
       "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Voto Latino",
+      "url": "https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL"
     },
     {
       "album": {

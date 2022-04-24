@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,352 likes - 97 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,445 likes - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 46 | [Look at it in the Light](https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:46 |
 | 47 | [pg baby](https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [learn 2 swim](https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf) | 2:36 |
 | 48 | [Brazy \(with YNW Melly\)](https://open.spotify.com/track/6wVUIV8RvwlLJlK1DsgVdj) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Brazy](https://open.spotify.com/album/5NPJChyQgOZaESCjr2EgVg) | 2:49 |
-| 49 | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3) | 2:37 |
+| 49 | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3) | 2:36 |
 | 50 | [Be Like Water \(feat\. Stevie Wonder & Nas\)](https://open.spotify.com/track/5WPbdD8Q0rlNPTfJiI4ThM) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Be Like Water \(feat\. Stevie Wonder & Nas\)](https://open.spotify.com/album/6Ud9gKpfMdrg2gu1x7TatV) | 3:17 |
 | 51 | [No Fear \(feat\. Damian Marley & Nicky Jam\)](https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [No Fear \(feat\. Damian Marley & Nicky Jam\)](https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw) | 3:30 |
 | 52 | [Lover, You Don't Know Me](https://open.spotify.com/track/2e8LIQeraPt43wrA1KnedC) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 3:18 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 71 | [parasite](https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [alchemy](https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW) | 2:37 |
 | 72 | [GAZ](https://open.spotify.com/track/6MQJoE9MJsn7FDfFdEsnxE) | [NAVA](https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R), [555n](https://open.spotify.com/artist/0HfDIpzoboxafGQuZ0WFCQ) | [GAZ](https://open.spotify.com/album/3wpRnssztEjqZsa8mSbNxL) | 2:36 |
 | 73 | [Gas Station](https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Gas Station](https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1) | 2:15 |
-| 74 | [Kick Back \(feat\. Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 |
+| 74 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 |
 | 75 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 |
 | 76 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 |
 | 77 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZW76Iw4Lij.md) - [plain]
 
 > Medieval music from early Gregorian chants to late Ars Nova\. Secular troubadours and sacred choir music\. Colorful, gothic and beautiful\. Hear music by Wolkenstein, von Bingen, Machaut and Léonin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,690 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,745 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZW76Iw4Lij.md) - [plain]
 | 47 | [Gloria "Ad Ogni Vento"](https://open.spotify.com/track/5qHQBukoOES6osTAmPrme6) | [Unknown](https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57), [Zachara da Teramo](https://open.spotify.com/artist/6hpfYsxqg6HmKdRethAmqP), [Ars Cantus](https://open.spotify.com/artist/2IM8RF4wA085LP7wJ9UoOt) | [The Pearls of Polish Music 15th \- Century Music from the Krasiński Manuscript \(ca.1440\)](https://open.spotify.com/album/0r22lsZSaTeEdA4DBXt3VW) | 4:48 |
 | 48 | [Carminibus festos \- O requies populi](https://open.spotify.com/track/4TppdzZpp1xKG45Td4LD4Q) | [Antonius Romanus](https://open.spotify.com/artist/66X0ykKdfcwnnWdvp0S2DQ), [La Reverdie](https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ), [Claudia Caffagni](https://open.spotify.com/artist/3DKozmT2a2semeshgeOmUD) | [Venecie mundi splendor: Marvels of Medieval Venice \(Music for the Doges, 1330\-1430\)](https://open.spotify.com/album/3xtkGOSb6foDmpuEOs6z9o) | 3:54 |
 | 49 | [In tua memoria](https://open.spotify.com/track/4FHHsbUooZ1rRa2P8SRQsR) | [Arnold de Lantins](https://open.spotify.com/artist/5OlYB7uBcNtQa97MQlM7N2), [Ars Italica](https://open.spotify.com/artist/3pT2A8aSMKuVkevIQh4VaJ), [Sigrid Lee](https://open.spotify.com/artist/331M7HrshBe48mY1hsZTTz), [Francis Biggi](https://open.spotify.com/artist/36Jcj3NbNs2fNveWyFKaUo), [Marco Ferrari](https://open.spotify.com/artist/3boBAKHAoeaDvHCBEsKlfo) | [Musica del XV Secolo in Italia](https://open.spotify.com/album/7yki3HZzPhvTlkzfQpmuU8) | 1:58 |
-| 50 | [Motet \- Quam pulchra es](https://open.spotify.com/track/66YdNebLckjeW33XOL6rg7) | [Leonel Power](https://open.spotify.com/artist/2WzcklMrHcW7s4NC0BW1XZ), [Orlando Consort](https://open.spotify.com/artist/42YCCI0lmBcMB7s5gmXVDF) | [The Rose, the Lily & the Whortleberry \- Medieval and Renaissance Gardens in Music](https://open.spotify.com/album/6zM9vit87B2c5C11vsqYcn) | 3:39 |
+| 50 | [Motet: Quam pulchra es](https://open.spotify.com/track/66YdNebLckjeW33XOL6rg7) | [Leonel Power](https://open.spotify.com/artist/2WzcklMrHcW7s4NC0BW1XZ), [Orlando Consort](https://open.spotify.com/artist/42YCCI0lmBcMB7s5gmXVDF) | [The Rose, the Lily & the Whortleberry: Medieval and Renaissance Gardens in Music](https://open.spotify.com/album/6zM9vit87B2c5C11vsqYcn) | 3:39 |
 
 Snapshot ID: `MTU2ODAxNjU3NCwwMDAwMDAwODAwMDAwMTZhMjYwMDU5M2UwMDAwMDE2ZDE1MTIyN2Ix`

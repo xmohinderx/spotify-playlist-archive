@@ -4,7 +4,7 @@
 
 > Clásicos que son el curita perfecto para tu corazón.
 
-70 songs - 4 hr 57 min - not published yet
+70 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/06wuBu9JKrL8nz0eL7OKNg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

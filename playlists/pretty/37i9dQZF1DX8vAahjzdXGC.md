@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Mahalini
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,990 likes - 103 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,003 likes - 103 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 26 | [Be Alright](https://open.spotify.com/track/1YF12gZq5pnwqYuSe9GJ4t) | [Indra Aziz](https://open.spotify.com/artist/6DxRg2b7DEKeEwVQK72Gnd) | [Be Alright](https://open.spotify.com/album/03X49AUj27hTbePAW1AuTR) | 3:12 |
 | 27 | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ) | 3:18 |
 | 28 | [You & I \(Bonus Track\)](https://open.spotify.com/track/5JsHVX0OdClXeghUWhUbqa) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Gentle Bones \(Deluxe\)](https://open.spotify.com/album/5CFfEHOJ4CSvsRjAMKUQxK) | 2:16 |
-| 29 | [Rimba](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 |
+| 29 | [Nuggets](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 |
 | 30 | [Ruang](https://open.spotify.com/track/5ssXB8I39EF6e9H5uPBIlr) | [Ruang Kendali](https://open.spotify.com/artist/14BtXFhNnDgFoBXBYGwsSd) | [Moon](https://open.spotify.com/album/5FPS2DDguuckHb1gCemmo8) | 4:12 |
 | 31 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 |
 | 32 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 56 | [don't let me fall](https://open.spotify.com/track/2jza5yVe7cXfRSWILorlPj) | [Gustixa](https://open.spotify.com/artist/5dLfdoRqimRnbTC19bdbRD), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [don't let me fall](https://open.spotify.com/album/5aIt7fo0YPmvSsx20ivxBE) | 2:27 |
 | 57 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
 | 58 | [Until I love the love](https://open.spotify.com/track/1Qv9rEY9i8E78NQ3xRsKbE) | [Choi junghoon of Jannabi](https://open.spotify.com/artist/3tYhkFMgzudLuw0ICWgnko) | [Until I love the love](https://open.spotify.com/album/4wOnyTSfHScSoCxq54NzVX) | 3:56 |
-| 59 | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/track/5rnqEo666hoD4r0CajmrJm) | [BamBam](https://open.spotify.com/artist/6uTQowWLedczyP5LnS1iwZ), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/album/7fN1n8ytw8i6sxJ1i5lzMI) | 3:20 |
+| 59 | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/track/5rnqEo666hoD4r0CajmrJm) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/album/7fN1n8ytw8i6sxJ1i5lzMI) | 3:20 |
 | 60 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 |
 | 61 | [FiNE!](https://open.spotify.com/track/0uXc6bgGKOHi861XBgbuQ1) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [LEFT](https://open.spotify.com/album/5wQND7CP9pnNPW3QA2ODos) | 3:11 |
 | 62 | [I Let You In](https://open.spotify.com/track/4tDLGBgcXukU5CxgWTrifZ) | [Kehard](https://open.spotify.com/artist/6bQNj9hzQAggybweFsY8G8) | [I Let You In](https://open.spotify.com/album/7rYiEnOnd2aTXM4VxXBreY) | 2:59 |

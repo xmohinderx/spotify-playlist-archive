@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Lewis Capaldi, Miguel, and Maggie Rogers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,748 likes - 732 songs - 1 day 21 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,760 likes - 732 songs - 1 day 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 3 | [Back to You \- Spotify Singles](https://open.spotify.com/track/3TUQZ3agjkG64kbsYEcgVn) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 4:21 |
 | 4 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 |
 | 5 | [Baghon Main \- Spotify Singles](https://open.spotify.com/track/767DqFjvUfMmpBp02QxApL) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 5:27 |
-| 6 | [DI MI NOMBRE \- Cap.8: Éxtasis \- Spotify Singles](https://open.spotify.com/track/5ReoXjSl51PomPG8rYp0Zx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 2:30 |
+| 6 | [DI MI NOMBRE \- Spotify Singles](https://open.spotify.com/track/5ReoXjSl51PomPG8rYp0Zx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 2:30 |
 | 7 | [I Don't Wanna Talk \(I Just Wanna Dance\) \- Spotify Singles](https://open.spotify.com/track/1lzY6cYbKjLlDlDQ8KfhdR) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 3:00 |
 | 8 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 |
 | 9 | [Be Sweet \- Spotify Singles](https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:14 |

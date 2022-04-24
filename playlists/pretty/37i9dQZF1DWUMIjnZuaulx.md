@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Karima
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,803 likes - 99 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,924 likes - 99 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

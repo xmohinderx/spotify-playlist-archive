@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s\. Updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,149 likes - 166 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,151 likes - 166 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

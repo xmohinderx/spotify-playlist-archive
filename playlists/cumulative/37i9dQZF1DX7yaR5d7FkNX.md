@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-84 songs - 5 hr 12 min - not published yet
+84 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

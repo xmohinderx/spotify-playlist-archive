@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,173 likes - 86 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,184 likes - 86 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Yo Gotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,727 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,766 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 4 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
 | 5 | [livin wild](https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:22 |
 | 6 | [By Your Side](https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [By Your Side](https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5) | 3:14 |
-| 7 | [4REIGN GANGSTA \(feat\. Kevin Gates\)](https://open.spotify.com/track/5SbtfQsckw0gUxsEYIOPI3) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [4REIGN GANGSTA \(feat\. Kevin Gates\)](https://open.spotify.com/album/3Ydjha34N8zfKz69b1P8Tl) | 3:57 |
+| 7 | [4Reign Gangsta \(feat\. Kevin Gates\)](https://open.spotify.com/track/5SbtfQsckw0gUxsEYIOPI3) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [4Reign Gangsta \(feat\. Kevin Gates\)](https://open.spotify.com/album/3Ydjha34N8zfKz69b1P8Tl) | 3:57 |
 | 8 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Last One Left](https://open.spotify.com/album/136JKS8joUGUiReq11D03P) | 3:15 |
 | 9 | [Feelin Like Rylo](https://open.spotify.com/track/5bHXahWwP3DHKcXAcgIS2d) | [lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Feelin Like Rylo](https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl) | 2:25 |
 | 10 | [Set Me Free](https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Set Me Free](https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx) | 3:13 |

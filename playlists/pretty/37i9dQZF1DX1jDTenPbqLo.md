@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,563 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,727 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lyric Pieces, Op\. 12: I\. Arietta \- Poco andante e sostenuto](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto & Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
+| 1 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
 | 2 | [4 Impromptus, Op\. 90, D\. 899: No\. 3 in G\-flat major](https://open.spotify.com/track/1Uld5u6GAksDqd6K8xnmGS) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Schubert](https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC) | 6:17 |
 | 3 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 4 | [Le Carnaval des Animaux, R\. 125: 13\. The Swan \(Arr\. Hodge for Cello, Harp & Ensemble\)](https://open.spotify.com/track/5J2pXuqqpBsISeFPjD5A5C) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Katherine Thomas](https://open.spotify.com/artist/61LlaNdOnjpq4LMMAJL5gQ), [CBSO Cellos](https://open.spotify.com/artist/35ZY7Bd2BHf4oIO8DnXFhQ) | [Saint\-Saëns: Le Carnaval des animaux, R.125 \- 13\. The Swan \(Arr\. Cello, Harp & Ensemble\)](https://open.spotify.com/album/4DRlCuB51rWJhnE1fDFDKC) | 2:33 |

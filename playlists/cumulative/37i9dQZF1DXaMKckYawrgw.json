@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-22",
   "description": "Ska con cuadritos blancos, negros, y tricolores. Inspector y Lng Sht en portada.",
   "name": "Ska Mexa",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7o4h9V9vhPDNT8jAt3VvIq"
+  ],
   "tracks": [
     {
       "album": {
@@ -111,6 +113,28 @@
       "duration_ms": 239720,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/4Uies5Apye1sR2TnH5pqhV"
+    },
+    {
+      "album": {
+        "name": "Amor t\u00f3xico",
+        "url": "https://open.spotify.com/album/1rxsQtHulC55OUfd74A0nq"
+      },
+      "artists": [
+        {
+          "name": "Paco Ellington",
+          "url": "https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg"
+        },
+        {
+          "name": "New Lion Ska",
+          "url": "https://open.spotify.com/artist/6wlAS7ETMMuzJiwEIHzFII"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209185,
+      "name": "Amor t\u00f3xico",
+      "url": "https://open.spotify.com/track/75GSBXTLE2TCAOvttgl3vf"
     },
     {
       "album": {
@@ -443,7 +467,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 221640,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
@@ -461,7 +485,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 221640,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/6r73gMODmuQgBgYon2Suuo"
@@ -522,6 +546,28 @@
     },
     {
       "album": {
+        "name": "A2\u00cd 5Uena!, Vol 2",
+        "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Skarnales",
+          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296355,
+      "name": "El Dejado",
+      "url": "https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv"
+    },
+    {
+      "album": {
         "name": "Victimas Del Doctor Cerebro",
         "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
@@ -537,6 +583,24 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "album": {
+        "name": "El Mundo No Esta Listo",
+        "url": "https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv"
+      },
+      "artists": [
+        {
+          "name": "Moon Stomper",
+          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172872,
+      "name": "El Mundo No Esta Listo",
+      "url": "https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB"
     },
     {
       "album": {
@@ -635,7 +699,7 @@
     {
       "album": {
         "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+        "url": "https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc"
       },
       "artists": [
         {
@@ -646,6 +710,24 @@
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-24",
       "duration_ms": 206600,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
@@ -811,7 +893,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 213720,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
@@ -829,7 +911,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 214066,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/0M1qzP0f8u3N4OlJk0H2ly"
@@ -872,6 +954,24 @@
     },
     {
       "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/6kuC8istEXp5B3n9cmiAlP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/7IgC0NgE7WFerGSGtimXYA"
+    },
+    {
+      "album": {
         "name": "Frente a Frente - Pante\u00f3n Rococ\u00f3 & SKA-P",
         "url": "https://open.spotify.com/album/44diTb5U8zqa1yokVLOWyQ"
       },
@@ -883,7 +983,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/7qKtcEDbth6kOM5s4uJzw3"
@@ -919,7 +1019,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 239693,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/2b8OrrQmDScF3TtbDvwWfy"
@@ -1349,7 +1449,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 246100,
       "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
       "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"
@@ -1645,7 +1745,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 133080,
       "name": "Si Tu Boquito Fuera",
       "url": "https://open.spotify.com/track/662E0RMa6XGHqctB0F4SpW"
@@ -1681,7 +1781,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 203866,
       "name": "Ska Voovee Boobie Baby",
       "url": "https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe"
@@ -1871,7 +1971,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 155965,
       "name": "Stay Rude",
       "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
@@ -2019,7 +2119,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 213813,
       "name": "Toloache Pa Mi Negra",
       "url": "https://open.spotify.com/track/1WMD4z3lsY6RDRDpXR9A47"
@@ -2037,7 +2137,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 213813,
       "name": "Toloache Pa' Mi Negra",
       "url": "https://open.spotify.com/track/1lXaFoSpPIaqXVRSRc6OOk"

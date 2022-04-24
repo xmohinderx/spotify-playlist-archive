@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Đông Nhi
 
-65 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+66 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Người Hãy Quên Em Đi](https://open.spotify.com/track/1rJyVbXb3njXbN3lokllKf) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Tâm 9](https://open.spotify.com/album/3A9rCX2VkZWP6NGnLUnjQq) | 3:52 | 2021-12-07 |  |
 | [Nhắm Mắt Thấy Mùa Hè](https://open.spotify.com/track/7KiVghFxUSJjrSQXlb9tdh) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Nhắm Mắt Thấy Mùa Hè \(Nhạc Phim\)](https://open.spotify.com/album/7jozXLciIE8b6eh8yM6UYi) | 4:42 | 2021-12-07 |  |
 | [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/track/5U5aFzSWZVGe5gg8eCc8ft) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/album/4IDvNp1lelYq2kmHjCDkvo) | 4:02 | 2022-01-04 |  |
-| [nằm ngủ emru](https://open.spotify.com/track/0TTJufXrJgRZUUV7brd2hT) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [nằm ngủ emru](https://open.spotify.com/album/4uig3uMCgVndDQeOw1shgg) | 4:14 | 2021-12-07 |  |
+| [nằm ngủ emru](https://open.spotify.com/track/0TTJufXrJgRZUUV7brd2hT) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [nằm ngủ emru](https://open.spotify.com/album/4uig3uMCgVndDQeOw1shgg) | 4:14 | 2021-12-07 | 2022-04-24 |
 | [OK Anh Đúng](https://open.spotify.com/track/50Dh4QeAljOaFDRYcedzNW) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [OK Anh Đúng](https://open.spotify.com/album/48C9W0epgpJf0yMecK2FHP) | 3:48 | 2021-12-07 |  |
 | [One Second \- Unplugged](https://open.spotify.com/track/5RMLXxdOgDGd7dpNieYlZh) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Trạm Không Gian Số 0 \(Unplugged\)](https://open.spotify.com/album/5ScazWOt0AHFU5tiJCtcuA) | 4:01 | 2021-12-07 | 2022-01-05 |
 | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/track/3i02vLHwlt14hNJtdXmeM7) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/album/6oLvir8rZVaQRF3z2mp0rG) | 3:10 | 2021-12-07 |  |
@@ -72,6 +72,7 @@
 | [Yêu Thầm](https://open.spotify.com/track/7dJVE53hGAX9TcKH0abFic) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Yêu Thầm](https://open.spotify.com/album/36CB3L3Wjw0VfgYx4xSqfa) | 4:12 | 2021-12-07 |  |
 | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/track/4g05dGhnA69TG6AJljEcL6) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/album/4O5Y2CJavAsV8AkPZQqXrt) | 5:22 | 2021-12-07 |  |
 | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/track/3ckraK42KnTt0Mk0b8pmA2) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/album/6Qb69lLK43aP1s06fQIYnJ) | 3:15 | 2021-12-07 |  |
+| [Đôi Mi Em Đang U Sầu](https://open.spotify.com/track/0TAEZOaoZx5LBXEkePNrt4) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s), [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp) | [Đôi Mi Em Đang U Sầu](https://open.spotify.com/album/2oi3L0ZJrhi4n1SNlZeJjX) | 4:27 | 2022-04-23 |  |
 | [Đúng Cũng Thành Sai](https://open.spotify.com/track/33weHbON0j21ZPUMc0ZKTt) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Đúng Cũng Thành Sai](https://open.spotify.com/album/5pB6JpmCb0BhkOc3bZHfxj) | 4:47 | 2021-12-07 | 2022-01-05 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

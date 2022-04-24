@@ -170,6 +170,28 @@
     },
     {
       "album": {
+        "name": "Bach: Concertos italiens",
+        "url": "https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253413,
+      "name": "Adagio in D Minor, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
+    },
+    {
+      "album": {
         "name": "Still: Afro-American Symphony",
         "url": "https://open.spotify.com/album/6WeAFg5AUjMi1NkuvCi0Ey"
       },
@@ -376,7 +398,7 @@
     },
     {
       "album": {
-        "name": "Chopin: 1846, derni\u00e8re ann\u00e9e \u00e0 Nohant",
+        "name": "1846, derni\u00e8re ann\u00e9e \u00e0 Nohant - Chopin: Cello Sonata; Piano Works",
         "url": "https://open.spotify.com/album/3gFpVgQIJzQzBqr1uWAsHQ"
       },
       "artists": [
@@ -399,28 +421,6 @@
       "duration_ms": 204520,
       "name": "Cello Sonata in G Minor, Op. 65: III. Largo",
       "url": "https://open.spotify.com/track/3zrcDZ9hPNkZuq20pxPb9o"
-    },
-    {
-      "album": {
-        "name": "J.S. Bach: Concertos italiens",
-        "url": "https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "date_added": "2021-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 253413,
-      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
-      "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
     },
     {
       "album": {

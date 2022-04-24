@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-22",
   "description": "Revive aquellas grandes canciones desenchufadas.",
   "name": "Grandes Unplugged",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5Xm3osiTbWWeVeEAkw3tSe"
+  ],
   "tracks": [
     {
       "album": {
@@ -129,7 +131,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 306026,
       "name": "Cuando nadie me ve - Unplugged",
       "url": "https://open.spotify.com/track/6iaw07BTiLrHVT2OQDgqiD"
@@ -307,7 +309,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 278066,
       "name": "He Barrido el Sol - Unplugged Version",
       "url": "https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz"
@@ -365,7 +367,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 267466,
       "name": "I'll Always Be Right There - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/0IKMxnXUBEe81fZbVUrlRy"
@@ -383,7 +385,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 243941,
       "name": "I'm Yours - Live on HSN Live",
       "url": "https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI"
@@ -614,6 +616,24 @@
     },
     {
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "Mar\u00eda - Unplugged",
+      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
+    },
+    {
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -651,6 +671,24 @@
       "duration_ms": 263626,
       "name": "Mentiras (feat. Aleks Syntek) - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/2SDeVqQtmAaTcKZyzzL5rK"
+    },
+    {
+      "album": {
+        "name": "Rock n' Roll Alima\u00f1a (Live)",
+        "url": "https://open.spotify.com/album/2ISJLMKCJHFIlwZXBdXz7n"
+      },
+      "artists": [
+        {
+          "name": "Pablo Carbonell",
+          "url": "https://open.spotify.com/artist/5uQskVVNFoYJi9dJNQ4qgq"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276266,
+      "name": "Mi Ag\u00fcita Amarilla - Live",
+      "url": "https://open.spotify.com/track/4dDIUyuc2GOyQNtHH8NRjU"
     },
     {
       "album": {

@@ -394,6 +394,28 @@
     },
     {
       "album": {
+        "name": "Deja el misterio",
+        "url": "https://open.spotify.com/album/7GDawqAEcqk6qReNf6y4uB"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202410,
+      "name": "Deja el misterio",
+      "url": "https://open.spotify.com/track/6gb9OSdJZRb2vWjj9zjqPW"
+    },
+    {
+      "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/0SPp5ifUfZIYoHbVzrCOWX"
       },

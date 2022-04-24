@@ -940,6 +940,36 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Trios Nos. 6 & 7 \"Archduke\"",
+        "url": "https://open.spotify.com/album/6SCZUKrutfOn1WfAveYJcq"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Jean-Guihen Queyras",
+          "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        }
+      ],
+      "date_added": "2015-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618226,
+      "name": "Piano Trio No. 6 in E-Flat Major, Op. 70, No. 2: I. Poco sostenuto (Allegro ma non troppo)",
+      "url": "https://open.spotify.com/track/5Agu1Ahg9CJeyzEPAjEE9V"
+    },
+    {
+      "album": {
         "name": "Ravel : Orchestral works",
         "url": "https://open.spotify.com/album/4igH5XCXBXWmxPFyWaWGrM"
       },
@@ -1307,36 +1337,6 @@
       "duration_ms": 498747,
       "name": "The Swings Of Central Park",
       "url": "https://open.spotify.com/track/3EpRPjuf7iKzTK31WxLXDg"
-    },
-    {
-      "album": {
-        "name": "Beethoven: Piano Trios, Op. 70 No. 2, Op. 97 \"Archduke\"",
-        "url": "https://open.spotify.com/album/6SCZUKrutfOn1WfAveYJcq"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Isabelle Faust",
-          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
-        },
-        {
-          "name": "Jean-Guihen Queyras",
-          "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
-        },
-        {
-          "name": "Alexander Melnikov",
-          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
-        }
-      ],
-      "date_added": "2015-07-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 618226,
-      "name": "Trio for piano, violin and cello No. 6 in E Flat Major, No. 2, Op. 70: Trio for piano, violin and cello No. 6 in E Flat Major, No. 2, Op. 70: I. Poco sostenuto - Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/5Agu1Ahg9CJeyzEPAjEE9V"
     },
     {
       "album": {

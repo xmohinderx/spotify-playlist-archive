@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 154173,
       "name": "A Glass Of Champagne",
       "url": "https://open.spotify.com/track/3lm0QsdpQrypDUbHexpVWK"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 250360,
       "name": "An Everlasting Love",
       "url": "https://open.spotify.com/track/2xaHhKOr9Vy69Q2fxbOXz4"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 182240,
       "name": "Bad, Bad Leroy Brown",
       "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 303533,
       "name": "Boogie Nights",
       "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 242093,
       "name": "Brown Girl in the Ring",
       "url": "https://open.spotify.com/track/0rT9KyAEDNr0kbBL5Qfo8k"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 331333,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 178045,
       "name": "Dancing In The Moonlight",
       "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 363973,
       "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 182933,
       "name": "Down on the Beach Tonight",
       "url": "https://open.spotify.com/track/4KDpLCemsZDAa8lsEaY8AW"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 247666,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 159866,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1kX0JVbq1lG9VZNiLF3Bwz"
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 174666,
       "name": "Good Morning Judge",
       "url": "https://open.spotify.com/track/1fMGRxKRtIKNyaMMGrzInM"
@@ -1374,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "40 Golden Greats",
+        "url": "https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168826,
+      "name": "Goodbye Sam Hello Samantha",
+      "url": "https://open.spotify.com/track/7xphJeLAdf3LodIwGMtQAc"
+    },
+    {
+      "album": {
         "name": "Cheryl Lynn (Expanded Edition)",
         "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
       },
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 307946,
       "name": "Got to Be Real",
       "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 252186,
       "name": "Heart Of Glass",
       "url": "https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 183693,
       "name": "I Love to Love",
       "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 180280,
       "name": "I Saw the Light - 2015 Remaster",
       "url": "https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 347666,
       "name": "I Wanna Be Your Lover",
       "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 339946,
       "name": "In the Navy - Original Version 1979",
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 211720,
       "name": "Kissin' in the Back Row of the Movies",
       "url": "https://open.spotify.com/track/3XPX8bOozgShCrhWbLC0ZL"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 169440,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/056YIuMW7ds4FhC7DcYmz5"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 235200,
       "name": "MacArthur Park - Single Version",
       "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 254240,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/74UWXHeikO5C3ScEREk42E"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 176466,
       "name": "Montego Bay",
       "url": "https://open.spotify.com/track/6TBUBqz21JmF2hkeRbnwme"
@@ -2621,7 +2639,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 206360,
       "name": "Ms. Grace",
       "url": "https://open.spotify.com/track/1LPCESFhMbgMaQjRG5dm9P"
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 288426,
       "name": "No More Tears (Enough Is Enough)",
       "url": "https://open.spotify.com/track/2WOxDSMVbPy8rsK9oMtWuj"
@@ -3097,7 +3115,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
@@ -3173,7 +3191,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 172160,
       "name": "Say, Has Anybody Seen My Sweet Gypsy Rose (feat. Tony Orlando) - Digitally Remastered 1998",
       "url": "https://open.spotify.com/track/1IbElKiARztcn0HvvKP28Z"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
@@ -3555,7 +3573,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 214706,
       "name": "Summer Night City",
       "url": "https://open.spotify.com/track/35iCSlFxyiawRBUOtQAkeT"
@@ -3758,6 +3776,24 @@
     },
     {
       "album": {
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334386,
+      "name": "That Lady, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
+    },
+    {
+      "album": {
         "name": "KC & the Sunshine Band",
         "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
       },
@@ -3805,7 +3841,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
@@ -3877,7 +3913,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 258159,
       "name": "The Shuffle",
       "url": "https://open.spotify.com/track/0VfChJZ7U09p5ipsktXQiO"
@@ -3895,7 +3931,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
@@ -3913,7 +3949,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 182586,
       "name": "There Goes my First Love",
       "url": "https://open.spotify.com/track/29S7KASNHBmchLNNjASaXR"
@@ -3975,7 +4011,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 346680,
       "name": "TSOP (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/6BEWwyzvc51WyacKoxJX4S"
@@ -4029,7 +4065,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 309173,
       "name": "Voulez-Vous",
       "url": "https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V"
@@ -4209,7 +4245,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 268200,
       "name": "Will It Go Round In Circles",
       "url": "https://open.spotify.com/track/294jxC0FoNIhB2pryRLvJ3"

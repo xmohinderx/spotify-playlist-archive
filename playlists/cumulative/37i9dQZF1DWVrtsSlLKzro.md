@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-158 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+160 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-01-21 |  |
 | [Falls \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/3jYmQk6u6naf6aCZKXp8L4) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 3:52 | 2021-12-03 |  |
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-01-07 |  |
+| [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 |  |
 | [Float](https://open.spotify.com/track/6UDwGDAfyHhHq2JTFbGfpv) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Stryer](https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac), [Meg & Dia](https://open.spotify.com/artist/77YbJ4a9IlKX18ck6qoot1) | [Float](https://open.spotify.com/album/4OKUYgRrUpvkapVWNlqph3) | 2:54 | 2022-01-14 |  |
 | [FOREVER \(feat\. BROODS\)](https://open.spotify.com/track/1Oi354OePPmpvCsfZayQrC) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER \(feat\. BROODS\)](https://open.spotify.com/album/2OYPLFa8fn8oR4KoaasV69) | 3:48 | 2021-12-03 |  |
 | [Forget You](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:48 | 2021-12-03 |  |
@@ -85,6 +86,7 @@
 | [I Should Be Loving You](https://open.spotify.com/track/3oa2Al3mRUn4eSBLgo1gkA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [I Should Be Loving You](https://open.spotify.com/album/6Cfa0XaQseVyBqqUbbFU1p) | 3:28 | 2021-12-03 |  |
 | [i...](https://open.spotify.com/track/6RjDvJCnxjAOOEQ5TiqKLU) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [i...](https://open.spotify.com/album/7wVN5ydlkQju7GkA3OSv85) | 3:25 | 2022-02-18 |  |
 | [If You Never Loved Me](https://open.spotify.com/track/5G8T8JFhuGVG9aOPLaIzIx) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [The Ace Of You](https://open.spotify.com/album/10iaqipBlcIzyaXNuOxVaN) | 3:42 | 2021-12-03 |  |
+| [in between](https://open.spotify.com/track/67DzbAQrdvHvUg0GXlPwnh) | [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [in between](https://open.spotify.com/album/4vdSJxOM9NwyS4wKrqMgtc) | 3:36 | 2022-04-22 |  |
 | [iPad](https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [iPad](https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp) | 3:22 | 2022-03-11 |  |
 | [It's Not About You](https://open.spotify.com/track/3leIqxLdTlukiuQVrE9B42) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Isabelle Stern](https://open.spotify.com/artist/2sVUw8Fp1ilBlRk7nxsrlW) | [It's Not About You](https://open.spotify.com/album/3SxeGi9b2XY05GgF9wuHXC) | 3:25 | 2021-12-03 | 2022-02-12 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-12-03 |  |

@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 117394,
       "name": "a mosh pit love story",
       "url": "https://open.spotify.com/track/5Q7JUXXghzKqPPS2IrJK8O"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 133302,
       "name": "AnyLastWords?",
       "url": "https://open.spotify.com/track/2evRFcJH7ZH8PeXk6JxfNi"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 134475,
       "name": "Beach Boys",
       "url": "https://open.spotify.com/track/0aHcPO9MloEnchhbBAZeIa"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Big Glocks",
       "url": "https://open.spotify.com/track/1zfZr8Du68quGUondXyQJG"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 89795,
       "name": "Blood ELF",
       "url": "https://open.spotify.com/track/0XFMhwndvKbkGzgZBpIVg8"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "BRAINZ!",
       "url": "https://open.spotify.com/track/14XeM4oZP7kFUxTK1mMDIK"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 232942,
       "name": "BULLETHELL",
       "url": "https://open.spotify.com/track/6MjXJ76xJ7xsPNvuiNA0c9"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 125681,
       "name": "C4",
       "url": "https://open.spotify.com/track/3ro79xln1AuGHdAn0VjL4P"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 158267,
       "name": "CITGO",
       "url": "https://open.spotify.com/track/5BuR2U9HrzaKkdSji56MFs"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 109595,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/0IGxkEgMeF1dwOSIj2IUrT"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 131572,
       "name": "DEAD OR ALIVE",
       "url": "https://open.spotify.com/track/48VY050bKrpgaJM20n8uBS"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Doomset",
       "url": "https://open.spotify.com/track/564yMPuTKapHVeNaAJg7UK"
@@ -1461,6 +1461,24 @@
       "duration_ms": 114580,
       "name": "evil empire",
       "url": "https://open.spotify.com/track/6weOGG6GFGbrn8WMTDPvEb"
+    },
+    {
+      "album": {
+        "name": "ANTI-ICON",
+        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151625,
+      "name": "Fed Up",
+      "url": "https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp"
     },
     {
       "album": {
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 219173,
       "name": "GARGOYLE",
       "url": "https://open.spotify.com/track/1mnFKVFAtkgsmnj14MER9u"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 123552,
       "name": "GHOST OF YOU",
       "url": "https://open.spotify.com/track/3bXLc0fRHfSheyFcNyM0X0"
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 170701,
       "name": "GOSA",
       "url": "https://open.spotify.com/track/6Ly06Py1XwfMYv4IzSXCGh"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 210651,
       "name": "KUMBAYA",
       "url": "https://open.spotify.com/track/1e8wIuf2ZB9UnTPDDojiO6"
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 148800,
       "name": "NIGHTMARE!",
       "url": "https://open.spotify.com/track/3m3PvBLWGFW6QNXtFvmRsg"
@@ -2811,7 +2829,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 132800,
       "name": "NINE!",
       "url": "https://open.spotify.com/track/6zI8XSUDmRc98U34KkqUJy"
@@ -2917,7 +2935,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 125224,
       "name": "Old Stoner",
       "url": "https://open.spotify.com/track/10xZI5SplnWztObwJ9B0FK"
@@ -2939,7 +2957,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 132257,
       "name": "On Da Lowkey",
       "url": "https://open.spotify.com/track/5wnEWLBWLaNMHmECukmTr3"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 190145,
       "name": "Once From Evil",
       "url": "https://open.spotify.com/track/2DzXsSC3wLb1IqD8kI5poM"
@@ -3055,7 +3073,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 134068,
       "name": "PIGGY BACK",
       "url": "https://open.spotify.com/track/11TscKLROG8TH1nkMkjIIr"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 126000,
       "name": "Sangria (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2fG0gdRKdTjyxYkTydQEv9"
@@ -3303,7 +3321,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 121503,
       "name": "Shogun of Sorrow",
       "url": "https://open.spotify.com/track/4NOmB5C88WVlkjdfK3lQZV"
@@ -3515,7 +3533,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 137142,
       "name": "Static",
       "url": "https://open.spotify.com/track/6Itf6EBUn3NZA1ZKkiEurI"
@@ -3551,7 +3569,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 162909,
       "name": "SUFFER WELL",
       "url": "https://open.spotify.com/track/27a0M1XQ4T1wjeRd0p7pof"
@@ -3787,7 +3805,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 178604,
       "name": "The Wages of Sin Is Death",
       "url": "https://open.spotify.com/track/4XKYt8SOqBUJopjpgE36Kc"
@@ -4139,7 +4157,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 115200,
       "name": "Who Am I to Blame?",
       "url": "https://open.spotify.com/track/5j8WzS1Ep4wUxRbFX3mztq"
@@ -4183,7 +4201,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 122647,
       "name": "Wig Split",
       "url": "https://open.spotify.com/track/3hbUwKl4G1I9s2HOSMUFLT"

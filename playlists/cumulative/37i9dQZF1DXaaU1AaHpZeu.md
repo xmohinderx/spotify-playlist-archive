@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Mora Navarro
 
-202 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
+203 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 | 2022-04-15 | 2022-04-23 |
 | [Lienzo](https://open.spotify.com/track/3lIEDoQlDDUg5GUdSSaeil) | [Nati Dubicki](https://open.spotify.com/artist/4dAogreNZCZFeQSE4eHeBn) | [Epifanía](https://open.spotify.com/album/0TTinvDcE9hyg5UA4OruMx) | 3:42 | 2022-04-22 |  |
 | [llorando en la acera](https://open.spotify.com/track/1YtEX5dmVHvBjhwjwnvr1Q) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [llorando en la acera](https://open.spotify.com/album/5hyttHjqy3ytOG4id7lZBO) | 2:08 | 2022-04-01 | 2022-04-16 |
+| [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-23 |  |
 | [Lo que me falta](https://open.spotify.com/track/6eQNTKeZJhbBP8LZEJHdqf) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Lo que me falta](https://open.spotify.com/album/0b6SRNRXLp7igWrgcjjyFi) | 3:36 | 2022-03-25 | 2022-04-09 |
 | [Lo Que Siempre Quisiste](https://open.spotify.com/track/4llz9SNmGOfcRUb7W9kGKY) | [Santiago Fiuri](https://open.spotify.com/artist/3zMKXYrsYXL9CIlmQ0PGNt) | [Lo Que Siempre Quisiste](https://open.spotify.com/album/0GEY9lifuXuYFOb8BkouT2) | 3:09 | 2022-04-15 | 2022-04-23 |
 | [Luces](https://open.spotify.com/track/4WnNxb2ZJ5Y43lHe2fzXyL) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Ola Magenta](https://open.spotify.com/artist/19m31uyfQ0ewdhrMqpuRxo) | [Luces](https://open.spotify.com/album/3fUk6JcMFhYxq40xKLvnfa) | 3:45 | 2022-04-15 | 2022-04-23 |

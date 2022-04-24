@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers who continue to transform the classical world\. Cover: Olivia Belli
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,944 likes - 56 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,941 likes - 56 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 | 27 | [Escape Artist](https://open.spotify.com/track/7sXYoFoFoJ28bnjsnoBfvY) | [Zoë Keating](https://open.spotify.com/artist/6OHXnLZCeWUwtdDsBdqOdr) | [Into The Trees](https://open.spotify.com/album/5CXgHsxu4SydFFeJ6ClHY4) | 6:34 |
 | 28 | [Anthracite Fields: IV\. Flowers](https://open.spotify.com/track/6zyRNdOZbIX9U2LszJf8mq) | [Julia Wolfe](https://open.spotify.com/artist/5uEap55hXon4eBDyIlYtQg), [Choir of Trinity Wall Street](https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ), [Julian Wachner](https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH) | [Julia Wolfe: Anthracite Fields](https://open.spotify.com/album/3IQeodV04d0ZD2gIf2PGgB) | 6:38 |
 | 29 | [6 Romances sans paroles, Op\. 76: No\. 1\. Souvenance](https://open.spotify.com/track/0It6vbvsLBhNTSWBpsoOuG) | [Cécile Chaminade](https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk), [Cindy Lin](https://open.spotify.com/artist/4pKNPH6cxK4oZ7H52FXEtQ) | [French Character Pieces](https://open.spotify.com/album/72IeQy1RWS4gagCBw1B8MZ) | 2:04 |
-| 30 | [Agnus Dei](https://open.spotify.com/track/3539YfcJbuyPXm8cN13mb6) | [Charlotte Bray](https://open.spotify.com/artist/0w0CELABduUC4juyjLUrO1), [Ora Singers](https://open.spotify.com/artist/5hfFAhPFhDeoAwFFN1aRgE) | [Upheld by Stillness, Renaissance Gems and their Reflections](https://open.spotify.com/album/08zedhBcaWzTZRs335IUSE) | 4:37 |
+| 30 | [Agnus Dei](https://open.spotify.com/track/3539YfcJbuyPXm8cN13mb6) | [Charlotte Bray](https://open.spotify.com/artist/0w0CELABduUC4juyjLUrO1), [Ora Singers](https://open.spotify.com/artist/5hfFAhPFhDeoAwFFN1aRgE), [Suzi Digby](https://open.spotify.com/artist/1d8v6s8mvwKhEH3s95j4zc) | [Upheld by Stillness: Renaissance Gems and their Reflections](https://open.spotify.com/album/08zedhBcaWzTZRs335IUSE) | 4:37 |
 | 31 | [Nocturne](https://open.spotify.com/track/5n73Qx3es6qrFG67IKwNUA) | [Lili Boulanger](https://open.spotify.com/artist/2ryY5UTorD1MXmnOcC7jCi), [Olivier Charlier](https://open.spotify.com/artist/5Bxulk2103X1D3Tnjp4Gzl), [Emile Naoumoff](https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2) | [Boulanger, Lili and Nadia: In Memoriam Lili Boulanger](https://open.spotify.com/album/3SG9FIKf972lnSu33Utuvp) | 3:03 |
 | 32 | [Louella](https://open.spotify.com/track/4KZjoARqRW6xvGQ1PC0BRv) | [Emilie Levienaise\-Farrouch](https://open.spotify.com/artist/4L9xhLgedQ5e9BwaVNunWf), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Inland](https://open.spotify.com/album/0TvU10qcRdU9hR5Vl1tD0D) | 1:40 |
 | 33 | [The Sea Ranch Songs: Elements I](https://open.spotify.com/track/0uUNXEy50SAU5iWEXR8QgL) | [Aleksandra Vrebalov](https://open.spotify.com/artist/35xZtNAyQFy0ggE8ZRNhvH), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Aleksandra Vrebalov: The Sea Ranch Songs](https://open.spotify.com/album/5OK0ThPTbmmHdTaau1PFqo) | 4:07 |

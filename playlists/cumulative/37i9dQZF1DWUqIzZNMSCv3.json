@@ -222,6 +222,28 @@
     },
     {
       "album": {
+        "name": "Falla: Nights in the Garden of Spain; Solo Piano Works",
+        "url": "https://open.spotify.com/album/3r85Aw3DIDErCQEiYHk0lu"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139706,
+      "name": "7 canciones populares espa\u00f1olas: VI. Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7F4LZFe1kAUEClacsL5KyA"
+    },
+    {
+      "album": {
         "name": "Smetana: Piano Works 6",
         "url": "https://open.spotify.com/album/03lo5FIUM2JhOs66qCDFtg"
       },
@@ -351,28 +373,6 @@
       "duration_ms": 324960,
       "name": "Beethoven: Piano Sonata No. 8 in C Minor, Op. 13, \"Path\u00e9tique\": II. Adagio cantabile",
       "url": "https://open.spotify.com/track/4l5zWNPyET6PqBhxQEyKgt"
-    },
-    {
-      "album": {
-        "name": "Manuel de Falla: Noches en los jardines de Espa\u00f1a",
-        "url": "https://open.spotify.com/album/3r85Aw3DIDErCQEiYHk0lu"
-      },
-      "artists": [
-        {
-          "name": "Manuel de Falla",
-          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "date_added": "2022-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139706,
-      "name": "Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7F4LZFe1kAUEClacsL5KyA"
     },
     {
       "album": {
@@ -666,7 +666,7 @@
     },
     {
       "album": {
-        "name": "Grieg: Piano Concerto & Lyric Pieces",
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
         "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
       },
       "artists": [
@@ -683,7 +683,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 85906,
-      "name": "Lyric Pieces, Op. 12: I. Arietta - Poco andante e sostenuto",
+      "name": "Lyric Pieces, Book 1, Op. 12: I. Arietta",
       "url": "https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK"
     },
     {

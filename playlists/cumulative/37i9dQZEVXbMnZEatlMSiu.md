@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-373 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+374 songs - 23 hr 3 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [我們都傷](https://open.spotify.com/track/2Ml2GEyuekwmmzoyC9x4TK) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [唯一想了解的人](https://open.spotify.com/album/5gIB5uMXeghqzyChfQJOr7) | 4:33 | 2021-05-27 | 2021-06-03 |
 | [我反芻著你留下的寂寞](https://open.spotify.com/track/2Qxaglvzsc0129JB4O0XCF) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我反芻著你留下的寂寞](https://open.spotify.com/album/5mZw3T0H1hK582ePR25C3p) | 4:15 | 2021-12-16 | 2022-01-20 |
 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 | 2021-11-04 | 2021-12-02 |
+| [我就想你](https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 3:24 | 2022-04-23 |  |
 | [我就想你](https://open.spotify.com/track/0Q35umX7SPX9perjjMfzCg) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我就想你](https://open.spotify.com/album/7iDi0WJ1pZkwf35d6yjtAk) | 3:25 | 2021-09-09 | 2021-10-16 |
 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 | 2021-04-16 | 2021-04-26 |
 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 | 2021-04-26 |  |
@@ -363,7 +364,7 @@
 | [走建國路回家但後座少ㄌ泥](https://open.spotify.com/track/17zdIZ1I5S5dxqDO193HLI) | [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [走建國路回家但後座少ㄌ泥](https://open.spotify.com/album/0nWvpK1CHgQnbRWgRmgycK) | 4:31 | 2021-06-01 | 2021-08-10 |
 | [超能力](https://open.spotify.com/track/0ynz4VvIZrq0ZWshXiwRxY) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [超能力](https://open.spotify.com/album/2d7GxLlPqbUD7FNOlyrBXR) | 3:23 | 2021-04-10 | 2021-05-07 |
 | [迷路是為了遇見你](https://open.spotify.com/track/5h7vR26UzMEvSr15hLmWCf) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [R](https://open.spotify.com/album/7a9J1MT1u5iuWwSGR3XrD8) | 2:28 | 2021-05-07 | 2021-05-13 |
-| [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-02-28 |  |
+| [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-02-28 | 2022-04-24 |
 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/5FnNKdAIdmlLIabRoAuL90) | 4:45 | 2021-05-14 | 2021-05-21 |
 | [遠在心中的你 \- 電視劇《風暴舞》插曲](https://open.spotify.com/track/34GyWjjt19OR2DUaNy1Ifk) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [遠在心中的你 \(電視劇《風暴舞》插曲\)](https://open.spotify.com/album/3wMTCCbtn1QEs5FMR9aSvD) | 3:43 | 2021-05-22 | 2021-05-27 |
 | [遺失的靈魂 \- 《HIStory4\-近距離愛上你》LINE TV插曲](https://open.spotify.com/track/7001YxLOvP8xoXYUTnM0HB) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [遺失的靈魂 \(《HIStory4\-近距離愛上你》LINE TV插曲\)](https://open.spotify.com/album/42zsvyhU5qE8qmuiTnxQy5) | 4:01 | 2021-04-29 | 2021-05-06 |

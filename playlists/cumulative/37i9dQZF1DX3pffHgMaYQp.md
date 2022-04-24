@@ -4,7 +4,7 @@
 
 > música para insubordinados\. The Froys en portada.
 
-60 songs - 3 hr 21 min - not published yet
+60 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

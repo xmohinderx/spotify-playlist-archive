@@ -9108,6 +9108,28 @@
     },
     {
       "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/1nxBOq1s4IrC4W0eqiwrpV"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "SADBOii",
+          "url": "https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251687,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ"
+    },
+    {
+      "album": {
         "name": "KNOW ME (feat. Gallant) [Cassian Remix]",
         "url": "https://open.spotify.com/album/3UzGm4c9CDCZ2sg7fGzT8l"
       },

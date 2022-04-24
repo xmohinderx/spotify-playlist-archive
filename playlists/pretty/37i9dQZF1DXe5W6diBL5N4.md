@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: Wheein\(휘인\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,412 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,498 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 3 | [Dingo X SINCE, HAHOE, Bona Zoe – WE HERE](https://open.spotify.com/track/2zKqYXv00X9lVFPskFVngd) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Hahoe](https://open.spotify.com/artist/1kV3IZShJRYaW0w9rFwXzD), [Bona Zoe](https://open.spotify.com/artist/3O1CL9TAy6NbRX9xJv7Olh) | [Dingo X SINCE, HAHOE, Bona Zoe – WE HERE](https://open.spotify.com/album/1YJQCrr8vPEl3yCcL3yuxw) | 3:00 |
 | 4 | [Shooting Star](https://open.spotify.com/track/7cxEaBfTSWQNqYLLuJtsx7) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Shooting Stars \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/6ls5cCjO8Cck3LfdTMYLAN) | 3:27 |
 | 5 | [Come to Me](https://open.spotify.com/track/4jzN4pGuNAsy7fhjaDNkBz) | [Navi](https://open.spotify.com/artist/1snFqLpoCORfbKnafugg3v) | [Come to Me](https://open.spotify.com/album/4ciKmXYMqVP3vyl9C1yj5P) | 3:28 |
-| 6 | [LOVE,ME \(feat\. Dbo\)](https://open.spotify.com/track/5E8N11KrFYhE97aDwMpVh7) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [LOVE,ME \(feat\. Dbo\)](https://open.spotify.com/album/31sC3hK0s5lx7NWr4edySi) | 3:04 |
+| 6 | [LOVE,ME \(feat\. Dbo\)](https://open.spotify.com/track/5E8N11KrFYhE97aDwMpVh7) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Love,Me \(feat\. Dbo\)](https://open.spotify.com/album/31sC3hK0s5lx7NWr4edySi) | 3:04 |
 | 7 | [Words of Wisdom](https://open.spotify.com/track/1s2FOsNIZNM6u3scHunCyT) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Words of Wisdom](https://open.spotify.com/album/6ZeWlNzAQfkaaQDK5VK0L7) | 5:06 |
 | 8 | [UNNATURAL](https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:04 |
 | 9 | [I met you](https://open.spotify.com/track/7bhNxgfpJttpANky8HGoVy) | [Joonand](https://open.spotify.com/artist/3toxwqi4ajBu4gcnZebBAT) | [Someday](https://open.spotify.com/album/6rvBYDCNQ2X9BrWPtK2k3C) | 4:10 |

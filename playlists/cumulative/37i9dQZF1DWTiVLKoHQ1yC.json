@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 472258,
       "name": "Enter the Storm",
       "url": "https://open.spotify.com/track/3v96fHvufikij2zsqANLos"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 215645,
       "name": "Garden",
       "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 398062,
       "name": "Nea Skioni",
       "url": "https://open.spotify.com/track/2CNG3J4eRJ4A7faeYcyB7K"
@@ -1240,6 +1240,28 @@
     },
     {
       "album": {
+        "name": "Armada Electronic Elements Synesthesia II",
+        "url": "https://open.spotify.com/album/1AGWV3HfeyMZNmNb9pBdCj"
+      },
+      "artists": [
+        {
+          "name": "Ben Malone",
+          "url": "https://open.spotify.com/artist/2zOgqOWn43vcjNdEnxsC6f"
+        },
+        {
+          "name": "Tobeck",
+          "url": "https://open.spotify.com/artist/3VyP9qJOk2XwM1quoyejOU"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220437,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3pBKCrXi2C5T1hBZCHz3Bl"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
       },
@@ -1375,7 +1397,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 236350,
       "name": "Still Feel (Home Edit)",
       "url": "https://open.spotify.com/track/0mBdNrpS6UkxDusXE4actk"
@@ -1429,7 +1451,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 265832,
       "name": "The Blame - Single Edit",
       "url": "https://open.spotify.com/track/3587LxhYAfR3UK9YvuF0F9"
@@ -1517,7 +1539,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 219250,
       "name": "Under Your Spell (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV"
@@ -1673,7 +1695,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 503414,
       "name": "Yahyel",
       "url": "https://open.spotify.com/track/1s3NSenCMyJLNmveE2TGpI"

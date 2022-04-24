@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> New music from Pusha T, Megan Thee Stallion, Future, and Travis Scott  is here!
+> New music from Pusha T, Megan Thee Stallion, Future, and Travis Scott is here!
 
 268 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
 

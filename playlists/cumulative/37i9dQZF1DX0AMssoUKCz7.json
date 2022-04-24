@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 224200,
       "name": "44th and 8th",
       "url": "https://open.spotify.com/track/3q1dhgO6MmeA7LUoz86BPh"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 210920,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/6wHdTGv5xb3HU7As15DLda"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 133000,
       "name": "Adore Me",
       "url": "https://open.spotify.com/track/0qWI3yyjm0pE6w27TKYA3n"
@@ -2456,6 +2456,24 @@
     },
     {
       "album": {
+        "name": "Heart to heart",
+        "url": "https://open.spotify.com/album/7dQqoGXcOkwi4AIxOhQvdm"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Heart to heart",
+      "url": "https://open.spotify.com/track/43aIzOGSfwcgevhTtoiGt9"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/0v7CJ64uBIRFg7ADvm97Ah"
       },
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 150243,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3fel2U4v2lLne5rE5bH9dc"
@@ -3138,6 +3156,28 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/4zmem1pBYEOmaEl1iR4a5E"
+      },
+      "artists": [
+        {
+          "name": "Fini",
+          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
+        },
+        {
+          "name": "David Emde",
+          "url": "https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/4oTvXEf8ihEfGZjsi77QNh"
+    },
+    {
+      "album": {
         "name": "Is This Love (Remix)",
         "url": "https://open.spotify.com/album/5MUX0Xv8IGxAlzz5eSEE5D"
       },
@@ -3299,7 +3339,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 331359,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv"
@@ -3317,7 +3357,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 220939,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx"
@@ -3942,6 +3982,32 @@
     },
     {
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/4EwmRTYYPddZVwoKedu6zs"
+      },
+      "artists": [
+        {
+          "name": "Noile",
+          "url": "https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9"
+        },
+        {
+          "name": "NLSN",
+          "url": "https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk"
+        },
+        {
+          "name": "LIZ LUNE",
+          "url": "https://open.spotify.com/artist/5xRUsKg8Fo7klXjR63y894"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111982,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/5H1jO8SyOdNeueauLa6oHn"
+    },
+    {
+      "album": {
         "name": "Miracle In The Middle Of My Heart",
         "url": "https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG"
       },
@@ -4225,7 +4291,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 176593,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4w3InOZmItJiSlhnkr3lv6"
@@ -4313,7 +4379,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 160295,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY"
@@ -4443,7 +4509,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 131886,
       "name": "Ocean Love",
       "url": "https://open.spotify.com/track/7z0FZXAedmPFsQhY1WnExz"
@@ -4563,7 +4629,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 184152,
       "name": "On My Side",
       "url": "https://open.spotify.com/track/5hRVBXMn6TFyOncZTYl7ej"
@@ -5252,6 +5318,24 @@
     },
     {
       "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154731,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
+    },
+    {
+      "album": {
         "name": "Riptide (Remixes)",
         "url": "https://open.spotify.com/album/7qFH1sf9b1H2voaOgOHn3a"
       },
@@ -5757,7 +5841,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 180336,
       "name": "Show Me Love - EDX Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN"
@@ -5841,7 +5925,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 151016,
       "name": "Slippery Slope",
       "url": "https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg"
@@ -5859,7 +5943,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 226120,
       "name": "So Good to Me - Radio Edit",
       "url": "https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k"
@@ -6151,7 +6235,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 160008,
       "name": "Summer on You",
       "url": "https://open.spotify.com/track/7Ct0Q46k5PkXzYiNE5D2dn"

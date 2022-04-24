@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 152320,
       "name": "2 O' CLOCK",
       "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 194108,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 223933,
       "name": "DAYDREAM",
       "url": "https://open.spotify.com/track/3CMrYymwyfZ2RSvbpKKMNE"
@@ -710,6 +710,24 @@
     },
     {
       "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/36ZdMvrdImhGvUXE3qF1Wj"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "I",
+      "url": "https://open.spotify.com/track/0IH4sgZpBfmu8HIP0t0uFA"
+    },
+    {
+      "album": {
         "name": "Lovewave",
         "url": "https://open.spotify.com/album/4OsuC2DAyqJsCQyL0ycdh9"
       },
@@ -809,6 +827,24 @@
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "album": {
@@ -921,7 +957,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -957,7 +993,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 187665,
       "name": "Knight",
       "url": "https://open.spotify.com/track/3pA9XDBXDbcuXXn8CfqZcx"
@@ -1044,6 +1080,36 @@
     },
     {
       "album": {
+        "name": "Like a Joke",
+        "url": "https://open.spotify.com/album/1uBjk0rR79y7hBz2AWDZSq"
+      },
+      "artists": [
+        {
+          "name": "Seo actor",
+          "url": "https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF"
+        },
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Jae Luna",
+          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
+        },
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157607,
+      "name": "Like a Joke",
+      "url": "https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe"
+    },
+    {
+      "album": {
         "name": "Like The Moon",
         "url": "https://open.spotify.com/album/1smQCmAsoQRMEDH0zGyeLG"
       },
@@ -1109,7 +1175,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 196881,
       "name": "May",
       "url": "https://open.spotify.com/track/6Mnnb4HXLTUUUG1JT7jGql"
@@ -1167,7 +1233,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 214120,
       "name": "My Lips Like Warm Coffee",
       "url": "https://open.spotify.com/track/7j59Opz7qhb2aj7cnu7iLr"
@@ -1525,7 +1591,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 166022,
       "name": "Secret love (Feat. Ashley Alisha, Jae luna)",
       "url": "https://open.spotify.com/track/3D5tJv3dKwIBW0eBxoauR1"
@@ -1569,6 +1635,24 @@
       "duration_ms": 257453,
       "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/0sM9fwRwtmTw6Z0cTGpOwR"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216252,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1HOJ7ZN0t1zeqdWLMK0ptr"
     },
     {
       "album": {
@@ -1652,6 +1736,28 @@
     },
     {
       "album": {
+        "name": "starry night \u201817",
+        "url": "https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        },
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232544,
+      "name": "study abroad",
+      "url": "https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L"
+    },
+    {
+      "album": {
         "name": "Do monsters love too?",
         "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
       },
@@ -1699,7 +1805,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 199606,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/0dCnDWWk79rSoYxcVDpuEc"
@@ -1747,6 +1853,24 @@
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
+    },
+    {
+      "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "album": {
@@ -1809,7 +1933,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 243157,
       "name": "time to be with you",
       "url": "https://open.spotify.com/track/7MdF5reoWTTno0XWAuUnZG"
@@ -2143,7 +2267,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 247173,
       "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
       "url": "https://open.spotify.com/track/48kGawOjwMzRqltSVL88es"

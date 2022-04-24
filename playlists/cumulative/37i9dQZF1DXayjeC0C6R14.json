@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-22",
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
   "name": "Amor Festivalero",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1QlwOh03L4MBJMzQoV65dG"
+  ],
   "tracks": [
     {
       "album": {
@@ -57,7 +59,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 198693,
       "name": "Atado a un Sentimiento",
       "url": "https://open.spotify.com/track/1zS9IZPGyhqmnMAtoUO3hQ"
@@ -444,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Tal y cual",
+        "url": "https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP"
+      },
+      "artists": [
+        {
+          "name": "Pito Perez",
+          "url": "https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216066,
+      "name": "Locamente enamorado",
+      "url": "https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ"
+    },
+    {
+      "album": {
         "name": "El Milagro Argentino",
         "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
@@ -651,7 +671,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 239613,
       "name": "Qu\u00e9 Rico",
       "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
@@ -979,7 +999,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 311200,
       "name": "Vivo - Pastel - En Vivo",
       "url": "https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4"

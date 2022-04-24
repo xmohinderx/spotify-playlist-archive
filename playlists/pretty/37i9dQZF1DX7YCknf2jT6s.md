@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Katalyst
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,036 likes - 80 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,330 likes - 80 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 13 | [Gift Of The Moon](https://open.spotify.com/track/0MYkZsnmqH7XLcJsaS6AEk) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [Gift Of The Moon](https://open.spotify.com/album/17bW569C6S8uBK3rww1Alh) | 2:58 |
 | 14 | [Noam](https://open.spotify.com/track/3HYHagZGinnjSfdDPOTgAg) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Noam](https://open.spotify.com/album/7vHi4PfaQLjzhgs66R73eN) | 6:37 |
 | 15 | [You Don't Know What Love Is](https://open.spotify.com/track/7mzo6tiWRZE8Fu6AEvGXLd) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Bruce Cox](https://open.spotify.com/artist/5alxENWo4vQJNNNbjvuSf6) | [You Don't Know What Love Is](https://open.spotify.com/album/2sGz1ZyUJGAuPUkvJfQLQi) | 6:18 |
-| 16 | [Flume Ride Blues](https://open.spotify.com/track/6looAL2s44oXuobZrNEcom) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Flume Ride Blues](https://open.spotify.com/album/3LQjN6bwGqmkycky15TOxA) | 3:48 |
+| 16 | [Flume Ride Blues](https://open.spotify.com/track/6looAL2s44oXuobZrNEcom) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO), [Phillip Dornbusch](https://open.spotify.com/artist/6t72xraCq8QnZxzoaiBrmL) | [Flume Ride Blues](https://open.spotify.com/album/3LQjN6bwGqmkycky15TOxA) | 3:48 |
 | 17 | [Humoresque \- Radio Edit](https://open.spotify.com/track/3PSK5LVKm2RPNqsA5Kzjnj) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Humoresque](https://open.spotify.com/album/5qBzaHd0TI5Ez5YvJeTBIQ) | 5:20 |
 | 18 | [JAZZ IS DEAD \(feat\. Gary Bartz & Kassa Overall\)](https://open.spotify.com/track/2I1W4oyGhq8bIEkmVjD6UZ) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [JAZZ IS DEAD \(feat\. Gary Bartz & Kassa Overall\)](https://open.spotify.com/album/52hb2bb8dacjqXLRLhyCZZ) | 5:07 |
 | 19 | [Sun of June](https://open.spotify.com/track/6ql8UeREHiP4vcTbbZXDyC) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm) | 3:45 |

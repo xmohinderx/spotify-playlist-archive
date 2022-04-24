@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Go Off",
       "url": "https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u"
@@ -1780,6 +1780,24 @@
     },
     {
       "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/2DroDTcbfu9nkZbzHJn4dX"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220023,
+      "name": "Lore",
+      "url": "https://open.spotify.com/track/0W3b6YlEKoj1g5pNUPB6sw"
+    },
+    {
+      "album": {
         "name": "Lose Your Shit",
         "url": "https://open.spotify.com/album/71sB5UqHjvyV1oXNYObWxW"
       },
@@ -2251,6 +2269,24 @@
       "duration_ms": 250004,
       "name": "Prego",
       "url": "https://open.spotify.com/track/6wdbkopqDTQJUcbtxG4KCO"
+    },
+    {
+      "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/2pP8FP2pWfb94qCJrHhy7f"
+      },
+      "artists": [
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/6UQhXFGhrsqoQC9VzgBads"
     },
     {
       "album": {
@@ -3157,6 +3193,36 @@
       "duration_ms": 189120,
       "name": "Voices",
       "url": "https://open.spotify.com/track/2djhpOJMkWCjNh3aggayyJ"
+    },
+    {
+      "album": {
+        "name": "Walk Me Home (Blanke Remix)",
+        "url": "https://open.spotify.com/album/0K9MqMhOoHMe6iddB29nNN"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303882,
+      "name": "Walk Me Home - Blanke Remix",
+      "url": "https://open.spotify.com/track/3DWH2ElS137GfWMzGcXVp2"
     },
     {
       "album": {

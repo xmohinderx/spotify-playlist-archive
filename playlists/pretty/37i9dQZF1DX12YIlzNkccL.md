@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12YIlzNkccL.md) - [plain]
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,686 likes - 79 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,872 likes - 79 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,6 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12YIlzNkccL.md) - [plain]
 | 76 | [String Quartet No\. 3, Op\. 18: IV\. Presto \- Live](https://open.spotify.com/track/0Nd19JzDaYNaa78Cvoo4A0) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Kuss Quartet](https://open.spotify.com/artist/0NpsBox7dhLxapE2AGKo2z) | [Beethoven: The String Quartets, Live from Suntory Hall, Tokyo, Vol\. 1](https://open.spotify.com/album/1v0AIdiWSvQl2R5xkxZVNl) | 6:45 |
 | 77 | [Beethoven: Symphony No\. 6 in F Major, Op\. 68 "Pastoral": V\. Hirtengesang\. Frohe und dankbare Gefühle nach dem Sturm\. Allegretto](https://open.spotify.com/track/2QQWmnoVPjEvsUTVSs84li) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Riccardo Muti](https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1) | [Beethoven: Symphony No\. 6 "Pastoral"](https://open.spotify.com/album/1kGJis704qkvZIWOIsKjA0) | 10:23 |
 | 78 | [Romance No\. 2 in F Major, Op\. 50](https://open.spotify.com/track/6jfVHN169yG6sufCOmfsIE) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Takako Nishizaki](https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj), [Slovak Philharmonic](https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd), [Kenneth Jean](https://open.spotify.com/artist/12eE2b1achxTzCwb8lcx6l) | [Beethoven: Violin Concerto \- Romances Nos\. 1 & 2](https://open.spotify.com/album/64HiT8R0gtj19MAV4Vt3QZ) | 9:50 |
-| 79 | [Quartet VII No.1 In F major, Op.59: I\. Allegro](https://open.spotify.com/track/0qGgNiLCG0YsCpHjle4SSO) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Tokyo String Quartet](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) | [Beethoven: "Razumovsky" Quartets \(Op.59, Nos.1\-3\)](https://open.spotify.com/album/2VTVO0CTeDDPC8hEgQXQxC) | 11:04 |
+| 79 | [String Quartet No\. 7 In F Major, Op\. 59 No\. 1: I\. Allegro](https://open.spotify.com/track/0qGgNiLCG0YsCpHjle4SSO) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Tokyo String Quartet](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) | [Beethoven: String Quartets Nos\. 7\-9 "Razumovsky"](https://open.spotify.com/album/2VTVO0CTeDDPC8hEgQXQxC) | 11:04 |
 
 Snapshot ID: `MTY0Mzk0NzIwMCwwMDAwMDAzZTAwMDAwMTdlYzJlMzhlOWMwMDAwMDE3MDdkMDhjNjIz`

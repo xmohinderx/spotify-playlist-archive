@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Alla v\u00e5ra minnen",
+        "url": "https://open.spotify.com/album/7MqregKC8Neq9ab630ZeGI"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190308,
+      "name": "Alla v\u00e5ra minnen",
+      "url": "https://open.spotify.com/track/7kV2ZRMkpozWRusXJ8Lr2q"
+    },
+    {
+      "album": {
         "name": "En g\u00e5ng i tiden (del 2)",
         "url": "https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP"
       },
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 188776,
       "name": "Amo",
       "url": "https://open.spotify.com/track/422lbxDt4LGd8EvqwNLLq9"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3525,7 +3543,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -4033,7 +4051,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 157373,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
@@ -4719,7 +4737,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 125142,
       "name": "Glad U Came (feat. ZieZie)",
       "url": "https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy"
@@ -6515,7 +6533,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 151048,
       "name": "Internet - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/1gnCpBKizZd2w23fb0eOS2"
@@ -7853,7 +7871,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 173854,
       "name": "Lose my mind",
       "url": "https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e"
@@ -11094,6 +11112,24 @@
     },
     {
       "album": {
+        "name": "Sista sommaren",
+        "url": "https://open.spotify.com/album/1txqzRAK4uX13YOe28MxYo"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "Sista sommaren",
+      "url": "https://open.spotify.com/track/28TGtp6irVUZhTv5ytdex1"
+    },
+    {
+      "album": {
         "name": "Sista sp\u00e5ret",
         "url": "https://open.spotify.com/album/0lLwGxUaltYfowzEzvNnEd"
       },
@@ -11759,7 +11795,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
@@ -12056,6 +12092,28 @@
     },
     {
       "album": {
+        "name": "SWITCH IT UP",
+        "url": "https://open.spotify.com/album/0nkCylUfFnNWQ3Sfs2C0Xl"
+      },
+      "artists": [
+        {
+          "name": "Knut",
+          "url": "https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it"
+        },
+        {
+          "name": "Alex Lopesz",
+          "url": "https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141186,
+      "name": "SWITCH IT UP",
+      "url": "https://open.spotify.com/track/02NGImz0Ovl8XhdkSDLRbr"
+    },
+    {
+      "album": {
         "name": "Sympati",
         "url": "https://open.spotify.com/album/76tWeUGclH3256e49629is"
       },
@@ -12089,6 +12147,24 @@
       "duration_ms": 178223,
       "name": "Synd om dig",
       "url": "https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5"
+    },
+    {
+      "album": {
+        "name": "Syrener",
+        "url": "https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182875,
+      "name": "Syrener",
+      "url": "https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND"
     },
     {
       "album": {
@@ -12553,6 +12629,24 @@
       "duration_ms": 176506,
       "name": "The Wrong Place",
       "url": "https://open.spotify.com/track/6riWD7fUly0edv1gUZaguM"
+    },
+    {
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
       "album": {
@@ -14115,6 +14209,28 @@
       "duration_ms": 138000,
       "name": "Woman \u2013 Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M"
+    },
+    {
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "album": {

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-22",
   "description": "Cl\u00e1sicos del rock en ingl\u00e9s y en espa\u00f1ol. Foto: Radiohead",
   "name": "rock X rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4cXijYdu2gMfDG9vVRlwOd"
+  ],
   "tracks": [
     {
       "album": {
@@ -42,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+    },
+    {
+      "album": {
         "name": "Naufragios",
         "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
       },
@@ -57,6 +77,24 @@
       "duration_ms": 233733,
       "name": "A un minuto de ti",
       "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+    },
+    {
+      "album": {
+        "name": "Corazones",
+        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/0swl1tZWBEBOdRVPN6axXe"
     },
     {
       "album": {
@@ -673,7 +711,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 210133,
       "name": "Frijolero",
       "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
@@ -727,7 +765,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 212226,
       "name": "Grita",
       "url": "https://open.spotify.com/track/0wmYFlVkmGVUtfcY1r0SrP"
@@ -745,7 +783,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 266746,
       "name": "Guitarras Blancas",
       "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
@@ -1343,7 +1381,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 207186,
       "name": "Ojal\u00e1 que llueva caf\u00e9",
       "url": "https://open.spotify.com/track/7dDDsr1cMbpkE5MZLy8eHA"
@@ -1505,7 +1543,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 249280,
       "name": "Quien es la Que Viene Alli - Unplugged Version",
       "url": "https://open.spotify.com/track/4131I9Y7U9QTLI4mAhpUTQ"
@@ -1527,6 +1565,24 @@
       "duration_ms": 243826,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "album": {
+        "name": "Gozo Poderoso",
+        "url": "https://open.spotify.com/album/1JU1mMcwYAPlt1gm5XTVtV"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251133,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/2Y2wnL1E0La36Rr2A0IF1g"
     },
     {
       "album": {

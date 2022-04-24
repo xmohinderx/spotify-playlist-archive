@@ -8,28 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "Chopin: Pr\u00e9ludes, Op.28",
-        "url": "https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "date_added": "2022-02-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131200,
-      "name": "24 Pr\u00e9ludes, Op. 28: No.4 in E minor - Largo",
-      "url": "https://open.spotify.com/track/5XfmcJMAaifjRrIdLaXVLm"
-    },
-    {
-      "album": {
         "name": "Sibelius: Piano Music, Vol. 4",
         "url": "https://open.spotify.com/album/2Ba4pAgqmtEda6HGoGl7JZ"
       },
@@ -816,7 +794,7 @@
     },
     {
       "album": {
-        "name": "Grieg: Piano Concerto & Lyric Pieces",
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
         "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
       },
       "artists": [
@@ -833,7 +811,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 273786,
-      "name": "Lyric Pieces, Op. 57: VI. Hjemveop - Andante",
+      "name": "Lyric Pieces, Op. 57, Book VI: VI. Hjemve (Andante)",
       "url": "https://open.spotify.com/track/0UDJzgIWDc1e6qS9rYldCY"
     },
     {
@@ -1111,6 +1089,28 @@
       "duration_ms": 256360,
       "name": "Pi\u00e8ces Lyriques, Op. 47 No. 3: M\u00e9lodie",
       "url": "https://open.spotify.com/track/6G6tIDO3rB8FktjkM70GGd"
+    },
+    {
+      "album": {
+        "name": "Chopin: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Preludes, Op. 28: No. 4, Largo",
+      "url": "https://open.spotify.com/track/5XfmcJMAaifjRrIdLaXVLm"
     },
     {
       "album": {

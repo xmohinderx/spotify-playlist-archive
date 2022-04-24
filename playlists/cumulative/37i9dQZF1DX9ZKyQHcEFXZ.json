@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 170853,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 247880,
       "name": "Calor",
       "url": "https://open.spotify.com/track/2I5t51Owfi75ax50m6koNT"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 224680,
       "name": "Contra La Pared",
       "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 212413,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 163573,
       "name": "El Tibur\u00f3n",
       "url": "https://open.spotify.com/track/4H0vsbZL1DlKDKLrHHNaqb"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 212986,
       "name": "Gangsta Zone",
       "url": "https://open.spotify.com/track/3h99fBGkTn3J2NsrYU8rcO"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
@@ -1008,6 +1008,28 @@
     },
     {
       "album": {
+        "name": "La Escuela",
+        "url": "https://open.spotify.com/album/7jcuqVDIb9BYElfLRxjy3h"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255173,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/5ot5K8NQtr8fCmhCxh7gmm"
+    },
+    {
+      "album": {
         "name": "Mas Flow 2",
         "url": "https://open.spotify.com/album/10bXI84d97WceZe9A41gaM"
       },
@@ -1065,7 +1087,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 304746,
       "name": "Mayor Que Yo 3",
       "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
@@ -1109,7 +1131,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
@@ -1127,10 +1149,36 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 199400,
       "name": "Mera",
       "url": "https://open.spotify.com/track/4etu1vf1o3YYNUN0z4HiPs"
+    },
+    {
+      "album": {
+        "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
+        "url": "https://open.spotify.com/album/1jSaGmaAvSKgMa4whI89Cx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188862,
+      "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
+      "url": "https://open.spotify.com/track/3mr13zNWprAzYYY0RinBCp"
     },
     {
       "album": {
@@ -1241,7 +1289,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
@@ -1927,7 +1975,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 376026,
       "name": "Royal Rumble (Se Van)",
       "url": "https://open.spotify.com/track/0UAGQMu69SmPBLSVNVK2D0"
@@ -2212,6 +2260,24 @@
     },
     {
       "album": {
+        "name": "Mi Trayectoria",
+        "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Tu Quieres Duro",
+      "url": "https://open.spotify.com/track/5QpUAyROQsLtNLPY5TJcFv"
+    },
+    {
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/01nV3KuocS1NJHTsJbPkTO"
       },
@@ -2271,6 +2337,28 @@
       "duration_ms": 252493,
       "name": "Ven Bailalo",
       "url": "https://open.spotify.com/track/2KtNeULMaw8sFkr8w13WWB"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "YO LE LLEGO",
+      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
     },
     {
       "album": {

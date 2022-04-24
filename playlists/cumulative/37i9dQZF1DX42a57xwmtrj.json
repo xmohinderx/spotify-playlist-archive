@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-22",
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
   "name": "Rock Urbano",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0lDwr3VyV0083RkCP1IAZV"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,10 +19,28 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 294586,
       "name": "A.D.O.",
       "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+    },
+    {
+      "album": {
+        "name": "Abuelita... De Qui\u00e9n?",
+        "url": "https://open.spotify.com/album/72WIcpktR2TOCiDGATUgnq"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202476,
+      "name": "Abuelita de Batman - 2017 el Batiska",
+      "url": "https://open.spotify.com/track/43wXjNizH6FJEqLryAAPWJ"
     },
     {
       "album": {
@@ -57,7 +77,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 123386,
       "name": "Abuso de autoridad",
       "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
@@ -166,6 +186,24 @@
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161007,
+      "name": "Atletic Tepis",
+      "url": "https://open.spotify.com/track/1O2f9LkUHNpaUbY3ytXQ7E"
+    },
+    {
+      "album": {
+        "name": "En Sentido Contrario",
+        "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
+      },
+      "artists": [
+        {
+          "name": "Troleb\u00fas",
+          "url": "https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 157988,
       "name": "Barata y Descont\u00f3",
       "url": "https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti"
@@ -223,6 +261,24 @@
       "duration_ms": 261038,
       "name": "Como Dona a Su Agujero",
       "url": "https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra"
+    },
+    {
+      "album": {
+        "name": "Contigo Sin Ti",
+        "url": "https://open.spotify.com/album/0KkNneoGKq6ZckZzZDwpEB"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Contigo Sin Ti",
+      "url": "https://open.spotify.com/track/4lv4hGY9TzzR2ThDKtEaJG"
     },
     {
       "album": {
@@ -295,6 +351,24 @@
       "duration_ms": 278666,
       "name": "De Que el Amor Apesta",
       "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
+    },
+    {
+      "album": {
+        "name": "Ella Ya Muri\u00f3",
+        "url": "https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV"
+      },
+      "artists": [
+        {
+          "name": "Sangre Avandaro",
+          "url": "https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301680,
+      "name": "D\u00e9jalo",
+      "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
     },
     {
       "album": {
@@ -435,7 +509,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 166638,
       "name": "El y Yo",
       "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
@@ -489,7 +563,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 221320,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1"
@@ -550,6 +624,24 @@
     },
     {
       "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv"
+    },
+    {
+      "album": {
         "name": "Rock Sin Visa, Vol. 2",
         "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
       },
@@ -597,7 +689,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 155852,
       "name": "Juan el Descuartizador",
       "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
@@ -651,7 +743,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 228693,
       "name": "La chica banda",
       "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
@@ -669,7 +761,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 389733,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ"
@@ -691,6 +783,42 @@
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250893,
+      "name": "La raza m\u00e1s chida",
+      "url": "https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll"
+    },
+    {
+      "album": {
+        "name": "Forjando Patria",
+        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "Laberinto de la Soledad",
+      "url": "https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB"
     },
     {
       "album": {
@@ -748,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Para Coleccionistas, Vol. 1",
+        "url": "https://open.spotify.com/album/19F5N6hIdQfpCuRqyVmjGf"
+      },
+      "artists": [
+        {
+          "name": "Mara",
+          "url": "https://open.spotify.com/artist/5NpJ55eRhoWSrnPwJkpmCA"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Me Gusta Tu Chava",
+      "url": "https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0"
+    },
+    {
+      "album": {
         "name": "Entre \u00c1ngeles y Poetas",
         "url": "https://open.spotify.com/album/20GZvLSomrpPTQwUPQv5bi"
       },
@@ -777,7 +923,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 342706,
       "name": "Metro balderas",
       "url": "https://open.spotify.com/track/6ShfvZJYI3GSdaNaQ1bMVR"
@@ -799,6 +945,24 @@
       "duration_ms": 188917,
       "name": "Mi Mu\u00f1equita Sint\u00e9tica",
       "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
+    },
+    {
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Mi Terrible Soledad",
+      "url": "https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO"
     },
     {
       "album": {
@@ -889,7 +1053,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 199093,
       "name": "No Pinches Mames",
       "url": "https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg"
@@ -925,7 +1089,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 169180,
       "name": "No Todo Es Oro",
       "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
@@ -943,7 +1107,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 162826,
       "name": "Oye Cantinero",
       "url": "https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129"
@@ -961,7 +1125,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 274653,
       "name": "Parece f\u00e1cil",
       "url": "https://open.spotify.com/track/3GuZUJPKRsqCpzWxjTbHTA"
@@ -1015,7 +1179,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 211146,
       "name": "Pinches Mariguanos",
       "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
@@ -1091,7 +1255,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 254431,
       "name": "Purgante de Amor",
       "url": "https://open.spotify.com/track/6IHI4KKlAFM2K3w0gDm99K"
@@ -1152,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Rock de Media Noche",
+        "url": "https://open.spotify.com/album/6Qe9DVQHodNPyq5PPZRdW5"
+      },
+      "artists": [
+        {
+          "name": "LOS GESTOS DE LA DO\u00d1A",
+          "url": "https://open.spotify.com/artist/6uFVSYcS3McJRCqyczvEtM"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281495,
+      "name": "Quizas Si, Quizas No",
+      "url": "https://open.spotify.com/track/6H7OWYPTw01l968dz87uki"
+    },
+    {
+      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -1163,7 +1345,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 336200,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
@@ -1271,7 +1453,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 186986,
       "name": "Todo me sale mal",
       "url": "https://open.spotify.com/track/1DyDnz5SW4QFc6Qx8cAeG6"
@@ -1307,7 +1489,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 242680,
       "name": "Tu Mam\u00e1 No Me Quiere",
       "url": "https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV"
@@ -1379,7 +1561,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-24",
       "duration_ms": 224351,
       "name": "Una Rola de Amor",
       "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
@@ -1458,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "En Guerra de Amor",
+        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188638,
+      "name": "Yo Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/1ByAq33DTLL2ecMBqUS3oQ"
+    },
+    {
+      "album": {
         "name": "15 Rolitas de Amor, Vol. 7",
         "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
       },
@@ -1473,6 +1673,24 @@
       "duration_ms": 285080,
       "name": "Yo Quiero Ser",
       "url": "https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177075,
+      "name": "\u00bfQu\u00e9 Va a Ser de el Dios?",
+      "url": "https://open.spotify.com/track/4ME5EAleIeKXMBMhxdYzxd"
     },
     {
       "album": {

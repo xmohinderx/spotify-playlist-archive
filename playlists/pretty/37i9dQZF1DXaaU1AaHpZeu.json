@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: Mora Navarro",
-  "num_followers": 276884,
+  "num_followers": 276914,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDE3OTAwMDAwMTgwNGY2ZDNhZWUwMDAwMDE4MDRkYTQzZjI2",
+  "snapshot_id": "MTY1MDczNjMyMSwwMDAwMDE3YTAwMDAwMTgwNTc4ZDUzYjAwMDAwMDE4MDRkYTQzZjI2",
   "tracks": [
     {
       "added_at": "2022-04-22 04:00:00",
@@ -119,6 +119,22 @@
       "duration_ms": 202105,
       "name": "Ya no estoy aqu\u00ed",
       "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
+    },
+    {
+      "added_at": "2022-04-23 17:52:01",
+      "album": {
+        "name": "Lloro",
+        "url": "https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj"
     },
     {
       "added_at": "2022-04-22 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: Harry Styles
+> Current favorites and exciting new music\. Cover: David Guetta, Ella Henderson & Becky Hill
 
 554 songs - 1 day 4 hr 52 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 

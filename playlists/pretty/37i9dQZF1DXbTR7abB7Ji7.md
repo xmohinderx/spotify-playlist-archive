@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTR7abB7Ji7.md) - [plain]
 
 > The perfect classical accompaniment to your wedding day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,599 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,736 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTR7abB7Ji7.md) - [plain]
 | 22 | [Salut d'amour, Op\. 12](https://open.spotify.com/track/2WZNkbVqATzXscJ6VgYJeo) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Paul Goodwin](https://open.spotify.com/artist/4GamZjZFOQyMp7LNx81GwZ) | [Under the Stars](https://open.spotify.com/album/21lNww10aD2NEIr6mR7JyJ) | 2:54 |
 | 23 | [Largo from 'Xerxes'](https://open.spotify.com/track/6JC4VNHDjcF6AWGm8OP4yd) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Latvian Philharmonic Chamber Orchestra](https://open.spotify.com/artist/1XIV119eHE8PJI23nKFk0C), [Ilmar Lapinsch](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg), [Riga Radio Choir](https://open.spotify.com/artist/5j35y1ovMj3k2dYtAgTmHx) | [Pachelbel: Canon in D \- Bach: Air on a G String \- Handel: Largo from 'Xerxes' \- Hallelujah Chorus \- Clarke: Trumpet Voluntary](https://open.spotify.com/album/69kr5nuqGTy3bBkuRyutw7) | 4:11 |
 | 24 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 |
-| 25 | [Lyric Pieces, Op\. 12: I\. Arietta \- Poco andante e sostenuto](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto & Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
+| 25 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
 | 26 | [Maestro](https://open.spotify.com/track/4SimUIFxXh5N6VsF33oMo7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:53 |
 | 27 | [A Thousand Years](https://open.spotify.com/track/0E0xI4AgMNU7UkwBt3FCVN) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:35 |
 | 28 | [Solomon HWV 67 / Act 3: The Arrival Of The Queen Of Sheba](https://open.spotify.com/track/1bTXAKwE2Hztv13xTAhMQB) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [The Essential Handel](https://open.spotify.com/album/1MwHHEnhgkb07HA5Av42m6) | 3:11 |

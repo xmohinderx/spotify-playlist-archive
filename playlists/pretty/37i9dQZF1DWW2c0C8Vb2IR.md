@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: John Scofield
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,353 likes - 47 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,417 likes - 47 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 42 | [Le Maître Et L'astre](https://open.spotify.com/track/4Oe5f8o5fT1DbhEVBEPUuh) | [Shems Bendali Quintet](https://open.spotify.com/artist/4PjOSYsXgYIngXJ927EUMY), [Arthur Donnot](https://open.spotify.com/artist/313IN2uQM0neGNvNLRTlW8), [Andrew Audiger](https://open.spotify.com/artist/47CvZyBIDcuRZJLVw5m3kB), [Yves Marcotte](https://open.spotify.com/artist/1a992LeLXCO5wvBCXUpWba), [Noé Tavelli](https://open.spotify.com/artist/3FQekFwf95cDLjDTZQiSzb), [Gabriel Desfeux](https://open.spotify.com/artist/4pJsgkGsQsYhGXrcVFQuMO) | [Tabriz](https://open.spotify.com/album/1hpZN5RDsodrT7A38CGIve) | 3:29 |
 | 43 | [Turner](https://open.spotify.com/track/3JQTu4OIAORxQ4zyVyHHQJ) | [Schmack](https://open.spotify.com/artist/0njN7rMjVOAJBWMfhZovmA) | [Turner](https://open.spotify.com/album/1AGwoyZ4H2cbi6dppyNjVn) | 4:20 |
 | 44 | [FANCY BIRDS](https://open.spotify.com/track/3CcGOJNSkA4mYLnNOkjwPi) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [Takumi Kaneko](https://open.spotify.com/artist/6GaU1oIXLnxCY0yxoR1KVg), [Yoshio Kobayashi](https://open.spotify.com/artist/5Su4NgoYgeEAt1GSXdmMxu), [Tomoharu"Jr."Takahashi](https://open.spotify.com/artist/4WgBkIoSdVQ5oCjekYpGck) | [FANCY BIRDS](https://open.spotify.com/album/3WqtmLBbJrwJKHbPsozVBB) | 4:04 |
-| 45 | [PROJECTION](https://open.spotify.com/track/1vTn0QTElNXNRVF94V3Seq) | [Ryo Kishimoto](https://open.spotify.com/artist/5ikEBMRSVGSFtUBSpnQwYy) | [PROJECTION](https://open.spotify.com/album/6fY80sz2qkqRuWb4oVaWPh) | 5:12 |
+| 45 | [PROJECTION](https://open.spotify.com/track/1vTn0QTElNXNRVF94V3Seq) | [岸本亮](https://open.spotify.com/artist/56vqmr9No2odAdjmfeTMY3) | [PROJECTION](https://open.spotify.com/album/6fY80sz2qkqRuWb4oVaWPh) | 5:12 |
 | 46 | [Time is Home](https://open.spotify.com/track/5Awle2TzHsDGTiq3wvHkeO) | [Marco Piccirillo 4 Strings Family](https://open.spotify.com/artist/30im7XyQE9tJyhq1TlmqAC), [Fabio Giachino](https://open.spotify.com/artist/6PhcZkO4iU39XChybYpiS9), [Ruben Bellavia](https://open.spotify.com/artist/5fEAUzX6cJMmG6m3aOm8G6), [Gianni Virone](https://open.spotify.com/artist/4h1ATSInbP4sQOlKPxrYRw) | [Time is Home](https://open.spotify.com/album/0LL1AMTQMsh9xtnXN3tJ77) | 5:38 |
 | 47 | [For Fun, You Scroll](https://open.spotify.com/track/7zABidxslxZcJyOZF9pEuy) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [For Fun, You Scroll](https://open.spotify.com/album/2n9ltvpPY0s77s08gzDuJF) | 0:39 |
 

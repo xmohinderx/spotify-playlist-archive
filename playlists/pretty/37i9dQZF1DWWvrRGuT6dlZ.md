@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Ezra Kairo\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,256 likes - 118 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,260 likes - 118 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

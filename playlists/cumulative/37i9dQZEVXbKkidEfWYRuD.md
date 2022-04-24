@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-658 songs - 1 day 7 hr 16 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+659 songs - 1 day 7 hr 18 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/0unPBMjVwn0HpWget3DBze) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/7cNf78nTSY57eTOE1auaBk) | 2:59 | 2022-02-12 | 2022-03-30 |
 | [Stick Out](https://open.spotify.com/track/53iGzPusAzNm0NaNrlWv8h) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Stick Out](https://open.spotify.com/album/60KFgGW1KBjor0HEsBAqre) | 2:20 | 2021-05-03 | 2021-06-27 |
 | [Super Fly](https://open.spotify.com/track/0OGIKKEA3s342QnF41bnkS) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [LILDRUGHILL](https://open.spotify.com/artist/4HVffUWlHdRmS5dpOvDVyJ) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 1:24 | 2021-04-11 | 2021-04-13 |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-04-26 |  |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-04-26 | 2022-04-24 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-09-12 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-04-07 | 2021-04-09 |
@@ -394,6 +394,7 @@
 | [Голодный пёс \[prod\. by Pretty Scream\]](https://open.spotify.com/track/4KiFqaxjnmVm0gyIPIRRgH) | [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt), [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Голодный пёс \[prod\. by Pretty Scream\]](https://open.spotify.com/album/5KcyE1q8SZpu3rptRKNABC) | 2:51 | 2021-03-27\* | 2021-06-27 |
 | [Гори](https://open.spotify.com/track/64A62nJmE7FCX3sdIg1M8d) | [LIZER](https://open.spotify.com/artist/0j6G5eiOcrSdlyqaYwtxwS), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Гори](https://open.spotify.com/album/4iPmG5at35YGmkydmcFjDW) | 2:58 | 2021-07-25 | 2021-08-01 |
 | [ГРУСТНО \(feat\. SODA LUV\)](https://open.spotify.com/track/2tUHhci9HT6GofKZly8u10) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:33 | 2021-07-18 | 2021-07-30 |
+| [Грязный](https://open.spotify.com/track/72RTxD7kDHvtzldLNvw1U1) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [Грязный](https://open.spotify.com/album/2o0UogvUKdvDwCz2goIqUm) | 2:10 | 2022-04-23 |  |
 | [Грязь](https://open.spotify.com/track/6TNi1i0fZ8U4uo7qp2lLEO) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:32 | 2021-12-04 | 2021-12-10 |
 | [Губы](https://open.spotify.com/track/7hEps2SpTE29ei0M9EVwBx) | [JojoHF](https://open.spotify.com/artist/7xViKup0waKtypawDbsvrW) | [Губы](https://open.spotify.com/album/0Ht3IV18EPhaUfVJkHy7DR) | 1:22 | 2021-03-27\* | 2021-04-18 |
 | [Гуси](https://open.spotify.com/track/0NPRigM2lZGGFW3OD48g43) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Гуси](https://open.spotify.com/album/4NEDz20X0kRJ7OuDnufT4p) | 2:52 | 2021-07-04 | 2022-01-15 |

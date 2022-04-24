@@ -4,7 +4,7 @@
 
 > All your Disco favorites.
 
-150 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/2lNcz8O64Bm1FCmlmRhUK3)
+151 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/2lNcz8O64Bm1FCmlmRhUK3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Car Wash \- Long Version](https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 5:07 | 2021-09-21 |  |
 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 | 2021-09-21 |  |
 | [Celebration \- Single Version](https://open.spotify.com/track/1pGCWtHyUUUx2RMjYnaCGw) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Totally '80s For Kids](https://open.spotify.com/album/3rvuKtdAV2z6Gza7iZxcyd) | 3:41 | 2019-05-26\* | 2021-09-22 |
-| [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 | 2021-09-21 |  |
+| [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 | 2021-09-21 | 2022-04-24 |
 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\)](https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:21 | 2021-09-21 | 2022-03-09 |
 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 | 2019-05-26\* | 2021-09-22 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2021-09-21 |  |
@@ -96,6 +96,7 @@
 | [Le Freak](https://open.spotify.com/track/28NBmftocOzTPEb6OYA9fW) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic](https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o) | 5:27 | 2019-05-26\* | 2021-09-22 |
 | [Let's All Chant](https://open.spotify.com/track/4HVFGYoXHYvL9HRRiqfHeK) | [The Michael Zager Band](https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd) | [Tellement proches \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oJhIFpBsHPBqemgGPiuYA) | 3:04 | 2019-05-26\* | 2021-09-22 |
 | [Let's Groove](https://open.spotify.com/track/4ZXxmmsp1Nd7ejbHs2BNBG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire\-Vol\. II](https://open.spotify.com/album/6rxdEnk6m2P66BxcXsQbNs) | 5:34 | 2019-05-26\* | 2021-09-22 |
+| [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 | 2022-02-18 |  |
 | [Love To Love You Baby](https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Love To Love You Baby](https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy) | 16:48 | 2021-09-22 | 2021-10-16 |
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-09-21 |  |
 | [Macho Man](https://open.spotify.com/track/22kv2NoeaD7qhTgShfZjIv) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Macho Man](https://open.spotify.com/album/5b49qO8YiAfXVaWG1uDAYS) | 5:14 | 2021-09-21 | 2022-03-10 |

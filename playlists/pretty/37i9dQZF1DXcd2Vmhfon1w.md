@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,346 likes - 62 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,493 likes - 62 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 38 | [Flaco](https://open.spotify.com/track/48w9LKpxqtimEnjABqtgOB) | [Xenon](https://open.spotify.com/artist/40hHMxI5E4rIoyysjqXfXI) | [Flaco](https://open.spotify.com/album/7qOsfGKz71oN2U8DnrPiaC) | 3:36 |
 | 39 | [Llora](https://open.spotify.com/track/3HKMlaXWyJzKOr0l1R95S0) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF) | [Llora](https://open.spotify.com/album/7qHCFvp3migQC4x6tt1iEb) | 3:07 |
 | 40 | [Bukowski](https://open.spotify.com/track/34fKPzASNYaX70vBeg24Lv) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Bukowski](https://open.spotify.com/album/0yjXpvYpPQVwlI3qBofkhi) | 3:28 |
-| 41 | [La Magia del cine](https://open.spotify.com/track/0HjFfNgNq7p24zZSDtpkWN) | [Matasvandals](https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM), [Mauri](https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47), [Da Silva](https://open.spotify.com/artist/5eS4H6PglMQ31lmjIZ2CZZ) | [La Magia del Cine](https://open.spotify.com/album/7zj9gzCy8NQbmt5m0kD1R1) | 2:33 |
+| 41 | [La Magia del cine](https://open.spotify.com/track/0HjFfNgNq7p24zZSDtpkWN) | [Matasvandals](https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM), [Mauri](https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47), [Da Silva](https://open.spotify.com/artist/5eS4H6PglMQ31lmjIZ2CZZ), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y) | [La Magia del Cine](https://open.spotify.com/album/7zj9gzCy8NQbmt5m0kD1R1) | 2:33 |
 | 42 | [Dispuestos a morir](https://open.spotify.com/track/1d1N1JZfKYI0Pj5TXzs4vy) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Dispuestos a morir](https://open.spotify.com/album/1eZImwU3n4ThWraWJP3jSC) | 4:19 |
 | 43 | [Pa que lo gocen](https://open.spotify.com/track/7BMdZsDXxPH6Db3Ug6A2q2) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Yipiyou](https://open.spotify.com/album/7euTtDGIoACenU5iWH6tr2) | 3:40 |
 | 44 | [Dime Que Es La Vida](https://open.spotify.com/track/1wzkDXRgkwg3bPY8B3Mm4S) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS) | [Alas De Metal](https://open.spotify.com/album/2qNFd8vjUPrEoVcu30tQDd) | 3:17 |
