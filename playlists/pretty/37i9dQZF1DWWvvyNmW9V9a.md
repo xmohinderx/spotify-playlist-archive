@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > it's prom szn bby Cover: Zendaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,090 likes - 105 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,595 likes - 105 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

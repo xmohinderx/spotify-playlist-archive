@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, MC Don Juan, Gustavo Mioto e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,745,849 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746,037 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 29 | [Ela Quer \(feat\. YNC Younco\)](https://open.spotify.com/track/2UMAbyw9tyKi06TXmvDQQP) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [YNC Younco](https://open.spotify.com/artist/69MHK2hU8EbU2EXsdwxLrf) | [Ela Quer \(feat\. YNC Younco\)](https://open.spotify.com/album/6pDnP2Q51rL9LfvSKfczt8) | 2:55 |
 | 30 | [Paris](https://open.spotify.com/track/6S61yf0kZd7jW1ooUWDfDS) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Zambrota](https://open.spotify.com/artist/0yILk4EVQcvXQK2dTISXDI), [Maycxxn](https://open.spotify.com/artist/282nMnpwccirIcBqbtpycX) | [Paris](https://open.spotify.com/album/5rNKsdwG7jnJWOdRTMJSbt) | 4:00 |
 | 31 | [Riptide](https://open.spotify.com/track/6Go8Wuws8feT0R2VlaI3am) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Riptide](https://open.spotify.com/album/2iwWXnXWMxBKOT9248uBAG) | 2:51 |
-| 32 | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Stephanie](https://open.spotify.com/artist/2WayJxPpG3Ib63CpVIlBsm), [Rafael Porrada](https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z) | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR) | 2:20 |
+| 32 | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Stephanie](https://open.spotify.com/artist/5tE2kTW6FRp1wihy254bgB), [Rafael Porrada](https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z) | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR) | 2:20 |
 | 33 | [Oh Tatiane](https://open.spotify.com/track/3S4J9eDwWAVoWOfcrMWb3W) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Oh Tatiane](https://open.spotify.com/album/1EhZgAl0OkVTiUUejNnSa2) | 2:42 |
 | 34 | [Minha Mãe É Maconheira](https://open.spotify.com/track/1hDPqY1r5RSpZAhcWTYU0Q) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Invasão dos Fluxos](https://open.spotify.com/album/2IUmA0Ik5Zfhb0BuIh7PUu) | 3:18 |
 | 35 | [Fenômeno](https://open.spotify.com/track/02acWi95Fu57sVnQqvG3oE) | [Mc Dimenor Dr](https://open.spotify.com/artist/5KDNpi3pjBAf4tKUKDvzkz), [Mc Leh](https://open.spotify.com/artist/4JTs3kffe8YHh5sjlJh3jK), [Mc Favelado Xique](https://open.spotify.com/artist/1GlH8vidvD3DG1vKB6ubDb), [DJ Theu](https://open.spotify.com/artist/6FF3Heb2v3FW6kMrW7EfT7) | [Fenômeno](https://open.spotify.com/album/5DF0ReLee8HkQRbp8qnIaf) | 4:02 |

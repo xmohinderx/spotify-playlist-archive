@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening .
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,832 likes - 108 songs - 6 hr 37 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,834 likes - 108 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

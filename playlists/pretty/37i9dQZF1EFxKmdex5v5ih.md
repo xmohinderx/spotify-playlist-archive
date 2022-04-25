@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262 likes - 155 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261 likes - 155 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 45 | [Chills](https://open.spotify.com/track/7tN0ceaX3JAz6aVtyXn9mn) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Chills](https://open.spotify.com/album/73MA39KSFI537siPGXAb8q) | 2:45 |
 | 46 | [Sims \- Miquela Remix](https://open.spotify.com/track/1uxP6Vw86pAvlnuLUSWLll) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 2:37 |
 | 47 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 |
-| 48 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
-| 49 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
+| 48 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
+| 49 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
 | 50 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 51 | [Invisible Things](https://open.spotify.com/track/1ShHhJlzaLuoZbJ3aP4z0m) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:17 |
 | 52 | [Lifetime](https://open.spotify.com/track/10Z9RbwrTbQ0gQeNRJ2dC1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:27 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 154 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
 | 155 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 
-Snapshot ID: `Mjc1MTI2NTksMDAwMDAwMDAxMTk3ZGZiZGFkYTFlMDUwYmQ2ZTI5MjJlMzdjZTk5Zg==`
+Snapshot ID: `Mjc1MTQwOTksMDAwMDAwMDAyNGU1NzcxOWI0MGNiOGJmYzZjZGQwNmZjOTBlN2QzYQ==`

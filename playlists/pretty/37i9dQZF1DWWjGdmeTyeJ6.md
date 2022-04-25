@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Black Polish, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,601 likes - 58 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,272 likes - 58 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 57 | [XTC](https://open.spotify.com/track/6Uk2dbRVdVcpPbBDaZlNX5) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [Lord RAJA](https://open.spotify.com/artist/6a1jtgfc5KB29MlDnqci0l) | [XTC/FNTSY](https://open.spotify.com/album/2wTWVOZfb7b2z55mx9y9h6) | 6:09 |
 | 58 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
 
-Snapshot ID: `MTY1MDc2MTY4NCwwMDAwMDAwMDU1YjFiOWNjNWU1OGQzODJhMzZmNTRjM2IyYWM1MDM3`
+Snapshot ID: `MTY1MDg0ODEyMiwwMDAwMDAwMDU1YjFiOWNjNWU1OGQzODJhMzZmNTRjM2IyYWM1MDM3`

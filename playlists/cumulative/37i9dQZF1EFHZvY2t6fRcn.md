@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-81 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
+82 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Happen](https://open.spotify.com/track/3lieXczavxShuM9SDEtPnD) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Happen](https://open.spotify.com/album/356K0xUK0Y8SiSBwybol9s) | 3:20 | 2021-12-27 |  |
 | [Hawaiian Mazes](https://open.spotify.com/track/6IwqOnORFD7Jssoyor6Ngf) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:03 | 2021-12-27 |  |
 | [Healing Hurts](https://open.spotify.com/track/1b0KbkFk1LvwkWhOJfmevW) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:42 | 2022-01-27 |  |
-| [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/0kJhWsLsNECbtcPhFnWx8J) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Remixes\)](https://open.spotify.com/album/6exRK88Bmb2ocwHW8hT07l) | 3:28 | 2021-12-27 |  |
+| [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/0kJhWsLsNECbtcPhFnWx8J) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Remixes\)](https://open.spotify.com/album/6exRK88Bmb2ocwHW8hT07l) | 3:28 | 2021-12-27 | 2022-04-25 |
+| [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/2emtg7AbAMwQSD7MF8uQSg) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Radio Edit\)](https://open.spotify.com/album/0DmsYE70jM3A7RbwNiTAlp) | 3:28 | 2022-04-24 |  |
 | [High & Dry](https://open.spotify.com/track/7rqYTfbYrg6GSSRza8KR2k) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 2:39 | 2021-12-27 |  |
 | [I Don't Love You](https://open.spotify.com/track/56DtlpHeMFHUIRf60GpBqa) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E) | 3:24 | 2021-12-27 |  |
 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 | 2021-12-27 |  |

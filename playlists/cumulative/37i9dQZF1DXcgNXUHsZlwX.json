@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 225500,
       "name": "Apr\u00e8s l'hiver",
       "url": "https://open.spotify.com/track/4qhO29pgBSBxOwZSpO5RQC"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 221824,
       "name": "Birds",
       "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Bloc appartement",
       "url": "https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG"
@@ -751,6 +751,28 @@
     {
       "album": {
         "name": "Coup de soleil",
+        "url": "https://open.spotify.com/album/19NyteEHJgka9SrhVnvbR4"
+      },
+      "artists": [
+        {
+          "name": "Nooom",
+          "url": "https://open.spotify.com/artist/2onf6pDejZ19BQ5i8YxobO"
+        },
+        {
+          "name": "No\u00e9 Talbot",
+          "url": "https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240977,
+      "name": "Coup de soleil",
+      "url": "https://open.spotify.com/track/0NyhAtRM4o8SAWEdIflxby"
+    },
+    {
+      "album": {
+        "name": "Coup de soleil",
         "url": "https://open.spotify.com/album/5QNYXEOGwjQ5nZ27jn2NH1"
       },
       "artists": [
@@ -923,7 +945,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 245426,
       "name": "Derri\u00e8re le bruit",
       "url": "https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a"
@@ -941,7 +963,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
@@ -1129,7 +1151,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 149015,
       "name": "Elle danse",
       "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
@@ -1255,7 +1277,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 225366,
       "name": "Et je cours",
       "url": "https://open.spotify.com/track/5g2x5jFdQMJxbpYAbCTK4W"
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 220607,
       "name": "Feu de for\u00eat",
       "url": "https://open.spotify.com/track/2NSe87osMF90QPPQIErhdC"
@@ -1385,7 +1407,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 218642,
       "name": "Feu sacr\u00e9",
       "url": "https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp"
@@ -1641,7 +1663,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 239040,
       "name": "Height of the Feeling",
       "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 207493,
       "name": "Insensible",
       "url": "https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ"
@@ -1843,7 +1865,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 140251,
       "name": "J'm'en sors pas",
       "url": "https://open.spotify.com/track/5qNV1GAcGCPfUJfDkUNF5E"
@@ -1861,7 +1883,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 206386,
       "name": "J'trouve \u00e7a beau",
       "url": "https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ"
@@ -2053,7 +2075,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 205515,
       "name": "Km Z\u00e9ro",
       "url": "https://open.spotify.com/track/5i5Ukdzaq3UoXXhuinnWAi"
@@ -2125,7 +2147,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 241941,
       "name": "L'eau vive",
       "url": "https://open.spotify.com/track/5LIEYSV0w4kg0VYQFJCuCf"
@@ -2269,7 +2291,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 229280,
       "name": "La couleur du vent",
       "url": "https://open.spotify.com/track/6nfD0dsDhOePkShWpABOKh"
@@ -2323,7 +2345,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 204649,
       "name": "La lettre",
       "url": "https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W"
@@ -2503,7 +2525,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 215291,
       "name": "Laissez-Moi",
       "url": "https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup"
@@ -2719,7 +2741,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 172984,
       "name": "Les adieux",
       "url": "https://open.spotify.com/track/3PBofYxGj3mMOmvn1Ft1kM"
@@ -2881,7 +2903,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 248706,
       "name": "Les nuits incandescentes",
       "url": "https://open.spotify.com/track/3Ahqt9mwrDj9hTvDQkz4AB"
@@ -2971,7 +2993,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 141360,
       "name": "Les vents aimants",
       "url": "https://open.spotify.com/track/7hknXKrXWA2l4DKO1L9W31"
@@ -3019,7 +3041,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 229974,
       "name": "Lettre \u00e0 un cowboy",
       "url": "https://open.spotify.com/track/20lTQxwyKRLUzycbzIl8kA"
@@ -3253,7 +3275,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr"
@@ -3307,7 +3329,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 243231,
       "name": "Martine",
       "url": "https://open.spotify.com/track/0K4u23NQWXl8MWFzkal13R"
@@ -3379,7 +3401,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 191108,
       "name": "Merci de rien",
       "url": "https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh"
@@ -3693,7 +3715,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
@@ -4453,7 +4475,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 299560,
       "name": "Qtv",
       "url": "https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS"
@@ -4543,7 +4565,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
@@ -4619,7 +4641,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
@@ -4731,7 +4753,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
@@ -4933,7 +4955,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
@@ -5113,7 +5135,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 187373,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
@@ -5695,7 +5717,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 193784,
       "name": "\u00c0 l'aube de nous",
       "url": "https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD"

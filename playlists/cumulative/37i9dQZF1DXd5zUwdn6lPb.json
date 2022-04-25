@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 337000,
       "name": "Adagio in F, H.XVII No.9",
       "url": "https://open.spotify.com/track/2flTBot4ASXNZPNOHuKrwv"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 76746,
       "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
       "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 54520,
       "name": "Chopin: 24 Preludes Op. 28: No. 7 in A Major",
       "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 138239,
       "name": "Handel: Water Music Suite No. 1, HWV 348: Andante",
       "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 88573,
       "name": "Invention No. 1 in C Major, BWV 772",
       "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
@@ -1029,6 +1029,32 @@
       "duration_ms": 52906,
       "name": "Invention No.8 in F, BWV779",
       "url": "https://open.spotify.com/track/1Vlg7jbnx0TQv9pOxJJKQc"
+    },
+    {
+      "album": {
+        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
+        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Matti Raekallio",
+          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244333,
+      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
+      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
     },
     {
       "album": {
@@ -1121,7 +1147,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 148173,
       "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
       "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
@@ -1173,7 +1199,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 161961,
       "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
@@ -1217,7 +1243,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 114601,
       "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
       "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
@@ -1273,7 +1299,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 156233,
       "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
@@ -1311,7 +1337,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 267773,
       "name": "Les noces de Jeanette - op\u00e9ra-comique: Air du rossignol",
       "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
@@ -1337,7 +1363,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 143693,
       "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
       "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
@@ -1727,7 +1753,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 207106,
       "name": "Orpheo ed Euridice, Wq. 30, Act II: Dance of the Blessed Spirits",
       "url": "https://open.spotify.com/track/0dBrAUVh913i6ZsQw3ya69"
@@ -1831,7 +1857,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 113946,
       "name": "Ouverture-suite in G Major, TWV 55:G4 \"Les nations anciennes et modernes\": V. Les suedes anciens",
       "url": "https://open.spotify.com/track/4gPfBHuDIb0v3MRjOcnPN1"
@@ -1961,7 +1987,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 176333,
       "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurf\u00fcrstensonaten\": II. Andante",
       "url": "https://open.spotify.com/track/6xjdKkuCAJE5vZeKUac9GW"
@@ -2042,7 +2068,7 @@
     },
     {
       "album": {
-        "name": "Erik Satie",
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
         "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
       },
       "artists": [
@@ -2057,9 +2083,9 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir, Modestement",
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
       "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
@@ -2511,7 +2537,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 340386,
       "name": "String Quartet in F Major, Op. 3, No. 5, Hob. III:17: II. Andante cantabile",
       "url": "https://open.spotify.com/track/0rbLwE28ejXKqJLgxCuS6K"
@@ -2641,7 +2667,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 223493,
       "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
       "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
@@ -2897,7 +2923,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 570015,
       "name": "Violin Concerto in D Major, Op. 61: 3. Rondo",
       "url": "https://open.spotify.com/track/4I1Yo2bxDB9ynjvhyaytjC"
@@ -2963,7 +2989,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 153640,
       "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
       "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"

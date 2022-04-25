@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Samantha Machado
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,465 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,474 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

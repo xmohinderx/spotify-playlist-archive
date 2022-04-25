@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop and a little bit of rap\. Cover: anees
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,635 likes - 123 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,853 likes - 123 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

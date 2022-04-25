@@ -4,13 +4,14 @@
 
 > Nacimos para rodar en el asfalto.
 
-76 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/4ovE5dvEqCFHC12jjlnh1V)
+77 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/4ovE5dvEqCFHC12jjlnh1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2021-07-02 |  |
 | [Ain't Talkin' 'Bout Love \- 2004 Remaster](https://open.spotify.com/track/1tZdrScspGPI4cdkSChrcX) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 3:47 | 2021-07-02 |  |
 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 | 2021-07-02 |  |
+| [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2021-07-02 |  |
 | [Am I Evil?](https://open.spotify.com/track/7og9p3oxMOILD2hth9uz7t) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Lightning To The Nations \(The White Album\) \[Remastered 2011\]](https://open.spotify.com/album/65Kd49ZxFPxeO71Ic2diNi) | 7:40 | 2021-07-02 |  |
 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 | 2021-07-02 |  |
 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 | 2021-07-02 |  |
@@ -67,7 +68,7 @@
 | [Round and Round](https://open.spotify.com/track/0SFS1LxNP5wgnoDA7nGKQu) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Rhino Hi\-Five: Ratt](https://open.spotify.com/album/7Lx0ft6eH3V087cAOPaqnk) | 4:25 | 2021-07-02 |  |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2021-07-02 |  |
 | [Run to the Hills \- 1998 Remaster](https://open.spotify.com/track/4Z4ZLBzCXSlHSCaxZ3WS7p) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/0SmIkzc7YgxqBV0V5RcbPt) | 3:53 | 2021-07-02 |  |
-| [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/0LHItNoPqjxWcbvQzw9NIv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)](https://open.spotify.com/album/6g9uPPHtnxQLSUd6d9xK8n) | 4:55 | 2021-07-02 |  |
+| [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/0LHItNoPqjxWcbvQzw9NIv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)](https://open.spotify.com/album/6g9uPPHtnxQLSUd6d9xK8n) | 4:55 | 2021-07-02 | 2022-04-25 |
 | [Seek & Destroy](https://open.spotify.com/track/1LDAh7QQnWvp3GJ9QDa1Pj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All](https://open.spotify.com/album/6FMPDVTm8l5IrEQla46VQl) | 6:55 | 2021-07-02 |  |
 | [Seven Nation Army](https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS) | 3:51 | 2021-07-02 |  |
 | [Shout at the Devil](https://open.spotify.com/track/1LqimLGplEGwREUMplhIcC) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Greatest Hits](https://open.spotify.com/album/2YNdfTJBaK7pdS3BkKsCeL) | 3:15 | 2021-07-02 |  |

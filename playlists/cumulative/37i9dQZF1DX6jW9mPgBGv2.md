@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Foto: Duki, De La Ghetto, Quevedo
 
-54 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
+55 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 | 2021-12-01 |  |
 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 | 2021-12-01 |  |
 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 | 2021-12-01 |  |
+| [Vivimo Caro \- Remix](https://open.spotify.com/track/6WRArwDDHBdYewyCMifSUT) | [Jose Reyes](https://open.spotify.com/artist/2OT1t2WkAruohDNIwOE8OF), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Vivimo Caro \(Remix\)](https://open.spotify.com/album/0dpj1YgBEyu8geQ4LeLQzk) | 6:18 | 2022-04-24 |  |
 | [Wow \- Remix](https://open.spotify.com/track/23eecknvvR5iFTcuS9Dkfd) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Wow \(Remix\)](https://open.spotify.com/album/3in0Uyt6xI16F9MNtOBoxV) | 5:16 | 2021-12-01 |  |
 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 | 2021-12-01 |  |
 | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/album/1gzX0POY5sQ1qYkScIaN1V) | 3:39 | 2021-12-01 |  |

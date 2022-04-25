@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: GRAE
 
-824 songs - 1 day 18 hr 3 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+825 songs - 1 day 18 hr 6 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Loveless Metropolis](https://open.spotify.com/track/3EUT2oOnzayoPrTwBJFEss) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Loveless Metropolis](https://open.spotify.com/album/6Wtyntsd3OD0KEe4wOZaFK) | 2:40 | 2022-03-18 | 2022-04-16 |
 | [Lovely](https://open.spotify.com/track/5Hk1e4wp12VfOkdfHdpeBy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Lovely](https://open.spotify.com/album/4kzqBT7MnaHJkX0LjfDHay) | 3:24 | 2020-10-29\* | 2020-11-14 |
 | [Lovestruck Energy](https://open.spotify.com/track/3svuWRYyn2xd8GhswXA4RG) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Lovestruck](https://open.spotify.com/album/3XMtpgrvIsSLaG0NpMNWGX) | 3:18 | 2021-11-13 | 2022-03-19 |
+| [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 | 2022-04-24 |  |
 | [LUV U A LIL BIT](https://open.spotify.com/track/4rEc2f0jkObR0F45hmmgVM) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [LUV U A LIL BIT](https://open.spotify.com/album/1UcugzrGj09mNMxFurq7fc) | 2:25 | 2021-09-11 | 2021-10-09 |
 | [MADONNA](https://open.spotify.com/track/3CMyRTk91XlLcab29q41M5) | [Sandman](https://open.spotify.com/artist/2UytYzhVi9dPgPi9FIFGI4) | [MADONNA](https://open.spotify.com/album/6kTzzlgENOlrpxSnYbpwAD) | 3:06 | 2021-06-05 | 2021-06-19 |
 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 | 2022-02-25 |  |

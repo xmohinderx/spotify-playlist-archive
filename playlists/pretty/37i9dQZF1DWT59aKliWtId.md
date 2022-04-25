@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,914 likes - 119 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,991 likes - 119 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

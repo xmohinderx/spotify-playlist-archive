@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Goyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,046 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,243 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 9 | [I Am Bolero](https://open.spotify.com/track/1Ph9wDvgb0eOrJCEsC0YBP) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [I Am Bolero](https://open.spotify.com/album/233s3fjq66JbHQWtHuKU2G) | 2:36 |
 | 10 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 |
 | 11 | [Niño Soñador](https://open.spotify.com/track/2kRrmu3UpV9t9jM8yFxzGk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Niño Soñador](https://open.spotify.com/album/2Ng7X89Y4M7gxNMABtyij0) | 3:02 |
-| 12 | [Currambera](https://open.spotify.com/track/6QBSCFjzmqCuE90vSzmhkE) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Currambera](https://open.spotify.com/album/6V8B6uJZ0PREhhSXGP8Fdk) | 3:57 |
+| 12 | [Currambera \(Para Shakira\)](https://open.spotify.com/track/6QBSCFjzmqCuE90vSzmhkE) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Currambera \(Para Shakira\)](https://open.spotify.com/album/6V8B6uJZ0PREhhSXGP8Fdk) | 3:57 |
 | 13 | [El Canto del Colibrí](https://open.spotify.com/track/4z4mt5zrCrnDQkhZaQV1zp) | [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [KOGIMAN](https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ), [Alto Grado](https://open.spotify.com/artist/5VvEb9IBLasKGbAI2R27FH) | [El Canto del Colibrí](https://open.spotify.com/album/1eYj8SkvA96uf0sJQZvpK2) | 4:18 |
 | 14 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 |
 | 15 | [EDM](https://open.spotify.com/track/7fRPM4l4iytjKuLOpA9BAG) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [EDM](https://open.spotify.com/album/0esPhuSOpBmkaSlaUtOcyg) | 3:38 |

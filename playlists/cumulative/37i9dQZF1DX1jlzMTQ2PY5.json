@@ -45,10 +45,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 284615,
       "name": "Albion Road",
       "url": "https://open.spotify.com/track/2yotZbP75ZFz29DdhLZMyG"
+    },
+    {
+      "album": {
+        "name": "GLOW/4",
+        "url": "https://open.spotify.com/album/6zPHcB2Ebsgym5Tf3WJArx"
+      },
+      "artists": [
+        {
+          "name": "Macca",
+          "url": "https://open.spotify.com/artist/4tSrz6Q49iag8zuKzhdvgy"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/5bztGANSbmh5gkm5VwUQxy"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346905,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/0XQG2DC9cqB0wIyxEsDsWE"
     },
     {
       "album": {
@@ -165,7 +187,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 231568,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a"
@@ -187,7 +209,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 283970,
       "name": "Beautiful Struggle",
       "url": "https://open.spotify.com/track/3RFHa6mL95pfX2gqdrUiWp"
@@ -430,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/17Mzd54AI68RCfpPeAjzu8"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/6PbDGsz1YF8vKNVmn0Lu9c"
+    },
+    {
+      "album": {
         "name": "Evolving",
         "url": "https://open.spotify.com/album/7fvxLFTtlCn5FwQaDzpz0b"
       },
@@ -445,7 +485,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 220235,
       "name": "Evolving",
       "url": "https://open.spotify.com/track/0CSosCSVwHqhpxYmYfHExx"
@@ -617,7 +657,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 262400,
       "name": "Home",
       "url": "https://open.spotify.com/track/7tWBeveDtYJ1UcPlHqwHTi"
@@ -639,10 +679,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 296152,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/54oGAmxvCLF8oHhtynAz1E"
+    },
+    {
+      "album": {
+        "name": "I Will Wave To You / Heterize",
+        "url": "https://open.spotify.com/album/4oLxNhAdMueTwNU6l3tFxt"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259359,
+      "name": "I Will Wave To You",
+      "url": "https://open.spotify.com/track/5p39yQKTqsjc5Y3XNgoXVM"
     },
     {
       "album": {
@@ -711,7 +769,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 231680,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe"
@@ -729,7 +787,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 323708,
       "name": "Just Words",
       "url": "https://open.spotify.com/track/4tPo56YuTnYEFOiuOyZWe5"
@@ -777,7 +835,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 336377,
       "name": "Little Bird - Monrroe Remix",
       "url": "https://open.spotify.com/track/3IIf1SrFn0nlVbFDglVXxV"
@@ -923,7 +981,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Over Your Soul",
       "url": "https://open.spotify.com/track/0Fh466H56VQzcAvAuVG2qG"
@@ -1011,7 +1069,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 184113,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/31ZQgnDycO8RNKgpGvalLW"
@@ -1407,7 +1465,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 342297,
       "name": "Without You",
       "url": "https://open.spotify.com/track/7wCFdwCbImHKnPhUvEfd6W"
@@ -1451,7 +1509,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 300011,
       "name": "Would You",
       "url": "https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Yo Gotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,766 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,808 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

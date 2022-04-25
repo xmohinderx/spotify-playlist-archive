@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 251566,
       "name": "a long december",
       "url": "https://open.spotify.com/track/6AJUq174xQvhXvRLbLvFml"
@@ -3203,7 +3203,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 212000,
       "name": "concrete",
       "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
@@ -3585,7 +3585,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 201974,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto"
@@ -3603,7 +3603,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 194222,
       "name": "Darkness Of The Night",
       "url": "https://open.spotify.com/track/7uewMG4oKBNpCeso1KiI1i"
@@ -5281,7 +5281,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "friendship",
       "url": "https://open.spotify.com/track/3JvXtgeeIfN4MQaew28CLV"
@@ -9625,7 +9625,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 228715,
       "name": "Love Letter From A Red Roof Inn",
       "url": "https://open.spotify.com/track/6vZ2FTyBiKS5DfGz2Qe79j"
@@ -9661,7 +9661,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
@@ -9733,7 +9733,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX"
@@ -9841,7 +9841,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 198019,
       "name": "Lunchtime",
       "url": "https://open.spotify.com/track/6N62tx63qPmn4KvXJszqgr"
@@ -10025,7 +10025,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 180028,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz"
@@ -10451,7 +10451,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 188617,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf"
@@ -11849,6 +11849,24 @@
       "duration_ms": 167503,
       "name": "Onto Me (with UMI)",
       "url": "https://open.spotify.com/track/49YDCahXCIaY44snUKv8JS"
+    },
+    {
+      "album": {
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226013,
+      "name": "Orange Blood",
+      "url": "https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi"
     },
     {
       "album": {
@@ -13933,7 +13951,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
@@ -14795,7 +14813,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 227405,
       "name": "Stepped On A Bee",
       "url": "https://open.spotify.com/track/4oHHeXVDV8lcZNfMYpGP59"

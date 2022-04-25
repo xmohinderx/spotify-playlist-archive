@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 315766,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/5Mfs9l7PBSu1cQUHRg7vFP"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 301714,
       "name": "Art & Melody",
       "url": "https://open.spotify.com/track/0jIvbSHnTGlXbryMYaxohh"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 450206,
       "name": "Bansuri",
       "url": "https://open.spotify.com/track/7CRMavjrfUFzj4ijaMQMDN"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 459428,
       "name": "Bhavani Ashtakam",
       "url": "https://open.spotify.com/track/4hBD1db3F4KkvigumOTDMD"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 331094,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 450206,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW"
@@ -491,6 +491,24 @@
       "duration_ms": 379130,
       "name": "Dark Oscillator",
       "url": "https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW"
+    },
+    {
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/5kKeGfAjPzBuANhCfhAJ0e"
+      },
+      "artists": [
+        {
+          "name": "Pribe",
+          "url": "https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT"
     },
     {
       "album": {
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 384000,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/2IQ55IFyww2HtADa9Ewsdq"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 419130,
       "name": "Famous",
       "url": "https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0"
@@ -673,6 +691,32 @@
       "duration_ms": 211467,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
+    },
+    {
+      "album": {
+        "name": "Foresight",
+        "url": "https://open.spotify.com/album/5h8eQnis3E78Hf5n9hUFPa"
+      },
+      "artists": [
+        {
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+        },
+        {
+          "name": "Thorment",
+          "url": "https://open.spotify.com/artist/1NnRsALz6e8q4avnRof6cd"
+        },
+        {
+          "name": "Synna",
+          "url": "https://open.spotify.com/artist/1vBNxnNqXVC0oY4W7iOKNr"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303428,
+      "name": "Foresight",
+      "url": "https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw"
     },
     {
       "album": {
@@ -837,7 +881,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 439190,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR"
@@ -899,7 +943,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 573333,
       "name": "Heaven Eleven",
       "url": "https://open.spotify.com/track/2U3FOnuf7V4D5vcqgrZadj"
@@ -961,7 +1005,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
@@ -1019,7 +1063,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 284571,
       "name": "In The Darkness - Strangeform Remix",
       "url": "https://open.spotify.com/track/2Xe7MKZSmXVMRQZdyXTni0"
@@ -1243,7 +1287,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 189254,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0lFjo6mqV1VtP1T0XFc3Ng"
@@ -1627,7 +1671,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 538539,
       "name": "Shores of The Subconscious",
       "url": "https://open.spotify.com/track/5H0qHxv8gIcMfpyDNis7iU"
@@ -1667,7 +1711,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 501971,
       "name": "Snap",
       "url": "https://open.spotify.com/track/7aj4xtdZhFZW1kJ2TygT0C"
@@ -1729,7 +1773,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 418285,
       "name": "Summer Never Ends",
       "url": "https://open.spotify.com/track/2TIPueGSHKcRuvsKf7VJmI"
@@ -1747,7 +1791,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 260571,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/5wtUmDnAhBZ79Po5eaQUW3"
@@ -2053,7 +2097,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 258260,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz"

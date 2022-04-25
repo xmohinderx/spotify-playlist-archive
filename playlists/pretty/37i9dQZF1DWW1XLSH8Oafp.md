@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring PinkPantheress & WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,418 likes - 114 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,012 likes - 114 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

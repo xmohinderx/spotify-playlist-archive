@@ -106,6 +106,44 @@
     },
     {
       "album": {
+        "name": "Bellaquita (Remix)",
+        "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304733,
+      "name": "Bellaquita - Remix",
+      "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
+    },
+    {
+      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R"
       },
@@ -135,7 +173,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 237093,
       "name": "Cancioncitas de Amor",
       "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
@@ -269,7 +307,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
@@ -767,7 +805,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 213133,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5TDakCWQMtVYURFbs9XIRv"
@@ -861,7 +899,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 224760,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/0F1v3IAy2ecCcQiVbQZ0x9"
@@ -919,7 +957,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 227233,
       "name": "Pa' Olvidarme De Ella",
       "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
@@ -955,7 +993,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 264186,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj"
@@ -973,7 +1011,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 241013,
       "name": "Por fin",
       "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
@@ -1183,7 +1221,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 249253,
       "name": "Qui\u00e9n",
       "url": "https://open.spotify.com/track/5ZZuokF4h1FlfTlSQhLCmG"
@@ -1349,7 +1387,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 220066,
       "name": "Te Perdiste Mi Amor (feat. Prince Royce)",
       "url": "https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu"
@@ -1465,7 +1503,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 190605,
       "name": "Una y Otra Vez",
       "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
@@ -1483,7 +1521,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 229720,
       "name": "Uno X Uno",
       "url": "https://open.spotify.com/track/3YI7sOjCCrKQXfs4fnXQEY"
@@ -1603,7 +1641,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 198933,
       "name": "Ya No Tiene Novio",
       "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
@@ -1621,7 +1659,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 229253,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/4fDMVI79jXH7S26uawPeXL"

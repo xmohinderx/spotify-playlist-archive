@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Loud
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,820 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,831 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 67 | [Flexin'](https://open.spotify.com/track/6UTJxee5O8Js1U8mGGtCaA) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [6illy](https://open.spotify.com/artist/0Aj8bnyYF5prF06ll63cWU) | [Flexin'](https://open.spotify.com/album/77n2ksL1bIExXrYfA7E8AM) | 2:00 |
 | 68 | [Rap Buffet](https://open.spotify.com/track/24nKsih3Sh5CkKICiwJ4jO) | [Nikya](https://open.spotify.com/artist/5HDPJKqXi5mGXuLK5D4Wou), [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Striky](https://open.spotify.com/artist/2z9aSOsIU7HPmrtQRcRQx0), [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G) | [Rap Buffet](https://open.spotify.com/album/1fwhmgJipxqOBNZ4eDqskP) | 2:58 |
 | 69 | [Palmarès](https://open.spotify.com/track/4SQJV1rXqaYhdIa1nl8R2o) | [JMB Drippy](https://open.spotify.com/artist/2OOYpKIQBA2hPkXvk2fJDI), [Rach](https://open.spotify.com/artist/0EK0g4IV6sYaC7UEGWQ0AX) | [Palmarès](https://open.spotify.com/album/76Du01EjxBVqFUxuQpNyiP) | 2:54 |
-| 70 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 |
+| 70 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 |
 | 71 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 |
 | 72 | [Mouiller Le Maillot](https://open.spotify.com/track/3Lhy7t0J2UCHXTk1WhNRp3) | [Loussa](https://open.spotify.com/artist/66JV0RT5jJXASMORQJCuEv) | [Mouiller Le Maillot](https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm) | 2:58 |
 | 73 | [Turf](https://open.spotify.com/track/2t60WSbTDTX6wwKzWL1NYO) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Turf](https://open.spotify.com/album/0rSIH2lvmSOqFrfmd1KwYW) | 2:24 |

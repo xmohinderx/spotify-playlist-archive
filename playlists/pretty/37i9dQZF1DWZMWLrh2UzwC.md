@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Dato' Sri Siti Nurhaliza
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,644 likes - 91 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,642 likes - 91 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 62 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 |
 | 63 | [Vaderz \(feat\. Bktherula\)](https://open.spotify.com/track/7qUqxnNtlBgeo8h5yzVd19) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Vaderz \(feat\. Bktherula\)](https://open.spotify.com/album/11K4TXQVAOi4BjaItkuJ1X) | 1:49 |
 | 64 | [No Big Deal](https://open.spotify.com/track/13onhP0FAk3dKOnjOhKXpq) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [No Big Deal](https://open.spotify.com/album/1In8f10K2NLMfNeEeSsFTb) | 1:33 |
-| 65 | [Vices](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Vices](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 |
+| 65 | [VICES](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [VICES](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 |
 | 66 | [M.I.A.](https://open.spotify.com/track/2rFQ1Bgm8w6nqKVANQVhMz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [M.I.A.](https://open.spotify.com/album/5EMVxC5yzZD8o3JnGWaDNx) | 3:27 |
 | 67 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 |
 | 68 | [New York Made Me](https://open.spotify.com/track/3Hk3M4buzu4AtkIzevK446) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [New York Made Me](https://open.spotify.com/album/1aYFQpTA21QFd792PSOXTl) | 3:38 |

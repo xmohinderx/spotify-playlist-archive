@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Congratulations to the amazing Jon Batiste \(cover\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,619 likes - 115 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,741 likes - 115 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

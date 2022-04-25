@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 137499,
       "name": "bane",
       "url": "https://open.spotify.com/track/7zS3UNh0KHF6mEv2qVObMJ"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 109595,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 127103,
       "name": "D ROD",
       "url": "https://open.spotify.com/track/3DsDTlZXGzJ7qIZ7Bs0UIX"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 145624,
       "name": "Flash Bang",
       "url": "https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 182389,
       "name": "from paris, with love",
       "url": "https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 160879,
       "name": "Hoover",
       "url": "https://open.spotify.com/track/2Xk50QBg06pdvGPbvzA4ON"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 113431,
       "name": "Skeletons In My Closet",
       "url": "https://open.spotify.com/track/3OMfco4bEsfCOTc4tKG26F"
@@ -1531,10 +1531,40 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 202621,
       "name": "Subatomic",
       "url": "https://open.spotify.com/track/6WYCFNz19DmDYGxk5wqLiz"
+    },
+    {
+      "album": {
+        "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
+        "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        },
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
+      "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
     },
     {
       "album": {
@@ -1571,10 +1601,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 126062,
       "name": "Team",
       "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
+    },
+    {
+      "album": {
+        "name": "THERAPY!",
+        "url": "https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133186,
+      "name": "THERAPY!",
+      "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
     },
     {
       "album": {
@@ -1735,7 +1783,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 172125,
       "name": "Zuccenberg",
       "url": "https://open.spotify.com/track/4m311PrEtKHZzy1JAsDCq1"

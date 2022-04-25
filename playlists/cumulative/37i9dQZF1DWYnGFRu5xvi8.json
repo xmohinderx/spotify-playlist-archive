@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 220640,
       "name": "Antipyretic",
       "url": "https://open.spotify.com/track/2FmH4JO42auhArapharZt6"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 164506,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/22xOSBthlUcFn9dJz7aJa5"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 252533,
       "name": "APOCALYPSIS AQUARIUS",
       "url": "https://open.spotify.com/track/4aPltIjGkJx26Y9cBHu14U"
@@ -541,10 +541,28 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 166013,
       "name": "Battle on the Big Bridge - FFXII Version",
       "url": "https://open.spotify.com/track/7JLx8QqGJ9Flep0MVUgzhD"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XI Original Soundtrack",
+        "url": "https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137026,
+      "name": "Battle Theme",
+      "url": "https://open.spotify.com/track/5jwEuikB4S8ziAmcROB6eq"
     },
     {
       "album": {
@@ -566,24 +584,6 @@
     },
     {
       "album": {
-        "name": "FINAL FANTASY XI Original Soundtrack",
-        "url": "https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR"
-      },
-      "artists": [
-        {
-          "name": "Noshi Mizuta",
-          "url": "https://open.spotify.com/artist/6nB5VsGxwGV6LTTGdYVzaq"
-        }
-      ],
-      "date_added": "2021-03-04",
-      "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
-      "duration_ms": 137026,
-      "name": "Battle Theme",
-      "url": "https://open.spotify.com/track/5jwEuikB4S8ziAmcROB6eq"
-    },
-    {
-      "album": {
         "name": "FINAL FANTASY VI Original Soundtrack",
         "url": "https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY"
       },
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 157200,
       "name": "Battle to the Death",
       "url": "https://open.spotify.com/track/4w5VTQid6aHNGnVGTVq7Gy"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 207626,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/0Rh6dyIt8kVApoAy7WAF8o"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 284240,
       "name": "Besaid",
       "url": "https://open.spotify.com/track/6Q4nNB7exf30TTt2SdhPAb"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 216840,
       "name": "Beyond the Wall",
       "url": "https://open.spotify.com/track/1qZCtJkPmBh5wxMndwChGJ"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 148230,
       "name": "Black and White",
       "url": "https://open.spotify.com/track/3ZNZ0s3mTCSJEQtktxUlCw"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 174946,
       "name": "Blinded By Light",
       "url": "https://open.spotify.com/track/0WIAZIziAzAC52iyuZELn1"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 200266,
       "name": "Boss Battle",
       "url": "https://open.spotify.com/track/1TRy5AL5yV91v3XHDGjrWv"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 95040,
       "name": "Burden to Bear",
       "url": "https://open.spotify.com/track/1HA3UM6kFI21ZMifahs09f"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 190133,
       "name": "Calm Before The Storm",
       "url": "https://open.spotify.com/track/3fuHB4VSGd3DPq7sKsI6yE"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 194146,
       "name": "Crimson Blitz",
       "url": "https://open.spotify.com/track/0P8YuBOk4rDifXw5FyZoAa"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 200306,
       "name": "CRISIS CORE Theme - Dreams and Honor",
       "url": "https://open.spotify.com/track/1v8NTBc7aDh17Ycs9inmOM"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 242800,
       "name": "CRISIS CORE Theme - Under the Apple Tree",
       "url": "https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 143880,
       "name": "Defiers of Fate",
       "url": "https://open.spotify.com/track/183fzoqyFgklA1xRcTAoRl"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 125000,
       "name": "Divine Fire",
       "url": "https://open.spotify.com/track/3l69fWwHT5dOfNw7TfjGeY"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 154266,
       "name": "EPISODE IGNIS - The Main Theme",
       "url": "https://open.spotify.com/track/449Oasrv2je2rsDaTp7dkS"
@@ -1535,7 +1535,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 406733,
       "name": "Equilibrium",
       "url": "https://open.spotify.com/track/2Aua7EDLEHOOEuPq5DcJy5"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 253173,
       "name": "Eruyt Village",
       "url": "https://open.spotify.com/track/0JNorLMJ9CR3wcFp7t2gJM"
@@ -1571,7 +1571,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 277092,
       "name": "Eruyt Village - Zodiac Age Version",
       "url": "https://open.spotify.com/track/586IWB2wK5cdN5lP9nIr2L"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 206893,
       "name": "Eternal Love - Short Version",
       "url": "https://open.spotify.com/track/0vzb0fNHzEHHVre7GPIdjd"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 231880,
       "name": "Eternal War",
       "url": "https://open.spotify.com/track/4GbKhGW7d0Ws0i5kxku93w"
@@ -1679,7 +1679,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 131866,
       "name": "Etro's Gate",
       "url": "https://open.spotify.com/track/5rAVJFR4N8Vdl3GzVkEKnN"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 251240,
       "name": "Fallen Angel (From Astral to Umbral)",
       "url": "https://open.spotify.com/track/1LXH17o7EHI56cg6skNZNZ"
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 346840,
       "name": "Fight With Seymour",
       "url": "https://open.spotify.com/track/5gzre3UAggakT1LBdmJLSk"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Fighters of the Crystal",
       "url": "https://open.spotify.com/track/0OslCsze3qJeLmGgDuryMs"
@@ -2217,7 +2217,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 116920,
       "name": "FINAL FANTASY XIII-2 - Wishes -",
       "url": "https://open.spotify.com/track/50BlgWI61TOVUE1Pc37yKm"
@@ -2239,7 +2239,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 177386,
       "name": "FINAL FANTASY XV - World of Wonder",
       "url": "https://open.spotify.com/track/3MwX69usWqRSyroAFL3EEC"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 420384,
       "name": "Footsteps in the Snow",
       "url": "https://open.spotify.com/track/7r62guOJ0bl0MHe9AVjW3J"
@@ -2347,7 +2347,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 259661,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/2eriD2ChDqhj6JZQMnfxNC"
@@ -2437,7 +2437,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 252600,
       "name": "Gustaberg",
       "url": "https://open.spotify.com/track/7rlBWutBNvmMhEL0CToKY6"
@@ -2455,7 +2455,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 276746,
       "name": "Hammerhead",
       "url": "https://open.spotify.com/track/1z7GJk6R4MlWjy8awszmL0"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 393013,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/3c99ec9qrMURGDDzuV1nae"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 229440,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1mlQndL6Ug3XxrpNKqdQBy"
@@ -2545,7 +2545,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 194560,
       "name": "Home Sweet Home - Theme of EPISODE PROMPTO",
       "url": "https://open.spotify.com/track/7ko7gRGHntBuoK3kypwTnT"
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 43506,
       "name": "Hum Of The Fayth",
       "url": "https://open.spotify.com/track/6F3WgqFjISqmhKoHop4Z7Z"
@@ -2689,7 +2689,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 158400,
       "name": "Kazham",
       "url": "https://open.spotify.com/track/7LdLXKHLNKUaaonWWF293h"
@@ -2797,7 +2797,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 146053,
       "name": "Lightning's Theme",
       "url": "https://open.spotify.com/track/2yR1KxI9rCl28RsUjL5iJT"
@@ -3067,7 +3067,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 200160,
       "name": "Mako Reactor",
       "url": "https://open.spotify.com/track/3zNfPfLvlaqCPgjdGEBpTD"
@@ -3175,7 +3175,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 193426,
       "name": "Memories of Happier Days",
       "url": "https://open.spotify.com/track/61y3py9gdTNiXXFN3pwNf2"
@@ -3193,7 +3193,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 75893,
       "name": "Memory Erased by a Storm",
       "url": "https://open.spotify.com/track/7v6wRCSOzdFtwg4HLdKjga"
@@ -3283,7 +3283,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 236706,
       "name": "Moonlit Melodies",
       "url": "https://open.spotify.com/track/2C4WyV6rIOw9fVH3oB68yL"
@@ -3319,7 +3319,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 339200,
       "name": "New Bodhum",
       "url": "https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz"
@@ -3337,7 +3337,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 613944,
       "name": "Night in the Brume",
       "url": "https://open.spotify.com/track/6tPBg0KodeIuRERRkaH5Ty"
@@ -3373,7 +3373,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 260920,
       "name": "Noel's Theme",
       "url": "https://open.spotify.com/track/6rA3nlCwQ2IX9qoNLBX6yp"
@@ -3427,7 +3427,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 156200,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/3KpEErV5sFaraIYHGpWOOt"
@@ -3679,7 +3679,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 147360,
       "name": "Peaceful Village",
       "url": "https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz"
@@ -3697,7 +3697,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "Penelo's Theme",
       "url": "https://open.spotify.com/track/3JOMe1Euw73kqH2qb4dRJX"
@@ -3751,7 +3751,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 216480,
       "name": "Plains of Eternity",
       "url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
@@ -3787,7 +3787,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 210760,
       "name": "Precipitous Combat",
       "url": "https://open.spotify.com/track/2eyaZmFVMi4JzfNMpWSZzh"
@@ -3877,7 +3877,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 175480,
       "name": "Prelude to FINAL FANTASY XIII",
       "url": "https://open.spotify.com/track/0h3WRzY4IIklgsFBBKhbwW"
@@ -3985,7 +3985,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 260306,
       "name": "RAVUS AETERNA",
       "url": "https://open.spotify.com/track/4vBm6EX5NglGn6VL0R9jV6"
@@ -4039,7 +4039,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 150976,
       "name": "Respite - Zodiac Age Version",
       "url": "https://open.spotify.com/track/110SOsbAEDoPZSWLxwqNm8"
@@ -4093,7 +4093,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 309653,
       "name": "Revenge Twofold",
       "url": "https://open.spotify.com/track/4V2tRqQ9lUeIQxLNwO3ucC"
@@ -4183,7 +4183,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 297200,
       "name": "Ronfaure",
       "url": "https://open.spotify.com/track/1EUGo3QcDXQSv0XKF8GIZK"
@@ -4291,7 +4291,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 265216,
       "name": "Scale and Steel",
       "url": "https://open.spotify.com/track/7BEIEY4uB0pxZD07NeLJZo"
@@ -4327,7 +4327,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 167613,
       "name": "Serah's Theme - Memories -",
       "url": "https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073"
@@ -4345,7 +4345,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 352867,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/3oiEAnH0QZlh05ipDLdlNe"
@@ -4363,7 +4363,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 282266,
       "name": "Servants of the Mountain",
       "url": "https://open.spotify.com/track/0d3mX4cZEucXC2TNYtGpix"
@@ -4381,7 +4381,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 115760,
       "name": "Shadow's Theme",
       "url": "https://open.spotify.com/track/69AiEAJv8mNJuT1Jt61inZ"
@@ -4507,7 +4507,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 149960,
       "name": "Somnus",
       "url": "https://open.spotify.com/track/6wTVlrLR2qyEAbEuyoS7b2"
@@ -4543,7 +4543,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 120400,
       "name": "Somnus Ultima",
       "url": "https://open.spotify.com/track/5GVSSTv4TzOI8N2slN26Jw"
@@ -4561,7 +4561,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 217773,
       "name": "Song of the Stars",
       "url": "https://open.spotify.com/track/6lRC7JXIzXQZ4wxGhIj7R7"
@@ -4669,7 +4669,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 238346,
       "name": "Storm of Blood",
       "url": "https://open.spotify.com/track/6iIw2205q4fKP210AH87gL"
@@ -4705,7 +4705,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 425387,
       "name": "Sultana Dreaming",
       "url": "https://open.spotify.com/track/72XCIYkEtLwUYU911iGduu"
@@ -5119,7 +5119,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 276266,
       "name": "The Landing",
       "url": "https://open.spotify.com/track/1Imhg8vqIS7t0SkYh4sfsc"
@@ -5137,7 +5137,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 171463,
       "name": "The Maker's Ruin",
       "url": "https://open.spotify.com/track/5ZyZV0nTNmikUr3YweMM3B"
@@ -5209,7 +5209,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 172426,
       "name": "The Prelude",
       "url": "https://open.spotify.com/track/7liYE66PkFySrdDPTMVoCi"
@@ -5353,7 +5353,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 298426,
       "name": "The Worm's Tail",
       "url": "https://open.spotify.com/track/0gpp8dE6vnlLszg4uh207H"
@@ -5443,7 +5443,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 637856,
       "name": "Thunder Rolls",
       "url": "https://open.spotify.com/track/1Qw2cJY1WmtHXZggiQR9Lw"
@@ -5461,7 +5461,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 213800,
       "name": "Tidus's Theme",
       "url": "https://open.spotify.com/track/1C9rxA4soaPjAEECwWVVZC"
@@ -5519,7 +5519,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 311774,
       "name": "Torn from the Heavens",
       "url": "https://open.spotify.com/track/2Hf5MJo5GjGwUIySaUxiLJ"
@@ -5537,7 +5537,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 128910,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/3q5gLNjTaftvfD3XCoym7N"
@@ -5573,7 +5573,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 194546,
       "name": "Triumph",
       "url": "https://open.spotify.com/track/0VIXeGG3ouqnIh3skWyjXm"
@@ -5609,7 +5609,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 251521,
       "name": "Twilight over Thanalan",
       "url": "https://open.spotify.com/track/04ItXlaYmMEy0TVoqmqZBc"
@@ -5699,7 +5699,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 694709,
       "name": "Under the Weight",
       "url": "https://open.spotify.com/track/1RK9VwTVjnPjUxcV8irdfw"
@@ -5753,7 +5753,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 382666,
       "name": "UTAKATA",
       "url": "https://open.spotify.com/track/6KBhmo3rW6tgIpKanqFpYw"
@@ -5771,7 +5771,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 220213,
       "name": "Valse di Fantastica",
       "url": "https://open.spotify.com/track/2aasu7RADsAivfL00Ivj8A"
@@ -6041,7 +6041,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 199466,
       "name": "Welcome Home - Journey's End",
       "url": "https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69"
@@ -6059,7 +6059,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 100466,
       "name": "Welcome to the Leville",
       "url": "https://open.spotify.com/track/1dfXLOMjg9Vp4UOVn0Ay3k"
@@ -6275,10 +6275,28 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 54120,
       "name": "\u300cA Brief Respite\u300d from DISSIDIA FINAL FANTASY",
       "url": "https://open.spotify.com/track/4rAlkpLQOA7rPKKKsqdSrN"
+    },
+    {
+      "album": {
+        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
+        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
+      },
+      "artists": [
+        {
+          "name": "SQUARE ENIX MUSIC",
+          "url": "https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "\u300cBattle - arrange -\u300d from FINAL FANTASY I",
+      "url": "https://open.spotify.com/track/6r50rXHbo9VpGOu32ucVO8"
     },
     {
       "album": {
@@ -6311,7 +6329,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 224133,
       "name": "\u300cBattle Theme 1 - arrange -\u300d from FINAL FANTASY II",
       "url": "https://open.spotify.com/track/2i31XqulzWNIoQSs6ga5wF"
@@ -6347,7 +6365,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 334053,
       "name": "\u300cDISSIDIA - opening -\u300d from DISSIDIA FINAL FANTASY",
       "url": "https://open.spotify.com/track/158QACtrIvEUlp060gQblF"
@@ -6401,7 +6419,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 117093,
       "name": "\u300cThe Decisive Battle - arrange -\u300d from FINAL FANTASY VI",
       "url": "https://open.spotify.com/track/5j9MYr55krR7DigT8Y6mjM"

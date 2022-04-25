@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 191106,
       "name": "Bachata En Fukuoka",
       "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 309920,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 219184,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 217933,
       "name": "D\u00edmelo",
       "url": "https://open.spotify.com/track/2z0z5ddJS3K7qvhp4PH0Aa"
@@ -691,10 +691,28 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 206693,
       "name": "El Perdedor (Bachata)",
       "url": "https://open.spotify.com/track/4G7rflmiYDRMOMRbx5FZji"
+    },
+    {
+      "album": {
+        "name": "20 Aniversario",
+        "url": "https://open.spotify.com/album/0MG7L6KwV5vAkW7gplO5cM"
+      },
+      "artists": [
+        {
+          "name": "Tropical Del Bravo",
+          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173531,
+      "name": "El Tao Tao",
+      "url": "https://open.spotify.com/track/4kbIawVLsyJz9QHe65CarW"
     },
     {
       "album": {
@@ -814,6 +832,24 @@
     },
     {
       "album": {
+        "name": "Septima Armonia",
+        "url": "https://open.spotify.com/album/6KVhVRT7Zn5ft2XZtPzbqy"
+      },
+      "artists": [
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242826,
+      "name": "Est\u00e1s Enamorada",
+      "url": "https://open.spotify.com/track/4KwyXt2Fiv6K4Btn8jLvjT"
+    },
+    {
+      "album": {
         "name": "Felicidad",
         "url": "https://open.spotify.com/album/2QkBW647a6C5INrd9xdugl"
       },
@@ -825,7 +861,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 197640,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/27HEcrCxtG7hJQSi1JzMJI"
@@ -861,7 +897,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 233093,
       "name": "Fruta Fresca",
       "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
@@ -1067,7 +1103,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 202826,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/6XE2V2icEranw5YpS4WMDD"
@@ -1229,7 +1265,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 277000,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/0wrMVjP7zS5fN7piwv5Gxq"
@@ -1265,7 +1301,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Las Cale\u00f1as",
       "url": "https://open.spotify.com/track/5RbOjQNjaZ6IXmWg8cl4j8"
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 226400,
       "name": "Ll\u00e9vame Contigo",
       "url": "https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw"
@@ -1363,7 +1399,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 249680,
       "name": "Mayor que yo",
       "url": "https://open.spotify.com/track/4n4CBlQVxxnU0MHGO5Mqv3"
@@ -1381,7 +1417,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 167986,
       "name": "Me llamo Raquel",
       "url": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
@@ -1417,7 +1453,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 235480,
       "name": "Mi Cucu",
       "url": "https://open.spotify.com/track/261NrVA4sW75Ea3Gi2oVMF"
@@ -1547,7 +1583,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 255986,
       "name": "No Te Veo - Digital Single",
       "url": "https://open.spotify.com/track/40EDOraCqoiMf14TzODihf"
@@ -1675,7 +1711,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 188720,
       "name": "Pa' Mayt\u00e9",
       "url": "https://open.spotify.com/track/72wEtgEkcLQ5x4F4ktiVSH"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 171320,
       "name": "Qu\u00e9 Vida la M\u00eda",
       "url": "https://open.spotify.com/track/3T0OdyDjFtltn1nHH4j06U"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 183414,
       "name": "Santo",
       "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
@@ -1967,7 +2003,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Sergio el Bailador",
       "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
@@ -1985,7 +2021,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 144800,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/4QgdJycTYnqJCWEH4R4H1v"
@@ -2219,7 +2255,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 155786,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/0UkIrDmZ19PFFi6SXx9RBd"
@@ -2273,7 +2309,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 180480,
       "name": "Y Como Quieres Que Te Quiera",
       "url": "https://open.spotify.com/track/0lupD4hTJaH9h3SHMGymIK"
@@ -2327,7 +2363,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
@@ -2349,7 +2385,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 306453,
       "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"

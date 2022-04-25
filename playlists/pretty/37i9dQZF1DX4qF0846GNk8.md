@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر\. الغلاف: حوده بندق
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,481 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,528 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

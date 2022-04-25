@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,356 songs - 3 day 7 hr 16 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,357 songs - 3 day 7 hr 20 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Garbage](https://open.spotify.com/track/04EmYOB99jJ52m45HRmq9h) | [Christopher Paul](https://open.spotify.com/artist/7ieFGttaEqvHGZVpwgVVWd) | [Garbage](https://open.spotify.com/album/5zciH50dlD5H946F1WVERZ) | 3:44 | 2019-10-17 | 2019-10-24 |
 | [Gaslighter](https://open.spotify.com/track/4UN6sBmFTt2IqxN3IRqJT3) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:23 | 2020-08-20 |  |
 | [Gemini](https://open.spotify.com/track/79VKEr51Prtp9dBIEYjJVn) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 3:04 | 2020-08-20 |  |
+| [Genki Dane](https://open.spotify.com/track/2yYiGo3m1umxAHh0GiIMes) | [Kind & Kinky Zoo](https://open.spotify.com/artist/39tzsB2W9Tm6yV2PfjvtnD) | [Swamp!](https://open.spotify.com/album/3rd26UKgqlezQQTew7chYT) | 4:25 | 2022-04-24 |  |
 | [Get Back to Love Radio Edit](https://open.spotify.com/track/1HNI7bgrAn1W2yUBGrWe7W) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Get Back to Love \(Pink Panda Remix\)](https://open.spotify.com/album/05ZHDrT49RHH1WTBFiIktl) | 2:55 | 2020-03-14 | 2020-04-04 |
 | [Get Down](https://open.spotify.com/track/6HeVdU7MataqoI7hA8tMwE) | [Traveler](https://open.spotify.com/artist/6wCnoQVmun9H1OqppOGY76) | [Get Down](https://open.spotify.com/album/28AzsxCog5pmmEXfjE6LhI) | 4:47 | 2020-12-24 | 2021-01-12 |
 | [Get Loose](https://open.spotify.com/track/4w2TiaRRwkfDIUsMLdiAqO) | [Iris Stryx](https://open.spotify.com/artist/5fDwMjmvNjDhXHxDd991kd) | [Get Loose](https://open.spotify.com/album/2xRaJ7CIfmgQB1WvgSY48U) | 3:06 | 2020-11-22 | 2020-12-20 |

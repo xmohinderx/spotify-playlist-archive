@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 280640,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/1uhiqrpEiYnWddrLgTAhZd"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 208152,
       "name": "Boogaloo Supreme",
       "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 288560,
       "name": "Como una Estrella",
       "url": "https://open.spotify.com/track/0C09HZicGLpFZei3u2nt8k"
@@ -469,10 +469,28 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 237003,
       "name": "Cumbiana",
       "url": "https://open.spotify.com/track/7CzkWSho9A7kE31to9NKdW"
+    },
+    {
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286413,
+      "name": "Date un Chance",
+      "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
     },
     {
       "album": {
@@ -521,7 +539,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 279346,
       "name": "Debate De 4",
       "url": "https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns"
@@ -619,7 +637,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 263253,
       "name": "El Baile del Perrito",
       "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 223466,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/2J68vaH7pv2IpxH1vnIpXN"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 255080,
       "name": "El Hombre Divertido",
       "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 298106,
       "name": "Entre Tu Cuerpo y el Mio",
       "url": "https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 193613,
       "name": "Imaginar",
       "url": "https://open.spotify.com/track/2M7nxR4mAJ4ox98l5Jn6jN"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 259013,
       "name": "La Due\u00f1a del Swing",
       "url": "https://open.spotify.com/track/3vCeDhrInX8te6SoaqZbvu"
@@ -1314,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Originales",
+        "url": "https://open.spotify.com/album/0iYfoInNEmGbbEIksf1PCu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "Linda Eh",
+      "url": "https://open.spotify.com/track/42huCGPeBRGBRMmc72ZWsE"
+    },
+    {
+      "album": {
         "name": "Una Dimensi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 264193,
       "name": "Mala y Peligrosa (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9"
@@ -1751,7 +1787,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 150588,
       "name": "Pepas (Version Merengue)",
       "url": "https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
@@ -2113,7 +2149,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 266893,
       "name": "T\u00fa No Le Amas Le Temes",
       "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"

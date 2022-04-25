@@ -2298,6 +2298,28 @@
     },
     {
       "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bennett",
+          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
+        },
+        {
+          "name": "TheHxliday",
+          "url": "https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228783,
+      "name": "Come Alive (feat. TheHxliday)",
+      "url": "https://open.spotify.com/track/5RTaUNwupHck8efMFfRMXR"
+    },
+    {
+      "album": {
         "name": "Come My Way (feat. Krayzie Bone)",
         "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
       },

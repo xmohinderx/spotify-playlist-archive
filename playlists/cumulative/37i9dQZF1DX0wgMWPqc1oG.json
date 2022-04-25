@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 258320,
       "name": "Flight 19",
       "url": "https://open.spotify.com/track/4Ag0bpdJVnaGU9xOXOSQQ3"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 415226,
       "name": "King Cobra - Remastered",
       "url": "https://open.spotify.com/track/2wPdiD2p3JWYPKXiNlGFPs"
@@ -1454,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Lee Morgan",
+        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332373,
+      "name": "Speedball",
+      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
+    },
+    {
+      "album": {
         "name": "The Gigolo",
         "url": "https://open.spotify.com/album/56V2eJVmkq6mR8Hq1BNX7O"
       },
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 332373,
       "name": "Speedball - Remastered",
       "url": "https://open.spotify.com/track/25WckCvR16FvRO6h7n6ahp"

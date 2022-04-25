@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 255080,
       "name": "As I Wished \ub73b\ub300\ub85c",
       "url": "https://open.spotify.com/track/53l6zTxcgzRMAgD3eS6zqF"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "Christmas Rose (feat. LEEBADA)",
       "url": "https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 243106,
       "name": "Dawn do that",
       "url": "https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 186823,
       "name": "DON`T SAY GOODBYE",
       "url": "https://open.spotify.com/track/0A7XRj5gP3Cx44awg1yOIE"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 198058,
       "name": "Dream Attic",
       "url": "https://open.spotify.com/track/1FQW5ctU2wWoqbSdE6yQNH"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 155280,
       "name": "First kiss (Feat. Sonny zero, Harms)",
       "url": "https://open.spotify.com/track/1wInZv0I7D0EDrgfSRnC33"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 238250,
       "name": "For Some Reason \uc660\uc9c0 \uadf8\ub0e5",
       "url": "https://open.spotify.com/track/4b4pXJlphTv6xkOAhnSCgY"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
       "url": "https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv"
@@ -1412,6 +1412,28 @@
     },
     {
       "album": {
+        "name": "Loveship",
+        "url": "https://open.spotify.com/album/6bwWdBKK3YGxgFJkZ8BYVQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259866,
+      "name": "Loveship",
+      "url": "https://open.spotify.com/track/6Hqk3UKf4uIrdbkJvwM7y3"
+    },
+    {
+      "album": {
         "name": "homemade 1",
         "url": "https://open.spotify.com/album/75yTA2QkJzFi33JRw1q7El"
       },
@@ -1427,7 +1449,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 199266,
       "name": "Mayday (Feat. Joy)",
       "url": "https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk"
@@ -1515,7 +1537,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 249464,
       "name": "MYSELF (feat. george) (prod. APRO)",
       "url": "https://open.spotify.com/track/0NsOzFVBBphYwa0Qb5pLYu"
@@ -1629,6 +1651,28 @@
       "duration_ms": 222159,
       "name": "Only You \uadf8\ub7f0 \uc904 \uc54c\uc544\uc694",
       "url": "https://open.spotify.com/track/1GKhOkVG5G2sQEg2SA3hAG"
+    },
+    {
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
     },
     {
       "album": {
@@ -1775,7 +1819,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 223836,
       "name": "Sad Movie",
       "url": "https://open.spotify.com/track/4HslmW13aoxjBnnMVFxUdL"
@@ -1841,7 +1885,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 270986,
       "name": "Seperation in the daytime",
       "url": "https://open.spotify.com/track/4R06C6ucEHnDv1MvVdc5ql"
@@ -1973,7 +2017,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 281066,
       "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/57jBcQUCJaIUTRbqBmW7D1"
@@ -2145,6 +2189,28 @@
       "duration_ms": 214203,
       "name": "Sugar Cake (feat. Microdot)",
       "url": "https://open.spotify.com/track/6J43QczgdKNrQQtwxv3spo"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6kqBCAcmJtniQdJY0F8pr0"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195943,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6ioaDimY5lmeAl5gBh0imb"
     },
     {
       "album": {
@@ -2409,7 +2475,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 189920,
       "name": "Troll (Feat. DEAN)",
       "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
@@ -2435,7 +2501,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 224684,
       "name": "Under The Moon-light \uc6b0\ub9b0 \ub098\ub780\ud788 \uc549\uc544",
       "url": "https://open.spotify.com/track/769mRD2opGFL5s5sbXqRlC"
@@ -2475,7 +2541,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 185601,
       "name": "Walk In The Night (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
@@ -2629,7 +2695,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 194093,
       "name": "You & Love (feat. Kate Kim)",
       "url": "https://open.spotify.com/track/4IO7iRsmxWNlSX4RVJgxkU"
@@ -2845,7 +2911,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 228773,
       "name": "\ucee4\ud53c\ub97c \ub9c8\uc2dc\uace0 Coffee - Reprise",
       "url": "https://open.spotify.com/track/3PX5Hkkhh4da6Sntk3LwYo"

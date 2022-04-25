@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Alesso & Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,197 likes - 69 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,247 likes - 69 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 7 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 |
 | 8 | [Solo Para Ti](https://open.spotify.com/track/2uAgZ0PelSImQe3BME9CiT) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Solo Para Ti](https://open.spotify.com/album/7CX6KwcrRx0iwTH8iU6rDJ) | 3:18 |
 | 9 | [My Pony](https://open.spotify.com/track/1UaaVPtlo795n1hWqHpOYS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/3DTLDnxeGFdJZSME6WYgE1) | 2:33 |
-| 10 | [AM Gold \(feat\. Melanie C\) \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 |
+| 10 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 |
 | 11 | [My Love \- Dave Glass Animals Remix](https://open.spotify.com/track/5Y5Ygo55Uafu1K2KOqnTt4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [My Love \(Dave Glass Animals Remix\)](https://open.spotify.com/album/5dd31rqNnOvoVDvSt5ajdG) | 3:30 |
 | 12 | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ) | 3:18 |
 | 13 | [Dance With Me \- Edit](https://open.spotify.com/track/7IPdXJf4DEisUUL0WqTcKL) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [Dance With Me \(Edit\)](https://open.spotify.com/album/4mvAV6SSMEmkZ3CZBaVF0u) | 3:06 |

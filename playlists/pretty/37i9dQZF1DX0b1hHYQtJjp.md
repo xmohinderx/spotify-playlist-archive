@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: Miranda Lambert & Elle King
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,645 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,797 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 3 | [dose](https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [dose](https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD) | 3:00 |
 | 4 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 | 5 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
-| 6 | [AM Gold \(feat\. Melanie C\) \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 |
+| 6 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 |
 | 7 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
 | 8 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 | 9 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 |

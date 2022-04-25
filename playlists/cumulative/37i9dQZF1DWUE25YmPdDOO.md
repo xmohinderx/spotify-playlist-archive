@@ -4,7 +4,7 @@
 
 > Canciones de Rock con un toque de nostalgia.
 
-55 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/0yamtoS3c3M0OZk9jDt8L7)
+56 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0yamtoS3c3M0OZk9jDt8L7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Every Breath You Take](https://open.spotify.com/track/36epmwfOEhuyvwKa08xcBT) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Greatest Hits](https://open.spotify.com/album/2HPpGOkeO0y2I071Js9s1A) | 4:12 | 2022-01-01 |  |
 | [Florecita Rockera](https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 2:57 | 2022-01-01 |  |
 | [High And Dry](https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 4:17 | 2022-01-01 |  |
+| [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 | 2022-01-01 |  |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2022-01-01 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-01-01 |  |
 | [I Don't Want to Miss a Thing \- From the Touchstone film, "Armageddon"](https://open.spotify.com/track/0c1gHntWjKD7QShC8s99sq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/616UgaZTc454Gu0aXxVH3K) | 4:59 | 2022-01-01 | 2022-04-23 |
@@ -50,18 +51,18 @@
 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 | 2022-01-01 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2022-01-01 |  |
 | [Sirens](https://open.spotify.com/track/3HPfwpfUtcdyJPvlLtXtNg) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/7t9f6jrmK6K7CDpVKyTaAk) | 5:40 | 2022-01-01 |  |
-| [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/3vCHmbyOgc6pgwLUWfU4pF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ) | 4:56 | 2022-01-01 | 2022-04-24 |
+| [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/3vCHmbyOgc6pgwLUWfU4pF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ) | 4:56 | 2022-01-01 |  |
 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 | 2022-01-01 |  |
 | [Sueles Dejarme Solo \- Remasterizado 2007](https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:46 | 2022-01-01 |  |
-| [Sweet Home Alabama](https://open.spotify.com/track/4CJVkjo5WpmUAKp3R44LNb) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping](https://open.spotify.com/album/5rtOJsiDDjA9V5306cyTRS) | 4:41 | 2022-01-01 |  |
+| [Sweet Home Alabama](https://open.spotify.com/track/4CJVkjo5WpmUAKp3R44LNb) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping](https://open.spotify.com/album/5rtOJsiDDjA9V5306cyTRS) | 4:41 | 2022-01-01 | 2022-04-25 |
 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 | 2022-01-01 |  |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 | 2022-01-01 |  |
 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 | 2022-01-01 |  |
-| [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2022-01-01 | 2022-04-24 |
+| [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2022-01-01 |  |
 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 | 2022-01-01 |  |
 | [With Or Without You \- Remastered](https://open.spotify.com/track/3yvlcIteooc31cPjyWPTw1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5OkSkzxPZuziL8waHmU8Zd) | 4:55 | 2022-01-01 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2022-01-01 |  |
-| [You Give Love A Bad Name](https://open.spotify.com/track/3U7H63zKWLjOuFZJUmTowp) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 3:43 | 2022-01-01 |  |
-| [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 | 2022-01-01 |  |
+| [You Give Love A Bad Name](https://open.spotify.com/track/3U7H63zKWLjOuFZJUmTowp) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 3:43 | 2022-01-01 | 2022-04-25 |
+| [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 | 2022-01-01 | 2022-04-25 |
 
 \*This playlist was first scraped on 2022-04-22. Prior content cannot be recovered.

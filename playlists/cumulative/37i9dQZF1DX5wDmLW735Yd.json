@@ -56,6 +56,24 @@
     },
     {
       "album": {
+        "name": "Already Disappeared",
+        "url": "https://open.spotify.com/album/2KDOAfezL4bJLIrnlONxW7"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254910,
+      "name": "Already Disappeared",
+      "url": "https://open.spotify.com/track/6wUc42SOF3zzn163c3ODrw"
+    },
+    {
+      "album": {
         "name": "Anaesthetist",
         "url": "https://open.spotify.com/album/7fulQxtwnbpPRd3Q26DvmA"
       },
@@ -277,7 +295,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 242758,
       "name": "Boom (feat. Tonn Piper)",
       "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
@@ -317,10 +335,36 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/24abahS4tYAxt7lgSBk7Vc"
+    },
+    {
+      "album": {
+        "name": "Breathe (feat. RZA) [Ren\u00e9 LaVice Dark D&B Remix]",
+        "url": "https://open.spotify.com/album/6dmrmMHEwhSDb593XSxc4M"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "Breathe (feat. RZA) - Ren\u00e9 LaVice Dark D&B Remix",
+      "url": "https://open.spotify.com/track/1acpIlnD71Anfcy2RXZkm3"
     },
     {
       "album": {
@@ -401,7 +445,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 244045,
       "name": "Catharsis X",
       "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
@@ -431,7 +475,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 226046,
       "name": "Change",
       "url": "https://open.spotify.com/track/71VtkrwSJ5cCz3vlTpnYza"
@@ -497,7 +541,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 242250,
       "name": "Dance Together",
       "url": "https://open.spotify.com/track/3phgzhjfJnUOydU9NK8d0Y"
@@ -793,7 +837,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 202114,
       "name": "Faded",
       "url": "https://open.spotify.com/track/13Pt5hX34nfHnsL5MtUHJb"
@@ -895,7 +939,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 203669,
       "name": "Foreign Things - High Contrast Remix",
       "url": "https://open.spotify.com/track/7bFQIe9eSrg3iQlwjmoTcY"
@@ -921,7 +965,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -939,7 +983,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
@@ -1117,7 +1161,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 203534,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/7q4fVHc05vJrMFayLV9Bw6"
@@ -1143,7 +1187,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 201600,
       "name": "Hands, Lights, Flames, Phones",
       "url": "https://open.spotify.com/track/2sBCHHilijXQtJCZ9igvt4"
@@ -1205,7 +1249,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
@@ -1263,7 +1307,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 270171,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5qDvsmyX6iK5QId4pNePB1"
@@ -1559,7 +1603,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 230641,
       "name": "Lord It's A Feeling - High Contrast Remix",
       "url": "https://open.spotify.com/track/5UhR3rgMmJG1N0xmtLKGi1"
@@ -1625,7 +1669,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 251134,
       "name": "Love Drunk",
       "url": "https://open.spotify.com/track/0fpSLtAZyzwz8e57jjZme6"
@@ -1941,7 +1985,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 388439,
       "name": "Phukalupe",
       "url": "https://open.spotify.com/track/14Qh13evGAvlSoY9JeIgAs"
@@ -2073,7 +2117,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 312445,
       "name": "Remember Their Names (feat. Josh Barry)",
       "url": "https://open.spotify.com/track/5fyB3gpIQesy69f7Z7d88m"
@@ -2215,7 +2259,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 240344,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/6ea7W4icINIl04UyRG2YLk"
@@ -2295,7 +2339,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 226259,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/0f16GKHRLEklrzdlG4EpV7"
@@ -2623,7 +2667,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 213793,
       "name": "Sweet Music",
       "url": "https://open.spotify.com/track/02vLJCXHFoncAydzqqXnOp"
@@ -2645,7 +2689,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 207964,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0ADQTVFIq9hOdfpWbCCEJM"
@@ -2663,7 +2707,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 252011,
       "name": "Tell You",
       "url": "https://open.spotify.com/track/2SA7L8iFoILnfAd9F6r25u"
@@ -3021,10 +3065,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"
+    },
+    {
+      "album": {
+        "name": "What I Need (Tsuki Remix)",
+        "url": "https://open.spotify.com/album/3uMrozRgLfbSsjefQnioOA"
+      },
+      "artists": [
+        {
+          "name": "Catch-22 NZ",
+          "url": "https://open.spotify.com/artist/20YX5bIIvwKl8tWAQocBDZ"
+        },
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233114,
+      "name": "What I Need - Tsuki Remix",
+      "url": "https://open.spotify.com/track/0qrkVV5cdSBLRhx6WzaUJf"
     },
     {
       "album": {

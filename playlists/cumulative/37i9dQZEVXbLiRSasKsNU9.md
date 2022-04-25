@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-380 songs - 20 hr 50 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+381 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2021-12-27 | 2021-12-29 |
 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 | 2022-03-15 | 2022-03-21 |
 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 | 2022-02-01 | 2022-03-04 |
+| [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-04-24 |  |
 | [Anla](https://open.spotify.com/track/5SFBaOi2ELB2P5tFzmcD73) | [Diyar Pala](https://open.spotify.com/artist/23Q5T7JtqekFJMbC0XKxnh) | [Yeni Bir Flow](https://open.spotify.com/album/04WsTZt99MiX7jqrEeVTI2) | 4:29 | 2022-03-20 |  |
 | [Anti Rana](https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Anti Rana](https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW) | 3:09 | 2022-03-05 | 2022-03-23 |
 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 | 2022-03-15 | 2022-03-24 |
@@ -124,7 +125,7 @@
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-01-08 | 2022-03-02 |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2021-12-27 | 2022-01-01 |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-03-01 | 2022-03-09 |
-| [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-04-12 |  |
+| [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-04-12 | 2022-04-25 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-04-23 |  |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-29 |  |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-02-10 | 2022-02-15 |

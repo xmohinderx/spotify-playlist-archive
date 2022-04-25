@@ -1,13 +1,37 @@
 {
   "description": "New joints of the week featuring Pusha T, Megan Thee Stallion, NLE Choppa and more. Cover: Blxst",
-  "num_followers": 156557,
+  "num_followers": 156682,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDBjOTAwMDAwMTgwNGY2ZDNhZTUwMDAwMDE4MDRkZjUzYWJk",
+  "snapshot_id": "MTY1MDc4MzU2MiwwMDAwMDBjYTAwMDAwMTgwNWE1ZTJjNWUwMDAwMDE4MDRkZjUzYWJk",
   "tracks": [
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Hold That Heat (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Hold That Heat (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
+    },
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
@@ -51,30 +75,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Hold That Heat (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
-      },
-      "artists": [
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Hold That Heat (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Lights Off (feat. Gunna & Lil Durk)",
         "url": "https://open.spotify.com/album/7J47Z2E4FxitaVruzJKbGx"
       },
@@ -95,6 +95,22 @@
       "duration_ms": 215510,
       "name": "Lights Off (feat. Gunna & Lil Durk)",
       "url": "https://open.spotify.com/track/2pqu2XTbal0GehjBj2BDkv"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Every Good Girl",
+      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -127,22 +143,6 @@
       "duration_ms": 200470,
       "name": "In A Minute",
       "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Every Good Girl",
-      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Pop Out",
-        "url": "https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Pop Out",
-      "url": "https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Vaderz (feat. Bktherula)",
         "url": "https://open.spotify.com/album/11K4TXQVAOi4BjaItkuJ1X"
       },
@@ -215,6 +199,26 @@
       "duration_ms": 109788,
       "name": "Vaderz (feat. Bktherula)",
       "url": "https://open.spotify.com/track/7qUqxnNtlBgeo8h5yzVd19"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "H Spot (with Yo Gotti)",
+        "url": "https://open.spotify.com/album/54l2xBRFjR3A3xFeWJhrej"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "duration_ms": 216504,
+      "name": "H Spot (with Yo Gotti)",
+      "url": "https://open.spotify.com/track/5Fo6k4jpGzg9540H26Ihjx"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -259,46 +263,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Traumatized",
-        "url": "https://open.spotify.com/album/3xfBQrAyI0GHpw1JQFuTYU"
-      },
-      "artists": [
-        {
-          "name": "Lul Bob",
-          "url": "https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj"
-        },
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        }
-      ],
-      "duration_ms": 133996,
-      "name": "Traumatized",
-      "url": "https://open.spotify.com/track/5oJrH11xIWVKdOcd6mI3zF"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "H Spot (with Yo Gotti)",
-        "url": "https://open.spotify.com/album/54l2xBRFjR3A3xFeWJhrej"
-      },
-      "artists": [
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        }
-      ],
-      "duration_ms": 216504,
-      "name": "H Spot (with Yo Gotti)",
-      "url": "https://open.spotify.com/track/5Fo6k4jpGzg9540H26Ihjx"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "AIGHT (feat. Shelley FKA DRAM)",
         "url": "https://open.spotify.com/album/5DYcaafg3wKwL7jAvRRPzC"
       },
@@ -319,6 +283,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Pop Out",
+        "url": "https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Pop Out",
+      "url": "https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "learn 2 swim",
         "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf"
       },
@@ -331,6 +311,22 @@
       "duration_ms": 156800,
       "name": "pg baby",
       "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Big Biznezz",
+        "url": "https://open.spotify.com/album/4hukvvTtxPGBNqFZBopIP0"
+      },
+      "artists": [
+        {
+          "name": "Slimelife Shawty",
+          "url": "https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Big Biznezz",
+      "url": "https://open.spotify.com/track/7wDBHljtDnxAaxVITpCKgB"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -407,6 +403,26 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Traumatized",
+        "url": "https://open.spotify.com/album/3xfBQrAyI0GHpw1JQFuTYU"
+      },
+      "artists": [
+        {
+          "name": "Lul Bob",
+          "url": "https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj"
+        },
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        }
+      ],
+      "duration_ms": 133996,
+      "name": "Traumatized",
+      "url": "https://open.spotify.com/track/5oJrH11xIWVKdOcd6mI3zF"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "ROKU",
         "url": "https://open.spotify.com/album/5LQ2K1eNWz1zkdl0KVSofQ"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 131142,
       "name": "ROKU",
       "url": "https://open.spotify.com/track/06LXe97w96150WPik2gRZ4"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Big Biznezz",
-        "url": "https://open.spotify.com/album/4hukvvTtxPGBNqFZBopIP0"
-      },
-      "artists": [
-        {
-          "name": "Slimelife Shawty",
-          "url": "https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Big Biznezz",
-      "url": "https://open.spotify.com/track/7wDBHljtDnxAaxVITpCKgB"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -603,6 +603,26 @@
       "duration_ms": 140294,
       "name": "Trap Dance",
       "url": "https://open.spotify.com/track/5nyalvIVbwZPgAFberSnqj"
+    },
+    {
+      "added_at": "2022-04-24 06:59:22",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bennett",
+          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
+        },
+        {
+          "name": "TheHxliday",
+          "url": "https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD"
+        }
+      ],
+      "duration_ms": 228783,
+      "name": "Come Alive (feat. TheHxliday)",
+      "url": "https://open.spotify.com/track/5RTaUNwupHck8efMFfRMXR"
     },
     {
       "added_at": "2022-04-22 04:00:00",

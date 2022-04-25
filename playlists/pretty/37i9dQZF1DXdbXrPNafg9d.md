@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Kate Bollinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,032 likes - 157 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,869 likes - 157 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying bangers ONLY, plus some of <a href="spotify:artist:7o2ZQYM7nTsaVdkXY38UAA">Em Beihold's</a> inspirations\. Cover: Em Beihold
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,009 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,036 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [Hey Girl](https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Hey Girl](https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv) | 3:08 |
 | 50 | [Downtown Baby](https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Downtown Baby](https://open.spotify.com/album/2dbQaQFGQjxmQxicnp0701) | 2:47 |
 
-Snapshot ID: `MTY1MDc2MTU5NiwwMDAwMDAwMDc4M2ViNzRlMmUxNWJkNTA2M2Q4YWMwOWEwNjM1MjY4`
+Snapshot ID: `MTY1MDg0ODAzMiwwMDAwMDAwMDc4M2ViNzRlMmUxNWJkNTA2M2Q4YWMwOWEwNjM1MjY4`

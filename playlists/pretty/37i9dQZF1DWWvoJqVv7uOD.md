@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Vance Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,611 likes - 78 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,973 likes - 78 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

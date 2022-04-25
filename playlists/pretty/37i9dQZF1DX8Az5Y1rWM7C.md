@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,141 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,191 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 | 28 | [Seven Kayne: Bzrp Music Sessions, Vol\. 33](https://open.spotify.com/track/5PmK5pRspJq5ki30zgyv7G) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Seven Kayne: Bzrp Music Sessions, Vol\. 33](https://open.spotify.com/album/5VZx3dyGCnrp2JUQMbmi27) | 2:22 |
 | 29 | [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 |
 | 30 | [Mucha Data](https://open.spotify.com/track/57x0IGrEHEdoy5QMBlcitJ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Error 93](https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O) | 2:34 |
-| 31 | [5 Stars \(feat\. Polima Westcoast\)](https://open.spotify.com/track/7KAveXwQ5xzdHT6GDlNIBu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [5 Stars \(feat\. Polima Westcoast\)](https://open.spotify.com/album/6rkXVqUqFTSeBe611ar0La) | 4:04 |
+| 31 | [5 Stars \(feat\. Polimá Westcoast\)](https://open.spotify.com/track/7KAveXwQ5xzdHT6GDlNIBu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [5 Stars \(feat\. Polimá Westcoast\)](https://open.spotify.com/album/6rkXVqUqFTSeBe611ar0La) | 4:04 |
 | 32 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 |
 | 33 | [Como Me Ven](https://open.spotify.com/track/7j13aYb9i5749QxSI8Yhfv) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 2:47 |
 | 34 | [Benz](https://open.spotify.com/track/0M1fBFg2mxlFpYeBUBOseQ) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [KUN](https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc) | 2:47 |

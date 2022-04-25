@@ -4,13 +4,14 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/0o0fFC1WUDCEKbBM9ARRZc)
+61 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/0o0fFC1WUDCEKbBM9ARRZc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Up 2 You \(feat\. Akon, Wisin & Yandel\)](https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:38 | 2021-12-28 |  |
 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 | 2021-12-28 |  |
-| [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 | 2021-12-28 |  |
+| [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 | 2021-12-28 | 2022-04-25 |
+| [Baby, I'm Back](https://open.spotify.com/track/6EfyEbyk4XjCisJz90V8Ki) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/36vdts7dE6Cy6A7VC5qZ4I) | 3:39 | 2022-04-24 |  |
 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 | 2021-12-28 |  |
 | [Bartender \(feat\. Akon\)](https://open.spotify.com/track/1RGIjMFMgJxkZHMDXVYzOJ) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 3:58 | 2021-12-28 |  |
 | [Be With You](https://open.spotify.com/track/5fFVy5lNikE6Gls8qKLS5L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 3:51 | 2021-12-28 |  |

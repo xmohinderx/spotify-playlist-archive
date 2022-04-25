@@ -4,7 +4,7 @@
 
 > The Real hip\-hop\. Cover: Pusha T
 
-114 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
+115 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Hell on Earth, Pt\. 2 \(feat\. Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/3vonKK5uOX4mHb22A1JLi6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Hitler Wears Hermes 8: Side B](https://open.spotify.com/album/0KtFP56RU7bd32pcvdeWOU) | 3:55 | 2021-09-24 | 2022-02-05 |
 | [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 | 2022-04-22 |  |
 | [Hustlaz](https://open.spotify.com/track/5mV02eybPC77hODuGYd054) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Chill's Spotlight](https://open.spotify.com/artist/5CObhzKatYOMAeLHuFRedB) | [Hustlaz](https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs) | 3:55 | 2022-02-04 |  |
+| [Intro \(feat\. Verner\)](https://open.spotify.com/track/23dpc8grObPCGq2pP0jSRJ) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Verner](https://open.spotify.com/artist/5v4hGm57HnFZ6oBcZKtEUS) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 4:20 | 2022-04-24 |  |
 | [Jean\-Michel](https://open.spotify.com/track/4MR5zadA2AvLPs8fdp0LuJ) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:43 | 2022-01-14 |  |
 | [JESSE GLOVER / DAY\-DATE](https://open.spotify.com/track/4eUlsa8528fWVDF0GWz9bi) | [Geechy](https://open.spotify.com/artist/5fmeR9y2YakPD9lb6bfIHW) | [IF I WAS BORN THEN](https://open.spotify.com/album/435n3w7pMZ3zGMkRbhxyFO) | 2:57 | 2021-12-06 | 2022-02-09 |
 | [John Woo Flick \(with Benny The Butcher & Westside Gunn\)](https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [John Woo Flick \(with Benny The Butcher & Westside Gunn\)](https://open.spotify.com/album/51rkfslHbM2exyR4strATb) | 4:46 | 2022-02-04 |  |
@@ -97,7 +98,7 @@
 | [Punch Bowl \(with Clipse & Nigo\)](https://open.spotify.com/track/1NxZp8uYShqpkxcyaaLUKs) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 3:01 | 2022-03-25 | 2022-04-23 |
 | [Rapper Estates \(feat\. Benny The Butcher\)](https://open.spotify.com/track/3cYuqoOhuXjx4iB9ttHn6E) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Richer Than I Ever Been](https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ) | 3:23 | 2021-12-10 |  |
 | [Robert Horry Freestyle](https://open.spotify.com/track/1YqWbETAgGG8sKS5yEFDHB) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Robert Horry Freestyle](https://open.spotify.com/album/1ZukfkXHBBLpQenz6MiWJC) | 1:31 | 2021-12-17 | 2022-02-12 |
-| [SEPARATION OF THE SHEEP AND THE GOATS](https://open.spotify.com/track/3v4it08xXsQU6pVuyjGx1G) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Balens Cho \(Hot Candles\)](https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs) | 2:51 | 2021-12-24 |  |
+| [SEPARATION OF THE SHEEP AND THE GOATS](https://open.spotify.com/track/3v4it08xXsQU6pVuyjGx1G) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Balens Cho \(Hot Candles\)](https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs) | 2:51 | 2021-12-24 | 2022-04-25 |
 | [Show You](https://open.spotify.com/track/6q22MMzXPNnw3mCvxCJYUK) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Show You](https://open.spotify.com/album/23nI961Qgp4InnRf13n1ES) | 3:23 | 2021-10-22 | 2022-01-15 |
 | [So Much More](https://open.spotify.com/track/6cspyG3FNuvNznrA7bzlxh) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 3:24 | 2022-02-25 |  |
 | [Soldier \(feat\. Pivot Gang\)](https://open.spotify.com/track/43nJ4JDR5rbMndZoMXzsZe) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:05 | 2022-02-04 |  |

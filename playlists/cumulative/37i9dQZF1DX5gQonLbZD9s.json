@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 188000,
       "name": "Beautiful Things - EMBRZ Remix",
       "url": "https://open.spotify.com/track/14ASAuCDNcGEWJ75crQhBy"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 136011,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 168873,
       "name": "Closer (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
@@ -2033,7 +2033,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 303311,
       "name": "Love And Appreciation",
       "url": "https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy"
@@ -3283,7 +3283,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
@@ -3305,7 +3305,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -3557,6 +3557,28 @@
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
+    },
+    {
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "album": {

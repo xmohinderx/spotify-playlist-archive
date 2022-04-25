@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 214920,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 241917,
       "name": "Flightless Bird, American Mouth",
       "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Visiter",
+        "url": "https://open.spotify.com/album/0cxRS9yfjXoNv2VsfyWSkM"
+      },
+      "artists": [
+        {
+          "name": "The Dodos",
+          "url": "https://open.spotify.com/artist/10tysauSA5JATqniBDu2Ed"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282633,
+      "name": "Fools",
+      "url": "https://open.spotify.com/track/2HP3ePEj4jFOAwxdpwT1xb"
+    },
+    {
+      "album": {
         "name": "The Knot",
         "url": "https://open.spotify.com/album/25kJpOTWdbudC2mJf5L1nC"
       },
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 230800,
       "name": "For Prayer",
       "url": "https://open.spotify.com/track/1OUQCQRqb6a0y9sn2O7ghY"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 213106,
       "name": "Free",
       "url": "https://open.spotify.com/track/6GJZaic4HSan2B2jgvI2L4"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 223773,
       "name": "He Lays In The Reins",
       "url": "https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 135440,
       "name": "If I Were",
       "url": "https://open.spotify.com/track/0CVy2bbgDZPhpMVhzXILE9"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 233493,
       "name": "In Our Talons",
       "url": "https://open.spotify.com/track/1wG0T0Gc9na4tZW3soquGC"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 227280,
       "name": "Mightiest of Guns",
       "url": "https://open.spotify.com/track/0JIx11Ysmmmy0VnV0KwP19"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 293666,
       "name": "Now That I Know",
       "url": "https://open.spotify.com/track/0ZrzoTJx4FxOh5hWs1wNZX"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 313666,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/5giOeZLRgy5Vzaed5CzjbM"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 257213,
       "name": "Ready, Able",
       "url": "https://open.spotify.com/track/5cf1ZfI16kHp3S1ySpQ36G"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 200853,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX"
@@ -1755,7 +1773,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 217986,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
@@ -1777,6 +1795,24 @@
       "duration_ms": 254960,
       "name": "The Dark Don't Hide It",
       "url": "https://open.spotify.com/track/7AGNxlQjAADFVPiW70z2s8"
+    },
+    {
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "album": {
@@ -1809,7 +1845,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 230906,
       "name": "The Modern Leper",
       "url": "https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv"
@@ -1863,7 +1899,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 323973,
       "name": "The Sea and the Rhythm",
       "url": "https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6"
@@ -1899,7 +1935,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 162866,
       "name": "The Swimming Song",
       "url": "https://open.spotify.com/track/6ulFhQ1pfkUNuCY1zxClmv"
@@ -2068,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "Picaresque",
+        "url": "https://open.spotify.com/album/1ofGOFzgt22AGMi9yQIOMq"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184280,
+      "name": "We Both Go Down Together",
+      "url": "https://open.spotify.com/track/0U7XzVIAzoavQQ7DS94KYp"
+    },
+    {
+      "album": {
         "name": "Mouthfuls",
         "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
       },
@@ -2155,6 +2209,24 @@
       "duration_ms": 205240,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
+    },
+    {
+      "album": {
+        "name": "To Find Me Gone",
+        "url": "https://open.spotify.com/album/1pqDv5gYGWNrkfb7iFj6NB"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280986,
+      "name": "You May Be Blue",
+      "url": "https://open.spotify.com/track/7pzSiISHRFQTlMKLZ94Z54"
     },
     {
       "album": {

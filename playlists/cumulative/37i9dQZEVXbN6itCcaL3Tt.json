@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 220427,
       "name": "audi",
       "url": "https://open.spotify.com/track/6M4nn0RQYnmB12pxZjsmCa"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 141972,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5zq97EBupOTN1XOPX5ukRJ"
@@ -1971,6 +1971,36 @@
       "duration_ms": 186666,
       "name": "Boj\u0119 Si\u0119 Kocha\u0107",
       "url": "https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH"
+    },
+    {
+      "album": {
+        "name": "Bombsite B",
+        "url": "https://open.spotify.com/album/5iSwWNtMsZjrBT4iMXH8rz"
+      },
+      "artists": [
+        {
+          "name": "Remo",
+          "url": "https://open.spotify.com/artist/3D7uyuzWbp2NhY7wE0GlwH"
+        },
+        {
+          "name": "Gimpson",
+          "url": "https://open.spotify.com/artist/5zoNePGBqUemBGurdQ0qlC"
+        },
+        {
+          "name": "FRIZ",
+          "url": "https://open.spotify.com/artist/6K02Q2fEVl7WMmMqN85tIc"
+        },
+        {
+          "name": "Mamiko",
+          "url": "https://open.spotify.com/artist/6sYN4WK65kO11DxAbPOrcP"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Bombsite B",
+      "url": "https://open.spotify.com/track/0qS515mvihBzgpvppg2rBO"
     },
     {
       "album": {
@@ -2701,7 +2731,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 137992,
       "name": "COCO",
       "url": "https://open.spotify.com/track/4huKZSBZ0UJt2RWwB8PEWU"

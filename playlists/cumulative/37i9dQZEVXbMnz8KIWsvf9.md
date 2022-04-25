@@ -4,14 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-331 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+332 songs - 19 hr 36 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0X1=LOVESONG \(I Know I Love you\)](https://open.spotify.com/track/3yTkoTuiKRGL2VAlQd7xsC) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/6g3BW90upn0rxRuFcm0zpm) | 3:22 | 2021-06-03 | 2021-06-05 |
 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-06-02 | 2021-06-03 |
 | [1001 \(You're Lovely\)](https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/034QxEQoDA2B6O8rtNglTe) | 3:14 | 2021-03-27\* | 2021-10-09 |
-| [134340](https://open.spotify.com/track/1MX0g22bQkr9HDVe37fLnN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:50 | 2022-04-23 |  |
+| [134340](https://open.spotify.com/track/1MX0g22bQkr9HDVe37fLnN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:50 | 2022-04-23 | 2022-04-25 |
 | [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-02-19 |  |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2021-03-27\* | 2021-06-09 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-03 | 2022-04-06 |
@@ -19,6 +19,7 @@
 | [Alcohol\-Free](https://open.spotify.com/track/3iPbmpKBMflYd7UjdYftoj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE) | 3:30 | 2021-06-12 | 2021-07-17 |
 | [Alcohol\-Free](https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp) | 3:30 | 2021-06-11 | 2021-06-12 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-24 | 2021-12-27 |
+| [All Night \(BTS World Original Soundtrack\) \[Pt\. 3\]](https://open.spotify.com/track/70sKIAQgaVN2zWEEyOpyMZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [All Night \(BTS World Original Soundtrack\) \[Pt\. 3\]](https://open.spotify.com/album/53dPHVEHHiHZusK0l4q26R) | 3:36 | 2022-04-24 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-14 | 2022-01-08 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-17 |  |
 | [ANL](https://open.spotify.com/track/3zIvzPKUUdSpDCm1uua6Be) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:45 | 2021-05-12 | 2021-05-13 |

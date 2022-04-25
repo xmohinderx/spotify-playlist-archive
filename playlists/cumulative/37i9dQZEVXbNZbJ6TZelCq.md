@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-647 songs - 1 day 10 hr 17 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
+648 songs - 1 day 10 hr 21 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Nebula](https://open.spotify.com/track/3XuoB3Y8kocY79G7PdBr8d) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [RMN](https://open.spotify.com/album/0kYZkGelkajt8OufvSU2qm) | 4:52 | 2021-03-27 | 2021-04-03 |
 | [Need to Know](https://open.spotify.com/track/10hcDov7xmcRviA8jLwEaI) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Need to Know](https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH) | 3:30 | 2021-06-14 | 2021-06-20 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-06-27 | 2022-01-05 |
+| [Nefiu](https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Nefiu](https://open.spotify.com/album/5Lwzw3ukbFMyrZPJ14PqTr) | 3:05 | 2022-04-24 |  |
 | [NETFLIX & CHILL](https://open.spotify.com/track/3QU5eXxZW0R9G9gAh0AFRP) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [CORDIAL](https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm) | 2:39 | 2021-12-12 | 2021-12-13 |
 | [New Again](https://open.spotify.com/track/2GPTiPR5db727wu1tFvFt4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:03 | 2021-08-31 | 2021-09-02 |
 | [Nice To Meet Ya \(feat\. Yxng Bane\)](https://open.spotify.com/track/1YHjRAptXqPdsdx3g6FNJL) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Nice To Meet Ya \(feat\. Yxng Bane\)](https://open.spotify.com/album/5lSwDdPjMSQk27KwUYlC2r) | 3:01 | 2021-07-21 | 2021-08-14 |
@@ -488,7 +489,7 @@
 | [remediu](https://open.spotify.com/track/2YCaHIpMcyYyqK2wfztYBi) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [L.V\. Pattern](https://open.spotify.com/album/1RSLUq6ballnsOwuLhNU0o) | 2:59 | 2021-08-08 | 2021-08-09 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-03 |
 | [Restart](https://open.spotify.com/track/56EmQyGejndg9liKFbQxEC) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo](https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV) | 2:20 | 2022-02-21 | 2022-02-27 |
-| [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-02-27 |  |
+| [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-02-27 | 2022-04-25 |
 | [Ride](https://open.spotify.com/track/2gRZ71ywny0ZEhr7R3KT0c) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BANDO 2](https://open.spotify.com/album/6KGDcUVT6gGuJfpiOQ6lBG) | 2:42 | 2021-06-27 | 2021-06-28 |
 | [Rita](https://open.spotify.com/track/7d4RyD7PlTRY4spQM5CP5t) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Rita](https://open.spotify.com/album/1kDsaG7riZfr6LxtTNOXZd) | 2:54 | 2021-08-03 | 2022-02-14 |
 | [Roceri](https://open.spotify.com/track/6ko0ugyIQPPPnrp4AeHc8O) | [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2), [Amuly](https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [Roceri](https://open.spotify.com/album/322ExFFuXrtAhAbfjIBHoC) | 2:46 | 2021-08-01 | 2021-10-17 |

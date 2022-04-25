@@ -4,7 +4,7 @@
 
 > From House & Techno to the spheres of Pop\. This playlist features legendary tracks that have been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-53 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/0aAeAkwyU2DI1pbas58wS9)
+54 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/0aAeAkwyU2DI1pbas58wS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Clouds Across the Moon](https://open.spotify.com/track/1GT9jsKDk6osfnR5lWIUMD) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Past, Present & Future](https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA) | 4:45 | 2021-10-20 |  |
 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 | 2021-10-20 |  |
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2021-10-20 |  |
-| [Don't Leave Me](https://open.spotify.com/track/46ysV2R0UyqObMmY0IgGHc) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Don't Leave Me / Plan A](https://open.spotify.com/album/5htDgTnOfAIsk4ZFzdQqf8) | 6:55 | 2021-10-20 | 2022-04-24 |
+| [Don't Leave Me](https://open.spotify.com/track/46ysV2R0UyqObMmY0IgGHc) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Don't Leave Me / Plan A](https://open.spotify.com/album/5htDgTnOfAIsk4ZFzdQqf8) | 6:55 | 2021-10-20 |  |
 | [Get Get Down](https://open.spotify.com/track/4h4AEqy0iBbjdlbtWvIx5O) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Get Get Down](https://open.spotify.com/album/1ND1coyFl0AIA9D5OujGgg) | 6:07 | 2021-10-20 |  |
 | [Go West \- 2003 Remaster](https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl) | 5:04 | 2021-10-20 |  |
 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 | 2021-10-20 |  |
@@ -45,6 +45,7 @@
 | [My Heart Goes Boom \- Radio Version](https://open.spotify.com/track/4k75o8WPCPqDd2tgD4AKxU) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [My Heart Goes Boom \(La Di da Da\)](https://open.spotify.com/album/0AVy1xmas9TvWDPPsHOC0G) | 3:40 | 2021-10-20 |  |
 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 | 2021-10-20 |  |
 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 | 2021-10-20 |  |
+| [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 | 2021-10-20 |  |
 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 | 2021-10-20 |  |
 | [Show Me Love \- Extended Mix](https://open.spotify.com/track/7nmvwosdapB8Bro5uIM7n2) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 7:44 | 2021-10-20 |  |
 | [Sound 6](https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI) | 6:01 | 2021-10-20 |  |
@@ -54,12 +55,12 @@
 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 | 2021-10-20 |  |
 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 | 2021-10-20 |  |
 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 | 2021-10-20 |  |
-| [Throw Your Hands](https://open.spotify.com/track/4Fetk6GvNL2fYVo0UQbLcN) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 8:32 | 2021-10-20 |  |
+| [Throw Your Hands](https://open.spotify.com/track/4Fetk6GvNL2fYVo0UQbLcN) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 8:32 | 2021-10-20 | 2022-04-25 |
 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 | 2021-10-20 |  |
 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 | 2021-10-20 |  |
 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 | 2021-10-20 |  |
 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 | 2021-10-20 |  |
-| [Witch Doktor \- Eddie Thoneick Remix](https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt) | [Armand Van Helden EP](https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO) | 7:25 | 2021-10-20 |  |
+| [Witch Doktor \- Eddie Thoneick Remix](https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt) | [Armand Van Helden EP](https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO) | 7:25 | 2021-10-20 | 2022-04-25 |
 | [You Used to Hold Me](https://open.spotify.com/track/3hVnJ8rRSVa1tfgaYswfYn) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Ralphi Rosario's Greatest Hits](https://open.spotify.com/album/1X1NgiMTByMIIZkjvoAtXh) | 4:59 | 2021-10-20 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

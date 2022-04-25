@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 210302,
       "name": "Dime t\u00fa",
       "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
@@ -1635,7 +1635,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "D\u00f3nde Est\u00e1s (with Piso 21) - Remix",
       "url": "https://open.spotify.com/track/7z0cli6eF13Ew8ARrDgGHJ"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 186255,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
@@ -1827,7 +1827,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 185718,
       "name": "Enchule",
       "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
@@ -2065,7 +2065,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 200593,
       "name": "Fantasias - Unplugged",
       "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 237627,
       "name": "Fragancia (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP"
@@ -2505,7 +2505,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 221103,
       "name": "Infeliz",
       "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
@@ -2629,6 +2629,24 @@
       "duration_ms": 158533,
       "name": "La Dif\u00edcil",
       "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
+    },
+    {
+      "album": {
+        "name": "La Duda",
+        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
+      },
+      "artists": [
+        {
+          "name": "Matt Paris",
+          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "La Duda",
+      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
     },
     {
       "album": {
@@ -2833,7 +2851,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 202733,
       "name": "Los Besos",
       "url": "https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG"
@@ -2961,7 +2979,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 198591,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/1bmm8qIp60aMkozpkPnxNM"
@@ -3161,7 +3179,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/0lbhKycRyqkOMKZ6thzfU4"
@@ -3789,7 +3807,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 202373,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
@@ -3929,7 +3947,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 194446,
       "name": "Presente Y Futuro",
       "url": "https://open.spotify.com/track/4GpnuoBxRqKZUjZ5FdwPG2"
@@ -4009,7 +4027,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 184254,
       "name": "Relaci\u00f3n",
       "url": "https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL"
@@ -4049,7 +4067,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 150853,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
@@ -4225,7 +4243,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 169360,
       "name": "Si Te Atreves",
       "url": "https://open.spotify.com/track/7iBb6zKia1sx84BM9LUoxx"
@@ -4375,7 +4393,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 218391,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp"

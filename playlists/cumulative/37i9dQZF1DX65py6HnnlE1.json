@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 325506,
       "name": "Amiga Veneno",
       "url": "https://open.spotify.com/track/7n8cKJDktV6TeKZTcR5k8y"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 237373,
       "name": "Antolog\u00eda De Caricias",
       "url": "https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 302960,
       "name": "Ay hombre",
       "url": "https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 191106,
       "name": "Bachata En Fukuoka",
       "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 307933,
       "name": "Ciego De Amor - Featuring Anthony Santos",
       "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
@@ -225,6 +225,24 @@
       "duration_ms": 235560,
       "name": "Cuando El Amor Se Va",
       "url": "https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H"
+    },
+    {
+      "album": {
+        "name": "El Amor Da Vida",
+        "url": "https://open.spotify.com/album/7cvNPA3yL0ctTcT5EiaxoA"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Dame Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1zBURawO89mr4lMAgNaZTC"
     },
     {
       "album": {
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 293537,
       "name": "El Hombre de Tu Vida",
       "url": "https://open.spotify.com/track/561XJqsY39pBtn7clW30PM"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 255280,
       "name": "Hasta El Fin",
       "url": "https://open.spotify.com/track/4p1Bggx2fygzjjepd0Eit0"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 245253,
       "name": "Intentalo Tu",
       "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 473133,
       "name": "Loco De Amor",
       "url": "https://open.spotify.com/track/2WAoShegYKo11YJYcGEo2Y"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 295760,
       "name": "Nereyda",
       "url": "https://open.spotify.com/track/4GqF1OeM18jaUiCs56JR5s"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Odio (feat. Drake)",
       "url": "https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 174573,
       "name": "Shorty, Shorty",
       "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 205266,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH"

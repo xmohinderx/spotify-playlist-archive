@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Blxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,191 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,458 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 7 | [Countless Times](https://open.spotify.com/track/5sZGJQjdAAGiqF8AtAMv4f) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Countless Times](https://open.spotify.com/album/7KEabKxhNzFn56xzP3wqva) | 2:45 |
 | 8 | [Get High, Get By](https://open.spotify.com/track/1VjBUsTjfdSipjpihEPOhg) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Get High, Get By](https://open.spotify.com/album/54pyZZdBYpNGdHprxAqTOD) | 4:33 |
 | 9 | [Leave You Alone](https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Leave You Alone](https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY) | 3:29 |
-| 10 | [Vices](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Vices](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 |
+| 10 | [VICES](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [VICES](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 |
 | 11 | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/track/5uuZhQMRejxWHF0CCkDLsi) | [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Bonjour \(feat\. Summer Walker\)](https://open.spotify.com/album/5LBj5DyCxppA5x34N4KMIi) | 3:45 |
 | 12 | [M.I.A.](https://open.spotify.com/track/2rFQ1Bgm8w6nqKVANQVhMz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [M.I.A.](https://open.spotify.com/album/5EMVxC5yzZD8o3JnGWaDNx) | 3:27 |
 | 13 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 |

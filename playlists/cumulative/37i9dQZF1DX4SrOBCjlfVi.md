@@ -4,7 +4,7 @@
 
 > New joints of the week featuring Pusha T, Megan Thee Stallion, NLE Choppa and more\. Cover: Blxst
 
-633 songs - 1 day 5 hr 48 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+634 songs - 1 day 5 hr 52 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Cold December](https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Cold December](https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K) | 3:12 | 2022-01-21 | 2022-02-05 |
 | [Cold Gangsta](https://open.spotify.com/track/2bxvKs7Q0zqFqajnRcgxbv) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 3:31 | 2022-02-04 | 2022-02-12 |
 | [Cold Shoulder](https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Cold Shoulder](https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub) | 3:12 | 2022-01-28 | 2022-02-05 |
+| [Come Alive \(feat\. TheHxliday\)](https://open.spotify.com/track/5RTaUNwupHck8efMFfRMXR) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:48 | 2022-04-24 |  |
 | [Come My Way \(feat\. Krayzie Bone\)](https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [Come My Way \(feat\. Krayzie Bone\)](https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa) | 3:10 | 2022-01-14 | 2022-01-22 |
 | [Coming Back](https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [Nefertitti Avani](https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn) | [BODR](https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE) | 3:31 | 2022-02-11 | 2022-02-26 |
 | [Company](https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Company](https://open.spotify.com/album/1t0NQ9kXjNVFmWRwV1iDcg) | 2:35 | 2022-01-28 | 2022-02-05 |

@@ -83,7 +83,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 253972,
       "name": "47",
       "url": "https://open.spotify.com/track/7KhBQ6XFeAGrQzyT28MWvP"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 155060,
       "name": "BENDICIONES",
       "url": "https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 229455,
       "name": "Caro",
       "url": "https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 191999,
       "name": "Chambea",
       "url": "https://open.spotify.com/track/6ElmxV9B2mSNscEjP27M7i"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 222376,
       "name": "Condenado Para El Mill\u00f3n",
       "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 194700,
       "name": "Gan-Ga",
       "url": "https://open.spotify.com/track/2J3jxgfp6GWoBsMPIa20oC"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 192857,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/0DPMRos0ta6umyGX76gJwv"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 342066,
       "name": "La Groupie",
       "url": "https://open.spotify.com/track/254VGWS3FCXAlw572PMYAP"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "Moon Talk",
       "url": "https://open.spotify.com/track/6pgUgIgbzovuuUYqpfnVNz"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 173333,
       "name": "Problema",
       "url": "https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 179304,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 243560,
       "name": "Si Tu Novio Te Deja Sola",
       "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
@@ -1399,10 +1399,32 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 274920,
       "name": "Sigo Fresh - Remix",
       "url": "https://open.spotify.com/track/0OMftKSWh56NBTbatl2ZIv"
+    },
+    {
+      "album": {
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169448,
+      "name": "Singapur (feat. Yung Beef)",
+      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
     },
     {
       "album": {
@@ -1579,7 +1601,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 165500,
       "name": "Tata",
       "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 264905,
       "name": "Triste",
       "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
@@ -1731,7 +1753,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 170765,
       "name": "Tu No Metes Cabra",
       "url": "https://open.spotify.com/track/10nQ3Pj0o1XotcikgJPVKD"
@@ -1761,7 +1783,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Tu No Metes Cabra - Remix",
       "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
@@ -1835,7 +1857,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 154991,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"

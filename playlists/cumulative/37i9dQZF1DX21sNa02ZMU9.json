@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "Act Yr Age",
       "url": "https://open.spotify.com/track/0pBVEfjoWDErPWlboJbRdR"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 203213,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 227746,
       "name": "Been Waiting",
       "url": "https://open.spotify.com/track/0bVErWwMwsPgf3PufQA80g"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 212106,
       "name": "Down",
       "url": "https://open.spotify.com/track/7LP4Es66zdY7CyjepqmvAg"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 202613,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
@@ -651,6 +651,24 @@
       "duration_ms": 208626,
       "name": "Escape",
       "url": "https://open.spotify.com/track/10IJIegM5XnMlN7zrfn3tL"
+    },
+    {
+      "album": {
+        "name": "Evacuate The Dancefloor",
+        "url": "https://open.spotify.com/album/2VdVCzqQ6MyOSLEZh75iMn"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "Evacuate The Dancefloor",
+      "url": "https://open.spotify.com/track/0jDWRUbxSn8zQlwFbeLHwo"
     },
     {
       "album": {
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1mr3616BzLdhXfJmLmRsO8"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/1ulXmqjktxSdrdT1bzc69H"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 238400,
       "name": "Just The Thing",
       "url": "https://open.spotify.com/track/7Ea3bRL50VWPRqiolGTNSv"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 234826,
       "name": "Life Is A Rollercoaster",
       "url": "https://open.spotify.com/track/1vlTMKVV0FxG6CxGTmSY3t"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 213986,
       "name": "Shine",
       "url": "https://open.spotify.com/track/672uPLDAVUmeCOh0UD128y"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 212280,
       "name": "Shut Up And Drive",
       "url": "https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 229333,
       "name": "Sunsets",
       "url": "https://open.spotify.com/track/5txqlF1lxNhkWy1xYOwr8r"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 271906,
       "name": "Take Your Mama",
       "url": "https://open.spotify.com/track/75lZOZjQaA66br3Vu1iYCw"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1SLxVWqXo9zNrrDKRa3m1G"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=D7iB6dHfQwa8MLdAJWNESQ" > Elaine </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,018 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,168 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 69 | [Close To Me](https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:00 |
 | 70 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:29 |
 
-Snapshot ID: `MTY1MDc2MTU5MywwMDAwMDAwMDgxOTIxZWZiYTlhOGI1YzYwMDIzYmFlY2Q5MzA4MjIx`
+Snapshot ID: `MTY1MDg0ODAzMSwwMDAwMDAwMDgxOTIxZWZiYTlhOGI1YzYwMDIzYmFlY2Q5MzA4MjIx`

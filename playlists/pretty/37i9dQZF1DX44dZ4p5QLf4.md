@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,303 likes - 104 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,365 likes - 104 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

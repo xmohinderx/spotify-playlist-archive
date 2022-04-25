@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 193389,
       "name": "1400 Millas",
       "url": "https://open.spotify.com/track/6T4VHnkprvHRJD25SjpWEq"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 65960,
       "name": "Abcdefg",
       "url": "https://open.spotify.com/track/1V32pCGXZMgcmXd5MUMDL1"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 203642,
       "name": "Apart",
       "url": "https://open.spotify.com/track/54ddFMbGCrLfS7nJOE0xbO"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 160484,
       "name": "Call Me - Slowed",
       "url": "https://open.spotify.com/track/5t1i75ExuS97cGtrbXoQnQ"
@@ -1543,6 +1543,24 @@
       "duration_ms": 182863,
       "name": "Envolver Remix",
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
+    },
+    {
+      "album": {
+        "name": "Es Que Yo Te Quiero A Ti",
+        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323625,
+      "name": "Es Que Yo Te Quiero A Ti",
+      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
     },
     {
       "album": {
@@ -4069,6 +4087,24 @@
       "duration_ms": 217797,
       "name": "Te Marqu\u00e9 Pedo - Remix",
       "url": "https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191823,
+      "name": "Tek It",
+      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
     },
     {
       "album": {

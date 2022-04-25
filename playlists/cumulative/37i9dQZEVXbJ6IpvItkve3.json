@@ -120,24 +120,6 @@
     },
     {
       "album": {
-        "name": "Hagiga Marokait",
-        "url": "https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD"
-      },
-      "artists": [
-        {
-          "name": "Lehakat Sfataim",
-          "url": "https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R"
-        }
-      ],
-      "date_added": "2021-04-05",
-      "date_added_asterisk": false,
-      "date_removed": "2021-04-06",
-      "duration_ms": 348447,
-      "name": "Ahalan VeSahalan",
-      "url": "https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b"
-    },
-    {
-      "album": {
         "name": "Some Days",
         "url": "https://open.spotify.com/album/34d6ShNbcuMzFbLLz9RcB7"
       },
@@ -2843,7 +2825,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -3017,7 +2999,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
@@ -3161,7 +3143,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -3271,6 +3253,24 @@
       "duration_ms": 260200,
       "name": "\u05d0\u05d1\u05d5\u05ea \u05d5\u05d1\u05e0\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO"
+    },
+    {
+      "album": {
+        "name": "\u05d7\u05d2\u05d9\u05d2\u05d4 \u05de\u05e8\u05d5\u05e7\u05d0\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD"
+      },
+      "artists": [
+        {
+          "name": "Lehakat Sfataim",
+          "url": "https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R"
+        }
+      ],
+      "date_added": "2021-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348447,
+      "name": "\u05d0\u05d4\u05dc\u05df \u05d5\u05e1\u05d4\u05dc\u05df",
+      "url": "https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b"
     },
     {
       "album": {
@@ -4436,6 +4436,24 @@
     },
     {
       "album": {
+        "name": "\u05d7\u05d2\u05d9\u05d2\u05d4 \u05de\u05e8\u05d5\u05e7\u05d0\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD"
+      },
+      "artists": [
+        {
+          "name": "Lehakat Sfataim",
+          "url": "https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231105,
+      "name": "\u05d7\u05d3\u05d5\u05d6'\u05d4",
+      "url": "https://open.spotify.com/track/3eq8LeiHeLe1nTtQobQpTo"
+    },
+    {
+      "album": {
         "name": "\u05d7\u05d5\u05e5 \u05de\u05de\u05da",
         "url": "https://open.spotify.com/album/74SFMWyTlkp0Oxd4AQJ0xP"
       },
@@ -5084,6 +5102,42 @@
     },
     {
       "album": {
+        "name": "\u05e4\u05d5\u05ea\u05d7\u05d9\u05dd \u05e9\u05d5\u05dc\u05d7\u05df",
+        "url": "https://open.spotify.com/album/0g0815wlKPgAMD2tdXwZ8h"
+      },
+      "artists": [
+        {
+          "name": "Lehakat Sfataim",
+          "url": "https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234710,
+      "name": "\u05dc\u05dc\u05d4 \u05d9\u05d8\u05de\u05dc\u05dc\u05d9 \u05d7\u05d1\u05d9\u05d1\u05d9 \u05d3\u05d9\u05d0\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/5ysowMwW2N5oOtFvFl0z7T"
+    },
+    {
+      "album": {
+        "name": "\u05d7\u05d2\u05d9\u05d2\u05d4 \u05de\u05e8\u05d5\u05e7\u05d0\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD"
+      },
+      "artists": [
+        {
+          "name": "Lehakat Sfataim",
+          "url": "https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383843,
+      "name": "\u05dc\u05dc\u05d4 \u05e4\u05d8\u05d9\u05de\u05d4",
+      "url": "https://open.spotify.com/track/4q90kBzpTkuWDqUjVkb4ny"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05d8\u05d7 \u05d0\u05e4\u05d5\u05e8",
         "url": "https://open.spotify.com/album/6wqHpH5HDBbGleU9BnjFS9"
       },
@@ -5385,6 +5439,24 @@
       "duration_ms": 204982,
       "name": "\u05de\u05d7\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/1XuxoHDc7mFeyhaDcgjYST"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d0\u05dc\u05d1\u05d5\u05dd \u05d4\u05db\u05e4\u05d5\u05dc",
+        "url": "https://open.spotify.com/album/2YmSYV06U6ucPWCkpysEeR"
+      },
+      "artists": [
+        {
+          "name": "Lehakat Sfataim",
+          "url": "https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445000,
+      "name": "\u05de\u05d7\u05e8\u05d5\u05d6\u05ea \u05e9\u05d9\u05e8\u05d9 \u05d7\u05d9\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/1FY2cAziLE3VYAcUL3v46r"
     },
     {
       "album": {
@@ -6379,7 +6451,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 238089,
       "name": "\u05e9\u05de\u05e9",
       "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"
@@ -6415,7 +6487,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"

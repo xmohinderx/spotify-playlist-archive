@@ -4,17 +4,18 @@
 
 > All 70s, all ballads\. Cover: Barry Manilow
 
-51 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/2LPu7i88GAkMRqtjMyDmDJ)
+52 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2LPu7i88GAkMRqtjMyDmDJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 | 2021-02-10 |  |
 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 | 2021-02-10 |  |
 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 | 2021-02-10 |  |
+| [All Things Must Pass \- 2020 Mix](https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2020 Mix\)](https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8) | 3:46 | 2021-02-10 |  |
 | [And I Love You So](https://open.spotify.com/track/7tPKLyVCht1WMkPtp1HyPh) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Very Best Of Don McLean](https://open.spotify.com/album/420xo0cugEiChNYB6uanu9) | 4:16 | 2021-02-10 |  |
 | [Angie](https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 4:32 | 2021-02-10 |  |
 | [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 | 2021-02-10 |  |
-| [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 | 2021-02-10 |  |
+| [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 | 2021-02-10 | 2022-04-25 |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 | 2021-02-10 |  |
 | [Can We Still Be Friends? \- 2015 Remaster](https://open.spotify.com/track/5MRIlJbi80rdC8mHUh5bpk) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Hermit of Mink Hollow](https://open.spotify.com/album/0X73YCfQ3IeOq7AnrePPzG) | 3:37 | 2021-02-10 |  |
 | [Candle In The Wind \- Remastered 2014](https://open.spotify.com/track/5khtjkzX0pzH1cjDgM6K6H) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)](https://open.spotify.com/album/6g9uPPHtnxQLSUd6d9xK8n) | 3:48 | 2021-02-10 |  |
@@ -39,10 +40,10 @@
 | [My Eyes Adored You](https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Closeup](https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX) | 3:32 | 2021-02-10 |  |
 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 | 2021-02-10 |  |
 | [Nobody Does It Better](https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [The Spy Who Loved Me](https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ) | 3:32 | 2021-02-10 |  |
-| [Pieces of My Life](https://open.spotify.com/track/0RwaHSvTcRSAwoiFXPtErz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Today \(Legacy Edition\)](https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x) | 4:04 | 2021-02-10 | 2022-04-22 |
+| [Pieces of My Life](https://open.spotify.com/track/0RwaHSvTcRSAwoiFXPtErz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Today \(Legacy Edition\)](https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x) | 4:04 | 2021-02-10 |  |
 | [Run To Me](https://open.spotify.com/track/5cDZAaBAZk6PcPwyME40is) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Mythology](https://open.spotify.com/album/1ePV6K6qtvsn7kUPMwqaWJ) | 3:11 | 2021-02-10 |  |
 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 | 2021-02-10 |  |
-| [Sentimental Lady](https://open.spotify.com/track/4U4vEbJx5ObAdqyyX0rvJE) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [Love To Love](https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9) | 2:58 | 2021-02-10 |  |
+| [Sentimental Lady](https://open.spotify.com/track/4U4vEbJx5ObAdqyyX0rvJE) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [Love To Love](https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9) | 2:58 | 2021-02-10 | 2022-04-25 |
 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 | 2021-02-10 |  |
 | [Ships](https://open.spotify.com/track/6lOF261K1uiPZgKtureE90) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [One Voice](https://open.spotify.com/album/3pH8bFVX35RFzHMNvfOdms) | 4:08 | 2021-02-10 |  |
 | [Sunshine on My Shoulders](https://open.spotify.com/track/6uwFa9tBkVKQvQXITjVMe3) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/2pC8cBI8mVDZKXfR8XoBKo) | 5:09 | 2021-02-10 |  |

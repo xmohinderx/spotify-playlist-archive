@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
+      },
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq"
+    },
+    {
+      "album": {
         "name": "LUAN CITY AVENIDA AMARILDO SANTANA (Ao Vivo)",
         "url": "https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF"
       },
@@ -705,6 +723,24 @@
       "duration_ms": 157235,
       "name": "Bask Freestyle 2 Speed",
       "url": "https://open.spotify.com/track/22peDY0PHE4LTqbnTWsPHj"
+    },
+    {
+      "album": {
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+      },
+      "artists": [
+        {
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Because I Got High",
+      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
     },
     {
       "album": {
@@ -1867,6 +1903,28 @@
       "duration_ms": 173538,
       "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
       "url": "https://open.spotify.com/track/0EMAzKGOFxJgG9vHsm7ciF"
+    },
+    {
+      "album": {
+        "name": "Sambas De Enredo 2022",
+        "url": "https://open.spotify.com/album/6QefvDoUALzHtEkq92RPQw"
+      },
+      "artists": [
+        {
+          "name": "Evandro Malandro",
+          "url": "https://open.spotify.com/artist/0WyPGG1TqaUbw0HQaUYvRW"
+        },
+        {
+          "name": "Acad\u00eamicos Do Grande Rio",
+          "url": "https://open.spotify.com/artist/4lKJgJgxxqOB1OObclhQWA"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318015,
+      "name": "Fala, Majet\u00e9! Sete Chaves De Exu",
+      "url": "https://open.spotify.com/track/7hP3g8paNEdxyPPYiBRKRC"
     },
     {
       "album": {
@@ -3202,6 +3260,44 @@
     },
     {
       "album": {
+        "name": "Mega da Virada",
+        "url": "https://open.spotify.com/album/3bRxdyN5bxo3hP5INmyZlo"
+      },
+      "artists": [
+        {
+          "name": "Os Gemeos da Putaria",
+          "url": "https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs"
+        },
+        {
+          "name": "DJ HV",
+          "url": "https://open.spotify.com/artist/3rDdysBwBo1hLu64P4csGJ"
+        },
+        {
+          "name": "Mc Laureta",
+          "url": "https://open.spotify.com/artist/38Yog5iHQZZ7BCeR7uvudl"
+        },
+        {
+          "name": "Lucas BHZ",
+          "url": "https://open.spotify.com/artist/2a3xFskoNnSmNYrDzIeUKN"
+        },
+        {
+          "name": "Ruanzinho",
+          "url": "https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61"
+        },
+        {
+          "name": "Mc Lina",
+          "url": "https://open.spotify.com/artist/6V9TYyxua6RS2GXbt4E55Q"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "Mega da Virada",
+      "url": "https://open.spotify.com/track/3gsmE364yFxVJcynvHu0J8"
+    },
+    {
+      "album": {
         "name": "Mega da virada",
         "url": "https://open.spotify.com/album/5JjaTexWCTK6uDKYCTAFnT"
       },
@@ -3229,7 +3325,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 141692,
       "name": "Mega da virada",
       "url": "https://open.spotify.com/track/4z5NNdeUyvkAHMGpWN921X"
@@ -3845,7 +3941,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
@@ -5263,7 +5359,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 181960,
       "name": "The Other Woman",
       "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
@@ -5933,7 +6029,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"

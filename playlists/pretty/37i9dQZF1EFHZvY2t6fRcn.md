@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 81 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 262 likes - 81 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 12 | [Look What You're Doing To Me](https://open.spotify.com/track/0tEIWklg5pvkQGvxboLegR) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:00 |
 | 13 | [Messiah](https://open.spotify.com/track/5yRDS8rO2nWrNxcVcsCPl4) | [M\-Phazes](https://open.spotify.com/artist/4B1CeNsCcLfOvRBJ34UUSX), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Messiah](https://open.spotify.com/album/3oDCT5J0RlH4eGNFX51szn) | 3:43 |
 | 14 | [Ooh Laa](https://open.spotify.com/track/0ulSIUvy5rSdkTEgUbJzm2) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:59 |
-| 15 | [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/0kJhWsLsNECbtcPhFnWx8J) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Remixes\)](https://open.spotify.com/album/6exRK88Bmb2ocwHW8hT07l) | 3:28 |
+| 15 | [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/2emtg7AbAMwQSD7MF8uQSg) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Radio Edit\)](https://open.spotify.com/album/0DmsYE70jM3A7RbwNiTAlp) | 3:28 |
 | 16 | [Bones](https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw) | [Equinox](https://open.spotify.com/artist/6Q7UV9Oa87GypGTKiuOh6f) | [Bones](https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk) | 2:59 |
 | 17 | [Stroke](https://open.spotify.com/track/01a0H5HPeCMOktdRMygi3t) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:26 |
 | 18 | [Godless](https://open.spotify.com/track/1eTL8yocTmire9gpOn2H2g) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:10 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 59 | [Stay In Bed](https://open.spotify.com/track/6tmA6I8aay97Aj0F0mRA2f) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:35 |
 | 60 | [我愛](https://open.spotify.com/track/0pm2Rm1YKgBQecvDw6c2Mm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [1212](https://open.spotify.com/album/0VL0WIykCkgOboLrdL8iM8) | 3:46 |
 | 61 | [Butterflies](https://open.spotify.com/track/0Ns9MYv0gL70HRkyiBSNgZ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:00 |
-| 62 | [Old You](https://open.spotify.com/track/7fsRcbZrbqOJ3yZTYHpJLy) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Another\. Not Me\. I'm Done.](https://open.spotify.com/album/3ogWyHgX9kpiL03Vpdp0k7) | 3:11 |
-| 63 | [Devil I Know](https://open.spotify.com/track/1WcNBLTw8rPnD5oRb5qEau) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Devil I Know](https://open.spotify.com/album/2KuRXu22f6A0orhnAPPuqD) | 3:32 |
+| 62 | [Devil I Know](https://open.spotify.com/track/1WcNBLTw8rPnD5oRb5qEau) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Devil I Know](https://open.spotify.com/album/2KuRXu22f6A0orhnAPPuqD) | 3:32 |
+| 63 | [Old You](https://open.spotify.com/track/7fsRcbZrbqOJ3yZTYHpJLy) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Another\. Not Me\. I'm Done.](https://open.spotify.com/album/3ogWyHgX9kpiL03Vpdp0k7) | 3:11 |
 | 64 | [Still Love You](https://open.spotify.com/track/4HhYCUVN6YEXY9Wi7VRwut) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:39 |
 | 65 | [Small Talk](https://open.spotify.com/track/1yZ4DgpOllcy8ylgOLGKMy) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:15 |
 | 66 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 80 | [Cliche](https://open.spotify.com/track/45j8Wn3B8a0XNPXT5MURGQ) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Cliche](https://open.spotify.com/album/5xONmKddxJymbH5cqMhw1r) | 3:15 |
 | 81 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 
-Snapshot ID: `Mjc1MTI2NzQsMDAwMDAwMDBmYmQ4NWIwMmViNTQ4OTkwOTM2OTRiY2IyNWRjM2ZjNA==`
+Snapshot ID: `Mjc1MTQxMTUsMDAwMDAwMDA2ZDNhMDFjMDJjZWY5NzM3ZGZlMTczODc5MTYwZmM2Mg==`

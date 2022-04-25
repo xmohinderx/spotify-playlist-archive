@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,179 likes - 316 songs - 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,383 likes - 316 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 152320,
       "name": "2 O' CLOCK",
       "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/6P2x7vn7m1Ywp3dYKRM45Q"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC"
@@ -467,6 +467,28 @@
       "duration_ms": 190453,
       "name": "Day alone \ud63c\uc790\uac00 \ud3b8\ud574",
       "url": "https://open.spotify.com/track/7m36n39z9ADfvrUUPJXot8"
+    },
+    {
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194111,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5"
     },
     {
       "album": {
@@ -663,7 +685,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
@@ -841,7 +863,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 189066,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
@@ -993,7 +1015,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 187665,
       "name": "Knight",
       "url": "https://open.spotify.com/track/3pA9XDBXDbcuXXn8CfqZcx"
@@ -1103,7 +1125,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 157607,
       "name": "Like a Joke",
       "url": "https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe"
@@ -1182,6 +1204,32 @@
     },
     {
       "album": {
+        "name": "Maybe We Could Be a Thing",
+        "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        },
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176241,
+      "name": "Maybe We Could Be a Thing",
+      "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "album": {
         "name": "MORE AND MORE",
         "url": "https://open.spotify.com/album/4dqntPx7zhBje3eJw3TCy0"
       },
@@ -1251,7 +1299,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 194143,
       "name": "My Violet and My Blue",
       "url": "https://open.spotify.com/track/1WoNUbJc0wZ7NKcwzI5lgg"
@@ -1287,7 +1335,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 191333,
       "name": "NO THING",
       "url": "https://open.spotify.com/track/17krGK7sT3GvG3m6DFbq8N"
@@ -1649,7 +1697,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 216252,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1HOJ7ZN0t1zeqdWLMK0ptr"
@@ -1751,7 +1799,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 232544,
       "name": "study abroad",
       "url": "https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L"
@@ -1849,7 +1897,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
@@ -1867,7 +1915,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
@@ -1937,6 +1985,32 @@
       "duration_ms": 243157,
       "name": "time to be with you",
       "url": "https://open.spotify.com/track/7MdF5reoWTTno0XWAuUnZG"
+    },
+    {
+      "album": {
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        },
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168970,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm"
     },
     {
       "album": {
@@ -2162,6 +2236,24 @@
     },
     {
       "album": {
+        "name": "I AM SAM",
+        "url": "https://open.spotify.com/album/0etVkROh5WOl6OdYqRHPP9"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259095,
+      "name": "YOUR SONG (with Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
+      "url": "https://open.spotify.com/track/1paEGBBeqDYfb9AppAt7BO"
+    },
+    {
+      "album": {
         "name": "\ub108\ub294 \uc5b4\ub5a4\uc9c0",
         "url": "https://open.spotify.com/album/5NinVusj6f29Ewv5F5i9ad"
       },
@@ -2267,7 +2359,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 247173,
       "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
       "url": "https://open.spotify.com/track/48kGawOjwMzRqltSVL88es"

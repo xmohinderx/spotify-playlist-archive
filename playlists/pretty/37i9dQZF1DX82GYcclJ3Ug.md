@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,516 likes - 116 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,696 likes - 116 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

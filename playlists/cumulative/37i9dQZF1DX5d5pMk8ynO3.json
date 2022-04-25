@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "La Pachanga",
+      "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
+    },
+    {
+      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/4Cgnghmoca0hDGHmA8zO4A"
@@ -509,6 +527,24 @@
       "duration_ms": 233266,
       "name": "Lobo-hombre en Par\u00eds",
       "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
+    },
+    {
+      "album": {
+        "name": "P\u00f3ntelo en la Lengua",
+        "url": "https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239906,
+      "name": "Los Globos del Cielo",
+      "url": "https://open.spotify.com/track/0gnsuw6eGZEwph1rKnxzOu"
     },
     {
       "album": {
@@ -653,7 +689,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/5lBospeeFzg0ZeFhQP0oJs"
@@ -869,7 +905,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 294800,
       "name": "Sin aliento",
       "url": "https://open.spotify.com/track/5H8JFqWDX83ftWCYhOhO1E"
@@ -905,7 +941,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 247000,
       "name": "Te V\u00ed en un Tren",
       "url": "https://open.spotify.com/track/1RsoepHup9zTCiOPHlR0pQ"
@@ -977,7 +1013,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 236333,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"

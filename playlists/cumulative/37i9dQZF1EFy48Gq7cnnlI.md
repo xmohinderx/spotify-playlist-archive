@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-87 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/56E8uR9CIIVPU86UKCeckZ)
+88 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/56E8uR9CIIVPU86UKCeckZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH) | 3:11 | 2021-12-27 |  |
 | [Tonight](https://open.spotify.com/track/4nfmi9e5kP9iXHGPjOVUks) | [Chasing Grace](https://open.spotify.com/artist/5M6D2PqxdnZMVMCb1jNOTp) | [Nowhere Near Old Enough](https://open.spotify.com/album/4GLDRHD1QWArvXJum0sOw5) | 3:49 | 2021-12-27 |  |
 | [TOO GOOD](https://open.spotify.com/track/7FDyoxixibPa7SJIjg7NIp) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:44 | 2021-12-27 |  |
-| [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 | 2022-02-04 |  |
+| [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 | 2022-02-04 | 2022-04-25 |
+| [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 | 2022-04-24 |  |
 | [We Don't Have Fun When We're Together Anymore](https://open.spotify.com/track/2cpUOU7bo8tVMom7cjzAgn) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:17 | 2021-12-27 |  |
 | [What's It Like Now](https://open.spotify.com/track/6Bol46HfUJvvznWH5fviBh) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:30 | 2021-12-27 |  |
 | [When You Were Mine](https://open.spotify.com/track/1n4hjOvZNngnD48CASmEvJ) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:28 | 2021-12-27 |  |

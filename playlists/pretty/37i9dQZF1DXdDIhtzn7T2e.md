@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,238 likes - 64 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,358 likes - 64 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

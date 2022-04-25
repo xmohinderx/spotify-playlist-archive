@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,206 likes - 118 songs - 7 hr 26 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,215 likes - 119 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,9 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 113 | [Shimmer](https://open.spotify.com/track/6P68h4DlSkSoiK8AXpuQRd) | [Hersey](https://open.spotify.com/artist/1rlwpkFQNWFw1c8cRvyY8E) | [Neon Masquerade](https://open.spotify.com/album/4YoACkGeStXjDfyi5N4n5J) | 3:33 |
 | 114 | [Feet First](https://open.spotify.com/track/55HoXe0AYxlZUx1xCVI74T) | [Stevie Cornell](https://open.spotify.com/artist/5hQZtP9bauCgRV2APn1goP) | [Stevie Cornell](https://open.spotify.com/album/3btTL1oBU80wYM8jrLKGsq) | 4:03 |
 | 115 | [First in Line](https://open.spotify.com/track/3iG6x2yVIUc7Qzn825U7xW) | [Partial Sum](https://open.spotify.com/artist/1CTt2Zy8O0dyxviUr2wJ4w) | [First in Line](https://open.spotify.com/album/21ActYFVm8KqcLvZDFbNMd) | 2:47 |
-| 116 | [toxik](https://open.spotify.com/track/5PTh5VSl8ULr1Erav69hzt) | [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [toxik](https://open.spotify.com/album/0nhpwiNSFQHisA4XOEcK4r) | 2:42 |
-| 117 | [Replace Me](https://open.spotify.com/track/0txHLZBfuAtUN8ja8gZaFs) | [John Noble Barrack](https://open.spotify.com/artist/6lrpKE857HFC8ohwObzINB) | [Replace Me](https://open.spotify.com/album/15d1SCP6Pys7m0uzHeUo9V) | 2:46 |
-| 118 | [You Know It's Right](https://open.spotify.com/track/3nIYAdueLM2QCaftvDfDYw) | [Steve Yanek](https://open.spotify.com/artist/0zoMMFw2wdVKjJxVDoui5e) | [You Know It's Right](https://open.spotify.com/album/6WpW2lCm2RMUuFT2DRHFOl) | 3:48 |
+| 116 | [Genki Dane](https://open.spotify.com/track/2yYiGo3m1umxAHh0GiIMes) | [Kind & Kinky Zoo](https://open.spotify.com/artist/39tzsB2W9Tm6yV2PfjvtnD) | [Swamp!](https://open.spotify.com/album/3rd26UKgqlezQQTew7chYT) | 4:25 |
+| 117 | [toxik](https://open.spotify.com/track/5PTh5VSl8ULr1Erav69hzt) | [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [toxik](https://open.spotify.com/album/0nhpwiNSFQHisA4XOEcK4r) | 2:42 |
+| 118 | [Replace Me](https://open.spotify.com/track/0txHLZBfuAtUN8ja8gZaFs) | [John Noble Barrack](https://open.spotify.com/artist/6lrpKE857HFC8ohwObzINB) | [Replace Me](https://open.spotify.com/album/15d1SCP6Pys7m0uzHeUo9V) | 2:46 |
+| 119 | [You Know It's Right](https://open.spotify.com/track/3nIYAdueLM2QCaftvDfDYw) | [Steve Yanek](https://open.spotify.com/artist/0zoMMFw2wdVKjJxVDoui5e) | [You Know It's Right](https://open.spotify.com/album/6WpW2lCm2RMUuFT2DRHFOl) | 3:48 |
 
-Snapshot ID: `Mjc2OCwxODlkZGY5MzFlMTE0ODQxNDA2NTQ1MDIzOWZmMjE1MzVhYmFiYjc2`
+Snapshot ID: `Mjc3MCxiMWZmZDQ4YTk0Mzc1YzQ2YzRmMjgxYzYyODFiMmUxNTA0OTkyMDY3`

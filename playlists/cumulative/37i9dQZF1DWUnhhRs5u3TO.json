@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "The best metal songs of the 2010s. Cover: Five Finger Death Punch",
+  "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
   "name": "10s Metal Classics",
   "published_playlist_ids": [
     "1bgDijw9RuxPGobkylisrP"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 194868,
       "name": "Anti-Everything",
       "url": "https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 265440,
       "name": "Blow Your Trumpets Gabriel",
       "url": "https://open.spotify.com/track/2oFfAGg9VCnZT1MVSBqw5R"
@@ -782,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Tracing Back Roots",
+        "url": "https://open.spotify.com/album/6sXe63cz9GMPey89TyoHya"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248493,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4quQVCnbwQ5kraewiIWFjV"
+    },
+    {
+      "album": {
         "name": "I, the Mask",
         "url": "https://open.spotify.com/album/6506V4XWYGGts5vk1PnOs8"
       },
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 227864,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 295560,
       "name": "Preachers of Death",
       "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 229773,
       "name": "Scars",
       "url": "https://open.spotify.com/track/6WaYiQUPel70HUaCZj5eND"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 295560,
       "name": "Scream",
       "url": "https://open.spotify.com/track/3wLegN6Yl9BTiSGUcud1Qm"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 503800,
       "name": "Snakes for the Divine",
       "url": "https://open.spotify.com/track/2ICtsgS7hJMfmvzmt0KnHi"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 315986,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/2yTQLaObN0aYAVq133eS09"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 164986,
       "name": "Swerve City",
       "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 281626,
       "name": "The Doomed",
       "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 213052,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/4Vai27xbSu7N9K7RNxVmG8"

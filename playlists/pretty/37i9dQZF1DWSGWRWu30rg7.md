@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Avia Athalia, Fatya Biya\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,301 likes - 48 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,302 likes - 48 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

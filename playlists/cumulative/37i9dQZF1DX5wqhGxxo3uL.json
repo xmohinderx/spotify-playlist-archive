@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 177666,
       "name": "3 Nights",
       "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 228906,
       "name": "Ain't No Other Man",
       "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 187524,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Ciara",
+        "url": "https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
+    },
+    {
+      "album": {
         "name": "Boys Ain't Shit (feat. Tate McRae & Audrey Mika)",
         "url": "https://open.spotify.com/album/3TFb8Wpl3qV4Gh9H94XiRZ"
       },
@@ -337,7 +355,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 186409,
       "name": "Boys Ain't Shit (feat. Tate McRae & Audrey Mika)",
       "url": "https://open.spotify.com/track/7tMEUrMaMzE0YptCGfsXzt"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 190440,
       "name": "break up with your girlfriend, i'm bored",
       "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 204533,
       "name": "Come on over Baby (All I Want Is You) - Radio Version",
       "url": "https://open.spotify.com/track/65GZzBP1qyk4zH7c8RIJYD"
@@ -583,7 +601,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 230000,
       "name": "Crashing (feat. Bahari)",
       "url": "https://open.spotify.com/track/3C5piNghVn2W537rCH1eUj"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 238573,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/30VrBsh1STRBoIrhQOAwzK"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 189253,
       "name": "Everybody Wants You",
       "url": "https://open.spotify.com/track/3uGh0nrl1HLCwkFkz7xJ9T"
@@ -803,7 +821,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 204626,
       "name": "Extraordinary",
       "url": "https://open.spotify.com/track/5fIGsUTmNIfJLZhqCd4D5h"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 191666,
       "name": "Get the Party Started",
       "url": "https://open.spotify.com/track/4bk78jvK8Fe9YHqruOJW0v"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 251240,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/25ZttbpeUKDOm3aghD2oBJ"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 257560,
       "name": "Imma Be",
       "url": "https://open.spotify.com/track/16sbugRbf9xEKlekuQ7Whm"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 227013,
       "name": "Jump To The Rhythm",
       "url": "https://open.spotify.com/track/4QFbZ1cSkL718J6A8cMJdA"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 234146,
       "name": "Just the Girl",
       "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 230733,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 185786,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/7hpJ9tATWb2vztlq99hERP"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 196315,
       "name": "Oldest Teenager",
       "url": "https://open.spotify.com/track/0PNVMcb2Y6q4SHnKQLl4b5"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 203786,
       "name": "One, Two Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 160200,
       "name": "Our Lips Are Sealed",
       "url": "https://open.spotify.com/track/2VN7PyVo1S6w6ZIfw0bmGW"
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 319466,
       "name": "Partition",
       "url": "https://open.spotify.com/track/2vPTtiR7x7T6Lr17CE2FAE"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 186480,
       "name": "Past Life (with Selena Gomez)",
       "url": "https://open.spotify.com/track/4P6IttK2PRBjyr3fm0pP7t"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 217440,
       "name": "Rewrite The Stars",
       "url": "https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 236093,
       "name": "Run the World (Girls)",
       "url": "https://open.spotify.com/track/3oOWBUNbwHZkWF2WND4kK2"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Savage Remix (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/2Z71PZlOeF9YVze4hy1A1a"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 268026,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6WAhLCL1XchQzYjl15rnFp"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 231428,
       "name": "Space Girl",
       "url": "https://open.spotify.com/track/5tfZ1uYrArdbDqiZ7z1aCE"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 173666,
       "name": "Spice Up Your Life",
       "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 219226,
       "name": "Spinnin' Around",
       "url": "https://open.spotify.com/track/6pGMA1Rp61dPmC7OWcEBnn"
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 203000,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg"
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 162346,
       "name": "Tangled Up In Me",
       "url": "https://open.spotify.com/track/4Cxv2kXttElzn4wD3U7pho"
@@ -2527,7 +2545,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 205360,
       "name": "The Tide Is High - Radio Mix",
       "url": "https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 216466,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
@@ -2599,7 +2617,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 204733,
       "name": "Touch My Body",
       "url": "https://open.spotify.com/track/2H1l4JczUDbiWfQtQElB05"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
@@ -2635,7 +2653,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 168176,
       "name": "TWFNO",
       "url": "https://open.spotify.com/track/6p6C87dlcPoqZ8Wb3jiHhd"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 189384,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/5AHv9EwEWsUdddO47VGDSN"
@@ -2743,7 +2761,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 193270,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
@@ -2761,7 +2779,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
@@ -2837,7 +2855,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 231240,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
@@ -2855,7 +2873,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 215800,
       "name": "What a Girl Wants",
       "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 245680,
       "name": "When I Grow Up",
       "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-25",
       "duration_ms": 195440,
       "name": "Whip My Hair",
       "url": "https://open.spotify.com/track/4Dio1t8RHzLv1nfPJTSZyP"
@@ -2927,7 +2945,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 179533,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/1jypmXUJgxWKWJZdDsJiXQ"
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 224400,
       "name": "Womanizer",
       "url": "https://open.spotify.com/track/1CrxDKnx34D9zoAIvf7B9H"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 179652,
       "name": "WOW (feat. Sabrina Carpenter) - Remix",
       "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"

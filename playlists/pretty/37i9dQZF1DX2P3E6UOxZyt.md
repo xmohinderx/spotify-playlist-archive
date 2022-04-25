@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 翁靖堯yao
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,071 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,090 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 16 | [如果可以](https://open.spotify.com/track/6pNoP0b0YbSaqt86nz0gtE) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [如果可以](https://open.spotify.com/album/2eNUGYzaHLgaAFKi4KgpIA) | 3:32 |
 | 17 | [三天之內暈了你](https://open.spotify.com/track/2sTgpjvhk5NYKtGO6LWogR) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [三天之內暈了你](https://open.spotify.com/album/5DsNlpKAXLgQJUh2M8xcRP) | 3:08 |
 | 18 | [戰](https://open.spotify.com/track/0rV6J7qM31GxU9p4Mf7gBd) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [戰](https://open.spotify.com/album/2pwg7cIxiYOc2M5lBoCEAq) | 2:40 |
-| 19 | [來不及的告白](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [來不及的告白](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 |
+| 19 | [來不及的告白 \- 東森電視自製戲劇《額外旅程》片頭曲](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [來不及的告白 \(東森電視自製戲劇《額外旅程》片頭曲\)](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 |
 | 20 | [Face it](https://open.spotify.com/track/73g9BMuFvW58YBuHXAqSqf) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Face it](https://open.spotify.com/album/1eYJkeYUil7BCp162Llhbr) | 3:16 |
 | 21 | [繞了這麼大一圈](https://open.spotify.com/track/5MnxfShrte129lNqz3ZJLg) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [繞了這麼大一圈](https://open.spotify.com/album/4VUsmsitdCoirtTa5wHKKm) | 3:57 |
 | 22 | [Always](https://open.spotify.com/track/0j9jm06nXe2FNr5LLtiHG8) | [J.win](https://open.spotify.com/artist/6pcfBsij9bi4yKK1YMpYNH), [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Always](https://open.spotify.com/album/79HbRiQVUynY6wVnjDliCC) | 4:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [已經都壞掉了](https://open.spotify.com/track/63SsfMEls60dFyvkcFIkz9) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:37 |
 | 60 | [積極太陽 Feat\. 反骨男孩](https://open.spotify.com/track/77FbbfzQ315DZCGlAcIBXM) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [反骨男孩](https://open.spotify.com/artist/7aaZll9P7r7OuplQY2F5zk) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 3:19 |
 
-Snapshot ID: `MTY1MDc2MTg4MSwwMDAwMDAwMDQ1NWFmMzY3ZmFlN2I4YmY0NGFiMWJhYjI3ZmZlMTFi`
+Snapshot ID: `MTY1MDg0ODMxMywwMDAwMDAwMDQ1NWFmMzY3ZmFlN2I4YmY0NGFiMWJhYjI3ZmZlMTFi`
