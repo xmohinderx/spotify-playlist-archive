@@ -4,7 +4,7 @@
 
 > The best of UK Rap & Drill\.  Cover: JBee
 
-1,062 songs - 2 day 7 hr 11 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
+1,063 songs - 2 day 7 hr 14 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [G's Only \(feat\. Chip\)](https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [G's Only \(feat\. Chip\)](https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J) | 3:42 | 2021-11-26 | 2022-01-08 |
 | [Game Of Thrones](https://open.spotify.com/track/68g3KImGHqJxZQDnQJzx8T) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp) | [Game Of Thrones](https://open.spotify.com/album/5cLTMv0ljbepcTZ8U5hdkD) | 3:17 | 2020-12-18 | 2021-01-23 |
 | [Gangbiz](https://open.spotify.com/track/6vWPTYCSzyIVqgGMIui6bs) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:30 | 2021-03-14 | 2021-06-12 |
-| [Gangsteritus](https://open.spotify.com/track/2Gg9UhRTym4rztR9vU0Pvu) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Thanks For Waiting](https://open.spotify.com/album/2IHcdrRhnzXoH8ilmhWujM) | 3:42 | 2021-10-09 |  |
+| [Gangsteritus](https://open.spotify.com/track/2Gg9UhRTym4rztR9vU0Pvu) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Thanks For Waiting](https://open.spotify.com/album/2IHcdrRhnzXoH8ilmhWujM) | 3:42 | 2021-10-09 | 2022-04-26 |
+| [Gangsteritus Part 2 \(feat\. Nines & Tiggs Da Author\)](https://open.spotify.com/track/3Efqg1BYDiVvRa6MLeVogB) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Gangsteritus Part 2 \(feat\. Nines & Tiggs Da Author\)](https://open.spotify.com/album/5RTzogZIo2ezzBW0rvUjfd) | 3:01 | 2022-04-25 |  |
 | [Gauze](https://open.spotify.com/track/0aNxxKcKsG4wWvDtvdaVtm) | [Cillian](https://open.spotify.com/artist/3Aj4ZOoyFnCouXSUbA53Ur) | [Gauze](https://open.spotify.com/album/1UuWe2LFRtmNpVzk3KCPoy) | 2:28 | 2020-09-18 | 2020-10-10 |
 | [Genesis](https://open.spotify.com/track/6tNKakKBQ6MB6utOONqkvy) | [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb) | [Exit the Dance](https://open.spotify.com/album/2nwIQW1wK022oPWsGoVdHt) | 2:56 | 2021-10-16 | 2021-11-26 |
 | [Get In That Jeep \(feat\. Digga D\)](https://open.spotify.com/track/3OTycNo9K118xjh4lYO6Oq) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Scousematic 3](https://open.spotify.com/album/3fIrXGUMMeOxLHvtIRSQpH) | 3:14 | 2021-01-15 | 2021-02-27 |

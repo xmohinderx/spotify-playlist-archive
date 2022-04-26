@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Joshua Hedley
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,957 likes - 117 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,081 likes - 117 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

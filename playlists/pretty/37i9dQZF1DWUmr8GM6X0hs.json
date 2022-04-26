@@ -1,133 +1,13 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 47143,
+  "num_followers": 47186,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDg0ODA1MiwwMDAwMDAwMDNjYTI4ODNiMjFjYjMxNDc1YTlmOTdlNGM2ODI1NWQ0",
+  "snapshot_id": "MTY1MDkzNDY3NywwMDAwMDAwMDQwZDQ0YjY2ZmM0ZmEwMjEyNGNmZTRkYTQ2NWExZDIx",
   "tracks": [
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Aunque Me Cueste la Vida",
-      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Boleros para Enamorarse, Vol. 2",
-        "url": "https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ"
-      },
-      "artists": [
-        {
-          "name": "Consuelo Vel\u00e1zquez",
-          "url": "https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Si T\u00fa Me Quisieras",
-        "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Nia Vanie",
-          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
-        }
-      ],
-      "duration_ms": 261958,
-      "name": "Si T\u00fa Me Quisieras",
-      "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
-        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Con Tinta Roja",
-      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Boleros Cantineros",
-        "url": "https://open.spotify.com/album/5bPGJyg1OoOEVdjm30pMO8"
-      },
-      "artists": [
-        {
-          "name": "El Super Trio",
-          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "Se Rompi\u00f3 la Cadena",
-      "url": "https://open.spotify.com/track/6JCFs0N5bnHXH2RPg3Uvfp"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "La Historia De Jose Feliciano",
-        "url": "https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "T\u00fa Me Haces Falta",
-      "url": "https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK"
-    },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
@@ -143,38 +23,6 @@
       "duration_ms": 161200,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/6KdZx53HkoPOgQAvhLq56A"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/7kGxDuSRrr9IVAPAaPNCml"
-      },
-      "artists": [
-        {
-          "name": "Daniel Aranda",
-          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Solo Cenizas Quedaron",
-      "url": "https://open.spotify.com/track/7b8gLNftjkGQPrjVNtFxMZ"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
-      },
-      "artists": [
-        {
-          "name": "Tito Cortes",
-          "url": "https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa"
-        }
-      ],
-      "duration_ms": 168829,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -199,102 +47,70 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Fiesta Mexicana en las Voces de los Tres Ases",
-        "url": "https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC"
+        "name": "Si T\u00fa Me Quisieras",
+        "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
       "artists": [
         {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Aquellas Lindas Melodias, Vol. 9",
-        "url": "https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a \"La Negra\"",
-          "url": "https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio"
-        }
-      ],
-      "duration_ms": 165840,
-      "name": "Canta Canta",
-      "url": "https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "\u00danicamente Tu",
-      "url": "https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Me Dices Que Te Vas",
-      "url": "https://open.spotify.com/track/3OYTcBibQjitxy8hMeMTTn"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         },
         {
-          "name": "Gigliola Cinquetti",
-          "url": "https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh"
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Quizas Quizas Quizas",
-      "url": "https://open.spotify.com/track/2RB9jaGMu5IXhZeAAXrbNG"
+      "duration_ms": 261958,
+      "name": "Si T\u00fa Me Quisieras",
+      "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Boleros De Siempre",
-        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
+        "name": "Benny Mor\u00e9 M\u00e1gico",
+        "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
       },
       "artists": [
         {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 171432,
-      "name": "Mil Cosas",
-      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
+      "duration_ms": 178626,
+      "name": "Como Fu\u00e9",
+      "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
+        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Con Tinta Roja",
+      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Boleros Cantineros",
+        "url": "https://open.spotify.com/album/5bPGJyg1OoOEVdjm30pMO8"
+      },
+      "artists": [
+        {
+          "name": "El Super Trio",
+          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "Se Rompi\u00f3 la Cadena",
+      "url": "https://open.spotify.com/track/6JCFs0N5bnHXH2RPg3Uvfp"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -319,18 +135,54 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Doble Filo",
-        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 314773,
-      "name": "Privilegio",
-      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
+      "duration_ms": 178493,
+      "name": "Aunque Me Cueste la Vida",
+      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "\u00danicamente Tu",
+      "url": "https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "La Historia De Jose Feliciano",
+        "url": "https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "T\u00fa Me Haces Falta",
+      "url": "https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -351,82 +203,58 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
-        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
+        "name": "30 Mejores: Alci Acosta",
+        "url": "https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv"
       },
       "artists": [
         {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
         }
       ],
-      "duration_ms": 178918,
-      "name": "Me Enga\u00f1as Mujer",
-      "url": "https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR"
+      "duration_ms": 175066,
+      "name": "La Carcel de Sing Sing",
+      "url": "https://open.spotify.com/track/29Jg2oo2XRAM135DXG9fZp"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Benny Mor\u00e9 M\u00e1gico",
-        "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
+        "name": "Mis Mejores \u00c9xitos",
+        "url": "https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Charlie Figueroa",
+          "url": "https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS"
+        },
+        {
+          "name": "Sonora Malecon Club",
+          "url": "https://open.spotify.com/artist/0KumvinlqqxSHrL1gNjPza"
         }
       ],
-      "duration_ms": 178626,
-      "name": "Como Fu\u00e9",
-      "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
+      "duration_ms": 162699,
+      "name": "Busco Tu Recuerdo",
+      "url": "https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 174014,
-      "name": "Desvelo de Amor",
-      "url": "https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "M\u00e1s Recuerdos Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV"
-      },
-      "artists": [
-        {
-          "name": "Chivirico Davila",
-          "url": "https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "50 A\u00f1os, Vol. I",
-        "url": "https://open.spotify.com/album/4VrnbiBSa9sBm66iNobVBv"
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5"
       },
       "artists": [
         {
           "name": "Los Panchos",
           "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Gigliola Cinquetti",
+          "url": "https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh"
         }
       ],
-      "duration_ms": 170973,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4TEKGpctXNdZwWJ4VB7hby"
+      "duration_ms": 172533,
+      "name": "Quizas Quizas Quizas",
+      "url": "https://open.spotify.com/track/2RB9jaGMu5IXhZeAAXrbNG"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -467,18 +295,34 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Los Grandes del Pasillo",
-        "url": "https://open.spotify.com/album/7Iqm7uKjtd2fZ8XvwBE9hu"
+        "name": "Boleros De Siempre",
+        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
       },
       "artists": [
         {
-          "name": "Tr\u00edo Los Brillantes",
-          "url": "https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S"
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
         }
       ],
-      "duration_ms": 191946,
-      "name": "Sendas Distintas",
-      "url": "https://open.spotify.com/track/2SFlZm3IwkX5qiYhDaEzvK"
+      "duration_ms": 171432,
+      "name": "Mil Cosas",
+      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 174014,
+      "name": "Desvelo de Amor",
+      "url": "https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -499,22 +343,98 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Mis Mejores \u00c9xitos",
-        "url": "https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u"
+        "name": "Colecci\u00f3n Mitos Pedro Infante",
+        "url": "https://open.spotify.com/album/5wB5GW76Pxi04k2twIkWD5"
       },
       "artists": [
         {
-          "name": "Charlie Figueroa",
-          "url": "https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS"
-        },
-        {
-          "name": "Sonora Malecon Club",
-          "url": "https://open.spotify.com/artist/0KumvinlqqxSHrL1gNjPza"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 162699,
-      "name": "Busco Tu Recuerdo",
-      "url": "https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh"
+      "duration_ms": 202640,
+      "name": "Cien a\u00f1os",
+      "url": "https://open.spotify.com/track/2p5oPFJh3hQTmm0S9QVuTK"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Ese Bolero Es M\u00edo",
+      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Boleros para Enamorarse, Vol. 2",
+        "url": "https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ"
+      },
+      "artists": [
+        {
+          "name": "Consuelo Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Doble Filo",
+        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 314773,
+      "name": "Privilegio",
+      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
+        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
+      },
+      "artists": [
+        {
+          "name": "Lucho Barrios",
+          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
+        }
+      ],
+      "duration_ms": 178918,
+      "name": "Me Enga\u00f1as Mujer",
+      "url": "https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Fiesta Mexicana en las Voces de los Tres Ases",
+        "url": "https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -535,34 +455,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Los Triunfadores de la Rockola",
-        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
+        "name": "Daniel Santos",
+        "url": "https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc"
       },
       "artists": [
         {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Que Te Vayas Bien",
-      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Esencial Ana y Victor",
-        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
+      "duration_ms": 121733,
+      "name": "La \u00daltima Copa",
+      "url": "https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -572,13 +476,61 @@
       },
       "artists": [
         {
-          "name": "Dino",
-          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
+          "name": "Daniel Aranda",
+          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Mil A\u00f1os",
-      "url": "https://open.spotify.com/track/1GOwChlKdGkNjC60q6v2hV"
+      "duration_ms": 195000,
+      "name": "Solo Cenizas Quedaron",
+      "url": "https://open.spotify.com/track/7b8gLNftjkGQPrjVNtFxMZ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Mucho Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
+      },
+      "artists": [
+        {
+          "name": "Tania Libertad",
+          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Esc\u00e1ndalo / Luz y Sombra",
+      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "50 A\u00f1os, Vol. I",
+        "url": "https://open.spotify.com/album/4VrnbiBSa9sBm66iNobVBv"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 170973,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4TEKGpctXNdZwWJ4VB7hby"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -603,114 +555,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Colecci\u00f3n Mitos Pedro Infante",
-        "url": "https://open.spotify.com/album/5wB5GW76Pxi04k2twIkWD5"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Cien a\u00f1os",
-      "url": "https://open.spotify.com/track/2p5oPFJh3hQTmm0S9QVuTK"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 206908,
-      "name": "Si No Est\u00e1s para Mi",
-      "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
-        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
-      },
-      "artists": [
-        {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
-        }
-      ],
-      "duration_ms": 113652,
-      "name": "Se\u00f1or Abogado",
-      "url": "https://open.spotify.com/track/5b20eSs2NNL7K1MkW5KiWd"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Poker de Ases",
-        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
-      },
-      "artists": [
-        {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "La Loca",
-      "url": "https://open.spotify.com/track/2zPJCj2F9ZXyQ7ewMtDFBz"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
         "url": "https://open.spotify.com/album/7kGxDuSRrr9IVAPAaPNCml"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Penas",
-      "url": "https://open.spotify.com/track/3tH1E46Yi2kcuDFVCD2vML"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Un Bolero un Vals, Vol. 2",
-        "url": "https://open.spotify.com/album/75mPcy6FD38NlvPosOWXtf"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 307401,
-      "name": "Mi Viejo / Recordando a Mi Padre",
-      "url": "https://open.spotify.com/track/2cq6wz477E9faPzleLbaTa"
+      "duration_ms": 269000,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/1sDbZg4hs7wh2DNHxkgMZJ"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -747,66 +603,82 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Divas Peruanas del Bolero, Vol. 1",
-        "url": "https://open.spotify.com/album/7aU7bwPKjedcZdNNuzNMvd"
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s"
       },
       "artists": [
         {
-          "name": "Elena Romero",
-          "url": "https://open.spotify.com/artist/3XJXZS6MuLg9zCVJE4Gp7E"
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
         }
       ],
-      "duration_ms": 218720,
-      "name": "Verdad Amarga",
-      "url": "https://open.spotify.com/track/3IFP8kVXqDOwh3sMlfpaJ7"
+      "duration_ms": 201000,
+      "name": "Me Dices Que Te Vas",
+      "url": "https://open.spotify.com/track/3OYTcBibQjitxy8hMeMTTn"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Toda una Vida",
-        "url": "https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY"
+        "name": "Esencial Ana y Victor",
+        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
       },
       "artists": [
         {
-          "name": "Carmen Delia Dipini",
-          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
         }
       ],
-      "duration_ms": 178733,
-      "name": "Dimelo",
-      "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
+      "duration_ms": 185240,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/7kGxDuSRrr9IVAPAaPNCml"
+        "name": "Poker de Ases",
+        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
       },
       "artists": [
         {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
+          "name": "Ram\u00f3n Avil\u00e9s",
+          "url": "https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/1sDbZg4hs7wh2DNHxkgMZJ"
+      "duration_ms": 180586,
+      "name": "Cabellitos de Mi Madre",
+      "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "La Tripleta Popular, Vol. 38",
-        "url": "https://open.spotify.com/album/7IrlrJ1wg7aRFIyy1Mef25"
+        "name": "50 A\u00f1os Live",
+        "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
       },
       "artists": [
         {
-          "name": "Segundo Rosero",
-          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
         }
       ],
-      "duration_ms": 169293,
-      "name": "El Tel\u00e9fono",
-      "url": "https://open.spotify.com/track/3vuOUZqnlqkc7BljJq0NnL"
+      "duration_ms": 335533,
+      "name": "Y Despu\u00e9s Del Amor",
+      "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Con Alma de Bolero",
+        "url": "https://open.spotify.com/album/24rvm6xkdEBEEVQHBgBAVI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Bracamonte",
+          "url": "https://open.spotify.com/artist/2mjCLOUytfzQD0ymy3024f"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Bravo",
+      "url": "https://open.spotify.com/track/4E2RBRKyIA1ZN5HfBIKnSE"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -827,82 +699,186 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "30 Mejores: Alci Acosta",
-        "url": "https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv"
+        "name": "Un Bolero un Vals",
+        "url": "https://open.spotify.com/album/5nCX19PwqnuGUUDvNJq3VI"
       },
       "artists": [
         {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
         }
       ],
-      "duration_ms": 175066,
-      "name": "La Carcel de Sing Sing",
-      "url": "https://open.spotify.com/track/29Jg2oo2XRAM135DXG9fZp"
+      "duration_ms": 384253,
+      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
+      "url": "https://open.spotify.com/track/6xDwf5JCCrCR39Osu6BjW9"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Daniel Santos",
-        "url": "https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc"
+        "name": "Hoy Me Entero Que Te Vas",
+        "url": "https://open.spotify.com/album/5ctbw7avKAlVosWrLIVkyD"
       },
       "artists": [
         {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+          "name": "Barbara Romero",
+          "url": "https://open.spotify.com/artist/2NvplYAx9hWEiHux6C0V9n"
         }
       ],
-      "duration_ms": 121733,
-      "name": "La \u00daltima Copa",
-      "url": "https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb"
+      "duration_ms": 167359,
+      "name": "Esta Noche Yo Quisiera Que el Mundo Acabase",
+      "url": "https://open.spotify.com/track/3WfjGNXcyh8HXLC3MFR4kr"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+        "name": "La Dama del Bolero",
+        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
       },
       "artists": [
         {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
         }
       ],
-      "duration_ms": 173373,
-      "name": "Ese Bolero Es M\u00edo",
-      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+      "duration_ms": 190365,
+      "name": "Coraz\u00f3n Herido",
+      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Serie Majestad: Boleros Cantineros",
-        "url": "https://open.spotify.com/album/49O7gVQxbnaxukmGv9i7PC"
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/7kGxDuSRrr9IVAPAaPNCml"
       },
       "artists": [
         {
-          "name": "Jhonny Farf\u00e1n",
-          "url": "https://open.spotify.com/artist/1jkXMtjlfNzgqNkdpOcfB4"
+          "name": "Dino",
+          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
         }
       ],
-      "duration_ms": 162690,
+      "duration_ms": 294000,
+      "name": "Mil A\u00f1os",
+      "url": "https://open.spotify.com/track/1GOwChlKdGkNjC60q6v2hV"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
+        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
+      },
+      "artists": [
+        {
+          "name": "Lucho Barrios",
+          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
+        }
+      ],
+      "duration_ms": 113652,
       "name": "Se\u00f1or Abogado",
-      "url": "https://open.spotify.com/track/1FxgvTlF1Bq4DyymBjzhMo"
+      "url": "https://open.spotify.com/track/5b20eSs2NNL7K1MkW5KiWd"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "14 Grandes Exitos de Nacho Sanabria",
-        "url": "https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T"
+        "name": "Cien A\u00f1os",
+        "url": "https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A"
       },
       "artists": [
         {
-          "name": "Nacho Sanabria",
-          "url": "https://open.spotify.com/artist/78JOr5y1zeRRDqcIJWmw4G"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 265960,
-      "name": "Trompo de Juguete",
-      "url": "https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1"
+      "duration_ms": 222453,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "La Tripleta Popular, Vol. 38",
+        "url": "https://open.spotify.com/album/7IrlrJ1wg7aRFIyy1Mef25"
+      },
+      "artists": [
+        {
+          "name": "Segundo Rosero",
+          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "El Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/3vuOUZqnlqkc7BljJq0NnL"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Los Grandes del Pasillo",
+        "url": "https://open.spotify.com/album/7Iqm7uKjtd2fZ8XvwBE9hu"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edo Los Brillantes",
+          "url": "https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Sendas Distintas",
+      "url": "https://open.spotify.com/track/2SFlZm3IwkX5qiYhDaEzvK"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Poker de Ases",
+        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
+      },
+      "artists": [
+        {
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/2zPJCj2F9ZXyQ7ewMtDFBz"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Un Bolero un Vals, Vol. 2",
+        "url": "https://open.spotify.com/album/75mPcy6FD38NlvPosOWXtf"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 307401,
+      "name": "Mi Viejo / Recordando a Mi Padre",
+      "url": "https://open.spotify.com/track/2cq6wz477E9faPzleLbaTa"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Ojitos de Aceituna",
+        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167221,
+      "name": "Ojitos de Aceituna",
+      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -923,50 +899,66 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+        "name": "Inolvidable (Boleros)",
+        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
       },
       "artists": [
         {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+          "name": "Betty Missiego",
+          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
+      "duration_ms": 215000,
+      "name": "Ma\u00f1anas de Carnaval",
+      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+        "name": "Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
       "artists": [
         {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+          "name": "Tito Cortes",
+          "url": "https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa"
         }
       ],
-      "duration_ms": 264276,
-      "name": "Otra Copa",
-      "url": "https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U"
+      "duration_ms": 168829,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Mucho Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
+        "name": "Toda una Vida",
+        "url": "https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY"
       },
       "artists": [
         {
-          "name": "Tania Libertad",
-          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
+          "name": "Carmen Delia Dipini",
+          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Esc\u00e1ndalo / Luz y Sombra",
-      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
+      "duration_ms": 178733,
+      "name": "Dimelo",
+      "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "M\u00e1s Recuerdos Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV"
+      },
+      "artists": [
+        {
+          "name": "Chivirico Davila",
+          "url": "https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -987,18 +979,34 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "La Dama del Bolero",
-        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
       },
       "artists": [
         {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
         }
       ],
-      "duration_ms": 190365,
-      "name": "Coraz\u00f3n Herido",
-      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Serie Majestad: Boleros Cantineros",
+        "url": "https://open.spotify.com/album/49O7gVQxbnaxukmGv9i7PC"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Farf\u00e1n",
+          "url": "https://open.spotify.com/artist/1jkXMtjlfNzgqNkdpOcfB4"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "Se\u00f1or Abogado",
+      "url": "https://open.spotify.com/track/1FxgvTlF1Bq4DyymBjzhMo"
     }
   ],
   "unique_name": "Boleros en Casa",

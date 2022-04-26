@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242844,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
+    },
+    {
+      "album": {
         "name": "Any Old Time",
         "url": "https://open.spotify.com/album/48aWkol0vDAAznw8Q2ZtXi"
       },
@@ -4773,6 +4791,24 @@
       "duration_ms": 216666,
       "name": "Now And The Evermore",
       "url": "https://open.spotify.com/track/4fKidxQ6IdqXjDfI0ad4Bn"
+    },
+    {
+      "album": {
+        "name": "Wild Creatures",
+        "url": "https://open.spotify.com/album/0KGcCenSL9QAN9mhonWfx5"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146069,
+      "name": "Oh, Shadowless",
+      "url": "https://open.spotify.com/track/7zSs0FBaSqrrxDQjWoYKd3"
     },
     {
       "album": {

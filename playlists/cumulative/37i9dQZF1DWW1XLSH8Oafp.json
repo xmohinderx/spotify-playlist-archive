@@ -300,20 +300,24 @@
     },
     {
       "album": {
-        "name": "b4 (TOKYOPILL REMIX)",
+        "name": "b4 (TOKYOPILL Remix)",
         "url": "https://open.spotify.com/album/0wXE56ShI3wYMTqztiVmtl"
       },
       "artists": [
         {
           "name": "Heatace",
           "url": "https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR"
+        },
+        {
+          "name": "TOKYOPILL",
+          "url": "https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X"
         }
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181333,
-      "name": "b4 - TOKYOPILL REMIX",
+      "name": "b4 - TOKYOPILL Remix",
       "url": "https://open.spotify.com/track/4NUhP03UEsCp2L76QwZqjp"
     },
     {

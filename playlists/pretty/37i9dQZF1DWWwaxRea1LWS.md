@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT is music festival ready with these 2010s dance <a href=“spotify:playlist:37i9dQZF1DX8D2YR1GbW3K”>headliners.</a> Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,065,674 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,065,598 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

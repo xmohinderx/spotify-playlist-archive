@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j?si=a4f855b62105409f">Faye Webster</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,115 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,190 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Price of Perfection](https://open.spotify.com/track/2bu6TFn64ASDFXocD9HQ38) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ), [Lilianne Coeverden](https://open.spotify.com/artist/3H1AhCg1QoUO8Hnl10Ze3E) | [Price of Perfection](https://open.spotify.com/album/2txLPaA4ixLXjw3yYJkcCH) | 3:26 |
 | 40 | [A Decade In Denial](https://open.spotify.com/track/5x7qtTBHpQCMjPN4Qwt7XU) | [Madsius Ovanda](https://open.spotify.com/artist/0koqqJSNJvFB0qooO7q11J) | [A Decade In Denial](https://open.spotify.com/album/6u8gZJsvRX579pn9v7HwWW) | 3:03 |
 
-Snapshot ID: `MTY1MDg0ODQ5MCwwMDAwMDAwMGViOGI3NzVjOGM2N2I4ZTVlYTU4MWNmMDBmM2EyYjMx`
+Snapshot ID: `MTY1MDkzNTExNCwwMDAwMDAwMGViOGI3NzVjOGM2N2I4ZTVlYTU4MWNmMDBmM2EyYjMx`

@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 376194,
       "name": "Aboguluva",
       "url": "https://open.spotify.com/track/6qym2CZNVvhCi7lvrXtpx9"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 428617,
       "name": "AMA WHAT WHAT - Instrumental Version",
       "url": "https://open.spotify.com/track/3dmMxZtp0v6IMSucffJZ6o"
@@ -1881,7 +1881,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 379637,
       "name": "Don't Tatazel",
       "url": "https://open.spotify.com/track/16I57Wphv5EMMGQWFOrh4u"
@@ -1933,6 +1933,24 @@
       "duration_ms": 411073,
       "name": "Dropline",
       "url": "https://open.spotify.com/track/0vh5pc4h2acnwSukUts8hE"
+    },
+    {
+      "album": {
+        "name": "My Graduation day ep",
+        "url": "https://open.spotify.com/album/7xC6pWlaZLbB8RzPph8Yua"
+      },
+      "artists": [
+        {
+          "name": "Officixl Rsa",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400431,
+      "name": "Drumonades",
+      "url": "https://open.spotify.com/track/378ktXIn437PvjQ7YTzXjw"
     },
     {
       "album": {
@@ -6838,6 +6856,32 @@
     },
     {
       "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0xsj48I42CHIiPlRu0UPM2"
+      },
+      "artists": [
+        {
+          "name": "TihnomusicGroup",
+          "url": "https://open.spotify.com/artist/5fRofCJeDQQNo2lTAYhzeP"
+        },
+        {
+          "name": "S.eemah_x",
+          "url": "https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF"
+        },
+        {
+          "name": "Picxolovesart Eardrumboyz",
+          "url": "https://open.spotify.com/artist/2KtG4exbSvSfKHE0lt7lQ8"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330083,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/2RmKgjR0IjZxjs7EqNvsUH"
+    },
+    {
+      "album": {
         "name": "Whistleblower freestyle",
         "url": "https://open.spotify.com/album/6ehME4MhuZzcCfu811MNEN"
       },
@@ -6989,6 +7033,48 @@
       "duration_ms": 357955,
       "name": "Zama Futhi",
       "url": "https://open.spotify.com/track/3hDlY6iGR2EPH8PSjZTq3x"
+    },
+    {
+      "album": {
+        "name": "Ziwangale",
+        "url": "https://open.spotify.com/album/4EYQ2Ip3Ki1fXE8llzqlJt"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/72R57fKjQwiLKTzJ9wZd4U"
+        },
+        {
+          "name": "Dj Exit_sa",
+          "url": "https://open.spotify.com/artist/3MbY6Ny97IGXCXCRyZ2kYX"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441869,
+      "name": "Ziwa Ngale (feat. DJ Tira, Young Stunna, Dladla Mshunqisi, Felo Le Tee, Beast & Dj Exit_sa)",
+      "url": "https://open.spotify.com/track/5yFYAeIEsrE0Ss8JSGjiFX"
     },
     {
       "album": {

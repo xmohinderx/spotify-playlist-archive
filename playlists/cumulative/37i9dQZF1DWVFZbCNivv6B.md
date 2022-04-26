@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de La Banda Baston.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de Lefty Sm y La Santa Grifa.
 
 133 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 

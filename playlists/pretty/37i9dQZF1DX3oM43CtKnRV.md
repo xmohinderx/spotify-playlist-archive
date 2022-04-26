@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 
 > These songs rocked the 00s\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,139,289 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,141,560 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 99 | [Stop Crying Your Heart Out](https://open.spotify.com/track/2PuakTXE2v2j2F86V92ZvD) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2xckodyvw7xfpkmnEsNK90) | 5:05 |
 | 100 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
 
-Snapshot ID: `MTY1MDIxNTk5NCwwMDAwMDAxYTAwMDAwMTgwMzg4OWM2NTkwMDAwMDE4MDM4ODhlODY1`
+Snapshot ID: `MTY1MDkxNTczNiwwMDAwMDAxYjAwMDAwMTgwNjIzZWZiZTQwMDAwMDE4MDM4ODhlODY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 > Grunge will live forever\. Cover: Kurt Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,079 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,164 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 59 | [Suck You Dry \- 2008 Remaster](https://open.spotify.com/track/3Fg4SlOiqKDodVJbAM2Gut) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Piece Of Cake](https://open.spotify.com/album/3CNnWJLxLMowI9DYqgLLeq) | 2:34 |
 | 60 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 |
 
-Snapshot ID: `MTY0NzgwNzE4MiwwMDAwMDA1ODAwMDAwMTdmYThmNjM1ZTkwMDAwMDE3ZjY0OWRiMTE0`
+Snapshot ID: `MTY1MDkxNjA4OSwwMDAwMDA1OTAwMDAwMTgwNjI0NDVmNzMwMDAwMDE3ZjY0OWRiMTE0`

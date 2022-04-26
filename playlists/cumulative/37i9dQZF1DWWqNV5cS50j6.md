@@ -2,7 +2,7 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Not not not pop\. Cover: Yung Lean
+> Not not not pop\. Cover: Brevin Kim
 
 853 songs - 1 day 17 hr 30 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-443 songs - 1 day 1 hr 18 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+444 songs - 1 day 1 hr 20 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Di Di Di](https://open.spotify.com/track/0VBB2FOTgZbrEd43TPZhUX) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT) | [Di Di Di](https://open.spotify.com/album/1uWAOI3jzkGJ03Zz44FEaU) | 3:13 | 2021-12-04 | 2022-01-15 |
 | [Di Di Di](https://open.spotify.com/track/5dSfYfYapxnk1Ty4kl8tQ7) | [CompincheMusic](https://open.spotify.com/artist/0RBhGAyiD9uBdeojdXYYyw) | [Di Di Di](https://open.spotify.com/album/5jH1xp8evrXpFn2lB6CvMr) | 2:27 | 2021-10-16 | 2021-10-30 |
 | [Di Di Di](https://open.spotify.com/track/2e4ThObQdD4nbUIl455l0Z) | [CompincheMusic](https://open.spotify.com/artist/0RBhGAyiD9uBdeojdXYYyw), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT) | [Di Di Di](https://open.spotify.com/album/0ZFgH4Kj4jsac5Fwces8OC) | 3:13 | 2021-10-31 | 2021-11-25 |
+| [Diabla](https://open.spotify.com/track/2TNi9CCankkFmwLpUiutUx) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [Diabla](https://open.spotify.com/album/6hsBjQdWUw2HqFTJYh1D2A) | 2:24 | 2022-04-25 |  |
 | [Diablona](https://open.spotify.com/track/0WoS8Xeb60rK22NuShJv97) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Onguito](https://open.spotify.com/artist/5CEmVm4SbLawlq7evC42i0) | [Diablona](https://open.spotify.com/album/5WOuqQYFO6mp1rqIVCOENu) | 3:33 | 2021-05-27 | 2021-06-18 |
 | [Dictadura](https://open.spotify.com/track/16RRpUyUDjkIept8AymRiL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:27 | 2021-11-28 | 2021-12-05 |
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-10-31 | 2021-11-28 |
@@ -401,7 +402,7 @@
 | [TATA \- Remix](https://open.spotify.com/track/1hfufCKTZ0wIQwoW9tXoDR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Tata \(Remix\)](https://open.spotify.com/album/51rCNG1thqxYgMkhGnhqWA) | 4:24 | 2021-07-31 | 2021-08-02 |
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:42 | 2021-03-27\* | 2021-04-22 |
 | [Te Doblaste](https://open.spotify.com/track/0BXnkc24SFCZQ1XsAJkYIZ) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Llegó el Domi](https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC) | 3:07 | 2022-04-20 | 2022-04-24 |
-| [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-04-23 |  |
+| [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-04-23 | 2022-04-26 |
 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 | 2021-03-27\* | 2022-03-21 |
 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2022-01-02 | 2022-01-04 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-06-07 |

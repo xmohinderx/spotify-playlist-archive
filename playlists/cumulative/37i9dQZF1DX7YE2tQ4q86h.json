@@ -976,6 +976,24 @@
     },
     {
       "album": {
+        "name": "I Hate People (Willow Pill)",
+        "url": "https://open.spotify.com/album/3PpaCJae6ubbL8gKGa5fre"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 14",
+          "url": "https://open.spotify.com/artist/1rHLf5OwIQWxToS6Q4Kx1V"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71750,
+      "name": "I Hate People (Willow Pill)",
+      "url": "https://open.spotify.com/track/5PbCpQEQnc7xXBv5aoN2Tl"
+    },
+    {
+      "album": {
         "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
       },
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 194653,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6"

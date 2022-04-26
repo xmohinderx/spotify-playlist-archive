@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Poppy Ajudha
 
-859 songs - 2 day 3 hr 19 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+860 songs - 2 day 3 hr 23 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [More Than Friends \(with HONNE\)](https://open.spotify.com/track/6Bxon4eYGOOwxXtSX9lhQo) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [More Than Friends \(with HONNE\)](https://open.spotify.com/album/6wfpyPte01RTckVpV3W1eq) | 4:09 | 2020-11-20 | 2021-02-12 |
 | [Moscow](https://open.spotify.com/track/3HbmPWohnWgUgoymNC5ynD) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Moscow](https://open.spotify.com/album/61yNZ0gBmSLT5Qf7pJpHwP) | 3:07 | 2021-05-28 | 2021-07-15 |
 | [Most Modern Painting](https://open.spotify.com/track/4jnlko67vtWe15a3tcHO9n) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Drowning in Blessings](https://open.spotify.com/album/5UU855Zykdr5iEw1NOKfNL) | 3:27 | 2020-09-29\* | 2020-10-30 |
+| [MOTHERS SISTERS GIRLFRIENDS](https://open.spotify.com/track/1ky8mlXv9lG3FEfAxZ5P1n) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [THE POWER IN US](https://open.spotify.com/album/7qiwCfOn9JFpVZ1Q8qD6Vc) | 3:44 | 2022-04-25 |  |
 | [Mountain Jack](https://open.spotify.com/track/3iAaXv2FlwqSUOZ81T3rgA) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Mountain Jack](https://open.spotify.com/album/1WfIF6ociqZI3NVR2jtAwo) | 4:23 | 2020-10-30 | 2021-01-23 |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2021-01-23 | 2021-03-26 |
 | [Move into Me](https://open.spotify.com/track/7IRbgq1DtrYhCVe5DMCme7) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Move into Me](https://open.spotify.com/album/6ZNQan2pOqj2FqF0PEs5F1) | 4:18 | 2021-01-29 | 2021-03-19 |

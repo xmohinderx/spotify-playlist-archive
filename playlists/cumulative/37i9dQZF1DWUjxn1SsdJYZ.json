@@ -598,6 +598,28 @@
     },
     {
       "album": {
+        "name": "Enough's Enough",
+        "url": "https://open.spotify.com/album/7jGqdtGptrSL7LzUQJMg1P"
+      },
+      "artists": [
+        {
+          "name": "BALLY BOY",
+          "url": "https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9"
+        },
+        {
+          "name": "Hooligan Skinny",
+          "url": "https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "Enough's Enough (feat. Hooligan Skinny)",
+      "url": "https://open.spotify.com/track/4M92sneuPjGS7A7h8DWM6z"
+    },
+    {
+      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/7wFySan7YYZEuQoZKG9wCc"
       },

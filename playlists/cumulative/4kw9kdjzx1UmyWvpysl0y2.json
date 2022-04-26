@@ -1450,6 +1450,28 @@
     },
     {
       "album": {
+        "name": "Space Boy",
+        "url": "https://open.spotify.com/album/4Qa2yBO6R4r5g9mhSu4TVN"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Looking for the Light",
+      "url": "https://open.spotify.com/track/4uatHMHq0tGTCUglWAUZOx"
+    },
+    {
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/281n7TlRzznNkJFlQDa3yg"
       },

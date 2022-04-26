@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-380 songs - 20 hr 40 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
+381 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-01 |  |
 | [BM \(London View\)](https://open.spotify.com/track/2swRdG3vAk5bYBR3oSf1cg) | [OTP](https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI) | [BM \(London View\)](https://open.spotify.com/album/4oB0i1S43BE1uM7eopeurT) | 2:44 | 2022-01-04 | 2022-01-19 |
 | [Boho Days](https://open.spotify.com/track/7k5agf3Bo48jyzXrvrMuhb) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 1:28 | 2021-12-31 | 2022-01-17 |
+| [Boogie Woogie Wu](https://open.spotify.com/track/2nKZMOEvOyTViP09HxBfXx) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [The Great Milenko](https://open.spotify.com/album/2ipPVolNUBz0kCoc3VJ9zc) | 4:24 | 2022-04-25 |  |
 | [Boom \(feat\. JID\)](https://open.spotify.com/track/0otr94JBA5RwgW844svYHn) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 2:34 | 2022-02-12 | 2022-02-20 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-08 | 2022-04-06 |
 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 | 2022-01-11 | 2022-01-14 |
@@ -382,7 +383,7 @@
 | [You Oughta Know](https://open.spotify.com/track/225Wo3ilT3q39FAeClud86) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Reprise](https://open.spotify.com/album/36jRbgc6JEZPQhwBxBoKFJ) | 2:47 | 2022-03-31 | 2022-04-11 |
 | [You Said](https://open.spotify.com/track/2xk4fowrdbKvwlpaeSD4V6) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [You Said](https://open.spotify.com/album/00XtrHd46C9oz78ubvs2GF) | 2:15 | 2022-02-20 | 2022-03-02 |
 | [You Took the Words Right Out of My Mouth \(Hot Summer Night\)](https://open.spotify.com/track/1pwrk7g0CuWEyhcFEN72pv) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 5:04 | 2022-01-23 | 2022-01-30 |
-| [You're a Fucking Bitch Hope You Know That Shit](https://open.spotify.com/track/06q3sUgkq2k7uhdsi1fczX) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [Low Expectations](https://open.spotify.com/album/205UoabL8LIgfrjHi0uvUw) | 2:43 | 2022-04-18 |  |
+| [You're a Fucking Bitch Hope You Know That Shit](https://open.spotify.com/track/06q3sUgkq2k7uhdsi1fczX) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [Low Expectations](https://open.spotify.com/album/205UoabL8LIgfrjHi0uvUw) | 2:43 | 2022-04-18 | 2022-04-26 |
 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-02-01 | 2022-02-04 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-18 | 2022-02-08 |
 | [孤独](https://open.spotify.com/track/6o1bc10R4IfNkL3YVrxKgu) | [劳力士](https://open.spotify.com/artist/1Krm0ztgP0YizyJESZrhII) | [孤独](https://open.spotify.com/album/0OggAkl6zW14c7gOXw5dgu) | 2:32 | 2022-03-24 | 2022-04-08 |

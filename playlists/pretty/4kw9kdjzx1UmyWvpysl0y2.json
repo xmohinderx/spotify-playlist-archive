@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128420,
+  "num_followers": 128408,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM2OCxiZmJlMDMxMzgwMWI5ZjZkYmExNWU2NWFhODk2OTExNDg0NjNiY2Fm",
+  "snapshot_id": "MzM2OSw0NTJmMjRhMTgzNzZlNDNkOTg4OTI2ZWY0NTZhYTRlOTEwZGFmYTYy",
   "tracks": [
+    {
+      "added_at": "2022-04-25 14:46:37",
+      "album": {
+        "name": "Space Boy",
+        "url": "https://open.spotify.com/album/4Qa2yBO6R4r5g9mhSu4TVN"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Looking for the Light",
+      "url": "https://open.spotify.com/track/4uatHMHq0tGTCUglWAUZOx"
+    },
     {
       "added_at": "2022-04-22 16:34:59",
       "album": {

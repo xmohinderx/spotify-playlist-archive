@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 160482,
       "name": "Amazon Prime",
       "url": "https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl"
@@ -559,10 +559,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 223384,
       "name": "Duppy Them",
       "url": "https://open.spotify.com/track/0OnhVr0XzJlzGANtXwwS9D"
+    },
+    {
+      "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
     },
     {
       "album": {
@@ -620,6 +642,28 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/7sazFc43XxnDbMxhO2EWJh"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/7bjIa3yn21479pGIuu35F9"
+    },
+    {
+      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ"
       },
@@ -653,7 +697,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 207360,
       "name": "Flow (Habstrakt Remix)",
       "url": "https://open.spotify.com/track/3YrHn8rV4DSyMjryTLIxo0"
@@ -1067,7 +1111,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 251076,
       "name": "Lazerbeams",
       "url": "https://open.spotify.com/track/2PjxXX0yPQ3WzzrDSa2gSW"
@@ -1151,7 +1195,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 336428,
       "name": "LOViNG YOU",
       "url": "https://open.spotify.com/track/6cgMiUEjYLrvP2JRFglYNX"
@@ -1221,7 +1265,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 234692,
       "name": "Need To",
       "url": "https://open.spotify.com/track/3PibpsKwq89Or7JcDBnvqS"
@@ -1239,7 +1283,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 265454,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/3DLjQGPpbkc63UOP2KVLdD"
@@ -1511,7 +1555,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 165722,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1r45o7mdZAhb0bUTomswKa"
@@ -1635,7 +1679,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 191818,
       "name": "Take Me as I Am - Holy Goof Remix",
       "url": "https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q"
@@ -1653,7 +1697,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 299000,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/1O6etlhQyBRj72rNJYhZye"
@@ -1693,7 +1737,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 236307,
       "name": "Things You Do",
       "url": "https://open.spotify.com/track/6PLBibkZhlekUzOHpC9fA2"
@@ -1759,7 +1803,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 242035,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3qwFQIo0fqk7uBIXA4wdOA"
@@ -1871,7 +1915,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 226874,
       "name": "What To Do",
       "url": "https://open.spotify.com/track/2U9J2leuFsABpW7Vxt1ZR4"

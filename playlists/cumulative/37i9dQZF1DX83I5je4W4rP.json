@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Baja Bound",
+        "url": "https://open.spotify.com/album/219MsxtWcy8vEHEtPqjP7U"
+      },
+      "artists": [
+        {
+          "name": "Tunnel Vision",
+          "url": "https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234498,
+      "name": "Baja Bound",
+      "url": "https://open.spotify.com/track/7ozIQfNcPQfVTp26GUMl4x"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 133080,
       "name": "Collie Man",
       "url": "https://open.spotify.com/track/3Zjdqz7eOox8XU0zTCPL4P"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 185013,
       "name": "Got It All",
       "url": "https://open.spotify.com/track/6HQ5jwetbgbN7MMf7Hog0C"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 203904,
       "name": "Headline",
       "url": "https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 304192,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/7FoGBm7WGKpmuL74MB080m"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 215146,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/4L0nc0tHfDjr3HlAm1EFeu"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 239720,
       "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
       "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 195143,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/07qt4S3jLW6yIx5vNtRpvj"
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 181370,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/1HBztgfs0Wtltk4z8hUiSf"
@@ -1997,7 +2015,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Snowman (with Dirty Heads)",
       "url": "https://open.spotify.com/track/1BzKS4LnJQdRotvaaP7gRB"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 236092,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3"
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 335586,
       "name": "Surfman Cometh",
       "url": "https://open.spotify.com/track/0XLCAcfMcypLKvnBFFbnaB"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 202172,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 190693,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/6M7R9BK3Etvt0UNhbHoQlR"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re"

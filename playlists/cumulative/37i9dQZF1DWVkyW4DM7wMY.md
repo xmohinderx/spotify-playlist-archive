@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-102 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+103 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-02-24 | 2022-04-02 |
 | [Filthy Rich](https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Filthy Rich](https://open.spotify.com/album/2xWZiT64H6JH8NSV3kHs0l) | 2:46 | 2022-01-13 |  |
 | [For Hawi](https://open.spotify.com/track/0sa9IqP77NArCvVe1MkdBp) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Sky Up Above](https://open.spotify.com/album/4BguiMoE15dCHo5mG2tMv0) | 6:34 | 2021-10-15 |  |
+| [Funk To Black](https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [FUNK TO BLACK](https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki) | 2:23 | 2022-04-25 |  |
 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 | 2022-01-27 |  |
 | [Going Down](https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [It's Kinda Fun Outside](https://open.spotify.com/album/0DRFoYbyCxS0cnA8kSMtd3) | 2:10 | 2022-02-24 |  |
 | [Good Time](https://open.spotify.com/track/2KPLkdqRCFGEUTjrgsZZ9T) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Good Time](https://open.spotify.com/album/7KnMVXkbi86J86daq153mC) | 3:00 | 2021-10-15 |  |

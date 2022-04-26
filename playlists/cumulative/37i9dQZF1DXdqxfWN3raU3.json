@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 225454,
       "name": "Direction",
       "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 174853,
       "name": "Limo",
       "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
@@ -1818,6 +1818,24 @@
     },
     {
       "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "album": {
         "name": "No Te Paro de Pensar",
         "url": "https://open.spotify.com/album/1GBxEIdKNKeCEQ4XN7C019"
       },
@@ -1833,6 +1851,32 @@
       "duration_ms": 161151,
       "name": "No Te Paro de Pensar",
       "url": "https://open.spotify.com/track/6ESUaFTZNSezEZKzR3FW8s"
+    },
+    {
+      "album": {
+        "name": "Sigma",
+        "url": "https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Karloz",
+          "url": "https://open.spotify.com/artist/1K1pt9uJfTMyJYaoiz1fdJ"
+        },
+        {
+          "name": "Franz Mesko",
+          "url": "https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147686,
+      "name": "No Voy a Dudar",
+      "url": "https://open.spotify.com/track/2J6OGTVgvgipKATyti8QrL"
     },
     {
       "album": {

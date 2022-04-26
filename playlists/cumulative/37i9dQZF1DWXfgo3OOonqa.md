@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-282 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+283 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [BLOCK](https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:20 | 2021-12-16 | 2022-03-11 |
 | [Bra kväll](https://open.spotify.com/track/3fn38lky1wEnGfZOpu4eqA) | [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA) | [Bra kväll](https://open.spotify.com/album/0ycDtHMYMcGlahQPg36PAs) | 2:31 | 2022-04-14 |  |
 | [Branschen \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Studio 100](https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544) | 2:40 | 2021-12-16 |  |
-| [Brevet](https://open.spotify.com/track/2DGlspVkq3a1Nlqtij7Fba) | [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA) | [Brevet](https://open.spotify.com/album/1Yn5thhBSdeUtmeoB2cIje) | 3:07 | 2022-04-07 |  |
+| [Brevet](https://open.spotify.com/track/2DGlspVkq3a1Nlqtij7Fba) | [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA) | [Brevet](https://open.spotify.com/album/1Yn5thhBSdeUtmeoB2cIje) | 3:07 | 2022-04-07 | 2022-04-26 |
 | [Burna](https://open.spotify.com/track/7tSP6GfktCDSFH0mMNuDnm) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Burna](https://open.spotify.com/album/5MdxhgGDUrPfL3zWQQNZY3) | 2:16 | 2022-01-19 | 2022-03-05 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-21 |  |
 | [CANADA](https://open.spotify.com/track/7ClsPaYYi8mKrV8YT813gI) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [BIG CITY DREAMS](https://open.spotify.com/album/6GBUPkV6xLo5YLa8GyamBS) | 2:59 | 2021-12-16 | 2022-01-07 |
@@ -175,6 +175,7 @@
 | [MANO \(feat\. Kamelen\) \- Remix](https://open.spotify.com/track/781V5yu5LgVV4k3KBzKw07) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [MANO \(feat\. Kamelen\) \[Remix\]](https://open.spotify.com/album/4peqBtP035We6XL90Hpmqk) | 2:48 | 2022-03-03 | 2022-03-18 |
 | [Mansion](https://open.spotify.com/track/66k2PSiBumV3PAKC4norJN) | [Darwish](https://open.spotify.com/artist/4zXkg84gmjznoYg1ueWoc2) | [Mansion](https://open.spotify.com/album/5KiakWxnV3164XBAVrguiI) | 2:36 | 2022-01-06 | 2022-01-26 |
 | [MARSEILLE](https://open.spotify.com/track/03Akvh5WKpEPKn6GOaJPrq) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd), [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [MARSEILLE](https://open.spotify.com/album/69W3xGHg2fwq1VBBvG6twP) | 2:11 | 2022-01-20 | 2022-02-18 |
+| [MATADOR](https://open.spotify.com/track/64s0ZmTEwVhztlrEP6Xt9J) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [MATADOR](https://open.spotify.com/album/35f2RCaqMqxU5dNv5v8n7U) | 3:16 | 2022-04-25 |  |
 | [MEN IN BLACK](https://open.spotify.com/track/2lXjmrPJChEEswMfdv5cSG) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [MEN IN BLACK](https://open.spotify.com/album/4oGEqaRIPLOD5mUs4Kquq5) | 2:48 | 2022-01-27 | 2022-02-26 |
 | [MIG](https://open.spotify.com/track/2ZTix4tf7GQaJho8QaKYbI) | [Bilkow](https://open.spotify.com/artist/0EhQSGkoxasQQAGINGktFz) | [MIG](https://open.spotify.com/album/1RRRgtoQ0edZjkxEPUfm2a) | 2:54 | 2022-03-23 |  |
 | [Milli](https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Milli](https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG) | 2:07 | 2022-01-06 | 2022-03-25 |

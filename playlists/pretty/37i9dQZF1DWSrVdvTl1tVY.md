@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Krystal Klear
+> The biggest house bangers popping off in the UK, let's go! Cover: Fleur Shore
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,600 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,714 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 69 | [Your Dreams](https://open.spotify.com/track/5M5TCPGgMZxzRN3tOCOoGd) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Your Dreams](https://open.spotify.com/album/7b3qQtrbWgNkd3eKFshnWc) | 2:31 |
 | 70 | [Flashbang](https://open.spotify.com/track/6gAsn8MZK8rQjrfLAkKS6d) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [FLASHBANG](https://open.spotify.com/album/515ceCQqo2wUsMtym2LokC) | 5:54 |
 
-Snapshot ID: `MTY1MDY1MDUyNSwwMDAwMDI2YzAwMDAwMTgwNTI3MDJmYmMwMDAwMDE4MDI3Yzg5MTVh`
+Snapshot ID: `MTY1MDg4MDAwNiwwMDAwMDI2ZDAwMDAwMTgwNjAxZGM4M2IwMDAwMDE4MDYwMWQ4YmFk`

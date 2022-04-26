@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring PinkPantheress & WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,012 likes - 114 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,598 likes - 114 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 7 | [Heartbreak Engineering](https://open.spotify.com/track/5Fg8x715LGYUz1qkOMUq9n) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Heartbreak Engineering](https://open.spotify.com/album/5BsySWCUfLgRERQweADjn3) | 2:19 |
 | 8 | [heavensleep](https://open.spotify.com/track/7jqiOS9oxnSpCooYGHlNbR) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [heavensleep](https://open.spotify.com/album/3Rn7Lgvtgm3BIUpQBdFn0w) | 2:00 |
 | 9 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [miss u](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 |
-| 10 | [b4 \- TOKYOPILL REMIX](https://open.spotify.com/track/4NUhP03UEsCp2L76QwZqjp) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR) | [b4 \(TOKYOPILL REMIX\)](https://open.spotify.com/album/0wXE56ShI3wYMTqztiVmtl) | 3:01 |
+| 10 | [b4 \- TOKYOPILL Remix](https://open.spotify.com/track/4NUhP03UEsCp2L76QwZqjp) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR), [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [b4 \(TOKYOPILL Remix\)](https://open.spotify.com/album/0wXE56ShI3wYMTqztiVmtl) | 3:01 |
 | 11 | [Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 3:48 |
 | 12 | [care4me](https://open.spotify.com/track/0w4azd2nPbcRe3JN11MDPI) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [care4me](https://open.spotify.com/album/0Xgto2oJ4IS2GmHh4fQzc9) | 2:07 |
 | 13 | [sunken](https://open.spotify.com/track/5e7FFc9rvDTBzxLb1IsnIl) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [sunken](https://open.spotify.com/album/3iQuGVN1VKsiTE8wmv8L0k) | 3:47 |

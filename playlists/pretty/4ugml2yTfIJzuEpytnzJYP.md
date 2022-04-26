@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,218 likes - 28 songs - 1 hr 48 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,220 likes - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,19 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 26 | [DNA](https://open.spotify.com/track/6igOu1dKezn6cqJgAoXuAo) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [HATCHED 051](https://open.spotify.com/album/39sdmhLnB00K0Qx22LCpMW) | 5:39 |
 | 27 | [Midnight Angler](https://open.spotify.com/track/6jjG4Hhpggq0LuQGz22r1a) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Kyoka Hyaku 013 Midnight Angler](https://open.spotify.com/album/0KcMkmJGnpSBfo9PlNGHNx) | 4:17 |
 | 28 | [Mangal Sound \- Cesco Remix](https://open.spotify.com/track/61t8KC9k8RCY8ogEWqlrqh) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ), [Hotcut](https://open.spotify.com/artist/2LOBWnVyFlt96KFUF4nieL), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [DUPLOC WAR DUBS 2](https://open.spotify.com/album/4ZcTmuD4WEUrGc9Rx3bjZb) | 5:36 |
+| 29 | [Golden Era](https://open.spotify.com/track/1jphn6lBvNra4vq0jssen2) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [369](https://open.spotify.com/album/0huaoBCZBy6A0kPy34teUE) | 3:11 |
+| 30 | [Voice \- Mystic State Remix](https://open.spotify.com/track/7zEoRwiXCVFW3xA07RJGBS) | [Opus](https://open.spotify.com/artist/7gdAc6xAf30x3jD2UFbKK7), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Voice \(Mystic State Remix\)](https://open.spotify.com/album/48TlLtMlyiMm8yI7OdJX2P) | 4:13 |
+| 31 | [AIBT002](https://open.spotify.com/track/5XJbXTityTLG6SM9Hu6z6M) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [AI Beat Tape](https://open.spotify.com/album/2PgvIOKViA6u74we5C9kEp) | 2:30 |
+| 32 | [Pura Vida](https://open.spotify.com/track/4UodxqRyzXEE4yg3Xf3D3V) | [Mystic Grizzly](https://open.spotify.com/artist/5KBp5tw7buUpJT7WxNrezV) | [Jaguar Medicine](https://open.spotify.com/album/5SCx6fGwAMtFCz12sEY7Vv) | 4:26 |
+| 33 | [Stutter](https://open.spotify.com/track/0xvV5ou14UMhDPVVPl4bdq) | [Schmoop](https://open.spotify.com/artist/7w1P3S7Se2WKHlOBQlqdR5) | [Collapse EP](https://open.spotify.com/album/4A0kpMhLGUO2CtH5zqli4d) | 3:37 |
+| 34 | [Shaggy Mullet](https://open.spotify.com/track/53exglsd8umduSuQsxnkNJ) | [Bukez Finezt](https://open.spotify.com/artist/7lpT19TLWJN0pPEmUF9FTH) | [Shaggy Mullet](https://open.spotify.com/album/265FApjVuPAYEQYpcbBLUU) | 5:31 |
+| 35 | [The Owl Song](https://open.spotify.com/track/7CdcnX9m1wI8sIlQGLd0Un) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [The Owl Song](https://open.spotify.com/album/38EVhFxJ7NEkFHFzUxXQNo) | 3:12 |
+| 36 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 |
+| 37 | [Pulse](https://open.spotify.com/track/6UQhXFGhrsqoQC9VzgBads) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Pulse](https://open.spotify.com/album/2pP8FP2pWfb94qCJrHhy7f) | 3:29 |
+| 38 | [Up in Smoke](https://open.spotify.com/track/44pU0jjcq3kxtXe9Nv3mOU) | [WerD](https://open.spotify.com/artist/6rik4C78AcU2bAncYFNLgZ) | [Transmission](https://open.spotify.com/album/6Oiqyx3pmTGdzJG1EZL93b) | 4:04 |
+| 39 | [Genesis](https://open.spotify.com/track/2l5zC9tYT3oPPCvDYnke3U) | [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Genesis](https://open.spotify.com/album/7jXXhska4s5ewmCjx3f542) | 3:46 |
+| 40 | [Inferno](https://open.spotify.com/track/1MGrP7eLvfLDKMmAiEcufm) | [Ringtone Murder](https://open.spotify.com/artist/6DQVEV3tyaBDdb0Z7Z2cKh) | [Inferno](https://open.spotify.com/album/4cvjwU0s2yLAHmKDGbPcGY) | 3:01 |
+| 41 | [MULTIVERSE](https://open.spotify.com/track/23oOs4H4jRkYCSwOf7MApd) | [Sky Suite](https://open.spotify.com/artist/0D3OutokoXMRF8kwCPpJZc) | [MULTIVERSE](https://open.spotify.com/album/1a63sK5PcSjgbceKc5u0oU) | 4:15 |
+| 42 | [333](https://open.spotify.com/track/1hF1acUnz0dqh0RszUsHbF) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [369](https://open.spotify.com/album/0huaoBCZBy6A0kPy34teUE) | 3:08 |
 
-Snapshot ID: `MTg2NixhZDZhN2Q4NTdhMjE5MmY3MTViZGYxNjk5NTI5NjllZWU1ZWZjZWFm`
+Snapshot ID: `MTg4MCwwZjAwNjBlZmZlZTljNWQ0MTc4ZGFlYmMwODZhZTQyNmVjN2VmNWUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,518 likes - 81 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,542 likes - 81 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

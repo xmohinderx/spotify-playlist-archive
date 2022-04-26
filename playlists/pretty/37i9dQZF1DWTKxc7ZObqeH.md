@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Sunny jazz for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,426 likes - 113 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,500 likes - 113 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

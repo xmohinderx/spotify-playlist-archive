@@ -2,7 +2,7 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Krystal Klear
+> The biggest house bangers popping off in the UK, let's go! Cover: Fleur Shore
 
 188 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 

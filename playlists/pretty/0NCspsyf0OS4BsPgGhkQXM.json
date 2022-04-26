@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2040425,
+  "num_followers": 2040360,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE2MTUsZWI3YzllYzcwZmEzZDQyNDhlMmFmOTJjZjllY2M1M2M3OTdlOTczMQ==",
+  "snapshot_id": "MTE2MjcsMDVmMGFiZDhjNjNjOTdmNTIwYWRiMjRiOGVkOWUxZTViZGNiZWEzZA==",
   "tracks": [
     {
       "added_at": "2022-04-21 23:34:56",
@@ -53,6 +53,70 @@
       "url": "https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty"
     },
     {
+      "added_at": "2022-04-21 23:34:56",
+      "album": {
+        "name": "R U READY!",
+        "url": "https://open.spotify.com/album/2l8chbtGJ3adSqwYauGWrT"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "R U READY!",
+      "url": "https://open.spotify.com/track/6jXbYeTwVGfL6BxI3aQAXE"
+    },
+    {
+      "added_at": "2022-04-21 23:34:56",
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/7t3hqNLxx8TFqxUuCUM3eP"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "Carbin",
+          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/66T8oiDaaIF9xXjpMgJBzr"
+    },
+    {
+      "added_at": "2022-04-21 23:34:56",
+      "album": {
+        "name": "Walk Me Home (Blanke Remix)",
+        "url": "https://open.spotify.com/album/0K9MqMhOoHMe6iddB29nNN"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 303882,
+      "name": "Walk Me Home - Blanke Remix",
+      "url": "https://open.spotify.com/track/3DWH2ElS137GfWMzGcXVp2"
+    },
+    {
       "added_at": "2022-04-22 14:26:22",
       "album": {
         "name": "Cravin'",
@@ -95,70 +159,6 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
-    },
-    {
-      "added_at": "2022-04-21 23:34:56",
-      "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/7t3hqNLxx8TFqxUuCUM3eP"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        },
-        {
-          "name": "Carbin",
-          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/66T8oiDaaIF9xXjpMgJBzr"
-    },
-    {
-      "added_at": "2022-04-21 23:34:56",
-      "album": {
-        "name": "R U READY!",
-        "url": "https://open.spotify.com/album/2l8chbtGJ3adSqwYauGWrT"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "R U READY!",
-      "url": "https://open.spotify.com/track/6jXbYeTwVGfL6BxI3aQAXE"
-    },
-    {
-      "added_at": "2022-04-21 23:34:56",
-      "album": {
-        "name": "Walk Me Home (Blanke Remix)",
-        "url": "https://open.spotify.com/album/0K9MqMhOoHMe6iddB29nNN"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 303882,
-      "name": "Walk Me Home - Blanke Remix",
-      "url": "https://open.spotify.com/track/3DWH2ElS137GfWMzGcXVp2"
     },
     {
       "added_at": "2022-04-22 14:32:11",
@@ -211,6 +211,22 @@
       "duration_ms": 224000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2Kzp4jYbUbDSxbX13oMd2a"
+    },
+    {
+      "added_at": "2022-04-25 15:38:13",
+      "album": {
+        "name": "Aluminum",
+        "url": "https://open.spotify.com/album/5XWgKcPNXJoME1rc72zu1N"
+      },
+      "artists": [
+        {
+          "name": "sumthin sumthin",
+          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Aluminum",
+      "url": "https://open.spotify.com/track/0FYA1pmRlDt2UDPTEtQNjU"
     },
     {
       "added_at": "2022-04-21 23:34:56",
@@ -393,6 +409,26 @@
       "url": "https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1"
     },
     {
+      "added_at": "2022-04-25 16:12:24",
+      "album": {
+        "name": "PLEASE",
+        "url": "https://open.spotify.com/album/3CdaspeVshcV4SSy4R0N1r"
+      },
+      "artists": [
+        {
+          "name": "Omido",
+          "url": "https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh"
+        },
+        {
+          "name": "Ex Habit",
+          "url": "https://open.spotify.com/artist/0wRGuF39WWxHeftv2TBNQT"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "PLEASE",
+      "url": "https://open.spotify.com/track/7xcU6jomyxCkWHazhRp4W6"
+    },
+    {
       "added_at": "2022-04-21 23:34:56",
       "album": {
         "name": "Would U",
@@ -463,6 +499,26 @@
       "duration_ms": 343759,
       "name": "Only One I Need - Sunny Lax Remix",
       "url": "https://open.spotify.com/track/0bPNeiwFcpj1Kg3BbkBzO6"
+    },
+    {
+      "added_at": "2022-04-25 16:11:15",
+      "album": {
+        "name": "Coffee And Drugs (ft. TIMMS)",
+        "url": "https://open.spotify.com/album/2wkYi0Wx1Zxds8qshw7SsR"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        },
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "duration_ms": 169483,
+      "name": "Coffee And Drugs (ft. TIMMS)",
+      "url": "https://open.spotify.com/track/5oTOGML1wjn4Hj45oVr6si"
     },
     {
       "added_at": "2022-04-21 23:34:56",
@@ -815,6 +871,22 @@
       "duration_ms": 193200,
       "name": "The Action",
       "url": "https://open.spotify.com/track/40jqRY00ZBurt1HqDxUOt3"
+    },
+    {
+      "added_at": "2022-04-25 21:56:27",
+      "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/32G9YtZBaYCm30wQFKqCv9"
+      },
+      "artists": [
+        {
+          "name": "IAMSAM",
+          "url": "https://open.spotify.com/artist/6RsUpx0KNqH6at7oNsRkXD"
+        }
+      ],
+      "duration_ms": 240164,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/0jFZ2urbupCjFFJTCuw6fM"
     },
     {
       "added_at": "2022-04-21 23:34:56",

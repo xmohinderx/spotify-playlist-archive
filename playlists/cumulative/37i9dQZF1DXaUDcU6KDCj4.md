@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Madison Cunningham
 
-437 songs - 1 day 2 hr 42 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+439 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alvarado](https://open.spotify.com/track/6Bj1sZivRzititCuj1YW1U) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Alvarado](https://open.spotify.com/album/02BIOZh9bc6UpsKAwY8tyT) | 5:04 | 2021-11-12 | 2022-01-15 |
 | [American Spirits](https://open.spotify.com/track/2FL4CvhhyXeQiLhgYncVeU) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [American Spirits](https://open.spotify.com/album/0aBAw124SJ8a4KLGGa6DAH) | 4:43 | 2021-11-12 | 2022-02-26 |
 | [Amsterdam](https://open.spotify.com/track/3TpqFZxnxNe2qn362Wydz8) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Amsterdam](https://open.spotify.com/album/4LF9PCKsTfcOVnh2ufagbO) | 5:01 | 2022-03-11 |  |
+| [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 | 2022-04-25 |  |
 | [Any Old Time](https://open.spotify.com/track/3Fv6JcNgvTOipsgbb0dFbb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Any Old Time](https://open.spotify.com/album/48aWkol0vDAAznw8Q2ZtXi) | 2:58 | 2021-11-12 | 2022-01-01 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-04-22 |  |
 | [Apple Tree Blues](https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Apple Tree Blues](https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g) | 3:32 | 2022-04-15 |  |
@@ -262,6 +263,7 @@
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2021-11-12 | 2022-01-08 |
 | [Nova to Ba](https://open.spotify.com/track/4xoS6oKefBwdVJ1QXOCPkV) | [Dobrotto](https://open.spotify.com/artist/4AZ0VzgkEfNyNiu3Slr0q8), [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Nova to Ba](https://open.spotify.com/album/6fo3RQAeGJZgIDdQWeYLwi) | 2:45 | 2022-04-22 |  |
 | [Now And The Evermore](https://open.spotify.com/track/4fKidxQ6IdqXjDfI0ad4Bn) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Now And The Evermore](https://open.spotify.com/album/0WZT9a4zQJbblTg45aib8W) | 3:36 | 2022-01-21 | 2022-02-19 |
+| [Oh, Shadowless](https://open.spotify.com/track/7zSs0FBaSqrrxDQjWoYKd3) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Wild Creatures](https://open.spotify.com/album/0KGcCenSL9QAN9mhonWfx5) | 2:26 | 2022-04-25 |  |
 | [Old Dog](https://open.spotify.com/track/6byyhvAPKJ2l2GU9Tu92SC) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3), [The Program](https://open.spotify.com/artist/6RS7RIKPVnJBD21AMI0Qzp) | [Take In The Roses](https://open.spotify.com/album/5eIYEqnWX9NaWSCm2GG8pU) | 4:51 | 2021-12-10 | 2022-03-12 |
 | [Old Tin Can](https://open.spotify.com/track/1gxATND19pVRuQwgLbolvQ) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Old Tin Can](https://open.spotify.com/album/7aG1PyJUPBOtNzxJNLiy7t) | 2:49 | 2022-02-25 |  |
 | [Oldest Trick in the Book \(feat\. Bedouine\)](https://open.spotify.com/track/30lNPXNCQywhRCHzhNhed1) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/1hcwRc4Ic4tb2F8iLUGTTg) | 3:21 | 2021-11-12 | 2022-01-29 |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 190484,
       "name": "#Tasbuena",
       "url": "https://open.spotify.com/track/6Sgwmm4UK7Gei0mMQAuetI"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 177135,
       "name": "Alo",
       "url": "https://open.spotify.com/track/2g4OQwDCcjyUFx99JzPBIt"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 304733,
       "name": "Bellaquita - Remix",
       "url": "https://open.spotify.com/track/4GGwM2Krtlx9G9ii1RaEOx"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 160026,
       "name": "Cabron",
       "url": "https://open.spotify.com/track/37j4MVGZNm8gdGGLKkSOXW"
@@ -804,6 +804,24 @@
     },
     {
       "album": {
+        "name": "Dile/Intocable",
+        "url": "https://open.spotify.com/album/4kcgkJgiTg9eUIhX2ZRuJo"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/72YHgP5Zueyh9ilIjkaEaB"
+    },
+    {
+      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -861,6 +879,28 @@
       "duration_ms": 187783,
       "name": "El Rey De La Popola",
       "url": "https://open.spotify.com/track/40NEzaZf0YyrxCbD7PPeop"
+    },
+    {
+      "album": {
+        "name": "The Bad Boy",
+        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235626,
+      "name": "El Telefono",
+      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
       "album": {
@@ -1411,7 +1451,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 258923,
       "name": "La Mam\u00e1 de la Mam\u00e1 (Remix)",
       "url": "https://open.spotify.com/track/72LVZma2Bd7Y6imwoSecR6"
@@ -1433,7 +1473,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 197872,
       "name": "La Mentira",
       "url": "https://open.spotify.com/track/59xZZeF6Ve0ZfCd7AcFvXr"
@@ -1577,7 +1617,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 177287,
       "name": "Location",
       "url": "https://open.spotify.com/track/1pePBTi9u9CdqvQqyt7u3c"
@@ -1813,7 +1853,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 148447,
       "name": "Pa' Tras",
       "url": "https://open.spotify.com/track/6rD9ae5rY6TCQpziov6cvl"
@@ -2021,10 +2061,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 190813,
       "name": "Plug",
       "url": "https://open.spotify.com/track/3LjKXiYFJiaRQLseMZo9uv"
+    },
+    {
+      "album": {
+        "name": "Reggaeton Hitmakers Tropical Blend",
+        "url": "https://open.spotify.com/album/6CqWsUd484u7T1xQzQGBYy"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255680,
+      "name": "Pobre Diabla",
+      "url": "https://open.spotify.com/track/1AwrgKnXSocAfc5RAUuyHO"
     },
     {
       "album": {
@@ -2476,6 +2534,24 @@
     },
     {
       "album": {
+        "name": "House of Pleasure",
+        "url": "https://open.spotify.com/album/5uja4ElM6i6neeFTAa4Itw"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/6YyPA4dxemw23eGon3CjFX"
+    },
+    {
+      "album": {
         "name": "El Androide",
         "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
       },
@@ -2553,7 +2629,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 122543,
       "name": "Susurro Riddim",
       "url": "https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI"
@@ -2789,6 +2865,24 @@
       "duration_ms": 172127,
       "name": "Yo Perreo Sola",
       "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/14asfpxPg7yFlp7y3qVgDf"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303680,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/5wXUm0vFT7UKV7vG9H8HTt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f"

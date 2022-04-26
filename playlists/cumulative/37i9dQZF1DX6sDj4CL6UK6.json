@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 168586,
       "name": "A Shot of Alcohol",
       "url": "https://open.spotify.com/track/5RjOdVrGkXEo1hEaAlHgq4"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 205078,
       "name": "dancing in the bedroom sky",
       "url": "https://open.spotify.com/track/6pszbuiSRAzNOUhKp2X8Fs"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 197007,
       "name": "DFWM",
       "url": "https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 259632,
       "name": "Everything's Fine?",
       "url": "https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 288333,
       "name": "Faces of The Moon",
       "url": "https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 271571,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 255176,
       "name": "Holding Onto History",
       "url": "https://open.spotify.com/track/5LJPsV27A8aIPAanwLgeAx"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 243013,
       "name": "Horoscope",
       "url": "https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 258500,
       "name": "If I Tried",
       "url": "https://open.spotify.com/track/1GBzKGW8kLGhL6eMPZRly8"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 169200,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/29YHCfHLkqLLWcf8GhPnA0"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 229253,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 244583,
       "name": "Mustard Yellow",
       "url": "https://open.spotify.com/track/2lY8B9x9JyQI6SVyp9OdtL"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 134129,
       "name": "Should I Ghost You...",
       "url": "https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY"
@@ -1431,6 +1431,24 @@
       "duration_ms": 158115,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/00o6tjjeGukLZiL6E42Oki"
+    },
+    {
+      "album": {
+        "name": "Straight Through",
+        "url": "https://open.spotify.com/album/32fagwM4LQVX8UmxSfQK3w"
+      },
+      "artists": [
+        {
+          "name": "The Revisit Project",
+          "url": "https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258311,
+      "name": "Straight Through",
+      "url": "https://open.spotify.com/track/7f6Neegr5RGVQlJlBXfFpX"
     },
     {
       "album": {

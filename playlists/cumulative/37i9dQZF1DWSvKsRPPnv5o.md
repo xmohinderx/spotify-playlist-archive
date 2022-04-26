@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Buddy
 
-134 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
+135 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Happy Hour \(feat\. T\-Pain\)](https://open.spotify.com/track/39O9qxLezqqrmre1TPGRVu) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 4:08 | 2022-04-01 |  |
 | [Hate To Say It](https://open.spotify.com/track/0JovAYpOGoftOSuQv3TRwO) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Hate To Say It](https://open.spotify.com/album/2MEAyPn9t8zILlTX4gIsY4) | 3:03 | 2022-01-07 | 2022-03-18 |
 | [Heaven's Sky \(feat\. Rae Khalil\)](https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Heaven's Sky \(feat\. Rae Khalil\)](https://open.spotify.com/album/6kMSbbsawyKtJ0K7qX2Idj) | 3:49 | 2022-03-11 | 2022-04-09 |
+| [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 | 2022-04-25 |  |
 | [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 | 2022-03-25 |  |
 | [How's Life?](https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V) | [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [How's Life?](https://open.spotify.com/album/4HupIdBw3l0quug7aznnrB) | 2:35 | 2022-01-28 | 2022-02-12 |
 | [I Need Bands](https://open.spotify.com/track/4mU3dpFlrTUqp94wrQodYk) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [I Need Bands](https://open.spotify.com/album/4Cu7Dpsdv8JUgiegEQ9Bg7) | 2:49 | 2022-01-21 | 2022-03-26 |

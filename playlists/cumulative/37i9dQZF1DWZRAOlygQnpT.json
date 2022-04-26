@@ -307,7 +307,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 142440,
       "name": "Atras de la Raya",
       "url": "https://open.spotify.com/track/2FNdexUP7hlmFd2N38he7R"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 152878,
       "name": "Bikini Amarillo",
       "url": "https://open.spotify.com/track/1iy0k2Bv1n1kgxr107m8IC"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 145693,
       "name": "Buen Rock Esta Noche",
       "url": "https://open.spotify.com/track/2Wg5G6SN48t9DSW6ifquvb"
@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Idolos del Rock",
+        "url": "https://open.spotify.com/album/3noLqOqUNBHAklGVJBfivo"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128240,
+      "name": "Camina No Corras",
+      "url": "https://open.spotify.com/track/0LHLE41hqltvWcZhZOrixI"
+    },
+    {
+      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 130440,
       "name": "Confidente de Secundaria",
       "url": "https://open.spotify.com/track/07OQkEjGeVdEoOhaQNHI4B"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 142306,
       "name": "Creo Estar Son\u0303ando",
       "url": "https://open.spotify.com/track/7e4atXDsoF97pSEcjrINYz"
@@ -656,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 2",
+        "url": "https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150905,
+      "name": "Dale Dale",
+      "url": "https://open.spotify.com/track/3Sa5qXg8JBBTR4SpasA7TS"
+    },
+    {
+      "album": {
         "name": "Idolos del Rock de los 60's: Enrique Guzman",
         "url": "https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA"
       },
@@ -671,6 +707,24 @@
       "duration_ms": 142638,
       "name": "Dame Felicidad",
       "url": "https://open.spotify.com/track/5RX0rW0SSkc1QOC1sDltUP"
+    },
+    {
+      "album": {
+        "name": "Polvora",
+        "url": "https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/3is2S5MnSWSRvtwr6a5IPp"
     },
     {
       "album": {
@@ -703,7 +757,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 150973,
       "name": "Dulces a Mi Amor",
       "url": "https://open.spotify.com/track/3s6xa3WDlEZ3QdPuyhftSh"
@@ -721,7 +775,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 151560,
       "name": "Eddy Eddy",
       "url": "https://open.spotify.com/track/1gQ3NYyKULxCt7Eo2Acblo"
@@ -865,7 +919,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 156213,
       "name": "Fiebre - Fever",
       "url": "https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE"
@@ -919,7 +973,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 119586,
       "name": "Haciendote el Amor",
       "url": "https://open.spotify.com/track/2YJLNtaV9ELglBVHymlKHk"
@@ -1009,7 +1063,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 128199,
       "name": "La Carrera Del Oso",
       "url": "https://open.spotify.com/track/1HxmciCZuRwYfoCkUT8iQK"
@@ -1085,6 +1139,28 @@
       "duration_ms": 138000,
       "name": "La Llorona Loca",
       "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
+    },
+    {
+      "album": {
+        "name": "Roots Of Rock En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        },
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230293,
+      "name": "La Mantequilla",
+      "url": "https://open.spotify.com/track/7fhZsTB9ip8h9H6vMcP8ux"
     },
     {
       "album": {
@@ -1243,7 +1319,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 146880,
       "name": "Lagrimas de Cristal",
       "url": "https://open.spotify.com/track/1yBSWdmQqj9c6wG8s9UmRw"
@@ -1261,7 +1337,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 147469,
       "name": "Lanza Tus Penas Al Viento",
       "url": "https://open.spotify.com/track/13mqmYz0oB4cWUv4TFo9XO"
@@ -1333,7 +1409,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 146200,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/30jcTXtRqIGhc3gVYUcxXD"
@@ -1355,6 +1431,24 @@
       "duration_ms": 116146,
       "name": "Los locos adams",
       "url": "https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ"
+    },
+    {
+      "album": {
+        "name": "Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/6UYBcb8bGJn02e8NbFTD3N"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203453,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/1ETo5cov4mQkdf99ACU6Hc"
     },
     {
       "album": {
@@ -1719,7 +1813,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 150546,
       "name": "Quiero Ser Libre",
       "url": "https://open.spotify.com/track/5GpqFKIvqrPjjoSqj7YVWE"
@@ -1737,7 +1831,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 99613,
       "name": "Rey Criollo",
       "url": "https://open.spotify.com/track/2rWCwIihps4gJwguqkLcM1"
@@ -1795,7 +1889,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 210866,
       "name": "Satisfacci\u00f3n",
       "url": "https://open.spotify.com/track/6TfxcRdNwHzQYTdAj18YAL"
@@ -1835,6 +1929,24 @@
       "duration_ms": 283400,
       "name": "Se\u00f1or Apache",
       "url": "https://open.spotify.com/track/0wuzTtmEaE7LqVx5UTcrUb"
+    },
+    {
+      "album": {
+        "name": "Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/7J3zAnHYs4XSpR3e9hh4fN"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186520,
+      "name": "Siempre Sola",
+      "url": "https://open.spotify.com/track/276gd9od4p2LF58WBY4o4t"
     },
     {
       "album": {
@@ -1903,7 +2015,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 149813,
       "name": "Sospecha",
       "url": "https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq"
@@ -1975,7 +2087,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 157400,
       "name": "Tequila Con Lim\u00f3n",
       "url": "https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn"
@@ -1993,7 +2105,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 143560,
       "name": "Tu Cabeza en Mi Hombro",
       "url": "https://open.spotify.com/track/2N1PFHYr57Rq2URPJcVsBD"
@@ -2083,7 +2195,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 185013,
       "name": "Venus",
       "url": "https://open.spotify.com/track/5ALgEAPt5pQrtF4GtEykLc"
@@ -2155,7 +2267,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 150013,
       "name": "Vuelve Primavera",
       "url": "https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27"
@@ -2173,7 +2285,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 150506,
       "name": "Vuelve Primavera",
       "url": "https://open.spotify.com/track/6qTtnTEEp4rTp2XDSeISzc"
@@ -2209,7 +2321,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 190466,
       "name": "Yo No Que No Vivo Sin Ti",
       "url": "https://open.spotify.com/track/7tG1AKK1vlsFINBasEhmis"
@@ -2227,7 +2339,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-26",
       "duration_ms": 80764,
       "name": "Yo No Soy Rebelde",
       "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"

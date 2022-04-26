@@ -4,7 +4,7 @@
 
 > No sleep, bus, club, another club\. Like this? You'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Charli XCX
 
-105 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+106 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-02-15 |  |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2022-02-15 |  |
 | [I Can't Get Enough](https://open.spotify.com/track/1F3NBThWyr845YUwpm5n1F) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [I Can't Get Enough](https://open.spotify.com/album/5LSeEdLSgCi2zQKYhmdIsb) | 2:48 | 2022-03-12 |  |
+| [I Hate People \(Willow Pill\)](https://open.spotify.com/track/5PbCpQEQnc7xXBv5aoN2Tl) | [The Cast of RuPaul's Drag Race, Season 14](https://open.spotify.com/artist/1rHLf5OwIQWxToS6Q4Kx1V) | [I Hate People \(Willow Pill\)](https://open.spotify.com/album/3PpaCJae6ubbL8gKGa5fre) | 1:11 | 2022-04-25 |  |
 | [I Love You But I Love Me More](https://open.spotify.com/track/351FDCXLTRFLiSdKz8lY0j) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:43 | 2022-02-15 |  |
 | [I'd Rather Have Sex](https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:53 | 2022-04-15 |  |
 | [Impossible](https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Impossible](https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX) | 6:27 | 2022-02-15 |  |
@@ -75,7 +76,7 @@
 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 | 2022-03-18 |  |
 | [My Love \- Dave Glass Animals Remix](https://open.spotify.com/track/5Y5Ygo55Uafu1K2KOqnTt4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [My Love \(Dave Glass Animals Remix\)](https://open.spotify.com/album/5dd31rqNnOvoVDvSt5ajdG) | 3:30 | 2022-04-15 |  |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 |  |
-| [New Moon](https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:14 | 2022-02-15 |  |
+| [New Moon](https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:14 | 2022-02-15 | 2022-04-26 |
 | [New Moon](https://open.spotify.com/track/3EVAefu8mmvsEEIrodOntQ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [New Moon](https://open.spotify.com/album/6Py9Dv51tZJmEdL2rFF9yt) | 3:14 | 2022-04-15 |  |
 | [Nobody](https://open.spotify.com/track/4wggHEIX8cZxWy3ktLdj5m) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Drunken Wordz Sober Thoughtz \(Deluxe Edition\)](https://open.spotify.com/album/4ue2Bx2IiCQ7LoQQJ2gmaM) | 2:34 | 2022-02-15 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-18 |  |

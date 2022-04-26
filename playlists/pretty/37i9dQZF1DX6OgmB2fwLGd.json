@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the Internet. Cover: JELEEL!",
-  "num_followers": 1105181,
+  "num_followers": 1105825,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDY1MDE2MCwwMDAwMDMwYjAwMDAwMTgwNTI2YTlkYjEwMDAwMDE4MDQ3N2Q5OGJm",
+  "snapshot_id": "MTY1MDkxNjc3MywwMDAwMDMwYzAwMDAwMTgwNjI0ZWNkNzkwMDAwMDE4MDQ3N2Q5OGJm",
   "tracks": [
     {
       "added_at": "2022-04-22 05:42:00",
@@ -269,26 +269,6 @@
       "url": "https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS"
     },
     {
-      "added_at": "2022-04-03 20:52:47",
-      "album": {
-        "name": "SlimeBall 2",
-        "url": "https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t"
-      },
-      "artists": [
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 227175,
-      "name": "EA (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
-    },
-    {
       "added_at": "2022-03-16 17:04:04",
       "album": {
         "name": "MURDAMAN!",
@@ -423,6 +403,26 @@
       "duration_ms": 165107,
       "name": "Yam",
       "url": "https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I"
+    },
+    {
+      "added_at": "2022-04-03 20:52:47",
+      "album": {
+        "name": "SlimeBall 2",
+        "url": "https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 227175,
+      "name": "EA (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
     },
     {
       "added_at": "2022-04-14 15:05:53",
@@ -569,26 +569,6 @@
       "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
     },
     {
-      "added_at": "2022-04-13 13:58:10",
-      "album": {
-        "name": "BABY OIL STAIRCASE / CHILLOUT",
-        "url": "https://open.spotify.com/album/5JpFMxX1pLRc75dGao7RW1"
-      },
-      "artists": [
-        {
-          "name": "The Cool Kids",
-          "url": "https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV"
-        },
-        {
-          "name": "Sir Michael Rocks",
-          "url": "https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx"
-        }
-      ],
-      "duration_ms": 143317,
-      "name": "HOME IMPROVEMENT",
-      "url": "https://open.spotify.com/track/50CjMb1ApJHu9hbKXLbohR"
-    },
-    {
       "added_at": "2022-03-28 17:37:45",
       "album": {
         "name": "IFeelLikeDirt",
@@ -715,6 +695,26 @@
       "duration_ms": 145564,
       "name": "Dumb Crasy",
       "url": "https://open.spotify.com/track/6GEz4RqQuNIOFXV2ghs1on"
+    },
+    {
+      "added_at": "2022-04-13 13:58:10",
+      "album": {
+        "name": "BABY OIL STAIRCASE / CHILLOUT",
+        "url": "https://open.spotify.com/album/5JpFMxX1pLRc75dGao7RW1"
+      },
+      "artists": [
+        {
+          "name": "The Cool Kids",
+          "url": "https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV"
+        },
+        {
+          "name": "Sir Michael Rocks",
+          "url": "https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx"
+        }
+      ],
+      "duration_ms": 143317,
+      "name": "HOME IMPROVEMENT",
+      "url": "https://open.spotify.com/track/50CjMb1ApJHu9hbKXLbohR"
     },
     {
       "added_at": "2022-04-04 22:27:58",
@@ -875,7 +875,7 @@
     {
       "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "Vulture Island V2",
+        "name": "Vulture Island V2 (with Lil Baby)",
         "url": "https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb"
       },
       "artists": [
@@ -889,7 +889,7 @@
         }
       ],
       "duration_ms": 209541,
-      "name": "Vulture Island V2",
+      "name": "Vulture Island V2 (with Lil Baby)",
       "url": "https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT"
     },
     {
@@ -977,26 +977,6 @@
       "url": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW"
     },
     {
-      "added_at": "2021-11-23 16:41:30",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        },
-        {
-          "name": "Okthxbb",
-          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
-        }
-      ],
-      "duration_ms": 224349,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9"
-    },
-    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "Doja",
@@ -1079,22 +1059,6 @@
       "duration_ms": 185160,
       "name": "RGB",
       "url": "https://open.spotify.com/track/08hDpMZBxJ11C4Eev0cXvt"
-    },
-    {
-      "added_at": "2022-03-17 19:38:55",
-      "album": {
-        "name": "34Corine",
-        "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 147920,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
     },
     {
       "added_at": "2022-02-02 22:22:20",
@@ -1247,22 +1211,6 @@
       "duration_ms": 103652,
       "name": "PELICAN",
       "url": "https://open.spotify.com/track/0V5TfRvQm0qLtv9Q0IPOKS"
-    },
-    {
-      "added_at": "2022-02-19 22:00:47",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2022-01-05 17:21:06",
@@ -1521,26 +1469,6 @@
       "url": "https://open.spotify.com/track/5yfMsbJda8sXVfnJHgm8Ke"
     },
     {
-      "added_at": "2021-12-14 15:29:17",
-      "album": {
-        "name": "22 (Remix)",
-        "url": "https://open.spotify.com/album/2iQfuA5dmh6bwo79pQ2ee7"
-      },
-      "artists": [
-        {
-          "name": "Lil Candy Paint",
-          "url": "https://open.spotify.com/artist/7eKI9e9Oa1muxmRwoY40kv"
-        },
-        {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "22 (Remix)",
-      "url": "https://open.spotify.com/track/1Tfl1OLWRg2l2gmrLudDEL"
-    },
-    {
       "added_at": "2022-01-06 15:55:16",
       "album": {
         "name": "FeniWorld",
@@ -1603,38 +1531,6 @@
       "duration_ms": 115684,
       "name": "CASINO",
       "url": "https://open.spotify.com/track/5iDpk9U5ktJY9ML4tJ6uaX"
-    },
-    {
-      "added_at": "2021-12-03 14:21:15",
-      "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14"
-      },
-      "artists": [
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        }
-      ],
-      "duration_ms": 134530,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II"
-    },
-    {
-      "added_at": "2022-03-01 21:14:12",
-      "album": {
-        "name": "Istbu (I'll Shoot This Bitch Up)",
-        "url": "https://open.spotify.com/album/5AAdGxRnMIWBZ0K0BiWqci"
-      },
-      "artists": [
-        {
-          "name": "Shooter McShootem",
-          "url": "https://open.spotify.com/artist/0iYOm5jZveoUVliLeAP8xE"
-        }
-      ],
-      "duration_ms": 188342,
-      "name": "Istbu (I'll Shoot This Bitch Up)",
-      "url": "https://open.spotify.com/track/44jbVr6FfDXB6mbqyvS7ir"
     },
     {
       "added_at": "2022-01-07 06:12:47",

@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "FUNK TO BLACK",
+        "url": "https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143826,
+      "name": "Funk To Black",
+      "url": "https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3"
+    },
+    {
+      "album": {
         "name": "Genuine",
         "url": "https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x"
       },

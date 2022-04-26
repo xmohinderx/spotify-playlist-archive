@@ -1,13 +1,33 @@
 {
-  "description": "Si la rompe, est\u00e1 ac\u00e1. \nFoto: WOS.",
-  "num_followers": 2707735,
+  "description": "Llego la #23 con Bizarrap & Paulo Londra.",
+  "num_followers": 2709303,
   "original_name": "\u00c9xitos Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU3NjY5NSwwMDAwMDFkYzAwMDAwMTgwNGUwOWEyNDkwMDAwMDE4MDIzNzA2YWY3",
+  "snapshot_id": "MTY1MDkyNDAwMCwwMDAwMDFkZDAwMDAwMTgwNjJiZDEzNmYwMDAwMDE4MDYxYzk1OGY2",
   "tracks": [
+    {
+      "added_at": "2022-04-25 22:00:00",
+      "album": {
+        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+        "url": "https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 258540,
+      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+      "url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM"
+    },
     {
       "added_at": "2022-04-21 21:31:35",
       "album": {
@@ -963,26 +983,6 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2022-04-21 21:31:35",
-      "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2022-04-21 21:31:35",
