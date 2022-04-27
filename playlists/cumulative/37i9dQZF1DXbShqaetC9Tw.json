@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 198653,
       "name": "24",
       "url": "https://open.spotify.com/track/1LndCu88RsOgzZXnZXxnUj"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 231692,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/22MFgEZeD4bMlKsa3Pp9wS"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 261705,
       "name": "bath",
       "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 220720,
       "name": "Don't cry (Feat. george) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/3pEGkFxAMIsz0qNadCveuX"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4tK8Ye9n2CMdLNLGObntax"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 188630,
       "name": "Frank Ocean",
       "url": "https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 274426,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0TVNwwR03yg6MvkDn12Oy3"
@@ -810,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Hate this love",
+        "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
+      },
+      "artists": [
+        {
+          "name": "JERO",
+          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Hate this love",
+      "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
+    },
+    {
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/4jfZZ3egNdJzQTq77uSbHe"
       },
@@ -850,6 +868,24 @@
     },
     {
       "album": {
+        "name": "I`m not ready yet",
+        "url": "https://open.spotify.com/album/7ebi1OOJMvN5j0e51w11Xw"
+      },
+      "artists": [
+        {
+          "name": "MAGO",
+          "url": "https://open.spotify.com/artist/7Bot84kmw6HboO5cTVSLXP"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "I`m not ready yet",
+      "url": "https://open.spotify.com/track/1jbUZJlpPejvs6QAe31rNu"
+    },
+    {
+      "album": {
         "name": "If You Didn\u2019t Know (With. Peej)",
         "url": "https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ"
       },
@@ -865,7 +901,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 296000,
       "name": "If You Didn\u2019t Know (With. Peej)",
       "url": "https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW"
@@ -923,7 +959,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 197343,
       "name": "I\u2019m afraid",
       "url": "https://open.spotify.com/track/6gfQx6a6RN7DzCklR9Re4I"
@@ -995,10 +1031,28 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 156551,
       "name": "London",
       "url": "https://open.spotify.com/track/6gFH1XTKibwn3Yw5SdcFe5"
+    },
+    {
+      "album": {
+        "name": "THE ARTIST",
+        "url": "https://open.spotify.com/album/5I4UXnGYkAaDenWYmApziK"
+      },
+      "artists": [
+        {
+          "name": "40",
+          "url": "https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Lonley Night",
+      "url": "https://open.spotify.com/track/1z74DqFEFLL1ZBSu0ef6Lq"
     },
     {
       "album": {
@@ -1031,7 +1085,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 184026,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/6sKXC3X5tw2jQ3IUFp4DWt"
@@ -1165,7 +1219,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 150930,
       "name": "moving on",
       "url": "https://open.spotify.com/track/14y3ITOtt6FsP8xxda3at1"
@@ -1187,7 +1241,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 226000,
       "name": "Night after night (Feat. Hauzee)",
       "url": "https://open.spotify.com/track/4ix7WeS3DYGa9wfexshzJ7"
@@ -1245,7 +1299,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 370659,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
@@ -1271,7 +1325,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/0HaxQubRJkcX3oQvy6u1px"
@@ -1459,7 +1513,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 181211,
       "name": "sad love song",
       "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
@@ -1499,7 +1553,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 197867,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0CE4igtHymDL5Zc2y8jIWZ"
@@ -1619,7 +1673,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 198000,
       "name": "Sunrise (Feat. EunBii)",
       "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
@@ -1673,7 +1727,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 124913,
       "name": "the day we first met",
       "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"
@@ -1763,7 +1817,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 164601,
       "name": "Understand Me",
       "url": "https://open.spotify.com/track/2XyO0c7PxtoDypkVj4sWMu"
@@ -1825,7 +1879,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 153720,
       "name": "when i was your man (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/6XKKfWOUqyx3HpEKvIF6Vy"

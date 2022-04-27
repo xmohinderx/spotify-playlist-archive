@@ -4,7 +4,7 @@
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Schiuma
 
-183 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+184 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dove Sei](https://open.spotify.com/track/0M9mcBKqWfC1aBIBVmkYLY) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [Dove Sei](https://open.spotify.com/album/7ccaS1a0IBF78EQrq3Y2hD) | 2:51 | 2022-03-24 | 2022-04-20 |
 | [DPCM](https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [DPCM](https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX) | 2:24 | 2022-03-17 | 2022-04-20 |
 | [Essere Luce](https://open.spotify.com/track/5id3YaYmvIT7hwxei64WST) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Essere Luce](https://open.spotify.com/album/22BJjsYEva9pQnKYxeo9mk) | 2:42 | 2022-02-17 | 2022-02-24 |
+| [Fantasma quattro](https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw) | [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Fantasma quattro](https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH) | 3:29 | 2022-04-26 |  |
 | [FELICITÀ](https://open.spotify.com/track/7iEEPQoP5KyUrrWl3xKCIf) | [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [FELICITÀ](https://open.spotify.com/album/20LMfMWno4ZAIRQSunGdCr) | 2:15 | 2022-04-19 |  |
 | [FILM AMERICANI](https://open.spotify.com/track/3D6INHioHKzzzL8wdIJ963) | [Piazza](https://open.spotify.com/artist/1sWHILK0UhZBC0GsT6Wy9H) | [FILM AMERICANI](https://open.spotify.com/album/7FcApNMMQVhwRluJTLGNiR) | 2:38 | 2022-02-17 | 2022-03-25 |
 | [Fiordilatte](https://open.spotify.com/track/0DhOK8RO4wg0uUdiFvg48O) | [Yuma](https://open.spotify.com/artist/3TSbPuX2fNmCbH5Zkz0gKT) | [Fiordilatte](https://open.spotify.com/album/2FQBErp7JAJEmNLMuJroso) | 2:38 | 2022-01-06 | 2022-02-18 |
@@ -139,7 +140,7 @@
 | [Raffaele](https://open.spotify.com/track/3hw77UZ8NlmrkWKnhWAdpx) | [azael](https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk), [Gemma](https://open.spotify.com/artist/697GLwQ7kujCXwK3KwYMex) | [Raffaele](https://open.spotify.com/album/7FXPIWymJ14tdgqAScp0L1) | 2:11 | 2022-01-06 | 2022-02-25 |
 | [RESTI](https://open.spotify.com/track/6OrbgLPXxhmjxJ7WPKLxKk) | [Hen848](https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo), [brucianoviole](https://open.spotify.com/artist/1I5GYRGNpO0YzBurQq6CMt), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z) | [RESTI](https://open.spotify.com/album/0nqLgPwGIcd6ts9w9Ajz5l) | 2:04 | 2022-03-03 | 2022-04-20 |
 | [Resto a casa](https://open.spotify.com/track/1FKOEl0vzCzjFtHX8tm17U) | [Savior](https://open.spotify.com/artist/4sj5SWNpj0OmXxEbZ17hg3), [Martina Di Nardo](https://open.spotify.com/artist/2ZK8BeEdf8NpZQXG23iIdx) | [Resto a casa](https://open.spotify.com/album/2IiiRQm9S8Iq3Vp5tyMLIH) | 2:44 | 2022-04-19 |  |
-| [Revolver](https://open.spotify.com/track/5l0X6rFDo4hKZzs7cJTRqA) | [Jann](https://open.spotify.com/artist/1LV2dU8v9YafKzmL5Od175), [Lamb](https://open.spotify.com/artist/1jyG2mHUtXwSNdtEh7ldCm) | [Revolver](https://open.spotify.com/album/1GkRICQxPixKx5E7eS8iER) | 2:59 | 2022-04-19 |  |
+| [Revolver](https://open.spotify.com/track/5l0X6rFDo4hKZzs7cJTRqA) | [Jann](https://open.spotify.com/artist/1LV2dU8v9YafKzmL5Od175), [Lamb](https://open.spotify.com/artist/1jyG2mHUtXwSNdtEh7ldCm) | [Revolver](https://open.spotify.com/album/1GkRICQxPixKx5E7eS8iER) | 2:59 | 2022-04-19 | 2022-04-27 |
 | [RICCI](https://open.spotify.com/track/5t7YErUpV2VUm2xNHJlx5Z) | [Diego Se77e](https://open.spotify.com/artist/6BoYsdnimBfJjEIE8zvinE) | [RICCI](https://open.spotify.com/album/2VuqUJSDkuiip9Z5QEjsKk) | 3:26 | 2022-02-17 | 2022-03-18 |
 | [risveglio](https://open.spotify.com/track/1Ag3vPKeWC7UPdE0Cjp1tL) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [risveglio](https://open.spotify.com/album/5URmMFHRSSz0VkAQ676C12) | 4:03 | 2022-03-17 | 2022-04-09 |
 | [Roma&Milano](https://open.spotify.com/track/3Blp71EcoRUPgE2NqLB5ta) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [Roma&Milano](https://open.spotify.com/album/2H4fq1mHOupRy9okiFfCqz) | 4:08 | 2022-02-17 | 2022-03-04 |

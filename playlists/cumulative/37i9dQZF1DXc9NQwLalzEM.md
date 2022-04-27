@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-136 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
+137 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [With My Love and What You've Got \(We Could Turn This World Around\)](https://open.spotify.com/track/0Kumf47kWgjaHmfXhyGRz8) | [Jean Wells](https://open.spotify.com/artist/5nE0fOlaVCjRBSZv2NA51m) | [Soul on Soul \- Deluxe Edition](https://open.spotify.com/album/3T0UrjowpknxYWhpMxH5CZ) | 2:22 | 2021-04-23 |  |
 | [Yellow Sunshine](https://open.spotify.com/track/2qmmw7HDfGNVFr3e9s26Cc) | [Yellow Sunshine](https://open.spotify.com/artist/7m64pEAzGkLbAlbX2g0Mmj) | [Conquer The World: The Lost Soul Of Philadelphia International Records](https://open.spotify.com/album/36EyfRc4KIyWtqdIZw1xSX) | 3:23 | 2021-07-20 |  |
 | [Yes, You Need Love](https://open.spotify.com/track/64JBsxyOVpGnlmdFkHQZc8) | [Anthony White](https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o) | [Could It Be Magic](https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9) | 3:33 | 2021-07-20 |  |
+| [You Can Count On Me](https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH) | [Mel Carter](https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9) | [You Can Count On Me](https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH) | 3:16 | 2022-04-26 |  |
 | [You Got Your Hooks in Me](https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 5:33 | 2021-07-20 |  |
 | [You Turned My Bitter Into Sweet](https://open.spotify.com/track/0aJX2WFX97UU3yWX71dP08) | [Mary Love](https://open.spotify.com/artist/7jgQOElLx7PDCxydTpJmMN) | [The Complete Modern & Best of the Co Love Sides](https://open.spotify.com/album/4oUoOJCUHDv3y9LFyFLipX) | 2:25 | 2021-04-23 |  |
 

@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 204291,
       "name": "Lazy Strut",
       "url": "https://open.spotify.com/track/5pavJrzDLfSRYMl62vfcIq"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 243211,
       "name": "She Said Yes",
       "url": "https://open.spotify.com/track/5xsMDruQqVmgxPhhZ7t1vR"
@@ -1654,6 +1654,24 @@
     },
     {
       "album": {
+        "name": "That Old Feeling",
+        "url": "https://open.spotify.com/album/0DSCDie1N9Xej8MtsijDBf"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110598,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/2j8nvcUdCDr3VWL2uMlyyn"
+    },
+    {
+      "album": {
         "name": "Mack the Knife",
         "url": "https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE"
       },
@@ -1875,6 +1893,24 @@
       "duration_ms": 345333,
       "name": "Tropical",
       "url": "https://open.spotify.com/track/7024KIeggkxn5C1k5SwXtC"
+    },
+    {
+      "album": {
+        "name": "Try To Remember",
+        "url": "https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx"
+      },
+      "artists": [
+        {
+          "name": "The Jazz Cultivators",
+          "url": "https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206456,
+      "name": "Try To Remember",
+      "url": "https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM"
     },
     {
       "album": {

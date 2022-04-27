@@ -1,13 +1,29 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 955583,
+  "num_followers": 955890,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDc0MzAzNSwwMDAwMDA3MTAwMDAwMTgwNTdmM2M2N2QwMDAwMDE4MDQ3NjA1MWU0",
+  "snapshot_id": "MTY1MDk4ODY1MCwwMDAwMDA3MjAwMDAwMTgwNjY5NzkwN2EwMDAwMDE4MDQ3NjA1MWU0",
   "tracks": [
+    {
+      "added_at": "2022-04-26 15:57:30",
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/5d9iCqwcR7htS1E7OxOnhp"
+      },
+      "artists": [
+        {
+          "name": "Dream",
+          "url": "https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd"
+        }
+      ],
+      "duration_ms": 174936,
+      "name": "Mask",
+      "url": "https://open.spotify.com/track/3IxMaULfjq4IT2IN6v54PB"
+    },
     {
       "added_at": "2022-04-20 14:31:54",
       "album": {

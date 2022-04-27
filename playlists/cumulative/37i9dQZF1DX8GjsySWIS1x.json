@@ -7684,6 +7684,24 @@
     },
     {
       "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/5d9iCqwcR7htS1E7OxOnhp"
+      },
+      "artists": [
+        {
+          "name": "Dream",
+          "url": "https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174936,
+      "name": "Mask",
+      "url": "https://open.spotify.com/track/3IxMaULfjq4IT2IN6v54PB"
+    },
+    {
+      "album": {
         "name": "Quarantape",
         "url": "https://open.spotify.com/album/05dORRfKs14KYtIKJsZTF5"
       },

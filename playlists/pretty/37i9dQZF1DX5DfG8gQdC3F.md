@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,581 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,236 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 28 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 |
 | 29 | [Brazy \(with YNW Melly\)](https://open.spotify.com/track/6wVUIV8RvwlLJlK1DsgVdj) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Brazy](https://open.spotify.com/album/5NPJChyQgOZaESCjr2EgVg) | 2:49 |
 | 30 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 |
-| 31 | [Ain't the Same](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 |
+| 31 | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 |
 | 32 | [Reverse the Curse](https://open.spotify.com/track/0618dwZ3KXzP71tuGsVhq0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Reverse the Curse](https://open.spotify.com/album/5IlyN5Kvcomt1cR5Kv43Oo) | 3:54 |
 | 33 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 |
 | 34 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 |

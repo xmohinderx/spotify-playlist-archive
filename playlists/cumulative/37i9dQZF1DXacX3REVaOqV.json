@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/163b7exEQvkGqfQxInxYBC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219028,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/2LvBuNhDu3SWaPudMo2zGq"
+    },
+    {
+      "album": {
         "name": "A Bit Patchy (Remixes)",
         "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 220487,
       "name": "Alga",
       "url": "https://open.spotify.com/track/5Jh8ToH4GZSokq32oUDn6U"
@@ -169,7 +187,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 158434,
       "name": "Amen",
       "url": "https://open.spotify.com/track/0Sn2weTj8FtwkCoTD29LNf"
@@ -187,7 +205,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 373720,
       "name": "Aquarius Swing",
       "url": "https://open.spotify.com/track/5DL059fT2EWGJsurcEGlQE"
@@ -209,7 +227,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 189677,
       "name": "Arms - Sidney Samson Remix",
       "url": "https://open.spotify.com/track/3kgVF7C4wllZ5WzcRiPK0t"
@@ -285,7 +303,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 369523,
       "name": "Bambam",
       "url": "https://open.spotify.com/track/4rFDOfzY5KT8t7VA9KFpDm"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 382571,
       "name": "Deep End - Extended Mix",
       "url": "https://open.spotify.com/track/0W9Z8mKU3kSZAaojz5rqwO"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 374629,
       "name": "Don't You Want Some More",
       "url": "https://open.spotify.com/track/5DDmcUb3wnPXhZwom0wjZq"
@@ -781,10 +799,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 377609,
       "name": "Elle - Amorhouse & Fennel Club Mix",
       "url": "https://open.spotify.com/track/6N6gSsS03vNEBmzJksbNXE"
+    },
+    {
+      "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/5JbjrwkXD1x8OWzaeONVXM"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284460,
+      "name": "Eros",
+      "url": "https://open.spotify.com/track/3HJr6Bql5OLIqMfg2qm990"
     },
     {
       "album": {
@@ -839,7 +875,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 376721,
       "name": "Everything You Say",
       "url": "https://open.spotify.com/track/2Ps1fYFcUdqIbgJW5DqgHj"
@@ -879,7 +915,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 208524,
       "name": "Feel My Needs",
       "url": "https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc"
@@ -1047,7 +1083,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 192958,
       "name": "Good Times - Radio Edit",
       "url": "https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv"
@@ -1191,7 +1227,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 144761,
       "name": "Higher (feat. your friend polly)",
       "url": "https://open.spotify.com/track/7t6Q4FkHC53gXmLLP8OKNu"
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 325414,
       "name": "Leko - Session Victim Remix",
       "url": "https://open.spotify.com/track/18nGprzEucUO4FF768lLhe"
@@ -1637,7 +1673,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 218062,
       "name": "Let Me Love You - Earth n Days Remix",
       "url": "https://open.spotify.com/track/7BoMk5Bi1yN2noakUwXgg5"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 456533,
       "name": "Lovelee Dae - Original",
       "url": "https://open.spotify.com/track/3CUZhJEreKw7B80VTL9K6e"
@@ -2093,7 +2129,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 288682,
       "name": "Naked - Fouk Remix",
       "url": "https://open.spotify.com/track/1uUOhrg9zNbam7HtmUfAu0"
@@ -2173,7 +2209,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 237941,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0QrMI79qOhxVmjICelzbyZ"
@@ -2373,7 +2409,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 343911,
       "name": "Paris City Jazz",
       "url": "https://open.spotify.com/track/0dbqPssLj7KzNTH81tcsrZ"
@@ -2391,7 +2427,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 418899,
       "name": "Pasci\u00e0",
       "url": "https://open.spotify.com/track/3B9pguwtbemJQlVWkxrfeU"
@@ -2465,7 +2501,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 194978,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/2yfBO8K26U04vEP8vHrqgE"
@@ -2711,7 +2747,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 180937,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1u3AbZvelg9GqMrp5jbikq"
@@ -2785,7 +2821,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
@@ -2869,7 +2905,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 178546,
       "name": "Spells Of Yoruba - Jamie Jones Watertight Mix",
       "url": "https://open.spotify.com/track/6OEVWRWJ0ZkGFOFSp3cNOR"
@@ -3147,7 +3183,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 435909,
       "name": "The Day - Alternate",
       "url": "https://open.spotify.com/track/7ljUxtrd8bRDVUbMhfIZnT"
@@ -3451,7 +3487,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
@@ -3531,7 +3567,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 220952,
       "name": "Won't Explain",
       "url": "https://open.spotify.com/track/28sh8QxMveO01irLmUOjP5"

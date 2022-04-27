@@ -109,7 +109,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 141680,
       "name": "Banana Co.",
       "url": "https://open.spotify.com/track/0PNFruXOgV5Vsf3OjsiDYW"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 401101,
       "name": "Billy Liar - Live",
       "url": "https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 300306,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 973173,
       "name": "Goodbye Sky Harbor",
       "url": "https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 112386,
       "name": "Hate the Villanelle",
       "url": "https://open.spotify.com/track/3fPSVnmmq2nOWM4VOmiKww"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 255756,
       "name": "I'm Writing A Novel - Spotify Sessions Curated by Jim Eno",
       "url": "https://open.spotify.com/track/1QIOQ3XARduygQqRIif0f7"
@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Nice Dreams",
+        "url": "https://open.spotify.com/album/2DaBNp3C4tmUnTdupdhSFg"
+      },
+      "artists": [
+        {
+          "name": "Coke Weed",
+          "url": "https://open.spotify.com/artist/3rUruYHWt57tni4mdiN43r"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275080,
+      "name": "No Poem",
+      "url": "https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO"
+    },
+    {
+      "album": {
         "name": "Chainmail and Cello",
         "url": "https://open.spotify.com/album/19q5b0ZqgnNgSO5hEcHhKa"
       },
@@ -563,6 +581,24 @@
       "duration_ms": 196226,
       "name": "Oh, Mr. Darcy",
       "url": "https://open.spotify.com/track/5TJRMmxQW1WbLh5ZUMfYe0"
+    },
+    {
+      "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "Open Book",
+      "url": "https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0"
     },
     {
       "album": {
@@ -595,7 +631,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 195733,
       "name": "Oxford Comma",
       "url": "https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM"
@@ -617,6 +653,24 @@
       "duration_ms": 208828,
       "name": "Paperback Writer - Live At Citi Field, NYC, 2009",
       "url": "https://open.spotify.com/track/66JNz0BxRKrno33Jha7i7R"
+    },
+    {
+      "album": {
+        "name": "Sonic Nurse",
+        "url": "https://open.spotify.com/album/360WG1hup7svzIcIqWQ4CE"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392506,
+      "name": "Pattern Recognition",
+      "url": "https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy"
     },
     {
       "album": {
@@ -703,7 +757,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 240640,
       "name": "Rejoyce",
       "url": "https://open.spotify.com/track/2XClue0OiR8tBFuObNCvZ0"
@@ -829,7 +883,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 153840,
       "name": "Soma",
       "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
@@ -919,7 +973,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 299386,
       "name": "The Fisher King Blues",
       "url": "https://open.spotify.com/track/1zQY0eYND0ZPSFxw3gGupB"
@@ -973,7 +1027,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 292933,
       "name": "The River",
       "url": "https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw"
@@ -1139,7 +1193,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 233600,
       "name": "Walt Whitman's Niece",
       "url": "https://open.spotify.com/track/5H3wCJbN88o19K3inKBaMZ"
@@ -1193,7 +1247,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"

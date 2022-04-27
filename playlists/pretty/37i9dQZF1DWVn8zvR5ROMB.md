@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,708 likes - 158 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,777 likes - 158 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 12 | [Things You Can't Live Without \(with Travis Tritt\)](https://open.spotify.com/track/4DMtfdorMz6ShoAi9jDxhw) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Things You Can't Live Without \(with Travis Tritt\)](https://open.spotify.com/album/2CqH8nKS2YzxNgJwwmB03b) | 3:25 |
 | 13 | [First Stone](https://open.spotify.com/track/4db9igp4BZoO2ZykBBCOAO) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [First Stone](https://open.spotify.com/album/4O2lTDSonLUmdwyLTkxqMq) | 3:23 |
 | 14 | [Country Music, Girls & Trucks](https://open.spotify.com/track/0dRk0106XGkXC9KVrrhVrM) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Music, Girls & Trucks](https://open.spotify.com/album/04pktfYd1ueQnQmuAznv0d) | 2:49 |
-| 15 | [Ain't the Same](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 |
+| 15 | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 |
 | 16 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 |
 | 17 | [How's The View In New York City](https://open.spotify.com/track/0UjQvM1QquxFWaY4slb3GV) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [How's The View In New York City](https://open.spotify.com/album/6Vkh1fFMaO7S147mCuvGia) | 3:24 |
 | 18 | [Guilty](https://open.spotify.com/track/3oMw1Me5BrUyVdAcjtn0BS) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Guilty](https://open.spotify.com/album/4gAIYOwt94MpkgGTSDwJEi) | 2:44 |

@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 556629,
       "name": "A Mountain Told Me",
       "url": "https://open.spotify.com/track/3j41oMxuWlmLLDGdIsi8ZF"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 523124,
       "name": "Abducted by Aliens - Original Mix",
       "url": "https://open.spotify.com/track/3mrlDJmGdbW7wZxnvLJXo5"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 440547,
       "name": "Around the Stars",
       "url": "https://open.spotify.com/track/5zEkJhlypnzAjacqTemCea"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Aware",
       "url": "https://open.spotify.com/track/2kp6AKfu0JauDqwqTBSSVP"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 459428,
       "name": "Bhavani Ashtakam",
       "url": "https://open.spotify.com/track/4hBD1db3F4KkvigumOTDMD"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 331094,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 252173,
       "name": "Buzzing",
       "url": "https://open.spotify.com/track/2OTiWzHcsCsRO9Ot3VdDmF"
@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/3HLysNwDBKFdCJBlLXAsbv"
+      },
+      "artists": [
+        {
+          "name": "Schameleon",
+          "url": "https://open.spotify.com/artist/38rdvu0UtjclycKzhokGjk"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388158,
+      "name": "Dancin' On Me",
+      "url": "https://open.spotify.com/track/249gmgGjdauLwoaGrhrDA0"
+    },
+    {
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1NMqrP1M0rDVI3WQARWLRg"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 450206,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 379130,
       "name": "Dark Oscillator",
       "url": "https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 510000,
       "name": "Enlightenment",
       "url": "https://open.spotify.com/track/7F8ACXtI6sU7dmYuBJJfrh"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 419130,
       "name": "Famous",
       "url": "https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 439190,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 351549,
       "name": "Hi-Psy",
       "url": "https://open.spotify.com/track/4P37PI8hE5xCrhXOx00OzY"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5GyZRuphTVUYfwdKgZAMJD"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 284571,
       "name": "In The Darkness - Strangeform Remix",
       "url": "https://open.spotify.com/track/2Xe7MKZSmXVMRQZdyXTni0"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 358945,
       "name": "NAMAHA",
       "url": "https://open.spotify.com/track/19vs5EKA0WfxAmjDLzLhnx"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 285250,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/00Y4T8p3xKyO1xMadFmTeD"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 420000,
       "name": "Orb - Original",
       "url": "https://open.spotify.com/track/0f6m4aY3YhGXMvRm8LxGqn"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 446197,
       "name": "Sacred Space - Original mix",
       "url": "https://open.spotify.com/track/4WgAzEQpYRXn7oyWG3Iu0H"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 501971,
       "name": "Snap",
       "url": "https://open.spotify.com/track/7aj4xtdZhFZW1kJ2TygT0C"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 556521,
       "name": "TLV SAO - Gaudium Remix",
       "url": "https://open.spotify.com/track/58pvxSaCEBk1YOeHYvWuSg"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 390011,
       "name": "You Wanna Stay",
       "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"

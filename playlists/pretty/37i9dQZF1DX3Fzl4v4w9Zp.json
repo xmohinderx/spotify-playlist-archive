@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Old Crow Medicine Show",
-  "num_followers": 584940,
+  "num_followers": 585035,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5NTIwMCwwMDAwMDEwZTAwMDAwMTgwMmI2MGI2YzIwMDAwMDE3ZjIzY2Q2MWRl",
+  "snapshot_id": "MTY1MTAwOTQ2OSwwMDAwMDEwZjAwMDAwMTgwNjdkNTNkZDcwMDAwMDE3ZjIzY2Q2MWRl",
   "tracks": [
     {
       "added_at": "2022-04-15 04:00:00",
@@ -155,6 +155,22 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic"
+    },
+    {
+      "added_at": "2022-04-26 21:44:29",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "Something in the Orange - Z&E's Version",
+      "url": "https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr"
     },
     {
       "added_at": "2022-04-15 04:00:00",

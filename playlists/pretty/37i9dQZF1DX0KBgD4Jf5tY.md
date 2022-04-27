@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Schiuma
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,609 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,620 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 12 | [Scuse](https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6) | [44Moca](https://open.spotify.com/artist/5mE5vxk4MlRxhcAHgbPKpQ), [Nelson](https://open.spotify.com/artist/4GvQ2vmzbBgRXhjGlgYeYR) | [Scuse](https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK) | 2:35 |
 | 13 | [Buio](https://open.spotify.com/track/3dsMyJ5lR9ammFyy8G4RjE) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI) | [I figli degli altri](https://open.spotify.com/album/0pBDpnqaruZbsNDn1a0rzR) | 3:32 |
 | 14 | [Ho perso il conto](https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y) | [GENESI](https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw) | 3:19 |
-| 15 | [HOUDINI](https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA) | [Franek Windy](https://open.spotify.com/artist/1N0nTSt5dfmWS9kGChRAIL), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [HOUDINI](https://open.spotify.com/album/4B9YmfMSiJXlMLeDpoJylM) | 2:32 |
-| 16 | [Anima Gemella \(1926\)](https://open.spotify.com/track/4594QC5Q9USRBX2KDJnf9f) | [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU), [rrageless](https://open.spotify.com/artist/0pjFf3X1jg3UVCVvreDJ3F) | [3x3+2](https://open.spotify.com/album/3i3kWVR2RaOD2pjQ4bRcYK) | 2:39 |
-| 17 | [quattro](https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61) | [bianca](https://open.spotify.com/artist/6Cuyy7LGKfJqK91oFBd2yc) | [quattro](https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe) | 3:04 |
-| 18 | [Tutta Pratica](https://open.spotify.com/track/67YI8g9GQGZXorJlNKxc7S) | [Nick Sick](https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO) | [Tutta Pratica](https://open.spotify.com/album/6OCyskhIDhJppKGjv75maw) | 3:47 |
-| 19 | [Kids are electric](https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 3:38 |
-| 20 | [.specchi spettri](https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.specchi spettri](https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs) | 3:38 |
-| 21 | [FELICITÀ](https://open.spotify.com/track/7iEEPQoP5KyUrrWl3xKCIf) | [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [FELICITÀ](https://open.spotify.com/album/20LMfMWno4ZAIRQSunGdCr) | 2:15 |
-| 22 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 |
-| 23 | [Per difetto della crescita](https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [Lucky lapolo](https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo) | [L’industria, il pop, la camera, il sesso](https://open.spotify.com/album/5eI8V3EE321knkysf7pkPH) | 2:03 |
-| 24 | [Revolver](https://open.spotify.com/track/5l0X6rFDo4hKZzs7cJTRqA) | [Jann](https://open.spotify.com/artist/1LV2dU8v9YafKzmL5Od175), [Lamb](https://open.spotify.com/artist/1jyG2mHUtXwSNdtEh7ldCm) | [Revolver](https://open.spotify.com/album/1GkRICQxPixKx5E7eS8iER) | 2:59 |
+| 15 | [Fantasma quattro](https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw) | [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Fantasma quattro](https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH) | 3:29 |
+| 16 | [HOUDINI](https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA) | [Franek Windy](https://open.spotify.com/artist/1N0nTSt5dfmWS9kGChRAIL), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [HOUDINI](https://open.spotify.com/album/4B9YmfMSiJXlMLeDpoJylM) | 2:32 |
+| 17 | [Anima Gemella \(1926\)](https://open.spotify.com/track/4594QC5Q9USRBX2KDJnf9f) | [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU), [rrageless](https://open.spotify.com/artist/0pjFf3X1jg3UVCVvreDJ3F) | [3x3+2](https://open.spotify.com/album/3i3kWVR2RaOD2pjQ4bRcYK) | 2:39 |
+| 18 | [quattro](https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61) | [bianca](https://open.spotify.com/artist/6Cuyy7LGKfJqK91oFBd2yc) | [quattro](https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe) | 3:04 |
+| 19 | [Tutta Pratica](https://open.spotify.com/track/67YI8g9GQGZXorJlNKxc7S) | [Nick Sick](https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO) | [Tutta Pratica](https://open.spotify.com/album/6OCyskhIDhJppKGjv75maw) | 3:47 |
+| 20 | [Kids are electric](https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 3:38 |
+| 21 | [.specchi spettri](https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.specchi spettri](https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs) | 3:38 |
+| 22 | [FELICITÀ](https://open.spotify.com/track/7iEEPQoP5KyUrrWl3xKCIf) | [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [FELICITÀ](https://open.spotify.com/album/20LMfMWno4ZAIRQSunGdCr) | 2:15 |
+| 23 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 |
+| 24 | [Per difetto della crescita](https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [Lucky lapolo](https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo) | [L’industria, il pop, la camera, il sesso](https://open.spotify.com/album/5eI8V3EE321knkysf7pkPH) | 2:03 |
 | 25 | [Dentro la mia pelle](https://open.spotify.com/track/3VLA9s4mWD4udmkdckgirS) | [SPZ](https://open.spotify.com/artist/2kEtteuOn6wl0cl1D2mRZQ) | [Dentro la mia pelle](https://open.spotify.com/album/40NKA8YVc1zxXCPlwioflm) | 4:13 |
 | 26 | [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 |
 | 27 | [Logiche](https://open.spotify.com/track/7oEm3YZ68SZMkNV7GVNP4C) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM) | [Non ti scordar di me](https://open.spotify.com/album/7tUCuhD58UCoPcOqFTNzqg) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Ucciderò](https://open.spotify.com/track/37U1dpnnOPunrt7sXoA7Zh) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Ucciderò](https://open.spotify.com/album/4Ff1liKfmFMWViEw1wPxdE) | 3:36 |
 | 50 | [Viole](https://open.spotify.com/track/48cQYam5RsGPfcRWOZogaa) | [Kick](https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC) | [Viole](https://open.spotify.com/album/01rzY7vkCEeq30l2uxe0wt) | 3:51 |
 
-Snapshot ID: `MTY1MDYyNzk1OSwwMDAwMDA0ZDAwMDAwMTgwNTExN2RiNGEwMDAwMDE4MDQxNmE5NDc0`
+Snapshot ID: `MTY1MDk2NTI2NiwwMDAwMDA0ZTAwMDAwMTgwNjUzMmJmOGQwMDAwMDE4MDQxNmE5NDc0`

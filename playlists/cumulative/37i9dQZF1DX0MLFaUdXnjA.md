@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Stephen Sanchez
 
-926 songs - 2 day 0 hr 51 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+927 songs - 2 day 0 hr 54 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [down](https://open.spotify.com/track/7pV0Yzu2NWogAAVHc9uSIt) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [down](https://open.spotify.com/album/791HeyZ9uqsCO3Nqxz9rnO) | 3:14 | 2020-09-11 | 2020-11-27 |
 | [Drama Queen](https://open.spotify.com/track/7K4vZUin6BMe1QOM0QpmLO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Drama Queen](https://open.spotify.com/album/4g9Q2JI0ehh0VQ40vLcbFz) | 4:52 | 2021-05-22 | 2021-06-26 |
 | [Dreaming, backwards](https://open.spotify.com/track/1BOLqjrrdHyg5OizFQ6Fad) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Turbulence](https://open.spotify.com/album/6qCvcdD29PG7aIEkmtSIu5) | 3:33 | 2020-07-31 | 2020-10-30 |
-| [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 |  |
+| [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2022-04-27 |
 | [Dust](https://open.spotify.com/track/7gKB72lW18lE0pfo9GMzMJ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [After The Landslide](https://open.spotify.com/album/02DGbYqBLeNFuCx7SB200D) | 3:18 | 2020-04-26\* | 2020-07-18 |
 | [Easy](https://open.spotify.com/track/3nyRWdbLh6gSembPFBvovm) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Easy](https://open.spotify.com/album/1JvToB7yIkLMk4Fw6ARPgK) | 3:11 | 2021-01-23 | 2021-05-15 |
 | [Election Night](https://open.spotify.com/track/4YtuMlqBjqZKTNl5roHdnw) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Election Night](https://open.spotify.com/album/1CiLPhpIdbUsrJlf3SvCNe) | 3:30 | 2021-09-11 | 2021-10-02 |
@@ -749,6 +749,7 @@
 | [sometimes](https://open.spotify.com/track/5CwA7YPNAcXVJmazELgRc0) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [sometimes](https://open.spotify.com/album/7Gk405ileQ0t9VFLo1YE9A) | 2:43 | 2020-10-16 | 2021-02-19 |
 | [Sorry](https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Sorry](https://open.spotify.com/album/6j4oMq6GQubGAHoYqEGrwY) | 3:00 | 2021-09-11 | 2021-10-02 |
 | [Sour](https://open.spotify.com/track/6wcV8y4rbQYrzIJMFsV8fi) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Am I Talking Too Much?](https://open.spotify.com/album/2PUYHptFsiexQZ0lEFy8eQ) | 3:48 | 2021-08-07 | 2021-09-18 |
+| [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-04-26 |  |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-01-07 |  |
 | [split](https://open.spotify.com/track/5nbxDkzioPTA0QL4TjBgJN) | [georgee](https://open.spotify.com/artist/27RSBwbjahAvMQOP2aoqSs) | [split](https://open.spotify.com/album/42HFAsDWNdRXP9jrLX5BF7) | 2:40 | 2022-02-25 | 2022-04-16 |
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2020-04-26\* | 2020-07-31 |

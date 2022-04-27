@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "abcdefu (Guitar)",
+        "url": "https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255500,
+      "name": "abcdefu - Guitar",
+      "url": "https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU"
+    },
+    {
+      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/3z05Ubd1s9wtKELJMR3Nox"
       },
@@ -253,10 +271,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 100250,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/70Yu1jjbIaVz7Bhp5LsYWD"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Keller",
+          "url": "https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Brahms Lullaby",
+      "url": "https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK"
     },
     {
       "album": {
@@ -1180,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Fr\u00e8re Jacques",
+        "url": "https://open.spotify.com/album/0yDbIhI2acYzofgV3AH2go"
+      },
+      "artists": [
+        {
+          "name": "Paige Rosen",
+          "url": "https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132644,
+      "name": "Row Row Row Your Boat",
+      "url": "https://open.spotify.com/track/47PMzPN17D3fj1V3tAayDD"
+    },
+    {
+      "album": {
         "name": "Row Your Boat",
         "url": "https://open.spotify.com/album/1BXXcxa3g3Izca7MjBlKMx"
       },
@@ -1191,7 +1245,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 90274,
       "name": "Row Your Boat",
       "url": "https://open.spotify.com/track/0xlMGRmoGT9ekGhIBhOMqG"
@@ -1249,6 +1303,24 @@
       "duration_ms": 140712,
       "name": "Skidamarink A Dink A Dink",
       "url": "https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA"
+    },
+    {
+      "album": {
+        "name": "Skogen Sover",
+        "url": "https://open.spotify.com/album/1Ng8bNMcVMR77m0yWd91kI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Andersson",
+          "url": "https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Skogen Sover",
+      "url": "https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci"
     },
     {
       "album": {

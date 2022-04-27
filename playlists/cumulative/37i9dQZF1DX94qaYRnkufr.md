@@ -4,13 +4,14 @@
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-85 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
+86 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Access](https://open.spotify.com/track/4cBSVGEHvZCPGKq2UnB26P) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 3:15 | 2021-12-09 |  |
 | [Alive](https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ) | [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Alive](https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD) | 2:48 | 2021-12-09 |  |
 | [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 | 2021-12-09 |  |
+| [Aurora](https://open.spotify.com/track/5w0264qq5wQpYfNiPpsuqE) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Aurora](https://open.spotify.com/album/29TIn4cyGh1eSZmQ1jK6N9) | 3:30 | 2022-04-26 |  |
 | [Backlash \- Martin Garrix Radio Edit](https://open.spotify.com/track/125GzlPqu6eQRr1yQSqhGo) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Backlash \(Martin Garrix Edit\)](https://open.spotify.com/album/7JMGWUgwB2gsuqtH5edaHw) | 2:52 | 2021-12-09 |  |
 | [BFAM \- Original Mix](https://open.spotify.com/track/0GBm0i9OlIlxQGx8fCNzoN) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [disco:wax Presents: Spinnin' Records Volume 13](https://open.spotify.com/album/3TbvPN8Y1ehxo0DCUGtVw1) | 5:18 | 2021-12-09 |  |
 | [Boomerang](https://open.spotify.com/track/6Gw2dHX6FsQcIuiWxe0vWk) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [GRX](https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM) | [Boomerang](https://open.spotify.com/album/5DDLXhG7fa8crZcSNlsxuw) | 3:15 | 2021-12-09 |  |

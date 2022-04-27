@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,661 likes - 252 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,900 likes - 252 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,7 +224,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 214 | [Love You Like a Love Song](https://open.spotify.com/track/4soOprk4Uhe2jJ0ahnWCZQ) | [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Cour](https://open.spotify.com/artist/2wXlDjhPhTLuw6Fs6vc2xS) | [Love You Like a Love Song](https://open.spotify.com/album/4ythwTygJqU8oVkTqo2Wjt) | 3:00 |
 | 215 | [Wonderwall](https://open.spotify.com/track/2Z4EdVx2ADMx6aHSBu5PsZ) | [Svniivan](https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx), [Sunnie Williams](https://open.spotify.com/artist/0uxG4XmN6UmWwSbjGo7T7K) | [Wonderwall](https://open.spotify.com/album/00AszKF7oWkGoBLmo1b5f9) | 2:11 |
 | 216 | [Blinding Lights](https://open.spotify.com/track/2QOUhXViy7F4cdKlDnv0aw) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Blinding Lights](https://open.spotify.com/album/5qDY97r0BtceQalni9c8Pu) | 2:03 |
-| 217 | [Closer](https://open.spotify.com/track/4ZrdwHSDP9DwMvQQAJFwQS) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Svniivan](https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx), [Salvo](https://open.spotify.com/artist/0wZIWEerJsrP5KD5pvWQlg) | [Closer](https://open.spotify.com/album/4Ect6ql9QKKja8pVGFPvPh) | 2:20 |
+| 217 | [Closer](https://open.spotify.com/track/4ZrdwHSDP9DwMvQQAJFwQS) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Svniivan](https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx), [Salvo](https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b) | [Closer](https://open.spotify.com/album/4Ect6ql9QKKja8pVGFPvPh) | 2:20 |
 | 218 | [Don't Cha](https://open.spotify.com/track/0cBiKF1yvX5h9MjMnEUgKz) | [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS), [Selda](https://open.spotify.com/artist/3RF4iwqcO3NmbIus4CFku7), [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [Don't Cha](https://open.spotify.com/album/4QDeuTip8xF9pr9WCDkRgj) | 2:44 |
 | 219 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ZQoTDYVDCn9GcmKsoEHL3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Smells Like Teen Spirit](https://open.spotify.com/album/6PrL4XoX5zkaAirigTltPJ) | 2:33 |
 | 220 | [I Wanna Know What Love Is](https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X) | 2:51 |

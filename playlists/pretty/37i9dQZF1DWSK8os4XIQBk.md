@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Jason Aldean
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,594 likes - 103 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,654 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 13 | [Whiskey Does](https://open.spotify.com/track/2bF19xlwpmPzrAv7Y8Ql5W) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Whiskey Does](https://open.spotify.com/album/4JKZvwBhJbbKQ38rsBTbA3) | 3:36 |
 | 14 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 |
 | 15 | [Let You](https://open.spotify.com/track/5geQViuoginSRR5juPCyLL) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs), [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [Nothing Is Meaningless](https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW) | 3:24 |
-| 16 | [Ain't the Same](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 |
+| 16 | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 |
 | 17 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 |
 | 18 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 |
 | 19 | [Wastin' Whiskey](https://open.spotify.com/track/5bQobcpIOEg2Abn5Ai5G3Y) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2Pfsg4Z546ZfAdwrdpqrcA) | 3:10 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 102 | [Pretty Good Tonight](https://open.spotify.com/track/67mNH9pQCPMXhoqGAqwnoh) | [Bobby Wills](https://open.spotify.com/artist/32vz5yfClDLomeIAH6LF5Q) | [Pretty Good Tonight](https://open.spotify.com/album/77giuIWxvVxYULhmowofqa) | 2:41 |
 | 103 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 |
 
-Snapshot ID: `MTY1MDkzNDU5NSwwMDAwMDAwMGQxMjA5N2QzMjRlZjgwMzcwNmM1NTI2M2QxMzAwZDky`
+Snapshot ID: `MTY1MTAzNDc5NSwwMDAwMDAwMGQxMjA5N2QzMjRlZjgwMzcwNmM1NTI2M2QxMzAwZDky`

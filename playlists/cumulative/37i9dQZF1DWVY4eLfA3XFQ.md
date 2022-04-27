@@ -4,7 +4,7 @@
 
 > Tech house technicians\. Cover: Piero Pirupa
 
-347 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+349 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All You Need](https://open.spotify.com/track/2j1XskkDOBp6QXZEQTj8cY) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [All You Need](https://open.spotify.com/album/5XHqjPYI5mRWF6EDNF4FiT) | 3:43 | 2022-04-01 | 2022-04-16 |
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-01-21 |  |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-02-18 | 2022-02-26 |
+| [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-26 |  |
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-03-25 | 2022-04-23 |
 | [Back 2 A Time](https://open.spotify.com/track/7zwZ0fqFqa9KrVJxKzXQ56) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Back 2 A Time](https://open.spotify.com/album/700xdSKmGVGPgvW54SMVpU) | 3:30 | 2021-11-26 | 2022-01-06 |
 | [Back 2 Me](https://open.spotify.com/track/5z5nSG2BY7Nt8kYtz8D6wJ) | [Zurra](https://open.spotify.com/artist/2NqTMxpFwTe8BQlCCeiZPW), [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Back 2 Me](https://open.spotify.com/album/7xPO5Ra2V4js30ZZZQ4ni7) | 2:37 | 2021-11-26 | 2022-01-06 |
@@ -152,6 +153,7 @@
 | [In Control](https://open.spotify.com/track/2ElEnwEDbliGp2Audl6Or7) | [Zurra](https://open.spotify.com/artist/2NqTMxpFwTe8BQlCCeiZPW), [R3WIRE](https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn) | [Label Sampler Volume 6](https://open.spotify.com/album/6zd97mnZEkAetwQvs2TBLA) | 2:47 | 2022-01-21 |  |
 | [In Da Getto \- Chris Lorenzo Remix](https://open.spotify.com/track/3O9BNmxmQ5M02TFGMWptJt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [JOSE \(Deluxe Edition\)](https://open.spotify.com/album/0FY6R5PCvGh0VmKzuCNFkx) | 4:16 | 2022-01-05 | 2022-04-23 |
 | [In My Arms \- Edit](https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Never Enough](https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP) | 3:45 | 2021-11-26 | 2022-02-26 |
+| [In My Bones \(feat\. Jaxxon\)](https://open.spotify.com/track/1bhbPMV1VGOLK05yfzMQ8r) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Jaxxon](https://open.spotify.com/artist/7o5nzsM0oh6IlGfLOg4qVJ) | [In My Bones \(feat\. Jaxxon\)](https://open.spotify.com/album/0Ol6ie0K0SDn5GMqHm2IRT) | 2:40 | 2022-04-27 |  |
 | [In My Head](https://open.spotify.com/track/2GghS6kMPjDjwILF3RkbFw) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [In My Head](https://open.spotify.com/album/5doCMBe92q27ELPJQl1Pmn) | 3:27 | 2021-11-26 | 2022-01-06 |
 | [In The City \- King Topher Edit](https://open.spotify.com/track/0MSjjl5Ea1kwP1u7PuV9UJ) | [DJ Frog](https://open.spotify.com/artist/6QNICF5q9tAnaEMcm3Sa79), [Zheno](https://open.spotify.com/artist/3PThNE64ux3KS6viEp57WN), [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2) | [In The City \(King Topher Edit\)](https://open.spotify.com/album/4KeJtxO8bzuHM1xS1Eh39n) | 3:09 | 2021-12-17 | 2022-03-12 |
 | [Industria](https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Industria](https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0) | 3:31 | 2022-04-22 |  |

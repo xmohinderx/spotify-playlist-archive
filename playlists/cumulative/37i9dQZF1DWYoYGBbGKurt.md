@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-567 songs - 22 hr 8 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+568 songs - 22 hr 11 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Sun Meets Moon](https://open.spotify.com/track/3gEAPIikCAa8ch4IT1mmwe) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Sun Meets Moon](https://open.spotify.com/album/0CLlGhAKoLPlaHGkY6ttrv) | 2:38 | 2021-12-07 |  |
 | [Sun\-Rainy](https://open.spotify.com/track/1hZEKLB9Xwgla0rkleh7sh) | [Phat Dizzy Dean](https://open.spotify.com/artist/1o0M8dJPrG2xg5u3gv9D6g) | [Sun\-Rainy](https://open.spotify.com/album/005AxaCubpQkVCI4cyiNOq) | 2:43 | 2022-03-18 |  |
 | [Sunday](https://open.spotify.com/track/1gFYYUmb1cwLssxND7thGG) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Sunday](https://open.spotify.com/album/5bmSp90NZHIeDJDgedtTFL) | 1:24 | 2021-12-07 |  |
+| [sundaythefirstofaugust](https://open.spotify.com/track/2X7P7uAfV5MLqz4tXUttXO) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [sundaythefirstofaugust](https://open.spotify.com/album/3BzM89d666UZerVmu2gwyG) | 2:37 | 2022-04-22 |  |
 | [sunnyside](https://open.spotify.com/track/06aZ7uvDM57xAOssXhf1Kj) | [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [sunnyside](https://open.spotify.com/album/3lRBsv5enZKp1NiQweYV3j) | 2:00 | 2022-04-22 |  |
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2021-12-07 |  |
 | [Sunset Driver](https://open.spotify.com/track/7sB14XGjDap7MksnZD4kBc) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Sunset Driver](https://open.spotify.com/album/45L0cycorLNnk9gMiwo2p9) | 3:17 | 2021-12-07 |  |

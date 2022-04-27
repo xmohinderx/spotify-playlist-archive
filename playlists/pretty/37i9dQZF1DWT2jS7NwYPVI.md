@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Dorothy
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,994 likes - 151 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,193 likes - 151 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

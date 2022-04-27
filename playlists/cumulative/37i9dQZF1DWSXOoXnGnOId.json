@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Again - DLMT Remix",
       "url": "https://open.spotify.com/track/0O5dd0a3OoC5QhLwAcUSTn"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 232631,
       "name": "All 4 Love (feat. Tasty Lopez) - Danny Howard Remix",
       "url": "https://open.spotify.com/track/0XnI7VLdAzuJxQta74bfEd"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 164374,
       "name": "All I Want (feat. Andrea Martin) - Eden Prince Remix",
       "url": "https://open.spotify.com/track/7D048E97DD2PEAizR75mmY"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 129814,
       "name": "All We Got (feat. KIDDO) - Ofenbach Remix",
       "url": "https://open.spotify.com/track/2rUsJXt4NeeDiIU6sBvrxo"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 179078,
       "name": "BED - Joel Corry VIP Mix",
       "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 233959,
       "name": "Cry (with John Martin) - Trivecta Remix",
       "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 166875,
       "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
       "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 213878,
       "name": "Hearts on Fire - CORSAK & Willim Remix",
       "url": "https://open.spotify.com/track/2YbyPyjvWlBWDEPxefAF3c"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 206852,
       "name": "I Got You - CINTHIE Remix",
       "url": "https://open.spotify.com/track/6zQ7hO4j8xwJeNszzykebE"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "i miss u - John Summit Remix",
       "url": "https://open.spotify.com/track/34rmUwuihxQqiUAn3iHLvR"
@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 194755,
       "name": "Lifetime - Jayda G Baleen Mix",
       "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
@@ -1616,6 +1616,32 @@
     },
     {
       "album": {
+        "name": "Miles to Your Heart (Fink's S+S VIP x Yves V Mash)",
+        "url": "https://open.spotify.com/album/6Exzo3FcZFGzHl6MC7fHkD"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+        },
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182202,
+      "name": "Miles to Your Heart - Fink's S+S VIP x Yves V Mash",
+      "url": "https://open.spotify.com/track/4HmJhG7ZSE1BuQdBfwkEBZ"
+    },
+    {
+      "album": {
         "name": "Moon Rider (feat. Wrabel) [Phantoms Remix]",
         "url": "https://open.spotify.com/album/5M1aT07QDqkhjKAmOKAXTz"
       },
@@ -1635,7 +1661,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 249677,
       "name": "Moon Rider (feat. Wrabel) - Phantoms Remix",
       "url": "https://open.spotify.com/track/06m3TWdyHAlLHhXMyqSB74"
@@ -1683,7 +1709,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 226889,
       "name": "Moving Blind - Cloonee Remix",
       "url": "https://open.spotify.com/track/7GMTmF4AKRJ7xHf020K785"
@@ -1731,7 +1757,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 155700,
       "name": "My 100 - Toby Romeo Remix",
       "url": "https://open.spotify.com/track/1yaiYi9RIDVzOTXwmetS1u"
@@ -1757,7 +1783,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 247881,
       "name": "My Church - Made In Paris Remix",
       "url": "https://open.spotify.com/track/18VH7I8R62GhOtG7IxyvF4"
@@ -1783,7 +1809,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 181922,
       "name": "My Feelings - Mokita Remix",
       "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
@@ -2185,7 +2211,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 269032,
       "name": "Praise (feat. Gunna) - Malaa Remix",
       "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
@@ -2347,7 +2373,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 174720,
       "name": "SAD - Imanbek xxx Remix",
       "url": "https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E"
@@ -2369,7 +2395,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 277192,
       "name": "Sad Songs (feat. L Devine) - Route 94 VIP Remix",
       "url": "https://open.spotify.com/track/4joZK68pp91nGpi9GUnD0B"
@@ -2485,7 +2511,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 218571,
       "name": "Set Me Free (feat. MAX) - Martin Ikin Remix",
       "url": "https://open.spotify.com/track/6XUYshCcziLPUlsECcPXn3"
@@ -2593,7 +2619,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 194645,
       "name": "Silver Lining - DubVision Remix",
       "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
@@ -2637,7 +2663,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
@@ -2711,7 +2737,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 174759,
       "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
       "url": "https://open.spotify.com/track/7CJnqHgBNYXSUPrfDigbny"
@@ -2789,7 +2815,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 142106,
       "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
       "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
@@ -2919,7 +2945,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
@@ -3301,7 +3327,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 207785,
       "name": "Watch Your Step (Picard Brothers Remix)",
       "url": "https://open.spotify.com/track/0FG75O6h2uy6Xjxe1fK63N"
@@ -3361,7 +3387,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 178064,
       "name": "Where The Lights Are Low - TCTS Remix",
       "url": "https://open.spotify.com/track/6wYgm3Bo3cEkubgH3ilXXa"

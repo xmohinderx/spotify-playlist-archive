@@ -4,7 +4,7 @@
 
 > Set the tone for your date night with cozy jazz.
 
-113 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
+115 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,11 +104,13 @@
 | [The Very Thought Of You](https://open.spotify.com/track/1Ov2QxMauYfb0YUahrGqxe) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Yesterday's Love Songs, Today's Blues \(Expanded Edition\)](https://open.spotify.com/album/6bcu2oDxVxGNI17MT3pCkw) | 2:53 | 2022-02-10 | 2022-04-08 |
 | [There Will Never Be Another You](https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 3:38 | 2022-02-10 | 2022-04-08 |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2021-12-14 |  |
+| [They Say It's Wonderful](https://open.spotify.com/track/59OJQEuRXWraNpbTqUeDVA) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [They Say It's Wonderful](https://open.spotify.com/album/0tFhwfBAFd6GL9Om8jLOPj) | 3:18 | 2022-04-26 |  |
 | [This Foolish Heart Could Love You](https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [This Foolish Heart Could Love You](https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2) | 3:32 | 2022-04-07 |  |
 | [This Is Always](https://open.spotify.com/track/3fBmnCqZDjKoPXRDv8Mm0P) | [Champian Fulton](https://open.spotify.com/artist/5urGxtsVyaytt3raSxNumC), [Fukushi Tainaka](https://open.spotify.com/artist/4kecaU5QMmXvaPqkyu016c), [Hide Tanaka](https://open.spotify.com/artist/3TPnfYtGbR7EEEQySaPOpU), [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Birdsong](https://open.spotify.com/album/7oVJbVW9q9pPmZehgFwz4Q) | 5:32 | 2022-04-07 |  |
 | [Till There Was You](https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 2:06 | 2022-01-26 |  |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2021-12-14 |  |
 | [Toys In The Attic](https://open.spotify.com/track/3M0FjXzPd3fhxinI1SGgaG) | [Shirley Scott Trio](https://open.spotify.com/artist/66K4gRPXBnUincPVW35oUs) | [For Members Only](https://open.spotify.com/album/2opVsysbZxgeubko0KVpBZ) | 2:50 | 2022-01-26 |  |
+| [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 |  |
 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 | 2022-04-07 |  |
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2021-12-14 |  |
 | [When I Fall In Love](https://open.spotify.com/track/0w7mhiHnM0rhdu3l5mDDYl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:57 | 2021-12-14 |  |

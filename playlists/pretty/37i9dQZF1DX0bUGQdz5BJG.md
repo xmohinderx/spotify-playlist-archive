@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tenille Townes
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,987 likes - 176 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,101 likes - 176 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 13 | [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 |
 | 14 | [New Number](https://open.spotify.com/track/1hs5bD6cBoPlu2pNUySUSF) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [New Number](https://open.spotify.com/album/19SNvJPZrqu3U8GE08xZMV) | 2:46 |
 | 15 | [For Me](https://open.spotify.com/track/4T4L3ZJWITDQpXqGOVNraQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [For Me](https://open.spotify.com/album/3AvM39VnniWUGgHD5LD6yn) | 3:23 |
-| 16 | [Ain't the Same](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 |
+| 16 | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 |
 | 17 | [See You Around](https://open.spotify.com/track/13dkT23gxdSw2OeyRsvVCk) | [Taylor O'connor](https://open.spotify.com/artist/7LNDemvuWwHv4u6jtP3u6k) | [See You Around](https://open.spotify.com/album/5Y2JU0tXLNKnQQATJUzMaO) | 3:37 |
 | 18 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 | 19 | [First Stone](https://open.spotify.com/track/4db9igp4BZoO2ZykBBCOAO) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [First Stone](https://open.spotify.com/album/4O2lTDSonLUmdwyLTkxqMq) | 3:23 |

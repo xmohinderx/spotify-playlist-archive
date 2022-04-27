@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Do You Love Me (Live In Donington / 1996)",
+        "url": "https://open.spotify.com/album/5G6VWYwhMPlz4e8p8ycVEF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248853,
+      "name": "Do You Love Me - Live In Donington / 1996",
+      "url": "https://open.spotify.com/track/6FoBZjJc8McUHu78vyFwYL"
+    },
+    {
+      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 264133,
       "name": "Hide Your Heart",
       "url": "https://open.spotify.com/track/47o525G86mLspoGnUCaMd9"

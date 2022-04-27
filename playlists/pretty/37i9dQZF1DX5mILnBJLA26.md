@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=HBCCvCS6T1iV1O6rxAtRcw">Mellow & Sleazy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,320 likes - 80 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,989 likes - 80 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 79 | [Hoooi Hoooa](https://open.spotify.com/track/53Vv9XJLHEe0TaM1P1Izqh) | [Euginethedj](https://open.spotify.com/artist/1HsRZVrAO6v0CowOoUzDkI), [Haukithehusky](https://open.spotify.com/artist/0sq3UgECH6I0mL9Y08RUNM) | [Hoooi Hoooa](https://open.spotify.com/album/2AGIGArZ0tEGQwd4G8bOdG) | 6:41 |
 | 80 | [Monate Ke Monate](https://open.spotify.com/track/2zpcKVM91HRvbz4k4fysVR) | [Toxicated Keys](https://open.spotify.com/artist/1KZZkFk9FWWv5dYaC1FEwK) | [Monate Ke Monate](https://open.spotify.com/album/0kD5yJLxJ4BjEF1RzmVcRG) | 7:17 |
 
-Snapshot ID: `MTY1MDg4MTU4NiwwMDAwMDM0MTAwMDAwMTgwNjAzNWU0NTQwMDAwMDE4MDRlMTIyYjEw`
+Snapshot ID: `MTY1MDk4MTE4NiwwMDAwMDM0MjAwMDAwMTgwNjYyNWFjOTAwMDAwMDE4MDRlMTIyYjEw`

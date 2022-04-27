@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Brooklyn '95",
       "url": "https://open.spotify.com/track/1KxLWCQJG4RSeymZdHhDOV"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 170453,
       "name": "Colorblind.",
       "url": "https://open.spotify.com/track/6o7OCNQhllaLVRkrGCWFeW"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Context",
       "url": "https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 209250,
       "name": "Crash (feat. Madalen Duke)",
       "url": "https://open.spotify.com/track/4bs9wwmLKPKomthCjggWZH"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 217904,
       "name": "Dummo Loop",
       "url": "https://open.spotify.com/track/6xpemzIGan5uOg7KGR0wfp"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 195000,
       "name": "Fall in Love Moody Good Remix",
       "url": "https://open.spotify.com/track/4ZnVn9qCN4ED4Nq4yNzA7z"
@@ -1358,6 +1358,28 @@
     },
     {
       "album": {
+        "name": "find your way - Elohim Remix",
+        "url": "https://open.spotify.com/album/73Sa3RIzUFr0dIjkOPopr9"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174155,
+      "name": "find your way - Elohim Remix",
+      "url": "https://open.spotify.com/track/5edax8jve2PPCt877OCtNd"
+    },
+    {
+      "album": {
         "name": "World Famous Tour",
         "url": "https://open.spotify.com/album/3WXeQznuGDKqbGn9VUbeVE"
       },
@@ -1391,7 +1413,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 203445,
       "name": "Flair",
       "url": "https://open.spotify.com/track/603bfdyalNWhlDuMLdINW9"
@@ -1435,7 +1457,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 243354,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq"
@@ -1501,7 +1523,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 215552,
       "name": "Fluorescent",
       "url": "https://open.spotify.com/track/4bQiPmKSrDHD048lUKr7Fu"
@@ -1585,7 +1607,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/6yLEplXAX0k1mbqVAeNt9Z"
@@ -1971,7 +1993,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Honeydew",
       "url": "https://open.spotify.com/track/6sBhU1fiwW3LeGd9RiuCMz"
@@ -2033,7 +2055,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 258299,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/0aKjU3uJlZdSS3XsxT29QI"
@@ -2051,7 +2073,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 189302,
       "name": "I Can See The Light",
       "url": "https://open.spotify.com/track/6oMGDBpSdF2p0MjtpX7VHN"
@@ -2127,7 +2149,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 227076,
       "name": "I LUV U",
       "url": "https://open.spotify.com/track/1al8r3l7iz20WrImQUJKOI"
@@ -2287,7 +2309,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 321535,
       "name": "Intrastellar",
       "url": "https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y"
@@ -2527,7 +2549,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 279719,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/6XX2urlNfbou2B4XSdnpyp"
@@ -2931,7 +2953,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 232156,
       "name": "only way out",
       "url": "https://open.spotify.com/track/1JZK4g9p89N6sACbG6V0a8"
@@ -3279,7 +3301,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 174283,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
@@ -3355,7 +3377,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 284000,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/1UwiUU0K41eaLwzO2svcvn"
@@ -3487,7 +3509,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/7xONxR36tlMANx4jy2Take"
@@ -3929,7 +3951,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 251566,
       "name": "Spectacle",
       "url": "https://open.spotify.com/track/5Nx50OXz1e3q7M1jLdnjvH"
@@ -4231,7 +4253,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 167253,
       "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
@@ -4267,7 +4289,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Synth Grass",
       "url": "https://open.spotify.com/track/2Gt94qSL9EImDLGm6Jlu3S"
@@ -4307,7 +4329,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 210266,
       "name": "The Gallery",
       "url": "https://open.spotify.com/track/709Id9rqQlqUKubz0dCN7S"
@@ -4347,7 +4369,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 214110,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5FjMM1DCJ5q8HOqRlOVId4"
@@ -4559,7 +4581,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 209299,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
@@ -4731,7 +4753,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 185714,
       "name": "wanderer",
       "url": "https://open.spotify.com/track/4nQnhWKlbBkfVwZBGozNnQ"

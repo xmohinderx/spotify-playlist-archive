@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Old Crow Medicine Show
 
-225 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+226 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 | 2021-12-17 |  |
 | [Some Things Happen](https://open.spotify.com/track/25IU8KLCfdDuTTdf6XzIhO) | [Luke Dick](https://open.spotify.com/artist/5QPfnUFtAHVNdqmJHpJmTg) | [Some Things Happen](https://open.spotify.com/album/6ZWd7y6e7u5zLZmf61SOtU) | 2:48 | 2021-12-17 | 2022-02-05 |
 | [Something Has to Change](https://open.spotify.com/track/3UYk55HdmtGfWQMggK5ie4) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Something Has to Change](https://open.spotify.com/album/77JgPh5gVcNbovCdiQCKQo) | 4:01 | 2021-12-17 |  |
+| [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 4:14 | 2022-04-26 |  |
 | [South Dakota Wild One](https://open.spotify.com/track/0BJlcD5MNOzlHZr4IeFGnj) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [South Dakota Wild One](https://open.spotify.com/album/4YjegqlMlr5K8fFIyvPEBV) | 3:23 | 2022-04-15 |  |
 | [Spin It Faster](https://open.spotify.com/track/1Pxmiq4HDoTUHiM7AkC6I8) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/3NRombeGM43rj2eh1hrPZM) | 3:56 | 2021-12-17 | 2022-02-26 |
 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 | 2021-12-17 |  |

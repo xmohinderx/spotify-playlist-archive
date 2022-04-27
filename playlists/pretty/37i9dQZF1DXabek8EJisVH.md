@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabek8EJisVH.md) - [plain]
 
 > Soothing ambient and Hang to gently focus the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,380 likes - 74 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,496 likes - 74 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabek8EJisVH.md) - [plain]
 | 32 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 |
 | 33 | [End of Sky](https://open.spotify.com/track/4NRhB5OTb0KNxeV6yb5JP4) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Luminous Emptiness](https://open.spotify.com/album/7rSjXLmVEIKwvMHWuw7EBO) | 8:17 |
 | 34 | [A Few Days In Agra](https://open.spotify.com/track/3tUjFJZuhBbK7lit91EQXh) | [Hang Drum Player](https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb) | [Namaste India](https://open.spotify.com/album/5Zgxs5Fp017z4HIwmHYDhd) | 2:17 |
-| 35 | [Horizon](https://open.spotify.com/track/5ywfmESxQzrKS8FMIfUAfU) | [Atlas Handpan](https://open.spotify.com/artist/1do0fDoOyP048nE0qpPfYL) | [Atlas One](https://open.spotify.com/album/5Vq540UmAvWuutX2uJI3ks) | 2:16 |
+| 35 | [Horizon](https://open.spotify.com/track/5ywfmESxQzrKS8FMIfUAfU) | [Atlas Handpan](https://open.spotify.com/artist/0leqbWOblVOTuK270ZDM0W) | [Atlas One](https://open.spotify.com/album/5Vq540UmAvWuutX2uJI3ks) | 2:16 |
 | 36 | [Inner Mantra](https://open.spotify.com/track/7CNAkIV33z3pQnbVWXgPfX) | [Tibetan Meditation](https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5) | [Pan Drum Meditation](https://open.spotify.com/album/2YM4fOiLRRJzz8596nVDWg) | 9:40 |
 | 37 | [\# Hang Drum Music](https://open.spotify.com/track/7umJ6ECMlonYX8B3FBp0ZV) | [Yoga Tribe](https://open.spotify.com/artist/3uC78ojWmi0c7NdLU7uwvY), [Mundo de La Música de Yoga](https://open.spotify.com/artist/6imCNh8DQt3uaC7CQ06fWP), [Healing Yoga](https://open.spotify.com/artist/0mwUUXUbgDjH1jBYl4kPak) | [Yoga Hang Drum](https://open.spotify.com/album/154ORcsSAZp2rfm6jNVJR5) | 4:02 |
 | 38 | [Hang Drum](https://open.spotify.com/track/0pszkvsrkiMGJiF8WlRFHu) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX), [Hang Drum](https://open.spotify.com/artist/06ar3VcFwsFQkQImv8ihDf) | [Hang Drum Music: Background Music For Spa, Massage, Yoga, Meditation, Mindfulness, Sleeping Music, Healing and Wellness](https://open.spotify.com/album/7phDZ00m9XG0otmPhyhPB2) | 2:21 |

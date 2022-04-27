@@ -4,11 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-659 songs - 1 day 7 hr 18 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+660 songs - 1 day 7 hr 21 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#ПОШТА](https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#ПОШТА](https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g) | 2:48 | 2022-04-05 |  |
+| [\#ПОШТА](https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#ПОШТА](https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g) | 2:48 | 2022-04-05 | 2022-04-27 |
 | [\(Po\)ciąg dalszy nastąpi](https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Czarno na białym](https://open.spotify.com/album/4uxD1b9je0iDbdY1BMamMZ) | 4:25 | 2022-04-13 | 2022-04-23 |
 | [\(Не\)идеальна](https://open.spotify.com/track/4td0GwMmapEdpV2g5C2l9K) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [\(Не\)идеальна](https://open.spotify.com/album/4vm9d1inYJkGY81jfbJEkh) | 2:38 | 2021-04-26 | 2021-05-03 |
 | [+44](https://open.spotify.com/track/1ngGGsWzGONyiOlxdXRDr7) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [+44](https://open.spotify.com/album/5RKI4eixkCmtxfSwhB9RkY) | 2:28 | 2021-03-27\* | 2021-04-04 |
@@ -192,6 +192,7 @@
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2021-11-21 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-08-01 |
 | [Moulin Rouge \(feat\. JABO\)](https://open.spotify.com/track/5EOuZpEGPBYMpNY4QJ1Mnh) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz), [JABO](https://open.spotify.com/artist/4VpioLKSHtvY5xybX0sFpY) | [Moulin Rouge \(feat\. JABO\)](https://open.spotify.com/album/59vH161Wdf4ssu0XjgrcZi) | 3:33 | 2021-06-06 | 2021-06-11 |
+| [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-04-26 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-16 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-17 |
 | [Need to Know](https://open.spotify.com/track/10hcDov7xmcRviA8jLwEaI) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Need to Know](https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH) | 3:30 | 2021-06-14 | 2021-06-16 |

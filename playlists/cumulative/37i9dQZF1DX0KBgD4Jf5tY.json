@@ -1034,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "Fantasma quattro",
+        "url": "https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH"
+      },
+      "artists": [
+        {
+          "name": "Sonambient",
+          "url": "https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209552,
+      "name": "Fantasma quattro",
+      "url": "https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw"
+    },
+    {
+      "album": {
         "name": "FELICIT\u00c0",
         "url": "https://open.spotify.com/album/20LMfMWno4ZAIRQSunGdCr"
       },
@@ -2577,7 +2595,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 179882,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/5l0X6rFDo4hKZzs7cJTRqA"

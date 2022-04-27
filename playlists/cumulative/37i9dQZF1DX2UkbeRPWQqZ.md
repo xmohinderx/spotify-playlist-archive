@@ -4,12 +4,13 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-90 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+94 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A La Nanita Nana](https://open.spotify.com/track/2COCQxRW9uacNpxjT2ExTG) | [Bianca Fuentes](https://open.spotify.com/artist/56kLVWogvECAhGHFoVXlqx) | [A La Nanita Nana](https://open.spotify.com/album/3yUUlHhD1ipNcYCOL50Pt8) | 3:01 | 2021-11-11 |  |
 | [A Windmill in Old Amsterdam](https://open.spotify.com/track/5C0NAFoZc2SHT58zvJS86m) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 | 2021-11-11 |  |
+| [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-04-26 |  |
 | [All My Friends](https://open.spotify.com/track/6stvapxl3crO1gsk3MfS3w) | [Jim Meadows](https://open.spotify.com/artist/7IgL2zNU8WBeCaubX5bVTy) | [All My Friends](https://open.spotify.com/album/3z05Ubd1s9wtKELJMR3Nox) | 1:48 | 2021-11-11 |  |
 | [All the Pretty Little Horses](https://open.spotify.com/track/6wekof9ZkRjL0LtAMAsXCb) | [Lola Marsden](https://open.spotify.com/artist/0kG0JFml9MMjY7m6cVD9vN) | [Down By The Bay](https://open.spotify.com/album/0rQcXS7jIJUTXMU4UEy3R2) | 1:58 | 2022-01-21 |  |
 | [All the pretty little horses](https://open.spotify.com/track/5R4rpJsPvxXXZUcAJ12v3v) | [Me And My Guitar](https://open.spotify.com/artist/7pHJ2teaNlow2jrelq84HS) | [Night Time](https://open.spotify.com/album/7DMOWlZ7L7rIpPuVbf5JGZ) | 1:11 | 2021-11-11 |  |
@@ -21,7 +22,8 @@
 | [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 2:17 | 2021-11-11 |  |
 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 | 2021-11-11 |  |
 | [Blåsippor](https://open.spotify.com/track/0rGiMzYYgDInT9uJAhkhPi) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Blåsippor](https://open.spotify.com/album/0YdmV5pPDZOp30GXboRo3g) | 1:20 | 2021-11-11 |  |
-| [Brahms Lullaby](https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:40 | 2021-11-11 |  |
+| [Brahms Lullaby](https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:40 | 2021-11-11 | 2022-04-27 |
+| [Brahms Lullaby](https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Amazing Grace](https://open.spotify.com/album/70Yu1jjbIaVz7Bhp5LsYWD) | 1:52 | 2022-04-26 |  |
 | [Butterfly Fly](https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Butterfly Fly](https://open.spotify.com/album/5qs4Anclgvr4iTgsexkOX8) | 2:47 | 2021-11-11 |  |
 | [Can You Count The Sheep On The Hill](https://open.spotify.com/track/2SNJjNJhrl6pcEKY9eEDnZ) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When You Sleep I'm Close](https://open.spotify.com/album/1zu2s0djuBWMdytoE9uS8B) | 2:40 | 2021-11-11 |  |
 | [Daisy Bell](https://open.spotify.com/track/1005qYjEgIXFA7gkkhpf43) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [Daisy Bell](https://open.spotify.com/album/5HC2rS5WLnB7hRakRJZcIY) | 1:46 | 2021-11-11 |  |
@@ -72,10 +74,12 @@
 | [Quarantine](https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Quarantine](https://open.spotify.com/album/2DNVnWLKBxPnayjT8q2VYc) | 1:33 | 2021-11-11 |  |
 | [Rain, Rain, Go Away](https://open.spotify.com/track/3zmJ8KlMAGpS4hpqDJ5xmA) | [Micci Rogers](https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z) | [This Old Man](https://open.spotify.com/album/3lchEgofOY5DYfGnFj58DD) | 1:48 | 2021-11-11 |  |
 | [Rockabye Baby](https://open.spotify.com/track/75Ts9hRtbg1AVGy9vRJtsK) | [Jeremy Weber](https://open.spotify.com/artist/5kG2I7kJM2vgorcUBEmdQX) | [Guitar Lullabies](https://open.spotify.com/album/1RYmiB1F57bwA1CYhOctwu) | 1:11 | 2021-11-11 |  |
-| [Row Your Boat](https://open.spotify.com/track/0xlMGRmoGT9ekGhIBhOMqG) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Row Your Boat](https://open.spotify.com/album/1BXXcxa3g3Izca7MjBlKMx) | 1:30 | 2021-11-11 |  |
+| [Row Row Row Your Boat](https://open.spotify.com/track/47PMzPN17D3fj1V3tAayDD) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Frère Jacques](https://open.spotify.com/album/0yDbIhI2acYzofgV3AH2go) | 2:12 | 2022-04-26 |  |
+| [Row Your Boat](https://open.spotify.com/track/0xlMGRmoGT9ekGhIBhOMqG) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Row Your Boat](https://open.spotify.com/album/1BXXcxa3g3Izca7MjBlKMx) | 1:30 | 2021-11-11 | 2022-04-27 |
 | [Simple Gifts \- Guitar Instrumental](https://open.spotify.com/track/0eG7qveAW9otB6SzWVh2ZA) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Guitar Lullabies: Music for Babies](https://open.spotify.com/album/1gW0NUlwmxK7YKNAF1TpDj) | 1:48 | 2021-11-11 | 2022-01-22 |
 | [Six Little Ducks](https://open.spotify.com/track/3RGS63bYLsf9kjL1GTjNFz) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 | 2021-11-11 |  |
 | [Skidamarink A Dink A Dink](https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA) | [Lisa Liddle](https://open.spotify.com/artist/1YzqZE21VmV1PvWp1bHmlq) | [Skidamarink A Dink A Dink](https://open.spotify.com/album/3ckHFaiiOJl3x1lCf5S9nw) | 2:20 | 2021-11-11 |  |
+| [Skogen Sover](https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci) | [Sofia Andersson](https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM) | [Skogen Sover](https://open.spotify.com/album/1Ng8bNMcVMR77m0yWd91kI) | 2:41 | 2022-04-26 |  |
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2021-11-11 |  |
 | [Sleep You Little Videyoung](https://open.spotify.com/track/6AmhUIvNyevwaoy2D73OxJ) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Musica Di Bambino](https://open.spotify.com/album/6sTdjqRsLtroU8vM8CswYg) | 2:57 | 2021-11-11 |  |
 | [Sov godt trollet mitt](https://open.spotify.com/track/5n03A1PL8EYrVwGmtG9glK) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sov godt trollet mitt](https://open.spotify.com/album/5xO1UYpDwxtRkanELdS61x) | 1:30 | 2021-11-11 |  |

@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-128 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+133 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Tall Tale](https://open.spotify.com/track/6P14smwG7qUke1fmruPLY2) | [Boyce Darcy](https://open.spotify.com/artist/78r6RLiTXrS0ukYu9pwBur) | [A Tall Tale](https://open.spotify.com/album/3V5he285jyZ7r812xgnqja) | 1:09 | 2021-11-11 |  |
 | [A\-Hunting We Will Go](https://open.spotify.com/track/2ikRuxPqTGdiYsxL1c6Lmp) | [Shirley Hayes](https://open.spotify.com/artist/60yFIxLtZerKqD68937nsk) | [Signature Harp Classics](https://open.spotify.com/album/3xbRbtPJwACctQMdI5aXIo) | 1:42 | 2021-11-11 |  |
 | [ABC Lullaby](https://open.spotify.com/track/1NKpbUfUe5KKzeTth786Bf) | [Montgomery Northrop](https://open.spotify.com/artist/5em1ywgEdmszli6m8XtEAu) | [ABC Lullaby](https://open.spotify.com/album/3JrSHbNXgrIEzCPgsyCsTZ) | 1:08 | 2021-11-11 |  |
-| [All the Pretty Little Horses](https://open.spotify.com/track/369fVwy2TaLGBX09m2PiwE) | [Harley Cox](https://open.spotify.com/artist/0J9PkbCiTby8SOcRzztW3h) | [All the Pretty Little Horses](https://open.spotify.com/album/2CJbdTj8N3YSk9ZI6fjECc) | 0:58 | 2021-11-11 |  |
+| [All the Pretty Little Horses](https://open.spotify.com/track/369fVwy2TaLGBX09m2PiwE) | [Harley Cox](https://open.spotify.com/artist/0J9PkbCiTby8SOcRzztW3h) | [All the Pretty Little Horses](https://open.spotify.com/album/2CJbdTj8N3YSk9ZI6fjECc) | 0:58 | 2021-11-11 | 2022-04-27 |
 | [All the Stones](https://open.spotify.com/track/4Z9uqqPGjhYUleqMBn5ejD) | [Tylar Attwood](https://open.spotify.com/artist/6xqjq2PyUby1Ztzel0o3vD) | [All the Stones](https://open.spotify.com/album/23dkb7wZLoP2odawh6lfMk) | 1:29 | 2021-11-11 |  |
 | [Always There](https://open.spotify.com/track/0eQLfnF34T66phC2k436tR) | [Valentina Daniel](https://open.spotify.com/artist/4z9uGXZ5U6pu8PBn0Y2Njl) | [Always There](https://open.spotify.com/album/2YIqJYoaTZo6LnQvubvQNo) | 1:45 | 2021-11-11 |  |
 | [Are You Sleeping](https://open.spotify.com/track/5ocjLskiCzyuhWVv027aNQ) | [Marcos Perez](https://open.spotify.com/artist/12U2bFEqsXJrcSsa44TX1T) | [Rain Rain Go Away](https://open.spotify.com/album/0W7kT0c4n1KHTMplaoRutF) | 1:11 | 2021-11-11 |  |
@@ -39,6 +39,7 @@
 | [Born To Be Yours](https://open.spotify.com/track/0JTSi51ekyjFA32HI0QfQW) | [Camilla Bergman](https://open.spotify.com/artist/5UzLH4NmnDOyOrawKWcB0a) | [Harp](https://open.spotify.com/album/5FF67Wj7LCfgoQrHTwST64) | 2:05 | 2021-11-11 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/2VZF8Q8GoTGQPSOZikEAZl) | [Lia Phillips](https://open.spotify.com/artist/4j0ENajb8xeVIbhZinVXOU) | [Brahms Lullaby](https://open.spotify.com/album/3cKluVpLsSxkWxbttLN7uD) | 1:46 | 2021-11-11 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/3F9MddqpygKDUUkIqcydsT) | [Michaela Quinn](https://open.spotify.com/artist/7cW08KYG0Liawn96x7fAXX) | [Bedtime Stories](https://open.spotify.com/album/475sNo7ki5mekQ8eOsyepB) | 1:25 | 2021-11-11 |  |
+| [Candy Corn Cupcakes](https://open.spotify.com/track/6sUFjmMkGHfeG6jsawt1C6) | [Sophea Chen](https://open.spotify.com/artist/4jsOYWTRbpLg04JEGd0Bhj) | [Candy Corn Cupcakes](https://open.spotify.com/album/6NvpobvGK3f9cZBtjVwFY6) | 1:28 | 2022-04-26 |  |
 | [Cherry Blossoms](https://open.spotify.com/track/3yKK3vU859WkfpIWeqdnxD) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Cherry Blossoms](https://open.spotify.com/album/6xSKofkUd9EVg2n9t0EF4i) | 1:36 | 2021-11-11 |  |
 | [Cielito Lindo](https://open.spotify.com/track/1ENfUlH6xPOhdjbpfj0MYt) | [Uxue Pedrero](https://open.spotify.com/artist/4jpHoe2BkAVjQNPgepqZyN) | [Cielito Lindo](https://open.spotify.com/album/6VTja7mvP4IiBcXCAurU0X) | 1:31 | 2021-11-11 |  |
 | [Counting All The Sheep](https://open.spotify.com/track/1LGOfdXDa7GQYv8MOq0AzM) | [Ophelia Dawson](https://open.spotify.com/artist/20EPW1ftqkwVe6P1g7GhWF) | [Lullabies](https://open.spotify.com/album/5mLPIk1JXzdlssRFT4v2fr) | 1:47 | 2022-01-21 |  |
@@ -111,6 +112,7 @@
 | [Sleep Little Willow](https://open.spotify.com/track/17NWEpNMRzpNXdB93xIO3M) | [Esperanza Nuega](https://open.spotify.com/artist/6vEZRIkMdWmqi6pEB8ACLR) | [Sleep Little Willow](https://open.spotify.com/album/06b8qLkEOBRB1Fcg45EUP6) | 1:23 | 2021-11-11 |  |
 | [Sleep Now](https://open.spotify.com/track/1HvLD8IlGZRTWJk3pdfWDo) | [Granville Anderson](https://open.spotify.com/artist/4s404Rqm5KCM94kqRVVzPg) | [Sleep Now](https://open.spotify.com/album/4UiEY2G3BHXOzL1vPMSGod) | 1:32 | 2021-11-11 |  |
 | [Sleepy Pony](https://open.spotify.com/track/7bzxInF7V8ygpA3TUzSwMN) | [Brenden Chancellor](https://open.spotify.com/artist/74ENjZjnuRXmh1Ip3BD6tP) | [Sleepy Pony](https://open.spotify.com/album/0y6b44gSYYnLwiCLEJLyDV) | 1:21 | 2022-01-21 |  |
+| [Snuggle Tight](https://open.spotify.com/track/0HsSm3PpAGKuCMM86XK2Ft) | [Quinn Palmer](https://open.spotify.com/artist/6sCg5kvvJZOVhzRawPZpmF) | [Snuggle Tight](https://open.spotify.com/album/2qulT9EMnJ35sBOWKtWCuG) | 1:34 | 2022-04-26 |  |
 | [Song Of The Small Bear](https://open.spotify.com/track/40mHbIVXHZwZiUFomKa3aP) | [Jacob Radcliff](https://open.spotify.com/artist/48yYO2xrZxzM3xEjDujE0d) | [Song Of The Small Bear](https://open.spotify.com/album/7v3O7qxke2x91cxQDmUv8G) | 1:44 | 2021-11-11 |  |
 | [Spirit](https://open.spotify.com/track/5XECpuIjBhCVzF1dnx0qLg) | [Esmé Dean](https://open.spotify.com/artist/3AidWvpVrxSP3vCHDXqRHF) | [Spirit](https://open.spotify.com/album/5hJRqymE8HDPqkwYxw5ePA) | 2:11 | 2021-11-11 |  |
 | [Stars Above](https://open.spotify.com/track/5LINFAlFwHABVuvQuIwRlQ) | [Brook Parrish](https://open.spotify.com/artist/2iIEnYQQdqQB357rXwMjpI) | [Stars Above](https://open.spotify.com/album/1GjMcPaQ2FT01HRAq32Je7) | 1:24 | 2022-01-21 |  |
@@ -118,10 +120,12 @@
 | [Sunset Song](https://open.spotify.com/track/0ocglsPeTS5D5QLmvs6Umk) | [Glenda Bill](https://open.spotify.com/artist/4fsxQmjHZlspZqsCYziW0I) | [Sunset Song](https://open.spotify.com/album/2FGz6m9ZpNAwlgrOwV8acw) | 1:22 | 2021-11-11 |  |
 | [Süße Träume](https://open.spotify.com/track/0K6U4UeGHbYO2lgIvHeHkt) | [Beatrice Werner](https://open.spotify.com/artist/3RODO8LRNzu7ShXh3PMU3Z) | [Süße Träume](https://open.spotify.com/album/6XOMGeISXAGPrAN4BrvSqJ) | 1:35 | 2021-11-11 |  |
 | [The Button Song](https://open.spotify.com/track/0FByOKDOnsN5oYIhGjgc8B) | [Tylar Attwood](https://open.spotify.com/artist/6xqjq2PyUby1Ztzel0o3vD) | [The Button Song](https://open.spotify.com/album/33NUTNBNe4YiY8mbZpG8ir) | 1:04 | 2021-11-11 |  |
+| [The Magic Blanket](https://open.spotify.com/track/3S8H2OJGPZ6JQujv8InoLz) | [Garth Winter](https://open.spotify.com/artist/48KlcKLmPswD1SWQhi6z5L) | [The Magic Blanket](https://open.spotify.com/album/2Bj8hEWN8NIpfqkNx1a71k) | 1:18 | 2022-04-26 |  |
 | [The Magic Pancake](https://open.spotify.com/track/7kfp6vxgUNSdNBLGRRTY60) | [Sophea Chen](https://open.spotify.com/artist/4jsOYWTRbpLg04JEGd0Bhj) | [The Magic Pancake](https://open.spotify.com/album/7jFUXstf6ltF9aIHfK9dhw) | 1:56 | 2021-11-11 |  |
 | [The Rabbits Journey](https://open.spotify.com/track/5FgLiliSIeSTsa6h3wzufU) | [Rod Parsons](https://open.spotify.com/artist/0t294nMoDXNQcR1vvnMgdh) | [The Rabbits Journey](https://open.spotify.com/album/194NKw4yZehjxHqICUfnlu) | 1:41 | 2021-11-11 |  |
 | [The town is sleeping](https://open.spotify.com/track/1gHfdZtCaQHeb9FnKvfxKr) | [Dewayne Adams](https://open.spotify.com/artist/3rlRlqOUa8dzQgDAHEBjlh) | [The town is sleeping](https://open.spotify.com/album/3MttWi6pl7E08eNRqTQ9eT) | 1:26 | 2021-11-11 |  |
 | [This Old Man](https://open.spotify.com/track/2gNCbtTziyHdx9szW82JOc) | [Stephen Rossi](https://open.spotify.com/artist/3GaNCXDzlQMgcBLTxkHLWW) | [Beautiful Dreamer](https://open.spotify.com/album/32sv0cRYNSNAZATBtOtejF) | 1:47 | 2021-11-11 |  |
+| [Tiny Footprints](https://open.spotify.com/track/2LAf4b2AM8H7tN1qzYRJDc) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Tiny Footprints](https://open.spotify.com/album/6fapnJb9DQAPHrA9g63NAw) | 1:37 | 2022-04-26 |  |
 | [To a Child](https://open.spotify.com/track/4nqglfsBJV9vUKEDc35UBc) | [Ester Duncan](https://open.spotify.com/artist/3RWd3Uey3oS6wYZOLydd8B) | [Two Rosy Cheeks](https://open.spotify.com/album/6xYOdqYLLdGumrsoSKyhVU) | 1:37 | 2021-11-11 |  |
 | [Tom's Little House](https://open.spotify.com/track/6dbCgZcfcdleCGXz1rzyz0) | [Rudyard Brinley](https://open.spotify.com/artist/6a2UqNxvxt2KjAcRjwcsnn) | [Dinosaur Bob](https://open.spotify.com/album/0JwNu9RVqfxNi1Re491kT7) | 1:15 | 2021-11-11 |  |
 | [Tommy the night chaser](https://open.spotify.com/track/2abCBj9MO2sLRbU6VMe8XH) | [Paden Small](https://open.spotify.com/artist/72Ja8KG7J3p0Hs7xDV43bC) | [Tommy the night chaser](https://open.spotify.com/album/42vm1mHFdkzuiN4qqAaIT0) | 2:01 | 2021-11-11 |  |
@@ -133,6 +137,7 @@
 | [When I Close My Eyes](https://open.spotify.com/track/7luR1726Cf9Wgt4Q3yljOF) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:33 | 2021-11-11 |  |
 | [When You're Close](https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2) | [Amilia Weldon](https://open.spotify.com/artist/1514uPuTa2Z6370suTHi8O) | [When You're Close](https://open.spotify.com/album/5RmuqdBHiNMVckkLWS2tpP) | 2:02 | 2021-11-11 |  |
 | [White Pyjamas](https://open.spotify.com/track/2dsE2HXXX88x38idJQ6Nhh) | [Tyler Abney](https://open.spotify.com/artist/4eMNLIDXtUKtztNhEVr8tY) | [White Pyjamas](https://open.spotify.com/album/7E1S7PPtG3jSPfOkV92QZL) | 1:31 | 2021-11-11 |  |
+| [With You By My Side](https://open.spotify.com/track/6UFjCV3KcMHjq4J96IVXrL) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [With You By My Side](https://open.spotify.com/album/4JTWjznbMaz9ALtqE4LLAw) | 1:48 | 2022-04-26 |  |
 | [Your Dreams](https://open.spotify.com/track/0FKZ7aqBOZT6ZW8cP1fnaC) | [Byrne Freeman](https://open.spotify.com/artist/09NXPHIx4m5wvbplZ11jvF) | [Your Dreams](https://open.spotify.com/album/1wcNjc21IasZBk76lYt5NZ) | 1:23 | 2021-11-11 |  |
 | [Zwischen den Wolken](https://open.spotify.com/track/1Pj9dbQQIvLWeKqWcvJc0s) | [Frieda Ross](https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI) | [Zwischen den Wolken](https://open.spotify.com/album/1zGqaaJoPrBXs78IpfElLH) | 1:37 | 2021-11-11 |  |
 | [’Round Bedtime](https://open.spotify.com/track/3CRvGpwakwvqFZXCkB6yJg) | [Reed Chadwick](https://open.spotify.com/artist/1p4pqcv2Qjkb4ZTxDH9uYW) | [’Round Bedtime](https://open.spotify.com/album/4ephgw52FSfaZ9y3cK01ie) | 1:37 | 2021-11-11 |  |

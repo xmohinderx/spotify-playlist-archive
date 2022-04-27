@@ -70,6 +70,28 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/29TIn4cyGh1eSZmQ1jK6N9"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210468,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5w0264qq5wQpYfNiPpsuqE"
+    },
+    {
+      "album": {
         "name": "Backlash (Martin Garrix Edit)",
         "url": "https://open.spotify.com/album/7JMGWUgwB2gsuqtH5edaHw"
       },

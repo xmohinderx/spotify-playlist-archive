@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-696 songs - 1 day 15 hr 7 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+697 songs - 1 day 15 hr 9 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Major Crimes](https://open.spotify.com/track/3nh5RSXnRSHWuQbOJvQr0g) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Window Weather](https://open.spotify.com/artist/78K1EiQnILFdD1o2vQdy3O) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 3:33 | 2021-03-14 | 2021-10-16 |
 | [Mamba Mentality](https://open.spotify.com/track/7IcMlUAYurQwIOnZ9Mc7wO) | [Jevon Alexander](https://open.spotify.com/artist/72a1TYIB7JiWunZDYVy2bJ) | [Mamba Mentality](https://open.spotify.com/album/0wxoB9xAHN7cxlp3GB5uyI) | 3:00 | 2021-03-26 | 2021-04-15 |
 | [Mars](https://open.spotify.com/track/44CgM5My2vfkSv1KAQuEfk) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Martian: Original Motion Picture Score](https://open.spotify.com/album/17o7ljUmsa9MusgN2BjXwV) | 2:25 | 2019-09-29\* | 2021-03-14 |
+| [Mask](https://open.spotify.com/track/3IxMaULfjq4IT2IN6v54PB) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Mask](https://open.spotify.com/album/5d9iCqwcR7htS1E7OxOnhp) | 2:54 | 2022-04-26 |  |
 | [Mayday](https://open.spotify.com/track/7ENBJ809w0lAmcoZyE7waV) | [Jared Anthony](https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI) | [Quarantape](https://open.spotify.com/album/05dORRfKs14KYtIKJsZTF5) | 2:19 | 2021-03-27 | 2022-02-24 |
 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 | 2021-05-22 | 2021-05-28 |
 | [MEGALOVANIA](https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 2:36 | 2022-04-13 |  |

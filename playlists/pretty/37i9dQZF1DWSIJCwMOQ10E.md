@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > ¡Celebrando con los 14 Cañonazos! Foto: Los Corraleros de Majagual
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,366 likes - 96 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,368 likes - 96 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 11 | [Palabras](https://open.spotify.com/track/4541BVrhyo0yVDx5xy3BCc) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:21 |
 | 12 | [Hombre Pobre](https://open.spotify.com/track/3mVmKyluv1iK9TR5EzF8g4) | [Luis Miguel Fuentes](https://open.spotify.com/artist/2qu4qNlkdPBaU3LxGtGDxc), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:49 |
 | 13 | [Santo Cachón \(Guaracha\)](https://open.spotify.com/track/1gVLQOZ2CfZUnh6dmCp8Qb) | [Electropika](https://open.spotify.com/artist/3qT83TglXbVGoTcbalq9B0), [Marcela Reyes](https://open.spotify.com/artist/2a3lL5m6feAyGUR1PI2osJ) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 4:22 |
-| 14 | [Cañonazos / la Esquina del Movimiento](https://open.spotify.com/track/0CDu9iGvvkGHhm4UISaJtH) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 4:19 |
+| 14 | [Cañonazos / la Esquina del Movimiento \(En Vivo\)](https://open.spotify.com/track/0CDu9iGvvkGHhm4UISaJtH) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 4:19 |
 | 15 | [La Malgeniosa](https://open.spotify.com/track/6skbFFnqI3KhZuyVWqvV8F) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Edwin Gómez "El Fantasma"](https://open.spotify.com/artist/0VFLH182dLSHXpVxdy9Kxn) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:20 |
 | 16 | [Afrocumbia](https://open.spotify.com/track/1jFlWNnMgnj70vLipPSDQh) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:01 |
 | 17 | [Cali Pachanguero](https://open.spotify.com/track/2G4HJfWP7AB5hGOng8riOO) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Lo Que Diga el Corazón](https://open.spotify.com/album/68Z5dYqgZXnsNpVgDtiv7f) | 4:48 |

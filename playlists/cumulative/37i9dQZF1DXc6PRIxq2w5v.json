@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 218305,
       "name": "Al\u00edvio",
       "url": "https://open.spotify.com/track/2sW3N7yxNRdSQJwGvbCw3I"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 144166,
       "name": "Chainz",
       "url": "https://open.spotify.com/track/5AuwYhiPnkmGaG6n9p8IWH"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 236839,
       "name": "Flow Andr\u00e9 Valad\u00e3o",
       "url": "https://open.spotify.com/track/0QS8rdbrzHgk9OojEpouXP"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-27",
       "duration_ms": 142973,
       "name": "Habita em Mim",
       "url": "https://open.spotify.com/track/7fg2MiYeWQGg2IHLdGx4Ou"
@@ -1256,6 +1256,28 @@
     },
     {
       "album": {
+        "name": "Rei",
+        "url": "https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        },
+        {
+          "name": "Sensei Songs",
+          "url": "https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143530,
+      "name": "Rei",
+      "url": "https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD"
+    },
+    {
+      "album": {
         "name": "Retiro",
         "url": "https://open.spotify.com/album/2s5pImhro07IBKAypatAmV"
       },
@@ -1311,6 +1333,24 @@
       "duration_ms": 203555,
       "name": "Savana",
       "url": "https://open.spotify.com/track/4V4rKt1wh4bJzhUYW89aeG"
+    },
+    {
+      "album": {
+        "name": "Se P\u00e1",
+        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
+      },
+      "artists": [
+        {
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163794,
+      "name": "Se P\u00e1",
+      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
     },
     {
       "album": {
@@ -1550,6 +1590,28 @@
     },
     {
       "album": {
+        "name": "Xaxaxa",
+        "url": "https://open.spotify.com/album/30tzDIMQYDXBvDLXJ7AETj"
+      },
+      "artists": [
+        {
+          "name": "SALMAZO",
+          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96081,
+      "name": "Xaxaxa",
+      "url": "https://open.spotify.com/track/7cK0cV8Hw5KD3F6EuS81qU"
+    },
+    {
+      "album": {
         "name": "\u00c1guias",
         "url": "https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW"
       },
@@ -1565,6 +1627,24 @@
       "duration_ms": 213929,
       "name": "\u00c1guias",
       "url": "https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 O Final",
+        "url": "https://open.spotify.com/album/0ikC2XTMDa5dzL5BJ3nnni"
+      },
+      "artists": [
+        {
+          "name": "Pregador Luo",
+          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186713,
+      "name": "\u00caxodo Mental",
+      "url": "https://open.spotify.com/track/4xQJZ7P1w28duY4IJu08kY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v"
