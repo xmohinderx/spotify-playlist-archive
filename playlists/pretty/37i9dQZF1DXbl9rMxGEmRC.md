@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of recent tracks from the world of black and dark metal\. Cover: Abbath
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,971 likes - 80 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,052 likes - 80 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 |
+| 1 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ), [Lars Nedland](https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 |
 | 2 | [We remain](https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [We remain](https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2) | 6:13 |
 | 3 | [How Many Can Die](https://open.spotify.com/track/77e5CvS2IDBGdQfzXd5YTv) | [Venom Inc.](https://open.spotify.com/artist/3MHIoEboWZOn2vX4O3GrjM) | [How Many Can Die](https://open.spotify.com/album/4sUjcJd3skHdB8RQ2C3nc6) | 3:20 |
 | 4 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 |

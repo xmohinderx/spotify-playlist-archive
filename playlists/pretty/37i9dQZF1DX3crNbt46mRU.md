@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,977 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,981 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 60 | [My Favorite Song](https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Taylor Allderdice](https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J) | 3:52 |
 | 61 | [Down](https://open.spotify.com/track/2O0SzeXQTcXFlGuFsY5JNH) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Down](https://open.spotify.com/album/2Ra7ZC8kZB8dWKveQYkaCt) | 3:52 |
 | 62 | [Traumatized](https://open.spotify.com/track/5oJrH11xIWVKdOcd6mI3zF) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Traumatized](https://open.spotify.com/album/3xfBQrAyI0GHpw1JQFuTYU) | 2:13 |
-| 63 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:53 |
+| 63 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:52 |
 | 64 | [DISCONNECTED](https://open.spotify.com/track/2WAqlyVzItrr7VgeqaG5er) | [Morow](https://open.spotify.com/artist/4ZqnorBpjVLBQSwiRksOcZ) | [CLOUDS GSEHN US WIE GHOSTS](https://open.spotify.com/album/3waPotW1xJSArb0Jc4MQWx) | 2:32 |
 | 65 | [Lifeline \(From “American Song Contest”\)](https://open.spotify.com/track/77m19SJU08mNTFKv34zl3j) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Lifeline \(From “American Song Contest”\)](https://open.spotify.com/album/0t4nQARgJq9noLU4tarlTY) | 2:42 |
 | 66 | [Heart Attack \- Edit](https://open.spotify.com/track/3kA7vskykn1gQVsAEiPUXq) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Heart Attack](https://open.spotify.com/album/3WNCpmhZRV1gJixJLZX6d9) | 3:34 |

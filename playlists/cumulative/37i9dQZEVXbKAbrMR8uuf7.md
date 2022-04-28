@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-444 songs - 1 day 1 hr 20 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+445 songs - 1 day 1 hr 24 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Ausente](https://open.spotify.com/track/3GXplF1vscAbNcmv1mR65R) | [Tito Flow](https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Ausente](https://open.spotify.com/album/23G5DUbLk1DAKmnykuVvgm) | 3:35 | 2022-03-20 | 2022-03-22 |
 | [Ba Ba Ba](https://open.spotify.com/track/1JKdn4C4ZIqSY3N1skU6dP) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Ba Ba Ba](https://open.spotify.com/album/0X8FDduq0E7W8kZFvly3uu) | 2:00 | 2022-03-18 | 2022-03-31 |
 | [badtrip :\(](https://open.spotify.com/track/3t2ANh6j5JnTCDkVRBsukB) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:11 | 2022-04-02 | 2022-04-10 |
-| [Bagre](https://open.spotify.com/track/4dAyNv3NvYQdzvpPcpBmo6) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Bagre](https://open.spotify.com/album/0qVX6Zye3aHSTWmKwGYFFF) | 2:40 | 2021-10-21 |  |
+| [Bagre](https://open.spotify.com/track/4dAyNv3NvYQdzvpPcpBmo6) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Bagre](https://open.spotify.com/album/0qVX6Zye3aHSTWmKwGYFFF) | 2:40 | 2021-10-21 | 2022-04-28 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-06-27 |
 | [Bajo Mundo](https://open.spotify.com/track/60511h7RLnbY6alCdCFaFK) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Bajo Mundo](https://open.spotify.com/album/5ndn0oBqrG6iZhzF3HJ6WY) | 2:48 | 2021-06-26 | 2021-10-06 |
 | [Bajo Mundo](https://open.spotify.com/track/75QDxza3YsGW0Aihq1lIdj) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Bajo Mundo](https://open.spotify.com/album/4IY2qIObKzq3XBsnlJl5Gf) | 2:48 | 2021-05-03 | 2021-06-26 |
@@ -315,6 +315,7 @@
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-08-04 | 2021-11-21 |
 | [Parra Sin Doncon](https://open.spotify.com/track/5CIBaQWL3DmPVhhRu5IFqy) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:28 | 2022-04-09 | 2022-04-11 |
 | [PASATIEMPO](https://open.spotify.com/track/3qUdysxsu5FDvOl7nR5vln) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:24 | 2022-03-26 | 2022-04-02 |
+| [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-27 |  |
 | [Paz Mental](https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:31 | 2021-07-04 | 2021-11-28 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-01 |
 | [PECADO](https://open.spotify.com/track/4tw2afU1W4m0hgaL7XySKO) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 | 2022-04-02 | 2022-04-08 |

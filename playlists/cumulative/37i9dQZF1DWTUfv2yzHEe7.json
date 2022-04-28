@@ -468,6 +468,52 @@
     },
     {
       "album": {
+        "name": "Gangubai Kathiawadi",
+        "url": "https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b"
+      },
+      "artists": [
+        {
+          "name": "Jahnvi Shrimankar",
+          "url": "https://open.spotify.com/artist/6HWLgNliaSzF438T7Hk755"
+        },
+        {
+          "name": "Shail Hada",
+          "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
+        },
+        {
+          "name": "Dipti",
+          "url": "https://open.spotify.com/artist/2qs6QhyW9EGLaD9d3XKGeR"
+        },
+        {
+          "name": "Pragati",
+          "url": "https://open.spotify.com/artist/28158US0Sov816JcVhUGVz"
+        },
+        {
+          "name": "Rucha",
+          "url": "https://open.spotify.com/artist/0ZOgFq0MwvVRl9V70yhz3f"
+        },
+        {
+          "name": "Arohi",
+          "url": "https://open.spotify.com/artist/04yw6jIldqUYBFzYkYILat"
+        },
+        {
+          "name": "Archana",
+          "url": "https://open.spotify.com/artist/6ZfDJaY1IBhPVkUIjErbnX"
+        },
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179033,
+      "name": "Dholida",
+      "url": "https://open.spotify.com/track/63FvgWtjAw9nUa8f5JXrh3"
+    },
+    {
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1191,6 +1237,28 @@
       "duration_ms": 178604,
       "name": "Proper Patola",
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
+    },
+    {
+      "album": {
+        "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+        "url": "https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+      "url": "https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF"
     },
     {
       "album": {

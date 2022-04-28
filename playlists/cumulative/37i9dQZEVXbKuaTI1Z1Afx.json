@@ -1660,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180164,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/2qDTVDLjK4PctCvC8Mg19x"
+    },
+    {
+      "album": {
         "name": "DIVE IN!",
         "url": "https://open.spotify.com/album/6BsXBd1w8C4Eh3xSrUCUmQ"
       },
@@ -2502,6 +2520,28 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -2739,7 +2779,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
@@ -3671,7 +3711,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 153000,
       "name": "It's Givin",
       "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
@@ -5937,7 +5977,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 186359,
       "name": "She's a Country Music Fan",
       "url": "https://open.spotify.com/track/0p2xtffpsh4syNCVZQFgAR"
@@ -7295,6 +7335,24 @@
       "duration_ms": 168902,
       "name": "up again",
       "url": "https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X"
+    },
+    {
+      "album": {
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/17128RKRyMUmKpbM6e9baA"
+      },
+      "artists": [
+        {
+          "name": "deprezz",
+          "url": "https://open.spotify.com/artist/2YV6hV8dVnaav4JQb5dnfT"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Vengeance",
+      "url": "https://open.spotify.com/track/0qAktUtpfc635ytpHOuNJD"
     },
     {
       "album": {

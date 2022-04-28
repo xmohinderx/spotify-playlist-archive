@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "24HR Fix",
+        "url": "https://open.spotify.com/album/0SKUkmCu16EkzlwIRpXEpK"
+      },
+      "artists": [
+        {
+          "name": "Ilan Rubin",
+          "url": "https://open.spotify.com/artist/11jeKM5q8nnYr1tssNmGVO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265161,
+      "name": "24HR Fix",
+      "url": "https://open.spotify.com/track/0GEPysbHDFpXm9Ya4HT4yq"
+    },
+    {
+      "album": {
         "name": "In Disarray",
         "url": "https://open.spotify.com/album/7ft2kpmfe6txfL7XIXotq7"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 226183,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/1JVgayveX474W9SZFME4P9"
@@ -566,6 +584,24 @@
     },
     {
       "album": {
+        "name": "A Superior Athlete",
+        "url": "https://open.spotify.com/album/5CPuvRICAR4MYczITNcJF7"
+      },
+      "artists": [
+        {
+          "name": "Hoorsees",
+          "url": "https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196813,
+      "name": "Blue Pants",
+      "url": "https://open.spotify.com/track/3ayJ3nmCMCzIDgKBBv0D6v"
+    },
+    {
+      "album": {
         "name": "Bluefish Season",
         "url": "https://open.spotify.com/album/7H5ddbP95iKkJi98V9FJOz"
       },
@@ -815,7 +851,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 176000,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/4uZP2V8073N3O7dJhqGxhG"
@@ -995,7 +1031,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 259066,
       "name": "Dancing to The Smiths",
       "url": "https://open.spotify.com/track/6RSDI2ms9CHIvOnrYzxluR"
@@ -1272,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Drop Out",
+        "url": "https://open.spotify.com/album/54FNTMiSlgXtMMKnGzstoW"
+      },
+      "artists": [
+        {
+          "name": "Nervus",
+          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202759,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/63iRqDqgeJbKalRKRvFw4C"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3Cq2k5fPbC5ESA9JNzNU4d"
       },
@@ -1391,7 +1445,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 156923,
       "name": "Everything is Fine",
       "url": "https://open.spotify.com/track/43qXpGfZOjHQakpPKfNz3u"
@@ -1485,7 +1539,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 225941,
       "name": "Fear of Being Fixed",
       "url": "https://open.spotify.com/track/0rw6KnCCMQbrgWHzf4TSIZ"
@@ -1579,6 +1633,24 @@
       "duration_ms": 219680,
       "name": "Football Weather",
       "url": "https://open.spotify.com/track/7hbWP0gScoXI18xxcmtbl0"
+    },
+    {
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/2IOYp1mJ90Spa3Qdcu3xVz"
+      },
+      "artists": [
+        {
+          "name": "TRAMP",
+          "url": "https://open.spotify.com/artist/6ijgEPSDNChOTSh7hmRf7t"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/1UaKZDqPvCfFX2kgqOczsB"
     },
     {
       "album": {
@@ -1701,7 +1773,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 124418,
       "name": "Gross! (I think I'm in Love)",
       "url": "https://open.spotify.com/track/6DoLDDjpWZMsmF1zQXFUGm"
@@ -1813,6 +1885,24 @@
       "duration_ms": 247336,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4oCJ4t1khwZqlBVldWzJES"
+    },
+    {
+      "album": {
+        "name": "Bleed Your Heart Out",
+        "url": "https://open.spotify.com/album/55ow5n5coIs45tttCxuSVu"
+      },
+      "artists": [
+        {
+          "name": "Kate Clover",
+          "url": "https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215806,
+      "name": "Heaven Down Here",
+      "url": "https://open.spotify.com/track/0Fvu11hpxdjpr0kUGK0FZ7"
     },
     {
       "album": {
@@ -2900,6 +2990,24 @@
     },
     {
       "album": {
+        "name": "Monocle",
+        "url": "https://open.spotify.com/album/4jOIaqnzOodgojpPl4INWn"
+      },
+      "artists": [
+        {
+          "name": "Headshrinkers",
+          "url": "https://open.spotify.com/artist/4m073FqMiZ81NIcsfvrDLt"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203035,
+      "name": "Monocle",
+      "url": "https://open.spotify.com/track/08xIAaOt3AogeSQZd9wzJh"
+    },
+    {
+      "album": {
         "name": "Moving Car",
         "url": "https://open.spotify.com/album/6Y9KARTO9vqiLN1h55GuSy"
       },
@@ -3329,7 +3437,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 143986,
       "name": "Power",
       "url": "https://open.spotify.com/track/5PsqlqB67re3Ku1WJxzM7d"
@@ -3665,6 +3773,24 @@
       "duration_ms": 163500,
       "name": "Save Your Apologies",
       "url": "https://open.spotify.com/track/2n9bV1h6ygAfoh4PDdtJ5E"
+    },
+    {
+      "album": {
+        "name": "Sophomore Slump",
+        "url": "https://open.spotify.com/album/1vHSHdWyM8DPlXy4SrPtp8"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199009,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/5ede29LU651zKq5FLOJrZ9"
     },
     {
       "album": {

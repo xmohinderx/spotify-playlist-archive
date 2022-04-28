@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Mahalini
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,040 likes - 103 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,039 likes - 103 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 48 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
 | 49 | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12) | 3:41 |
 | 50 | [Berani Buktikan Beda](https://open.spotify.com/track/2hzXS8qQRiJTSW0NFDtUWB) | [Avia Athalia](https://open.spotify.com/artist/5TT4XW9r3HNJ4elktvvzUE), [Fatya Biya](https://open.spotify.com/artist/5fLa60wbGDWGpHESwXJYW7) | [Berani Buktikan Beda](https://open.spotify.com/album/0bMo06NisyBwi0QQpFoXzt) | 3:23 |
-| 51 | [berdua](https://open.spotify.com/track/5LieYarl7awUlOXIBV0cHu) | [belva devara](https://open.spotify.com/artist/77HRI0AHXEfScyt1yAbqq7), [Sabrina Anggraini](https://open.spotify.com/artist/6izKjal8U94M2ucXB1lp8X) | [berdua](https://open.spotify.com/album/4MvHWTbvaxjm4hIpKPgcmV) | 4:16 |
+| 51 | [Berdua](https://open.spotify.com/track/5LieYarl7awUlOXIBV0cHu) | [belva devara](https://open.spotify.com/artist/77HRI0AHXEfScyt1yAbqq7), [Sabrina Anggraini](https://open.spotify.com/artist/6izKjal8U94M2ucXB1lp8X) | [Berdua](https://open.spotify.com/album/4MvHWTbvaxjm4hIpKPgcmV) | 4:16 |
 | 52 | [T](https://open.spotify.com/track/3FWKUDsmw76R8vkZudTbte) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Head In The Clouds Forever](https://open.spotify.com/album/0UwAIpD7li3hhPDVxPrQxD) | 4:09 |
 | 53 | [phonecase](https://open.spotify.com/track/4Onk8ZymFGVPE5c9nXIdBv) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [phonecase](https://open.spotify.com/album/6Y08ATR8X7ZTZNai1hCn0X) | 2:48 |
 | 54 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 |

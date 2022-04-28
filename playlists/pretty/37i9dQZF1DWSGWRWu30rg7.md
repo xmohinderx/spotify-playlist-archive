@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Avia Athalia, Fatya Biya\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,300 likes - 48 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,302 likes - 48 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Berani Buktikan Beda](https://open.spotify.com/track/2hzXS8qQRiJTSW0NFDtUWB) | [Avia Athalia](https://open.spotify.com/artist/5TT4XW9r3HNJ4elktvvzUE), [Fatya Biya](https://open.spotify.com/artist/5fLa60wbGDWGpHESwXJYW7) | [Berani Buktikan Beda](https://open.spotify.com/album/0bMo06NisyBwi0QQpFoXzt) | 3:23 |
 | 2 | [When Reasons End](https://open.spotify.com/track/4y2iVcECRxIa9eyDPP0nYD) | [Ghost Fever](https://open.spotify.com/artist/1ZmDucAM1OEaljYZ1W4SLY) | [Here Comes The Neighbor](https://open.spotify.com/album/5tAYvG42QsTDsaaaxOQbLp) | 4:18 |
-| 3 | [berdua](https://open.spotify.com/track/5LieYarl7awUlOXIBV0cHu) | [belva devara](https://open.spotify.com/artist/77HRI0AHXEfScyt1yAbqq7), [Sabrina Anggraini](https://open.spotify.com/artist/6izKjal8U94M2ucXB1lp8X) | [berdua](https://open.spotify.com/album/4MvHWTbvaxjm4hIpKPgcmV) | 4:16 |
+| 3 | [Berdua](https://open.spotify.com/track/5LieYarl7awUlOXIBV0cHu) | [belva devara](https://open.spotify.com/artist/77HRI0AHXEfScyt1yAbqq7), [Sabrina Anggraini](https://open.spotify.com/artist/6izKjal8U94M2ucXB1lp8X) | [Berdua](https://open.spotify.com/album/4MvHWTbvaxjm4hIpKPgcmV) | 4:16 |
 | 4 | [Nuggets](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 |
 | 5 | [Arisen](https://open.spotify.com/track/2a58wr5i4VYiQtuI4tJDB8) | [SHANNON](https://open.spotify.com/artist/5s67rogGUn0NMqfJKw6AMZ) | [ORENDA](https://open.spotify.com/album/3M21UKMt6v0UXIiZM8KwIZ) | 3:35 |
 | 6 | [Until Death Do Us Part :\) \- Band Version](https://open.spotify.com/track/0Z1XdzFiuKTEZWtRzPYvZA) | [Chris Andrian Yang](https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ) | [Until Death Do Us Part :\) \(Band Version\)](https://open.spotify.com/album/7vOOQPkC3hb5W8yMh5Oqpt) | 5:20 |

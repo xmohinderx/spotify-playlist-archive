@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4?si=6MdGOyJgRNy8PxXvuR1xvA"> Jaylon </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,418 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,459 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 3 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 |
 | 4 | [Kerewa \(feat\. Blaqbonez\)](https://open.spotify.com/track/5BeGPJdDixrxEDpY2NaZ0Z) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Ileke](https://open.spotify.com/album/1I6GnLLD7UEjZfEdGSxA3s) | 3:48 |
 | 5 | [SLIDE](https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW) | [DOZ](https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV), [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [SLIDE](https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL) | 3:00 |
-| 6 | [Awolowo](https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:48 |
+| 6 | [Awolowo](https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:48 |
 | 7 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 |
 | 8 | [Time Difference](https://open.spotify.com/track/0oAMtDXJSvTmXKTo6xCyMQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Azanti](https://open.spotify.com/album/0osb2qW3DZLhHLwxBjLwAk) | 2:57 |
 | 9 | [Addicted](https://open.spotify.com/track/6QVx8qNSScVNwR5O7nNaUZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th) | 4:30 |

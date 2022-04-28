@@ -1,6 +1,6 @@
 {
   "description": "The best new tracks every week. Cover: Kate Bollinger",
-  "num_followers": 1201197,
+  "num_followers": 1201334,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
       "duration_ms": 254056,
       "name": "cant celebrate",
       "url": "https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "F*****g Up What Matters",
+        "url": "https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "F*****g Up What Matters",
+      "url": "https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -548,7 +564,7 @@
           "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
         }
       ],
-      "duration_ms": 147373,
+      "duration_ms": 146586,
       "name": "Million Little Problems",
       "url": "https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo"
     },

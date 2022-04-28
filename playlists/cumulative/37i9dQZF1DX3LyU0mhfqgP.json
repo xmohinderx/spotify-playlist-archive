@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 272826,
       "name": "1984",
       "url": "https://open.spotify.com/track/0uWi7R2U6HVXOA1NhCAeQU"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 210405,
       "name": "airplane thoughts",
       "url": "https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 198413,
       "name": "always be you",
       "url": "https://open.spotify.com/track/7MLrfRIzwxNggk2O2CTMkp"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 222022,
       "name": "Artery",
       "url": "https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 200558,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/3MY1eRB3cQ3GBomJtXpPNL"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 138266,
       "name": "Catch This Love",
       "url": "https://open.spotify.com/track/6srcAu7CPT2h2ePrCEm42q"
@@ -950,6 +950,24 @@
     },
     {
       "album": {
+        "name": "Comedown",
+        "url": "https://open.spotify.com/album/1GjC4sVGSdttLgB5WDtMjV"
+      },
+      "artists": [
+        {
+          "name": "Mike Taveira",
+          "url": "https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250160,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/1U5fORscPSvxvacRm6p8yv"
+    },
+    {
+      "album": {
         "name": "Tantrums",
         "url": "https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc"
       },
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 286093,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3T7lv6LiJSfOsZS9t6kcPp"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 188792,
       "name": "everything is fine",
       "url": "https://open.spotify.com/track/3KUoaFS4cNVRKAqYFCpDQg"
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 164785,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/1beBffSPiC69t4iPU1aOTx"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 211034,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/1DfihOqLMrSjhDUi6pC3FH"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 166113,
       "name": "Have You Thought About Me With Somebody Else",
       "url": "https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "i didn't know any better",
       "url": "https://open.spotify.com/track/3h8QfnbdQKKcYm086PsMQ2"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 217718,
       "name": "I Might Be In Love With You",
       "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 199733,
       "name": "I Wanna Be a Boy",
       "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 206786,
       "name": "IF I KNEW YOU IN A PAST LIFE",
       "url": "https://open.spotify.com/track/1cb5DwlrURMljmqfoLF0oC"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 221871,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z"
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 250754,
       "name": "It's Okay to Cry",
       "url": "https://open.spotify.com/track/6H0R4ejgQbU15cyc0RYsIs"
@@ -2593,7 +2611,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 151307,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 187619,
       "name": "LEIL\u00c3O",
       "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 183256,
       "name": "Let Them (It's All Love)",
       "url": "https://open.spotify.com/track/0BCdgJr5KgYGpsZYIEMLdj"
@@ -3037,7 +3055,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 182443,
       "name": "My Way",
       "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
@@ -3091,7 +3109,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 163082,
       "name": "nice pup",
       "url": "https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE"
@@ -4017,7 +4035,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 143188,
       "name": "snakes",
       "url": "https://open.spotify.com/track/4CigTjRg2PZZKYAus45wOA"
@@ -4296,6 +4314,24 @@
     },
     {
       "album": {
+        "name": "Thank Yew",
+        "url": "https://open.spotify.com/album/1CguW6SCnxeiNUvjicdimm"
+      },
+      "artists": [
+        {
+          "name": "Josh Zilberberg",
+          "url": "https://open.spotify.com/artist/5IbA10Mlb3LHp3QjSQXEDe"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129281,
+      "name": "Thank Yew",
+      "url": "https://open.spotify.com/track/6LUZE9aLm0jfIptvGiBoMd"
+    },
+    {
+      "album": {
         "name": "Bronco: Chapters 1 & 2",
         "url": "https://open.spotify.com/album/751FSVdKa8wrR8dEDLLCqb"
       },
@@ -4307,7 +4343,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 250213,
       "name": "The Curse of the Blackened Eye",
       "url": "https://open.spotify.com/track/4o5XagsRjI8g1lGryYhrGD"
@@ -4517,7 +4553,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 178090,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/4nOv98rbyxOyLTGvjYenrJ"
@@ -4673,7 +4709,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 225033,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/3GEcWJB535LBfwF1lyWGAD"

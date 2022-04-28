@@ -19,7 +19,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 245844,
       "name": "1979",
       "url": "https://open.spotify.com/track/2xq0fx3i99PG6VRc4EDc7B"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 149637,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0rcwROyUguj5RQa5pPKajI"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 281247,
       "name": "Baby - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/51tCjB9xqCJyoe0KdqbdLr"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 318853,
       "name": "Black Star",
       "url": "https://open.spotify.com/track/2SSBZMg2XdTC7vXBi0Ewkp"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 136120,
       "name": "Blue Canadian Rockies - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/170TUtt0aRoo2UddwvxnxT"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 282173,
       "name": "Boots Of Spanish Leather",
       "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 230866,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/0YKnkHwxZiIaeBwVW52NPy"
@@ -315,6 +315,24 @@
       "duration_ms": 167094,
       "name": "California",
       "url": "https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/5mUcf2xoimLPlyMgxc3qoM"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167094,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4cveQqVIfVu4TRpvJNCGWV"
     },
     {
       "album": {
@@ -347,7 +365,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 198777,
       "name": "Candle In The Wind - 2018 Version",
       "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7GOORtGLXelDKL9ohAbQAU"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 239133,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
@@ -477,6 +495,46 @@
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
+    },
+    {
+      "album": {
+        "name": "Highly Prized Possession",
+        "url": "https://open.spotify.com/album/0UgAT8hH71ygC7d42708zy"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Day Tripper",
+      "url": "https://open.spotify.com/track/76Kd9WcnUdfP0ePxRqujGa"
+    },
+    {
+      "album": {
+        "name": "Don't Dream It's Over / Everything Is Free",
+        "url": "https://open.spotify.com/album/5K6Ct7CLekvIw90bR7mJJ4"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203498,
+      "name": "Don't Dream It's Over (feat. Sylvan Esso)",
+      "url": "https://open.spotify.com/track/6S6RUMbuYs8AvkaNpDhgMd"
     },
     {
       "album": {
@@ -527,7 +585,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 304845,
       "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
@@ -567,10 +625,28 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 361413,
       "name": "Don't Think Twice It's Alright",
       "url": "https://open.spotify.com/track/6AMz2plMmDIbE7JLEOSxEA"
+    },
+    {
+      "album": {
+        "name": "Electric Feel",
+        "url": "https://open.spotify.com/album/1pflTWb4cfFoRhHAI4RDM3"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/05FqZMpneCoWc3FUxMLCLG"
     },
     {
       "album": {
@@ -585,7 +661,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 265266,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/6lDTR2JakgO4nyaqASdtIT"
@@ -625,7 +701,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 210714,
       "name": "Fields of Gold",
       "url": "https://open.spotify.com/track/1q7QOfniMB1Dy7RMqDNlCO"
@@ -679,7 +755,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 117840,
       "name": "From Me To You",
       "url": "https://open.spotify.com/track/4XyrKa4r49DjoF9qeaueFw"
@@ -723,7 +799,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 219672,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/4TOuD1BPV4WJ4JM0Qt1kDq"
@@ -741,7 +817,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
@@ -781,7 +857,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 208088,
       "name": "Goodnight, Irene",
       "url": "https://open.spotify.com/track/3oMwfp5g3fNYyy2Ifw7h6J"
@@ -853,7 +929,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
@@ -889,7 +965,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
@@ -911,6 +987,24 @@
       "duration_ms": 164786,
       "name": "Help!",
       "url": "https://open.spotify.com/track/2DnVeVZOghV43sh1cVSf5z"
+    },
+    {
+      "album": {
+        "name": "We Don't Eat",
+        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215589,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
     },
     {
       "album": {
@@ -947,7 +1041,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 184000,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW"
@@ -1095,7 +1189,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 261120,
       "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
       "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
@@ -1117,6 +1211,24 @@
       "duration_ms": 197540,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+    },
+    {
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/0CR2NDGjmAkosGVorhJKrQ"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/2hOvp7i9usQ622QUwTG9f5"
     },
     {
       "album": {
@@ -1167,7 +1279,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 223133,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
@@ -1225,7 +1337,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 242280,
       "name": "Just Breathe (feat. Lukas Nelson)",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
@@ -1261,7 +1373,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 170504,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/0d4qCmNoQ7D8Hv0azn7Ozu"
@@ -1297,7 +1409,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 179386,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
@@ -1315,7 +1427,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/6P8CsMuJCaqrlr4FDqELUQ"
@@ -1369,7 +1481,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 184849,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg"
@@ -1387,7 +1499,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 236546,
       "name": "Leaving On A Jet Plane",
       "url": "https://open.spotify.com/track/1iCCjJPh0rxvmI1rbElYN4"
@@ -1477,7 +1589,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 274220,
       "name": "Lost in the Light",
       "url": "https://open.spotify.com/track/0bgqXYJld8cSkAW72VfVDM"
@@ -1535,7 +1647,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 272000,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v"
@@ -1575,10 +1687,28 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 225767,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/010gJrV78swYwVNAWjmWAb"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
     },
     {
       "album": {
@@ -1593,7 +1723,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 143547,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
@@ -1611,7 +1741,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 200191,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx"
@@ -1669,10 +1799,28 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 252203,
       "name": "Pink Rabbits",
       "url": "https://open.spotify.com/track/1H2uNZwxuv6eCWGyR9nXrR"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256893,
+      "name": "Pony - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
     },
     {
       "album": {
@@ -1723,7 +1871,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 287586,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/1okfEMGJlkIgguDlkebSKr"
@@ -1835,7 +1983,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 221712,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
@@ -1911,7 +2059,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 245780,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/1FGvbfMafLBdymgrtGAZYh"
@@ -1929,7 +2077,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 183052,
       "name": "Stand by Me - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya"
@@ -1965,7 +2113,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 212728,
       "name": "Strangers - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1XoEPRV7lGokoqQsLcywhN"
@@ -2019,7 +2167,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 246701,
       "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
@@ -2037,7 +2185,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 244026,
       "name": "That Don't Impress Me Much - triple j Like A Version",
       "url": "https://open.spotify.com/track/1ZOK8VkScTdXrccs7hkUPq"
@@ -2055,7 +2203,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 261893,
       "name": "The Best - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
@@ -2088,6 +2236,32 @@
     },
     {
       "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc"
+    },
+    {
+      "album": {
         "name": "Mixtape",
         "url": "https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN"
       },
@@ -2099,7 +2273,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 310853,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7"
@@ -2283,7 +2457,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
@@ -2391,7 +2565,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 221237,
       "name": "What a Wonderful World - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/60WpbrUWeXDBQlSrs8haWi"
@@ -2409,7 +2583,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 146735,
       "name": "What The World Needs Now",
       "url": "https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs"
@@ -2431,7 +2605,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 184585,
       "name": "What The World Needs Now Is Love - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/16X5rQpqvBEJkwOswVytkY"
@@ -2467,7 +2641,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 195945,
       "name": "When the Party's over (Acoustic Piano)",
       "url": "https://open.spotify.com/track/1pG5nd6gmfbMwUfT5shDQe"
@@ -2485,7 +2659,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 155240,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
@@ -2503,7 +2677,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 266793,
       "name": "Why Georgia (RAWsession) [originally by John Mayer]",
       "url": "https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q"
@@ -2525,6 +2699,24 @@
       "duration_ms": 168849,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
+    },
+    {
+      "album": {
+        "name": "Wildewoman (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3FbnUTejfWegwYtIS8SRql"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297112,
+      "name": "Wonderful (Recorded Live at Kcsn, Los Angeles)",
+      "url": "https://open.spotify.com/track/6MdAwOYUTYDTOv0kb10Oq7"
     },
     {
       "album": {
@@ -2601,7 +2793,7 @@
       ],
       "date_added": "2019-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"

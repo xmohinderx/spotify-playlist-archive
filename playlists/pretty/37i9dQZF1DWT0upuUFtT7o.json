@@ -1,13 +1,29 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Quinn Christopherson Artwork: Robin Clifford Ellis ",
-  "num_followers": 141407,
+  "num_followers": 141638,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTAyNTg2OCwwMDAwMDBkYzAwMDAwMTgwNjhjZjc2YjYwMDAwMDE4MDY4Y2ViNDcw",
+  "snapshot_id": "MTY1MTA2MjgyMCwwMDAwMDBkZDAwMDAwMTgwNmIwMzRlNDEwMDAwMDE4MDY4Y2ViNDcw",
   "tracks": [
+    {
+      "added_at": "2022-04-27 12:33:40",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
     {
       "added_at": "2022-03-16 13:04:57",
       "album": {

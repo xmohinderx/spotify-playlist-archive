@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Tomike",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Shelf Lives",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Are We Alright?",
+        "url": "https://open.spotify.com/album/11RRR8O69UmYThMe7INeDL"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272850,
+      "name": "Are We Alright?",
+      "url": "https://open.spotify.com/track/4JS13SYT9abwOfGxoGamaS"
+    },
+    {
+      "album": {
         "name": "are you happier now?",
         "url": "https://open.spotify.com/album/47P8A1QMa6sleH6YXzcAwM"
       },
@@ -423,6 +441,24 @@
       "duration_ms": 196919,
       "name": "Baby Teeth",
       "url": "https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8"
+    },
+    {
+      "album": {
+        "name": "Back In Style",
+        "url": "https://open.spotify.com/album/1y4byy3wz6iLjeUr5p3t2Q"
+      },
+      "artists": [
+        {
+          "name": "Illy1",
+          "url": "https://open.spotify.com/artist/5bQ0kbcckuiHdmtIvoeVTB"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Back In Style",
+      "url": "https://open.spotify.com/track/6zGXSLh0wCfWDBtO4B6KXT"
     },
     {
       "album": {
@@ -473,7 +509,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 206186,
       "name": "Bedtime Story",
       "url": "https://open.spotify.com/track/2LZiJ6MWr9tS2SlNyO0MMX"
@@ -956,6 +992,24 @@
     },
     {
       "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/3BggejLVlfeTno0cG1FZ2K"
+      },
+      "artists": [
+        {
+          "name": "Ghum",
+          "url": "https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222863,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/2Jl2j5MQ1xiim6uqtFJiib"
+    },
+    {
+      "album": {
         "name": "Deep Fried",
         "url": "https://open.spotify.com/album/1ZMvulX7JqGWcaz0AvE722"
       },
@@ -1191,7 +1245,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 234080,
       "name": "Don't You Give Up On Me",
       "url": "https://open.spotify.com/track/0EIvV9yLIyC1HhynOQSuFi"
@@ -2169,7 +2223,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 261496,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/5ygOIi3SFxhXsXxQZn4IrB"
@@ -2367,7 +2421,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 140487,
       "name": "Inmymind",
       "url": "https://open.spotify.com/track/08pxqMFDdYJE67t895B9BU"
@@ -2411,6 +2465,24 @@
       "duration_ms": 181000,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/3v5uYAI7bODu4gp6FHizGc"
+    },
+    {
+      "album": {
+        "name": "It's All In My Head",
+        "url": "https://open.spotify.com/album/1gWeOqW9hZ5qHSoY69WdDc"
+      },
+      "artists": [
+        {
+          "name": "Yumi And The Weather",
+          "url": "https://open.spotify.com/artist/23HlNyyzzIg06ROx6tBsIS"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139524,
+      "name": "It's All In My Head - Single Version",
+      "url": "https://open.spotify.com/track/54ax9QFwYRQZCMOHCbMvsG"
     },
     {
       "album": {
@@ -2584,6 +2656,24 @@
     },
     {
       "album": {
+        "name": "Handing You My Heart",
+        "url": "https://open.spotify.com/album/1pdpIjUaXOTUs64NvUbIST"
+      },
+      "artists": [
+        {
+          "name": "Peri Rae",
+          "url": "https://open.spotify.com/artist/6ejkP4aBFxPoAoa6U1MKLK"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Little Steps",
+      "url": "https://open.spotify.com/track/2xtLOvj2Vd8OIJqAE5pSwU"
+    },
+    {
+      "album": {
         "name": "Locked In, Locked On",
         "url": "https://open.spotify.com/album/28DUSKfcVwKMxPeo3r6buc"
       },
@@ -2661,7 +2751,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 229333,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/0gdsXYdwHiLhD9uDBJbJ8S"
@@ -2741,6 +2831,28 @@
       "duration_ms": 102634,
       "name": "Lou's Tune",
       "url": "https://open.spotify.com/track/1ec1i3ISsplGY8DTGTaohs"
+    },
+    {
+      "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/13ySQIKmtFEJZBka3SaJkQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Edison",
+          "url": "https://open.spotify.com/artist/501lbswnZlQ04MdRpfsw1d"
+        },
+        {
+          "name": "KINNOHA",
+          "url": "https://open.spotify.com/artist/4TuZndFzk4U1nP6R8rBg53"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Love at Midnight",
+      "url": "https://open.spotify.com/track/2dIgi1UxwNQICt8YIP9sCn"
     },
     {
       "album": {
@@ -2907,7 +3019,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 181018,
       "name": "make big money fast online now",
       "url": "https://open.spotify.com/track/1AV2UpYCGl3Dgo7f28vnRr"
@@ -3088,6 +3200,24 @@
     },
     {
       "album": {
+        "name": "Mistaken",
+        "url": "https://open.spotify.com/album/76f4UgFe6cwNRTzO1rqyK7"
+      },
+      "artists": [
+        {
+          "name": "AE",
+          "url": "https://open.spotify.com/artist/4UWcOm40hIpudoHIcpQQxg"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Mistaken",
+      "url": "https://open.spotify.com/track/5EZAaABT8QErhmBNnvWU4X"
+    },
+    {
+      "album": {
         "name": "Mixed Signals",
         "url": "https://open.spotify.com/album/6vew8xtpSQxsZWLqeZBw4X"
       },
@@ -3207,7 +3337,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 125124,
       "name": "Mulan",
       "url": "https://open.spotify.com/track/6qFXKHzPTS4gb8YDpcbBDT"
@@ -3405,7 +3535,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 194288,
       "name": "Not Very Well",
       "url": "https://open.spotify.com/track/532Ky6XrRY8La8f4ubAGD6"
@@ -3987,6 +4117,24 @@
       "duration_ms": 180000,
       "name": "Realness",
       "url": "https://open.spotify.com/track/4u5uRIeQR8pvtCDaTDxuZi"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/1Wp8lPzLKW3VREHtwVUlyq"
+      },
+      "artists": [
+        {
+          "name": "The Odd 910",
+          "url": "https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231050,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/0SCmpcUDoj5LfhH0vuEJnx"
     },
     {
       "album": {
@@ -4608,6 +4756,24 @@
     },
     {
       "album": {
+        "name": "Swimming Pool",
+        "url": "https://open.spotify.com/album/1eL538Ax7qeeg8uuMP6AbQ"
+      },
+      "artists": [
+        {
+          "name": "PORTS",
+          "url": "https://open.spotify.com/artist/06PP7xQcDHLp0fEip7VP0N"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195782,
+      "name": "Swimming Pool",
+      "url": "https://open.spotify.com/track/2Itx39VyG8bMX5nLLadeY4"
+    },
+    {
+      "album": {
         "name": "Swimming Swimming",
         "url": "https://open.spotify.com/album/12uNQTHdht5YY0cL6INqoH"
       },
@@ -4641,6 +4807,24 @@
       "duration_ms": 196080,
       "name": "Take the Pain",
       "url": "https://open.spotify.com/track/16m8ry0NbJdzflEDXRGs9D"
+    },
+    {
+      "album": {
+        "name": "talking to the drugs",
+        "url": "https://open.spotify.com/album/2XwXXhDUuX7SDqsQpgEwHU"
+      },
+      "artists": [
+        {
+          "name": "Sick Joy",
+          "url": "https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176799,
+      "name": "talking to the drugs",
+      "url": "https://open.spotify.com/track/3Lz6teL5yOL4pp30hKj9LT"
     },
     {
       "album": {
@@ -4825,7 +5009,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 143099,
       "name": "Tunnels",
       "url": "https://open.spotify.com/track/36EULE9RzfcFSSB04Ieg90"
@@ -4901,6 +5085,28 @@
       "duration_ms": 125638,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/6emGrwPWPyhElz48KkWiaz"
+    },
+    {
+      "album": {
+        "name": "U Got Me (feat. Lord Apex)",
+        "url": "https://open.spotify.com/album/2Ws5Zo2DLDmpTwinl7ffcU"
+      },
+      "artists": [
+        {
+          "name": "Biyi",
+          "url": "https://open.spotify.com/artist/2k7lG3hJ0R4F5I2CY7RY4H"
+        },
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "U Got Me (feat. Lord Apex)",
+      "url": "https://open.spotify.com/track/2xP4qVwHRJBkd0seoHBTh0"
     },
     {
       "album": {
@@ -4991,7 +5197,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 210337,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/2ttcXPZZwD6Fqsx1Ep91AZ"
@@ -5027,7 +5233,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 208375,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5Xz5RO1hQmLQgSHanZB8c9"
@@ -5088,6 +5294,24 @@
     },
     {
       "album": {
+        "name": "When the Lights Go Down",
+        "url": "https://open.spotify.com/album/36QWILJdh16f6tzg8ger6h"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Laoutaris",
+          "url": "https://open.spotify.com/artist/1cOYfuIR7IU9Vd6ZaGdfbT"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220526,
+      "name": "When the Lights Go Down",
+      "url": "https://open.spotify.com/track/0lrF4Jr6njXe3LjaA7coUh"
+    },
+    {
+      "album": {
         "name": "When U Call",
         "url": "https://open.spotify.com/album/5TSnzljjpGs8RLK6VXoX33"
       },
@@ -5135,7 +5359,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 153663,
       "name": "Woke Up, Chose Violence",
       "url": "https://open.spotify.com/track/5UhbJJTRnfIkuzYAPlyVA3"

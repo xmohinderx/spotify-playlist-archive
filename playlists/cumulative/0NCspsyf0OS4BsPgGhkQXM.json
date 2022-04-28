@@ -2439,12 +2439,12 @@
       },
       "artists": [
         {
-          "name": "S\u00d8R",
-          "url": "https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi"
-        },
-        {
           "name": "Kaphy",
           "url": "https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5"
+        },
+        {
+          "name": "S\u00d8R",
+          "url": "https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi"
         },
         {
           "name": "Like Lions",
@@ -2454,7 +2454,7 @@
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196542,
+      "duration_ms": 196535,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4JzTQFJ4kFG1Tqol1DkFoZ"
     },

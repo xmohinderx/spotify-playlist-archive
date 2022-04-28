@@ -31,7 +31,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 215160,
       "name": "21",
       "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 129062,
       "name": "660",
       "url": "https://open.spotify.com/track/7yRRbZzHH0ppfPbiI3ewvF"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 225334,
       "name": "Bloco de 100",
       "url": "https://open.spotify.com/track/02PfxLNAiAoWOLMR49wAk8"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 218000,
       "name": "Cabum",
       "url": "https://open.spotify.com/track/6XtALWpeGBfghIUcMSf7Tk"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 146165,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 176000,
       "name": "Disfarce",
       "url": "https://open.spotify.com/track/0trI4oy0dayuYLeZioJHQg"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 199927,
       "name": "Empilhando Corpos",
       "url": "https://open.spotify.com/track/7uiV1aT1p9dYfDla0WTpAJ"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 191230,
       "name": "Eterna",
       "url": "https://open.spotify.com/track/3GeHTyErJmG2QUnhQYzRRa"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 314032,
       "name": "Eu Pe\u00e7o Paz",
       "url": "https://open.spotify.com/track/57zgzNUat2Z3OPLQREeEOe"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 209747,
       "name": "Eu Sei",
       "url": "https://open.spotify.com/track/4SMzisVrGggLbPc5TII5pa"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Faz um Tempo",
       "url": "https://open.spotify.com/track/0rS5iv1lBqFZq3sK9fjfOM"
@@ -1363,6 +1363,28 @@
       "duration_ms": 205263,
       "name": "Flutuo",
       "url": "https://open.spotify.com/track/2WEni6RxGtoWaask5A6Kok"
+    },
+    {
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/57aGNBBAELNPrRGsLdyQMP"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/4aXXkXLNpFODfR2QDz7FvG"
     },
     {
       "album": {
@@ -1551,7 +1573,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 218198,
       "name": "Honda",
       "url": "https://open.spotify.com/track/4eBpzkiYaWiBTVAK9LUutI"
@@ -1741,7 +1763,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 160015,
       "name": "Ligo Pra Nada",
       "url": "https://open.spotify.com/track/6VQVdzPpxtQPstExyqLMJX"
@@ -1775,7 +1797,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 262199,
       "name": "Lobo-Guar\u00e1",
       "url": "https://open.spotify.com/track/6pPPjzQCW3TauculUPjKDs"
@@ -1845,7 +1867,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 129836,
       "name": "Macetando Firme",
       "url": "https://open.spotify.com/track/69z4ODjyssEmX2GPsiXRBL"
@@ -1941,7 +1963,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 189565,
       "name": "Mandel\u00e3o",
       "url": "https://open.spotify.com/track/2MXhH3LCIxife3lj34GZGc"
@@ -2055,7 +2077,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Mesmo Que N\u00e3o Queira Me Ouvir",
       "url": "https://open.spotify.com/track/7efuXjvCtdYqwWFsUGkSvF"
@@ -2103,7 +2125,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 171415,
       "name": "Minha Lei",
       "url": "https://open.spotify.com/track/1BW6LO4VmSRyCHCTMVht84"
@@ -2243,7 +2265,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 212581,
       "name": "Oclin e Evoque",
       "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
@@ -2269,7 +2291,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 232311,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/58RYmMg7AdRMJIGkLZQEx9"
@@ -2305,7 +2327,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 164210,
       "name": "Ok Baby",
       "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
@@ -2331,7 +2353,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 190476,
       "name": "Okay",
       "url": "https://open.spotify.com/track/1peKthVgZLWXWawP14z7Uw"
@@ -2417,7 +2439,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 204000,
       "name": "Os Menor da Quebrada",
       "url": "https://open.spotify.com/track/3qpdS7XRwt7bysssjJwYbL"
@@ -2547,7 +2569,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 190113,
       "name": "Perfil #84 - Eu Vim de L\u00e1",
       "url": "https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9"
@@ -2625,7 +2647,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 170947,
       "name": "Por um Fio",
       "url": "https://open.spotify.com/track/6MhYAjfJ4bduciT0RSu0U7"
@@ -2665,7 +2687,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 151417,
       "name": "PPTN TRAP SESSIONS #1: Compras",
       "url": "https://open.spotify.com/track/4ZQm3AECFQPafkearXM2MF"
@@ -2731,7 +2753,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 176884,
       "name": "Probleminha",
       "url": "https://open.spotify.com/track/21Rg67D99oWSBJytQGOGw9"
@@ -2791,7 +2813,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 353907,
       "name": "Que Dia \u00c9 Hoje?",
       "url": "https://open.spotify.com/track/1W3BzBN07UCkwzQ1QIgC8p"
@@ -2839,7 +2861,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 191694,
       "name": "Rajada",
       "url": "https://open.spotify.com/track/4TWLYFXkRW5QyBRy2NSJeA"
@@ -2915,7 +2937,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 449408,
       "name": "Refer\u00eancias",
       "url": "https://open.spotify.com/track/3LRCKDlZ4DwoXcfK8XVqeV"
@@ -2985,7 +3007,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 184000,
       "name": "RJ Mais Que Atlanta",
       "url": "https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ"
@@ -3019,6 +3041,62 @@
       "duration_ms": 202388,
       "name": "Roda Gigante",
       "url": "https://open.spotify.com/track/6xamcOg0W0atkyQOoEiFdI"
+    },
+    {
+      "album": {
+        "name": "Roleta Russa",
+        "url": "https://open.spotify.com/album/18Uxx4P8JXpgkp53SBJB8R"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Noventa",
+          "url": "https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Roleta Russa",
+      "url": "https://open.spotify.com/track/65GTyhXJTRcR9QZ66G2Hg2"
+    },
+    {
+      "album": {
+        "name": "Rol\u00e9 de Baile",
+        "url": "https://open.spotify.com/album/3IhNkJWrz33bfKsLxh9Lfl"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Martelin",
+          "url": "https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Rol\u00e9 de Baile",
+      "url": "https://open.spotify.com/track/4YHVCp4RkEekMfZAdhvBXX"
     },
     {
       "album": {
@@ -3081,7 +3159,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 230839,
       "name": "Su\u00edte 14 (feat. Djonga)",
       "url": "https://open.spotify.com/track/5O9OiOrppADIS6N7Zs2al0"
@@ -3181,7 +3259,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 181374,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/5kMECd0wcZa9ULc3mcq40D"
@@ -3259,7 +3337,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 206802,
       "name": "Traje de Ver\u00e3o (feat. P\u00e9ricles)",
       "url": "https://open.spotify.com/track/5yxGL733eJy4BAkBYs3pa3"
@@ -3325,7 +3403,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 193855,
       "name": "Turmalina",
       "url": "https://open.spotify.com/track/53NO62goURpzKLpkhHPwqZ"
@@ -3351,6 +3429,28 @@
       "duration_ms": 173289,
       "name": "Vida de Celebridade",
       "url": "https://open.spotify.com/track/3Pu3vHY2gUK27tdcAGK7b9"
+    },
+    {
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191376,
+      "name": "V\u00edrgula",
+      "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
     },
     {
       "album": {
@@ -3499,7 +3599,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 184634,
       "name": "\u00c9 Isso",
       "url": "https://open.spotify.com/track/5SoApwCCVUmXqSKlsylVWf"

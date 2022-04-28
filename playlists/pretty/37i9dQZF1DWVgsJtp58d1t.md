@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Pusha T
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,450 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,524 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [Playa \(feat\. H.E.R.\)](https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Playa](https://open.spotify.com/album/1W06ElmmLtIuontPTRxw7v) | 2:38 |
 | 99 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 |
 
-Snapshot ID: `MTY1MTAzNDkyOCwwMDAwMDAwMGVmN2E1NjkzNTdkMDg5ZTI1NzM0NzM2ZjE3MTU2NzA4`
+Snapshot ID: `MTY1MTEwODU4MCwwMDAwMDAwMGVmN2E1NjkzNTdkMDg5ZTI1NzM0NzM2ZjE3MTU2NzA4`

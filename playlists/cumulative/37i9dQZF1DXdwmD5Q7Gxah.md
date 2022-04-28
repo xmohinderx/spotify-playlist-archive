@@ -4,7 +4,7 @@
 
 > Breakfast Club 2022, ft Ethel Cain
 
-1,570 songs - 3 day 11 hr 53 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,571 songs - 3 day 11 hr 56 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-08 |  |
 | [assignment song](https://open.spotify.com/track/7H6AsxHIdLMI67idvxldl0) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [assignment song](https://open.spotify.com/album/1taf11KZqMV6DYvp9uqTr8) | 3:42 | 2021-08-26 | 2021-08-28 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-04-24 | 2021-11-13 |
-| [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 | 2019-07-30\* |  |
+| [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 | 2019-07-30\* | 2022-04-28 |
 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 | 2020-10-08 | 2020-12-04 |
 | [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-01-21 |  |
 | [Babydoll](https://open.spotify.com/track/1SocftHhtuqF7k83eUhHiz) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 1:37 | 2019-07-30\* | 2020-07-31 |
@@ -561,6 +561,7 @@
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2021-12-22 | 2022-01-08 |
 | [Golden Lady](https://open.spotify.com/track/1bpaA5Pn4jlo1cRAOBNQnh) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:58 | 2021-07-17 | 2021-07-23 |
 | [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 6:15 | 2020-12-12 | 2021-01-12 |
+| [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 | 2022-04-27 |  |
 | [Good Advice](https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Good Advice](https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy) | 2:44 | 2020-11-27 | 2020-12-31 |
 | [Good Day](https://open.spotify.com/track/7iTwzSe2fg5xYwCgXXFkEe) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Good Day](https://open.spotify.com/album/1HPmeTZ2Mgx0NvynTKpWOj) | 3:01 | 2019-10-04 | 2020-02-05 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2020-12-31 | 2022-01-08 |
@@ -1091,7 +1092,7 @@
 | [Plastered](https://open.spotify.com/track/2f4zAnj43xheWJqwUs88n9) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Plastered](https://open.spotify.com/album/6n2IkCkMutHCF8CPkeYCVf) | 2:07 | 2021-12-03 | 2022-01-08 |
 | [play the part](https://open.spotify.com/track/3DiRnA7UDlUPrGDOF9Zb4u) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [play the part](https://open.spotify.com/album/0MqiRHUnLxKrXTTCF0ST7L) | 3:12 | 2019-07-30\* | 2019-09-14 |
 | [Playground Love \(With Gordon Tracks\)](https://open.spotify.com/track/5iGf8QFnltrfTCxT5u6YI4) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Virgin Suicides](https://open.spotify.com/album/6pJSkIvinycPLXlH8BG8lS) | 3:32 | 2022-03-28 | 2022-04-23 |
-| [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 |  |
+| [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 | 2022-04-28 |
 | [Please Don't Go](https://open.spotify.com/track/3TQSSpByZmDl8ye6VzeRB4) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Please Don't Go](https://open.spotify.com/album/1hrH58cVsVHCEGgdiMnrA7) | 3:08 | 2020-04-03 | 2020-07-24 |
 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 | 2019-11-14 | 2020-02-05 |
 | [Plus](https://open.spotify.com/track/36ynI67Vq1Bz52vEIQMWyy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Plus](https://open.spotify.com/album/0aflX0vk26M494NVMtaPyj) | 4:32 | 2019-12-21 | 2020-03-25 |
@@ -1454,7 +1455,7 @@
 | [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-18 |  |
 | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN) | 2:13 | 2022-04-22 |  |
 | [UNBOUND](https://open.spotify.com/track/4MlEFAvTGtsJw6CGvePq8H) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [UNBOUND](https://open.spotify.com/album/1UbfTiiqAD8ZO39c6Zsenm) | 2:41 | 2020-10-16 | 2021-01-15 |
-| [uninspired](https://open.spotify.com/track/6hPxfqdk3ObCVhePxEYYhF) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [uninspired](https://open.spotify.com/album/7DpcUxOvaiLBErRpfD14iZ) | 3:46 | 2022-04-01 |  |
+| [uninspired](https://open.spotify.com/track/6hPxfqdk3ObCVhePxEYYhF) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [uninspired](https://open.spotify.com/album/7DpcUxOvaiLBErRpfD14iZ) | 3:46 | 2022-04-01 | 2022-04-28 |
 | [unspoken words](https://open.spotify.com/track/0XUU1fzICK7484jpGnfGvd) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 4:06 | 2019-09-19 | 2020-02-20 |
 | [untitled](https://open.spotify.com/track/4pJcFEzvPTTpxAncONKdrk) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [untitled](https://open.spotify.com/album/1AzTLu2HMYvWizUxKPMKNP) | 2:44 | 2021-04-24 | 2021-07-31 |
 | [Unwind Me!](https://open.spotify.com/track/1Frr2d2SHGlHC4OWa2m3G3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [Unwind Me!](https://open.spotify.com/album/4ztLWCQr42B0NRYGt756mY) | 3:08 | 2019-08-16 | 2019-10-29 |
@@ -1521,7 +1522,7 @@
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2021-01-29 | 2021-02-06 |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-05-15 | 2021-11-13 |
 | [Wildfire](https://open.spotify.com/track/2WMRd3xAb9FwXopCRNWDq1) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/5fP2kgfePJZF4nB1XqC1i8) | 3:21 | 2019-07-30\* | 2019-08-02 |
-| [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-04-01 |  |
+| [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-04-01 | 2022-04-28 |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2020-04-18 | 2021-05-12 |
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2020-10-10 | 2021-08-19 |
 | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/track/0OSXUt035Kkf1wFsmy33jX) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/album/3iXCkfY0J6eZJsE1jOlhcT) | 3:05 | 2021-08-19 | 2021-11-20 |

@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: A Boogie Wit Da Hoodie
 
-117 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
+118 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dancing With The Devil](https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Dancing With The Devil](https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM) | 2:49 | 2022-01-14 |  |
 | [Dididumduhduh](https://open.spotify.com/track/4qEmZddPnyEpGkHeGTNmWa) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:26 | 2021-11-05 | 2022-03-26 |
 | [Difference Is \(feat\. Summer Walker\)](https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:13 | 2022-03-11 |  |
+| [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-27 |  |
 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 | 2021-12-17 |  |
 | [EX](https://open.spotify.com/track/7DMkMmhJYtyyWX7JaPKrEM) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [EX](https://open.spotify.com/album/3f8TNHuwmLpB84tgpH0RmB) | 3:56 | 2021-10-07\* | 2021-10-23 |
 | [F Yah Job](https://open.spotify.com/track/0Zrn0AIZ8zNCtStA1YrRfZ) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [F Yah Job](https://open.spotify.com/album/7smZwprQmyFU3VHOz4nfjg) | 1:57 | 2021-07-09 | 2022-02-19 |

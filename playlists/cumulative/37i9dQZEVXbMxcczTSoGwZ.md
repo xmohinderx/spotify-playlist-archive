@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-771 songs - 1 day 19 hr 8 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+772 songs - 1 day 19 hr 12 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-17 | 2022-04-24 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-12-30 | 2022-01-01 |
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-25 | 2021-05-28 |
+| [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 | 2022-04-27 |  |
 | [Aikuinen \(feat\. TIPPA\)](https://open.spotify.com/track/4p1IBl6hCs3DdjxLfYWkJ7) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i), [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59) | [Aikuinen \(feat\. TIPPA\)](https://open.spotify.com/album/0R3KyLS73kGBQ9bVhPYgQC) | 2:45 | 2021-11-28 | 2021-12-04 |
 | [Aikuisii](https://open.spotify.com/track/3bKFbtcIr4tq1obGrUJ0dp) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Aikuisii](https://open.spotify.com/album/4bAylNnfdgChUN2oNZduem) | 3:30 | 2021-03-27\* | 2021-04-20 |
 | [Aikuisten rannekkeet](https://open.spotify.com/track/39PreMAeQVWGnTfV2gG3Le) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Erika Vikman](https://open.spotify.com/album/3QsYSDk8vAA3h2NP0yAXE8) | 3:14 | 2021-08-22 | 2021-08-31 |
@@ -270,7 +271,7 @@
 | [Intro](https://open.spotify.com/track/6hEzdrlc0DUoK7TB2WW4cM) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 1:57 | 2021-10-03 | 2021-10-04 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-15 |
 | [ISI MAKSAA](https://open.spotify.com/track/0MtR1vbS7UeJa0jvXGCwmY) | [Räpfaija](https://open.spotify.com/artist/2eGbmJfjYbZatbebJxY6PD), [Lydia Kenig](https://open.spotify.com/artist/6ju9ieNU1EgotOVVmZkQ0O) | [ISI MAKSAA](https://open.spotify.com/album/1wI7XRKI7brEpiRl4cYX8U) | 3:26 | 2021-11-14 | 2021-11-30 |
-| [Iso takki](https://open.spotify.com/track/1zGkpHclkemMcZQJW641zL) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [500 Hevosta](https://open.spotify.com/album/3uqgxFvP6mLYSjzgKIpyeC) | 3:00 | 2022-04-23 |  |
+| [Iso takki](https://open.spotify.com/track/1zGkpHclkemMcZQJW641zL) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [500 Hevosta](https://open.spotify.com/album/3uqgxFvP6mLYSjzgKIpyeC) | 3:00 | 2022-04-23 | 2022-04-28 |
 | [Isomunanen mies](https://open.spotify.com/track/2ANDdGDSf4EWGM0aPkaPKt) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Isomunanen mies](https://open.spotify.com/album/5bbQDEsnSmM2PqnGrsCTkq) | 3:29 | 2022-03-20 | 2022-03-30 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-28 | 2022-01-08 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-27 | 2021-12-29 |

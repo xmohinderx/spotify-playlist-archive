@@ -4,7 +4,7 @@
 
 > Not not not pop\. Cover: Brevin Kim
 
-853 songs - 1 day 17 hr 30 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+854 songs - 1 day 17 hr 34 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Back N Forth](https://open.spotify.com/track/30qGsatZ3jqKcKFA3BnzA4) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Valencia](https://open.spotify.com/album/77Wq66HlKZgyKOtN5Whdbr) | 2:38 | 2021-10-15 | 2022-04-14 |
 | [Back to Life](https://open.spotify.com/track/5P0akv5sOt042xlwdZ4Eoe) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Back to Life](https://open.spotify.com/album/5pj6goSgXrIth8lfA4nLHx) | 3:42 | 2020-10-13\* | 2020-11-03 |
 | [Bad Habits](https://open.spotify.com/track/6KzTzW8uANWVb2mtBc6K7t) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Bad Habits](https://open.spotify.com/album/3gV92pDJQ3yhWn3uO9ir4O) | 1:59 | 2021-07-31 | 2021-10-12 |
+| [Bad Hoe](https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sometimes Sorry Isn't Enough](https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n) | 3:27 | 2022-04-27 |  |
 | [Bad Love](https://open.spotify.com/track/1tB5UEseYQt5vRZgcnPHAW) | [GOLDSPACE](https://open.spotify.com/artist/0lEmirHWEpNY1GtqLk7rLx) | [Bad Love](https://open.spotify.com/album/7C1SpkTFC1w0mfWhQ1ntsF) | 3:37 | 2021-01-30 | 2021-10-11 |
 | [BAD MOOD \(feat\. Brevin Kim\)](https://open.spotify.com/track/3TzVVsxmrAlpq7c8kZhRpv) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [PLASTIC WORLD](https://open.spotify.com/album/19YH2WSBWAJF2EmBmzCOIn) | 2:38 | 2021-06-12 | 2021-10-16 |
 | [BAD THINGS](https://open.spotify.com/track/6eyUdM968eO48IdApLd6sx) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK), [Teardrop Estates](https://open.spotify.com/artist/4gbWsUOiySCFw50G8zNldr) | [BAD THINGS](https://open.spotify.com/album/3mtTSz7weLILKOaJ5aHyFI) | 2:46 | 2021-01-23 | 2021-06-16 |

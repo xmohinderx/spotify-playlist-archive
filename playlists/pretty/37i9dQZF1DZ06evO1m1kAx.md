@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,566 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,573 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 19 | [I Dey Feel Like](https://open.spotify.com/track/1sJ1sWNt98WLmGBZDwY884) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:21 |
 | 20 | [Implication](https://open.spotify.com/track/0ZORrd5CsTwRg0UP1bn3Tm) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:29 |
 | 21 | [We Must Groove \(feat\. Burna Boy\)](https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:45 |
-| 22 | [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 |
+| 22 | [Love and Ashes](https://open.spotify.com/track/3ZURg62F2dIG5wTANPatMC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [In Love & Ashes](https://open.spotify.com/album/20KVvmHDZaEBsxMo3ccWYs) | 4:18 |
 | 23 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 |
-| 24 | [Love and Ashes](https://open.spotify.com/track/3ZURg62F2dIG5wTANPatMC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [In Love & Ashes](https://open.spotify.com/album/20KVvmHDZaEBsxMo3ccWYs) | 4:18 |
+| 24 | [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 |
 | 25 | [Only Me](https://open.spotify.com/track/6EolsZ9HttNVTonF1bWxqa) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:49 |
 | 26 | [Smile](https://open.spotify.com/track/2ZHqDc1DTTRF3enwT0NLmt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Smile](https://open.spotify.com/album/4ImJy9yLwIoS5IaLX2tyzG) | 4:03 |
 | 27 | [Dance in the Rain](https://open.spotify.com/track/71nvD9S3qUai7oeccEL9ZM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:38 |
-| 28 | [U No Holy Pass](https://open.spotify.com/track/3v0FEcW2YJaJlVU5k7zolI) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:27 |
-| 29 | [Possibility](https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Danger](https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e) | 5:03 |
-| 30 | [Rainbow \- Remix](https://open.spotify.com/track/3rosTvZ4MAbOAzNbbEp6Ha) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:26 |
-| 31 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 |
+| 28 | [Possibility](https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Danger](https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e) | 5:03 |
+| 29 | [U No Holy Pass](https://open.spotify.com/track/3v0FEcW2YJaJlVU5k7zolI) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:27 |
+| 30 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 |
+| 31 | [Rainbow \- Remix](https://open.spotify.com/track/3rosTvZ4MAbOAzNbbEp6Ha) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:26 |
 | 32 | [Unconditional Love](https://open.spotify.com/track/7ENdCRpzE9QjClW84ug7YC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unconditional Love](https://open.spotify.com/album/5tcMfCecPZ6lOUIUWLTyXA) | 3:14 |
 | 33 | [Geshomo](https://open.spotify.com/track/5UrFUR3rGEuDQaKTQi4RQR) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Geshomo](https://open.spotify.com/album/5kDSduetHJQi0aCLtrBaXm) | 3:46 |
 | 34 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Ginger \(feat\. Tiwa Savage\)](https://open.spotify.com/track/7j9Hues1Hzg9LQ84Pmhyv8) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:25 |
 | 50 | [Suffer Head](https://open.spotify.com/track/3sI92ByyeCtuvkoZhyALJL) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 3:19 |
 
-Snapshot ID: `Mjc1MTYzNDksMDAwMDAwMDAyNTgzOGUxYmZkM2NmYmMyZDU2ZDg5YTcwZDA1ZDAwMA==`
+Snapshot ID: `Mjc1MTc3MTUsMDAwMDAwMDBmOTY2ZGU2ZDFmZDkzZGMxYjE3Yjc4ZDQ1Mjk2ZTUxNw==`

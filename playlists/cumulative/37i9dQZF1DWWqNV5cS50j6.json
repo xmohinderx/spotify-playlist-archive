@@ -1070,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Sometimes Sorry Isn't Enough",
+        "url": "https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207250,
+      "name": "Bad Hoe",
+      "url": "https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP"
+    },
+    {
+      "album": {
         "name": "Bad Love",
         "url": "https://open.spotify.com/album/7C1SpkTFC1w0mfWhQ1ntsF"
       },

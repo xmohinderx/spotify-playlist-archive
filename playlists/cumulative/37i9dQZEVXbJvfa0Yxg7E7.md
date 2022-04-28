@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-603 songs - 1 day 7 hr 43 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+604 songs - 1 day 7 hr 45 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-07 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-19 | 2022-03-27 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-10-03 |
-| [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-02-20 |  |
+| [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-02-20 | 2022-04-28 |
 | [Giving In To The Love](https://open.spotify.com/track/6pVGigBjIqGgGscGcKGqSi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Giving In To The Love](https://open.spotify.com/album/5K0nBsDX1pO2OakhRPpsIJ) | 3:01 | 2021-10-17 | 2021-10-18 |
 | [Gje Meg Handa Di Venn](https://open.spotify.com/track/5Nsnr6aTiNzECvns3OFcFx) | [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc) | 3:44 | 2021-12-24 | 2021-12-27 |
 | [Gjør Med Meg](https://open.spotify.com/track/11jif7NuzvCX2MD9JfegJY) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra, Ellers Går Det Over](https://open.spotify.com/album/3LIWwqu7IMhuWbrw8CqSSd) | 2:43 | 2022-03-29 | 2022-04-03 |
@@ -526,6 +526,7 @@
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-16 | 2022-04-11 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 |  |
+| [STAY KEEG](https://open.spotify.com/track/25DxQM0bG7kbj2js8NCO9v) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Henrik von Grogg](https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx) | [STAY KEEG](https://open.spotify.com/album/7K68f2Mbt0BQGd7NB7SEDv) | 2:26 | 2022-04-27 |  |
 | [Stjernesludd](https://open.spotify.com/track/0zCU35nRISaqZqlUXNEL5Z) | [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc) | 5:19 | 2021-11-30 | 2021-12-29 |
 | [Stjernestøv](https://open.spotify.com/track/5e1pZcqnNAh0J2ECKYl0lb) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Stjernestøv](https://open.spotify.com/album/0e6rIEZZNyzuCBAGFdxKVK) | 3:18 | 2021-11-30 | 2021-12-30 |
 | [Strangers Again](https://open.spotify.com/track/3pGUnWmt9D5edB46cQ30MO) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Strangers Again](https://open.spotify.com/album/3NRWnIuanobC7JBHyyOaKN) | 2:37 | 2021-08-29 | 2021-09-26 |

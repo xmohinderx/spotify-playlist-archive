@@ -6,10 +6,282 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NzA2NTI5NiwwMDAwMDAwNzAwMDAwMTcxODQ3Njk2YzEwMDAwMDE3MTg0NzY3NzMw",
+  "snapshot_id": "MTY1MTA5ODAwMiwwMDAwMDAwODAwMDAwMTgwNmQxYzIyYTEwMDAwMDE3MTg0NzY3NzMw",
   "tracks": [
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "MEGALOVANIA",
+      "url": "https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/7E09lH3Vwp5VSt68jpifJ2"
+      },
+      "artists": [
+        {
+          "name": "Or3o",
+          "url": "https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx"
+        },
+        {
+          "name": "Swiblet",
+          "url": "https://open.spotify.com/artist/49BDJl2S6var6tjqa4qRrx"
+        }
+      ],
+      "duration_ms": 186896,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/71KaNgCTNC2J5foUoO06wF"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "tommy innit",
+        "url": "https://open.spotify.com/album/6yYoskP7PW5awOnIcOwAaX"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "duration_ms": 181320,
+      "name": "tommy innit",
+      "url": "https://open.spotify.com/track/57Cmwk9oZjTrFVrkBCmexZ"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Stay Calm (feat. Jeff Burgess)",
+        "url": "https://open.spotify.com/album/6fnqa31bmeRYL7AzOnpXob"
+      },
+      "artists": [
+        {
+          "name": "Griffinilla",
+          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
+        },
+        {
+          "name": "Jeff Burgess",
+          "url": "https://open.spotify.com/artist/1XXSgks7W3pnb8CxGUS51v"
+        }
+      ],
+      "duration_ms": 181068,
+      "name": "Stay Calm (feat. Jeff Burgess)",
+      "url": "https://open.spotify.com/track/1uEirYIgTtCnojbufoer37"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Game On!",
+        "url": "https://open.spotify.com/album/6SpxyDfoqxLUuvd5jiyAZx"
+      },
+      "artists": [
+        {
+          "name": "JT Music",
+          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "To the Bone",
+      "url": "https://open.spotify.com/track/6A1otOgRcNpIs0eta8D4tb"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Super Mario Dubstep Cypher",
+        "url": "https://open.spotify.com/album/5oIEVH8ItHCdL2QwAsXmXV"
+      },
+      "artists": [
+        {
+          "name": "None Like Joshua",
+          "url": "https://open.spotify.com/artist/13rNJ8sWbjGYIUjqtHZvL2"
+        },
+        {
+          "name": "Veela",
+          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+        },
+        {
+          "name": "Dan Bull",
+          "url": "https://open.spotify.com/artist/17BmVePNxhzlRGKc85xYsd"
+        },
+        {
+          "name": "Boyinaband",
+          "url": "https://open.spotify.com/artist/7kfzadZaOgR90Tp8OYH5gM"
+        }
+      ],
+      "duration_ms": 323954,
+      "name": "Super Mario Dubstep Cypher",
+      "url": "https://open.spotify.com/track/0J3fVHDihvprG9RmhD7Tmd"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Power Overwhelming",
+        "url": "https://open.spotify.com/album/4OAHglzphWtNgkOiRHtEbE"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Bosses",
+          "url": "https://open.spotify.com/artist/59QILJMrgLz4d4PJLIq8jn"
+        }
+      ],
+      "duration_ms": 262998,
+      "name": "I'm the Boss",
+      "url": "https://open.spotify.com/track/4Zdp8jmzvJBTHNhUg3OW7b"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Minecraft Pigstep (Remix)",
+        "url": "https://open.spotify.com/album/0khRUZ8VaLXc3L2dJRP7gu"
+      },
+      "artists": [
+        {
+          "name": "FlyxTheKid",
+          "url": "https://open.spotify.com/artist/5xKVOc3OIhyBDsw2rYpN3R"
+        }
+      ],
+      "duration_ms": 157297,
+      "name": "Minecraft Pigstep - Remix",
+      "url": "https://open.spotify.com/track/2rUHJ1o9qj44fR0vTugDAx"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "I've Had Enough of You (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/02ZBPUC7FISxwnDU81gePZ"
+      },
+      "artists": [
+        {
+          "name": "Billie Bust Up",
+          "url": "https://open.spotify.com/artist/3HZZR57W6HRourgPcpul3B"
+        }
+      ],
+      "duration_ms": 199859,
+      "name": "I've Had Enough of You (Original Game Soundtrack)",
+      "url": "https://open.spotify.com/track/5ZgRutE3ZxDJXYM1uSpz3W"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Critical Annihilation (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/53Mqe1enzy5m4wCae2x22T"
+      },
+      "artists": [
+        {
+          "name": "Shurk",
+          "url": "https://open.spotify.com/artist/0NDgB30D7P2gt1qCS2qfIx"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/5cAJvpeNKLZCORVU6RHLA0"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Candle Queen",
+        "url": "https://open.spotify.com/album/4KKDG7iIWtyzpZ7SYhos3E"
+      },
+      "artists": [
+        {
+          "name": "Ghost and Pals",
+          "url": "https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8"
+        },
+        {
+          "name": "Silver Chord Music",
+          "url": "https://open.spotify.com/artist/7tNVcA7VUp5sOYQ9VYgyin"
+        }
+      ],
+      "duration_ms": 153208,
+      "name": "Candle Queen",
+      "url": "https://open.spotify.com/track/63PoQFqCBMlCUDBUtUiXRZ"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Starbomb",
+        "url": "https://open.spotify.com/album/14N06uP4jozH8azjKvvgAZ"
+      },
+      "artists": [
+        {
+          "name": "Starbomb",
+          "url": "https://open.spotify.com/artist/1DLBs2535MM32RYqirYYY4"
+        }
+      ],
+      "duration_ms": 161436,
+      "name": "It's Dangerous to Go Alone",
+      "url": "https://open.spotify.com/track/5m9czFpeSzeSaw2kA6o9dW"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "The Court Jester",
+        "url": "https://open.spotify.com/album/5eRQ7EBtvz6IjRIbLQ3nRU"
+      },
+      "artists": [
+        {
+          "name": "thquib",
+          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
+        },
+        {
+          "name": "FUKASE",
+          "url": "https://open.spotify.com/artist/5J5kYDxQCfRlGxHLBqxpvL"
+        }
+      ],
+      "duration_ms": 344249,
+      "name": "The Court Jester",
+      "url": "https://open.spotify.com/track/1zFqm5q86Rj1ibrhUtHU3b"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
+      },
+      "artists": [
+        {
+          "name": "Black Gryph0n",
+          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
+        },
+        {
+          "name": "Baasik",
+          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Shoot All Your Problems Away",
+        "url": "https://open.spotify.com/album/19n956ZRLzc0hmM9rUgHTi"
+      },
+      "artists": [
+        {
+          "name": "LilDeuceDeuce",
+          "url": "https://open.spotify.com/artist/4Eon8wJtGHP3JNL7lB8Qml"
+        }
+      ],
+      "duration_ms": 156708,
+      "name": "Shoot All Your Problems Away",
+      "url": "https://open.spotify.com/track/4fKJto6091sRgGHQ3uJL0h"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Ghost Assassin EP",
         "url": "https://open.spotify.com/album/3NmmUnjNr6G7wuBWSn0zKw"
@@ -29,7 +301,7 @@
       "url": "https://open.spotify.com/track/3VPBqHUd17ZvEgabW9ZOUU"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Watch Dogs (Music from the Video Game) [Original Game Soundtrack]",
         "url": "https://open.spotify.com/album/1D622TWd7hvxVZicNjVLjl"
@@ -49,7 +321,23 @@
       "url": "https://open.spotify.com/track/4pw83J8CjgZvXvydMOvj0x"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Generation Gaming",
+        "url": "https://open.spotify.com/album/3HfOUjKuJjXobVnBYPsOZP"
+      },
+      "artists": [
+        {
+          "name": "Dan Bull",
+          "url": "https://open.spotify.com/artist/17BmVePNxhzlRGKc85xYsd"
+        }
+      ],
+      "duration_ms": 85529,
+      "name": "Dovahkiin",
+      "url": "https://open.spotify.com/track/3TGzYWUYVNnMb6SVe2DXfN"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Pwn Star",
         "url": "https://open.spotify.com/album/6qDBfy33RllgJSK41Hcokf"
@@ -65,7 +353,7 @@
       "url": "https://open.spotify.com/track/0fp1PyzIVdjFqd0fmbLdXD"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "When Titans Fall (Titanfall Rap) [feat. Jt Machinima & Borderline Disaster]",
         "url": "https://open.spotify.com/album/4Qc9sDFr7Ce2XDySKk8fIK"
@@ -89,7 +377,23 @@
       "url": "https://open.spotify.com/track/0gIZ3ra2a6SbMfkKlyEGr3"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Pick a Universe",
+        "url": "https://open.spotify.com/album/3x5JjPSXYOMixquAnUWsNl"
+      },
+      "artists": [
+        {
+          "name": "Tryhardninja",
+          "url": "https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Pick a Universe",
+      "url": "https://open.spotify.com/track/3zQmNtLyKjzRL8LqaCFEYH"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Whistle While I Work It",
         "url": "https://open.spotify.com/album/2XnGJqLCNxv31x3UjHh2HY"
@@ -121,7 +425,7 @@
       "url": "https://open.spotify.com/track/2u3FkqjDD3yexZhbAq43cI"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Viral Song",
         "url": "https://open.spotify.com/album/4eVlDMZ5P7NK988CVBioZp"
@@ -141,7 +445,23 @@
       "url": "https://open.spotify.com/track/5hiXiMHQbgzt3kfxAm0jnT"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Sounds Like Overwatch",
+        "url": "https://open.spotify.com/album/3Es9v9h5Bmy7Xng870q69k"
+      },
+      "artists": [
+        {
+          "name": "Haveluckgoodfun",
+          "url": "https://open.spotify.com/artist/5J6tjalKJEVhffrLBdceMG"
+        }
+      ],
+      "duration_ms": 140407,
+      "name": "Sounds Like Overwatch",
+      "url": "https://open.spotify.com/track/6ViQlyaZoA3JsNnQX88Gd0"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Sophie's New Year",
         "url": "https://open.spotify.com/album/4looWwSKUVBFchwAFOkr9M"
@@ -157,7 +477,7 @@
       "url": "https://open.spotify.com/track/0JPz0TG2OqnAtFN5EKbEP0"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Generation Gaming IX",
         "url": "https://open.spotify.com/album/5r9FcEwJXa7cyE1wT5jmOL"
@@ -173,7 +493,23 @@
       "url": "https://open.spotify.com/track/6MqU4Ie5UUK5Ivoag5D9AQ"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "House Some More (Original Mix)",
+        "url": "https://open.spotify.com/album/4nmqnUqMVEFxlIDXRA3H52"
+      },
+      "artists": [
+        {
+          "name": "High Level",
+          "url": "https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh"
+        }
+      ],
+      "duration_ms": 357693,
+      "name": "The Lavender Town Syndrome",
+      "url": "https://open.spotify.com/track/2gWcH0VRwo07kT8Y6FnA7x"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Starcraft EP",
         "url": "https://open.spotify.com/album/4xRkgBb2S0PYF3MraorFSk"
@@ -189,7 +525,7 @@
       "url": "https://open.spotify.com/track/4LHqpy3K9LCVUb9cAPL5Ax"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Starcraft 2 Song",
         "url": "https://open.spotify.com/album/5hJSjCBLslRPoj2uM3cnaz"
@@ -205,7 +541,23 @@
       "url": "https://open.spotify.com/track/0jtQd7LMgtt0qvuOgcXSjU"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Too Much Fun (feat. Minx)",
+        "url": "https://open.spotify.com/album/33pt1q1RWXtpjyJVkaklvR"
+      },
+      "artists": [
+        {
+          "name": "Boyinaband",
+          "url": "https://open.spotify.com/artist/7kfzadZaOgR90Tp8OYH5gM"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Too Much Fun",
+      "url": "https://open.spotify.com/track/1cILn8DmDvqYyIxauPOWyM"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Generation Gaming VI",
         "url": "https://open.spotify.com/album/7Cjd3XZqXHmRxZpPQw4MW4"
@@ -221,7 +573,7 @@
       "url": "https://open.spotify.com/track/1ns3STBPKdYQmtoD8Vt9JE"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "PewDiePie Rap",
         "url": "https://open.spotify.com/album/35JcMlFLd2WkgC1MXDtVHt"
@@ -241,7 +593,23 @@
       "url": "https://open.spotify.com/track/4TTVKYjZnUTn2tvZ6lEyYt"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Nap Rap",
+        "url": "https://open.spotify.com/album/2guqiCXX9fdfj4gaXvNqoH"
+      },
+      "artists": [
+        {
+          "name": "The Warp Zone",
+          "url": "https://open.spotify.com/artist/4X7MdTGrtZYViAOn7AKNYY"
+        }
+      ],
+      "duration_ms": 206726,
+      "name": "Nap Rap",
+      "url": "https://open.spotify.com/track/4m1RtpjJpwBOcRD2PJWH38"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Jag \u00e4r en t\u00f6nt som spelar WoW",
         "url": "https://open.spotify.com/album/7keNeXbtP5ePohSvhgZmKy"
@@ -257,7 +625,7 @@
       "url": "https://open.spotify.com/track/1oaMPZsWn1qU1HaZfwY0HA"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Bmin / E",
         "url": "https://open.spotify.com/album/6TB4UYNVhF7BUxroN2gxD3"
@@ -273,7 +641,23 @@
       "url": "https://open.spotify.com/track/5IKMn8l4rextVpvyWtVAb7"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Video Game Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/4TQ0wWEL3SNrKHj6ihlgYE"
+      },
+      "artists": [
+        {
+          "name": "Tryhardninja",
+          "url": "https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG"
+        }
+      ],
+      "duration_ms": 189353,
+      "name": "Back in Black",
+      "url": "https://open.spotify.com/track/06VeVP9K5PIGOwsXV9VBbV"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "More 8 Bit Videogame Themes",
         "url": "https://open.spotify.com/album/5Lhwx4UWWTb4oGE3t0hELZ"
@@ -289,7 +673,7 @@
       "url": "https://open.spotify.com/track/0kC96JkViOlYEr2G3dEz2l"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Diamond Sword",
         "url": "https://open.spotify.com/album/4lQcbG4Ukk8VhXslRuVrXw"
@@ -305,7 +689,31 @@
       "url": "https://open.spotify.com/track/6InvIEQLsByO4HG6RvA68w"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Hello Monsta (feat. Markiplier)",
+        "url": "https://open.spotify.com/album/2JmfuaGhVPannlFkSWGj9Q"
+      },
+      "artists": [
+        {
+          "name": "Boyinaband",
+          "url": "https://open.spotify.com/artist/7kfzadZaOgR90Tp8OYH5gM"
+        },
+        {
+          "name": "Minx",
+          "url": "https://open.spotify.com/artist/3iDI7opwX2Uv6vIteWCUFi"
+        },
+        {
+          "name": "Markiplier",
+          "url": "https://open.spotify.com/artist/65BxFegOKWTiwG3DGCckef"
+        }
+      ],
+      "duration_ms": 146714,
+      "name": "Hello Monsta",
+      "url": "https://open.spotify.com/track/1x35Tv1ehwYZGOtDhRWZtz"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Girls Know How to Fight (From \"Hey Captainsparklez\")",
         "url": "https://open.spotify.com/album/2XGBFIZ9pbzcxFHH0PCsGO"
@@ -325,7 +733,7 @@
       "url": "https://open.spotify.com/track/6HdFvEIEMOzqFEgVYIlN3P"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Bajancanadian Song",
         "url": "https://open.spotify.com/album/2oaS0HbNXQlVOlVyRqbUm3"
@@ -341,7 +749,23 @@
       "url": "https://open.spotify.com/track/6bjljrd6dICc3cvZGGEbCj"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Press Start to Begin Vol 1",
+        "url": "https://open.spotify.com/album/070sM59x61Vl0XhM63RZz8"
+      },
+      "artists": [
+        {
+          "name": "Dagames",
+          "url": "https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx"
+        }
+      ],
+      "duration_ms": 222622,
+      "name": "Flumpty's Jam",
+      "url": "https://open.spotify.com/track/384UF2cRwgnkZWTBL7qJNF"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "MineCraft: Epics",
         "url": "https://open.spotify.com/album/1tQQKAd4Z44k1iFqaYRBwS"
@@ -357,7 +781,7 @@
       "url": "https://open.spotify.com/track/4wMtBUXd3tHMyUg3WY04N9"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Black Man of Steal",
         "url": "https://open.spotify.com/album/6HHbKC9Pi4lWqY3ddRd6k9"
@@ -373,7 +797,23 @@
       "url": "https://open.spotify.com/track/40a9Fv8yyUPH8xEyAUfNRo"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
+      "album": {
+        "name": "Player Select",
+        "url": "https://open.spotify.com/album/6txlZq68LdhDwidkUBFrRp"
+      },
+      "artists": [
+        {
+          "name": "Starbomb",
+          "url": "https://open.spotify.com/artist/1DLBs2535MM32RYqirYYY4"
+        }
+      ],
+      "duration_ms": 124014,
+      "name": "Minecraft Is for Everyone",
+      "url": "https://open.spotify.com/track/6G7uJucxlyI24RNcwjeZlA"
+    },
+    {
+      "added_at": "2022-04-27 22:20:02",
       "album": {
         "name": "Worlds Collide (feat. Nicki Taylor)",
         "url": "https://open.spotify.com/album/3YwvcAfyTcuDRF5UFglLaH"
@@ -393,140 +833,68 @@
       "url": "https://open.spotify.com/track/17hcFa5JZWpaSJ36Bi3nTw"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
-        "name": "The Music of League of Legends, Vol. 1",
-        "url": "https://open.spotify.com/album/5FaR6iJY0jAiLJxhnLTzmk"
+        "name": "Magical Chalk Toilet",
+        "url": "https://open.spotify.com/album/5XGgP9CL4UTYF4Mww5M3K8"
       },
       "artists": [
         {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+          "name": "Mr Weebl",
+          "url": "https://open.spotify.com/artist/5byiTcED6BRjdAYn49iOlR"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Get Jinxed",
-      "url": "https://open.spotify.com/track/32IMcJ5pQ71rOFD0bIdneJ"
+      "duration_ms": 105003,
+      "name": "Russian Dancing Men",
+      "url": "https://open.spotify.com/track/2vUjo3903fUHjpn3JtGqYS"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
-        "name": "Smite and Ignite",
-        "url": "https://open.spotify.com/album/6dAPIEzr6lVHXv9hqiszGr"
+        "name": "Power Overwhelming",
+        "url": "https://open.spotify.com/album/4OAHglzphWtNgkOiRHtEbE"
       },
       "artists": [
         {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Pentakill",
-          "url": "https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s"
+          "name": "Big Bad Bosses",
+          "url": "https://open.spotify.com/artist/59QILJMrgLz4d4PJLIq8jn"
         }
       ],
-      "duration_ms": 296160,
-      "name": "Lightbringer (feat. Pentakill)",
-      "url": "https://open.spotify.com/track/1zhuSed56xkTPxqCR9fWkF"
+      "duration_ms": 220250,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4FYYh4qbUQ1DyISi0grkAM"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
-        "name": "Dota 2 Main Theme",
-        "url": "https://open.spotify.com/album/7p975c7JFrffuRdvX3acXQ"
+        "name": "Racking Stars",
+        "url": "https://open.spotify.com/album/6G1T6z0bbGZKm66qCcrPsl"
       },
       "artists": [
         {
-          "name": "Live Voices",
-          "url": "https://open.spotify.com/artist/5SoYNg3hKZV1rCUZDmgGJj"
+          "name": "The Warp Zone",
+          "url": "https://open.spotify.com/artist/4X7MdTGrtZYViAOn7AKNYY"
         }
       ],
-      "duration_ms": 103534,
-      "name": "Dota 2 Main Theme (A'cappella)",
-      "url": "https://open.spotify.com/track/16Vx6T7uOiWk57QRde45C2"
+      "duration_ms": 231919,
+      "name": "Racking Stars",
+      "url": "https://open.spotify.com/track/36XdPoSFhyhevZH79mCbnE"
     },
     {
-      "added_at": "2019-12-16 16:46:02",
+      "added_at": "2022-04-27 22:20:02",
       "album": {
-        "name": "Scv Love Song",
-        "url": "https://open.spotify.com/album/7FmZOv8eNzruGEZfCfn2Ov"
+        "name": "20 Percent Cooler - Single",
+        "url": "https://open.spotify.com/album/0iIFFIydL6qKU5iTAFdoBT"
       },
       "artists": [
         {
-          "name": "Nerd Alert",
-          "url": "https://open.spotify.com/artist/1fii8KaGFtaRzdJ3pZPkm8"
+          "name": "Ken Ashcorp",
+          "url": "https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ"
         }
       ],
-      "duration_ms": 195857,
-      "name": "Scv Love Song",
-      "url": "https://open.spotify.com/track/47FYnAQp5X44mxh1cZOwil"
-    },
-    {
-      "added_at": "2019-12-16 16:46:02",
-      "album": {
-        "name": "8-Bit Anthem",
-        "url": "https://open.spotify.com/album/06LZbYlwkIiVZnwegxcHeh"
-      },
-      "artists": [
-        {
-          "name": "The GAG Quartet",
-          "url": "https://open.spotify.com/artist/6qcUeWE0nbXnXcoLLPpDoa"
-        }
-      ],
-      "duration_ms": 310057,
-      "name": "8-Bit Anthem",
-      "url": "https://open.spotify.com/track/3qeHRH2O7jUkZLIsXKnu21"
-    },
-    {
-      "added_at": "2019-12-16 16:46:02",
-      "album": {
-        "name": "le Internet Medley",
-        "url": "https://open.spotify.com/album/2AI5qK3ESiw0z2JsxiLEcf"
-      },
-      "artists": [
-        {
-          "name": "The GAG Quartet",
-          "url": "https://open.spotify.com/artist/6qcUeWE0nbXnXcoLLPpDoa"
-        }
-      ],
-      "duration_ms": 229993,
-      "name": "le Internet Medley",
-      "url": "https://open.spotify.com/track/3PGwHKAK7p5V7LDzZK1tbu"
-    },
-    {
-      "added_at": "2019-12-16 16:46:02",
-      "album": {
-        "name": "I Play W.O.W (Featuring Benny Cassette)",
-        "url": "https://open.spotify.com/album/7McI2tjPuR1e6XHsoKzEl8"
-      },
-      "artists": [
-        {
-          "name": "Jace Hall",
-          "url": "https://open.spotify.com/artist/2E645PClO7w4lnSJRqyugq"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "I Play W.O.W. - Main",
-      "url": "https://open.spotify.com/track/1puny8tzEp22AhYnunNKxc"
-    },
-    {
-      "added_at": "2019-12-16 16:46:02",
-      "album": {
-        "name": "(Do You Wanna Date My) Avatar (feat. Felicia Day)",
-        "url": "https://open.spotify.com/album/2VS1J10r6k9w2kUjQAROuS"
-      },
-      "artists": [
-        {
-          "name": "The Guild",
-          "url": "https://open.spotify.com/artist/4ZTRDkeQlp2OsLLVd0iSd8"
-        },
-        {
-          "name": "Felicia Day",
-          "url": "https://open.spotify.com/artist/67pV3IHfrxmBSOdhwyKDQU"
-        }
-      ],
-      "duration_ms": 219850,
-      "name": "(Do You Wanna Date My) Avatar (feat. Felicia Day)",
-      "url": "https://open.spotify.com/track/5wbSBRMCIFx381ltPrlDKm"
+      "duration_ms": 192000,
+      "name": "20 Percent Cooler",
+      "url": "https://open.spotify.com/track/1DFnEeH1a4zUh4pIRzopEF"
     }
   ],
   "unique_name": "Nerding Around",

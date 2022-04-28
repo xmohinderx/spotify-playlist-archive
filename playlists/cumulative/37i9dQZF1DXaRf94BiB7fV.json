@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: The Colour Compound, Artwork: Isu Kim.\n\n\n\n",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Leah Khambata, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -143,6 +143,24 @@
     {
       "album": {
         "name": "Aankhon Se Batana",
+        "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221271,
+      "name": "Aankhon Se Batana",
+      "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
+    },
+    {
+      "album": {
+        "name": "Aankhon Se Batana",
         "url": "https://open.spotify.com/album/19H1bwuvijYTRr5urWUFTI"
       },
       "artists": [
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 221271,
       "name": "Aankhon Se Batana",
       "url": "https://open.spotify.com/track/49oltVbt6XTuhAptCpGW4j"
@@ -197,6 +215,24 @@
       "duration_ms": 265984,
       "name": "Aasaan Nahin Hota",
       "url": "https://open.spotify.com/track/6JSJnZpxa9Dw2vTovINcIA"
+    },
+    {
+      "album": {
+        "name": "Aaye Haaye",
+        "url": "https://open.spotify.com/album/1VfImHkhL9Me6RQmTqgYJ7"
+      },
+      "artists": [
+        {
+          "name": "Arjan Singh",
+          "url": "https://open.spotify.com/artist/2QhqrQvj61FNPveHltGORS"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172023,
+      "name": "Aaye Haaye",
+      "url": "https://open.spotify.com/track/02mSzwVh9vXjQ8JPyaVqvz"
     },
     {
       "album": {
@@ -791,7 +827,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 135952,
       "name": "Bill Hilly",
       "url": "https://open.spotify.com/track/2zRbsZPA9Q0zQFcUPmYXyU"
@@ -1683,7 +1719,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 181397,
       "name": "Gimme some of that",
       "url": "https://open.spotify.com/track/7DLNYsxaaTIiL8FhTPXlqv"
@@ -3008,6 +3044,42 @@
     },
     {
       "album": {
+        "name": "Kulfi",
+        "url": "https://open.spotify.com/album/1lnmlCF06Nh3tWsY4IvQqd"
+      },
+      "artists": [
+        {
+          "name": "Rohan Upadeo",
+          "url": "https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Kulfi",
+      "url": "https://open.spotify.com/track/4kRHGApBIgxV4r1SjwD70l"
+    },
+    {
+      "album": {
+        "name": "Kya Pata",
+        "url": "https://open.spotify.com/album/2dgepWvy4VdQHtVYviCI3n"
+      },
+      "artists": [
+        {
+          "name": "Rahul Gurung",
+          "url": "https://open.spotify.com/artist/501jDprhWjQsobbgEjglKQ"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Kya Pata",
+      "url": "https://open.spotify.com/track/30LOB7sU7THmLd48ZyuDkP"
+    },
+    {
+      "album": {
         "name": "Kyu Jana Hai",
         "url": "https://open.spotify.com/album/2mQnOwJsAwlYkhrw7pYYnX"
       },
@@ -3185,6 +3257,24 @@
       "duration_ms": 146681,
       "name": "let me be ur girl",
       "url": "https://open.spotify.com/track/41nxLNYVHCEbhiFyGUNMWL"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/44vL80zQib9ErFXTBHcyZv"
+      },
+      "artists": [
+        {
+          "name": "STEVIE",
+          "url": "https://open.spotify.com/artist/6GHxnMgyleS4PM4YpVZkTa"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/28R8mTc9jP9DKSNEGBkzMY"
     },
     {
       "album": {
@@ -4041,7 +4131,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 164342,
       "name": "Nayi Hai",
       "url": "https://open.spotify.com/track/00c1coppeAaQpvaRemO0v3"
@@ -4434,6 +4524,28 @@
     },
     {
       "album": {
+        "name": "Pedh Tum Darzi",
+        "url": "https://open.spotify.com/album/64URP2n0IFONpGxyJf40kt"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi Tripathi",
+          "url": "https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi"
+        },
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132833,
+      "name": "Pedh Tum Darzi",
+      "url": "https://open.spotify.com/track/5egECSQez9LtESVAe7lsE3"
+    },
+    {
+      "album": {
         "name": "Pehra",
         "url": "https://open.spotify.com/album/2WsORAvfZc4ZwotHyQ6vOK"
       },
@@ -4615,7 +4727,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 299098,
       "name": "Raat Guzar Jayegi",
       "url": "https://open.spotify.com/track/7xeE7hMmfs3K3IgmYmNmZR"
@@ -4965,7 +5077,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 220848,
       "name": "Run",
       "url": "https://open.spotify.com/track/6UsJup3QM0i0M2MB89x5dZ"
@@ -5257,7 +5369,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 297000,
       "name": "Sanware",
       "url": "https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z"
@@ -5653,6 +5765,24 @@
       "duration_ms": 108801,
       "name": "Stop.",
       "url": "https://open.spotify.com/track/73h7fgGN7S2pVSqdlm32yX"
+    },
+    {
+      "album": {
+        "name": "Capitalist Musician with a Left Leaning Avatar",
+        "url": "https://open.spotify.com/album/52BCf8xfA62sPVGEfZxYzB"
+      },
+      "artists": [
+        {
+          "name": "The Revisit Project",
+          "url": "https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258311,
+      "name": "Straight Through",
+      "url": "https://open.spotify.com/track/2LUy1Nt7vWHcmxVQ0UfOHL"
     },
     {
       "album": {
@@ -6676,6 +6806,24 @@
     },
     {
       "album": {
+        "name": "Would You Dance With Me?",
+        "url": "https://open.spotify.com/album/7mSxRj3tWgUv8h8Wp77Z7K"
+      },
+      "artists": [
+        {
+          "name": "Mister Miyagi",
+          "url": "https://open.spotify.com/artist/7eBAzAKuzsvbCfSzF9l1a0"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "Would You Dance With Me?",
+      "url": "https://open.spotify.com/track/7rAZCMEJeg77VCndlxqvI2"
+    },
+    {
+      "album": {
         "name": "Yaadein Banate Hai",
         "url": "https://open.spotify.com/album/36p3T8WOvQ1Pc4S9mGEugS"
       },
@@ -6915,7 +7063,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 195769,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/07xgxwSbFyyYcTkxzNFDL5"

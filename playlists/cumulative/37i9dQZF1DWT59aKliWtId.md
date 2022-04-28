@@ -4,7 +4,7 @@
 
 > A quality alternative blend\. Cover: Marcus King
 
-269 songs - 16 hr 31 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+270 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Better Than Any Drug](https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Better Than Any Drug](https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX) | 3:26 | 2022-01-21 | 2022-04-02 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2021-12-10 | 2022-02-12 |
+| [Blue](https://open.spotify.com/track/2n1tP63rtEfyFDORk44Awt) | [BATTS](https://open.spotify.com/artist/1PIsw4oKKnFzyefiLWI7Rg), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Blue \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/48Om1ZZbTmxjTV05VY6WQt) | 4:24 | 2022-04-27 |  |
 | [Boomerang](https://open.spotify.com/track/3TIoOu5ZQwcHI41kH047gT) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Boomerang](https://open.spotify.com/album/58vNxqPKsR1XSGDhaoVdiT) | 2:48 | 2021-12-10 | 2022-03-05 |
 | [BRIGHTSIDE](https://open.spotify.com/track/2mdkcujPED7xhV2MTtjYnD) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/1rN1O6lNjyw1P3SNs3KZzs) | 3:49 | 2021-12-10 | 2022-02-12 |
 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 | 2022-01-14 | 2022-04-02 |

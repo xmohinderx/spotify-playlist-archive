@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,643 likes - 46 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,645 likes - 46 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 45 | [Singya](https://open.spotify.com/track/48ugorCHzJLtcw59Kk0NQh) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Ali Farka Touré](https://open.spotify.com/album/1aX7oOVYryzsfu2wWk9hok) | 5:25 |
 | 46 | [Jungou](https://open.spotify.com/track/4BYctbh0cJOBwoTv8U8tym) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 7:23 |
 
-Snapshot ID: `Mjc1MTYzNDksMDAwMDAwMDBlY2I4Y2NmNzUxNGRmOTY0OGI0YTViNTIwNDM3YWRhOA==`
+Snapshot ID: `Mjc1MTc3MTUsMDAwMDAwMDBkN2ZjNjcwMDE5ZGRmZjdhZjQxZmUzODEwOTFmOGMzMA==`

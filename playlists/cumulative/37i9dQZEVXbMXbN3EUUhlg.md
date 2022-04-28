@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-378 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+379 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Benzin](https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:54 | 2021-09-05 | 2021-09-06 |
 | [Bença](https://open.spotify.com/track/3IyHot1hbizbIjvCkRrLHT) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:27 | 2021-09-05 | 2021-09-07 |
 | [Bipolar](https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Bipolar](https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy) | 4:36 | 2021-05-03 | 2021-09-30 |
-| [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv) | 2:33 | 2022-02-01 |  |
+| [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv) | 2:33 | 2022-02-01 | 2022-04-28 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2021-04-11 |
 | [Bloqueado \- Ao Vivo](https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:48 | 2021-12-18 |  |
 | [Bloqueado \- Ao Vivo](https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK) | 2:48 | 2021-11-28 | 2021-12-19 |
@@ -134,6 +134,7 @@
 | [Esquema Preferido \- Ao Vivo](https://open.spotify.com/track/35qOGx1CWvCkQFOv4BkVIV) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Da Roça Pra Cidade \(Ao Vivo\)](https://open.spotify.com/album/2088VaDwnFtTCZI1Xr1kZZ) | 3:21 | 2021-03-27 | 2021-04-14 |
 | [Esqueça\-Me Se For Capaz](https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 | 2021-10-17 |  |
 | [Estrelinha \- Ao Vivo](https://open.spotify.com/track/2wf5rkl0KdC5v2QhOmTCMa) | [Di Paullo & Paulino](https://open.spotify.com/artist/1e5A3rWcqk9WfLjeg5T3dI), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Nós & Elas \(Ao Vivo\)](https://open.spotify.com/album/44CGwfdrZlWgbosK9OK8wC) | 3:26 | 2021-11-09 | 2021-11-12 |
+| [Eu Bem Que Te Avisei \- Tu Empurrou Ele Pei](https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [Eu Bem Que Te Avisei \- Tu Empurrou Ele Pei](https://open.spotify.com/album/3agQ7dEMi2JOATLApERs3N) | 2:38 | 2022-04-27 |  |
 | [Eu Fiz o Jogo Virar](https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Eu Fiz o Jogo Virar](https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5) | 2:25 | 2021-09-04 | 2021-11-22 |
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5emL18Je5WuruMhWr0gj4w) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Eu Já Tava Bem \(Ao Vivo\)](https://open.spotify.com/album/2m81ZDyTcPZ2OvxtsWC0bw) | 2:15 | 2021-12-26 | 2022-01-08 |
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/3jk9qHtMT4eVvVwvUVD11z) | 2:15 | 2022-01-08 |  |

@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Daniel Johns
 
-267 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+268 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Greed](https://open.spotify.com/track/2KDrr1v6xfk7pSLFVIyx8o) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Greed](https://open.spotify.com/album/6heAEx4zXzLBJ9Qx6CJnyj) | 2:22 | 2021-12-31 | 2022-02-19 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-04 | 2022-02-26 |
 | [Hanging Out with All the Wrong People](https://open.spotify.com/track/3sHlpMbDjgGPedrNnBd5Xb) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis of Faith](https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN) | 3:46 | 2022-01-21 | 2022-03-12 |
+| [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 | 2022-04-27 |  |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-01-28 |  |
 | [Head Up](https://open.spotify.com/track/4Y4ldFPbe39m81tRLOcIWd) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:49 | 2022-03-18 |  |
 | [Head Up](https://open.spotify.com/track/4gewBWXN96LS6K71Cvr3oa) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Chrysalis](https://open.spotify.com/album/5pXpUs3iFvHtERCkLkrEIi) | 2:49 | 2021-12-31 | 2022-03-19 |

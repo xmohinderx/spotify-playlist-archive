@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,128 likes - 147 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,449 likes - 147 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 8 | [hagaparken](https://open.spotify.com/track/5u3rKKdFqAl63VuzbWDZ2P) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [hagaparken](https://open.spotify.com/album/18MAXqnzVBabmMptAeu14h) | 1:59 |
 | 9 | [Evergreen Forest](https://open.spotify.com/track/2qrTpPdOoAVbqONnV0p6mN) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Evergreen Forest](https://open.spotify.com/album/1SaDSYQdoE17uanBI6qxes) | 2:10 |
 | 10 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 |
-| 11 | [Reattachment](https://open.spotify.com/track/5jaPyxDqTmJNaWb6FV5Iqy) | [Avery Palm](https://open.spotify.com/artist/0dJz1wtsMh5DrqCnoyiQDr) | [Give Ut Up](https://open.spotify.com/album/42LL7ZVY3mIcW74gVmkgmZ) | 1:44 |
+| 11 | [Reattachment](https://open.spotify.com/track/5jaPyxDqTmJNaWb6FV5Iqy) | [Avery Palm](https://open.spotify.com/artist/0dJz1wtsMh5DrqCnoyiQDr) | [Give It Up](https://open.spotify.com/album/42LL7ZVY3mIcW74gVmkgmZ) | 1:44 |
 | 12 | [Jazz Has Many Faces](https://open.spotify.com/track/6S1v4mCBFT3yG895yilYyt) | [Super Off\-Beat](https://open.spotify.com/artist/08gFTIqLswYXSzCTLqkDT4) | [Jazz Has Many Faces](https://open.spotify.com/album/5U13M8p2FQMbI9IZUffHDN) | 2:00 |
 | 13 | [Happy Floating](https://open.spotify.com/track/2tbNmBfUatF57h4t3XdFP2) | [Bah Linn](https://open.spotify.com/artist/3gy6Hphc2dgZcIKDi9VOvV) | [Happy Floating](https://open.spotify.com/album/6Jkbx0oLMUaPC0gNXIATUh) | 1:59 |
 | 14 | [Mario Lopez](https://open.spotify.com/track/5BEOEB4JQmvOLrhHp3T9Jl) | [Ceelen](https://open.spotify.com/artist/2KOGdGOCUsZeoU6FsyuDzc) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:55 |

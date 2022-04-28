@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,595 likes - 105 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,943 likes - 105 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

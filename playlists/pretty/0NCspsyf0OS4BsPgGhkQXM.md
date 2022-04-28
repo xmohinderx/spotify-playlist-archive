@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,040,280 likes - 132 songs - 7 hr 20 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,040,207 likes - 132 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 25 | [Coffee And Drugs \(ft\. TIMMS\)](https://open.spotify.com/track/5oTOGML1wjn4Hj45oVr6si) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Coffee And Drugs \(ft\. TIMMS\)](https://open.spotify.com/album/2wkYi0Wx1Zxds8qshw7SsR) | 2:49 |
 | 26 | [High Hopes](https://open.spotify.com/track/1Usby6wCOlnwFcbcXtqO8O) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [High Hopes](https://open.spotify.com/album/2Xt39TtY6ayTD6IfZhW3CU) | 2:09 |
 | 27 | [Exile \- Something Remix](https://open.spotify.com/track/6pk6PdIHUP1h3MiDhezJ17) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Sømething](https://open.spotify.com/artist/4w08hE0AqL4sPFCUj5E3gx) | [Paradise Lost Remixes](https://open.spotify.com/album/3OZF1ZyEM6zpD4MFTeKOMg) | 3:43 |
-| 28 | [Hurricane](https://open.spotify.com/track/4JzTQFJ4kFG1Tqol1DkFoZ) | [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi), [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Hurricane](https://open.spotify.com/album/3eFW35qg9tx6zCPxAcmeaq) | 3:16 |
+| 28 | [Hurricane](https://open.spotify.com/track/4JzTQFJ4kFG1Tqol1DkFoZ) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Hurricane](https://open.spotify.com/album/3eFW35qg9tx6zCPxAcmeaq) | 3:16 |
 | 29 | [Falling](https://open.spotify.com/track/4WA4jmG98kErhzC9oNf8Sx) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Meo](https://open.spotify.com/artist/76NT4gVXCYbuQeWAEb2nlY) | [Falling](https://open.spotify.com/album/3egBGUjSyvUQ3TpoYpy7uP) | 2:29 |
 | 30 | [Arena](https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR) | 3:26 |
 | 31 | [Sweet Child O' Mine](https://open.spotify.com/track/0iRfffwrWG4TfNc65SpxDm) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Invisible](https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Sweet Child O' Mine](https://open.spotify.com/album/3wNyS2c2RRJVSqSsUYqzmj) | 2:43 |

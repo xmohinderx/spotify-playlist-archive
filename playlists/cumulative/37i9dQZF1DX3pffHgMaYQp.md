@@ -2,7 +2,7 @@
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> música para insubordinados\. The Froys en portada.
+> música para insubordinados\. Las Decapitadas en portada.
 
 60 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
 

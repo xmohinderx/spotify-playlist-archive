@@ -1,13 +1,29 @@
 {
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. En portada: Charlie Rodd & Leo Rizzi.",
-  "num_followers": 29821,
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. En portada: Jorge Drexler.",
+  "num_followers": 29873,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDI4Njk5MCwwMDAwMDAzMTAwMDAwMTgwM2NjNTE1YjYwMDAwMDE3ZmUxNWZhNzRl",
+  "snapshot_id": "MTY1MTA4NzM0NCwwMDAwMDAzMjAwMDAwMTgwNmM3OTg0MDgwMDAwMDE4MDZjNzk1MTdl",
   "tracks": [
+    {
+      "added_at": "2022-04-27 19:22:24",
+      "album": {
+        "name": "Tinta y Tiempo",
+        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 249144,
+      "name": "Tinta y Tiempo",
+      "url": "https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH"
+    },
     {
       "added_at": "2022-04-18 13:03:10",
       "album": {

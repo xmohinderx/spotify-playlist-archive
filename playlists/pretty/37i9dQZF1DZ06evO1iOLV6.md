@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,097 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,099 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 43 | [Odo Bra \(feat\. King Promise\)](https://open.spotify.com/track/5elIVN9RKGhzZjBGeHrDEy) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:33 |
 | 44 | [Do Better](https://open.spotify.com/track/0vtXr3xIGXkHI0eidEOuUg) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Do Better](https://open.spotify.com/album/56f5Gq8bsHwIWak9Odfxxk) | 4:19 |
 | 45 | [Go Crazy](https://open.spotify.com/track/5ZEyOWZ3MTkLXyfMmgybID) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:25 |
-| 46 | [Jama](https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaker](https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo) | [Jama](https://open.spotify.com/album/0jAZGDBm9i8MoD5AENa1xQ) | 3:54 |
-| 47 | [Girls](https://open.spotify.com/track/509woaokKvDfZIyt5lxCrJ) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Girls](https://open.spotify.com/album/3oqIdStQ3DiR0g3Ne5KJzt) | 3:37 |
+| 46 | [Girls](https://open.spotify.com/track/509woaokKvDfZIyt5lxCrJ) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Girls](https://open.spotify.com/album/3oqIdStQ3DiR0g3Ne5KJzt) | 3:37 |
+| 47 | [Jama](https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaker](https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo) | [Jama](https://open.spotify.com/album/0jAZGDBm9i8MoD5AENa1xQ) | 3:54 |
 | 48 | [In My Head](https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [In My Head](https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1) | 3:14 |
 | 49 | [Everyday](https://open.spotify.com/track/4CXcqCKkhtsOoDyWDv2juY) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Everyday](https://open.spotify.com/album/58l6rZ45OBZX9kNLZilIQw) | 2:47 |
 | 50 | [Aye Yo Remix by DJ Buddha](https://open.spotify.com/track/6wa05sv2gvswBwkmXjHBRB) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Aye Yo Remix by DJ Buddha \(feat\. Shaggy & Angela Hunte\)](https://open.spotify.com/album/0UGOtntfqAZeZEIjxEiIVI) | 3:12 |
 
-Snapshot ID: `Mjc1MTYzNDksMDAwMDAwMDA4ODUxMDRlYjA0OTZjZWE2OTM4ZGNmYzFhMTdhNGY3ZA==`
+Snapshot ID: `Mjc1MTc3MTUsMDAwMDAwMDBhZWU3MjMyM2U3M2Y5NzNkOTdiMzEwYmZjNzM5MzU4YQ==`

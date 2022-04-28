@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-143 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+144 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Shadowblade](https://open.spotify.com/track/6tyfFtThdu7pYvDs2uRcjT) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Shadowblade](https://open.spotify.com/album/1aX6eK8WqLSwPh7LTbgLJz) | 4:15 | 2022-01-27 | 2022-04-08 |
 | [Shapes](https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Shapes](https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1) | 3:43 | 2022-01-17 | 2022-03-25 |
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
+| [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 |  |
 | [Space Boy](https://open.spotify.com/track/15fhccPHabcXcrmIxKFHum) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Space Boy](https://open.spotify.com/album/577vK0xFStmdlV3ggukLmZ) | 3:27 | 2022-03-17 |  |
 | [Spaced Out](https://open.spotify.com/track/4cG0DczmM59OoR7Pcoc9Mx) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Spaced Out](https://open.spotify.com/album/1XHf7B0DwZTIMzSxeRKJEv) | 2:42 | 2022-02-16 | 2022-04-27 |
 | [Spectrum \- Futurebound Remix](https://open.spotify.com/track/4PCa9U1xxIgyCsUe6mE40Z) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5) | [Spectrum \(Futurebound Remix\)](https://open.spotify.com/album/7eyzszsLG8gfNiPSDPqCuP) | 3:50 | 2022-03-02 |  |
@@ -127,7 +128,7 @@
 | [The Power](https://open.spotify.com/track/6j8TuycHw2DqHyb05WsjQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [The Power](https://open.spotify.com/album/4cTaCAXGdmSUruJNQzwVjm) | 4:15 | 2022-01-06 | 2022-03-15 |
 | [The Tide](https://open.spotify.com/track/3EuVWEJ5ioMHn84X13v1pm) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [The Tide](https://open.spotify.com/album/5oXND6By8dpwUFwen26Hq7) | 3:00 | 2021-11-19 | 2022-02-18 |
 | [The Truth](https://open.spotify.com/track/6pYH3KiWTMIIQGt9wlsspt) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Truth](https://open.spotify.com/album/343QCnQbAZWkJuQdSYOZTD) | 3:45 | 2021-11-19 | 2022-02-19 |
-| [The Warehouse \- Justin Hawkes Remix](https://open.spotify.com/track/7sYmU8hHavV3BUpCjRKsKe) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Miss Trouble](https://open.spotify.com/artist/6pXPaQEZ2EyfxIRtf9JwyJ), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [The Warehouse \(Justin Hawkes Remix\)](https://open.spotify.com/album/5lxvypUozCcKPlMoKrGuAO) | 4:20 | 2022-02-22 |  |
+| [The Warehouse \- Justin Hawkes Remix](https://open.spotify.com/track/7sYmU8hHavV3BUpCjRKsKe) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Miss Trouble](https://open.spotify.com/artist/6pXPaQEZ2EyfxIRtf9JwyJ), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [The Warehouse \(Justin Hawkes Remix\)](https://open.spotify.com/album/5lxvypUozCcKPlMoKrGuAO) | 4:20 | 2022-02-22 | 2022-04-28 |
 | [This Is The Life We Dreamed Of](https://open.spotify.com/track/3pUcJ0iqUjdBp5Tecep22N) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [This Is The Life We Dreamed Of](https://open.spotify.com/album/1Mf5B4sfQnNMkpxt20SZvE) | 3:48 | 2022-03-11 |  |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |
 | [Too Far](https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn) | [Hiski](https://open.spotify.com/artist/766PDHJTKiOFdmGhl36cGY), [Kobana](https://open.spotify.com/artist/1XyWJuyRJBkwsOeGR8Pxea) | [Too Far](https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX) | 4:14 | 2021-12-01 | 2022-03-05 |

@@ -2,9 +2,9 @@
 
 ### [Cantamores](https://open.spotify.com/playlist/37i9dQZF1DXdI8ULlW5VQp)
 
-> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. En portada: Charlie Rodd & Leo Rizzi.
+> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. En portada: Jorge Drexler.
 
-99 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+100 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 | 2022-03-11 |  |
 | [Te Fallé](https://open.spotify.com/track/2GPhbolY4K922QO0qSsTDH) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Te Fallé](https://open.spotify.com/album/6RXWk1hfL2mGbJz2To1Wz0) | 4:21 | 2022-02-04 |  |
 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 | 2022-03-11 |  |
+| [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 | 2022-04-27 |  |
 | [Toda Esta Ciudad](https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Toda Esta Ciudad](https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC) | 5:20 | 2022-02-04 |  |
 | [Todo El Ruido Del Mundo](https://open.spotify.com/track/7D62XG1Ru12xybmPgXLCkY) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Todo El Ruido Del Mundo](https://open.spotify.com/album/75WjkSeTjtsQLzl0hBVIAy) | 3:13 | 2022-03-11 |  |
 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 | 2022-02-04 |  |

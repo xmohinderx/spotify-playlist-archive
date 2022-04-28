@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  River Valley Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,064 likes - 100 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,123 likes - 100 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 27 | [If I Was A Bird \- Live](https://open.spotify.com/track/6CHDS93A1KpK1o5H7l8phc) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [If I Was A Bird / Nothing Left To Do \(Live\)](https://open.spotify.com/album/2eA0jNhKzWFukEYR6JnYgP) | 6:52 |
 | 28 | [Easy](https://open.spotify.com/track/7iiN8DciKOI7Cz7l62H0uY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 3:17 |
 | 29 | [Familiar Song](https://open.spotify.com/track/3DnP2FfQRJ2LrHHhZwiBlf) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [Familiar Song](https://open.spotify.com/album/3MKRWWBF1E0jLIWGhwRp5K) | 5:20 |
-| 30 | [The Name \- Live from Anchour Studio](https://open.spotify.com/track/2Sir8PUjCpfT316GGCt1cY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Anabeth Morgan](https://open.spotify.com/artist/1IHCk5mgkZFhoqOxwUhKvl) | [The Name \(Live from Anchour Studio\)](https://open.spotify.com/album/7IwoUUcra1dHKYsu1s46ms) | 4:45 |
+| 30 | [The Name \- Live](https://open.spotify.com/track/2Sir8PUjCpfT316GGCt1cY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Anabeth Morgan](https://open.spotify.com/artist/1IHCk5mgkZFhoqOxwUhKvl) | [The Name \(Live from Anchour Studio\)](https://open.spotify.com/album/7IwoUUcra1dHKYsu1s46ms) | 4:45 |
 | 31 | [Trinity Song \- Live](https://open.spotify.com/track/7EZTwfaE0nahlAQfNqjxhO) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA), [Dinah Wright](https://open.spotify.com/artist/3DoebjvyyBsKQbEEehyz4S) | [Trinity Song \(Live\)](https://open.spotify.com/album/6nxEYzAHijfM6W8i645aBw) | 5:29 |
 | 32 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 |
 | 33 | [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 |

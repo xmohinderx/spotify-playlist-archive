@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: The Notorious B.I.G.",
-  "num_followers": 200170,
+  "num_followers": 200425,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTAzNTA0MCwwMDAwMDAwMDJmMWFiZTlmMDI0YzNlODJhYTliMzNhYzIwZTM3MWUw",
+  "snapshot_id": "MTY1MTEwODY3OCwwMDAwMDAwMGEyNTk1MTcxMTEzMDY2M2ZjODAzN2Q2OTAzNTJmMWNh",
   "tracks": [
     {
       "added_at": "2022-03-24 15:24:57",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-06-25 04:01:00",
       "album": {
-        "name": "Flava In Ya Ear Remix",
-        "url": "https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL"
-      },
-      "artists": [
-        {
-          "name": "Craig Mack",
-          "url": "https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf"
-        }
-      ],
-      "duration_ms": 302013,
-      "name": "Flava in Ya Ear Remix (feat. Notorious B.I.G., L.L. Cool J, Busta Rhymes, Rampage)",
-      "url": "https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux"
-    },
-    {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
         "name": "Conspiracy (PA)",
         "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 274937,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Illmatic XX",
+        "url": "https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "It Ain't Hard to Tell",
+      "url": "https://open.spotify.com/track/0ySCYRXVugL9xDBecGc0jr"
     },
     {
       "added_at": "2022-03-24 15:24:57",
@@ -83,34 +83,50 @@
     {
       "added_at": "2021-06-25 04:01:00",
       "album": {
-        "name": "Illmatic XX",
-        "url": "https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE"
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Buddha Monk",
+          "url": "https://open.spotify.com/artist/4QTIR7KM0trauXspUNduhh"
         }
       ],
-      "duration_ms": 202106,
-      "name": "It Ain't Hard to Tell",
-      "url": "https://open.spotify.com/track/0ySCYRXVugL9xDBecGc0jr"
+      "duration_ms": 252186,
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
+      "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
     },
     {
       "added_at": "2021-06-25 04:01:00",
       "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+        "name": "Flava In Ya Ear Remix",
+        "url": "https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+          "name": "Craig Mack",
+          "url": "https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf"
         }
       ],
-      "duration_ms": 226440,
-      "name": "Award Tour",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+      "duration_ms": 302013,
+      "name": "Flava in Ya Ear Remix (feat. Notorious B.I.G., L.L. Cool J, Busta Rhymes, Rampage)",
+      "url": "https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux"
     },
     {
       "added_at": "2022-03-24 15:24:57",
@@ -129,24 +145,20 @@
       "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
     },
     {
-      "added_at": "2022-02-21 05:00:00",
+      "added_at": "2021-06-25 04:01:00",
       "album": {
-        "name": "Liquid Swords",
-        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
       "artists": [
         {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 209973,
-      "name": "Shadowboxin'",
-      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
+      "duration_ms": 226133,
+      "name": "Electric Relaxation",
+      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
     },
     {
       "added_at": "2021-06-25 04:01:00",
@@ -201,54 +213,6 @@
       "url": "https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe"
     },
     {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "Electric Relaxation",
-      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
-    },
-    {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
-      },
-      "artists": [
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Buddha Monk",
-          "url": "https://open.spotify.com/artist/4QTIR7KM0trauXspUNduhh"
-        }
-      ],
-      "duration_ms": 252186,
-      "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
-      "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
-    },
-    {
       "added_at": "2022-02-21 05:00:00",
       "album": {
         "name": "Poverty's Paradise (25th Anniversary - Remastered)",
@@ -263,42 +227,6 @@
       "duration_ms": 212760,
       "name": "Feel Me Flow",
       "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
-    },
-    {
-      "added_at": "2022-03-24 15:24:57",
-      "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 329426,
-      "name": "Sky's the Limit (feat. 112) - 2014 Remaster",
-      "url": "https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX"
-    },
-    {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 325506,
-      "name": "Shook Ones, Pt. II",
-      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
       "added_at": "2021-06-25 04:01:00",
@@ -349,6 +277,58 @@
       "url": "https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV"
     },
     {
+      "added_at": "2022-03-24 15:24:57",
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 329426,
+      "name": "Sky's the Limit (feat. 112) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Legal Drug Money",
+        "url": "https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF"
+      },
+      "artists": [
+        {
+          "name": "Lost Boyz",
+          "url": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5"
+        }
+      ],
+      "duration_ms": 293866,
+      "name": "Renee",
+      "url": "https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Award Tour",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+    },
+    {
       "added_at": "2022-02-21 05:00:00",
       "album": {
         "name": "Illmatic XX",
@@ -363,6 +343,130 @@
       "duration_ms": 290573,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/5FHXxdJeq1iAE9PjDTEgyd"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 325506,
+      "name": "Shook Ones, Pt. II",
+      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "added_at": "2022-02-21 05:00:00",
+      "album": {
+        "name": "Liquid Swords",
+        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
+      },
+      "artists": [
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Shadowboxin'",
+      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Reasonable Doubt",
+        "url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Dead Presidents II",
+      "url": "https://open.spotify.com/track/3nDYsXggRQxf7PCNUjR4rz"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Hard To Earn",
+        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Mass Appeal",
+      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Shimmy Shimmy Ya",
+      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Tical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 309946,
+      "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
+      "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
+    },
+    {
+      "added_at": "2022-02-21 05:00:00",
+      "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        {
+          "name": "Crystal Johnson",
+          "url": "https://open.spotify.com/artist/1MlPgLXb3K58qQLfg88lUZ"
+        }
+      ],
+      "duration_ms": 300200,
+      "name": "Temperature's Rising (feat. Crystal Johnson)",
+      "url": "https://open.spotify.com/track/0Y1wsOHYGbNNNGeYjQJ8BL"
     },
     {
       "added_at": "2021-06-25 04:01:00",
@@ -387,18 +491,70 @@
     {
       "added_at": "2021-06-25 04:01:00",
       "album": {
-        "name": "Hard To Earn",
-        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
       "artists": [
         {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 221026,
-      "name": "Mass Appeal",
-      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
+    },
+    {
+      "added_at": "2022-02-21 05:00:00",
+      "album": {
+        "name": "Lifestylez Ov Da Poor & Dangerous",
+        "url": "https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Put It On",
+      "url": "https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5"
+    },
+    {
+      "added_at": "2022-02-21 05:00:00",
+      "album": {
+        "name": "The Coming",
+        "url": "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Everything Remains Raw",
+      "url": "https://open.spotify.com/track/4M8SdMmrvx001Au6aZFchJ"
+    },
+    {
+      "added_at": "2022-02-21 05:00:00",
+      "album": {
+        "name": "Enta Da Stage",
+        "url": "https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ"
+      },
+      "artists": [
+        {
+          "name": "Black Moon",
+          "url": "https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Who Got Da Props",
+      "url": "https://open.spotify.com/track/5CRM9TgBcwRbK3LyHUJhrQ"
     },
     {
       "added_at": "2022-02-24 21:12:13",
@@ -449,79 +605,7 @@
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
     },
     {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "Legal Drug Money",
-        "url": "https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF"
-      },
-      "artists": [
-        {
-          "name": "Lost Boyz",
-          "url": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5"
-        }
-      ],
-      "duration_ms": 293866,
-      "name": "Renee",
-      "url": "https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G"
-    },
-    {
       "added_at": "2022-02-21 05:00:00",
-      "album": {
-        "name": "Lifestylez Ov Da Poor & Dangerous",
-        "url": "https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD"
-      },
-      "artists": [
-        {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Put It On",
-      "url": "https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5"
-    },
-    {
-      "added_at": "2022-02-21 05:00:00",
-      "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        },
-        {
-          "name": "Crystal Johnson",
-          "url": "https://open.spotify.com/artist/1MlPgLXb3K58qQLfg88lUZ"
-        }
-      ],
-      "duration_ms": 300200,
-      "name": "Temperature's Rising (feat. Crystal Johnson)",
-      "url": "https://open.spotify.com/track/0Y1wsOHYGbNNNGeYjQJ8BL"
-    },
-    {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2021-06-25 04:01:00",
       "album": {
         "name": "Return to the 36 Chambers: The Dirty Version",
         "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
@@ -532,9 +616,9 @@
           "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Shimmy Shimmy Ya",
-      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+      "duration_ms": 217506,
+      "name": "Brooklyn Zoo",
+      "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
     },
     {
       "added_at": "2022-02-21 05:00:00",
@@ -557,36 +641,20 @@
       "url": "https://open.spotify.com/track/1EGIeHEvMZh3MNkIn2itUy"
     },
     {
-      "added_at": "2022-02-21 05:00:00",
+      "added_at": "2021-06-25 04:01:00",
       "album": {
-        "name": "Streets Is Watching (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4vdFcls7VEGzbpc1SU1K2U"
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 277946,
-      "name": "In My Lifetime - Remix",
-      "url": "https://open.spotify.com/track/39OmRNMasnt4QCQZOeMkwl"
-    },
-    {
-      "added_at": "2022-02-21 05:00:00",
-      "album": {
-        "name": "The Coming",
-        "url": "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Everything Remains Raw",
-      "url": "https://open.spotify.com/track/4M8SdMmrvx001Au6aZFchJ"
+      "duration_ms": 252600,
+      "name": "Represent",
+      "url": "https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe"
     },
     {
       "added_at": "2022-02-21 05:00:00",
@@ -607,18 +675,34 @@
     {
       "added_at": "2022-02-21 05:00:00",
       "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+        "name": "Streets Is Watching (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4vdFcls7VEGzbpc1SU1K2U"
       },
       "artists": [
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
+      "duration_ms": 277946,
+      "name": "In My Lifetime - Remix",
+      "url": "https://open.spotify.com/track/39OmRNMasnt4QCQZOeMkwl"
+    },
+    {
+      "added_at": "2022-02-21 05:00:00",
+      "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Survival of the Fittest",
+      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
     },
     {
       "added_at": "2021-06-25 04:01:00",
@@ -637,88 +721,20 @@
       "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
     },
     {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "Reasonable Doubt",
-        "url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Dead Presidents II",
-      "url": "https://open.spotify.com/track/3nDYsXggRQxf7PCNUjR4rz"
-    },
-    {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "Tical (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 309946,
-      "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
-      "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
-    },
-    {
       "added_at": "2022-02-21 05:00:00",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+        "name": "Creep Wit' Me",
+        "url": "https://open.spotify.com/album/7stoksJBXRX4HvVEhteAoD"
       },
       "artists": [
         {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+          "name": "Ill Al Skratch",
+          "url": "https://open.spotify.com/artist/2prhxg78mXtbxE5ZcHGvQj"
         }
       ],
-      "duration_ms": 217506,
-      "name": "Brooklyn Zoo",
-      "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
-    },
-    {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Represent",
-      "url": "https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe"
-    },
-    {
-      "added_at": "2022-02-21 05:00:00",
-      "album": {
-        "name": "Enta Da Stage",
-        "url": "https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ"
-      },
-      "artists": [
-        {
-          "name": "Black Moon",
-          "url": "https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Who Got Da Props",
-      "url": "https://open.spotify.com/track/5CRM9TgBcwRbK3LyHUJhrQ"
+      "duration_ms": 341466,
+      "name": "Where My Homiez? (Come Around My Way)",
+      "url": "https://open.spotify.com/track/0l9HPSkf0L7sPq9OpIQ2zG"
     },
     {
       "added_at": "2022-02-21 05:00:00",
@@ -747,18 +763,50 @@
     {
       "added_at": "2022-02-21 05:00:00",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
       "artists": [
         {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Survival of the Fittest",
-      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
+    },
+    {
+      "added_at": "2022-02-21 05:00:00",
+      "album": {
+        "name": "Doe Or Die",
+        "url": "https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq"
+      },
+      "artists": [
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "Rather Unique",
+      "url": "https://open.spotify.com/track/5vxII6AxXbPsAJE5dAdBo9"
+    },
+    {
+      "added_at": "2022-02-21 05:00:00",
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/6ZWiiTI0sHXAuzkv8x4Tth"
+      },
+      "artists": [
+        {
+          "name": "Heltah Skeltah",
+          "url": "https://open.spotify.com/artist/6VimeBsWv0rmWzxd6roZZC"
+        }
+      ],
+      "duration_ms": 302973,
+      "name": "Leflaur Leflah Eshkoshka",
+      "url": "https://open.spotify.com/track/3RvFnZZz1x00l8FIHE5wxx"
     },
     {
       "added_at": "2021-06-25 04:01:00",
@@ -775,6 +823,22 @@
       "duration_ms": 248573,
       "name": "Can I Live",
       "url": "https://open.spotify.com/track/20U1I32q6kX0Nmy4u8CvUg"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Tical",
+        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Bring The Pain",
+      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
     },
     {
       "added_at": "2022-02-21 05:00:00",
@@ -831,54 +895,6 @@
     {
       "added_at": "2022-02-21 05:00:00",
       "album": {
-        "name": "Do You Want More?!!!??! (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4CUBkEbEXZnhuOjFfaWcg9"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 275994,
-      "name": "Proceed",
-      "url": "https://open.spotify.com/track/6iRtbpHOfLvItuLXuGu05F"
-    },
-    {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "Tical",
-        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Bring The Pain",
-      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
-    },
-    {
-      "added_at": "2022-02-21 05:00:00",
-      "album": {
-        "name": "Dah Shinin'",
-        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Sound Bwoy Bureill",
-      "url": "https://open.spotify.com/track/3enjxX3aOAsFyaKeH1O9jO"
-    },
-    {
-      "added_at": "2022-02-21 05:00:00",
-      "album": {
         "name": "The Main Ingredient",
         "url": "https://open.spotify.com/album/5Gz9I4C6s443w18SrFc8xE"
       },
@@ -895,62 +911,38 @@
     {
       "added_at": "2022-02-21 05:00:00",
       "album": {
-        "name": "Creep Wit' Me",
-        "url": "https://open.spotify.com/album/7stoksJBXRX4HvVEhteAoD"
+        "name": "Best Of Onyx",
+        "url": "https://open.spotify.com/album/5o54azNoSXxJSqiLs071fG"
       },
       "artists": [
         {
-          "name": "Ill Al Skratch",
-          "url": "https://open.spotify.com/artist/2prhxg78mXtbxE5ZcHGvQj"
+          "name": "Onyx",
+          "url": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
         }
       ],
-      "duration_ms": 341466,
-      "name": "Where My Homiez? (Come Around My Way)",
-      "url": "https://open.spotify.com/track/0l9HPSkf0L7sPq9OpIQ2zG"
+      "duration_ms": 224253,
+      "name": "Last Dayz",
+      "url": "https://open.spotify.com/track/0usovqilR2yhLw9zWEaWzk"
     },
     {
-      "added_at": "2022-02-21 05:00:00",
+      "added_at": "2021-06-25 04:01:00",
       "album": {
-        "name": "Crooklyn Volume 1 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB"
+        "name": "Ill Na Na",
+        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
       "artists": [
         {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
         },
         {
-          "name": "Buck Shot",
-          "url": "https://open.spotify.com/artist/6ijixrIqFhfUjpfNLzniAT"
-        },
-        {
-          "name": "Special Ed",
-          "url": "https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx"
-        },
-        {
-          "name": "Master Ace",
-          "url": "https://open.spotify.com/artist/2ZhH7S3zJIy2cTb8rFPJEz"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 273453,
-      "name": "Crooklyn - Crooklyn/Soundtrack Version",
-      "url": "https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF"
-    },
-    {
-      "added_at": "2022-02-21 05:00:00",
-      "album": {
-        "name": "Only Built 4 Cuban Linx...",
-        "url": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
-      },
-      "artists": [
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "Incarcerated Scarfaces",
-      "url": "https://open.spotify.com/track/3SL3GG9Bs7m1s9aqhjCeIa"
+      "duration_ms": 178600,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
     }
   ],
   "unique_name": "I Love My East Coast Classics",

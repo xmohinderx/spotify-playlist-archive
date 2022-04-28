@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Marina Herlop Artwork: Thami Nabil",
+  "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: QUINQUIS Artwork: Thami Nabil",
   "name": "Fresh Finds Experimental",
   "published_playlist_ids": [
     "7vHfjk9LwMkQlbKUYS7lDl"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 154250,
       "name": "0hmyg0d",
       "url": "https://open.spotify.com/track/6nSwdZmCgT9wCB6oXIeoqP"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 490752,
       "name": "5th Day",
       "url": "https://open.spotify.com/track/65tTmVZtKgJosacOPWxzqF"
@@ -488,6 +488,28 @@
     },
     {
       "album": {
+        "name": "Adkrog",
+        "url": "https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256440,
+      "name": "Adkrog",
+      "url": "https://open.spotify.com/track/7wpp45hkCqB7Atc4ZHCcg8"
+    },
+    {
+      "album": {
         "name": "Too Long",
         "url": "https://open.spotify.com/album/5BvcAtZUW02PRkxjlmE68I"
       },
@@ -665,7 +687,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 189000,
       "name": "Alquimista",
       "url": "https://open.spotify.com/track/188iyS5xe99axE3wX2pPAD"
@@ -755,7 +777,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
@@ -777,6 +799,24 @@
       "duration_ms": 600049,
       "name": "An Evening of Certainty",
       "url": "https://open.spotify.com/track/07VV70L4B6GnwJjC7m77wV"
+    },
+    {
+      "album": {
+        "name": "An Interior of Strange Beauty / Incoming Call",
+        "url": "https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394293,
+      "name": "An Interior of Strange Beauty",
+      "url": "https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG"
     },
     {
       "album": {
@@ -867,7 +907,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
@@ -1015,6 +1055,24 @@
       "duration_ms": 215438,
       "name": "Artificial Authentic",
       "url": "https://open.spotify.com/track/1Enw5MZBUVnrTzbzwBbpSF"
+    },
+    {
+      "album": {
+        "name": "Iterations Felidae",
+        "url": "https://open.spotify.com/album/7K3mrgVogFrTHHPSM7vOG8"
+      },
+      "artists": [
+        {
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223992,
+      "name": "Astronomy kittens (Song for Betty)",
+      "url": "https://open.spotify.com/track/69rmPrVJ4VJgLG0Hz4gOJj"
     },
     {
       "album": {
@@ -1228,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Ba Sing Se",
+        "url": "https://open.spotify.com/album/5ipx9NCdjrY02yzzqkjQaK"
+      },
+      "artists": [
+        {
+          "name": "Vera Nois",
+          "url": "https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246225,
+      "name": "Ba Sing Se",
+      "url": "https://open.spotify.com/track/48cnlcfe8AjLDYfUj5w41R"
+    },
+    {
+      "album": {
         "name": "Barbatrama",
         "url": "https://open.spotify.com/album/6954ThwUSvOV8RPcVEHAiK"
       },
@@ -1301,6 +1377,24 @@
       "duration_ms": 1103497,
       "name": "Because It Speaks",
       "url": "https://open.spotify.com/track/1Rn0XikOTy75toIqnbXuRH"
+    },
+    {
+      "album": {
+        "name": "PaY 2 W!N",
+        "url": "https://open.spotify.com/album/6gJsz5f9HD6n3Wh440Zsu1"
+      },
+      "artists": [
+        {
+          "name": "thanks god",
+          "url": "https://open.spotify.com/artist/3q43Jrg093Ogo5F9PDMdMX"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192968,
+      "name": "BEEN 2 HELL & BACK <3",
+      "url": "https://open.spotify.com/track/6bhA5CoHakKzo46pqZhjyy"
     },
     {
       "album": {
@@ -1759,6 +1853,24 @@
       "duration_ms": 163426,
       "name": "Breaking Dawn",
       "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
+    },
+    {
+      "album": {
+        "name": "GRIEF",
+        "url": "https://open.spotify.com/album/4IrtTqe5qodyEBIzEEreRX"
+      },
+      "artists": [
+        {
+          "name": "Samora Pinderhughes",
+          "url": "https://open.spotify.com/artist/6Of92bKNSsFuoNkF4nQ6Za"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82794,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/4lnNW2hM1UOOXmotNW4Yrh"
     },
     {
       "album": {
@@ -2246,6 +2358,24 @@
     },
     {
       "album": {
+        "name": "Be\u010dvou",
+        "url": "https://open.spotify.com/album/58omSdmkbZlT8rwCng8wTD"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1\u0161 Niesner",
+          "url": "https://open.spotify.com/artist/2HWIXFTcVPVuXasYaauMlW"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Chladn\u00e1 Voda",
+      "url": "https://open.spotify.com/track/57ZOlqlhmsl9GwXx7urMBm"
+    },
+    {
+      "album": {
         "name": "Lothian Buses",
         "url": "https://open.spotify.com/album/0EqzAvPoS9JlP16Hlxb8Vk"
       },
@@ -2716,6 +2846,24 @@
     },
     {
       "album": {
+        "name": "WAXTAPE: III\u00b0 Movimento",
+        "url": "https://open.spotify.com/album/1a4foLw7kzUpy7P2bizWR8"
+      },
+      "artists": [
+        {
+          "name": "Ceri",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357401,
+      "name": "Crepuscolo Svolazzante",
+      "url": "https://open.spotify.com/track/40cfqLRhalISqY3WWbZw3r"
+    },
+    {
+      "album": {
         "name": "Peace Chord",
         "url": "https://open.spotify.com/album/1XKgHpPklX1IqgLk1MwbRW"
       },
@@ -2857,7 +3005,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 235030,
       "name": "Dankworld",
       "url": "https://open.spotify.com/track/0phoMSy4zUNejvLmoRPJnq"
@@ -3474,6 +3622,24 @@
     },
     {
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0x8tNY2REU9pjmt2BSACH5"
+      },
+      "artists": [
+        {
+          "name": "Koloah",
+          "url": "https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Dyvo",
+      "url": "https://open.spotify.com/track/6S4DKHH5nz5BOZ3FqFImRM"
+    },
+    {
+      "album": {
         "name": "Repair Techniques",
         "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
       },
@@ -3645,7 +3811,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 221972,
       "name": "Electric Forest",
       "url": "https://open.spotify.com/track/5OtDgatyOFuBRnUxJTHKX9"
@@ -3699,7 +3865,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 72320,
       "name": "Elvebyen",
       "url": "https://open.spotify.com/track/356BiDeo0ppgoP4Hw4VjWw"
@@ -5042,6 +5208,24 @@
     },
     {
       "album": {
+        "name": "GRLS I",
+        "url": "https://open.spotify.com/album/4ECBWTtVOQYuxLP5wtOO2t"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "girl de l'escalier",
+      "url": "https://open.spotify.com/track/0Pi2yAQLU7jnOt9JFL5boB"
+    },
+    {
+      "album": {
         "name": "Elemente",
         "url": "https://open.spotify.com/album/0Q6XVeGOkHpEiMIwWsecVc"
       },
@@ -5358,6 +5542,24 @@
     },
     {
       "album": {
+        "name": "Hansel and Gretel",
+        "url": "https://open.spotify.com/album/0fQgAIvqLHiLpVIqGUl62Z"
+      },
+      "artists": [
+        {
+          "name": "Mercy Necromancy",
+          "url": "https://open.spotify.com/artist/0LdEFRiFrm1kVJhGgAqL8d"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Hansel and Gretel",
+      "url": "https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC"
+    },
+    {
+      "album": {
         "name": "Harkening Etudes",
         "url": "https://open.spotify.com/album/0DOGWRq6ogpaakBWKpduEl"
       },
@@ -5387,7 +5589,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
@@ -5423,7 +5625,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 545252,
       "name": "Hello, How? and Hey",
       "url": "https://open.spotify.com/track/0NWjRVk3wUYDEAZqg10YoR"
@@ -5985,7 +6187,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 277026,
       "name": "Icicle",
       "url": "https://open.spotify.com/track/2WlwKisGmrNb2jZOxF1D8Y"
@@ -6207,6 +6409,24 @@
       "duration_ms": 92663,
       "name": "In My Heaven All Faucets Are Fountains",
       "url": "https://open.spotify.com/track/0oHzFMKbgcfYo0DKskooT8"
+    },
+    {
+      "album": {
+        "name": "Dreams Drenched in Static",
+        "url": "https://open.spotify.com/album/1gKIGL5LlqZXEaECt2Ydbe"
+      },
+      "artists": [
+        {
+          "name": "Cremation Lily",
+          "url": "https://open.spotify.com/artist/0cLSrHAGimBuxfOfgyRvPg"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142767,
+      "name": "In Pain, Surrendering",
+      "url": "https://open.spotify.com/track/1sfNbWYHQVJR7jj6k2ZRBB"
     },
     {
       "album": {
@@ -6672,6 +6892,24 @@
     },
     {
       "album": {
+        "name": "everything perfect is already here",
+        "url": "https://open.spotify.com/album/0TF1bW9ZTvXhqOfM6sViQW"
+      },
+      "artists": [
+        {
+          "name": "Claire Rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 905000,
+      "name": "it feels foolish to care",
+      "url": "https://open.spotify.com/track/36j2ymvz6MsOWZXGr0nSQE"
+    },
+    {
+      "album": {
         "name": "It's Not A Skill, It's A Curse",
         "url": "https://open.spotify.com/album/3m48f4HuKY6xBNk1qA5RwV"
       },
@@ -6915,7 +7153,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 223448,
       "name": "L.O.M",
       "url": "https://open.spotify.com/track/3L36poDWNRauEKJounUPAC"
@@ -6937,6 +7175,24 @@
       "duration_ms": 1187776,
       "name": "La peau de la femme",
       "url": "https://open.spotify.com/track/58PPRds4bvCwfXFVHkZ1hU"
+    },
+    {
+      "album": {
+        "name": "La Primavera",
+        "url": "https://open.spotify.com/album/6KIDMIVDmROr5dLVE4Txjm"
+      },
+      "artists": [
+        {
+          "name": "Adelaida",
+          "url": "https://open.spotify.com/artist/1QD47tJYVFNpFADXKKOOPt"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222627,
+      "name": "La Primavera",
+      "url": "https://open.spotify.com/track/4Vo0L5B1hyk6KEg2nYuUWl"
     },
     {
       "album": {
@@ -6987,7 +7243,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 288000,
       "name": "Labradorite",
       "url": "https://open.spotify.com/track/4i05ZQ4IXokygfvsxHqwAF"
@@ -7031,7 +7287,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 156818,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj"
@@ -7111,7 +7367,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 2579826,
       "name": "LBM III {One Track}",
       "url": "https://open.spotify.com/track/1khiyryBzDCxqOtbZbxeuk"
@@ -7615,7 +7871,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 179522,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7mtagl3171hjbfAGQeLH1I"
@@ -7727,6 +7983,24 @@
       "duration_ms": 181428,
       "name": "MADE OF CLAY",
       "url": "https://open.spotify.com/track/7FEd0fYhvhMsBgxFmz0SlU"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/7z6v3dBVWjaxsayWo4kbG0"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/0BpAPmGnXe5Mjmza0tENTB"
     },
     {
       "album": {
@@ -8012,6 +8286,24 @@
     },
     {
       "album": {
+        "name": "Meditation on a Sequence",
+        "url": "https://open.spotify.com/album/61mszSIWQ0fo4CdNtNZM20"
+      },
+      "artists": [
+        {
+          "name": "Giselle Gabrielle Garcia",
+          "url": "https://open.spotify.com/artist/79UcfHNMN7uaLkPVQrdt86"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257722,
+      "name": "Meditation, No. 1",
+      "url": "https://open.spotify.com/track/6YGBhIuanpChP7LeP26jhj"
+    },
+    {
+      "album": {
         "name": "Meditations",
         "url": "https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9"
       },
@@ -8045,6 +8337,32 @@
       "duration_ms": 419186,
       "name": "Mehr Null",
       "url": "https://open.spotify.com/track/6XxfGJiRlqoFMKy7P9wNQD"
+    },
+    {
+      "album": {
+        "name": "Melancholy",
+        "url": "https://open.spotify.com/album/2etoT7Uxtj18Huz6BL9Lp1"
+      },
+      "artists": [
+        {
+          "name": "Ljos",
+          "url": "https://open.spotify.com/artist/5QLO8sYxm6fQAAYMSfpDf9"
+        },
+        {
+          "name": "julek ploski",
+          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
+        },
+        {
+          "name": "Ola Budzy\u0144ska",
+          "url": "https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193109,
+      "name": "Melancholy",
+      "url": "https://open.spotify.com/track/2mQBdCqm5meO2d26m8Pb4s"
     },
     {
       "album": {
@@ -8587,7 +8905,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 312000,
       "name": "Moja krew",
       "url": "https://open.spotify.com/track/24c1vrQlPn65EK7cCAnunj"
@@ -9074,6 +9392,32 @@
     },
     {
       "album": {
+        "name": "Netra ken",
+        "url": "https://open.spotify.com/album/6D9pGRFHcOabkpi0CrDuWp"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "Emily Chappell",
+          "url": "https://open.spotify.com/artist/3XyVOmYc0lZnIIBpUmfgzr"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Netra ken",
+      "url": "https://open.spotify.com/track/7tQcv4sfQdhtTRD1UBfnOa"
+    },
+    {
+      "album": {
         "name": "Suddenly I Am Falling",
         "url": "https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN"
       },
@@ -9413,7 +9757,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 97775,
       "name": "Nuovo",
       "url": "https://open.spotify.com/track/7mLe7mwkKX4Ptm5bFIuQ1P"
@@ -9529,7 +9873,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 234401,
       "name": "Okra Ooze",
       "url": "https://open.spotify.com/track/65XrhSXZKHhBz9V8gMNhKL"
@@ -9626,6 +9970,24 @@
     },
     {
       "album": {
+        "name": "One Living Genus (radio edit)",
+        "url": "https://open.spotify.com/album/4tJPsSKYru4UprQiRl640O"
+      },
+      "artists": [
+        {
+          "name": "Anteloper",
+          "url": "https://open.spotify.com/artist/22N13sDYkfrSOZp1CptvIN"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531000,
+      "name": "One Living Genus - radio edit",
+      "url": "https://open.spotify.com/track/43phPbdVEpy7kdGe5Oz2lE"
+    },
+    {
+      "album": {
         "name": "Only in Dreams",
         "url": "https://open.spotify.com/album/2Hnjb7l9BjfuwZOpe7rBgb"
       },
@@ -9659,6 +10021,24 @@
       "duration_ms": 275000,
       "name": "Ore 9: Attacco Al Cuore Dello Stato",
       "url": "https://open.spotify.com/track/1e41cS1jZeORouarPjuKX1"
+    },
+    {
+      "album": {
+        "name": "PELGRIM",
+        "url": "https://open.spotify.com/album/1DYhtI8ARoSXRFM7RM6YAw"
+      },
+      "artists": [
+        {
+          "name": "Lotte Pen",
+          "url": "https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408293,
+      "name": "Orewoet",
+      "url": "https://open.spotify.com/track/6K2yNOZ9TrNhvfZLGhhdSC"
     },
     {
       "album": {
@@ -10294,6 +10674,24 @@
     },
     {
       "album": {
+        "name": "Meditation on a Sequence",
+        "url": "https://open.spotify.com/album/61mszSIWQ0fo4CdNtNZM20"
+      },
+      "artists": [
+        {
+          "name": "Giselle Gabrielle Garcia",
+          "url": "https://open.spotify.com/artist/79UcfHNMN7uaLkPVQrdt86"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173376,
+      "name": "Preamble",
+      "url": "https://open.spotify.com/track/01yfkhRKnHPoUNGIN0VoLE"
+    },
+    {
+      "album": {
         "name": "Lost Album",
         "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
       },
@@ -10583,7 +10981,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 289041,
       "name": "Raw Cutz",
       "url": "https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC"
@@ -10695,7 +11093,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 150857,
       "name": "Remember Seeing It",
       "url": "https://open.spotify.com/track/4jSdLc63lYMn8SwrGCZeVe"
@@ -10761,6 +11159,24 @@
       "duration_ms": 183014,
       "name": "Resistance Edited",
       "url": "https://open.spotify.com/track/4uizuPJsm4UkfRkRnROvle"
+    },
+    {
+      "album": {
+        "name": "Promesses Vol. 2",
+        "url": "https://open.spotify.com/album/4Sx3xMcQ34zEHnTmSUt4T5"
+      },
+      "artists": [
+        {
+          "name": "XOLOT",
+          "url": "https://open.spotify.com/artist/6DVqwnoHmbqUOhEXw9dZPc"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Resplandor",
+      "url": "https://open.spotify.com/track/5dw3w0fcwUDvYN3hYih5Jd"
     },
     {
       "album": {
@@ -11079,6 +11495,32 @@
       "duration_ms": 308000,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311533,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq"
     },
     {
       "album": {
@@ -11555,6 +11997,28 @@
       "duration_ms": 256000,
       "name": "Set Adrift",
       "url": "https://open.spotify.com/track/1gAdzJqsdarE8Y9XuuNlpU"
+    },
+    {
+      "album": {
+        "name": "Setu",
+        "url": "https://open.spotify.com/album/5aDvUOxuqucR7rzOjEbuHY"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Setu",
+      "url": "https://open.spotify.com/track/4kC5264RmDKaDhCHu81Wef"
     },
     {
       "album": {
@@ -12897,7 +13361,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 226600,
       "name": "The Big Deep",
       "url": "https://open.spotify.com/track/34Zw89YYLu5OS1oUt8R47Q"
@@ -13316,6 +13780,24 @@
     },
     {
       "album": {
+        "name": "The Vast Interiority",
+        "url": "https://open.spotify.com/album/3EFR2MSRwTkNHOiT5X04Eu"
+      },
+      "artists": [
+        {
+          "name": "Ben Vida + Lea Bertucci",
+          "url": "https://open.spotify.com/artist/2WAbKOZgKcwtUinfexmKm2"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "The Vast Interiority",
+      "url": "https://open.spotify.com/track/5vxuF83Ihn5MPuhVir7qRo"
+    },
+    {
+      "album": {
         "name": "The Gleam",
         "url": "https://open.spotify.com/album/5x52LwFOUjTPCoXV2eMbYh"
       },
@@ -13327,7 +13809,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 395456,
       "name": "The Way of Spiritual Breath",
       "url": "https://open.spotify.com/track/0IPF9YPUcPHj4tuBsApnpo"
@@ -15021,7 +15503,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 592133,
       "name": "Winter Swells",
       "url": "https://open.spotify.com/track/30rkpVLpRCFruE5xJWtBgx"

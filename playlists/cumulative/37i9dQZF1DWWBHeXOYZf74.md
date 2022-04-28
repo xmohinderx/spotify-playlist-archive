@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: 070 Shake
 
-1,493 songs - 3 day 11 hr 43 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,494 songs - 3 day 11 hr 46 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Having a Good Time, Sometimes](https://open.spotify.com/track/1xNQ7UujtJn6OqaXwnWkIa) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Having a Good Time, Sometimes](https://open.spotify.com/album/0sVTx58xcHrOoOmcnLlkNL) | 2:57 | 2021-01-07 | 2021-04-24 |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2019-07-30\* | 2019-10-03 |
 | [He is ..\. I am](https://open.spotify.com/track/749WhNrvTX6jNBNBTOPMa9) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Snubnose](https://open.spotify.com/album/2itPJ1Hro5ZOTsaho8zF30) | 3:54 | 2019-10-16 | 2020-01-10 |
+| [Head on Fire \- Danny L Harle Remix](https://open.spotify.com/track/5tNqLFGg2thF0hKit8SxoL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Head On Fire \(feat\. Sigrid, King Princess and MØ\)](https://open.spotify.com/album/040A4Iccs7D0tP1vQz1ow6) | 3:05 | 2022-04-27 |  |
 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 | 2020-01-31 | 2020-07-18 |
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2021-06-19 | 2021-10-07 |
 | [Health Food](https://open.spotify.com/track/1ZOPkw0gOQbikXRhDSxBkm) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Health Food](https://open.spotify.com/album/62pau3HmLz7CqzVF7Xqyfu) | 4:07 | 2019-08-22 | 2020-02-21 |

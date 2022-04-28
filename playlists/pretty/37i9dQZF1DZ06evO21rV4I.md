@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is WizKid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,021 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,056 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 23 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 |
 | 24 | [G Love](https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 2:45 |
 | 25 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 |
-| 26 | [Caro \(feat\. Lax\)](https://open.spotify.com/track/75u7OvDfLHg0574MoNQhyd) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Lax](https://open.spotify.com/artist/4wF8zhjCwuSH0tsIkUVenr) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 4:06 |
-| 27 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 |
+| 26 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 |
+| 27 | [Caro \(feat\. Lax\)](https://open.spotify.com/track/75u7OvDfLHg0574MoNQhyd) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Lax](https://open.spotify.com/artist/4wF8zhjCwuSH0tsIkUVenr) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 4:06 |
 | 28 | [Only You \(feat\. WizKid, Offset & J Balvin\)](https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:38 |
 | 29 | [Glow In The Dark](https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lay\-Z](https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 2:55 |
 | 30 | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/track/5Z3H2xgKsw5Sa3p0MGAVnT) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/album/1YNTbT0uHszzYnMeUIUHCk) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [All For Love \(feat\. Bucie\)](https://open.spotify.com/track/73J7ROhWCZB9UDHombzlSr) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 4:25 |
 | 50 | [Pakurumo](https://open.spotify.com/track/5YgyvTZmdkIfFOnj8ri8mZ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 3:32 |
 
-Snapshot ID: `Mjc1MTYzNDksMDAwMDAwMDA4ODk5YzQzNmFlODYwYjA0NjUzZDc3OWU3ZWQ0NTc3NA==`
+Snapshot ID: `Mjc1MTc3MTUsMDAwMDAwMDA3MjRmYzJlMzRjYWE2NGVjNTk0MWMwMDA2ZDMxNjY0Nw==`

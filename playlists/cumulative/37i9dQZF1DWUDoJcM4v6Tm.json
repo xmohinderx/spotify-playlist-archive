@@ -206,6 +206,28 @@
     },
     {
       "album": {
+        "name": "Blue (feat. Sharon Van Etten)",
+        "url": "https://open.spotify.com/album/48Om1ZZbTmxjTV05VY6WQt"
+      },
+      "artists": [
+        {
+          "name": "BATTS",
+          "url": "https://open.spotify.com/artist/1PIsw4oKKnFzyefiLWI7Rg"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264575,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2n1tP63rtEfyFDORk44Awt"
+    },
+    {
+      "album": {
         "name": "Lice",
         "url": "https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL"
       },

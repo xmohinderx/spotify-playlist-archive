@@ -4,7 +4,7 @@
 
 > Revel in some key gems and explore the sprawling musical landscape.
 
-134 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
+135 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-04-13 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-10-08 |  |
 | [Bloodbuzz Ohio](https://open.spotify.com/track/2pfkaHd8arhESSxyJAou6g) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Bloodbuzz Ohio](https://open.spotify.com/album/6SSiMdf8Hsgojfo8MvjIPq) | 4:39 | 2021-10-08 |  |
+| [Blue](https://open.spotify.com/track/2n1tP63rtEfyFDORk44Awt) | [BATTS](https://open.spotify.com/artist/1PIsw4oKKnFzyefiLWI7Rg), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Blue \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/48Om1ZZbTmxjTV05VY6WQt) | 4:24 | 2022-04-27 |  |
 | [Bobby](https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL) | 3:23 | 2021-10-08 |  |
 | [Body](https://open.spotify.com/track/5zpO1gVyTFv4MeNCEKOEZt) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/3VJREb6yVdwl3BvIoKD526) | 3:05 | 2021-10-08 |  |
 | [Bonny Light Horseman](https://open.spotify.com/track/5MBogTR3yEa0gQJmH7ayQd) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/5OgTkrQuF1aL0FtsTi5KmV) | 4:30 | 2021-10-08 |  |

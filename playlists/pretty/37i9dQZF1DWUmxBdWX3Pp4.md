@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: KHEA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,823 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,954 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 44 | [Cotidiano](https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/5JXWsZ1nZVLDXfSV4d777m) | 2:12 |
 | 45 | [Dripeando](https://open.spotify.com/track/2x1s3TXM1fvVzCAd1Suf4T) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Dripeando](https://open.spotify.com/album/4tg4Sy7PgIkiMgMzEDEdWq) | 3:06 |
 | 46 | [Milloneta](https://open.spotify.com/track/0J3FgRoTsES47PXTfGgLez) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Milloneta](https://open.spotify.com/album/16h3UMUGcr2MrWi0Durs5W) | 3:38 |
-| 47 | [Veo Veo](https://open.spotify.com/track/7dm2eWzZsI3mW1oKgF21qV) | [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Veo Veo](https://open.spotify.com/album/6axheBYNM1GRM1aMxZpDN0) | 2:53 |
+| 47 | [Veo Veo](https://open.spotify.com/track/7dm2eWzZsI3mW1oKgF21qV) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw) | [Veo Veo](https://open.spotify.com/album/6axheBYNM1GRM1aMxZpDN0) | 2:53 |
 | 48 | [12](https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [12](https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz) | 2:37 |
 | 49 | [Mbappe](https://open.spotify.com/track/5hCTIIK0Ve0quCvSD7ZIQO) | [Poison Kid](https://open.spotify.com/artist/5gdLCbByMUjFLhbOj8NC14) | [Mbappe](https://open.spotify.com/album/4RE6vtGPolcMBrocUcdcoK) | 2:15 |
 | 50 | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9) | 2:21 |

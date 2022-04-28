@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 69041,
+  "num_followers": 69076,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA0Mjg3NTAxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA0MzY4ODAxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Madame",
         "url": "https://open.spotify.com/album/4TTT9iRgJzF4HV4N5xv8Tc"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3KNWjZgf92VwvWAselZ6sP"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Lamogia",
         "url": "https://open.spotify.com/album/5pgghbNUyILy9YutnER4K5"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/2ERAk3pDcHIlYFMLS1kr1n"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/0srJiVl5KXjpP3fFioNcu6"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/4sHGVE7twEnFddJ3DqyWXs"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Bonnie & Clyde",
         "url": "https://open.spotify.com/album/39xWJRyG8IKxfL48ffNcHU"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/0BpDTIpvyO7e7pGMP5iD7X"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/3ogObtcOGDUsc0Pl9SHZh3"
@@ -133,7 +133,51 @@
       "url": "https://open.spotify.com/track/6CdE60o6FN8FtJikF580M4"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Interrail",
+        "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Kazal",
+          "url": "https://open.spotify.com/artist/1FhY0lBSZSzM8jcV0lqaLR"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Deathmatch",
+      "url": "https://open.spotify.com/track/3g45OwdSyqgpMi4AmlnUOY"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Saskepticism Vol. 2",
+        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Gamecue",
+          "url": "https://open.spotify.com/artist/1tHXeeKi5dBepwzOvBh6ST"
+        }
+      ],
+      "duration_ms": 199269,
+      "name": "ALITHEIA",
+      "url": "https://open.spotify.com/track/03x0o1jOLLiGMyN0SgjtVM"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Van Persie",
         "url": "https://open.spotify.com/album/1nkCbVSsC0gnIeaED6YIgE"
@@ -157,7 +201,7 @@
       "url": "https://open.spotify.com/track/34Q1M0pSFzV71nQ65Kl8vd"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "OPLO",
         "url": "https://open.spotify.com/album/4UH5r8a4WyhAPRJgXl7cEh"
@@ -181,27 +225,23 @@
       "url": "https://open.spotify.com/track/4hQD9RLZC5M3xU2W4Mvulg"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
+        "name": "Interrail",
+        "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
       },
       "artists": [
         {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Gamecue",
-          "url": "https://open.spotify.com/artist/1tHXeeKi5dBepwzOvBh6ST"
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
         }
       ],
-      "duration_ms": 199269,
-      "name": "ALITHEIA",
-      "url": "https://open.spotify.com/track/03x0o1jOLLiGMyN0SgjtVM"
+      "duration_ms": 246043,
+      "name": "Metrita",
+      "url": "https://open.spotify.com/track/5ZPhekpMLXFmewq8hc9GOA"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Loyal",
         "url": "https://open.spotify.com/album/34SX0ua1q28Y6gMswMvVlg"
@@ -221,7 +261,23 @@
       "url": "https://open.spotify.com/track/1eEoV4y3nT116m0rKrU055"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Interrail",
+        "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        }
+      ],
+      "duration_ms": 191260,
+      "name": "Meine Gia Ligo",
+      "url": "https://open.spotify.com/track/2jeuoMQB17m1KOMR7EiG9m"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
@@ -245,23 +301,63 @@
       "url": "https://open.spotify.com/track/4Xl27vacC5c1ynjtzE4ShU"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
-        "name": "Amarties",
-        "url": "https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu"
+        "name": "Interrail",
+        "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
       },
       "artists": [
         {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "A1Roth",
+          "url": "https://open.spotify.com/artist/5WOdGYPMv30vcyOjUjoV1B"
         }
       ],
-      "duration_ms": 165773,
-      "name": "Amarties",
-      "url": "https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE"
+      "duration_ms": 210632,
+      "name": "Madagaskari",
+      "url": "https://open.spotify.com/track/0siTSPLhMHDG6ZpOt1yZYn"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Alliws",
+        "url": "https://open.spotify.com/album/1zlYDnm0D8pWnuUhCDKQX9"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        },
+        {
+          "name": "ATC Coco",
+          "url": "https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq"
+        }
+      ],
+      "duration_ms": 243446,
+      "name": "Alliws",
+      "url": "https://open.spotify.com/track/5ZO9U3FzXx19dhrJRyNPYK"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
@@ -281,23 +377,95 @@
       "url": "https://open.spotify.com/track/7hVXZVcmpcHq1DJ05dnFZK"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
+        "name": "Tilefono",
+        "url": "https://open.spotify.com/album/33YsXsjLwzvwNhBoniCTyC"
       },
       "artists": [
         {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
         }
       ],
-      "duration_ms": 194193,
-      "name": "PARANOIA DI NOTTE",
-      "url": "https://open.spotify.com/track/4dvTbAQjoCtRt030HPPwCt"
+      "duration_ms": 191477,
+      "name": "Tilefono",
+      "url": "https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Amarties",
+        "url": "https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Amarties",
+      "url": "https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Interrail",
+        "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Electabaz",
+          "url": "https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf"
+        }
+      ],
+      "duration_ms": 233802,
+      "name": "Interrail",
+      "url": "https://open.spotify.com/track/03u4CH8SP4davgdbacEL6W"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Staxti",
+        "url": "https://open.spotify.com/album/61zuHp0O4Yg56XHAzNwp7s"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "duration_ms": 195843,
+      "name": "Staxti",
+      "url": "https://open.spotify.com/track/4JjDL9sz3rSXw21M6jxpKc"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Green Goblin",
+        "url": "https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 304311,
+      "name": "Gangsta Party",
+      "url": "https://open.spotify.com/track/4QFwY4j7vMLMH9K2igX7Km"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Chinchilla",
         "url": "https://open.spotify.com/album/0TRAWrrKjYGCd8WhyxL8xG"
@@ -321,79 +489,63 @@
       "url": "https://open.spotify.com/track/30K8l6FPIUB9iH1txpmWtD"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+        "name": "Saskepticism Vol. 2",
+        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+      "duration_ms": 194193,
+      "name": "PARANOIA DI NOTTE",
+      "url": "https://open.spotify.com/track/4dvTbAQjoCtRt030HPPwCt"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
-        "name": "Staxti",
-        "url": "https://open.spotify.com/album/61zuHp0O4Yg56XHAzNwp7s"
+        "name": "Interrail",
+        "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
       },
       "artists": [
         {
-          "name": "Aspa",
-          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
-        }
-      ],
-      "duration_ms": 195843,
-      "name": "Staxti",
-      "url": "https://open.spotify.com/track/4JjDL9sz3rSXw21M6jxpKc"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Alliws",
-        "url": "https://open.spotify.com/album/1zlYDnm0D8pWnuUhCDKQX9"
-      },
-      "artists": [
-        {
-          "name": "ATC Nico",
-          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
         },
         {
-          "name": "ATC Coco",
-          "url": "https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq"
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
         }
       ],
-      "duration_ms": 243446,
-      "name": "Alliws",
-      "url": "https://open.spotify.com/track/5ZO9U3FzXx19dhrJRyNPYK"
+      "duration_ms": 148253,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5NkREaWsEC6OKuCsUZmNFC"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
-        "name": "Green Goblin",
-        "url": "https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh"
+        "name": "Saskepticism Vol. 2",
+        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
       },
       "artists": [
         {
-          "name": "Thug Slime",
-          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
         },
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
         }
       ],
-      "duration_ms": 304311,
-      "name": "Gangsta Party",
-      "url": "https://open.spotify.com/track/4QFwY4j7vMLMH9K2igX7Km"
+      "duration_ms": 178900,
+      "name": "X-RATED",
+      "url": "https://open.spotify.com/track/47oIBbFCqMVRD7r7fQdhvg"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Pes Tou (Remix)",
         "url": "https://open.spotify.com/album/2rgk5BnmNB5zHdK4o0tTWH"
@@ -421,59 +573,7 @@
       "url": "https://open.spotify.com/track/3yYiWonAKTa1W0cYlEPjRj"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Tilefono",
-        "url": "https://open.spotify.com/album/33YsXsjLwzvwNhBoniCTyC"
-      },
-      "artists": [
-        {
-          "name": "Josephine",
-          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
-        }
-      ],
-      "duration_ms": 191477,
-      "name": "Tilefono",
-      "url": "https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Th Mark",
-          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
-        }
-      ],
-      "duration_ms": 178900,
-      "name": "X-RATED",
-      "url": "https://open.spotify.com/track/47oIBbFCqMVRD7r7fQdhvg"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Lobby",
-        "url": "https://open.spotify.com/album/0KmAYPLzOuEqRCCzXab8xn"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 182796,
-      "name": "Lobby",
-      "url": "https://open.spotify.com/track/1kaJpz5JMjmhByqAnvN90b"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Rackattack (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5T6qUQtVUyNagAK4955FV1"
@@ -493,7 +593,7 @@
       "url": "https://open.spotify.com/track/0hVl1Eb02SNnTHSgrlhBm7"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "LOCA",
         "url": "https://open.spotify.com/album/3EcHu1w6JVsfoIoDyT8ORM"
@@ -513,7 +613,115 @@
       "url": "https://open.spotify.com/track/7JYa8V4dGXSDcZnO2CiRaP"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Interrail",
+        "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Electabaz",
+          "url": "https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/50GlAeRnl5ArJ3QduAHaoX"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Interrail",
+        "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "duration_ms": 204875,
+      "name": "Monopoly",
+      "url": "https://open.spotify.com/track/0evRxPVMjvGCIXWsslUVKv"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Lobby",
+        "url": "https://open.spotify.com/album/0KmAYPLzOuEqRCCzXab8xn"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 182796,
+      "name": "Lobby",
+      "url": "https://open.spotify.com/track/1kaJpz5JMjmhByqAnvN90b"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Monadiki",
+        "url": "https://open.spotify.com/album/3QHZJ77nPmtLQML09wKr38"
+      },
+      "artists": [
+        {
+          "name": "Grend Kid",
+          "url": "https://open.spotify.com/artist/1svhqU5A39QYEmwbswohYD"
+        }
+      ],
+      "duration_ms": 177190,
+      "name": "Monadiki",
+      "url": "https://open.spotify.com/track/1OW1yEfnvm5yc6BTBy1wUT"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/5zx6yjMEp0TVohDeBjvpBN"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 167947,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/5MSjkbXoVSgd0i9Bkwm0nd"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Jet",
+        "url": "https://open.spotify.com/album/0Ux7BDqd9Ub4lzNga1jLaM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "Jet",
+      "url": "https://open.spotify.com/track/1FaERnz6U0LZ2AHI5JZytO"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
@@ -537,143 +745,7 @@
       "url": "https://open.spotify.com/track/05WQrdexAfPXOTDJEGueYF"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/5zx6yjMEp0TVohDeBjvpBN"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 167947,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/5MSjkbXoVSgd0i9Bkwm0nd"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Monadiki",
-        "url": "https://open.spotify.com/album/3QHZJ77nPmtLQML09wKr38"
-      },
-      "artists": [
-        {
-          "name": "Grend Kid",
-          "url": "https://open.spotify.com/artist/1svhqU5A39QYEmwbswohYD"
-        }
-      ],
-      "duration_ms": 177190,
-      "name": "Monadiki",
-      "url": "https://open.spotify.com/track/1OW1yEfnvm5yc6BTBy1wUT"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Jet",
-        "url": "https://open.spotify.com/album/0Ux7BDqd9Ub4lzNga1jLaM"
-      },
-      "artists": [
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "Jet",
-      "url": "https://open.spotify.com/track/1FaERnz6U0LZ2AHI5JZytO"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/4eprABWusdNM8O5QazmH1i"
-      },
-      "artists": [
-        {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
-        },
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/0HUabBApCqvyOWksm6Rk8N"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Green Goblin",
-        "url": "https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh"
-      },
-      "artists": [
-        {
-          "name": "Thug Slime",
-          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Alitissa",
-      "url": "https://open.spotify.com/track/6pZIQW20GzrcxEUtn6dui3"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "ObieDaz",
-          "url": "https://open.spotify.com/artist/6t6pStfTXsLKq53ca59WSW"
-        },
-        {
-          "name": "Gamecue",
-          "url": "https://open.spotify.com/artist/1tHXeeKi5dBepwzOvBh6ST"
-        }
-      ],
-      "duration_ms": 252558,
-      "name": "FAKE LOVE",
-      "url": "https://open.spotify.com/track/4bFM1Vb1XC2aCBwIuQYBL6"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Grandbois",
-          "url": "https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu"
-        },
-        {
-          "name": "Destiny",
-          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "KURT COBAIN",
-      "url": "https://open.spotify.com/track/64swjZsIJzWhUNqiyQTZpZ"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Kounato Siga",
         "url": "https://open.spotify.com/album/7CdGoSJvzSztwatsY89TYV"
@@ -697,7 +769,79 @@
       "url": "https://open.spotify.com/track/4ieIAiWQcFLpcCPJeDbLRm"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Green Goblin",
+        "url": "https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "duration_ms": 213658,
+      "name": "Alitissa",
+      "url": "https://open.spotify.com/track/6pZIQW20GzrcxEUtn6dui3"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/3nvKa95wiFsi41PxjlAdfF"
+      },
+      "artists": [
+        {
+          "name": "ATC Toro",
+          "url": "https://open.spotify.com/artist/2WOOBiFlIFVqfzgr3zQhgd"
+        },
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        }
+      ],
+      "duration_ms": 193084,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/4zK6erYhtbxlG1kYK02krv"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/5c26xB0jKTmvJHauiYnVNL"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "duration_ms": 160269,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/6HeG9URxuExm52kQQ8sHJU"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4eprABWusdNM8O5QazmH1i"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/0HUabBApCqvyOWksm6Rk8N"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Aftoktonia",
         "url": "https://open.spotify.com/album/5F4LJOszRloSlIEQpXesHv"
@@ -717,27 +861,27 @@
       "url": "https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
-        "name": "COCO",
-        "url": "https://open.spotify.com/album/3XtVh6cdgqy3bGYLeCmRRk"
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/6I05KXZobddEIzbUaVPAOa"
       },
       "artists": [
         {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+          "name": "Leaderbrain",
+          "url": "https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ"
         },
         {
-          "name": "Stanley",
-          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
         }
       ],
-      "duration_ms": 144500,
-      "name": "COCO",
-      "url": "https://open.spotify.com/track/6yOg1Tt1ELOWseyPg2vEos"
+      "duration_ms": 185400,
+      "name": "Latina",
+      "url": "https://open.spotify.com/track/3DbiL7GTCopFHk9t9qpDut"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Tora",
         "url": "https://open.spotify.com/album/5ighwxbsV6aWsYGDPcjTjR"
@@ -761,7 +905,75 @@
       "url": "https://open.spotify.com/track/1uyRcweY7rbExFNuS7W9lG"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Saskepticism Vol. 2",
+        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "ObieDaz",
+          "url": "https://open.spotify.com/artist/6t6pStfTXsLKq53ca59WSW"
+        },
+        {
+          "name": "Gamecue",
+          "url": "https://open.spotify.com/artist/1tHXeeKi5dBepwzOvBh6ST"
+        }
+      ],
+      "duration_ms": 252558,
+      "name": "FAKE LOVE",
+      "url": "https://open.spotify.com/track/4bFM1Vb1XC2aCBwIuQYBL6"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "COCO",
+        "url": "https://open.spotify.com/album/3XtVh6cdgqy3bGYLeCmRRk"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "COCO",
+      "url": "https://open.spotify.com/track/6yOg1Tt1ELOWseyPg2vEos"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
+      "album": {
+        "name": "Saskepticism Vol. 2",
+        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Esaw",
+          "url": "https://open.spotify.com/artist/3mil6Fz5Ettkb6BZM45cU0"
+        },
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/0sjMSmsI0PwRZYrl9KYMAU"
+        }
+      ],
+      "duration_ms": 229352,
+      "name": "COLLECT",
+      "url": "https://open.spotify.com/track/2OMlrvW9ayIrnbVVW5cMjf"
+    },
+    {
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
@@ -781,27 +993,7 @@
       "url": "https://open.spotify.com/track/4zk4Q1nwAC0zB2maZ2zyW9"
     },
     {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/6I05KXZobddEIzbUaVPAOa"
-      },
-      "artists": [
-        {
-          "name": "Leaderbrain",
-          "url": "https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ"
-        },
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Latina",
-      "url": "https://open.spotify.com/track/3DbiL7GTCopFHk9t9qpDut"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
+      "added_at": "2022-04-27 10:00:01",
       "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
@@ -810,211 +1002,19 @@
         {
           "name": "Saske",
           "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Esaw",
-          "url": "https://open.spotify.com/artist/3mil6Fz5Ettkb6BZM45cU0"
-        }
-      ],
-      "duration_ms": 229352,
-      "name": "COLLECT",
-      "url": "https://open.spotify.com/track/2OMlrvW9ayIrnbVVW5cMjf"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
         },
         {
           "name": "Grandbois",
           "url": "https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "CHECKS",
-      "url": "https://open.spotify.com/track/1kE9ENNbfsLok1vl2OuUpW"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/5c26xB0jKTmvJHauiYnVNL"
-      },
-      "artists": [
-        {
-          "name": "Roi 6/12",
-          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
-        }
-      ],
-      "duration_ms": 160269,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/6HeG9URxuExm52kQQ8sHJU"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
         },
         {
-          "name": "Kareem Kalokoh",
-          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
         }
       ],
-      "duration_ms": 187467,
-      "name": "DIFFERENT DRIP",
-      "url": "https://open.spotify.com/track/77foJJowD08Zj7nXvJFGba"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Cash",
-        "url": "https://open.spotify.com/album/5e5fLz0j6btW8xDhVtQt55"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/3o16y3xlZCwYbPNmhKiN7R"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Rack",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "DOKIMASE TON",
-      "url": "https://open.spotify.com/track/4FKrKkRO4cFQ6AoIUm6Rk8"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "FOVATE",
-        "url": "https://open.spotify.com/album/0Cy7geKcuy4dPCUDVY9yjw"
-      },
-      "artists": [
-        {
-          "name": "iLLEOo",
-          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "FOVATE",
-      "url": "https://open.spotify.com/track/5ZySt28YCUcCHam2pSFjwi"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Esaw",
-          "url": "https://open.spotify.com/artist/3mil6Fz5Ettkb6BZM45cU0"
-        },
-        {
-          "name": "Vincent",
-          "url": "https://open.spotify.com/artist/0sjMSmsI0PwRZYrl9KYMAU"
-        }
-      ],
-      "duration_ms": 176281,
-      "name": "BEAMERS",
-      "url": "https://open.spotify.com/track/2FfEQCLOBJcfBoeW4jH3AJ"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Saskepticism Vol. 2",
-        "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 237592,
-      "name": "TO SINITHIZO",
-      "url": "https://open.spotify.com/track/3fGP1nAgAxHFGyDaWhAi2S"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Low Rider",
-        "url": "https://open.spotify.com/album/1c4fHechMRstHLcSZ0zogC"
-      },
-      "artists": [
-        {
-          "name": "Khay Be",
-          "url": "https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y"
-        },
-        {
-          "name": "Thug Slime",
-          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Low Rider",
-      "url": "https://open.spotify.com/track/6QU91Ir06s9ibWyTLIY9lN"
-    },
-    {
-      "added_at": "2022-04-26 11:25:01",
-      "album": {
-        "name": "Out of Your Mind",
-        "url": "https://open.spotify.com/album/1P08dG0PG5dGrPWccuL9cz"
-      },
-      "artists": [
-        {
-          "name": "Solven",
-          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Out of Your Mind",
-      "url": "https://open.spotify.com/track/1wRKwSa4fLSA0SHGqcfSL4"
+      "duration_ms": 173548,
+      "name": "KURT COBAIN",
+      "url": "https://open.spotify.com/track/64swjZsIJzWhUNqiyQTZpZ"
     }
   ],
   "unique_name": "Top 50 - Greece",

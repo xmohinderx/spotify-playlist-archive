@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Lemonade Baby\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,807 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,825 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 47 | [Leather Face](https://open.spotify.com/track/2almShyfgUqAKxIjeJPNdw) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Leather Face](https://open.spotify.com/album/3jdSUNyPrttEQ8X1hpWIPV) | 3:29 |
 | 48 | [Anahera](https://open.spotify.com/track/6SyJJ8xMIsrQhupcYXMANf) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Anahera](https://open.spotify.com/album/3f4x7nfpVhidlzAsVBtd1A) | 3:21 |
 | 49 | [We Smoke](https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ) | [Bodega Collective](https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [RenzoMck.](https://open.spotify.com/artist/7h6GkKpa1H12PiOQ6RiRh4), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [We Smoke](https://open.spotify.com/album/2Za3qO1esJmOgd77kqakkz) | 3:01 |
-| 50 | [Indigo \(feat\. Rei\)](https://open.spotify.com/track/7t10EOFwsClvZED8zuOXkn) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Indigo \(feat\. Rei\)](https://open.spotify.com/album/04A2stsemHV2CBnZidmRrJ) | 3:15 |
+| 50 | [Indigo](https://open.spotify.com/track/7t10EOFwsClvZED8zuOXkn) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Indigo](https://open.spotify.com/album/04A2stsemHV2CBnZidmRrJ) | 3:15 |
 | 51 | [Promise](https://open.spotify.com/track/355pgCRSs4zN7IQhtGvjpr) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Nilotic](https://open.spotify.com/album/4shIYDK0g2CNbpAANeWPcR) | 3:06 |
 | 52 | [Stuck](https://open.spotify.com/track/5TQ90ca8kkuVYYS46duSSu) | [i.amsolo](https://open.spotify.com/artist/6IHDG6UjGgC9axdBbIDv2b) | [Stuck](https://open.spotify.com/album/3b5rq61h3ESbSiu6fkANdA) | 2:56 |
 | 53 | [Answers](https://open.spotify.com/track/2vNUQwVATvBswrG7HGPw2W) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Answers](https://open.spotify.com/album/0Eb8Vnpx2PBDPH9G3glEpu) | 2:48 |

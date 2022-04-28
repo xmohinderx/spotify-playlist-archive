@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 242000,
       "name": "Arkata (Munich Session)",
       "url": "https://open.spotify.com/track/5rnpFhTerQAtva8IuFHMnS"
@@ -293,6 +293,24 @@
       "duration_ms": 160624,
       "name": "Belle Chose",
       "url": "https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY"
+    },
+    {
+      "album": {
+        "name": "Blazing",
+        "url": "https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu"
+      },
+      "artists": [
+        {
+          "name": "Korey Banks",
+          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127187,
+      "name": "Blazing",
+      "url": "https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV"
     },
     {
       "album": {
@@ -692,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191114,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
+    },
+    {
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K"
       },
@@ -703,7 +739,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 162270,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu"
@@ -1067,6 +1103,24 @@
       "duration_ms": 199319,
       "name": "In The Presence Of Starlight",
       "url": "https://open.spotify.com/track/1S0sSgUfWpqvPET73lU7Hv"
+    },
+    {
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/0mA3LTC850Eps4U1t80Tlv"
+      },
+      "artists": [
+        {
+          "name": "Wendie Solomon",
+          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/4nnE3uemVYJK9oZ9ohvlBc"
     },
     {
       "album": {
@@ -1538,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Lunate",
+        "url": "https://open.spotify.com/album/70V2wLc3pSpwh5HNQZleSC"
+      },
+      "artists": [
+        {
+          "name": "Hollou",
+          "url": "https://open.spotify.com/artist/5AVCjUPGLAHTxEdYjkrjIM"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170830,
+      "name": "Lunate",
+      "url": "https://open.spotify.com/track/7whs3YkiIIVdTbUVZnDEAe"
+    },
+    {
+      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/6FYr3rZ3L5e7VmpUaDfMzd"
       },
@@ -1585,7 +1657,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 180720,
       "name": "Manus in Mano",
       "url": "https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr"
@@ -1765,7 +1837,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 140500,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/13b7swHOlTGpZoDgtTWFIc"
@@ -1826,6 +1898,24 @@
     },
     {
       "album": {
+        "name": "Nocturne des elfes",
+        "url": "https://open.spotify.com/album/7HcQg3Jr2itIFwIxFomtCy"
+      },
+      "artists": [
+        {
+          "name": "Admalou",
+          "url": "https://open.spotify.com/artist/2I3OPWjSg3DOoS1QeRof4t"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Nocturne des elfes",
+      "url": "https://open.spotify.com/track/0SndGJp12rItbzoR7DIczf"
+    },
+    {
+      "album": {
         "name": "Nocturne in C",
         "url": "https://open.spotify.com/album/66tnYfegl9yV4STuFafEfT"
       },
@@ -1855,7 +1945,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 176627,
       "name": "O Soave Fanciulla",
       "url": "https://open.spotify.com/track/5HQp593kflHm8LV12MepjR"
@@ -2507,7 +2597,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 178674,
       "name": "Tana",
       "url": "https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP"
@@ -2543,7 +2633,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 184019,
       "name": "The Half Light",
       "url": "https://open.spotify.com/track/71yLhDpyToB7Z0e7COEd6a"
@@ -2694,6 +2784,24 @@
     },
     {
       "album": {
+        "name": "Tournon",
+        "url": "https://open.spotify.com/album/0Wk3Fd60WAcDGFZf5esowg"
+      },
+      "artists": [
+        {
+          "name": "Pazice",
+          "url": "https://open.spotify.com/artist/5so0FZWVgBOL7MDkSueVCj"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129539,
+      "name": "Tournon",
+      "url": "https://open.spotify.com/track/7eKZVHMsyq7BtPJA2O2xvE"
+    },
+    {
+      "album": {
         "name": "Tout Doucement",
         "url": "https://open.spotify.com/album/7rUlpRcwrhFkCWUotNDn6a"
       },
@@ -2831,7 +2939,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 144256,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8"
@@ -2889,6 +2997,24 @@
       "duration_ms": 226000,
       "name": "Valse M\u00e9lancolie",
       "url": "https://open.spotify.com/track/47L9KRq0WRPYiNs4oeHyFs"
+    },
+    {
+      "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/1hduHHbXesrfvi8aRCQZ64"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Poncelet",
+          "url": "https://open.spotify.com/artist/1tchnux34dr1K8VevCDxPn"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265161,
+      "name": "Valse nocturne",
+      "url": "https://open.spotify.com/track/1KP0DByPauicPF28zb7FMe"
     },
     {
       "album": {

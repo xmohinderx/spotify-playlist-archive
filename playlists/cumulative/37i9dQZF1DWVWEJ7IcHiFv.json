@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214573,
+      "name": "1,2,3 - Remix",
+      "url": "https://open.spotify.com/track/1ovIbIRHnG8oi4aUnh2i5d"
+    },
+    {
+      "album": {
         "name": "No Es Pecado -Remasters",
         "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 239373,
       "name": "Ay Que Pesado",
       "url": "https://open.spotify.com/track/0g6ngZ7j1hULpakfb993Z2"
@@ -187,7 +205,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 410773,
       "name": "Can You Feel the Beat",
       "url": "https://open.spotify.com/track/5WwZeusFlxOKmTW25ImmgM"
@@ -515,7 +533,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 260440,
       "name": "Hijo de la Luna",
       "url": "https://open.spotify.com/track/3yxeZZnFJDmw72ID4whKXR"

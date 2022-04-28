@@ -1314,6 +1314,24 @@
     },
     {
       "album": {
+        "name": "FINAL FANTASY",
+        "url": "https://open.spotify.com/album/4WT8C9oQL30AL93yM5apdx"
+      },
+      "artists": [
+        {
+          "name": "black balloons",
+          "url": "https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149302,
+      "name": "FINAL FANTASY",
+      "url": "https://open.spotify.com/track/2219puT2YzNNVEQ784V2jt"
+    },
+    {
+      "album": {
         "name": "gnb",
         "url": "https://open.spotify.com/album/5KWDHBSc9h4QkMTG2XS0Lz"
       },

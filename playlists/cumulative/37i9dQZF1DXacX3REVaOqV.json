@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 219028,
       "name": "2001",
       "url": "https://open.spotify.com/track/2LvBuNhDu3SWaPudMo2zGq"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 220487,
       "name": "Alga",
       "url": "https://open.spotify.com/track/5Jh8ToH4GZSokq32oUDn6U"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Arms - Sidney Samson Remix",
       "url": "https://open.spotify.com/track/3kgVF7C4wllZ5WzcRiPK0t"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 264320,
       "name": "Desire - Radio Edit",
       "url": "https://open.spotify.com/track/631bx8hIT8bVS2vfUzn5GN"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 374629,
       "name": "Don't You Want Some More",
       "url": "https://open.spotify.com/track/5DDmcUb3wnPXhZwom0wjZq"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 191698,
       "name": "Estafette",
       "url": "https://open.spotify.com/track/0UXSed2eRwzvuxfBRkKhKS"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 204651,
       "name": "Harder (Shermanology Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 144761,
       "name": "Higher (feat. your friend polly)",
       "url": "https://open.spotify.com/track/7t6Q4FkHC53gXmLLP8OKNu"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 428254,
       "name": "It's Yours (feat. E-Man) - Distant Music Mix",
       "url": "https://open.spotify.com/track/4XNh03XZOu9CY0VjGGsrrU"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 199836,
       "name": "Mvinline",
       "url": "https://open.spotify.com/track/6bbx7nYlixYuElKMbYCzMm"
@@ -2209,7 +2209,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 237941,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0QrMI79qOhxVmjICelzbyZ"
@@ -2355,7 +2355,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
@@ -2622,6 +2622,24 @@
     },
     {
       "album": {
+        "name": "Revolution (Deep In Jersey Extended Mix)",
+        "url": "https://open.spotify.com/album/365BQjbQ7guC3hyTE2erVZ"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327116,
+      "name": "Revolution - Deep In Jersey Extended Mix",
+      "url": "https://open.spotify.com/track/0Qs8VmB3VPecGLGef4shI0"
+    },
+    {
+      "album": {
         "name": "Right On",
         "url": "https://open.spotify.com/album/1WxhKRgNpICvt7Asa3cxtN"
       },
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 413745,
       "name": "Right On - Dario D'attis Remix",
       "url": "https://open.spotify.com/track/5ymor3b8Gs82TouTl7z7Yj"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 247680,
       "name": "Speed Up - Menesix Remix",
       "url": "https://open.spotify.com/track/0DBnkbWalfo6TNjRcll0ui"
@@ -2993,7 +3011,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 398598,
       "name": "Starry Night - Original Mix",
       "url": "https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A"
@@ -3135,6 +3153,24 @@
       "duration_ms": 190080,
       "name": "Talamanca - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
+    },
+    {
+      "album": {
+        "name": "TALI",
+        "url": "https://open.spotify.com/album/2xjaexaUErg3fBhqoRRzKS"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391961,
+      "name": "TALI",
+      "url": "https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg"
     },
     {
       "album": {
@@ -3567,7 +3603,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 220952,
       "name": "Won't Explain",
       "url": "https://open.spotify.com/track/28sh8QxMveO01irLmUOjP5"

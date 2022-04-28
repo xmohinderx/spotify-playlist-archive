@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 205909,
       "name": "1+1=2 Enamorados",
       "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 260066,
       "name": "Amada Amante",
       "url": "https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Amor de Hombre (De \"La Leyenda del Beso\")",
+      "url": "https://open.spotify.com/track/2XOuNjvWYgPmdtTwjQTd23"
+    },
+    {
+      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 282826,
       "name": "Bailar Pegados",
       "url": "https://open.spotify.com/track/3Pf1e1KvnRw46d1sMSnits"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 271000,
       "name": "Canci\u00f3n de oto\u00f1o",
       "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 314066,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/3SrhjtntSNqwP70ksoTxmA"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 203753,
       "name": "Contigo En La Distancia",
       "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 312333,
       "name": "D\u00e9jame llorar",
       "url": "https://open.spotify.com/track/3Bknh2l0uHRTpgTh4iRP96"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 259226,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/5CgG9QML3GDyMss6bAMjY1"
@@ -1216,6 +1234,24 @@
     },
     {
       "album": {
+        "name": "Los 50 Mejores Boleros",
+        "url": "https://open.spotify.com/album/3H3gELlMncLEG4Jno807Po"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157186,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/0kYclTHk8XBkFpkm9qmawX"
+    },
+    {
+      "album": {
         "name": "Jose Jose 25 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/3oE5yCMIq1LK8AfCmZlokU"
       },
@@ -1245,7 +1281,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 162186,
       "name": "El \u00faltimo beso - The Last Kiss",
       "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 243093,
       "name": "Esa Chica Es M\u00eda",
       "url": "https://open.spotify.com/track/67FCBlx2IC0yRJOBYYfLhz"
@@ -1771,7 +1807,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 237653,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR"
@@ -1861,7 +1897,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 239733,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2zYa7zc0g0AbMUjEzYiI2r"
@@ -1933,7 +1969,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 197706,
       "name": "Los Hombres No Deben Llorar",
       "url": "https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa"
@@ -1987,7 +2023,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 189730,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/2L5E1nYG6OmtQY64BGaEEg"
@@ -2131,7 +2167,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 292573,
       "name": "Me Olvide De Vivir",
       "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
@@ -2149,7 +2185,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 170800,
       "name": "Melina",
       "url": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
@@ -2189,7 +2225,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 201000,
       "name": "Mi Amor por Ti",
       "url": "https://open.spotify.com/track/2AO2GSyxZkd1rfnvgqlgeQ"
@@ -2423,7 +2459,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 189720,
       "name": "Mujeres Divinas",
       "url": "https://open.spotify.com/track/67vAIQROidQxOUeqkSPmVo"
@@ -2949,7 +2985,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 239133,
       "name": "Qui\u00e9n Te Cantar\u00e1?",
       "url": "https://open.spotify.com/track/5ZWG3cZch1wDHpqPAltmNC"
@@ -3021,7 +3057,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 190564,
       "name": "Sera Porque Te Amo",
       "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
@@ -3151,7 +3187,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 226373,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/2w3hRh03IPv1ueQ15V1XU3"
@@ -3781,7 +3817,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 225533,
       "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
       "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"

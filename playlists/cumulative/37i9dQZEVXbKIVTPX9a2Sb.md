@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-656 songs - 1 day 9 hr 14 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
+657 songs - 1 day 9 hr 17 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,7 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-27 | 2021-12-29 |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2021-03-27\* | 2021-05-05 |
 | [Rodinnej Typ](https://open.spotify.com/track/35nvMkQglkoeydD81a0b77) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Prozyum \(Director’s Cut\)](https://open.spotify.com/album/2b3VHocNH0l8kU0N1PkYi7) | 2:55 | 2021-03-27\* | 2021-04-04 |
-| [Rolls](https://open.spotify.com/track/0E92CGQj3E7REEC9TWqYze) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Melanž](https://open.spotify.com/album/7rK33Ae8DE1Hb4PLItVTvo) | 3:26 | 2021-04-02 |  |
+| [Rolls](https://open.spotify.com/track/0E92CGQj3E7REEC9TWqYze) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Melanž](https://open.spotify.com/album/7rK33Ae8DE1Hb4PLItVTvo) | 3:26 | 2021-04-02 | 2022-04-28 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2021-03-27\* | 2021-05-14 |
 | [Ruka Na Volante](https://open.spotify.com/track/4OhVw8lHCuy8S8Q0YyD57B) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN) | [OK](https://open.spotify.com/album/4EXNFurxo8oRpHvN6M8iEp) | 2:52 | 2021-03-27\* | 2021-07-21 |
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2021-08-29 | 2021-11-07 |
@@ -553,6 +553,7 @@
 | [Tanečná pesnička](https://open.spotify.com/track/6qx1ykOqZ3WiMiYpNAZST8) | [DMS](https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D) | [Tanečná pesnička](https://open.spotify.com/album/5NUf9boxGmosQFv9a2Z3xw) | 3:28 | 2021-11-26 | 2021-12-12 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-05-08 |
 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 | 2021-07-18 | 2021-07-20 |
+| [Test With A Kiss](https://open.spotify.com/track/1UUHFs7YkhVs5Onc0kqxNY) | [Bougenvilla](https://open.spotify.com/artist/1I5pYXplsbqmHaVWlAEhla), [Jookidd](https://open.spotify.com/artist/3325LC7fK8AP0HvblVTy84), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Sam Lemay](https://open.spotify.com/artist/11ooXjcX0LXtpDs9FnwF4C) | [Test With A Kiss](https://open.spotify.com/album/3d90t25BM6PQCH5zORutVR) | 2:39 | 2022-04-27 |  |
 | [Thank God It's Christmas \- Non\-Album Single](https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:21 | 2021-12-25 | 2021-12-27 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 |  |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2022-04-26 |

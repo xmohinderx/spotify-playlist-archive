@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 221418,
       "name": "A Rose Between Two Thorns (VERONICA)",
       "url": "https://open.spotify.com/track/2qo8npLusT0JtbIHvkd1zO"
@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Cyclia One",
+        "url": "https://open.spotify.com/album/5WbhXFac9ctRxtFuLEc4xp"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/43eir8hTl6ZFfKgGUzsgnM"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/43nNVdMStUtBUOgPlIQpFe"
       },
@@ -135,7 +153,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 267500,
       "name": "Certified",
       "url": "https://open.spotify.com/track/7978uI976SnK4TelmVotSC"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 339248,
       "name": "Merek",
       "url": "https://open.spotify.com/track/4bMsnSgIQmtvFXQcq7jG8e"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Nefertiti - Red Axes Remix",
       "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 358000,
       "name": "Quar",
       "url": "https://open.spotify.com/track/5ZkLhs6b1taWIkDMY4KRaf"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 205078,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 219046,
       "name": "The Rollercoaster",
       "url": "https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 344304,
       "name": "This is what I want",
       "url": "https://open.spotify.com/track/6h5Nx3Ky3kC3ucxcKeoH42"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 180960,
       "name": "What Are U Gonna Do",
       "url": "https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 389250,
       "name": "What Do We Care - feat. Tom Sanders (Gerd Janson remix)",
       "url": "https://open.spotify.com/track/2U8rwtRxPMkwiTOV7WP7xZ"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 405453,
       "name": "Wing House - Shan Remix",
       "url": "https://open.spotify.com/track/1Wc83tGRNW59knQUV26bFp"

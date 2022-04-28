@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 139523,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 182500,
       "name": "Dare Me",
       "url": "https://open.spotify.com/track/77BDJDKKWm11KXQh0Sv4Jf"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 161294,
       "name": "DayDream",
       "url": "https://open.spotify.com/track/1MKQj677S3V9umUj7Eip0t"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 161280,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/37DVyKUzBMXu6HvMoGoYDk"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 148345,
       "name": "Faded Love",
       "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -1521,10 +1521,32 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 152990,
       "name": "One Day",
       "url": "https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA"
+    },
+    {
+      "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/1um2wZhBIXvkGDpQs17oWQ"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        },
+        {
+          "name": "Trans-X",
+          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/3KFGSaINkrBytfgfIlPKiT"
     },
     {
       "album": {
@@ -2007,7 +2029,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/0Zst3tJ1WhBLfmISlV9JKZ"
@@ -2095,7 +2117,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 134442,
       "name": "That Feeling (feat. Hayley May)",
       "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
@@ -2235,7 +2257,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 189375,
       "name": "Tonight (In Your Arms)",
       "url": "https://open.spotify.com/track/5qHGJ1JN9N0cyhaSfQo9Bi"
@@ -2345,7 +2367,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 132775,
       "name": "Weekend (feat. Emelie Cyr\u00e9us)",
       "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"

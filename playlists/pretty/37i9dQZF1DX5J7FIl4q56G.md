@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: We Came As Romans
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,281 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,406 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 16 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 |
 | 17 | [5 AM](https://open.spotify.com/track/31HxV5T50CjQVzyo6yh6Jm) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA), [Blind8](https://open.spotify.com/artist/6Cp7Edmrgw7XA8duPOFmtz) | [5 AM](https://open.spotify.com/album/72sgXs42eBocQjRCFUvM4H) | 3:09 |
 | 18 | [No control](https://open.spotify.com/track/0YDbo0oaK5jGW8R9dfJPP1) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [No control](https://open.spotify.com/album/5N8pKJl8RO70CJCXuOJ2W5) | 4:06 |
-| 19 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 |
+| 19 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ), [Lars Nedland](https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 |
 | 20 | [Demons Looming Over You](https://open.spotify.com/track/74uycdRYq807l6utYSbJ0H) | [Falconshield](https://open.spotify.com/artist/1E7ix1oyCsdQgMw6Q3w7xT), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [Demons Looming Over You](https://open.spotify.com/album/5P9DD9kBmupLv8l7SvmILA) | 4:28 |
 | 21 | [Take a Lesson](https://open.spotify.com/track/6zbgc4L3d6vho2rZlOtWQZ) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [Take a Lesson](https://open.spotify.com/album/4tH9aZaQ3Zuj3SaQghgfer) | 4:21 |
 | 22 | [Defeating Gravity](https://open.spotify.com/track/2tWY9liu4YQs4WM3hOLdnP) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Defeating Gravity](https://open.spotify.com/album/3ScSXOlja6qwDv2Knrkd2c) | 3:06 |

@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "All Night Long EP",
+        "url": "https://open.spotify.com/album/4AP4FFVWuGFyuOslw3yscT"
+      },
+      "artists": [
+        {
+          "name": "The Outsiders",
+          "url": "https://open.spotify.com/artist/7weInpgvxpwb83n6Zb3Iux"
+        },
+        {
+          "name": "Pyvot",
+          "url": "https://open.spotify.com/artist/0Ip9w7BXKHhr30jU6lbE6E"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252565,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6nGWgxbKjV0vZThq18tDtA"
+    },
+    {
+      "album": {
         "name": "Allude",
         "url": "https://open.spotify.com/album/1PexHvyN3m7qT0WkK9jWKH"
       },
@@ -63,7 +85,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 159569,
       "name": "Badman",
       "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
@@ -99,7 +121,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 200013,
       "name": "BARRICADE",
       "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
@@ -281,7 +303,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 274574,
       "name": "Demons - Lexurus Remix",
       "url": "https://open.spotify.com/track/3OfTUInqLligSNuiqUQtnE"
@@ -687,7 +709,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 178994,
       "name": "In My Car",
       "url": "https://open.spotify.com/track/6iXxT2TCOyOmq15lDMHmiR"
@@ -709,7 +731,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 168780,
       "name": "Issa Vibe",
       "url": "https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"
@@ -767,7 +789,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 229144,
       "name": "Let's Roll",
       "url": "https://open.spotify.com/track/35lF14PODtapsReNYnN6D9"
@@ -851,7 +873,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 206399,
       "name": "Open Spaces",
       "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
@@ -967,7 +989,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 324545,
       "name": "Retinues",
       "url": "https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT"
@@ -1113,7 +1135,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 186824,
       "name": "Take Me as I Am",
       "url": "https://open.spotify.com/track/0UenWFdnE81DI4OLN7GAP1"

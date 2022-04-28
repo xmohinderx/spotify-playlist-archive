@@ -1,12 +1,12 @@
 {
   "description": "next gen pop featuring JVKE",
-  "num_followers": 1055763,
+  "num_followers": 1056049,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTAzMDIyNiwwMDAwMDVlNjAwMDAwMTgwNjkxMWY0NjcwMDAwMDE4MDRlYjk2NTQ0",
+  "snapshot_id": "MTY1MTEwNzc1MCwwMDAwMDVlNzAwMDAwMTgwNmRiMGUxNjQwMDAwMDE4MDRlYjk2NTQ0",
   "tracks": [
     {
       "added_at": "2022-04-27 03:30:26",
@@ -323,6 +323,22 @@
       "duration_ms": 201495,
       "name": "psychofreak (feat. WILLOW)",
       "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
+    },
+    {
+      "added_at": "2022-04-28 01:02:30",
+      "album": {
+        "name": "Cry Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Pacify Her",
+      "url": "https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6"
     },
     {
       "added_at": "2022-04-27 03:30:26",

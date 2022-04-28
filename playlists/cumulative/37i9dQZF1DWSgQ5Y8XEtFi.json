@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 195030,
       "name": "Basilisk",
       "url": "https://open.spotify.com/track/4YOE7li8bD3CDbhzByFKcJ"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 115657,
       "name": "Biscuit",
       "url": "https://open.spotify.com/track/4cuwwRBCMMwbzyhWoupVLU"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 109595,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR"
@@ -425,10 +425,32 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Dat Way",
       "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
+    },
+    {
+      "album": {
+        "name": "DAYWALKER! (feat. CORPSE)",
+        "url": "https://open.spotify.com/album/2y8j3djW8ZswvAbEcPBBti"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137746,
+      "name": "DAYWALKER! (feat. CORPSE)",
+      "url": "https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h"
     },
     {
       "album": {
@@ -1391,7 +1413,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 169600,
       "name": "S.Y.K.",
       "url": "https://open.spotify.com/track/4ffuUoQxkBpobAfuS5NEKL"
@@ -1549,7 +1571,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 202621,
       "name": "Subatomic",
       "url": "https://open.spotify.com/track/6WYCFNz19DmDYGxk5wqLiz"
@@ -1637,7 +1659,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 133186,
       "name": "THERAPY!",
       "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
@@ -1695,7 +1717,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 205093,
       "name": "Who Dat Boy (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"
@@ -1801,7 +1823,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 172125,
       "name": "Zuccenberg",
       "url": "https://open.spotify.com/track/4m311PrEtKHZzy1JAsDCq1"

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#ПОШТА](https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#ПОШТА](https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g) | 2:48 | 2022-04-05 | 2022-04-27 |
+| [\#ПОШТА](https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#ПОШТА](https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g) | 2:48 | 2022-04-05 |  |
 | [\(Po\)ciąg dalszy nastąpi](https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Czarno na białym](https://open.spotify.com/album/4uxD1b9je0iDbdY1BMamMZ) | 4:25 | 2022-04-13 | 2022-04-23 |
 | [\(Не\)идеальна](https://open.spotify.com/track/4td0GwMmapEdpV2g5C2l9K) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [\(Не\)идеальна](https://open.spotify.com/album/4vm9d1inYJkGY81jfbJEkh) | 2:38 | 2021-04-26 | 2021-05-03 |
 | [+44](https://open.spotify.com/track/1ngGGsWzGONyiOlxdXRDr7) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [+44](https://open.spotify.com/album/5RKI4eixkCmtxfSwhB9RkY) | 2:28 | 2021-03-27\* | 2021-04-04 |
@@ -42,7 +42,7 @@
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2021-11-02 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-16 |
 | [Bandana](https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:31 | 2021-10-23 |  |
-| [bankai](https://open.spotify.com/track/1qwAvf8LsXY7H1sD5rRXGO) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/59nx25qYi62hyVrvvNYkEc) | 1:57 | 2022-04-18 |  |
+| [bankai](https://open.spotify.com/track/1qwAvf8LsXY7H1sD5rRXGO) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/59nx25qYi62hyVrvvNYkEc) | 1:57 | 2022-04-18 | 2022-04-28 |
 | [bankai](https://open.spotify.com/track/6tlU1yG1HdSrbbbfQN3NH3) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/0OZXlr5uiKMAwFzyHbwXM9) | 1:57 | 2022-04-02 | 2022-04-19 |
 | [Beauty](https://open.spotify.com/track/0ipVeLBnrx1oYyVLLR80mm) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [Showbiz School](https://open.spotify.com/artist/014QuYvSWcdqx4lhe17MX6) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 3:04 | 2021-04-11 | 2021-04-13 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-05-30 | 2021-10-23 |

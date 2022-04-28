@@ -1,12 +1,12 @@
 {
   "description": "Revel in some key gems and explore the sprawling musical landscape.",
-  "num_followers": 695038,
+  "num_followers": 695106,
   "original_name": "The Wilds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg3NTk5NywwMDAwMDA3MTAwMDAwMTgwMjQ0NWQxYWMwMDAwMDE3MjA2ZWMzOTEw",
+  "snapshot_id": "MTY1MTA2Nzk4MSwwMDAwMDA3MjAwMDAwMTgwNmI1MjBkZjcwMDAwMDE3MjA2ZWMzOTEw",
   "tracks": [
     {
       "added_at": "2022-04-13 18:53:17",
@@ -343,6 +343,26 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2022-04-27 13:59:41",
+      "album": {
+        "name": "Blue (feat. Sharon Van Etten)",
+        "url": "https://open.spotify.com/album/48Om1ZZbTmxjTV05VY6WQt"
+      },
+      "artists": [
+        {
+          "name": "BATTS",
+          "url": "https://open.spotify.com/artist/1PIsw4oKKnFzyefiLWI7Rg"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 264575,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2n1tP63rtEfyFDORk44Awt"
     },
     {
       "added_at": "2022-04-13 18:53:17",

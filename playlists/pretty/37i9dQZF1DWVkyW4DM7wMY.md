@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,991 likes - 71 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,995 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 63 | [Tell Your Mother](https://open.spotify.com/track/71Ny6FDDEV4LG7WQ7lXYea) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Television](https://open.spotify.com/artist/1GSGf6ony1hg3S7saFkj8z) | [Tell Your Mother](https://open.spotify.com/album/2LW261abaIYKW2lse29gu6) | 3:27 |
 | 64 | [Good Time](https://open.spotify.com/track/2KPLkdqRCFGEUTjrgsZZ9T) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Good Time](https://open.spotify.com/album/7KnMVXkbi86J86daq153mC) | 3:00 |
 | 65 | [Changed the Game \- Radio Edit](https://open.spotify.com/track/56Lv8Cn8pqBH0Rt8VkwtcR) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Changed the Game](https://open.spotify.com/album/0ElhbiaJqf836NlDDU1FcG) | 2:12 |
-| 66 | [Weche \- Radio Edit](https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche](https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29) | 3:37 |
-| 67 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 |
-| 68 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 |
-| 69 | [Tingisha Kidole](https://open.spotify.com/track/0dUO3M0hV0kodob3asRrDp) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 1:52 |
-| 70 | [SAME ENERGY](https://open.spotify.com/track/1gQlBMBfyxsGYZlSQ7bkm3) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAME ENERGY](https://open.spotify.com/album/4GINHOzNbZoL05U6RRWO4B) | 2:01 |
-| 71 | [Sana](https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7) | [Sana](https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR) | 2:43 |
+| 66 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 |
+| 67 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 |
+| 68 | [Tingisha Kidole](https://open.spotify.com/track/0dUO3M0hV0kodob3asRrDp) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 1:52 |
+| 69 | [SAME ENERGY](https://open.spotify.com/track/1gQlBMBfyxsGYZlSQ7bkm3) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAME ENERGY](https://open.spotify.com/album/4GINHOzNbZoL05U6RRWO4B) | 2:01 |
+| 70 | [Sana](https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7) | [Sana](https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR) | 2:43 |
 
-Snapshot ID: `MTY1MDg2NTU3NCwwMDAwMDA1NDAwMDAwMTgwNWY0MTkxY2IwMDAwMDE4MDRjOWIyNWNm`
+Snapshot ID: `MTY1MTA1NDQyMSwwMDAwMDA1NTAwMDAwMTgwNmE4MzI2ZGMwMDAwMDE4MDRjOWIyNWNm`

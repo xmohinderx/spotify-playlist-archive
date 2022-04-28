@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,801 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,931 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Be With You](https://open.spotify.com/track/5fFVy5lNikE6Gls8qKLS5L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 3:51 |
 | 50 | [Fair To You](https://open.spotify.com/track/4asiXFMoANXo6RWb8elStT) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 3:19 |
 
-Snapshot ID: `Mjc1MTYzNDksMDAwMDAwMDAzMjY1YzMxOTk3ZTM4OWRmMmMwZGIxMjhmMDNlY2I1Ng==`
+Snapshot ID: `Mjc1MTc3MTUsMDAwMDAwMDA4MmUxOGU2ZjgwZGRmZGM1NzQ2MjZjOTNjZDAzODUyMg==`

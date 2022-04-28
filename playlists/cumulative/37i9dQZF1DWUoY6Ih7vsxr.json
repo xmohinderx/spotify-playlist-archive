@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 192346,
       "name": "Chu~\u2661",
       "url": "https://open.spotify.com/track/0ZCNyRJGbgcXcnWPKwdVyw"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 217053,
       "name": "Girls On Top",
       "url": "https://open.spotify.com/track/6L9W5EVhs8PnF7zkoyEPxY"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 218573,
       "name": "GO AWAY",
       "url": "https://open.spotify.com/track/6IjQHV7zZVHegBkVAhfB8u"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 208730,
       "name": "I Am The Best",
       "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 209360,
       "name": "Mazeltov",
       "url": "https://open.spotify.com/track/1J7MT5Z2dYXhlI1dTsydg0"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 193026,
       "name": "My Name",
       "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 213306,
       "name": "Phone Number",
       "url": "https://open.spotify.com/track/0I6Ku311dBJ3RElClEwufw"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 167906,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/3ZSTMY1gFXXrbZ7Ddbq0b3"
@@ -1759,7 +1759,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 211900,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc"
@@ -1831,7 +1831,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 282066,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 225594,
       "name": "Shock",
       "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 192757,
       "name": "Shut up!!",
       "url": "https://open.spotify.com/track/2ZUrBRLYyMo5SJHA8z8lEg"
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 201273,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
@@ -2065,7 +2065,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 200556,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 208160,
       "name": "The Way U Are",
       "url": "https://open.spotify.com/track/2zFaPaROQ6Md5950lSalpd"
@@ -2206,6 +2206,24 @@
     },
     {
       "album": {
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/35M71S29eZpJgGh2G7uzw4"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Try to Follow Me (\ub0a0 \ub530\ub77c \ud574\ubd10\uc694)",
+      "url": "https://open.spotify.com/track/0hVQjw4LjVkMLDPDn4myeq"
+    },
+    {
+      "album": {
         "name": "SS501 \uc2a4\ud398\uc15c \uc568\ubc94",
         "url": "https://open.spotify.com/album/3XoemveVVhEFXWbWgyzKem"
       },
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 248920,
       "name": "UGLY",
       "url": "https://open.spotify.com/track/2OxINyqTtAuKmLE6Ki219o"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 210705,
       "name": "\ub0a8\uc790 \uc5c6\uc774 \uc798 \uc0b4\uc544",
       "url": "https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX"

@@ -1,12 +1,12 @@
 {
   "description": "Breakfast Club 2022, ft Ethel Cain ",
-  "num_followers": 917843,
+  "num_followers": 917850,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDY0Mjc3MiwwMDAwMDM2ZDAwMDAwMTgwNTFmOWUyZmQwMDAwMDE4MDUxZjYwMzQ2",
+  "snapshot_id": "MTY1MTA2Mzc0NiwwMDAwMDM2ZTAwMDAwMTgwNmIxMTZlMGEwMDAwMDE4MDUxZjYwMzQ2",
   "tracks": [
     {
       "added_at": "2022-04-21 04:00:00",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ"
     },
     {
-      "added_at": "2022-04-22 15:52:52",
-      "album": {
-        "name": "Cry Baby",
-        "url": "https://open.spotify.com/album/6fjgfwIVFrvn4P7KlgOeyG"
-      },
-      "artists": [
-        {
-          "name": "Kristiane",
-          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
-        }
-      ],
-      "duration_ms": 145063,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/6EhLEIwLKrqjf6VTx9eGOd"
-    },
-    {
       "added_at": "2022-04-08 18:31:32",
       "album": {
         "name": "Menagerie",
@@ -89,40 +73,72 @@
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
-      "added_at": "2022-04-20 04:00:00",
+      "added_at": "2022-04-15 13:01:15",
       "album": {
-        "name": "all i ever wanted (was you)",
-        "url": "https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp"
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
       "artists": [
         {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 150452,
-      "name": "all i ever wanted (was you)",
-      "url": "https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV"
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
     },
     {
-      "added_at": "2022-04-22 15:52:52",
+      "added_at": "2022-04-27 12:49:06",
       "album": {
-        "name": "UH OH! (feat. BENEE)",
-        "url": "https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN"
+        "name": "Gonna Bleach My Eyebrows",
+        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
       },
       "artists": [
         {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
         }
       ],
-      "duration_ms": 133509,
-      "name": "UH OH! (feat. BENEE)",
-      "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
+      "duration_ms": 134556,
+      "name": "Gonna Bleach My Eyebrows",
+      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
+    },
+    {
+      "added_at": "2022-03-17 22:41:08",
+      "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF"
+    },
+    {
+      "added_at": "2022-04-19 14:53:23",
+      "album": {
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 207879,
+      "name": "Like a Prayer - Live",
+      "url": "https://open.spotify.com/track/1nM9BUwYIkDbLABWUHjNZH"
     },
     {
       "added_at": "2022-04-15 13:01:15",
@@ -173,6 +189,22 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
+      "added_at": "2022-01-07 16:47:25",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
       "added_at": "2022-04-21 04:00:00",
       "album": {
         "name": "book of spells",
@@ -191,6 +223,22 @@
     {
       "added_at": "2022-04-22 15:52:52",
       "album": {
+        "name": "News At 9",
+        "url": "https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "News At 9",
+      "url": "https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7"
+    },
+    {
+      "added_at": "2022-04-22 15:52:52",
+      "album": {
         "name": "cant celebrate",
         "url": "https://open.spotify.com/album/7feZHa1JhU5fizfntgl46E"
       },
@@ -205,20 +253,24 @@
       "url": "https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V"
     },
     {
-      "added_at": "2022-04-15 13:01:15",
+      "added_at": "2022-04-22 15:52:52",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+        "name": "UH OH! (feat. BENEE)",
+        "url": "https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 138800,
-      "name": "Yuck",
-      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+      "duration_ms": 133509,
+      "name": "UH OH! (feat. BENEE)",
+      "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
     },
     {
       "added_at": "2022-04-15 13:01:15",
@@ -237,24 +289,36 @@
       "url": "https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu"
     },
     {
-      "added_at": "2022-03-17 22:41:08",
+      "added_at": "2022-04-22 15:52:52",
       "album": {
-        "name": "Pool",
-        "url": "https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c"
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/6fjgfwIVFrvn4P7KlgOeyG"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Kristiane",
+          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Pool",
-      "url": "https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF"
+      "duration_ms": 145063,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/6EhLEIwLKrqjf6VTx9eGOd"
+    },
+    {
+      "added_at": "2022-04-20 04:00:00",
+      "album": {
+        "name": "all i ever wanted (was you)",
+        "url": "https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 150452,
+      "name": "all i ever wanted (was you)",
+      "url": "https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV"
     },
     {
       "added_at": "2022-04-08 15:31:29",
@@ -301,22 +365,6 @@
       "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
     },
     {
-      "added_at": "2022-04-22 15:52:52",
-      "album": {
-        "name": "News At 9",
-        "url": "https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "News At 9",
-      "url": "https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7"
-    },
-    {
       "added_at": "2022-04-20 04:00:00",
       "album": {
         "name": "things will change",
@@ -331,22 +379,6 @@
       "duration_ms": 164752,
       "name": "things will change",
       "url": "https://open.spotify.com/track/76JkFmxzb61XCondrJZRzL"
-    },
-    {
-      "added_at": "2022-04-19 14:53:23",
-      "album": {
-        "name": "ATTENTION: MILEY LIVE",
-        "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 207879,
-      "name": "Like a Prayer - Live",
-      "url": "https://open.spotify.com/track/1nM9BUwYIkDbLABWUHjNZH"
     },
     {
       "added_at": "2022-04-15 13:01:15",
@@ -511,6 +543,22 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
+      "added_at": "2022-04-15 13:01:15",
+      "album": {
+        "name": "Non-Satisfaction",
+        "url": "https://open.spotify.com/album/5FMycpbu55cMAWprBG4qm6"
+      },
+      "artists": [
+        {
+          "name": "Ruru",
+          "url": "https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "Non-Satisfaction",
+      "url": "https://open.spotify.com/track/2JBKto9PeVMKcgnYuMVRX6"
     },
     {
       "added_at": "2022-04-15 13:01:15",
@@ -717,22 +765,6 @@
       "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
     },
     {
-      "added_at": "2022-04-15 13:01:15",
-      "album": {
-        "name": "Non-Satisfaction",
-        "url": "https://open.spotify.com/album/5FMycpbu55cMAWprBG4qm6"
-      },
-      "artists": [
-        {
-          "name": "Ruru",
-          "url": "https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "Non-Satisfaction",
-      "url": "https://open.spotify.com/track/2JBKto9PeVMKcgnYuMVRX6"
-    },
-    {
       "added_at": "2022-04-08 14:57:39",
       "album": {
         "name": "Guilty Pleasure",
@@ -877,22 +909,6 @@
       "url": "https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI"
     },
     {
-      "added_at": "2022-04-01 14:42:47",
-      "album": {
-        "name": "Will We Ever Get This Right",
-        "url": "https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161157,
-      "name": "Will We Ever Get This Right",
-      "url": "https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1"
-    },
-    {
       "added_at": "2021-12-01 14:26:10",
       "album": {
         "name": "soap water",
@@ -973,22 +989,6 @@
       "url": "https://open.spotify.com/track/7h5FrUYL5RE27ebrLfGU4b"
     },
     {
-      "added_at": "2022-01-07 16:47:25",
-      "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
       "added_at": "2022-01-21 16:55:22",
       "album": {
         "name": "Baby Tonight",
@@ -1035,22 +1035,6 @@
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
-      "added_at": "2022-04-01 14:49:06",
-      "album": {
-        "name": "uninspired",
-        "url": "https://open.spotify.com/album/7DpcUxOvaiLBErRpfD14iZ"
-      },
-      "artists": [
-        {
-          "name": "dery",
-          "url": "https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "uninspired",
-      "url": "https://open.spotify.com/track/6hPxfqdk3ObCVhePxEYYhF"
     },
     {
       "added_at": "2022-04-08 04:10:00",
@@ -1187,22 +1171,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Playin' Me Back",
-        "url": "https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 109662,
-      "name": "Playin' Me Back",
-      "url": "https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "u dont kno me",
         "url": "https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp"
       },
@@ -1263,22 +1231,6 @@
       "duration_ms": 144360,
       "name": "It's Random",
       "url": "https://open.spotify.com/track/3gaerxLTSaKc8miymFRkVA"
-    },
-    {
-      "added_at": "2022-02-11 00:18:07",
-      "album": {
-        "name": "A\u00e7a\u00ed Bowl",
-        "url": "https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "A\u00e7a\u00ed Bowl",
-      "url": "https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk"
     },
     {
       "added_at": "2022-03-04 15:07:05",

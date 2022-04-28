@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 166153,
       "name": "13. komnata",
       "url": "https://open.spotify.com/track/302zIkWq3gT9BEorlYcgXU"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -6419,7 +6419,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 124363,
       "name": "Nedojdu s\u00e1m",
       "url": "https://open.spotify.com/track/0j4ljH3V0o88m2eT4Rupva"
@@ -6898,6 +6898,28 @@
     },
     {
       "album": {
+        "name": "Nouzovej Stav (feat. White Russian)",
+        "url": "https://open.spotify.com/album/74oGY9ygtVAvAiBk5OZLqp"
+      },
+      "artists": [
+        {
+          "name": "Smack",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        },
+        {
+          "name": "White Russian",
+          "url": "https://open.spotify.com/artist/2YtAW3MRFFdRpHOyJjd3bT"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Nouzovej Stav (feat. White Russian)",
+      "url": "https://open.spotify.com/track/36xHBT51exIiyRBeva2FhI"
+    },
+    {
+      "album": {
         "name": "Oce\u00e1n",
         "url": "https://open.spotify.com/album/62WGJ2ykL9G6vNBiMbCLdB"
       },
@@ -7331,7 +7353,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-28",
       "duration_ms": 231272,
       "name": "Podvod (P\u00edse\u0148 k filmu Shoky & Morthy: Posledn\u00ed velk\u00e1 akce)",
       "url": "https://open.spotify.com/track/2Mn1UQics0dmGCMtpFeyJ8"
@@ -9259,7 +9281,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"

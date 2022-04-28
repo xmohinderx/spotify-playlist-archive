@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring PinkPantheress & WILLOW
 
-217 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+218 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [extract](https://open.spotify.com/track/6hYPT4KWXUwBglCEvuIw8b) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [extract](https://open.spotify.com/album/0flOoWMpCL2IqZDGfukUIP) | 3:23 | 2021-12-03 |  |
 | [Feelz](https://open.spotify.com/track/0VdAEOYJArco0x51z6CKXD) | [Bartholomew Kind](https://open.spotify.com/artist/7da7ejb5ArwzmbnYQEsYF9) | [Breaks 'N' Pieces, Vol\. 7](https://open.spotify.com/album/40dKnnp0vh8dZWwbBLRusW) | 4:48 | 2021-07-23 | 2022-04-16 |
 | [Figure Skating](https://open.spotify.com/track/0iaReV5NHq9PM7fjWbGZI5) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Figure Skating](https://open.spotify.com/album/6cfH1gHutajmKzQPs6JldU) | 3:33 | 2022-02-23 |  |
+| [FINAL FANTASY](https://open.spotify.com/track/2219puT2YzNNVEQ784V2jt) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [FINAL FANTASY](https://open.spotify.com/album/4WT8C9oQL30AL93yM5apdx) | 2:29 | 2022-04-27 |  |
 | [Fine Night](https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [gnb](https://open.spotify.com/album/5KWDHBSc9h4QkMTG2XS0Lz) | 5:16 | 2022-02-09 |  |
 | [First Blue Sky](https://open.spotify.com/track/6uCQ5RscJkTgS5sC9Dba7L) | [Placid Angles](https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX) | [First Blue Sky](https://open.spotify.com/album/6bSCOFhuRmg0idv0QM5J1k) | 5:09 | 2021-10-05 |  |
 | [fishlizard](https://open.spotify.com/track/4q0N84Svkt0GVjyDjf9XSh) | [Aiden Marceron](https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf) | [444aCordial\_\_mixtap3](https://open.spotify.com/album/1c71wBxbCW6BAdEJbRswb0) | 6:58 | 2021-11-10 | 2022-01-22 |

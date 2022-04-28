@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Kate Bollinger
 
-3,494 songs - 8 day 13 hr 46 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+3,495 songs - 8 day 13 hr 49 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [eye 2 eye](https://open.spotify.com/track/6wlouslDoDFy2NH8HaPwQf) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [eye 2 eye](https://open.spotify.com/album/26suVOYpQ5SYiqo7CHyE46) | 3:05 | 2021-02-19 | 2021-04-10 |
 | [Eye 2 Eye](https://open.spotify.com/track/4qu0t0ALzfAHmzuFliman4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are The Light](https://open.spotify.com/album/3J3wekJNr78DPFd865z9PP) | 4:21 | 2019-09-27 | 2019-10-18 |
 | [Eyes of a child](https://open.spotify.com/track/3ReqqO2NE1UVLoCvHX5Qqt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Eyes of a child](https://open.spotify.com/album/29glYr8nEQaKugRTY9lU8D) | 4:40 | 2020-07-03 | 2020-07-31 |
+| [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-04-22 |  |
 | [Face Again](https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Hats Off](https://open.spotify.com/album/5xsUExmsWh1AB0eSCDkiqz) | 2:14 | 2021-04-17 | 2021-05-29 |
 | [Face to Face](https://open.spotify.com/track/0RQPktmooLA3TJqQVyR29m) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Face to Face](https://open.spotify.com/album/3vwhtBspoJYUhNjQs47ztR) | 3:39 | 2019-10-25 | 2019-12-13 |
 | [Fade In Nylon](https://open.spotify.com/track/0RLBcNgobKw1xz2FjQsBDB) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Fade in Nylon](https://open.spotify.com/album/7it4nT9EVE24pMAI6QZ0or) | 6:55 | 2019-05-26\* | 2019-06-28 |
@@ -1967,7 +1968,7 @@
 | [Milksop](https://open.spotify.com/track/4QF45ljMjQY1r05IJFMY1k) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Milksop / Darling](https://open.spotify.com/album/75qzX7cNsdU6k6HUAlsgNe) | 2:01 | 2019-06-14 | 2019-08-13 |
 | [Million Dollar Bed](https://open.spotify.com/track/5eD6hEsUNUZuiLIIQPR7Im) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Losers Weepers](https://open.spotify.com/album/4cPcczzPqetNpbCCDT1zkb) | 3:23 | 2021-04-17 | 2021-05-29 |
 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2021-10-09 | 2021-11-20 |
-| [Million Little Problems](https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Million Little Problems](https://open.spotify.com/album/3YDmWON2aVb6IayCjQwkj5) | 2:27 | 2022-04-15 |  |
+| [Million Little Problems](https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Million Little Problems](https://open.spotify.com/album/3YDmWON2aVb6IayCjQwkj5) | 2:26 | 2022-04-15 |  |
 | [Mimi \(feat\. Ilsey\)](https://open.spotify.com/track/1AmWlpibLJf9SlqJoPim7m) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Mimi \(feat\. Ilsey\)](https://open.spotify.com/album/0wyj5yTVTLdhcsUd1aVncK) | 2:59 | 2021-08-07 | 2021-09-25 |
 | [Mind of Its Own](https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Mind of Its Own](https://open.spotify.com/album/0uXrDuj03d9mhUefCxEG3D) | 3:21 | 2021-12-03 | 2022-01-15 |
 | [Mindless](https://open.spotify.com/track/63JuomZqCbDTgZ4lect9T2) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Under The Weather](https://open.spotify.com/album/5qwVn38pLMvOFSki8dbRrp) | 2:49 | 2021-09-11 | 2021-11-06 |
