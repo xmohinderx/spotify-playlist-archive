@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=8_2ohtNiR5i0U4oDloSrPA\">Dr Feel</a>",
-  "num_followers": 49001,
+  "num_followers": 49025,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwOTIxOSwwMDAwMDMzYzAwMDAwMTgwNGZmOWU5MTAwMDAwMDE4MDA1ZDY3MzBm",
+  "snapshot_id": "MTY1MTE4MzE0MCwwMDAwMDMzZDAwMDAwMTgwNzIyZjNkMTAwMDAwMDE4MDA1ZDY3MzBm",
   "tracks": [
     {
       "added_at": "2022-03-31 21:59:00",
@@ -47,6 +47,26 @@
       "duration_ms": 459661,
       "name": "HAYII",
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
+    },
+    {
+      "added_at": "2022-04-28 21:59:00",
+      "album": {
+        "name": "Higher (Radio Edit)",
+        "url": "https://open.spotify.com/album/3wbfY7XCRlx1zifWuyK4WN"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "Higher - Radio Edit",
+      "url": "https://open.spotify.com/track/45U4nzhStLW11h5KTJG4p8"
     },
     {
       "added_at": "2022-03-03 21:59:00",
@@ -93,26 +113,6 @@
       "url": "https://open.spotify.com/track/2qDbBzYZoDRL0UKK5gks9P"
     },
     {
-      "added_at": "2022-04-07 21:59:00",
-      "album": {
-        "name": "Silence & Secrets (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 474093,
-      "name": "Silence & Secrets - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
-    },
-    {
       "added_at": "2021-09-17 05:32:34",
       "album": {
         "name": "Higher",
@@ -131,6 +131,26 @@
       "duration_ms": 493520,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0rmFBhKvt0KZI10t2coIYK"
+    },
+    {
+      "added_at": "2022-04-07 21:59:00",
+      "album": {
+        "name": "Silence & Secrets (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 474093,
+      "name": "Silence & Secrets - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
       "added_at": "2022-03-31 21:59:00",
@@ -157,20 +177,44 @@
       "url": "https://open.spotify.com/track/2FQMAFFoynYKyh6N2eSDf8"
     },
     {
-      "added_at": "2022-04-14 21:59:00",
+      "added_at": "2021-10-21 21:59:00",
       "album": {
-        "name": "Drums & People",
-        "url": "https://open.spotify.com/album/4K2QNl04Omb0ekDdCwEcRN"
+        "name": "iMali",
+        "url": "https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN"
       },
       "artists": [
         {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
         }
       ],
-      "duration_ms": 376276,
-      "name": "Drums & People",
-      "url": "https://open.spotify.com/track/5zO5qIjY4HLMcw8Q0TdujA"
+      "duration_ms": 436000,
+      "name": "iMali (Ft. Nana Atta)",
+      "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
+    },
+    {
+      "added_at": "2022-04-28 21:59:00",
+      "album": {
+        "name": "Stay True Sounds Vol.4 Compiled By Kid Fonque",
+        "url": "https://open.spotify.com/album/5K19EXUx0mNTfKPc7Zo5AK"
+      },
+      "artists": [
+        {
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+        }
+      ],
+      "duration_ms": 466335,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/2yIXVCaIrvVL6TSamoMdVR"
     },
     {
       "added_at": "2022-02-25 05:39:56",
@@ -221,28 +265,20 @@
       "url": "https://open.spotify.com/track/44cXNeeTCwuco12b9r2K7n"
     },
     {
-      "added_at": "2021-10-21 21:59:00",
+      "added_at": "2022-04-14 21:59:00",
       "album": {
-        "name": "iMali",
-        "url": "https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN"
+        "name": "Drums & People",
+        "url": "https://open.spotify.com/album/4K2QNl04Omb0ekDdCwEcRN"
       },
       "artists": [
         {
-          "name": "Karyendasoul",
-          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Nana Atta",
-          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
         }
       ],
-      "duration_ms": 436000,
-      "name": "iMali (Ft. Nana Atta)",
-      "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
+      "duration_ms": 376276,
+      "name": "Drums & People",
+      "url": "https://open.spotify.com/track/5zO5qIjY4HLMcw8Q0TdujA"
     },
     {
       "added_at": "2022-03-10 21:59:00",
@@ -329,20 +365,28 @@
       "url": "https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll"
     },
     {
-      "added_at": "2022-04-14 21:59:00",
+      "added_at": "2021-12-23 21:59:00",
       "album": {
-        "name": "Nothing Without You",
-        "url": "https://open.spotify.com/album/5vuiGbAWn4b9myWefylGWO"
+        "name": "Respect The Drumboss 2021, Pt. 1 (10 Years Of Heavy-K Edition)",
+        "url": "https://open.spotify.com/album/5CSL70ug8HGlHcYGbD79eA"
       },
       "artists": [
         {
-          "name": "Jayms",
-          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+          "name": "Heavy-K",
+          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
+        },
+        {
+          "name": "Drumetic Boyz",
+          "url": "https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB"
+        },
+        {
+          "name": "MalumNator",
+          "url": "https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK"
         }
       ],
-      "duration_ms": 259560,
-      "name": "Nothing Without You",
-      "url": "https://open.spotify.com/track/4C4b5vALkCzujxyobJJ5Kc"
+      "duration_ms": 426818,
+      "name": "As'buyeli",
+      "url": "https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq"
     },
     {
       "added_at": "2022-03-17 21:59:00",
@@ -381,28 +425,20 @@
       "url": "https://open.spotify.com/track/21pzxi96LqTjFKThHJBHN9"
     },
     {
-      "added_at": "2021-12-23 21:59:00",
+      "added_at": "2022-04-14 21:59:00",
       "album": {
-        "name": "Respect The Drumboss 2021, Pt. 1 (10 Years Of Heavy-K Edition)",
-        "url": "https://open.spotify.com/album/5CSL70ug8HGlHcYGbD79eA"
+        "name": "Nothing Without You",
+        "url": "https://open.spotify.com/album/5vuiGbAWn4b9myWefylGWO"
       },
       "artists": [
         {
-          "name": "Heavy-K",
-          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
-        },
-        {
-          "name": "Drumetic Boyz",
-          "url": "https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB"
-        },
-        {
-          "name": "MalumNator",
-          "url": "https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK"
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
         }
       ],
-      "duration_ms": 426818,
-      "name": "As'buyeli",
-      "url": "https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq"
+      "duration_ms": 259560,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/4C4b5vALkCzujxyobJJ5Kc"
     },
     {
       "added_at": "2022-03-24 21:59:00",
@@ -531,6 +567,26 @@
       "duration_ms": 474097,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/3HZAdW9aXGd2mrzzQgg6Be"
+    },
+    {
+      "added_at": "2022-04-28 21:59:00",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/2hSswpPNydCpSHpwR4xMJI"
+      },
+      "artists": [
+        {
+          "name": "Mark Stent",
+          "url": "https://open.spotify.com/artist/2whiBQzZUS6fMkfOCqzXWS"
+        },
+        {
+          "name": "DSB",
+          "url": "https://open.spotify.com/artist/4zMYJFMNR4K69sAMJiVBQK"
+        }
+      ],
+      "duration_ms": 187374,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/5Bf6NG1Rt5bRKBYDEsFiSW"
     },
     {
       "added_at": "2022-04-07 21:59:00",
@@ -761,6 +817,22 @@
       "url": "https://open.spotify.com/track/42JdN5sBkvSd2xAWEecbRB"
     },
     {
+      "added_at": "2022-04-28 21:59:00",
+      "album": {
+        "name": "Are You Down",
+        "url": "https://open.spotify.com/album/2Z5F672Ot12FttD9cA2QVO"
+      },
+      "artists": [
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "duration_ms": 300288,
+      "name": "Are You Down",
+      "url": "https://open.spotify.com/track/3w7BZ8Pj1IdoQYPzL8JcdF"
+    },
+    {
       "added_at": "2022-04-22 06:33:39",
       "album": {
         "name": "Woko (Main HT)",
@@ -961,6 +1033,22 @@
       "url": "https://open.spotify.com/track/1eqYfGzJ4r0lCsgIHi7mP1"
     },
     {
+      "added_at": "2022-04-28 21:59:00",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/6C40tiozNL8KAoG7xDc4au"
+      },
+      "artists": [
+        {
+          "name": "Oliver Michael",
+          "url": "https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z"
+        }
+      ],
+      "duration_ms": 231672,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/0I1suEDcKu73meeDsckAhz"
+    },
+    {
       "added_at": "2022-03-17 21:59:00",
       "album": {
         "name": "Kuana (Original Mix)",
@@ -1015,30 +1103,6 @@
       "duration_ms": 483375,
       "name": "Salam Kom Salam",
       "url": "https://open.spotify.com/track/7BXttR3HKJFpRXxzU35tzF"
-    },
-    {
-      "added_at": "2022-04-22 06:33:39",
-      "album": {
-        "name": "Winyo Nungo",
-        "url": "https://open.spotify.com/album/53y3fTWp5plW1BIk3Wh3qA"
-      },
-      "artists": [
-        {
-          "name": "Coco Em",
-          "url": "https://open.spotify.com/artist/3FahF8OhHNaw7OJRfEPy9x"
-        },
-        {
-          "name": "MC Sharon",
-          "url": "https://open.spotify.com/artist/1v0VhEUG0iYPL5tPSnevwU"
-        },
-        {
-          "name": "Wuod Baba",
-          "url": "https://open.spotify.com/artist/4rAirvviydqi31uAzrPz96"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Winyo Nungo",
-      "url": "https://open.spotify.com/track/0EUOQmN7T9RdEBSAycGKPf"
     },
     {
       "added_at": "2022-02-25 05:39:56",
@@ -1105,24 +1169,20 @@
       "url": "https://open.spotify.com/track/6AWG94PiLOenHLjrBcctqE"
     },
     {
-      "added_at": "2022-04-22 06:33:39",
+      "added_at": "2022-04-28 21:59:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4hB8AtFy63sIqRGgl206qk"
+        "name": "Aero",
+        "url": "https://open.spotify.com/album/56GMjzA7Cn9HhNPcDoKywa"
       },
       "artists": [
         {
-          "name": "Casis",
-          "url": "https://open.spotify.com/artist/4jQIsGDULZsAonE9ZTQgj1"
-        },
-        {
-          "name": "Courtney Jade",
-          "url": "https://open.spotify.com/artist/16jlPDke7rbiAt4L0ewBg5"
+          "name": "Ivory Child",
+          "url": "https://open.spotify.com/artist/4jsTcZXYvEJt2Gshh6cIPk"
         }
       ],
-      "duration_ms": 279334,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4ap850TGe0elGsFLwhZ5M7"
+      "duration_ms": 584873,
+      "name": "Iku",
+      "url": "https://open.spotify.com/track/6qyJkaY8dLDbEgZUBpxoTC"
     },
     {
       "added_at": "2022-03-17 21:59:00",
@@ -1175,6 +1235,34 @@
       "duration_ms": 263878,
       "name": "Khoisan",
       "url": "https://open.spotify.com/track/4GxlpHNFEyzzdNJre3r2Tw"
+    },
+    {
+      "added_at": "2022-04-28 21:59:00",
+      "album": {
+        "name": "Afrika One (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/5oTCqah9lf8XOiqz6yKaz7"
+      },
+      "artists": [
+        {
+          "name": "Djamou Sangare",
+          "url": "https://open.spotify.com/artist/7MIDaIHvsSEayCv0pw3okp"
+        },
+        {
+          "name": "ARKADYAN",
+          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
+        },
+        {
+          "name": "Ayah Tlhanyane",
+          "url": "https://open.spotify.com/artist/40TwzjnJ2uDbe2UpyfFHr8"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        }
+      ],
+      "duration_ms": 297679,
+      "name": "Afrika One - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/4WlvxiHooWkcvjLLgCIhaW"
     },
     {
       "added_at": "2022-04-22 06:33:39",
@@ -1257,28 +1345,24 @@
       "url": "https://open.spotify.com/track/2EhYSRxz7U6TWrnnmO3aKt"
     },
     {
-      "added_at": "2022-03-31 21:59:00",
+      "added_at": "2022-04-28 21:59:00",
       "album": {
-        "name": "Imbongi (feat. Lizwi)",
-        "url": "https://open.spotify.com/album/1BZe7BNEo6WhTPMHrqXOng"
+        "name": "Msiba",
+        "url": "https://open.spotify.com/album/65c8ruzo77X0t6bPNKWO0q"
       },
       "artists": [
         {
-          "name": "Jalal Ramdani",
-          "url": "https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu"
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
         },
         {
-          "name": "Mr. Silk",
-          "url": "https://open.spotify.com/artist/0GyXGNOrDuxYQgwTOYyaO7"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
         }
       ],
-      "duration_ms": 246228,
-      "name": "Imbongi (feat. Lizwi)",
-      "url": "https://open.spotify.com/track/3m7RFi0UbKLzQFUR9R6G70"
+      "duration_ms": 386740,
+      "name": "Msiba - Original Mix",
+      "url": "https://open.spotify.com/track/0tZaZ6JG14H2sHE2xRsA0w"
     },
     {
       "added_at": "2022-03-24 21:59:00",
@@ -1321,6 +1405,22 @@
       "url": "https://open.spotify.com/track/3CxEFsiqDPFqGyVjGogrKB"
     },
     {
+      "added_at": "2022-04-28 21:59:00",
+      "album": {
+        "name": "Star of Sigui",
+        "url": "https://open.spotify.com/album/1R55QJbovXScLoBWJikRt8"
+      },
+      "artists": [
+        {
+          "name": "Shredder SA",
+          "url": "https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h"
+        }
+      ],
+      "duration_ms": 388729,
+      "name": "Star of Sigui",
+      "url": "https://open.spotify.com/track/1lrjMDPkSwZzfvb4pDD0Uy"
+    },
+    {
       "added_at": "2022-02-03 21:59:00",
       "album": {
         "name": "Before the Sun Sets (Saudade Selections III Still Deep)",
@@ -1359,22 +1459,6 @@
       "duration_ms": 250000,
       "name": "Sibonga Wena",
       "url": "https://open.spotify.com/track/2NuifcdFl6UsNvJOYC3g5z"
-    },
-    {
-      "added_at": "2022-04-14 21:59:00",
-      "album": {
-        "name": "The Lost",
-        "url": "https://open.spotify.com/album/5CldtmXGSx2IL7SbnTd6t7"
-      },
-      "artists": [
-        {
-          "name": "Dj G\u00e1lio",
-          "url": "https://open.spotify.com/artist/5kEAI09rkVpxUw2epuXRwP"
-        }
-      ],
-      "duration_ms": 396000,
-      "name": "The Lost",
-      "url": "https://open.spotify.com/track/60en5Ym2Inye2OffymB4lC"
     },
     {
       "added_at": "2022-02-10 21:59:00",

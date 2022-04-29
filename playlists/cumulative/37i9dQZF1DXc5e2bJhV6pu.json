@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/6YrSTKyL1ClQPS3YSXV2Lj"
       },
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2020-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2020-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 144530,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG"
@@ -2693,7 +2711,7 @@
       ],
       "date_added": "2019-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 214634,
       "name": "Body Back (feat. Maia Wright)",
       "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
@@ -7273,7 +7291,7 @@
       ],
       "date_added": "2021-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 177800,
       "name": "Floating Through Space",
       "url": "https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1"
@@ -10379,7 +10397,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 151733,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1b1Wb55rTakaXDtWzn9QwX"
@@ -11303,7 +11321,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 186245,
       "name": "Inside Out (feat. Griff)",
       "url": "https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7"
@@ -13281,7 +13299,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 164773,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4alGi6HkNlpuRdlbtLnoIJ"
@@ -15983,7 +16001,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
@@ -16001,7 +16019,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 183021,
       "name": "No",
       "url": "https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr"
@@ -17775,7 +17793,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 174100,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4"
@@ -19113,7 +19131,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
@@ -19869,7 +19887,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 172398,
       "name": "Share That Love (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl"
@@ -20473,7 +20491,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
@@ -25491,7 +25509,7 @@
       ],
       "date_added": "2020-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 180644,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
@@ -26437,7 +26455,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 171128,
       "name": "You",
       "url": "https://open.spotify.com/track/4XUbIli3chdqVXfY9ljUFv"

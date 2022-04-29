@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-445 songs - 1 day 1 hr 24 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+446 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Di Di Di](https://open.spotify.com/track/0VBB2FOTgZbrEd43TPZhUX) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT) | [Di Di Di](https://open.spotify.com/album/1uWAOI3jzkGJ03Zz44FEaU) | 3:13 | 2021-12-04 | 2022-01-15 |
 | [Di Di Di](https://open.spotify.com/track/5dSfYfYapxnk1Ty4kl8tQ7) | [CompincheMusic](https://open.spotify.com/artist/0RBhGAyiD9uBdeojdXYYyw) | [Di Di Di](https://open.spotify.com/album/5jH1xp8evrXpFn2lB6CvMr) | 2:27 | 2021-10-16 | 2021-10-30 |
 | [Di Di Di](https://open.spotify.com/track/2e4ThObQdD4nbUIl455l0Z) | [CompincheMusic](https://open.spotify.com/artist/0RBhGAyiD9uBdeojdXYYyw), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT) | [Di Di Di](https://open.spotify.com/album/0ZFgH4Kj4jsac5Fwces8OC) | 3:13 | 2021-10-31 | 2021-11-25 |
-| [Diabla](https://open.spotify.com/track/2TNi9CCankkFmwLpUiutUx) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [Diabla](https://open.spotify.com/album/6hsBjQdWUw2HqFTJYh1D2A) | 2:24 | 2022-04-25 |  |
+| [Diabla](https://open.spotify.com/track/2TNi9CCankkFmwLpUiutUx) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [Diabla](https://open.spotify.com/album/6hsBjQdWUw2HqFTJYh1D2A) | 2:24 | 2022-04-25 | 2022-04-29 |
 | [Diablona](https://open.spotify.com/track/0WoS8Xeb60rK22NuShJv97) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Onguito](https://open.spotify.com/artist/5CEmVm4SbLawlq7evC42i0) | [Diablona](https://open.spotify.com/album/5WOuqQYFO6mp1rqIVCOENu) | 3:33 | 2021-05-27 | 2021-06-18 |
 | [Dictadura](https://open.spotify.com/track/16RRpUyUDjkIept8AymRiL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:27 | 2021-11-28 | 2021-12-05 |
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-10-31 | 2021-11-28 |
@@ -433,6 +433,7 @@
 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 | 2022-03-02 | 2022-03-07 |
 | [UNO QUITAO Y OTRO PUESTO](https://open.spotify.com/track/51GN2McXgVYpNJPlePLP1g) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 | 2022-03-26 | 2022-03-30 |
 | [Uva Bombom](https://open.spotify.com/track/0ynhqjP6gIxoaGTWibGhjc) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Uva Bombom](https://open.spotify.com/album/14RrPlp86MzzPPAdvHdbOw) | 2:16 | 2021-08-26 | 2022-03-23 |
+| [Vaina Cara](https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Vaina Cara](https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv) | 3:12 | 2022-04-28 |  |
 | [Vete](https://open.spotify.com/track/2n7ohqg1s68ToAHh4u9mcW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:12 | 2022-03-02 | 2022-03-06 |
 | [Viejo Año](https://open.spotify.com/track/3pvVeJFCJO5N8gPhHjF268) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Con El Permiso De Tus Sentimientos](https://open.spotify.com/album/0cY8xx8CC8b8E8U7kyiWdA) | 4:23 | 2021-12-25 | 2022-01-04 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2022-03-23 | 2022-03-25 |

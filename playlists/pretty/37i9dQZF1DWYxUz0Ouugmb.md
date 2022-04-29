@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shanna Shannon
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,899 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,905 likes - 28 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dari Sabang Sampai Merauke](https://open.spotify.com/track/0EdpbaIFpECUTQw6LaJiiD) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Dari Sabang Sampai Merauke](https://open.spotify.com/album/122E1O9Ms8QEtGzPVK5vpY) | 3:02 |
+| 1 | [Sepasang Mata Bola](https://open.spotify.com/track/4jRX03skpItE7YzxVjaPZX) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Sepasang Mata Bola](https://open.spotify.com/album/7AKPjfIbnFsKHV6rdKb2El) | 3:44 |
 | 2 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 |
 | 3 | [W \(with yvngxchris\)](https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [W \(with yvngxchris\)](https://open.spotify.com/album/6wWt12ueB7BwQJS0OcuoHZ) | 2:31 |
 | 4 | [I Beg](https://open.spotify.com/track/48r2oRtw3RSOZHnuQFWZWb) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [I Beg](https://open.spotify.com/album/4GskNwqLX1y2uHhL73JH9j) | 2:52 |
@@ -35,5 +35,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 25 | [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 |
 | 26 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 |
 | 27 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 |
+| 28 | [Dari Sabang Sampai Merauke](https://open.spotify.com/track/0EdpbaIFpECUTQw6LaJiiD) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Dari Sabang Sampai Merauke](https://open.spotify.com/album/122E1O9Ms8QEtGzPVK5vpY) | 3:02 |
 
-Snapshot ID: `MTY1MTEwODY5OSwwMDAwMDAwMDA5MzU3MmUyYTIxM2NkZThmMDQ5YTIwMjQ5YzQzMzQ5`
+Snapshot ID: `MTY1MTE5Mzk4NywwMDAwMDAwMDkwZTI2NzY2Mzk3NWZjYjMzYmRjYjYxZTdlYWI2YzVj`

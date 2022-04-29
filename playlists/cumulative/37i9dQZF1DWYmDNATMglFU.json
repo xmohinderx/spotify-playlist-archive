@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": " \\m/ ft. KennyHoopla",
+  "description": " \\m/ ft. maggie lindemann",
   "name": "The Locker",
   "published_playlist_ids": [
     "5ubuUW1jSmEDdBzkF6foxW"
@@ -775,6 +775,24 @@
       "duration_ms": 143597,
       "name": "Crybaby (On the Phone)",
       "url": "https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag"
+    },
+    {
+      "album": {
+        "name": "DADDY ISSUES",
+        "url": "https://open.spotify.com/album/5F5rHnb4EcEaNsED77jMt0"
+      },
+      "artists": [
+        {
+          "name": "KILLBOY",
+          "url": "https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145547,
+      "name": "DADDY ISSUES",
+      "url": "https://open.spotify.com/track/2CuZa66yQSugnSois0olvc"
     },
     {
       "album": {
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 168750,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/0LUTSrKd5JmBPVv9M16CWg"
@@ -1799,6 +1817,28 @@
       "duration_ms": 192000,
       "name": "How Am I Still Alive? (with Lydia Night)",
       "url": "https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV"
+    },
+    {
+      "album": {
+        "name": "how could you do this to me feat. Kellin Quinn from Sleeping With Sirens",
+        "url": "https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "how could you do this to me feat. Kellin Quinn from Sleeping With Sirens",
+      "url": "https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE"
     },
     {
       "album": {
@@ -2341,7 +2381,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m"
@@ -2836,6 +2876,24 @@
     },
     {
       "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133483,
+      "name": "Pink Paper",
+      "url": "https://open.spotify.com/track/0fQlpBKc3AJPmoudVpmDje"
+    },
+    {
+      "album": {
         "name": "pity party (feat. Royal & The Serpent)",
         "url": "https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms"
       },
@@ -2923,7 +2981,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 185806,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv"
@@ -3089,7 +3147,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 159737,
       "name": "Sickening",
       "url": "https://open.spotify.com/track/0ydC394awPoAJCdRMgNU6U"
@@ -3275,7 +3333,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 216000,
       "name": "Still Running (5K) (feat.DJ Lethal)",
       "url": "https://open.spotify.com/track/0ZVEWpBhZ5sJKD5ZWn8ieG"

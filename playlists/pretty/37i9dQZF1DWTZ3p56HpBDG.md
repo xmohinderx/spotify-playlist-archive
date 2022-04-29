@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Home to english South Asian tracks, acclaimed worldwide \- Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,138 likes - 94 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,180 likes - 94 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

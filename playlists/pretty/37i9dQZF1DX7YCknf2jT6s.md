@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Katalyst
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,511 likes - 80 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,808 likes - 80 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

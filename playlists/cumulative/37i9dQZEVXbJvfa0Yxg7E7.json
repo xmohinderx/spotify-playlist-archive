@@ -694,6 +694,36 @@
     },
     {
       "album": {
+        "name": "Back To Reality 2021 (feat. Solguden)",
+        "url": "https://open.spotify.com/album/4qEHrDdIjvekUckCJOJrfB"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        },
+        {
+          "name": "DJ Black",
+          "url": "https://open.spotify.com/artist/6fQmO1Ho6EAGZpRBHnyp5m"
+        },
+        {
+          "name": "Jaannybravo",
+          "url": "https://open.spotify.com/artist/3FuQb8Yj6J8ZJSCTv7ZKAV"
+        },
+        {
+          "name": "Solguden",
+          "url": "https://open.spotify.com/artist/76oRj8bdYsniX36EQNLZ58"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Back To Reality 2021 (feat. Solguden)",
+      "url": "https://open.spotify.com/track/66VDSp4xuQElxDVxaapiVG"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -11835,7 +11865,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"

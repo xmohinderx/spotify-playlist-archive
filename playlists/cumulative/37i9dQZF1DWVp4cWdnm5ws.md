@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-79 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+80 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Pagsamo](https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2) | 4:57 | 2021-11-25 | 2022-03-25 |
 | [Paraluman](https://open.spotify.com/track/7IWeNrIjl2QvobVaI9Wyk4) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Lika Na](https://open.spotify.com/album/32gHhEVce6B4IM3Du9xh89) | 3:44 | 2022-03-24 |  |
 | [paruparo](https://open.spotify.com/track/0oug9t7drnkDuDpiDatvei) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [paruparo](https://open.spotify.com/album/5yMcGhC4JxjcK3K0H8FRLD) | 3:47 | 2021-11-25 | 2022-03-25 |
+| [Pit A Pat](https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pit A Pat](https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD) | 3:40 | 2022-04-28 |  |
 | [Polaroid](https://open.spotify.com/track/3QL4l8VyhcwzvTpQkqktTY) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [No$ia](https://open.spotify.com/artist/75SAo69xbkQH9d5LfLwCeZ), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Polaroid](https://open.spotify.com/album/0bIMhGqBeOGcu7R6LjsStY) | 4:17 | 2021-11-25 | 2022-03-25 |
 | [porque](https://open.spotify.com/track/0dyQp33F9CImZFoSrxaEEM) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [porque](https://open.spotify.com/album/6L93zJeOIQWTgnkJ6Xqj7R) | 4:52 | 2021-11-25 | 2022-03-25 |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2021-11-25 | 2022-03-25 |

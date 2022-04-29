@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 185933,
       "name": "All This Time Running",
       "url": "https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2019-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 216315,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
@@ -751,10 +751,28 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+    },
+    {
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
     },
     {
       "album": {
@@ -947,7 +965,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 179582,
       "name": "Dancin' Around My Grave",
       "url": "https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2020-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 235240,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2019-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 297573,
       "name": "Flesh and Blood",
       "url": "https://open.spotify.com/track/5bkHkL10WqcJKYrrXrWRBo"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 236066,
       "name": "Garden",
       "url": "https://open.spotify.com/track/772Nh0P9blzezlBWi9xzkH"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2019-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1"
@@ -2701,7 +2719,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Mighty Soul",
       "url": "https://open.spotify.com/track/2wzoFtHi2oX6FXr9EtBizB"
@@ -3353,7 +3371,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
@@ -3389,7 +3407,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 218666,
       "name": "Remember to Forget",
       "url": "https://open.spotify.com/track/1AamwwLMxzX4EGPUZGHbqL"
@@ -4265,7 +4283,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 360933,
       "name": "The Stable Song",
       "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
@@ -4785,7 +4803,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 214213,
       "name": "What If I",
       "url": "https://open.spotify.com/track/4WseJ30wu5uelTqxvAK9oy"

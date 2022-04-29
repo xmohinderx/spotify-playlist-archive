@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now \ud83d\udc38. Cover: Polo & Pan",
+  "description": "\ud83d\udc38 The best French indie tracks right now. Cover: Miki",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1964",
+        "url": "https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU"
+      },
+      "artists": [
+        {
+          "name": "Rallye",
+          "url": "https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258385,
+      "name": "1964",
+      "url": "https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo"
+    },
     {
       "album": {
         "name": "4D",
@@ -359,7 +377,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 202804,
       "name": "Disco Dream",
       "url": "https://open.spotify.com/track/1hp6svNriVSFySA6rhsI5a"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 214494,
       "name": "En Douce",
       "url": "https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 214923,
       "name": "La vie",
       "url": "https://open.spotify.com/track/7Gwg7eWok40tJuNfQEioFm"
@@ -999,6 +1017,28 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "album": {
+        "name": "Les questions",
+        "url": "https://open.spotify.com/album/61cuBA0xeIlmfmiazm6nxZ"
+      },
+      "artists": [
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+        },
+        {
+          "name": "Papa",
+          "url": "https://open.spotify.com/artist/2g6PSk8MTCxDq8yo8yVGUt"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "Les questions",
+      "url": "https://open.spotify.com/track/1GcLyTYF18YQi3fLuNYnwh"
     },
     {
       "album": {
@@ -1187,6 +1227,24 @@
       "duration_ms": 209040,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/7wKs9pd54ChcpRCn0ZvMZy"
+    },
+    {
+      "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/6ju1O90njqELb8iVbc2bOh"
+      },
+      "artists": [
+        {
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153872,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/4cd2bB36S1dcP88xNZnY3p"
     },
     {
       "album": {
@@ -1605,7 +1663,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 234268,
       "name": "Sous les jupes",
       "url": "https://open.spotify.com/track/4vAwwCBbHW4SwXBIZ2qEIh"
@@ -1681,6 +1739,24 @@
       "duration_ms": 228601,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu"
+    },
+    {
+      "album": {
+        "name": "Tandem",
+        "url": "https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199509,
+      "name": "Tandem",
+      "url": "https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE"
     },
     {
       "album": {

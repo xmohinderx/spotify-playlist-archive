@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 177666,
       "name": "3 Nights",
       "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 206073,
       "name": "6's to 9's (feat. Rationale)",
       "url": "https://open.spotify.com/track/4DAaQ5InUO23d8yNRbB0Yj"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 123556,
       "name": "Anything You Want",
       "url": "https://open.spotify.com/track/78LMazmfqncADjyJVae8dN"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 168062,
       "name": "Clouds (feat. The Wombats)",
       "url": "https://open.spotify.com/track/1vKhN4uPpLXW91qQ1Gu0z8"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 138293,
       "name": "Get Into It (Yuh)",
       "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 162135,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/126TblwXGNTUZ7RPMnThkU"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 249586,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -1531,6 +1531,24 @@
       "duration_ms": 212546,
       "name": "One I Want (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/6RD9GItAGZ3gbUbx14okHF"
+    },
+    {
+      "album": {
+        "name": "BELIEVE IN ME, WHO BELIEVES IN YOU",
+        "url": "https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145371,
+      "name": "ONE PUNCH",
+      "url": "https://open.spotify.com/track/4URdynWUR50mXggi06ilrJ"
     },
     {
       "album": {
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 295293,
       "name": "Pursuit Of Happiness (Nightmare)",
       "url": "https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 213500,
       "name": "Spins",
       "url": "https://open.spotify.com/track/3611av7ekGmtDo12haIGzG"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 254280,
       "name": "Streets - Disclosure Remix",
       "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
@@ -2385,7 +2403,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
@@ -2559,7 +2577,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"

@@ -1208,7 +1208,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Gym Motivation](/playlists/pretty/37i9dQZF1DWVzL4bYZBn6V.md)
 - [HAIM](/playlists/pretty/5hINCaYWvVwzzLmhh4y11x.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
-- [HOT NOW: Leon Leiden, Adriel Favela \- Estamos Aquí](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW: Piso 21, Santa Fe Klan \- Equivocado](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halloween Party](/playlists/pretty/37i9dQZF1DX8S9gwdi7dev.md)

@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 171524,
       "name": "Assume a Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 375653,
       "name": "Bondade de Deus",
       "url": "https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165558,
       "name": "Felicidade Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/0roEMqT0P7Z82rJTwcID3Z"
@@ -2937,7 +2937,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 210445,
       "name": "Lideran\u00e7a",
       "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
@@ -4598,6 +4598,24 @@
     },
     {
       "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "album": {
         "name": "Rave e Bagaceira",
         "url": "https://open.spotify.com/album/4PMmbtTltGCjdDhWdIdyj3"
       },
@@ -5464,6 +5482,24 @@
     },
     {
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191823,
+      "name": "Tek It",
+      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
+    },
+    {
+      "album": {
         "name": "Termina Comigo Antes",
         "url": "https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq"
       },
@@ -5675,7 +5711,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 174386,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
@@ -6255,7 +6291,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"

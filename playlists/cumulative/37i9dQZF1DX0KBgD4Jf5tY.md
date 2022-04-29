@@ -2,13 +2,13 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> La scena italiana indipendente, senza etichette di genere\. Cover: Schiuma
+> La scena italiana indipendente, senza etichette di genere\. Cover: nudda
 
-184 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+186 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.specchi spettri](https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.specchi spettri](https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs) | 3:38 | 2022-03-17 |  |
+| [.specchi spettri](https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.specchi spettri](https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs) | 3:38 | 2022-03-17 | 2022-04-29 |
 | [14 maglioni](https://open.spotify.com/track/33Ndf9fuy6Kc9Zwta2wKUE) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [14 maglioni](https://open.spotify.com/album/0zo6gjnu4amNEtB7fmXSlL) | 3:22 | 2022-04-08 |  |
 | [2am](https://open.spotify.com/track/7nHB2O8UFMODCklpaEQ0K0) | [ASHES](https://open.spotify.com/artist/579r1PvHYLoNoIF7Ib3evX) | [2am](https://open.spotify.com/album/4HTzRHG6Q3JHr5r8yO80Ia) | 3:12 | 2022-02-17 | 2022-04-09 |
 | [4 Stelle](https://open.spotify.com/track/2RImAWAophsvJ0idQAosMF) | [Zeta](https://open.spotify.com/artist/4PYo4Ds6edaCDUo60vNjgz) | [4 Stelle](https://open.spotify.com/album/305sMBIRjp8hOzRas9zEQI) | 2:44 | 2022-03-03 | 2022-03-25 |
@@ -46,6 +46,7 @@
 | [Cenere](https://open.spotify.com/track/4vGp3JRMvgReM7suaUphjn) | [Beatrice Dellacasa](https://open.spotify.com/artist/5piFIZ88zHRxklw95h5v4L) | [Cenere](https://open.spotify.com/album/5wBHUSY3Oc6eytdfMWpbZT) | 2:30 | 2022-02-17 | 2022-03-25 |
 | [che ci vuoi fare?](https://open.spotify.com/track/07qsn3su8RW8cxFkYlWT7b) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [che ci vuoi fare?](https://open.spotify.com/album/7H5bgp5mtygQ1pFSk6VqkR) | 2:22 | 2022-03-24 |  |
 | [Chi Può](https://open.spotify.com/track/2VEMPcAvKw6LMphb9XG9Hn) | [Marta Tenaglia](https://open.spotify.com/artist/0WqwCCw0Rn6Egu9rFFPQNi) | [Chi Può](https://open.spotify.com/album/2syZYTuhfVDFgKykIMttcc) | 2:14 | 2022-03-03 |  |
+| [Città Giardino](https://open.spotify.com/track/5k7qn1riAYxIip41Itqhz1) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Nuovo Maschio](https://open.spotify.com/album/2VvSOPOh3Vje4S8yYopX2n) | 3:13 | 2022-04-28 |  |
 | [Coastal](https://open.spotify.com/track/499iMmA9adQFojnWynrU2r) | [Go Hawaii](https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli) | [Coastal](https://open.spotify.com/album/1jcbSFBD1tEXYfIqtcp2Pi) | 2:46 | 2022-02-24 | 2022-04-09 |
 | [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 | 2022-03-24 |  |
 | [Da solo](https://open.spotify.com/track/6Ecd6qmTNg38sUr7OgbKBd) | [Etto](https://open.spotify.com/artist/1MYtROZnFeQPvmuQv7hKKK) | [Madness](https://open.spotify.com/album/2KxMNtEBqTyzemxrEcrr2r) | 3:16 | 2022-03-03 |  |
@@ -157,6 +158,7 @@
 | [Sij Sto Buono](https://open.spotify.com/track/6Xcvp1hX9ptUlU4cRLbUjV) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Sij Sto Buono](https://open.spotify.com/album/0NGbN4e6LltnZ8e7xwYW9F) | 2:48 | 2022-02-17 | 2022-03-04 |
 | [Solita](https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [Solita](https://open.spotify.com/album/5kK7COihWbhVwFllUuD8gx) | 2:58 | 2022-01-06 | 2022-02-18 |
 | [Solo Insieme](https://open.spotify.com/track/7FTRmUthoMgAWpwUiDb1X8) | [Ceri](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [WAXTAPE: I° Movimento](https://open.spotify.com/album/6L2C2usmO2lUMeyn5oODia) | 3:10 | 2022-02-17 | 2022-03-22 |
+| [sottosopra](https://open.spotify.com/track/3XLlNaKrCllDtrQaFLb0dG) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [sottosopra](https://open.spotify.com/album/6moVQ2cDgTKftRE7o4uzXM) | 2:35 | 2022-04-28 |  |
 | [Specchi Sporchi](https://open.spotify.com/track/6nXjlXPeuidNoahUQfCsUu) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Specchi Sporchi](https://open.spotify.com/album/4QSybDIKqCGjxxMvvf5CId) | 2:50 | 2022-03-17 |  |
 | [Spero di Star Male](https://open.spotify.com/track/2QRuIq2NGKUCyLAizWcMrj) | [Zo Vivaldi](https://open.spotify.com/artist/6Z3e8q2O7PGU16V88JKT1q) | [Spero di Star Male](https://open.spotify.com/album/16bT7x95aKRXsjyrQ8iFBB) | 3:39 | 2022-02-17 | 2022-03-04 |
 | [Spunta Blu](https://open.spotify.com/track/40ifRw1z1s0gPZmiPkFYgc) | [Il Conte Biagio](https://open.spotify.com/artist/375HNJaEHOTNzJiTY3yrNB) | [Spunta Blu](https://open.spotify.com/album/3YeeLx8JiL85Y9HyGxikVq) | 2:25 | 2022-02-24 | 2022-03-18 |
@@ -187,7 +189,7 @@
 | [Urla con me](https://open.spotify.com/track/1J85ap4LV65jCJ5oUfWxcH) | [Sigmet](https://open.spotify.com/artist/6qFJ465lCZ2Sfiwt2i1J8E) | [Urla con me](https://open.spotify.com/album/3GxYhELq2atH4YWMXZzlOs) | 3:42 | 2022-01-06 | 2022-01-12 |
 | [VALIGIA](https://open.spotify.com/track/1bHutnZZo3i1kCKqvvrAnE) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Ceckpoint](https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI) | [VALIGIA](https://open.spotify.com/album/38kTChpoaTKyvyTLnR0mcN) | 2:25 | 2022-03-03 | 2022-04-09 |
 | [Verso il sole](https://open.spotify.com/track/6vGGKNQnH91ZvSo1rVIAQv) | [Marteena](https://open.spotify.com/artist/4WHhaLqlblPAbhMvSXYFFJ) | [Verso il sole](https://open.spotify.com/album/1vSSdQIi5vVKoxSP7a6k8S) | 2:42 | 2022-04-19 |  |
-| [Viole](https://open.spotify.com/track/48cQYam5RsGPfcRWOZogaa) | [Kick](https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC) | [Viole](https://open.spotify.com/album/01rzY7vkCEeq30l2uxe0wt) | 3:51 | 2022-03-03 |  |
+| [Viole](https://open.spotify.com/track/48cQYam5RsGPfcRWOZogaa) | [Kick](https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC) | [Viole](https://open.spotify.com/album/01rzY7vkCEeq30l2uxe0wt) | 3:51 | 2022-03-03 | 2022-04-29 |
 | [Vorrei Che Fosse Odio](https://open.spotify.com/track/4HUROdvXWBTlGmklebPYwY) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Vorrei Che Fosse Odio](https://open.spotify.com/album/1L8Ti5F6cv65EZ1fAmxHQX) | 3:03 | 2022-02-24 | 2022-04-09 |
 | [WA MA](https://open.spotify.com/track/1JVcz6FDGNIXMbRiLHJb7o) | [Tha Genio](https://open.spotify.com/artist/4x8PVNGlSDB7jriVu77yDm) | [WA MA](https://open.spotify.com/album/0peqmjQqsaInLlPOMsrdvW) | 2:33 | 2022-02-17 | 2022-03-18 |
 | [X4](https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [X4](https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl) | 2:34 | 2022-01-25 | 2022-03-25 |

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 247066,
       "name": "C\u00f3mo pudiste hacerme esto a m\u00ed",
       "url": "https://open.spotify.com/track/6L3rEi9FdKAuwCz1DiWkIk"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 135973,
       "name": "Demoliendo Hoteles",
       "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 241333,
       "name": "El Sat\u00e1nico Dr. Cadillac - Remasterizado 2008",
       "url": "https://open.spotify.com/track/1GcL18n7WMpc6xRwY7D0bE"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 266826,
       "name": "Guitarras Blancas",
       "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Los Singles 1985-2005",
+        "url": "https://open.spotify.com/album/3PsGrl2yyCCQQp0shNNchB"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Indiana",
+      "url": "https://open.spotify.com/track/6JqDuynlvAlI4QYvXqhY8P"
+    },
+    {
+      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Neon",
         "url": "https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 259786,
       "name": "Juegos de Amor",
       "url": "https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 170546,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 225764,
       "name": "Paramar",
       "url": "https://open.spotify.com/track/6YbjZUR8F5ewBI1kHaIA1G"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 271400,
       "name": "Perd\u00ed Mi Ojo de Venado",
       "url": "https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 202986,
       "name": "Perlas ensangrentadas",
       "url": "https://open.spotify.com/track/7reJGbZa8uLSS9BG57q49e"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 191346,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/6ASzF6lnAamXQvWLPa3WDi"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 145093,
       "name": "Vicioso",
       "url": "https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 201360,
       "name": "Visite nuestro bar",
       "url": "https://open.spotify.com/track/65Lg0BbJnzTIPMlnXN3Knv"

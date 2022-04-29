@@ -3520,6 +3520,24 @@
     },
     {
       "album": {
+        "name": "Party Ghost",
+        "url": "https://open.spotify.com/album/2UHQxrTwRzVY1ZAfOHyDew"
+      },
+      "artists": [
+        {
+          "name": "The Hard Aches",
+          "url": "https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167300,
+      "name": "Party Ghost",
+      "url": "https://open.spotify.com/track/72CCtQNYzdvIQHYbCHeD9n"
+    },
+    {
+      "album": {
         "name": "PEOPLE (feat. FIDLAR)",
         "url": "https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI"
       },

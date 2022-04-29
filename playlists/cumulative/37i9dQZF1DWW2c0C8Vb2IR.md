@@ -4,7 +4,7 @@
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: John Scofield
 
-737 songs - 2 day 14 hr 24 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
+738 songs - 2 day 14 hr 27 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Ingênuo](https://open.spotify.com/track/1ZMhHJ6lOE4cNSSPH2knL6) | [Caetano Brasil](https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP), [Quarteto Scherzo](https://open.spotify.com/artist/1NBqQwFQ3JUkYh0WMWX1G5) | [Pixinverso \- Infinito Pixinguinha](https://open.spotify.com/album/05qIpvv8hyxbyi4E6Ap3Cq) | 5:18 | 2022-03-18 | 2022-03-26 |
 | [Inner Urge \(LIVE\)](https://open.spotify.com/track/5KQHhnhmmLLmCsxGuWMEZ7) | [Kemuel Roig](https://open.spotify.com/artist/1ZJJTYGhxNqzqUqCLJoBbQ) | [Inner Urge \(LIVE\)](https://open.spotify.com/album/2qs7NlGaYIjFLvkp4oeopk) | 6:22 | 2022-03-04 | 2022-03-12 |
 | [Inquietude](https://open.spotify.com/track/63mAHNs3C1JNqwQ7m1UcF6) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Inquietude](https://open.spotify.com/album/6CgRJaGfWerZSaVVf0jCZI) | 8:35 | 2022-02-11 | 2022-02-26 |
+| [Intention Not Action](https://open.spotify.com/track/0jZSfDhcaBxV2a8cNVfejl) | [Lord](https://open.spotify.com/artist/0pBnxeB4QkiESiPVV4riPQ), [Dego](https://open.spotify.com/artist/2l5ZGbhMgK4bXV5kMdMFge) | [Lord & Dego](https://open.spotify.com/album/0SPNziwKO6gNsUdY8xiziD) | 3:32 | 2022-04-22 |  |
 | [Interlude](https://open.spotify.com/track/06eSw85Mql1G4UjhgxCTAh) | [Arkadia Jazz All\-Stars](https://open.spotify.com/artist/6zvf7WeBSm26ESYpE9amLc), [Billy Taylor](https://open.spotify.com/artist/2jiQ4lRvpc4ZTtUFMB3dGF), [Chip Jackson](https://open.spotify.com/artist/2mSebKuwUQPf01fA9wXY00), [Steve Johns](https://open.spotify.com/artist/0RCRGDg0pxsMORRi8pHMI4) | [Interlude](https://open.spotify.com/album/5uDB6q4gsxOkxOt1DYYq8b) | 6:01 | 2022-02-04 | 2022-02-19 |
 | [Interstellar Void](https://open.spotify.com/track/3wRq7k7HGBwyTAUyPYkcWZ) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Tim Carnegie](https://open.spotify.com/artist/0jlcXvFOFXm7BLD5KkIvwi) | [Singularity](https://open.spotify.com/album/5y9oF6pCuEIy5ExfC2RCzT) | 6:30 | 2022-04-15 | 2022-04-23 |
 | [Intertwined](https://open.spotify.com/track/5T3n7Ft1W7HhdEyr5fAFKM) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Intertwined](https://open.spotify.com/album/1FF5HS6Aaew3nSZQJ3jzRc) | 5:40 | 2022-04-01 | 2022-04-09 |

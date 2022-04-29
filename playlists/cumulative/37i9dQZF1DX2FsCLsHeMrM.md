@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-164 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+165 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Petit Prince Du Macadam](https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 3:04 | 2021-11-10 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2021-11-10 |  |
 | [Playing For You](https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Playing For You](https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD) | 4:18 | 2021-11-10 |  |
+| [Poison](https://open.spotify.com/track/4S4JuY7JIOQHdVwkg9kIh4) | [Garrett Zoukis](https://open.spotify.com/artist/4JM1oVSS9tdfBwIZMWfAgC) | [MINT](https://open.spotify.com/album/4QGpoKRniUZO5sJ0njLxGF) | 3:15 | 2022-04-28 |  |
 | [Questions](https://open.spotify.com/track/6dLpEd8yvQmLgVFXnDf0Kn) | [The Midnight Hour](https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Midnight Hour](https://open.spotify.com/album/2D67AgXVKjql7tniG3jQKl) | 3:27 | 2021-11-10 |  |
 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 | 2021-11-10 |  |
 | [Rich Girl](https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine EP](https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z) | 3:37 | 2021-11-10 |  |

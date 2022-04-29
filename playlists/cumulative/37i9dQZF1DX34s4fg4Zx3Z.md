@@ -4,7 +4,7 @@
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
 
-279 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+280 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [hennessy](https://open.spotify.com/track/6dJEvz0JPQvTcps1prjJZq) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Saa](https://open.spotify.com/artist/34vWc7W57ecqOISlldPJKL) | [hennessy](https://open.spotify.com/album/7qifcJAUBUCUSuDDlcr5SN) | 3:14 | 2022-01-06 | 2022-02-24 |
 | [Her](https://open.spotify.com/track/7n4aXfGvEgv705Oqrzkj8D) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx), [Danh Huy](https://open.spotify.com/artist/0GvmaT4Fxjl7wRF2Y9OPd2) | [Her](https://open.spotify.com/album/5LIVthZlyi1T6rtRse4B3i) | 3:13 | 2022-02-18 | 2022-03-05 |
 | [HIPPU](https://open.spotify.com/track/0s4Cbhk9kKpfrVu2jzuSzc) | [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS) | [HIPPU](https://open.spotify.com/album/4fbjOAlWJmdQKPcPZ24KOL) | 2:10 | 2022-01-06 |  |
+| [Hoa Thiên Điểu](https://open.spotify.com/track/3enkSEBRtQyAsMWBRthyhh) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo) | [Hoa Thiên Điểu](https://open.spotify.com/album/5YfAr7DaFYi7gqXN3z1v5I) | 4:29 | 2022-04-28 |  |
 | [Hold You Tight](https://open.spotify.com/track/4INgop0iZRmXOpi5CSnbTZ) | [WoogieBoi](https://open.spotify.com/artist/6e96L3MFFvaPscjxZeyHVP) | [Hold You Tight](https://open.spotify.com/album/5YRE1zx8d78DnIZO0NMdTa) | 2:46 | 2022-01-06 | 2022-03-27 |
 | [Hoài Niệm](https://open.spotify.com/track/2iqdZ4rRhvHqJOSGQYZXLE) | [Đặng Tuấn Vũ](https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB) | [Hoài Niệm](https://open.spotify.com/album/6DZ9EcS5Khnd9CPsILACYD) | 3:15 | 2022-01-06 | 2022-02-11 |
 | [Hàng Ghế Đầu](https://open.spotify.com/track/0OnBxawP1ziLfMG0bANZgF) | [Tô Khương](https://open.spotify.com/artist/0iK5wSSwBbSvSTj0IuTMRI) | [Hàng Ghế Đầu](https://open.spotify.com/album/4BNql0jnSkGUuHA02OUJbI) | 4:31 | 2022-01-06 | 2022-04-22 |
@@ -126,7 +127,7 @@
 | [Hẹn Em Kiếp Sau](https://open.spotify.com/track/4tLlCe4nJVY5ABsBOWV2mF) | [Duy Phúc](https://open.spotify.com/artist/5Pr8iHV1XeQXqFH0Ereo2e), [Lã.](https://open.spotify.com/artist/3Rzk8SHIIq6aAdfosxPgMe), [TiB](https://open.spotify.com/artist/12oQKizOm2rS2LjvWjfUXY) | [Hẹn Em Kiếp Sau](https://open.spotify.com/album/2qjGggrWQi8PZ9WLUguZMs) | 3:28 | 2022-01-06 | 2022-02-24 |
 | [Hết Yêu](https://open.spotify.com/track/0YYN8Y6qq2RcgfXbjp7Nvd) | [Phan Yến Nhi](https://open.spotify.com/artist/4GFQ39C6ZEaqEsyGJggcVW) | [Hết Yêu](https://open.spotify.com/album/4qpBodctCnjYaB6bN5kGZr) | 5:55 | 2022-02-18 | 2022-03-01 |
 | [Images](https://open.spotify.com/track/4YgxKXHo6ZgP359RU6Q1L6) | [Sweet Liquor](https://open.spotify.com/artist/2s2AP9Bj9ltYjB9XIbGr0e) | [Images](https://open.spotify.com/album/1kMdc5wZO59rvn0x14Wxw2) | 3:39 | 2022-01-06 | 2022-03-11 |
-| [In Love](https://open.spotify.com/track/7g0FcydJSMnypl6gXgcFGQ) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [In Love](https://open.spotify.com/album/1iSJ3b5aQRH6xdt2HCvsBb) | 1:42 | 2022-03-10 |  |
+| [In Love](https://open.spotify.com/track/7g0FcydJSMnypl6gXgcFGQ) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [In Love](https://open.spotify.com/album/1iSJ3b5aQRH6xdt2HCvsBb) | 1:42 | 2022-03-10 | 2022-04-29 |
 | [In Your Arms](https://open.spotify.com/track/0a1F6r3Ar6Rnj8EZrgonBx) | [Thao Thach](https://open.spotify.com/artist/3ByrkdrCh0llZ1qYYvgBVD) | [In Your Arms](https://open.spotify.com/album/2ifg930PkOPJvah3MnzxZu) | 3:28 | 2022-01-26 | 2022-03-02 |
 | [INO & UNO](https://open.spotify.com/track/1i9TBQ3JZSXACySMybLuRA) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Ne](https://open.spotify.com/artist/60OgHNb3ArABLXqJ66zGGI) | [INO & UNO](https://open.spotify.com/album/7J7Xy4EP2XZUPGaa5PtRqL) | 2:32 | 2022-01-06 | 2022-01-21 |
 | [Khi Mùa Mưa Đi Qua](https://open.spotify.com/track/5nY6Kkxnv7CVCFZbSPBgPZ) | [Haro](https://open.spotify.com/artist/6ONQpyORNnXnhfOPNcSYz2) | [Khi Mùa Mưa Đi Qua](https://open.spotify.com/album/6QBiN1m6Ppja5DtuIW4wJD) | 2:38 | 2022-03-02 | 2022-04-05 |
@@ -255,7 +256,7 @@
 | [Tựa Đầu Vào Vibe](https://open.spotify.com/track/7cq2OXx6RLe1gI1YIaj9vn) | [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm) | [Tựa Đầu Vào Vibe](https://open.spotify.com/album/3BU2ybxIb9b80gIe7MjMyh) | 2:51 | 2022-04-22 |  |
 | [Uống Với Anh Đi \(feat\. To$ka\)](https://open.spotify.com/track/7JYW1U4IHIqjMtLlluSt7i) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [To$ka](https://open.spotify.com/artist/75cMwotbmBUlIpgiJACce5) | [Uống Với Anh Đi \(feat\. To$ka\)](https://open.spotify.com/album/40ac7HzCmig9ZgegWmnY1F) | 3:57 | 2022-01-06 | 2022-01-15 |
 | [V\-Nus](https://open.spotify.com/track/74Wt4dcnk6CeajFI29D1Va) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [LARRIA](https://open.spotify.com/artist/4EmlvsxRbtY1fvKlsJNtbZ) | [V\-Nus](https://open.spotify.com/album/57HcJocb0VzwSVWlL3htKY) | 2:12 | 2022-03-22 | 2022-03-30 |
-| [Va roi em block...](https://open.spotify.com/track/4ZPgCISc9Nbt4ToEISUKH3) | [SMVL](https://open.spotify.com/artist/4aLpXZYh98tPHtzQiUbqHr) | [Va roi em block...](https://open.spotify.com/album/1O17eJ5uaCCeqROLgoZe3l) | 3:08 | 2022-02-23 |  |
+| [Va roi em block...](https://open.spotify.com/track/4ZPgCISc9Nbt4ToEISUKH3) | [SMVL](https://open.spotify.com/artist/4aLpXZYh98tPHtzQiUbqHr) | [Va roi em block...](https://open.spotify.com/album/1O17eJ5uaCCeqROLgoZe3l) | 3:08 | 2022-02-23 | 2022-04-29 |
 | [Vì Nếu Yêu Em Anh Sẽ](https://open.spotify.com/track/1yK2weemdIMdHqrhW1fIXq) | [YLing](https://open.spotify.com/artist/5uFx186LoZqUu2oo7OakjJ), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Vì Nếu Yêu Em Anh Sẽ](https://open.spotify.com/album/6MMrCcPaMOik4lS6wC8pat) | 4:10 | 2022-04-07 | 2022-04-13 |
 | [Vươn Tầm](https://open.spotify.com/track/0RtX9Lw9qwwaLDJ6sndmCl) | [Jombie](https://open.spotify.com/artist/4P5sYDkznyMel8jtD0CgE4), [DanhKa](https://open.spotify.com/artist/18QtAQS0QHhSzjlpbasgJe), [Bean](https://open.spotify.com/artist/5f1AcgE40fpMMWEBomGz91) | [Vươn Tầm](https://open.spotify.com/album/3uD640qhHHPxmPdEFO64WT) | 2:38 | 2022-03-10 | 2022-03-14 |
 | [Vấn Vương](https://open.spotify.com/track/3TaPaPsNUyEmPvyszId32y) | [Phú Quí](https://open.spotify.com/artist/7kFRelrojoTz5zxPBnAArZ) | [Vấn Vương](https://open.spotify.com/album/6cBjgnnNKPiMEEcIuJC0V0) | 3:22 | 2022-01-06 | 2022-01-27 |

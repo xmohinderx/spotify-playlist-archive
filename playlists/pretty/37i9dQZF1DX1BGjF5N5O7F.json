@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 512877,
+  "num_followers": 512945,
   "original_name": "Sexy As Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTEwODc3OSwwMDAwMDAwMDFkMjJmMWQ5NDQ1ZDQ2Mzg1OWNjMDY5ZDBkZWYyYTNi",
+  "snapshot_id": "MTY1MTE5NDA2NSwwMDAwMDAwMGRmOWJhYzc3MGU1OWYxMGMyYTNhYTgzZGRlMzk0ODA2",
   "tracks": [
     {
       "added_at": "2021-03-19 04:02:00",
@@ -59,18 +59,18 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 274552,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -91,18 +91,50 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 274552,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "letting go",
+        "url": "https://open.spotify.com/album/0Itz1TtlN6ayjXgiwzCpQ6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/5JKt1juGsS1rFnxAVEalys"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Never Tear Us Apart",
+        "url": "https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 230201,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -123,18 +155,34 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "letting go",
-        "url": "https://open.spotify.com/album/0Itz1TtlN6ayjXgiwzCpQ6"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
         }
       ],
-      "duration_ms": 268106,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/5JKt1juGsS1rFnxAVEalys"
+      "duration_ms": 248613,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Til It Breaks",
+        "url": "https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "Til It Breaks",
+      "url": "https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -171,50 +219,18 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Til It Breaks",
-        "url": "https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/3JKLAR3XV8VIFIHagNAR3Y"
       },
       "artists": [
         {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 201520,
-      "name": "Til It Breaks",
-      "url": "https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Never Tear Us Apart",
-        "url": "https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 230201,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm"
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/0zP8BJOamm7Q9aNMwCby55"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -235,22 +251,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/3JKLAR3XV8VIFIHagNAR3Y"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/0zP8BJOamm7Q9aNMwCby55"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Power Over Me",
         "url": "https://open.spotify.com/album/7ohVCsxjU81BfXDGj6W8Ba"
       },
@@ -263,38 +263,6 @@
       "duration_ms": 200435,
       "name": "Power Over Me - Acoustic",
       "url": "https://open.spotify.com/track/47rNYq9IUveetu35c65xTw"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Black Pumas (Deluxe)",
-        "url": "https://open.spotify.com/album/7se2Nu0q1AN3VwnKmdeliw"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Know You Better",
-      "url": "https://open.spotify.com/track/1RBskSlyrCjfxP8zq0g14d"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Torture",
-        "url": "https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN"
-      },
-      "artists": [
-        {
-          "name": "Liz Longley",
-          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
-        }
-      ],
-      "duration_ms": 182853,
-      "name": "Torture",
-      "url": "https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -315,6 +283,22 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
+        "name": "Torture",
+        "url": "https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN"
+      },
+      "artists": [
+        {
+          "name": "Liz Longley",
+          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
+        }
+      ],
+      "duration_ms": 182853,
+      "name": "Torture",
+      "url": "https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
         "name": "The Widow Knows E.P.",
         "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
@@ -327,38 +311,6 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 207470,
-      "name": "Light a Fire",
-      "url": "https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Move Together",
-        "url": "https://open.spotify.com/album/0sN8m62qTtLAdVRa5YpYDH"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 283613,
-      "name": "Move Together",
-      "url": "https://open.spotify.com/track/35Mtg0PFHzDa4weGC4zVok"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -395,24 +347,56 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Live At Eddie's Attic",
-        "url": "https://open.spotify.com/album/1TutrhbVMrxYkMU26KoEWv"
+        "name": "Hozier: Deluxe Edition",
+        "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 200120,
-      "name": "Tip Of My Tongue - Live at Eddie's Attic",
-      "url": "https://open.spotify.com/track/42N2kVHg4caj0rWmYK86Xt"
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/5gjZh6EklKm0Hug9fEZWal"
     },
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Red To Blue",
-        "url": "https://open.spotify.com/album/3eZbNW93we2kGZQV4WWBdW"
+        "name": "Move Together",
+        "url": "https://open.spotify.com/album/0sN8m62qTtLAdVRa5YpYDH"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 283613,
+      "name": "Move Together",
+      "url": "https://open.spotify.com/track/35Mtg0PFHzDa4weGC4zVok"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Black Pumas (Deluxe)",
+        "url": "https://open.spotify.com/album/7se2Nu0q1AN3VwnKmdeliw"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Know You Better",
+      "url": "https://open.spotify.com/track/1RBskSlyrCjfxP8zq0g14d"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
       "artists": [
         {
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
         }
       ],
-      "duration_ms": 235160,
-      "name": "Ships In The Night",
-      "url": "https://open.spotify.com/track/3nAAVAOwR8RczMP7MAoYiU"
+      "duration_ms": 207470,
+      "name": "Light a Fire",
+      "url": "https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Ani DiFranco",
+        "url": "https://open.spotify.com/album/0G6JEkNgzfTlve4XAiRlCk"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/3sQIESZGkkxYRn4NCq9B55"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -447,50 +447,18 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Ani DiFranco",
-        "url": "https://open.spotify.com/album/0G6JEkNgzfTlve4XAiRlCk"
+        "name": "Live At Eddie's Attic",
+        "url": "https://open.spotify.com/album/1TutrhbVMrxYkMU26KoEWv"
       },
       "artists": [
         {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
         }
       ],
-      "duration_ms": 215946,
-      "name": "Both Hands",
-      "url": "https://open.spotify.com/track/3sQIESZGkkxYRn4NCq9B55"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Hozier: Deluxe Edition",
-        "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/5gjZh6EklKm0Hug9fEZWal"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Sometimes Why",
-        "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
-      },
-      "artists": [
-        {
-          "name": "Sometymes Why",
-          "url": "https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU"
-        }
-      ],
-      "duration_ms": 357773,
-      "name": "Too Repressed - Explicit",
-      "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
+      "duration_ms": 200120,
+      "name": "Tip Of My Tongue - Live at Eddie's Attic",
+      "url": "https://open.spotify.com/track/42N2kVHg4caj0rWmYK86Xt"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -511,114 +479,18 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
+        "name": "Sometimes Why",
+        "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Sometymes Why",
+          "url": "https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU"
         }
       ],
-      "duration_ms": 149426,
-      "name": "Devil's Backbone",
-      "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Imaginary Appalachia",
-        "url": "https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Sleeping on the Blacktop",
-      "url": "https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "All on My Mind",
-        "url": "https://open.spotify.com/album/6O0hXBm4fljPUez3tFSLJj"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "All on My Mind - Single Version",
-      "url": "https://open.spotify.com/track/7LJDzkXrC6bKthURJ1I4pL"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Carrying Stars (Bonus Version)",
-        "url": "https://open.spotify.com/album/7w1hkVKmKxc01FyHDWnMre"
-      },
-      "artists": [
-        {
-          "name": "Nikolaj Grandjean",
-          "url": "https://open.spotify.com/artist/1ggbWttqLqXwrJTtYMtna9"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "Uncuff Me",
-      "url": "https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
+      "duration_ms": 357773,
+      "name": "Too Repressed - Explicit",
+      "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -639,18 +511,34 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Wretched Body",
-        "url": "https://open.spotify.com/album/3D9GNFrjki2LOmpjYUU71L"
+        "name": "Red To Blue",
+        "url": "https://open.spotify.com/album/3eZbNW93we2kGZQV4WWBdW"
       },
       "artists": [
         {
-          "name": "Beth Rowley",
-          "url": "https://open.spotify.com/artist/7KUBHcBdAezQcKu9mZJM1Y"
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
         }
       ],
-      "duration_ms": 257780,
-      "name": "Wretched Body",
-      "url": "https://open.spotify.com/track/20q5V8Lrp9b4PZcx6KhGfn"
+      "duration_ms": 235160,
+      "name": "Ships In The Night",
+      "url": "https://open.spotify.com/track/3nAAVAOwR8RczMP7MAoYiU"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -667,6 +555,150 @@
       "duration_ms": 216405,
       "name": "Revelry",
       "url": "https://open.spotify.com/track/0MqjKvmJPGJ6t0EQ83jcd2"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "All on My Mind",
+        "url": "https://open.spotify.com/album/6O0hXBm4fljPUez3tFSLJj"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "All on My Mind - Single Version",
+      "url": "https://open.spotify.com/track/7LJDzkXrC6bKthURJ1I4pL"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Devil's Backbone",
+      "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Wretched Body",
+        "url": "https://open.spotify.com/album/3D9GNFrjki2LOmpjYUU71L"
+      },
+      "artists": [
+        {
+          "name": "Beth Rowley",
+          "url": "https://open.spotify.com/artist/7KUBHcBdAezQcKu9mZJM1Y"
+        }
+      ],
+      "duration_ms": 257780,
+      "name": "Wretched Body",
+      "url": "https://open.spotify.com/track/20q5V8Lrp9b4PZcx6KhGfn"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Carrying Stars (Bonus Version)",
+        "url": "https://open.spotify.com/album/7w1hkVKmKxc01FyHDWnMre"
+      },
+      "artists": [
+        {
+          "name": "Nikolaj Grandjean",
+          "url": "https://open.spotify.com/artist/1ggbWttqLqXwrJTtYMtna9"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Uncuff Me",
+      "url": "https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Imaginary Appalachia",
+        "url": "https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Sleeping on the Blacktop",
+      "url": "https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4XAQKwnvGWlFTorhU1ENqk"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "I Got What I Wanted",
+      "url": "https://open.spotify.com/track/14RuwoKFrfao2Gc5jvdVUH"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Lovers Who Make Love",
+      "url": "https://open.spotify.com/track/2G5AbiKbJjNJGFSpUtwsiH"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -703,22 +735,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Joan Shelley",
-        "url": "https://open.spotify.com/album/4XAQKwnvGWlFTorhU1ENqk"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "I Got What I Wanted",
-      "url": "https://open.spotify.com/track/14RuwoKFrfao2Gc5jvdVUH"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/4yBVmYbEq5PXMa8MSJkUUq"
       },
@@ -731,6 +747,38 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/0FFAFXY4GbaTHy4U5pxWT8"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Sketches for My Sweetheart The Drunk",
+        "url": "https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Everybody Here Wants You",
+      "url": "https://open.spotify.com/track/76478Z6x3jH8SdSo18vP6k"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "The Memory Machine",
+        "url": "https://open.spotify.com/album/75XyHNjHSXppcskLvbwmCc"
+      },
+      "artists": [
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/3n8kBPX0lpVKYgD1yggXtx"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -751,38 +799,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "Woman Like a Man - Live Radio Session",
-      "url": "https://open.spotify.com/track/0GpRh3J3gI1esWn9gDWnyY"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "So Real: Songs From Jeff Buckley",
-        "url": "https://open.spotify.com/album/2zfb6rtqx4GM3V65hhsCMY"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 414586,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Parallels, Vol. I",
         "url": "https://open.spotify.com/album/1V4FuW2iS5SP4ckUtRN9U9"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 238360,
       "name": "Making Love on the Mountain (Sexy Mix)",
       "url": "https://open.spotify.com/track/40CqYr0j37FWltcjoEIjJc"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Lovers Who Make Love",
-      "url": "https://open.spotify.com/track/2G5AbiKbJjNJGFSpUtwsiH"
     }
   ],
   "unique_name": "Sexy As Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,507 likes - 100 songs - 4 hr 52 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,505 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 91 | [Dopamine \(feat\. Eyelar\) \- John Summit Remix](https://open.spotify.com/track/5PZpXuU8cAXC8743d4B1r3) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Dopamine \(feat\. Eyelar\) \[John Summit Remix\]](https://open.spotify.com/album/4N2xMoC7BHQpIvH54CKXOO) | 2:54 |
 | 92 | [Unconditionally](https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Jona Selle](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R) | [Unconditionally](https://open.spotify.com/album/07lxlxAb2oHLAGxHst46YZ) | 2:40 |
 | 93 | [Playout](https://open.spotify.com/track/7pLGq8QViObSq3rwPIBPRB) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Julian Moss](https://open.spotify.com/artist/3QcHxnIsaM3bjOD9znOGIN), [Elise Kross](https://open.spotify.com/artist/1fxEqxOxoGBs6gLAr67cBC) | [Playout](https://open.spotify.com/album/7HH5kiwjKqynjVXCQXE2Tl) | 2:58 |
-| 94 | [Faded \- Tiesto's Northern Lights Remix](https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Faded \(Remixes\)](https://open.spotify.com/album/4PLKkJXTkZSpYswOczm69A) | 4:10 |
+| 94 | [Trumpet Sound](https://open.spotify.com/track/6dhDRJ66EfkUC6gCeedW5B) | [Nils Van Zandt](https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj) | [Trumpet Sound](https://open.spotify.com/album/00QAjIce0riJs8iFJOgQ8z) | 2:10 |
 | 95 | [High](https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE) | [Xan Castel](https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9) | [High](https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY) | 2:40 |
-| 96 | [Trumpet Sound](https://open.spotify.com/track/6dhDRJ66EfkUC6gCeedW5B) | [Nils Van Zandt](https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj) | [Trumpet Sound](https://open.spotify.com/album/00QAjIce0riJs8iFJOgQ8z) | 2:10 |
+| 96 | [Faded \- Tiesto's Northern Lights Remix](https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Faded \(Remixes\)](https://open.spotify.com/album/4PLKkJXTkZSpYswOczm69A) | 4:10 |
 | 97 | [Say Yeah](https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Say Yeah](https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk) | 3:45 |
 | 98 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
 | 99 | [Nothing But Love](https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f) | [Steve Forest](https://open.spotify.com/artist/0U6suWTdf1eQtxorBi2Chu), [Føyk](https://open.spotify.com/artist/4Ez8kqZQnzyaxTq35cziVF), [Jaydan Wolf](https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0) | [Nothing But Love](https://open.spotify.com/album/0nHmnOlkxcMyNvHPH9iDEf) | 2:37 |
 | 100 | [Kill My Lonely](https://open.spotify.com/track/2q8RX9TJ5Il8qjM9kqvJfo) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Kill My Lonely](https://open.spotify.com/album/6vSlk7NGJkHUoU7O5YPZmk) | 2:57 |
 
-Snapshot ID: `MTIxNSxkODE4MDc4ZGZkZjUwYTc1NGFlY2U5NGY1NGZkZjhmM2Y4MTU1NTIx`
+Snapshot ID: `MTIxNixiMTFhNGZhMjA1MmNkZjNhNTkzNjUyNjVjYmIwMjlmNzhlYzU3YTNk`

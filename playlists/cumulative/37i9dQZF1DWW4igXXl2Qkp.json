@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 91115,
       "name": "Cali Lovin",
       "url": "https://open.spotify.com/track/6ryE7ZAB9jsM8tfpmXIuEJ"
@@ -4002,6 +4002,24 @@
     },
     {
       "album": {
+        "name": "New 50's",
+        "url": "https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114261,
+      "name": "New 50's",
+      "url": "https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99"
+    },
+    {
+      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/55yHo2DmIaONUlpMMR9sht"
       },
@@ -5083,7 +5101,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 141176,
       "name": "Starter Jacket",
       "url": "https://open.spotify.com/track/2R6z3v6Kvv4bUKacJFwLqf"
@@ -5661,6 +5679,28 @@
       "duration_ms": 179001,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX"
+      },
+      "artists": [
+        {
+          "name": "Boa Hunxho",
+          "url": "https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6"
+        },
+        {
+          "name": "BOA QG",
+          "url": "https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158693,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7"
     },
     {
       "album": {

@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 127139,
       "name": "1000-7",
       "url": "https://open.spotify.com/track/2IMrzJTRHGndoUbM39QIJ7"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -1165,6 +1165,24 @@
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/4cboAOd9H48uPTWknVyLBq"
+    },
+    {
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/6vTv8avMRDNfVHZQPAH9aN"
+      },
+      "artists": [
+        {
+          "name": "KaSuo",
+          "url": "https://open.spotify.com/artist/5XzfL0Zz0gVDDw9aOEtlhn"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132469,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/220oA415Hr87iYECBgabgE"
     },
     {
       "album": {
@@ -10013,6 +10031,24 @@
       "duration_ms": 143386,
       "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f",
       "url": "https://open.spotify.com/track/3e4ksSBSoDqTDOCGDwyMQ8"
+    },
+    {
+      "album": {
+        "name": "\u041d\u043e\u043c\u0435\u0440",
+        "url": "https://open.spotify.com/album/4Kkl3hh2pD8griFAUTIj9w"
+      },
+      "artists": [
+        {
+          "name": "MORGENSHTERN",
+          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117594,
+      "name": "\u041d\u043e\u043c\u0435\u0440",
+      "url": "https://open.spotify.com/track/1chBlROr3nK1SwDPCdN8gv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Daniel Johns
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,174 likes - 103 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,199 likes - 103 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Hatchie",
+  "description": "Current indie tunes from Asia and around the world. Cover: Toro y Moi",
   "name": "Indie Shuffle",
   "published_playlist_ids": [
     "20Eh596su19VARcgGsKVKl"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 220015,
       "name": "Alma",
       "url": "https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz"
@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Corncob",
+        "url": "https://open.spotify.com/album/3PblNI46eRHY3teWBGfvCR"
+      },
+      "artists": [
+        {
+          "name": "Martin Courtney",
+          "url": "https://open.spotify.com/artist/4JuWruv1jBeWne0sJTUH3k"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247066,
+      "name": "Corncob",
+      "url": "https://open.spotify.com/track/4VdIFfKRW9FfQabrmkFtpP"
+    },
+    {
+      "album": {
         "name": "counting chances",
         "url": "https://open.spotify.com/album/1g8JAIN38IYGvT8WufInSM"
       },
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 162122,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/29Hg1jaX5ZY5miqr3ScQSn"
@@ -1618,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211562,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN"
+    },
+    {
+      "album": {
         "name": "Glass Stained Eyes",
         "url": "https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH"
       },
@@ -1965,7 +2001,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 153054,
       "name": "I Don\u2019t Have Control Sometimes",
       "url": "https://open.spotify.com/track/4iuyaXj8B2WPjcqqbOSMB6"
@@ -2211,6 +2247,24 @@
       "duration_ms": 162608,
       "name": "Just A Little While",
       "url": "https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb"
+    },
+    {
+      "album": {
+        "name": "just like heaven",
+        "url": "https://open.spotify.com/album/0RbMCFvFu5OW5trV4Ga7m8"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "just like heaven",
+      "url": "https://open.spotify.com/track/11xjDJ7i9BLd1AYMedwJQK"
     },
     {
       "album": {
@@ -2742,6 +2796,28 @@
     },
     {
       "album": {
+        "name": "MAHAL",
+        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "The Mattson 2",
+          "url": "https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "Millennium",
+      "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
+    },
+    {
+      "album": {
         "name": "Million Little Problems",
         "url": "https://open.spotify.com/album/3YDmWON2aVb6IayCjQwkj5"
       },
@@ -2985,7 +3061,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 228900,
       "name": "Night Diver",
       "url": "https://open.spotify.com/track/6vE45sAtqcXVHIUksYxBy9"
@@ -3349,6 +3425,32 @@
       "duration_ms": 168750,
       "name": "phonecase",
       "url": "https://open.spotify.com/track/4Onk8ZymFGVPE5c9nXIdBv"
+    },
+    {
+      "album": {
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d"
+      },
+      "artists": [
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        },
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z"
     },
     {
       "album": {
@@ -3856,6 +3958,24 @@
     },
     {
       "album": {
+        "name": "See you Soon",
+        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "See you Soon",
+      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
+    },
+    {
+      "album": {
         "name": "It's 2016 Somewhere",
         "url": "https://open.spotify.com/album/6suTADibkHRNH8K4Up3xec"
       },
@@ -4063,7 +4183,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 331914,
       "name": "Skrting On The Surface",
       "url": "https://open.spotify.com/track/4XB9mPk0wcrWHRJSypO79z"
@@ -4708,6 +4828,24 @@
     },
     {
       "album": {
+        "name": "the wire",
+        "url": "https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218631,
+      "name": "the wire",
+      "url": "https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT"
+    },
+    {
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
       },
@@ -4881,7 +5019,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 274613,
       "name": "Toni",
       "url": "https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR"
@@ -5033,6 +5171,24 @@
       "duration_ms": 208333,
       "name": "Valdoxan",
       "url": "https://open.spotify.com/track/5NmRjZdzwHvKVrpchBL08F"
+    },
+    {
+      "album": {
+        "name": "victim of nostalgia",
+        "url": "https://open.spotify.com/album/1q368d6nMTceCEkSYdIqHl"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156906,
+      "name": "victim of nostalgia",
+      "url": "https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS"
     },
     {
       "album": {
@@ -5231,6 +5387,24 @@
       "duration_ms": 215593,
       "name": "Whenever I See You - Live",
       "url": "https://open.spotify.com/track/5fVD9x5lBXSjMqiR5s2Efc"
+    },
+    {
+      "album": {
+        "name": "Emotional Eternal",
+        "url": "https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Where the Water Clears the Illusion",
+      "url": "https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg"
     },
     {
       "album": {
@@ -5485,7 +5659,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 157582,
       "name": "Y\u00eau Nh\u1ea5t (feat. RPT PhongKhin)",
       "url": "https://open.spotify.com/track/3ZAfDSOBPiUupvPmAzZ3cI"
@@ -5593,7 +5767,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 294826,
       "name": "\u62c9\u9eb5\u516c\u5b50 Ramen Boy",
       "url": "https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av"

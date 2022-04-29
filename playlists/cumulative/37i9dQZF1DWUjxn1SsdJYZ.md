@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best Hip Hop coming out of Australia\. Cover: NASA NOVA
+> The best Hip Hop coming out of Australia\. Cover: Hooks
 
-123 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+126 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bold Man](https://open.spotify.com/track/71XmiyHa1Ix2OYKlSDFLeu) | [F.T.G](https://open.spotify.com/artist/01E7J3OcxFmYiWYEkWVKul), [Matt O'shae](https://open.spotify.com/artist/1erhhWH52S61nub1NB8SHE), [Bigg Pete](https://open.spotify.com/artist/7p7QzkHJQgOG1kXUAATDhu) | [Bold Man](https://open.spotify.com/album/0E3DfMrhpbxUfatIiE4bDA) | 4:00 | 2022-03-31 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/5nFTc0k6AdZ4gEJvlNq8Dc) | [ZPLUTO](https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN) | [Bonnie & Clyde](https://open.spotify.com/album/0kqpdDv0IVgOhlBGIcmocb) | 2:21 | 2022-03-21 |  |
 | [Bosque](https://open.spotify.com/track/4Wnnw2K8sZHxSn6aHDtZIZ) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Redback](https://open.spotify.com/artist/0cm54lBGuzyjIjJyGiTqY4), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5) | [Bosque](https://open.spotify.com/album/0DbMMgvaRCVfvdOkoXzhDE) | 3:16 | 2022-03-31 |  |
+| [Boss'd Up](https://open.spotify.com/track/6uTGIbXT34fcVPG7jXe3gh) | [Masei](https://open.spotify.com/artist/43Au01yCyTw5Q6vtG88vVV) | [Boss'd Up](https://open.spotify.com/album/60nEwfrLekVL0HSO3qohvK) | 3:07 | 2022-04-28 |  |
 | [BREAK BREAD](https://open.spotify.com/track/6FBfzWMxc7Qg82tlGmKLVf) | [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [BREAK BREAD](https://open.spotify.com/album/2rmxflAFtctJiaKgHWToWh) | 2:46 | 2022-03-21 | 2022-03-25 |
 | [Breaks & Caddy's \(Street Guide Part 02\)](https://open.spotify.com/track/5ncbPkxARzOgLcKN1TCSrt) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [CG](https://open.spotify.com/artist/7emez5lGlXnCUAkL2qgt4z) | [Breaks & Caddy's \(Street Guide Part 02\)](https://open.spotify.com/album/5rN50UH1U1QISo7s3uMCTD) | 3:11 | 2022-03-21 |  |
 | [Built Different](https://open.spotify.com/track/5TxkoXuhrEbBNXwlOdcnDL) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [Built Different](https://open.spotify.com/album/4zD0ah3tBAWIfFeISs0VeX) | 2:57 | 2022-03-21 | 2022-03-25 |
@@ -71,6 +72,7 @@
 | [M31 \(Racing down the Hume\)](https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [M31 \(Racing down the Hume\)](https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8) | 2:14 | 2022-04-14 |  |
 | [Magic \(feat\. Hooligan Hefs\)](https://open.spotify.com/track/6H5ZAvmXcBzTyAPRmtgdBJ) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Magic \(feat\. Hooligan Hefs\)](https://open.spotify.com/album/0bo5RiW2Kqlbu8zSge3cZD) | 2:46 | 2022-03-21 |  |
 | [MAKE IT DIP](https://open.spotify.com/track/0gtlSZCY8G6HJNqTRiVnDT) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [MAKE IT DIP](https://open.spotify.com/album/2rxCJpUc6RhvjTFaFdCPCg) | 2:30 | 2022-03-21 |  |
+| [Make Money Not Friends](https://open.spotify.com/track/5F152wL6HnVIyr0UWvKh5v) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Make Money Not Friends](https://open.spotify.com/album/74vJth8gmNpP0eGJLYWiZX) | 2:56 | 2022-04-28 |  |
 | [MHMM](https://open.spotify.com/track/53vnp4yNfgLRjT1jfcukkq) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK), [Vinny](https://open.spotify.com/artist/6WCaEpEZmlapvnhfIdTxMN) | [Stack or Starve](https://open.spotify.com/album/1EJAt0Q2dC719lyBugb3gv) | 3:17 | 2022-03-21 |  |
 | [More Than Blessed](https://open.spotify.com/track/2tySzvRvGI6jcjfRHGKB57) | [Masei](https://open.spotify.com/artist/43Au01yCyTw5Q6vtG88vVV), [DoinDerr Deezy](https://open.spotify.com/artist/7LklqWb6ezcJf89xjvtiks) | [More Than Blessed](https://open.spotify.com/album/2mEfCuiHUBlbQfFryMJIoz) | 3:17 | 2022-03-21 |  |
 | [Morpheus](https://open.spotify.com/track/5Evd3yaRZcmhXmbaKWCPQA) | [Ivan Dr8ko](https://open.spotify.com/artist/5ZeKUfTXsz2Z3nB4qTuP7C), [Smokey.](https://open.spotify.com/artist/5a2nmVxnEEJ7Z2rhn9mmOx) | [Morpheus](https://open.spotify.com/album/0r4KH8Z2JhFdf9MIC98Hcn) | 3:47 | 2022-03-21 |  |
@@ -131,5 +133,6 @@
 | [Whoever](https://open.spotify.com/track/4IWt8KJhg6sIoLcjy8LHm5) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [Whoever](https://open.spotify.com/album/5qgNkLb4H6QctvrT7E9O5Z) | 2:38 | 2022-03-21 | 2022-03-25 |
 | [Wicked](https://open.spotify.com/track/79nJFSXOGCb5tAM6pzhSCi) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Wicked](https://open.spotify.com/album/3s8eNk47rNa9CXdK2exLUo) | 2:03 | 2022-03-25 |  |
 | [WOAH](https://open.spotify.com/track/0VzQP07n5NgOInr8iuk9Gr) | [AJ Curtis](https://open.spotify.com/artist/5wrtj0ptwZ8Z4ZL0w5YLYE) | [WOAH](https://open.spotify.com/album/2lOMrmiYzXyzntqtIct6bM) | 2:22 | 2022-03-21 | 2022-03-25 |
+| [Zimbabwe](https://open.spotify.com/track/6YGhqgMMsBCoxX73sEbwKv) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [Zimbabwe](https://open.spotify.com/album/19ymHdgi8uNhHr9N5rLQxk) | 3:14 | 2022-04-28 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

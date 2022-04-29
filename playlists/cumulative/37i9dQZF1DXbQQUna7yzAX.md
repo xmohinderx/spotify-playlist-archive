@@ -4,7 +4,7 @@
 
 > Grunge is still alive and kicking!
 
-99 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
+101 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,12 @@
 | [About Him](https://open.spotify.com/track/7hEB1QYct74ttT4kd4aADt) | [Grandad](https://open.spotify.com/artist/3yj8XByDLr3A1ZxWQCHM7y) | [About Him](https://open.spotify.com/album/7if5sfjCcfW9sIdYGoXvye) | 4:50 | 2022-02-03 |  |
 | [Airplane](https://open.spotify.com/track/246PWkuEwTNahzwBXyvrsr) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Airplane](https://open.spotify.com/album/7GNLSiqm0a7XIAsbORgOJW) | 3:25 | 2021-12-17 | 2022-02-18 |
 | [All Feelings Aside](https://open.spotify.com/track/4Jfc07vRe1tQHONQQOsY4E) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [All Feelings Aside](https://open.spotify.com/album/0AsZY4wxCnqk9d6p9P4wLI) | 3:33 | 2022-03-31 |  |
-| [Altalena](https://open.spotify.com/track/422r2gdGylUH9kwI1LABo9) | [Raniss](https://open.spotify.com/artist/5V0f1RKm4X0Lh6HBLSps3V) | [Altalena](https://open.spotify.com/album/58V5BR40Ktw5Uf5gkbOqOH) | 3:10 | 2022-02-17 |  |
+| [Altalena](https://open.spotify.com/track/422r2gdGylUH9kwI1LABo9) | [Raniss](https://open.spotify.com/artist/5V0f1RKm4X0Lh6HBLSps3V) | [Altalena](https://open.spotify.com/album/58V5BR40Ktw5Uf5gkbOqOH) | 3:10 | 2022-02-17 | 2022-04-29 |
 | [Alternate Ending](https://open.spotify.com/track/1wYPKJwiW1RG3IRGQ9iqmz) | [Faux Pas](https://open.spotify.com/artist/28L6HIX4S0kLRfiV6zbCW6) | [Alternate Ending](https://open.spotify.com/album/7fHv3DW4xE7PvYY1zcEORg) | 3:36 | 2021-12-17 |  |
 | [Always True](https://open.spotify.com/track/0fnpenlMXk6tjqS1hg5UGb) | [FREESPIRITS](https://open.spotify.com/artist/0nPrFoUuwcB27aaf1qEOak) | [Always True](https://open.spotify.com/album/5VeiK6LK7EHBPUkOweLZ4H) | 3:53 | 2021-12-17 |  |
-| [Angel](https://open.spotify.com/track/3pD28e534hr5UBvweLptiS) | [Puppy](https://open.spotify.com/artist/1k7YEgitylDPEwY0oLo8lH) | [Angel](https://open.spotify.com/album/2VtfwKcQLexaxiZA0nV4rX) | 2:34 | 2022-01-20 |  |
+| [Angel](https://open.spotify.com/track/3pD28e534hr5UBvweLptiS) | [Puppy](https://open.spotify.com/artist/1k7YEgitylDPEwY0oLo8lH) | [Angel](https://open.spotify.com/album/2VtfwKcQLexaxiZA0nV4rX) | 2:34 | 2022-01-20 | 2022-04-29 |
 | [another world](https://open.spotify.com/track/5RJmPkvq07YJ5CG6fJKSXu) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [another world](https://open.spotify.com/album/27VKrmooTo5grcMjgYz5F5) | 3:02 | 2021-12-17 | 2022-02-18 |
+| [Apathy](https://open.spotify.com/track/7Cq40BAJuAXjIlCrxZvoV5) | [Ethereal](https://open.spotify.com/artist/0SolhJ6GwWLTkAFIfwWlfE) | [Apathy](https://open.spotify.com/album/6uI2sMps2HWIf91jOIq2bk) | 3:02 | 2022-04-28 |  |
 | [Arcade Girl](https://open.spotify.com/track/6F2syCAI5UeFeIPf1q9YeP) | [Hovercar](https://open.spotify.com/artist/4NrVppqTWw4Pa0KWbRIntv) | [Hovercar](https://open.spotify.com/album/5cdI3nhbQm07imuTVq582K) | 3:20 | 2022-01-20 |  |
 | [As It Grows](https://open.spotify.com/track/0wD5gHWqIY3z0cYn7TKurA) | [Dead Soft](https://open.spotify.com/artist/6NayGIgExrNwxUk6MHnMPN) | [As It Grows](https://open.spotify.com/album/7HMoSzxP7yTNGETh8kJhDe) | 2:26 | 2021-12-17 | 2022-04-01 |
 | [Avalon](https://open.spotify.com/track/6FnuAqXpu9LOgk6vpZxhVX) | [The Post War](https://open.spotify.com/artist/4ofDiFRQz0rN8FPm6T0ozM) | [Avalon](https://open.spotify.com/album/3BXf6nFmudFtYw1WE8kLZT) | 5:02 | 2021-12-17 | 2022-02-25 |
@@ -88,6 +89,7 @@
 | [The Now](https://open.spotify.com/track/3TI3KAFZ2IrD1GJfWnRUui) | [Star Arcana](https://open.spotify.com/artist/4igW7T7WPtBPIxnj8972js) | [The Now](https://open.spotify.com/album/3jIjdjknRRHEtnPG9FKeyi) | 4:02 | 2022-02-03 | 2022-02-25 |
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2021-12-17 | 2022-02-18 |
 | [Think About The Desert](https://open.spotify.com/track/7tGOof0ABiOGiZMm67Qq1u) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Think About The Desert](https://open.spotify.com/album/3eVULLV1z2d0dM3FsFFu4a) | 4:36 | 2021-12-17 | 2022-01-28 |
+| [This Love Could Kill You](https://open.spotify.com/track/58MlDAu8VjswnES9DY0a2M) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [This Love Could Kill You](https://open.spotify.com/album/1mA0kglOYppHIpK7Q8TQbJ) | 4:25 | 2022-04-28 |  |
 | [Thorn in My Side](https://open.spotify.com/track/1W56wikhxCRixXU1g7vww5) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:49 | 2021-12-17 |  |
 | [Three Monkey Song](https://open.spotify.com/track/0COCUDsuzYUZdaMTPmgcKP) | [Sivan Langer](https://open.spotify.com/artist/7ckVHLOYWQRV09kEoLOiqD) | [Three Monkey Song](https://open.spotify.com/album/5EDqyvBw9DSVdhuONZxW2m) | 2:22 | 2022-04-14 |  |
 | [To the Grave](https://open.spotify.com/track/2u8nEKPDGFR6DrlX90JoEI) | [Crape](https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi), [Tuxx](https://open.spotify.com/artist/00u33wOLnUVDe4AHZ0lbSA) | [To the Grave](https://open.spotify.com/album/6IyPVkaTahXnsUgKaBxZv3) | 3:36 | 2021-12-17 |  |

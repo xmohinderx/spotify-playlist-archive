@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shanna Shannon
 
-90 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+91 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Sambel Terasi](https://open.spotify.com/track/1i1vBILMIPrdSykyIHS6JV) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sambel terasi](https://open.spotify.com/album/1AH9wWrPKRzvydpQLk2ta1) | 4:59 | 2021-11-25 | 2022-03-25 |
 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 | 2021-11-25 | 2022-03-25 |
 | [Semoga Sembuh](https://open.spotify.com/track/4xEcTICXVeJMelJJya2IXR) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Ezra Mandira](https://open.spotify.com/artist/65TmVa8KZPj1UgvqZUuHqJ) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 3:55 | 2022-03-24 |  |
+| [Sepasang Mata Bola](https://open.spotify.com/track/4jRX03skpItE7YzxVjaPZX) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Sepasang Mata Bola](https://open.spotify.com/album/7AKPjfIbnFsKHV6rdKb2El) | 3:44 | 2022-04-28 |  |
 | [Seribu Kali Cinta](https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Seribu Kali Cinta](https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Soal Kita](https://open.spotify.com/track/14rpraFulfsWytcg4kMtLz) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Soal Kita](https://open.spotify.com/album/6jgYTIvlTMtNH1XBmVu3FA) | 3:51 | 2021-11-25 | 2022-03-25 |
 | [Someone That Can’t Be Mine](https://open.spotify.com/track/26gulJKHQJ7ZqPbd66e3I9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [I Only Dance When I'm Sad](https://open.spotify.com/album/3SpFqyFxLOamUvIolMGFGW) | 4:08 | 2021-11-25 | 2022-03-25 |

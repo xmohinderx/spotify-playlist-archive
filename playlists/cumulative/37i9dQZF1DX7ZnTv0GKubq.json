@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 203173,
       "name": "And Then Life Was Beautiful",
       "url": "https://open.spotify.com/track/4vUU8lx3iz7u72rpDjhXHi"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 192333,
       "name": "Blue Denim Jeans",
       "url": "https://open.spotify.com/track/327epjHIypEPo3c0kjIli9"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 200866,
       "name": "Braid It Back",
       "url": "https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 255693,
       "name": "Caught In A Lie",
       "url": "https://open.spotify.com/track/0VrU3bahhqEpXQtsj4kXXy"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 217751,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4Bfp9heUqxCEOX74tg4UNB"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 175194,
       "name": "Evil Eye",
       "url": "https://open.spotify.com/track/4HB9GHrm8VvizUlbV6VnWg"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 191453,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/6PBVyALVJlwRK97115oiED"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/4P02fYUDA6IzpVKElRnAcq"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4wuY7AFjWkbltPwugDpR4U"
@@ -776,6 +776,24 @@
     },
     {
       "album": {
+        "name": "Honey'd Up",
+        "url": "https://open.spotify.com/album/6hHwKXVNfipyQjx5txZuq1"
+      },
+      "artists": [
+        {
+          "name": "Royce Wood Junior",
+          "url": "https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "Honey'd Up",
+      "url": "https://open.spotify.com/track/2gfkEq7Vj0q22tjEPp2GHb"
+    },
+    {
+      "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 217718,
       "name": "I Might Be In Love With You",
       "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 250880,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4ql1Qc7OHhoOEy9dVl0u8X"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 271201,
       "name": "Like Sand",
       "url": "https://open.spotify.com/track/2fWlUgX2Qa44ZQCT2rKF0U"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 215146,
       "name": "Messy Love",
       "url": "https://open.spotify.com/track/7kktQmvJ8xLjHzHrBVo8tH"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 158620,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/5Z2dOXjVByx4J0yzMB2oPB"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 183482,
       "name": "Notice",
       "url": "https://open.spotify.com/track/3xU5oa6oJVE9VTLNKcRSy6"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 199533,
       "name": "Plastic Plants",
       "url": "https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX"
@@ -1292,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Rainfall",
+        "url": "https://open.spotify.com/album/6EdOPfYxBca3GXcFTHuaIG"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Rainfall",
+      "url": "https://open.spotify.com/track/5PtivWG5NtjrRyg8VmgiMi"
+    },
+    {
+      "album": {
         "name": "raw",
         "url": "https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC"
       },
@@ -1339,7 +1375,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 184000,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/0P5cxUevkrTAiRVbCmmaOn"
@@ -1361,7 +1397,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 242973,
       "name": "Running (feat. Ghetts)",
       "url": "https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI"
@@ -1419,7 +1455,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 227535,
       "name": "Serial",
       "url": "https://open.spotify.com/track/5RRl7Hio98AB5JsGo9acb0"
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 189722,
       "name": "Stupid People",
       "url": "https://open.spotify.com/track/5g80aGSWaxJJk9DhAQvthJ"
@@ -1583,7 +1619,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 172493,
       "name": "Take Me Away (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
@@ -1663,7 +1699,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 198666,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/4F8ZpGHyAwNCNgEKrjlDSZ"
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 193500,
       "name": "VINYL",
       "url": "https://open.spotify.com/track/2V4mZoAUYA22VDny8KAg8f"
@@ -1721,7 +1757,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 190588,
       "name": "Water",
       "url": "https://open.spotify.com/track/6qfYwrC2Z155eoPO4BQltH"
@@ -1793,7 +1829,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 287351,
       "name": "why did you go use your head?",
       "url": "https://open.spotify.com/track/3jzqVN41cmRK8chGun15On"
@@ -1873,7 +1909,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 191483,
       "name": "YOGA",
       "url": "https://open.spotify.com/track/4Sp0JZpae4D08l3E6gV1D8"

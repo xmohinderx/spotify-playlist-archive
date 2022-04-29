@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-562 songs - 1 day 6 hr 20 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+563 songs - 1 day 6 hr 23 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 | 2019-09-06 | 2020-05-19 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-21 |  |
 | [Bittersweet](https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet](https://open.spotify.com/album/7iJOysKUXYwx78G17DT3sh) | 3:56 | 2020-03-09 | 2021-05-12 |
+| [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-04-28 |  |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-01-23 |  |
 | [Blast Off](https://open.spotify.com/track/5ywsqu9AEJnEJhJ05Vf9Me) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1) | 4:44 | 2021-11-13 |  |
 | [Blood On My Hands \(feat\. Smino\)](https://open.spotify.com/track/33ApwnTRZJfotPmAYqSrkt) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Blood On My Hands \(feat\. Smino\)](https://open.spotify.com/album/1uji7c1Vhvz2X4gT7yPc1F) | 4:11 | 2019-08-27\* | 2019-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв.
 
-[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 163,299 likes - 131 songs - 9 hr 38 min
+[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 163,314 likes - 131 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 | 92 | [In The Face Of Evil](https://open.spotify.com/track/2bHpNAMEsB3Wc00y87JTdn) | [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [Volume 1](https://open.spotify.com/album/1EB5Ns21S5txFU4dVOsFNM) | 6:49 |
 | 93 | [Running in the Night](https://open.spotify.com/track/0E3HnGJSMplqBSYGsh2exH) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:30 |
 | 94 | [Enigma](https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Solai](https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf) | 3:18 |
-| 95 | [Zombie](https://open.spotify.com/track/2fJzvVoZkY4iuwK1EUwbvr) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Reborn](https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner) | 4:00 |
+| 95 | [Zombie](https://open.spotify.com/track/2fJzvVoZkY4iuwK1EUwbvr) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Morgan Phalen](https://open.spotify.com/artist/31XcLJj5SRtJ0smI0iV9g8) | [Reborn](https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner) | 4:00 |
 | 96 | [HUMANS \- F.O.O.L Remix](https://open.spotify.com/track/3HXMtAq0jJSGFTxzOYly8X) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [HUMANS \(F.O.O.L Remix\)](https://open.spotify.com/album/5cNthykaqSt7PxIf7yoEYY) | 4:02 |
 | 97 | [CRT Days](https://open.spotify.com/track/4Svx0pOTJg9VVwkp8qX6Tr) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [CRT Days](https://open.spotify.com/album/2Jj0uMFVjXFf3qfrfFpLDk) | 3:51 |
 | 98 | [Space Echo](https://open.spotify.com/track/4bifyKEdxnuGU4gvdZWEMS) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Space Station](https://open.spotify.com/album/24cI6L7et5TX9XkVCD2mGb) | 3:35 |

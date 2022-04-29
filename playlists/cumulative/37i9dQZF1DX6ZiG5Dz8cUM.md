@@ -4,7 +4,7 @@
 
 > Set the tone for your date night with cozy jazz.
 
-115 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
+116 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 |  |
 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 | 2022-04-07 |  |
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2021-12-14 |  |
-| [When I Fall In Love](https://open.spotify.com/track/0w7mhiHnM0rhdu3l5mDDYl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:57 | 2021-12-14 |  |
+| [When I Fall In Love](https://open.spotify.com/track/3BE04lCBfY9gJuBNmsxNvg) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 4:59 | 2022-04-28 |  |
+| [When I Fall In Love](https://open.spotify.com/track/0w7mhiHnM0rhdu3l5mDDYl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:57 | 2021-12-14 | 2022-04-29 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 | 2021-12-14 |  |
 | [Where Are You? \- Rudy Van Gelder Edition](https://open.spotify.com/track/5OiS6Qse8ZY9jJ5CTwO9Yx) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:21 | 2021-12-14 |  |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2021-12-14 |  |

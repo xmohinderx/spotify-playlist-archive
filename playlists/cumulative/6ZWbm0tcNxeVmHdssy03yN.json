@@ -546,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/6jM2KcGCIP5aGN3E3yPHUE"
+      },
+      "artists": [
+        {
+          "name": "Sauce40",
+          "url": "https://open.spotify.com/artist/3e9F1Eurp9DD3zG13Mt4Vu"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204057,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/3PMuhe8WIElXTES2kWodNv"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/4Z6MIaCDqLntdUHf1WhQdX"
       },
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 166241,
       "name": "Avi\u00f5es",
       "url": "https://open.spotify.com/track/3743IvJexIgIZCUk2zc1Kc"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 177692,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/6ebhtRkgKISGDaHyIxGIR5"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 196500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Tca7XSzaHo2v69VLHFjbM"
@@ -5148,6 +5166,24 @@
     },
     {
       "album": {
+        "name": "dayaway",
+        "url": "https://open.spotify.com/album/45bxPNY3YTYkQCvRjml7pn"
+      },
+      "artists": [
+        {
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "dayaway",
+      "url": "https://open.spotify.com/track/6Fk8wkBXvJdjf6A2vcEZJa"
+    },
+    {
+      "album": {
         "name": "Daydreams",
         "url": "https://open.spotify.com/album/1j79OR9z9uQarwcxPOBTcw"
       },
@@ -6123,7 +6159,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 143000,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0FyQSdIKwwpQVgFnhrNrvf"
@@ -6566,6 +6602,24 @@
     },
     {
       "album": {
+        "name": "El Disparo",
+        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209241,
+      "name": "El Disparo",
+      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
+    },
+    {
+      "album": {
         "name": "El Reloj",
         "url": "https://open.spotify.com/album/6UAPcfeznt1gVOiYAV33OC"
       },
@@ -6921,6 +6975,24 @@
       "duration_ms": 218823,
       "name": "EVERYDAY",
       "url": "https://open.spotify.com/track/5sTfEctUZjV3QrVztlPpVE"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6YusTL3UDrIcFq4OtTX4i0"
+      },
+      "artists": [
+        {
+          "name": "Miiesha",
+          "url": "https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253376,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/5nTx2HH2VF4D02SS67WThI"
     },
     {
       "album": {
@@ -8143,7 +8215,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 209275,
       "name": "Full Heart",
       "url": "https://open.spotify.com/track/1grGsuX1el4X4f0R0M20AF"
@@ -10281,7 +10353,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 215781,
       "name": "Human",
       "url": "https://open.spotify.com/track/4ulpWEdLmS9vZbFYAGk75k"
@@ -11084,6 +11156,24 @@
     },
     {
       "album": {
+        "name": "Inner Smile",
+        "url": "https://open.spotify.com/album/7vBaNOCJ9opf2wqalzmDkX"
+      },
+      "artists": [
+        {
+          "name": "Pink Skies",
+          "url": "https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257500,
+      "name": "Inner Smile",
+      "url": "https://open.spotify.com/track/7cKFAHSNT3d9gobvysbvBP"
+    },
+    {
+      "album": {
         "name": "Inocente",
         "url": "https://open.spotify.com/album/5l5Ahgt4DGsmFdaxJzUkeA"
       },
@@ -11425,6 +11515,24 @@
       "duration_ms": 179915,
       "name": "Jealous Guy - Live at Joe's Pub",
       "url": "https://open.spotify.com/track/7u9qOvkK2F8ljT93Z4W1pk"
+    },
+    {
+      "album": {
+        "name": "Jiggy",
+        "url": "https://open.spotify.com/album/3lL2XLB8ZkS7QocuYQ9L5z"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/7qCEWiLDGaqXtxUm6ebyIA"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204507,
+      "name": "Jiggy",
+      "url": "https://open.spotify.com/track/6r50QGrOurBLSzU4rDmggl"
     },
     {
       "album": {
@@ -11967,7 +12075,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 253230,
       "name": "La calle est\u00e1 vac\u00eda",
       "url": "https://open.spotify.com/track/7CuWzJK2HSlGC6jkrpbRiN"
@@ -12371,7 +12479,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 188571,
       "name": "Legends",
       "url": "https://open.spotify.com/track/1rjcOYf08yRbrsX3ALRldh"
@@ -12517,7 +12625,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176013,
       "name": "Levels",
       "url": "https://open.spotify.com/track/1rfANUAbPjPZhRUIz5uj7h"
@@ -12535,7 +12643,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 273151,
       "name": "Ley de Gravedad",
       "url": "https://open.spotify.com/track/32ujKFS2r4BtH5kd6MAg0Z"
@@ -12907,6 +13015,28 @@
       "duration_ms": 136500,
       "name": "living well",
       "url": "https://open.spotify.com/track/1FaNqvGUx6m3EZ6L6rNNYA"
+    },
+    {
+      "album": {
+        "name": "Lobby",
+        "url": "https://open.spotify.com/album/2MwIk5galcktUb6eNq3yBV"
+      },
+      "artists": [
+        {
+          "name": "Belly Squad",
+          "url": "https://open.spotify.com/artist/1EWnP7piatUeXggTXofm5g"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155876,
+      "name": "Lobby",
+      "url": "https://open.spotify.com/track/6mkG59Do5mYT2zx8lltItY"
     },
     {
       "album": {
@@ -13838,6 +13968,24 @@
     },
     {
       "album": {
+        "name": "MALA SANGRE",
+        "url": "https://open.spotify.com/album/4MdtQDmKhGLRXk9ubuMSy7"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270747,
+      "name": "MALA SANGRE",
+      "url": "https://open.spotify.com/track/513UvoMUZwUirOYw7MuTM4"
+    },
+    {
+      "album": {
         "name": "Mantra Hill",
         "url": "https://open.spotify.com/album/0XC264EQ58CGktoJn9Rgxh"
       },
@@ -14197,7 +14345,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 207272,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/4CTdmkcXJH8yPcAf34AbkX"
@@ -15315,7 +15463,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 214867,
       "name": "NEVER MISS",
       "url": "https://open.spotify.com/track/71rHz8juofgmlxseGijwkq"
@@ -15449,7 +15597,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 147496,
       "name": "No Bad Dreams",
       "url": "https://open.spotify.com/track/1b8ILzg15tXaeEXITG21wZ"
@@ -15489,6 +15637,24 @@
       "duration_ms": 178107,
       "name": "No Fugazy",
       "url": "https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa"
+    },
+    {
+      "album": {
+        "name": "No Hay Duda",
+        "url": "https://open.spotify.com/album/1NCF5XC8HapipoUXYp1Y6j"
+      },
+      "artists": [
+        {
+          "name": "Jackson Martinez",
+          "url": "https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213021,
+      "name": "No Hay Duda",
+      "url": "https://open.spotify.com/track/4gE7W87rD8YAifnt3nDHM0"
     },
     {
       "album": {
@@ -15905,7 +16071,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 332781,
       "name": "N\u00e9ant - Boombass remix",
       "url": "https://open.spotify.com/track/6lwbXcKw4u2VkXMiDSe2H3"
@@ -17232,6 +17398,24 @@
     },
     {
       "album": {
+        "name": "Peurple",
+        "url": "https://open.spotify.com/album/6aVhBM0CjXfUeVpf7erNqA"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Peurple",
+      "url": "https://open.spotify.com/track/6Ninewf6AmuyOstLCftPu0"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/31yCyAzh4umNBJwyss0kLo"
       },
@@ -18058,6 +18242,24 @@
     },
     {
       "album": {
+        "name": "Drilligious",
+        "url": "https://open.spotify.com/album/67DTIBgqwEffjgKi0mkbab"
+      },
+      "artists": [
+        {
+          "name": "J Boy",
+          "url": "https://open.spotify.com/artist/6dkEqDJxqJxtlgU8g3dUlb"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194037,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0S6qZSXnRP1kh9yYshnnzD"
+    },
+    {
+      "album": {
         "name": "Rainy Day",
         "url": "https://open.spotify.com/album/4YDl6bEXUW7wfvZ0WoIC7D"
       },
@@ -18399,7 +18601,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 189230,
       "name": "Rider",
       "url": "https://open.spotify.com/track/57DsvScq7UGNUPtjvnAGcC"
@@ -18998,6 +19200,28 @@
     },
     {
       "album": {
+        "name": "R\u0100IN",
+        "url": "https://open.spotify.com/album/4R9SqRXvFHxifg9Ns04PjQ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Gaskin",
+          "url": "https://open.spotify.com/artist/62jOrXKkMYfGAhXajZ20Cm"
+        },
+        {
+          "name": "The Merindas",
+          "url": "https://open.spotify.com/artist/1MbuoVAjRlbjXfOrLnhkye"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244493,
+      "name": "R\u0100IN",
+      "url": "https://open.spotify.com/track/3QxfoGlsbP5rut26pwLaEO"
+    },
+    {
+      "album": {
         "name": "Sad Rich Girls",
         "url": "https://open.spotify.com/album/58kQlL0gmusHoWhVRHvoEK"
       },
@@ -19035,6 +19259,24 @@
       "duration_ms": 238408,
       "name": "Sad Sometimes",
       "url": "https://open.spotify.com/track/5sG1cCrGJvxWC2qRbW2aei"
+    },
+    {
+      "album": {
+        "name": "Polar States",
+        "url": "https://open.spotify.com/album/7yMISrcqRG1Ad03l2MM7J9"
+      },
+      "artists": [
+        {
+          "name": "Polar States",
+          "url": "https://open.spotify.com/artist/5RGGmYAO7dbltAYiaGpIOw"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237660,
+      "name": "Safe House",
+      "url": "https://open.spotify.com/track/0T77r6HXkg1N6kRYC1KBkj"
     },
     {
       "album": {
@@ -20534,6 +20776,24 @@
     },
     {
       "album": {
+        "name": "Sort It Out",
+        "url": "https://open.spotify.com/album/1VzgLYVcHN4GhsVkAdHdrc"
+      },
+      "artists": [
+        {
+          "name": "Beddy Rays",
+          "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116084,
+      "name": "Sort It Out",
+      "url": "https://open.spotify.com/track/0uVV4TDUwXQmacIpMatmDA"
+    },
+    {
+      "album": {
         "name": "Sounds of Then (This Is Australia)",
         "url": "https://open.spotify.com/album/4vuVhGZz0n8auIGy8amQBM"
       },
@@ -21273,6 +21533,24 @@
       "duration_ms": 250767,
       "name": "SWEET DELILAH",
       "url": "https://open.spotify.com/track/0bQ943QUd5veiLtSxwd3oK"
+    },
+    {
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/4PrkZSJQ2p8pmTRD0696uc"
+      },
+      "artists": [
+        {
+          "name": "RIVAH",
+          "url": "https://open.spotify.com/artist/3EZTceZEjtMAOVL6S4xe1o"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/6Fhk9dLkuCQ73IfiwW3wgl"
     },
     {
       "album": {
@@ -22789,7 +23067,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 164374,
       "name": "Trago Malo!",
       "url": "https://open.spotify.com/track/0rydKCHjjknDwkvQimgZTB"

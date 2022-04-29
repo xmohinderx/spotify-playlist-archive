@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 672306,
       "name": "Average",
       "url": "https://open.spotify.com/track/229ZWFvNqnE1dEgVbBLCVB"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 344466,
       "name": "BENEDICTION",
       "url": "https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH"
@@ -963,12 +963,12 @@
           "url": "https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf"
         },
         {
-          "name": "Alessandro Presti",
-          "url": "https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH"
-        },
-        {
           "name": "Peppe Tringali",
           "url": "https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp"
+        },
+        {
+          "name": "Alessandro Presti",
+          "url": "https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH"
         }
       ],
       "date_added": "2022-03-25",
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2020-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 425453,
       "name": "Don't Stop Me Now",
       "url": "https://open.spotify.com/track/5ZR2kBtwXGvaB6naU8qGCJ"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 562400,
       "name": "GUILT",
       "url": "https://open.spotify.com/track/2qteg5TQZlkMpNZ46DQ99w"
@@ -2027,7 +2027,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 518053,
       "name": "January",
       "url": "https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC"
@@ -2435,7 +2435,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 216386,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/1mPjL8k3EG9hK3CvZcMZBK"
@@ -2541,7 +2541,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 194400,
       "name": "Nancy (With The Laughing Face)",
       "url": "https://open.spotify.com/track/6xXUcB3UuWfuaiExwlzY9Q"
@@ -2613,7 +2613,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 621680,
       "name": "Once upon a Summertime",
       "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
@@ -3245,7 +3245,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 131000,
       "name": "She's Alive",
       "url": "https://open.spotify.com/track/1GLnM2xHIG9DdLGESEEA6n"
@@ -3423,7 +3423,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 323600,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm"
@@ -3919,7 +3919,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 316960,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/5tLfkmsmlvkS022cEqCNLu"
@@ -4063,7 +4063,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 274106,
       "name": "Thierno",
       "url": "https://open.spotify.com/track/2SdthMHDqydhV2PceC9QBX"
@@ -4200,6 +4200,36 @@
     },
     {
       "album": {
+        "name": "Virgo",
+        "url": "https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU"
+      },
+      "artists": [
+        {
+          "name": "Thomas Hass",
+          "url": "https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw"
+        },
+        {
+          "name": "Thomas Blachman",
+          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Artur Tu\u017anik",
+          "url": "https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358693,
+      "name": "Virgo",
+      "url": "https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw"
+    },
+    {
+      "album": {
         "name": "Opening",
         "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
       },
@@ -4211,7 +4241,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 183106,
       "name": "V\u00e6r sterk, min sjel",
       "url": "https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy"
@@ -4269,7 +4299,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 572546,
       "name": "Where Can I Go Without You",
       "url": "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"
@@ -4341,7 +4371,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 488693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/6ttNHrgyK11RvgYOdC6Vpn"

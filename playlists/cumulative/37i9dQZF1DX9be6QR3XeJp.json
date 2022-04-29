@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Bambi Bains",
+  "description": "Discover your new favourite artists. Cover: ShaSimone",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -927,6 +927,24 @@
       "duration_ms": 177077,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50"
+    },
+    {
+      "album": {
+        "name": "LOCK OFF",
+        "url": "https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW"
+      },
+      "artists": [
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "LOCK OFF",
+      "url": "https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9"
     },
     {
       "album": {

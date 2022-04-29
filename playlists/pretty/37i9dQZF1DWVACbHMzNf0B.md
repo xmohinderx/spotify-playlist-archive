@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > Las estrellas del mundo urbano seducidas por el Regional Mexicano\. Alex Luna, DAAZ & Christian Nodal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,247 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,317 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

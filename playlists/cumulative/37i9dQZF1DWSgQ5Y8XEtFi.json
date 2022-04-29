@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 101783,
       "name": "ALL KILLER NO FILLER",
       "url": "https://open.spotify.com/track/6nfnDSD5Wa9LAD8jeN5tix"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 195030,
       "name": "Basilisk",
       "url": "https://open.spotify.com/track/4YOE7li8bD3CDbhzByFKcJ"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 109595,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 137746,
       "name": "DAYWALKER! (feat. CORPSE)",
       "url": "https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 202098,
       "name": "GDP",
       "url": "https://open.spotify.com/track/0nQivvsZFERbPwGO6gp4KL"
@@ -971,10 +971,32 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 160879,
       "name": "Hoover",
       "url": "https://open.spotify.com/track/2Xk50QBg06pdvGPbvzA4ON"
+    },
+    {
+      "album": {
+        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
     },
     {
       "album": {
@@ -1051,7 +1073,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 123870,
       "name": "Leglock",
       "url": "https://open.spotify.com/track/0erWz20ZejKi8WRNoeNQjJ"
@@ -1130,6 +1152,28 @@
     },
     {
       "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350120,
+      "name": "m.A.A.d city",
+      "url": "https://open.spotify.com/track/3qX1dqmDdmMvvfMVfsx4Bh"
+    },
+    {
+      "album": {
         "name": "Malto",
         "url": "https://open.spotify.com/album/1cAFnUjuTyTS3WgvGf2SQe"
       },
@@ -1159,7 +1203,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 127925,
       "name": "MAMBO",
       "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
@@ -1300,6 +1344,28 @@
     },
     {
       "album": {
+        "name": "Untrapped",
+        "url": "https://open.spotify.com/album/25o1u6zcmIp31q6CPwOaTe"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170122,
+      "name": "Pose (Bonus Track) (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/30YtmOd4KaKObRrLgSp54P"
+    },
+    {
+      "album": {
         "name": "Running as fast as I can",
         "url": "https://open.spotify.com/album/4LgWJecsEj31HGQ8AFUGfJ"
       },
@@ -1369,7 +1435,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 106877,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
@@ -1545,7 +1611,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
@@ -1648,6 +1714,24 @@
     },
     {
       "album": {
+        "name": "TEST ME",
+        "url": "https://open.spotify.com/album/0o0jRR4q6TNC6rGLLFZLxN"
+      },
+      "artists": [
+        {
+          "name": "REZXREKT",
+          "url": "https://open.spotify.com/artist/6V2diAw3yUuJlc6PMV398m"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47882,
+      "name": "TEST ME",
+      "url": "https://open.spotify.com/track/74Zanx9QoIRX0TV0wU7ScO"
+    },
+    {
+      "album": {
         "name": "THERAPY!",
         "url": "https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW"
       },
@@ -1677,7 +1761,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 124093,
       "name": "Vamp Anthem",
       "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
@@ -1717,7 +1801,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 205093,
       "name": "Who Dat Boy (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"

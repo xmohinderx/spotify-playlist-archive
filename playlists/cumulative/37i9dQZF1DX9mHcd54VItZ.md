@@ -2,9 +2,9 @@
 
 ### [SA Rock Essentials](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=TnxF3JSTRx2gX2NV4hpZsA">Lucy Kruger & The Lost Boys</a>
+> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW?si=oZbbsUQEQaKRU6VlW5Nfgw">Seether</a>
 
-99 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+101 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 | 2021-12-09 |  |
 | [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 |  |
 | [Autobiography of an Evening](https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Autobiography of an Evening](https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF) | 3:11 | 2022-04-08 |  |
+| [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 | 2022-04-28 |  |
 | [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 | 2022-02-18 |
 | [Begin Van Die Einde](https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Begin Van Die Einde](https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa) | 3:28 | 2021-02-25 |  |
 | [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [Fuzigish](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 | 2022-02-17 |  |
@@ -23,6 +24,7 @@
 | [Country in Me](https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK) | [Jono Grayson](https://open.spotify.com/artist/2A91hKSHbGC0awW297Plqi) | [Country in Me](https://open.spotify.com/album/14TyyqNVDqZ7i1X60CNE0J) | 2:30 | 2022-02-03 |  |
 | [Crystal Ball](https://open.spotify.com/track/2Comn4T4boybdm44GkTLIL) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Partypocalypse](https://open.spotify.com/album/4acglMyY50Un4LAW2Gla1H) | 3:36 | 2021-09-02 |  |
 | [Dapper](https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Dapper](https://open.spotify.com/album/2rpJjqpMJQOx69ksFk7vbB) | 3:08 | 2021-11-18 |  |
+| [Deliver Me](https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Deliver Me](https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN) | 3:46 | 2022-04-28 |  |
 | [Demons](https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk), [Bobby XX](https://open.spotify.com/artist/7M22xUpObTRyRjHa5b3frp) | [Demons](https://open.spotify.com/album/6E37QS4o6fWjdAQ6mHhaK8) | 2:05 | 2022-01-21 |  |
 | [Didn't Want To Fall In Love With You \- Radio Edit](https://open.spotify.com/track/1SLwPTrcTMwEDX2b7pQp8s) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Didn't Want To Fall In Love With You \(Radio Edit\)](https://open.spotify.com/album/6mxPuV54mjYg3kOYDNOkgh) | 2:55 | 2021-11-25 |  |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |

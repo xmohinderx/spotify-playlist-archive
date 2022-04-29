@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-45 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
+46 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 | 2021-11-03 |  |
 | [Bati Baal Ke](https://open.spotify.com/track/2RQj3BktqBSCYlvns7lM9Z) | [Maanya Arora](https://open.spotify.com/artist/2yis41rltks0pQr6nCBAD6) | [Bati Baal Ke](https://open.spotify.com/album/3LkK5f4Jub3h8HdvzHqIyq) | 3:44 | 2021-11-03 |  |
 | [Boliyan](https://open.spotify.com/track/4nX7vCRUiySBcVHyy8xWBJ) | [Kulwinder Dhillon](https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t) | [Kacheriyan Ch Mele Lagde](https://open.spotify.com/album/2mxYO1V5PTqFGgYrmeiGi8) | 5:04 | 2021-11-03 |  |
+| [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 |  |
 | [Buhe Bariyan](https://open.spotify.com/track/2S7jQnlsEVgMpNyZzPPwgK) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Buhe Bariyan](https://open.spotify.com/album/5vpSmKJ6pSPcGqLfHGfmpU) | 3:21 | 2021-11-03 |  |
 | [Chad Fareeda Kothey Utte](https://open.spotify.com/track/4IgCmYl6e9msF6NwqLF8KV) | [Samarjeet Randhava](https://open.spotify.com/artist/0CQ4IAP1aTbl4CsanNOZ57) | [Samarjeet Randhava's Sufi Rockland](https://open.spotify.com/album/71FkXqsYbZSX71T3FeoM6i) | 3:34 | 2021-11-03 |  |
 | [Challa](https://open.spotify.com/track/4Au2BuSo70ozHs8TFE2dwh) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara](https://open.spotify.com/album/55LNP0Gwa2VONSPlxbycVW) | 6:46 | 2021-11-03 |  |

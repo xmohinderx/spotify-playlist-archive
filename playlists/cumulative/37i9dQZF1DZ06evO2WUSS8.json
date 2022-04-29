@@ -1024,6 +1024,24 @@
     },
     {
       "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/43yhCd13mFeiOKLCo6bTUL"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/55dFmFmGpUIAIM41VeGgAw"
+    },
+    {
+      "album": {
         "name": "Quanto Mais Curtido Melhor",
         "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
       },
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 274133,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/5SvE1aqUInclPBCrgYwKYq"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 184146,
       "name": "Seen and Not Seen",
       "url": "https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 205773,
       "name": "Wanyinyin",
       "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"

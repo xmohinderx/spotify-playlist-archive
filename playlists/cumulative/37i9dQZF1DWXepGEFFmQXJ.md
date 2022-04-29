@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Kelsea Ballerini
 
-121 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+122 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [RAISED LIKE THAT](https://open.spotify.com/track/15NeNzRcjfuXTnOFHpnmzs) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [RAISED LIKE THAT](https://open.spotify.com/album/6dKTwyfwAejwySdL7dEcZZ) | 3:25 | 2021-12-30 |  |
 | [Redneck Be Like](https://open.spotify.com/track/00R3xLkJsIxENOc3qA4CDA) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Redneck Be Like](https://open.spotify.com/album/6Dd9qefRvgNuOPEYX3gdMK) | 2:46 | 2021-12-30 | 2022-03-05 |
 | [Right About Now](https://open.spotify.com/track/6wr9dPXfupWTsIUJv00LVF) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Right About Now](https://open.spotify.com/album/2yts4vdn9werWgmEGm1rki) | 3:09 | 2021-12-30 |  |
+| [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-28 |  |
 | [Run Out Of Road](https://open.spotify.com/track/6Qdy3AHJZbgY9dv4soh1yO) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Run Out Of Road](https://open.spotify.com/album/1CQ4RFvGLGvfFs1HyD4Is5) | 2:47 | 2021-12-30 | 2022-04-01 |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-01-21 |  |
 | [She's The One](https://open.spotify.com/track/42Di68uyYR96IwvHYtM0E9) | [Ronnie Joudo](https://open.spotify.com/artist/2gfAOvUByRRsIwjifbOKxC) | [She's The One](https://open.spotify.com/album/3ka1YGa2qQHfB7OfTx3KJw) | 3:31 | 2022-03-04 |  |
@@ -116,7 +117,7 @@
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2022-04-21 |  |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-03-31 |  |
 | [Unforgettable](https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Unforgettable](https://open.spotify.com/album/5970tU5hee5HwYy4fJbYgD) | 3:30 | 2022-01-27 | 2022-04-22 |
-| [What Am I Gonna Do?](https://open.spotify.com/track/5endOqbem32xRK4t1CxJep) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [What Am I Gonna Do?](https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo) | 2:46 | 2022-04-08 |  |
+| [What Am I Gonna Do?](https://open.spotify.com/track/5endOqbem32xRK4t1CxJep) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [What Am I Gonna Do?](https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo) | 2:46 | 2022-04-08 | 2022-04-29 |
 | [What Brought You Back](https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What Brought You Back](https://open.spotify.com/album/1z4Seg1FD1MCZ8axRpQNw1) | 3:08 | 2022-04-07 |  |
 | [What You Make It](https://open.spotify.com/track/5ruiqSweVb8QjUTYfKlomJ) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Kids On Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 3:05 | 2021-12-30 |  |
 | [Whatchawanna](https://open.spotify.com/track/3etK7qSs7H551b8KNPygjx) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [Whatchawanna](https://open.spotify.com/album/4GmKCBn3BCo41XByDKb1Wj) | 3:22 | 2021-12-30 | 2022-02-05 |

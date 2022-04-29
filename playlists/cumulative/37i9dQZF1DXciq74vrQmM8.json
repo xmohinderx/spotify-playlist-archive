@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "BrINg mE THe H0rIZoN wELc0Mes y0u 2 oUr uNivERse",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Scene Queen",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 238285,
       "name": "2much",
       "url": "https://open.spotify.com/track/3Cy5Dua2zVvH8YvJ5ORILo"
@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 130026,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v"
+    },
+    {
+      "album": {
+        "name": "needle pit",
+        "url": "https://open.spotify.com/album/4iuu04DtIfLzlMcCBlEl9E"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163535,
+      "name": "anatomy",
+      "url": "https://open.spotify.com/track/4qYSf300bVsKqFJBO4BVE1"
     },
     {
       "album": {
@@ -178,6 +196,24 @@
     },
     {
       "album": {
+        "name": "bad things",
+        "url": "https://open.spotify.com/album/5P2ahNLmrGy9JHJEJgkjon"
+      },
+      "artists": [
+        {
+          "name": "NOT THE MAIN CHARACTERS",
+          "url": "https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121851,
+      "name": "bad things",
+      "url": "https://open.spotify.com/track/51DVbtD1BziDPKP0kbHcQN"
+    },
+    {
+      "album": {
         "name": "BANSHEE HOLLOW",
         "url": "https://open.spotify.com/album/52ytO4git0zRExoV1kK9zA"
       },
@@ -207,7 +243,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 170316,
       "name": "Basement Superstar",
       "url": "https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK"
@@ -323,7 +359,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 168015,
       "name": "Bloody Crescent",
       "url": "https://open.spotify.com/track/2fWfZfktaLdOi5U13BLQKJ"
@@ -345,7 +381,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165874,
       "name": "BMTH shxw",
       "url": "https://open.spotify.com/track/277ocfhxIxwtnyKZiRTzqv"
@@ -429,7 +465,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc"
@@ -447,7 +483,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
@@ -465,7 +501,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 176653,
       "name": "CHAOS",
       "url": "https://open.spotify.com/track/2jddZTHfshojFoIiuAs0zp"
@@ -523,7 +559,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 158593,
       "name": "Come 2 Me",
       "url": "https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1"
@@ -571,7 +607,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 178721,
       "name": "CUT",
       "url": "https://open.spotify.com/track/4PfmDu5FfaGBX5wYUE6xzK"
@@ -589,7 +625,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 177326,
       "name": "Day I Die",
       "url": "https://open.spotify.com/track/4Qt6fOWtoMdjQYtV5jztL2"
@@ -651,7 +687,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 143000,
       "name": "Deepfake",
       "url": "https://open.spotify.com/track/12rjr4o42cqF77B2t8bvZ1"
@@ -687,7 +723,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 171830,
       "name": "Destructible",
       "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"
@@ -745,7 +781,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 167604,
       "name": "DiE4u - six impala \"DiE6u\" Remix",
       "url": "https://open.spotify.com/track/6gKqGwrNvxaKMAq6jb8nab"
@@ -763,7 +799,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 121245,
       "name": "distraction",
       "url": "https://open.spotify.com/track/2vXKEk0RtMsLSv1NVBe7r8"
@@ -781,10 +817,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 143272,
       "name": "DO U LIKE ME NOW?",
       "url": "https://open.spotify.com/track/22Uh81w7dh0sdE4egnLndv"
+    },
+    {
+      "album": {
+        "name": "dog days",
+        "url": "https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176833,
+      "name": "dog days",
+      "url": "https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1"
     },
     {
       "album": {
@@ -911,7 +969,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 302826,
       "name": "Eyes on Fire",
       "url": "https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR"
@@ -929,7 +987,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 215965,
       "name": "Faces Change",
       "url": "https://open.spotify.com/track/1oC5DiAccEfq3fXUw7mDvY"
@@ -969,7 +1027,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 156225,
       "name": "fall apart (with glaive)",
       "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
@@ -1009,7 +1067,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 117733,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/4KY5HkCPZKa57sCZZk8yiG"
@@ -1099,7 +1157,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 187323,
       "name": "float",
       "url": "https://open.spotify.com/track/0JI3pxnreOq79EK1TlCVfp"
@@ -1247,7 +1305,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 174600,
       "name": "Girls Can Do Anything",
       "url": "https://open.spotify.com/track/6heGVcEj4wAyvdM9vg81kF"
@@ -1265,7 +1323,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 145272,
       "name": "Girls In Bikinis",
       "url": "https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"
@@ -1305,7 +1363,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 143066,
       "name": "go die!",
       "url": "https://open.spotify.com/track/4ISTVbFzJhmbhjSxu8kfFS"
@@ -1323,7 +1381,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 186462,
       "name": "god sent me as karma",
       "url": "https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3"
@@ -1341,7 +1399,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 186277,
       "name": "Hate Me Too",
       "url": "https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2"
@@ -1507,7 +1565,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 423529,
       "name": "I Really Like You pt2",
       "url": "https://open.spotify.com/track/01RpmdGOUoBzrLsC46BSyv"
@@ -1525,7 +1583,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 219686,
       "name": "I Spit On Your Grave",
       "url": "https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF"
@@ -1547,7 +1605,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 237070,
       "name": "I Went Too Far - MK Remix / Radio Version",
       "url": "https://open.spotify.com/track/71GieY2cMEh4s7Unv00gnw"
@@ -1623,7 +1681,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "iLike",
       "url": "https://open.spotify.com/track/38Drg2g9PNCZZo4j2omrkh"
@@ -1641,7 +1699,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 224251,
       "name": "IN YOUR BLOOD",
       "url": "https://open.spotify.com/track/2evPSkNE3z0unewvQVPoI8"
@@ -1764,6 +1822,28 @@
     },
     {
       "album": {
+        "name": "KILLIN",
+        "url": "https://open.spotify.com/album/3Oy7WMxX7dtnKx4HVCnyHP"
+      },
+      "artists": [
+        {
+          "name": "GREEN ORXNGE",
+          "url": "https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G"
+        },
+        {
+          "name": "Eyez Hate U",
+          "url": "https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123145,
+      "name": "KILLIN",
+      "url": "https://open.spotify.com/track/0QNXRzvMbrX2NC6eZ8nLSl"
+    },
+    {
+      "album": {
         "name": "Party At The Cemetery",
         "url": "https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ"
       },
@@ -1779,10 +1859,32 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 143241,
       "name": "Knife Party (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/08DG2bPYn9GHQt5AITyRtD"
+    },
+    {
+      "album": {
+        "name": "Kiss Of Death",
+        "url": "https://open.spotify.com/album/0jWtiXlIT1bKH9qrAuKtCj"
+      },
+      "artists": [
+        {
+          "name": "IC3PEAK",
+          "url": "https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186875,
+      "name": "Last Day / \u041d\u043e\u0432\u044b\u0439 \u0414\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/7bPrnYvKkyHCNMCrFCUyXN"
     },
     {
       "album": {
@@ -1801,7 +1903,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu"
@@ -1841,7 +1943,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 169363,
       "name": "Little Idiot",
       "url": "https://open.spotify.com/track/6W9k26vOGte8OWV5Aewghg"
@@ -1877,7 +1979,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 196982,
       "name": "Loner",
       "url": "https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY"
@@ -1931,7 +2033,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 138813,
       "name": "Maggots",
       "url": "https://open.spotify.com/track/4z273kPQy8lRomWDuwOrb4"
@@ -1949,7 +2051,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "Major Waste",
       "url": "https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32"
@@ -1985,7 +2087,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh"
@@ -2011,7 +2113,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 166003,
       "name": "mememe",
       "url": "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
@@ -2059,7 +2161,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 168596,
       "name": "MIDNIGHT MASS",
       "url": "https://open.spotify.com/track/19Rs8vYHdVLUzXVTjP3XrM"
@@ -2077,7 +2179,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 123093,
       "name": "MIKE",
       "url": "https://open.spotify.com/track/4WkfTWEVvYavJ5DP14Trh7"
@@ -2113,7 +2215,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 146474,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/0VGRtiYYW4ch4SrkFkLlYJ"
@@ -2131,7 +2233,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 92856,
       "name": "Miss YOU!",
       "url": "https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf"
@@ -2153,7 +2255,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 143448,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ"
@@ -2197,7 +2299,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 167457,
       "name": "My Bloody Valentine",
       "url": "https://open.spotify.com/track/4hnKoBZJ3XHMkNXCFWvoAm"
@@ -2251,7 +2353,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 142005,
       "name": "my pointy teeth",
       "url": "https://open.spotify.com/track/27kaLzrGddRuVAEVaJUidv"
@@ -2287,7 +2389,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 172373,
       "name": "new ground",
       "url": "https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX"
@@ -2345,7 +2447,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 164211,
       "name": "no more",
       "url": "https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL"
@@ -2371,7 +2473,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 193376,
       "name": "No More Friends (with Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/5jbk17nRpXXvzGXPXjm3uW"
@@ -2443,7 +2545,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 149920,
       "name": "PANIC ATTACK",
       "url": "https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx"
@@ -2479,7 +2581,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 100363,
       "name": "PARASITE",
       "url": "https://open.spotify.com/track/0HWoUIrMqJeXA73ktjHt8a"
@@ -2501,7 +2603,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 118167,
       "name": "perfume",
       "url": "https://open.spotify.com/track/4gCUtwksS3BTHgzzzWjBl6"
@@ -2537,10 +2639,46 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 124066,
       "name": "pink diamond",
       "url": "https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY"
+    },
+    {
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142018,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6"
+    },
+    {
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133483,
+      "name": "Pink Paper",
+      "url": "https://open.spotify.com/track/0fQlpBKc3AJPmoudVpmDje"
     },
     {
       "album": {
@@ -2591,7 +2729,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 156879,
       "name": "pity party (hyperpunk remix)",
       "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"
@@ -2627,7 +2765,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 172346,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
@@ -2649,7 +2787,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176000,
       "name": "Power (feat. Pussy Riot)",
       "url": "https://open.spotify.com/track/2no9gQFqQc0SwelSEJ2SQI"
@@ -2667,7 +2805,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 152626,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p"
@@ -2703,7 +2841,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 200488,
       "name": "Puppy Pound",
       "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
@@ -2721,7 +2859,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "R34l L1e$",
       "url": "https://open.spotify.com/track/5m6YJ2umjuFD9CK4h7Ca9w"
@@ -2739,7 +2877,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 158850,
       "name": "RAD",
       "url": "https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY"
@@ -2783,6 +2921,24 @@
       "duration_ms": 134763,
       "name": "REJECT",
       "url": "https://open.spotify.com/track/3eAvQAhMnpQBggJm8GM7hc"
+    },
+    {
+      "album": {
+        "name": "repeat after me",
+        "url": "https://open.spotify.com/album/6D7fw4Yzw3rVgu6zjDnZGe"
+      },
+      "artists": [
+        {
+          "name": "marg\u00f8",
+          "url": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142025,
+      "name": "repeat after me",
+      "url": "https://open.spotify.com/track/0gvVLIViL9Bm4RiMYpe1Zb"
     },
     {
       "album": {
@@ -2833,7 +2989,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 222493,
       "name": "rosier/punk2",
       "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
@@ -2923,7 +3079,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
@@ -3035,7 +3191,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176613,
       "name": "soshy",
       "url": "https://open.spotify.com/track/77ThGWtKLzRLtcLUxJ8ONd"
@@ -3083,7 +3239,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 229014,
       "name": "Sour Lemon",
       "url": "https://open.spotify.com/track/7F5lNOC9AX6NEd9clIlfv7"
@@ -3119,7 +3275,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 153317,
       "name": "Sugared Up",
       "url": "https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb"
@@ -3155,7 +3311,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 166866,
       "name": "THE HUNTED",
       "url": "https://open.spotify.com/track/51E0TK4Hf3XMe87RQzVJAi"
@@ -3173,7 +3329,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 133186,
       "name": "THERAPY!",
       "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
@@ -3271,7 +3427,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 160925,
       "name": "U Love It",
       "url": "https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC"
@@ -3289,7 +3445,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 90871,
       "name": "UH OH!",
       "url": "https://open.spotify.com/track/2LPgMc1ZM0VcVm1sdeCNwV"
@@ -3369,7 +3525,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 135877,
       "name": "Violent",
       "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
@@ -3405,7 +3561,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 152109,
       "name": "Wannabe - Spotify Singles",
       "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
@@ -3445,10 +3601,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 202573,
       "name": "We're All Going To Die",
       "url": "https://open.spotify.com/track/6jQmhIdemWV7Sp9STU55Fp"
+    },
+    {
+      "album": {
+        "name": "Quantum Jumping",
+        "url": "https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "weekends",
+      "url": "https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk"
     },
     {
       "album": {
@@ -3499,7 +3673,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 175413,
       "name": "Why Did You Tell Me That You Loved Me?",
       "url": "https://open.spotify.com/track/62FVhzJNJZ0DsO0hhLu3f4"
@@ -3517,7 +3691,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 169262,
       "name": "Wokeup!",
       "url": "https://open.spotify.com/track/65pgKsJuP0bYuqy4hiRztY"
@@ -3571,7 +3745,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 158924,
       "name": "You've Created a Monster",
       "url": "https://open.spotify.com/track/0ItZEK2MuBvrACJm7hIjgx"

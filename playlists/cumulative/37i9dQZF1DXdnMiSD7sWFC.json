@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 234271,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 230031,
       "name": "Halo Light",
       "url": "https://open.spotify.com/track/6T6elHOwbZDoZauaaJF82F"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 397773,
       "name": "Keep Going - Desert Island Version",
       "url": "https://open.spotify.com/track/0JAUUAKbxhmcQvTAdavrHt"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 223708,
       "name": "Water from the Mountain",
       "url": "https://open.spotify.com/track/6mpKlEAqZRk2xxu4yCAJ8s"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 197440,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3wKotv6eQWhGGa3vxiq3uv"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 174960,
       "name": "You - Midnight Version",
       "url": "https://open.spotify.com/track/7zBnzXGHhof5U4RLYKORHY"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-660 songs - 1 day 7 hr 21 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+662 songs - 1 day 7 hr 25 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [.logicx](https://open.spotify.com/track/5csTYqPNsPECtmuw758mWi) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO BANG! HOLD ON!](https://open.spotify.com/album/7uLeEgq6ndnivtW6Kwh5ar) | 1:55 | 2022-03-26 | 2022-03-28 |
 | [1 000 000](https://open.spotify.com/track/2kTdm97JgsVqkMbQChhXD1) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 3:02 | 2021-03-27 | 2021-03-29 |
 | [1000\-7](https://open.spotify.com/track/2L2iWhBsyosVcxx36iurfa) | [fem.love](https://open.spotify.com/artist/6PzEFDyksWekGikJc8M6Cr) | [1000\-7](https://open.spotify.com/album/6rvwpnXPVYdeHuUJ995Tqe) | 1:57 | 2021-07-04 | 2022-03-18 |
-| [1000\-7](https://open.spotify.com/track/2IMrzJTRHGndoUbM39QIJ7) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [GENJUTSU](https://open.spotify.com/artist/3AqIMsKWh90Y41un7hL29x) | [1000\-7](https://open.spotify.com/album/4mDMpytDYT55xNnV8LFTBE) | 2:07 | 2021-09-07 |  |
+| [1000\-7](https://open.spotify.com/track/2IMrzJTRHGndoUbM39QIJ7) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [GENJUTSU](https://open.spotify.com/artist/3AqIMsKWh90Y41un7hL29x) | [1000\-7](https://open.spotify.com/album/4mDMpytDYT55xNnV8LFTBE) | 2:07 | 2021-09-07 | 2022-04-29 |
 | [12](https://open.spotify.com/track/2B9N1fCinwxEo89GcDGB5I) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [12](https://open.spotify.com/album/0wRqxfYXrBcDQGgmiuRKmL) | 3:00 | 2022-03-18 |  |
 | [16](https://open.spotify.com/track/22ONmP2pHRZKTngdAl25aj) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 2:27 | 2021-04-29 | 2021-04-30 |
 | [17 лет](https://open.spotify.com/track/3dlrN8fcpdUx0t2I0QsMH2) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 5:36 | 2021-12-18 | 2021-12-29 |
@@ -66,8 +66,9 @@
 | [Cheat Code](https://open.spotify.com/track/4K0ELLoquGS6aTRRom52zv) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:12 | 2021-10-17 | 2021-10-18 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-02 | 2021-12-03 |
 | [Close Eyes](https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD) | [Chego1963](https://open.spotify.com/artist/5UkiJi6aTQnJeqCrsGEAt7), [onurxt](https://open.spotify.com/artist/1Sl3NqTA49ay9Cb1ANXQog), [Rylixe](https://open.spotify.com/artist/57wNgV40K2oSH5KyzvVw1F) | [Close Eyes](https://open.spotify.com/album/6phw9EwZgc6h5tmiIRndVe) | 2:12 | 2022-04-10 | 2022-04-22 |
-| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-06-27 |  |
+| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-06-27 | 2022-04-29 |
 | [Close Eyes](https://open.spotify.com/track/4cboAOd9H48uPTWknVyLBq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/5A4ufdNeSzNjZePkkZrhcO) | 2:12 | 2021-06-16 | 2021-06-27 |
+| [Close Eyes](https://open.spotify.com/track/220oA415Hr87iYECBgabgE) | [KaSuo](https://open.spotify.com/artist/5XzfL0Zz0gVDDw9aOEtlhn) | [Close Eyes](https://open.spotify.com/album/6vTv8avMRDNfVHZQPAH9aN) | 2:12 | 2022-04-28 |  |
 | [COLE BENNETT](https://open.spotify.com/track/7zAmDwzflyyiuTmpX0Yw0m) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [ROOMINATION](https://open.spotify.com/album/7ofd6S4JDREJIPbLqMqWK1) | 1:56 | 2021-12-16 | 2021-12-17 |
 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 | 2021-05-25 | 2021-07-18 |
 | [Cristal & МОЁТ](https://open.spotify.com/track/4KfmruShP5zOi9hYjM76e6) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Cristal & МОЁТ](https://open.spotify.com/album/6PP0Ir5XTp5gksiloHJP6P) | 2:17 | 2021-03-27\* | 2021-06-27 |
@@ -518,6 +519,7 @@
 | [Новая волна](https://open.spotify.com/track/7rRzijIIKQ8GntJ8IUwUyY) | [DJ SMASH](https://open.spotify.com/artist/1fLIzbK5e8MGrLKj1dEMsg), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Новая волна](https://open.spotify.com/album/4hwnkuhRmnW9rFN1P0m6D4) | 2:38 | 2021-04-04 | 2021-05-28 |
 | [Новогодняя](https://open.spotify.com/track/2CZPJLTtQ8fNps1iOw4xfb) | [Diskoteka Avariya](https://open.spotify.com/artist/2NL5u7aIFrmuOHbYBYWjun) | [Новогодняя](https://open.spotify.com/album/75uIlTRvw7JjbRYl3tn1Qi) | 5:11 | 2022-01-01 | 2022-01-03 |
 | [Новогодняя](https://open.spotify.com/track/3e4ksSBSoDqTDOCGDwyMQ8) | [Verka Serduchka](https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg) | [Чита Дрита](https://open.spotify.com/album/6bhs5CVBzNK2EcdxgVs3mv) | 2:23 | 2022-01-01 | 2022-01-03 |
+| [Номер](https://open.spotify.com/track/1chBlROr3nK1SwDPCdN8gv) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Номер](https://open.spotify.com/album/4Kkl3hh2pD8griFAUTIj9w) | 1:57 | 2022-04-28 |  |
 | [Номера](https://open.spotify.com/track/5wpQBHcu2lNrhKwBzChNgP) | [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD) | [ЁП](https://open.spotify.com/album/7gz0mG1QaWiDXS1k5pb787) | 3:59 | 2021-09-18 | 2021-09-24 |
 | [Нон\-фикшн](https://open.spotify.com/track/310xojrAtukHAvN1BpAKlL) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:35 | 2021-12-03 | 2021-12-11 |
 | [Нонграта](https://open.spotify.com/track/7haLtqfsBtFBAT4AzVoo0c) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe), [SP4K](https://open.spotify.com/artist/1ju3JsvJuNAMjxoIqaSP7R) | [QWERTY LANG](https://open.spotify.com/album/4nQp6yhjeUyc2KDg5I6z1R) | 2:07 | 2021-12-12 | 2021-12-13 |

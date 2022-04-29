@@ -2548,6 +2548,28 @@
     },
     {
       "album": {
+        "name": "El Sonido",
+        "url": "https://open.spotify.com/album/7zFuQZ8a9ZgRZLimpmVsbL"
+      },
+      "artists": [
+        {
+          "name": "DJ 13",
+          "url": "https://open.spotify.com/artist/0inoGlKI3kFtAUtP5ihqVe"
+        },
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231944,
+      "name": "El Sonido",
+      "url": "https://open.spotify.com/track/7oUiC3vAMViCZxR6RIwaje"
+    },
+    {
+      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/66fJP5SDCyDQtRmBAkyA2P"
       },

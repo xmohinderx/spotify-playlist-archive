@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209986,
+      "name": "Crying Wolf",
+      "url": "https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0"
+    },
+    {
+      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -351,7 +369,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 210924,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 254173,
       "name": "Heavy Weather",
       "url": "https://open.spotify.com/track/6cDfjpzbfreA0Tv97t2Xll"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 237160,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/2SnynjpKEEKBqNCLCsepjR"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 174255,
       "name": "Quiet, Heavy Dreams",
       "url": "https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 343960,
       "name": "This Past Storm",
       "url": "https://open.spotify.com/track/4EOsTix8Jb4bugvRG1G7vx"

@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 159569,
       "name": "Badman",
       "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 200013,
       "name": "BARRICADE",
       "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "GUCCI LOUIS",
+        "url": "https://open.spotify.com/album/5FL38aYaSURhUV1aymbv3u"
+      },
+      "artists": [
+        {
+          "name": "Space Rangers",
+          "url": "https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182903,
+      "name": "GUCCI LOUIS",
+      "url": "https://open.spotify.com/track/7kjMP3Ac2AnOZ4mK3sS0rO"
+    },
+    {
+      "album": {
         "name": "Higher Purpose",
         "url": "https://open.spotify.com/album/4HsupPLt9yoTSy5f5bCxNm"
       },
@@ -691,7 +709,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 137977,
       "name": "I don't give a Fuck",
       "url": "https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 178994,
       "name": "In My Car",
       "url": "https://open.spotify.com/track/6iXxT2TCOyOmq15lDMHmiR"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 274977,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 198634,
       "name": "Roots - OddKidOut Remix",
       "url": "https://open.spotify.com/track/7jV4pzMGvGSRZ4F214Tznl"

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128403,
+  "num_followers": 128392,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM3NCxjMjAwYmYxOTNjZDlkYmI1MDIwZGFmNWU1YjY5MTk0M2UxYTNkMGI3",
+  "snapshot_id": "MzM3NixhMjk0ZTM5MGQ1NDk1OGRiZjhlNjgwY2ExZWI5MmU4M2IyZWFhNjQ0",
   "tracks": [
+    {
+      "added_at": "2022-04-28 16:53:19",
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT"
+      },
+      "artists": [
+        {
+          "name": "Annix",
+          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch"
+    },
     {
       "added_at": "2022-04-27 15:57:31",
       "album": {
@@ -1083,22 +1103,6 @@
       "duration_ms": 210511,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "My Wicked",
-        "url": "https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 233048,
-      "name": "My Wicked",
-      "url": "https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

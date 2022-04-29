@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-103 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+105 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 | 2022-03-25 |  |
 | [Ex Wako Hawezi](https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ex Wako Hawezi](https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc) | 3:48 | 2022-03-10 |  |
 | [Fair Game](https://open.spotify.com/track/0N6jiFbnIPADb0ywO2Chqs) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Fair Game](https://open.spotify.com/album/1IxoYVkTwUXmMnfnPpxQXo) | 2:12 | 2022-01-27 |  |
+| [Fall In Love](https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Fall In Love](https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf) | 1:14 | 2022-04-28 |  |
 | [Feel A Vibe](https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br) | [Feel A Vibe](https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp) | 2:59 | 2021-12-09 |  |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-02-24 | 2022-04-02 |
 | [Filthy Rich](https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Filthy Rich](https://open.spotify.com/album/2xWZiT64H6JH8NSV3kHs0l) | 2:46 | 2022-01-13 |  |
@@ -41,7 +42,7 @@
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 |  |
 | [iBururu](https://open.spotify.com/track/3WoZm7j7yedbj9Dh0XIYBX) | [Sema Sole](https://open.spotify.com/artist/6bKkC8yidNL8j94vKjLysJ) | [Bururu](https://open.spotify.com/album/5dtXHFvbsamHEh8YB9MGbX) | 2:54 | 2021-10-15 | 2022-01-28 |
 | [Jaafari's 19th](https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Jaafari's 19th](https://open.spotify.com/album/0ai61scImkAr7m5BXocapW) | 3:33 | 2022-01-27 |  |
-| [JAMES BOND](https://open.spotify.com/track/0Iq3j9CMUCsCi2j10BS4os) | [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [JAMES BOND](https://open.spotify.com/album/5CL0vcPX9aWVhD7lzrO4Cu) | 3:16 | 2021-10-29 |  |
+| [JAMES BOND](https://open.spotify.com/track/0Iq3j9CMUCsCi2j10BS4os) | [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [JAMES BOND](https://open.spotify.com/album/5CL0vcPX9aWVhD7lzrO4Cu) | 3:16 | 2021-10-29 | 2022-04-29 |
 | [Just Another Love Song](https://open.spotify.com/track/20u7hieXi6VV3t6p5s9ggJ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Meghan](https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI) | [Just Another Love Song](https://open.spotify.com/album/532BimGtZfjb35BXOSTnJe) | 2:57 | 2022-02-24 |  |
 | [Kampala](https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Kampala](https://open.spotify.com/album/3sOQTISPW0P2fJIMq3AFPH) | 2:38 | 2021-10-15 | 2022-03-26 |
 | [Kanyoni](https://open.spotify.com/track/6UZcrzuokSStY50hAG20dX) | [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Shorts \-EP](https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu) | 2:40 | 2021-10-15 | 2022-01-28 |
@@ -81,6 +82,7 @@
 | [Pleasure Riddim](https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Pleasure Riddim](https://open.spotify.com/album/5RSh4SiFXncnAnheuqLp7i) | 2:10 | 2022-02-04 |  |
 | [rektless](https://open.spotify.com/track/53ieS7pA76pdBS3dig8Vuk) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [rektless](https://open.spotify.com/album/6IGKWpDBZDwntsLmdGIrCT) | 2:14 | 2021-10-15 | 2022-03-18 |
 | [Restart](https://open.spotify.com/track/6eZ4hwftRrwmEHlWIoiUD8) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Restart](https://open.spotify.com/album/0Gtt1qKIGPdmiK1pI1OMtz) | 3:53 | 2021-12-16 |  |
+| [Sambaratika](https://open.spotify.com/track/5JylASyKwZDJl64NjuTfQD) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Sambaratika](https://open.spotify.com/album/0lIeaCNbdsXfvwaLReYjo8) | 3:03 | 2022-04-28 |  |
 | [SAME](https://open.spotify.com/track/71oFX1aP1QXg0QI3Yb2arI) | [Ms.Katana](https://open.spotify.com/artist/3rL1IWGmtKC224o3Hn4yJQ), [DJ John Vincent](https://open.spotify.com/artist/1utY6zlEXlarBchNg7YYzv) | [SAME](https://open.spotify.com/album/2TWLFJXFpiRZcRJtKNET10) | 3:26 | 2021-10-15 | 2022-02-25 |
 | [SAME ENERGY](https://open.spotify.com/track/1gQlBMBfyxsGYZlSQ7bkm3) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAME ENERGY](https://open.spotify.com/album/4GINHOzNbZoL05U6RRWO4B) | 2:01 | 2021-10-15 |  |
 | [Sana](https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7) | [Sana](https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR) | 2:43 | 2022-03-03 |  |
@@ -98,7 +100,7 @@
 | [Terene](https://open.spotify.com/track/7AWNG9r1Rlv8YdLUd09AKi) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Kommanda Obbs](https://open.spotify.com/artist/1ZfZwBPYz6nAQK4H0Ybd2v) | [Terene](https://open.spotify.com/album/5t5G9vRwwqqaloR0DxSOTD) | 3:27 | 2021-10-15 |  |
 | [This Depression Thing](https://open.spotify.com/track/5sdWuECOLbdWDzfYe9qOhm) | [G L E N](https://open.spotify.com/artist/6Zn7q82x0RrkCcxeTQ2t5x) | [This Depression Thing](https://open.spotify.com/album/4yac4Do5pCzuHEGjTgTq0V) | 3:42 | 2022-03-17 |  |
 | [TIMBUKTU](https://open.spotify.com/track/6E54DHYKNZeAcwJmZ4Z5Kl) | [MVNSA](https://open.spotify.com/artist/7eDhN1XQFftwBO8b8AP4tc), [Dag Tenere](https://open.spotify.com/artist/2R1UoujOq4kekTzz0eO9mM) | [Name Me Mansa](https://open.spotify.com/album/5BfJZMIXGxzyV9eQA44tMz) | 3:09 | 2021-10-15 | 2022-01-28 |
-| [Tingisha Kidole](https://open.spotify.com/track/0dUO3M0hV0kodob3asRrDp) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 1:52 | 2021-10-15 |  |
+| [Tingisha Kidole](https://open.spotify.com/track/0dUO3M0hV0kodob3asRrDp) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 1:52 | 2021-10-15 | 2022-04-29 |
 | [Tonelabira](https://open.spotify.com/track/6rQiDI920PgWZ7xei51JZr) | [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Tonelabira](https://open.spotify.com/album/1PrhVocWFG7cL7hjrezxZ6) | 3:19 | 2021-11-04 | 2022-03-26 |
 | [TREADING WATER](https://open.spotify.com/track/59uf6SH8YAoiylleU4nQWT) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [TREADING WATER](https://open.spotify.com/album/0TQkcyZaYiEoOFzJGoTdlu) | 4:12 | 2021-10-15 |  |
 | [Twisted](https://open.spotify.com/track/3yzGebxFtsxeh0iEAgyyUq) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/45dLgbt1hpbGuUDpwexuTv) | 4:10 | 2022-03-17 |  |

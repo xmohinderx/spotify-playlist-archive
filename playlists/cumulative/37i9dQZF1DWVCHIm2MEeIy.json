@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 379631,
       "name": "All I See - BAUGRUPPE90 Remix",
       "url": "https://open.spotify.com/track/56fgIOoSnJS3yPmxrjKx9c"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 416128,
       "name": "All The Little Things",
       "url": "https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
@@ -311,10 +311,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 323149,
       "name": "Bodycheck",
       "url": "https://open.spotify.com/track/0yuhIiOMzFAPJzb54Ci0sd"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/02WgT1S15fhC88V1F6iBzJ"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+        },
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377200,
+      "name": "Breathe - Digitalism Remix",
+      "url": "https://open.spotify.com/track/1ngkdVl6BEQ8xiEUu6UKP5"
     },
     {
       "album": {
@@ -329,7 +351,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 511990,
       "name": "Can I",
       "url": "https://open.spotify.com/track/3qavQewlgidBuYHrJe3Qqb"
@@ -347,7 +369,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 379356,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
@@ -405,7 +427,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 399360,
       "name": "Charun",
       "url": "https://open.spotify.com/track/5eP0MIbET0f81Qt5ux45qy"
@@ -423,7 +445,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 459879,
       "name": "Chiron",
       "url": "https://open.spotify.com/track/0877TW41INgRxwCBIhLwGm"
@@ -511,7 +533,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 397882,
       "name": "Copal - Super Flu Remix",
       "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
@@ -533,7 +555,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 250171,
       "name": "Creature",
       "url": "https://open.spotify.com/track/3qtb4QrRXds6ub4k1Dp4CS"
@@ -595,7 +617,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 236129,
       "name": "Darkness & Light",
       "url": "https://open.spotify.com/track/4vsFruj3yvncBgnVeSpTfj"
@@ -683,6 +705,24 @@
       "duration_ms": 398268,
       "name": "Devon - Oliver Huntemann Remix",
       "url": "https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/5xHkztdsM3wevIdT5V5ex2"
+      },
+      "artists": [
+        {
+          "name": "Alex Breitling",
+          "url": "https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265822,
+      "name": "Different - Radio Edit",
+      "url": "https://open.spotify.com/track/7bkLpeboqS9lmZhnelIDeQ"
     },
     {
       "album": {
@@ -901,7 +941,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 178548,
       "name": "Fairytale - Radio Edit",
       "url": "https://open.spotify.com/track/3WXPhg7PtSheH2ZYzWBKTu"
@@ -923,7 +963,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 248709,
       "name": "Fall to the Call",
       "url": "https://open.spotify.com/track/4diYc4BmafdpQiixJ6zVBI"
@@ -999,7 +1039,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 208000,
       "name": "Gazer",
       "url": "https://open.spotify.com/track/7xGIyQpk0Xkr2f7QsvqEcN"
@@ -1017,7 +1057,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 251803,
       "name": "Give It 2 Me",
       "url": "https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx"
@@ -1035,7 +1075,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 480000,
       "name": "Go",
       "url": "https://open.spotify.com/track/5FsRbUIHwjAF7bghHIts5Y"
@@ -1129,7 +1169,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 238080,
       "name": "Haute Definition",
       "url": "https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B"
@@ -1249,7 +1289,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 445161,
       "name": "Internal Jungle",
       "url": "https://open.spotify.com/track/0FxLMpVTDgdNmk0Ehc0ZKx"
@@ -1289,7 +1329,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 342027,
       "name": "Lady Cherry",
       "url": "https://open.spotify.com/track/5Aub2PCLAJi4QuMnN5g5d3"
@@ -1405,7 +1445,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 214198,
       "name": "Living on Video - Claptone Remix",
       "url": "https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG"
@@ -1493,7 +1533,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 412859,
       "name": "Loving You Like Always - Sainte Vie Remix",
       "url": "https://open.spotify.com/track/4wp5DGGbvBcalN7rq8Dn2d"
@@ -1511,7 +1551,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Luna",
       "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
@@ -1675,7 +1715,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 448750,
       "name": "Nosara",
       "url": "https://open.spotify.com/track/0cAarkhbKeI6z0YnpwjyLP"
@@ -1751,7 +1791,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 372561,
       "name": "Otaku",
       "url": "https://open.spotify.com/track/2pKqAIkPQraNbuL0quBuPo"
@@ -1773,7 +1813,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 166440,
       "name": "Paper Aeroplane (feat. Leo Stannard)",
       "url": "https://open.spotify.com/track/0KaVFd0jKjEjX0Xc5gmHc7"
@@ -2099,7 +2139,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV"
@@ -2139,7 +2179,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 441898,
       "name": "Silence & Secrets - Adriatique Remix",
       "url": "https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn"
@@ -2161,7 +2201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 411676,
       "name": "Siren - Original Mix",
       "url": "https://open.spotify.com/track/49iFrXYyyHFvWC1gKnfZcR"
@@ -2345,7 +2385,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 428814,
       "name": "That Breeze",
       "url": "https://open.spotify.com/track/1OjIjbnrxj6D3HQFnIMZdh"
@@ -2399,7 +2439,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/0qT8WX3WC3Tz3zgH9rxVH1"
@@ -2435,7 +2475,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 398563,
       "name": "The Key",
       "url": "https://open.spotify.com/track/0EJ2QK50aalqkMgARQIb5y"
@@ -2453,7 +2493,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 282520,
       "name": "The Oracle",
       "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
@@ -2471,10 +2511,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 414335,
       "name": "The Sky Is Red",
       "url": "https://open.spotify.com/track/2CYsjZ2oxUK9KhKqEAMTsL"
+    },
+    {
+      "album": {
+        "name": "The Volume / The Music Is Mine",
+        "url": "https://open.spotify.com/album/3JLDi2TBdao3xxxFXoYGNc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "Alan T",
+          "url": "https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397106,
+      "name": "The Volume",
+      "url": "https://open.spotify.com/track/1qWRGD7w0sd4ManHNxEjOa"
     },
     {
       "album": {
@@ -2555,7 +2617,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 415373,
       "name": "Toxic Romance",
       "url": "https://open.spotify.com/track/4gkdmBV68a59NBnLiuPwWV"
@@ -2643,7 +2705,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 402198,
       "name": "Untold",
       "url": "https://open.spotify.com/track/4k2XhQNH68LpS0YxQDTcov"
@@ -2799,7 +2861,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 390222,
       "name": "Who Died and Made You King",
       "url": "https://open.spotify.com/track/2W3XpXYmotMsZ2aN1224Gw"
@@ -2835,7 +2897,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 347277,
       "name": "You",
       "url": "https://open.spotify.com/track/51k60Gf3Ka7wRICyicdSG8"

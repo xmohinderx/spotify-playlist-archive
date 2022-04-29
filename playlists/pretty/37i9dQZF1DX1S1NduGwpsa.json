@@ -1,15 +1,343 @@
 {
-  "description": "The best jazz new releases. Photo : \nMichael Bubl\u00e9",
-  "num_followers": 93319,
+  "description": "The best jazz new releases. Photo : \nNorah Jones",
+  "num_followers": 93361,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU3ODUyMCwwMDAwMDBjYzAwMDAwMTgwNGUyNTc4MjAwMDAwMDE4MDFjYzYxY2Rk",
+  "snapshot_id": "MTY1MTE4MzMyMCwwMDAwMDBjZDAwMDAwMTgwNzIzMWZjMzMwMDAwMDE4MDY0ZmIwNDUy",
   "tracks": [
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/38niOCuDsxhw0jIGL6Q2Ph"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/4cvQBhqjopA89EikPX5ohP"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/7CCjUNt1yUBYj87AE4Pzzw"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Elchin Shirinov",
+          "url": "https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        }
+      ],
+      "duration_ms": 274403,
+      "name": "The Window",
+      "url": "https://open.spotify.com/track/2lJzX1Vn1bEuCRrNUotnup"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Happy Birthd\u00e9",
+        "url": "https://open.spotify.com/album/7vhIGT8Ks6L3xEHSUc9Drx"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9mi Panossian Trio",
+          "url": "https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh"
+        }
+      ],
+      "duration_ms": 328346,
+      "name": "Add Fiction",
+      "url": "https://open.spotify.com/track/0QdXmMtJWdY0sCdjyKNOtw"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Long Way from Home (feat. Eric Harland)",
+        "url": "https://open.spotify.com/album/3dKw67fLeR7pHf4w22Hfl3"
+      },
+      "artists": [
+        {
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        }
+      ],
+      "duration_ms": 317346,
+      "name": "Long Way From Home (feat. Eric Harland)",
+      "url": "https://open.spotify.com/track/6nEICyQWdK4EwHAGj5HViA"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "TO BE WE (feat. Jill Scott)",
+        "url": "https://open.spotify.com/album/6ANpsYzuTs3C5WahprXr0k"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "TO BE WE (feat. Jill Scott)",
+      "url": "https://open.spotify.com/track/5wjYQzsjEKjRCJqi1ATR6A"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Adjusting",
+        "url": "https://open.spotify.com/album/4iYFLD07bHFqZgf86aloFZ"
+      },
+      "artists": [
+        {
+          "name": "Arnaud Dolmen",
+          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/7vWCDnCsVZZAJiMdYEAD2r"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "This Foolish Heart Could Love You",
+        "url": "https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "This Foolish Heart Could Love You",
+      "url": "https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Walton St",
+        "url": "https://open.spotify.com/album/5hxXApzEe9LJOMvoWXtNdW"
+      },
+      "artists": [
+        {
+          "name": "Simon Dufour",
+          "url": "https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw"
+        },
+        {
+          "name": "Aaron Day",
+          "url": "https://open.spotify.com/artist/7iIKqzMPFhySieiHdJv0zp"
+        }
+      ],
+      "duration_ms": 294776,
+      "name": "Walton St",
+      "url": "https://open.spotify.com/track/37vqYc0prYUPrH4sPRWxlV"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "S.H.A.M.A.N.E.S",
+        "url": "https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS"
+      },
+      "artists": [
+        {
+          "name": "Anne Paceo",
+          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
+        }
+      ],
+      "duration_ms": 228199,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/2AnH6U2MyLV3T1bdPFPJ1t"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/06GB9kfkvoirUATe7moJMJ"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/55x97x7xf28wEQrI6yXNjr"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Seine de la vie parisienne",
+        "url": "https://open.spotify.com/album/1Bf3ZebTvMnGNspxaKVBCP"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 232213,
+      "name": "Seine de la vie parisienne",
+      "url": "https://open.spotify.com/track/4xc9dTPrGEvoHmvdiCYCdT"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/4neP1VPNQhtMcyyBM45sSu"
+      },
+      "artists": [
+        {
+          "name": "David Helbock",
+          "url": "https://open.spotify.com/artist/0vL5aeUgB40QfmprJKhpOq"
+        },
+        {
+          "name": "Camille Bertault",
+          "url": "https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/5gBNcgLVzIUktu6E6GJqMZ"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Tin Tin Deo (NerdStar Remix)",
+        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "NerdStar",
+          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
+        }
+      ],
+      "duration_ms": 202900,
+      "name": "Tin Tin Deo - NerdStar Remix",
+      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Uteki",
+        "url": "https://open.spotify.com/album/1zDxdzbNu4o75qRzcQzkcc"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Uteki",
+      "url": "https://open.spotify.com/track/2tyHRytoAC1YVwiqLcREQX"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Cake Walk from a Spaceship",
+        "url": "https://open.spotify.com/album/2m0LHb9pWp1S1ic1x7DnSX"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        }
+      ],
+      "duration_ms": 267321,
+      "name": "Mesanges",
+      "url": "https://open.spotify.com/track/1x497iebcQgqfwWT7LY0oh"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Blossom's Blues",
+        "url": "https://open.spotify.com/album/0G07A2zQJ41n8kRJdMw24w"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        }
+      ],
+      "duration_ms": 207682,
+      "name": "Blossom's Blues",
+      "url": "https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "A Nightingale Sang in Berkeley Square",
+        "url": "https://open.spotify.com/album/61WnLVI6BAd9DcsVOVXaF5"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 185531,
+      "name": "A Nightingale Sang in Berkeley Square",
+      "url": "https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Thunderclouds",
         "url": "https://open.spotify.com/album/0oTY2QwL9n2OHFEjk4SbSh"
@@ -25,7 +353,43 @@
       "url": "https://open.spotify.com/track/2OCV5Cn5DgesacD7ZLL10o"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/3ExdrmKZ7BZxFGSncQYW9v"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 460333,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/07GkA3KuDuE1aCSdT260Fh"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Reinhardt Memories",
+        "url": "https://open.spotify.com/album/2eYc3bowwBeqcpBvwMlkqg"
+      },
+      "artists": [
+        {
+          "name": "Noe Reinhardt",
+          "url": "https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU"
+        },
+        {
+          "name": "Samy Daussat",
+          "url": "https://open.spotify.com/artist/13McFr5VsYZdXJGeo7aTAM"
+        }
+      ],
+      "duration_ms": 218979,
+      "name": "Cool comme \u00e7a",
+      "url": "https://open.spotify.com/track/6c4nvb604vZl3kITvIrPQ7"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Wave of Interest",
         "url": "https://open.spotify.com/album/67R0QsEML7HjIug0FRaNPm"
@@ -49,7 +413,7 @@
       "url": "https://open.spotify.com/track/2gYsdI8oB5mHdtXuB0Sh3u"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "La source",
         "url": "https://open.spotify.com/album/0019HzLbrGXubxmtWZvrx0"
@@ -77,23 +441,23 @@
       "url": "https://open.spotify.com/track/4EIycv4Q7CUgghZZ0LXlHd"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR"
+        "name": "Greenlight",
+        "url": "https://open.spotify.com/album/2rW2O1EPebcqpvrazswliY"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Kellylee Evans",
+          "url": "https://open.spotify.com/artist/2ujofFVAz72xGjjpohH5Cn"
         }
       ],
-      "duration_ms": 173164,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt"
+      "duration_ms": 217906,
+      "name": "To Feel My Love",
+      "url": "https://open.spotify.com/track/1wHg9gkUj3sjT9juoZSdNR"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Hymne au soleil",
         "url": "https://open.spotify.com/album/0mPyzBDNSZqBwiDYD8YAkH"
@@ -113,243 +477,23 @@
       "url": "https://open.spotify.com/track/3HKwb6ONXlvLwBEolbJGpG"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/7CCjUNt1yUBYj87AE4Pzzw"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR"
       },
       "artists": [
         {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        },
-        {
-          "name": "Elchin Shirinov",
-          "url": "https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2"
-        },
-        {
-          "name": "Roni Kaspi",
-          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 274403,
-      "name": "The Window",
-      "url": "https://open.spotify.com/track/2lJzX1Vn1bEuCRrNUotnup"
+      "duration_ms": 173164,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Plus Fort Que Nous",
-        "url": "https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 288986,
-      "name": "Plus Fort Que Nous",
-      "url": "https://open.spotify.com/track/2nhWlpHs20wCiti78c52dI"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "S.H.A.M.A.N.E.S",
-        "url": "https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS"
-      },
-      "artists": [
-        {
-          "name": "Anne Paceo",
-          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
-        }
-      ],
-      "duration_ms": 228199,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/2AnH6U2MyLV3T1bdPFPJ1t"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "A Nightingale Sang in Berkeley Square",
-        "url": "https://open.spotify.com/album/61WnLVI6BAd9DcsVOVXaF5"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 185531,
-      "name": "A Nightingale Sang in Berkeley Square",
-      "url": "https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Happy Birthd\u00e9",
-        "url": "https://open.spotify.com/album/7vhIGT8Ks6L3xEHSUc9Drx"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9mi Panossian Trio",
-          "url": "https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh"
-        }
-      ],
-      "duration_ms": 328346,
-      "name": "Add Fiction",
-      "url": "https://open.spotify.com/track/0QdXmMtJWdY0sCdjyKNOtw"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Long Way from Home (feat. Eric Harland)",
-        "url": "https://open.spotify.com/album/3dKw67fLeR7pHf4w22Hfl3"
-      },
-      "artists": [
-        {
-          "name": "Gilad Hekselman",
-          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
-        },
-        {
-          "name": "Eric Harland",
-          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
-        }
-      ],
-      "duration_ms": 317346,
-      "name": "Long Way From Home (feat. Eric Harland)",
-      "url": "https://open.spotify.com/track/6nEICyQWdK4EwHAGj5HViA"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/06GB9kfkvoirUATe7moJMJ"
-      },
-      "artists": [
-        {
-          "name": "Bir\u00e9li Lagr\u00e8ne",
-          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/55x97x7xf28wEQrI6yXNjr"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Adjusting",
-        "url": "https://open.spotify.com/album/4iYFLD07bHFqZgf86aloFZ"
-      },
-      "artists": [
-        {
-          "name": "Arnaud Dolmen",
-          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/7vWCDnCsVZZAJiMdYEAD2r"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Walton St",
-        "url": "https://open.spotify.com/album/5hxXApzEe9LJOMvoWXtNdW"
-      },
-      "artists": [
-        {
-          "name": "Simon Dufour",
-          "url": "https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw"
-        },
-        {
-          "name": "Aaron Day",
-          "url": "https://open.spotify.com/artist/7iIKqzMPFhySieiHdJv0zp"
-        }
-      ],
-      "duration_ms": 294776,
-      "name": "Walton St",
-      "url": "https://open.spotify.com/track/37vqYc0prYUPrH4sPRWxlV"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Greenlight",
-        "url": "https://open.spotify.com/album/2rW2O1EPebcqpvrazswliY"
-      },
-      "artists": [
-        {
-          "name": "Kellylee Evans",
-          "url": "https://open.spotify.com/artist/2ujofFVAz72xGjjpohH5Cn"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "To Feel My Love",
-      "url": "https://open.spotify.com/track/1wHg9gkUj3sjT9juoZSdNR"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Bizarre",
-        "url": "https://open.spotify.com/album/4neP1VPNQhtMcyyBM45sSu"
-      },
-      "artists": [
-        {
-          "name": "David Helbock",
-          "url": "https://open.spotify.com/artist/0vL5aeUgB40QfmprJKhpOq"
-        },
-        {
-          "name": "Camille Bertault",
-          "url": "https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/5gBNcgLVzIUktu6E6GJqMZ"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Uteki",
-        "url": "https://open.spotify.com/album/1zDxdzbNu4o75qRzcQzkcc"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Uteki",
-      "url": "https://open.spotify.com/track/2tyHRytoAC1YVwiqLcREQX"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Strange Days in Paris",
-        "url": "https://open.spotify.com/album/4jI8XY1T303alYnPviLPFl"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas",
-          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
-        }
-      ],
-      "duration_ms": 206848,
-      "name": "Strange Days in Paris",
-      "url": "https://open.spotify.com/track/0c8aKvP8nK9GIrdszzNPX6"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "This Life",
         "url": "https://open.spotify.com/album/3WuTrzAWR3DPJlomUwOTeu"
@@ -365,175 +509,7 @@
       "url": "https://open.spotify.com/track/4p8FHio2RFZ64jQDHphsjT"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Reinhardt Memories",
-        "url": "https://open.spotify.com/album/2eYc3bowwBeqcpBvwMlkqg"
-      },
-      "artists": [
-        {
-          "name": "Noe Reinhardt",
-          "url": "https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU"
-        },
-        {
-          "name": "Samy Daussat",
-          "url": "https://open.spotify.com/artist/13McFr5VsYZdXJGeo7aTAM"
-        }
-      ],
-      "duration_ms": 218979,
-      "name": "Cool comme \u00e7a",
-      "url": "https://open.spotify.com/track/6c4nvb604vZl3kITvIrPQ7"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Videogame",
-        "url": "https://open.spotify.com/album/2SvVWK76JFpxikCtvZVN4L"
-      },
-      "artists": [
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        },
-        {
-          "name": "Elchin Shirinov",
-          "url": "https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2"
-        },
-        {
-          "name": "Roni Kaspi",
-          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
-        }
-      ],
-      "duration_ms": 254584,
-      "name": "Videogame",
-      "url": "https://open.spotify.com/track/3wimSiydjydfXFkpzPpzIX"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "I Feel Foolish",
-        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Feel Foolish",
-      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Agua de Jamaica",
-        "url": "https://open.spotify.com/album/1IaFBwOJ5c8r25XO4W0SmS"
-      },
-      "artists": [
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        },
-        {
-          "name": "Roberto Ver\u00e1stegui",
-          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
-        }
-      ],
-      "duration_ms": 377242,
-      "name": "Agua de Jamaica",
-      "url": "https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "La \u00d1apa",
-        "url": "https://open.spotify.com/album/3irpaaj5nCOgJSZe56PNWt"
-      },
-      "artists": [
-        {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
-        },
-        {
-          "name": "Nidia Gongora",
-          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
-        }
-      ],
-      "duration_ms": 285453,
-      "name": "La \u00d1apa",
-      "url": "https://open.spotify.com/track/15A7KFrf9RKpCDUWGGuImI"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Seine de la vie parisienne",
-        "url": "https://open.spotify.com/album/1Bf3ZebTvMnGNspxaKVBCP"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 232213,
-      "name": "Seine de la vie parisienne",
-      "url": "https://open.spotify.com/track/4xc9dTPrGEvoHmvdiCYCdT"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Cake Walk from a Spaceship",
-        "url": "https://open.spotify.com/album/2m0LHb9pWp1S1ic1x7DnSX"
-      },
-      "artists": [
-        {
-          "name": "Sylvain Rifflet",
-          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
-        },
-        {
-          "name": "Verneri Pohjola",
-          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
-        }
-      ],
-      "duration_ms": 267321,
-      "name": "Mesanges",
-      "url": "https://open.spotify.com/track/1x497iebcQgqfwWT7LY0oh"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Hallelujah, I Love Him So / Spring Can Really Hang You Up The Most / Come Away With Me",
-        "url": "https://open.spotify.com/album/2E8I6DjTIdq7GITlFrnNEq"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Hallelujah, I Love Him So - First Sessions Outtake",
-      "url": "https://open.spotify.com/track/1P8IC0DO01A93VHjQGHEIW"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Unknown Unknown",
-        "url": "https://open.spotify.com/album/3mCY1TIfN4BZsnwdwZg8xx"
-      },
-      "artists": [
-        {
-          "name": "Dave Bristow Quintet",
-          "url": "https://open.spotify.com/artist/3fHu5s0xwqJwHDqe13Sh21"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Opening Theme",
-      "url": "https://open.spotify.com/track/671F0GecA6grxVyyKFbOLB"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Motherland Journey",
         "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
@@ -557,7 +533,39 @@
       "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "I Feel Foolish",
+        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Feel Foolish",
+      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Moonlight Love Affair",
+        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Dirty Mariposa",
+      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
@@ -573,23 +581,27 @@
       "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/6XqU4wmYLO897De94LOeNI"
+        "name": "Agua de Jamaica",
+        "url": "https://open.spotify.com/album/1IaFBwOJ5c8r25XO4W0SmS"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Roberto Ver\u00e1stegui",
+          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
         }
       ],
-      "duration_ms": 212986,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/63mYdRe3LZhtJ8dC2fojCV"
+      "duration_ms": 377242,
+      "name": "Agua de Jamaica",
+      "url": "https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Meva Festa",
         "url": "https://open.spotify.com/album/51a9GxQmKgfDPElbExhjdC"
@@ -637,7 +649,119 @@
       "url": "https://open.spotify.com/track/0ojt0cv7WeGO49b4Xg23Bb"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Plus Fort Que Nous",
+        "url": "https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 288986,
+      "name": "Plus Fort Que Nous",
+      "url": "https://open.spotify.com/track/2nhWlpHs20wCiti78c52dI"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Strange Days in Paris",
+        "url": "https://open.spotify.com/album/4jI8XY1T303alYnPviLPFl"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        }
+      ],
+      "duration_ms": 206848,
+      "name": "Strange Days in Paris",
+      "url": "https://open.spotify.com/track/0c8aKvP8nK9GIrdszzNPX6"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "La \u00d1apa",
+        "url": "https://open.spotify.com/album/3irpaaj5nCOgJSZe56PNWt"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        }
+      ],
+      "duration_ms": 285453,
+      "name": "La \u00d1apa",
+      "url": "https://open.spotify.com/track/15A7KFrf9RKpCDUWGGuImI"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Unknown Unknown",
+        "url": "https://open.spotify.com/album/3mCY1TIfN4BZsnwdwZg8xx"
+      },
+      "artists": [
+        {
+          "name": "Dave Bristow Quintet",
+          "url": "https://open.spotify.com/artist/3fHu5s0xwqJwHDqe13Sh21"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Opening Theme",
+      "url": "https://open.spotify.com/track/671F0GecA6grxVyyKFbOLB"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Videogame",
+        "url": "https://open.spotify.com/album/2SvVWK76JFpxikCtvZVN4L"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Elchin Shirinov",
+          "url": "https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        }
+      ],
+      "duration_ms": 254584,
+      "name": "Videogame",
+      "url": "https://open.spotify.com/track/3wimSiydjydfXFkpzPpzIX"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Hallelujah, I Love Him So / Spring Can Really Hang You Up The Most / Come Away With Me",
+        "url": "https://open.spotify.com/album/2E8I6DjTIdq7GITlFrnNEq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Hallelujah, I Love Him So - First Sessions Outtake",
+      "url": "https://open.spotify.com/track/1P8IC0DO01A93VHjQGHEIW"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Renaissance (Radio Edit)",
         "url": "https://open.spotify.com/album/5d8D5Cn7N4BdjjAVBSrKR9"
@@ -677,7 +801,7 @@
       "url": "https://open.spotify.com/track/4NqCSvS7Pj0uIaYIbl9xH4"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Next Stop",
         "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
@@ -693,27 +817,7 @@
       "url": "https://open.spotify.com/track/4n4uG6LLOH4xab3V7fbrO7"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Tin Tin Deo (NerdStar Remix)",
-        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "NerdStar",
-          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
-        }
-      ],
-      "duration_ms": 202900,
-      "name": "Tin Tin Deo - NerdStar Remix",
-      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "In Our Time",
         "url": "https://open.spotify.com/album/6hDNnQWpJ8dlfpNw6XKifQ"
@@ -729,7 +833,7 @@
       "url": "https://open.spotify.com/track/49Qv1bSWp6czTQENrW3bP5"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Textures",
         "url": "https://open.spotify.com/album/6dF4z28EZgdvJLfAMbvSPO"
@@ -753,43 +857,7 @@
       "url": "https://open.spotify.com/track/2QRQlpdtB9muofjlirBBaR"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "This Foolish Heart Could Love You",
-        "url": "https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "This Foolish Heart Could Love You",
-      "url": "https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Short Shore",
-        "url": "https://open.spotify.com/album/63J2Uw0fVVLRKwvlvWMwJc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rio Laginha",
-          "url": "https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ"
-        }
-      ],
-      "duration_ms": 539887,
-      "name": "Short Shore",
-      "url": "https://open.spotify.com/track/0ZixlJXjuXbo1cEYAGqnGu"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Mabern Plays Coltrane",
         "url": "https://open.spotify.com/album/4suBtE9VUuPLhZ6BI7NUaW"
@@ -805,7 +873,7 @@
       "url": "https://open.spotify.com/track/4kv4y1ksmfSfdMcJkZvLtd"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "When I First Saw Your Face",
         "url": "https://open.spotify.com/album/5i418SDGYSxHe7EzabsK9F"
@@ -821,7 +889,7 @@
       "url": "https://open.spotify.com/track/78EF8TCHy2rDm19i7SXqhq"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/1CARvS0Aw6kcWA9fwFx7tS"
@@ -841,23 +909,7 @@
       "url": "https://open.spotify.com/track/3uLk6WdVQnniPupmUkEBsW"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Come Away With Me (Alternate Version)",
-        "url": "https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Come Away With Me - Alternate Version",
-      "url": "https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Maelstr\u00f6m",
         "url": "https://open.spotify.com/album/4SJUJTrkMvIl4E8tZqwxJz"
@@ -873,23 +925,7 @@
       "url": "https://open.spotify.com/track/4NwkPwcmLEI9HwAgNRJamy"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Reste un oiseau",
-        "url": "https://open.spotify.com/album/6803wHGAlnx5ABcWhjgmJy"
-      },
-      "artists": [
-        {
-          "name": "Anne Paceo",
-          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
-        }
-      ],
-      "duration_ms": 195777,
-      "name": "Reste un oiseau",
-      "url": "https://open.spotify.com/track/4miACj3Pi7Pox3ylFNFZ9s"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Montsouris",
         "url": "https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW"
@@ -913,59 +949,23 @@
       "url": "https://open.spotify.com/track/2B3maaxBgIUZVGscNP3Mlq"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Waking World",
-        "url": "https://open.spotify.com/album/1me0ZAt5S63Z4dmf4hzJsQ"
+        "name": "Come Away With Me (Alternate Version)",
+        "url": "https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO"
       },
       "artists": [
         {
-          "name": "Youn Sun Nah",
-          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Don't Get Me Wrong",
-      "url": "https://open.spotify.com/track/0vfBaLwvkYWkmJ6OSDsDK4"
+      "duration_ms": 207000,
+      "name": "Come Away With Me - Alternate Version",
+      "url": "https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Rhoda Scott Lady All Stars",
-        "url": "https://open.spotify.com/album/5BBCsoP9qM5UEWv32uokPu"
-      },
-      "artists": [
-        {
-          "name": "Rhoda Scott",
-          "url": "https://open.spotify.com/artist/7bALAz7fry73sw8SgpdZhl"
-        },
-        {
-          "name": "Lisa Cat-Berro",
-          "url": "https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm"
-        },
-        {
-          "name": "C\u00e9line Bonacina",
-          "url": "https://open.spotify.com/artist/6HazTZiB3H2YOXf4SxO14z"
-        },
-        {
-          "name": "Julie Saury",
-          "url": "https://open.spotify.com/artist/7Ie5grAtdOBPylHOxPgPSt"
-        },
-        {
-          "name": "Sophie Alour",
-          "url": "https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT"
-        },
-        {
-          "name": "G\u00e9raldine Laurent",
-          "url": "https://open.spotify.com/artist/4ZqOMiFK46aw6mKAbsrHPK"
-        }
-      ],
-      "duration_ms": 285710,
-      "name": "City of the Rising Sun",
-      "url": "https://open.spotify.com/track/5GWPmMcG2IyAXe5TGWyNxD"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-04-28 22:02:00",
       "album": {
         "name": "Ka-Frobeat",
         "url": "https://open.spotify.com/album/7eGGIVOFcSda2d4n4KlKfV"
@@ -987,34 +987,6 @@
       "duration_ms": 309538,
       "name": "P\u00f2p\u00f2t ka bouyi",
       "url": "https://open.spotify.com/track/0n6KX3PYkJKSitaQlpmmH6"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Family Tree",
-        "url": "https://open.spotify.com/album/0goB3CgedNIzdgkvLIbOL4"
-      },
-      "artists": [
-        {
-          "name": "David Enhco",
-          "url": "https://open.spotify.com/artist/1mTJejEfbKCnYMhdLrxDx4"
-        },
-        {
-          "name": "Thomas Enhco",
-          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
-        },
-        {
-          "name": "Quatuor Voce",
-          "url": "https://open.spotify.com/artist/1waIgKiLjI9W0C2gcKjSPG"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Shadow Love",
-      "url": "https://open.spotify.com/track/7hZks381Vo5vIhzZCn08sC"
     }
   ],
   "unique_name": "Jazz Club",

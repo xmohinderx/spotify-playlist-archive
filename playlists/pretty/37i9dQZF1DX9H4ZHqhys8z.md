@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Listen to Greek women at full volume\. Cover: Natasa Theodoridou
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,490 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,497 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 17 | [Afta Pou Tha 'Lega Se Sena \- 20 Hronia Eleana Vrachali / Paidi Diko Sou](https://open.spotify.com/track/6hFjuWrdmZcDzOIB56Q0tp) | [Glykeria](https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f) | [Afta Pou Tha 'Lega Se Sena \(20 Hronia Eleana Vrachali / Paidi Diko Sou\)](https://open.spotify.com/album/2FDMdpe4xvgxuDLxuZ5qx6) | 3:10 |
 | 18 | [I Fadasia](https://open.spotify.com/track/2RZmlEWrDm5vjaDDko6uon) | [Eleni Tsaligopoulou](https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4) | [I Fadasia](https://open.spotify.com/album/2uPyBJ3px9JTnVujWUCXPp) | 4:34 |
 | 19 | [Gia Na Gelao](https://open.spotify.com/track/2UcqCJGicZTCxJrlklwE5r) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M), [Giannis Christodoulopoulos](https://open.spotify.com/artist/1xtAhHlKUzJoWmtdWVKw4P) | [Gia Na Gelao](https://open.spotify.com/album/6zvrNti88xM3m66kHzkCzc) | 3:20 |
-| 20 | [YIATI POULI M'](https://open.spotify.com/track/6kSweWKTZOF2oorQ7V5jNX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [YIATI POULI M'](https://open.spotify.com/album/6oomBcZTbG7cYEl66oY1Gq) | 3:13 |
+| 20 | [YIATI POULI M' \(DEN KELAIDIS\)](https://open.spotify.com/track/6kSweWKTZOF2oorQ7V5jNX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [YIATI POULI M' \(DEN KELAIDIS\)](https://open.spotify.com/album/6oomBcZTbG7cYEl66oY1Gq) | 3:13 |
 | 21 | [Muse](https://open.spotify.com/track/0JjPcjJywGHSzn5IMoYClJ) | [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB) | [Muse](https://open.spotify.com/album/59npfFu8RSyFSWMyQNXmeP) | 3:36 |
 | 22 | [Ne Men Alla Den](https://open.spotify.com/track/5sUR273OqDdFuzaz1EoX6U) | [Nalyssa Green](https://open.spotify.com/artist/68PM4Vpd3dwIQfEd2z1mZY) | [Taxidi Astriko](https://open.spotify.com/album/2hIcrz91mewNvDufxl5y6r) | 3:17 |
 | 23 | [Ise Esi O Anthropos Mou](https://open.spotify.com/track/2n2QGDf6iUmkGCQe8ZS2TH) | [Andriana Babali](https://open.spotify.com/artist/0jctFutxWwbuucO1HRhNgk) | [The Rose Tattoo](https://open.spotify.com/album/33FP2iVynQK0TJLoc9oSt1) | 4:32 |

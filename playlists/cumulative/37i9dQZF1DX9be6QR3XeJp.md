@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: Bambi Bains
+> Discover your new favourite artists\. Cover: ShaSimone
 
-105 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+106 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [L.S.O.M](https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 3:08 | 2022-02-18 |  |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2022-02-18 |  |
 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 | 2022-02-18 |  |
+| [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 | 2022-04-28 |  |
 | [Lost in Therapy](https://open.spotify.com/track/0mbANhAzETyMsFjUhUOmlo) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Glowchild](https://open.spotify.com/album/5HR3Q9Vg5xvAiRnpgWWgPG) | 3:39 | 2022-02-18 |  |
 | [Lost Myself Again](https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Lost Myself Again](https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY) | 2:52 | 2022-02-18 |  |
 | [Loud](https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/0RKB3f9wQH7cRlTyiQZdha) | 4:00 | 2022-02-18 |  |

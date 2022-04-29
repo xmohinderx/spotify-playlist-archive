@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Neo Arc\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,256 likes - 85 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,404 likes - 85 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 10 | [Thebe](https://open.spotify.com/track/4QQi5Z7ywBOhWKF1uVxrld) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Thebe](https://open.spotify.com/album/0tIqi2WrwmluiMpY8iOTJZ) | 2:05 |
 | 11 | [You Go To My Head](https://open.spotify.com/track/7utKn0th29oCVTVqyQrSbx) | [Lori Lieberman](https://open.spotify.com/artist/6x0GyF6PMlHjH365CcEjpl) | [You Go To My Head](https://open.spotify.com/album/6kiYSLhcIk8yKVnJixmOcC) | 5:03 |
 | 12 | [New Beginnings](https://open.spotify.com/track/7hoAD7rYkx0l4m4tXT4ulp) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [New Beginnings](https://open.spotify.com/album/6WeZUZAkXHisdqgLgqSIQD) | 6:19 |
-| 13 | [\(Take me to the\) Wide open lows](https://open.spotify.com/track/2aDvRHREucVtWSlgpZdNvP) | [Binker Golding](https://open.spotify.com/artist/7LO9JgJitsPExiZcDyVzm1) | [\(Take Me to the\) Wide Open Lows](https://open.spotify.com/album/2hxgHTRJjAHip5OsNZWm5w) | 9:31 |
+| 13 | [\(Take me to the\) Wide open lows](https://open.spotify.com/track/2aDvRHREucVtWSlgpZdNvP) | [Binker Golding](https://open.spotify.com/artist/7LO9JgJitsPExiZcDyVzm1) | [\(Take me to the\) Wide Open Lows](https://open.spotify.com/album/2hxgHTRJjAHip5OsNZWm5w) | 9:31 |
 | 14 | [All of you](https://open.spotify.com/track/567Sms67UX7VpWCX5j9bfb) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [All of you](https://open.spotify.com/album/7sNc9FAoqANj5cPTHBtcc3) | 4:19 |
 | 15 | [Orewoet](https://open.spotify.com/track/6K2yNOZ9TrNhvfZLGhhdSC) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [PELGRIM](https://open.spotify.com/album/1DYhtI8ARoSXRFM7RM6YAw) | 6:48 |
 | 16 | [Midnight Driver](https://open.spotify.com/track/2ZxCgHFwxs8WqnRTg5XTD7) | [Total Hip Replacement](https://open.spotify.com/artist/6m8keKnv7yR5UcUpCEosO5) | [Anyankofo](https://open.spotify.com/album/5Elgrv522aJu92R711juli) | 2:38 |

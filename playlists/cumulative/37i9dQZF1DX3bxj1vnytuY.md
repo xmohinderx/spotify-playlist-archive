@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-84 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+86 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-13 |  |
 | [Flow \- Sunset Mix](https://open.spotify.com/track/1QpU3A0dkKVJhI3o6xYBok) | [DP\-6](https://open.spotify.com/artist/3ydKQmXGxjmM2IBOYCzYLJ) | [Flow \(Sunset Mix\)](https://open.spotify.com/album/3pel2JNZHZVeaGlqUBfKTk) | 6:51 | 2022-04-13 |  |
 | [Garmi](https://open.spotify.com/track/6cCH4wUwLbCkCwYqQG2uPe) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Garmi](https://open.spotify.com/album/4ShGe12qbIrgWg62GwZl7i) | 6:26 | 2022-04-13 |  |
+| [Gate](https://open.spotify.com/track/64DQirKrhckZyaKJ0Xz30G) | [U108](https://open.spotify.com/artist/5gOlxIWquJASLrXLQhUVVh) | [Sutra of Heart](https://open.spotify.com/album/62i9NSc0cKmXcoght2GqwU) | 5:34 | 2022-04-28 |  |
 | [Gesi Bağları](https://open.spotify.com/track/4qjwruCjh7Bx9GEzVQm918) | [Selda Bağcan](https://open.spotify.com/artist/2NGRETzxjeN4b9o3OGY6Yn), [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Gesi Bağları](https://open.spotify.com/album/4exujDzzH9UgSw2mz5LVmN) | 3:52 | 2022-04-13 |  |
 | [Ghost in Me \- Lemon & Herb Remix](https://open.spotify.com/track/4BWZpIcAteH7rbQL0Ze6Eh) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Ghost in Me \(Lemon & Herb Remix\)](https://open.spotify.com/album/09ECvrPllTFts2w5Q0ad9h) | 5:58 | 2022-04-13 |  |
 | [Going Deeper](https://open.spotify.com/track/6DcgPZVz4sC2vnLIXvTSm7) | [Darko De Jan](https://open.spotify.com/artist/4JMknrStbwkcRZavaIEjrA), [Diass](https://open.spotify.com/artist/1Y9gbwVk4auhrDJFzfkMkb), [DeMarin](https://open.spotify.com/artist/1phh80XEFzxlYBKWjJ62Vm) | [Going Deeper](https://open.spotify.com/album/7dkLx3Oxz9KjxTxbFewyRP) | 7:38 | 2022-04-13 |  |
@@ -69,6 +70,7 @@
 | [Sante](https://open.spotify.com/track/3GPDlvNptw7BwkpHP68DiJ) | [Ravestronauts](https://open.spotify.com/artist/2rfebeaV7VQdlnKrNbqtQu), [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sante](https://open.spotify.com/album/3SxOdl5kq6RpdLsu4ufChm) | 4:08 | 2022-04-13 |  |
 | [Scarabaeus](https://open.spotify.com/track/6Zsf3CnoOS8X4r6ibSGHcv) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Scarabaeus](https://open.spotify.com/album/4KVeQGG3FaPTNXZDtzvPUF) | 5:21 | 2022-04-13 |  |
 | [Season](https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm) | [Cadillac Red](https://open.spotify.com/album/3MqLUGCgQADNvWCnsamcVS) | 7:07 | 2022-04-13 |  |
+| [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-04-28 |  |
 | [Sian \- David Mayer Remix](https://open.spotify.com/track/6QPsEsb8PnTeKN1YAbS4jh) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Más Allá](https://open.spotify.com/album/31AgEt2RKn5CTgrzgL948A) | 7:10 | 2022-04-13 |  |
 | [Son Mansour](https://open.spotify.com/track/1oS4FFInuBOkj92do6lsU3) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Son Mansour](https://open.spotify.com/album/5nUNmXQJPXLXTMYDU56zQP) | 5:44 | 2022-04-13 |  |
 | [Sunday Showers \- Original Mix](https://open.spotify.com/track/2B2VCQULbAItuMzrS2O6Nn) | [Kentphonik](https://open.spotify.com/artist/5WvbWfo8umWyqSrmB8DviH) | [Hiya Kaya EP](https://open.spotify.com/album/41ai9POiSflKh3DVyyq6V8) | 7:01 | 2022-04-13 |  |

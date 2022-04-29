@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 200973,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 167066,
       "name": "Chain of Fools",
       "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 327680,
       "name": "Cheating in the Daylight",
       "url": "https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 172666,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/41FRsZNXpsBkJ46BxyC20m"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 166066,
       "name": "Everybody Needs Somebody to Love",
       "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 210644,
       "name": "Gonna Lift You Up",
       "url": "https://open.spotify.com/track/1UIeLWeNp3Vx0Ge3NLUggt"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 495400,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 188800,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
@@ -2107,7 +2107,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 129613,
       "name": "Mama Said - Rerecorded Version",
       "url": "https://open.spotify.com/track/5rrXkymfQdhNBgBZ3BUVbB"
@@ -2561,7 +2561,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 244160,
       "name": "River Deep - Mountain High",
       "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
@@ -3197,7 +3197,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 172666,
       "name": "Time Is On My Side",
       "url": "https://open.spotify.com/track/6IpxLzChgCbFSJwso2Q84D"
@@ -3457,6 +3457,24 @@
       "duration_ms": 193000,
       "name": "You Are My Heart",
       "url": "https://open.spotify.com/track/6hfKln1Jm1WCN6ozSQZGyN"
+    },
+    {
+      "album": {
+        "name": "You Can Count On Me",
+        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
+      },
+      "artists": [
+        {
+          "name": "Mel Carter",
+          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "You Can Count On Me",
+      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
     },
     {
       "album": {

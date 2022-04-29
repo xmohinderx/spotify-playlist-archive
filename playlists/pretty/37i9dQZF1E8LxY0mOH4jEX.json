@@ -1,12 +1,12 @@
 {
-  "description": "With Bruno Mars, Zane Jayson Johns, Cris Cab, J Balvin and more",
-  "num_followers": 3478,
+  "description": "With Bruno Mars, Lil Lippy, Frankie J, Silent\u00f3 and more",
+  "num_followers": 3480,
   "original_name": "24K Magic Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTEwOTI1MiwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4",
+  "snapshot_id": "MTY1MTE5NDUxNSwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4",
   "tracks": [
     {
       "added_at": null,
@@ -20,121 +20,25 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 261240,
-      "name": "Versace on the Floor",
-      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": null,
       "album": {
-        "name": "CANT STOP THE FEELING!",
-        "url": "https://open.spotify.com/album/46iOV0uRZ0DSgEtfOXxbSP"
+        "name": "Martian Music",
+        "url": "https://open.spotify.com/album/44KGa6zcYJdU2M1nUlLPoi"
       },
       "artists": [
         {
-          "name": "Zane Jayson Johns",
-          "url": "https://open.spotify.com/artist/2OBNvLkOus5B2O0DY64Xgb"
+          "name": "Lil Lippy",
+          "url": "https://open.spotify.com/artist/7AIv95Fs2XdmEbTEUC1sOz"
         }
       ],
-      "duration_ms": 235810,
-      "name": "CANT STOP THE FEELING!",
-      "url": "https://open.spotify.com/track/6CojBKoPeuXLx1CJ5rmcS8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn out the Light (feat. J. Balvin)",
-        "url": "https://open.spotify.com/album/1jooefie3aqOC2RC0xbrU1"
-      },
-      "artists": [
-        {
-          "name": "Cris Cab",
-          "url": "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 240352,
-      "name": "Turn out the Light (feat. J. Balvin)",
-      "url": "https://open.spotify.com/track/6wv6w3LA8qH2jgk6i7WOYr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "U Will Know",
-        "url": "https://open.spotify.com/album/3WcOI6mdFPKjHHUxMQ4lkJ"
-      },
-      "artists": [
-        {
-          "name": "B.M.U. (Black Men United)",
-          "url": "https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4"
-        },
-        {
-          "name": "C.J. Mackintosh",
-          "url": "https://open.spotify.com/artist/0GGvtc3aJtSkuYcfsiN6eC"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "U Will Know - C.J. Mackintosh 7\" Edit",
-      "url": "https://open.spotify.com/track/4xWjQMn1a9ZHe4VmiGChge"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Risky Business",
-        "url": "https://open.spotify.com/album/219XbCl5OFCbwvZibXOpWr"
-      },
-      "artists": [
-        {
-          "name": "Jorge Blanco",
-          "url": "https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD"
-        }
-      ],
-      "duration_ms": 204981,
-      "name": "Risky Business",
-      "url": "https://open.spotify.com/track/7FX5TlTPyonfo2R3TDIL6J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's What I Like (PARTYNEXTDOOR Remix)",
-        "url": "https://open.spotify.com/album/2xclonI4faQWl6lhqecGM5"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 206696,
-      "name": "That's What I Like - PARTYNEXTDOOR Remix",
-      "url": "https://open.spotify.com/track/64TkpV7m7f09JY7K436pju"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call On Me (Remixes)",
-        "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
-      },
-      "artists": [
-        {
-          "name": "Starley",
-          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
-        },
-        {
-          "name": "Ryan Riback",
-          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Call on Me - Ryan Riback Remix",
-      "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
+      "duration_ms": 146806,
+      "name": "Juju on that Beat",
+      "url": "https://open.spotify.com/track/0wnoxI0ZjKG1f6qrEzIRNN"
     },
     {
       "added_at": null,
@@ -155,72 +59,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "Her Kiss",
-        "url": "https://open.spotify.com/album/0gu0TJatirlAYgN8pnLegh"
-      },
-      "artists": [
-        {
-          "name": "Boris Ren\u00e9",
-          "url": "https://open.spotify.com/artist/4DJBzPgrGYBZSY3uCv8HMJ"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Her Kiss",
-      "url": "https://open.spotify.com/track/6X6kCTsrpTZFDDfrlH2wLV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Watch Me (Whip / Nae Nae) [Remixes]",
-        "url": "https://open.spotify.com/album/15iuVx60KdBgECADSwojhr"
+        "name": "Watch Me (Whip / Nae Nae)",
+        "url": "https://open.spotify.com/album/5nYi5TJ16E7Qt73zxOu6sP"
       },
       "artists": [
         {
           "name": "Silent\u00f3",
           "url": "https://open.spotify.com/artist/7juKTDFlPesGeWQ1GmjmOv"
-        },
-        {
-          "name": "Wild Style",
-          "url": "https://open.spotify.com/artist/5k2RGrnyuitw9rqnbvw9OI"
-        },
-        {
-          "name": "Richard Vission",
-          "url": "https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt"
         }
       ],
-      "duration_ms": 204761,
-      "name": "Watch Me (Whip / Nae Nae) - Richard Vission Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/1ZLHsifmLBIViwejzZdYNg"
+      "duration_ms": 185142,
+      "name": "Watch Me (Whip / Nae Nae)",
+      "url": "https://open.spotify.com/track/5RIVoVdkDLEygELLCniZFr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Money Maker",
-        "url": "https://open.spotify.com/album/34ilNmHaZCjkkwb39LnMTj"
+        "name": "Risky Business",
+        "url": "https://open.spotify.com/album/219XbCl5OFCbwvZibXOpWr"
       },
       "artists": [
         {
-          "name": "Throttle",
-          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
-        },
-        {
-          "name": "LunchMoney Lewis",
-          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
-        },
-        {
-          "name": "Aston Merrygold ",
-          "url": "https://open.spotify.com/artist/0PHiin6bQggP8WzI7LgTtr"
+          "name": "Jorge Blanco",
+          "url": "https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD"
         }
       ],
-      "duration_ms": 161985,
-      "name": "Money Maker",
-      "url": "https://open.spotify.com/track/5YutJUfRYUcsnxNMYY1SuV"
+      "duration_ms": 204981,
+      "name": "Risky Business",
+      "url": "https://open.spotify.com/track/7FX5TlTPyonfo2R3TDIL6J"
     },
     {
       "added_at": null,
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "Treasure Remix EP",
+        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
       },
       "artists": [
         {
@@ -228,85 +100,65 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Chunky",
-      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI"
+      "duration_ms": 208278,
+      "name": "Treasure - Cash Cash Radio Mix",
+      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "NIT3 TALES",
-        "url": "https://open.spotify.com/album/3aaDMnR6ZksGbZSDw2JRxZ"
+        "name": "California (Remix) [feat. The LOX & Ricco Barrino] - Single",
+        "url": "https://open.spotify.com/album/5UDJF2GpjZg14zjnm1YIK3"
       },
       "artists": [
         {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+          "name": "Colonel Loud",
+          "url": "https://open.spotify.com/artist/1daweWn875YnCp0S9O3pDv"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
         },
         {
-          "name": "Ryan Ashley",
-          "url": "https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM"
+          "name": "Ricco Barrino",
+          "url": "https://open.spotify.com/artist/4Sm4OwmPnnZ6L4EYX4AhOc"
         }
       ],
-      "duration_ms": 201306,
-      "name": "No Question (feat. MNEK & Ryan Ashley)",
-      "url": "https://open.spotify.com/track/7AQbZRY9zEvayl1OdkzEV9"
+      "duration_ms": 218833,
+      "name": "California (Remix)",
+      "url": "https://open.spotify.com/track/0jvx7aqwPlXRDYGINocgdg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The MANuscript",
-        "url": "https://open.spotify.com/album/2ErdMTiDGUrq3ZYsRt33fo"
+        "name": "Tito Time",
+        "url": "https://open.spotify.com/album/0AE6Lv2MPxmkfWq3xMXTpB"
       },
       "artists": [
         {
-          "name": "Dave Hollister",
-          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
+          "name": "Tito Jackson",
+          "url": "https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP"
         }
       ],
-      "duration_ms": 178056,
-      "name": "Geometry",
-      "url": "https://open.spotify.com/track/4Zc7lagND249NPhk8dWJga"
+      "duration_ms": 159757,
+      "name": "Get It Baby (Radio Mix Version)",
+      "url": "https://open.spotify.com/track/5gfmTZ1G6IwwO0WbjxRozk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
       "artists": [
         {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 207478,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/79l5JbcB7MVcjmYlvgq9KQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd"
-      },
-      "artists": [
-        {
-          "name": "Dawin",
-          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
-        },
-        {
-          "name": "R. City",
-          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Bikini Body",
-      "url": "https://open.spotify.com/track/0mM39ptTtRKkeSfwsFKFxt"
+      "duration_ms": 257966,
+      "name": "Better Than Gold",
+      "url": "https://open.spotify.com/track/2skox5EzNIsNQkGcNwi79b"
     },
     {
       "added_at": null,
@@ -331,8 +183,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Treasure Remix EP",
-        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
+        "name": "Throwback",
+        "url": "https://open.spotify.com/album/1o2vuUMLSOxeZsjcMIN9Nn"
+      },
+      "artists": [
+        {
+          "name": "Dawin",
+          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Throwback",
+      "url": "https://open.spotify.com/track/0JdeSPAguvtP4CYx6ZEMk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
@@ -340,9 +208,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 232380,
-      "name": "Treasure - Audien Radio Edit",
-      "url": "https://open.spotify.com/track/1vvK3Ey7LxgAFidEmU3QvC"
+      "duration_ms": 191000,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
     },
     {
       "added_at": null,
@@ -371,106 +239,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Boo (Hitman's Club Mix)",
-        "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
+        "name": "In It To Win It",
+        "url": "https://open.spotify.com/album/4vK8vpFwrtYiRpJgQIXDvv"
       },
       "artists": [
         {
-          "name": "Ghost Town DJs",
-          "url": "https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT"
-        }
-      ],
-      "duration_ms": 346840,
-      "name": "My Boo - Hitman's Club Mix",
-      "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Treasure Remix EP",
-        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212902,
-      "name": "Treasure - Bailey Smalls Radio Edit",
-      "url": "https://open.spotify.com/track/7cHZIHlewdmRCBmuOn4ssV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Throwback",
-        "url": "https://open.spotify.com/album/1o2vuUMLSOxeZsjcMIN9Nn"
-      },
-      "artists": [
-        {
-          "name": "Dawin",
-          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Throwback",
-      "url": "https://open.spotify.com/track/0JdeSPAguvtP4CYx6ZEMk4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake Your Booty (From \"Best Friends Whenever\")",
-        "url": "https://open.spotify.com/album/3tuu3BwNAwhYvGjOboQHxI"
-      },
-      "artists": [
-        {
-          "name": "Forever in Your Mind",
-          "url": "https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE"
-        }
-      ],
-      "duration_ms": 161700,
-      "name": "Shake Your Booty - From \"Best Friends Whenever\"",
-      "url": "https://open.spotify.com/track/6fG9pxz3dwpHWmRMG7BU38"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Color Blind: Love",
-        "url": "https://open.spotify.com/album/7CXeYrL2UDyKprq1UPsEdZ"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 221785,
-      "name": "Love in the Summer",
-      "url": "https://open.spotify.com/track/1y7ym0y0VJkEghA7fe7pMY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Future Is Mine (feat. Chromeo & Wale)",
-        "url": "https://open.spotify.com/album/4UTaihSVC8GRiMgN6ZAcrP"
-      },
-      "artists": [
-        {
-          "name": "DJ Cassidy",
-          "url": "https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE"
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
         },
         {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 277520,
-      "name": "Future Is Mine (feat. Chromeo & Wale)",
-      "url": "https://open.spotify.com/track/1885hHFhy3F04ZedxT6oHN"
+      "duration_ms": 216733,
+      "name": "Good Time (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/1c0Ul1xgqglVmQmxktHnSo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/7qGSOHpHvhp2bj45ygUeT4"
+      },
+      "artists": [
+        {
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+        }
+      ],
+      "duration_ms": 206218,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/7is8BX06IN7Dg1jK2M1DXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money Maker",
+        "url": "https://open.spotify.com/album/34ilNmHaZCjkkwb39LnMTj"
+      },
+      "artists": [
+        {
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+        },
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
+        },
+        {
+          "name": "Aston Merrygold ",
+          "url": "https://open.spotify.com/artist/0PHiin6bQggP8WzI7LgTtr"
+        }
+      ],
+      "duration_ms": 161985,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/5YutJUfRYUcsnxNMYY1SuV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is the Name",
+        "url": "https://open.spotify.com/album/09Jz4wejKKUb7l4Tot30UO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 232410,
+      "name": "Love Is the Name",
+      "url": "https://open.spotify.com/track/0TWcbe0p1mkLcf2FZWq0bo"
     },
     {
       "added_at": null,
@@ -484,25 +328,57 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
+      "duration_ms": 198186,
+      "name": "Straight up & Down",
+      "url": "https://open.spotify.com/track/2mrZYZGmPFV3QOyYPZ1zsn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Play That Sax",
-        "url": "https://open.spotify.com/album/04bfW53yt0aBRq0RCjxOcS"
+        "name": "HipHop Workout",
+        "url": "https://open.spotify.com/album/4J52BvcYNAHbNT4aHNjy1V"
       },
       "artists": [
         {
-          "name": "Dj Rehan",
-          "url": "https://open.spotify.com/artist/65Kc7tMrZdlUzHzluFTpIl"
+          "name": "Metrixx",
+          "url": "https://open.spotify.com/artist/3dpG6M91e9gkMArlQ5hSha"
         }
       ],
-      "duration_ms": 233898,
-      "name": "Play That Sax",
-      "url": "https://open.spotify.com/track/34AUM3kk7eOBzTZUvpC9fR"
+      "duration_ms": 125715,
+      "name": "JuJu On The Beat",
+      "url": "https://open.spotify.com/track/2ghQDsYSb74mc8iAIYdAck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All You Gotta Do (Is Just Dance)",
+        "url": "https://open.spotify.com/album/3DgPOlqDPlbsjyqTY51n8L"
+      },
+      "artists": [
+        {
+          "name": "The Just Dance Band",
+          "url": "https://open.spotify.com/artist/7A3A7pcBVSU4oI1MNmjezy"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "All You Gotta Do (Is Just Dance)",
+      "url": "https://open.spotify.com/track/7HALIbZdZHbKdXH64LBG4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Stripes =",
+        "url": "https://open.spotify.com/album/3fXjqIeyXPfZ6BP533UR2T"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "duration_ms": 229029,
+      "name": "I'm Betta",
+      "url": "https://open.spotify.com/track/3FgMPJOjWFAa0woPIfX1Xv"
     },
     {
       "added_at": null,
@@ -523,6 +399,206 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANT STOP THE FEELING!",
+        "url": "https://open.spotify.com/album/46iOV0uRZ0DSgEtfOXxbSP"
+      },
+      "artists": [
+        {
+          "name": "Zane Jayson Johns",
+          "url": "https://open.spotify.com/artist/2OBNvLkOus5B2O0DY64Xgb"
+        }
+      ],
+      "duration_ms": 235810,
+      "name": "CANT STOP THE FEELING!",
+      "url": "https://open.spotify.com/track/6CojBKoPeuXLx1CJ5rmcS8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make the World Go Round (feat. R. Kelly)",
+        "url": "https://open.spotify.com/album/5iKiYpbqSrQskafSrhqIUn"
+      },
+      "artists": [
+        {
+          "name": "DJ Cassidy",
+          "url": "https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE"
+        },
+        {
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "duration_ms": 288946,
+      "name": "Make the World Go Round (feat. R. Kelly)",
+      "url": "https://open.spotify.com/track/7kWhUfgemScOEjLFNNcQoo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/7t2q7sadshoX7BBMwnHUQA"
+      },
+      "artists": [
+        {
+          "name": "Austin Mahone",
+          "url": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
+        }
+      ],
+      "duration_ms": 187872,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/28duVDTZdcQ9ppAoVauGlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/2pnAo9Z4LPparI3r3QnBW8"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sister",
+          "url": "https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/2Q18DQ9ohYiqMdYKvcv6Lp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd"
+      },
+      "artists": [
+        {
+          "name": "Dawin",
+          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
+        },
+        {
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Bikini Body",
+      "url": "https://open.spotify.com/track/0mM39ptTtRKkeSfwsFKFxt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watch Me (Whip / Nae Nae) [Remixes]",
+        "url": "https://open.spotify.com/album/15iuVx60KdBgECADSwojhr"
+      },
+      "artists": [
+        {
+          "name": "Silent\u00f3",
+          "url": "https://open.spotify.com/artist/7juKTDFlPesGeWQ1GmjmOv"
+        },
+        {
+          "name": "Wild Style",
+          "url": "https://open.spotify.com/artist/5k2RGrnyuitw9rqnbvw9OI"
+        },
+        {
+          "name": "Richard Vission",
+          "url": "https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt"
+        }
+      ],
+      "duration_ms": 249523,
+      "name": "Watch Me (Whip / Nae Nae) - Richard Vission Remix",
+      "url": "https://open.spotify.com/track/4SYLxtZVXqSurRoK1DxzpV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's What I Like (feat. Gucci Mane) [Remix]",
+        "url": "https://open.spotify.com/album/1z4Zl2hcCiRyB4uIPeqEfr"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 234596,
+      "name": "That's What I Like (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/1BEMASUZQDqN5UGxMb1m6A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOW That's What I Call PARTY ANTHEMS 3",
+        "url": "https://open.spotify.com/album/3Rd3sggQA5U6WGk62jPQS8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Uptown Funk (feat. Bruno Mars) - Radio Edit",
+      "url": "https://open.spotify.com/track/65NgsMieGd6ffCTIYfEo7w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Boo (Hitman's Club Mix)",
+        "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
+      },
+      "artists": [
+        {
+          "name": "Ghost Town DJs",
+          "url": "https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT"
+        }
+      ],
+      "duration_ms": 346840,
+      "name": "My Boo - Hitman's Club Mix",
+      "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The MANuscript",
+        "url": "https://open.spotify.com/album/2ErdMTiDGUrq3ZYsRt33fo"
+      },
+      "artists": [
+        {
+          "name": "Dave Hollister",
+          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
+        }
+      ],
+      "duration_ms": 178056,
+      "name": "Geometry",
+      "url": "https://open.spotify.com/track/4Zc7lagND249NPhk8dWJga"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jordan Fisher",
         "url": "https://open.spotify.com/album/6zc8a8V90y4SOtcZT6mbOx"
       },
@@ -539,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "6 Am (feat. Bruno Mars) [Remix]",
-        "url": "https://open.spotify.com/album/5monV5a5nOHtp6R0zVzQrc"
+        "name": "Shake Your Booty (From \"Best Friends Whenever\")",
+        "url": "https://open.spotify.com/album/3tuu3BwNAwhYvGjOboQHxI"
       },
       "artists": [
         {
-          "name": "Bueno",
-          "url": "https://open.spotify.com/artist/0YAO9P4v43mlSAgZE5oa55"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Forever in Your Mind",
+          "url": "https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE"
         }
       ],
-      "duration_ms": 218826,
-      "name": "6 Am (feat. Bruno Mars) - Remix",
-      "url": "https://open.spotify.com/track/5dgF9BQYF1AVOk3YvyUzLD"
+      "duration_ms": 161700,
+      "name": "Shake Your Booty - From \"Best Friends Whenever\"",
+      "url": "https://open.spotify.com/track/6fG9pxz3dwpHWmRMG7BU38"
     },
     {
       "added_at": null,
@@ -583,58 +655,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Like We Used To (feat. Nateur) [Party Pupils Remix]",
-        "url": "https://open.spotify.com/album/5COzB4cXDOx3pgPBeRm6qT"
+        "name": "Uptown Funk (feat. Bruno Mars) [Trinidad James Remix]",
+        "url": "https://open.spotify.com/album/0UQIcQ1s7nASYPMXIKRy7L"
       },
       "artists": [
         {
-          "name": "Captain Cuts",
-          "url": "https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
         },
         {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         },
         {
-          "name": "Nateur",
-          "url": "https://open.spotify.com/artist/3NooRwmmAjbIEuIHzgZTHU"
+          "name": "Trinidad James",
+          "url": "https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J"
         }
       ],
-      "duration_ms": 217530,
-      "name": "Love Like We Used To (feat. Nateur) - Party Pupils Remix",
-      "url": "https://open.spotify.com/track/1GmVywXhzrW9bbTowwNl9m"
+      "duration_ms": 262271,
+      "name": "Uptown Funk (feat. Bruno Mars) - Trinidad James Remix",
+      "url": "https://open.spotify.com/track/6YhtdyvzbVL3mxrCdMtSxA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "P.Y.T. (Pretty Young Thing)",
-        "url": "https://open.spotify.com/album/212GrglE05qH9u0H0KrtjR"
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
       "artists": [
         {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
         }
       ],
-      "duration_ms": 214431,
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "url": "https://open.spotify.com/track/6rZjEUxUXGue4D70LJP7SH"
+      "duration_ms": 236453,
+      "name": "Body Moves",
+      "url": "https://open.spotify.com/track/2igbKtoBMXdYgYPkCpl0V4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Watch Me (Whip / Nae Nae)",
-        "url": "https://open.spotify.com/album/5nYi5TJ16E7Qt73zxOu6sP"
+        "name": "Three Stripes =",
+        "url": "https://open.spotify.com/album/3fXjqIeyXPfZ6BP533UR2T"
       },
       "artists": [
         {
-          "name": "Silent\u00f3",
-          "url": "https://open.spotify.com/artist/7juKTDFlPesGeWQ1GmjmOv"
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Watch Me (Whip / Nae Nae)",
-      "url": "https://open.spotify.com/track/5RIVoVdkDLEygELLCniZFr"
+      "duration_ms": 223293,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/5Lq51lbepV95X5gYWlwdoI"
     },
     {
       "added_at": null,
@@ -655,134 +727,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+        "name": "Locked out of Heaven (Remix)",
+        "url": "https://open.spotify.com/album/2vf1K6KumbRZnRHa1JeKyD"
       },
       "artists": [
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 197469,
-      "name": "Count on Me",
-      "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time for a Change",
-        "url": "https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu"
-      },
-      "artists": [
-        {
-          "name": "Cupid",
-          "url": "https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Cupid Shuffle",
-      "url": "https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make the World Go Round (feat. R. Kelly)",
-        "url": "https://open.spotify.com/album/5iKiYpbqSrQskafSrhqIUn"
-      },
-      "artists": [
-        {
-          "name": "DJ Cassidy",
-          "url": "https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE"
         },
         {
-          "name": "R. Kelly",
-          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         }
       ],
-      "duration_ms": 288946,
-      "name": "Make the World Go Round (feat. R. Kelly)",
-      "url": "https://open.spotify.com/track/7kWhUfgemScOEjLFNNcQoo"
+      "duration_ms": 317538,
+      "name": "Locked out of Heaven - Paul Oakenfold Remix",
+      "url": "https://open.spotify.com/track/03BpMAiFJ0b9c47Ntt8MRf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "We Are Family",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/68Q7YzD7Xma9dnZcD4F35j"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
         }
       ],
-      "duration_ms": 216733,
-      "name": "We Are Family",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+      "duration_ms": 268039,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/4Dg6lJ6Gu0QqkxU7Jm7y1K"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+        "name": "6 Am (feat. Bruno Mars) [Remix]",
+        "url": "https://open.spotify.com/album/5monV5a5nOHtp6R0zVzQrc"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
+          "name": "Bueno",
+          "url": "https://open.spotify.com/artist/0YAO9P4v43mlSAgZE5oa55"
+        },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/2pnAo9Z4LPparI3r3QnBW8"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sister",
-          "url": "https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/2Q18DQ9ohYiqMdYKvcv6Lp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diggy",
-        "url": "https://open.spotify.com/album/0kYtfexGsDpywS0HbQLus0"
-      },
-      "artists": [
-        {
-          "name": "Spencer Ludwig",
-          "url": "https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ"
-        }
-      ],
-      "duration_ms": 201433,
-      "name": "Diggy",
-      "url": "https://open.spotify.com/track/6RotBIo70VVzEcOhvgJGPC"
+      "duration_ms": 218826,
+      "name": "6 Am (feat. Bruno Mars) - Remix",
+      "url": "https://open.spotify.com/track/5dgF9BQYF1AVOk3YvyUzLD"
     },
     {
       "added_at": null,
@@ -803,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
       "artists": [
         {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         }
       ],
-      "duration_ms": 202061,
-      "name": "Strip That Down (feat. Quavo)",
-      "url": "https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw"
+      "duration_ms": 210573,
+      "name": "All In My Head (Flex) (feat. Fetty Wap)",
+      "url": "https://open.spotify.com/track/7nD9nN3jord9wWcfW3Gkcm"
     },
     {
       "added_at": null,
@@ -832,89 +828,89 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 189109,
-      "name": "The Lazy Song",
-      "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+      "duration_ms": 148448,
+      "name": "Runaway Baby",
+      "url": "https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Back Together",
-        "url": "https://open.spotify.com/album/1xC5ZY2CNi8t1GbYSRwoUm"
+        "name": "Nick Jonas X2",
+        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
       },
       "artists": [
         {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
         }
       ],
-      "duration_ms": 224306,
-      "name": "Back Together",
-      "url": "https://open.spotify.com/track/16e3Ly7ddGqqnFDiWWWwnc"
+      "duration_ms": 167693,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6pf9datdAtxQj4EU8UYHSx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Boo (Running Man Challenge) - Single",
-        "url": "https://open.spotify.com/album/4JNhbubNqR9GecJWtzSIbh"
+        "name": "Red Lips",
+        "url": "https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1"
       },
       "artists": [
         {
-          "name": "Netta Brielle",
-          "url": "https://open.spotify.com/artist/6yym2cpIe5mrZdTYyq2muC"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Brendan Reilly",
+          "url": "https://open.spotify.com/artist/5JO2xhC4QRDrMam4oJHx4z"
         }
       ],
-      "duration_ms": 352654,
-      "name": "My Boo (Running Man Challenge)",
-      "url": "https://open.spotify.com/track/4Jhkq6I18Rm3a3coTIOUrQ"
+      "duration_ms": 216097,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/6wS1Gy6As0gt7s8LAdb7E7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All You Gotta Do (Is Just Dance)",
-        "url": "https://open.spotify.com/album/3DgPOlqDPlbsjyqTY51n8L"
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
       "artists": [
         {
-          "name": "The Just Dance Band",
-          "url": "https://open.spotify.com/artist/7A3A7pcBVSU4oI1MNmjezy"
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
         }
       ],
-      "duration_ms": 260440,
-      "name": "All You Gotta Do (Is Just Dance)",
-      "url": "https://open.spotify.com/track/7HALIbZdZHbKdXH64LBG4h"
+      "duration_ms": 258431,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Love You (Tropkillaz & Mc Livinho Remix)",
-        "url": "https://open.spotify.com/album/63O5bl36Cbat55B7AigAKr"
+        "name": "Good Vibrations (from \"The Emoji Movie\")",
+        "url": "https://open.spotify.com/album/5D4nAEnp3bfsAXU5x66Ks2"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Ricky Reed",
+          "url": "https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ"
         }
       ],
-      "duration_ms": 216280,
-      "name": "Let Me Love You - Tropkillaz & Mc Livinho Remix",
-      "url": "https://open.spotify.com/track/6hLyfWFe42YtHONpJZDt4p"
+      "duration_ms": 198388,
+      "name": "Good Vibrations - from \"The Emoji Movie\"",
+      "url": "https://open.spotify.com/track/0L4Fa4uuIPsDw5380F9FyJ"
     }
   ],
   "unique_name": "24K Magic Radio",

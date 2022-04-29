@@ -1,15 +1,31 @@
 {
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Schiuma",
-  "num_followers": 3629,
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: nudda",
+  "num_followers": 3638,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDk2NTI2NiwwMDAwMDA0ZTAwMDAwMTgwNjUzMmJmOGQwMDAwMDE4MDQxNmE5NDc0",
+  "snapshot_id": "MTY1MTE4MzI2MCwwMDAwMDA0ZjAwMDAwMTgwNzIzMTExZTYwMDAwMDE4MDZkNTI5OTAx",
   "tracks": [
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "sottosopra",
+        "url": "https://open.spotify.com/album/6moVQ2cDgTKftRE7o4uzXM"
+      },
+      "artists": [
+        {
+          "name": "nudda",
+          "url": "https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2"
+        }
+      ],
+      "duration_ms": 155178,
+      "name": "sottosopra",
+      "url": "https://open.spotify.com/track/3XLlNaKrCllDtrQaFLb0dG"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Piccoli problemi",
         "url": "https://open.spotify.com/album/4fdrb9tRtt4mfIFCzBGzZ2"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/0l4AdVfyK4ZI1aNqomkrqA"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Foot Forward",
         "url": "https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK"
@@ -41,7 +57,27 @@
       "url": "https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
+      "album": {
+        "name": "Nuovo Maschio",
+        "url": "https://open.spotify.com/album/2VvSOPOh3Vje4S8yYopX2n"
+      },
+      "artists": [
+        {
+          "name": "Luchino Luce",
+          "url": "https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH"
+        },
+        {
+          "name": "No Label",
+          "url": "https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx"
+        }
+      ],
+      "duration_ms": 193037,
+      "name": "Citt\u00e0 Giardino",
+      "url": "https://open.spotify.com/track/5k7qn1riAYxIip41Itqhz1"
+    },
+    {
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "OSIRIDE",
         "url": "https://open.spotify.com/album/6USaG2oaJFq1hy8GqFDFXW"
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/3RPOqq5pytLKQRuryDKSSU"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Acne",
         "url": "https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/0ptiXSFzFDGqD9IkMUzdms"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Montagnarussa",
         "url": "https://open.spotify.com/album/7n7Vfn20UUHqmghFTuUTxe"
@@ -89,7 +125,7 @@
       "url": "https://open.spotify.com/track/7DqOvcg7JluBWkrj1P8dtR"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "paralosofia",
         "url": "https://open.spotify.com/album/2xJLLXbjGnMBJElImH9SMn"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/3n4VTinSBZKzxXyWiVTGUN"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "14 maglioni",
         "url": "https://open.spotify.com/album/0zo6gjnu4amNEtB7fmXSlL"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/33Ndf9fuy6Kc9Zwta2wKUE"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Nello spazio che resta",
         "url": "https://open.spotify.com/album/746EqxjUBO8HOB8ckvLDMU"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/2K6lcl1cqM1U1WvwTjb1Y3"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "peso",
         "url": "https://open.spotify.com/album/3b5BAQ20h2VRaeXR7ZB5hG"
@@ -169,7 +205,7 @@
       "url": "https://open.spotify.com/track/5tlyVD3W2yvAgnK2l9HkDD"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6"
@@ -189,7 +225,7 @@
       "url": "https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Scuse",
         "url": "https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK"
@@ -209,7 +245,7 @@
       "url": "https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "I figli degli altri",
         "url": "https://open.spotify.com/album/0pBDpnqaruZbsNDn1a0rzR"
@@ -225,7 +261,7 @@
       "url": "https://open.spotify.com/track/3dsMyJ5lR9ammFyy8G4RjE"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "GENESI",
         "url": "https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw"
@@ -241,7 +277,7 @@
       "url": "https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Fantasma quattro",
         "url": "https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH"
@@ -257,7 +293,7 @@
       "url": "https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "HOUDINI",
         "url": "https://open.spotify.com/album/4B9YmfMSiJXlMLeDpoJylM"
@@ -277,7 +313,7 @@
       "url": "https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "3x3+2",
         "url": "https://open.spotify.com/album/3i3kWVR2RaOD2pjQ4bRcYK"
@@ -297,7 +333,7 @@
       "url": "https://open.spotify.com/track/4594QC5Q9USRBX2KDJnf9f"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "quattro",
         "url": "https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe"
@@ -313,7 +349,7 @@
       "url": "https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Tutta Pratica",
         "url": "https://open.spotify.com/album/6OCyskhIDhJppKGjv75maw"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/67YI8g9GQGZXorJlNKxc7S"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Scenario",
         "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
@@ -345,23 +381,7 @@
       "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
-      "album": {
-        "name": ".specchi spettri",
-        "url": "https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs"
-      },
-      "artists": [
-        {
-          "name": ".ANAMIRTA",
-          "url": "https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n"
-        }
-      ],
-      "duration_ms": 218615,
-      "name": ".specchi spettri",
-      "url": "https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL"
-    },
-    {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "FELICIT\u00c0",
         "url": "https://open.spotify.com/album/20LMfMWno4ZAIRQSunGdCr"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/7iEEPQoP5KyUrrWl3xKCIf"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "L\u2019industria, il pop, la camera, il sesso",
         "url": "https://open.spotify.com/album/5eI8V3EE321knkysf7pkPH"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Dentro la mia pelle",
         "url": "https://open.spotify.com/album/40NKA8YVc1zxXCPlwioflm"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/3VLA9s4mWD4udmkdckgirS"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Cuore semplice",
         "url": "https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Non ti scordar di me",
         "url": "https://open.spotify.com/album/7tUCuhD58UCoPcOqFTNzqg"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/7oEm3YZ68SZMkNV7GVNP4C"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "DROP.02",
         "url": "https://open.spotify.com/album/4gWqsqqBq4veVq35GJO7OE"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/4bwoGNDTrv1a3nnAcA2jOb"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Yin e Yang",
         "url": "https://open.spotify.com/album/6DttXcxJhwIcHgMZjeSLvz"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/39RLFZQtumst5e826cqMyP"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Piangi mai (domani)",
         "url": "https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "che ci vuoi fare?",
         "url": "https://open.spotify.com/album/7H5bgp5mtygQ1pFSk6VqkR"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/07qsn3su8RW8cxFkYlWT7b"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "6 un caxxo di rave",
         "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "+LIFE",
         "url": "https://open.spotify.com/album/4AXhUpMoKXdwTGT3hVz60C"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/3y8xGNtdNenRLkKZ36iC19"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "DA FIRENZE CON AMORE",
         "url": "https://open.spotify.com/album/2K2tS5FCPcBFPzI4mhxWdp"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/1x14T3fXUhQxF7TKI0Dvgy"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "persa",
         "url": "https://open.spotify.com/album/5ukiqEhyrVcIGDWZXXmE2G"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/7h7ZIjlUNlg3rrAw8m27yv"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "An Interior of Strange Beauty / Incoming Call",
         "url": "https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Tutti ammassati senza affetto",
         "url": "https://open.spotify.com/album/68kEQqgumoIrBGHQeD9aBH"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/7COhIpIAija8bWiHXp7MYu"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2KxMNtEBqTyzemxrEcrr2r"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/6Ecd6qmTNg38sUr7OgbKBd"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Specchi Sporchi",
         "url": "https://open.spotify.com/album/4QSybDIKqCGjxxMvvf5CId"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/6nXjlXPeuidNoahUQfCsUu"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Buio dentro",
         "url": "https://open.spotify.com/album/6GF2UYv4I2PXK0sj6NYkIU"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/4uAO5HzFUtjaiqEn6BFKIO"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Verso il sole",
         "url": "https://open.spotify.com/album/1vSSdQIi5vVKoxSP7a6k8S"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/6vGGKNQnH91ZvSo1rVIAQv"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Umano",
         "url": "https://open.spotify.com/album/0vEbDtsw49Rtpdwoi6tetH"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/1FyF0EXkDP7uwDDwiNzYMl"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "CAMOMILLA",
         "url": "https://open.spotify.com/album/6lJKZMRlT8tw8jc7tCF42W"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/4lNZbF3jBuNDDdkasOcwWf"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "oceano di lacrime",
         "url": "https://open.spotify.com/album/6BIetlE8TeXrXU5A6JTo0z"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/6jp5OkWCrJb8gS8Ea8s6FA"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Resto a casa",
         "url": "https://open.spotify.com/album/2IiiRQm9S8Iq3Vp5tyMLIH"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/1FKOEl0vzCzjFtHX8tm17U"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Giovani Vecchi",
         "url": "https://open.spotify.com/album/6C0FOTFKcELvwAPWApNZqJ"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/78SvGNqbA2GQa8kiwvkKKi"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Tremo",
         "url": "https://open.spotify.com/album/49b7CFidzwmjE7rJ8jfoL8"
@@ -825,7 +845,7 @@
       "url": "https://open.spotify.com/track/06cpgjxgSb5gcSTY90xKX3"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Chi Pu\u00f2",
         "url": "https://open.spotify.com/album/2syZYTuhfVDFgKykIMttcc"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/2VEMPcAvKw6LMphb9XG9Hn"
     },
     {
-      "added_at": "2022-04-26 09:27:46",
+      "added_at": "2022-04-28 22:01:00",
       "album": {
         "name": "Uccider\u00f2",
         "url": "https://open.spotify.com/album/4Ff1liKfmFMWViEw1wPxdE"
@@ -855,22 +875,6 @@
       "duration_ms": 216130,
       "name": "Uccider\u00f2",
       "url": "https://open.spotify.com/track/37U1dpnnOPunrt7sXoA7Zh"
-    },
-    {
-      "added_at": "2022-04-26 09:27:46",
-      "album": {
-        "name": "Viole",
-        "url": "https://open.spotify.com/album/01rzY7vkCEeq30l2uxe0wt"
-      },
-      "artists": [
-        {
-          "name": "Kick",
-          "url": "https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Viole",
-      "url": "https://open.spotify.com/track/48cQYam5RsGPfcRWOZogaa"
     }
   ],
   "unique_name": "Fresh Finds Italia",

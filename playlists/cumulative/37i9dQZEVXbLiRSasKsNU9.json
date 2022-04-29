@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -1524,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "cinderella's dead",
+        "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120666,
+      "name": "cinderella's dead",
+      "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
+    },
+    {
+      "album": {
         "name": "City of Gods",
         "url": "https://open.spotify.com/album/0Nzff60OICCUBrtr980elH"
       },
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 236307,
       "name": "Dear Alcohol",
       "url": "https://open.spotify.com/track/1BbUq9wc4N2q53fR9S6NsZ"
@@ -4227,7 +4245,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 155076,
       "name": "Mal Caminho",
       "url": "https://open.spotify.com/track/0bvLxd9bUAYGKkpMYdR60F"

@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Madison Cunningham
 
-439 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+440 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Song Of The Seasons](https://open.spotify.com/track/3gpBqSisvVunnognY1GRuP) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Barn](https://open.spotify.com/album/7vlrGBbvKz2tZmVqAxK5ec) | 6:04 | 2021-12-03 | 2022-02-08 |
 | [Soul to Blessed Soul](https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Soul to Blessed Soul](https://open.spotify.com/album/3dvnfWPlGdwbq82bwuefwf) | 5:35 | 2022-01-07 | 2022-02-12 |
 | [Soundings](https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp) | [Elanor Moss](https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz) | [Soundings](https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC) | 2:55 | 2022-01-07 | 2022-03-18 |
+| [Stand Your Ground](https://open.spotify.com/track/2ehfX1liKrMjpYNDOoG8G1) | [IV and The Strange Band](https://open.spotify.com/artist/5qtxZzDWsKKF9Qd9JQjv1D) | [Stand Your Ground](https://open.spotify.com/album/5hT6o34vGSCP5pgkZPdUyd) | 2:54 | 2022-04-28 |  |
 | [Standing In The Way](https://open.spotify.com/track/74VyDGt1h9xb5CftKP9RVL) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/69bmzUtPRFNdCMjsiD11kJ) | 3:31 | 2021-11-12 | 2022-01-22 |
 | [Star Nation](https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Star Nation](https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG) | 4:06 | 2022-02-25 | 2022-04-23 |
 | [Star\-Crossed Lovers \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2N2BxKKvBgGzA8llazrNIj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Fray Variations](https://open.spotify.com/album/17MqCbBh9adgEqokheN61E) | 4:04 | 2022-03-18 |  |

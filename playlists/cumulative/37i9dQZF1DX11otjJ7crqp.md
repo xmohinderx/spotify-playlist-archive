@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Ed Sheeran & Lil Baby
 
-598 songs - 1 day 5 hr 52 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+599 songs - 1 day 5 hr 55 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [if jesus saves, she's my type](https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [if jesus saves, she’s my type](https://open.spotify.com/album/31eBckdffuyRK8cKmZYhkH) | 3:37 | 2022-02-18 | 2022-03-05 |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-02-04 | 2022-02-19 |
 | [Imaginary Friends](https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Imaginary Friends](https://open.spotify.com/album/6yx184mN6SndwRgl6PZlLc) | 2:52 | 2022-03-18 | 2022-04-09 |
+| [In It](https://open.spotify.com/track/2SiBEyFkC7ISONLi0CEcHV) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [In It](https://open.spotify.com/album/0NyDezlm1eaqUHOjGExDwt) | 2:59 | 2022-04-22 |  |
 | [in limbo](https://open.spotify.com/track/56hwmdoq1J9wraXavl7QSM) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [in limbo](https://open.spotify.com/album/2p9rlj0eOAl22RT75lzHXP) | 3:00 | 2022-02-04 | 2022-02-12 |
 | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS) | 2:10 | 2022-03-25 | 2022-04-16 |
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-18 | 2022-04-02 |

@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: anees",
-  "num_followers": 147608,
+  "num_followers": 147841,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDY1MjkyMCwwMDAwMDExNjAwMDAwMTgwNTI5NGI5MzAwMDAwMDE4MDFhNWZhZTNi",
+  "snapshot_id": "MTY1MTE1OTc1OCwwMDAwMDExOTAwMDAwMTgwNzBjYTc3ZDgwMDAwMDE4MDFhNWZhZTNi",
   "tracks": [
+    {
+      "added_at": "2022-04-28 15:16:03",
+      "album": {
+        "name": "BELIEVE IN ME, WHO BELIEVES IN YOU",
+        "url": "https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "duration_ms": 150322,
+      "name": "DITTO",
+      "url": "https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4"
+    },
     {
       "added_at": "2022-04-22 18:42:00",
       "album": {
@@ -57,122 +73,6 @@
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
     },
     {
-      "added_at": "2022-04-22 18:42:00",
-      "album": {
-        "name": "GROOVE",
-        "url": "https://open.spotify.com/album/6iR3IxmXooYa8v37mi3XHz"
-      },
-      "artists": [
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 140623,
-      "name": "GROOVE",
-      "url": "https://open.spotify.com/track/2N1N5vdaOmPmVnr23s7z1U"
-    },
-    {
-      "added_at": "2022-04-04 22:47:16",
-      "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
-    },
-    {
-      "added_at": "2022-04-15 04:39:00",
-      "album": {
-        "name": "24 48",
-        "url": "https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 153065,
-      "name": "24 48",
-      "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
-    },
-    {
-      "added_at": "2022-04-04 22:47:16",
-      "album": {
-        "name": "summer&cigarettes",
-        "url": "https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 114427,
-      "name": "summer&cigarettes",
-      "url": "https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp"
-    },
-    {
-      "added_at": "2022-04-22 18:42:00",
-      "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Bennett",
-          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
-        },
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 226573,
-      "name": "Kick Back (feat. Matt from Matt and Kim)",
-      "url": "https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA"
-    },
-    {
-      "added_at": "2022-04-14 14:04:46",
-      "album": {
-        "name": "The Bright Side",
-        "url": "https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ"
-      },
-      "artists": [
-        {
-          "name": "Aer",
-          "url": "https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Floats My Boat",
-      "url": "https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL"
-    },
-    {
-      "added_at": "2022-04-22 18:42:00",
-      "album": {
-        "name": "Tetris",
-        "url": "https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 124973,
-      "name": "Tetris",
-      "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
-    },
-    {
       "added_at": "2022-04-04 15:24:43",
       "album": {
         "name": "Because the Internet",
@@ -209,20 +109,36 @@
       "url": "https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn"
     },
     {
-      "added_at": "2022-04-22 18:42:00",
+      "added_at": "2022-04-04 22:47:16",
       "album": {
-        "name": "Girl U My Plug",
-        "url": "https://open.spotify.com/album/7MnuSCvU2bmLIzkOfxI302"
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
       },
       "artists": [
         {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
         }
       ],
-      "duration_ms": 199670,
-      "name": "Girl U My Plug",
-      "url": "https://open.spotify.com/track/5bYphpTtDCeVgzoYP6KFSu"
+      "duration_ms": 108800,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+    },
+    {
+      "added_at": "2022-04-15 04:39:00",
+      "album": {
+        "name": "24 48",
+        "url": "https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "24 48",
+      "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
     },
     {
       "added_at": "2022-04-08 19:00:34",
@@ -241,22 +157,6 @@
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
-      "added_at": "2022-04-04 22:47:16",
-      "album": {
-        "name": "RESCUE",
-        "url": "https://open.spotify.com/album/4SpwESU9SstT11kMUgE9cZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny 2 Phones",
-          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
-        }
-      ],
-      "duration_ms": 157995,
-      "name": "RESCUE",
-      "url": "https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq"
-    },
-    {
       "added_at": "2022-04-22 18:42:00",
       "album": {
         "name": "eighty-five",
@@ -271,6 +171,22 @@
       "duration_ms": 195525,
       "name": "eighty-five",
       "url": "https://open.spotify.com/track/6f8J5ZqWB5E8oKosn4h7c5"
+    },
+    {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "GROOVE",
+        "url": "https://open.spotify.com/album/6iR3IxmXooYa8v37mi3XHz"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 140623,
+      "name": "GROOVE",
+      "url": "https://open.spotify.com/track/2N1N5vdaOmPmVnr23s7z1U"
     },
     {
       "added_at": "2022-04-08 13:25:03",
@@ -303,6 +219,70 @@
       "duration_ms": 135540,
       "name": "Supercharged",
       "url": "https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao"
+    },
+    {
+      "added_at": "2022-04-14 14:04:46",
+      "album": {
+        "name": "The Bright Side",
+        "url": "https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ"
+      },
+      "artists": [
+        {
+          "name": "Aer",
+          "url": "https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Floats My Boat",
+      "url": "https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL"
+    },
+    {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "Girl U My Plug",
+        "url": "https://open.spotify.com/album/7MnuSCvU2bmLIzkOfxI302"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 199670,
+      "name": "Girl U My Plug",
+      "url": "https://open.spotify.com/track/5bYphpTtDCeVgzoYP6KFSu"
+    },
+    {
+      "added_at": "2022-04-04 22:47:16",
+      "album": {
+        "name": "RESCUE",
+        "url": "https://open.spotify.com/album/4SpwESU9SstT11kMUgE9cZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny 2 Phones",
+          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
+        }
+      ],
+      "duration_ms": 157995,
+      "name": "RESCUE",
+      "url": "https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq"
+    },
+    {
+      "added_at": "2022-04-04 22:47:16",
+      "album": {
+        "name": "summer&cigarettes",
+        "url": "https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 114427,
+      "name": "summer&cigarettes",
+      "url": "https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -417,6 +397,26 @@
       "url": "https://open.spotify.com/track/33A3P7DydxJYHkKfbglWwO"
     },
     {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bennett",
+          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
+        },
+        {
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Kick Back (feat. Matt from Matt and Kim)",
+      "url": "https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA"
+    },
+    {
       "added_at": "2022-04-08 13:25:03",
       "album": {
         "name": "Nice to Meet Me (feat. Au/Ra)",
@@ -451,6 +451,42 @@
       "duration_ms": 88163,
       "name": "la di da - acoustic",
       "url": "https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN"
+    },
+    {
+      "added_at": "2022-04-08 14:46:43",
+      "album": {
+        "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
+        "url": "https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Ktlyn",
+          "url": "https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG"
+        }
+      ],
+      "duration_ms": 143414,
+      "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
+      "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
+    },
+    {
+      "added_at": "2022-04-22 18:42:00",
+      "album": {
+        "name": "Tetris",
+        "url": "https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 124973,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
     },
     {
       "added_at": "2022-04-15 04:39:00",
@@ -569,26 +605,6 @@
       "url": "https://open.spotify.com/track/2exdDhuNjyxtmJIKkbSWbo"
     },
     {
-      "added_at": "2022-04-08 14:46:43",
-      "album": {
-        "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
-        "url": "https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Ktlyn",
-          "url": "https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
-      "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
-    },
-    {
       "added_at": "2022-04-04 22:47:16",
       "album": {
         "name": "Cigarettes On Patios",
@@ -619,6 +635,22 @@
       "duration_ms": 108984,
       "name": "For A Minute",
       "url": "https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ"
+    },
+    {
+      "added_at": "2022-04-08 14:46:43",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "DRUGS",
+      "url": "https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY"
     },
     {
       "added_at": "2022-04-11 20:55:09",
@@ -655,22 +687,6 @@
     {
       "added_at": "2022-04-08 14:46:43",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "DRUGS",
-      "url": "https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY"
-    },
-    {
-      "added_at": "2022-04-08 14:46:43",
-      "album": {
         "name": "I Love My Homies",
         "url": "https://open.spotify.com/album/61jOjOHe0hjphb3K1KuQXi"
       },
@@ -703,30 +719,6 @@
       "duration_ms": 226758,
       "name": "Ye Not Crazy",
       "url": "https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
-        "name": "I Know NIGO!",
-        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
-        }
-      ],
-      "duration_ms": 174862,
-      "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
-      "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -1251,26 +1243,6 @@
     {
       "added_at": "2022-04-04 15:24:43",
       "album": {
-        "name": "i'm drunk and i miss you more",
-        "url": "https://open.spotify.com/album/766FtGkdeEbLJ2RYOlIuoE"
-      },
-      "artists": [
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        },
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "i'm drunk and i miss you more",
-      "url": "https://open.spotify.com/track/50jtIig2VWqCVXai7Epm3c"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/2BF22IRfGkJhNsdDYxVE7r"
       },
@@ -1735,46 +1707,6 @@
       "duration_ms": 189000,
       "name": "bootleg jordans",
       "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
-        "name": "W (with yvngxchris)",
-        "url": "https://open.spotify.com/album/6wWt12ueB7BwQJS0OcuoHZ"
-      },
-      "artists": [
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
-        },
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
-        }
-      ],
-      "duration_ms": 151446,
-      "name": "W (with yvngxchris)",
-      "url": "https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
-        "name": "Dark Sky Paradise",
-        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 284386,
-      "name": "I Don't Fuck With You",
-      "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
     },
     {
       "added_at": "2022-04-04 15:24:43",

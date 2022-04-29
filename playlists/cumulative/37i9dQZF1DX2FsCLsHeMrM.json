@@ -2040,6 +2040,24 @@
     },
     {
       "album": {
+        "name": "MINT",
+        "url": "https://open.spotify.com/album/4QGpoKRniUZO5sJ0njLxGF"
+      },
+      "artists": [
+        {
+          "name": "Garrett Zoukis",
+          "url": "https://open.spotify.com/artist/4JM1oVSS9tdfBwIZMWfAgC"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195933,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/4S4JuY7JIOQHdVwkg9kIh4"
+    },
+    {
+      "album": {
         "name": "The Midnight Hour",
         "url": "https://open.spotify.com/album/2D67AgXVKjql7tniG3jQKl"
       },

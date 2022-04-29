@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 315960,
       "name": "Bertaut",
       "url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX"
@@ -3385,7 +3385,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 217626,
       "name": "Pelangi",
       "url": "https://open.spotify.com/track/5BgZ1bi8xeWVxmg12RfWzv"
@@ -4036,6 +4036,24 @@
     },
     {
       "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "Sick Feeling",
+      "url": "https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc"
+    },
+    {
+      "album": {
         "name": "Sisa Rasa",
         "url": "https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ"
       },
@@ -4557,7 +4575,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 174000,
       "name": "W.H.U.T",
       "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"

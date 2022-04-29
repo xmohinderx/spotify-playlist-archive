@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-192 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
+193 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Revolt](https://open.spotify.com/track/733ed91DqnkX4xBAI2Xs8T) | [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [CLUBLIFE, VOL\. 5 \- CHINA](https://open.spotify.com/album/3pazfA2ahcJHKHP2E2QjEB) | 3:29 | 2020-10-20\* |  |
 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 | 2020-10-20\* |  |
 | [Rocky](https://open.spotify.com/track/22ywxwXO4ULvMf737S2JcD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kaaze](https://open.spotify.com/artist/1RJZ8xxkT1OFPCYUjxt4bl) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:20 | 2020-10-20\* |  |
+| [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-28 |  |
 | [Say Something](https://open.spotify.com/track/5BIMB67xASWCpxK15rzVnX) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/7we1BNenehBwimeIkK0jL0) | 4:48 | 2020-10-20\* |  |
 | [Scream](https://open.spotify.com/track/6HYC3R2LAYvZEh5c5n9GO7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [CLUBLIFE, VOL\. 5 \- CHINA](https://open.spotify.com/album/3pazfA2ahcJHKHP2E2QjEB) | 3:13 | 2020-10-20\* |  |
 | [Secrets](https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:10 | 2020-10-20\* |  |

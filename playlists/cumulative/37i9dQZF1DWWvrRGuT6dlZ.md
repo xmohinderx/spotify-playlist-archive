@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Ezra Kairo\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Zane Cotton\. Artwork: Isu Kim.
 
-195 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+200 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adolescence](https://open.spotify.com/track/7kJF6LXAdGFFYIBG0ORnjv) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Adolescence](https://open.spotify.com/album/4GpeNL5ruYdieY9QLK2cTk) | 4:20 | 2022-01-13 |  |
 | [Alibi](https://open.spotify.com/track/0137H45gM6qEPdZ3XDObo6) | [Shadow Puppet Theatre](https://open.spotify.com/artist/3Sn4O0kPAszlYmxYrguYGU) | [Alibi](https://open.spotify.com/album/5QHEAUkNy3h1VgSZ4ayN0s) | 3:51 | 2022-01-13 |  |
 | [All Our Time](https://open.spotify.com/track/1owDrtFbH0V0X2OfgvDXfQ) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [All Our Time](https://open.spotify.com/album/2916zEO9dVb5kgERS3f7qM) | 5:08 | 2022-01-13 |  |
+| [All That Matters](https://open.spotify.com/track/4KehwAKQP0Sl31aOmDZ5Hg) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [All That Matters](https://open.spotify.com/album/7im1alWyGUV9lSXxPUFz7r) | 3:57 | 2022-04-28 |  |
 | [alone < /3](https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [alone < /3](https://open.spotify.com/album/3LpPVjsnxjU1OjQr5AETxc) | 3:01 | 2021-12-01 | 2022-01-14 |
 | [Anima Bella](https://open.spotify.com/track/0PjdhMgWgx3IJ5cUT13tiz) | [Mia Lateefa](https://open.spotify.com/artist/2iPmNcNNer1SRignvfsjQE) | [Anima Bella](https://open.spotify.com/album/4zzVg82fXthMeN3BZf6Kel) | 3:13 | 2022-01-13 |  |
 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2022-03-17 |  |
@@ -85,6 +86,7 @@
 | [How Much I Love You](https://open.spotify.com/track/5vKndiPBueOaTN1P9lQwfa) | [MOTUS.SG](https://open.spotify.com/artist/7tuB7LkGxGec6TBzNbxO6b) | [How Much I Love You](https://open.spotify.com/album/1897C7mz4NrXSo8aTWjLHj) | 4:32 | 2022-01-13 | 2022-03-25 |
 | [HUOY \(I A F Remix\)](https://open.spotify.com/track/3wnH3eaH3rn8gyruSsRvsD) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps), [I A F](https://open.spotify.com/artist/06LlHaKG2UBtZdp4iyg4MK) | [HUOY \(I A F Remix\)](https://open.spotify.com/album/1C5tU1vYajSiNOG0ZEN19S) | 3:22 | 2022-01-20 |  |
 | [I Don't Mind](https://open.spotify.com/track/3DzYmaYp3RIFYsn4WF9W22) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt), [Karena Yeo](https://open.spotify.com/artist/3aHgoRddVvpmmaci2RNzZj), [Vessail](https://open.spotify.com/artist/5BkvrjwohNWFvwYUJ1jxnZ) | [I Don't Mind](https://open.spotify.com/album/5sT9gxDFo7toJBGbZEktqS) | 3:05 | 2022-01-13 |  |
+| [I F\*CKED a CHEATER](https://open.spotify.com/track/5TvuiNsfLwiPe3WPq8OHqC) | [Jjdroy](https://open.spotify.com/artist/4aJ8I7dbcRtx1mFdA8Sh5w), [Jude](https://open.spotify.com/artist/4oTyEQgj8L5eFsj42Kf0Na) | [I F\*CKED a CHEATER](https://open.spotify.com/album/08JTfXV5vjB9StoAKVUmSJ) | 2:59 | 2022-04-28 |  |
 | [i knew you'd break me too](https://open.spotify.com/track/3GxfAIc71D0H34YjmRtN4C) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [i knew you'd break me too](https://open.spotify.com/album/7M9BIvJayv8lJAyP9EI8vD) | 3:06 | 2022-01-13 |  |
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2021-12-01 | 2022-01-14 |
 | [I Miss You](https://open.spotify.com/track/33bTQa936DdseMAkYG480W) | [AFMidnight](https://open.spotify.com/artist/6XvBP1jL8uPMvAwqvNzNXc) | [I Miss You](https://open.spotify.com/album/2ZT0rNL2TyFN5w7DvmXl9a) | 3:10 | 2022-01-27 | 2022-02-11 |
@@ -193,13 +195,16 @@
 | [What Fools Do](https://open.spotify.com/track/24KTfG74Z4brtfRxhGr2qV) | [Sarsa Kailas](https://open.spotify.com/artist/5kouM0z5Ne4bUuHpvBStjP) | [What Fools Do](https://open.spotify.com/album/5cHDJlYEpKfFpiYNrowkMS) | 3:34 | 2021-12-01 | 2022-01-14 |
 | [What Is Love](https://open.spotify.com/track/0E5M9OnCcCO2O02iBbej1Z) | [Airii](https://open.spotify.com/artist/0PGpHU7ykfVuBw819Gbd18) | [What Is Love](https://open.spotify.com/album/5secPVs9MUO1cpVpFjLGMr) | 3:01 | 2022-01-13 |  |
 | [What Went Wrong](https://open.spotify.com/track/0W3LecX7VVuMxgelsshS72) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [What Went Wrong](https://open.spotify.com/album/43fQagS136MVf0xI00jg1N) | 3:47 | 2022-01-13 | 2022-03-11 |
+| [WHAT YOU WANT](https://open.spotify.com/track/5o1eKj6je4mkFXU6nElgoJ) | [Zane Cotton](https://open.spotify.com/artist/7nXSLhAflRRo3t0AxWQOBq), [IN THE NOW](https://open.spotify.com/artist/7uBh7DKzz106BQ0VBDEBv6) | [WHAT YOU WANT](https://open.spotify.com/album/35oOzGPopdz0dXGXjK8Imo) | 2:41 | 2022-04-28 |  |
 | [when it's not okay](https://open.spotify.com/track/4WJbqIU8HC6xaQFXrcWx7E) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [when it's not okay](https://open.spotify.com/album/1fkIoo5XN2F9VFAVLBmxPH) | 3:03 | 2022-04-21 |  |
 | [where do i go?](https://open.spotify.com/track/5sn3NDqkXVfWj0r7HhdeFj) | [JQ x ZUL](https://open.spotify.com/artist/5TrKlQCi5tcAKAXfWKrR4N) | [where do i go?](https://open.spotify.com/album/2LGiCNgUyWiwBNlo83FQFD) | 2:57 | 2022-01-13 |  |
 | [Where or When](https://open.spotify.com/track/5wVXgqUdJC9lJ5SYAyuBOW) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Where or When](https://open.spotify.com/album/1Qw3VnXePVHqW2gfpB6yTu) | 4:49 | 2022-01-27 |  |
 | [Wistful](https://open.spotify.com/track/6tBrlSVkjXrzllNo7CFO0z) | [Isaac Kuah](https://open.spotify.com/artist/0TnMOHZATyRMoz4u2Mgucu) | [Wistful](https://open.spotify.com/album/6xOBJoFbxtweylyzKSRGNL) | 4:16 | 2022-01-13 | 2022-03-25 |
+| [Without You](https://open.spotify.com/track/3lIO5alrxwoxc0VOqVu57f) | [Keith VVolf](https://open.spotify.com/artist/3TPbOzdrHElYaEhPxvg3e9) | [Without You](https://open.spotify.com/album/32c00YWobzmjAr3XYjBifM) | 6:11 | 2022-04-28 |  |
 | [Without Your Love](https://open.spotify.com/track/5HcdvdmsVmdSCvDeWlZfzX) | [Sophia Shaan](https://open.spotify.com/artist/3dspTprJMqarjB8IxlIKjs) | [Without Your Love](https://open.spotify.com/album/1Om19Y8ellMyzNjXhgbuLN) | 3:28 | 2022-01-13 | 2022-03-25 |
 | [won't you](https://open.spotify.com/track/1kXS1Q4nfDEtd7tsMtH3N9) | [Lowkeii](https://open.spotify.com/artist/588Ho9n5DcHnpVdNDvQhah), [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1), [fahmy.](https://open.spotify.com/artist/1B9PxfeSIjOHvfr0jVidlG) | [won't you](https://open.spotify.com/album/2B8ZU8zD2RX6BRLz4t2sVa) | 2:51 | 2022-01-27 |  |
 | [Yearning](https://open.spotify.com/track/5AIFWdHJbWYmTc81kSUwCn) | [Cheri Indigo](https://open.spotify.com/artist/7xfSpg2jjE8rY2nFCWrM8S) | [Yearning](https://open.spotify.com/album/12n7yACSrfiGAUGkl1LVWc) | 3:49 | 2021-12-01 | 2022-01-14 |
+| [YOUR EYES](https://open.spotify.com/track/7cKS9sDxGbbEe34KwagpoG) | [Kiyne](https://open.spotify.com/artist/1HTJf01tLwR7xXxaH3L92B) | [YOUR EYES](https://open.spotify.com/album/525LxSwLetm5KEbHEwo8ML) | 3:28 | 2022-04-28 |  |
 | [Your Loss](https://open.spotify.com/track/24IE7WIUYYs9gmhbgPLULC) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Your Loss](https://open.spotify.com/album/7zWIsfNXYMTqckSbp21PjE) | 3:35 | 2022-01-13 | 2022-03-11 |
 | [내 사랑아 \(Oh, My Love\)](https://open.spotify.com/track/7KgRv7LzkNQ4EFeoMzC24G) | [mersie](https://open.spotify.com/artist/6NiLEHNy66fQkD5PNoQqoH) | [내 사랑아 \(Oh, My Love\)](https://open.spotify.com/album/3QNFlrECM7YmdCwpt1vQx1) | 3:36 | 2021-12-01 | 2022-01-14 |
 | [​play me](https://open.spotify.com/track/5626i04kNNcjKXLIpn7kYi) | [Agalia](https://open.spotify.com/artist/3SjO9XulRr2YjTkxQwuJKZ) | [​play me](https://open.spotify.com/album/2nrX1v6cePTohto7uIuhf6) | 3:49 | 2022-01-20 |  |

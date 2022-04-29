@@ -4,7 +4,7 @@
 
 > The best of the country's independent artists\. Cover: Prateek Kuhad
 
-130 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
+131 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/0fzVqKKvn5P6MU3kNYsqgM) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Jaysinh Gadhvi](https://open.spotify.com/artist/1HEuIORmED1xTKDDiPH6MJ), [Kavi Shree Ghanshyam Gadhvi](https://open.spotify.com/artist/4rU6mQr0ILE4ulexLA3l7W), [Bhargav Purohit](https://open.spotify.com/artist/2v7bvNV1rWBtzZqFj2L9Qc), [Raju Bhaai](https://open.spotify.com/artist/1rF0er2kxD1tn46ToQavcC), [Sagar Patel](https://open.spotify.com/artist/1hVYdNuFnaMpCWK9t5J6S5) | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/66xOQ66ZnZPAlA6thPN5kb) | 2:55 | 2021-12-06 | 2022-01-06 |
 | [Home Alone](https://open.spotify.com/track/4vOElXsN9pB63rxcRV55tW) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Home Alone](https://open.spotify.com/album/0saEF9ixZrT50jbiM8CUdY) | 3:00 | 2021-12-06 | 2022-01-11 |
 | [Humara Ho Gaya](https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 2:37 | 2022-01-05 |  |
-| [Humne Bhi](https://open.spotify.com/track/78bJtdSTpHYS8u9axaismu) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Humne Bhi \- Single](https://open.spotify.com/album/0rfjCcKynJ2CDAwGD8Yp1z) | 4:12 | 2021-12-06 |  |
+| [Humne Bhi](https://open.spotify.com/track/78bJtdSTpHYS8u9axaismu) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Humne Bhi \- Single](https://open.spotify.com/album/0rfjCcKynJ2CDAwGD8Yp1z) | 4:12 | 2021-12-06 | 2022-04-29 |
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/4KIpuP4MsEiGLbyiGR9BNS) | 3:45 | 2021-12-06 |  |
 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2022-01-05 | 2022-02-12 |
 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 | 2022-04-06 |  |
@@ -105,6 +105,7 @@
 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2021-12-06 |  |
 | [Run Closer](https://open.spotify.com/track/40rO5T5aZa0MlgzCetTRTn) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Run Closer \- Single](https://open.spotify.com/album/47Eqo6aO3LZZkkj2uk7g6f) | 3:22 | 2022-01-05 | 2022-01-28 |
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-03-14 |  |
+| [Saal](https://open.spotify.com/track/2S3erlZaNr7EGakVORv619) | [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Khushraj Hussain](https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh) | [Saal](https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP) | 3:08 | 2022-04-28 |  |
 | [Sage](https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Sage](https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn) | 3:50 | 2022-01-05 |  |
 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 | 2022-01-27 | 2022-02-05 |
 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,605 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,619 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 54 | [Cruel World](https://open.spotify.com/track/4RtLJdGrUDDf6o7EhQtcas) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Cruel World](https://open.spotify.com/album/2KLQvgaPDzX9mhwKHdgoXn) | 3:03 |
 | 55 | [June Carter Cash \(Lost and Found\)](https://open.spotify.com/track/4c48jmCU5a2qg2hXelAZRt) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Pop Drunk Snot Bread](https://open.spotify.com/album/5mJh9svijKizHhXkf9167B) | 3:04 |
 | 56 | [Waiting For The Day](https://open.spotify.com/track/19WKcEuuC6QVm6C2DdJmQA) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Waiting For The Day](https://open.spotify.com/album/1s7vhmyQbJxsmdGlZOeNyr) | 4:28 |
-| 57 | [Memories About You](https://open.spotify.com/track/1EbgExplpQm5vWtDGguojA) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Memories About You](https://open.spotify.com/album/1w6bhSU508KtPI6H9skUjK) | 3:50 |
+| 57 | [Memories About You](https://open.spotify.com/track/1EbgExplpQm5vWtDGguojA) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Memories About You](https://open.spotify.com/album/1w6bhSU508KtPI6H9skUjK) | 3:50 |
 | 58 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 |
 | 59 | [Unholy Affliction](https://open.spotify.com/track/7wMybZBcFkahdIp8w2J3Ml) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Unholy Affliction](https://open.spotify.com/album/3l1de4juXHVIvK7nsJMojQ) | 3:06 |
 | 60 | [Your Dream](https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Your Dream](https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks) | 3:38 |

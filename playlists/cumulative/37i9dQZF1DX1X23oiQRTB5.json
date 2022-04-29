@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "DA Uzi x Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 150973,
       "name": "Akimbo",
       "url": "https://open.spotify.com/track/0GHN9qDtUXOctlf96tzivw"
@@ -293,6 +293,28 @@
       "duration_ms": 183783,
       "name": "De bon matin",
       "url": "https://open.spotify.com/track/3EwsJXInOSrHZqSRW2UceI"
+    },
+    {
+      "album": {
+        "name": "Tout Droit",
+        "url": "https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux"
+      },
+      "artists": [
+        {
+          "name": "Yaro",
+          "url": "https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dernier Etage",
+      "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
     },
     {
       "album": {
@@ -1030,6 +1052,28 @@
     },
     {
       "album": {
+        "name": "Reste-l\u00e0 (feat. Tiakola)",
+        "url": "https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U"
+      },
+      "artists": [
+        {
+          "name": "Gambino La MG",
+          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164240,
+      "name": "Reste-l\u00e0 (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6"
+    },
+    {
+      "album": {
         "name": "SVR",
         "url": "https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy"
       },
@@ -1147,7 +1191,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 115810,
       "name": "Vengeance !",
       "url": "https://open.spotify.com/track/6R7Efh28yqv5a21h3G7Qbg"

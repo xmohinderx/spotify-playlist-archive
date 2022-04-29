@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 254910,
       "name": "Already Disappeared",
       "url": "https://open.spotify.com/track/6wUc42SOF3zzn163c3ODrw"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 211162,
       "name": "Bourgeois Imagery",
       "url": "https://open.spotify.com/track/553ZWdi7tRpCWTk1LQ57R7"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 250201,
       "name": "Ekstac",
       "url": "https://open.spotify.com/track/07GB0Qr5v9AbqCFcrurGLT"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 367542,
       "name": "Empire",
       "url": "https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 189793,
       "name": "Everything But You (feat. A7S) - Luude Remix",
       "url": "https://open.spotify.com/track/2dLU5EMUxumBWWdzDCL7Lc"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 248375,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 166103,
       "name": "Ghost (feat. DJ Rae)",
       "url": "https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 204137,
       "name": "Gone Sleep",
       "url": "https://open.spotify.com/track/5T7OpBrCobyQSQQpcFF33j"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 269504,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/63UmONGWD612D6jn96v9Hu"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 249384,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/3ZVanYYFDyY8odbBNUbhOM"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 290039,
       "name": "Kiss Kiss Bang Bang - Bou Remix",
       "url": "https://open.spotify.com/track/5TrO1BVrsHkdWE4SIvCUvT"
@@ -1695,6 +1695,24 @@
       "duration_ms": 201379,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
+    },
+    {
+      "album": {
+        "name": "Lightwave",
+        "url": "https://open.spotify.com/album/0CVZxhOHdMUQWeBgqpl6EE"
+      },
+      "artists": [
+        {
+          "name": "Technimatic",
+          "url": "https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316085,
+      "name": "Lightwave",
+      "url": "https://open.spotify.com/track/7zckXyvE4mKz7DuTNNljWD"
     },
     {
       "album": {
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 251134,
       "name": "Love Drunk",
       "url": "https://open.spotify.com/track/0fpSLtAZyzwz8e57jjZme6"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 312685,
       "name": "Overture",
       "url": "https://open.spotify.com/track/4AjiA5HkJVy59369f0Jjlk"
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 257259,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
@@ -2580,6 +2598,24 @@
     },
     {
       "album": {
+        "name": "Smile & Wave",
+        "url": "https://open.spotify.com/album/5pKqMPMT0KaftxsJnPnl9Q"
+      },
+      "artists": [
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Smile & Wave",
+      "url": "https://open.spotify.com/track/3QOnDM8LUo1ijcIuuHuagM"
+    },
+    {
+      "album": {
         "name": "Snakebite / Springloaded",
         "url": "https://open.spotify.com/album/0BLBJCN3pS9BGkrH6QQCc8"
       },
@@ -2591,7 +2627,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 290842,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/5wN3p3JA3LadVYxbcqfiLo"
@@ -2657,7 +2693,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI"
@@ -2763,7 +2799,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4"
@@ -2875,7 +2911,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Tension",
       "url": "https://open.spotify.com/track/2Q1qKe67GvqurAqALFNUAq"
@@ -2951,7 +2987,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
@@ -3079,7 +3115,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 274364,
       "name": "VENGEANCE",
       "url": "https://open.spotify.com/track/4TWzFH0TcuQlWYjQK7D6pb"
@@ -3317,7 +3353,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 241379,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru"
@@ -3339,6 +3375,28 @@
       "duration_ms": 326750,
       "name": "Yeah Ya Kno",
       "url": "https://open.spotify.com/track/45xYxgfapnCZ1aacoxE73b"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/2ne2EF5sr0Pjyrtwiko8XC"
+      },
+      "artists": [
+        {
+          "name": "Millbrook",
+          "url": "https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm"
+        },
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224991,
+      "name": "You & Me (feat. Selin)",
+      "url": "https://open.spotify.com/track/0fMwDS1m5ZJMA0SLTNoZxs"
     },
     {
       "album": {

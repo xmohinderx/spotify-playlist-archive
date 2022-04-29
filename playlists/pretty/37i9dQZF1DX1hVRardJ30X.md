@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Wisin, Don Omar, Gente De Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,114 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,131 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 35 | [No dejes que pase el tiempo](https://open.spotify.com/track/366vloqcbQ6nNj5TtBPEuw) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [No dejes que pase el tiempo](https://open.spotify.com/album/0ORYq69wwjlN5bUTYsdMsz) | 3:37 |
 | 36 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
 | 37 | [Así Es La Vida \(La Despedida\)](https://open.spotify.com/track/4mXVuRqJsDcfRaywGYshlC) | [Lionixx](https://open.spotify.com/artist/0yymwngsR8Fvujwv41ePj9), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Mathew](https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC), [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB) | [Así Es La Vida \(La Despedida\)](https://open.spotify.com/album/2g76o2Smc4I6Duh6TCVDTV) | 3:34 |
-| 38 | [Grande \(feat\. Emi Chavez & Tipo Sierra Bros\)](https://open.spotify.com/track/3rrK8WfijoCt0aJrFqeR1u) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj), [Yomiel](https://open.spotify.com/artist/4T5n4r2GG6ZkliKz9iNVuA), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [Emi Chavez](https://open.spotify.com/artist/5lNZBumZOIkjIhgqQxof8z), [Tipo Sierra Bros](https://open.spotify.com/artist/4v8oNx1erxPmFh7PJeeLqA) | [Grande \(feat\. Emi Chavez & Tipo Sierra Bros\)](https://open.spotify.com/album/521mDogZRhaFRkM0ejqe7a) | 6:05 |
+| 38 | [Grande \(feat\. Emi Chavez & TipoSierraBros\)](https://open.spotify.com/track/3rrK8WfijoCt0aJrFqeR1u) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj), [Yomiel](https://open.spotify.com/artist/4T5n4r2GG6ZkliKz9iNVuA), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [Emi Chavez](https://open.spotify.com/artist/5lNZBumZOIkjIhgqQxof8z), [Tipo Sierra Bros](https://open.spotify.com/artist/4v8oNx1erxPmFh7PJeeLqA) | [Grande \(feat\. Emi Chavez & TipoSierraBros\)](https://open.spotify.com/album/521mDogZRhaFRkM0ejqe7a) | 6:05 |
 | 39 | [Olor a Kush \- Merengue](https://open.spotify.com/track/4ic68ItCjS1yyO6IgLs9s0) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Olor a Kush \(Merengue\)](https://open.spotify.com/album/4QNc3T3uQhNg6nncMnqXsY) | 2:52 |
 | 40 | [Castigo](https://open.spotify.com/track/3IT7vsVEwg0LyJ8eVGtvzn) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [BESITOS Y BESITAS](https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5) | 3:40 |
 | 41 | [BBB](https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [BBB](https://open.spotify.com/album/5RHyPiHNjAGcCq3KraVSYf) | 2:34 |

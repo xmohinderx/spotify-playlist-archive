@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Jazz Impressions Of New York",
+        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328066,
+      "name": "Autumn in Washington Square",
+      "url": "https://open.spotify.com/track/5I3dI6HaVLW34JxNYxB7sn"
+    },
+    {
+      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 554960,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/3M00YjxlMIPveCXrVuLb4c"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 259720,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/0Wq4RLRFm7DY2mdl9PczIH"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 441053,
       "name": "You Leave Me Breathless - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/0FcDIsJa17QDNo1zHp6SB5"

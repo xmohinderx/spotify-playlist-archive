@@ -4,7 +4,7 @@
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-102 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/1XU4almpwByp958TvBy5RK)
+104 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/1XU4almpwByp958TvBy5RK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [OOPS!](https://open.spotify.com/track/1PI5Nlv1bJESN0H1wBa7Pe) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 2:42 | 2021-10-27 |  |
 | [Perfect Love](https://open.spotify.com/track/1ILLB5uvWk1lQJOY7q645K) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[+ +\]](https://open.spotify.com/album/7e6TOKG4POoaQikpefQwbC) | 3:42 | 2021-10-27 |  |
 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 | 2021-10-27 |  |
+| [PTT \(Paint The Town\)](https://open.spotify.com/track/0MEJznR74sW0mnSnkbiQia) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 4:14 | 2022-04-28 |  |
 | [PTT\(Paint The Town\) \- Japanese Ver.](https://open.spotify.com/track/2WAYPejv44bmgl7qQVPVW6) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [PTT\(Paint The Town\) \[Japanese Ver.\]](https://open.spotify.com/album/4ReTWI7ppSySATvXgJ1AGI) | 3:21 | 2021-10-27 |  |
 | [Puzzle](https://open.spotify.com/track/0Y1oSjd9U7Qy5t7EDjAjPq) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Choerry](https://open.spotify.com/album/7zWV8dHkh06EclukKh1jVh) | 3:40 | 2021-10-27 |  |
 | [Rain 51db](https://open.spotify.com/track/0y6mgjArFlmksW6Qciycd5) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg) | 3:21 | 2021-10-27 |  |
@@ -80,6 +81,7 @@
 | [Rosy \(고원, Olivia Hye\)](https://open.spotify.com/track/6cfacimNXWogsp6DtJflyL) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Olivia Hye](https://open.spotify.com/album/0l2Z13tBw1lq2IcnBpfJeC) | 3:14 | 2021-10-27 |  |
 | [Satellite](https://open.spotify.com/track/644aVns0mIqtLY9Wqzm7zD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:09 | 2021-10-27 |  |
 | [See Saw \(Chuu, Go Won\)](https://open.spotify.com/track/1tLmp8dEhaHvU0jm2aG6sS) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Kim Lip](https://open.spotify.com/artist/1fsR8q6ObgP7rLBYdZZD7i) | [Go Won](https://open.spotify.com/album/5li9RKVy6K7WOSR4DNJc5y) | 3:21 | 2021-10-27 |  |
+| [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 | 2022-04-28 |  |
 | [Singing in the Rain](https://open.spotify.com/track/1uNTfm5WZVGdig95SAXajH) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi) | 3:31 | 2021-10-27 |  |
 | [Singing in the Rain](https://open.spotify.com/track/6ZCugHZvchMlF6DqMDYIW1) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 3:31 | 2021-10-27 |  |
 | [So What](https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn) | 3:18 | 2021-10-27 |  |

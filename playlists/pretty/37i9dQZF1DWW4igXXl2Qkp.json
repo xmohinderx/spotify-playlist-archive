@@ -1,29 +1,13 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Sojabrat\n",
-  "num_followers": 181117,
+  "num_followers": 181264,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTA4MzcxMiwwMDAwMDEwOTAwMDAwMTgwNmM0MjE3NzkwMDAwMDE4MDAwNzA2ODYx",
+  "snapshot_id": "MTY1MTE3NjMyOCwwMDAwMDEwYTAwMDAwMTgwNzFjNzRkMTUwMDAwMDE4MDAwNzA2ODYx",
   "tracks": [
-    {
-      "added_at": "2022-04-27 18:21:52",
-      "album": {
-        "name": "Fresh off the UFO",
-        "url": "https://open.spotify.com/album/5ohRCDMjtNZq70x9SdKAwC"
-      },
-      "artists": [
-        {
-          "name": "Lil Double 0",
-          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
-        }
-      ],
-      "duration_ms": 115203,
-      "name": "Fresh off the UFO",
-      "url": "https://open.spotify.com/track/3RSK78MIagdtqYLvN4cWKN"
-    },
     {
       "added_at": "2022-04-27 18:21:52",
       "album": {
@@ -41,6 +25,22 @@
       "url": "https://open.spotify.com/track/6ng5m6PFWXjKJTTaaqM38B"
     },
     {
+      "added_at": "2022-04-28 20:05:28",
+      "album": {
+        "name": "New 50's",
+        "url": "https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
+        }
+      ],
+      "duration_ms": 114261,
+      "name": "New 50's",
+      "url": "https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99"
+    },
+    {
       "added_at": "2022-04-27 18:21:52",
       "album": {
         "name": "wheN iT rainS iT pourS",
@@ -55,6 +55,42 @@
       "duration_ms": 177479,
       "name": "waY bacK wheN",
       "url": "https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz"
+    },
+    {
+      "added_at": "2022-04-28 20:05:28",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX"
+      },
+      "artists": [
+        {
+          "name": "Boa Hunxho",
+          "url": "https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6"
+        },
+        {
+          "name": "BOA QG",
+          "url": "https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7"
+    },
+    {
+      "added_at": "2022-04-27 18:21:52",
+      "album": {
+        "name": "Fresh off the UFO",
+        "url": "https://open.spotify.com/album/5ohRCDMjtNZq70x9SdKAwC"
+      },
+      "artists": [
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        }
+      ],
+      "duration_ms": 115203,
+      "name": "Fresh off the UFO",
+      "url": "https://open.spotify.com/track/3RSK78MIagdtqYLvN4cWKN"
     },
     {
       "added_at": "2022-04-27 18:21:52",
@@ -663,22 +699,6 @@
     {
       "added_at": "2022-03-30 20:07:37",
       "album": {
-        "name": "Cali Lovin",
-        "url": "https://open.spotify.com/album/3p39OOJTQ79L1dmC4HmQbW"
-      },
-      "artists": [
-        {
-          "name": "KINGMOSTWANTED",
-          "url": "https://open.spotify.com/artist/7BCzdg9R0InC8COslhyNrQ"
-        }
-      ],
-      "duration_ms": 91115,
-      "name": "Cali Lovin",
-      "url": "https://open.spotify.com/track/6ryE7ZAB9jsM8tfpmXIuEJ"
-    },
-    {
-      "added_at": "2022-03-30 20:07:37",
-      "album": {
         "name": "Backseat Shawty",
         "url": "https://open.spotify.com/album/78AR0UMFU0j6JOobnHVuo5"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 135285,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/2TGJK0K2RDjpiRFQUF19Fv"
-    },
-    {
-      "added_at": "2022-03-30 20:07:37",
-      "album": {
-        "name": "To a Dark Boy",
-        "url": "https://open.spotify.com/album/7niitYX38HE0L1hpBl05Xx"
-      },
-      "artists": [
-        {
-          "name": "Emmavie",
-          "url": "https://open.spotify.com/artist/30SZetOBMEael27tboxz7f"
-        },
-        {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Starter Jacket",
-      "url": "https://open.spotify.com/track/2R6z3v6Kvv4bUKacJFwLqf"
     },
     {
       "added_at": "2022-03-30 20:07:37",

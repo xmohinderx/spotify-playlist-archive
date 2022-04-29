@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: AVEC
 
-88 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+90 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-01-27 |  |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 |  |
 | [Boomerang](https://open.spotify.com/track/1DilMm613lCaBlin10YfGM) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Aylo Technology](https://open.spotify.com/album/0AbFBBT1NiSS7x9IDghT2T) | 2:11 | 2021-12-16 | 2022-01-21 |
-| [Boys Will Be Girls](https://open.spotify.com/track/01ZPfziRi0YPBbqciOKBsv) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Boys Will Be Girls](https://open.spotify.com/album/7sSLzWKQYO44GfnqQF6PRX) | 3:16 | 2021-12-16 |  |
+| [Boys Will Be Girls](https://open.spotify.com/track/01ZPfziRi0YPBbqciOKBsv) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Boys Will Be Girls](https://open.spotify.com/album/7sSLzWKQYO44GfnqQF6PRX) | 3:16 | 2021-12-16 | 2022-04-29 |
 | [Build Me A Bridge](https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Our Beautiful Mess](https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3) | 2:42 | 2021-12-16 |  |
 | [Can't Take This Silence](https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Rose](https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7) | 4:08 | 2021-12-16 | 2022-03-18 |
 | [Cigarette](https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Cigarette](https://open.spotify.com/album/4cVguILaTeTnjfcMhJx2Mz) | 3:18 | 2021-12-16 | 2022-04-08 |
@@ -27,7 +27,7 @@
 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 | 2021-12-16 |  |
 | [Don't U Dare](https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Don't U Dare](https://open.spotify.com/album/2YV91Zb0tDaxAsT2mmBDFP) | 2:42 | 2022-02-10 |  |
 | [Eins sein](https://open.spotify.com/track/1cIk7YqCnsVEv6FGRFLLrU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Eins sein](https://open.spotify.com/album/7uFZmTPubuC0o8gV4ODoL6) | 2:52 | 2021-12-16 | 2022-01-14 |
-| [End of the Road](https://open.spotify.com/track/3BfRjAclEFihCqLguT8Ch7) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [End of the Road](https://open.spotify.com/album/77eNqATHOvAle5qBQqBHtM) | 2:39 | 2021-12-16 |  |
+| [End of the Road](https://open.spotify.com/track/3BfRjAclEFihCqLguT8Ch7) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [End of the Road](https://open.spotify.com/album/77eNqATHOvAle5qBQqBHtM) | 2:39 | 2021-12-16 | 2022-04-29 |
 | [Feel Good](https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Feel Good](https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy) | 3:17 | 2021-12-16 |  |
 | [Fluss](https://open.spotify.com/track/2QuyGidLrET8KlD8fN2bPc) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Fluss](https://open.spotify.com/album/4TEfhnre2612yM3UCM93Bx) | 3:17 | 2021-12-16 | 2022-02-25 |
 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-01-06 |  |
@@ -55,11 +55,12 @@
 | [Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Liebe verloren](https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF) | 3:13 | 2022-02-03 | 2022-04-22 |
 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 | 2021-12-16 | 2022-04-01 |
 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 | 2021-12-16 |  |
+| [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 |  |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-17 |  |
 | [Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [OG Keemo](https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE) | [Mach kaputt](https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4) | 3:55 | 2022-04-21 |  |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-12-16 |  |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-17 |  |
-| [MIND ACTRESS](https://open.spotify.com/track/6Vyw8E2SOTb5dUasc76bmH) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [PAPPELALLEE 01](https://open.spotify.com/album/5qcXQaYl5cwPi00ej8JWSF) | 3:53 | 2021-12-16 |  |
+| [MIND ACTRESS](https://open.spotify.com/track/6Vyw8E2SOTb5dUasc76bmH) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [PAPPELALLEE 01](https://open.spotify.com/album/5qcXQaYl5cwPi00ej8JWSF) | 3:53 | 2021-12-16 | 2022-04-29 |
 | [Mom&Dad](https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Mom&Dad](https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn) | 3:01 | 2021-12-16 |  |
 | [My Wife The Depression](https://open.spotify.com/track/4Izo6qdh1ypa33xz2Ez4Lf) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [My Wife The Depression](https://open.spotify.com/album/6vhpoAT5KHbsE5pxv7Mp9O) | 3:02 | 2021-12-16 | 2022-04-15 |
 | [New 68](https://open.spotify.com/track/5hMIBsn64hajBIKbFJAsf6) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [New 68](https://open.spotify.com/album/0R1JPqXUR7sXSq67zGMRqO) | 3:30 | 2021-12-16 |  |
@@ -90,6 +91,7 @@
 | [Walk Away](https://open.spotify.com/track/3XQDYyBoAeP7Agcx4YCwHS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Walk Away](https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc) | 2:49 | 2021-12-16 |  |
 | [Walls Around Me](https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Walls Around Me EP](https://open.spotify.com/album/0MkBm4v1xnbLiD0sh6lAJn) | 6:41 | 2021-12-16 |  |
 | [Wart mal](https://open.spotify.com/track/4J8FybA4DlfN5HAuC6VnQE) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE PRELUDE](https://open.spotify.com/album/6wWXureHWQxxFc3Q8oQ1Tk) | 2:21 | 2022-02-24 |  |
+| [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-28 |  |
 | [Weihnachtslied 2021](https://open.spotify.com/track/6eT8nslwFQTMCn3TqhLB7i) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2021](https://open.spotify.com/album/0aFZ5cV5DkDMD5iR6jD0Vm) | 2:40 | 2021-12-16 | 2022-01-07 |
 | [Wer](https://open.spotify.com/track/5lNFWihJT9yUCg4awzZj2z) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Wer](https://open.spotify.com/album/5aNhKzcHLEEGvn1eroz7vy) | 2:25 | 2021-12-16 | 2022-02-25 |
 | [Wer wir sind](https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Wer wir sind](https://open.spotify.com/album/3zUerUY6tHRhKCvMnJR87K) | 3:37 | 2022-03-24 |  |

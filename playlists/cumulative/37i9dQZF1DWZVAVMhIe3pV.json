@@ -725,7 +725,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 300026,
       "name": "Burn - From \"Natural Born Killers\" Soundtrack",
       "url": "https://open.spotify.com/track/0nCvBep0qe92YU0ISzrT6v"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 214706,
       "name": "Call Me When You're Sober",
       "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 227106,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS"
@@ -1841,7 +1841,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 228213,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/7u93rCmIM9mBoT4mvfUBTZ"
@@ -1985,7 +1985,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 186813,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
@@ -3037,7 +3037,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 313925,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
@@ -3073,7 +3073,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 235653,
       "name": "Make Me Wanna Die",
       "url": "https://open.spotify.com/track/0KGIbrNYktDXYyHopcDI2L"
@@ -3127,7 +3127,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 193680,
       "name": "Marie Laveau",
       "url": "https://open.spotify.com/track/0SSNXT9L0sjrqRaANvSBt2"
@@ -4334,6 +4334,24 @@
     },
     {
       "album": {
+        "name": "Small Town Syndrome",
+        "url": "https://open.spotify.com/album/2Kv8A618Dedar0Z7PKwz1J"
+      },
+      "artists": [
+        {
+          "name": "Forgetting the Future",
+          "url": "https://open.spotify.com/artist/5lYa7CzhsnwLEOmWtYDPfg"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159950,
+      "name": "Small Town Syndrome",
+      "url": "https://open.spotify.com/track/5eDizMViefsJTsyBwRJeey"
+    },
+    {
+      "album": {
         "name": "Nevermind (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
       },
@@ -4633,7 +4651,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 232626,
       "name": "Suicide Blonde",
       "url": "https://open.spotify.com/track/3dISHe66tFlOKqmom5Qr2n"
@@ -4777,7 +4795,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165000,
       "name": "Teddy Picker",
       "url": "https://open.spotify.com/track/5kxVyCgEUND7E2QKG7JmoF"
@@ -4993,7 +5011,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
@@ -5029,7 +5047,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 221240,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb"
@@ -5155,7 +5173,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 186373,
       "name": "Time of Dying",
       "url": "https://open.spotify.com/track/6gPd6brcBXlbGdy1obe234"
@@ -5173,7 +5191,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 259026,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR"
@@ -5335,7 +5353,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 233750,
       "name": "We Won't Back Down",
       "url": "https://open.spotify.com/track/3fOzATp5S0wvIGCdmC0Bmw"

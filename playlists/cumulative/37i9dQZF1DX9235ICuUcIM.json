@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 190053,
       "name": "Casual (YTQDV)",
       "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 133746,
       "name": "Elefante Rosado",
       "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 228800,
       "name": "L\u00e1grimas De Miel",
       "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 187662,
       "name": "Mierda",
       "url": "https://open.spotify.com/track/2VvOAa2Bfu6cIqg2m73Bvw"
@@ -1559,7 +1559,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 231275,
       "name": "Nunca Te Olvido",
       "url": "https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 173040,
       "name": "Quiero Que Me Quieras",
       "url": "https://open.spotify.com/track/2DY9oBfNiuMqZvTG11NmlF"
@@ -2463,7 +2463,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 200226,
       "name": "Tenemos que Hablar",
       "url": "https://open.spotify.com/track/1eLEdUGKax2tRtlD4fzUMg"
@@ -2571,7 +2571,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 123000,
       "name": "Vete",
       "url": "https://open.spotify.com/track/1KIt07Xn6PVFVEyQnwCyCt"
@@ -2629,6 +2629,24 @@
       "duration_ms": 215721,
       "name": "Volver Atr\u00e1s",
       "url": "https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF"
+    },
+    {
+      "album": {
+        "name": "vuelve",
+        "url": "https://open.spotify.com/album/5Lw8CZl4zZG5uMxvHeqJnE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201887,
+      "name": "vuelve",
+      "url": "https://open.spotify.com/track/565mWLRnlRTcfGdruoxJbP"
     },
     {
       "album": {

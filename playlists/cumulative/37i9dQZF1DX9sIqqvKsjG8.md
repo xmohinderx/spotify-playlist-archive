@@ -4,7 +4,7 @@
 
 > A soft musical backdrop for your studies.
 
-505 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/4z9zMoxN01IrpIcoI15ekY)
+511 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/4z9zMoxN01IrpIcoI15ekY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Ocean](https://open.spotify.com/track/5Sr5Tz8xszf0Wpk12w4117) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Ocean](https://open.spotify.com/album/23bNIKhaP1ggWvYroajgWk) | 2:16 | 2021-12-07 |  |
 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 | 2021-12-07 |  |
 | [On the Bright Side](https://open.spotify.com/track/76LnyzbX3ZKGapQP0MENm8) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [On the Bright Side](https://open.spotify.com/album/6XZnOiB4lD1zTdblZj6hcE) | 2:52 | 2021-12-07 | 2022-03-02 |
+| [On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 | 2022-04-28 |  |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-07 |  |
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2021-12-07 |  |
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-07 |  |
@@ -384,6 +385,7 @@
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-07 |  |
 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 | 2022-03-01 |  |
 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 | 2022-03-16 |  |
+| [Shu's Sonata](https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO) | [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [Shu's Sonata](https://open.spotify.com/album/16yTf06rnFkS8y0uM6nWPh) | 2:31 | 2022-04-28 |  |
 | [silbermond](https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD) | [Flavia Cortez](https://open.spotify.com/artist/4wMoov0OVG8UOIR6tPnvnV) | [Sunflower Field](https://open.spotify.com/album/2WcreYeMZTha6QjVopTaBo) | 2:49 | 2021-12-07 |  |
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-01-04 |  |
 | [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2021-12-07 |  |
@@ -435,8 +437,10 @@
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2021-12-07 |  |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 |  |
 | [The Old Windmill](https://open.spotify.com/track/5YINZsov3qBPWjCEsWDDWX) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [The Old Windmill](https://open.spotify.com/album/441C9NGHHXjvEre4uFxUfn) | 2:02 | 2022-02-01 |  |
+| [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 | 2022-04-28 |  |
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-12-07 |  |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2021-12-07 |  |
+| [The Seventh](https://open.spotify.com/track/6zcqQGrFvzNacJmzAm8Ga0) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Seventh](https://open.spotify.com/album/3NoIordFGz8Rcb4BTAoEF3) | 2:13 | 2022-04-28 |  |
 | [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-03-01 |  |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-01-04 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2021-12-07 |  |
@@ -465,6 +469,7 @@
 | [United](https://open.spotify.com/track/7aw2vM9GkttgVrbao29wju) | [Cory Mickens](https://open.spotify.com/artist/6noY2fXct5i6WHVF6OweTS) | [United](https://open.spotify.com/album/7qns71hCpdZzSR0oexqTCs) | 2:03 | 2021-12-07 |  |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2021-12-07 |  |
 | [Unspoken Declarations](https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Unspoken Declarations](https://open.spotify.com/album/5n8PoAzYh537L5XWWGvfz8) | 3:08 | 2021-12-07 | 2022-03-02 |
+| [Up and Away](https://open.spotify.com/track/0VwYVeHNJbZFgr1LzE5k40) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Up and Away](https://open.spotify.com/album/5YOtwhelywHTOSmzP9A3Vp) | 2:14 | 2022-04-28 |  |
 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 | 2021-12-07 |  |
 | [Uprise](https://open.spotify.com/track/2Ys6Pl9WewP7ubO6kpevWI) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Uprise](https://open.spotify.com/album/7L1L6rmODWaSldjBga3fEl) | 2:19 | 2021-12-07 |  |
 | [Vacanza in bicicletta](https://open.spotify.com/track/7insrNcRlTVhOZLKdZPoUq) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Vacanza in bicicletta](https://open.spotify.com/album/2faORdIEcHDe7PqE9R3sjd) | 2:47 | 2021-12-07 |  |
@@ -474,6 +479,7 @@
 | [Vanishing](https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Vanishing](https://open.spotify.com/album/7wzFXVYTTkez9YZSRPQBnm) | 3:31 | 2021-12-07 |  |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2021-12-07 |  |
 | [Vellichor](https://open.spotify.com/track/6wHTJ1Bx98S9qILhLsgeQO) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Vellichor](https://open.spotify.com/album/5VbKExVj5IMx2M4ABGZCN7) | 2:37 | 2021-12-07 | 2022-04-21 |
+| [Venetian Spring](https://open.spotify.com/track/03MQLVWZhp4MTuM1HVnnSg) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Venetian Spring](https://open.spotify.com/album/4WrgnfcDX4dbiqQwZBhejU) | 2:14 | 2022-04-28 |  |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2021-12-07 |  |
 | [Verträumt](https://open.spotify.com/track/6yfuxuWZNEnwOykWXStzxY) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Verträumt](https://open.spotify.com/album/1QLGJWEAeddXVFaAwI6gZ4) | 2:14 | 2021-12-07 |  |
 | [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 |  |

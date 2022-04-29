@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 169466,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 212368,
       "name": "All Over Again - Edit",
       "url": "https://open.spotify.com/track/2yGJDfOKuFlEDxqJGUOT62"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165402,
       "name": "Be Faithful",
       "url": "https://open.spotify.com/track/11cBDCIjVMWRZc1WxvfSaB"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 226773,
       "name": "Beautiful People (feat. Benny Benassi)",
       "url": "https://open.spotify.com/track/2eqSXs0g5E7ydQqLcT58Lr"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 194000,
       "name": "Belter",
       "url": "https://open.spotify.com/track/4fDbMAFdycT0hhb3WlaDPs"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 198031,
       "name": "Dinner Guest (feat. MoStack)",
       "url": "https://open.spotify.com/track/5y0ekFHNfFbjKhZlguSzdf"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 189849,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 234666,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/3RMK5x4l1muv7NXrSBCAUE"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 161240,
       "name": "Gotta Get Thru This - D'N'D Radio Edit",
       "url": "https://open.spotify.com/track/023lag1AgeOf7YChojecRu"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 243515,
       "name": "Hands Free",
       "url": "https://open.spotify.com/track/4ULgU2dA3wrnmYwpW6uvMA"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 206250,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/3VSxz7unMI9GsJOaie9R2w"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 262588,
       "name": "I Got You (feat. Tyler Daley)",
       "url": "https://open.spotify.com/track/5IFNp4DueyGpUwaXs6JrK1"
@@ -1653,6 +1653,28 @@
       "duration_ms": 186200,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/33VrQvOZ7dyytQV3xCMolM"
+    },
+    {
+      "album": {
+        "name": "The London Sessions",
+        "url": "https://open.spotify.com/album/6CIslPQSknp875cigkhKJC"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148329,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs"
     },
     {
       "album": {
@@ -1945,7 +1967,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q"
@@ -2055,7 +2077,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 168602,
       "name": "Power of Bass",
       "url": "https://open.spotify.com/track/1zwFMk78PdZvl7ARj14yn6"
@@ -2099,7 +2121,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 198750,
       "name": "Pulling Me Back",
       "url": "https://open.spotify.com/track/0Xj09B2hxhOOmzKrfy4bjA"
@@ -2187,7 +2209,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 172940,
       "name": "Repeat After Me (feat. Melissa Steel)",
       "url": "https://open.spotify.com/track/3t2Cyq3GntNxnffzRRlCLp"
@@ -2253,7 +2275,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 204133,
       "name": "Sambuca - Original Mix (Radio Edit) [feat. Dennis G]",
       "url": "https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h"
@@ -2275,7 +2297,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH"
@@ -2351,7 +2373,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 214203,
       "name": "Strike a Pose (feat. Aitch)",
       "url": "https://open.spotify.com/track/23GvTfcGK454ppLsts3W44"
@@ -2709,7 +2731,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 170480,
       "name": "Wearing My Rolex - Radio Edit",
       "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
@@ -2753,7 +2775,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 340268,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/7mMaJKkvMKUB4KPtWjMQ8D"
@@ -2797,7 +2819,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 156630,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7CN6ZYIX338ekn7pb2CpQp"
@@ -2863,7 +2885,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 188346,
       "name": "You Want Me (feat. Sadie Ama)",
       "url": "https://open.spotify.com/track/4xX7OsX8XTGWJgRxNNIaFT"

@@ -2,7 +2,7 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> Feel\-good Afropop from Europe and Africa\. Cover: Tayc
+> Feel\-good Afropop from Europe and Africa\. Cover: 1da Banton
 
 120 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 

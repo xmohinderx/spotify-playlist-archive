@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Niink, Marconni, JnrBeats, ANDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,057 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,087 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 31 | [Quanto Tempo](https://open.spotify.com/track/0n0OWbupyRBry4z3QVJmM1) | [BENÉ](https://open.spotify.com/artist/7LJwXNjD4WDrgTibppcOKk), [Coliseu](https://open.spotify.com/artist/5Ydr3k96ckQsVzAWEdHf6F), [Paulo Arthur](https://open.spotify.com/artist/1mM60Kn9oT7soffYbS1blg), [Vítor Rêgo](https://open.spotify.com/artist/3GfexUs7NHwpx7eP0VAXlS) | [Quanto Tempo](https://open.spotify.com/album/43eI1ai8gcFEYDOzH2ZZrd) | 2:49 |
 | 32 | [Quando Ela Vem](https://open.spotify.com/track/6hYxdh2fCFEGkAtJAk3Lfx) | [Leonni](https://open.spotify.com/artist/5EOcn9LPh5uAQMJ8NS4kcU), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Quando Ela Vem](https://open.spotify.com/album/2HWUCUFaPTLTeXd0qcca3B) | 3:16 |
 | 33 | [Na Pressão / Coração Na Porta](https://open.spotify.com/track/2HZwILqL7J4EhVNYlIBr5S) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Na Pressão / Coração Na Porta](https://open.spotify.com/album/1dH7L5BxnanQjMWP3umq3y) | 3:31 |
-| 34 | [Jovem Carlos](https://open.spotify.com/track/3vBHy2FE4tBtKqCb1NudJg) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3) | [Jovem Carlos](https://open.spotify.com/album/2S79VWGQ0XpH00D4cXVVm3) | 3:00 |
+| 34 | [jovem carlos](https://open.spotify.com/track/3vBHy2FE4tBtKqCb1NudJg) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3) | [jovem carlos](https://open.spotify.com/album/2S79VWGQ0XpH00D4cXVVm3) | 3:00 |
 | 35 | [Revoada dos Mlk](https://open.spotify.com/track/2nWfv0t5r6JEVds7rscEl6) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Akaio MC](https://open.spotify.com/artist/2JO85Q1YnQNGfLdgStvZPV) | [Revoada dos Mlk](https://open.spotify.com/album/7MtueOPb10wYso92nC2R5j) | 4:00 |
 | 36 | [Samba pra Ela](https://open.spotify.com/track/7N2TRpu1Yf9Y5Zxy78HA0i) | [MAV](https://open.spotify.com/artist/29X9ETznpo90KEYmabHyqb), [Duda Raposo](https://open.spotify.com/artist/1lzfDKy3AeMGRKPQYQjONS) | [Samba pra Ela](https://open.spotify.com/album/4hkNExTU2gOnW4RZfnrRCa) | 2:59 |
 | 37 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |

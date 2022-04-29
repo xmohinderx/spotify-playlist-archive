@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 166465,
       "name": "Admit It (You're Feeling It Too)",
       "url": "https://open.spotify.com/track/6KIHllWoyAseCz1mrRuJ49"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 203395,
       "name": "All Around The World (feat. Bryn Christopher)",
       "url": "https://open.spotify.com/track/1oW9LQ9KyFZ6rihgDbn14z"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 205267,
       "name": "Chasing Fire",
       "url": "https://open.spotify.com/track/1xy4apMFecGGkgBeaHFZ2M"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 188440,
       "name": "Costa Rica",
       "url": "https://open.spotify.com/track/6iM9PebIqd6fiUlcxm4Fkp"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 157151,
       "name": "Girl Like You",
       "url": "https://open.spotify.com/track/1RZWlnPjEEB3oRFEjfF4Bo"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 169026,
       "name": "Go Big Or Go Home",
       "url": "https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG"
@@ -2005,6 +2005,24 @@
       "duration_ms": 203653,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/2nfvybU2w0S5X6Qp2A6HA1"
+    },
+    {
+      "album": {
+        "name": "Heartbeat Connection",
+        "url": "https://open.spotify.com/album/1eIXyka0S5LMSBVNPqM5BT"
+      },
+      "artists": [
+        {
+          "name": "Swim",
+          "url": "https://open.spotify.com/artist/5sU8kGIBhMYhDIPr0zu20w"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220902,
+      "name": "Heartbeat Connection",
+      "url": "https://open.spotify.com/track/38khFVtHj2atrYLxeSJZKu"
     },
     {
       "album": {
@@ -2381,7 +2399,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 168823,
       "name": "How Did I Find You",
       "url": "https://open.spotify.com/track/7dhh5MGe898uMm7TrCUvwj"
@@ -2519,7 +2537,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 225662,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/6DRq67fCgg5nkKE5ruckW8"
@@ -3321,10 +3339,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 206373,
       "name": "Memorized",
       "url": "https://open.spotify.com/track/44T6aO6fh9MPX6CGSCCidX"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/66KH6Vaml9coBhAP5hbbYf"
+      },
+      "artists": [
+        {
+          "name": "Swim",
+          "url": "https://open.spotify.com/artist/5sU8kGIBhMYhDIPr0zu20w"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213621,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3XQpK8eESg2l9JpTJdB02g"
     },
     {
       "album": {
@@ -3825,7 +3861,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 209047,
       "name": "Ready To Love You",
       "url": "https://open.spotify.com/track/2gJIL7h1fCpFh6NjCZUJyQ"
@@ -3949,7 +3985,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 234680,
       "name": "Roads",
       "url": "https://open.spotify.com/track/7CBH8BzH23SksBR5NSb7tT"
@@ -5405,7 +5441,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 179725,
       "name": "white shoes",
       "url": "https://open.spotify.com/track/6llBJSKS3t3yARXQmD5pi7"
@@ -5575,7 +5611,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 208840,
       "name": "You To Me Are Everything",
       "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"

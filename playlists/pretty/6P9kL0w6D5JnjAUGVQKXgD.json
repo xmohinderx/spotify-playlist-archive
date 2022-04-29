@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla",
-  "num_followers": 48507,
+  "num_followers": 48505,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTIxNSxkODE4MDc4ZGZkZjUwYTc1NGFlY2U5NGY1NGZkZjhmM2Y4MTU1NTIx",
+  "snapshot_id": "MTIxNixiMTFhNGZhMjA1MmNkZjNhNTkzNjUyNjVjYmIwMjlmNzhlYzU3YTNk",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -1885,24 +1885,20 @@
       "url": "https://open.spotify.com/track/7pLGq8QViObSq3rwPIBPRB"
     },
     {
-      "added_at": "2022-04-12 15:41:03",
+      "added_at": "2022-04-26 15:44:04",
       "album": {
-        "name": "Faded (Remixes)",
-        "url": "https://open.spotify.com/album/4PLKkJXTkZSpYswOczm69A"
+        "name": "Trumpet Sound",
+        "url": "https://open.spotify.com/album/00QAjIce0riJs8iFJOgQ8z"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Nils Van Zandt",
+          "url": "https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj"
         }
       ],
-      "duration_ms": 250226,
-      "name": "Faded - Tiesto's Northern Lights Remix",
-      "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
+      "duration_ms": 130560,
+      "name": "Trumpet Sound",
+      "url": "https://open.spotify.com/track/6dhDRJ66EfkUC6gCeedW5B"
     },
     {
       "added_at": "2021-03-05 23:01:05",
@@ -1921,20 +1917,24 @@
       "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
     },
     {
-      "added_at": "2022-04-26 15:44:04",
+      "added_at": "2022-04-12 15:41:03",
       "album": {
-        "name": "Trumpet Sound",
-        "url": "https://open.spotify.com/album/00QAjIce0riJs8iFJOgQ8z"
+        "name": "Faded (Remixes)",
+        "url": "https://open.spotify.com/album/4PLKkJXTkZSpYswOczm69A"
       },
       "artists": [
         {
-          "name": "Nils Van Zandt",
-          "url": "https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 130560,
-      "name": "Trumpet Sound",
-      "url": "https://open.spotify.com/track/6dhDRJ66EfkUC6gCeedW5B"
+      "duration_ms": 250226,
+      "name": "Faded - Tiesto's Northern Lights Remix",
+      "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
     },
     {
       "added_at": "2022-04-26 15:44:04",

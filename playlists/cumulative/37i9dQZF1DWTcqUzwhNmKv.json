@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Architects on top of the biggest Metal playlist!",
+  "description": "Rammstein on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "Abuse Me (ft. L'exquisite Douleur)",
+        "url": "https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH"
+      },
+      "artists": [
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        },
+        {
+          "name": "L'exquisite Douleur",
+          "url": "https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "Abuse Me (ft. L'exquisite Douleur)",
+      "url": "https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC"
+    },
+    {
+      "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ"
       },
@@ -41,6 +63,24 @@
       "duration_ms": 243560,
       "name": "AfterLife",
       "url": "https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv"
+    },
+    {
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224801,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg"
     },
     {
       "album": {
@@ -271,7 +311,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 217818,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO"
@@ -627,7 +667,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 269398,
       "name": "Death Is All Around",
       "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
@@ -1639,7 +1679,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 182963,
       "name": "Only Human (feat. AJ Channer)",
       "url": "https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU"
@@ -1877,6 +1917,32 @@
       "duration_ms": 285586,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
+    },
+    {
+      "album": {
+        "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
+        "url": "https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287475,
+      "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
+      "url": "https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4"
     },
     {
       "album": {
@@ -2118,6 +2184,24 @@
     },
     {
       "album": {
+        "name": "Circus Of Doom",
+        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212100,
+      "name": "Tempest Of Blades",
+      "url": "https://open.spotify.com/track/62TCEZic6RfrMkC2jkJQ2S"
+    },
+    {
+      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -2262,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "TIRED OF WINNING",
+        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206631,
+      "name": "TIRED OF WINNING",
+      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
+    },
+    {
+      "album": {
         "name": "TURN IT UP LIKE (Stand In The Fire)",
         "url": "https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG"
       },
@@ -2273,7 +2375,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 269314,
       "name": "TURN IT UP LIKE (Stand In The Fire)",
       "url": "https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx"
@@ -2555,7 +2657,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 236326,
       "name": "Where Angels Fear to Fly",
       "url": "https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I"
@@ -2598,6 +2700,24 @@
     },
     {
       "album": {
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/7wFj6fW3MRC9dQeumu2qeK"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201395,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/75AZlyIs97sFPiQ1MJGaf8"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
       },
@@ -2627,7 +2747,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 244365,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"

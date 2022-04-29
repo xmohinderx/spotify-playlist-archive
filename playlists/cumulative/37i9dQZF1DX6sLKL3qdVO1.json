@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Lo mejor del reggaet\u00f3n y flow actual, y lo que vendr\u00e1. Portada: Anitta",
+  "description": "Lo mejor del reggaet\u00f3n y flow actual, y lo que vendr\u00e1. Portada: Ingratax",
   "name": "Dale Flow",
   "published_playlist_ids": [
     "4t8Cynw1OATHYvs7BoEBpr"
@@ -88,6 +88,36 @@
     },
     {
       "album": {
+        "name": "3 Deseos Remix (with Dalex & Eix, feat. Alejo)",
+        "url": "https://open.spotify.com/album/0TYwoAMqtjVpAsCFXQBgFK"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289853,
+      "name": "3 Deseos Remix (with Dalex & Eix, feat. Alejo)",
+      "url": "https://open.spotify.com/track/7ygbhCP2yANDe8Z4xXpvKk"
+    },
+    {
+      "album": {
         "name": "787",
         "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
       },
@@ -125,6 +155,24 @@
       "duration_ms": 207813,
       "name": "Antojo (with De La Ghetto)",
       "url": "https://open.spotify.com/track/0ped2RBpjF2pRWCrmi1Lfw"
+    },
+    {
+      "album": {
+        "name": "APAGAITA",
+        "url": "https://open.spotify.com/album/1R24ulrH6V31SpX9AzJp7z"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "APAGAITA",
+      "url": "https://open.spotify.com/track/4P3PZFvMsKlNwTDHcN7w0J"
     },
     {
       "album": {
@@ -1939,7 +1987,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 220253,
       "name": "Pa Co",
       "url": "https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L"
@@ -2357,7 +2405,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 202186,
       "name": "Salvavidas",
       "url": "https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7"
@@ -2926,6 +2974,28 @@
     },
     {
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+    },
+    {
+      "album": {
         "name": "Tus Poses",
         "url": "https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33"
       },
@@ -3137,7 +3207,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"

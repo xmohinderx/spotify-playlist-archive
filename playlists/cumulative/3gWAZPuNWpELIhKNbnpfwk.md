@@ -173,6 +173,6 @@
 | [We Are Stardust](https://open.spotify.com/track/009JyyzspoZk1cPvqIlnpK) | [LukHash](https://open.spotify.com/artist/3hvgLXeDFNiqDOVXl0xTge) | [We Are Stardust](https://open.spotify.com/album/44VSxIyuf81epxtp59WTNT) | 3:59 | 2021-12-20 | 2022-02-22 |
 | [We Own The Sky](https://open.spotify.com/track/1I4EczxGBcPR3J3KeyqFJP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/3XlBVf9wZlhmjznCA07Dy3) | 5:04 | 2020-10-20\* |  |
 | [Wormhole](https://open.spotify.com/track/1LKx7LRgh5BNZwgKuCRmye) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vgPMuPh0HhZM9E1jkF6Mw) | 4:33 | 2020-10-20\* |  |
-| [Zombie](https://open.spotify.com/track/2fJzvVoZkY4iuwK1EUwbvr) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Reborn](https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner) | 4:00 | 2022-04-06 |  |
+| [Zombie](https://open.spotify.com/track/2fJzvVoZkY4iuwK1EUwbvr) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Morgan Phalen](https://open.spotify.com/artist/31XcLJj5SRtJ0smI0iV9g8) | [Reborn](https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner) | 4:00 | 2022-04-06 |  |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

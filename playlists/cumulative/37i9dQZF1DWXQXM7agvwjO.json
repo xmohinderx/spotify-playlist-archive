@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Say Sue Me (South Korea)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: LUCKY TAPES (Japan)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 168000,
       "name": "13: 4",
       "url": "https://open.spotify.com/track/0g9QfoNxP3Y1UmCnQ357Y2"
@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Back In The Game",
+        "url": "https://open.spotify.com/album/3mFUxzax1U0c4qKaybkZBF"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208363,
+      "name": "Back In The Game",
+      "url": "https://open.spotify.com/track/0zRinZTCWJCx0pTSUeToC7"
+    },
+    {
+      "album": {
         "name": "oh to be in love",
         "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
@@ -316,6 +334,24 @@
     },
     {
       "album": {
+        "name": "Bla Bli Blu",
+        "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177757,
+      "name": "Bla Bli Blu",
+      "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
+    },
+    {
+      "album": {
         "name": "camp",
         "url": "https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX"
       },
@@ -429,7 +465,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 158804,
       "name": "cheeze",
       "url": "https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE"
@@ -664,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211562,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN"
+    },
+    {
+      "album": {
         "name": "Go Higher",
         "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
       },
@@ -697,7 +751,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 245866,
       "name": "Good News",
       "url": "https://open.spotify.com/track/1yxfzybmAemgfZfBXMly2v"
@@ -767,7 +821,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176495,
       "name": "honest (feat. moon tang)",
       "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
@@ -811,6 +865,28 @@
       "duration_ms": 189230,
       "name": "Hum Kahan",
       "url": "https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8"
+    },
+    {
+      "album": {
+        "name": "Tokyo State Of Mind",
+        "url": "https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        },
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214899,
+      "name": "I MA",
+      "url": "https://open.spotify.com/track/2mJxEj7p6hzkPYiCg3LUUf"
     },
     {
       "album": {
@@ -999,6 +1075,32 @@
       "duration_ms": 175609,
       "name": "Life 4 You",
       "url": "https://open.spotify.com/track/4QgmBsLjmbrSPdkduDXutZ"
+    },
+    {
+      "album": {
+        "name": "Like Lovers (feat. Seol Hoseung (SURL) & HENG)",
+        "url": "https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        },
+        {
+          "name": "Seol Hoseung (SURL)",
+          "url": "https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4"
+        },
+        {
+          "name": "HENG",
+          "url": "https://open.spotify.com/artist/2P47IsuTElx3uXm1vKWh2N"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208566,
+      "name": "Like Lovers (feat. Seol Hoseung (SURL) & HENG)",
+      "url": "https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY"
     },
     {
       "album": {
@@ -1237,7 +1339,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176551,
       "name": "Naomi, Why Won't You Answer My Call?",
       "url": "https://open.spotify.com/track/0cy1Ix7DSmvOwh1CItLptA"
@@ -1424,6 +1526,32 @@
     },
     {
       "album": {
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d"
+      },
+      "artists": [
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        },
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z"
+    },
+    {
+      "album": {
         "name": "Please Baby Please",
         "url": "https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx"
       },
@@ -1507,7 +1635,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 209285,
       "name": "Rainy Talk",
       "url": "https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM"
@@ -1525,7 +1653,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 223187,
       "name": "Say Hello",
       "url": "https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR"
@@ -1622,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/11lGrv1kUoOvyuWOg4anHX"
+      },
+      "artists": [
+        {
+          "name": "Rosalyn",
+          "url": "https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/5vbolJRW6w9YJXDP7yj4n3"
+    },
+    {
+      "album": {
         "name": "Step in Step in",
         "url": "https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4"
       },
@@ -1659,6 +1805,24 @@
       "duration_ms": 220000,
       "name": "Stop Talking (stfu)",
       "url": "https://open.spotify.com/track/5oKcaRM3zDLo8l6NIBB8JE"
+    },
+    {
+      "album": {
+        "name": "Capitalist Musician with a Left Leaning Avatar",
+        "url": "https://open.spotify.com/album/52BCf8xfA62sPVGEfZxYzB"
+      },
+      "artists": [
+        {
+          "name": "The Revisit Project",
+          "url": "https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258311,
+      "name": "Straight Through",
+      "url": "https://open.spotify.com/track/2LUy1Nt7vWHcmxVQ0UfOHL"
     },
     {
       "album": {
@@ -1775,7 +1939,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 179249,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz"
@@ -2105,7 +2269,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 245868,
       "name": "\u308f\u305f\u3057\u305f\u3061\u3078",
       "url": "https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM"
@@ -2199,6 +2363,24 @@
       "duration_ms": 217730,
       "name": "\u65e5\u66dc\u65e5",
       "url": "https://open.spotify.com/track/3WEFB3fJPdCAdcjWDwh3k5"
+    },
+    {
+      "album": {
+        "name": "\u95dc\u6389 / \u6253\u958b",
+        "url": "https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285418,
+      "name": "\u9580",
+      "url": "https://open.spotify.com/track/5fXbJBMOQWcjPyMTQJnevE"
     },
     {
       "album": {

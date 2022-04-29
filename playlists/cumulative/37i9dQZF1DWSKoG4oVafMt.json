@@ -186,6 +186,24 @@
     },
     {
       "album": {
+        "name": "Bachcha",
+        "url": "https://open.spotify.com/album/6tyBcZsCCVccS62USi3rSO"
+      },
+      "artists": [
+        {
+          "name": "Simar Sethi",
+          "url": "https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247407,
+      "name": "Bachcha",
+      "url": "https://open.spotify.com/track/05gtSxG3Zpm0Hw3C0Eha0l"
+    },
+    {
+      "album": {
         "name": "Balle Ni Balle",
         "url": "https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 210681,
       "name": "Bhabi",
       "url": "https://open.spotify.com/track/3EAVty65Aq2boaV6O2vj5I"
@@ -329,6 +347,24 @@
       "duration_ms": 155502,
       "name": "Bhabi",
       "url": "https://open.spotify.com/track/3RRvzCenxnnrZwmZ3MiGkP"
+    },
+    {
+      "album": {
+        "name": "Buhe Bariyan",
+        "url": "https://open.spotify.com/album/50MHfytKPljf732R1f6dw0"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281923,
+      "name": "Buhe Bariyan",
+      "url": "https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK"
     },
     {
       "album": {
@@ -449,7 +485,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 219366,
       "name": "Chal Mere Naal",
       "url": "https://open.spotify.com/track/0ZFRNQH89jplIbSyeLb221"
@@ -489,6 +525,28 @@
       "duration_ms": 218566,
       "name": "Challa",
       "url": "https://open.spotify.com/track/148aTrqgZEQg90n61CaAnH"
+    },
+    {
+      "album": {
+        "name": "Challa (feat. Azaan Dil)",
+        "url": "https://open.spotify.com/album/49U5ghoyFbBJ0ao5r1via2"
+      },
+      "artists": [
+        {
+          "name": "Prabh Rai",
+          "url": "https://open.spotify.com/artist/6BNvL3e1zBIf1YWCOVgFwb"
+        },
+        {
+          "name": "Azaan Dil",
+          "url": "https://open.spotify.com/artist/3WU7z2n5UlHDkWkqQ61u6Q"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Challa (feat. Azaan Dil)",
+      "url": "https://open.spotify.com/track/2QN0B0vANRpoQdUgAM874H"
     },
     {
       "album": {
@@ -619,7 +677,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 201800,
       "name": "Choodhe Wali",
       "url": "https://open.spotify.com/track/7EpBW8ix608NfhLh86wclH"
@@ -739,6 +797,28 @@
       "duration_ms": 196807,
       "name": "Dassde",
       "url": "https://open.spotify.com/track/7qWApfggqk3A5UlEQwetaU"
+    },
+    {
+      "album": {
+        "name": "Deewana",
+        "url": "https://open.spotify.com/album/4M93uVNVqjkjgG8U57XEOR"
+      },
+      "artists": [
+        {
+          "name": "Armaan Bedil",
+          "url": "https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3"
+        },
+        {
+          "name": "Kirat Gill",
+          "url": "https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Deewana",
+      "url": "https://open.spotify.com/track/7juUVr6VjvWPH4mccimhcZ"
     },
     {
       "album": {
@@ -1485,7 +1565,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 173013,
       "name": "Haal Naar Da",
       "url": "https://open.spotify.com/track/3PaHa8GeaViou9hQfigbuN"
@@ -1641,7 +1721,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 213655,
       "name": "Ilahi (From \"Ni Main Sass Kuttni\")",
       "url": "https://open.spotify.com/track/4TsopDP9uBKf0oBN01CKoC"
@@ -1755,7 +1835,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 156861,
       "name": "Jaane Meriye",
       "url": "https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo"
@@ -1781,7 +1861,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 139009,
       "name": "Jaaneman",
       "url": "https://open.spotify.com/track/28FLHp1phC1eBLgae9hIB2"
@@ -1937,7 +2017,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 197500,
       "name": "Jogiya",
       "url": "https://open.spotify.com/track/715KJ6GgLQgOl1fQG0DsKF"
@@ -2237,7 +2317,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 204130,
       "name": "Khabbi Seat",
       "url": "https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt"
@@ -2525,7 +2605,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 172340,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/3x7tOQG4O3xc71ojvukQOk"
@@ -2751,7 +2831,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 174000,
       "name": "Love War",
       "url": "https://open.spotify.com/track/2D6mhQD1MUVf7vDQGySwtg"
@@ -2853,7 +2933,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176268,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2c1QWruUy84qPY8R2rJubV"
@@ -2889,7 +2969,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 194202,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/3u506wwA1POn195LMh3NhV"
@@ -3221,7 +3301,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 248006,
       "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
       "url": "https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU"
@@ -3243,7 +3323,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 171013,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/19bAA9kNKdMEh3xqFPqJT4"
@@ -3629,7 +3709,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 225806,
       "name": "Pain",
       "url": "https://open.spotify.com/track/0nb2IsOz3YO9JYvLENh3oW"
@@ -3801,7 +3881,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 171428,
       "name": "Pehli Mulaqat (From \"Main Te Bapu\")",
       "url": "https://open.spotify.com/track/2WzzdfuJuo5SayCuDn7Qoz"
@@ -3977,7 +4057,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 193067,
       "name": "Punjabiyan Di Dhee",
       "url": "https://open.spotify.com/track/541oF6e3e6P38aDIqQXxU7"
@@ -4031,7 +4111,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 213376,
       "name": "Raah",
       "url": "https://open.spotify.com/track/06SSvSFz7Bu1WXVw42M9lN"
@@ -4445,7 +4525,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 121956,
       "name": "Sab Ton Sohna",
       "url": "https://open.spotify.com/track/6mAovKYMzKh2GXjRxf1MBs"
@@ -4937,7 +5017,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 134053,
       "name": "Sohna (From \"Main Te Bapu\")",
       "url": "https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH"
@@ -5309,7 +5389,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 206383,
       "name": "Tera Mera Naam Sohneya",
       "url": "https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV"
@@ -5419,7 +5499,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 188148,
       "name": "Tod Gayi",
       "url": "https://open.spotify.com/track/77rovUbI0HYyc1AMjvWvp5"
@@ -5979,7 +6059,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 215624,
       "name": "Yaar Razi",
       "url": "https://open.spotify.com/track/4jCY1d4d16OJTPD793Zf0K"
@@ -5997,7 +6077,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 168116,
       "name": "You N\u2019 I",
       "url": "https://open.spotify.com/track/4hg7dDYEK3Mc1fLVBPbzpl"

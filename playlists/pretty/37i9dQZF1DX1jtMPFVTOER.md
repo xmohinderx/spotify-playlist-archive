@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > You and jazz are the center of this universe\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,133 likes - 125 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,238 likes - 125 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 3 | [Joint 3](https://open.spotify.com/track/3E0qbzENHXGixehNHr6Hsr) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Some Things Take Time](https://open.spotify.com/album/4npRaJShorujh6Mjfl8WZU) | 2:15 |
 | 4 | [alright](https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [alright](https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM) | 3:08 |
 | 5 | [JAZZ IS DEAD \(feat\. Gary Bartz & Kassa Overall\)](https://open.spotify.com/track/2I1W4oyGhq8bIEkmVjD6UZ) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [JAZZ IS DEAD \(feat\. Gary Bartz & Kassa Overall\)](https://open.spotify.com/album/52hb2bb8dacjqXLRLhyCZZ) | 5:07 |
-| 6 | [Memories About You](https://open.spotify.com/track/1EbgExplpQm5vWtDGguojA) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Memories About You](https://open.spotify.com/album/1w6bhSU508KtPI6H9skUjK) | 3:50 |
+| 6 | [Memories About You](https://open.spotify.com/track/1EbgExplpQm5vWtDGguojA) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Memories About You](https://open.spotify.com/album/1w6bhSU508KtPI6H9skUjK) | 3:50 |
 | 7 | [All I Do](https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [All I Do](https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln) | 4:40 |
 | 8 | [Personal](https://open.spotify.com/track/0j7Z2IptRFKFlPWllx63hx) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Mani Draper](https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k) | [Personal](https://open.spotify.com/album/2pjgF2yjnO1k6bl6k6ZUGi) | 3:02 |
 | 9 | [Odyssey](https://open.spotify.com/track/09zdQ3gVrTRkDx5AXmBoUO) | [XL the Band](https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl), [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Alpha Omega](https://open.spotify.com/artist/0vHwhWeuE1DBBZO7wA9ZMf) | [Odyssey](https://open.spotify.com/album/1PGcEbEh0G6uyUxM3055RA) | 3:09 |

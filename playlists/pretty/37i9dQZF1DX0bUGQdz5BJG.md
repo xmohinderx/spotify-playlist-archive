@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tenille Townes
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,183 likes - 176 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,301 likes - 176 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

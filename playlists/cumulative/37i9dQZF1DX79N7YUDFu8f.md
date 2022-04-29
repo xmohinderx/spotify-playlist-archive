@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-104 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+107 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 | 2021-11-24 |  |
 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 | 2021-11-24 |  |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2021-11-24 |  |
-| [Lights](https://open.spotify.com/track/7hBkF4gHTeBYFpbojarbWo) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Lights](https://open.spotify.com/album/50ncAqMEKX95MGtoCNjQ1w) | 3:32 | 2021-11-24 |  |
+| [Lights](https://open.spotify.com/track/7hBkF4gHTeBYFpbojarbWo) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Lights](https://open.spotify.com/album/50ncAqMEKX95MGtoCNjQ1w) | 3:32 | 2021-11-24 | 2022-04-29 |
 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 | 2021-11-24 |  |
 | [Lonely Nights \(feat\. Priscilla Ahn\)](https://open.spotify.com/track/2rkk5vdzvYkahw9t0tAYgm) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights \(feat\. Priscilla Ahn\)](https://open.spotify.com/album/65ndmszcqkSAetDsBALeVq) | 3:39 | 2021-11-24 |  |
 | [Lose Control \- Acoustic Version](https://open.spotify.com/track/4lDN8anxsodu74ZlmON3Dp) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Lose Control \(Acoustic Version\)](https://open.spotify.com/album/2YeURaE82ffGH6W2mWT9gJ) | 2:37 | 2021-11-24 |  |
@@ -76,6 +76,7 @@
 | [pass you by](https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/06AsoKSZYbdlX0a01Z3RFt) | 4:05 | 2021-11-24 |  |
 | [Passport Home](https://open.spotify.com/track/4sasqE4lDhBhm4ER7EsQaf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Passport Home](https://open.spotify.com/album/35oMYxeEPYIGzwIOOVqX28) | 3:00 | 2021-11-24 |  |
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2021-11-24 |  |
+| [Realize It All \- Acoustic Version](https://open.spotify.com/track/2LfXGIgvpDsJjU83SDhZA5) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \(Acoustic Version\)](https://open.spotify.com/album/2vW0T2b0VUmWg1qpa0EFfP) | 3:36 | 2022-04-28 |  |
 | [Right Through Me](https://open.spotify.com/track/5dPREVUsHP468JeuqHNkuQ) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/498cZKg8d0Wp1uDna2wZ5p) | 3:33 | 2021-11-24 |  |
 | [Roller Coaster](https://open.spotify.com/track/1Xx7NsxXA91Jgt1fJ3NfNp) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/7bNCCK8eObScVeCpbW9jQx) | 4:29 | 2021-11-24 |  |
 | [Sacrifice](https://open.spotify.com/track/3XuIsQe0Z00LlyMLul6h8r) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifice](https://open.spotify.com/album/7xkRFlCoYQe8bXgwFuFIqt) | 3:35 | 2021-11-24 |  |
@@ -84,6 +85,7 @@
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2021-11-24 |  |
 | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/track/0d7atlmNSW6i3rVaGyIpO0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Show Me Where It Hurts \(Acoustic\)](https://open.spotify.com/album/1KX2m7tPEsz20wSfugvdWs) | 3:03 | 2021-11-24 |  |
 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 | 2021-11-24 |  |
+| [Slow Love \- Acoustic](https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [2 degrees](https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB) | 3:19 | 2022-04-28 |  |
 | [Soldier On](https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Soldier On](https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj) | 3:27 | 2021-11-24 |  |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-11-24 |  |
 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 | 2021-11-24 |  |
@@ -97,11 +99,12 @@
 | [Teach Me How To Dance With You](https://open.spotify.com/track/3eqWhMow4fBmD22XuuNQTe) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built For Me](https://open.spotify.com/album/20lXEjOaY6Il72FTbsgOhM) | 3:24 | 2021-11-24 |  |
 | [The Dirt](https://open.spotify.com/track/2NDC19WBHec7k6ov7tbLgD) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [The Dirt](https://open.spotify.com/album/6z5nCymiIDTDBaClbPK0gv) | 2:41 | 2021-11-24 |  |
 | [The Island](https://open.spotify.com/track/5rK6tUpOnpI2zig7JgtAGz) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [The Island](https://open.spotify.com/album/7HKuPYtqg01NQ899c8hK6x) | 5:08 | 2021-11-24 |  |
-| [The Way You Take Time](https://open.spotify.com/track/2kFwiAtvJ9VT1c8PAoBkJj) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time](https://open.spotify.com/album/2mHb3q04keB9gEQ00hhAlc) | 2:31 | 2021-11-24 |  |
+| [The Way You Take Time](https://open.spotify.com/track/2kFwiAtvJ9VT1c8PAoBkJj) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time](https://open.spotify.com/album/2mHb3q04keB9gEQ00hhAlc) | 2:31 | 2021-11-24 | 2022-04-29 |
 | [Till The Sun Comes Up](https://open.spotify.com/track/3oB8dXCjtQShPeliylX8jg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Till The Sun Comes Up](https://open.spotify.com/album/7eKFymkUkJdRpKDYEXlTnp) | 3:21 | 2021-11-24 |  |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-24 |  |
-| [Torn \- Bonus Track](https://open.spotify.com/track/7lwYNEUrDP4thCD6nQ4nBv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:16 | 2021-11-24 |  |
+| [Torn \- Bonus Track](https://open.spotify.com/track/7lwYNEUrDP4thCD6nQ4nBv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:16 | 2021-11-24 | 2022-04-29 |
 | [Trying My Best](https://open.spotify.com/track/06qUEhhx6jKQmhj2qAkn4H) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Trying My Best](https://open.spotify.com/album/7y7FAlGLQ3qCubAGtw1oT0) | 3:42 | 2021-11-24 |  |
+| [Two By Two](https://open.spotify.com/track/43e1QhXItiHWcoHvENyJkI) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [He Went To The Sea](https://open.spotify.com/album/6sbHZO54hBTlyMhpqqkmom) | 2:40 | 2022-04-28 |  |
 | [Untitled](https://open.spotify.com/track/6FWX5q2d33dFBJJAXgFteV) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Lonely Day, Crowded Year](https://open.spotify.com/album/37848eEeXWk3NpVnBnvAC8) | 2:47 | 2021-11-24 |  |
 | [Wait](https://open.spotify.com/track/21FzLpLN7S1XFePNSZHEFt) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Wait](https://open.spotify.com/album/5aeJsnCNWuhCckk0yxFnlJ) | 3:51 | 2021-11-24 |  |
 | [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 | 2021-11-24 |  |

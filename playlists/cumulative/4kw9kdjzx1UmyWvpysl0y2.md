@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-144 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+145 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [More To Give \- VIP](https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Rise & Fall \(VIPs\)](https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx) | 3:03 | 2022-01-25 | 2022-04-05 |
 | [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 |  |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-11-19 | 2022-02-09 |
-| [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-17 |  |
+| [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-17 | 2022-04-29 |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 |  |
 | [Never Cared](https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Never Cared](https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y) | 3:39 | 2022-02-14 | 2022-04-23 |
 | [Never Enough](https://open.spotify.com/track/0OIHK8vvOTnjg4dtBH34qX) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Never Enough](https://open.spotify.com/album/4GN1ATNzGkfuhGDgcnKgKJ) | 3:17 | 2022-02-04 | 2022-04-15 |
@@ -97,6 +97,7 @@
 | [Nibbana](https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nibbana](https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS) | 4:20 | 2022-01-14 | 2022-03-24 |
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 |  |
 | [No Control](https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [MADREX](https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr), [DAINA](https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX) | [No Control](https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu) | 2:58 | 2021-11-26 | 2022-03-03 |
+| [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-04-28 |  |
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
 | [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 |  |

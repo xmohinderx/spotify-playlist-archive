@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Lou Phelps
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,928 likes - 101 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,969 likes - 101 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 4 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 |
 | 5 | [Forever & Ever](https://open.spotify.com/track/2nhcQ4E3o9BAdx6oc4q2nA) | [Prince Innocence](https://open.spotify.com/artist/2lMbnMWwgAxvVHXVDlF3ZV) | [Forever & Ever](https://open.spotify.com/album/2HswSRDbq4DwmrxopZk9F2) | 4:36 |
 | 6 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 |
-| 7 | [Memories About You](https://open.spotify.com/track/1EbgExplpQm5vWtDGguojA) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Memories About You](https://open.spotify.com/album/1w6bhSU508KtPI6H9skUjK) | 3:50 |
+| 7 | [Memories About You](https://open.spotify.com/track/1EbgExplpQm5vWtDGguojA) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Memories About You](https://open.spotify.com/album/1w6bhSU508KtPI6H9skUjK) | 3:50 |
 | 8 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
 | 9 | [Petty Lies](https://open.spotify.com/track/50DNIT0PO1We8arXPXGQw9) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [If Anything,](https://open.spotify.com/album/5RVI4s2DuHs0GVdCiLt0YX) | 2:05 |
 | 10 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 |

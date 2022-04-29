@@ -4,7 +4,7 @@
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Marion Raw on cover.
 
-404 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
+405 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [El Intento](https://open.spotify.com/track/35dd9EhmhDHSbqFCTUqJ8S) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [El Intento](https://open.spotify.com/album/6GEv2BvWI9w3ok9NSxzY3Y) | 3:43 | 2022-03-16 | 2022-03-31 |
 | [El Sol](https://open.spotify.com/track/003xQqMJsgKNZfcx2fpPQ7) | [Juan Desordenado](https://open.spotify.com/artist/2KAzBjzTRRbCgP5gvssbqB), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Visiones](https://open.spotify.com/album/0kpmHpLir7oXTevgBzqkYt) | 3:35 | 2021-12-22 | 2022-01-27 |
 | [El sol](https://open.spotify.com/track/2RODpFAidPFNc5G7MIl6WG) | [Tinta China](https://open.spotify.com/artist/5QIkFTv1UBzV4tIvM87mG8) | [Todo menos el presente](https://open.spotify.com/album/7DGcnb68CIbysKO4E53FdA) | 4:52 | 2022-04-13 |  |
+| [El Sonido](https://open.spotify.com/track/7oUiC3vAMViCZxR6RIwaje) | [DJ 13](https://open.spotify.com/artist/0inoGlKI3kFtAUtP5ihqVe), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [El Sonido](https://open.spotify.com/album/7zFuQZ8a9ZgRZLimpmVsbL) | 3:51 | 2022-04-27 |  |
 | [Ella](https://open.spotify.com/track/4NP6fGgGHkllbAEUBCnHOc) | [Stefano Torrex](https://open.spotify.com/artist/5nB3srQnV3w0QZms0DM6S8), [Ricky Blanco](https://open.spotify.com/artist/1opTHYMTFaZzyLYqKCAJTl) | [Ella](https://open.spotify.com/album/66fJP5SDCyDQtRmBAkyA2P) | 2:58 | 2022-03-23 | 2022-03-31 |
 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 | 2021-12-22 | 2022-01-20 |
 | [En Algún Sueño](https://open.spotify.com/track/7tIiREkvUZn12elTB3VWiY) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [KM18](https://open.spotify.com/album/1FY8g2TVHjhvcXNNg9dhC0) | 2:36 | 2022-02-23 | 2022-03-17 |

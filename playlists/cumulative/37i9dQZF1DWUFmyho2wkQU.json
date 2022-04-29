@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 252093,
       "name": "Ain't I - main voc up",
       "url": "https://open.spotify.com/track/6cnufgF6qLJGZT2PRFZBr1"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 286333,
       "name": "Anything",
       "url": "https://open.spotify.com/track/1xixUOjgdqMOPZxursTms3"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 261986,
       "name": "B R Right (feat. Ludacris)",
       "url": "https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 253066,
       "name": "Bad Boy for Life",
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 196693,
       "name": "Bad Boy This Bad Boy That",
       "url": "https://open.spotify.com/track/13QMUA813rB5QdsePrPRoo"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 253666,
       "name": "Beanie (Mack B****)",
       "url": "https://open.spotify.com/track/67t2pIIrrdBWFr0u8y4L1b"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 261959,
       "name": "Bottom Of The Map",
       "url": "https://open.spotify.com/track/3frQJotNjIFiYRpvqCuxAB"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 252186,
       "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 225453,
       "name": "Candi Bar",
       "url": "https://open.spotify.com/track/1fgjpbx6n2nvHD5ryWmejA"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/3VzJE6yGuj8fDExUh6TLnc"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "Country Grammar (Hot Shit)",
       "url": "https://open.spotify.com/track/2Lg4kvhOrPhpGEZmSe7VAN"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 287000,
       "name": "Country Grammar (Hot Shit)",
       "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
@@ -1188,6 +1188,28 @@
     },
     {
       "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234306,
+      "name": "Daydreamin' (feat. Jill Scott)",
+      "url": "https://open.spotify.com/track/50M2QjfSM82wkJ1d0iV4mh"
+    },
+    {
+      "album": {
         "name": "534",
         "url": "https://open.spotify.com/album/3toLn9BAnrscDsY8PoDLXM"
       },
@@ -1221,7 +1243,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 256800,
       "name": "Dem Boyz",
       "url": "https://open.spotify.com/track/59xyRqG06dGbTmmJFVFbyQ"
@@ -1243,7 +1265,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 234773,
       "name": "Diddy (feat. The Neptunes)",
       "url": "https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ"
@@ -1265,7 +1287,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
@@ -1287,7 +1309,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 218800,
       "name": "Dipset (Santana's Town)",
       "url": "https://open.spotify.com/track/0xBp653LGFv2kW4p4bcrZJ"
@@ -1573,7 +1595,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
@@ -1595,7 +1617,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/70ludZZEUJy1aFVkPI0Kpi"
@@ -1613,7 +1635,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 197386,
       "name": "Dunn, Dunn",
       "url": "https://open.spotify.com/track/05iPQqLo3ZCfmQZ1pLmhdj"
@@ -1631,7 +1653,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 285906,
       "name": "E.I.",
       "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 285906,
       "name": "E.I.",
       "url": "https://open.spotify.com/track/703b51gh4ah7GYTYwKphj5"
@@ -1711,7 +1733,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 246160,
       "name": "Feel It In The Air",
       "url": "https://open.spotify.com/track/4rICUbwZZuqUOcgQgtux2k"
@@ -1773,7 +1795,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 235186,
       "name": "Freek-A-Leek",
       "url": "https://open.spotify.com/track/4UNhyW0R7qylxrF6Z0q2Tb"
@@ -1813,7 +1835,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 292186,
       "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
       "url": "https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0"
@@ -1831,7 +1853,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 217440,
       "name": "Full Clip",
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 239266,
       "name": "Gangsta Lovin'",
       "url": "https://open.spotify.com/track/0WgLpgUdThEpA5L5K0SKq7"
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 227426,
       "name": "Get By",
       "url": "https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2"
@@ -1955,7 +1977,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 234853,
       "name": "Get No Better (feat. Mashonda)",
       "url": "https://open.spotify.com/track/30KGtFjHhlT3JMX5s4IklU"
@@ -1973,7 +1995,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 211120,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
@@ -1991,7 +2013,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 242666,
       "name": "Get Your Roll On",
       "url": "https://open.spotify.com/track/4HpCT9jeCzBfpCaF3aTVWX"
@@ -2045,7 +2067,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 158466,
       "name": "Gimme Some More",
       "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
@@ -2089,7 +2111,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 253840,
       "name": "Go Crazy (Remix)",
       "url": "https://open.spotify.com/track/3iUnagQlUtjjCNQ3us3lPi"
@@ -2295,7 +2317,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 273266,
       "name": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",
       "url": "https://open.spotify.com/track/1zUpNXz22EFtljQX3WPDzQ"
@@ -2527,7 +2549,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 268693,
       "name": "Hey Papi - Album Version - Explicit",
       "url": "https://open.spotify.com/track/5RpSXFipAX2W6zo4HnHScn"
@@ -2545,7 +2567,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 170506,
       "name": "Ho",
       "url": "https://open.spotify.com/track/1EsSm8qaR9Wtm1OgZXKi2n"
@@ -2665,7 +2687,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 265560,
       "name": "How You Want That (feat. Kelis)",
       "url": "https://open.spotify.com/track/0EEYgsFx2xUQcFcQrwwEV3"
@@ -2781,7 +2803,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
@@ -2807,7 +2829,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 324306,
       "name": "I Know What You Want (feat. Flipmode Squad)",
       "url": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY"
@@ -2837,7 +2859,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 236520,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/4MMqj7HaLL8BphbBZnlsdq"
@@ -3037,7 +3059,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 282093,
       "name": "I Think They Like Me - Remix",
       "url": "https://open.spotify.com/track/5a4AQWs84xeEyYUd1iC2Pn"
@@ -3131,7 +3153,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "I'm So Fly",
       "url": "https://open.spotify.com/track/0MjM12n2Blr3UxS083X5cQ"
@@ -3203,7 +3225,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC"
@@ -3299,7 +3321,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 257373,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/5sXjuBJEVOaXyRwyIbMB4V"
@@ -3375,7 +3397,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 278533,
       "name": "Karma",
       "url": "https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS"
@@ -3507,7 +3529,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 224253,
       "name": "Laffy Taffy",
       "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
@@ -3541,7 +3563,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 222360,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/4QNJd8ma02Oy9PBenHErs1"
@@ -3575,7 +3597,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0YHI5hydPPth6J5UOzdLDX"
@@ -3601,7 +3623,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 247426,
       "name": "Lean Back",
       "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
@@ -3741,7 +3763,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 224253,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/6qkZ6D3ogNyW2YDWsz7e3z"
@@ -3811,7 +3833,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 256026,
       "name": "Let's Get It (feat. G. Dep & Black Rob)",
       "url": "https://open.spotify.com/track/0sWGn9Yvbu6ITFFwFGroQ7"
@@ -3873,7 +3895,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 262640,
       "name": "Lighters Up",
       "url": "https://open.spotify.com/track/4eihdGG3Tga3oFq4yqCDeL"
@@ -3931,7 +3953,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 195933,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5yrtAPrprvrdJDCTSFn91U"
@@ -4015,7 +4037,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 299333,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
@@ -4151,7 +4173,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 243040,
       "name": "Make It Clap (feat. Sean Paul & Spliff Starr) - Remix Album Version",
       "url": "https://open.spotify.com/track/6NM525U7IB4Zhpn8d921uX"
@@ -6178,6 +6200,24 @@
     },
     {
       "album": {
+        "name": "Strange Clouds",
+        "url": "https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/28GUjBGqZVcAV4PHSYzkj2"
+    },
+    {
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/1daamdMx4wmSEC3mfiCN37"
       },
@@ -7511,7 +7551,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 309600,
       "name": "Welcome To New York City",
       "url": "https://open.spotify.com/track/6GJe7xXJVxmPZpMBVb7kOc"

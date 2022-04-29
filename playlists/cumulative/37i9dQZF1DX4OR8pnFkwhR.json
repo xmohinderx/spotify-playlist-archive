@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 260161,
       "name": "alone",
       "url": "https://open.spotify.com/track/3MT2cvsBjP3SahkanbWfsD"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 327602,
       "name": "na-na-na (Happy song)",
       "url": "https://open.spotify.com/track/7pniu0XCr6cfRgRBcLbsHm"
@@ -2274,6 +2274,24 @@
     },
     {
       "album": {
+        "name": "\u5acc\u3067\u3082\u306d",
+        "url": "https://open.spotify.com/album/0ENL0kl70GDim5FzZk9vQj"
+      },
+      "artists": [
+        {
+          "name": "Chippoke Ohashi",
+          "url": "https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "\u5acc\u3067\u3082\u306d",
+      "url": "https://open.spotify.com/track/0vMirJzqc32hw8gzMISrga"
+    },
+    {
+      "album": {
         "name": "\u5b9d\u9053~\u305f\u304b\u3089\u306e\u307f\u3061~",
         "url": "https://open.spotify.com/album/5a1KXmIYIC8rlfrxEnVNgn"
       },
@@ -2829,6 +2847,24 @@
       "duration_ms": 213466,
       "name": "\u95a2\u4fc2\u306e\u306a\u3044\u4eba",
       "url": "https://open.spotify.com/track/3WlAqL1Vaei9e84PDNh5FH"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u306e\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/1zKpfBrMjF0bYj4ZGs5c7H"
+      },
+      "artists": [
+        {
+          "name": "RQNY",
+          "url": "https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233949,
+      "name": "\u96e8\u306e\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/1lWVxJGW5s5LCNgO2mQB0v"
     },
     {
       "album": {

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 156774,
       "name": "1999 (I Wanna Go Back)",
       "url": "https://open.spotify.com/track/4LXXrqp6zXLI7JyZpdY1wF"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 190080,
       "name": "Candy Shop (feat. James Wilson & Irma) - ManyFew Remix",
       "url": "https://open.spotify.com/track/27S6T3IK5tt0m5VOb6HzA7"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 182500,
       "name": "Dare Me",
       "url": "https://open.spotify.com/track/77BDJDKKWm11KXQh0Sv4Jf"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 161294,
       "name": "DayDream",
       "url": "https://open.spotify.com/track/1MKQj677S3V9umUj7Eip0t"
@@ -581,10 +581,32 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "album": {
+        "name": "Everywhere (feat. Maya Avedis)",
+        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
+      },
+      "artists": [
+        {
+          "name": "XO Cupid",
+          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
+        },
+        {
+          "name": "Maya Avedis",
+          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Everywhere (feat. Maya Avedis)",
+      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
     },
     {
       "album": {
@@ -980,6 +1002,32 @@
     },
     {
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/1cEP1LokjlwjlK8rS6HYnS"
+      },
+      "artists": [
+        {
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
+        },
+        {
+          "name": "New Beat Order",
+          "url": "https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150942,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/7JVDyzY0i7zmuQRTaKnyo5"
+    },
+    {
+      "album": {
         "name": "Hey Mama",
         "url": "https://open.spotify.com/album/0R8u1R1nBaz9VZIZ2BXomo"
       },
@@ -1153,7 +1201,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 199764,
       "name": "In & Out",
       "url": "https://open.spotify.com/track/7HCXtYPQka5aa8DflAUZI2"
@@ -1369,7 +1417,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -1543,7 +1591,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165000,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/3KFGSaINkrBytfgfIlPKiT"
@@ -2257,7 +2305,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 189375,
       "name": "Tonight (In Your Arms)",
       "url": "https://open.spotify.com/track/5qHGJ1JN9N0cyhaSfQo9Bi"
@@ -2305,7 +2353,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 137460,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/0WFiohDUm3wbv1SRWlPFR3"
@@ -2367,7 +2415,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 132775,
       "name": "Weekend (feat. Emelie Cyr\u00e9us)",
       "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
@@ -2393,7 +2441,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165048,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/24Rt28AO3fHK3Svg2fDsmV"

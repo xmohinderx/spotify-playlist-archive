@@ -1,12 +1,12 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 6995,
+  "num_followers": 7003,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTA1NDQyMSwwMDAwMDA1NTAwMDAwMTgwNmE4MzI2ZGMwMDAwMDE4MDRjOWIyNWNm",
+  "snapshot_id": "MTY1MTE3OTU0MCwwMDAwMDA1NjAwMDAwMTgwNzFmODRlODMwMDAwMDE4MDcwZjFjZTUw",
   "tracks": [
     {
       "added_at": "2022-01-27 20:59:00",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih"
     },
     {
+      "added_at": "2022-04-28 20:59:00",
+      "album": {
+        "name": "Sambaratika",
+        "url": "https://open.spotify.com/album/0lIeaCNbdsXfvwaLReYjo8"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Sambaratika",
+      "url": "https://open.spotify.com/track/5JylASyKwZDJl64NjuTfQD"
+    },
+    {
       "added_at": "2022-03-25 05:44:05",
       "album": {
         "name": "All My Fault",
@@ -83,22 +99,6 @@
       "duration_ms": 186875,
       "name": "All My Fault",
       "url": "https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3"
-    },
-    {
-      "added_at": "2021-12-09 20:59:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
-      },
-      "artists": [
-        {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
     },
     {
       "added_at": "2022-03-31 20:59:00",
@@ -133,6 +133,22 @@
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
+      "added_at": "2022-02-11 09:38:38",
+      "album": {
+        "name": "Never Left",
+        "url": "https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN"
+      },
+      "artists": [
+        {
+          "name": "Cxnrvd",
+          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Never Left",
+      "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
+    },
+    {
       "added_at": "2022-03-25 05:44:05",
       "album": {
         "name": "Entebbe",
@@ -149,20 +165,20 @@
       "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
     },
     {
-      "added_at": "2022-02-11 09:38:38",
+      "added_at": "2021-12-09 20:59:00",
       "album": {
-        "name": "Never Left",
-        "url": "https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
       },
       "artists": [
         {
-          "name": "Cxnrvd",
-          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
         }
       ],
-      "duration_ms": 172363,
-      "name": "Never Left",
-      "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
+      "duration_ms": 154666,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
     },
     {
       "added_at": "2022-02-24 20:59:00",
@@ -275,6 +291,22 @@
       "duration_ms": 167125,
       "name": "Sweeta",
       "url": "https://open.spotify.com/track/4minQAokut1H7SBwPZKwtg"
+    },
+    {
+      "added_at": "2022-04-28 20:59:00",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 74437,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW"
     },
     {
       "added_at": "2021-12-09 20:59:00",
@@ -1001,22 +1033,6 @@
       "url": "https://open.spotify.com/track/3oIwlyoOs4SOjRntoZlUdS"
     },
     {
-      "added_at": "2021-10-29 06:04:39",
-      "album": {
-        "name": "JAMES BOND",
-        "url": "https://open.spotify.com/album/5CL0vcPX9aWVhD7lzrO4Cu"
-      },
-      "artists": [
-        {
-          "name": "BAQABO",
-          "url": "https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "JAMES BOND",
-      "url": "https://open.spotify.com/track/0Iq3j9CMUCsCi2j10BS4os"
-    },
-    {
       "added_at": "2021-10-15 19:38:29",
       "album": {
         "name": "MFN",
@@ -1183,34 +1199,6 @@
       "duration_ms": 253150,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Nairobass",
-        "url": "https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU"
-      },
-      "artists": [
-        {
-          "name": "Xprso.",
-          "url": "https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7"
-        },
-        {
-          "name": "RVMP",
-          "url": "https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv"
-        },
-        {
-          "name": "Mars Maasai",
-          "url": "https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY"
-        },
-        {
-          "name": "MR. LU*",
-          "url": "https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF"
-        }
-      ],
-      "duration_ms": 112254,
-      "name": "Tingisha Kidole",
-      "url": "https://open.spotify.com/track/0dUO3M0hV0kodob3asRrDp"
     },
     {
       "added_at": "2021-10-15 19:38:29",

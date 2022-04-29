@@ -1,13 +1,29 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 53866,
+  "num_followers": 53886,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTEwODU4NywwMDAwMDAwMGZjY2Y3NTEwNGZhMGMyZWIzNmEyOWYxOWZiOWU2YjIx",
+  "snapshot_id": "MTY1MTE5Mzg4MSwwMDAwMDAwMDE2NDlhZjRjMzgwOTYzNzkzMjYzNjI2NjFjZmQxMGVi",
   "tracks": [
+    {
+      "added_at": "2022-04-28 16:00:00",
+      "album": {
+        "name": "Pit A Pat",
+        "url": "https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Pit A Pat",
+      "url": "https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT"
+    },
     {
       "added_at": "2022-04-27 13:31:11",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 217 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 371 likes - 217 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 131 | [Fool for Love](https://open.spotify.com/track/6Va2JOFQLTBAESZmipm4Wr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Cory Branan](https://open.spotify.com/artist/0uzmoK3E1j2Cvl9XkFs1JR) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:59 |
 | 132 | [Fear, Itself](https://open.spotify.com/track/0TKkGyAPQGczu3QCgjGTRd) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 4:02 |
 | 133 | [Totally Worth It](https://open.spotify.com/track/3mYnHLEaj0VOXFBifAnw8u) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:48 |
-| 134 | [The Freshman](https://open.spotify.com/track/3xjszbOcOwKwpuKyAwIkU9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:39 |
-| 135 | [CITADEL](https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:37 |
+| 134 | [CITADEL](https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:37 |
+| 135 | [The Freshman](https://open.spotify.com/track/3xjszbOcOwKwpuKyAwIkU9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:39 |
 | 136 | [The Initiative](https://open.spotify.com/track/3ChsPDG9Ir3nF4CET3nkLv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:14 |
 | 137 | [West Keys](https://open.spotify.com/track/6RCMhSNNCmCaYoAnTCMwFn) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 3:04 |
 | 138 | [Problematic Fave](https://open.spotify.com/track/7EuV5uuPeTjFMIRt2h3ez5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Joanna Robinson](https://open.spotify.com/artist/0JNSTXiDN0flYXAHdlFLF1) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:16 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 216 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 217 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc1MTgxNDcsMDAwMDAwMDA0N2QwN2RlNTkyZTI1MmMxNWM3ODEzY2ZiY2U0NzYxYw==`
+Snapshot ID: `Mjc1MTkzNTEsMDAwMDAwMDAyYTVhZDVkMzA1MjQwMTBmMTNiYjhkY2YyM2Y1N2I0NQ==`

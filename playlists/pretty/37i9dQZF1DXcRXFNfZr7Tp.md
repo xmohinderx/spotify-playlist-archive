@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: David Guetta, Ella Henderson & Becky Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,410,331 likes - 92 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,411,090 likes - 92 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

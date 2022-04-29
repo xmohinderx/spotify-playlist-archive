@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: احمد سعد
 
-134 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+135 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ana Roht Minnak](https://open.spotify.com/track/1rPbqAS7xqPrP66daAl0F6) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ana Roht Minnak](https://open.spotify.com/album/4xiu6m1dJJJkMA8swxn8Ig) | 4:03 | 2021-12-23 | 2021-12-30 |
 | [Ana Zaaley](https://open.spotify.com/track/6xEKHNsrF6WS7brxCrG8Qg) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Fakharany](https://open.spotify.com/artist/73817y8suKDLnuLrUTRrp2) | [Ana Zaaley](https://open.spotify.com/album/3ZQagMTgeXBzQ9gySyr0Tg) | 4:01 | 2021-12-23 | 2022-03-04 |
 | [Arosty](https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Arosty](https://open.spotify.com/album/2pXOewtgNtWSCuoZz98TCG) | 3:10 | 2021-12-23 | 2021-12-30 |
+| [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2022-04-28 |  |
 | [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 |  |
 | [Baseeta](https://open.spotify.com/track/0SL61SAE5LKt2ktmG3tdWA) | [Samo Zaen](https://open.spotify.com/artist/4s7xsFTPsZZcIzKv0Ryg22) | [Baseeta](https://open.spotify.com/album/0BNmZqLzCnwrmi44w72Hqd) | 3:08 | 2022-02-24 |  |
 | [Basseen Ala Bokra](https://open.spotify.com/track/1VbteZaK0u3rUWJKUGaY5K) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Basseen Ala Bokra](https://open.spotify.com/album/3bCSL9eeJHRQwBN5xae5xw) | 3:14 | 2021-12-23 | 2022-03-04 |
@@ -131,7 +132,7 @@
 | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/track/3ZdlAcmMvt3R4a6wIk2Aik) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/album/7v2P77Gc48qMDAyF5Mx9Xu) | 4:00 | 2022-04-07 |  |
 | [بحبك](https://open.spotify.com/track/3OFYEo6WT1inEKsEneGtZI) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [بحبك](https://open.spotify.com/album/4NNJ14KEMD3pvCSdzdxdUV) | 4:24 | 2022-01-20 | 2022-03-25 |
 | [بيني و بينك](https://open.spotify.com/track/56JILjgRCIRy3hPxr9Eu5K) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [بيني و بينك](https://open.spotify.com/album/1Xpv9bpRG0pmvFf2AnjFwg) | 3:03 | 2021-12-30 | 2022-03-18 |
-| [روق](https://open.spotify.com/track/60RmfptZLtkoxaCZuuTrVg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [روق](https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV) | 3:01 | 2022-01-27 |  |
+| [روق](https://open.spotify.com/track/60RmfptZLtkoxaCZuuTrVg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [روق](https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV) | 3:01 | 2022-01-27 | 2022-04-29 |
 | [سوكسيه](https://open.spotify.com/track/2e9tv43tcu7X9pqxvKkkRI) | [Nehal Kamal](https://open.spotify.com/artist/0IlcjzFU7NNJbTFZEPDRGf), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [سوكسيه](https://open.spotify.com/album/2Wu6uUUCLxq99a0DnuMvpa) | 3:27 | 2021-12-23 | 2022-03-10 |
 | [سيرك الحياه](https://open.spotify.com/track/5OortLPZ3VTCDjL01kuya0) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Serk El Haiah](https://open.spotify.com/album/4rHRrAb9uxWqHVHvHCSfO4) | 3:10 | 2021-12-23 | 2022-02-02 |
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2021-12-23 | 2022-02-12 |

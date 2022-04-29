@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡<a href="https://bit.ly/FestivalEqualColombia">Compra tus entradas al Festival EQUAL aquí</a>! En portada: Farina
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,459 likes - 65 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,472 likes - 65 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

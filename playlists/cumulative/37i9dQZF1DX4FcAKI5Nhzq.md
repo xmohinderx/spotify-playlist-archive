@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: BOL4
+> Future K\-Pop hits! Cover: Moon Byul
 
-548 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+549 songs - 1 day 6 hr 47 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Butterfly](https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 | 2021-08-11 | 2021-11-12 |
 | [Butterfly Effect](https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 3:26 | 2021-10-28 | 2022-01-13 |
 | [BYE BYE BYE](https://open.spotify.com/track/69Nn4yZnYo1nw4mfQvNbfU) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : Action](https://open.spotify.com/album/7nvcGJpVJBTOtYKGTEtCmr) | 3:25 | 2021-06-16 | 2021-09-07 |
+| [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-04-28 |  |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2021-10-16 | 2021-11-24 |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-03-02 | 2022-04-18 |
 | [Calm & Passion](https://open.spotify.com/track/2Tnh9ZwCtdR1Zd21RNDGVX) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [With](https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7) | 3:29 | 2021-10-21 | 2021-12-14 |
@@ -192,7 +193,7 @@
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2021-11-19 |
 | [Goblin \(Favorite Boys\)](https://open.spotify.com/track/0QTx81gggSfDhmmdjpCfrT) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 3:35 | 2020-10-13\* | 2021-01-11 |
 | [Good Night](https://open.spotify.com/track/1IfL8E8yZN2DvtLXiybkQu) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [Good Night](https://open.spotify.com/album/7dwTOsTBJwg9QdoJiPWHsT) | 3:27 | 2021-11-12 | 2021-12-14 |
-| [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 | 2022-02-03 |  |
+| [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 | 2022-02-03 | 2022-04-29 |
 | [GOTCHA](https://open.spotify.com/track/4mgkQnzI5XlVYgXoJGySwc) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [MESSAGE](https://open.spotify.com/album/3DNboyISLbyI3f5s6RHxDT) | 3:24 | 2020-11-05 | 2021-04-22 |
 | [GOTTA GO](https://open.spotify.com/track/7Gb3K6a2YyJTf7j0UTf9jJ) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [GOTTA GO](https://open.spotify.com/album/5e8KAB3PANlikarQhJnLUu) | 3:26 | 2020-10-13\* | 2020-10-22 |
 | [GRATATA](https://open.spotify.com/track/5r5DHrJRw6q06N2aeHNczb) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ISSUE MAKER](https://open.spotify.com/album/0bcO16vVhZRSHou0ls0Wd1) | 3:12 | 2021-05-05 | 2021-06-25 |
@@ -469,7 +470,7 @@
 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 | 2021-04-13 | 2021-06-18 |
 | [The Real](https://open.spotify.com/track/1uk5fYLx1f88DLte84Hl5j) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:10 | 2021-06-09 | 2021-09-07 |
 | [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2021-12-13 | 2022-01-20 |
-| [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-02-22 |  |
+| [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-02-22 | 2022-04-29 |
 | [The Stealer](https://open.spotify.com/track/2DQgD8rAJLKNptQFK70ndO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 5th MINI ALBUM \[CHASE\]](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) | 3:30 | 2020-10-13\* | 2021-03-01 |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-10-16 | 2022-01-20 |
 | [Then, Now and Forever](https://open.spotify.com/track/2YLCxfPRnyYxgirjSYcTZZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [RE\-CODE](https://open.spotify.com/album/6LKHdbZ7TNMnLX4pI1jeF2) | 3:50 | 2020-11-17 | 2021-02-15 |

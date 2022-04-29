@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 267106,
       "name": "(Can't You) Trip Like I Do",
       "url": "https://open.spotify.com/track/3LdMEE9iUAEDBdpK5qXuJY"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 169013,
       "name": "21st Century (Digital Boy)",
       "url": "https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd"
@@ -95,10 +95,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 286440,
       "name": "93 'Til Infinity",
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+    },
+    {
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/5AOu8nTJSHWiIDxPvcIDRF"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235600,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/5PtBAIs2577uZZOjpmZrj9"
     },
     {
       "album": {
@@ -131,7 +149,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 179600,
       "name": "All Mixed Up",
       "url": "https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 211400,
       "name": "All My Best Friends Are Metalheads",
       "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 227973,
       "name": "Angry Again",
       "url": "https://open.spotify.com/track/3CI1JP2ooMBSFjIy1u6Yrc"
@@ -192,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211733,
+      "name": "Around the Fur",
+      "url": "https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV"
+    },
+    {
+      "album": {
         "name": "Too High To Die",
         "url": "https://open.spotify.com/album/33NHMtzngLZw6GBB1nNpVJ"
       },
@@ -203,7 +239,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 220533,
       "name": "Backwater",
       "url": "https://open.spotify.com/track/3KZVWVH4epY2JGaqRs8bqg"
@@ -347,7 +383,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 225400,
       "name": "Bled for Days",
       "url": "https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn"
@@ -365,7 +401,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 252400,
       "name": "Blind - Live at CBGB",
       "url": "https://open.spotify.com/track/3ESohZocQvwRDzedmk4fYi"
@@ -383,7 +419,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
@@ -455,7 +491,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 166706,
       "name": "Break Stuff",
       "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
@@ -601,7 +637,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
@@ -619,7 +655,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
@@ -797,7 +833,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 373000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
@@ -815,7 +851,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 274160,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
@@ -833,7 +869,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 197800,
       "name": "Come Out And Play (Keep \u2018Em Separated)",
       "url": "https://open.spotify.com/track/0Yb5Kfpf3boElZNa61wPdJ"
@@ -869,7 +905,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 294826,
       "name": "Cult of Personality",
       "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
@@ -969,7 +1005,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 296626,
       "name": "Davidian",
       "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
@@ -1041,10 +1077,28 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 181493,
       "name": "Dig Up Her Bones",
       "url": "https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305293,
+      "name": "Domination",
+      "url": "https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu"
     },
     {
       "album": {
@@ -1203,7 +1257,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 270920,
       "name": "Falling Away from Me",
       "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
@@ -1329,7 +1383,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 269800,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
@@ -1383,7 +1437,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 311200,
       "name": "Hangar 18 - Remastered",
       "url": "https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb"
@@ -1419,7 +1473,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 299533,
       "name": "Head Like A Hole",
       "url": "https://open.spotify.com/track/3QzgvtPwYiqxextZIUaxSU"
@@ -1509,7 +1563,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 345733,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
@@ -1545,7 +1599,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 375933,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/1lo9k4PrxFd5Np4cAxXoKo"
@@ -1599,7 +1653,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 204626,
       "name": "I'm With Stupid",
       "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
@@ -1689,7 +1743,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 292586,
       "name": "Jesus Built My Hotrod",
       "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
@@ -1761,7 +1815,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
@@ -1779,7 +1833,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 329760,
       "name": "King Nothing",
       "url": "https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k"
@@ -1887,7 +1941,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 235613,
       "name": "Make Me Bad",
       "url": "https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk"
@@ -1930,6 +1984,44 @@
     },
     {
       "album": {
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350560,
+      "name": "Method Man (feat. Method Man, Raekwon, GZA, RZA & Ghostface Killah)",
+      "url": "https://open.spotify.com/track/5XLC8xoqyua4U7wJiZAWik"
+    },
+    {
+      "album": {
         "name": "We Can't Be Stopped",
         "url": "https://open.spotify.com/album/2MJEvcUvsLPjsvVgqn8xa4"
       },
@@ -1959,7 +2051,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 268760,
       "name": "More Human Than Human",
       "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
@@ -1977,7 +2069,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 204866,
       "name": "Mother",
       "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
@@ -2067,7 +2159,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 214760,
       "name": "My Own Summer (Shove It)",
       "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
@@ -2233,7 +2325,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 365826,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
@@ -2287,7 +2379,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 235093,
       "name": "Pretend We're Dead",
       "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
@@ -2355,7 +2447,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 291066,
       "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
@@ -2373,7 +2465,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
@@ -2391,7 +2483,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 354733,
       "name": "Re-Arranged",
       "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc"
@@ -2425,7 +2517,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 321733,
       "name": "Reunited (feat. GZA, Ol' Dirty Bastard, RZA & Method Man)",
       "url": "https://open.spotify.com/track/2CxOJwC4jqWfPQdahEX9oH"
@@ -2450,6 +2542,24 @@
     },
     {
       "album": {
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/0EtirusGt3LivUmALXSMVe"
+    },
+    {
+      "album": {
         "name": "Dirt",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
@@ -2461,7 +2571,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 374333,
       "name": "Rooster",
       "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
@@ -2479,10 +2589,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 212253,
       "name": "Roots Bloody Roots",
       "url": "https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ"
+    },
+    {
+      "album": {
+        "name": "Badmotorfinger (25th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Rusty Cage - Remastered",
+      "url": "https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV"
     },
     {
       "album": {
@@ -2497,7 +2625,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 323933,
       "name": "Sad But True",
       "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
@@ -2617,7 +2745,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 283973,
       "name": "Shelf In The Room",
       "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
@@ -2689,7 +2817,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 298533,
       "name": "South Of Heaven",
       "url": "https://open.spotify.com/track/1f2nJKg780VxYIveVq6Xej"
@@ -2725,7 +2853,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 215440,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
@@ -2743,7 +2871,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 159773,
       "name": "Spit It Out",
       "url": "https://open.spotify.com/track/2yTnWN1R5j6grXC8YLf5mc"
@@ -2761,10 +2889,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 246373,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/3czHCIPtkuw2TFk1SOOQkC"
+    },
+    {
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312120,
+      "name": "Stinkfist",
+      "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
     },
     {
       "album": {
@@ -2779,7 +2925,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 282506,
       "name": "Stone the Crow",
       "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
@@ -2833,7 +2979,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 151733,
       "name": "Suite-Pee",
       "url": "https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0"
@@ -2851,7 +2997,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 217533,
       "name": "Super Charger Heaven",
       "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
@@ -2869,7 +3015,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 220266,
       "name": "Superbeast",
       "url": "https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv"
@@ -2941,7 +3087,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 246733,
       "name": "Symphony Of Destruction",
       "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
@@ -2982,6 +3128,24 @@
     },
     {
       "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
+    },
+    {
+      "album": {
         "name": "Antichrist Superstar",
         "url": "https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB"
       },
@@ -2993,7 +3157,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 218826,
       "name": "The Beautiful People",
       "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"
@@ -3029,7 +3193,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 226733,
       "name": "The Dope Show",
       "url": "https://open.spotify.com/track/1KQxH1Z1BiSo3MMukVpRfl"
@@ -3047,7 +3211,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 315440,
       "name": "The Perfect Drug",
       "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
@@ -3065,7 +3229,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 393706,
       "name": "This Love",
       "url": "https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4"
@@ -3213,7 +3377,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 338186,
       "name": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
       "url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
@@ -3303,7 +3467,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176546,
       "name": "Vasoline - 2019 Remaster",
       "url": "https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"
@@ -3501,7 +3665,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 283706,
       "name": "Wild Side",
       "url": "https://open.spotify.com/track/3ZO9oJnnvV4oyklDND9qgB"
@@ -3519,7 +3683,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 226733,
       "name": "Wish",
       "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
@@ -3555,7 +3719,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 136146,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
@@ -3589,6 +3753,24 @@
       "duration_ms": 216133,
       "name": "Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
       "url": "https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E"
+    },
+    {
+      "album": {
+        "name": "Candlebox",
+        "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
+      },
+      "artists": [
+        {
+          "name": "Candlebox",
+          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297173,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k"
     },
     {
       "album": {

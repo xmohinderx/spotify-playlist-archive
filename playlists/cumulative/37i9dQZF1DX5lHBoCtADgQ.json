@@ -99,6 +99,24 @@
     {
       "album": {
         "name": "Buhe Bariyan",
+        "url": "https://open.spotify.com/album/50MHfytKPljf732R1f6dw0"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281923,
+      "name": "Buhe Bariyan",
+      "url": "https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK"
+    },
+    {
+      "album": {
+        "name": "Buhe Bariyan",
         "url": "https://open.spotify.com/album/5vpSmKJ6pSPcGqLfHGfmpU"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > Rock to relax\. Enjoy!
 
-69 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/5NZJisOXUDORKjlyimSlVx)
+70 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/5NZJisOXUDORKjlyimSlVx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2021-11-03 |  |
 | [Happiness \- Reworked](https://open.spotify.com/track/68kNk4dgiZcU25IX5B55CV) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights \(Reworked \- Deluxe Version\)](https://open.spotify.com/album/7Mbg5xs1MVMJzow6nRxXUL) | 3:54 | 2021-11-03 |  |
 | [Home](https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:53 | 2021-11-03 |  |
-| [I Don't Want to Be Here Anymore](https://open.spotify.com/track/1f133Oqpwft2mGNp5cWqaS) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Safe In Sound](https://open.spotify.com/album/2QEGCBGVqN0WvX2wHeuwMP) | 4:10 | 2021-11-03 |  |
+| [I Don't Want to Be Here Anymore](https://open.spotify.com/track/1f133Oqpwft2mGNp5cWqaS) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Safe In Sound](https://open.spotify.com/album/2QEGCBGVqN0WvX2wHeuwMP) | 4:10 | 2021-11-03 | 2022-04-29 |
 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 | 2021-11-03 |  |
 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 | 2022-01-14 | 2022-03-22 |
 | [If I Had A Gun](https://open.spotify.com/track/0Pk9Lc2RFHVffFgjozPIxp) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/album/55ugr9FagaUwzKeyDg6JNY) | 4:09 | 2021-11-03 |  |
@@ -39,16 +39,16 @@
 | [Inside of Love](https://open.spotify.com/track/37oU0liybMY8aI9u6QMVM9) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/7tWx2oRcvpaXVDfvjtgr77) | 4:58 | 2021-11-03 |  |
 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 | 2021-11-03 |  |
 | [Karma Police](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:24 | 2021-11-03 |  |
-| [Last Orders](https://open.spotify.com/track/16NeN82ABDPjUvgEEGVaSQ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Graveyard Whistling \- EP](https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO) | 3:58 | 2021-11-03 | 2022-04-28 |
+| [Last Orders](https://open.spotify.com/track/16NeN82ABDPjUvgEEGVaSQ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Graveyard Whistling \- EP](https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO) | 3:58 | 2021-11-03 |  |
 | [Little Girl & The Whistlin Train](https://open.spotify.com/track/6flRKaS0mUxGoqdFkwTouY) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [Brothers In Ideals \- We The People Of The Soil \- Unplugged](https://open.spotify.com/album/1kH1klNsV6xu6Dcm1n5yaF) | 4:24 | 2021-11-03 |  |
 | [Look What You've Done](https://open.spotify.com/track/4PYEFRzeJGmnszzYJ0XKyK) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born \(Deluxe Edition\)](https://open.spotify.com/album/7vCEk05cCBjn93wzoH5ZrK) | 3:50 | 2021-11-03 | 2022-04-26 |
 | [Machines](https://open.spotify.com/track/2QaaXYzEzLio3POCFCI19r) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Puzzle](https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6) | 3:56 | 2021-11-03 |  |
 | [Make It Wit Chu](https://open.spotify.com/track/6GyDY0yE47rfk8pcuKhioh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 4:50 | 2021-11-03 |  |
-| [Mexico](https://open.spotify.com/track/53qf90GmWQ70MH7LNzJHZb) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:18 | 2021-11-03 |  |
-| [Miss You Love](https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 4:00 | 2021-11-03 |  |
+| [Mexico](https://open.spotify.com/track/53qf90GmWQ70MH7LNzJHZb) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:18 | 2021-11-03 | 2022-04-29 |
+| [Miss You Love](https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 4:00 | 2021-11-03 | 2022-04-29 |
 | [My Friends](https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:08 | 2021-11-03 |  |
 | [No Surprises](https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 3:49 | 2021-11-03 |  |
-| [Nothing Else Matters](https://open.spotify.com/track/1znPMY3zq78mVuTAmOA9O7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/3A4zAmE5c4dUAAqEJz6hCH) | 6:28 | 2021-11-03 | 2022-04-28 |
+| [Nothing Else Matters](https://open.spotify.com/track/1znPMY3zq78mVuTAmOA9O7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/3A4zAmE5c4dUAAqEJz6hCH) | 6:28 | 2021-11-03 |  |
 | [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 | 2021-11-03 |  |
 | [One](https://open.spotify.com/track/3PKtemUKxiDBvBo7tpQ8bG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby](https://open.spotify.com/album/3hErePSImi79vYHrSmypGw) | 4:36 | 2021-11-03 |  |
 | [Polly](https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 2:53 | 2021-11-03 |  |
@@ -61,6 +61,7 @@
 | [Society](https://open.spotify.com/track/4kRGpTEcDdZTAbc645OL2U) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0iyWxTBrrClm4XW0pz5V7S) | 3:56 | 2021-11-03 |  |
 | [Songbird](https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:52 | 2021-11-03 | 2022-04-26 |
 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 | 2021-11-03 |  |
+| [Take a Picture](https://open.spotify.com/track/2O2mr2gzBRtKGRiswqRyiN) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record](https://open.spotify.com/album/0bsS6wybJvPfLs7cr3bj7j) | 6:03 | 2022-01-14 |  |
 | [Talk Tonight](https://open.spotify.com/track/1gANYFsOT41zu2cdSC06iD) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/6tgQeTZ3893n3c3MvlPzi7) | 4:21 | 2021-11-03 |  |
 | [The Children of Coyote Woman](https://open.spotify.com/track/6jZoxQoJrcuZ0LiBAcxuNy) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [The Children of Coyote Woman](https://open.spotify.com/album/4ZM1y5bPLPAseeK7lY81dN) | 3:36 | 2021-11-03 |  |
 | [The Drugs Don't Work](https://open.spotify.com/track/0F1sjS4EhR1Rwiq4ir6mqZ) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/5aY2ZGwROKS4QU5QDW3SqD) | 5:04 | 2021-11-03 |  |
