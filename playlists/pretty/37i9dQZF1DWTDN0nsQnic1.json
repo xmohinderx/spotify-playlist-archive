@@ -1,13 +1,37 @@
 {
   "description": "Lush, shimmery guitars. Cover: Tom Misch",
-  "num_followers": 10067,
+  "num_followers": 10086,
   "original_name": "Shimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5NTMyMCwwMDAwMDAwOTAwMDAwMTgwMmI2MjhiMTEwMDAwMDE3ZDliNGUzOTA0",
+  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAwYTAwMDAwMTgwNzM3YjkzMzMwMDAwMDE3ZDliNGUzOTA0",
   "tracks": [
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "The edbl x Kazuki Sessions",
+        "url": "https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "duration_ms": 223390,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn"
+    },
     {
       "added_at": "2022-04-15 04:02:00",
       "album": {

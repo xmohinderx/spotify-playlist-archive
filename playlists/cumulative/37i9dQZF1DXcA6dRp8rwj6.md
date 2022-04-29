@@ -2,9 +2,9 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\.  \(Cover: The Kid LAROI\)
+> The hottest Hip\-Hop of today all over the world\.  \(Cover: Future\)
 
-379 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+381 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,12 +314,13 @@
 | [Swervin](https://open.spotify.com/track/6xUHiUbu60YeQ4Rtjqx4M1) | [BLXKBOYZ](https://open.spotify.com/artist/4lOWCPudttsVgEMBlDJyoV), [Oz the Oddz](https://open.spotify.com/artist/6YeoGVnJh6nzJxeTaxEbqt), [$icksteen](https://open.spotify.com/artist/6gksAjk5necqXFtdFrdsR7) | [Swervin](https://open.spotify.com/album/3tSJUxzjg0e337lXwiVGAX) | 2:42 | 2022-01-20 | 2022-02-11 |
 | [SWOLLEN](https://open.spotify.com/track/609zgavkqW1ZMrna5uM3wh) | [Creed Tha Kid](https://open.spotify.com/artist/0Gzx0kLgEZkaNJYGJCbdYR) | [SWOLLEN](https://open.spotify.com/album/6p8Kt6pF37TmOusQm7EipS) | 2:55 | 2022-04-21 |  |
 | [T.CHAL](https://open.spotify.com/track/5g9lsDagY7UloL8dTYjpRv) | [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [T.CHAL](https://open.spotify.com/album/0ZJhDtHm2RnPXlypNR7onf) | 2:47 | 2022-01-20 | 2022-02-04 |
-| [Taco](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:26 | 2022-04-07 |  |
+| [Taco](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:24 | 2022-04-07 |  |
 | [TAHUN DEPAN HARGA NAIK](https://open.spotify.com/track/6TiTkOVtXRF8Xx7iTGsIqN) | [Oyami](https://open.spotify.com/artist/2HHbaQyJSBiueJOPiHRfg4) | [TAHUN DEPAN HARGA NAIK](https://open.spotify.com/album/3YmJJdg5lxYmQpnsqPkwzA) | 2:50 | 2022-01-20 | 2022-01-28 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-24 | 2022-04-08 |
 | [Tell Santa](https://open.spotify.com/track/1i7Nwas0VfXrUIm4qDcbyL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tell Santa](https://open.spotify.com/album/70PAbNnWnfmU3IF2OK67yY) | 2:27 | 2022-01-20 | 2022-01-28 |
 | [Tempat Pulang](https://open.spotify.com/track/0u5GeVYHGRdqruncvoXQlU) | [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ), [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Tempat Pulang](https://open.spotify.com/album/45LnkhfTEfmOs5UXoRcpCl) | 3:44 | 2022-02-10 | 2022-03-04 |
 | [Texture.](https://open.spotify.com/track/654Vru27jmXMzQq0xUFtLg) | [Shanii22](https://open.spotify.com/artist/2yYM0ttZlVqxIjzj2MWlQc), [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [Texture.](https://open.spotify.com/album/0z9yvUsyKDHlU2tDDgGrhI) | 1:50 | 2022-01-20 | 2022-01-28 |
+| [That's Just Tips](https://open.spotify.com/track/2cqHOnrzsE6JzBzkNADIA1) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [That's Just Tips](https://open.spotify.com/album/6o26foZmRZFOI13LhzNCZS) | 3:54 | 2022-04-29 |  |
 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 | 2022-01-20 | 2022-02-11 |
 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 | 2022-01-20 | 2022-01-28 |
 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 | 2022-03-31 |  |
@@ -360,6 +361,7 @@
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-01-27 | 2022-02-25 |
 | [Vulva Vocabulary](https://open.spotify.com/track/7xGQhh93u7MuURISUNYV1s) | [Masia One](https://open.spotify.com/artist/5xwsVRGFYIPpDmoaCC9XpB), [Alx](https://open.spotify.com/artist/4fFl2ItPM58qxwXilDjjTP) | [Vulva Vocabulary](https://open.spotify.com/album/4llxqlJ6blCHB4RYZCkI6v) | 2:51 | 2022-03-10 | 2022-04-01 |
 | [W \(with yvngxchris\)](https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [W \(with yvngxchris\)](https://open.spotify.com/album/6wWt12ueB7BwQJS0OcuoHZ) | 2:31 | 2022-03-24 | 2022-04-15 |
+| [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-29 |  |
 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 | 2022-01-27 | 2022-03-04 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk) | 3:09 | 2022-01-20 | 2022-01-28 |
 | [Want It Bad \(with Nigo\)](https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Want It Bad](https://open.spotify.com/album/3MuAhnruoa9XOopdaIL3JT) | 3:20 | 2022-02-17 | 2022-03-18 |

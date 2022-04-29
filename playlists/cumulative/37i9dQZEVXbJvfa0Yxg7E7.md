@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-605 songs - 1 day 7 hr 48 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+606 songs - 1 day 7 hr 52 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Fredag \- Digg å være norsk](https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB) | [Mr Melk](https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD) | [Fredag \(Digg å være norsk\)](https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy) | 2:13 | 2022-03-20 |  |
 | [Fri](https://open.spotify.com/track/1Eatn3b2Xso8J0Pew0Inpk) | [Petter Northug Jr](https://open.spotify.com/artist/1cGAI8rl33xtRQW12YsnTq) | [Fri](https://open.spotify.com/album/6pOarP48YCy4bXGrHISeBz) | 2:26 | 2021-07-20 | 2021-07-21 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-04-05 | 2022-01-04 |
-| [Fuckboy](https://open.spotify.com/track/1GGk3Q73VX2eBLQ2Yp5Kr2) | [Martine Lunde](https://open.spotify.com/artist/22viLaDXyY28fd1WvDraoZ), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Fuckboy](https://open.spotify.com/album/3uXPhrZpwbQPSHjnWRV1cl) | 2:13 | 2021-12-06 |  |
+| [Fuckboy](https://open.spotify.com/track/1GGk3Q73VX2eBLQ2Yp5Kr2) | [Martine Lunde](https://open.spotify.com/artist/22viLaDXyY28fd1WvDraoZ), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Fuckboy](https://open.spotify.com/album/3uXPhrZpwbQPSHjnWRV1cl) | 2:13 | 2021-12-06 | 2022-04-29 |
 | [Fylla](https://open.spotify.com/track/4h47HjuI6PJI3RmnH6Adbc) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Fylla](https://open.spotify.com/album/6yOXDFHawCOMlFQpOKKyiv) | 2:33 | 2021-08-22 | 2021-08-29 |
 | [Första Klass](https://open.spotify.com/track/74TEgDsFaq0zMttq1dVuYK) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Första Klass](https://open.spotify.com/album/5W4QltYoETJuRVqkcwWOtl) | 2:31 | 2021-10-23 | 2021-10-24 |
 | [Gamle Bilder](https://open.spotify.com/track/2bUievg616qKOKeWAoIiqX) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Gamle Bilder](https://open.spotify.com/album/6ZoKsETRc7QP7v3e0iJWww) | 3:20 | 2021-04-18 | 2021-04-19 |
@@ -249,6 +249,7 @@
 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 | 2021-11-30 | 2021-12-31 |
 | [Hopelessly Hopeless](https://open.spotify.com/track/6Kvo2pdl5JPTvYKgaq5lYm) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hopelessly Hopeless](https://open.spotify.com/album/6IcKjirOFkykNCjo6O7wD9) | 3:24 | 2022-01-29 | 2022-03-13 |
 | [Hot Boy Summer \(Daydream 2022\)](https://open.spotify.com/track/4rU71m6Drus4eG3S4AQu3e) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Hot Boy Summer \(Daydream 2022\)](https://open.spotify.com/album/55OiMlnjge6GQzNwWsBNrR) | 2:23 | 2022-04-10 |  |
+| [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-29 |  |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-19 | 2022-02-27 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-17 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-10-06 |

@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-165 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+166 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [My Jamaican Guy](https://open.spotify.com/track/0VEoxxvR26zfJvjUC8k1tt) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Island Life](https://open.spotify.com/album/5F75jXCCEoH6NLIRwpq3v4) | 5:59 | 2021-11-10 |  |
 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 | 2021-12-10 |  |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2021-11-10 |  |
+| [NEXT 2 U](https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [NEXT 2 U](https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn) | 2:49 | 2022-04-29 |  |
 | [Ngempela](https://open.spotify.com/track/0qsZe05lIq8zpmSR20Bafi) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Howard](https://open.spotify.com/artist/0aP1ZzvGhXjejlBmy1Gk6G) | [Ngempela](https://open.spotify.com/album/5NC1ZCp3uUgTSTS6Dt3gtB) | 3:47 | 2021-11-10 |  |
 | [No Pressure](https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No Pressure](https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7) | 3:16 | 2021-11-10 |  |
 | [No Time To Play](https://open.spotify.com/track/0pPf7GFLcuqp3Eis5Hm5yw) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [DC Lee](https://open.spotify.com/artist/5KbqBh2kNs9JzwTtcQrgss) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:54 | 2021-11-10 |  |

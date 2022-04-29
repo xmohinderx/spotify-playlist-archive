@@ -177,7 +177,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 318250,
       "name": "Blackjack",
       "url": "https://open.spotify.com/track/3oQSmblXOEuBdfEl7r2rR1"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165000,
       "name": "Elementals",
       "url": "https://open.spotify.com/track/1na4w67KZVx1U7MY31XsAS"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 159085,
       "name": "Good Vibes Only",
       "url": "https://open.spotify.com/track/5KXDlxs9hrFLrhqiq4uy1B"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 277917,
       "name": "Inni Vendham",
       "url": "https://open.spotify.com/track/53T4r1ij1xGaGhWDRKadHC"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 210008,
       "name": "Kottravai",
       "url": "https://open.spotify.com/track/6sm16UvbyJBbmsRLsTUajI"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 215884,
       "name": "Laash",
       "url": "https://open.spotify.com/track/6mj3FPYhJKc5XCOwH5SHva"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 132601,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/1NrPndNKZvSjU5DEmlIl26"
@@ -1667,7 +1667,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 152571,
       "name": "Rap Game (feat. Saf Weezy & MC Starboy)",
       "url": "https://open.spotify.com/track/3z55rSilY03JI2nMELCpex"
@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 163404,
       "name": "Roar",
       "url": "https://open.spotify.com/track/7fUulYbeIsQIB9F308aVfw"
@@ -1769,6 +1769,28 @@
       "duration_ms": 193190,
       "name": "Saaral Mazhaiyaa",
       "url": "https://open.spotify.com/track/0TCoYdIgo4UUUzUfTkCzfJ"
+    },
+    {
+      "album": {
+        "name": "Black Air Force Activity!",
+        "url": "https://open.spotify.com/album/15kYidAlVJ7AtMx1LjOwEu"
+      },
+      "artists": [
+        {
+          "name": "JBE",
+          "url": "https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ"
+        },
+        {
+          "name": "Dacalty",
+          "url": "https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140799,
+      "name": "SAAVADI",
+      "url": "https://open.spotify.com/track/27KTobvwJ3wqbKNQ4m1dPt"
     },
     {
       "album": {
@@ -2477,7 +2499,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "Vera Maari",
       "url": "https://open.spotify.com/track/4zSDTWYIakyqb4NNctrZDH"
@@ -2503,7 +2525,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 212800,
       "name": "Virus",
       "url": "https://open.spotify.com/track/1XITQUMLKoUTl39XrGGZ99"

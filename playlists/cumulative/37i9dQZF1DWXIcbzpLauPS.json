@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "The Fantasy Effect Redux",
+        "url": "https://open.spotify.com/album/2bbHGhYeAS251rpr595BKx"
+      },
+      "artists": [
+        {
+          "name": "Reflections",
+          "url": "https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282912,
+      "name": "Advance Upon Me Brethren - Redux",
+      "url": "https://open.spotify.com/track/1nsnnETeOSRcomryUMJ3Az"
+    },
+    {
+      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/2PGnrN0ACDEByVDGj1wNHL"
       },
@@ -560,6 +578,24 @@
     },
     {
       "album": {
+        "name": "Blood Spiller",
+        "url": "https://open.spotify.com/album/4INTfLLX0IkZALmFceJKuZ"
+      },
+      "artists": [
+        {
+          "name": "Cave In",
+          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241427,
+      "name": "Blood Spiller",
+      "url": "https://open.spotify.com/track/4U0ZkhJ5q8JOFzDhRrCsVI"
+    },
+    {
+      "album": {
         "name": "Brain Dead",
         "url": "https://open.spotify.com/album/15H3vU49itK3Vfq66FHjRl"
       },
@@ -607,7 +643,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 217500,
       "name": "Breaking Down",
       "url": "https://open.spotify.com/track/67nn2MMxKZkdwOM7G2GFwW"
@@ -1064,6 +1100,28 @@
     },
     {
       "album": {
+        "name": "DEATH (By Modern Error)",
+        "url": "https://open.spotify.com/album/0KvJUEcjyV6KB2ECXbkqvq"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        },
+        {
+          "name": "Modern Error",
+          "url": "https://open.spotify.com/artist/1QvyglfXAHITHVc45nSc1T"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "DEATH (By Modern Error)",
+      "url": "https://open.spotify.com/track/2Komicfi85vw7aPJI0xxZA"
+    },
+    {
+      "album": {
         "name": "DEATH (Ever Colder)",
         "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
       },
@@ -1129,7 +1187,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 237737,
       "name": "Defiance",
       "url": "https://open.spotify.com/track/3ABwHp5CgD7lIbLYuVbCUY"
@@ -1147,7 +1205,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 235500,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2HCTiLjTqadpandq5oS3zW"
@@ -2304,6 +2362,24 @@
     },
     {
       "album": {
+        "name": "Miscreation",
+        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
+      },
+      "artists": [
+        {
+          "name": "The Anchor",
+          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213401,
+      "name": "Miscreation",
+      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
+    },
+    {
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/2Z0dWUt45um1flzsxi6Nd3"
       },
@@ -2937,10 +3013,36 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 213642,
       "name": "Second Circle",
       "url": "https://open.spotify.com/track/7xK4zeYArpNpd7U2AuclH7"
+    },
+    {
+      "album": {
+        "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
+        "url": "https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287475,
+      "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
+      "url": "https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4"
     },
     {
       "album": {
@@ -3057,7 +3159,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 222120,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4roKpz8Lr3mrTynVrFOD70"
@@ -3129,7 +3231,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 206560,
       "name": "SOMEONE ELSE",
       "url": "https://open.spotify.com/track/71yPnlKcVhY98DayZdUFYH"
@@ -3209,6 +3311,24 @@
       "duration_ms": 199055,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/0UZlOO9q3e8jxBj724f6oN"
+    },
+    {
+      "album": {
+        "name": "Still Waters Run Deep",
+        "url": "https://open.spotify.com/album/2sONdLc1W4vTmlC4MWnAgJ"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215794,
+      "name": "Still Waters Run Deep",
+      "url": "https://open.spotify.com/track/6y9KIUoJxFY4mbYnKLUqAY"
     },
     {
       "album": {
@@ -3360,6 +3480,24 @@
     },
     {
       "album": {
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/6iyYpayZwijzhvTAQfYvue"
+      },
+      "artists": [
+        {
+          "name": "Betraying The Martyrs",
+          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/64q2xOrEX0Vmlmu2ywX4YG"
+    },
+    {
+      "album": {
         "name": "Swan Song (feat. Scott Vogel)",
         "url": "https://open.spotify.com/album/1N8yKGGlqqnduljKTE3JEY"
       },
@@ -3411,7 +3549,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 196696,
       "name": "Tailspin",
       "url": "https://open.spotify.com/track/20LvFcZE98jHaKkXn08GHe"
@@ -3631,7 +3769,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 256965,
       "name": "The Prophet",
       "url": "https://open.spotify.com/track/7hbyBiX9EMUHFwDywq5xbn"
@@ -4115,6 +4253,24 @@
       "duration_ms": 275916,
       "name": "Who's fault?",
       "url": "https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87"
+    },
+    {
+      "album": {
+        "name": "Shine & Fade",
+        "url": "https://open.spotify.com/album/3CBH9X13DU7f7hBwyzLNFB"
+      },
+      "artists": [
+        {
+          "name": "Saviour",
+          "url": "https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/2evEFxMnGDwCK30gpEEpXH"
     },
     {
       "album": {

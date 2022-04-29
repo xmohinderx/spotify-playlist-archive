@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "<a href=\"spotify:genre:edm_dance\">Move</a> your feet!",
+  "description": "Sofi Tukker takes over Dance Party in celebration of their new album WET TENNIS with \"Summer in New York\".",
   "name": "Dance Party",
   "published_playlist_ids": [
     "5z9ZuI1502UpVCeJqJstIk"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 148500,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/4pAxG2OEh4LSNuZFzDRUbN"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 141411,
       "name": "Best Kinda Love",
       "url": "https://open.spotify.com/track/0F3dDjUap1EI7YtAFQ9UZu"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2020-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 174193,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
@@ -1843,7 +1843,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 144761,
       "name": "California Dreamin' (feat. High Jinx) (LP Giobbi Remix)",
       "url": "https://open.spotify.com/track/2AwFU2BnJRlEpjDtu04e6S"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 128639,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b"
@@ -2391,7 +2391,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 196440,
       "name": "Coming Home (feat. Anabel Englund)",
       "url": "https://open.spotify.com/track/6V59f06aj9W103sjzIwIGE"
@@ -2661,6 +2661,28 @@
       "duration_ms": 131001,
       "name": "DALE",
       "url": "https://open.spotify.com/track/4BVn3RIQ4gZxxytx8duidP"
+    },
+    {
+      "album": {
+        "name": "Dame Mas",
+        "url": "https://open.spotify.com/album/0APfj52qXDE1HGaKGhFQJs"
+      },
+      "artists": [
+        {
+          "name": "BadWolf",
+          "url": "https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd"
+        },
+        {
+          "name": "Soff",
+          "url": "https://open.spotify.com/artist/7w1nxdMHMb92psp9qhI9mM"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385586,
+      "name": "Dame Mas",
+      "url": "https://open.spotify.com/track/0JZdzytn0hL7Zzr538YEos"
     },
     {
       "album": {
@@ -3103,7 +3125,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 194523,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
@@ -3413,7 +3435,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 139615,
       "name": "Drag Me Out",
       "url": "https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V"
@@ -3505,7 +3527,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 205161,
       "name": "Drinkee - Vintage Culture & John Summit Remix",
       "url": "https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt"
@@ -3527,7 +3549,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 144761,
       "name": "Driver Seat",
       "url": "https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo"
@@ -3561,6 +3583,28 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
+    },
+    {
+      "album": {
+        "name": "Drop The Pressure",
+        "url": "https://open.spotify.com/album/1TKqMj1Tu9D7GlrD30qPtP"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180990,
+      "name": "Drop The Pressure",
+      "url": "https://open.spotify.com/track/0QZdbOtajbimysXPJDkU3H"
     },
     {
       "album": {
@@ -3699,7 +3743,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
@@ -4044,6 +4088,32 @@
     },
     {
       "album": {
+        "name": "Feel The Vibe",
+        "url": "https://open.spotify.com/album/4jsHIqSscZmgLYIet5ikbm"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Astrotrax",
+          "url": "https://open.spotify.com/artist/0a2I09UQdWzcaUNwdjSjuc"
+        },
+        {
+          "name": "Shola Phillips",
+          "url": "https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185193,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
       },
@@ -4125,7 +4195,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 189910,
       "name": "Fine Lines",
       "url": "https://open.spotify.com/track/4yZFRsi0Jn2Ws7bLeyY67b"
@@ -4331,7 +4401,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
@@ -4409,7 +4479,7 @@
       ],
       "date_added": "2021-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 155826,
       "name": "Forever Love (feat. Viiq)",
       "url": "https://open.spotify.com/track/6bVWGtN2BVH53il4JSFON8"
@@ -4842,6 +4912,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215645,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
+    },
+    {
+      "album": {
         "name": "Generation X",
         "url": "https://open.spotify.com/album/4u6s8STkeVJlEnopQShKd0"
       },
@@ -5007,6 +5095,24 @@
       "duration_ms": 180553,
       "name": "Girls",
       "url": "https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C"
+    },
+    {
+      "album": {
+        "name": "Glass EP",
+        "url": "https://open.spotify.com/album/7aPsFJFWNvRSD4IMCohtUy"
+      },
+      "artists": [
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363750,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/3YWp8LJGYmSqJSLGCYEI7D"
     },
     {
       "album": {
@@ -6356,6 +6462,24 @@
     },
     {
       "album": {
+        "name": "Jaguwawa",
+        "url": "https://open.spotify.com/album/3rV60ADTCBj0XfttpbpmTT"
+      },
+      "artists": [
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179347,
+      "name": "Jaguwawa",
+      "url": "https://open.spotify.com/track/3BP4lwzKXSJNwiPaffklWE"
+    },
+    {
+      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -6473,7 +6597,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 197977,
       "name": "Just Feels Tight",
       "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
@@ -6495,6 +6619,24 @@
       "duration_ms": 197977,
       "name": "Just Feels Tight",
       "url": "https://open.spotify.com/track/4C39WSjsA70cyKCwGsxH8v"
+    },
+    {
+      "album": {
+        "name": "Kakee",
+        "url": "https://open.spotify.com/album/6Zk3RjWeIjiZ6QL9sos8DP"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105413,
+      "name": "Kakee",
+      "url": "https://open.spotify.com/track/7AynhVxHy3bgRCVmxDWjIC"
     },
     {
       "album": {
@@ -6627,7 +6769,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 157619,
       "name": "La Danza",
       "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
@@ -7283,7 +7425,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 190512,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
@@ -7441,7 +7583,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 180487,
       "name": "Love Vibration",
       "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
@@ -7755,7 +7897,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Marching Band",
       "url": "https://open.spotify.com/track/2kpOZP2szJea4TExBH2DJu"
@@ -9340,6 +9482,42 @@
     },
     {
       "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
+    },
+    {
+      "album": {
+        "name": "Otherdisco",
+        "url": "https://open.spotify.com/album/3WeCDuUATWu7T1pQIpoWkF"
+      },
+      "artists": [
+        {
+          "name": "HIGHLITE",
+          "url": "https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362459,
+      "name": "Otherdisco",
+      "url": "https://open.spotify.com/track/2XcqzuUxFftszDDr4FQSlZ"
+    },
+    {
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/6e2w4Ki9ij6579ot9qx6nq"
       },
@@ -9485,7 +9663,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 174677,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY"
@@ -9555,6 +9733,24 @@
       "duration_ms": 131585,
       "name": "Party Starter",
       "url": "https://open.spotify.com/track/0sJ2TnHlej7YZfqMnYj9QW"
+    },
+    {
+      "album": {
+        "name": "Party Starter",
+        "url": "https://open.spotify.com/album/6c0uhRxf7aA6XccEQNYCF8"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Party Starter",
+      "url": "https://open.spotify.com/track/1Cr4BPvz478KxPohfnLuN0"
     },
     {
       "album": {
@@ -10466,6 +10662,28 @@
     },
     {
       "album": {
+        "name": "Rise (feat. Tasita D'Mour)",
+        "url": "https://open.spotify.com/album/6PfePnzCIre7VjRWJutZmV"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Tasita D'Mour",
+          "url": "https://open.spotify.com/artist/27WSf5DApzcZTVhGJLovzk"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193268,
+      "name": "Rise (feat. Tasita D'Mour) - Edit",
+      "url": "https://open.spotify.com/track/5TNuPYV2poVvrORn4zt7ey"
+    },
+    {
+      "album": {
         "name": "Rock with Me EP",
         "url": "https://open.spotify.com/album/5lox8YZi3onZ2PEtXtOMhb"
       },
@@ -11113,7 +11331,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 177745,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y"
@@ -11153,6 +11371,28 @@
       "duration_ms": 184285,
       "name": "Sing It",
       "url": "https://open.spotify.com/track/3g5uTRDCdcUgylKH4wmkTW"
+    },
+    {
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/3GTekC6u6cCRqbJtSzsqdT"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238357,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3LqnR4dZYdZoaVivSIidKH"
     },
     {
       "album": {
@@ -11285,7 +11525,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 164516,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc"
@@ -11522,6 +11762,28 @@
     },
     {
       "album": {
+        "name": "State Of Mind (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/3iNsypqs4GW8EkEe72cPHe"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172431,
+      "name": "State Of Mind (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/2bo8HF4dpbfJrxD6gaW3BJ"
+    },
+    {
+      "album": {
         "name": "Step-Grandma",
         "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
       },
@@ -11665,6 +11927,24 @@
       "duration_ms": 347401,
       "name": "Stress It - Tee's Freeze Mix",
       "url": "https://open.spotify.com/track/2cBq6jVcPxNIvCFUG9Ui1L"
+    },
+    {
+      "album": {
+        "name": "WET TENNIS",
+        "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158549,
+      "name": "Summer In New York",
+      "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
     },
     {
       "album": {
@@ -11970,6 +12250,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/6rOvIunCKf3WHLmN5EwFZo"
+      },
+      "artists": [
+        {
+          "name": "Elektrik Disko",
+          "url": "https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183911,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/0qEW1d0ENwecqiAZTK4Uel"
+    },
+    {
+      "album": {
         "name": "Temptation (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE"
       },
@@ -11985,7 +12283,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 172197,
       "name": "Temptation (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
@@ -12081,7 +12379,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 171796,
       "name": "The Night (feat. Purple Velvet Curtains)",
       "url": "https://open.spotify.com/track/1O5aDl6qjgN80CJJ9JHDgw"
@@ -12501,7 +12799,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 190588,
       "name": "Too Much To Ask",
       "url": "https://open.spotify.com/track/6M0RLlETmRWBLRkuwohvE5"
@@ -12677,6 +12975,24 @@
       "duration_ms": 220560,
       "name": "Turn On the Bass",
       "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
+    },
+    {
+      "album": {
+        "name": "Twisted Voice",
+        "url": "https://open.spotify.com/album/2tUa2iuqhb5oWEx8U406Ht"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402439,
+      "name": "Twisted Voice",
+      "url": "https://open.spotify.com/track/6eCRmIS436mdOdcUJbglWo"
     },
     {
       "album": {
@@ -13703,7 +14019,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 157428,
       "name": "Your Tongue",
       "url": "https://open.spotify.com/track/00WQxluVREF12JZkKWvio4"

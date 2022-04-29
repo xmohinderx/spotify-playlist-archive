@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week\. Cover Kamiyada+
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,191 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,197 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 |
 | 2 | [Hi\-De\-Ho](https://open.spotify.com/track/3GkZwRXM2Dsd8c25qYSmGU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Hi\-De\-Ho](https://open.spotify.com/album/4oAHIlamiKhZ6wg1lXbAdG) | 3:56 |
-| 3 | [Nothing Feels The Same](https://open.spotify.com/track/3zCnua0vS5z5znRZANOdPD) | [Chris Miles](https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Nothing Feels The Same](https://open.spotify.com/album/515rtQrzLwPpwdCTfJdefa) | 2:27 |
+| 3 | [Nothing Feels The Same](https://open.spotify.com/track/3zCnua0vS5z5znRZANOdPD) | [Chris Miles](https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i), [Lil Tracy](https://open.spotify.com/artist/3tC2KRYIZgqJzfNm47eva7) | [Nothing Feels The Same](https://open.spotify.com/album/515rtQrzLwPpwdCTfJdefa) | 2:27 |
 | 4 | [Cigarettes](https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Cigarettes](https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi) | 3:47 |
 | 5 | [Smack a Bitch](https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Smack a Bitch](https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii) | 2:18 |
 | 6 | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS) | 2:10 |

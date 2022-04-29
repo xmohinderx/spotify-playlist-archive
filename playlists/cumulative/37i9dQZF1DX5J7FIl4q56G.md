@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: ONI, Iggy Pop and Randy Blythe
 
-710 songs - 1 day 23 hr 50 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+712 songs - 1 day 23 hr 58 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Blood Spiller](https://open.spotify.com/track/4U0ZkhJ5q8JOFzDhRrCsVI) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Blood Spiller](https://open.spotify.com/album/4INTfLLX0IkZALmFceJKuZ) | 4:01 | 2022-04-29 |  |
 | [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 | 2022-02-11 | 2022-02-25 |
 | [Blooded](https://open.spotify.com/track/7KyNhITXAgyQTGCFN0birL) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 3:15 | 2022-02-17 | 2022-03-04 |
+| [Bloodline](https://open.spotify.com/track/2JFavDC3z5uk0s6TFwt3Q6) | [Awake At Last](https://open.spotify.com/artist/6p8wVHDOljhtAZQWAwIHN8) | [Bloodline](https://open.spotify.com/album/75ylMeGUUhAa8KdnVdjZNy) | 3:49 | 2022-04-29 |  |
 | [Bloody Lip Season](https://open.spotify.com/track/6Ok0DN9RNZpFHDAje2TxCA) | [Violent New Breed](https://open.spotify.com/artist/5xXuSv80rBXURrv2CqOHEj) | [Bloody Lip Season](https://open.spotify.com/album/2c0ysOUJfuHCJUzdztEVF1) | 3:26 | 2022-03-03 | 2022-03-11 |
 | [BOLT TO THE HEAD](https://open.spotify.com/track/5Hv8s5ts2YW4oYF6hTKKB3) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT](https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM) | 2:57 | 2022-04-29 |  |
 | [Boundless Contempt](https://open.spotify.com/track/5b7NSGZp5jgcGSFHYVILR5) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Boundless Contempt](https://open.spotify.com/album/0jraauGZp4PFFUeHVeboKD) | 2:02 | 2022-04-08 |  |
@@ -191,6 +192,7 @@
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-01-07 | 2022-02-04 |
 | [Dirge](https://open.spotify.com/track/4tS7QOYoendjupkCIPQ9Em) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [There Are Things Worse Than Death \- EP](https://open.spotify.com/album/5DXsxOvyvZ9uAdfjpBcU7B) | 3:40 | 2021-12-17 | 2022-01-07 |
 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 | 2021-12-17 | 2022-01-14 |
+| [Divine](https://open.spotify.com/track/6gS9achslm44dxhxsIq574) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [Divine](https://open.spotify.com/album/2TlZ2NSBCKv6oQkFmpbu05) | 3:36 | 2022-04-29 |  |
 | [Dogma](https://open.spotify.com/track/0Bf8wFv1dNuicZgKDVJYke) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Dogma](https://open.spotify.com/album/4VtLbsxzDY62vbjHT4HZjp) | 3:11 | 2021-12-17 | 2022-01-21 |
 | [Don't Look Back](https://open.spotify.com/track/4FBNk8oVjE2ZURNW2856A8) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Don't Look Back](https://open.spotify.com/album/5pqH2TT6VinVvH2FdwGpLC) | 3:04 | 2022-03-11 | 2022-03-25 |
 | [Dread Reaver](https://open.spotify.com/track/5bHxIha3egc798vNma8byH) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Dread Reaver](https://open.spotify.com/album/6R1SslFoSXlsQ8g0VvpN0n) | 4:43 | 2022-02-04 | 2022-02-18 |

@@ -1,13 +1,29 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 61841,
+  "num_followers": 61864,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDA0YTAwMDAwMTgwNGY2ZTI1MzEwMDAwMDE2ZDE1MTg0ZTc2",
+  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDA0YjAwMDAwMTgwNzM3YjkzMjgwMDAwMDE2ZDE1MTg0ZTc2",
   "tracks": [
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 137293,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
+    },
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
@@ -273,22 +289,6 @@
       "url": "https://open.spotify.com/track/6ZfWLg7DPFHjIAYrvIP4LZ"
     },
     {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Olly Olly",
-        "url": "https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 248410,
-      "name": "Innkeepers",
-      "url": "https://open.spotify.com/track/1uFWx7FlhhgmBoTTqGAq8Y"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Confidence",
@@ -303,22 +303,6 @@
       "duration_ms": 155870,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/055h2AsFKK7aSw4hljdgFY"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 259279,
-      "name": "Tin Man",
-      "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -387,22 +371,6 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "A Simple Song",
-      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
         "name": "Find My Faith",
         "url": "https://open.spotify.com/album/2MoBKnJvcU1qyXCo1UWsyj"
       },
@@ -463,26 +431,6 @@
       "duration_ms": 195053,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/6B7zz2H6qdYcQWQg2SLX5y"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Borrowed Heart",
-        "url": "https://open.spotify.com/album/3lpNC3vjXCes2WvGEmfoD3"
-      },
-      "artists": [
-        {
-          "name": "Heather Morgan",
-          "url": "https://open.spotify.com/artist/2oASyTmErmgYx5ueawNzRX"
-        },
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 240852,
-      "name": "Arms of a Lion",
-      "url": "https://open.spotify.com/track/0zvAcSS9nyruBqRHZsbUfJ"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -583,130 +531,6 @@
       "duration_ms": 212013,
       "name": "I Can't (Acoustic)",
       "url": "https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Songs We Wrote on Tuesdays",
-        "url": "https://open.spotify.com/album/1PpOJ157jhp4WRWIVIAcA4"
-      },
-      "artists": [
-        {
-          "name": "Ripp + Rice",
-          "url": "https://open.spotify.com/artist/60islalA9m7zDvmEGoz7Yu"
-        }
-      ],
-      "duration_ms": 107040,
-      "name": "Frontlines",
-      "url": "https://open.spotify.com/track/26G5UCxN0jtGKFETe2QM9m"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Little Warble",
-      "url": "https://open.spotify.com/track/1f7G1LfcxG3eTNqnSLT7Z5"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0eSZDWoQtDYJqkZb0MDJIR"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 170980,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/4PxDI6s8o1oXyGxaOO7AHO"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Plan On You",
-        "url": "https://open.spotify.com/album/4W9M5fDfBHAPbq9ee8VLcW"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 223727,
-      "name": "I Don't Wanna See You Cryin' Anymore",
-      "url": "https://open.spotify.com/track/75GzLKzGuCPSayNucAoSC6"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Interstate Gospel",
-        "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
-      },
-      "artists": [
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Angaleena Presley",
-          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "Milkman",
-      "url": "https://open.spotify.com/track/31s3epLc7WpJvWJZyushyP"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Rosemary & Garlic",
-        "url": "https://open.spotify.com/album/3BZ2g04bJWlE9WmuEs5vf3"
-      },
-      "artists": [
-        {
-          "name": "Rosemary & Garlic",
-          "url": "https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Take This Hand",
-      "url": "https://open.spotify.com/track/11PKwER5M6Rxu04BK7uTst"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Roots And Wings",
-        "url": "https://open.spotify.com/album/6T1P99ZFFcOSBSq9TNeqwi"
-      },
-      "artists": [
-        {
-          "name": "Jessie James Decker",
-          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
-        }
-      ],
-      "duration_ms": 161131,
-      "name": "Roots And Wings",
-      "url": "https://open.spotify.com/track/4dR2hTCSmSJuEJZ6LVdbFM"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -875,22 +699,6 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/4mwUeQptlQ9im6Vdv3QPDu"
-      },
-      "artists": [
-        {
-          "name": "100 mile house",
-          "url": "https://open.spotify.com/artist/5t7Du7mr4SuO68pIFCdCVc"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Pick up Our Boots",
-      "url": "https://open.spotify.com/track/4Smq0MN0zQWg2fjUE54evF"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
         "name": "Puxico",
         "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
@@ -951,22 +759,6 @@
       "duration_ms": 219333,
       "name": "Far Too Good",
       "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Nashville",
-        "url": "https://open.spotify.com/album/1R2wxAT6PhqV8EkE3EejMT"
-      },
-      "artists": [
-        {
-          "name": "Jill and Kate",
-          "url": "https://open.spotify.com/artist/3nOFoJxsyWVGxnFQMqjeH0"
-        }
-      ],
-      "duration_ms": 234069,
-      "name": "Nashville",
-      "url": "https://open.spotify.com/track/54ZN2jpVqqhS8l4Qdc4ncu"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -1103,70 +895,6 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/0aQ29oayqhH1KEspyySPZh"
-      },
-      "artists": [
-        {
-          "name": "Good Old War",
-          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/7aG1xKK3cdvg7JUKaECwJ4"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "The Way I",
-      "url": "https://open.spotify.com/track/1VWjNt0izeh214tH5Ghn1v"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "In the Waiting",
-        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 224410,
-      "name": "History",
-      "url": "https://open.spotify.com/track/17PRPgnKH4flrbnZmgSGzJ"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "'87",
-        "url": "https://open.spotify.com/album/55gCIl2LqtXopTZHUtMqp3"
-      },
-      "artists": [
-        {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        }
-      ],
-      "duration_ms": 258701,
-      "name": "Salvation Bound",
-      "url": "https://open.spotify.com/track/2oiOrBjI5jCAHzxsk94Tne"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
         "name": "Waiting on a Ring",
         "url": "https://open.spotify.com/album/7p6FLb35eS8doM6Ndia7TN"
       },
@@ -1179,22 +907,6 @@
       "duration_ms": 153495,
       "name": "Waiting on a Ring",
       "url": "https://open.spotify.com/track/4U1pG0MZYc9OlPdpBx9Y3U"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "High Romance",
-        "url": "https://open.spotify.com/album/6yPoKNXHpy6filsFCgrLSO"
-      },
-      "artists": [
-        {
-          "name": "Emily Mae Winters",
-          "url": "https://open.spotify.com/artist/32DWWN4wxy82xoUR4gLdsA"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "Take Me In",
-      "url": "https://open.spotify.com/track/3kO1Q0Wnru2byANBQArvLq"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -1259,22 +971,6 @@
       "duration_ms": 198773,
       "name": "Me, My Old Man and Steely Dan",
       "url": "https://open.spotify.com/track/1P522La5BZVnPSLuPwya2M"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "phase of me",
-        "url": "https://open.spotify.com/album/7p7RgglpB7caGq30EHubrm"
-      },
-      "artists": [
-        {
-          "name": "Raleigh Keegan",
-          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
-        }
-      ],
-      "duration_ms": 175728,
-      "name": "phase of me",
-      "url": "https://open.spotify.com/track/7n8W0rzwYi0Z8PW84tqrr7"
     },
     {
       "added_at": "2021-04-19 17:11:28",

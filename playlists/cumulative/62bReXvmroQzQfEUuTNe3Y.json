@@ -4773,6 +4773,28 @@
     {
       "album": {
         "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1fvT2czFpSKSeEYl99ImF9"
+      },
+      "artists": [
+        {
+          "name": "Falden",
+          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
+        },
+        {
+          "name": "Fare",
+          "url": "https://open.spotify.com/artist/1zg4OV4mAjexgjWEtBAd72"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP"
       },
       "artists": [

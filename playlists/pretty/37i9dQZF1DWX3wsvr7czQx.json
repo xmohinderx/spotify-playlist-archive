@@ -1,13 +1,29 @@
 {
   "description": "Icons only. Cover: Van Morrison",
-  "num_followers": 4343,
+  "num_followers": 4349,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDUyMCwwMDAwMDAxNjAwMDAwMTgwMDc1NjA3MTEwMDAwMDE3ZmZlZTVjMTA2",
+  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAxNzAwMDAwMTgwNzM3YjkzMWYwMDAwMDE3ZmZlZTVjMTA2",
   "tracks": [
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "The Man with the Double Face",
+        "url": "https://open.spotify.com/album/2gG0nKiqZvjUrk7TnXgPHd"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 203533,
+      "name": "The Man with the Double Face - Single Edit",
+      "url": "https://open.spotify.com/track/0zjtWbgldOrqHYuVI2Tima"
+    },
     {
       "added_at": "2022-04-08 04:02:00",
       "album": {
@@ -715,22 +731,6 @@
       "duration_ms": 230893,
       "name": "The Buzz",
       "url": "https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Brand New Day",
-        "url": "https://open.spotify.com/album/345VHvecrNrNs7SWlTJqPj"
-      },
-      "artists": [
-        {
-          "name": "Eddie Money",
-          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
-        }
-      ],
-      "duration_ms": 236152,
-      "name": "Brand New Day",
-      "url": "https://open.spotify.com/track/10j6yneyjo8szVHBij2nVm"
     },
     {
       "added_at": "2021-10-22 04:02:00",

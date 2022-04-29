@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Danny Ocean
 
-90 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/4xACWEQcvbn1jztRRt6IeV)
+92 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/4xACWEQcvbn1jztRRt6IeV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dame Tu Amor](https://open.spotify.com/track/1gT4h8bz6nKs39oQ8b2uwB) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Da Capo](https://open.spotify.com/album/5necXB57Rq5a4rtzv9ndqH) | 3:38 | 2021-12-17 |  |
 | [De Sol a Sol](https://open.spotify.com/track/1lnWfKzWMKhBi2ebffe1a2) | [Salserin](https://open.spotify.com/artist/7is4d4FP9QUaV99j5kKDNT) | [Con Mucho Swing](https://open.spotify.com/album/58qFBnsP4nPkf9Kuxixffw) | 4:55 | 2021-12-17 |  |
 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 | 2021-12-17 |  |
+| [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 | 2022-04-29 |  |
 | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/track/6t6VYuRaisYZLynvLhizsF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/album/1zZxxzuPxKHMiQypEx54yx) | 4:13 | 2021-12-17 |  |
 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 | 2021-12-17 |  |
 | [El Farolito](https://open.spotify.com/track/4RIcZ1yQNUV7KmgEFl9XKO) | [Vos Veis](https://open.spotify.com/artist/6o2nLC8Ud7Aegw74dBM6WE) | [Vas](https://open.spotify.com/album/05iwiz6Y9tvN7Sy1azQ0Hf) | 3:19 | 2021-12-17 |  |
@@ -46,7 +47,7 @@
 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 | 2021-12-17 |  |
 | [La Casa en el Aire](https://open.spotify.com/track/0LB6PHCCc7LIm8eBI7P561) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [75 Años](https://open.spotify.com/album/2gaqIIm30oLeue8BaOkpWN) | 4:08 | 2021-12-17 |  |
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2021-12-17 |  |
-| [La Pulga y el Piojo](https://open.spotify.com/track/66NPq7686mbZFY5W2fOVWA) | [Serenata Guayanesa](https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9) | [Sentir de Nuestra Tierra](https://open.spotify.com/album/0HuEGb5JmFcKMSyTp5Uyd6) | 3:33 | 2021-12-17 |  |
+| [La Pulga y el Piojo](https://open.spotify.com/track/66NPq7686mbZFY5W2fOVWA) | [Serenata Guayanesa](https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9) | [Sentir de Nuestra Tierra](https://open.spotify.com/album/0HuEGb5JmFcKMSyTp5Uyd6) | 3:33 | 2021-12-17 | 2022-04-29 |
 | [La Vaca Mariposa \(El Becerrito\)](https://open.spotify.com/track/2W8sdlfr1p6TeWWZCIgcZl) | [Albita](https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [Albita](https://open.spotify.com/album/7Es0fexd4HhbkaVa6xeabv) | 3:59 | 2021-12-17 |  |
 | [Las Caraqueñas](https://open.spotify.com/track/0B5pOLlr0OLEVdE0PBG8pF) | [Guaco](https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot) | [Guaco Es Guaco](https://open.spotify.com/album/4irR3HfqLTMhKNsr42R06c) | 3:53 | 2021-12-17 |  |
 | [Lloraras](https://open.spotify.com/track/5eL30MTm9nm9ftXKAHDDsa) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/0D0gKSIjvf5cz7Pr1B8B0x) | 3:48 | 2021-12-17 |  |
@@ -81,7 +82,8 @@
 | [Te Regalo](https://open.spotify.com/track/3z5sIFdvh6TJNJeBzRrQIE) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Te Regalo](https://open.spotify.com/album/2unJkpyUhicgaOswYDXV0p) | 3:25 | 2021-12-17 |  |
 | [Te Veo](https://open.spotify.com/track/7iG17BHNVVEUr5gIiJX2xX) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Sin Otro Sentido](https://open.spotify.com/album/5TcY3XLRQoEfKOJGeTPbRS) | 3:25 | 2022-04-22 |  |
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2021-12-17 |  |
-| [Tu Guardián \(Versión Remix Merengue\)](https://open.spotify.com/track/2JVXOsPlWQnKYVC4LF29HJ) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [Minutos \(Edición de Oro\)](https://open.spotify.com/album/52UGd9av3ImgY2RaWsthut) | 3:28 | 2021-12-17 |  |
+| [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 | 2022-04-29 |  |
+| [Tu Guardián \(Versión Remix Merengue\)](https://open.spotify.com/track/2JVXOsPlWQnKYVC4LF29HJ) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [Minutos \(Edición de Oro\)](https://open.spotify.com/album/52UGd9av3ImgY2RaWsthut) | 3:28 | 2021-12-17 | 2022-04-29 |
 | [Tu Regalo](https://open.spotify.com/track/4ayQAFdtDo4ff5IAM1O97N) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Tu Regalo](https://open.spotify.com/album/7D6Sfp8lYSKIg5drc6wRfk) | 2:30 | 2021-12-17 |  |
 | [Tumbayé](https://open.spotify.com/track/1ulXmurmUVer1l6AAnBUWl) | [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Tumbayé](https://open.spotify.com/album/2SEO5lyLyOsubXjGCtyfKo) | 3:53 | 2021-12-17 |  |
 | [Tus Ojos](https://open.spotify.com/track/0s4Ii0CKY34yDgppbLxCc2) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [Diveana Exitos \(Tecno Caribe\)](https://open.spotify.com/album/533Fkva8B2RywHUEW9b8Zg) | 4:30 | 2021-12-17 |  |

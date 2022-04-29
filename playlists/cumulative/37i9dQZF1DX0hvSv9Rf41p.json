@@ -1350,6 +1350,24 @@
     },
     {
       "album": {
+        "name": "warning signs EP",
+        "url": "https://open.spotify.com/album/1Gpy5HBgWRPm3oIf2DlETZ"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "falling down",
+      "url": "https://open.spotify.com/track/1IZUM4WQOGO2jWY4FTug4Y"
+    },
+    {
+      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/2uBXFc1imj9UxZYp6fCMv0"
       },
@@ -2333,6 +2351,28 @@
       "duration_ms": 165600,
       "name": "L1FE",
       "url": "https://open.spotify.com/track/6gVb7bhSZ2oxpI9tavohjZ"
+    },
+    {
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
+      },
+      "artists": [
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228371,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
     },
     {
       "album": {
@@ -3417,6 +3457,24 @@
       "duration_ms": 254834,
       "name": "POTIONS",
       "url": "https://open.spotify.com/track/1PTbEooTqwpzCPvbx9zJWr"
+    },
+    {
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
+      },
+      "artists": [
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "album": {

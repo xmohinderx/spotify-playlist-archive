@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-298 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+300 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 | 2022-03-21 |  |
 | [Bhabi](https://open.spotify.com/track/3EAVty65Aq2boaV6O2vj5I) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:30 | 2022-02-03 | 2022-04-29 |
 | [Bhabi](https://open.spotify.com/track/3RRvzCenxnnrZwmZ3MiGkP) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Bhabi](https://open.spotify.com/album/2aB58jJjLQB1xJLcaeq6Jj) | 2:35 | 2021-12-02 |  |
+| [Block Karke](https://open.spotify.com/track/2jYA2lPITq8Bxp58RI6knS) | [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Block Karke](https://open.spotify.com/album/0I52P9Iw0B9sVWfalheFdV) | 3:49 | 2022-04-29 |  |
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 |  |
 | [Bukkal](https://open.spotify.com/track/5ZRTDkvPc1Q1D7sxmwnsEp) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Bukkal](https://open.spotify.com/album/3ANx1ZC6qutcukvvgrywbj) | 3:51 | 2022-02-03 | 2022-02-12 |
 | [Chabbi](https://open.spotify.com/track/2uRrLcVJCgARzYxWL24AbF) | [Rico](https://open.spotify.com/artist/3JrGyrmqkOo417urhPrMcf), [Hiba Nawab](https://open.spotify.com/artist/3wLLlwlj3xeFBHnGG8QV2k) | [Chabbi](https://open.spotify.com/album/0V3JwNUon6yzdrDn3zsgLY) | 4:31 | 2022-02-07 | 2022-02-12 |
@@ -206,6 +207,7 @@
 | [Promise](https://open.spotify.com/track/4430hRYol9QcrOb12rq6D2) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Promise](https://open.spotify.com/album/1VL8DknivNInwr03xcjHfg) | 2:45 | 2022-02-11 | 2022-04-06 |
 | [PROPOSE](https://open.spotify.com/track/4dGszjKyLhzqdZR07FK4m0) | [Ajam Khan](https://open.spotify.com/artist/19VOmXDeorD7vTiW3cQLNW), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [PROPOSE](https://open.spotify.com/album/2zwsiN6jZADJ76BX9X28ZL) | 2:54 | 2022-02-02 | 2022-03-11 |
 | [Punjabiyan Di Dhee](https://open.spotify.com/track/541oF6e3e6P38aDIqQXxU7) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Punjabiyan Di Dhee](https://open.spotify.com/album/4Yv4GvvKhIyH9n83vczEdz) | 3:13 | 2022-03-03 | 2022-04-29 |
+| [Push K Dekhi](https://open.spotify.com/track/0y1DEvhc5BVrGwaRJxDUOP) | [KB Jatt](https://open.spotify.com/artist/06Dzu1H3Ny8F7gHJt5TkKJ) | [Push K Dekhi](https://open.spotify.com/album/4FwbqDE4VU746zF8eXtDdh) | 2:29 | 2022-04-29 |  |
 | [Qaid](https://open.spotify.com/track/6FVA4ByYR7Pr5DZu1BVX8H) | [Sony Dhaliwal](https://open.spotify.com/artist/6FD9Ilq8AMNw9TBttNxDTw) | [Qaid](https://open.spotify.com/album/0FtNpPcLUE9clSDX4XOEW6) | 2:24 | 2022-02-04 | 2022-02-12 |
 | [Queen](https://open.spotify.com/track/4xgtIHxjxYP33N4KBiTQay) | [Tera Sahib](https://open.spotify.com/artist/0r5sAOkjWfAbTbev99azaS) | [Queen](https://open.spotify.com/album/4FOXrgqdNcFI4AgxmyZVoC) | 2:51 | 2022-01-27 | 2022-02-01 |
 | [Raah](https://open.spotify.com/track/06SSvSFz7Bu1WXVw42M9lN) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 3:33 | 2022-02-17 | 2022-04-29 |

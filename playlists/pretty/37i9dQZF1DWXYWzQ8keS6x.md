@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain]
 
 > 🚂  É o trem do Poze com o melhor do Trap desse ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,467 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,672 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eu Fiz o Jogo Virar](https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Eu Fiz o Jogo Virar](https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5) | 2:25 |
-| 2 | [Freio da Blazer](https://open.spotify.com/track/6m187iACTSAZDYMaV0klqj) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [AJAXX](https://open.spotify.com/artist/5fpixKj241AwsrBqPra0Us) | [Freio da Blazer](https://open.spotify.com/album/7kbClkdK7jjoTIDAJmb1Pb) | 3:00 |
+| 2 | [Freio da Blazer](https://open.spotify.com/track/6m187iACTSAZDYMaV0klqj) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Freio da Blazer](https://open.spotify.com/album/7kbClkdK7jjoTIDAJmb1Pb) | 3:00 |
 | 3 | [M4](https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [M4](https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3) | 2:50 |
 | 4 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 |
 | 5 | [Rei Lacoste](https://open.spotify.com/track/1jwEnLN5hMOwotwXfchUaf) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 |

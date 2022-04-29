@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 209386,
       "name": "Every Single Night",
       "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 201706,
       "name": "My Egyptian Grammar",
       "url": "https://open.spotify.com/track/2Ak3Seew0GuwIsJSqd5mMF"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "Nothing To Be Done",
       "url": "https://open.spotify.com/track/4vReegUzNPc2t06jJKgieU"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 209360,
       "name": "Our Love Is Heavenly",
       "url": "https://open.spotify.com/track/67E6xudQQih5tBluVfWjoW"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 261253,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
@@ -1604,6 +1604,24 @@
     },
     {
       "album": {
+        "name": "Backwash",
+        "url": "https://open.spotify.com/album/2ueoAKPeDZ77tfddhJ2taP"
+      },
+      "artists": [
+        {
+          "name": "Talulah Gosh",
+          "url": "https://open.spotify.com/artist/3twRxnjZrSKByPGQErO6V8"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "Talulah Gosh",
+      "url": "https://open.spotify.com/track/2KFV3XLXVNuIaHWdwQkVVD"
+    },
+    {
+      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 217986,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"

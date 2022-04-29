@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 305986,
       "name": "Alphaman Redemption (feat. Ang\u00e9lique Kidjo)",
       "url": "https://open.spotify.com/track/4jGl7gpSXzO1CkZVH0g8Wm"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 229626,
       "name": "Born Under Punches",
       "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
@@ -303,6 +303,28 @@
       "duration_ms": 134693,
       "name": "Ces Petits Riens",
       "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
+    },
+    {
+      "album": {
+        "name": "Choose Love (Synematik Remix)",
+        "url": "https://open.spotify.com/album/1aV8lZKPSOe8REki2GDnk3"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Synematik",
+          "url": "https://open.spotify.com/artist/35WTtFW3bwCshTiZUd8k5H"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Choose Love - Synematik Remix",
+      "url": "https://open.spotify.com/track/1mn0Gp5CoKtlsMCEc89QDQ"
     },
     {
       "album": {
@@ -583,7 +605,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 201369,
       "name": "La Vida Es Un Carnaval - Bomba Estereo Remix",
       "url": "https://open.spotify.com/track/1gp1yn0h8hQWgrJq4Kgiu5"
@@ -601,7 +623,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 361546,
       "name": "Listening Wind",
       "url": "https://open.spotify.com/track/2vh0Wy3Jvyy3vy6X9S4FgU"
@@ -869,7 +891,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 193013,
       "name": "Move On Up",
       "url": "https://open.spotify.com/track/58zamIGFUxfTBboAaSlnXt"
@@ -891,7 +913,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 228640,
       "name": "Mycelium",
       "url": "https://open.spotify.com/track/6maTtCz6fwZGY6QTBXXsvv"
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 172880,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/55dFmFmGpUIAIM41VeGgAw"
@@ -1195,7 +1217,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 184146,
       "name": "Seen and Not Seen",
       "url": "https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93"
@@ -1613,6 +1635,24 @@
       "duration_ms": 222626,
       "name": "Yaki Yaki",
       "url": "https://open.spotify.com/track/5TJIFSsCxzigJUqomAfd4B"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97266,
+      "name": "Yemaya",
+      "url": "https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUSS8"

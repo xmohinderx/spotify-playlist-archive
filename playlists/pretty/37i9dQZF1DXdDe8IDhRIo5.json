@@ -1,40 +1,48 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 255797,
+  "num_followers": 255830,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAzMjAwMDAwMTgwNGY2ZTI1MmYwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAzMzAwMDAwMTgwNzM3YjkzMWEwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
     {
-      "added_at": "2022-04-22 04:01:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Minor Swing",
-        "url": "https://open.spotify.com/album/3QSDADTCiVpjnAZ8okKBHM"
+        "name": "Guitar Heroes (Live)",
+        "url": "https://open.spotify.com/album/4H7BOHlMGdztgjlYGbSdUA"
       },
       "artists": [
         {
-          "name": "Gustav Lundgren",
-          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+          "name": "Joscho Stephan",
+          "url": "https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG"
         },
         {
-          "name": "French Connection",
-          "url": "https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze"
-        },
-        {
-          "name": "R\u00e9mi Oswald",
-          "url": "https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v"
-        },
-        {
-          "name": "\u00c9douard Pennes",
-          "url": "https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2"
+          "name": "Stochelo Rosenberg",
+          "url": "https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Minor Swing",
-      "url": "https://open.spotify.com/track/2aMelYeJahQsjd6SmUOwQv"
+      "duration_ms": 298792,
+      "name": "In a Sentimental Mood - Clair de Lune - Live",
+      "url": "https://open.spotify.com/track/27Y8vTDLEBmOBqCN6VLXx7"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Bekledim de gelmedin",
+        "url": "https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "duration_ms": 162511,
+      "name": "Bekledim de gelmedin",
+      "url": "https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3"
     },
     {
       "added_at": "2021-05-25 23:58:49",
@@ -439,6 +447,34 @@
       "duration_ms": 154693,
       "name": "Ranger Swing",
       "url": "https://open.spotify.com/track/61bNf4P5rvoOMNTw16QIg8"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Minor Swing",
+        "url": "https://open.spotify.com/album/3QSDADTCiVpjnAZ8okKBHM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "French Connection",
+          "url": "https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze"
+        },
+        {
+          "name": "R\u00e9mi Oswald",
+          "url": "https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v"
+        },
+        {
+          "name": "\u00c9douard Pennes",
+          "url": "https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Minor Swing",
+      "url": "https://open.spotify.com/track/2aMelYeJahQsjd6SmUOwQv"
     },
     {
       "added_at": "2021-02-04 20:47:19",

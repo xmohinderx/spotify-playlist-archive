@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Scene Queen
 
-199 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+200 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [FAIR GAME](https://open.spotify.com/track/0xcEqifa3OUHuM49wOdTRP) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [FAIR GAME](https://open.spotify.com/album/30CZtMCeKytiLQ0J6XfYmY) | 2:46 | 2021-12-27 | 2022-02-18 |
 | [fall apart \(with glaive\)](https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:36 | 2022-04-19 | 2022-04-29 |
 | [FAMOUS](https://open.spotify.com/track/530V51I8suvq6qTwaQZLse) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [FAMOUS](https://open.spotify.com/album/2sRQ8crrfsVL0s3wwU5JBu) | 2:57 | 2021-12-27 | 2022-01-19 |
+| [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-04-29 |  |
 | [Fat Lip](https://open.spotify.com/track/4KY5HkCPZKa57sCZZk8yiG) | [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB), [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Fat Lip](https://open.spotify.com/album/1PJrYQWFtxTgNRuWiMOhWJ) | 1:57 | 2022-04-19 | 2022-04-29 |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2022-04-19 |  |
 | [flesh](https://open.spotify.com/track/1BAIlAqftLfHlpvhfgVwrm) | [babychaos](https://open.spotify.com/artist/5sW5suu6saLZkj0anZtZyg) | [flesh](https://open.spotify.com/album/11RxEPz4jDAJZGaHkJ9z6K) | 2:53 | 2022-04-14 |  |

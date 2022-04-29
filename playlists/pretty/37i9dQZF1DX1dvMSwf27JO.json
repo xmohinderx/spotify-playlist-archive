@@ -1,12 +1,12 @@
 {
   "description": "and why aren't you in uniform?",
-  "num_followers": 424743,
+  "num_followers": 425116,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTE3MjEyNSwwMDAwMDA4MzAwMDAwMTgwNzE4NzJjYWEwMDAwMDE4MDJlOWQ2NjYx",
+  "snapshot_id": "MTY1MTI0NTQxNSwwMDAwMDA4NTAwMDAwMTgwNzVlNTdiMDkwMDAwMDE4MDJlOWQ2NjYx",
   "tracks": [
     {
       "added_at": "2022-04-15 19:05:24",
@@ -209,10 +209,10 @@
       "url": "https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c"
     },
     {
-      "added_at": "2022-01-04 16:21:50",
+      "added_at": "2022-04-29 15:16:55",
       "album": {
-        "name": "I Feel Fantastic",
-        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
+        "name": "Better Late Than Forever",
+        "url": "https://open.spotify.com/album/2vnU9Lr07iRAOH6mgLZLpE"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 146938,
-      "name": "I Feel Fantastic",
-      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
+      "duration_ms": 151019,
+      "name": "God Save The Girl",
+      "url": "https://open.spotify.com/track/5MeYG4DHfyGIpOKr9rMWWr"
     },
     {
       "added_at": "2021-08-05 18:08:26",
@@ -287,6 +287,26 @@
       "duration_ms": 515865,
       "name": "WILSHIRE",
       "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"
+    },
+    {
+      "added_at": "2022-04-29 06:47:00",
+      "album": {
+        "name": "Dog Food (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
     },
     {
       "added_at": "2021-11-19 18:43:35",
@@ -479,6 +499,22 @@
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK"
+    },
+    {
+      "added_at": "2022-01-04 16:21:50",
+      "album": {
+        "name": "I Feel Fantastic",
+        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I Feel Fantastic",
+      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
     },
     {
       "added_at": "2022-02-16 19:19:33",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-624 songs - 1 day 8 hr 42 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+625 songs - 1 day 8 hr 46 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [HERE \(For Christmas\)](https://open.spotify.com/track/13S94fbOuw2M66UchaCz2k) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [HERE \(For Christmas\)](https://open.spotify.com/album/0i2Nwoa1gnjMmD6s6TLPiT) | 4:00 | 2021-12-09 | 2021-12-27 |
 | [HERE \(For Christmas\)](https://open.spotify.com/track/1Cth2nNUYYfCiSoIei6rCi) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [HERE \(For Christmas\)](https://open.spotify.com/album/1a8Dr6FUUhI7Z6dqSxS8hA) | 4:00 | 2021-11-28 | 2021-12-09 |
 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-14 |
+| [Hey Ho \(feat\. Hedegaard\)](https://open.spotify.com/track/4CTIEUKezwBHWLsJsZjDw1) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Hey Ho \(feat\. Hedegaard\)](https://open.spotify.com/album/0YDzSlf2GwXJ0FdzugxSvf) | 3:15 | 2022-04-29 |  |
 | [Hey Mor](https://open.spotify.com/track/0WWgeQQ4sklycJK1lR6fmB) | [Joey Moe](https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc) | [Vintertid](https://open.spotify.com/album/7Mxhdn7huwlRomQPuh0hFH) | 3:07 | 2021-11-30 | 2021-12-27 |
 | [High Fashion](https://open.spotify.com/track/5igXllDtxviBlTGn4cawA5) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:16 | 2022-02-19 | 2022-03-12 |
 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 | 2022-01-01 | 2022-01-03 |
@@ -517,7 +518,7 @@
 | [SIRI](https://open.spotify.com/track/2YBJNTMuSCQKnjEBd52K6L) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:19 | 2021-09-25 | 2021-10-11 |
 | [Sjov Sommer](https://open.spotify.com/track/4wrH1xWnH9UnGiodScaoCo) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Sjov Sommer](https://open.spotify.com/album/7ptAM4rLjJV8QSIbWNjxID) | 2:50 | 2022-03-26 | 2022-04-03 |
 | [Slikhår](https://open.spotify.com/track/7aGe2uih8NqQWclFqoqmr9) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [Slikhår](https://open.spotify.com/album/3CWV9pisjF5UjDWAskQKxf) | 2:58 | 2021-08-29 | 2021-08-31 |
-| [Smil Ik' Cry \(Gobs X ICEKIID\)](https://open.spotify.com/track/4fwBQlHrJUYOuSFa1JfBiZ) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INTET TIL ALT \(DELUXE\)](https://open.spotify.com/album/6VlGt1WawD05ZTd5coZIrO) | 2:16 | 2022-04-16 |  |
+| [Smil Ik' Cry \(Gobs X ICEKIID\)](https://open.spotify.com/track/4fwBQlHrJUYOuSFa1JfBiZ) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INTET TIL ALT \(DELUXE\)](https://open.spotify.com/album/6VlGt1WawD05ZTd5coZIrO) | 2:16 | 2022-04-16 | 2022-04-29 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-11 | 2021-11-14 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2022-01-01 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-07 | 2021-12-29 |

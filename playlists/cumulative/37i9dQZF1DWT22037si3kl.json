@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: DNASTY",
+  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Mc Caverinha",
   "name": "O Drip",
   "published_playlist_ids": [
     "5jkslhwBFHauhbdOEgkwD4"
@@ -266,6 +266,32 @@
     },
     {
       "album": {
+        "name": "Correntes",
+        "url": "https://open.spotify.com/album/2Qi1osttb0zvJ1XO6okb36"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Giganthe",
+          "url": "https://open.spotify.com/artist/1zChRFlMhgA4MLX0xUPSXg"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138152,
+      "name": "Correntes",
+      "url": "https://open.spotify.com/track/29UaXzUCzgejIzvHFruvT0"
+    },
+    {
+      "album": {
         "name": "Corte do Jaca",
         "url": "https://open.spotify.com/album/6ZQNfwK2DagQENxZhXkuOj"
       },
@@ -281,6 +307,32 @@
       "duration_ms": 152812,
       "name": "Corte do Jaca",
       "url": "https://open.spotify.com/track/2a2GuHAYjmIVAPVaG9Nh7u"
+    },
+    {
+      "album": {
+        "name": "De Prada Ela Vem",
+        "url": "https://open.spotify.com/album/6q6VnNRAAxP5QoDSIpBesC"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "D-Hit",
+          "url": "https://open.spotify.com/artist/3HafNAvjrNfvn98PwEeRNS"
+        },
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202904,
+      "name": "De Prada Ela Vem",
+      "url": "https://open.spotify.com/track/522JNK97AaLL60dfJNYoNg"
     },
     {
       "album": {
@@ -406,6 +458,32 @@
     },
     {
       "album": {
+        "name": "Filho do Dono",
+        "url": "https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Filho do Dono",
+      "url": "https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz"
+    },
+    {
+      "album": {
         "name": "Floresta",
         "url": "https://open.spotify.com/album/7B2MTtskGVr8xqTvbRujX7"
       },
@@ -429,7 +507,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 233690,
       "name": "Floresta",
       "url": "https://open.spotify.com/track/6QZ0zburgCjBTtGiXzCM5U"
@@ -921,10 +999,40 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 141769,
       "name": "Malvad\u00e3o 3",
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
+    },
+    {
+      "album": {
+        "name": "Mans\u00e3o da Nadamal",
+        "url": "https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Mans\u00e3o da Nadamal",
+      "url": "https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3"
     },
     {
       "album": {
@@ -965,7 +1073,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 183478,
       "name": "Nascido Pra Ser Rei",
       "url": "https://open.spotify.com/track/4ToiWhiO0NHjhaBjFz4JDf"
@@ -1009,6 +1117,24 @@
       "duration_ms": 131370,
       "name": "Nike Bolha",
       "url": "https://open.spotify.com/track/4ZUZ08cPAVeWBVBFjT61Gh"
+    },
+    {
+      "album": {
+        "name": "O Preto Mais Caro",
+        "url": "https://open.spotify.com/album/5x9DU6PjiS9LK3NNYykjd8"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144277,
+      "name": "O Preto Mais Caro",
+      "url": "https://open.spotify.com/track/1k8SAvpNdgv5jbCuPjPm82"
     },
     {
       "album": {
@@ -1129,7 +1255,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 251000,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/3iGRHR2keH35e9WoxOWmZu"
@@ -1243,7 +1369,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 254224,
       "name": "PISANDO FOFO",
       "url": "https://open.spotify.com/track/5piCfoJLleAaccELaQHGbz"
@@ -1501,7 +1627,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 164026,
       "name": "S\u00f3 Bal\u00e3o",
       "url": "https://open.spotify.com/track/3MxIW82KQ6ESXsfPS012ps"
@@ -1561,6 +1687,44 @@
       "duration_ms": 152380,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs"
+    },
+    {
+      "album": {
+        "name": "TRAJADA DE FENDI",
+        "url": "https://open.spotify.com/album/3WuNxVH8Nyx4bqSdS44nDn"
+      },
+      "artists": [
+        {
+          "name": "Racovi Oficial",
+          "url": "https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Jhowzin",
+          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
+        },
+        {
+          "name": "DJ BUNE",
+          "url": "https://open.spotify.com/artist/0cFkPerD9Of1QRBSyOx6cR"
+        },
+        {
+          "name": "KENNEDYBEATZ",
+          "url": "https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC"
+        },
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "TRAJADA DE FENDI",
+      "url": "https://open.spotify.com/track/6oqW1xRqb93qyxaazMq6uT"
     },
     {
       "album": {

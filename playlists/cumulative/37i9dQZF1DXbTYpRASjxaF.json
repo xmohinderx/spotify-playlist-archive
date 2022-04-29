@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Veigh, Kyan",
+  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Menor MC, MC Kekel, DJ Matt D, Mc negrone",
   "name": "Cop\u00e3o na m\u00e3o",
   "published_playlist_ids": [
     "7yBgPzkrKCeqBbpF8RHyZV"
@@ -268,6 +268,36 @@
     },
     {
       "album": {
+        "name": "Bail\u00e3o de Rua",
+        "url": "https://open.spotify.com/album/7INcnrBvW6zlRiNyHMh24O"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Mc negrone",
+          "url": "https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Bail\u00e3o de Rua",
+      "url": "https://open.spotify.com/track/6YOawICLQ4tfYfUEtaNCxa"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
       },
@@ -291,6 +321,40 @@
       "duration_ms": 276480,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
+    },
+    {
+      "album": {
+        "name": "Cavalona",
+        "url": "https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc"
+      },
+      "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Cavalona",
+      "url": "https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO"
     },
     {
       "album": {
@@ -411,7 +475,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 197996,
       "name": "De Verdade",
       "url": "https://open.spotify.com/track/0VZVlc6HgGCf2RbCVJVQlw"
@@ -444,6 +508,28 @@
     },
     {
       "album": {
+        "name": "Dia de Baile (feat. Kawe)",
+        "url": "https://open.spotify.com/album/6EZrWTVj6STAQLLq5uvlWl"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165966,
+      "name": "Dia de Baile (feat. Kawe)",
+      "url": "https://open.spotify.com/track/5A3fbFbtzKrc0xamh6b0yb"
+    },
+    {
+      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/0jX2g1c0pQOlQbEaKe1TR6"
       },
@@ -459,7 +545,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 134778,
       "name": "Double Cup",
       "url": "https://open.spotify.com/track/0dhgi3YzxKhna7AnQDEou7"
@@ -653,7 +739,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 155905,
       "name": "Inveja e Orgulho",
       "url": "https://open.spotify.com/track/5SsOpUGRqygQkt9hpq8tl8"
@@ -1493,10 +1579,36 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 162000,
       "name": "Talarica",
       "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
+    },
+    {
+      "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/46onHWvbIkATKhSuIMDgEO"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Andinho",
+          "url": "https://open.spotify.com/artist/1ujaPqbo8IauHsZZSPS06f"
+        },
+        {
+          "name": "Thomaz",
+          "url": "https://open.spotify.com/artist/2Y9JJi5tsqEFAzr1NY9Mag"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/3ByQx79Fhy7TV6MP5HeG1L"
     },
     {
       "album": {
@@ -1545,6 +1657,28 @@
       "duration_ms": 155675,
       "name": "Vida Louca",
       "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
+    },
+    {
+      "album": {
+        "name": "VideoChamada (Facetime)",
+        "url": "https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "VideoChamada (Facetime)",
+      "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
     },
     {
       "album": {
@@ -1627,10 +1761,40 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 224000,
       "name": "Vou Parar de Tomar Gin 2",
       "url": "https://open.spotify.com/track/0tW642uinRMdXhCBdH2h1m"
+    },
+    {
+      "album": {
+        "name": "Vulgo Malvad\u00e3o",
+        "url": "https://open.spotify.com/album/3MHEN4JOVTOOEFUGXunPnd"
+      },
+      "artists": [
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        },
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Vulgo Malvad\u00e3o",
+      "url": "https://open.spotify.com/track/0bq6BwMFuwpaLxEZ9iZtf9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Marilina Bertoldi",
+  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Babas\u00f3nicos",
   "name": "Nuevo Rock Latino",
   "published_playlist_ids": [
     "0l9Wh8w43fBjYdr4AnAill"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 256971,
       "name": "Coraz\u00f3n de Lava",
       "url": "https://open.spotify.com/track/6UowyibhCgLMU42K6DOEIM"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 255880,
       "name": "Fiesta en lo del Dr. Hermes",
       "url": "https://open.spotify.com/track/4KVP6bybvdVxIVg7dcbE8F"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 258651,
       "name": "La Otra Ciudad",
       "url": "https://open.spotify.com/track/7isif6McdOOOtdcOsmQI8g"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 284451,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX"
@@ -1146,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Mi Barco",
+        "url": "https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210005,
+      "name": "Mi Barco",
+      "url": "https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL"
+    },
+    {
+      "album": {
         "name": "Mientras Duermes",
         "url": "https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3"
       },
@@ -1223,6 +1241,24 @@
       "duration_ms": 224172,
       "name": "No Es Mi Culpa Que Seas Mala",
       "url": "https://open.spotify.com/track/05SAS1uGeZxnCeDlQ09CfZ"
+    },
+    {
+      "album": {
+        "name": "No Olvidamos",
+        "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274991,
+      "name": "No Olvidamos",
+      "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
     },
     {
       "album": {
@@ -1387,6 +1423,24 @@
       "duration_ms": 225013,
       "name": "Pac\u00edfico",
       "url": "https://open.spotify.com/track/3sWRqa2e9xAiM2xEfXVDlm"
+    },
+    {
+      "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179024,
+      "name": "Paradoja",
+      "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
     },
     {
       "album": {
@@ -1897,6 +1951,24 @@
       "duration_ms": 143769,
       "name": "T\u00e9 para Tres",
       "url": "https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda C\u00f3mo Hoy",
+        "url": "https://open.spotify.com/album/01SzUo0Zb1Xsa4mLOhnIXl"
+      },
+      "artists": [
+        {
+          "name": "Bonus Trak",
+          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Un D\u00eda C\u00f3mo Hoy",
+      "url": "https://open.spotify.com/track/5BbV0srUESAQv3hFIWGdPM"
     },
     {
       "album": {

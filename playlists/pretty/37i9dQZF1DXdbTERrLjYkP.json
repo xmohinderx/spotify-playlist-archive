@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lindsey Lomis",
-  "num_followers": 57908,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Addison Grace",
+  "num_followers": 58040,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDA1MDAwMDAwMTgwNGY2ZDNiMDEwMDAwMDE4MDQzYzU5NWI2",
+  "snapshot_id": "MTY1MTIwNDgwMCwwMDAwMDA1MTAwMDAwMTgwNzM3OWJlOTMwMDAwMDE4MDcxNTM4NTdm",
   "tracks": [
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Getting Used To",
+        "url": "https://open.spotify.com/album/5wnt2FQ51s2p5jnqHIXNOg"
+      },
+      "artists": [
+        {
+          "name": "Addison Grace",
+          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+        }
+      ],
+      "duration_ms": 171317,
+      "name": "Getting Used To",
+      "url": "https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul"
+    },
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/3fVNNTKNNZr7qkoxk6frOL"
     },
     {
-      "added_at": "2022-04-22 04:00:00",
+      "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "the girl next door",
-        "url": "https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP"
+        "name": "self sabotage",
+        "url": "https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85"
       },
       "artists": [
         {
-          "name": "Blessing",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
         }
       ],
-      "duration_ms": 157333,
-      "name": "rage",
-      "url": "https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt"
+      "duration_ms": 220173,
+      "name": "self sabotage",
+      "url": "https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -59,18 +75,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Love Like That (Words from Her)",
-        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
+        "name": "the girl next door",
+        "url": "https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP"
       },
       "artists": [
         {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+          "name": "Blessing",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
         }
       ],
-      "duration_ms": 174489,
-      "name": "Love Like That (Words from Her)",
-      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
+      "duration_ms": 157333,
+      "name": "rage",
+      "url": "https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -87,6 +103,22 @@
       "duration_ms": 144666,
       "name": "WYD Now?",
       "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Love Like That (Words from Her)",
+        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 174489,
+      "name": "Love Like That (Words from Her)",
+      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -135,6 +167,22 @@
       "duration_ms": 199733,
       "name": "I Wanna Be a Boy",
       "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "DECLINED",
+        "url": "https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "duration_ms": 256250,
+      "name": "DECLINED",
+      "url": "https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1161,22 +1209,6 @@
       "url": "https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "mona lisa",
-        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 190052,
-      "name": "mona lisa",
-      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "If It's Not Forever",
@@ -1191,282 +1223,6 @@
       "duration_ms": 189548,
       "name": "Tropical Sour Candy",
       "url": "https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "All My Friends Keep Dying From Drugs (Stripped with Strings)",
-        "url": "https://open.spotify.com/album/6l0VcWuYddnzsxSxkUr3ny"
-      },
-      "artists": [
-        {
-          "name": "Cami Petyn",
-          "url": "https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39"
-        },
-        {
-          "name": "Pan d\u00f6 Bar\u00e9",
-          "url": "https://open.spotify.com/artist/2Oo18f5jnoGHTWHyW5rOGW"
-        }
-      ],
-      "duration_ms": 213650,
-      "name": "All My Friends Keep Dying From Drugs - Stripped with Strings",
-      "url": "https://open.spotify.com/track/3jjF0DlkgN3VzgSYVRmAzM"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Stop Calling Me",
-        "url": "https://open.spotify.com/album/5ZL2OsV6QmPssO89A4Y9VF"
-      },
-      "artists": [
-        {
-          "name": "Brent Morgan",
-          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "Stop Calling Me",
-      "url": "https://open.spotify.com/track/3nHMOsEXr1iUnLKVORxLvW"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Almost to the Moon",
-        "url": "https://open.spotify.com/album/0K4PS1zDoFxTZQCLevcawo"
-      },
-      "artists": [
-        {
-          "name": "Daisy Gray",
-          "url": "https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th"
-        }
-      ],
-      "duration_ms": 192355,
-      "name": "Almost to the Moon",
-      "url": "https://open.spotify.com/track/4ZKHMa4ePLnwYmT08LVqkM"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Happier Without Me",
-      "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Pretty People",
-        "url": "https://open.spotify.com/album/7l4VSlWK9D63JLHECO69u5"
-      },
-      "artists": [
-        {
-          "name": "Sophie Pecora",
-          "url": "https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB"
-        }
-      ],
-      "duration_ms": 150365,
-      "name": "Pretty People",
-      "url": "https://open.spotify.com/track/3mnmpbrInwnPja7LYlc1Ks"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "bedroom walls",
-        "url": "https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8"
-      },
-      "artists": [
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
-        }
-      ],
-      "duration_ms": 370973,
-      "name": "open arms",
-      "url": "https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Makes Me Sick",
-        "url": "https://open.spotify.com/album/2eS6hfchrO12pXPSvH5YDy"
-      },
-      "artists": [
-        {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
-        }
-      ],
-      "duration_ms": 144557,
-      "name": "Makes Me Sick",
-      "url": "https://open.spotify.com/track/2gCIv3pJkzfX4kRj6wnIAS"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "can't hate you yet",
-        "url": "https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP"
-      },
-      "artists": [
-        {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
-        }
-      ],
-      "duration_ms": 202623,
-      "name": "can't hate you yet",
-      "url": "https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/5wSFHnE20dPUeOVE9AGx6w"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 220656,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/7zF3Vmh0KRdw4lSRZtXCuP"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "If It's Not You",
-        "url": "https://open.spotify.com/album/5E8CU9zmc0U9Bw1QGm9oOk"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 191989,
-      "name": "If It's Not You",
-      "url": "https://open.spotify.com/track/45DsipA4OgPmKUvwz2ctEH"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Terrified",
-        "url": "https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2"
-      },
-      "artists": [
-        {
-          "name": "Brynn Elliott",
-          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
-        }
-      ],
-      "duration_ms": 145361,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv"
-    },
-    {
-      "added_at": "2022-01-28 05:15:10",
-      "album": {
-        "name": "The Way It Was Before",
-        "url": "https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Stimson",
-          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "The Way It Was Before",
-      "url": "https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Come Close",
-        "url": "https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 179796,
-      "name": "Come Close",
-      "url": "https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "favorite crime",
-      "url": "https://open.spotify.com/track/61W7tEpxEfmizp6V5ZRN10"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Call Me A Dreamer",
-        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 228798,
-      "name": "Call Me A Dreamer",
-      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Are You Happy Now?",
-        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 161088,
-      "name": "Starting To Get To You",
-      "url": "https://open.spotify.com/track/2p0UvLVpANua6yrhrDNTcM"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

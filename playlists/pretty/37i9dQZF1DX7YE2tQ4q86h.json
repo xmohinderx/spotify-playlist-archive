@@ -1,13 +1,45 @@
 {
-  "description": "No sleep, bus, club, another club. Like this? You'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Charli XCX",
-  "num_followers": 12396,
+  "description": "No sleep, bus, club, another club. Like this? You'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Madison Rose",
+  "num_followers": 12484,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDg2MTE4NiwwMDAwMDAyMzAwMDAwMTgwNWVmZTllNmMwMDAwMDE4MDRmNzQ5Mzlh",
+  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAyNDAwMDAwMTgwNzM3YWE4ZDcwMDAwMDE4MDcyMTdjYzRk",
   "tracks": [
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Technicolor",
+        "url": "https://open.spotify.com/album/31Obu5QSvQgbdm6B5puiCc"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 197014,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/2nwOerYhdIBIxXqZZsk33g"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
@@ -23,22 +55,6 @@
       "duration_ms": 145840,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
-    },
-    {
-      "added_at": "2022-04-25 04:33:06",
-      "album": {
-        "name": "I Hate People (Willow Pill)",
-        "url": "https://open.spotify.com/album/3PpaCJae6ubbL8gKGa5fre"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 14",
-          "url": "https://open.spotify.com/artist/1rHLf5OwIQWxToS6Q4Kx1V"
-        }
-      ],
-      "duration_ms": 71750,
-      "name": "I Hate People (Willow Pill)",
-      "url": "https://open.spotify.com/track/5PbCpQEQnc7xXBv5aoN2Tl"
     },
     {
       "added_at": "2022-03-25 05:00:00",
@@ -61,6 +77,94 @@
       "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"
     },
     {
+      "added_at": "2022-04-25 04:33:06",
+      "album": {
+        "name": "I Hate People (Willow Pill)",
+        "url": "https://open.spotify.com/album/3PpaCJae6ubbL8gKGa5fre"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 14",
+          "url": "https://open.spotify.com/artist/1rHLf5OwIQWxToS6Q4Kx1V"
+        }
+      ],
+      "duration_ms": 71750,
+      "name": "I Hate People (Willow Pill)",
+      "url": "https://open.spotify.com/track/5PbCpQEQnc7xXBv5aoN2Tl"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173255,
+      "name": "I'd Rather Have Sex",
+      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o"
+    },
+    {
+      "added_at": "2022-02-15 15:40:26",
+      "album": {
+        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Ancient Dreams In A Modern Land",
+      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
+    },
+    {
+      "added_at": "2022-04-01 10:49:18",
+      "album": {
+        "name": "Big Energy (feat. DJ Khaled) [Remix]",
+        "url": "https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 181665,
+      "name": "Big Energy (feat. DJ Khaled) - Remix",
+      "url": "https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP"
+    },
+    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "Follow Me",
@@ -81,36 +185,20 @@
       "url": "https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk"
     },
     {
-      "added_at": "2022-02-15 15:40:26",
+      "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
+        "name": "Treat Me Right",
+        "url": "https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Ancient Dreams In A Modern Land",
-      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173255,
-      "name": "I'd Rather Have Sex",
-      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
+      "duration_ms": 240000,
+      "name": "Kiss Me Right Now",
+      "url": "https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -145,44 +233,20 @@
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
+      "added_at": "2022-02-15 15:40:26",
       "album": {
-        "name": "You Don't Really Wanna",
-        "url": "https://open.spotify.com/album/4PjKjGtm0lTEHrbQpRmXER"
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/3HbUBiBpAWBzQlVej5s73c"
       },
       "artists": [
         {
-          "name": "CuteBad",
-          "url": "https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 127653,
-      "name": "You Don't Really Wanna",
-      "url": "https://open.spotify.com/track/0QtR4FagFVAyZaTATVmwE5"
-    },
-    {
-      "added_at": "2022-04-01 10:49:18",
-      "album": {
-        "name": "Big Energy (feat. DJ Khaled) [Remix]",
-        "url": "https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Big Energy (feat. DJ Khaled) - Remix",
-      "url": "https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP"
+      "duration_ms": 147410,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5wXpoS2j5VYb7V3nK66xDe"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -201,20 +265,40 @@
       "url": "https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
+      "added_at": "2022-04-08 13:43:43",
       "album": {
-        "name": "Dance Forever",
-        "url": "https://open.spotify.com/album/20MjX7BdygnjgtQSSUKdqG"
+        "name": "Bang Bang (feat. Donna Missal)",
+        "url": "https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C"
       },
       "artists": [
         {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
         }
       ],
-      "duration_ms": 212957,
-      "name": "Dance Forever",
-      "url": "https://open.spotify.com/track/5YdI0PKFDkrVyjzH6OFmXA"
+      "duration_ms": 188308,
+      "name": "Bang Bang (feat. Donna Missal)",
+      "url": "https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "You Don't Really Wanna",
+        "url": "https://open.spotify.com/album/4PjKjGtm0lTEHrbQpRmXER"
+      },
+      "artists": [
+        {
+          "name": "CuteBad",
+          "url": "https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP"
+        }
+      ],
+      "duration_ms": 127653,
+      "name": "You Don't Really Wanna",
+      "url": "https://open.spotify.com/track/0QtR4FagFVAyZaTATVmwE5"
     },
     {
       "added_at": "2022-03-25 05:00:00",
@@ -253,6 +337,22 @@
       "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
     },
     {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Pre-Madonna",
+        "url": "https://open.spotify.com/album/6QhCqLrj6v9BAMkTJ2mGLt"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Pre-Madonna",
+      "url": "https://open.spotify.com/track/7HEVw1CmTyeCvB1RjpVf1i"
+    },
+    {
       "added_at": "2022-04-22 04:00:00",
       "album": {
         "name": "blah blah blah",
@@ -289,26 +389,6 @@
       "url": "https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD"
     },
     {
-      "added_at": "2022-04-08 13:43:43",
-      "album": {
-        "name": "Bang Bang (feat. Donna Missal)",
-        "url": "https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Donna Missal",
-          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
-        }
-      ],
-      "duration_ms": 188308,
-      "name": "Bang Bang (feat. Donna Missal)",
-      "url": "https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "My Love (Dave Glass Animals Remix)",
@@ -343,6 +423,22 @@
       "duration_ms": 237320,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/4aguR8nLIlmF6WCOlCArhT"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "out of the blue",
+        "url": "https://open.spotify.com/album/6VLrTNSKuqzfcmvr53ABh6"
+      },
+      "artists": [
+        {
+          "name": "Courtney Govan",
+          "url": "https://open.spotify.com/artist/2kG6IPsHwVJ1fR3txhSpKq"
+        }
+      ],
+      "duration_ms": 149754,
+      "name": "out of the blue",
+      "url": "https://open.spotify.com/track/3BoHfjuu9WBbQZ6dCd0CY7"
     },
     {
       "added_at": "2022-02-15 15:40:26",
@@ -561,22 +657,6 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "Treat Me Right",
-        "url": "https://open.spotify.com/album/03hafzXxELqD67fD1siVhS"
-      },
-      "artists": [
-        {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Treat Me Right",
-      "url": "https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "New Moon",
@@ -707,22 +787,6 @@
       "duration_ms": 193731,
       "name": "Hot Crush Lover",
       "url": "https://open.spotify.com/track/0J0ba8kZZw6r4SItlHKGlU"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/4VKCiFy5sziSZJkpBfhN1f"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 200558,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/3MY1eRB3cQ3GBomJtXpPNL"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -877,22 +941,6 @@
       "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "The Woman I Am",
-        "url": "https://open.spotify.com/album/6IfyuK6IvSfgwa39nFTg9S"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "The Woman I Am",
-      "url": "https://open.spotify.com/track/1TGgecSsU9hwzNoiTb3yAO"
-    },
-    {
       "added_at": "2022-02-15 15:40:26",
       "album": {
         "name": "Coconuts",
@@ -971,22 +1019,6 @@
       "duration_ms": 241163,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Anything But Me",
-        "url": "https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1203,22 +1235,6 @@
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Superstitious",
-        "url": "https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H"
-      },
-      "artists": [
-        {
-          "name": "Alissic",
-          "url": "https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u"
-        }
-      ],
-      "duration_ms": 187116,
-      "name": "Superstitious",
-      "url": "https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP"
     },
     {
       "added_at": "2022-02-15 15:40:26",
@@ -1703,22 +1719,6 @@
       "duration_ms": 223946,
       "name": "I Love You But I Love Me More",
       "url": "https://open.spotify.com/track/351FDCXLTRFLiSdKz8lY0j"
-    },
-    {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/3HbUBiBpAWBzQlVej5s73c"
-      },
-      "artists": [
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 147410,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5wXpoS2j5VYb7V3nK66xDe"
     },
     {
       "added_at": "2022-02-15 15:40:26",

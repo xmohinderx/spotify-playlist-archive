@@ -147,7 +147,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 212368,
       "name": "All Over Again - Edit",
       "url": "https://open.spotify.com/track/2yGJDfOKuFlEDxqJGUOT62"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 197419,
       "name": "Bayside - Radio Edit",
       "url": "https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Belter",
       "url": "https://open.spotify.com/track/4fDbMAFdycT0hhb3WlaDPs"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 279586,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/6HfooVSTxGJAMSl2KMrmCV"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 199073,
       "name": "Deep In Your Heart",
       "url": "https://open.spotify.com/track/3MLG4eqsR2pL1fcxOltH4W"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS"
@@ -837,6 +837,24 @@
       "duration_ms": 188918,
       "name": "First Time",
       "url": "https://open.spotify.com/track/25Mf35cnnFalpVNFp0g3hW"
+    },
+    {
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/4QC9zFbjafJ8MtPj7m2b6e"
+      },
+      "artists": [
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/1qeSZD2hBkOqwD9e5jcTYa"
     },
     {
       "album": {
@@ -881,7 +899,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 189849,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 295413,
       "name": "Frisky (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 206250,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/3VSxz7unMI9GsJOaie9R2w"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 148329,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs"
@@ -1755,7 +1773,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 285375,
       "name": "Marea (We\u2019ve Lost Dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 212773,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/3uRIGDDdT4tztwsOSLmjZg"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "Playing Games",
       "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 183753,
       "name": "Pony (Jump On It) - Radio Mix",
       "url": "https://open.spotify.com/track/6SDi6HUaibLqc85XjIxZFN"
@@ -2121,7 +2139,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 198750,
       "name": "Pulling Me Back",
       "url": "https://open.spotify.com/track/0Xj09B2hxhOOmzKrfy4bjA"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 242160,
       "name": "Re-Rewind (feat. Craig David)",
       "url": "https://open.spotify.com/track/0VqSg7nsmUNJKHZYufNZFo"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 172940,
       "name": "Repeat After Me (feat. Melissa Steel)",
       "url": "https://open.spotify.com/track/3t2Cyq3GntNxnffzRRlCLp"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 187379,
       "name": "Rover (feat. DTG) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5RkiqAv3ypObR8rinqRtnA"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 220645,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/1UohCjO8pinVHaIYsLRY82"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 204133,
       "name": "Sambuca - Original Mix (Radio Edit) [feat. Dennis G]",
       "url": "https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h"
@@ -2340,6 +2358,28 @@
     },
     {
       "album": {
+        "name": "Skanker",
+        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227189,
+      "name": "Skanker",
+      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
       },
@@ -2373,7 +2413,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 214203,
       "name": "Strike a Pose (feat. Aitch)",
       "url": "https://open.spotify.com/track/23GvTfcGK454ppLsts3W44"
@@ -2479,7 +2519,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 158197,
       "name": "Tear It Up",
       "url": "https://open.spotify.com/track/5m9AmJ3DLVZaS7VhfoTOAF"
@@ -2651,7 +2691,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 208483,
       "name": "Vibranium",
       "url": "https://open.spotify.com/track/3i3zj8jTAHkr3b1dSR6SOU"
@@ -2933,7 +2973,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"

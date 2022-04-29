@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist
 
-144 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
+146 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-03-08 | 2022-03-09 |
 | [Hide & Seek](https://open.spotify.com/track/6EDz39y5ILQfCt1E3vNg3n) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Alpha House / Hide & Seek](https://open.spotify.com/album/6ptUXOnSBYwWPbRM0x4f9f) | 3:51 | 2022-02-25 | 2022-03-04 |
 | [Hold It Down](https://open.spotify.com/track/3IjlT2JvAXQSl4l3DwnHlg) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Hold It Down](https://open.spotify.com/album/4b4GechkOz1R2G78aeBQLX) | 2:13 | 2022-04-07 |  |
+| [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-29 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-02-25 | 2022-03-11 |
 | [Hunger Games](https://open.spotify.com/track/5mKDYPIxZmFge680VUiRFt) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu), [Swifta Beater](https://open.spotify.com/artist/5wfMJ2PgaKgroRIcXB5Ck6) | [Connecting Flights](https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv) | 2:59 | 2022-03-11 | 2022-04-01 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-03-08 | 2022-03-09 |
@@ -140,6 +141,7 @@
 | [Touch It](https://open.spotify.com/track/6ZU3kPUCpqETe0QIk1Q4ut) | [Raheaven](https://open.spotify.com/artist/4lXm6ZMmiF65lvSDAqQvY6), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Touch It](https://open.spotify.com/album/6BUl45A09APYJdNtgZmZRV) | 3:08 | 2022-03-08 | 2022-03-09 |
 | [Trust Nobody](https://open.spotify.com/track/7ceXCl3ndsTFrH60P1c0io) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:15 | 2022-03-08 | 2022-03-09 |
 | [Typa Way](https://open.spotify.com/track/277OKlE8bKSaWghuEBz7U7) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc) | [Typa Way](https://open.spotify.com/album/1v8obs02a28Pv1b6Mbjnir) | 3:50 | 2022-03-11 |  |
+| [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-29 |  |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-02-25 | 2022-04-08 |
 | [War](https://open.spotify.com/track/49KTdYsWNtkvOslTpgZuM1) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [War](https://open.spotify.com/album/6rWrQmCAsrocRq5HL2dqgU) | 2:46 | 2022-02-25 | 2022-03-18 |
 | [Warzone \(feat\. Headie One\)](https://open.spotify.com/track/0IJM1hkBCOibW2TJcLJTtf) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Warzone](https://open.spotify.com/album/5eqTka1OOCY7pYK9kZLhdy) | 3:32 | 2022-02-25 | 2022-03-25 |

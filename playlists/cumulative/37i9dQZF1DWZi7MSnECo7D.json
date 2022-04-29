@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Gab Ferreira",
+  "description": "Novidades e destaques do indie nacional. Foto: Otto",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 116180,
       "name": "Antes de Me Deixar",
       "url": "https://open.spotify.com/track/3HklnFAPRcIPQJcTEZ3VBs"
@@ -305,6 +305,28 @@
       "duration_ms": 166241,
       "name": "Avi\u00f5es",
       "url": "https://open.spotify.com/track/3743IvJexIgIZCUk2zc1Kc"
+    },
+    {
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/2FFM0AsTpvCC5Q6jLxAG3n"
+      },
+      "artists": [
+        {
+          "name": "Mariana Cavanellas",
+          "url": "https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL"
+        },
+        {
+          "name": "Faew",
+          "url": "https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161742,
+      "name": "Beat",
+      "url": "https://open.spotify.com/track/2D5qQa9nFYKwax9V7LNUBH"
     },
     {
       "album": {
@@ -689,7 +711,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 237813,
       "name": "Cor de Jasmim",
       "url": "https://open.spotify.com/track/5MHkzuEStgdB11uH0rFnyC"
@@ -725,7 +747,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 178461,
       "name": "Costura",
       "url": "https://open.spotify.com/track/2dQ8R8tf0v6QNofVh18oAX"
@@ -765,6 +787,24 @@
       "duration_ms": 217628,
       "name": "C\u00f3smico",
       "url": "https://open.spotify.com/track/4hIBfMhwc5s9e0WJd5hEOo"
+    },
+    {
+      "album": {
+        "name": "Canicule Sauvage",
+        "url": "https://open.spotify.com/album/3mJT2eEgCOvLYpilkrR2Bl"
+      },
+      "artists": [
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227318,
+      "name": "Decidez",
+      "url": "https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20"
     },
     {
       "album": {
@@ -873,7 +913,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 166800,
       "name": "D\u00f3id\u00f3id\u00f3i",
       "url": "https://open.spotify.com/track/4oSVbS2wVr62tRypCHHiQY"
@@ -1109,7 +1149,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 147972,
       "name": "Falando S\u00e9rio",
       "url": "https://open.spotify.com/track/6oQiksehsvL3A50lhrKBNL"
@@ -1970,6 +2010,24 @@
     },
     {
       "album": {
+        "name": "Papel de Trouxa",
+        "url": "https://open.spotify.com/album/2OJJzGSCChmfibUiV7oWz0"
+      },
+      "artists": [
+        {
+          "name": "Ador\u00e1vel Clich\u00ea",
+          "url": "https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196886,
+      "name": "Papel de Trouxa",
+      "url": "https://open.spotify.com/track/3eIopS2sNEht311iFdvOZf"
+    },
+    {
+      "album": {
         "name": "Pequeninim",
         "url": "https://open.spotify.com/album/5SLWgHjyzk2xrSz1OdJt0M"
       },
@@ -2122,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "Projeto Psiquiatria",
+        "url": "https://open.spotify.com/album/5r4sReyehHwEXuTM5wJQJ5"
+      },
+      "artists": [
+        {
+          "name": "Do Amor",
+          "url": "https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156134,
+      "name": "Projeto Psiquiatria",
+      "url": "https://open.spotify.com/track/2Z5oPMEQgBdfj1tLS8HIp5"
+    },
+    {
+      "album": {
         "name": "Um Novo Caminho",
         "url": "https://open.spotify.com/album/1xYId2qIZVZ3EnGLp88BCN"
       },
@@ -2155,6 +2231,24 @@
       "duration_ms": 256625,
       "name": "p\u00e9 na areia",
       "url": "https://open.spotify.com/track/2n2NLaRHgCUNIK6vQIyVEu"
+    },
+    {
+      "album": {
+        "name": "Quartas",
+        "url": "https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1"
+      },
+      "artists": [
+        {
+          "name": "Saskia",
+          "url": "https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235337,
+      "name": "Quarta Obra",
+      "url": "https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb"
     },
     {
       "album": {
@@ -2743,7 +2837,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 247880,
       "name": "toda vez",
       "url": "https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX"
@@ -2863,6 +2957,24 @@
       "duration_ms": 187187,
       "name": "Um Milh\u00e3o de Coisas",
       "url": "https://open.spotify.com/track/0nRiU5YRgqDMqueJIKc3PS"
+    },
+    {
+      "album": {
+        "name": "Uma Grande Saudade Boba",
+        "url": "https://open.spotify.com/album/4kEgbijNbP9KRKww5xNcjN"
+      },
+      "artists": [
+        {
+          "name": "Bordo\u00e1",
+          "url": "https://open.spotify.com/artist/1iAW1QQLoyyWN2yrcWt4ct"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197378,
+      "name": "Uma Grande Saudade Boba",
+      "url": "https://open.spotify.com/track/1E2VQwCR0BndVnisLn8Frg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A fun mix of acoustic covers.
 
-209 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
+210 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/158cW9xy5JPL1l9mfdTuSI) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/album/7vntpiKkI45NgUgjdAxeAY) | 4:14 | 2021-11-12 |  |
 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 | 2021-11-12 |  |
 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 | 2021-11-12 |  |
-| [Cherry Wine](https://open.spotify.com/track/3EJaUuGn4gtGa7u0vswTGv) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Cherry Wine](https://open.spotify.com/album/4YksSqrl0x1dKKNrZLMk7j) | 4:06 | 2021-11-12 |  |
+| [Cherry Wine](https://open.spotify.com/track/3EJaUuGn4gtGa7u0vswTGv) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Cherry Wine](https://open.spotify.com/album/4YksSqrl0x1dKKNrZLMk7j) | 4:06 | 2021-11-12 | 2022-04-29 |
 | [Chocolate](https://open.spotify.com/track/36T0S78B1be6F4tAUlJWpJ) | [Moonroof](https://open.spotify.com/artist/6HO599GtzYWMF4BsvwB1E6) | [Chocolate](https://open.spotify.com/album/6qHfbQoSUzGri0HBQnLuRv) | 4:12 | 2021-11-12 | 2022-01-06 |
 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 | 2021-11-12 |  |
 | [City of Stars](https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City of Stars](https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU) | 2:34 | 2021-11-12 |  |
@@ -117,6 +117,7 @@
 | [July \- Bedroom Session](https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [July \(Bedroom Session\)](https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7) | 3:30 | 2021-11-12 |  |
 | [Jumper \- Acoustic](https://open.spotify.com/track/6rkrbJ7Ltdl7QnJFpSTw4F) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Jumper \(Acoustic\)](https://open.spotify.com/album/3KGecYEYv5uOMSaPU8hbvQ) | 3:04 | 2021-11-12 |  |
 | [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-11-12 |  |
+| [just like heaven](https://open.spotify.com/track/11xjDJ7i9BLd1AYMedwJQK) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [just like heaven](https://open.spotify.com/album/0RbMCFvFu5OW5trV4Ga7m8) | 3:24 | 2022-04-29 |  |
 | [Just the Two of Us \(feat\. Sxip Shirey\)](https://open.spotify.com/track/0b8ApkdViUi5kINTkngEbn) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Sxip Shirey](https://open.spotify.com/artist/6jnaG9e4rUwREjJq4HCFff) | [Just the Two of Us \(feat\. Sxip Shirey\)](https://open.spotify.com/album/5XpoHGze4knmT8SZ85l9dH) | 5:06 | 2021-11-12 |  |
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2021-11-12 |  |
 | [Landslide](https://open.spotify.com/track/2AhqPhQ4E1r9v2i2TfJHR0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Hollow Hum](https://open.spotify.com/artist/6NQ43mtSf2OvGJ02QZC8E6) | [Why Worry: A Collection of Covers](https://open.spotify.com/album/2XB49bxOGV2L6tz6vkwRjT) | 4:05 | 2021-11-12 |  |

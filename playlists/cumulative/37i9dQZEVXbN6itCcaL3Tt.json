@@ -2151,6 +2151,10 @@
           "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
         },
         {
+          "name": "FRNKIE",
+          "url": "https://open.spotify.com/artist/6gVw7sj444868peBFpH0O4"
+        },
+        {
           "name": "Farid Bang",
           "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
         }
@@ -2885,7 +2889,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 263657,
       "name": "Czes\u0142awa",
       "url": "https://open.spotify.com/track/5utNNz5JA37nMWDZu4io6l"
@@ -6042,6 +6046,24 @@
     },
     {
       "album": {
+        "name": "KOKAINA",
+        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
+      },
+      "artists": [
+        {
+          "name": "DR. VODKA",
+          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166437,
+      "name": "KOKAINA",
+      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
+    },
+    {
+      "album": {
         "name": "DRAMAT.",
         "url": "https://open.spotify.com/album/1Ygk47YphDLdNZiB2FfVgi"
       },
@@ -6943,7 +6965,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 128421,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l"
@@ -10730,6 +10752,24 @@
     },
     {
       "album": {
+        "name": "Rok Tygrysa",
+        "url": "https://open.spotify.com/album/12Th0Bm8VWEzH0WAJl91mv"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140968,
+      "name": "Rok Tygrysa",
+      "url": "https://open.spotify.com/track/26l97lmrC7PPNInBw9THPU"
+    },
+    {
+      "album": {
         "name": "Rozmazana kreska",
         "url": "https://open.spotify.com/album/7D4ioBCIfM9YsIIWLDw7zX"
       },
@@ -12725,7 +12765,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -13517,7 +13557,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 223200,
       "name": "ZEMSTA",
       "url": "https://open.spotify.com/track/1gQNlRpdJsa7fHjRHKAQZz"

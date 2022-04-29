@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 326314,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 168373,
       "name": "Alle snakker sant",
       "url": "https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 221093,
       "name": "Big Bad Good",
       "url": "https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 219647,
       "name": "Ghosts in Our Hearts",
       "url": "https://open.spotify.com/track/0jMWzegQgiVuGrIJT6oh5a"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 218070,
       "name": "I Wanna Be Sedated (feat. Mirel Wagner)",
       "url": "https://open.spotify.com/track/2Cr9TOmo36WLtDfKwKofdA"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 211413,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/7gRiW3eFoQWUNe5h7ggGHt"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 169413,
       "name": "Kings and Aces",
       "url": "https://open.spotify.com/track/00FjPtTqy9JtPsjwVJMRxw"
@@ -1085,10 +1085,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 263080,
       "name": "Most Of The Time",
       "url": "https://open.spotify.com/track/0l2InC8mdtw15OskL9a7id"
+    },
+    {
+      "album": {
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263080,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
     },
     {
       "album": {
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 180072,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/2RlEWLRTsXedPq1fzc6cO1"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 224179,
       "name": "October",
       "url": "https://open.spotify.com/track/2iaTly1zrG9ioUJqd8nsaj"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 149491,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0oabsZs7Z8lsKGpaKyyjG2"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 241120,
       "name": "Signals",
       "url": "https://open.spotify.com/track/5WWL4PVYEgeYQ7QdtT5hIM"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 324138,
       "name": "Siren",
       "url": "https://open.spotify.com/track/7KvtfHiJ6Egxz27DYaOO59"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 317053,
       "name": "Sj\u00e5aren",
       "url": "https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 293640,
       "name": "Solfager og Ormekongen",
       "url": "https://open.spotify.com/track/72xkiSQyAbHlaGHBYrlwLI"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 285786,
       "name": "Solringen - First Flight of the White Raven LIVE",
       "url": "https://open.spotify.com/track/0fIy0hd1teqHnUZyt0o7os"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 184533,
       "name": "Sunny Road",
       "url": "https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 227760,
       "name": "The Ghost In Your Smile",
       "url": "https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 314062,
       "name": "Vegvisir",
       "url": "https://open.spotify.com/track/11uFxNr49ZWoEDJvupsRQx"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI"
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 207120,
       "name": "While I Was Asleep",
       "url": "https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 200613,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"

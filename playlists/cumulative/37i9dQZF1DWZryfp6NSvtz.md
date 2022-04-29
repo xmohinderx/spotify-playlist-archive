@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Bloc Party
 
-902 songs - 2 day 3 hr 51 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+903 songs - 2 day 3 hr 54 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Defeating Gravity](https://open.spotify.com/track/2tWY9liu4YQs4WM3hOLdnP) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Defeating Gravity](https://open.spotify.com/album/3ScSXOlja6qwDv2Knrkd2c) | 3:06 | 2022-04-22 | 2022-04-29 |
 | [Deja Vu](https://open.spotify.com/track/6w6sfHBkqDW9S1LqjEoddH) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Deja Vu](https://open.spotify.com/album/6zwzsD6kKE47Inn3FPEasA) | 3:03 | 2022-03-18 | 2022-03-25 |
 | [Delia Smith](https://open.spotify.com/track/740y38LGyr6gNETQSlKRoW) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [A Modern Job EP](https://open.spotify.com/album/0IZwGu5IVwpP4b6aCDs3zp) | 3:39 | 2022-03-10 | 2022-03-18 |
-| [Deliver Me](https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Deliver Me](https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN) | 3:46 | 2022-04-28 |  |
+| [Deliver Me](https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Deliver Me](https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN) | 3:46 | 2022-04-28 | 2022-04-29 |
 | [Demon](https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Demon](https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R) | 2:45 | 2022-04-28 |  |
 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2022-01-13 | 2022-01-21 |
 | [Devastatingly Mediocre](https://open.spotify.com/track/2WkOcuI6MDChQqqofsuXsz) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [Devastatingly Mediocre](https://open.spotify.com/album/7u6UOPEucyKu1J6mTofC7F) | 3:02 | 2022-02-17 | 2022-02-25 |
@@ -730,7 +730,7 @@
 | [Suffocate](https://open.spotify.com/track/530wk2tz33m2Rrsp7pdBB7) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Suffocate](https://open.spotify.com/album/0uZVH3RsHVBgSkvURev7D0) | 3:18 | 2022-02-17 | 2022-02-25 |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-03-31 | 2022-04-08 |
 | [Supernova](https://open.spotify.com/track/4qZSCfYTF2sJ2wiuQXYLHO) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Staircase Music](https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt) | 3:21 | 2022-02-17 | 2022-02-25 |
-| [Supersonic](https://open.spotify.com/track/5IdRBAQlDov4TXVCUd2gct) | [Deaf Radio](https://open.spotify.com/artist/4fT0EFqj2Pifg9v6loy7Rd) | [Supesonic](https://open.spotify.com/album/0cxiI2TJmIy6UUQlTU4WVF) | 3:27 | 2022-04-28 |  |
+| [Supersonic](https://open.spotify.com/track/5IdRBAQlDov4TXVCUd2gct) | [Deaf Radio](https://open.spotify.com/artist/4fT0EFqj2Pifg9v6loy7Rd) | [Supersonic](https://open.spotify.com/album/0cxiI2TJmIy6UUQlTU4WVF) | 3:27 | 2022-04-28 |  |
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-10 | 2022-03-18 |
 | [Suzanne I'm Sorry](https://open.spotify.com/track/3OaDypHdUva35aDd78MJgW) | [Thom Southern](https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ) | [PLAZA](https://open.spotify.com/album/4EbDg69lCpFA9ks8xF9J8C) | 3:28 | 2022-02-10 | 2022-02-25 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-10 | 2022-03-18 |
@@ -858,6 +858,7 @@
 | [We Rise \- Single Edit](https://open.spotify.com/track/71rHV4UxgfdSYQjLARo2Bz) | [The Gathering](https://open.spotify.com/artist/2kO6zjt4a1OIqxOERhliEX) | [We Rise](https://open.spotify.com/album/2IjKqHnKFUNnCiNGhcOKbn) | 5:10 | 2022-02-10 | 2022-02-25 |
 | [Weight of the World](https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Weight of the World](https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr) | 3:12 | 2021-12-16 | 2022-01-07 |
 | [Weird Me Out](https://open.spotify.com/track/16JtOGA9bfCzrRPRez8Ccx) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Weird Me Out](https://open.spotify.com/album/1gdRstfLMupRNTv4fVNzyN) | 3:01 | 2022-03-03 | 2022-03-11 |
+| [What a Heart Is For](https://open.spotify.com/track/18xVzYlFYM20dK5OP6E35n) | [Smile](https://open.spotify.com/artist/3eJqABrN5Xq65jILXl6wl9) | [What a Heart Is For](https://open.spotify.com/album/7wyItDSY7RXNIsbnoJhqyD) | 3:18 | 2022-04-29 |  |
 | [What A Memorable Night](https://open.spotify.com/track/2k6m3RpKsAJJfRJZ1jqoTk) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [What A Memorable Night](https://open.spotify.com/album/3Ez2o1q5xtJcN77qVOE7L6) | 2:51 | 2022-02-10 | 2022-02-25 |
 | [What I Lack](https://open.spotify.com/track/5boKAm5Fjb5BOAhxTOAZ2f) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [What I Lack](https://open.spotify.com/album/3J8AyspRCEm1wS1VivDNgz) | 2:58 | 2022-02-17 | 2022-02-25 |
 | [What I Need](https://open.spotify.com/track/2TOHod1atH4OnIzRXFzJcj) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [What I Need](https://open.spotify.com/album/7kVsYCntjMB2IY71M5hdWN) | 4:04 | 2022-02-03 | 2022-02-11 |

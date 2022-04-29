@@ -5990,6 +5990,24 @@
     },
     {
       "album": {
+        "name": "warioteque",
+        "url": "https://open.spotify.com/album/350vqRapqLcHUGHgysI8p3"
+      },
+      "artists": [
+        {
+          "name": "divmod",
+          "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "warioteque",
+      "url": "https://open.spotify.com/track/2h1bBKsJfigAAF0KX5ApbL"
+    },
+    {
+      "album": {
         "name": "Outer Reach",
         "url": "https://open.spotify.com/album/4BBmF0RdAI0FfocivaNtGC"
       },

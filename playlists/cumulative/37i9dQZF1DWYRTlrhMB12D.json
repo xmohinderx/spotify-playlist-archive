@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 238266,
       "name": "Aaj Phir Jeene Ki Tamanna Hai",
       "url": "https://open.spotify.com/track/2DG0ccrVYIh3qk3ske5jTz"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 251414,
       "name": "Aaja Piya Tohe Pyar Doon (From \"Baharon Ke Sapne\")",
       "url": "https://open.spotify.com/track/7HCQpQGrg2FJT9mdBs75rm"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 296080,
       "name": "Aao Na Gale Lag Jao Na",
       "url": "https://open.spotify.com/track/0CYPWCzses6SznboW6cxbM"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 234893,
       "name": "Aap Ki Nazron Ne Samjha",
       "url": "https://open.spotify.com/track/11IpCZVWahQVaRNoNX5WbF"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 319626,
       "name": "Are Yaar Meri Tum Bhi Ho Ghazab",
       "url": "https://open.spotify.com/track/5FO1zavDG1mokYqXAxc1Br"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 250493,
       "name": "Chhod Do Aanchal Zamana Kya Kahega",
       "url": "https://open.spotify.com/track/4wR89WBeEi0nda0JWcB8sT"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 205078,
       "name": "Dhanno Ki Aankhon Mein",
       "url": "https://open.spotify.com/track/03RgN9BWo84z7CES4k406l"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 370026,
       "name": "Dil Cheez Kya Hai",
       "url": "https://open.spotify.com/track/3BERM98uzP2orrHk96PPvS"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 207293,
       "name": "Dil Tadap Tadap Ke Kah Raha",
       "url": "https://open.spotify.com/track/3BhrEWJmIt4lgE5CHKc5cN"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 206893,
       "name": "Ehsan Tera Hoga Mujh Par",
       "url": "https://open.spotify.com/track/7nNDC2XCZG9ei1DskgQ72r"
@@ -846,6 +846,24 @@
     },
     {
       "album": {
+        "name": "Barsaat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188560,
+      "name": "Hawa Mein Udta Jaye",
+      "url": "https://open.spotify.com/track/4CHMgTLE7B1zGUGzi7k5yG"
+    },
+    {
+      "album": {
         "name": "Awaara",
         "url": "https://open.spotify.com/album/4FBRxpP3WLREdA32HyScFm"
       },
@@ -857,7 +875,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 219733,
       "name": "Hum Tum Se Mohabbat Karke - Hanste Bhi Rahe",
       "url": "https://open.spotify.com/track/3dWaN2oB9WvL4P3TLWZZGN"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 290400,
       "name": "Isharon Isharon Men Dil Lenewale",
       "url": "https://open.spotify.com/track/1xNN6c8eW8Mm9uz9nVqln9"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 200240,
       "name": "Jaata Kahanhai Diwane",
       "url": "https://open.spotify.com/track/5nWMAyvfVkvu7TOtVhGLqM"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 197106,
       "name": "Jata Kahan Hai Diwane",
       "url": "https://open.spotify.com/track/5cQzW3GYUl3TidsZr9Lb4t"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 298579,
       "name": "Kabhi Kabhi Mere Dil Mein Duet",
       "url": "https://open.spotify.com/track/46bHffIYlRKDZJG1Wbv8vi"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 280080,
       "name": "Khoya Khoya Chand Khula Aasman",
       "url": "https://open.spotify.com/track/31h2OADQEXLYor3p2X81cQ"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 398973,
       "name": "Mera Kuchh Samaan",
       "url": "https://open.spotify.com/track/1ktCVRr2DZdKpDmhEuHBq2"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 363200,
       "name": "Mera Saaya Saath Hoga (From \"Mera Saaya\")",
       "url": "https://open.spotify.com/track/4XUPFhs4GiN3Mu1wv0MIcy"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 300640,
       "name": "Mere Sapnon Ki Rani (From \"Aradhana\")",
       "url": "https://open.spotify.com/track/3cWgUwwFeydGWc5vLjr5UC"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 247546,
       "name": "Na Jao Saiyan Chhuda Ke Baiyan",
       "url": "https://open.spotify.com/track/0ZuHdH0acs3EmaukBgzJQk"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 335005,
       "name": "O Saathi Re - Female Vocals",
       "url": "https://open.spotify.com/track/1dYOciuxgvYcepVR1ZmQNk"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 308733,
       "name": "Phir Chiddi Raat",
       "url": "https://open.spotify.com/track/5DI7IS8qdv97z9INeqeL15"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 254773,
       "name": "Tera Mujhse - Aa Gale Lag Jaa / Soundtrack Version",
       "url": "https://open.spotify.com/track/3Jj02N4CsUY8YAn2d03M4K"
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 261279,
       "name": "Tere Mere Sapne Ab Ek Rang Hain",
       "url": "https://open.spotify.com/track/0bkZP6HJBDA0kBbMYKXsWj"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 486353,
       "name": "Tum Jo Mil Gaye Ho",
       "url": "https://open.spotify.com/track/2dURhAl9CNjpQ2aD2kN9XC"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 247756,
       "name": "Yeh Jo Mohabbat Hai",
       "url": "https://open.spotify.com/track/5r1BxH58zZpdj51nVRXb2o"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 226680,
       "name": "Yeh Mera Diwanapan Hai",
       "url": "https://open.spotify.com/track/6O9tpC8F1dzV1JhkiGQ5iU"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 201160,
       "name": "Yeh Raaten Yeh Mausam",
       "url": "https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 276855,
       "name": "Yeh Sham Mastani",
       "url": "https://open.spotify.com/track/3BjAnJwtlVoS7m3kdb6Y8i"

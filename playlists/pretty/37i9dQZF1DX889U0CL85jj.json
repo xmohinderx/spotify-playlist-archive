@@ -1,52 +1,44 @@
 {
   "description": "Just chill...",
-  "num_followers": 2325718,
+  "num_followers": 2325969,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDg4NzM3OSwwMDAwMDE4YzAwMDAwMTgwNjA4ZTQ5NmIwMDAwMDE3MTA5YzRjYzQx",
+  "snapshot_id": "MTY1MTI1MDA1NiwwMDAwMDE4ZDAwMDAwMTgwNzYyYzRjZDEwMDAwMDE3MTA5YzRjYzQx",
   "tracks": [
     {
-      "added_at": "2022-01-21 16:47:30",
+      "added_at": "2021-06-23 22:50:50",
       "album": {
-        "name": "Chocolate Hills",
-        "url": "https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY"
+        "name": "recently",
+        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
         }
       ],
-      "duration_ms": 190433,
-      "name": "Chocolate Hills",
-      "url": "https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg"
+      "duration_ms": 161929,
+      "name": "rises the moon",
+      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
     },
     {
-      "added_at": "2022-03-28 15:13:57",
+      "added_at": "2022-04-29 16:34:16",
       "album": {
-        "name": "Charmed",
-        "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl"
       },
       "artists": [
         {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 158359,
-      "name": "Charmed",
-      "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8"
     },
     {
       "added_at": "2020-05-29 04:01:00",
@@ -109,6 +101,58 @@
       "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
     },
     {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "gelato",
+        "url": "https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "peas",
+      "url": "https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00"
+    },
+    {
+      "added_at": "2020-03-03 17:46:58",
+      "album": {
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/2Y4AKgysqTSdKQOAHv2B52"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/4d83gRvk3DHU5cWBbyOlSk"
+    },
+    {
+      "added_at": "2022-03-28 15:13:57",
+      "album": {
+        "name": "Charmed",
+        "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 158359,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
+    },
+    {
       "added_at": "2020-10-05 15:13:59",
       "album": {
         "name": "Mellem Dine L\u00e6ber",
@@ -127,6 +171,42 @@
       "duration_ms": 288617,
       "name": "L\u00f8b Stop St\u00e5",
       "url": "https://open.spotify.com/track/3wyLILirr6oFIFw1vYuktv"
+    },
+    {
+      "added_at": "2022-01-21 16:47:30",
+      "album": {
+        "name": "Chocolate Hills",
+        "url": "https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 190433,
+      "name": "Chocolate Hills",
+      "url": "https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg"
+    },
+    {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "Thanks Again",
+        "url": "https://open.spotify.com/album/7xrTBBDHk3tsPLVgQWoqxR"
+      },
+      "artists": [
+        {
+          "name": "Lucca Dohr",
+          "url": "https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Thanks Again",
+      "url": "https://open.spotify.com/track/6ilACBUGWBHjHugUdYzhtT"
     },
     {
       "added_at": "2022-03-25 14:35:27",
@@ -153,6 +233,22 @@
       "url": "https://open.spotify.com/track/17uhetjXsCctreur8sxfqo"
     },
     {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "souvenir",
+        "url": "https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 188768,
+      "name": "anywhere",
+      "url": "https://open.spotify.com/track/2AuLEJxJsMVjFggVyv80ev"
+    },
+    {
       "added_at": "2022-01-21 16:47:30",
       "album": {
         "name": "Alphamale",
@@ -167,54 +263,6 @@
       "duration_ms": 297428,
       "name": "Alphamale",
       "url": "https://open.spotify.com/track/4YjSFVKbjEXHEgFiE4aFP4"
-    },
-    {
-      "added_at": "2021-06-23 22:50:50",
-      "album": {
-        "name": "recently",
-        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 161929,
-      "name": "rises the moon",
-      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
-    },
-    {
-      "added_at": "2022-04-14 16:47:49",
-      "album": {
-        "name": "Dot",
-        "url": "https://open.spotify.com/album/5sJ8PzY1bbaILoGztXsaJX"
-      },
-      "artists": [
-        {
-          "name": "A Beacon School",
-          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
-        }
-      ],
-      "duration_ms": 322586,
-      "name": "Dot",
-      "url": "https://open.spotify.com/track/69p1aR2n7h7lOL0uPDwnHA"
-    },
-    {
-      "added_at": "2020-03-03 17:46:58",
-      "album": {
-        "name": "moonlight",
-        "url": "https://open.spotify.com/album/2Y4AKgysqTSdKQOAHv2B52"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "moonlight",
-      "url": "https://open.spotify.com/track/4d83gRvk3DHU5cWBbyOlSk"
     },
     {
       "added_at": "2022-01-21 16:47:30",
@@ -235,6 +283,30 @@
       "duration_ms": 167994,
       "name": "Moonlight Shawty",
       "url": "https://open.spotify.com/track/7wkgkIBYBH3xV2ob9Zmh87"
+    },
+    {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "Hundred Fifty Roses",
+        "url": "https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR"
+      },
+      "artists": [
+        {
+          "name": "Du\u00f1e",
+          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
+        {
+          "name": "Lossapardo",
+          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+        }
+      ],
+      "duration_ms": 194157,
+      "name": "Slowdiving",
+      "url": "https://open.spotify.com/track/4oqyzxXvzHTptWo5l2tlpz"
     },
     {
       "added_at": "2022-04-08 18:43:39",
@@ -271,6 +343,22 @@
       "duration_ms": 160120,
       "name": "you and the everything of everything",
       "url": "https://open.spotify.com/track/1Y8F8VNZ3Ij0MaD8PcpGpW"
+    },
+    {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "Pale Blue",
+        "url": "https://open.spotify.com/album/5VTDwmPmnnDecdsd374oye"
+      },
+      "artists": [
+        {
+          "name": "MOSSS",
+          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
+        }
+      ],
+      "duration_ms": 213497,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/6NrwVoFmjeNsEtrgZTMo4T"
     },
     {
       "added_at": "2020-02-28 03:43:52",
@@ -329,6 +417,38 @@
       "url": "https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT"
     },
     {
+      "added_at": "2020-11-02 20:30:08",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "it's good to hear your voice",
+        "url": "https://open.spotify.com/album/5gaYJvbHf1NlOScEQvUSzZ"
+      },
+      "artists": [
+        {
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "don't be so hard on yourself",
+      "url": "https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp"
+    },
+    {
       "added_at": "2020-05-29 04:01:00",
       "album": {
         "name": "You're All I Want",
@@ -363,6 +483,22 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
+    },
+    {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "Toroka",
+        "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 202075,
+      "name": "Toroka",
+      "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
     },
     {
       "added_at": "2021-06-09 13:55:18",
@@ -405,20 +541,20 @@
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
-      "added_at": "2020-11-02 20:30:08",
+      "added_at": "2022-04-29 16:34:16",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Table for Two",
+        "url": "https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
         }
       ],
-      "duration_ms": 184516,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+      "duration_ms": 202368,
+      "name": "Table for Two",
+      "url": "https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP"
     },
     {
       "added_at": "2021-09-02 23:05:07",
@@ -489,6 +625,26 @@
       "url": "https://open.spotify.com/track/21olzr6m9aB9ZvfquKzdFh"
     },
     {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "The Color of Nothing",
+        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        },
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 226657,
+      "name": "4:38am (feat. Barrie)",
+      "url": "https://open.spotify.com/track/778rI4lJeJKKy34mAeq4KA"
+    },
+    {
       "added_at": "2021-11-19 15:43:09",
       "album": {
         "name": "Winter Flower",
@@ -553,6 +709,22 @@
       "url": "https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l"
     },
     {
+      "added_at": "2021-10-14 21:29:34",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
       "added_at": "2020-01-07 20:43:48",
       "album": {
         "name": "Sunrise",
@@ -567,6 +739,22 @@
       "duration_ms": 208744,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/504BrFbtkCK5GG8U0wb2qb"
+    },
+    {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "Favorites 3",
+        "url": "https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D"
+      },
+      "artists": [
+        {
+          "name": "Justice Der",
+          "url": "https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz"
+        }
+      ],
+      "duration_ms": 373014,
+      "name": "Seigfried",
+      "url": "https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ"
     },
     {
       "added_at": "2022-01-21 16:47:30",
@@ -641,6 +829,22 @@
       "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
     },
     {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+    },
+    {
       "added_at": "2021-10-08 15:18:35",
       "album": {
         "name": "Bolero",
@@ -687,6 +891,22 @@
       "duration_ms": 151150,
       "name": "Rain",
       "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
+    },
+    {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "And Then We'll Be Alright",
+        "url": "https://open.spotify.com/album/1T7NP3J8eEpKB5KgFIbcpC"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 119906,
+      "name": "And Then We'll Be Alright",
+      "url": "https://open.spotify.com/track/1XGOY3toSwXDYcWGvb87eX"
     },
     {
       "added_at": "2021-08-27 21:15:45",
@@ -737,6 +957,22 @@
       "url": "https://open.spotify.com/track/237dlPXLNIsatIRYKRbCWN"
     },
     {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "Dad's Old Tapes",
+        "url": "https://open.spotify.com/album/4o2hbK2sZYnvVDOTaIDNrx"
+      },
+      "artists": [
+        {
+          "name": "North Downs",
+          "url": "https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/3CUotoSWVxQN5nrQCwpzTA"
+    },
+    {
       "added_at": "2021-11-19 15:43:09",
       "album": {
         "name": "The Shaman",
@@ -783,22 +1019,6 @@
       "duration_ms": 235506,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/0BCPHe2assdUDijB5gUuCU"
-    },
-    {
-      "added_at": "2021-10-14 21:29:34",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2021-08-27 21:15:45",
@@ -1325,6 +1545,22 @@
       "url": "https://open.spotify.com/track/45IhSIsQkvmCZ2V0yxEazY"
     },
     {
+      "added_at": "2022-04-29 16:34:16",
+      "album": {
+        "name": "When Will I Learn",
+        "url": "https://open.spotify.com/album/57AipIrXqa433GDNRygUsC"
+      },
+      "artists": [
+        {
+          "name": "Tora",
+          "url": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "When Will I Learn",
+      "url": "https://open.spotify.com/track/2ScZesPRtAwvZvajHgxDdQ"
+    },
+    {
       "added_at": "2021-06-07 16:21:19",
       "album": {
         "name": "Your Imagination (feat. Jaden)",
@@ -1479,22 +1715,6 @@
       "duration_ms": 134557,
       "name": "Stuck in the Sky",
       "url": "https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r"
-    },
-    {
-      "added_at": "2021-03-11 16:54:14",
-      "album": {
-        "name": "ACOUSCOUS",
-        "url": "https://open.spotify.com/album/03OuqhFoYm9Odja6riHELI"
-      },
-      "artists": [
-        {
-          "name": "emawk",
-          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "ACOUSCOUS",
-      "url": "https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e"
     },
     {
       "added_at": "2020-12-11 18:05:01",
@@ -1945,22 +2165,6 @@
       "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
-      "added_at": "2020-08-21 04:01:00",
-      "album": {
-        "name": "killmeinmysleep",
-        "url": "https://open.spotify.com/album/1i7rFneH6LmqeeAuy96u4U"
-      },
-      "artists": [
-        {
-          "name": "Eli Moon",
-          "url": "https://open.spotify.com/artist/7w9kwVf3KJfvBBfE4o6K56"
-        }
-      ],
-      "duration_ms": 200340,
-      "name": "killmeinmysleep",
-      "url": "https://open.spotify.com/track/77zViu7V0wRnzTafJE6HUH"
-    },
-    {
       "added_at": "2020-02-13 18:58:21",
       "album": {
         "name": "Lost",
@@ -2327,22 +2531,6 @@
       "duration_ms": 173568,
       "name": "i feel like chet (khai dreams edit)",
       "url": "https://open.spotify.com/track/2Kqqq1W7neB7AgN9u49HVx"
-    },
-    {
-      "added_at": "2020-02-12 15:50:49",
-      "album": {
-        "name": "Val!um",
-        "url": "https://open.spotify.com/album/7tCOA660KQ5c83XLJHtRYn"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 188682,
-      "name": "Val!um",
-      "url": "https://open.spotify.com/track/0yXU3XSY2yYs542ksvHLNL"
     },
     {
       "added_at": "2019-09-06 08:52:44",

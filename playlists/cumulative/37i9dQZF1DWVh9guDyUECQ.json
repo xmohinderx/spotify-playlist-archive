@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Tommy Royale",
+  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Jaydan",
   "name": "Flow Cristiano",
   "published_playlist_ids": [
     "6c2GnXTfpCe6c4SEH9u1bm"
@@ -27,6 +27,24 @@
       "duration_ms": 181968,
       "name": "120 Pentecoste",
       "url": "https://open.spotify.com/track/5hFcbNoneK0KYHBGRUzet9"
+    },
+    {
+      "album": {
+        "name": "123 Enemies",
+        "url": "https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "123 Enemies",
+      "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
     },
     {
       "album": {
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 213340,
       "name": "Abba",
       "url": "https://open.spotify.com/track/5weYrPdlyU60nNnaxebYL2"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 179800,
       "name": "Bueno es Dios",
       "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 234897,
       "name": "Coherente - Remix",
       "url": "https://open.spotify.com/track/3fgkDvwdu13ZAPX1G6mIBG"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 222857,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/4MXt7Xh7WQiL85Q6Et2OfF"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 279759,
       "name": "El Cielo Llor\u00f3",
       "url": "https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 225930,
       "name": "El Dise\u00f1ador",
       "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 169187,
       "name": "El Perd\u00f3n",
       "url": "https://open.spotify.com/track/5bsiikhimXTUQGSxFiFHGV"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 218534,
       "name": "En la Oraci\u00f3n",
       "url": "https://open.spotify.com/track/2vHU7sEv1R4KOujTK1pgGf"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 248701,
       "name": "Feo pero Salvo feat. Albert Miliano",
       "url": "https://open.spotify.com/track/2PzVtMzk6wDoUeas8cMsLY"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 223530,
       "name": "Flow Santo",
       "url": "https://open.spotify.com/track/1TXSgaq8nI9beIhSBoUhNp"
@@ -1571,6 +1589,24 @@
       "duration_ms": 222564,
       "name": "Fronteamos Con Amor",
       "url": "https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c"
+    },
+    {
+      "album": {
+        "name": "Fama y Fe",
+        "url": "https://open.spotify.com/album/75wB5dRK42aKAtSIMMrFvX"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "Gitana",
+      "url": "https://open.spotify.com/track/6jI8HyJTIbhBu5wSSr59sk"
     },
     {
       "album": {
@@ -2061,7 +2097,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 207333,
       "name": "La Cumbia del Pueblo",
       "url": "https://open.spotify.com/track/47DqucSNOYX7TCehMcsuhj"
@@ -2491,7 +2527,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 213437,
       "name": "Manada",
       "url": "https://open.spotify.com/track/5Pde1RKCdQ5mfAYNQVeC56"
@@ -2531,6 +2567,28 @@
       "duration_ms": 202792,
       "name": "Me Han Hablado",
       "url": "https://open.spotify.com/track/3GNQflg4ttd3aAuJjqXX2w"
+    },
+    {
+      "album": {
+        "name": "Me Has Sostenido",
+        "url": "https://open.spotify.com/album/1ac4tiokv7D0R2KyFAu5iV"
+      },
+      "artists": [
+        {
+          "name": "Locuaz",
+          "url": "https://open.spotify.com/artist/0pV61JxkqvjPzRvyVAmCVk"
+        },
+        {
+          "name": "Defra",
+          "url": "https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182717,
+      "name": "Me Has Sostenido",
+      "url": "https://open.spotify.com/track/6GY4wfvIwp846nBcZCKSKJ"
     },
     {
       "album": {
@@ -3365,7 +3423,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 378643,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/5VvHuqHKd3cfABM2vtoIXl"
@@ -3523,7 +3581,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 173823,
       "name": "Pila De Versos",
       "url": "https://open.spotify.com/track/4NF7mdvxEAttDKo36bVaz1"
@@ -3796,6 +3854,24 @@
     },
     {
       "album": {
+        "name": "RESETEO",
+        "url": "https://open.spotify.com/album/0FTZ2nC9SNdf4o70nqWvK7"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "RESETEO",
+      "url": "https://open.spotify.com/track/4ry6u6TlDsAlBEDoxos0P2"
+    },
+    {
+      "album": {
         "name": "20/20",
         "url": "https://open.spotify.com/album/3sKRE6i0r98zJ59GDKBfB0"
       },
@@ -3949,7 +4025,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165263,
       "name": "Se lo Traje",
       "url": "https://open.spotify.com/track/0nqkepdxnMoVV7Ww0TNLma"
@@ -4405,11 +4481,15 @@
         {
           "name": "Rubinsky Rbk",
           "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Josue Alcequiez",
+          "url": "https://open.spotify.com/artist/55va40Z6T4n3NWGQD9Aidb"
         }
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4AsMWEUctX6jWcADHOoxR8"
@@ -4961,7 +5041,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 182857,
       "name": "Valiente Y Sereno",
       "url": "https://open.spotify.com/track/2vJRPSoADCr7VSTM5UPIlB"
@@ -4987,7 +5067,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 209699,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/7aTf5cIHhwiFXaZyHnwD6e"

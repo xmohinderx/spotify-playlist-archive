@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Dancing Queen / Yasss Queen",
+        "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193076,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
+    },
+    {
+      "album": {
         "name": "Dem Girlz (feat. Beatking & Erica Banks)",
         "url": "https://open.spotify.com/album/1LEgihPCFBwzC3hzNrgJqG"
       },
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 128000,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/5WFS94mQU8LHIlejXYpKP2"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 166875,
       "name": "Lick (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X"
@@ -831,6 +849,24 @@
       "duration_ms": 133804,
       "name": "Like A Pro (feat. Juicy J)",
       "url": "https://open.spotify.com/track/6WYxEIpgD3dDWyxTFcPCXv"
+    },
+    {
+      "album": {
+        "name": "Lower",
+        "url": "https://open.spotify.com/album/5ivFW60jaUHbkhdovHXKGr"
+      },
+      "artists": [
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112659,
+      "name": "Lower",
+      "url": "https://open.spotify.com/track/4CQAcnsINylLDrhmB1HNJt"
     },
     {
       "album": {

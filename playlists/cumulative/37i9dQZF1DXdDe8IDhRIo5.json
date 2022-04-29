@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Bekledim de gelmedin",
+        "url": "https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162511,
+      "name": "Bekledim de gelmedin",
+      "url": "https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3"
+    },
+    {
+      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/2rVYD2MHeWZ7qwQ7hIVyrW"
       },
@@ -459,6 +477,28 @@
       "duration_ms": 267573,
       "name": "Iberian Sunrise",
       "url": "https://open.spotify.com/track/2vpwYizzlMwrs2TQde5ZHS"
+    },
+    {
+      "album": {
+        "name": "Guitar Heroes (Live)",
+        "url": "https://open.spotify.com/album/4H7BOHlMGdztgjlYGbSdUA"
+      },
+      "artists": [
+        {
+          "name": "Joscho Stephan",
+          "url": "https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG"
+        },
+        {
+          "name": "Stochelo Rosenberg",
+          "url": "https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298792,
+      "name": "In a Sentimental Mood - Clair de Lune - Live",
+      "url": "https://open.spotify.com/track/27Y8vTDLEBmOBqCN6VLXx7"
     },
     {
       "album": {

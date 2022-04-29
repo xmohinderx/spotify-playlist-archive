@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> The best of the country's independent artists\. Cover: Prateek Kuhad
+> 'Chaand Baaliyan' and other popular Indie hits\. Cover: Aditya A
 
 131 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 

@@ -104,6 +104,32 @@
     },
     {
       "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176302,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/1FmcDuK4BmnUZ0rXDFsJbX"
+    },
+    {
+      "album": {
         "name": "Deixa Eu Te Chamar de Moz\u00e3o",
         "url": "https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF"
       },
@@ -801,7 +827,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 142176,
       "name": "O Nosso Amor \u00c9 Droga",
       "url": "https://open.spotify.com/track/4bz9c1XgxWSsfFJGkD7ZEv"
@@ -1113,7 +1139,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 159249,
       "name": "Pris\u00e3o Vital\u00edcia",
       "url": "https://open.spotify.com/track/2mWUQJ5p2msFK34wjqQgwm"
@@ -1481,6 +1507,28 @@
       "duration_ms": 211200,
       "name": "Tudo No Priv\u00ea",
       "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
+    },
+    {
+      "album": {
+        "name": "OWL",
+        "url": "https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Viciado 2.0",
+      "url": "https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf"
     },
     {
       "album": {

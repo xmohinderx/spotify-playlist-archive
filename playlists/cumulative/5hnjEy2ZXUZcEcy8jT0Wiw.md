@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-333 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+334 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Wander Through Me](https://open.spotify.com/track/7azF7S66H5sxBJRtk4owsz) | [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Figments](https://open.spotify.com/album/0LPBRqGk7q7MEs1dzj6nrt) | 4:05 | 2019-07-15 |  |
 | [Wandering Samurai](https://open.spotify.com/track/5TmSdd0JEXLVLrHxiywxed) | [MAGNAVOLT](https://open.spotify.com/artist/0rYuZn0zZhIzTLVJ9FmhSV) | [Artificial](https://open.spotify.com/album/74qXjgoCUq79W2ViXkw4xK) | 3:53 | 2019-07-15 |  |
 | [War Torn \(Hans Zarkov Remix\)](https://open.spotify.com/track/5VwjL2eulraoxr6ALj3rcV) | [Retroglyphs](https://open.spotify.com/artist/49yzGp5scOEx58xt8oE4OG) | [Remixes](https://open.spotify.com/album/6AraLhXcEOjbx0bNvevpmC) | 5:48 | 2019-09-18 |  |
+| [warioteque](https://open.spotify.com/track/2h1bBKsJfigAAF0KX5ApbL) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [warioteque](https://open.spotify.com/album/350vqRapqLcHUGHgysI8p3) | 3:28 | 2022-04-29 |  |
 | [Warp Nine](https://open.spotify.com/track/4o9aSYCUfuv4KTxktDNxi7) | [Overvad](https://open.spotify.com/artist/5p2lvkuXdOlK4tmTy4Ayt7) | [Outer Reach](https://open.spotify.com/album/4BBmF0RdAI0FfocivaNtGC) | 6:15 | 2019-09-04 |  |
 | [Wavenumber](https://open.spotify.com/track/1a2EUg8CxbMceICTPHJi75) | [Baddon](https://open.spotify.com/artist/0hnVmitsimt346SpFwvqXj) | [Wavenumber](https://open.spotify.com/album/3pUz9nYV2ZOYfhaqDZCBR2) | 3:50 | 2020-12-07\* | 2021-09-16 |
 | [Waves](https://open.spotify.com/track/3W9iJfiK4HY0wPEbS6mNJy) | [Charlie Vincent](https://open.spotify.com/artist/4y9x79nOv9e2jqetwiIt6s) | [Waves](https://open.spotify.com/album/4J35K0xZA9GkZ316TLSy25) | 4:15 | 2020-05-20 |  |

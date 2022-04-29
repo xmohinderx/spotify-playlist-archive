@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Just vibes. Cover: Chicocurlyhead",
+  "description": "Just vibes. Cover: Girl Ultra",
   "name": "Vibras",
   "published_playlist_ids": [
     "3Dw6MeHZ1290HOvRyOOXlR"
@@ -255,10 +255,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 160566,
       "name": "Blah Blah",
       "url": "https://open.spotify.com/track/0D4gVyCQkDKq6bfvwA2SCI"
+    },
+    {
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/6l6smfQXJMgSCPpsWkUiLi"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/38YVgO1TvyosaSZ7Kd8AIA"
     },
     {
       "album": {
@@ -353,7 +371,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 206680,
       "name": "Clutch (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/6QqF0MqjQVotftZIuQUbvf"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 179250,
       "name": "cold feet",
       "url": "https://open.spotify.com/track/16Q5CS1hO8nTybYOj4ibsP"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 152560,
       "name": "Mala M\u00eda",
       "url": "https://open.spotify.com/track/2qBZwnNngUE4RXnJkznZVR"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 165882,
       "name": "Where We Can't See",
       "url": "https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT"

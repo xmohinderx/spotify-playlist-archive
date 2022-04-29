@@ -202,6 +202,32 @@
     },
     {
       "album": {
+        "name": "Behold / Never See the End (Live)",
+        "url": "https://open.spotify.com/album/18RhikJuwitNdNMdEhmVAr"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Behold - Live",
+      "url": "https://open.spotify.com/track/2uhrVuH8Rz1nQfrRLWIKDU"
+    },
+    {
+      "album": {
         "name": "Behold Him (Live)",
         "url": "https://open.spotify.com/album/1TcPGQ2UYiIfZW3y67pUjr"
       },
@@ -364,6 +390,36 @@
     },
     {
       "album": {
+        "name": "Tribl Nights Anthologies",
+        "url": "https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522994,
+      "name": "Canvas and Clay (feat. DOE & Jonathan Traylor)",
+      "url": "https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4"
+    },
+    {
+      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/1BSzjovh9NjjdoxfSVyjbV"
       },
@@ -444,6 +500,28 @@
     },
     {
       "album": {
+        "name": "Come and Have Your Way (Live)",
+        "url": "https://open.spotify.com/album/6JiKl8Ks47I3lrZZC09m2U"
+      },
+      "artists": [
+        {
+          "name": "Gas Street Music",
+          "url": "https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG"
+        },
+        {
+          "name": "Nick Herbert",
+          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289082,
+      "name": "Come and Have Your Way - Live",
+      "url": "https://open.spotify.com/track/2vFcR7NKG9SjPnBUcvTNaT"
+    },
+    {
+      "album": {
         "name": "Come What May",
         "url": "https://open.spotify.com/album/0kBsmG4T0XwOPIrq7LKJpc"
       },
@@ -477,7 +555,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 201671,
       "name": "Come What May +",
       "url": "https://open.spotify.com/track/7t4ldrXvSEvY8yzGFTxgG9"
@@ -521,6 +599,24 @@
       "duration_ms": 258821,
       "name": "Crying Holy (Klippan)",
       "url": "https://open.spotify.com/track/6u9bJLenNvDSN0Cz6fLfld"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307896,
+      "name": "Delightful (The Sower Never Wastes A Tear)",
+      "url": "https://open.spotify.com/track/7dF6TYCE35cgOTeVMGmrrC"
     },
     {
       "album": {
@@ -571,7 +667,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 197199,
       "name": "Echo Holy - In Studio",
       "url": "https://open.spotify.com/track/2OhnLpvox9a6zELiP3HZ9c"
@@ -975,7 +1071,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 221280,
       "name": "How Great (Single Mix)",
       "url": "https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b"
@@ -1471,7 +1567,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 594762,
       "name": "King of Heaven (Reign Jesus Reign) [feat. Ryan Ofei, Nate Diaz & Lizzie Morgan]",
       "url": "https://open.spotify.com/track/4wpEY6qaD9nHAPtJuzL0YQ"
@@ -1900,6 +1996,24 @@
     },
     {
       "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/1jtk79QrzBfGaswpzCjPBk"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334765,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/1pECacoxvlJZUOaaZl3Qlv"
+    },
+    {
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/4eVo5kyRzRJqV6xvB59Z9v"
       },
@@ -2093,7 +2207,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 422135,
       "name": "Resurrender - Live",
       "url": "https://open.spotify.com/track/6R6V0yswnkY01L9buDZa7O"
@@ -2115,7 +2229,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 232790,
       "name": "Return To You",
       "url": "https://open.spotify.com/track/5qBNFLRYt1Mwkb0EAPIsvQ"
@@ -2289,7 +2403,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 348418,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/3VfYDUvCE3OZWA9TppaI5S"
@@ -2556,6 +2670,28 @@
     },
     {
       "album": {
+        "name": "Things of Heaven: The Other Side",
+        "url": "https://open.spotify.com/album/6yhXDXMVJEoqROmklsDauO"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338244,
+      "name": "Things of Heaven (feat. Elyssa Smith) - The Other Side",
+      "url": "https://open.spotify.com/track/7Cl9Ytd7N2J1hqdgYV6fk0"
+    },
+    {
+      "album": {
         "name": "This Is How I Thank The Lord",
         "url": "https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9"
       },
@@ -2707,7 +2843,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 517807,
       "name": "Too Good To Not Believe (feat. Lizzie Morgan, Cecily & Melvin Crispell III)",
       "url": "https://open.spotify.com/track/1jMeULrDKkW43Tp5VlJxDG"
@@ -2729,7 +2865,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 633462,
       "name": "Too Good To Not Believe - Live",
       "url": "https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS"
@@ -2919,6 +3055,24 @@
       "duration_ms": 276036,
       "name": "What I See (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5RyfitgMVnJHdabHb13Rgv"
+    },
+    {
+      "album": {
+        "name": "Where the War Ends",
+        "url": "https://open.spotify.com/album/5GRCn56qnPjg1nKfhHKg1t"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226536,
+      "name": "Where the War Ends",
+      "url": "https://open.spotify.com/track/7eSGiA4F2UYPNOqUmkT6xr"
     },
     {
       "album": {

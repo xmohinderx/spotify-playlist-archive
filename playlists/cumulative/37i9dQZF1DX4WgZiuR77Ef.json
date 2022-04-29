@@ -1258,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250263,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG"
+    },
+    {
+      "album": {
         "name": "Hello Happiness",
         "url": "https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA"
       },

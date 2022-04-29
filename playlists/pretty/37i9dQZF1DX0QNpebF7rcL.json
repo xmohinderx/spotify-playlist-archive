@@ -1,13 +1,81 @@
 {
-  "description": "The best in blues right now. Cover: Bonnie Raitt",
-  "num_followers": 36621,
+  "description": "The best in blues right now. Cover: Mavis Staples",
+  "num_followers": 36638,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDA0NzAwMDAwMTgwNGY2ZTI0ZjUwMDAwMDE4MDRkMDQzODhi",
+  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDA0ODAwMDAwMTgwNzM3YjkzM2YwMDAwMDE4MDY3MTkyNDk1",
   "tracks": [
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "I Wish I Knew How It Would Feel To Be Free",
+        "url": "https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        },
+        {
+          "name": "Levon Helm",
+          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "I Wish I Knew How It Would Feel To Be Free",
+      "url": "https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "No More Worlds to Conquer",
+        "url": "https://open.spotify.com/album/5RCGjONsYrTcNJpRjd27eL"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Ball of Fire",
+      "url": "https://open.spotify.com/track/3mtfFRcdAeHrrVnxbWpmI2"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/68ZhKv7M3s5NGqIsdVQfQC"
+      },
+      "artists": [
+        {
+          "name": "Dana Fuchs",
+          "url": "https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Don't You Forget About Me",
+        "url": "https://open.spotify.com/album/2zxmGfJwrZ6BhaMLrpV8EK"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Don't You Forget About Me",
+      "url": "https://open.spotify.com/track/6p1Sim61QcZgVWIEq5s5n7"
+    },
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
@@ -39,6 +107,22 @@
       "duration_ms": 237513,
       "name": "Great Minds Drink Alike - With Horns",
       "url": "https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Unchange",
+        "url": "https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH"
+      },
+      "artists": [
+        {
+          "name": "Gina Sicilia",
+          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
+        }
+      ],
+      "duration_ms": 275957,
+      "name": "Healing Time",
+      "url": "https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -169,20 +253,20 @@
       "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Death Don't Have No Mercy",
-        "url": "https://open.spotify.com/album/7CPRD2SlzBhChwXEUZSmg5"
+        "name": "Georgia Women",
+        "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
       },
       "artists": [
         {
-          "name": "Gina Sicilia",
-          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 378373,
-      "name": "Death Don't Have No Mercy",
-      "url": "https://open.spotify.com/track/1npPaN1uAdOSGnPnOcgQ82"
+      "duration_ms": 245280,
+      "name": "Georgia Women",
+      "url": "https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g"
     },
     {
       "added_at": "2022-03-25 04:01:00",

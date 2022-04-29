@@ -962,6 +962,24 @@
     },
     {
       "album": {
+        "name": "Lagu Dan Perasaan",
+        "url": "https://open.spotify.com/album/5kErKuJBeHDuMwtpq47wDA"
+      },
+      "artists": [
+        {
+          "name": "Rafeah Buang",
+          "url": "https://open.spotify.com/artist/4NnBbi48c3iFGh39L4jELO"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159093,
+      "name": "Bila Takbir Bergema",
+      "url": "https://open.spotify.com/track/2jIdcT0HmgwUV2nJk5qzfL"
+    },
+    {
+      "album": {
         "name": "Siri Bintang Pujaan",
         "url": "https://open.spotify.com/album/3694nUIibTy2Yay9BuZ3Ne"
       },
@@ -1846,6 +1864,24 @@
     },
     {
       "album": {
+        "name": "Siri Kenangan Abadi Volume 2 : Getaran Jiwa",
+        "url": "https://open.spotify.com/album/6cNspl6i2FowdZTx3cDncC"
+      },
+      "artists": [
+        {
+          "name": "Tan Sri P. Ramlee",
+          "url": "https://open.spotify.com/artist/7vgBEzAtjH9f1IbbqeRnwi"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Dendang Perantau",
+      "url": "https://open.spotify.com/track/4S5D7LtgiHLhoQSe4kMMIh"
+    },
+    {
+      "album": {
         "name": "NOEASY",
         "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
       },
@@ -2241,7 +2277,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -3933,7 +3969,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-16",
+      "date_removed": null,
       "duration_ms": 225533,
       "name": "Kepulangan Yang Di Nanti",
       "url": "https://open.spotify.com/track/5eI3a4RJ5Qfum61vdQMy6B"
@@ -5935,7 +5971,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
@@ -5971,7 +6007,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 173942,
       "name": "RIP, Love",
       "url": "https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo"

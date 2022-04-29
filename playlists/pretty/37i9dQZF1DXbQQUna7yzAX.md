@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQQUna7yzAX.md) - [plain]
 
 > Grunge is still alive and kicking!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,713 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,750 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQQUna7yzAX.md) - [plain]
 | 59 | [Shade](https://open.spotify.com/track/2jmPyZCJ2MoRO8kPvynTw5) | [Rockford](https://open.spotify.com/artist/2pAfcd9rbqt6XxUCWEZ8SN) | [Shade](https://open.spotify.com/album/0KT8bKlYZn0TJ8FK5hV7oB) | 4:47 |
 | 60 | [Crimson Ocean](https://open.spotify.com/track/5fnRAEcr5w4WLgLcv0lcFN) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Crimson Ocean](https://open.spotify.com/album/61Jxkak5VZdnMtKhTznVdi) | 2:08 |
 
-Snapshot ID: `MTY1MTE4MzI2MCwwMDAwMDAyYzAwMDAwMTgwNzIzMTExZWIwMDAwMDE3YjcwMjA4Y2Q0`
+Snapshot ID: `MTY1MTIyNDgxMywwMDAwMDAyZDAwMDAwMTgwNzRhYjIxMjMwMDAwMDE3YjcwMjA4Y2Q0`

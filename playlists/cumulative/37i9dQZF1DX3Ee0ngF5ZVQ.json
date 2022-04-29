@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Faded Memories",
+        "url": "https://open.spotify.com/album/3sKrvMSNdu4tnF3WDTgk9K"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "30 Miles",
+      "url": "https://open.spotify.com/track/7JVEogoLQNWMQlIxTj0Lqw"
+    },
+    {
+      "album": {
         "name": "50 In The Fast Lane",
         "url": "https://open.spotify.com/album/0VOHxJLjbiQkw9FRu4bloT"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 204447,
       "name": "Accidents",
       "url": "https://open.spotify.com/track/0H9bkp8sbP2zEHH8bkiG18"
@@ -2054,6 +2072,24 @@
     },
     {
       "album": {
+        "name": "Honky Tonk Tonight",
+        "url": "https://open.spotify.com/album/2eaKZqwCA1vSPGSKN5L6HI"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177354,
+      "name": "Honky Tonk Tonight",
+      "url": "https://open.spotify.com/track/1NM3qJCL6qlJP6L29jtl2S"
+    },
+    {
+      "album": {
         "name": "Horses in Heaven",
         "url": "https://open.spotify.com/album/2oBVd4wvuvjmWmNVkG4l3Q"
       },
@@ -2906,6 +2942,24 @@
     },
     {
       "album": {
+        "name": "One Honky Tonk Town",
+        "url": "https://open.spotify.com/album/1ZtExQ6KB7P60h9QyyC1VO"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200342,
+      "name": "One Honky Tonk Town",
+      "url": "https://open.spotify.com/track/1j3aYPaCzk1ENO4dL9nxw5"
+    },
+    {
+      "album": {
         "name": "Only Need One",
         "url": "https://open.spotify.com/album/2LAc0RjCJ2qynoCRN6tUil"
       },
@@ -2921,6 +2975,24 @@
       "duration_ms": 213866,
       "name": "Only Need One",
       "url": "https://open.spotify.com/track/6xjVFA6jmSIuQEH108s6V2"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/5ivrCd6Y6Z1BGr6GwROBwp"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Open Book",
+      "url": "https://open.spotify.com/track/71F8QUX0UiqmoSZKgjCnP6"
     },
     {
       "album": {
@@ -4053,7 +4125,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 252480,
       "name": "Truth Like a Lie",
       "url": "https://open.spotify.com/track/0QqZqpe0mQJ8R7FYVgJ4qs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With Pacific, Wanderer, Bootstraps and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Simple Life](https://open.spotify.com/track/7zU8mDrfffaHpLGP37dALP) | [Scott Ruth](https://open.spotify.com/artist/4pOiomYw0DRSNFPMLmKESa) | [Simple Life / Weather Balloon \(Just Another Day\)](https://open.spotify.com/album/7zcqMI8HfX1THAELQce6Z3) | 5:14 |
 | 50 | [Hurt This Way](https://open.spotify.com/track/7JJxEmjeZ0EOMsvMxuiplZ) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Songs for the Night](https://open.spotify.com/album/60Xwl0rRChGO4lmgCtlEeT) | 4:01 |
 
-Snapshot ID: `MTY1MTE5NDUxMywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY1MTI1NDYwMiwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

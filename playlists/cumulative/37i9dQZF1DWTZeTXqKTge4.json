@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Loud",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Rymz",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -1830,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "J'ai pas l'time",
+        "url": "https://open.spotify.com/album/2Ox36Sou25gwtw8wvA6SUN"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230457,
+      "name": "J'ai pas l'time",
+      "url": "https://open.spotify.com/track/7oXiWuQPvywjQgKwoVrDY4"
+    },
+    {
+      "album": {
         "name": "Dis-leur",
         "url": "https://open.spotify.com/album/04xd8BuUDzp46firHhtOgx"
       },
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 211764,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/3Imu0WHSlEWiv4fZngTD2l"
@@ -2252,6 +2270,24 @@
     },
     {
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/37NFf8kkfvIGpOOJlFTGm6"
+      },
+      "artists": [
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5"
+    },
+    {
+      "album": {
         "name": "Mouiller Le Maillot",
         "url": "https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm"
       },
@@ -2281,7 +2317,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 175304,
       "name": "Mozart",
       "url": "https://open.spotify.com/track/45SCJksvCasAR13KwqIaMa"
@@ -2307,7 +2343,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 159794,
       "name": "Naruto",
       "url": "https://open.spotify.com/track/4LuNW6xBG261jSeUJy7RJL"
@@ -2405,10 +2441,32 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 147069,
       "name": "On a Roll",
       "url": "https://open.spotify.com/track/17TrsHFROsZTyJJHt7ZJPU"
+    },
+    {
+      "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/65JhfbFpJ770al7RqmmNxi"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/3mxEteSWk9MppDJFxCGU2Q"
     },
     {
       "album": {
@@ -2667,6 +2725,24 @@
       "duration_ms": 203786,
       "name": "PROTAGONISTE (Main Theme)",
       "url": "https://open.spotify.com/track/09N0R11DpvtXWCk4YFLSnJ"
+    },
+    {
+      "album": {
+        "name": "P\u00e9tale",
+        "url": "https://open.spotify.com/album/0qmrfShgngmmWA8cPcrXAA"
+      },
+      "artists": [
+        {
+          "name": "Vendou",
+          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189317,
+      "name": "P\u00e9tale",
+      "url": "https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8"
     },
     {
       "album": {

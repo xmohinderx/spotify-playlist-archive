@@ -6,8 +6,48 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDAwNjgyNCwwMDAwMDAxYTAwMDAwMTgwMmMxMjE1MGYwMDAwMDE4MDJjMTE4MTIx",
+  "snapshot_id": "MTY1MTI1MzU0OSwwMDAwMDAxYjAwMDAwMTgwNzY2MTk4NDQwMDAwMDE4MDJjMTE4MTIx",
   "tracks": [
+    {
+      "added_at": "2022-04-29 17:32:29",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "KEEP IT BURNIN (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/7rWCWzPRftzZTZtIyQtaDU"
+    },
+    {
+      "added_at": "2022-04-29 17:32:29",
+      "album": {
+        "name": "Can't Lose",
+        "url": "https://open.spotify.com/album/6IlNeUhzVDjbwrMPfjqkyx"
+      },
+      "artists": [
+        {
+          "name": "Lil Mexico",
+          "url": "https://open.spotify.com/artist/5HL0VTY0iLTz0RcoeI4cmY"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o"
+    },
     {
       "added_at": "2022-04-15 07:13:44",
       "album": {
@@ -49,6 +89,66 @@
       "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
     },
     {
+      "added_at": "2022-04-29 17:32:29",
+      "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 173633,
+      "name": "Dreamin Of The Past (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/3Wx98ijEDnsxyMYePCuFNI"
+    },
+    {
+      "added_at": "2022-01-29 00:28:11",
+      "album": {
+        "name": "Survivor's Guilt (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5YOSBQ1qVEKRJo5YGBiE7p"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 222830,
+      "name": "Survivor's Guilt (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1ZTOr7I40ziaQb1vvCM3Ar"
+    },
+    {
+      "added_at": "2022-04-02 00:01:21",
+      "album": {
+        "name": "Ice Cream (feat. Rick Ross)",
+        "url": "https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "Ice Cream (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
+    },
+    {
       "added_at": "2022-04-15 07:13:44",
       "album": {
         "name": "On A Tee (with Icewear Vezzo) [Extended Version]",
@@ -67,6 +167,22 @@
       "duration_ms": 198000,
       "name": "On A Tee (with Icewear Vezzo) - Extended Version",
       "url": "https://open.spotify.com/track/3THhDihqhM6tWpPEMZsxkg"
+    },
+    {
+      "added_at": "2022-04-02 00:01:21",
+      "album": {
+        "name": "New Drank",
+        "url": "https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 88893,
+      "name": "New Drank",
+      "url": "https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw"
     },
     {
       "added_at": "2022-04-15 07:13:44",
@@ -165,44 +281,24 @@
       "url": "https://open.spotify.com/track/1gkObbz6CmnnCmT914LXFC"
     },
     {
-      "added_at": "2022-01-29 00:28:11",
+      "added_at": "2022-04-29 17:32:29",
       "album": {
-        "name": "Survivor's Guilt (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/5YOSBQ1qVEKRJo5YGBiE7p"
+        "name": "Cater",
+        "url": "https://open.spotify.com/album/2aVO79fW5JjJv1Ia9IBe79"
       },
       "artists": [
         {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 222830,
-      "name": "Survivor's Guilt (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1ZTOr7I40ziaQb1vvCM3Ar"
-    },
-    {
-      "added_at": "2022-04-02 00:01:21",
-      "album": {
-        "name": "Ice Cream (feat. Rick Ross)",
-        "url": "https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Ice Cream (feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
+      "duration_ms": 164543,
+      "name": "Cater",
+      "url": "https://open.spotify.com/track/2hiJwxiJF0NBfGb51co00q"
     },
     {
       "added_at": "2022-04-02 00:01:21",
@@ -219,26 +315,6 @@
       "duration_ms": 193983,
       "name": "Sunset Drive - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
-      "added_at": "2022-02-18 22:05:21",
-      "album": {
-        "name": "Want It Bad",
-        "url": "https://open.spotify.com/album/3MuAhnruoa9XOopdaIL3JT"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
-        }
-      ],
-      "duration_ms": 200486,
-      "name": "Want It Bad (with Nigo)",
-      "url": "https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA"
     },
     {
       "added_at": "2022-04-15 07:13:44",
@@ -331,6 +407,30 @@
       "duration_ms": 150857,
       "name": "See Through",
       "url": "https://open.spotify.com/track/5zpr6QTJY2ANgSoIQJBA07"
+    },
+    {
+      "added_at": "2022-04-29 17:32:29",
+      "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 233922,
+      "name": "Rock N Roll (feat. Kanye West & Kid Cudi)",
+      "url": "https://open.spotify.com/track/1ZM8toCOlnfBKJdvR8GqUq"
     },
     {
       "added_at": "2022-03-18 04:32:19",
@@ -435,22 +535,6 @@
       "duration_ms": 126896,
       "name": "Bop Stick",
       "url": "https://open.spotify.com/track/5FA3ouHtlqYbvQjHJ7OuKX"
-    },
-    {
-      "added_at": "2022-01-29 00:28:11",
-      "album": {
-        "name": "Fighting Demons",
-        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 170791,
-      "name": "You Wouldn't Understand",
-      "url": "https://open.spotify.com/track/2W1Aq2c6PUSHBC0golgHLK"
     },
     {
       "added_at": "2022-04-15 07:13:44",
@@ -665,6 +749,22 @@
       "url": "https://open.spotify.com/track/7JudIOn2oMzddfkNSNB1Wm"
     },
     {
+      "added_at": "2022-04-29 17:32:29",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0lBt6R5QtZTUcWA3HwfRo5"
+      },
+      "artists": [
+        {
+          "name": "Chvnge Up",
+          "url": "https://open.spotify.com/artist/2BDbEW8dSIADppnbbZzkGw"
+        }
+      ],
+      "duration_ms": 231143,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/7nM8xCqrndRnwdwViv82Ji"
+    },
+    {
       "added_at": "2022-03-18 04:32:19",
       "album": {
         "name": "BAG BOY",
@@ -761,6 +861,26 @@
       "url": "https://open.spotify.com/track/7ngD0SFdroiOLGyE4A4mpQ"
     },
     {
+      "added_at": "2022-04-29 17:32:29",
+      "album": {
+        "name": "Dangerous (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/57B9Y6aPOvsBg4bAHyydN4"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Buddaflywolf",
+          "url": "https://open.spotify.com/artist/4GpWl0xyRezdDw2q2J365r"
+        }
+      ],
+      "duration_ms": 161671,
+      "name": "Best Side (Deluxe Version)",
+      "url": "https://open.spotify.com/track/4KkJRNMtyzZNA38SbPpOUb"
+    },
+    {
       "added_at": "2022-04-02 00:01:21",
       "album": {
         "name": "Pressure (feat. Calboy)",
@@ -779,26 +899,6 @@
       "duration_ms": 181680,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3JBmBqLAyDMjpV2d9uJOtj"
-    },
-    {
-      "added_at": "2022-04-15 07:13:44",
-      "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/7bDT3EbpDMJT7WJik2xPDw"
-      },
-      "artists": [
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        },
-        {
-          "name": "DaVohn",
-          "url": "https://open.spotify.com/artist/4e8sxbp1bGYI7oBwacrN2Y"
-        }
-      ],
-      "duration_ms": 168254,
-      "name": "What It Is",
-      "url": "https://open.spotify.com/track/2jiT4xQC0bwe83il95YlLn"
     },
     {
       "added_at": "2022-02-18 22:05:21",
@@ -905,26 +1005,6 @@
       "url": "https://open.spotify.com/track/3ZG4FTdTqdXk1ja9hZap8x"
     },
     {
-      "added_at": "2022-01-29 00:28:11",
-      "album": {
-        "name": "Cover My Eyes Remix",
-        "url": "https://open.spotify.com/album/6m7iB5y3SUOOyDVYVJqkna"
-      },
-      "artists": [
-        {
-          "name": "Diamond White",
-          "url": "https://open.spotify.com/artist/0Ns29jDBaYI2wbHvTR1B9j"
-        },
-        {
-          "name": "OKAYKRISS",
-          "url": "https://open.spotify.com/artist/30DTuH9DthQizA3hgpk75Z"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "Cover My Eyes Remix",
-      "url": "https://open.spotify.com/track/3O2vyaCMZWeULFkhqFCAax"
-    },
-    {
       "added_at": "2022-03-04 18:28:49",
       "album": {
         "name": "CircoLoco Records & NEZ Present CLR 002",
@@ -939,6 +1019,22 @@
       "duration_ms": 215624,
       "name": "You Wanna?",
       "url": "https://open.spotify.com/track/6BRJxAgTCr7zCOmTkZuY2Q"
+    },
+    {
+      "added_at": "2022-04-29 17:32:29",
+      "album": {
+        "name": "GO OFF (Freestyle)",
+        "url": "https://open.spotify.com/album/5Wzfp92BAda4nwzsLbBs9t"
+      },
+      "artists": [
+        {
+          "name": "Roc Solid",
+          "url": "https://open.spotify.com/artist/2aHFGHOtZbY4es0QHxoOw9"
+        }
+      ],
+      "duration_ms": 115959,
+      "name": "GO OFF (Freestyle)",
+      "url": "https://open.spotify.com/track/2H3e5abGOZErX73Rt2WT3W"
     },
     {
       "added_at": "2022-03-04 18:28:49",
@@ -973,56 +1069,20 @@
       "url": "https://open.spotify.com/track/6E5dZiOO0DswcJZH0qPOvU"
     },
     {
-      "added_at": "2022-03-04 18:28:49",
+      "added_at": "2022-04-29 17:32:29",
       "album": {
-        "name": "NO LAW",
-        "url": "https://open.spotify.com/album/6zFSr9nPShhwiqQ2lIMlUS"
+        "name": "Guns 'n Roses",
+        "url": "https://open.spotify.com/album/2Bd1JVYu7GV4pCsSpgNNc8"
       },
       "artists": [
         {
-          "name": "B. Lewie",
-          "url": "https://open.spotify.com/artist/6PaR8BiEKBuKDML0yTChAs"
-        },
-        {
-          "name": "Earlly Mac",
-          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+          "name": "BCE Flamee",
+          "url": "https://open.spotify.com/artist/1WTC3qvJWaBvUzca686Xw3"
         }
       ],
-      "duration_ms": 92800,
-      "name": "Beam Me Up",
-      "url": "https://open.spotify.com/track/4TuNINGvHPt9rg2CGx7O9U"
-    },
-    {
-      "added_at": "2022-04-02 00:01:21",
-      "album": {
-        "name": "New Drank",
-        "url": "https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 88893,
-      "name": "New Drank",
-      "url": "https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw"
-    },
-    {
-      "added_at": "2022-04-02 00:01:21",
-      "album": {
-        "name": "Happy Belated",
-        "url": "https://open.spotify.com/album/466Y8zQYzU6lbpvAniGSGa"
-      },
-      "artists": [
-        {
-          "name": "Ohana Bam",
-          "url": "https://open.spotify.com/artist/2i8526w9fGlJcGVmepDyM4"
-        }
-      ],
-      "duration_ms": 240776,
-      "name": "Happy Belated",
-      "url": "https://open.spotify.com/track/7BoHQLqRZTkrU6lEXNkItJ"
+      "duration_ms": 184736,
+      "name": "War Scars",
+      "url": "https://open.spotify.com/track/6C5vPZAoYDGhnqRFbrLqIi"
     },
     {
       "added_at": "2021-10-29 06:00:13",
@@ -1055,22 +1115,6 @@
       "duration_ms": 231143,
       "name": "See Through",
       "url": "https://open.spotify.com/track/66s5MYu67DLPBvF5qcKfMg"
-    },
-    {
-      "added_at": "2022-01-29 00:28:11",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/3iRb4HfoUZV3s3LsEWqkQ9"
-      },
-      "artists": [
-        {
-          "name": "Bj",
-          "url": "https://open.spotify.com/artist/2Z5XtkutMYyA8gt14mLANU"
-        }
-      ],
-      "duration_ms": 173139,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/0hXgSNOJ5P1ha2uNPa3yzo"
     },
     {
       "added_at": "2022-01-29 00:28:11",

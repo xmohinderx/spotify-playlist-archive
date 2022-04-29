@@ -166,6 +166,32 @@
     },
     {
       "album": {
+        "name": "Avisa Quando Chegar",
+        "url": "https://open.spotify.com/album/6RRO4u0jO65JFrRXAgc0yn"
+      },
+      "artists": [
+        {
+          "name": "Sagaz",
+          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+        },
+        {
+          "name": "Dudu Pacceli",
+          "url": "https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Avisa Quando Chegar",
+      "url": "https://open.spotify.com/track/6ecOPJYN05Ws5djQwsPu4z"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4074lUQZ4MRwAtUhbfJP8M"
       },
@@ -407,7 +433,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 158400,
       "name": "Capa do Meu Celular",
       "url": "https://open.spotify.com/track/1DSVXMzX6ICqLtw63mU8F7"
@@ -1383,7 +1409,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 177595,
       "name": "Se Eu Falhei",
       "url": "https://open.spotify.com/track/7fltehcRKtCLn1ddVz53vM"
@@ -1545,6 +1571,28 @@
       "duration_ms": 229077,
       "name": "TIPO",
       "url": "https://open.spotify.com/track/78qClcxizF1otoEWRi2OBb"
+    },
+    {
+      "album": {
+        "name": "OWL",
+        "url": "https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Viciado 2.0",
+      "url": "https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf"
     },
     {
       "album": {

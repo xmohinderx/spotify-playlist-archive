@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 208973,
       "name": "Bessoka - Version courte",
       "url": "https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 308666,
       "name": "Biko (feat. Alex Brown, Peter Gabriel, Ladysmith Black Mambazo & Geoffrey Oryema)",
       "url": "https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 228666,
       "name": "Lagos Go Slow",
       "url": "https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 251573,
       "name": "Lily",
       "url": "https://open.spotify.com/track/5cMFjZAoxCWqgUO7VQcunF"
@@ -1277,6 +1277,28 @@
     {
       "album": {
         "name": "Cubafrica",
+        "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394933,
+      "name": "Quizas Quizas",
+      "url": "https://open.spotify.com/track/6TwjWoZvWcamsIhxsewOZd"
+    },
+    {
+      "album": {
+        "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
       "artists": [
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 395066,
       "name": "Quizas, Quizas, Quizas",
       "url": "https://open.spotify.com/track/1pt8kpkzmQ9O3xn4qCxL4Y"
@@ -1309,7 +1331,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 397573,
       "name": "Reggae Makossa",
       "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"
@@ -1407,7 +1429,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 128985,
       "name": "Soul Fiesta",
       "url": "https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1"

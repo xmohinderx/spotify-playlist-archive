@@ -1044,6 +1044,24 @@
     },
     {
       "album": {
+        "name": "Hard Working Man",
+        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
+    },
+    {
+      "album": {
         "name": "Keep It Hid",
         "url": "https://open.spotify.com/album/1aS3ouxrqC2xAjR5LJku6M"
       },
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 215480,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL"
@@ -1287,10 +1305,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 218778,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0HeNDXMTdBDS9eWQkhENJ2"
+    },
+    {
+      "album": {
+        "name": "I Wish I Knew How It Would Feel To Be Free",
+        "url": "https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        },
+        {
+          "name": "Levon Helm",
+          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "I Wish I Knew How It Would Feel To Be Free",
+      "url": "https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW"
     },
     {
       "album": {
@@ -1461,7 +1501,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 252640,
       "name": "Jack of Diamonds",
       "url": "https://open.spotify.com/track/2q7WMhP5z4P5vF4Z7aztNQ"
@@ -1645,7 +1685,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 280917,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/2WRhHhX9s9ZhLEZV7luzIg"
@@ -2796,6 +2836,24 @@
     },
     {
       "album": {
+        "name": "Whole World Gone Crazy",
+        "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "Whole World Gone Crazy",
+      "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
+    },
+    {
+      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
       },
@@ -2883,6 +2941,28 @@
       "duration_ms": 241432,
       "name": "You Can't Rule Me",
       "url": "https://open.spotify.com/track/4aQ5cd9GwSsTqfKt9LQS01"
+    },
+    {
+      "album": {
+        "name": "Get Up! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261573,
+      "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
+      "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"
     },
     {
       "album": {

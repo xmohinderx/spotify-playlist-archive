@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Ahora 2",
+        "url": "https://open.spotify.com/album/4SgaJXGKMRSsrlmuvH7GS0"
+      },
+      "artists": [
+        {
+          "name": "PedroH",
+          "url": "https://open.spotify.com/artist/53IOldtezol3AR7TMnIylv"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138997,
+      "name": "Ahora 2",
+      "url": "https://open.spotify.com/track/6RnewmdMV63UQriSRwrHyK"
+    },
+    {
+      "album": {
         "name": "Ahora Y Siempre",
         "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
       },
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 100500,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/0oEAm7huOvXiq7mre8Nual"
@@ -2681,7 +2699,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 135566,
       "name": "I am happy",
       "url": "https://open.spotify.com/track/6I8HPcA3003gZgVSH4uGlT"
@@ -3151,7 +3169,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 186549,
       "name": "Lo Hice, Te Dej\u00e9",
       "url": "https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6"
@@ -3460,6 +3478,24 @@
     },
     {
       "album": {
+        "name": "Dioneli EP",
+        "url": "https://open.spotify.com/album/40PueqfrlzLBaVwjoXbU9f"
+      },
+      "artists": [
+        {
+          "name": "Cuartero",
+          "url": "https://open.spotify.com/artist/3k9XSew0mrAQytiYyIXf18"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380269,
+      "name": "Manipulated - Original Mix",
+      "url": "https://open.spotify.com/track/3LUSlG5pfCNHQ9rejIZ1tV"
+    },
+    {
+      "album": {
         "name": "Mar y Tierra",
         "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
       },
@@ -3471,7 +3507,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
@@ -3957,7 +3993,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"

@@ -4,7 +4,7 @@
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
 
-280 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+281 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Chạnh Lòng Thương Cô 3 \(Cánh Chim Lạc Bầy\) TikTok](https://open.spotify.com/track/4fMJAZYc6HdvKGVdGsfqQr) | [Non Hanta](https://open.spotify.com/artist/0jcGcJKtH0D3xsdjHHO3KS), [Vy Phạm](https://open.spotify.com/artist/1hTdsS6jxYCqGRdIGANdLY) | [Chạnh Lòng Thương Cô 3 \(Cánh Chim Lạc Bầy\) TikTok](https://open.spotify.com/album/6zzBcN1vMd9hREsyjyjMCG) | 0:32 | 2022-02-21 | 2022-02-25 |
 | [Chầm Chậm Cùng Anh](https://open.spotify.com/track/13Cl4lQMQZXoUTFFYGvcmD) | [A.C Xuân Tài](https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE) | [Chầm Chậm Cùng Anh](https://open.spotify.com/album/42RAxVQ8JRew5R8biFaIpW) | 3:52 | 2022-01-28 |  |
 | [Chẳng Ai Muốn](https://open.spotify.com/track/2YdII5s2dJk6dcVl2MtdLw) | [Diam](https://open.spotify.com/artist/3Ynv5eRtPGGOjIdEvEtoMq), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Chẳng Ai Muốn](https://open.spotify.com/album/69ZXxzr9QqiuezC1gbc5Ts) | 2:56 | 2022-03-30 |  |
+| [Chỉ còn Mary Jane](https://open.spotify.com/track/2FHM7MYPQOsKMO045Feh1K) | [$ativa](https://open.spotify.com/artist/4MHq627pFLlhqrdQTamHtm), [Buford](https://open.spotify.com/artist/1DxMYqEhE2kFdVI9mrxUJf), [Poo](https://open.spotify.com/artist/5lDuZWXhAWrHvrBQTtbwEa) | [Chỉ còn Mary Jane](https://open.spotify.com/album/44l2dcIRdrbFzYPUfqQ3UJ) | 2:56 | 2022-04-29 |  |
 | [Chỉ Muốn Bên Em Thật Gần \- Remix](https://open.spotify.com/track/2EBGONLivfuwbSTf8XmnMi) | [YLing](https://open.spotify.com/artist/5uFx186LoZqUu2oo7OakjJ), [Star Online](https://open.spotify.com/artist/1lMI4zXuNgD2J4GWFkSv5Z) | [Chỉ Muốn Bên Em Thật Gần](https://open.spotify.com/album/06jkVYMP7A3NWptpY6PGzW) | 3:43 | 2022-02-28 |  |
 | [Chỉ Riêng Anh](https://open.spotify.com/track/6CtxM2mB7by38cY6M9z5JZ) | [Phuong Nam](https://open.spotify.com/artist/4LJrLpiije2ZAZjRUIKCT3), [Truc Ban Bun](https://open.spotify.com/artist/1gRltC2Wy0Gi2cxsDDJrh6) | [Chỉ Riêng Anh](https://open.spotify.com/album/3AkRoyH8Uepa10f5CyUCMN) | 3:40 | 2022-01-06 | 2022-02-11 |
 | [Chỉ Rung Động Mình Em](https://open.spotify.com/track/5xbJjMtTDNXBChodtK2kOe) | [ImD](https://open.spotify.com/artist/4kZKhAiaD155vll9hoEycu) | [Chỉ Rung Động Mình Em](https://open.spotify.com/album/7dwjIIiyFcnKU2Xv076ZXp) | 3:13 | 2022-04-14 |  |
@@ -287,6 +288,6 @@
 | [Đường Vẫn Còn Dài](https://open.spotify.com/track/5dkMPrtwjnRzAtE6gMnwK6) | [SMO](https://open.spotify.com/artist/1eLRJ9F6qwKeI6frD3ZzQg) | [Đường Vẫn Còn Dài](https://open.spotify.com/album/0jxKreW7Q1Btq4pcEU1zYH) | 3:36 | 2022-04-22 |  |
 | [Đắm Say](https://open.spotify.com/track/3N5czkNQEpX8zD6MCSsnZ7) | [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [Đắm Say](https://open.spotify.com/album/3EiLsFu60L1vXBw1X8aYdl) | 3:43 | 2022-01-06 | 2022-03-11 |
 | [Đừng Khiến Trái Tim Em Khóc](https://open.spotify.com/track/1aSRibNh6KrXMDOfbRQL9d) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Đừng Khiến Trái Tim Em Khóc](https://open.spotify.com/album/1Z6Pv1Wh6RLn3oCUvGAcfP) | 3:22 | 2022-01-25 | 2022-02-11 |
-| [Ở Trong Đôi Mắt Em](https://open.spotify.com/track/3LvcVUUS0QmDiOgee1lvXj) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [Ở Trong Đôi Mắt Em](https://open.spotify.com/album/3yGF3u2anFL7j8PLeskfFl) | 4:13 | 2022-02-21 |  |
+| [Ở Trong Đôi Mắt Em](https://open.spotify.com/track/3LvcVUUS0QmDiOgee1lvXj) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [Ở Trong Đôi Mắt Em](https://open.spotify.com/album/3yGF3u2anFL7j8PLeskfFl) | 4:13 | 2022-02-21 | 2022-04-29 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

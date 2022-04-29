@@ -1,61 +1,13 @@
 {
-  "description": "Holdin' it down for the westside. Cover: Buddy",
-  "num_followers": 687109,
+  "description": "Holdin' it down for the westside. Cover: Blxst",
+  "num_followers": 687154,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkwNzAxOCwwMDAwMDUxODAwMDAwMTgwNjFiOWYzNzkwMDAwMDE3ZmRjMzgzODU5",
+  "snapshot_id": "MTY1MTIwNDgwMCwwMDAwMDUxOTAwMDAwMTgwNzM3OWJlZDEwMDAwMDE4MDczNTBiODk3",
   "tracks": [
-    {
-      "added_at": "2022-04-25 17:16:58",
-      "album": {
-        "name": "Hollandaise",
-        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Hollandaise",
-      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Every Good Girl",
-      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
-    },
-    {
-      "added_at": "2022-03-25 05:02:22",
-      "album": {
-        "name": "Superghetto",
-        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 195756,
-      "name": "Hoochie Mama",
-      "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
-    },
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
@@ -97,6 +49,58 @@
       "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
     },
     {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "No Handoutz (feat. Yeat)",
+        "url": "https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 150491,
+      "name": "No Handoutz (feat. Yeat)",
+      "url": "https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH"
+    },
+    {
+      "added_at": "2022-03-25 05:02:22",
+      "album": {
+        "name": "Superghetto",
+        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 195756,
+      "name": "Hoochie Mama",
+      "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Every Good Girl",
+      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
+    },
+    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "I Know NIGO!",
@@ -115,42 +119,6 @@
       "duration_ms": 199500,
       "name": "Come On, Let's Go (with Nigo)",
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 222225,
-      "name": "moved to miami (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/6WDP50ES2v8aY4oETrFZYa"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Popstar",
-      "url": "https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -233,6 +201,38 @@
       "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
     },
     {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Black Iverson",
+        "url": "https://open.spotify.com/album/46Enyl1OWFBCqnEh2hVIfA"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        }
+      ],
+      "duration_ms": 185924,
+      "name": "Black Iverson",
+      "url": "https://open.spotify.com/track/3sLNEWdnPH6ML05Z8wFZhM"
+    },
+    {
+      "added_at": "2022-04-25 17:16:58",
+      "album": {
+        "name": "Hollandaise",
+        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Hollandaise",
+      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
+    },
+    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Street Signs",
@@ -273,6 +273,42 @@
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
     },
     {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "From The District To The World",
+        "url": "https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "Dontplaydat (feat. Buddy)",
+      "url": "https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/6WDP50ES2v8aY4oETrFZYa"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2"
+    },
+    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "Lifetime",
@@ -309,6 +345,26 @@
       "url": "https://open.spotify.com/track/72LYxJqGTHVJamtyRQohre"
     },
     {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 222225,
+      "name": "moved to miami (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
+    },
+    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
@@ -337,6 +393,22 @@
       "url": "https://open.spotify.com/track/7eheBzQNeMd0ZxU3HoXltE"
     },
     {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Since Y'all Forgot",
+        "url": "https://open.spotify.com/album/1L4pGtxe0WwRca5z09AFeH"
+      },
+      "artists": [
+        {
+          "name": "Casey Veggies",
+          "url": "https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Kick Doe Freestyle",
+      "url": "https://open.spotify.com/track/5kwE511DgVpfISjZwEXtEU"
+    },
+    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "B's Up",
@@ -351,6 +423,22 @@
       "duration_ms": 150028,
       "name": "B's Up",
       "url": "https://open.spotify.com/track/7LzDAUdS3NHUS2gkFUX5a5"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "See The Difference",
+        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "duration_ms": 178671,
+      "name": "See The Difference",
+      "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -387,6 +475,22 @@
       "duration_ms": 134780,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Sleepy Soldier",
+        "url": "https://open.spotify.com/album/4lyr7gv3pvIvUX5QyPB68B"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "duration_ms": 178688,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/6VedgheUzpD7cVQD4Zy1Ge"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -429,6 +533,26 @@
       "url": "https://open.spotify.com/track/1abUcyBvx6mUmAQfGjq9BN"
     },
     {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Ghetto Praise",
+        "url": "https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc"
+      },
+      "artists": [
+        {
+          "name": "Jay 305",
+          "url": "https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 193756,
+      "name": "Ghetto Praise",
+      "url": "https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6"
+    },
+    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "GEEZYWORLD (Deluxe)",
@@ -447,22 +571,6 @@
       "duration_ms": 177777,
       "name": "Let Me Know (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/2ZFFX9m6T3vsB9yJoURXZH"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Cali Lovin",
-        "url": "https://open.spotify.com/album/3p39OOJTQ79L1dmC4HmQbW"
-      },
-      "artists": [
-        {
-          "name": "KINGMOSTWANTED",
-          "url": "https://open.spotify.com/artist/7BCzdg9R0InC8COslhyNrQ"
-        }
-      ],
-      "duration_ms": 91115,
-      "name": "Cali Lovin",
-      "url": "https://open.spotify.com/track/6ryE7ZAB9jsM8tfpmXIuEJ"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -617,22 +725,6 @@
       "url": "https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Picasso",
-        "url": "https://open.spotify.com/album/1tjG76nlg1AlhGG4O2CGU9"
-      },
-      "artists": [
-        {
-          "name": "Tanna Leone",
-          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
-        }
-      ],
-      "duration_ms": 106847,
-      "name": "Picasso",
-      "url": "https://open.spotify.com/track/43t69WNj30qqc2XDryeLAj"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "2 P'z In A Pod",
@@ -655,22 +747,6 @@
       "duration_ms": 175220,
       "name": "Leave It Up To Me",
       "url": "https://open.spotify.com/track/6xRD47ABwR3y4RytXiTJFi"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "See The Difference",
-        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
-      },
-      "artists": [
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 178671,
-      "name": "See The Difference",
-      "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
     },
     {
       "added_at": "2022-03-25 05:02:22",
@@ -825,38 +901,6 @@
       "url": "https://open.spotify.com/track/1QKG0n4AawYX4K8SkvjxtS"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Cheap",
-        "url": "https://open.spotify.com/album/1ddtZxVVgYsrpfE7qhXSxn"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        }
-      ],
-      "duration_ms": 106026,
-      "name": "Cheap",
-      "url": "https://open.spotify.com/track/5ICnHKFy7yBDTEFjZ8hODA"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Do Whatever to Survive",
-        "url": "https://open.spotify.com/album/1OeC8jjhHEdm65M7p7NfyW"
-      },
-      "artists": [
-        {
-          "name": "Haiti Babii",
-          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Do Whatever to Survive",
-      "url": "https://open.spotify.com/track/6RR2dOw3NE5pim5KGyNEYj"
-    },
-    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "See The Difference",
@@ -887,78 +931,6 @@
       "duration_ms": 246268,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/6CigsKxaU5iDoQnWUFXw6K"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "2 Aliv\u00eb",
-        "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Rackz got m\u00eb (feat. Gunna)",
-      "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Mainline",
-        "url": "https://open.spotify.com/album/0dHJydcIeqGlNLBTuUQwEN"
-      },
-      "artists": [
-        {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        },
-        {
-          "name": "Big Sad 1900",
-          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
-        }
-      ],
-      "duration_ms": 216672,
-      "name": "Mainline",
-      "url": "https://open.spotify.com/track/5pdN5KBRpkowHngLmeBEDe"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Ruthless",
-        "url": "https://open.spotify.com/album/2sXZcFiXa2vTF5xRxUvZvq"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/10amUOwfsKo2HTa1SPXetH"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Bet It Back",
-        "url": "https://open.spotify.com/album/65FSEScNKeIccB0YQuhLAy"
-      },
-      "artists": [
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        }
-      ],
-      "duration_ms": 152149,
-      "name": "Bet It Back",
-      "url": "https://open.spotify.com/track/4LUCzWbzWRwzNC59XhrjZy"
     }
   ],
   "unique_name": "Westside Story",

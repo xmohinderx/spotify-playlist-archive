@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 474224,
       "name": "2:16",
       "url": "https://open.spotify.com/track/3OCqCbQUhcol3nYAbVhAfV"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 287541,
       "name": "And Then You Came",
       "url": "https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS"
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 293097,
       "name": "Bosco Lisergico",
       "url": "https://open.spotify.com/track/6EzfZhot2CjkWmF5aZVNMm"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 392107,
       "name": "Cabara\u00fa",
       "url": "https://open.spotify.com/track/6wCIFkMgQitrrJyc2ruYj0"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 114129,
       "name": "cheated",
       "url": "https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK"
@@ -2953,7 +2953,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Drip! Drip! Drip!",
       "url": "https://open.spotify.com/track/3NWMuq1k1DJNXaHU0m7GDj"
@@ -3037,7 +3037,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 146341,
       "name": "Dunes",
       "url": "https://open.spotify.com/track/7u6uE9g62XZPY5QVqjchBG"
@@ -3441,7 +3441,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 234926,
       "name": "Era - Edit",
       "url": "https://open.spotify.com/track/5JmAxNxkWutCEwAWWZn7dy"
@@ -3713,6 +3713,24 @@
       "duration_ms": 328504,
       "name": "Eye Flow Wide",
       "url": "https://open.spotify.com/track/7JryfaXQFOYTw8Z1tMXxyH"
+    },
+    {
+      "album": {
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "album": {
@@ -4111,7 +4129,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 247693,
       "name": "Fire in the Jungle",
       "url": "https://open.spotify.com/track/2bG3V8jTu1dmzyx3cLNaOj"
@@ -4479,7 +4497,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 366146,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/11FmDjx3y7vz27i0n8GMhF"
@@ -4721,7 +4739,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 157557,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL"
@@ -5369,7 +5387,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 170853,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/5stDMB1rZHPNWqzEdSgGEN"
@@ -6343,7 +6361,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 235346,
       "name": "Karst - Vegyn Remix",
       "url": "https://open.spotify.com/track/3NgBhFxrBA3eW4iED0BxFe"
@@ -6397,7 +6415,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 275199,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
@@ -6455,7 +6473,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 304813,
       "name": "L'architettura Del Mare",
       "url": "https://open.spotify.com/track/3bOEp5lWoea80fO9FDmb0c"
@@ -6765,7 +6783,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 206222,
       "name": "Let You",
       "url": "https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY"
@@ -7299,7 +7317,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 279600,
       "name": "Merlins Head - Aparde Remix",
       "url": "https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW"
@@ -9653,7 +9671,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 253090,
       "name": "Rising Fire - Montoya Remix",
       "url": "https://open.spotify.com/track/0J6aBcWVVVsqNWs7ATnfcB"
@@ -10177,7 +10195,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 388692,
       "name": "Shibori",
       "url": "https://open.spotify.com/track/3cUYvBTqGjS6zknck89Yio"
@@ -11579,7 +11597,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 705613,
       "name": "The Anatomy of Clouds - Yann Tiersen Remix",
       "url": "https://open.spotify.com/track/1oEKtplYnjwb3tAlfm1NPF"
@@ -12051,7 +12069,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 245826,
       "name": "The Wave - Radio Edit",
       "url": "https://open.spotify.com/track/26psGKOS3wq1K4D1aqGLd3"
@@ -12163,7 +12181,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 331624,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3kE3j0x9BMdyFExd2ZOq5z"
@@ -12455,7 +12473,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 191809,
       "name": "Truly",
       "url": "https://open.spotify.com/track/5qUebbZSJz1q2vA21CPzYF"
@@ -12625,7 +12643,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 262915,
       "name": "Unfamiliar",
       "url": "https://open.spotify.com/track/5N4zbU92aLx9Wrn16isoo8"
@@ -12893,7 +12911,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 216224,
       "name": "Wake Up - Nuage Remix",
       "url": "https://open.spotify.com/track/2ksI5VBtOvZegQBQRQgzLW"

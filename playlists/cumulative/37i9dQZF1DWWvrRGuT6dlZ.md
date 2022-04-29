@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Zane Cotton\. Artwork: Isu Kim.
 
-200 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+201 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [no bad vibes](https://open.spotify.com/track/5UGItqf6dcDAsNaoaTuRwY) | [Qis Maraj](https://open.spotify.com/artist/0rRWud0f3XEpYgiHcIiBSv) | [no bad vibes](https://open.spotify.com/album/4PNfpkpHYk83OnQ6EBKUIn) | 2:34 | 2022-02-10 |  |
 | [NOT A CRIMINAL](https://open.spotify.com/track/1FSmBKiaGkfIKG0SYbUVAU) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [NOT A CRIMINAL](https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH) | 2:50 | 2022-03-31 |  |
 | [Novacane](https://open.spotify.com/track/4dpB2DGhRfxbsbqCyxsKi1) | [Alysha Ridwan](https://open.spotify.com/artist/2divqL5ztMYdbU8PguBHxC) | [Novacane](https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4) | 2:56 | 2022-01-27 |  |
+| [Now](https://open.spotify.com/track/5Yw87BrKuMvoborbwxAagF) | [Huzkee](https://open.spotify.com/artist/1tfpoJkjawQMKzlybghU5P) | [Now](https://open.spotify.com/album/4BDimkoIT1WGP183LVQNII) | 2:52 | 2022-04-28 |  |
 | [Oh It's You](https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Summertime](https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a) | 3:25 | 2021-12-01 | 2022-01-14 |
 | [OK](https://open.spotify.com/track/6tIZqygSTNRyGn9WSIQxrl) | [Adrian Danial](https://open.spotify.com/artist/494R2afpLGofkQy8OVXleD) | [OK](https://open.spotify.com/album/0VZTi0KgY9x0o145joTKd0) | 2:26 | 2022-03-31 |  |
 | [One Can Only Hope](https://open.spotify.com/track/7xBzM5EVcCBeCaw7olmJkY) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [One Can Only Hope](https://open.spotify.com/album/3i5d4G9Helc5kg2ApeINGd) | 3:31 | 2022-02-24 |  |

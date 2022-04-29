@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 103 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 |
 | 104 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 
-Snapshot ID: `MTU4MCxhNDIxYjMwZmNkMTRiMWMzYjhmZjliZTM0NzgwZDBmYzFmZTE3MjZm`
+Snapshot ID: `MTU4MixlMGM1MWNmNzA5NzM2MzQ5MjI5MThlZWEyNzRkYTNjODM2NDZiNmY1`

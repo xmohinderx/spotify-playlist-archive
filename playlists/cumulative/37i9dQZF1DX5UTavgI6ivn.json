@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Goyo",
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Fonseca",
   "name": "Made in Colombia",
   "published_playlist_ids": [
     "52JA0GNAstvKsstw41UXnX"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 218518,
       "name": "EDM",
       "url": "https://open.spotify.com/track/7fRPM4l4iytjKuLOpA9BAG"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 156191,
       "name": "I Am Bolero",
       "url": "https://open.spotify.com/track/1Ph9wDvgb0eOrJCEsC0YBP"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 182253,
       "name": "Ni\u00f1o So\u00f1ador",
       "url": "https://open.spotify.com/track/2kRrmu3UpV9t9jM8yFxzGk"
@@ -1425,6 +1425,28 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "album": {
+        "name": "VIAJANTE",
+        "url": "https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Pasa",
+      "url": "https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA"
     },
     {
       "album": {
@@ -1786,6 +1808,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3uidpSvV0pe290g18HjbB4"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Timbiqui",
+          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207811,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5vA5zKaoFqbJ1uPi8rGeIr"
+    },
+    {
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2049,6 +2089,24 @@
       "duration_ms": 212133,
       "name": "Voy Por Ti",
       "url": "https://open.spotify.com/track/2sRhe52xJklfzRIe0K6puw"
+    },
+    {
+      "album": {
+        "name": "vuelve",
+        "url": "https://open.spotify.com/album/5Lw8CZl4zZG5uMxvHeqJnE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201887,
+      "name": "vuelve",
+      "url": "https://open.spotify.com/track/565mWLRnlRTcfGdruoxJbP"
     },
     {
       "album": {

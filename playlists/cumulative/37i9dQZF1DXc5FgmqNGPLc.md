@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-75 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+76 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [But Not For Me \- Live](https://open.spotify.com/track/2YgzzUngwKJ193BuITI15o) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Up At Minton's](https://open.spotify.com/album/1G8ODQXuTjHPc0JXNHnT0m) | 11:29 | 2021-11-12 |  |
 | [C Jam Blues \- Live at the Blue Note Club, Chicago; 1994 Remix](https://open.spotify.com/track/1wHGIsLlqW1sPsiVY6zyml) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Live At The Blue Note](https://open.spotify.com/album/2Pi1i1PxmSDcczxHrhzj1p) | 4:52 | 2021-11-12 |  |
 | [Chant \- Live in New York City, February 8, 1975](https://open.spotify.com/track/0Lw72hrW5ARR7Q0VR0lmFF) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Chant \(Live in New York City, February 8, 1975\)](https://open.spotify.com/album/7MksN41NTRhxmEqKJoTqVs) | 4:33 | 2022-01-21 |  |
+| [Chelsea Bridge](https://open.spotify.com/track/0w83dRmOWHezPfzDGD7bYC) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Chelsea Bridge](https://open.spotify.com/album/0V4zIOu1Fa82EUShYq8Epf) | 6:35 | 2022-04-29 |  |
 | [Cherokee](https://open.spotify.com/track/1koEJOJBQfadRG5nvQxg8w) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Warren Vaché](https://open.spotify.com/artist/0GWVa7PVBGQTtltgwpf5hw), [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [1995](https://open.spotify.com/album/3m1W0Qonekz3DOL1bNDPLR) | 10:45 | 2022-02-25 |  |
 | [Congalegre \- Live](https://open.spotify.com/track/2dx0Gh2pk0fN8DcsazjJ6N) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Ernesttico](https://open.spotify.com/artist/2CmYb3Zf7R9D41tqsLNh8a) | [Massimo Farao' Afro Cuban Quintet \(Live at Chiara Recording Torino, Italy \- Ferrara, December 18th 2021\)](https://open.spotify.com/album/3MST2Qc3LUMZKVBKBq3iau) | 6:58 | 2022-02-11 |  |
 | [Dat Dere \- Live At Hibiya Public Hall, Tokyo, Japan 1/14/61](https://open.spotify.com/track/1nlsh7FXUf0sLaCOPvo2sz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [First Flight To Tokyo: The Lost 1961 Recordings](https://open.spotify.com/album/5pe7gBl8IgEAaknrfd0hnF) | 12:13 | 2021-12-10 |  |

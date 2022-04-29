@@ -1210,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "prolly my spookiest beat",
+        "url": "https://open.spotify.com/album/56HClvGjV3yEhiNb2gy4Ba"
+      },
+      "artists": [
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119409,
+      "name": "prolly my spookiest beat",
+      "url": "https://open.spotify.com/track/7bzZzwCiidSodNRK1Deyf2"
+    },
+    {
+      "album": {
         "name": "Psg",
         "url": "https://open.spotify.com/album/63zjn66lKJyZ5CyHiJOokw"
       },
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 556524,
       "name": "Shikipla - Remix",
       "url": "https://open.spotify.com/track/6CD3fyqTD0Cpb5MJ5L5F0U"

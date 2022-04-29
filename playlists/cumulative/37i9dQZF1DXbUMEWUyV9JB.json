@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-01",
-  "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Raymix",
+  "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Sof\u00eda Reyes, Los Angeles Azules, Esteman",
   "name": "Super Cumbias",
   "published_playlist_ids": [
     "4hXhb06SfkzPU69NYrwfU0"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 146013,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 162013,
       "name": "El Mu\u00f1eco",
       "url": "https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3"
@@ -691,6 +691,32 @@
       "duration_ms": 159706,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/72d4IAYNxN0PEAr8StLgBL"
+    },
+    {
+      "album": {
+        "name": "Esa Parte De M\u00ed",
+        "url": "https://open.spotify.com/album/3StKKTOhmUMbmrqZbH0tDi"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "Esa Parte De M\u00ed",
+      "url": "https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv"
     },
     {
       "album": {
@@ -1111,7 +1137,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 188333,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"

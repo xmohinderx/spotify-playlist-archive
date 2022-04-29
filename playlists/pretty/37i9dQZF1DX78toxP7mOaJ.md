@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Cowboy Mugshot \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,704 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,731 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 114 | [Sun Is Always in My Eyes](https://open.spotify.com/track/3OTIRjtoTXNhr2VmZRQmBR) | [Kindsight](https://open.spotify.com/artist/69INXmdJGXIPAZQuThqRjw) | [Sun Is Always in My Eyes](https://open.spotify.com/album/1RuOpKyAsvEX0e9HmjeNVw) | 3:32 |
 | 115 | [Siren](https://open.spotify.com/track/7lZzYYR33g4Iwi98P4Uy8s) | [Bandicoot](https://open.spotify.com/artist/3S3gHwGPL54Hn3UXDWvAFE) | [Black After Dark](https://open.spotify.com/album/1brOYaG9IxLulz8s2ZoVHj) | 3:54 |
 | 116 | [If he wanted to, he would.](https://open.spotify.com/track/7clzpKD9uuNYhGcj0vK4l5) | [In the Mourning](https://open.spotify.com/artist/1uzirhDmkUbDDaBGcwfd0h) | [If he wanted to, he would.](https://open.spotify.com/album/4WXWY8WlUKOFJjFer6naA6) | 2:42 |
-| 117 | [WW3](https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [GRANDMA](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [WW3](https://open.spotify.com/album/27Q8KrXPXir8nSlqZfMB7h) | 2:32 |
+| 117 | [WW3](https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [WW3](https://open.spotify.com/album/27Q8KrXPXir8nSlqZfMB7h) | 2:32 |
 | 118 | [Really Big Shrimp](https://open.spotify.com/track/4keBrel4hcVl8BhPYIIih2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Really Big Shrimp](https://open.spotify.com/album/1geczTpVEMH5Un9wxMRusf) | 4:23 |
 | 119 | [Hangover Game](https://open.spotify.com/track/3FYheukMNQR3Y84CgGnE9F) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Hangover Game](https://open.spotify.com/album/2C43GcoINX1OhCDLCA0KUy) | 2:16 |
 | 120 | [Mercy](https://open.spotify.com/track/3qWMAnRBrn8VKEiMyXAd9d) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Mercy](https://open.spotify.com/album/0h7uU21J5Rwwo2duQoEJHG) | 3:33 |

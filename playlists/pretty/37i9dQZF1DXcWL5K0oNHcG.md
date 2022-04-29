@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Neo Arc\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,404 likes - 85 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,455 likes - 85 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 7 | [Keep Moving](https://open.spotify.com/track/29NoHW6KNuxUmpxShyQ2n9) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ), [MidnightRoba](https://open.spotify.com/artist/41BwcfR5d2OOkuTvn3F850) | [Glass Effect](https://open.spotify.com/album/7aGcbrgSOp6pgTC0AQ1oc6) | 3:44 |
 | 8 | [Resurgence](https://open.spotify.com/track/5qtmaZ4LY7yXy5Iv556dZX) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Resurgence](https://open.spotify.com/album/2HhwakTXk20GrAjjyWTAqC) | 5:40 |
 | 9 | [Yurikamome](https://open.spotify.com/track/5yiO9YPa19e6G0OeDAD5yu) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS) | [Yurikamome](https://open.spotify.com/album/70r88fDNnLWhhBIBrT9E6d) | 5:42 |
-| 10 | [Thebe](https://open.spotify.com/track/4QQi5Z7ywBOhWKF1uVxrld) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Thebe](https://open.spotify.com/album/0tIqi2WrwmluiMpY8iOTJZ) | 2:05 |
+| 10 | [Thebe](https://open.spotify.com/track/4QQi5Z7ywBOhWKF1uVxrld) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Thebe](https://open.spotify.com/album/0tIqi2WrwmluiMpY8iOTJZ) | 2:05 |
 | 11 | [You Go To My Head](https://open.spotify.com/track/7utKn0th29oCVTVqyQrSbx) | [Lori Lieberman](https://open.spotify.com/artist/6x0GyF6PMlHjH365CcEjpl) | [You Go To My Head](https://open.spotify.com/album/6kiYSLhcIk8yKVnJixmOcC) | 5:03 |
 | 12 | [New Beginnings](https://open.spotify.com/track/7hoAD7rYkx0l4m4tXT4ulp) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [New Beginnings](https://open.spotify.com/album/6WeZUZAkXHisdqgLgqSIQD) | 6:19 |
 | 13 | [\(Take me to the\) Wide open lows](https://open.spotify.com/track/2aDvRHREucVtWSlgpZdNvP) | [Binker Golding](https://open.spotify.com/artist/7LO9JgJitsPExiZcDyVzm1) | [\(Take me to the\) Wide Open Lows](https://open.spotify.com/album/2hxgHTRJjAHip5OsNZWm5w) | 9:31 |

@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi"
+      },
+      "artists": [
+        {
+          "name": "Ceci Juno",
+          "url": "https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223053,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/5ro0BttdQXF8ElE53ixJ5h"
+    },
+    {
+      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
       },
@@ -219,6 +237,24 @@
       "duration_ms": 202789,
       "name": "Cerveza Cerveza 2.0",
       "url": "https://open.spotify.com/track/56Z1XXi31MoanMN0RlW16E"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/6FhtQQydH3Y6SNb1X6UgFn"
+      },
+      "artists": [
+        {
+          "name": "Anna Carina",
+          "url": "https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163870,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/02r4y9kqU8GQYX2kg32n6W"
     },
     {
       "album": {
@@ -591,7 +627,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 194186,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/6nvSAlJjsVEwQnKgQcZSPC"
@@ -995,7 +1031,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 136332,
       "name": "Mil Curitas",
       "url": "https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks"

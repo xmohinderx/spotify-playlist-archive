@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto: Eric Phillips y Aaron Moses",
+  "description": "Las mejores nuevas canciones cristianas.  Foto: Tommy Royale",
   "name": "Novedades Cristianas",
   "published_playlist_ids": [
     "1KUPUNIHlkycouwTjzbQCF"
@@ -27,6 +27,24 @@
       "duration_ms": 225976,
       "name": "10,000 Ej\u00e9rcitos",
       "url": "https://open.spotify.com/track/0zqrejJtpYlERHPMo2qBVo"
+    },
+    {
+      "album": {
+        "name": "123 Enemies",
+        "url": "https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "123 Enemies",
+      "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
     },
     {
       "album": {
@@ -103,6 +121,28 @@
       "duration_ms": 213862,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/5RlauPJiHuG7KpTKMcjY05"
+    },
+    {
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/2f96IzR5mHpjwIgMKOafuP"
+      },
+      "artists": [
+        {
+          "name": "Mr Eduard",
+          "url": "https://open.spotify.com/artist/0B4bg6OcwQeBmsyQANbobd"
+        },
+        {
+          "name": "KEFFA",
+          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191509,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/7B2CuqBGNI1m7lf8ES6dVf"
     },
     {
       "album": {
@@ -379,7 +419,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 237019,
       "name": "Aqu\u00ed Est\u00e1 Dios",
       "url": "https://open.spotify.com/track/6RauS2jhWkWRxHwG26mno4"
@@ -758,6 +798,74 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Te Amamos (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+        "url": "https://open.spotify.com/album/0Gf8wWBy3I08ERf6IGwrSq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462607,
+      "name": "C\u00f3mo Te Amamos (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/5QzMMnMmAKL82fpNdSIbG9"
+    },
+    {
+      "album": {
+        "name": "Danzando",
+        "url": "https://open.spotify.com/album/7J3qxFpqVrSSE5fcqV01gu"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Becky Collazos",
+          "url": "https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488927,
+      "name": "Danzando",
+      "url": "https://open.spotify.com/track/07yd60JLsOIEIkQ13gpmRk"
+    },
+    {
+      "album": {
         "name": "Descanso",
         "url": "https://open.spotify.com/album/1ltftGRVCblid8Ec0n4iKk"
       },
@@ -1009,7 +1117,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 279759,
       "name": "El Cielo Llor\u00f3",
       "url": "https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM"
@@ -1067,7 +1175,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 268344,
       "name": "El Milagro",
       "url": "https://open.spotify.com/track/0nSMObjfgB8utLKfVo7wIV"
@@ -1208,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Rey Del Cielo (Live)",
+        "url": "https://open.spotify.com/album/1RXbNCk1PL83UW4Cp55dcp"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463018,
+      "name": "En Ti Descanso (Live)",
+      "url": "https://open.spotify.com/track/1LY6XVTRyOeFVFHRSBhNV3"
+    },
+    {
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6dCJb6nxqhzSrNX8qL5QdB"
       },
@@ -1311,6 +1437,32 @@
       "duration_ms": 302538,
       "name": "Estar contigo",
       "url": "https://open.spotify.com/track/4O7TLknCyDmUAiWOTLEhrG"
+    },
+    {
+      "album": {
+        "name": "Ester",
+        "url": "https://open.spotify.com/album/599rziFzvintF1dXKnTYBR"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        },
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201720,
+      "name": "Ester",
+      "url": "https://open.spotify.com/track/183xN4UmkP3WqyC8V7iFks"
     },
     {
       "album": {
@@ -1555,7 +1707,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 301710,
       "name": "Gloria, Honor, Poder",
       "url": "https://open.spotify.com/track/32mOZgW0bDqy5wUxmjpSVy"
@@ -1745,7 +1897,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 342817,
       "name": "In Jesus Name - Latin Arrangement",
       "url": "https://open.spotify.com/track/7l0d1AlqQYbIQ70m64oZ3c"
@@ -1926,6 +2078,24 @@
     },
     {
       "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/3GXG3VarQFE1fn0RwBGapZ"
+      },
+      "artists": [
+        {
+          "name": "Zona 7",
+          "url": "https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234342,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/5bzYivepxtHfBzE7tBvUPs"
+    },
+    {
+      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL"
       },
@@ -1967,6 +2137,24 @@
       "duration_ms": 396842,
       "name": "Levantar\u00e9 (Live)",
       "url": "https://open.spotify.com/track/420RhVNyDVv8iQhlDhZwxr"
+    },
+    {
+      "album": {
+        "name": "Llamado De Clar\u00edn",
+        "url": "https://open.spotify.com/album/3sjbYvXzKfFSPoixGc1QrA"
+      },
+      "artists": [
+        {
+          "name": "Bria",
+          "url": "https://open.spotify.com/artist/39ijeu4kzeWzjcqqpYNsN7"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213674,
+      "name": "Llamado de Clar\u00edn",
+      "url": "https://open.spotify.com/track/3rPdvYXOn2MbeJm4H7rLvK"
     },
     {
       "album": {
@@ -2255,7 +2443,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 248935,
       "name": "Me Cuidas",
       "url": "https://open.spotify.com/track/5fMOniTjwgdcmDaxr0D1Ti"
@@ -2299,7 +2487,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 811503,
       "name": "Me Salvaste",
       "url": "https://open.spotify.com/track/6Kv31K0bsskf3cbWrxQE0I"
@@ -2555,6 +2743,24 @@
       "duration_ms": 293833,
       "name": "Mi Milagro",
       "url": "https://open.spotify.com/track/5Cftis8Wls5oTBC1IVuOkB"
+    },
+    {
+      "album": {
+        "name": "Mi Plenitud",
+        "url": "https://open.spotify.com/album/3rZ6WYcwB4uNPJgMHXEgAf"
+      },
+      "artists": [
+        {
+          "name": "Franco Figueroa",
+          "url": "https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396250,
+      "name": "Mi Plenitud",
+      "url": "https://open.spotify.com/track/1iA2BAm5rR47YFS74RprgE"
     },
     {
       "album": {
@@ -2899,7 +3105,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 196424,
       "name": "No Te Creo",
       "url": "https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB"
@@ -3065,6 +3271,24 @@
       "duration_ms": 473742,
       "name": "Poderoso Dios - Grande y Fiel",
       "url": "https://open.spotify.com/track/1ZeKgGNqFR7NlbxOhEBDJd"
+    },
+    {
+      "album": {
+        "name": "Por m\u00ed regresar\u00e1s",
+        "url": "https://open.spotify.com/album/3OXy8pOJCjEgtdpQvpDQSh"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Gim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256347,
+      "name": "Por m\u00ed regresar\u00e1s",
+      "url": "https://open.spotify.com/track/7cHOdG4SZzCtnYqUdkp2T4"
     },
     {
       "album": {
@@ -3330,6 +3554,24 @@
     },
     {
       "album": {
+        "name": "RESETEO",
+        "url": "https://open.spotify.com/album/0FTZ2nC9SNdf4o70nqWvK7"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "RESETEO",
+      "url": "https://open.spotify.com/track/4ry6u6TlDsAlBEDoxos0P2"
+    },
+    {
+      "album": {
         "name": "Respiro Tu Paz",
         "url": "https://open.spotify.com/album/05l5gY8SNkKuoCtxnoqBM1"
       },
@@ -3458,6 +3700,24 @@
     },
     {
       "album": {
+        "name": "Sano Soy",
+        "url": "https://open.spotify.com/album/3cE4oP6EaZSDwOiYv2mYy8"
+      },
+      "artists": [
+        {
+          "name": "Natanael Sensini",
+          "url": "https://open.spotify.com/artist/4Cb7yBecLD3ICuU5VruQPf"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361935,
+      "name": "Sano Soy",
+      "url": "https://open.spotify.com/track/1k5bXxzm8dYZXJbVJCVhIb"
+    },
+    {
+      "album": {
         "name": "Santa la Noche",
         "url": "https://open.spotify.com/album/6XSE34VbnEn6qO3lBdzXDX"
       },
@@ -3499,7 +3759,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 357760,
       "name": "Santo - Live",
       "url": "https://open.spotify.com/track/4rsEJ8Bm4wAlsc5AuBhmo0"
@@ -3671,6 +3931,28 @@
       "duration_ms": 194986,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+    },
+    {
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/5VUYp8OD0IBYftJI4vruyx"
+      },
+      "artists": [
+        {
+          "name": "Rammy Dread",
+          "url": "https://open.spotify.com/artist/3S73tueP56VuafcnCEdJQW"
+        },
+        {
+          "name": "Baby Tone",
+          "url": "https://open.spotify.com/artist/5GNlWMKgNoYVf8JKscKW3C"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/7eREmZANh3c3m873ZvwdsA"
     },
     {
       "album": {
@@ -3907,7 +4189,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 210266,
       "name": "TBT",
       "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
@@ -3987,7 +4269,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 290858,
       "name": "Te Tengo A Ti",
       "url": "https://open.spotify.com/track/6hQwgxM85boXb9bpfQmx1H"
@@ -4005,7 +4287,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 201527,
       "name": "Tengo La Luz",
       "url": "https://open.spotify.com/track/2v4kYoVwudJuLyi0ZxExLO"
@@ -4159,7 +4441,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 559636,
       "name": "Tu Gracia - En Vivo",
       "url": "https://open.spotify.com/track/1avndzhDc1uj2KluWeey7O"
@@ -4477,7 +4759,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 189274,
       "name": "Ven\u00edmos Del Barr\u00edo",
       "url": "https://open.spotify.com/track/4x8LdHKLanBYGNh2sUNTiU"
@@ -4543,7 +4825,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 290702,
       "name": "YHWH",
       "url": "https://open.spotify.com/track/6jJ6bAj2kEblJNMKoq1TU1"

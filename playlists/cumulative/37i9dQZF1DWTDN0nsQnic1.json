@@ -1130,6 +1130,32 @@
     },
     {
       "album": {
+        "name": "The edbl x Kazuki Sessions",
+        "url": "https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223390,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/7EL0PevW3njBoZnNoQ5iqZ"
       },

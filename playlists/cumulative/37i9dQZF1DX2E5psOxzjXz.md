@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Cover: Wooly and the Uke
+> Explore Pakistan's thriving independent scene\. Cover: Abdul Hannan
 
-111 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+113 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bad](https://open.spotify.com/track/6M9vyiF3atXtfdYLHCYmx4) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bad](https://open.spotify.com/album/2N9Mjygl1Va2746JAslIqL) | 3:22 | 2021-12-06 | 2022-03-05 |
 | [Beware](https://open.spotify.com/track/6d7ql8wBys4QN9BnIFPNwH) | [Gintaara](https://open.spotify.com/artist/2lyI6zXkfdsRwSjaihQkYa) | [Beware](https://open.spotify.com/album/6YBFth7Mtul3V9hDV7HkGF) | 5:10 | 2021-12-06 |  |
 | [Bezaar Nahi](https://open.spotify.com/track/5LojDGdQJ21H1dJXgAJuXX) | [Honeyjamn](https://open.spotify.com/artist/1nZvrjuAjn0d1LHzoOjjUi), [Nadir Shahzad](https://open.spotify.com/artist/31POWkRUIfTWjL5QEmiGTS) | [Bezaar Nahi](https://open.spotify.com/album/4z23FFAXCBYUb9RDhO2CXF) | 3:25 | 2021-12-06 |  |
+| [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 | 2022-04-29 |  |
 | [Billo](https://open.spotify.com/track/2gOBjTTYEXbf0yR688Hyf0) | [Billu](https://open.spotify.com/artist/44bKDT0b5fb8PtSP7kwC1v) | [Billo](https://open.spotify.com/album/2twDMb2SXFNQVCg6Fwjlus) | 3:12 | 2021-12-06 | 2022-01-29 |
 | [Bubbleboi](https://open.spotify.com/track/1plhMT0F6Lqz8whTq1t7zB) | [Ali Suhail](https://open.spotify.com/artist/4kLAjoQyEFKD34AWugeUnj) | [Bubbleboi](https://open.spotify.com/album/5JyuRZ3x0de7HOgWTqVGRu) | 3:39 | 2021-12-06 | 2022-03-05 |
 | [Bum Twirl](https://open.spotify.com/track/1B559YkhUtsMNWXlFsDuFJ) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Talal Qureshi](https://open.spotify.com/artist/7aB58YJLqV4FXTMq9lZcm0) | [Bum Twirl](https://open.spotify.com/album/1PKJPVYQ4LFz6L6xuKvbLc) | 3:28 | 2021-12-06 |  |
@@ -55,6 +56,7 @@
 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 | 2022-02-17 |  |
 | [Hum Kahan](https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Hum Kahan](https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV) | 3:09 | 2022-02-17 |  |
 | [Iltija](https://open.spotify.com/track/2gDJV55SsEtTp1apEe8k0r) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Iltija](https://open.spotify.com/album/5HElAOajKG6Tw39pANxWFi) | 5:17 | 2021-12-06 | 2022-01-29 |
+| [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2022-04-29 |  |
 | [Jaagay Hain](https://open.spotify.com/track/3vCWWOxmJHHl25fjf38znc) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:48 | 2021-12-06 | 2022-01-29 |
 | [Jo Tu Chahay](https://open.spotify.com/track/4SaTP95BkR4m1NkunRCDiK) | [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Hassaan Bin Shaheen](https://open.spotify.com/artist/3XpqnPbSJ2ZNYAYzEOj6R2) | [Jo Tu Chahay](https://open.spotify.com/album/732ZY5OgnrJ3MDBApSHTXS) | 2:25 | 2021-12-06 |  |
 | [Kaali Raat](https://open.spotify.com/track/4RDU0E4aXriTRGXYZFiRAJ) | [Malang Party](https://open.spotify.com/artist/6XRkXHSdrFzdc7ouAMVqDn) | [Ziyarat](https://open.spotify.com/album/7AIBheaMkc5hGOs2QH4xd5) | 3:59 | 2021-12-06 |  |

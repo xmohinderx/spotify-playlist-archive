@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-143 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+147 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-17 | 2022-01-08 |
 | [Memorize You \- Acoustic](https://open.spotify.com/track/3iQRMV1RML1TBMioordUI5) | [Laine Hardy](https://open.spotify.com/artist/2e4sMCgdXD5TkFquoTEA4j) | [Memorize You \(Acoustic\)](https://open.spotify.com/album/27n9Nh4PEeY6Wwf1mvl8JL) | 3:16 | 2021-12-17 |  |
 | [Mood \(Casual Sessions\)](https://open.spotify.com/track/52H1bXbps0XxpqDGqvtMRS) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Mood \(Casual Sessions\)](https://open.spotify.com/album/3EyViIpqLAjrGbxl8cbwsh) | 3:29 | 2022-04-01 |  |
+| [Narcissist \- Piano Version](https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Narcissist \(Piano Version\)](https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR) | 2:33 | 2022-04-29 |  |
 | [Nashville Or Nothing \- Stripped](https://open.spotify.com/track/2SujI6xuygJQ2fjJIwqjyS) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing \(Stripped\)](https://open.spotify.com/album/7HIwS7l4C8LpiOg4ekFKrV) | 3:05 | 2022-04-22 |  |
 | [Neon Moon](https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Neon Moon](https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT) | 2:41 | 2021-12-17 |  |
 | [Never Wanted To Be That Girl \- Acoustic Version](https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl \(Acoustic Version\)](https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC) | 3:31 | 2022-01-07 |  |
@@ -100,6 +101,7 @@
 | [No Now](https://open.spotify.com/track/6QqXvIQk3T9jLQq6aSynAU) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:37 | 2021-12-17 |  |
 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr) | 2:44 | 2022-03-11 |  |
 | [Nothing's Better \(stripped\)](https://open.spotify.com/track/7LrZr7EXh5KRqE9s6Tl1Te) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Nothing's Better \(stripped\)](https://open.spotify.com/album/330eJ14qrFWqFF3gcKgs1r) | 3:01 | 2021-12-17 |  |
+| [One Of These Days \- sad piano version](https://open.spotify.com/track/6y9Zf5yNGmLPOQhjUuAAP9) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [One Of These Days \(sad piano version\)](https://open.spotify.com/album/4mi2BDMTw7pfqhGibxmmBJ) | 3:38 | 2022-04-29 |  |
 | [One Percent \(Acoustic\)](https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent \(Acoustic\)](https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9) | 3:24 | 2021-12-17 |  |
 | [Only Us \- Acoustic](https://open.spotify.com/track/51pGduBpukl8Oy2qUEOAqS) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Only Us \(Acoustic\)](https://open.spotify.com/album/7DhKXqfA3WJeyHIGjmwfgW) | 2:35 | 2021-12-17 |  |
 | [Out of Control](https://open.spotify.com/track/2CDTMmZoWyH3MzuHJv1HV1) | [John Allan Miller](https://open.spotify.com/artist/3OA83BpwDodzEIX46SnrXt) | [Out of Control](https://open.spotify.com/album/5QjAxWodrYxRGdTc8vdzBa) | 4:01 | 2021-12-17 |  |
@@ -142,6 +144,8 @@
 | [Watch Me Quit](https://open.spotify.com/track/6b9j8qFKyRDMF7BBcx4YLG) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [Watch Me Quit](https://open.spotify.com/album/4DvaYpQR2MuYv8l7LsXROq) | 5:48 | 2021-12-17 | 2022-01-15 |
 | [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 | 2021-12-17 |  |
 | [What If I'm Right \(Stripped\)](https://open.spotify.com/track/4VQo86DajWMXAJVkcurzC9) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [What If I'm Right \(Stripped\)](https://open.spotify.com/album/5iSxYZRm5fOnVkO5ZnWnoM) | 2:44 | 2021-12-17 |  |
+| [What Was I Drinking \- Acoustic](https://open.spotify.com/track/3UnorFmDPHUdLJLo1rk8qz) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking \(Acoustic\)](https://open.spotify.com/album/3fMKr62siq96Ig3knG3BMi) | 2:58 | 2022-04-29 |  |
+| [Where Did We Go? \- Acoustic](https://open.spotify.com/track/40SgaRxSRtapCUkpUAmQy6) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Where Did We Go? \(Acoustic\)](https://open.spotify.com/album/1HpFFDvla4g3V8IxYApOu4) | 2:39 | 2022-04-29 |  |
 | [While You're Gone \- Acoustic](https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [While You're Gone \(Acoustic\)](https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k) | 3:39 | 2021-12-17 |  |
 | [Whiskey \(Acoustic\)](https://open.spotify.com/track/0jZFXHSeY300E9X3Wn3Kma) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Whiskey](https://open.spotify.com/album/44mK7NKStFXVAF5MgIpyaq) | 4:20 | 2021-12-17 |  |
 | [Whiskey And Rain \- Acoustic](https://open.spotify.com/track/4hpWtPnZHX9xfb1fr8cVVw) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Whiskey And Rain \(Acoustic\)](https://open.spotify.com/album/7AA4SUS9xQx6f4mCxuWWoa) | 3:27 | 2022-01-07 |  |

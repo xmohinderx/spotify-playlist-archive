@@ -4,11 +4,12 @@
 
 > Django and beyond.
 
-63 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+65 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1910](https://open.spotify.com/track/2nf1tuhOmb7npTSDUryiAd) | [Les doigts de l'homme](https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5) | [1910 \(Jazz manouche\)](https://open.spotify.com/album/15i4how91OvGTmat782jcF) | 4:11 | 2021-02-04 |  |
+| [Bekledim de gelmedin](https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An) | 2:42 | 2022-04-29 |  |
 | [Bell Island](https://open.spotify.com/track/2iXRqsbI6Dbrj8o9hwn0g8) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Raindrops](https://open.spotify.com/album/2rVYD2MHeWZ7qwQ7hIVyrW) | 2:50 | 2021-02-04 |  |
 | [Belleville](https://open.spotify.com/track/4Wo0AVGDazTF6wUv77yLZl) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Robin Nolan Trio](https://open.spotify.com/artist/6CdoTSuiw0mRW8uAsrf6kW) | [Swing de Paris \- Vol\. 2](https://open.spotify.com/album/5Sx2O2IOx8CImGs9xIyAkA) | 4:07 | 2021-05-25 |  |
 | [Billet Doux](https://open.spotify.com/track/2Zhwy8tAmEsCezzeRS2kpG) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/2SwJ4V9NB7j4RjEv7OmNDp) | 2:32 | 2021-02-04 |  |
@@ -31,6 +32,7 @@
 | [Hora La Senior](https://open.spotify.com/track/4OaUaxl6PgcW88dvUpNWPk) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1), [Yaakov Hoter](https://open.spotify.com/artist/1Y9EcFkSewIBfJMqGspnbd), [Oren sagi](https://open.spotify.com/artist/63In7fd4yQh3zOij27cC7K) | [The Middle East Gypsy Jazz Project](https://open.spotify.com/album/6WeHlhFgT1wK8hgUoP2RJu) | 3:34 | 2021-02-04 |  |
 | [Hungaria](https://open.spotify.com/track/3VtZ7NOQjp3ISCdUvaQvZQ) | [Biréli Lagrène Trio](https://open.spotify.com/artist/0zQ8ZslJkMxLY8xw3E6dp2) | [Move \(feat\. Diego Imbert, Hono Winterstein & Franck Wolf\)](https://open.spotify.com/album/6xTr2LFFbiLsPG5h6PFqGD) | 2:51 | 2021-02-04 |  |
 | [Iberian Sunrise](https://open.spotify.com/track/2vpwYizzlMwrs2TQde5ZHS) | [Rhythm Future Quartet](https://open.spotify.com/artist/1xfV1veocSCvsbeqco2j3v) | [Travels](https://open.spotify.com/album/0Ylx9BSbCZ71cCtcp8Y9Ft) | 4:27 | 2021-02-04 |  |
+| [In a Sentimental Mood \- Clair de Lune \- Live](https://open.spotify.com/track/27Y8vTDLEBmOBqCN6VLXx7) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Guitar Heroes \(Live\)](https://open.spotify.com/album/4H7BOHlMGdztgjlYGbSdUA) | 4:58 | 2022-04-29 |  |
 | [It Dont Mean A Thing](https://open.spotify.com/track/4hpP90fJQFiA8jV28PuvQr) | [Caravan Gypsy Swing Ensemble](https://open.spotify.com/artist/0EGvsgq6T2VrDg55OKtiWG) | [An Evening At The Brink Lounge](https://open.spotify.com/album/2zYHTlu0bAMrGcmGEpoezG) | 2:52 | 2021-02-04 |  |
 | [Jackrabbit Sky \(from the Motion Picture "Jackrabbit Sky"\)](https://open.spotify.com/track/0DJkYKT0SajSQ3WlQ7dOKP) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/5mTSSRzpn80KfvSBitxemy) | 2:55 | 2021-02-04 |  |
 | [Je suis en amour](https://open.spotify.com/track/6AHft4gweShwU086omcQTE) | [Steeve Laffont](https://open.spotify.com/artist/0redyV7MGTS7VmhcgfEBTX) | [Enamoromaï](https://open.spotify.com/album/6ZujwfBhiTxkIkDGZi2yvq) | 2:58 | 2021-02-04 |  |

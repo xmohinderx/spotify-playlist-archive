@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "FANTASY",
+        "url": "https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130688,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN"
+    },
+    {
+      "album": {
         "name": "Fat Lip",
         "url": "https://open.spotify.com/album/1PJrYQWFtxTgNRuWiMOhWJ"
       },

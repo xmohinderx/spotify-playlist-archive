@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera y Los Pampas.
 
-98 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+99 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dueles](https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:09 | 2022-03-11 |  |
 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 | 2021-12-31 |  |
 | [El Antigal](https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 4:18 | 2021-12-31 |  |
-| [El Coya Dance](https://open.spotify.com/track/7oOFKgqS3oKmiBzMf5ODDq) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Carnavalito](https://open.spotify.com/album/4fTZtP2wJgcdvLlyKFofoH) | 2:35 | 2021-12-31 |  |
+| [El Coya Dance](https://open.spotify.com/track/7oOFKgqS3oKmiBzMf5ODDq) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Carnavalito](https://open.spotify.com/album/4fTZtP2wJgcdvLlyKFofoH) | 2:35 | 2021-12-31 | 2022-04-29 |
 | [El Mismo Aire](https://open.spotify.com/track/6AAjuNnSGoXZZEZg5s17dv) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 2:47 | 2022-02-25 |  |
 | [El Nono Luigi](https://open.spotify.com/track/0BblpWQrMXZvsv3vUUVKVA) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [El Nono Luigi](https://open.spotify.com/album/37n2A9nZh8EeEbUjc15a15) | 2:35 | 2021-12-31 |  |
 | [Es Tan Bonito](https://open.spotify.com/track/4v8SCzqiaCHJ23qYrSFd1s) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Es Tan Bonito](https://open.spotify.com/album/5tRZfG0rPTYAheg8fMkxXw) | 3:26 | 2021-12-31 | 2022-02-05 |
@@ -49,6 +49,7 @@
 | [Juglar Chuncano](https://open.spotify.com/track/5FTwYtNlI7G5fWSGjaPVWU) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [Juglar Chuncano](https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla) | 2:32 | 2021-12-31 |  |
 | [Kuntur](https://open.spotify.com/track/7xhqqjuPlSs2kLnrLRskBc) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Kuntur](https://open.spotify.com/album/1ZBqCd1fTi93qpDutvmJtS) | 3:19 | 2021-12-31 |  |
 | [La Alucinada](https://open.spotify.com/track/6HVG1pjvGHxmOdQj4TQWJ0) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Alucinada](https://open.spotify.com/album/2Xa4MMFxqXoPXD7u7JcfXf) | 2:38 | 2021-12-31 |  |
+| [La Bicicleta](https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Bicicleta](https://open.spotify.com/album/6tC0mVd9UooFsdbD2hwe1o) | 3:30 | 2022-04-29 |  |
 | [La Canción de la Alegría](https://open.spotify.com/track/4ecpwcIuLSrnon9Te6aMxf) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6wfZc70VuJqOIdIh67ZwwJ) | 3:31 | 2021-12-31 |  |
 | [La Gringa](https://open.spotify.com/track/0KVEYVcWNe1ElvxWUz8ytv) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Gringa](https://open.spotify.com/album/70JjRfi0iqNze4DinXtLfy) | 4:17 | 2021-12-31 |  |
 | [La Leyenda de la Brasita de Fuego](https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:12 | 2021-12-31 |  |

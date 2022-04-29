@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Lost My Heartbreak",
+        "url": "https://open.spotify.com/album/7eI0RyVZwhaH1MtYgTcKiK"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185560,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/40721hE3Dr4ciKWSsmL3Sa"
+    },
+    {
+      "album": {
         "name": "Before It All Went Wrong",
         "url": "https://open.spotify.com/album/6VGYYksct2PODFyd7z1qvo"
       },
@@ -2293,6 +2311,24 @@
       "duration_ms": 208875,
       "name": "Ruin A Beach",
       "url": "https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY"
+    },
+    {
+      "album": {
+        "name": "Lena Stone",
+        "url": "https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi"
+      },
+      "artists": [
+        {
+          "name": "Lena Stone",
+          "url": "https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "Running With Scissors",
+      "url": "https://open.spotify.com/track/5FGrZwdOQCzg3eRZra9js9"
     },
     {
       "album": {

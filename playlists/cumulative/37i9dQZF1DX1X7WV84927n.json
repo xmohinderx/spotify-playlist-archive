@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A King Has Gone",
+        "url": "https://open.spotify.com/album/2hfvFV1cayX5ditLOxlhDo"
+      },
+      "artists": [
+        {
+          "name": "Michael Schenker Group",
+          "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293908,
+      "name": "A King Has Gone",
+      "url": "https://open.spotify.com/track/4hJY176L0CKPXcXkaGoQYY"
+    },
+    {
+      "album": {
         "name": "Abrakadabra (Japan Edition)",
         "url": "https://open.spotify.com/album/74iLS86gsiZWszg5F62wxN"
       },
@@ -322,6 +340,24 @@
     },
     {
       "album": {
+        "name": "EAT IT UP SPIT IT OUT",
+        "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177354,
+      "name": "BOLT TO THE HEAD",
+      "url": "https://open.spotify.com/track/5Hv8s5ts2YW4oYF6hTKKB3"
+    },
+    {
+      "album": {
         "name": "The Phantom Tomorrow",
         "url": "https://open.spotify.com/album/5GMs2D82ElHRpVGbtUod3J"
       },
@@ -413,6 +449,24 @@
       "duration_ms": 224783,
       "name": "Can't Quench The Fire",
       "url": "https://open.spotify.com/track/6FjRGbZlb1SYXfLyYL89VB"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Falling Apart",
+        "url": "https://open.spotify.com/album/70mOeSCsv2XRwPHKAJKgtO"
+      },
+      "artists": [
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "Can't Stop Falling Apart",
+      "url": "https://open.spotify.com/track/0m0bclACA3EBxFzC5e0JVQ"
     },
     {
       "album": {
@@ -623,6 +677,24 @@
       "duration_ms": 219586,
       "name": "Decompress",
       "url": "https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry"
+    },
+    {
+      "album": {
+        "name": "Deliver Me",
+        "url": "https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226413,
+      "name": "Deliver Me",
+      "url": "https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo"
     },
     {
       "album": {
@@ -1771,7 +1843,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 210906,
       "name": "Murder the Summer of Love",
       "url": "https://open.spotify.com/track/3EpyJVzdiFHNOHMrLhAsRa"
@@ -1899,7 +1971,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 218731,
       "name": "On The Dark Side",
       "url": "https://open.spotify.com/track/4bO8TyUK8fgE1yCwR94qON"
@@ -2022,6 +2094,28 @@
     },
     {
       "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/0x9NVwmHIApAPGvIzC5mNo"
+      },
+      "artists": [
+        {
+          "name": "Crashd\u00efet",
+          "url": "https://open.spotify.com/artist/1cB013ULmW96lglRcrWTut"
+        },
+        {
+          "name": "Michael Starr",
+          "url": "https://open.spotify.com/artist/6tTXfeP8gXGYMxWOz1Epwe"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "Powerline (feat. Michael Starr)",
+      "url": "https://open.spotify.com/track/6mCBk4OB2JXszZe9ATsZ0H"
+    },
+    {
+      "album": {
         "name": "Pretty People",
         "url": "https://open.spotify.com/album/0GljcamggtwZqcZcKpuODJ"
       },
@@ -2037,7 +2131,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 192914,
       "name": "Pretty People",
       "url": "https://open.spotify.com/track/3G23WROLcvTTF76lcYjzzA"
@@ -2055,7 +2149,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 268053,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/5062C6muydIUtuSXjvPVvz"
@@ -2769,7 +2863,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 271214,
       "name": "The Price of Love",
       "url": "https://open.spotify.com/track/0nFPvPXHfun0CoorKy1O7U"
@@ -2957,7 +3051,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 230506,
       "name": "Together Whatever",
       "url": "https://open.spotify.com/track/7iZoII7VJ0cYu2ZJ72JdHu"
@@ -3385,6 +3479,24 @@
       "duration_ms": 208263,
       "name": "You Can't Keep the Boy Down",
       "url": "https://open.spotify.com/track/3aTFRMahxabBcDMzdWNkUK"
+    },
+    {
+      "album": {
+        "name": "You Got The Best Of Me",
+        "url": "https://open.spotify.com/album/4IZ1clgmbfd5Vh3MwKZ0nt"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333120,
+      "name": "You Got The Best Of Me",
+      "url": "https://open.spotify.com/track/6knSCaCg0rVEw7jnvM4x19"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-276 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+277 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [SWIM](https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:37 | 2021-07-17 | 2021-08-28 |
 | [Talking](https://open.spotify.com/track/6uQe7SVjdDlRqDRAi0qnKg) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Talking](https://open.spotify.com/album/4r1HQ2vf7mQ7s2mPKRZGG0) | 3:22 | 2020-09-13\* | 2021-03-06 |
 | [Te Amo \- Edit](https://open.spotify.com/track/2LXe1Mv9mkho8AYAEoLOcn) | [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP) | [Te Amo](https://open.spotify.com/album/1k0E1FiFaWklgJuCFqNtej) | 2:49 | 2020-09-13\* | 2020-12-05 |
+| [Tell Me](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [Fare](https://open.spotify.com/artist/1zg4OV4mAjexgjWEtBAd72) | [Tell Me](https://open.spotify.com/album/1fvT2czFpSKSeEYl99ImF9) | 3:36 | 2022-04-29 |  |
 | [Tell Me](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Tell Me](https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP) | 2:07 | 2022-02-11 |  |
 | [Tell Me](https://open.spotify.com/track/1a7cfiQEKupoCr4WtAU4vS) | [Little Sun](https://open.spotify.com/artist/3EySQrEH4VSKbvIPccBUAQ) | [Tell Me](https://open.spotify.com/album/4Pel2dkewJUM0HXHGXJ6sP) | 3:13 | 2020-12-18 | 2021-03-06 |
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-04-24 |  |

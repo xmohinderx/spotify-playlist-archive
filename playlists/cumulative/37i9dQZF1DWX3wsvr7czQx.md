@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Van Morrison
 
-58 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
+59 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/track/2UKJt37EGeYkSc4qx13cq8) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/album/4nkhERcJG0Zg9dlfrgA55B) | 3:17 | 2022-03-25 |  |
 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI) | 4:07 | 2022-01-14 | 2022-02-12 |
 | [Blue Bonnet Breeze](https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Bonnet Breeze](https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx) | 5:19 | 2022-02-11 |  |
-| [Brand New Day](https://open.spotify.com/track/10j6yneyjo8szVHBij2nVm) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Brand New Day](https://open.spotify.com/album/345VHvecrNrNs7SWlTJqPj) | 3:56 | 2021-10-22 |  |
+| [Brand New Day](https://open.spotify.com/track/10j6yneyjo8szVHBij2nVm) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Brand New Day](https://open.spotify.com/album/345VHvecrNrNs7SWlTJqPj) | 3:56 | 2021-10-22 | 2022-04-29 |
 | [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 | 2022-01-14 | 2022-02-26 |
 | [Dancin' in the Aisles](https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dancin' in the Aisles](https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd) | 3:26 | 2021-10-22 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-01-21 |  |
@@ -58,6 +58,7 @@
 | [Thank You For Waiting \(For Me\)](https://open.spotify.com/track/5Rrv0TThpkqB2U4UskRnt2) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 4:53 | 2021-10-22 |  |
 | [The Buzz](https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 3:50 | 2021-10-22 |  |
 | [The Conversation \- Single Mix](https://open.spotify.com/track/52LO0vfMz9sgTzXtSFU6Yz) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [The Conversation](https://open.spotify.com/album/0aWkNZGf3JfmTVMuldbSne) | 3:20 | 2021-10-22 |  |
+| [The Man with the Double Face \- Single Edit](https://open.spotify.com/track/0zjtWbgldOrqHYuVI2Tima) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [The Man with the Double Face](https://open.spotify.com/album/2gG0nKiqZvjUrk7TnXgPHd) | 3:23 | 2022-04-29 |  |
 | [The Tipping Point](https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/2jYnm8r2J5d9FcqJMvZ85L) | 4:13 | 2021-10-22 |  |
 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2021-11-12 |  |
 | [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 | 2021-10-22 |  |

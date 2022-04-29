@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 247596,
+  "num_followers": 247698,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDA3YzAwMDAwMTgwNGY2ZTI1MGMwMDAwMDE3ZmZmNjQ4MDNh",
+  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDA3ZDAwMDAwMTgwNzM3YjkzMjUwMDAwMDE3ZmZmNjQ4MDNh",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Vermillion Sands",
+        "url": "https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx"
+      },
+      "artists": [
+        {
+          "name": "Lazy Habits",
+          "url": "https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP"
+        },
+        {
+          "name": "Baby Sol",
+          "url": "https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ"
+        }
+      ],
+      "duration_ms": 239003,
+      "name": "Coming Around",
+      "url": "https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Everybody in the World",
@@ -83,6 +103,26 @@
       "duration_ms": 252725,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Gigantic Energy",
+        "url": "https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw"
+      },
+      "artists": [
+        {
+          "name": "Michael Thurber",
+          "url": "https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf"
+        },
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "duration_ms": 264072,
+      "name": "Gigantic Energy",
+      "url": "https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -597,7 +637,7 @@
       "artists": [
         {
           "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5HRipwJUmN7TG2MLs7IjVT"
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         },
         {
           "name": "Jafunk",
@@ -1327,38 +1367,6 @@
       "duration_ms": 207586,
       "name": "Is There Any Love",
       "url": "https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t"
-    },
-    {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "ALIENS!",
-        "url": "https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj"
-      },
-      "artists": [
-        {
-          "name": "ROMderful",
-          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
-        }
-      ],
-      "duration_ms": 258211,
-      "name": "ALIENS!",
-      "url": "https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Outta Touch",
-        "url": "https://open.spotify.com/album/6TQSwl8zJuSJ3uD72qRfMT"
-      },
-      "artists": [
-        {
-          "name": "Corey El",
-          "url": "https://open.spotify.com/artist/7MiIOLb4zegDIU0Uq7UKhd"
-        }
-      ],
-      "duration_ms": 211612,
-      "name": "Outta Touch",
-      "url": "https://open.spotify.com/track/7IHToAweRwCubhQLs0Vy48"
     },
     {
       "added_at": "2021-07-16 04:01:00",

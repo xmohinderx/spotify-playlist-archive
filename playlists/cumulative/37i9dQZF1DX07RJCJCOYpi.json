@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The leading wave of Latin Electronic music. Cover: Becky G\n",
+  "description": "The leading wave of Latin Electronic music. Cover: Tokischa & Marshmello\n",
   "name": "mint Latin",
   "published_playlist_ids": [
     "0igTR570qf1Xr3v0XaTHRR"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 201906,
       "name": "A Beber",
       "url": "https://open.spotify.com/track/2a86CypvIPbw32cqLhZg8N"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 141053,
       "name": "Anillo al dedo",
       "url": "https://open.spotify.com/track/0uaJS9jWxVe3VAYDOCBS4g"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 161975,
       "name": "Bella Ciao - Bruno Martini Remix",
       "url": "https://open.spotify.com/track/6tvHnOzbN9SCAcuuNIUMBa"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 157500,
       "name": "Beso De Tres",
       "url": "https://open.spotify.com/track/7o31QdyRw3QvnnMjudXRxl"
@@ -165,10 +165,32 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
+    },
+    {
+      "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
     },
     {
       "album": {
@@ -353,7 +375,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 142320,
       "name": "Dolce Banana",
       "url": "https://open.spotify.com/track/5EHihtA2bjVoMnghLx5U6E"
@@ -379,7 +401,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 245624,
       "name": "Dominicana - The Martinez Brothers + Florentino Remix",
       "url": "https://open.spotify.com/track/7GtkJSvO9djv0GkoCoPbyH"
@@ -478,6 +500,28 @@
     },
     {
       "album": {
+        "name": "ESTILAZO",
+        "url": "https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "ESTILAZO",
+      "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
+    },
+    {
+      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/693AKWbr6QeY6mvnNhBD8c"
       },
@@ -547,7 +591,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 267130,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/30QQol7Vsq7ULmFDavJxZN"
@@ -587,7 +631,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 198779,
       "name": "For Every Pound",
       "url": "https://open.spotify.com/track/2JpBgRnLDQnRbQnTE5eB60"
@@ -631,7 +675,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 224727,
       "name": "FUGAZ",
       "url": "https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4"
@@ -747,7 +791,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 154285,
       "name": "Horny",
       "url": "https://open.spotify.com/track/0nhV0dOGi7JzYxU47GZSpc"
@@ -795,7 +839,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 228907,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB"
@@ -855,7 +899,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 131065,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
@@ -899,7 +943,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 300245,
       "name": "Juntos - Laurence Guy Remix",
       "url": "https://open.spotify.com/track/4unE6fywqCDfsaacxxbGvi"
@@ -921,7 +965,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 170666,
       "name": "La Rosa del Penal (Llamar)",
       "url": "https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45"
@@ -939,7 +983,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 148571,
       "name": "Legoo",
       "url": "https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji"
@@ -1101,7 +1145,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
@@ -1299,7 +1343,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 225151,
       "name": "Nova",
       "url": "https://open.spotify.com/track/2f7TEv6Dxxq3kAjsxOTR39"
@@ -1347,7 +1391,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 208767,
       "name": "O Sea, S\u00ed te Quiero",
       "url": "https://open.spotify.com/track/6K2lcxfSvBzig47QhRi6JC"
@@ -1487,7 +1531,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 150967,
       "name": "Purisima - Marsal Ventura & Jbill Remix",
       "url": "https://open.spotify.com/track/2hz28SuI4hFvHQ5E6xSXTt"
@@ -1509,7 +1553,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 171440,
       "name": "Pu\u00f1eta",
       "url": "https://open.spotify.com/track/6kzzkmk8zvdT0eFcIwDvFG"
@@ -1543,7 +1587,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 245252,
       "name": "Que Calor (feat. J Balvin & El Alfa) - La Fuente Remix",
       "url": "https://open.spotify.com/track/0UH6TZqvd3Kf1rRxo2IGny"
@@ -1569,7 +1613,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
@@ -1647,7 +1691,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 187272,
       "name": "Rumba (feat. Jeon)",
       "url": "https://open.spotify.com/track/3UPlL3r5fnTNhW68g67o8f"
@@ -1731,7 +1775,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 160000,
       "name": "Sonata (Sonata No.8 in C Minor) - Beethoven Remixed",
       "url": "https://open.spotify.com/track/5PbJnRxQQ5GbrjkUUVtLev"
@@ -1753,7 +1797,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 178701,
       "name": "Soy As\u00ed (Summer Mix)",
       "url": "https://open.spotify.com/track/6kuUlT2BNvjvmlOlQIJ14U"
@@ -1805,7 +1849,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 301894,
       "name": "Tengo Ganas De Ti (feat. Jeferson Miranda)",
       "url": "https://open.spotify.com/track/4ZIeiVDTTYvbZE4BhehQv5"
@@ -1831,7 +1875,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 139724,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv"
@@ -1901,7 +1945,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 193414,
       "name": "Tomaza",
       "url": "https://open.spotify.com/track/2gBKqnDeG1ouitlLH5X3QA"
@@ -1923,7 +1967,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 193414,
       "name": "Tomaza",
       "url": "https://open.spotify.com/track/5myXZpBUJCh0OQv3ix6bLs"
@@ -1945,7 +1989,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 137829,
       "name": "Trago a Trago",
       "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
@@ -1997,10 +2041,40 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 141637,
       "name": "T\u00f3xica - VIZE Remix",
       "url": "https://open.spotify.com/track/4uDb59PNKsTYOVSp0784W3"
+    },
+    {
+      "album": {
+        "name": "Una Vaina Loca R3hab Remix",
+        "url": "https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Una Vaina Loca R3hab Remix",
+      "url": "https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6"
     },
     {
       "album": {
@@ -2037,7 +2111,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 215624,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/6nJtkNn2xNPS7wnMqqxkUN"

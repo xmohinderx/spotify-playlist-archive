@@ -205,7 +205,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 192783,
       "name": "400 Years",
       "url": "https://open.spotify.com/track/0sZKyCleaIoLu9sHF4TIKj"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 271054,
       "name": "9",
       "url": "https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 198511,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv"
@@ -2134,6 +2134,24 @@
     },
     {
       "album": {
+        "name": "Can't Wait",
+        "url": "https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207303,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38"
+    },
+    {
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/6cd5Vc0UrVFjTARhdBWlm2"
       },
@@ -2363,7 +2381,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 196007,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 241345,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/57Ip2iaVNNmdT3DmwRzusR"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 133520,
       "name": "Crust",
       "url": "https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx"
@@ -2767,7 +2785,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 244138,
       "name": "CYBAH (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 122584,
       "name": "Downhill (7-Inch)",
       "url": "https://open.spotify.com/track/1zkjy33RfNhOk0MKi8SLsL"
@@ -3393,7 +3411,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 237250,
       "name": "Eiderdown",
       "url": "https://open.spotify.com/track/2Qa4HnGfslqN5dGwVj6C05"
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 294004,
       "name": "Eye Glass",
       "url": "https://open.spotify.com/track/5osZBK4ACgXcyxMc5etRxA"
@@ -3775,7 +3793,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 249236,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1BiO2H0lYkGwlqvqQGxrq3"
@@ -3797,7 +3815,7 @@
       ],
       "date_added": "2021-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/5i9GI8aOr3tJjaWHOG8icj"
@@ -4624,6 +4642,24 @@
     },
     {
       "album": {
+        "name": "If Anything,",
+        "url": "https://open.spotify.com/album/5RVI4s2DuHs0GVdCiLt0YX"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94560,
+      "name": "Gloves On",
+      "url": "https://open.spotify.com/track/7Ger9OTnkuXhhWMABtjJj4"
+    },
+    {
+      "album": {
         "name": "Going Through",
         "url": "https://open.spotify.com/album/5IHzSqvCDBjCH4E2RkH20O"
       },
@@ -5025,7 +5061,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 187137,
       "name": "heat of the moment",
       "url": "https://open.spotify.com/track/1MDO6jYkDpgayhUQz4qVeM"
@@ -5145,7 +5181,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 210853,
       "name": "High Beams",
       "url": "https://open.spotify.com/track/33aO3exOKzz0EtN1Web9oN"
@@ -5501,7 +5537,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 187426,
       "name": "How Many Years",
       "url": "https://open.spotify.com/track/4u7hPfDnZX5vTO0u5hltt9"
@@ -5701,7 +5737,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 165858,
       "name": "I luve it",
       "url": "https://open.spotify.com/track/3ALa7H3VEkgIn0qFKBY66h"
@@ -6179,7 +6215,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 207250,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6m3cDuGspQwEmt84AiylUp"
@@ -6569,7 +6605,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 278680,
       "name": "Light It Again - Radio Edit",
       "url": "https://open.spotify.com/track/2NZo2ZK5AgUgIuVGsraMq5"
@@ -6679,7 +6715,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 226453,
       "name": "Little Q, Pt. 2",
       "url": "https://open.spotify.com/track/2awkR27GHixnzSiswN0AiT"
@@ -7893,7 +7929,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 193773,
       "name": "Night After Night",
       "url": "https://open.spotify.com/track/2U7vXey8ZBg5DY4L5Wff0G"
@@ -8225,7 +8261,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
@@ -8345,7 +8381,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 204280,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/2gTlubZSNrZSNmGKzgu62s"
@@ -9251,7 +9287,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 175200,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/6CbKL3P77jcUC9CJjpoTlW"
@@ -9525,7 +9561,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 156270,
       "name": "Run",
       "url": "https://open.spotify.com/track/4xpuvoBYwMnUlISll0Jpmb"
@@ -9995,7 +10031,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Shovel",
       "url": "https://open.spotify.com/track/7Dv6mcthYV0WBtdm7RoL7I"
@@ -10035,7 +10071,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 131546,
       "name": "Siempre Palante",
       "url": "https://open.spotify.com/track/0GEEcuW0obPmq9LbhqXaHN"
@@ -10369,7 +10405,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 179215,
       "name": "Solar",
       "url": "https://open.spotify.com/track/3rgq0rNscbanTfD24ZshDu"
@@ -10757,7 +10793,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 264575,
       "name": "Still Strange (feat. Priya Ragu & Sainte Ezekiel)",
       "url": "https://open.spotify.com/track/2913TPvqgDIeFsQvG34SQu"
@@ -11165,7 +11201,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 191001,
       "name": "Tastes Like Freedom - Radio Edit",
       "url": "https://open.spotify.com/track/4EAEt7y5pOzv1uY7w2QyKX"
@@ -12105,7 +12141,7 @@
       ],
       "date_added": "2020-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 188411,
       "name": "Us (How Sweet It Was)",
       "url": "https://open.spotify.com/track/3DypPaClyaAGqGtHJxN8xY"
@@ -12243,7 +12279,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 168618,
       "name": "Walks",
       "url": "https://open.spotify.com/track/0tE7eEnGyRqNqiZQ6LlCSg"
@@ -12337,7 +12373,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 193937,
       "name": "We Can",
       "url": "https://open.spotify.com/track/30w4c9hVQ30ZKUyDRFPWwB"
@@ -12597,7 +12633,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 160250,
       "name": "When It's Sweet",
       "url": "https://open.spotify.com/track/3b54cV4Vim1d4YhlDPkVj2"
@@ -12685,7 +12721,7 @@
       ],
       "date_added": "2020-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 271250,
       "name": "WHITE CRAYON",
       "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"

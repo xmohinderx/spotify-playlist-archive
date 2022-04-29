@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 95973,
       "name": "Bocuma",
       "url": "https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 423586,
       "name": "Clock",
       "url": "https://open.spotify.com/track/5NuZdSoNdbBOEzJVYRqUQ6"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 453953,
       "name": "Cloverfield - Original Mix",
       "url": "https://open.spotify.com/track/6hg11XB9rUTSM92Sx2WDhJ"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 406000,
       "name": "Confiscate - Drumcomplex Remix",
       "url": "https://open.spotify.com/track/4DbaGKcHx7WHdgHwTsNQ8P"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 223842,
       "name": "Crushed Ice - Remix",
       "url": "https://open.spotify.com/track/7jTfuvv1YNU231Ai3D3vuq"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 417246,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 311284,
       "name": "Klettenberg",
       "url": "https://open.spotify.com/track/0JyX4qrpaxi8tYZ0BkKNQj"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 432683,
       "name": "Midsummer Blues",
       "url": "https://open.spotify.com/track/7g8E6wZQJshRetK8IGrjoO"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 346488,
       "name": "Needless to Say, Pt. 2",
       "url": "https://open.spotify.com/track/2p9gUfBpqxt6m1Deyvgvix"
@@ -1607,6 +1607,24 @@
       "duration_ms": 309784,
       "name": "Psyche",
       "url": "https://open.spotify.com/track/3yk6KVpcmIlIYgam4WBPoN"
+    },
+    {
+      "album": {
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+      },
+      "artists": [
+        {
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
     },
     {
       "album": {
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 420433,
       "name": "Toxic Temptation - Undercatt Remix",
       "url": "https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 344978,
       "name": "Trivia",
       "url": "https://open.spotify.com/track/6bBOqKo9sNWLYo3Npi2Rgx"

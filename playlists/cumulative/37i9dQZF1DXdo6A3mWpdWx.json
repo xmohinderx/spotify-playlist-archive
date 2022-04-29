@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 198066,
       "name": "(You Drive Me) Crazy",
       "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 233960,
       "name": "Ain't No Man",
       "url": "https://open.spotify.com/track/4edZn0QE6eeo7yYYpuPvU6"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 209803,
       "name": "Back in My Life",
       "url": "https://open.spotify.com/track/2es5efbIHrLOLcdmBmpoiR"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 250107,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/2DTQUOfYJAjdo7utgjnU4u"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
@@ -514,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Make Way For The Indian",
+        "url": "https://open.spotify.com/album/0OEJxSFR42ywC0ze34y7OX"
+      },
+      "artists": [
+        {
+          "name": "Apache Indian",
+          "url": "https://open.spotify.com/artist/4sLklwvfOYr12fMGwrnlc7"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Boom Shack-A-Lak",
+      "url": "https://open.spotify.com/track/5rYJbmPYDaC4yJ8toRSrof"
+    },
+    {
+      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/2K0qBUFiKwjH9BFpw0xRDp"
       },
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 183013,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/11N8hE0QfJwI6sewxTdrJu"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 247600,
       "name": "Crazy for You",
       "url": "https://open.spotify.com/track/1MlL5GA90CErWljpV7Ek6n"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 262960,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 214666,
       "name": "Dear Jessie",
       "url": "https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 254791,
       "name": "Do You See the Light? (Looking For) [feat. Niki Haris] - 7\" Edit",
       "url": "https://open.spotify.com/track/1ClsTc9ppIu8aU3KaGAB0g"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 241866,
       "name": "Don't Talk Just Kiss",
       "url": "https://open.spotify.com/track/4mrbbOwCgfgxiYy8kaVyAO"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 210933,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/4jP1ex7l0wwogPtcvmGoIe"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 234786,
       "name": "Ebeneezer Goode - Beat Edit",
       "url": "https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "Freestyler",
       "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 201466,
       "name": "Got to Get (feat. Leila K)",
       "url": "https://open.spotify.com/track/3Atr2OBXJVIpQ96zxuActC"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 285106,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
@@ -2287,7 +2305,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 236026,
       "name": "Love to Hate You - 2019 - Remaster",
       "url": "https://open.spotify.com/track/4A6pPKVWcIWIBooH6nwa48"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 223426,
       "name": "Mamma Mia - Radio Version",
       "url": "https://open.spotify.com/track/0i2UIuXKAoDrK1LzI5qUcd"
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 235026,
       "name": "Missing - Todd Terry Remix / Radio Edit",
       "url": "https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN"
@@ -2649,7 +2667,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 252071,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
@@ -2761,7 +2779,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 300000,
       "name": "On A Ragga Tip - Original Remastered",
       "url": "https://open.spotify.com/track/7cz4rOvUfuZDa9uxjEbB2t"
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 283426,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 207933,
       "name": "Rainbow In The Sky - Radio Edit",
       "url": "https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
@@ -3437,7 +3455,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 219586,
       "name": "Tease Me",
       "url": "https://open.spotify.com/track/051IhzJ6sjVuJsIfG33dft"
@@ -3725,7 +3743,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 224933,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
@@ -3975,7 +3993,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 229171,
       "name": "U Sure Do (Strike 7\" Mix)",
       "url": "https://open.spotify.com/track/5TdsylMARn0PxbHqrmmJoS"
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 256602,
       "name": "Welcome to Tomorrow (Are You Ready?)",
       "url": "https://open.spotify.com/track/4UHWtS08pDNTjDNhTvkEZV"

@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-129 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+130 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Let a Man Do What He Wanna Do](https://open.spotify.com/track/21tzl7QqFs2UJwaGQpwtCk) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let a Man Do What He Wanna Do](https://open.spotify.com/album/6VlxpL1jxNMJ1b8XEgV70i) | 2:50 | 2020-10-30 |  |
 | [Let's Celebrate Our Love](https://open.spotify.com/track/3ZQZUODe0CoMcgndwZ7cK9) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Let's Celebrate Our Love](https://open.spotify.com/album/73zVIvNpWoV68BTDOFPPvH) | 4:35 | 2020-10-30 |  |
 | [Let's Get a Groove On](https://open.spotify.com/track/6nNHyyYKi90iRQbLuIdO8O) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/0MKoTL2lYJ3hUVDYyhmyTi) | 2:54 | 2020-10-30 |  |
+| [Lie To Me](https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh) | 4:10 | 2022-04-29 |  |
 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 | 2020-10-30 | 2022-04-09 |
 | [Look in My Eyes](https://open.spotify.com/track/3xq9srnNN0LBvha15ZWpTU) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 3:44 | 2020-10-30 |  |
 | [Love Somebody](https://open.spotify.com/track/0R3eQDXzFLPdC9Q9Toj1ys) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Love Somebody](https://open.spotify.com/album/2VIaLN4IxLM3u7U7TInMGk) | 2:49 | 2021-09-03 |  |

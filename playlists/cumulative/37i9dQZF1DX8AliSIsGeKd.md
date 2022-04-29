@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Charlotte de Witte
 
-134 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+135 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Start Over](https://open.spotify.com/track/2hjfUatW15dWC45loxcAFX) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Leia Contois](https://open.spotify.com/artist/40ZOcK6mdly2Ni7ruJUEPP) | [Start Over](https://open.spotify.com/album/26QRIVh9K8jc3kMa540YBd) | 3:22 | 2022-04-14 | 2022-04-29 |
 | [Struktur Eins \- Alec Troniq Remix](https://open.spotify.com/track/10SevbGVJwO3NRQK1Zuw5Q) | [Michael Schreiber](https://open.spotify.com/artist/3dobxJR3wYBGn4SOdsu1l6), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx) | [Struktur Eins \(Alec Troniq Remix\)](https://open.spotify.com/album/3STD7mWR8S45KPhuKvSvuH) | 7:20 | 2022-04-14 | 2022-04-29 |
 | [Super Stroke](https://open.spotify.com/track/7mWNjVmAZt7UWZbFJEFFgc) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Super Stroke](https://open.spotify.com/album/3OfVB7RLHXguZftMIszpt8) | 6:21 | 2022-04-21 |  |
+| [The Bell Tolls](https://open.spotify.com/track/3r1OCYII5dLXjkunEhH6FI) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [The Bell Tolls \| For Kiev \| When the Sun Goes Down](https://open.spotify.com/album/5bTf5E9GGFt5BrCpNhyBlS) | 7:20 | 2022-04-29 |  |
 | [The Brain](https://open.spotify.com/track/4I74YwKvYBy2xMBrxWfDXZ) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [The Brain / The Rhythm](https://open.spotify.com/album/5k9sPeS9pQ3QWFNvsx6t5l) | 4:46 | 2022-04-21 |  |
 | [The East](https://open.spotify.com/track/3f24OX8Zk6JAbZJbpbXd6U) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE \(Remixes\)](https://open.spotify.com/album/4Q5GWCi3s7c9ei0au3ewMA) | 3:07 | 2022-04-14 |  |
 | [The Hand Of God](https://open.spotify.com/track/7HWtOaejxHJhaArdpzN36o) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [The Hand Of God](https://open.spotify.com/album/0NvaPBkX91pIDNYLqzwMly) | 7:03 | 2022-04-14 | 2022-04-22 |

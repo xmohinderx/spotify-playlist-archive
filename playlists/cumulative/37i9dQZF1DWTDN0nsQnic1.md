@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-55 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+56 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Where I Belong](https://open.spotify.com/track/4BENgHOetl5oLr57teDdKj) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Freakquencee](https://open.spotify.com/artist/1UeGKCrkZ7i8bOYQsNdavS), [Antoine Katz](https://open.spotify.com/artist/2Te4XXBAL2ChbjMAyZjwVC) | [Where I Belong](https://open.spotify.com/album/2PsuF65UNAcSLDQaj3njop) | 2:54 | 2021-09-08 |  |
 | [Where I Want to Be](https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Where I Want to Be](https://open.spotify.com/album/3C3oFWTYx44bZwlzh4ByjS) | 4:39 | 2021-09-08 |  |
 | [Won't Stop](https://open.spotify.com/track/3E6vBWSs6zjoSnlUVmo3yS) | [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Won't Stop](https://open.spotify.com/album/1VqCHljcYQir5atLxEXSJW) | 3:03 | 2021-09-08 |  |
+| [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 | 2022-04-29 |  |
 | [You](https://open.spotify.com/track/1eG4WAXiknUV2e6i32UVmL) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [You](https://open.spotify.com/album/7EL0PevW3njBoZnNoQ5iqZ) | 3:22 | 2021-09-08 |  |
 | [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-09-08 |  |
 

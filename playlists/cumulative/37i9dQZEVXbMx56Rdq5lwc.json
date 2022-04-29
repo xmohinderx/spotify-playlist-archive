@@ -3296,6 +3296,68 @@
     },
     {
       "album": {
+        "name": "Gal Ne Rytoj",
+        "url": "https://open.spotify.com/album/5F36KweCivNns778YXqFTt"
+      },
+      "artists": [
+        {
+          "name": "Vaida",
+          "url": "https://open.spotify.com/artist/5XzX48GzDa19lhbzmlhAjA"
+        },
+        {
+          "name": "Aist\u0117 Monika Ma\u017eeikait\u0117",
+          "url": "https://open.spotify.com/artist/7a4tYdG2wJWK365PqHNEeu"
+        },
+        {
+          "name": "Sarukas",
+          "url": "https://open.spotify.com/artist/1uHXTPsSigJubFV2FTq9p4"
+        },
+        {
+          "name": "Vidas Bareikis",
+          "url": "https://open.spotify.com/artist/2hpPSRCFwK2dKOMqW4M95u"
+        },
+        {
+          "name": "Monique",
+          "url": "https://open.spotify.com/artist/4zbz40hlj1xjpP8npH8A8a"
+        },
+        {
+          "name": "D\u017eiugas \u0160irvys",
+          "url": "https://open.spotify.com/artist/7qT7KMRz5RoM6KcvdYweKU"
+        },
+        {
+          "name": "Angelou",
+          "url": "https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0"
+        },
+        {
+          "name": "FC Baseball",
+          "url": "https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD"
+        },
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        },
+        {
+          "name": "gint\u0117",
+          "url": "https://open.spotify.com/artist/4t9VJNM8d7S0qXIzuJpixX"
+        },
+        {
+          "name": "Gabriel\u0117 Vilkickyt\u0117",
+          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+        },
+        {
+          "name": "Monika LIU",
+          "url": "https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286711,
+      "name": "Gal Ne Rytoj",
+      "url": "https://open.spotify.com/track/59Gl53UjUCKTMaZEhf4Roc"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -8221,7 +8283,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 254246,
       "name": "Pirmi Kartai",
       "url": "https://open.spotify.com/track/2jNZ2G7e5pneajmAMVm1Ct"
@@ -10507,7 +10569,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 269421,
       "name": "Ten, Kur Tu",
       "url": "https://open.spotify.com/track/0dyTM71N5e3o3VJlhKoYgb"
@@ -10807,7 +10869,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
@@ -10959,7 +11021,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
@@ -11857,7 +11919,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/48q0vSHcJdhK3IiXH8C5WJ"

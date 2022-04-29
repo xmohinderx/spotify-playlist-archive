@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "A Certain Shade of Green",
       "url": "https://open.spotify.com/track/6zU4ims9oVbprKkjpdGD5c"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 267773,
       "name": "Big House Burning",
       "url": "https://open.spotify.com/track/1oDTpyhLChK7JpnRbbYNqC"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 241680,
       "name": "Crack Killed Applejack - Gravy Booty Mix",
       "url": "https://open.spotify.com/track/2SrJ0Quef9Lkv0aIKPWEBY"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 247693,
       "name": "Fire",
       "url": "https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 264306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 297466,
       "name": "Got It Goin' On",
       "url": "https://open.spotify.com/track/0bsHXFE0GGn2HonbA8G0yf"
@@ -787,6 +787,24 @@
       "duration_ms": 216506,
       "name": "Lock It In The Pocket",
       "url": "https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq"
+    },
+    {
+      "album": {
+        "name": "Distant Forest",
+        "url": "https://open.spotify.com/album/1vUCITgbaNnoQrJNvN0gBx"
+      },
+      "artists": [
+        {
+          "name": "Connor Kelly & The Time Warp",
+          "url": "https://open.spotify.com/artist/1zPBaiyAP0pKi4oMnvfAUi"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221920,
+      "name": "Love Captivity",
+      "url": "https://open.spotify.com/track/3DDTxfWGpug3SXojx1FlYE"
     },
     {
       "album": {
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 204054,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/2eveNWx7SOWY5CW4kLAuqI"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-29",
       "duration_ms": 319066,
       "name": "Rain Will Fall",
       "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 262373,
       "name": "Truth'll Set You Free",
       "url": "https://open.spotify.com/track/1U3jCQJNm86HQh04TWqdFD"

@@ -1748,6 +1748,24 @@
     },
     {
       "album": {
+        "name": "Neither Here Nor There",
+        "url": "https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy"
+      },
+      "artists": [
+        {
+          "name": "Josh Mosier",
+          "url": "https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175818,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga"
+    },
+    {
+      "album": {
         "name": "Ten Toes Down",
         "url": "https://open.spotify.com/album/3quqmLko0E0EbZR9s3JDzf"
       },
