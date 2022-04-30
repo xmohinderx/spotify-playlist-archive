@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 143249,
       "name": "In Case I Fall Asleep",
       "url": "https://open.spotify.com/track/3NXhat0yvFpxhXabF38i8o"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 143249,
       "name": "In Case I Fall Asleep (feat. GRACEY)",
       "url": "https://open.spotify.com/track/1MIYJAgj86K1cjlcrfvBcH"
@@ -1339,6 +1339,24 @@
       "duration_ms": 213506,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/1YlulsUKDduOmC7WxvXYPW"
+    },
+    {
+      "album": {
+        "name": "Every Shade of Blue",
+        "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Paradigm",
+      "url": "https://open.spotify.com/track/3VX9HKHVjgyP0ttPleaRDE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: ONI, Iggy Pop and Randy Blythe
 
-712 songs - 1 day 23 hr 58 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+713 songs - 2 day 0 hr 2 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Serenity](https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk) | [Viscaya](https://open.spotify.com/artist/6DY7U02a4pR7XzB55SSQcE) | [Serenity](https://open.spotify.com/album/4LJwcXwtsxWjvCHJBypRvA) | 2:39 | 2021-12-17 | 2022-01-28 |
 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 | 2022-03-03 | 2022-03-11 |
 | [Servant](https://open.spotify.com/track/3FG2lpxvJulguHUn7G5f2V) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Servant](https://open.spotify.com/album/6DgCalvMdxS4cGDMLxXRAt) | 3:00 | 2022-04-22 | 2022-04-29 |
+| [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-04-29 |  |
 | [Shadow Moses](https://open.spotify.com/track/6QRD0pxdY3lsJMxQ2wBmnW) | [Jordan Radvansky](https://open.spotify.com/artist/3Le6vKQViu4syjJZW3JPgf), [Tyler Tate](https://open.spotify.com/artist/3baugBmuysZfJ05TUCGOwM) | [Shadow Moses](https://open.spotify.com/album/0d6uzZ1misuPf1zL0E7Ic1) | 3:49 | 2022-04-15 | 2022-04-22 |
 | [Sharpened Narcotics](https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Encased in Chrome](https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF) | 2:01 | 2022-03-18 | 2022-03-25 |
 | [Siege Fire](https://open.spotify.com/track/5H3MvxVqiBjG9RuZ8YYjlI) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [Siege Fire](https://open.spotify.com/album/3qVxWifA9YSiyPwJ0X3XEL) | 1:02 | 2022-03-18 | 2022-03-25 |

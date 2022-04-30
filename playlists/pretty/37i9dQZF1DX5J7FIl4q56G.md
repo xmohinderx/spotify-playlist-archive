@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: ONI, Iggy Pop and Randy Blythe
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,600 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,755 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 37 | [Complete Control](https://open.spotify.com/track/7eaNrsiNouXiuv0Lvn06J9) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Complete Control](https://open.spotify.com/album/2wEc14vBxpV2pRCsiaiaZR) | 3:31 |
 | 38 | [The Process](https://open.spotify.com/track/5WDZgCixQfeGlAv3gPUd2Z) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [The Process](https://open.spotify.com/album/51onhHy4blZSrdsMDUtCvi) | 4:15 |
 | 39 | [Great Flood](https://open.spotify.com/track/3ksE7ar7n8fpCP82RVoeLE) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Chronicles](https://open.spotify.com/album/7AjygoSSjWOi5RJjYsOLEY) | 3:34 |
-| 40 | [Sinner](https://open.spotify.com/track/2Pf0u0mhGSxayM79Vy4LoT) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Sinner](https://open.spotify.com/album/3jebAFkeFQWSGzXL3nfUzD) | 3:13 |
-| 41 | [Iris Vol\. II](https://open.spotify.com/track/796tIGiLs0fcthbrtf0wRS) | [Like Ghosts](https://open.spotify.com/artist/5oFikwPgO6xRLb1nFg8VY9), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Iris Vol\. II](https://open.spotify.com/album/0Jgi4MeTSUrvNbjqS87kUc) | 3:27 |
-| 42 | [Sleep Whisper](https://open.spotify.com/track/0Uill1vqGgC1zOShoKoqe2) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Sleep Whisper](https://open.spotify.com/album/0zUdYR6wHtGlvHFjfz1RO8) | 5:12 |
-| 43 | [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 |
-| 44 | [Dye Black to Pink](https://open.spotify.com/track/2mbgpxjPQaBjWWTN8Jd3CO) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Dye Black to Pink](https://open.spotify.com/album/2eyWtmrIvt0GXlbYNvXvvk) | 3:48 |
-| 45 | [Three\-Headed Death Machine](https://open.spotify.com/track/5LQN5AzQl5chXtCnmQsZ6y) | [The Monolith Deathcult](https://open.spotify.com/artist/30R1cSs562qWPmRHZtmZom) | [Three\-Headed Death Machine](https://open.spotify.com/album/3bh9mq4hyD2NHx3wtkn9CV) | 4:41 |
-| 46 | [Alpha Nine](https://open.spotify.com/track/63GjanWY79AHOnbXKegzzN) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Alpha Nine](https://open.spotify.com/album/4CB3NPaGXsRuSNKc0HUQgh) | 3:33 |
-| 47 | [Solitude's Bane](https://open.spotify.com/track/3S4FfGDSpmPSHqSR0DyMH4) | [Gladenfold](https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe) | [Nemesis](https://open.spotify.com/album/6hcVrHaXWVQucfSx39i4vo) | 3:37 |
-| 48 | [Promises](https://open.spotify.com/track/1WV5w169YJR8f9ZFNIKxCp) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Promises](https://open.spotify.com/album/1LHqSRxFGFsNLdH03f3Uv8) | 4:54 |
-| 49 | [A King Has Gone](https://open.spotify.com/track/4hJY176L0CKPXcXkaGoQYY) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [A King Has Gone](https://open.spotify.com/album/2hfvFV1cayX5ditLOxlhDo) | 4:53 |
+| 40 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 |
+| 41 | [Sinner](https://open.spotify.com/track/2Pf0u0mhGSxayM79Vy4LoT) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Sinner](https://open.spotify.com/album/3jebAFkeFQWSGzXL3nfUzD) | 3:13 |
+| 42 | [Iris Vol\. II](https://open.spotify.com/track/796tIGiLs0fcthbrtf0wRS) | [Like Ghosts](https://open.spotify.com/artist/5oFikwPgO6xRLb1nFg8VY9), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Iris Vol\. II](https://open.spotify.com/album/0Jgi4MeTSUrvNbjqS87kUc) | 3:27 |
+| 43 | [Sleep Whisper](https://open.spotify.com/track/0Uill1vqGgC1zOShoKoqe2) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Sleep Whisper](https://open.spotify.com/album/0zUdYR6wHtGlvHFjfz1RO8) | 5:12 |
+| 44 | [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 |
+| 45 | [Dye Black to Pink](https://open.spotify.com/track/2mbgpxjPQaBjWWTN8Jd3CO) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Dye Black to Pink](https://open.spotify.com/album/2eyWtmrIvt0GXlbYNvXvvk) | 3:48 |
+| 46 | [Three\-Headed Death Machine](https://open.spotify.com/track/5LQN5AzQl5chXtCnmQsZ6y) | [The Monolith Deathcult](https://open.spotify.com/artist/30R1cSs562qWPmRHZtmZom) | [Three\-Headed Death Machine](https://open.spotify.com/album/3bh9mq4hyD2NHx3wtkn9CV) | 4:41 |
+| 47 | [Alpha Nine](https://open.spotify.com/track/63GjanWY79AHOnbXKegzzN) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Alpha Nine](https://open.spotify.com/album/4CB3NPaGXsRuSNKc0HUQgh) | 3:33 |
+| 48 | [Solitude's Bane](https://open.spotify.com/track/3S4FfGDSpmPSHqSR0DyMH4) | [Gladenfold](https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe) | [Nemesis](https://open.spotify.com/album/6hcVrHaXWVQucfSx39i4vo) | 3:37 |
+| 49 | [Promises](https://open.spotify.com/track/1WV5w169YJR8f9ZFNIKxCp) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Promises](https://open.spotify.com/album/1LHqSRxFGFsNLdH03f3Uv8) | 4:54 |
+| 50 | [A King Has Gone](https://open.spotify.com/track/4hJY176L0CKPXcXkaGoQYY) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [A King Has Gone](https://open.spotify.com/album/2hfvFV1cayX5ditLOxlhDo) | 4:53 |
 
 Snapshot ID: `MTY1MTE5MDQ2MCwwMDAwMDRlYzAwMDAwMTgwNzI5ZWVlZDIwMDAwMDE4MDcxOTc2MGNh`

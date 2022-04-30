@@ -1,28 +1,36 @@
 {
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: A Boogie Wit Da Hoodie",
-  "num_followers": 1880374,
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lil Tjay",
+  "num_followers": 1880672,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTA5MjIxNiwwMDAwMDUxMDAwMDAwMTgwNmNjM2RjNDQwMDAwMDE3ZmUwZDIwN2Ji",
+  "snapshot_id": "MTY1MTI2MjI4OSwwMDAwMDUxMTAwMDAwMTgwNzZlNmY4MDIwMDAwMDE4MDczNGY2NjUw",
   "tracks": [
     {
-      "added_at": "2022-04-27 20:43:36",
+      "added_at": "2022-04-29 19:58:09",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 176850,
-      "name": "Every Good Girl",
-      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
       "added_at": "2022-04-04 04:04:33",
@@ -45,20 +53,20 @@
       "url": "https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
+      "added_at": "2022-04-04 04:04:33",
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -75,6 +83,42 @@
       "duration_ms": 182487,
       "name": "Non Judgmental",
       "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
+    },
+    {
+      "added_at": "2022-04-29 19:58:09",
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 126653,
+      "name": "Blocklist",
+      "url": "https://open.spotify.com/track/79cq3PF1wgkDVTAFMlOjNB"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Overthinking (with H.E.R.)",
+      "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -101,42 +145,6 @@
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Overthinking (with H.E.R.)",
-      "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
-    },
-    {
-      "added_at": "2022-04-04 04:04:33",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 135264,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
-    },
-    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "From a Birds Eye View",
@@ -161,6 +169,38 @@
       "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "added_at": "2022-04-27 20:43:36",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Every Good Girl",
+      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
+    },
+    {
       "added_at": "2022-01-07 05:00:00",
       "album": {
         "name": "DS4EVER",
@@ -179,6 +219,22 @@
       "duration_ms": 144373,
       "name": "you & me",
       "url": "https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ"
+    },
+    {
+      "added_at": "2022-04-29 19:58:09",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 129479,
+      "name": "LOVE YOU BETTER",
+      "url": "https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -271,6 +327,26 @@
       "duration_ms": 264794,
       "name": "Hello (feat. Chl\u00f6e & KayCyy)",
       "url": "https://open.spotify.com/track/0GrygSHJw7Hkc7Ih5X1wkX"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 201737,
+      "name": "Take You Back (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/1WrVBzjNuyDBqh0kXHFsCr"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -487,26 +563,6 @@
       "duration_ms": 195173,
       "name": "Nobody (feat. Dreezy)",
       "url": "https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 201737,
-      "name": "Take You Back (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/1WrVBzjNuyDBqh0kXHFsCr"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -817,22 +873,6 @@
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "What We Had",
-        "url": "https://open.spotify.com/album/1l0PkjxJl4AhrhrzVpwXkN"
-      },
-      "artists": [
-        {
-          "name": "KB Mike",
-          "url": "https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "What We Had",
-      "url": "https://open.spotify.com/track/4011THvvVIdFJjTaG2hNRN"
-    },
-    {
       "added_at": "2021-12-17 05:00:00",
       "album": {
         "name": "No, I'm Not Ok",
@@ -931,58 +971,6 @@
       "duration_ms": 269727,
       "name": "lost souls (with Brent Faiyaz)",
       "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "Counter",
-        "url": "https://open.spotify.com/album/35MFJBhiYKKm3Vsybpsk29"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Counter",
-      "url": "https://open.spotify.com/track/4W4lWW8HQITbAe96R0APIh"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "2 Get You Thru The Rain",
-        "url": "https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 111444,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/1T095p75wC8BqEYlk0ld56"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Friendzone (feat. Seddy Hendrinx)",
-        "url": "https://open.spotify.com/album/1LEhwHnTbCpoCA0Ae8W1vf"
-      },
-      "artists": [
-        {
-          "name": "Landstrip Chip",
-          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
-        },
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 215069,
-      "name": "Friendzone (feat. Seddy Hendrinx)",
-      "url": "https://open.spotify.com/track/4zU1FoEIOPOgAwNbNhQAQ3"
     }
   ],
   "unique_name": "B.A.E.",

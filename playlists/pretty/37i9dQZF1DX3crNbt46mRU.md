@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,993 likes - 106 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,997 likes - 106 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 6 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 7 | [Die schönsten Tage](https://open.spotify.com/track/5h6yetX656MwIB1jAuAEjI) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Die schönsten Tage](https://open.spotify.com/album/2A2PgVMoLdaGuFfcyMUMn2) | 3:17 |
 | 8 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
-| 9 | [The Carnival](https://open.spotify.com/track/1A7lwaWzcPtflW1bvrrvDJ) | [Aazar](https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Danny Synthé](https://open.spotify.com/artist/01tGwo5qBKraXOP3sfzHUq) | [The Carnival](https://open.spotify.com/album/6H9sERXZq85JytXgJ5lTaI) | 2:45 |
+| 9 | [The Carnival](https://open.spotify.com/track/1A7lwaWzcPtflW1bvrrvDJ) | [Aazar](https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Dany Synthé](https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy) | [The Carnival](https://open.spotify.com/album/6H9sERXZq85JytXgJ5lTaI) | 2:45 |
 | 10 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
 | 11 | [I Love You](https://open.spotify.com/track/3PyznUqNXz4O8woVOvvUh9) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Tombolo](https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3) | 3:06 |
 | 12 | [Tausend Teile](https://open.spotify.com/track/1JucwXk7DIIcB5QG9IqOUh) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [Tausend Teile](https://open.spotify.com/album/0Z92XF1E2ROtlZ4358shYN) | 2:52 |

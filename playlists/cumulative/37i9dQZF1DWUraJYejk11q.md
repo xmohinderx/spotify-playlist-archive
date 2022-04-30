@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-150 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+151 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [BUD](https://open.spotify.com/track/61PfhJNup3uF1msSd1US69) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [BUD](https://open.spotify.com/album/62E3FuXeBjp5e8bfvRf4xT) | 3:56 | 2021-10-15 | 2022-01-22 |
 | [Canone Infinito](https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito](https://open.spotify.com/album/6tbfwIkDEdGOURCQ2vMvYC) | 4:59 | 2021-10-15 | 2022-02-10 |
 | [Central Airport](https://open.spotify.com/track/2Lpy9IYrfMlWjWkugU2gdJ) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [BLESS Vol\. 2](https://open.spotify.com/album/0rXue3LLSLUXoMatPLmxuU) | 3:38 | 2021-10-15 | 2022-01-20 |
+| [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 | 2022-04-29 |  |
 | [Cinétique \- Edit](https://open.spotify.com/track/1jRdRoJqx2s6v4T5VZM41C) | [Jinjé](https://open.spotify.com/artist/59ceK8A6RxzUQZF05aXezk) | [Cinétique](https://open.spotify.com/album/36j2hkJhjKKiGDu6IRT9Vr) | 4:00 | 2021-10-15 | 2022-01-20 |
 | [Clouds](https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb) | 4:05 | 2022-01-11 |  |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-15 | 2022-01-13 |
@@ -149,7 +150,7 @@
 | [Vocoder](https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Vocoder](https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN) | 7:35 | 2022-03-11 |  |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-15 |  |
 | [Wastelands and Oases](https://open.spotify.com/track/0ovt7COFyFzCr0ooiLLJhK) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Wastelands and Oases](https://open.spotify.com/album/1dvKTNYiGUOz4VCOkJbxKy) | 4:19 | 2021-10-15 | 2022-02-10 |
-| [We](https://open.spotify.com/track/0a0PxP0MTm9bsNOw7kdi7K) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [We](https://open.spotify.com/album/0P8Ta4XNkltDQV3Pe0Kbuv) | 5:29 | 2021-10-15 |  |
+| [We](https://open.spotify.com/track/0a0PxP0MTm9bsNOw7kdi7K) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [We](https://open.spotify.com/album/0P8Ta4XNkltDQV3Pe0Kbuv) | 5:29 | 2021-10-15 | 2022-04-30 |
 | [Weather the Storm](https://open.spotify.com/track/7tukLYFGfh5osYc8uoqOmk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Weather the Storm](https://open.spotify.com/album/671j83cAr05uMnsERPGycZ) | 4:36 | 2021-10-15 | 2022-02-10 |
 | [Wedbecutetoget\-her](https://open.spotify.com/track/2aUqSrIw15sfRdMwjQaRg2) | [o0o](https://open.spotify.com/artist/5J1ISo62brLWWq3ylID7BR) | [Wedbecutetoget\-her](https://open.spotify.com/album/1Lpu55DV9ThB7G0ClRpM7N) | 3:39 | 2022-01-12 | 2022-03-04 |
 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 | 2021-10-15 | 2022-01-14 |

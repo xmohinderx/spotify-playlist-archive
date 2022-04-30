@@ -2700,6 +2700,24 @@
     },
     {
       "album": {
+        "name": "Rat Beat",
+        "url": "https://open.spotify.com/album/3RUlHcQx91MUm4bFONfT57"
+      },
+      "artists": [
+        {
+          "name": "Beach Rats",
+          "url": "https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93954,
+      "name": "Rat Beat",
+      "url": "https://open.spotify.com/track/1KYt8BaFbULd7jU52MinI2"
+    },
+    {
+      "album": {
         "name": "Hungry for Action",
         "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
       },

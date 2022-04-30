@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 202053,
       "name": "Always Almost",
       "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 223182,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 198166,
       "name": "Brave Face",
       "url": "https://open.spotify.com/track/4yB1s08jEfpRMb0K07qCE9"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 201256,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/3O5osWf1rSoKMwe6E9ZaXP"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 169975,
       "name": "Grew Apart",
       "url": "https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz"
@@ -2713,7 +2713,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 176541,
       "name": "Need Someone",
       "url": "https://open.spotify.com/track/3iYS4NIxfoSNNnPuBhawZy"
@@ -2897,7 +2897,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 258812,
       "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
@@ -2919,6 +2919,24 @@
       "duration_ms": 252227,
       "name": "Nurture",
       "url": "https://open.spotify.com/track/68QtZJviwUVuDl7GS1pxDh"
+    },
+    {
+      "album": {
+        "name": "Oh Love",
+        "url": "https://open.spotify.com/album/3LnydTYoQ2XGDZCCC6cOcn"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/28Obqqr7EtnSNul1TJiQcX"
     },
     {
       "album": {
@@ -3189,7 +3207,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 200106,
       "name": "rx",
       "url": "https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID"
@@ -3395,7 +3413,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 205113,
       "name": "Stayed Strangers",
       "url": "https://open.spotify.com/track/5fHc27dNyLvzXStTjbONxm"
@@ -3655,7 +3673,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 172802,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2"
@@ -3771,7 +3789,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
@@ -4075,7 +4093,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 164408,
       "name": "Worst Kind of Hurt",
       "url": "https://open.spotify.com/track/2TvCQzggZs6tX9HmeXPja2"

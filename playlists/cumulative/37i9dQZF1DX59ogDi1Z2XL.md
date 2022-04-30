@@ -2,7 +2,7 @@
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: <br/>🕊 Houdini, NorthSideBenji
+> The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: 🕊 Houdini, NorthSideBenji
 
 307 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 

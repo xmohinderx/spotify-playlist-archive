@@ -4,7 +4,7 @@
 
 > The soundtrack to the Internet\. Cover: Autumn!
 
-255 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+256 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [How Much Cash](https://open.spotify.com/track/7MqhkWnXD53EK4XreeK2F1) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [How Much Cash](https://open.spotify.com/album/3h1vVs84r2jOB5BgEnCQh0) | 2:08 | 2022-02-11 | 2022-02-19 |
 | [I Chose Violence](https://open.spotify.com/track/7l5GAw0cglUUnN7bKAz5ab) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [I Chose Violence](https://open.spotify.com/album/0VGDZJXfVVi3vEgbJTRXQ8) | 2:19 | 2021-10-28 | 2022-04-29 |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-01-04 |  |
-| [I Feel Funny](https://open.spotify.com/track/2AVaz5BV1gTrjSZt0HZ8dV) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Feel Funny](https://open.spotify.com/album/06aEQhiev6dMRsPbSQ2cFC) | 1:15 | 2022-04-28 |  |
+| [I Feel Funny](https://open.spotify.com/track/2AVaz5BV1gTrjSZt0HZ8dV) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Feel Funny](https://open.spotify.com/album/06aEQhiev6dMRsPbSQ2cFC) | 1:15 | 2022-04-28 | 2022-04-30 |
 | [I feel it](https://open.spotify.com/track/2JddvCwB2cnFwUU8JE8Xy9) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [I feel it](https://open.spotify.com/album/77EQnCprOOLzzBVw8hhGpD) | 2:07 | 2022-04-26 |  |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-03 | 2022-02-23 |
 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-02-25 |  |
@@ -148,6 +148,7 @@
 | [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 | 2022-01-04 | 2022-04-14 |
 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 | 2021-09-24 | 2022-04-03 |
 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 | 2022-03-17 | 2022-04-26 |
+| [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 | 2022-04-29 |  |
 | [masquerade II \(dante’s inferno\)](https://open.spotify.com/track/7G7jd3o9p7KH9jMRhefwiQ) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade II \(dante’s inferno\)](https://open.spotify.com/album/75pEi3CTFA4uFOrKqPgkep) | 2:10 | 2021-12-10 | 2022-02-23 |
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2021-12-10 | 2022-02-05 |
 | [mathematics](https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [mathematics](https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm) | 2:27 | 2022-04-08 |  |

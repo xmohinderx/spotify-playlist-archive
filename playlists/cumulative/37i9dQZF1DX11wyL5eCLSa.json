@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 328040,
       "name": "Hasta Que el Tiempo No Nos Separe",
       "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 224570,
       "name": "Me Sobra la Plata",
       "url": "https://open.spotify.com/track/3igxC0qw663Ip91fIwrU8q"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 224614,
       "name": "Nube Fantasma",
       "url": "https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ"
@@ -1659,6 +1659,32 @@
       "duration_ms": 249520,
       "name": "Velur",
       "url": "https://open.spotify.com/track/605QBjMSUyvXD5DKgjm8dT"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/3a2JFR914ksbxF42fGzNs5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Venados Que Empujan el Sol",
+      "url": "https://open.spotify.com/track/2rQ8b8VHjtPQYkSGkef4cL"
     },
     {
       "album": {

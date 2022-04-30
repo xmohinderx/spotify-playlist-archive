@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=8\_2ohtNiR5i0U4oDloSrPA">Dr Feel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,049 likes - 74 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,090 likes - 74 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

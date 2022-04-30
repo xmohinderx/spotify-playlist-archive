@@ -1,84 +1,44 @@
 {
-  "description": "With \u6f58PAN, HEALTH, Perturbator and more",
-  "num_followers": 14715,
+  "description": "With Arca, Hannah Diamond, HEALTH and more",
+  "num_followers": 14727,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI1NDYwMiwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj",
+  "snapshot_id": "MTY1MTM0NzUyMSwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Miss Anthropocene (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
+        "name": "Halfaxa",
+        "url": "https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D"
       },
       "artists": [
         {
           "name": "Grimes",
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "\u6f58PAN",
-          "url": "https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo"
         }
       ],
-      "duration_ms": 224109,
-      "name": "Darkseid",
-      "url": "https://open.spotify.com/track/0TlBuH1azntROo6SCNe3Kb"
+      "duration_ms": 184959,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/4hVxYXBVbTEUPfzJfcTSrD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "DISCO4 :: PART I",
-        "url": "https://open.spotify.com/album/6HodZ9bCtPbrWSqMlIEuvK"
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "Perturbator",
-          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 164253,
-      "name": "BODY/PRISON",
-      "url": "https://open.spotify.com/track/4pYuPkr13zQbrrDChQrfQs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STILLBIRTH",
-        "url": "https://open.spotify.com/album/3TLw0fCqnhtjw5rIZ9MyQi"
-      },
-      "artists": [
-        {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "STILLBIRTH",
-      "url": "https://open.spotify.com/track/3RiJ5DlwJNnGuV2zDqUw90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intro Bonito",
-        "url": "https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD"
-      },
-      "artists": [
-        {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
-        }
-      ],
-      "duration_ms": 179090,
-      "name": "Sick Beat",
-      "url": "https://open.spotify.com/track/77p1CIEpT4kXMa8R4i7etL"
+      "duration_ms": 165789,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3XdXixlx3MoVzfL7pu9hx6"
     },
     {
       "added_at": null,
@@ -99,190 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halfaxa",
-        "url": "https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D"
+        "name": "DISCO4 :: PART I",
+        "url": "https://open.spotify.com/album/6HodZ9bCtPbrWSqMlIEuvK"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 270138,
-      "name": "Devon",
-      "url": "https://open.spotify.com/track/5AJkfdLjAFEKgJFDA5jYo2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feel It Break",
-        "url": "https://open.spotify.com/album/5Q4twEkKreQ54pnMSBKYrU"
-      },
-      "artists": [
-        {
-          "name": "Austra",
-          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
-        }
-      ],
-      "duration_ms": 309653,
-      "name": "Spellwork",
-      "url": "https://open.spotify.com/track/5ww5lzQmXVaEmVJXCtFR4J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Texis",
-        "url": "https://open.spotify.com/album/0aBClhSfDETc2xeaJEI08B"
-      },
-      "artists": [
-        {
-          "name": "Sleigh Bells",
-          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "SWEET75",
-      "url": "https://open.spotify.com/track/6Hkcj6vD88MrcrC8D0M7j4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIREN",
-        "url": "https://open.spotify.com/album/1HNqEuXidi8p6Bx1tc4xs8"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "SIREN",
-      "url": "https://open.spotify.com/track/0TNVHzBcohllSBliWc9HVk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 255213,
-      "name": "Heavy Metal Heart",
-      "url": "https://open.spotify.com/track/3k5SxXdbEzyHfE7wiJl0ya"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyland",
-        "url": "https://open.spotify.com/album/2NaoVx0onhguiX36TFBM4J"
-      },
-      "artists": [
-        {
-          "name": "TR/ST",
-          "url": "https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Capitol",
-      "url": "https://open.spotify.com/track/0cYUfSFxY55Ppzf6ylU1gM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miss Anthropocene (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 243872,
-      "name": "My Name is Dark - Algorithm Mix",
-      "url": "https://open.spotify.com/track/437CZPz3PTVkbMONkEcgDX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLUE",
-        "url": "https://open.spotify.com/album/0mECQjDNmBl1vThYWBQX5D"
-      },
-      "artists": [
-        {
-          "name": "iamamiwhoami",
-          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         },
         {
-          "name": "ionnalee",
-          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 360855,
-      "name": "fountain",
-      "url": "https://open.spotify.com/track/5A7fHZEbdmblQQcFrQzQHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mistress Violet",
-        "url": "https://open.spotify.com/album/6SFdTIOCRauxm6itm7Lie2"
-      },
-      "artists": [
-        {
-          "name": "Violet Chachki",
-          "url": "https://open.spotify.com/artist/39MrkAPZRa0GzXX7KaSC3m"
-        },
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        },
-        {
-          "name": "Lecomte De Br\u00e9geot",
-          "url": "https://open.spotify.com/artist/0Y3QSSc5Uw3g2ZHPkR2bdA"
-        }
-      ],
-      "duration_ms": 216216,
-      "name": "Mistress Violet",
-      "url": "https://open.spotify.com/track/39gdqL1vq9y5X56zaIaUM6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Night Time, My Time",
-      "url": "https://open.spotify.com/track/7d3BrpkSkKJpMdOuSnHxtH"
+      "duration_ms": 187360,
+      "name": "MASS GRAVE",
+      "url": "https://open.spotify.com/track/1rhvzKxnHtNt5RSBdoDHad"
     },
     {
       "added_at": null,
@@ -296,15 +88,15 @@
           "url": "https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Shoom",
-      "url": "https://open.spotify.com/track/2MHQTJmaAQ8mC4DUBcq2Hd"
+      "duration_ms": 289320,
+      "name": "Bulbform",
+      "url": "https://open.spotify.com/track/5c5LFrdYFQSyb5gIUiVCY9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Halfaxa",
-        "url": "https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D"
+        "name": "Miss Anthropocene (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
       },
       "artists": [
         {
@@ -312,61 +104,177 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 280072,
-      "name": "World \u2661 Princess",
-      "url": "https://open.spotify.com/track/7x9ShJN1xTvdqFpscZeiEj"
+      "duration_ms": 161691,
+      "name": "You'll miss me when I'm not around",
+      "url": "https://open.spotify.com/track/0Sqh9dVJMFJRwz4K0jeoOR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb"
+        "name": "HANADRIEL",
+        "url": "https://open.spotify.com/album/4BlLJn9RjIJ9WufqeufTCU"
       },
       "artists": [
         {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2FLW1FnWZxGUuiDgsLDGOG"
+      "duration_ms": 330000,
+      "name": "Cowgirl Bebop",
+      "url": "https://open.spotify.com/track/221UpN2sROBn1I6jN1UBhD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Coastal Grooves",
-        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
+        "name": "AMERICAN GURL",
+        "url": "https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
         }
       ],
-      "duration_ms": 292373,
-      "name": "Champagne Coast",
-      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
+      "duration_ms": 205026,
+      "name": "BLOODY FUTURE",
+      "url": "https://open.spotify.com/track/012FvZSHmM8j1G1j6KmzNE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "KiCk i",
-        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+        "name": "Closer To Grey",
+        "url": "https://open.spotify.com/album/6A6RTFXwJWesdPhSGnm0tF"
       },
       "artists": [
         {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 207578,
+      "name": "Twist The Knife",
+      "url": "https://open.spotify.com/track/2KVStewnFKCp6gjREeHRDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STILLBIRTH",
+        "url": "https://open.spotify.com/album/3TLw0fCqnhtjw5rIZ9MyQi"
+      },
+      "artists": [
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "STILLBIRTH",
+      "url": "https://open.spotify.com/track/3RiJ5DlwJNnGuV2zDqUw90"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRST",
+        "url": "https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK"
+      },
+      "artists": [
+        {
+          "name": "TR/ST",
+          "url": "https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Dressed For Space",
+      "url": "https://open.spotify.com/track/60fEW0a2iIE2pGzKhkqYzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss Anthropocene (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         },
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "i_o",
+          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
         }
       ],
-      "duration_ms": 148576,
-      "name": "Watch",
-      "url": "https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7"
+      "duration_ms": 252115,
+      "name": "Violence - Club Mix",
+      "url": "https://open.spotify.com/track/57HNTVH3qpDVOGEzFB1dda"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HANADRIEL",
+        "url": "https://open.spotify.com/album/4BlLJn9RjIJ9WufqeufTCU"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Chimera 2.0",
+      "url": "https://open.spotify.com/track/4QdpA4BCQBUwi3IOWcTXaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Machine Dreams",
+        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 293786,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instrumentals",
+        "url": "https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        }
+      ],
+      "duration_ms": 249208,
+      "name": "Illest Alive",
+      "url": "https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gloss Coma - 001",
+        "url": "https://open.spotify.com/album/3WF1RzX3h91xPB59lVX5hG"
+      },
+      "artists": [
+        {
+          "name": "Jorge Elbrecht",
+          "url": "https://open.spotify.com/artist/6NWNbhdPRgn8ONYG93D8bz"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Full Mental Erase",
+      "url": "https://open.spotify.com/track/2zNDnnBjErbLTSFMeeKuPk"
     },
     {
       "added_at": null,
@@ -391,6 +299,382 @@
     {
       "added_at": null,
       "album": {
+        "name": "Halfaxa",
+        "url": "https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251436,
+      "name": "My Sister Says The Saddest Things",
+      "url": "https://open.spotify.com/track/6nnkEqZWBghN8GJ1EAe6GA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Disagree",
+        "url": "https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 193499,
+      "name": "I Disagree",
+      "url": "https://open.spotify.com/track/5E09pgezFesGrk4ZL9T2cc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "another eternity",
+        "url": "https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 217201,
+      "name": "begin again",
+      "url": "https://open.spotify.com/track/3S6qD3X5lXJEzzjzfytC5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO3",
+        "url": "https://open.spotify.com/album/3K10ND4pwiQr2qAMAzfr7l"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "SLUM LORD",
+      "url": "https://open.spotify.com/track/0c0eHHKsVadK30AyLJH5gp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss Anthropocene (Rave Edition)",
+        "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 365733,
+      "name": "IDORU - Modeselektor Remix",
+      "url": "https://open.spotify.com/track/09jaofqqQq1Z6KIerQvM1e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 148576,
+      "name": "Watch",
+      "url": "https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bounty",
+        "url": "https://open.spotify.com/album/7ewgvBY5ykj7cn0vRCK1u4"
+      },
+      "artists": [
+        {
+          "name": "iamamiwhoami",
+          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
+        },
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "duration_ms": 266548,
+      "name": "clump",
+      "url": "https://open.spotify.com/track/69IHvl0qbLERq8p95DM50q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glitch Princess",
+        "url": "https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 288573,
+      "name": "Bites on My Neck",
+      "url": "https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRST",
+        "url": "https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK"
+      },
+      "artists": [
+        {
+          "name": "TR/ST",
+          "url": "https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Shoom",
+      "url": "https://open.spotify.com/track/2MHQTJmaAQ8mC4DUBcq2Hd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO3",
+        "url": "https://open.spotify.com/album/3K10ND4pwiQr2qAMAzfr7l"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LIFE - PURITY RING RMX",
+      "url": "https://open.spotify.com/track/4VCl4aCzmHnEYsCZg87ruQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss Anthropocene (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 243872,
+      "name": "My Name is Dark - Algorithm Mix",
+      "url": "https://open.spotify.com/track/437CZPz3PTVkbMONkEcgDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Careful",
+        "url": "https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 297456,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/4M66Umj8LV4XC9z4O3D5sn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charm and Mirror",
+        "url": "https://open.spotify.com/album/5o7u4rf5p1o5aaHuIR8z4H"
+      },
+      "artists": [
+        {
+          "name": "Kitty",
+          "url": "https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV"
+        }
+      ],
+      "duration_ms": 218901,
+      "name": "Bath Salts",
+      "url": "https://open.spotify.com/track/0ZNgzUgemkx9kpLUxSPJ4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Kerosene!",
+      "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 189370,
+      "name": "Cleo - Edit",
+      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyland",
+        "url": "https://open.spotify.com/album/2NaoVx0onhguiX36TFBM4J"
+      },
+      "artists": [
+        {
+          "name": "TR/ST",
+          "url": "https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu"
+        }
+      ],
+      "duration_ms": 273840,
+      "name": "Lost Souls/Eelings",
+      "url": "https://open.spotify.com/track/36LU5nIrAZzLXDFxvwzASU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 252558,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/01dQHUYz6EerSF6JQDolCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm All Ears",
+        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 248976,
+      "name": "Hot Pink",
+      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cape God",
+        "url": "https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 236045,
+      "name": "Fresh Laundry",
+      "url": "https://open.spotify.com/track/59OLI17MahTupGhjyxaslJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "kin",
+        "url": "https://open.spotify.com/album/22GqBntPW6pTyOTb3RjMFF"
+      },
+      "artists": [
+        {
+          "name": "iamamiwhoami",
+          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
+        },
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "duration_ms": 238444,
+      "name": "sever",
+      "url": "https://open.spotify.com/track/0uxlnRGulRxknJLS9Wwocf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posh",
         "url": "https://open.spotify.com/album/6YychOqBBwZeoCLDvH2N7k"
       },
@@ -411,18 +695,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halfaxa",
-        "url": "https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D"
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 279880,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
       "artists": [
         {
           "name": "Grimes",
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Majical Cloudz",
+          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
         }
       ],
-      "duration_ms": 155763,
-      "name": "Favriel",
-      "url": "https://open.spotify.com/track/3TQ2EK6ABzoQvO2nzw8hMe"
+      "duration_ms": 238293,
+      "name": "Nightmusic",
+      "url": "https://open.spotify.com/track/1KIb20Sgqg4XiRIPaEBwDv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hi",
+        "url": "https://open.spotify.com/album/6tAm4UhaFqBm9PKEOzseVx"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/2XKwOfTbvLYN959bEGkjJ7"
     },
     {
       "added_at": null,
@@ -436,41 +756,41 @@
           "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 260685,
-      "name": "Poison Arrow",
-      "url": "https://open.spotify.com/track/5Pljdb5h9t6AwhDZAv2h1v"
+      "duration_ms": 284050,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/0CgPQLC958e6pAPCnMAy0G"
     },
     {
       "added_at": null,
       "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/56kky0KAbYN7a9LzwjeMOm"
+        "name": "BB",
+        "url": "https://open.spotify.com/album/4P1xQUR8dEHCvHkYvtfd2I"
       },
       "artists": [
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 257671,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/3vDgFxmGbBBQEsmnSTr42F"
+      "duration_ms": 166000,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/5LbZrfWzafeYlwzbHtpAqD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9"
+        "name": "CEASE AND DESIST",
+        "url": "https://open.spotify.com/album/0cs0jFB44U3Qz4JCnmHF0c"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
         }
       ],
-      "duration_ms": 219770,
-      "name": "Spill The Milk",
-      "url": "https://open.spotify.com/track/2hhIvbMtsxm8Lw5WDO6GKk"
+      "duration_ms": 114280,
+      "name": "CEASE AND DESIST",
+      "url": "https://open.spotify.com/track/3cIttzoAjoc44h6noteqJh"
     },
     {
       "added_at": null,
@@ -491,24 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oak",
-        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
-      },
-      "artists": [
-        {
-          "name": "Labyrinth Ear",
-          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Navy Light",
-      "url": "https://open.spotify.com/track/6o43Gi1cX7Nyi6koSkwIBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Halfaxa",
-        "url": "https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D"
+        "name": "Geidi Primes",
+        "url": "https://open.spotify.com/album/7HO6IZ3Ff5J9YoRBI8hm1O"
       },
       "artists": [
         {
@@ -516,333 +820,41 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 251436,
-      "name": "My Sister Says The Saddest Things",
-      "url": "https://open.spotify.com/track/6nnkEqZWBghN8GJ1EAe6GA"
+      "duration_ms": 155685,
+      "name": "Avi",
+      "url": "https://open.spotify.com/track/6xdqkwSlDw4lGMwZsDU8rQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+        "name": "I'm Your Empress Of",
+        "url": "https://open.spotify.com/album/3gNGH714VLr6yBudbh4i2Z"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
-      "duration_ms": 257130,
-      "name": "Chaeri",
-      "url": "https://open.spotify.com/track/1ZkfNNoRrgt69wTjcmJZE9"
+      "duration_ms": 210066,
+      "name": "Bit Of Rain",
+      "url": "https://open.spotify.com/track/1QBI35ZDFfR1YI0tR65nIi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "DIP N DRIP",
-        "url": "https://open.spotify.com/album/1FaryKGpT1iu4YXsNMWwdE"
+        "name": "DISCO4 :: PART I",
+        "url": "https://open.spotify.com/album/6HodZ9bCtPbrWSqMlIEuvK"
       },
       "artists": [
         {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 172121,
-      "name": "DIP N DRIP",
-      "url": "https://open.spotify.com/track/2BH9ryNKlONkENIhgMM4lq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soft Drink",
-        "url": "https://open.spotify.com/album/1Ehb2AaSOAbyehOOSGW80b"
-      },
-      "artists": [
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Soft Drink",
-      "url": "https://open.spotify.com/track/0WCB977PfbtbJa85dbSzVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/2XPxacir3WoMtJ2pbTd240"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alice Glass",
-        "url": "https://open.spotify.com/album/5FXlBbOLPltg9Ix0Ri7G01"
-      },
-      "artists": [
-        {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/3WSJdIwhORCuyGNinGfAdm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALiTi (Demo)",
-        "url": "https://open.spotify.com/album/3aCxAdKWotuV6cXy95OBFf"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 267130,
-      "name": "REALiTi - Demo",
-      "url": "https://open.spotify.com/track/7sjPUfMPloQa1nyvjaQZun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Impatiens (Edited Version)",
-        "url": "https://open.spotify.com/album/0plWWsJ8ZxtCL73HiFXflG"
-      },
-      "artists": [
-        {
-          "name": "Kitty",
-          "url": "https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV"
-        }
-      ],
-      "duration_ms": 214100,
-      "name": "Morgan Stop",
-      "url": "https://open.spotify.com/track/6bqw8RA9zf0h6NIgolA6BD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadow Offering",
-        "url": "https://open.spotify.com/album/0r7aHi3CBW5GpEBVm2IT1Z"
-      },
-      "artists": [
-        {
-          "name": "Braids",
-          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Young Buck",
-      "url": "https://open.spotify.com/track/6vOXqkbbgA5pfE95tpTkLC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "604 (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3WEm740evpu5rHKxBggUnE"
-      },
-      "artists": [
-        {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Discotraxx",
-      "url": "https://open.spotify.com/track/5qYM7MNK6w2GvOzfBkPLVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyland",
-        "url": "https://open.spotify.com/album/2NaoVx0onhguiX36TFBM4J"
-      },
-      "artists": [
-        {
-          "name": "TR/ST",
-          "url": "https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Rescue, Mister",
-      "url": "https://open.spotify.com/track/5V8tVCO3M0OqpZRLg438vP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darkbloom",
-        "url": "https://open.spotify.com/album/1Cog6aZ6NwnJiuINc0LQEU"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 324042,
-      "name": "Vanessa",
-      "url": "https://open.spotify.com/track/2cEFHXXBfVEMUcTAaz2jVO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Light",
-        "url": "https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2"
-      },
-      "artists": [
-        {
-          "name": "Sidewalks and Skeletons",
-          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Goth",
-      "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flamboyant",
-        "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Flamboyant",
-      "url": "https://open.spotify.com/track/1XZFTUYb4GmsUc7zWfH9am"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm on Top",
-        "url": "https://open.spotify.com/album/0u53TCqRQnsqxcxyH8Et4L"
-      },
-      "artists": [
-        {
-          "name": "Otha",
-          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "I'm on Top",
-      "url": "https://open.spotify.com/track/4HkVpLmnWe06fRm5Y5D5n3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5HEeBCUDho3uQVNu98CvsS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Love",
-        "url": "https://open.spotify.com/album/62aiSidvrWqKfFTVFtTbDE"
-      },
-      "artists": [
-        {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Without Love",
-      "url": "https://open.spotify.com/track/40G45aA4dDcFt6AalUBsCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 225734,
-      "name": "Venus Fly",
-      "url": "https://open.spotify.com/track/1QxbBB80IuPwhwW1ygGfPh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Our Loving Is Hurting Us",
-        "url": "https://open.spotify.com/album/6xP9sxVrPYfao7Lq05i2F6"
-      },
-      "artists": [
-        {
-          "name": "oOoOO",
-          "url": "https://open.spotify.com/artist/1f5Qv25dd6ldcXS9aKqDTi"
-        }
-      ],
-      "duration_ms": 263330,
-      "name": "Nowayback",
-      "url": "https://open.spotify.com/track/3LfZ86Xzk0sHLJbla2Euk5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mothe",
-        "url": "https://open.spotify.com/album/3Jsj2EXHXgXEsJ6ELMxTdY"
-      },
-      "artists": [
-        {
-          "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
-        }
-      ],
-      "duration_ms": 183641,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/09hFzxySPHV6PMWUiW91Di"
+      "duration_ms": 312680,
+      "name": "CYBERPUNK 2.0.2.0.",
+      "url": "https://open.spotify.com/track/3Ir8HCQuIyoWMBNZQHEeZ8"
     }
   ],
   "unique_name": "Grimes Radio",

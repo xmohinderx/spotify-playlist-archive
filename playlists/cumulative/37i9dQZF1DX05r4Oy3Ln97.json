@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 134168,
       "name": "I Love Your Smile",
       "url": "https://open.spotify.com/track/0tFvZDDjgzoIrWaLykgvRa"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 159669,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w"
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 228250,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik"
@@ -1989,7 +1989,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 166080,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV"
@@ -2521,7 +2521,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 132571,
       "name": "Sun Screen",
       "url": "https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q"
@@ -2794,6 +2794,28 @@
     },
     {
       "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235763,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD"
+    },
+    {
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
       },
@@ -3041,7 +3063,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 192125,
       "name": "We\u2019re Good",
       "url": "https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13"
@@ -3163,7 +3185,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 153466,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/2esaWj2n6a6u8lgJTHErlH"

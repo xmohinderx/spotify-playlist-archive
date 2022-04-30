@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not not not pop\. Cover: Brevin Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,323 likes - 125 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,424 likes - 125 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Overflow](https://open.spotify.com/track/74r1DelsIM4EFBH4Ts0DlJ) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Overflow](https://open.spotify.com/album/7AgRvwdxUPCIYW9hL41IB1) | 2:58 |
-| 2 | [Fuck This Town](https://open.spotify.com/track/6gCzUdmyiwgnzINg9PiB13) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Fuck This Town](https://open.spotify.com/album/40b7H9VC9cBQp3Ga7HmRon) | 3:39 |
-| 3 | [Bad Hoe](https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sometimes Sorry Isn't Enough](https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n) | 3:27 |
-| 4 | [CAN'T HANDLE IT](https://open.spotify.com/track/4mEjKAoROQlEE9uqNwHr8u) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [CAN'T HANDLE IT](https://open.spotify.com/album/0okGEnaTDMsvT1pjehiMsZ) | 2:50 |
-| 5 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
+| 1 | [Fuck This Town](https://open.spotify.com/track/6gCzUdmyiwgnzINg9PiB13) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Fuck This Town](https://open.spotify.com/album/40b7H9VC9cBQp3Ga7HmRon) | 3:39 |
+| 2 | [Bad Hoe](https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sometimes Sorry Isn't Enough](https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n) | 3:27 |
+| 3 | [CAN'T HANDLE IT](https://open.spotify.com/track/4mEjKAoROQlEE9uqNwHr8u) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [CAN'T HANDLE IT](https://open.spotify.com/album/0okGEnaTDMsvT1pjehiMsZ) | 2:50 |
+| 4 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
+| 5 | [‎u and ‎everyone ‎u ‎know !](https://open.spotify.com/track/73D4DWoHYqmoKGbOoim9qB) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎u ‎and ‎everyone ‎u ‎know !](https://open.spotify.com/album/38xAUDDYH4H4ykYm0MMWoV) | 3:35 |
 | 6 | [dog days](https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [dog days](https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn) | 2:56 |
-| 7 | [‎u and ‎everyone ‎u ‎know !](https://open.spotify.com/track/73D4DWoHYqmoKGbOoim9qB) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎u ‎and ‎everyone ‎u ‎know !](https://open.spotify.com/album/38xAUDDYH4H4ykYm0MMWoV) | 3:35 |
+| 7 | [Overflow](https://open.spotify.com/track/74r1DelsIM4EFBH4Ts0DlJ) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Overflow](https://open.spotify.com/album/7AgRvwdxUPCIYW9hL41IB1) | 2:58 |
 | 8 | [Autopilot](https://open.spotify.com/track/0IJFVS4gD6ZPxx46OvZZ6M) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Autopilot](https://open.spotify.com/album/5CymY8EP0GJv7dyi4I2fnX) | 2:22 |
 | 9 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 |
 | 10 | [Bottle of Bombay](https://open.spotify.com/track/7fxhjn01owKU2TZ2OJ7iG7) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Bottle of Bombay](https://open.spotify.com/album/6ulvGwN90v3vb6GS1EoNLz) | 2:16 |
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 25 | [Jade](https://open.spotify.com/track/6x2UXxRdaIBW7a9UOzSqAj) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [Jade](https://open.spotify.com/album/3dg7bQGeuIG6SZTdTxnqTs) | 3:01 |
 | 26 | [freak](https://open.spotify.com/track/4OW25A2SxYvRDlGK4KN6s3) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:43 |
 | 27 | [slumber](https://open.spotify.com/track/3Z6LBHVcNXuAEpXrKwUEAS) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [slumber](https://open.spotify.com/album/4Q4b9Ti4hXcyItDQC9KKR8) | 2:53 |
-| 28 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 |
-| 29 | [11:45 in Nolita](https://open.spotify.com/track/1CBZo2mVGLyk1QLp6ZDXEB) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Flight Tag](https://open.spotify.com/album/2UBuPuR4sKbSRxJPtdJfR0) | 2:15 |
-| 30 | [Tramp](https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Volume II](https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma) | 3:44 |
-| 31 | [little too quiet](https://open.spotify.com/track/5Jh61eOabfxYRjjxR0MNFR) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [Venus as a boy](https://open.spotify.com/artist/06e04zMiKIaUEldslPkhsu) | [little too quiet](https://open.spotify.com/album/30tG5Tdh3AYESQLA0CuHfS) | 2:42 |
-| 32 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 |
-| 33 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 |
-| 34 | [Altar](https://open.spotify.com/track/3eRdNkKRi6wpkaG9XrfQpJ) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Altar](https://open.spotify.com/album/4v5fXLtIXx2kywknrAZg2o) | 2:28 |
-| 35 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
+| 28 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
+| 29 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 |
+| 30 | [11:45 in Nolita](https://open.spotify.com/track/1CBZo2mVGLyk1QLp6ZDXEB) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Flight Tag](https://open.spotify.com/album/2UBuPuR4sKbSRxJPtdJfR0) | 2:15 |
+| 31 | [Tramp](https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Volume II](https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma) | 3:44 |
+| 32 | [little too quiet](https://open.spotify.com/track/5Jh61eOabfxYRjjxR0MNFR) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [Venus as a boy](https://open.spotify.com/artist/06e04zMiKIaUEldslPkhsu) | [little too quiet](https://open.spotify.com/album/30tG5Tdh3AYESQLA0CuHfS) | 2:42 |
+| 33 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 |
+| 34 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 |
+| 35 | [Altar](https://open.spotify.com/track/3eRdNkKRi6wpkaG9XrfQpJ) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Altar](https://open.spotify.com/album/4v5fXLtIXx2kywknrAZg2o) | 2:28 |
 | 36 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 |
 | 37 | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/track/2tyh6kMjnlUsAfyvrYwIDE) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6), [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/album/09X44dWv4yXjDk7c0EvoPS) | 2:15 |
 | 38 | [Guilty Pleasure](https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Guilty Pleasure](https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d) | 3:07 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 124 | [Too Late \(To Call\)](https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Too Late \(To Call\)](https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz) | 3:41 |
 | 125 | [INBETWEEN](https://open.spotify.com/track/2Bx7iFM88NmuTKnvaiMH3i) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [INBETWEEN](https://open.spotify.com/album/6hR6RmrvpAdAJjA2LJmDLz) | 1:54 |
 
-Snapshot ID: `MTY1MTIxNDgyMCwwMDAwMzQyODAwMDAwMTgwNzQxMmEzMWQwMDAwMDE4MDUyMzRjNjhh`
+Snapshot ID: `MTY1MTM0NTQzNSwwMDAwMzQyOTAwMDAwMTgwN2JkYmFkNTYwMDAwMDE4MDUyMzRjNjhh`

@@ -4,12 +4,13 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Beliz Çizim: Isu Kim
 
-199 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+205 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A.R.A.](https://open.spotify.com/track/50Ufd9M12Vk0NzmxKIXrBo) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [A.R.A.](https://open.spotify.com/album/1rLAQEfS4inQFRUCeGQWgl) | 3:36 | 2021-12-03 | 2022-03-18 |
 | [Adil Değil](https://open.spotify.com/track/4hdeAdfosNom1ncBdYQu0A) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [Adil Değil](https://open.spotify.com/album/2Y49fgGmbFdaNJiSKFGefv) | 3:29 | 2022-01-19 |  |
+| [Afacan](https://open.spotify.com/track/3ckKe34uPaaFwuVC99I11S) | [Kubaba](https://open.spotify.com/artist/27gFvritPEp4MoweDAUX5u) | [Afacan](https://open.spotify.com/album/13g6gK1EicyratwK2hP980) | 3:12 | 2022-04-29 |  |
 | [Ahh Belinda!](https://open.spotify.com/track/57nA0CkG9eLDmeqTaY9MUs) | [Evren Uysal](https://open.spotify.com/artist/3NAvY5CWuXXFBgWNsRlOqH) | [Ahh Belinda!](https://open.spotify.com/album/1DSNWC8v0EXTejtSDSrXNB) | 3:35 | 2022-04-07 |  |
 | [Ahım](https://open.spotify.com/track/7sbchYS3F9kYc0VFs1Mp7a) | [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [Ahım](https://open.spotify.com/album/6HLWMrjtcREOt2BJ5jDfv3) | 4:04 | 2022-04-21 |  |
 | [Ama İstersen](https://open.spotify.com/track/6E99SQWnBTZl5Ur7c0YuD1) | [PEK](https://open.spotify.com/artist/3BYlyRfryjGKcBA9sqEYev) | [Ama İstersen](https://open.spotify.com/album/3ifDsGtLXkXPCEJw6C71xo) | 3:03 | 2021-12-03 | 2022-04-16 |
@@ -23,6 +24,7 @@
 | [Artık](https://open.spotify.com/track/6tR7FZx5ipHwTfZPd2ieBd) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [Ben Değilim](https://open.spotify.com/album/1qcjNRs5VALERgxd88sLgA) | 2:08 | 2022-04-01 |  |
 | [Aylak Gündönümü](https://open.spotify.com/track/6jGqXRzCtncoLSTH5UgVxJ) | [Doğuş Kökarttı](https://open.spotify.com/artist/0b2XQh9oiCduFUb4N6Tv21) | [Aylak Gündönümü](https://open.spotify.com/album/0CUmmQBSjZDzcsACmZW4fk) | 4:21 | 2021-12-03 | 2022-01-20 |
 | [Aç Gözünü](https://open.spotify.com/track/347h2wkNfovaTd9ZsFCDg2) | [Lena Beste](https://open.spotify.com/artist/4O93HGT5qcjBhcNvkTzqa5) | [Aç Gözünü](https://open.spotify.com/album/6qL7zzKyF09cszCJeLfCQp) | 2:23 | 2022-03-03 |  |
+| [Açsın Yapraklarım](https://open.spotify.com/track/5EHwomjMfv30hxCMPlHNoz) | [Baran İmamoğlu](https://open.spotify.com/artist/2aGYP0fT4Ygw4FPua8AZnm) | [Açsın Yapraklarım](https://open.spotify.com/album/1N0EuubkqHzeLMV6OpBCUu) | 5:00 | 2022-04-29 |  |
 | [Aşk Çantası](https://open.spotify.com/track/6cbuE015xAUuyJhpK9A12X) | [Kenan Bal](https://open.spotify.com/artist/5BgSsFVhwf0EePBig07GWG) | [Aşk Çantası](https://open.spotify.com/album/7lkE4TcV4peQEp6dWmG0yx) | 3:34 | 2021-12-03 | 2022-01-20 |
 | [Bahar](https://open.spotify.com/track/4lHXnw5bf8Myg5xuNZVFTh) | [Mert Pekduraner](https://open.spotify.com/artist/6UQebgGoXLQEsHps47WDbT) | [Bahar](https://open.spotify.com/album/1lx6AGQw7m2NAz1r3ybwng) | 4:26 | 2021-12-03 | 2022-03-23 |
 | [Balıklı Kız](https://open.spotify.com/track/5JzByAOLtfcZ0wVHHbmJDV) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [Balıklı Kız](https://open.spotify.com/album/1ciaZyzsu0wIH5wU7fJqtF) | 4:47 | 2022-03-17 |  |
@@ -36,6 +38,7 @@
 | [Bi Önemi Yok](https://open.spotify.com/track/4CQjsF9EIfAQaakFezKDos) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Bi Önemi Yok](https://open.spotify.com/album/5QvPlBy9HB7y2sV3vOJaP4) | 3:07 | 2022-01-13 |  |
 | [Bi' Beni Sev](https://open.spotify.com/track/06MuguHjItBsZRvRszbdTa) | [Yaren Gözcü](https://open.spotify.com/artist/4R6VkmBQe4G6oImsuu11Pa), [Jason The Great](https://open.spotify.com/artist/5Dji8rPi6AojXGAX4aRKgk) | [Bi' Beni Sev](https://open.spotify.com/album/4Qwd94lUkJEMD00psTV3QU) | 2:51 | 2022-02-17 |  |
 | [Bil istedim](https://open.spotify.com/track/7dTCoHArBZYO6QcpsQYmhc) | [Emre Uludogan](https://open.spotify.com/artist/4X1Ww8BMKKB2M4u4D4PjnH) | [Bil istedim](https://open.spotify.com/album/5VgDWtB2NVRsebRlmypsOm) | 3:27 | 2022-01-19 |  |
+| [Bitmez Geceler](https://open.spotify.com/track/2JI3I3M3Nf4diqcGAaygCN) | [Bunfyah](https://open.spotify.com/artist/0chdiUtdJBgB8LKgE7od4N), [Cemre Arca](https://open.spotify.com/artist/46WhZAVIUhaGA0JidvlSgd) | [Bitmez Geceler](https://open.spotify.com/album/31yM1uCA2jPDxicLZmGlTC) | 5:48 | 2022-04-29 |  |
 | [Bu Kalp Hep Seninle](https://open.spotify.com/track/1C6Tx5HXkG7t6BDJdt1kVx) | [Yavuz Ozan Uçar](https://open.spotify.com/artist/2WxPG4Qx10YbitbHelZVIt), [Rüya Beril Çalış](https://open.spotify.com/artist/7G4Y5JjQS4Hd6pMtPS8nqr) | [Bu Kalp Hep Seninle](https://open.spotify.com/album/4C6GRLd4HHMqInqjdMmKxn) | 2:38 | 2022-01-19 | 2022-04-16 |
 | [Bu Kez](https://open.spotify.com/track/1bA08ZOf8B3Vow8pIwd7uP) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [Bu Kez](https://open.spotify.com/album/7jCkRNGrwm0FZp8yodCYgR) | 3:21 | 2021-12-03 | 2022-04-16 |
 | [Bu Nasıl Bir Oyun](https://open.spotify.com/track/5t97nVzWY1dtby3yme66Ol) | [Berk Uçar](https://open.spotify.com/artist/1ZbJNjbClrxLy2nayQOIj1) | [Bu Nasıl Bir Oyun](https://open.spotify.com/album/1TeNs7aXybLel1sx93RQvk) | 4:19 | 2021-12-03 | 2022-01-20 |
@@ -105,6 +108,7 @@
 | [Kara Bela](https://open.spotify.com/track/64OY87yaafFBETCw1m66aw) | [Özge Ürer](https://open.spotify.com/artist/6mjeHIMr7MLnXYsrGAwLns) | [Kara Bela](https://open.spotify.com/album/1JsImKXt36LzWlgDvfdqxq) | 3:36 | 2021-12-03 | 2022-01-14 |
 | [Karşılıksız Bir Aşk İçin](https://open.spotify.com/track/0KAxqemJfQcnjtUGj87EIw) | [Murat Güçlü](https://open.spotify.com/artist/5QsmVJGtN2PL7eRR6XlxHP) | [Karşılıksız Bir Aşk İçin](https://open.spotify.com/album/0MTCaINA1wbiDPwMltfUqa) | 4:18 | 2022-04-07 |  |
 | [Kaygılarım Var](https://open.spotify.com/track/1qDagkeuD2ThY35Cpus3gH) | [Asilhan](https://open.spotify.com/artist/26lzyrYKubDT6N8yjM8fkA) | [Kaygılarım Var](https://open.spotify.com/album/2NKkwT32E5TEUQ2El4T8IS) | 4:15 | 2022-01-19 |  |
+| [Kayıp Kalpler](https://open.spotify.com/track/0Vlm5upXlCBfXSEBd5E5Dk) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [Kayıp Kalpler](https://open.spotify.com/album/6prZZfS2XcFNYd0E7fHU56) | 2:13 | 2022-04-29 |  |
 | [Kaçmalı Bu Kafadan](https://open.spotify.com/track/3aIqNnWruuAVjF9FKdeCtp) | [Aykut Turan](https://open.spotify.com/artist/6LlaaDeI8bWofzxKHWHRsj) | [Kaçmalı Bu Kafadan](https://open.spotify.com/album/6zCc1AN6M2t75VFZkyGDli) | 4:06 | 2021-12-03 | 2022-03-10 |
 | [Kendin Ol](https://open.spotify.com/track/0VkkoUdbP1IAzTUp2aNJA0) | [BABA SAD](https://open.spotify.com/artist/4fDdE4t1v0bbqDxBzyXAZK) | [Kendin Ol](https://open.spotify.com/album/3Lx1fSq3dpd80T1PgSPOQg) | 4:13 | 2022-01-13 | 2022-01-20 |
 | [Kendine Gel](https://open.spotify.com/track/3Z8Q5GuTP7Pau16WgMtxTZ) | [Baha](https://open.spotify.com/artist/5ottpNdrd72fIogMhpzwAC) | [Kendine Gel](https://open.spotify.com/album/6dnHYDBXAOenHF4VeiVfEI) | 3:30 | 2021-12-03 | 2022-01-20 |
@@ -159,9 +163,11 @@
 | [Seninle Kaybolmaya Geldim](https://open.spotify.com/track/1aDz0uEORVxkRj1ciFgwOo) | [Kırık Pena](https://open.spotify.com/artist/2UyRbOa0I0umGFcrQks3pv), [Vesaire](https://open.spotify.com/artist/5OecW8cUUMRq6DRAW2wmIV) | [Seninle Kaybolmaya Geldim](https://open.spotify.com/album/6hTpMxcYKd1TkEz5qVoYNs) | 4:15 | 2021-12-03 |  |
 | [Seninle Miyim Hala](https://open.spotify.com/track/5vM9pLZUldeqwE2oXlOr0S) | [Konudan Bağımsız](https://open.spotify.com/artist/1XaSWaATzGULwkIXhyA5qN) | [Seninle Miyim Hala](https://open.spotify.com/album/0xl3g1Y6Ozzz79lsWOf1s7) | 3:22 | 2022-04-15 |  |
 | [Sevgin Öldürüyor](https://open.spotify.com/track/3f7sPtcFxe6bruJIrqx9mD) | [Yelda Altunal](https://open.spotify.com/artist/3A4CXrp41JSgYT3bAxEOYU) | [Sevgin Öldürüyor](https://open.spotify.com/album/2Fs2bQci7mqXelZj6BumvS) | 3:22 | 2021-12-03 | 2022-01-20 |
+| [Sevilecek Herkes Aşıktır Belki](https://open.spotify.com/track/7HnMOluCmEqydqgxmRUBED) | [bodes](https://open.spotify.com/artist/6TfzPXVRRzCJq0euMymU3I) | [Sevilecek Herkes Aşıktır Belki](https://open.spotify.com/album/2ZPlYRFY8vWHraC0etUIEM) | 3:32 | 2022-04-29 |  |
 | [Somewhere](https://open.spotify.com/track/3DzvkxkTPsRAPafuDt6blX) | [Ned](https://open.spotify.com/artist/3BBVWCFcuNFhZHD9KkuqIf) | [Somewhere](https://open.spotify.com/album/2gFXIU1cgx1Hdiz50EeAeC) | 5:09 | 2021-12-03 | 2022-01-20 |
 | [Son Bir Dans](https://open.spotify.com/track/7voCrQ4VngMVpkZyK4IGLs) | [Desenler](https://open.spotify.com/artist/6LqJ1tfQfHSYJ2o5DTkOMZ) | [Son Bir Dans](https://open.spotify.com/album/2Jw4LvgYJBqBYrLRzLCz81) | 4:34 | 2022-03-03 |  |
 | [Son Kez](https://open.spotify.com/track/64fEB87YaLxvWoKoxJYz2y) | [Gökçe Güzel](https://open.spotify.com/artist/1bX70OU702mceTqyetwfOC) | [Son Kez](https://open.spotify.com/album/14HufSie9ikUDeaTaPyO6C) | 3:06 | 2022-03-17 |  |
+| [Sonsuz Rüya](https://open.spotify.com/track/7uLX2bWFHZ0fVNZsjDVHS0) | [Ecem Çelik](https://open.spotify.com/artist/68r0aYfdloC1g0epYmZgyb) | [Sonsuz Rüya](https://open.spotify.com/album/744tdBpHMRLL9FWi3asErL) | 2:32 | 2022-04-29 |  |
 | [Sonu Yoktu](https://open.spotify.com/track/1lYd91UTNbFYaftllwYaAC) | [Dante](https://open.spotify.com/artist/3IZ0cnBynJMaWURz9vozDv) | [Sonu Yoktu](https://open.spotify.com/album/4AKPaSjdE36Cf9AaLGdoj0) | 4:07 | 2021-12-03 | 2022-02-28 |
 | [Suretler ve Silüetler](https://open.spotify.com/track/0rthhbopedUjoytbEPM7hY) | [Tunca](https://open.spotify.com/artist/6d85MZmFRqdnn3TkzIrVI4) | [Suretler ve Silüetler](https://open.spotify.com/album/6G6g3ZUYrJxUdn1OoH7Ep2) | 4:40 | 2021-12-03 | 2022-04-16 |
 | [Sustum](https://open.spotify.com/track/6UoE0Uyo1CmbBHqKAWzI9c) | [Kuzey Işıkları](https://open.spotify.com/artist/6iELQnI1ZLFnR2RIzMOwQb) | [Sustum](https://open.spotify.com/album/54EF8j4hqTAzUhuw9cmJvp) | 2:59 | 2021-12-03 |  |

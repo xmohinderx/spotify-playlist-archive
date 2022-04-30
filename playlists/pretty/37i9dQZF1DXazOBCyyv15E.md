@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: NiNE8
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,169 likes - 79 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,193 likes - 79 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

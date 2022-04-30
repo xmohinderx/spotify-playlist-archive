@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173186,
+      "name": "712PM",
+      "url": "https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R"
+    },
+    {
+      "album": {
         "name": "Jsem v pohod\u011b, sem v prdeli.",
         "url": "https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr"
       },
@@ -277,7 +295,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
@@ -698,6 +716,32 @@
     },
     {
       "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        },
+        {
+          "name": "Taomi",
+          "url": "https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179815,
+      "name": "b a b y . r e l a x",
+      "url": "https://open.spotify.com/track/1VAWL9pNSsdyTLHYvmPhcm"
+    },
+    {
+      "album": {
         "name": "b a c k . i n . t h e . d a y z",
         "url": "https://open.spotify.com/album/1uXwD2lYNQXnjQfhbfKsJu"
       },
@@ -709,10 +753,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 184273,
       "name": "b a c k . i n . t h e . d a y z",
       "url": "https://open.spotify.com/track/0vy2XzLcmzp0KPm0YQJucE"
+    },
+    {
+      "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184273,
+      "name": "b a c k . i n . t h e . d a y z",
+      "url": "https://open.spotify.com/track/7Iq00zqgo0uYuDbrDDkdBH"
     },
     {
       "album": {
@@ -1431,7 +1493,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -1664,6 +1726,54 @@
     },
     {
       "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "Duch",
+          "url": "https://open.spotify.com/artist/4K4xlLhmmJq5Q6cKVzCOrP"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "c e l y . w e e k e n d",
+      "url": "https://open.spotify.com/track/27wqmYOsSrgSBfKk9Anz7j"
+    },
+    {
+      "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230341,
+      "name": "c h c e l . s o m . i b a",
+      "url": "https://open.spotify.com/track/4OnKI9IL9qZy9NXQEj8U3P"
+    },
+    {
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -1719,7 +1829,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 190949,
       "name": "CARA MIA",
       "url": "https://open.spotify.com/track/7vChidrSd5frTCwEHtsEck"
@@ -1771,7 +1881,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 213210,
       "name": "Celebrity Rehab",
       "url": "https://open.spotify.com/track/34G6dyUAt0m4wvpQGgZrp1"
@@ -2217,6 +2327,32 @@
       "duration_ms": 192733,
       "name": "C\u00edtim sa",
       "url": "https://open.spotify.com/track/7sRUpAFMhw0Ilg2Dn9qZtZ"
+    },
+    {
+      "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "Dalyb",
+          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
+        },
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179815,
+      "name": "d o d g e . v i p e r",
+      "url": "https://open.spotify.com/track/1tVNsLiZQt86Vl5xMRE6vi"
     },
     {
       "album": {
@@ -4107,7 +4243,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 250000,
       "name": "Hey G!",
       "url": "https://open.spotify.com/track/1i6Q39TzaIp6EkJL9k51qd"
@@ -5194,6 +5330,42 @@
     },
     {
       "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "k a m i k a z e . m o o d",
+      "url": "https://open.spotify.com/track/6o0AFAqHvjenZgFIMdMmjB"
+    },
+    {
+      "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191703,
+      "name": "k a z d y . k y v e . h l a v o u",
+      "url": "https://open.spotify.com/track/2kC0AwW8qdMWRW1nRZrUXw"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -6219,6 +6391,24 @@
       "duration_ms": 149189,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ"
+    },
+    {
+      "album": {
+        "name": "side effects of being human",
+        "url": "https://open.spotify.com/album/7Api824sEAaKjtdrbNsncZ"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "looking at porn",
+      "url": "https://open.spotify.com/track/1NZPxM4zJEp6kn594kAa74"
     },
     {
       "album": {
@@ -7354,6 +7544,28 @@
     },
     {
       "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "Mess",
+          "url": "https://open.spotify.com/artist/1YvAquLZ7cl5OvQQacHBMS"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193190,
+      "name": "n e m u s i m e . s a . b a t",
+      "url": "https://open.spotify.com/track/6BM1epiugQ9vPhRh1sKJm6"
+    },
+    {
+      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
       },
@@ -8360,6 +8572,24 @@
     },
     {
       "album": {
+        "name": "Z domu pre\u010d",
+        "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191703,
+      "name": "p o z n a . m a . m i n u t u",
+      "url": "https://open.spotify.com/track/2uY9r1nXpU6JyePiB32hDV"
+    },
+    {
+      "album": {
         "name": "311",
         "url": "https://open.spotify.com/album/7ghNPD080WPQqy7gYiPT8E"
       },
@@ -8669,7 +8899,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 140689,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/25E3P7re561KWj5hZysrYG"
@@ -10183,7 +10413,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -10223,6 +10453,28 @@
       "duration_ms": 232203,
       "name": "Something In The Way - Remastered",
       "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
+    },
+    {
+      "album": {
+        "name": "BACK 2 RAVE",
+        "url": "https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Richard Reynolds",
+          "url": "https://open.spotify.com/artist/6tcOATPUS7AQqjhA4fhS1g"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Space Between",
+      "url": "https://open.spotify.com/track/4t9FYAYXUEMt1bf5qZH0Qt"
     },
     {
       "album": {
@@ -10508,6 +10760,32 @@
     },
     {
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/1oBfPTvLw6Yw9apBkSpXxD"
+      },
+      "artists": [
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210245,
+      "name": "Stroj",
+      "url": "https://open.spotify.com/track/6LhuehVA6IXU92z4q01lDU"
+    },
+    {
+      "album": {
         "name": "Stroj",
         "url": "https://open.spotify.com/album/4SURCK2TTJebqJoCqh9adH"
       },
@@ -10527,7 +10805,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 210245,
       "name": "Stroj",
       "url": "https://open.spotify.com/track/7sqLWtFToGysW2iGJC2IDA"
@@ -10687,7 +10965,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -10947,10 +11225,32 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 185400,
       "name": "Tanec s Diablom",
       "url": "https://open.spotify.com/track/0wclYcPgMPgTPHTuMpVxeH"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/1oBfPTvLw6Yw9apBkSpXxD"
+      },
+      "artists": [
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "Nerie\u0161",
+          "url": "https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "Tanec s Diablom",
+      "url": "https://open.spotify.com/track/22D2cfbPie1SXstcD8yaRe"
     },
     {
       "album": {
@@ -11729,7 +12029,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 212727,
       "name": "Viac",
       "url": "https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT"
@@ -11813,7 +12113,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 181533,
       "name": "VID\u00cdM JAK SA NA M\u0147A POZER\u00c1\u0160",
       "url": "https://open.spotify.com/track/07FyKVdi7YUlJry42sqFKm"
@@ -12555,7 +12855,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

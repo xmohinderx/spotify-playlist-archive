@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your focus with instrumental jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,147 likes - 149 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,221 likes - 149 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

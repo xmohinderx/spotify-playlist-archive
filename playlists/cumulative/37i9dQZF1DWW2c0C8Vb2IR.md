@@ -4,7 +4,7 @@
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: The JuJu Exhange
 
-793 songs - 2 day 18 hr 55 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
+794 songs - 2 day 18 hr 59 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Promise of Spring](https://open.spotify.com/track/6fA1NF7cmp9nrVdihdOXE4) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Promise of Spring](https://open.spotify.com/album/3P2ayHfny4467NGE1KMw2F) | 4:29 | 2022-03-25 | 2022-04-02 |
 | [Propellerhäst](https://open.spotify.com/track/7rQF99EMaFVsbOxNtoo0GH) | [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD) | [Thanks for Flying With Us](https://open.spotify.com/album/3LAXLwubMT3yW1xzY2zD2Y) | 3:52 | 2022-03-04 | 2022-03-12 |
 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 | 2021-12-03 | 2022-01-08 |
+| [Pursuing Resolution](https://open.spotify.com/track/5X2ZX1wCkDULfoqi1WkXDy) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [Romance in Formosa](https://open.spotify.com/album/6uOpn2ErZP6dqTZ6ljBwx8) | 3:29 | 2022-04-29 |  |
 | [Puzzel](https://open.spotify.com/track/7pia03Arx2piEl0KPzhCuf) | [Alberto García](https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Lou Lecaudey](https://open.spotify.com/artist/5hUdNFtVf3ZHuSM1WBwag1) | [Puzzel](https://open.spotify.com/album/60cFbHwijbAp0v6xNKNTUe) | 6:51 | 2022-04-08 | 2022-04-16 |
 | [På nye eventyr](https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [På nye eventyr](https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6) | 5:22 | 2022-02-25 | 2022-03-05 |
 | [Qualabalyk](https://open.spotify.com/track/1wZCOMf3qSeu5P3nczrfOO) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Sarp Maden](https://open.spotify.com/artist/0WdjHXkPRTdmtpjfVUXKIY), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Hands](https://open.spotify.com/album/0Fpit1GWeeR4BKDol1xCtv) | 5:17 | 2021-12-10 | 2022-01-08 |

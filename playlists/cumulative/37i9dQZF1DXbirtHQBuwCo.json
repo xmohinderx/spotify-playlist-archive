@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 155794,
       "name": "2oclock",
       "url": "https://open.spotify.com/track/7LZ2OBh8jEE2k2yn5dpcp9"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 192585,
       "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
       "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 203409,
       "name": "Bye bye my blue",
       "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 210086,
       "name": "Can You Understand",
       "url": "https://open.spotify.com/track/79TRgOuTN7HkVSPQniV7Sb"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 253200,
       "name": "Darling",
       "url": "https://open.spotify.com/track/13Ck1nAjyzdcMCKIQ9Kpkh"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 200373,
       "name": "Dope Lovers",
       "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
@@ -1107,6 +1107,32 @@
       "duration_ms": 191253,
       "name": "FiNE!",
       "url": "https://open.spotify.com/track/0uXc6bgGKOHi861XBgbuQ1"
+    },
+    {
+      "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        },
+        {
+          "name": "Harms",
+          "url": "https://open.spotify.com/artist/6AEdu26JUdoNP01gO8sM0N"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "First kiss (Feat. Sonny zero, Harms)",
+      "url": "https://open.spotify.com/track/1wInZv0I7D0EDrgfSRnC33"
     },
     {
       "album": {
@@ -1343,7 +1369,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 178520,
       "name": "HOLO",
       "url": "https://open.spotify.com/track/7Acvy2L38SCipAeMPOK8Ro"
@@ -1557,7 +1583,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -1611,7 +1637,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 214613,
       "name": "Know me",
       "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
@@ -1629,7 +1655,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 235666,
       "name": "Last",
       "url": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN"
@@ -1801,6 +1827,24 @@
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+    },
+    {
+      "album": {
+        "name": "Absence 'Side A'",
+        "url": "https://open.spotify.com/album/2Hj1CHpYxGpj4by92fu9iz"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Love Like That",
+      "url": "https://open.spotify.com/track/3sR1RNcVEDJKUfS8rX20Lx"
     },
     {
       "album": {
@@ -2005,7 +2049,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 211600,
       "name": "Me without you (feat. Moon Byul of MAMAMOO)",
       "url": "https://open.spotify.com/track/3FfvXpIMyw29AJ3ghGXEJ5"
@@ -2023,7 +2067,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 166546,
       "name": "Mm Mm",
       "url": "https://open.spotify.com/track/1eXBDCUxn41AwVgVIRbeWz"
@@ -2231,7 +2275,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 176413,
       "name": "No Numbers (feat. JMIN)",
       "url": "https://open.spotify.com/track/3n2GHYGyQOkMw5LTFQgjy0"
@@ -2351,7 +2395,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 162917,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/7zbuLxauVIXbIGx14PxAWJ"
@@ -2463,7 +2507,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 194573,
       "name": "Paradigm",
       "url": "https://open.spotify.com/track/1HJUvm2MJHytVJ4xPmNGPE"
@@ -2709,7 +2753,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
@@ -2745,7 +2789,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 208294,
       "name": "sherlock",
       "url": "https://open.spotify.com/track/1tcRQkZyqzRSlQ3xUseeL1"
@@ -3005,7 +3049,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 220106,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
@@ -3071,7 +3115,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 205421,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/0tZzmBIxQbjpTVU7Aanj4J"
@@ -3253,7 +3297,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
@@ -3461,7 +3505,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 270003,
       "name": "Your Dog Loves You",
       "url": "https://open.spotify.com/track/2XdyebP7KxClMOse2C5iyA"

@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 242956,
       "name": "A Whole New World (End Title)",
       "url": "https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 204360,
       "name": "Akatombo",
       "url": "https://open.spotify.com/track/5adXOZrM20D1AENYn3LKCy"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 150213,
       "name": "Feng Yang Flower Drum (Feng Yang Hua Gu)",
       "url": "https://open.spotify.com/track/23i7RssjaDnunSwWQ9K130"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 197052,
       "name": "Free Bubbles",
       "url": "https://open.spotify.com/track/0RheBLSCncBl3L0VUvVYoZ"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 150638,
       "name": "Halo-Halo",
       "url": "https://open.spotify.com/track/6C7jV3ooKAYhB1DNjun4Ho"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 143800,
       "name": "Magtainim Ay Di Biro",
       "url": "https://open.spotify.com/track/3ZGLaAe3GZn9NDOMpck19A"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 107158,
       "name": "Old Macdonald Had a Farm (Fijian Animals)",
       "url": "https://open.spotify.com/track/3W81h9LL3CJ5aLgPNtpIVw"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 165453,
       "name": "Poong Nyun Ga",
       "url": "https://open.spotify.com/track/6FSnNPMqTg69cxCIc8AGo9"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 122933,
       "name": "PPAP(Pen-Pineapple-Apple-Pen) - Long ver.",
       "url": "https://open.spotify.com/track/5qRj5I58zuHkVilcqVWN3P"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 174573,
       "name": "Sol Nal",
       "url": "https://open.spotify.com/track/2kQ8rAOOuOc0bU5WdF8ZP0"
@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30d7\u30ea\u30ab",
+        "url": "https://open.spotify.com/album/2cBaztI22TPEULZE6nfYUm"
+      },
+      "artists": [
+        {
+          "name": "Foorin",
+          "url": "https://open.spotify.com/artist/3h95Ve9m3Q07d8VG6V9hEU"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "\u30d1\u30d7\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/60t5lev16eczZXurTNf56k"
+    },
+    {
+      "album": {
         "name": "\ud551\ud06c\ud401 \uc0c1\uc5b4 \uac00\uc871 \uc2a4\ud398\uc15c",
         "url": "https://open.spotify.com/album/76FuF3eNaB7pb2ttLhgmBS"
       },
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 99425,
       "name": "\uc544\ub9ac\ub791",
       "url": "https://open.spotify.com/track/4gnwVmZzD3CHS3TxWWXsdF"

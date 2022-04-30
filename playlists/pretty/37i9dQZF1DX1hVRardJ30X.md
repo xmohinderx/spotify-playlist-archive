@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carla Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,174 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,210 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [Bandidos](https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Bandidos](https://open.spotify.com/album/0EC8Sa1jYekLosZIYDlWvw) | 2:57 |
 | 38 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 |
 | 39 | [Cuando Te Vuelva a Ver](https://open.spotify.com/track/4REmaoifu2A11miAvPps2j) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Cuando Te Vuelva a Ver](https://open.spotify.com/album/1eUvaTByr69saY12H7qB9X) | 4:09 |
-| 40 | [Una Vaina Loca R3hab Remix](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca R3hab Remix](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 |
-| 41 | [The Carnival](https://open.spotify.com/track/1A7lwaWzcPtflW1bvrrvDJ) | [Aazar](https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Danny Synthé](https://open.spotify.com/artist/01tGwo5qBKraXOP3sfzHUq) | [The Carnival](https://open.spotify.com/album/6H9sERXZq85JytXgJ5lTaI) | 2:45 |
+| 40 | [Una Vaina Loca \(R3hab Remix\)](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca \(R3hab Remix\)](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 |
+| 41 | [The Carnival](https://open.spotify.com/track/1A7lwaWzcPtflW1bvrrvDJ) | [Aazar](https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Dany Synthé](https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy) | [The Carnival](https://open.spotify.com/album/6H9sERXZq85JytXgJ5lTaI) | 2:45 |
 | 42 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 |
 | 43 | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR) | 3:31 |
 | 44 | [Tu Me Querías \- Remix](https://open.spotify.com/track/5YeW2hwCzR6ZOzDoLMySuf) | [Robledo](https://open.spotify.com/artist/5VyXOfvTQljStUXx1coETY), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Tu Me Querías \(Remix\)](https://open.spotify.com/album/6tRZbRVEnTBxr2iZoIfdoK) | 3:38 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 60 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
 | 61 | [Pensando En Ti](https://open.spotify.com/track/6lHqmkiwmolmkNwILV1NIL) | [JonLee](https://open.spotify.com/artist/5WZUKAptUOnbCoZsHDSkH3) | [Pensando En Ti](https://open.spotify.com/album/64S1OV7YhswoXEhbFbbmPC) | 2:54 |
 | 62 | [Fuego](https://open.spotify.com/track/4QFlsqVz2EQF2TVeHJFAy1) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Fuego](https://open.spotify.com/album/0xztHJMjPRz8kQ6f7cU3Bi) | 2:50 |
-| 63 | [Sugar Mami](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 |
+| 63 | [Sugar Mami \(feat\. Gini Santana\)](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [Gini Santana](https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 |
 | 64 | [Reality](https://open.spotify.com/track/7vy5KKzipEByRbTgG7V7q5) | [YUNG BOI](https://open.spotify.com/artist/2IZTXLWKJGbmFiqly8VmvG) | [Reality](https://open.spotify.com/album/7bq5g306RJqJNmelHDicYD) | 2:43 |
 
 Snapshot ID: `MTY1MTI1MDI5NCwwMDAwMDM4NDAwMDAwMTgwNzYyZmVlYTMwMDAwMDE4MDZjY2U0ZGQ3`

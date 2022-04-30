@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Villa Elaine",
+        "url": "https://open.spotify.com/album/1BOgU0omDaO1D39AvzWkrh"
+      },
+      "artists": [
+        {
+          "name": "Remy Zero",
+          "url": "https://open.spotify.com/artist/2pZCKLhbrrDD4PwEzrDig3"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236333,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/6BGgrZYXAYXiRDBdW1yl2O"
+    },
+    {
+      "album": {
         "name": "Ten Summoner's Tales",
         "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
       },
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 258333,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/4WnYuVFXe6Si4fZqkxbnvS"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 290733,
       "name": "Home",
       "url": "https://open.spotify.com/track/0VLxlACQp8DrbhLQ8QbFG3"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 257733,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 318533,
       "name": "Let Her Cry",
       "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 318200,
       "name": "Seeing Things",
       "url": "https://open.spotify.com/track/6UdxvBmdrSa0Xksp0LdwrJ"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/155I1ffphVdq7fCeMH597u"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 329400,
       "name": "She Talks To Angels",
       "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"

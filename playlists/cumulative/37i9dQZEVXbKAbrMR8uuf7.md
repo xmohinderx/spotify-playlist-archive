@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-446 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+447 songs - 1 day 1 hr 30 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [ESCALOFRÍOS](https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:18 | 2022-04-02 | 2022-04-10 |
 | [Esta Si](https://open.spotify.com/track/2xjd6t95oEuxTn9vjWkC0n) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Esta Si](https://open.spotify.com/album/5aDc8yNNHhhab8EyeNLGej) | 3:24 | 2021-09-07 | 2021-09-30 |
 | [Este Tema Maste](https://open.spotify.com/track/2GK3qCHRnRLs3wxdvKQ3Zr) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Este Tema Maste](https://open.spotify.com/album/6364lyBqR7QRoiLhUfjGUH) | 3:24 | 2021-12-07 | 2022-02-05 |
+| [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-04-30 |  |
 | [Estrella Fugaz](https://open.spotify.com/track/0KoQ3bFim0JfCa5bjpwKWF) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 3:18 | 2022-02-18 | 2022-02-25 |
 | [Estrella Fugaz](https://open.spotify.com/track/0tCN6oTrCLcgyietoPeIlU) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Estrella Fugaz](https://open.spotify.com/album/25off3TYlfdipMDUwDOz5W) | 3:18 | 2022-02-24 | 2022-04-24 |
 | [Ex Bitch](https://open.spotify.com/track/5w623Ysnx6fYMjy9kvwQCa) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Ex Bitch](https://open.spotify.com/album/3Rum9ECu5BnWte2zshoBWN) | 3:00 | 2022-01-17 | 2022-03-21 |
@@ -433,7 +434,7 @@
 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 | 2022-03-02 | 2022-03-07 |
 | [UNO QUITAO Y OTRO PUESTO](https://open.spotify.com/track/51GN2McXgVYpNJPlePLP1g) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 | 2022-03-26 | 2022-03-30 |
 | [Uva Bombom](https://open.spotify.com/track/0ynhqjP6gIxoaGTWibGhjc) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Uva Bombom](https://open.spotify.com/album/14RrPlp86MzzPPAdvHdbOw) | 2:16 | 2021-08-26 | 2022-03-23 |
-| [Vaina Cara](https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Vaina Cara](https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv) | 3:12 | 2022-04-28 |  |
+| [Vaina Cara](https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Vaina Cara](https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv) | 3:12 | 2022-04-28 | 2022-04-30 |
 | [Vete](https://open.spotify.com/track/2n7ohqg1s68ToAHh4u9mcW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:12 | 2022-03-02 | 2022-03-06 |
 | [Viejo Año](https://open.spotify.com/track/3pvVeJFCJO5N8gPhHjF268) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Con El Permiso De Tus Sentimientos](https://open.spotify.com/album/0cY8xx8CC8b8E8U7kyiWdA) | 4:23 | 2021-12-25 | 2022-01-04 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2022-03-23 | 2022-03-25 |

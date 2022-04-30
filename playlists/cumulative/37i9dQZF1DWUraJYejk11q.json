@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
+      "album": {
         "name": "Cin\u00e9tique",
         "url": "https://open.spotify.com/album/36j2hkJhjKKiGDu6IRT9Vr"
       },
@@ -2657,7 +2675,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 329500,
       "name": "We",
       "url": "https://open.spotify.com/track/0a0PxP0MTm9bsNOw7kdi7K"

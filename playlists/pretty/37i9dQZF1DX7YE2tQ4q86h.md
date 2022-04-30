@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > No sleep, bus, club, another club\. Like this? You'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Madison Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,484 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,596 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 17 | [You Don't Really Wanna](https://open.spotify.com/track/0QtR4FagFVAyZaTATVmwE5) | [CuteBad](https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP) | [You Don't Really Wanna](https://open.spotify.com/album/4PjKjGtm0lTEHrbQpRmXER) | 2:07 |
 | 18 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 |
 | 19 | [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 |
-| 20 | [Pre\-Madonna](https://open.spotify.com/track/7HEVw1CmTyeCvB1RjpVf1i) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Pre\-Madonna](https://open.spotify.com/album/6QhCqLrj6v9BAMkTJ2mGLt) | 3:08 |
+| 20 | [PRE MADONNA](https://open.spotify.com/track/7HEVw1CmTyeCvB1RjpVf1i) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [PRE MADONNA](https://open.spotify.com/album/6QhCqLrj6v9BAMkTJ2mGLt) | 3:08 |
 | 21 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
 | 22 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 |
 | 23 | [My Love \- Dave Glass Animals Remix](https://open.spotify.com/track/5Y5Ygo55Uafu1K2KOqnTt4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [My Love \(Dave Glass Animals Remix\)](https://open.spotify.com/album/5dd31rqNnOvoVDvSt5ajdG) | 3:30 |

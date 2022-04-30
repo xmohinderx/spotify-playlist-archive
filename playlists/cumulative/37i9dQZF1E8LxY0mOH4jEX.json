@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-08-30",
-  "description": "With Bruno Mars, Lil Lippy, Frankie J, Silent\u00f3 and more",
+  "description": "With Bruno Mars, PARTYNEXTDOOR, DJ Drive, Lil Lippy and more",
   "name": "24K Magic Radio",
   "published_playlist_ids": [
     "1BhMYZPvWoqkovqn1vMjMs"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 218826,
       "name": "6 Am (feat. Bruno Mars) - Remix",
       "url": "https://open.spotify.com/track/5dgF9BQYF1AVOk3YvyUzLD"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 210573,
       "name": "All In My Head (Flex) (feat. Fetty Wap)",
       "url": "https://open.spotify.com/track/7nD9nN3jord9wWcfW3Gkcm"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 260440,
       "name": "All You Gotta Do (Is Just Dance)",
       "url": "https://open.spotify.com/track/7HALIbZdZHbKdXH64LBG4h"
@@ -731,6 +731,28 @@
       "duration_ms": 233280,
       "name": "Baby Be Real",
       "url": "https://open.spotify.com/track/3Jp5yaDjgBx9NfOD3icRJK"
+    },
+    {
+      "album": {
+        "name": "Baby Be Real",
+        "url": "https://open.spotify.com/album/6cyLEnxyiUIjb9UN7SY2Xv"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+        },
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Baby Be Real - Radio Edit",
+      "url": "https://open.spotify.com/track/7HfHkdQYGZqgtGISmSsN4j"
     },
     {
       "album": {
@@ -965,7 +987,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 257966,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/2skox5EzNIsNQkGcNwi79b"
@@ -1219,7 +1241,7 @@
       ],
       "date_added": "2020-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 236453,
       "name": "Body Moves",
       "url": "https://open.spotify.com/track/2igbKtoBMXdYgYPkCpl0V4"
@@ -1357,7 +1379,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 206218,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/7is8BX06IN7Dg1jK2M1DXJ"
@@ -1419,7 +1441,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 227250,
       "name": "Build The Beat",
       "url": "https://open.spotify.com/track/1za5fakUqxQMpaFvBT8UuO"
@@ -1517,7 +1539,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
@@ -1561,7 +1583,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 218833,
       "name": "California (Remix)",
       "url": "https://open.spotify.com/track/0jvx7aqwPlXRDYGINocgdg"
@@ -1729,7 +1751,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -1765,7 +1787,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 236095,
       "name": "Can't Stop the Feeling",
       "url": "https://open.spotify.com/track/77j7GafMj2Rqd8YCOry3b8"
@@ -1873,7 +1895,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 235810,
       "name": "CANT STOP THE FEELING!",
       "url": "https://open.spotify.com/track/6CojBKoPeuXLx1CJ5rmcS8"
@@ -1963,7 +1985,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 190293,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/6oAuBtKkk3dCSBJmiFLBez"
@@ -3023,7 +3045,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 187872,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/28duVDTZdcQ9ppAoVauGlB"
@@ -3683,7 +3705,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 223293,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/5Lq51lbepV95X5gYWlwdoI"
@@ -3701,7 +3723,7 @@
       ],
       "date_added": "2020-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 191000,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
@@ -3753,7 +3775,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 148064,
       "name": "Finesse - Pink Panda Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/5LgFeUn0Jx8UVkPlrMbTOc"
@@ -4031,7 +4053,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 182906,
       "name": "Friend Like Me - From \"Aladdin\"",
       "url": "https://open.spotify.com/track/2JxTIvfbuN6ucvqOBBhk3Z"
@@ -4187,7 +4209,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 232336,
       "name": "Future Is Mine (feat. Chromeo & Wale) - Jetique x MYNGA Remix",
       "url": "https://open.spotify.com/track/543odBXDaoTydHPjHr3f7o"
@@ -4289,7 +4311,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 178056,
       "name": "Geometry",
       "url": "https://open.spotify.com/track/4Zc7lagND249NPhk8dWJga"
@@ -4329,7 +4351,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 202253,
       "name": "Get Dumb (feat. Crayon Pop) - English Version",
       "url": "https://open.spotify.com/track/5HIMey9PceoDYsuUKKXNwS"
@@ -4669,7 +4691,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 216733,
       "name": "Good Time (feat. Pitbull)",
       "url": "https://open.spotify.com/track/1c0Ul1xgqglVmQmxktHnSo"
@@ -4695,7 +4717,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 261589,
       "name": "Good Time (feat. Pitbull) - Lenno Remix",
       "url": "https://open.spotify.com/track/77mtpfFKMh0IbuEnYgXJmw"
@@ -4931,7 +4953,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 222091,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
@@ -5279,7 +5301,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 183493,
       "name": "Her Kiss",
       "url": "https://open.spotify.com/track/6X6kCTsrpTZFDDfrlH2wLV"
@@ -6105,7 +6127,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 229029,
       "name": "I'm Betta",
       "url": "https://open.spotify.com/track/3FgMPJOjWFAa0woPIfX1Xv"
@@ -6485,7 +6507,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 125715,
       "name": "JuJu On The Beat",
       "url": "https://open.spotify.com/track/2ghQDsYSb74mc8iAIYdAck"
@@ -6645,7 +6667,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 337762,
       "name": "Just the Way You Are - Simon Steur Club Mix",
       "url": "https://open.spotify.com/track/30nRBCh0wGhKiTLNWN3k3L"
@@ -6689,7 +6711,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 205373,
       "name": "Keep It G... Make That Bang (feat. Mr. Criminal & Don Dolla)",
       "url": "https://open.spotify.com/track/5x4lC7N69QYVX8mJRGEzeL"
@@ -6707,7 +6729,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 196999,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/1R7wEQ4AMgcNzSN7GkGuid"
@@ -6729,6 +6751,28 @@
       "duration_ms": 217906,
       "name": "Kill Em With Kindness",
       "url": "https://open.spotify.com/track/1QNoKVgA758HFLu3TW2q7R"
+    },
+    {
+      "album": {
+        "name": "Red Lips",
+        "url": "https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Yasmin",
+          "url": "https://open.spotify.com/artist/0yvW5gK4WGDgthuFC97uk2"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/7jS0J9jxfrZIZskYp2Tkdw"
     },
     {
       "album": {
@@ -6831,7 +6875,7 @@
       ],
       "date_added": "2020-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 211278,
       "name": "Lady (feat. Pitbull)",
       "url": "https://open.spotify.com/track/32FNQjaLvPJYCqRwDDxMu6"
@@ -7167,7 +7211,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 167693,
       "name": "Levels",
       "url": "https://open.spotify.com/track/6pf9datdAtxQj4EU8UYHSx"
@@ -7357,7 +7401,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 317538,
       "name": "Locked out of Heaven - Paul Oakenfold Remix",
       "url": "https://open.spotify.com/track/03BpMAiFJ0b9c47Ntt8MRf"
@@ -7473,7 +7517,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 232410,
       "name": "Love Is the Name",
       "url": "https://open.spotify.com/track/0TWcbe0p1mkLcf2FZWq0bo"
@@ -7725,7 +7769,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 288946,
       "name": "Make the World Go Round (feat. R. Kelly)",
       "url": "https://open.spotify.com/track/7kWhUfgemScOEjLFNNcQoo"
@@ -7805,7 +7849,7 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 230192,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
@@ -8057,7 +8101,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 216097,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/6wS1Gy6As0gt7s8LAdb7E7"
@@ -8103,7 +8147,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 156493,
       "name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
       "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
@@ -8201,7 +8245,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 352654,
       "name": "My Boo (Running Man Challenge)",
       "url": "https://open.spotify.com/track/4Jhkq6I18Rm3a3coTIOUrQ"
@@ -8219,7 +8263,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 346840,
       "name": "My Boo - Hitman's Club Mix",
       "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
@@ -8537,7 +8581,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 201306,
       "name": "No Question (feat. MNEK & Ryan Ashley)",
       "url": "https://open.spotify.com/track/7AQbZRY9zEvayl1OdkzEV9"
@@ -8599,7 +8643,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 241164,
       "name": "Not so Dangerous",
       "url": "https://open.spotify.com/track/5l7B3iSi9yeQP1g26KhHgi"
@@ -8785,7 +8829,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 214431,
       "name": "P.Y.T. (Pretty Young Thing)",
       "url": "https://open.spotify.com/track/6rZjEUxUXGue4D70LJP7SH"
@@ -8839,7 +8883,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 277506,
       "name": "Part Time Lover",
       "url": "https://open.spotify.com/track/2K2wcAKqVD8b010s6wzdPq"
@@ -9076,6 +9120,32 @@
     },
     {
       "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        },
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284929,
+      "name": "Perfect Strangers - Jerome Price Remix",
+      "url": "https://open.spotify.com/track/3UWgsJLUV4tmIvy58p2ePc"
+    },
+    {
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -9141,7 +9211,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 233898,
       "name": "Play That Sax",
       "url": "https://open.spotify.com/track/34AUM3kk7eOBzTZUvpC9fR"
@@ -9443,7 +9513,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 204981,
       "name": "Risky Business",
       "url": "https://open.spotify.com/track/7FX5TlTPyonfo2R3TDIL6J"
@@ -10025,7 +10095,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -10931,7 +11001,7 @@
       ],
       "date_added": "2020-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 198186,
       "name": "Straight up & Down",
       "url": "https://open.spotify.com/track/2mrZYZGmPFV3QOyYPZ1zsn"
@@ -10953,7 +11023,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 202061,
       "name": "Strip That Down (feat. Quavo)",
       "url": "https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw"
@@ -10997,7 +11067,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 268039,
       "name": "Strut",
       "url": "https://open.spotify.com/track/4Dg6lJ6Gu0QqkxU7Jm7y1K"
@@ -11131,7 +11201,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 237480,
       "name": "Supergirl",
       "url": "https://open.spotify.com/track/1NsG7hqfculs9CCUxeZVwh"
@@ -11311,7 +11381,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 215993,
       "name": "Take a Picture",
       "url": "https://open.spotify.com/track/0F1XZtFBb0DuwfVjRnd9IA"
@@ -11541,7 +11611,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 234596,
       "name": "That's What I Like (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/1BEMASUZQDqN5UGxMb1m6A"
@@ -11607,7 +11677,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 206696,
       "name": "That's What I Like - PARTYNEXTDOOR Remix",
       "url": "https://open.spotify.com/track/64TkpV7m7f09JY7K436pju"
@@ -11723,7 +11793,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
@@ -12409,7 +12479,7 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 208278,
       "name": "Treasure - Cash Cash Radio Mix",
       "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
@@ -12445,7 +12515,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 221176,
       "name": "Treasure - Sharam Radio Remix",
       "url": "https://open.spotify.com/track/5k58Fbi1th2ITcaweRSbVq"
@@ -12613,7 +12683,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 241800,
       "name": "Twist",
       "url": "https://open.spotify.com/track/0QaQJMVaWtVLcoOyU95s86"
@@ -12767,7 +12837,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 233493,
       "name": "Uptown Funk (feat. Bruno Mars) - Radio Edit",
       "url": "https://open.spotify.com/track/65NgsMieGd6ffCTIYfEo7w"
@@ -12793,7 +12863,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 262271,
       "name": "Uptown Funk (feat. Bruno Mars) - Trinidad James Remix",
       "url": "https://open.spotify.com/track/6YhtdyvzbVL3mxrCdMtSxA"
@@ -12873,7 +12943,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 261240,
       "name": "Versace on the Floor",
       "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
@@ -13423,7 +13493,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "When the Girls Talk Boys",
       "url": "https://open.spotify.com/track/4M3k0XrM1KUgf7SvkBiZUL"

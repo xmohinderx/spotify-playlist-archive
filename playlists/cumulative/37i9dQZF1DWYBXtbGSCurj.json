@@ -633,12 +633,12 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
           "name": "Kawe",
           "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
           "name": "Ariel Donato",
@@ -2079,7 +2079,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 171367,
       "name": "HERM\u00c8S",
       "url": "https://open.spotify.com/track/65YQv0Ulsp2ZnL0Uv4l6Nu"
@@ -2765,6 +2765,36 @@
       "duration_ms": 147147,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/1juIY7kSDufbA15TkCfxUY"
+    },
+    {
+      "album": {
+        "name": "Mans\u00e3o da Nadamal",
+        "url": "https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Mans\u00e3o da Nadamal",
+      "url": "https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3"
     },
     {
       "album": {

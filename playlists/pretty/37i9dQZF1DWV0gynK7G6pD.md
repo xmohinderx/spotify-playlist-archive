@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Luke Howard
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,735 likes - 59 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,789 likes - 59 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 39 | [Different World](https://open.spotify.com/track/5y13qkUw0Rw4DXCXa7V1NS) | [Ilen](https://open.spotify.com/artist/7vJTq6yVCyGBExKuxIvmnJ) | [Different World](https://open.spotify.com/album/3Xq8aSdHgVLGGkxmWbuPl8) | 3:44 |
 | 40 | [Dandelion](https://open.spotify.com/track/65KofvKMxqTaio3ZeoOmke) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Dandelion](https://open.spotify.com/album/26zEYVYksErbfzIASJFG3N) | 2:26 |
 | 41 | [A Glorious Existence](https://open.spotify.com/track/2Iunr7jg2aCoUsXCsF5bVw) | [Adam Saunders](https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU), [Mark Stephen Cousins](https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF), [Otto Sieben](https://open.spotify.com/artist/3U18zYKxvYtTv2GVmAj4oY), [Mark Cousins](https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx), [London Studio Orchestra](https://open.spotify.com/artist/28UpzkWSVYnPGbRU4qIptX), [Pete Harrison](https://open.spotify.com/artist/7kpkaSDxFX51IIU72Cv9Tl), [Clio Gould](https://open.spotify.com/artist/2mHZjPXXDM0RR9cJq4EmgW), [Caroline Dale](https://open.spotify.com/artist/0QbOzRuy94fTThJovLeH8x) | [Contemporary Period Drama](https://open.spotify.com/album/43Fctu6Pkny6zkUK6SzKaT) | 2:07 |
-| 42 | [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/0rsPYNAfA3wa0SMiFrZRJT) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 |
+| 42 | [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 |
 | 43 | [Fantasia for 5 Viols, VdGS 3: No\. 10](https://open.spotify.com/track/45VYjsr9iksmVfBYzqgZSV) | [Thomas Lupo](https://open.spotify.com/artist/0PkzzQ6yFjHfUhTCKzV06y), [Fretwork](https://open.spotify.com/artist/4Ld6KhVOGRdto6GPGRdAhx) | [Fantasia for 5 Viols, VdGS 3: No\. 10](https://open.spotify.com/album/3Lt4f9x42X9liFruTgRQTy) | 3:37 |
 | 44 | [Piano Sonata in B Minor, S\. 178: I\. Lento assai](https://open.spotify.com/track/1NFgv5rFNgZV9P0dSlThav) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Michel Dalberto](https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ) | [Liszt: Once upon a time](https://open.spotify.com/album/3j49glMXHE4nO94mlpukTD) | 12:12 |
 | 45 | [Symphony No\. 25 in D\-Flat Major: II\. Moderato](https://open.spotify.com/track/099NBbSnI9qyyWEDwbSUhD) | [Nikolai Myaskovsky](https://open.spotify.com/artist/07yD267mZTiHoptqdYd5mc), [Bergische Symphoniker](https://open.spotify.com/artist/5A4lpSEF4XmmYOiA49oTo2), [Daniel Huppert](https://open.spotify.com/artist/1GqaaDFwS7SMt1EpxKkBCA) | [Symphony No\. 25 in D\-Flat Major, Op\. 69](https://open.spotify.com/album/5vpY7TevmuLRKqAc1A1Jgv) | 4:58 |

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-112 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+115 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,10 +72,12 @@
 | [Kryptonite](https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Pickin' On 3 Doors Down: A Bluegrass Tribute \- Down to This:](https://open.spotify.com/album/4j19jxzQmLk1Iqu8jLfbnt) | 3:45 | 2021-08-20 |  |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-08-20 | 2022-04-02 |
 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 | 2021-08-20 |  |
+| [Lord I Hope this Day is Good](https://open.spotify.com/track/4CTuygl7hPgqMBzBJVbVeF) | [Jr\. Williams](https://open.spotify.com/artist/7gbMaxGvHM6QoxQ4qAAolE) | [Lord I Hope this Day is Good](https://open.spotify.com/album/2pyRpAC7Hws68qo393hkp2) | 3:50 | 2022-04-29 |  |
 | [Loser](https://open.spotify.com/track/5okFkhRbWOSDWp3c15ouMB) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 4:19 | 2021-08-20 |  |
 | [Love Is The Seventh Wave](https://open.spotify.com/track/40gDRdKSnvuYSESfYOTLyH) | [The Duhks](https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY) | [The Duhks](https://open.spotify.com/album/67fL5oCCKrEMS7iMWh15m5) | 3:25 | 2021-08-20 | 2022-04-02 |
 | [Low](https://open.spotify.com/track/777LkVsyeIirHbJUjm2JHf) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 4:14 | 2021-08-20 |  |
 | [Lucy in the Sky With Diamonds](https://open.spotify.com/track/4LOf8epMgZYgYJrt1CesTp) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [In Good Company](https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr) | 1:18 | 2021-08-20 |  |
+| [Me & Bobby McGee](https://open.spotify.com/track/4h6O4vjM9uxRi7otTQbFOk) | [Mac Wiseman](https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly) | [Legends of Bluegrass \( 1971\)](https://open.spotify.com/album/1hTzont8ul4NJtSqup8m2w) | 3:18 | 2022-04-29 |  |
 | [More Heart, Less Attack](https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ned Luberecki](https://open.spotify.com/artist/7qg1UANHGQdwukeGN9YsRZ), [Dan Boner](https://open.spotify.com/artist/2rAHYozDbarVJA6GYEjJva), [Nate Lee](https://open.spotify.com/artist/76ivNMRvg7rGMKgtz9hYfG), [Daniel Hardin](https://open.spotify.com/artist/5CHholrccXiiujgTvZVUlJ) | [Distance and Time](https://open.spotify.com/album/797UYpfApMa598iaCNnSP5) | 4:08 | 2021-08-20 |  |
 | [My Love \(Live\)](https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw) | [Humming House](https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK) | [Humming House Party! \(Live\)](https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k) | 4:38 | 2021-08-20 |  |
 | [New Slang](https://open.spotify.com/track/2YcILFkmZHNi5qCqgP9F0R) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to The Shins](https://open.spotify.com/album/1Nl3ddmgHlbuFp1v7nCHIC) | 4:13 | 2021-08-20 |  |
@@ -92,6 +94,7 @@
 | [Shake It Off](https://open.spotify.com/track/2RJA3aJLOKR1Q7xBQKDmy4) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' On Taylor Swift, Vol\. 2](https://open.spotify.com/album/5daNt76eZrOrP994rm3byw) | 3:50 | 2021-08-20 |  |
 | [She's A Rainbow](https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:49 | 2021-08-20 |  |
 | [Single Ladies \(Put a Ring On It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 | 2021-08-20 |  |
+| [Slow Dancing in a Burning Room](https://open.spotify.com/track/5YafubHfFZDXSZUtCLGRVX) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:15 | 2022-04-29 |  |
 | [Somebody to Love](https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:42 | 2021-08-20 |  |
 | [Stairway to Heaven](https://open.spotify.com/track/2Fw3Heu6kvivVv4S3JOLs0) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/5FvEdQEFFSPk1BUPaWU6Nr) | 4:44 | 2021-08-20 |  |
 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 | 2021-08-20 |  |

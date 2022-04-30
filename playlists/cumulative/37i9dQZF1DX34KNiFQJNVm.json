@@ -5187,12 +5187,12 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
           "name": "Kawe",
           "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
           "name": "Ariel Donato",
@@ -7405,6 +7405,24 @@
       "duration_ms": 207397,
       "name": "Deixa Eu Relaxar",
       "url": "https://open.spotify.com/track/4HSeyQx2HQdcB7jHk4TWPl"
+    },
+    {
+      "album": {
+        "name": "Deixa Fluir",
+        "url": "https://open.spotify.com/album/7fi8S1MCJnu8LGBiXykWuG"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Deixa Fluir",
+      "url": "https://open.spotify.com/track/5Fi8I69UlwLESVi4WbYdsH"
     },
     {
       "album": {
@@ -12417,12 +12435,12 @@
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
           "name": "Almanac",
           "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         },
         {
           "name": "DJ Jonatas Felipe",
@@ -13983,16 +14001,16 @@
       },
       "artists": [
         {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        },
+        {
           "name": "Valesca Popozuda",
           "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
         },
         {
           "name": "DJ Will22",
           "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
         },
         {
           "name": "DJ 2F",
@@ -16300,6 +16318,36 @@
     },
     {
       "album": {
+        "name": "Mans\u00e3o da Nadamal",
+        "url": "https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Mans\u00e3o da Nadamal",
+      "url": "https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3"
+    },
+    {
+      "album": {
         "name": "Maquiagem",
         "url": "https://open.spotify.com/album/71MXUz5v4kxtg6TQBWLll9"
       },
@@ -17019,6 +17067,24 @@
       "duration_ms": 184001,
       "name": "Merecedor",
       "url": "https://open.spotify.com/track/4ZBLKpbK7wc0Xvqf5zZoUa"
+    },
+    {
+      "album": {
+        "name": "HoloForte",
+        "url": "https://open.spotify.com/album/5oeLKQXeD3LncbWTxodVpy"
+      },
+      "artists": [
+        {
+          "name": "Quebrada Queer",
+          "url": "https://open.spotify.com/artist/4IE6ncOiPoXKI9Ze7THZ2D"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281272,
+      "name": "Metralhada",
+      "url": "https://open.spotify.com/track/2B3JOJHbsPrvfWysRNMiIx"
     },
     {
       "album": {
@@ -24231,7 +24297,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 47088,
       "name": "S2",
       "url": "https://open.spotify.com/track/3rg977NzneilMptUTSIakF"
@@ -27384,6 +27450,32 @@
     },
     {
       "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/46onHWvbIkATKhSuIMDgEO"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Andinho Dj",
+          "url": "https://open.spotify.com/artist/2whEbvBXV8wrTAU9IKoUEM"
+        },
+        {
+          "name": "Thomaz",
+          "url": "https://open.spotify.com/artist/2Y9JJi5tsqEFAzr1NY9Mag"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/3ByQx79Fhy7TV6MP5HeG1L"
+    },
+    {
+      "album": {
         "name": "Tchuco Nela",
         "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
       },
@@ -27959,8 +28051,8 @@
           "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
         },
         {
-          "name": "Danny Synth\u00e9",
-          "url": "https://open.spotify.com/artist/01tGwo5qBKraXOP3sfzHUq"
+          "name": "Dany Synth\u00e9",
+          "url": "https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy"
         }
       ],
       "date_added": "2022-04-29",
@@ -31777,6 +31869,28 @@
       "duration_ms": 321708,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
+    },
+    {
+      "album": {
+        "name": "Zero Romance",
+        "url": "https://open.spotify.com/album/0p9fvM5Kgi1GFbxn944pMC"
+      },
+      "artists": [
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "DJ Leozinho MPC",
+          "url": "https://open.spotify.com/artist/32Prcybt5QzN86e4BbGzSx"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Zero Romance",
+      "url": "https://open.spotify.com/track/2luCFEO6JvQZNkuR4qS2Fe"
     },
     {
       "album": {

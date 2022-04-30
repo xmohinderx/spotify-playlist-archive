@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-558 songs - 1 day 6 hr 53 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+559 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6a1hzBiTkgqTsDA0Xgfh9z) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Merry Christmas](https://open.spotify.com/album/3w6QeihCf2l0zZMBLagxDj) | 2:23 | 2021-12-25 | 2021-12-27 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-11-30 | 2021-12-30 |
 | [Santé](https://open.spotify.com/track/3vXnuFnC5RhPGwsFi0ORcI) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Santé](https://open.spotify.com/album/5ZbmaYVO7Pg5TAGRQXleI5) | 3:10 | 2021-10-17 | 2022-03-06 |
-| [Santé](https://open.spotify.com/track/3Mcxi78U3lCjt8DMKa6YY4) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:11 | 2022-03-05 |  |
+| [Santé](https://open.spotify.com/track/3Mcxi78U3lCjt8DMKa6YY4) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:11 | 2022-03-05 | 2022-04-30 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-05-24 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-10-17 |
 | [Selfmade](https://open.spotify.com/track/64saFtV9LjBwcSnLfq5e45) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/0gl4XSxiZGyFP8gtar1FNA) | 2:42 | 2021-06-27 | 2021-07-01 |
@@ -554,6 +554,7 @@
 | [YOUVOI](https://open.spotify.com/track/1BhUyJoaS9iVvssrLx9oTD) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 2:51 | 2021-05-03 | 2021-05-07 |
 | [YSL](https://open.spotify.com/track/3u2dEwgpdqfAPgSXBpfgpY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:38 | 2021-12-05 | 2021-12-10 |
 | [Ze Meent Het](https://open.spotify.com/track/1UQFu4cgJDIcE7zoBPHwY4) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 3:02 | 2021-11-09 | 2022-03-06 |
+| [Zeit](https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 5:21 | 2022-04-30 |  |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-24 | 2021-09-14 |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-11-28 |
 | [Ο\. OG](https://open.spotify.com/track/63ALxy05IGeKrfOjvGG7lO) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 1:40 | 2021-04-30 | 2021-05-09 |

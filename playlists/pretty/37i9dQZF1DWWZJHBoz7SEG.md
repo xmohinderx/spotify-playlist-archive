@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Carla Morrison; Bizarrap y Paulo Londra; Justin Bieber y Don Toliver; Marca MP y Becky G; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,304 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,494 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

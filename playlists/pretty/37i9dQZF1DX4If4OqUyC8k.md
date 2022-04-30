@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 
 > Get in touch with nature with these songs about our environment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 546 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 29 | [Mother Earth \(Provides For Me\)](https://open.spotify.com/track/667PlSHuLhVyQ9mmWd8KGm) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Anthology](https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI) | 3:25 |
 | 30 | [The Rainforest](https://open.spotify.com/track/7mBERVrtotBdXmUrdDTiim) | [Tituss Burgess](https://open.spotify.com/artist/278a67UsMrPtjVfhFDNcwq) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 3:03 |
 | 31 | [You Oughta Be Savin' Water](https://open.spotify.com/track/1LvVTROucKghpT9PPVAr8x) | [Barry Carl](https://open.spotify.com/artist/5PHvmnOw3ONQYISKRUqgqZ), [Sean Altman](https://open.spotify.com/artist/09bSPvjJiuPaVf4RMynNSD), [Elliott Kerman](https://open.spotify.com/artist/3kVZF1cWEpN9Cyp8im4Hnc) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 3:03 |
-| 32 | [Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:34 |
+| 32 | [Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:34 |
 | 33 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 34 | [Don't Be a Carbon Sasquatch](https://open.spotify.com/track/5YB8i1a3o6pkO3TBdNjM1D) | [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 2:58 |
 | 35 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 |

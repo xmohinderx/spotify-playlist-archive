@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,325 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,341 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 43 | [Precious \- Cukak Remix](https://open.spotify.com/track/3LXgtPzLjoniEX4qvsOZ7i) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/4aJFVEWiAZXjn3csBJwdAf) | 3:05 |
 | 44 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/03NrWxeUbmZA6Aj2Z8ARHx) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 |
 | 45 | [Cơn Gió Ngang](https://open.spotify.com/track/5TTR3wseJewjFvIW1HKAX4) | [Tiez](https://open.spotify.com/artist/0Eg0IlHXO7ehEErVsi24xv), [Fay](https://open.spotify.com/artist/50c2TevFNnNUrQ69JahGRb) | [Cơn Gió Ngang](https://open.spotify.com/album/16fK9DR9KtB8OxTvtltNhT) | 3:48 |
-| 46 | [hát ca lala](https://open.spotify.com/track/06mV7KZmVdEYZbZTO8Baq9) | [crayons](https://open.spotify.com/artist/1epf8UtsphasV8DJsmkY6V) | [hát ca lala](https://open.spotify.com/album/17g3eudc2rWum0iURrVcWo) | 4:11 |
+| 46 | [hát ca lala](https://open.spotify.com/track/06mV7KZmVdEYZbZTO8Baq9) | [CRAYONS](https://open.spotify.com/artist/1epf8UtsphasV8DJsmkY6V) | [hát ca lala](https://open.spotify.com/album/17g3eudc2rWum0iURrVcWo) | 4:11 |
 | 47 | [Lying to myself](https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [sy](https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU) | [Lying to myself](https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N) | 2:56 |
 | 48 | [Forget Me Now](https://open.spotify.com/track/1H3YufOafybrq0l9U77aNn) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r), [Trí Dũng](https://open.spotify.com/artist/3vrLtReLclPLq5VvCAxCik) | [Forget Me Now](https://open.spotify.com/album/3EYIqs33aRHNmaOPB79ito) | 3:17 |
 | 49 | [Còn Nhiều Điều Chưa Nói](https://open.spotify.com/track/1DjjnmJNHyAeGgBLgOkQNm) | [Yang E](https://open.spotify.com/artist/2NjLqE71ijKZQUNpl9K9Xm), [Minh Gao](https://open.spotify.com/artist/2f1FBYqyZKn71Sxw9XIAbI), [GEN JI](https://open.spotify.com/artist/6V7FQsEghJubR2fGMEm0Kb), [Ha Luong](https://open.spotify.com/artist/4ilZcvTwe2ObiHNycwca1o) | [Còn Nhiều Điều Chưa Nói](https://open.spotify.com/album/0yHR1va1APaBk1CHK4hmP4) | 3:45 |

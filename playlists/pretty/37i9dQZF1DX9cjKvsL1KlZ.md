@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by Sidetalk, New York’s one\-minute street show
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,286 likes - 54 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,494 likes - 54 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

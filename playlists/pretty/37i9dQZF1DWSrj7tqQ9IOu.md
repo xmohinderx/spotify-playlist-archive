@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > 🐸 The best French indie tracks right now\. Cover: Miki
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,960 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,138 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 41 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 |
 | 42 | [Bye\-Bye Baby](https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt) | [PHILEMONE](https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4) | [Bye\-Bye Baby](https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD) | 2:57 |
 | 43 | [Dictators](https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Dictators](https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ) | 3:18 |
-| 44 | [Les questions](https://open.spotify.com/track/1GcLyTYF18YQi3fLuNYnwh) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Papa](https://open.spotify.com/artist/2g6PSk8MTCxDq8yo8yVGUt) | [Les questions](https://open.spotify.com/album/61cuBA0xeIlmfmiazm6nxZ) | 3:25 |
+| 44 | [Les questions \- feat\. Papa](https://open.spotify.com/track/1GcLyTYF18YQi3fLuNYnwh) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Les questions \(feat\. Papa\)](https://open.spotify.com/album/61cuBA0xeIlmfmiazm6nxZ) | 3:25 |
 | 45 | [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 |
 | 46 | [Toiles d'araignée](https://open.spotify.com/track/2ApBxa9rB2QrR6UTcj9Oo1) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj), [Camille Potte](https://open.spotify.com/artist/7qIpXe0TCeSJ8FHO25jgSj) | [Toiles d'araignée](https://open.spotify.com/album/12yuTpX2Ptq9bXaqtRm7fp) | 3:27 |
 | 47 | [Levitate](https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Levitate](https://open.spotify.com/album/701cjd2rHs91n8kog79dzm) | 3:00 |

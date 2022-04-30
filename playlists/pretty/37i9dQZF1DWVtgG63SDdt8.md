@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Tasha Layton
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,957 likes - 99 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,062 likes - 99 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 32 | [Provider](https://open.spotify.com/track/2kJivQySM1R2zyNfsLzdY7) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Provider](https://open.spotify.com/album/1yZYenlYj5zCqkCza8ZtIJ) | 3:15 |
 | 33 | [Hard Times \(feat\. Mali Music\)](https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Hard Times \(feat\. Mali Music\)](https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0) | 3:25 |
 | 34 | [Fomo](https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Fomo](https://open.spotify.com/album/6nxKmkJaErcYxUifCLY4Kv) | 2:30 |
-| 35 | [Man Cub](https://open.spotify.com/track/2Ur9ct9qaMhkrrTuDE1aUl) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Man Cub](https://open.spotify.com/album/7L1riuqW9sCauZkbfLYsiz) | 2:42 |
+| 35 | [Man Cub](https://open.spotify.com/track/2Ur9ct9qaMhkrrTuDE1aUl) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Man Cub](https://open.spotify.com/album/7L1riuqW9sCauZkbfLYsiz) | 2:42 |
 | 36 | [Stop](https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Stop](https://open.spotify.com/album/4OvPeGJUu03SZ6ocHlxs5W) | 2:42 |
 | 37 | [Spiritual Violence](https://open.spotify.com/track/1LhgxsjhWN17o46oOcepqd) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Spiritual Violence](https://open.spotify.com/album/0xEMJUvHEsjJ77KL7IAa9k) | 4:00 |
 | 38 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 |

@@ -4,7 +4,7 @@
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-320 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/7mc3X7u8Z1dkGe7eP6fDcg)
+321 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/7mc3X7u8Z1dkGe7eP6fDcg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [17.mai](https://open.spotify.com/track/1CKzgcXfVsQwfoWA8Ft048) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [17.mai](https://open.spotify.com/album/7rI1u5pjkUtKP7uNA4BTAo) | 2:41 | 2022-04-29 |  |
 | [20 Minutes](https://open.spotify.com/track/6HBgpseuFcM4dN61oixgt2) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(New Year's Edition\)](https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0) | 2:59 | 2022-01-21 | 2022-01-29 |
 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2022-02-11 | 2022-02-19 |
+| [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-04-29 |  |
 | [26](https://open.spotify.com/track/0du67LyuJeUjQChxl8rTa8) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [26](https://open.spotify.com/album/2pPSHoIampOxsEPMsah6RG) | 2:38 | 2022-01-28 | 2022-02-05 |
 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 | 2022-04-08 | 2022-04-16 |
 | [4U](https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [4U](https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684) | 2:29 | 2022-04-22 | 2022-04-29 |

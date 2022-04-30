@@ -2,7 +2,7 @@
 
 ### [Rock Hard](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> For those who like the newest songs loud\. Very loud\. Cover: Seether
+> For those who like the newest songs loud\. Very loud\. Cover: Shinedown
 
 282 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
@@ -79,7 +79,7 @@
 | [Death By a Thousand Cuts](https://open.spotify.com/track/5MbVHsjrMrLJkK2GUERvdi) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Death By a Thousand Cuts](https://open.spotify.com/album/15YN2gHkQDCrZzbTKgSms3) | 5:02 | 2021-09-03 |  |
 | [Decompress](https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:39 | 2022-03-18 |  |
 | [Definition \(ft\. Jason Aalon Of Fever 333\)](https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Mohawks & Durags](https://open.spotify.com/album/4w9TJ5AhaRLidoQQIqgCIt) | 2:56 | 2021-09-24 |  |
-| [Deliver Me](https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Deliver Me](https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN) | 3:46 | 2022-04-29 |  |
+| [Deliver Me](https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Deliver Me](https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN) | 3:46 | 2022-04-29 | 2022-04-30 |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2021-11-26 |  |
 | [Devil That You Know](https://open.spotify.com/track/5Gq2lezOCHN5rIqIlUkvJ7) | [NHC](https://open.spotify.com/artist/5NkZhEvaFqUeNVwXseoeS3) | [Devil That You Know / Lazy Eyes](https://open.spotify.com/album/6cpjKpQiWtvoDV4gWqARFb) | 3:15 | 2021-11-12 | 2022-01-22 |
 | [Die With Me](https://open.spotify.com/track/3isuMKUaFNJknycyjBJig2) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Die With Me](https://open.spotify.com/album/7ne0tB1p9UJL6phUW2tX3L) | 3:21 | 2021-08-20 |  |

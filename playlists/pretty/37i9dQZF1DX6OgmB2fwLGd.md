@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: Autumn!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,310 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,108 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 5 | [Late](https://open.spotify.com/track/2KfXUhCXsGW16I8OVgZFeJ) | [Cayo](https://open.spotify.com/artist/1MEkNy8o7kUgle1Yrru6MH) | [Late](https://open.spotify.com/album/5813hoFP1EHSFiTuI5PREu) | 1:48 |
 | 6 | [Gas Station](https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Gas Station](https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1) | 2:15 |
 | 7 | [trademark usa](https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:30 |
-| 8 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 |
-| 9 | [DO IT AGAIN](https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [DO IT AGAIN](https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX) | 2:10 |
-| 10 | [Solutions](https://open.spotify.com/track/17LtbDMKmsO5zTOqVAM27x) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Pray 4 Shakewell](https://open.spotify.com/album/5MvMCCP60gI97W1rcbwvhF) | 3:37 |
-| 11 | [Vroom](https://open.spotify.com/track/5DDNgyfLS1MgkWq1vnhObp) | [Li Heat](https://open.spotify.com/artist/4rpSDGfnMmQjgnMAEmhptD) | [Vroom](https://open.spotify.com/album/7p04wXOLc0yibGBs0H04Ml) | 2:01 |
-| 12 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
-| 13 | [agenda](https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS) | [cheRomani+](https://open.spotify.com/artist/3Epxz8oKEU4CkXp8Bxl2P3) | [agenda](https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl) | 1:39 |
-| 14 | [Wokeup](https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/1n9NQI2R10g4jQHmLdWKSl) | 1:55 |
-| 15 | [middle](https://open.spotify.com/track/2F8YuzhSMZHq1rKv3VgnRb) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [middle](https://open.spotify.com/album/1C8prJTb4QpG6J5Vjr9li6) | 2:22 |
-| 16 | [Dub](https://open.spotify.com/track/2Ocbja3GNcxq9Ualmmvfc1) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:33 |
-| 17 | [Substance](https://open.spotify.com/track/6uLimhxMmX7fjn2ZQ16WYk) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Substance](https://open.spotify.com/album/6njnxVS30tIury9eStFjCp) | 3:39 |
-| 18 | [I Feel Funny](https://open.spotify.com/track/2AVaz5BV1gTrjSZt0HZ8dV) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Feel Funny](https://open.spotify.com/album/06aEQhiev6dMRsPbSQ2cFC) | 1:15 |
+| 8 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 |
+| 9 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 |
+| 10 | [DO IT AGAIN](https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [DO IT AGAIN](https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX) | 2:10 |
+| 11 | [Solutions](https://open.spotify.com/track/17LtbDMKmsO5zTOqVAM27x) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Pray 4 Shakewell](https://open.spotify.com/album/5MvMCCP60gI97W1rcbwvhF) | 3:37 |
+| 12 | [Vroom](https://open.spotify.com/track/5DDNgyfLS1MgkWq1vnhObp) | [Li Heat](https://open.spotify.com/artist/4rpSDGfnMmQjgnMAEmhptD) | [Vroom](https://open.spotify.com/album/7p04wXOLc0yibGBs0H04Ml) | 2:01 |
+| 13 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
+| 14 | [agenda](https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS) | [cheRomani+](https://open.spotify.com/artist/3Epxz8oKEU4CkXp8Bxl2P3) | [agenda](https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl) | 1:39 |
+| 15 | [Wokeup](https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/1n9NQI2R10g4jQHmLdWKSl) | 1:55 |
+| 16 | [middle](https://open.spotify.com/track/2F8YuzhSMZHq1rKv3VgnRb) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [middle](https://open.spotify.com/album/1C8prJTb4QpG6J5Vjr9li6) | 2:22 |
+| 17 | [Dub](https://open.spotify.com/track/2Ocbja3GNcxq9Ualmmvfc1) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:33 |
+| 18 | [Substance](https://open.spotify.com/track/6uLimhxMmX7fjn2ZQ16WYk) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Substance](https://open.spotify.com/album/6njnxVS30tIury9eStFjCp) | 3:39 |
 | 19 | [WERKKK](https://open.spotify.com/track/708tKJhHcGSsYoxd5SBr7W) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [WERKKK](https://open.spotify.com/album/2ANxZEqymsAttB5oVSZBeQ) | 1:36 |
 | 20 | [MURDAMAN!](https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [MURDAMAN!](https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u) | 2:36 |
 | 21 | [No Big Deal](https://open.spotify.com/track/13onhP0FAk3dKOnjOhKXpq) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [No Big Deal](https://open.spotify.com/album/1In8f10K2NLMfNeEeSsFTb) | 1:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [IN THE MIDDLE](https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [IN THE MIDDLE](https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD) | 3:23 |
 | 100 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 |
 
-Snapshot ID: `MTY1MTIyMDIyMCwwMDAwMDMxMTAwMDAwMTgwNzQ2NTA4YzEwMDAwMDE4MDcxZjAyYTQ3`
+Snapshot ID: `MTY1MTI1OTcwMSwwMDAwMDMxMjAwMDAwMTgwNzZiZjdhNjYwMDAwMDE4MDcxZjAyYTQ3`

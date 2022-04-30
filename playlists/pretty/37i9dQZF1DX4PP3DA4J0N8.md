@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 
 > Sounds of birds, rain, and jungle ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,026 likes - 125 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,237 likes - 125 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

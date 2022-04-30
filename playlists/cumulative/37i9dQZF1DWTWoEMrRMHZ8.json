@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Rodrigo Alarcon",
+  "description": "As belas novidades da MPB. Foto: Bryan Behr",
   "name": "Divina MPB",
   "published_playlist_ids": [
     "01cf54AteUmLGb18bFZOzr"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 362520,
       "name": "A Rezadeira / Cita\u00e7\u00e3o: Relampiano",
       "url": "https://open.spotify.com/track/007sJHWSRsuNKIfzV6Nfrq"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 154732,
       "name": "Avenida da Paix\u00e3o",
       "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 208154,
       "name": "Chega Mais",
       "url": "https://open.spotify.com/track/2SQRsk99Nqc4zcIEEGQVP6"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 182481,
       "name": "Disk Me",
       "url": "https://open.spotify.com/track/5cHJa34QqU2zQaAIHgxHvC"
@@ -895,6 +895,24 @@
       "duration_ms": 289556,
       "name": "Ela",
       "url": "https://open.spotify.com/track/1rWS2zFGq3xhUEx0J43Cnu"
+    },
+    {
+      "album": {
+        "name": "Ela (Cita\u00e7\u00e3o a Menina Dan\u00e7a)",
+        "url": "https://open.spotify.com/album/3abE2EfOMcfyajW7knn8aR"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "Ela (Cita\u00e7\u00e3o a Menina Dan\u00e7a)",
+      "url": "https://open.spotify.com/track/6fJijNhTg47mEoRwEjb0oQ"
     },
     {
       "album": {
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 225937,
       "name": "Imploro",
       "url": "https://open.spotify.com/track/6ecOTGiXeKhZXhhi9vWFXo"
@@ -1480,6 +1498,28 @@
     },
     {
       "album": {
+        "name": "Lua e Sol",
+        "url": "https://open.spotify.com/album/0Jv7niaW346J542ad404LL"
+      },
+      "artists": [
+        {
+          "name": "Chico Lobo",
+          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
+        },
+        {
+          "name": "Tet\u00ea Esp\u00edndola",
+          "url": "https://open.spotify.com/artist/6cOiaEg6UzuxJPrMV4ceQM"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218445,
+      "name": "Lua e Sol",
+      "url": "https://open.spotify.com/track/3VWX6p8fx82o1AduNqgDGb"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas no Mar",
         "url": "https://open.spotify.com/album/24TrG94LGvDdWQjLP2SIFU"
       },
@@ -1583,7 +1623,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 261039,
       "name": "Masculino e Feminino",
       "url": "https://open.spotify.com/track/6VBHnaEuCH37LFsFjtdrTl"
@@ -1801,7 +1841,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 243667,
       "name": "Nossa Senhora de Copacabana",
       "url": "https://open.spotify.com/track/3gywWTV5XX0v26GVz1EzR6"
@@ -1863,6 +1903,24 @@
       "duration_ms": 283557,
       "name": "Nu Com a Minha M\u00fasica",
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+    },
+    {
+      "album": {
+        "name": "Todas as coisas do cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2q73QEdkpX3QOVeG3vLj8W"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241623,
+      "name": "n\u00e3o h\u00e1 voz que alcance",
+      "url": "https://open.spotify.com/track/1KFe4uS0OzHyMfSacZUgEI"
     },
     {
       "album": {
@@ -2045,7 +2103,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 243189,
       "name": "Paix\u00e3o",
       "url": "https://open.spotify.com/track/0a5h4bVwbVH2YbVuZ4pLM3"

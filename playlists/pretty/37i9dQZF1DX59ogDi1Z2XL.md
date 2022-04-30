@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: <br/>🕊 Houdini, NorthSideBenji
+> The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: 🕊 Houdini, NorthSideBenji
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,990 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,088 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Juice](https://open.spotify.com/track/7F0vG9Iygq00mmlzsDltM5) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Juice](https://open.spotify.com/album/3cHMUPKv4O5wkvonGQO24o) | 2:30 |
 | 100 | [Doin' It](https://open.spotify.com/track/1Vla6EwEtiy1gQEUez9izW) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY) | [Doin' It](https://open.spotify.com/album/3ku09aw5lnZ9U5hG7p1PQO) | 3:31 |
 
-Snapshot ID: `MTY1MTIzNjk4MSwwMDAwMDNhNTAwMDAwMTgwNzU2NGM5NDQwMDAwMDE4MDc1NWE2NmRi`
+Snapshot ID: `MTY1MTI2NzQ5OCwwMDAwMDNhNzAwMDAwMTgwNzczNjcwNzEwMDAwMDE4MDc1NWE2NmRi`

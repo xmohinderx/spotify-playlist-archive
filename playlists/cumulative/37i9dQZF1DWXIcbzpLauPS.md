@@ -4,7 +4,7 @@
 
 > This is the new core at its finest\. Cover: Bleed From Within
 
-232 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+233 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Second Circle](https://open.spotify.com/track/7xK4zeYArpNpd7U2AuclH7) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Second Circle](https://open.spotify.com/album/0zFSXVpqMcE7m4auGN2Bb6) | 3:33 | 2022-01-14 | 2022-04-29 |
 | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk) | 4:47 | 2022-04-29 |  |
 | [Serenity](https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk) | [Viscaya](https://open.spotify.com/artist/6DY7U02a4pR7XzB55SSQcE) | [Serenity](https://open.spotify.com/album/4LJwcXwtsxWjvCHJBypRvA) | 2:39 | 2021-12-17 | 2022-04-02 |
+| [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-04-29 |  |
 | [Shadow Walker](https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Shadow Walker](https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O) | 3:57 | 2022-02-11 | 2022-04-23 |
 | [Silence Broken](https://open.spotify.com/track/4HcBbO8UMWfUyIv3IBrzYm) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Silence Broken](https://open.spotify.com/album/4KEtxaz1yu7otXRzhwBPY6) | 3:56 | 2022-03-03 | 2022-04-23 |
 | [Skin](https://open.spotify.com/track/4i19NWcezW6rXnwBJLY94E) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. I: Love](https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7) | 3:37 | 2022-01-14 | 2022-04-23 |

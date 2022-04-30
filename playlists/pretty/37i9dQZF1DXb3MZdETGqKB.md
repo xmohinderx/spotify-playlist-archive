@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Fantastic Negrito
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,008 likes - 79 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,061 likes - 79 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

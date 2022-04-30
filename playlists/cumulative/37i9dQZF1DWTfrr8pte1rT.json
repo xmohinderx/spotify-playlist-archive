@@ -174,6 +174,28 @@
     },
     {
       "album": {
+        "name": "DICHOTOMY",
+        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "World's First Cinema",
+          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209411,
+      "name": "And I",
+      "url": "https://open.spotify.com/track/6yUY7waUwHiiso4JeBukur"
+    },
+    {
+      "album": {
         "name": "The Atlas Underground",
         "url": "https://open.spotify.com/album/1oNUnZUmjJNjuWoGmY4caC"
       },
@@ -579,7 +601,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 141195,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3h7nvdG9vOZPfMX0P7oKeZ"
@@ -723,7 +745,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 209454,
       "name": "Cruel Love (feat. shYbeast & FRANK ZUMMO)",
       "url": "https://open.spotify.com/track/1NTfEjAtESDdRX8H2a9uFh"
@@ -745,7 +767,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 171428,
       "name": "Crusade",
       "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf"
@@ -1371,7 +1393,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
@@ -1617,7 +1639,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
@@ -1701,7 +1723,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 219007,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/5XyP3oBFkJPOUpdsyNnkJD"
@@ -1727,7 +1749,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 193568,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk"
@@ -2085,7 +2107,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "MAKE BELIEVE",
       "url": "https://open.spotify.com/track/2E1K4gYnfHGsZLldIQzucF"
@@ -2213,7 +2235,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 167343,
       "name": "My Name Is Thunder",
       "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
@@ -2817,7 +2839,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 237203,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
@@ -2857,7 +2879,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 181666,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/11s8gbi7pqmvuREruilbJP"
@@ -3143,7 +3165,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 169285,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
@@ -3425,7 +3447,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "The Bottom (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/1s2xUbLU0bcNRWKK04X9NO"
@@ -3495,7 +3517,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 181646,
       "name": "The Real You",
       "url": "https://open.spotify.com/track/4XHTPl7nE6TO2XyUBMmluw"
@@ -3755,7 +3777,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 208062,
       "name": "Up In Flames (feat. Alex Gaskarth of All Time Low)",
       "url": "https://open.spotify.com/track/7hgE1K6lm7V4ULzlxMWPiF"
@@ -3829,7 +3851,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 218666,
       "name": "Wait",
       "url": "https://open.spotify.com/track/64pmOdBwsj6t3hMDlWpz42"
@@ -3891,7 +3913,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-30",
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"

@@ -4,7 +4,7 @@
 
 > The best recent metal tracks\. Cover: Slipknot
 
-67 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/60nXJ45agAFWh0gM8e58vr)
+68 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/60nXJ45agAFWh0gM8e58vr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Beast of Gévaudan](https://open.spotify.com/track/0jLyykA9QqdJbwgsVL9YVh) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Call of the Wild \(Deluxe Version\)](https://open.spotify.com/album/6JhuNA7potIMg6r29IVULP) | 3:31 | 2021-12-11 | 2022-04-05 |
 | [Black Hole](https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Black Hole](https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB) | 2:59 | 2022-02-17 |  |
 | [Blood & Water](https://open.spotify.com/track/0UBJWXKAZT0wsfruzUVYbY) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Somebody](https://open.spotify.com/album/6N4OzD2tICZHchjciqtOQs) | 3:50 | 2021-12-11 |  |
-| [Blood Moon](https://open.spotify.com/track/1e6vaSlam2MX9jsp4Rzzhe) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Bloodmoon: I](https://open.spotify.com/album/4rEDzWnp2RoNzSx8DjO7gY) | 7:50 | 2022-01-07 |  |
+| [Blood Moon](https://open.spotify.com/track/1e6vaSlam2MX9jsp4Rzzhe) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Bloodmoon: I](https://open.spotify.com/album/4rEDzWnp2RoNzSx8DjO7gY) | 7:50 | 2022-01-07 | 2022-04-30 |
 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2021-12-11 |  |
 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 | 2021-12-11 |  |
 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 | 2022-04-04 |  |
@@ -74,6 +74,7 @@
 | [Wait A Minute My Girl](https://open.spotify.com/track/3klr703oglZwVMiugDTDm7) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Wait A Minute My Girl / Dagen Før](https://open.spotify.com/album/1u6LJwzliFnMSe5tobgD4O) | 2:20 | 2021-12-11 | 2022-01-08 |
 | [Warrior](https://open.spotify.com/track/4EllS6NXwCOggtnnBqByNd) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 2:45 | 2022-02-24 |  |
 | [Warrior \(feat\. Travis Barker\)](https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior / Underrated](https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4) | 2:45 | 2021-12-11 | 2022-01-28 |
+| [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-04-29 |  |
 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-13 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.
